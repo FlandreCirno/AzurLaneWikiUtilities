@@ -28,7 +28,7 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run Scripts
       run: |
-        python Inititalize.py
+        python Initialize.py
         python ShipIndex.py
         python Memory.py
     - name: Commit and Push
