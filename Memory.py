@@ -249,7 +249,7 @@ def wikiGenerate():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories/', group['title'].replace(':', '') + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', group['title'].replace(':', '') + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
 
 if __name__ == "__main__":

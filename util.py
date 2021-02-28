@@ -2,9 +2,9 @@
 import re, os, json
 from slpp import slpp
 
-DataDirectory = r'AzurLaneData\zh-CN'
-JsonDirectory = r'json'
-WikiDirectory = r'Wiki'
+DataDirectory = os.path.join('AzurLaneData', 'zh-CN')
+JsonDirectory = 'json'
+WikiDirectory = 'Wiki'
 
 def parseDataFile(fileName, filePath = r'sharecfg', mode = 0):
     if mode == 0:
