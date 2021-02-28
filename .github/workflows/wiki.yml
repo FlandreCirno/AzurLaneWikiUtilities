@@ -1,6 +1,9 @@
-name: Python package
+name: Wiki Utilities
 
 on:
+  schedule:
+  - cron:  '0 */6 * * *'
+  
   push:
 
 jobs:
@@ -25,10 +28,12 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run Scripts
       run: |
-        python Test.py
+        python Inititalize.py
+        python ShipIndex.py
+        python Memory.py
     - name: Commit and Push
       uses: EndBug/add-and-commit@v7
       with:
-        message: 'Test commit'
-        add: 'Test.txt'
+        message: 'Automatic Update'
+        add: '-A'
       
