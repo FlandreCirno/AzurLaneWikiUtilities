@@ -59,7 +59,8 @@ def getNameCode():
     return output
     
 def getShipSkinTemplate():
-    return util.parseDataFile('ship_skin_template', filePath = r'sharecfg\ship_skin_template_sublist', mode = 1)
+    return util.parseDataFile('ship_skin_template',
+    filePath = os.path.join('sharecfg', 'ship_skin_template_sublist'), mode = 1)
 
 def getShipName(skinID, skinTemplate, shipStatistics, shipTemplate):
     shipGroup = skinTemplate[skinID]['ship_group']
