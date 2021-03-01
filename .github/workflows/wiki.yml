@@ -20,10 +20,7 @@ jobs:
     - name: Update submodules
       run: |
         git submodule foreach git pull origin master
-        git submodule 
-    - uses: actions/checkout@v2
-      with:
-        submodules: recursive
+        git submodule update --init --recursive
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
       with:
