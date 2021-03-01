@@ -85,7 +85,7 @@
 <span style="color:#a9f548;">彼得·史特拉塞：</span><br>
 啊？嗯，嗯…稍等片刻，我记得F区的控制台路径是在……完成。<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
-哦~~~~！出现了，大量浮标出现了！<br>
+哦<nowiki>~~~~</nowiki>！出现了，大量浮标出现了！<br>
 <span style="color:#a9f548;">彼得·史特拉塞：</span><br>
 ……有必要每次都这么惊讶么，训练了这么久早就应该习惯了吧。<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
@@ -305,7 +305,7 @@ P级装甲舰海因里希，全弹发射————哇，好痛！<br>
 ……………………<br>
 好了，已经比预定进度晚了十五分钟，闲聊就留到演习结束之后。下一个目标是残存的“皇家舰队”，准备出击！<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
-是~~~~~！<br>
+是<nowiki>~~~~</nowiki>~！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=担忧|选项=9|主框=1|样式=primary|展开=否}}
@@ -348,42 +348,42 @@ P级装甲舰海因里希，全弹发射————哇，好痛！<br>
 
 {{折叠面板|标题=探路人|选项=10|主框=1|样式=primary|展开=否}}
 帕克菲克洋·？？？<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 提问，在海面上突然遭遇浓密的海雾之后，你们想到的第一件事是什么？<br>
-<span style="color:#a9f548;">山城：</span><br>
+<span style="color:#a9f548;">{{AF|山城}}：</span><br>
 遮蔽环境的迷雾…视野受到极大限制…是迷航！<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 迷雾之中，通常隐藏着未知，恐怖与危险……<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
-翔鹤姐，你是想说塞壬对吧……同感。<br>
-<span style="color:#a9f548;">山城：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+{{AF|翔鹤}}姐，你是想说塞壬对吧……同感。<br>
+<span style="color:#a9f548;">{{AF|山城}}：</span><br>
 哎？！！会有塞壬冒出来么！<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 直接遇到塞壬，或者因为塞壬生成的海雾而迷航，总归会出现这两种情况之中的一个吧……<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 至少要尽力避免迷航的情况……我们的航线怎么样，没有发生偏离吧？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 在离开本岛之后舰队一直严格按照作战计划给定的航线前进，直到海雾出现前应该没有发生偏差才对。<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 你们不觉得奇怪么？同样是去NA海域，为什么前·辈们的舰队可以走更近的苏彝士运河，而我们非得从阿非利加下面绕一大圈啊~<br>
 不会是她们害怕战功被我们抢掉，所以故意让我们走远路吧？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 前辈倒也不至于会做到这种地步啦，姐姐……而且为了保证两支舰队同时抵达，我们舰队不是比她们更先出发了么。<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 这倒也是……那也许她们只是单纯想让我们跑一个大圈，顺便替她们侦察一下沿途的危险？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 ………………………………………<br>
 如果前辈们是这个打算的话，那算她们走运……我们大概真撞到镜面海域里了。<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 这是……………<br>
-<span style="color:#a9f548;">山城：</span><br>
+<span style="color:#a9f548;">{{AF|山城}}：</span><br>
 不会吧，竟、竟然真的遇到了……言灵、这是难道就是言灵么！<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 等到了NA海域之后，一定要好好找前·辈们要点谢礼了，呵呵~<br>
 轰————————！<br>
-<span style="color:#a9f548;">金刚：</span><br>
-哼，以为遭遇突发情况就会让我大意么！瑞鹤，附近有塞壬舰队埋伏，看来是想趁我们还没摸清情况的时候来次突然袭击！<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
+哼，以为遭遇突发情况就会让我大意么！{{AF|瑞鹤}}，附近有塞壬舰队埋伏，看来是想趁我们还没摸清情况的时候来次突然袭击！<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 果然是早有准备……大家提高警惕，准备战斗！<br>
 {{折叠面板|内容结束}}
 
@@ -421,7 +421,7 @@ Z46、威悉、海因里希……很好，人都到齐了。那么五分钟后�
 <span style="color:#a9f548;">彼得·史特拉塞：</span><br>
 ……你偶尔也多学点战略战术怎么样？<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
-什~~~么~~~~风太大了，听不见！<br>
+什~~~么<nowiki>~~~~</nowiki>风太大了，听不见！<br>
 <span style="color:#a9f548;">威悉：</span><br>
 呵呵，还是老样子又冲出去了……彼得？<br>
 <span style="color:#a9f548;">彼得·史特拉塞：</span><br>
@@ -431,9 +431,9 @@ Z46、威悉、海因里希……很好，人都到齐了。那么五分钟后�
 {{折叠面板|标题=不受控|选项=12|主框=1|样式=primary|展开=否}}
 轰————————！<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
-“重樱”航空舰队旗舰赤城号被我击沉了哦·~！<br>
+“重樱”航空舰队旗舰{{AF|赤城}}号被我击沉了哦·~！<br>
 <span style="color:#a9f548;">Z46：</span><br>
-“重樱”水雷舰队旗舰神通，确认击沉。<br>
+“重樱”水雷舰队旗舰{{AF|神通}}，确认击沉。<br>
 <span style="color:#a9f548;">威悉：</span><br>
 战场结果确认，“重樱舰队”已被击溃。看来作战进展顺利呢，立刻向下一区域移动么，彼得？<br>
 <span style="color:#a9f548;">彼得·史特拉塞：</span><br>
@@ -493,36 +493,36 @@ Z46、威悉、海因里希……很好，人都到齐了。那么五分钟后�
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=转向|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">翔鹤：</span><br>
-瑞鹤，这些棋子的飞机稍微有点难缠……！战斗力不错，组织也很严密……总之我继续尝试打乱它们的阵型！<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
-不要勉强，翔鹤姐！舰载机数量上我们有优势，分割之后多打少消灭它们！<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
-正在努力中……瑞鹤，我们不会遇到的是真正的铁血舰队吧……？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
+{{AF|瑞鹤}}，这些棋子的飞机稍微有点难缠……！战斗力不错，组织也很严密……总之我继续尝试打乱它们的阵型！<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+不要勉强，{{AF|翔鹤}}姐！舰载机数量上我们有优势，分割之后多打少消灭它们！<br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
+正在努力中……{{AF|瑞鹤}}，我们不会遇到的是真正的铁血舰队吧……？<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 绝对不可能……铁血舰队里有战斗力的航空母舰只有齐柏林伯爵一艘，而且一直部署在欧罗巴大陆，怎么会跑到这里来。<br>
 况且现在对面机群数量也不是齐柏林一艘航母能放出来的。从位置和数量上都和真正的铁血舰队对不上。<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 这么说来又是一处“圣域”么……正常作为战斗消耗品的棋子可没有这种程度战斗能力……<br>
-<span style="color:#a9f548;">金刚：</span><br>
-翔鹤，瑞鹤也许我们遇到的不止塞壬舰队这么简单的问题……我们真的还在预定航线上么？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
+{{AF|翔鹤}}，{{AF|瑞鹤}}也许我们遇到的不止塞壬舰队这么简单的问题……我们真的还在预定航线上么？<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 暂时无法判断，我们在迷雾中绕了一圈之后又进入气候异常的镜面海域，暂时无法确定当前的准确位置。<br>
 不过应该不会偏离太远才对，你有什么发现么？<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 嗯……周边的海域给我一种很陌生的感觉。虽然镜面海域本身会干扰判断，但是周边陆续出现的小岛……这绝对不是我当时从欧罗巴返回重樱的航线……<br>
-<span style="color:#a9f548;">山城：</span><br>
+<span style="color:#a9f548;">{{AF|山城}}：</span><br>
 呜……居然迷航和遭遇塞壬二者全中了么……！<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 综合现有信息，我们也许大幅偏离航线进入了某处塞壬严格守卫的实验场。在补给有限敌情不明的情况下，我建议进行避战，尽快撤离。<br>
 我们还要前往NA海域执行后续作战，如果在这里遭受过大损失，或者消耗过多补给以至于到了必须返回本岛的地步，势必会对NA海域作战造成影响。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
-嗯……你说得没错，这里是塞壬主场，不适合跟它们硬拼。翔鹤姐，我负责把敌机群引开，你趁机寻找一下离开的航线。<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+嗯……你说得没错，这里是塞壬主场，不适合跟它们硬拼。{{AF|翔鹤}}姐，我负责把敌机群引开，你趁机寻找一下离开的航线。<br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 重点留意一下岛屿的方位和标志性地理环境，我们需要尽快确定当前所处的方位。<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 没问题，放心交给我吧~！<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 前锋舰队取消侦察任务立即返回，舰队调整航向，做好撤离准备！<br>
 {{折叠面板|内容结束}}
 
@@ -776,21 +776,21 @@ Z46、威悉、海因里希……很好，人都到齐了。那么五分钟后�
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=撒网|选项=22|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">瑞鹤：</span><br>
-呼叫呼叫，这里是瑞鹤！额…这个通讯器是这么用的吧……你能听到么，欧根亲王？<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+呼叫呼叫，这里是{{AF|瑞鹤}}！额…这个通讯器是这么用的吧……你能听到么，欧根亲王？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 这里是欧根，听得很清楚哦~请就这样继续使用我带来的特制通讯器进行后续联络。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
-瑞鹤了解。重樱舰队现在已经抵达指定区域，你那个设备真的很神奇啊！我们居然在自己的雷达上发现不了自己的身影了…<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+{{AF|瑞鹤}}了解。重樱舰队现在已经抵达指定区域，你那个设备真的很神奇啊！我们居然在自己的雷达上发现不了自己的身影了…<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 这可是铁血科技的结晶，做到这种程度是理所当然的哦~再次感谢你们愿意参与这场情况混乱的突发作战。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 作为盟友这种程度的帮助是理所应当的~不过作为回报…你的这些机械可以让我们带回去么？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 啊哈哈，通讯装置倒是无所谓，不过那个被带走的话我就麻烦了，请允许我郑重拒绝。<br>
 不过等行动结束之后，铁血一定会为你们准备应得的谢礼的。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
-那我们就稍微期待一下咯~瑞鹤通讯结束。<br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+那我们就稍微期待一下咯~{{AF|瑞鹤}}通讯结束。<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 很好…重樱舰队部署完毕，其他部分也应该差不多了……<br>
 <span style="color:#a9f548;">U-37：</span><br>
@@ -979,46 +979,46 @@ D11至13防御模块主要用于辅助演习任务，如果不是海域内部出
 呵呵，那第一线就拜托你了~我们会掩护你的，尽情战斗吧。<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
 小铁快加速，别让敌人跑掉了，我们冲哦哦哦哦哦哦~！！！！！<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 没想到你们居然隐藏了这么一支王牌舰队……你这么爽快就把头功让出去没关系么？<br>
 就连作战指挥权都……在铁血里的职位应该是你比较高吧。<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 无妨无妨~史特拉塞才是此处基地的舰队总指挥，在这里的战斗自然要听她的。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 这就是铁血的纪律的感觉么……真好啊，重樱如果在作战的事上也能做到这么简单明晰就好了……<br>
 欧罗巴那边的其他阵营也是这样的感觉么？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
-这个嘛，只能说各自有各自的风格吧。对吧金刚，你之前不是在皇家呆过一阵子么？<br>
-<span style="color:#a9f548;">金刚：</span><br>
+这个嘛，只能说各自有各自的风格吧。对吧{{AF|金刚}}，你之前不是在皇家呆过一阵子么？<br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 皇家那边……那边其实有些地方和重樱这边的感觉差不多……<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 对吧？大家其实各自有独特的优势，也有各自的问题，我们应该相互取长补短，而不是憧憬什么哦。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 哈哈，说的也是~<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 现在说起来也许有些早，战斗结束之后我会开放基地的后勤浮岛给你们，重樱舰队可以在此自由进行补给。<br>
 除了战斗中消耗的份，把来这里路上消耗的份也一起补充了吧~<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 十分慷慨地提议，非常感谢。<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 本来机会难得，其实还想多留你们几天一起参观一下的，不过看起来你们应该很赶时间？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 确实如此……击破塞壬之后我们会在补给之后立刻离开。有作战任务在身无法久留，十分抱歉。<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 完全理解。不过就像之前说的那样，特制通讯设备就当成送给你们的礼物，干扰设备请留下来哦。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 没问题………<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 呵呵，消沉都写在脸上了。那就当做额外赠送部分，再送你们一句忠告好了。<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 忠告……？请说。<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
-听好了，“不论它们进行了什么许诺，绝对不要让赤城带着那东西进入NA海域的中心旋涡。”<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
-请问……那个东西是……赤城进去之后会发生什么么？<br>
+听好了，“不论它们进行了什么许诺，绝对不要让{{AF|赤城}}带着那东西进入NA海域的中心旋涡。”<br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
+请问……那个东西是……{{AF|赤城}}进去之后会发生什么么？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 很遗憾，我能说的与我知道的只有这么多了。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 这样啊……来自盟友的忠告，我们会谨记的！<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 很好。那么闲聊环节到此结束，我们还有一个构建者要处理呢~<br>
@@ -1099,21 +1099,21 @@ goujianzhe……？怎么看都是海蟑螂嘛！<br>
 <span style="color:#ff5c5c;">构建者：</span><br>
 外层护盾回收完毕。内层护盾，启动——————<br>
 <span style="color:#a9f548;">海因里希亲王：</span><br>
-这是作弊了吧~~~~！！！！大家注意，海蟑螂的护盾重新出现了！！！！！<br>
+这是作弊了吧<nowiki>~~~~</nowiki>！！！！大家注意，海蟑螂的护盾重新出现了！！！！！<br>
 <span style="color:#a9f548;">Z24：</span><br>
 这股力量是…………<br>
 <span style="color:#a9f548;">纽伦堡：</span><br>
 刚刚的战斗造成的损伤都完全无效的意思么，怎么会这样……！<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 诸位铁血和撒丁帝国的盟友们，看来你们需要一点小小的帮助呢。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 现在放弃还太早了！继续保持包围，这一轮护盾由我们来打破！姐姐，准备好了么？<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 呵呵，早就已经进入目标上空瞄准好了哦，本来不想抢走诸位的战功，不过看上去不是能保留实力的情况了。<br>
-<span style="color:#a9f548;">山城：</span><br>
+<span style="color:#a9f548;">{{AF|山城}}：</span><br>
 我也准备好了……大家一起上！<br>
 轰————————！<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 护盾的最后一击，就由我收下了！<br>
 <span style="color:#ff5c5c;">构建者：</span><br>
 ………………<br>
@@ -1232,43 +1232,43 @@ U37收到，嘿嘿，水下的战斗就交给我吧~！<br>
 
 {{折叠面板|标题=战斗中发生的事|选项=34|主框=1|样式=primary|展开=否}}
 铁血浮岛要塞群·某处 数日前 <br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 大家注意，发现一艘铁血舰船正在接近！<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 海域中的棋子么，居然那个方向也有……真是紧追不舍啊，准备战斗！<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 哎，大家稍等。姐姐，目标的样子好像有点奇怪！<br>
 我记得你是………………<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 在下铁血所属重巡洋舰，欧根亲王。自从上次华丽的祭典上相遇之后，没想到又能在这里相遇啊~<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 ……没想到在这里还能遇到真货。你是在这里干什么的，这里是塞壬控制区吧？<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 既然是友军的话，就先按照惯例发联络来呀，差点就把你当棋子攻击了……<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 我已经发了哦，不过你们没有收到吧。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
-哎？！我完全没收到……现在进行通讯测试，喂喂，翔鹤姐，能听得到么？<br>
-<span style="color:#a9f548;">翔鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
+哎？！我完全没收到……现在进行通讯测试，喂喂，{{AF|翔鹤}}姐，能听得到么？<br>
+<span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 没问题，听得很清楚。看来不是我们的通讯器故障哦？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 真的是这样么~那你们来呼叫我试试呢？<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 正在呼叫中………………咦，你那里没有反应？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 正是如此，我们所有人在进入这片区域后都遭受了某种极其精密的电子干扰。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 无法和海域中遭遇到的其他舰船通讯，这种情况还是第一次见。源头是塞壬镜面海域的某种设施么？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 这个说起来有些复杂……不过这里其实是铁血控制区。<br>
-<span style="color:#a9f548;">金刚：</span><br>
+<span style="color:#a9f548;">{{AF|金刚}}：</span><br>
 位于帕克菲克洋的铁血控制区……看来刚刚看到的火山没有错，没想到只是进入了海雾一会儿，居然偏离了这么多……<br>
 这里不是早就被塞壬占领了么，你们是什么时候夺回来的？<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 这又是个不适合在此处详细说明的复杂故事啊……<br>
 等等，你说你们来到这里是因为遭遇到了海雾……？<br>
 啊，原来如此………呵呵呵。这样一来我就都明白了。<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#a9f548;">{{AF|瑞鹤}}：</span><br>
 从刚刚开始就一直在说谜语……什么说不清楚，你又明白什么了啊，请认真解释一下，欧根亲王！<br>
 <span style="color:#a9f548;">欧根亲王：</span><br>
 放心放心，我一定会解释清楚的，不要着急嘛~<br>

@@ -494,7 +494,7 @@ OK~看我把它们全部收拾掉！<br>
 （……还想着这次终于能帅气的大显身手了呢）<br>
 （为什么，我总是这么倒霉啊………）<br>
 <span style="color:#a9f548;">蓝鳃鱼：</span><br>
-哎？！喂~~~喂~~~~！？前方正在游泳的是无畏么？！<br>
+哎？！喂~~~喂<nowiki>~~~~</nowiki>！？前方正在游泳的是无畏么？！<br>
 <span style="color:#a9f548;">无畏：</span><br>
 （……？！出去侦察的蓝鳃鱼居然在这个时候赶回来了么，千钧一发啊！）<br>
 快点…咕噜咕噜…救我上去…！<br>
@@ -549,24 +549,24 @@ OK~看我把它们全部收拾掉！<br>
 简直像记录里的碧蓝航线成立大会一样。大家上一次这么聚在一起，是多久之前了呢……<br>
 <span style="color:#ffa500;">皇家方舟：</span><br>
 噢？！重樱的各位也来了……只有你们到了么？<br>
-<span style="color:#ffa500;">高雄：</span><br>
-目前为止，是的…赤城她们在路上发生了点意外，等解决之后应该就会赶来和我们汇合了。<br>
-<span style="color:#ffa500;">飞龙：</span><br>
+<span style="color:#ffa500;">{{AF|高雄}}：</span><br>
+目前为止，是的…{{AF|赤城}}她们在路上发生了点意外，等解决之后应该就会赶来和我们汇合了。<br>
+<span style="color:#ffa500;">{{AF|飞龙}}：</span><br>
 你们皇家的伊丽莎白也没来么…唉，看来现在各家情况都很惨啊。<br>
 <span style="color:#ffa500;">皇家方舟：</span><br>
 ………伊丽莎白陛下那边暂时无法脱身，我们还在努力中…<br>
 哎，大家打起精神来，现在不是还有企业在这儿嘛！今后的事肯定都会好起来啦~<br>
-<span style="color:#ffa500;">高雄：</span><br>
+<span style="color:#ffa500;">{{AF|高雄}}：</span><br>
 希望如此吧…该谈正事了。企业，组织的名字你想好了么？<br>
 <span style="color:#a9f548;">企业：</span><br>
 ……名字？<br>
-<span style="color:#ffa500;">高雄：</span><br>
+<span style="color:#ffa500;">{{AF|高雄}}：</span><br>
 “火炬”啊…黑暗中的一丝光明，照亮前进的道路。不错，我喜欢。<br>
-<span style="color:#ffa500;">飞龙：</span><br>
+<span style="color:#ffa500;">{{AF|飞龙}}：</span><br>
 我们真的要和那群家伙合作么…？“它们”原本是作为我们的替代品被制造出来的吧。<br>
 <span style="color:#a9f548;">企业：</span><br>
 ？！！“它们”难道是！<br>
-<span style="color:#ffa500;">高雄：</span><br>
+<span style="color:#ffa500;">{{AF|高雄}}：</span><br>
 原来是这样……如果是这个理由的话…就看看它们的表现吧。<br>
 <span style="color:#a9f548;">企业：</span><br>
 喂！到底是怎么回事，你们打算做什么？！<br>
@@ -648,7 +648,7 @@ OK~看我把它们全部收拾掉！<br>
 等再次回过神来的时候…<br>
 <span style="color:#a9f548;">蓝鳃鱼：</span><br>
 疼疼疼…塞壬舰队怎么不见了…这是在哪儿啊…<br>
-哎？！喂~~~喂~~~~！？前方正在游泳的是无畏么？！<br>
+哎？！喂~~~喂<nowiki>~~~~</nowiki>！？前方正在游泳的是无畏么？！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=为英雄应援|选项=21|主框=1|样式=primary|展开=否}}

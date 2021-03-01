@@ -69,10 +69,10 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=铅色的追忆·四|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">凤翔：</span><br>
+<span style="color:#ff0000;">{{AF|凤翔}}：</span><br>
 难得有这么好的机会，天时、地利、人和……<br>
 就让我再测试一下你们的反应吧呵呵呵~<br>
-<span style="color:#ff0000;">加贺：</span><br>
+<span style="color:#ff0000;">{{AF|加贺}}：</span><br>
 ………<br>
 {{折叠面板|内容结束}}
 
@@ -118,11 +118,11 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=铅色的追忆·六|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">加贺：</span><br>
+<span style="color:#ff0000;">{{AF|加贺}}：</span><br>
 ………<br>
 <span style="color:#a9f548;">宁海：</span><br>
 居然是来自一航战的精锐航空队，重樱派出你们的目的到底是什么？<br>
-<span style="color:#ff0000;">加贺：</span><br>
+<span style="color:#ff0000;">{{AF|加贺}}：</span><br>
 ………<br>
 <span style="color:#a9f548;">宁海：</span><br>
 可恶，这是装作听不到么，平海，这一次，不要放过一架飞机！<br>
@@ -135,7 +135,7 @@
 终究是些劣质的仿制品么，居然连尚未觉醒的几个小家伙都不是对手。<br>
 <span style="color:#ff0000;">观察者：</span><br>
 没关系，棋子要多少有多少，相较起来，更重要的是时机~<br>
-<span style="color:#ff0000;">凤翔：</span><br>
+<span style="color:#ff0000;">{{AF|凤翔}}：</span><br>
 接下来，我就以这个形态去刺激刺激她们吧~<br>
 {{折叠面板|内容结束}}
 

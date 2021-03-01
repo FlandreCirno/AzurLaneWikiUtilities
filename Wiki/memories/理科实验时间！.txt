@@ -6,10 +6,10 @@
 一　某日的午后<br>
 这是一个天气晴朗，再平静不过的港区午后——<br>
 <span style="color:#a9f548;">Z23：</span><br>
-好！午休结束，下午的课程就要开始了，拉菲、绫波、标枪，走吧！<br>
+好！午休结束，下午的课程就要开始了，拉菲、{{AF|绫波}}、标枪，走吧！<br>
 <span style="color:#a9f548;">拉菲：</span><br>
 Zzzzz…<br>
-<span style="color:#a9f548;">绫波：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 …再五分钟就好，的说<br>
 <span style="color:#a9f548;">标枪：</span><br>
 唔～这种天气不多睡会午觉太可惜了啦～<br>
@@ -21,7 +21,7 @@ Zzzzz…<br>
 唔…！？<br>
 <span style="color:#a9f548;">Z23：</span><br>
 爆、爆炸…？！<br>
-<span style="color:#a9f548;">绫波：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 敌袭…？<br>
 <span style="color:#a9f548;">标枪：</span><br>
 应该不可能吧…声音好像是从战术教室那边传来的<br>
@@ -43,7 +43,7 @@ Zzzzz…<br>
 <span style="color:#a9f548;">U-73：</span><br>
 咳咳咳…啊哈哈哈，失败了呢…<br>
 不过，失败乃是成功之母，下一次一定会成功的！嗯嗯！<br>
-<span style="color:#a9f548;">绫波：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 那是…<br>
 <span style="color:#a9f548;">拉菲：</span><br>
 Z23的同伴…？<br>
@@ -53,7 +53,7 @@ Z23的同伴…？<br>
 噢，是Z23呀，还有你们，呀吼，中午有好好休息了吗？准备好应付下午的课程了吗～？<br>
 <span style="color:#a9f548;">拉菲：</span><br>
 要不是Z23和奇怪的声响，还能睡得更好…<br>
-<span style="color:#a9f548;">绫波：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 …还有点困，的说<br>
 <span style="color:#a9f548;">Z23：</span><br>
 诶？！是我的错吗！？<br>
@@ -86,7 +86,7 @@ Z23的同伴…？<br>
 哎呀，不要在意这种小细节嘛！<br>
 <span style="color:#a9f548;">拉菲：</span><br>
 不过…鱼雷糖果…好像也不错…很美味的样子…<br>
-<span style="color:#a9f548;">绫波：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 …糖衣炮弹…的说？<br>
 <span style="color:#a9f548;">Z23：</span><br>
 喂，你们怎么也跟着认真思考起这事情了啦！？<br>
@@ -100,21 +100,21 @@ Z23的同伴…？<br>
 理科实验时间！
 
 四　真正的实验？<br>
-<span style="color:#a9f548;">绫波：</span><br>
-……夕张。<br>
-<span style="color:#a9f548;">夕张：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
+……{{AF|夕张}}。<br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 未经许可使用科学教室，这可是要上军事法庭的！<br>
 <span style="color:#a9f548;">标枪：</span><br>
 欸，真、真的吗？<br>
-<span style="color:#a9f548;">绫波：</span><br>
-夕张，是科学教室的管理员。<br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
+{{AF|夕张}}，是科学教室的管理员。<br>
 <span style="color:#a9f548;">U-73：</span><br>
 对不起，我错了！<br>
-<span style="color:#a9f548;">夕张：</span><br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 哼哼，不过看在你一心追求科学的份上，这一次我就睁一只眼闭一只眼吧。<br>
 <span style="color:#a9f548;">U-73：</span><br>
-谢谢你，夕张！<br>
-<span style="color:#a9f548;">夕张：</span><br>
+谢谢你，{{AF|夕张}}！<br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 不过…这个烟雾里的成分，还有…<br>
 你用的这些成分…原来如此，你是想要研制糖分弹药吗<br>
 <span style="color:#a9f548;">U-73：</span><br>
@@ -125,7 +125,7 @@ Z23的同伴…？<br>
 就是圣诞节的那个呀！<br>
 <span style="color:#a9f548;">标枪：</span><br>
 …那个，难道真的是能吃的吗？！<br>
-<span style="color:#a9f548;">夕张：</span><br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 哼哼 ，就当做是给刚刚打开科学这扇大门的初学者一点指导吧，跟我来<br>
 让你们学习一下什么是“真正的科学实验”！<br>
 <span style="color:#a9f548;">U-73：</span><br>
@@ -137,16 +137,16 @@ Z23的同伴…？<br>
 
 五　科学，永无止境<br>
 <span style="color:#a9f548;">标枪：</span><br>
-哇……这里就是夕张和明石的实验室吗……<br>
-<span style="color:#a9f548;">绫波：</span><br>
+哇……这里就是{{AF|夕张}}和{{AF|明石}}的实验室吗……<br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 好气派……<br>
 <span style="color:#a9f548;">拉菲：</span><br>
-U73，和夕张，已经开始了……<br>
-<span style="color:#a9f548;">夕张：</span><br>
+U73，和{{AF|夕张}}，已经开始了……<br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 听好了，你从一开始就选错了成分，所以才会变成那样，你看看这样呢？<br>
 <span style="color:#a9f548;">U-73：</span><br>
 原、原来如此！<br>
-<span style="color:#a9f548;">夕张：</span><br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 然后，我们这样，再这样，接着这样，最后那样……<br>
 <span style="color:#a9f548;">U-73：</span><br>
 居然还有这样的操作……<br>
@@ -156,8 +156,8 @@ U73，和夕张，已经开始了……<br>
 <span style="color:#a9f548;">拉菲：</span><br>
 啊呜……原来，真的能吃……<br>
 <span style="color:#a9f548;">U-73：</span><br>
-请、请让我叫你老师吧！夕张老师！<br>
-<span style="color:#a9f548;">夕张：</span><br>
+请、请让我叫你老师吧！{{AF|夕张}}老师！<br>
+<span style="color:#a9f548;">{{AF|夕张}}：</span><br>
 老师就算啦～不过呢，科学的道路是十分广阔的！U73，<br>
 既然你选择了这条道路，那就继续努力吧，U73！<br>
 如果有什么问题，欢迎来问我哦，这间实验室随时对你开放~<br>
@@ -167,7 +167,7 @@ U73，和夕张，已经开始了……<br>
 啊哈哈…感觉，U73比起平时摆姐姐的架子，还是现在这样更适合她呢~<br>
 <span style="color:#a9f548;">拉菲：</span><br>
 ……嗯。<br>
-<span style="color:#a9f548;">绫波：</span><br>
+<span style="color:#a9f548;">{{AF|绫波}}：</span><br>
 教室…就那样放着没问题？<br>
 <span style="color:#a9f548;">Z23：</span><br>
 下午科隆应该还要用到那间教室来着…？<br>
