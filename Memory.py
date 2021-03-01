@@ -64,10 +64,9 @@ def getShipSkinTemplate():
 
 def getShipName(skinID, skinTemplate, shipStatistics, shipTemplate):
     shipGroup = skinTemplate[skinID]['ship_group']
-    for k, v in shipStatistics.items():
-        if k in shipTemplate.keys():
-            if shipTemplate[k]['group_type'] == shipGroup:
-                return v['name']
+    for k, v in skinTemplate.items():
+        if shipGroup == v['ship_group'] and v['group_index'] == 0:
+            return v['name']
     return skinTemplate[skinID]['name']
 
 def getGroup(memoryGroup, worldGroup):
@@ -98,7 +97,7 @@ def getMemory(memoryID, memoryTemplate):
     return output
     
 def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode):
-    output = {'title': parseNameCode(memory['title'], nameCode), 'memory':[]}
+    output = {'title': parseNameCode(memory['title'], nameCode, AF = True), 'memory':[]}
     if isinstance(memory['story'], list):
         tempMemory = {'title': memory['title']}
         for story in memory['story']:
@@ -148,7 +147,7 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
                     flag = ''
                     if 'flag' in o.keys():
                         flag = o['flag']
-                    option['options'].append({'flag': flag, 'content': parseNameCode(o['content'], nameCode)})
+                    option['options'].append({'flag': flag, 'content': parseNameCode(o['content'], nameCode, AF = True)})
             if 'optionFlag' in script.keys():
                 if not option:
                     option = {}
@@ -163,8 +162,8 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
         else:
             continue
         words = re.sub(r'\<.*?\>', '', words)
-        words = parseNameCode(words, nameCode)
-        name = parseNameCode(name, nameCode)
+        words = parseNameCode(words, nameCode, AF = True)
+        name = parseNameCode(name, nameCode, AF = True)
         output['memory'].append({'type': type, 'words': words, 'name': name, 'actor': actor, 'color': color, 'option': option})
     return output
 
@@ -183,11 +182,14 @@ def buildGroup(group, skinTemplate, shipStatistics, shipTemplate, memoryTemplate
         raise
     return output
 
-def parseNameCode(text, nameCode):
-    def parsefunc(matchobj, nameCode = nameCode):
+def parseNameCode(text, nameCode, AF = False):
+    def parsefunc(matchobj, nameCode = nameCode, AF = AF):
         id = int(matchobj.group(1))
         if id in nameCode.keys():
-            return nameCode[id]
+            if AF:
+                return '{{AF|' + nameCode[id] + '}}'
+            else:
+                return nameCode[id]
         else:
             return matchobj.group(0)
     return re.sub(r'\{namecode\:(\d+)\}', parsefunc, text)
@@ -227,12 +229,15 @@ def wikiSlide(slide, lastActor):
             output += '<br>\n'
     if slide['option'] and 'optionFlag' in slide['option'].keys():
         output += "'''''<span style=" + '"color:black;"' + ">（选择项" + str(slide['option']['optionFlag']) + "）</span>'''''"
-    output += slide['words'] + '<br>\n'
+    output += nowiki(slide['words']) + '<br>\n'
     if slide['option'] and 'options' in slide['option'].keys():
         for option in slide['option']['options']:
             output += "'''''<span style=" + '"color:black;"' + ">选择项" + str(option['flag']) + "："
-            output += option['content'] + "</span>'''''<br>\n"
+            output += nowiki(option['content']) + "</span>'''''<br>\n"
     return output
+
+def nowiki(text):
+    return re.sub(r'~~~~', '<nowiki>~~~~</nowiki>', text)
 
 def wikiGenerate():
     nameCode = getNameCode()
