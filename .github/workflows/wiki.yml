@@ -33,6 +33,7 @@ jobs:
         python Initialize.py
         python ShipIndex.py
         python Memory.py
+        python PNData.py
     - name: Commit and Push
       uses: EndBug/add-and-commit@v7
       with:
