@@ -7,7 +7,7 @@ if __name__ == "__main__":
     for f in FileList:
         os.remove(f)
     for p in PathList:
-        if os.path.isdir(p)
+        if os.path.isdir(p):
             files = os.listdir(p)
             for f in files:
                 filePath = os.path.join(p, f)
