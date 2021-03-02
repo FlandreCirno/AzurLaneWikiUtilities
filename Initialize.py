@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-FileList = ['Wiki/nameIndex.txt']
-PathList = ['Wiki/memories', 'json']
+FileList = []
+PathList = ['Wiki/memories', 'json', 'Wiki']
 
 if __name__ == "__main__":
     for f in FileList:
