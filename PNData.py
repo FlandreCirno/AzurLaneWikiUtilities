@@ -24,7 +24,7 @@ def getTransformTemplage():
     return util.parseDataFile('transform_data_template')
 
 def getWikiID(id):
-    wikiID = '%03d' % id
+    wikiID = '%03d' % (id % 10000)
     if id < 10000:
         return wikiID
     elif id > 10000:
