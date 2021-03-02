@@ -68,7 +68,7 @@ def getData(ships = None):
             ships[v['code']] = v['group_type']
     shipData = []
     for realID, groupID in ships.items():
-        if realID < 10000:
+        if realID < 20000:
             id = getWikiID(realID)
             shipID = {}
             for tempID, v in template.items():
