@@ -54,6 +54,7 @@ def statusTransTotal(transList):
     for t in transList:
         if t['type'] in STATUSENUM.keys():
             total[STATUSENUM[t['type']]] += t['amount']
+    return total
 
 def getData(ships = None): 
     group = getShipGroup()
