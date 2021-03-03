@@ -3,7 +3,7 @@ import re, os
 from slpp import slpp
 import util
 
-STATUSENUM = {'durability': 0, 'cannon': 1, 'torpedo': 2, 'antiaircraft': 3, 'air': 4, 'reload': 5, 'range': 6, 'hit': 7, 'dodge': 8, 'speed': 9, 'luck': 10, 'antisub': 11}
+STATUSENUM = {'durability': 0, 'cannon': 1, 'torpedo': 2, 'antiaircraft': 3, 'air': 4, 'reload': 5, 'range': 6, 'hit': 7, 'dodge': 8, 'speed': 9, 'luck': 10, 'antisub': 11, 'gearscore': 12}
 
 def getShipGroup():
     return util.parseDataFile('ship_data_group')
@@ -41,16 +41,18 @@ def shipTransform(group, shipTrans, transformTemplate):
         transList = []
         for t1 in trans:
             for t2 in t1:
-                effect = transformTemplate[t2[1]]['effect']
-                for e in effect:
+                data = transformTemplate[t2[1]]
+                for e in data['effect']:
                     for k, v in e.items():
                         transList.append({'type': k, 'amount': v})
+                for e in data['gear_score']:
+                    transList.append({'type': 'gearscore', 'amount': e})
         return statusTransTotal(transList)
     else:
         return None
         
 def statusTransTotal(transList):
-    total = [0] * 12
+    total = [0] * 13
     for t in transList:
         if t['type'] in STATUSENUM.keys():
             total[STATUSENUM[t['type']]] += t['amount']
@@ -97,7 +99,7 @@ def getData(ships = None):
                     v['values'][55] = v['oil_at_end']
                     shipRemould = shipTransform(groupID, shipTrans, transformTemplate)
                     if shipRemould:
-                        for i in range(12):
+                        for i in range(13):
                             v['values'][i+41] += shipRemould[i]
                     v['format'] = formatData(id, v['values'], name, breakout)
                     shipData.append(v)
