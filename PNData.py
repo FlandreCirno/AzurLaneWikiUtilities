@@ -39,6 +39,7 @@ def shipTransform(group, shipTrans, transformTemplate):
         trans = shipTrans[group]
         trans = trans['transform_list']
         transList = []
+        transShipID = None
         for t1 in trans:
             for t2 in t1:
                 data = transformTemplate[t2[1]]
@@ -47,9 +48,11 @@ def shipTransform(group, shipTrans, transformTemplate):
                         transList.append({'type': k, 'amount': v})
                 for e in data['gear_score']:
                     transList.append({'type': 'gearscore', 'amount': e})
-        return statusTransTotal(transList)
+                if 'ship_id' in data.keys() and len(data['ship_id']) > 0:
+                    transShipID = data['ship_id'][0][1]
+        return (statusTransTotal(transList), transShipID)
     else:
-        return None
+        return None, None
         
 def statusTransTotal(transList):
     total = [0] * 13
@@ -78,7 +81,12 @@ def getData(ships = None):
                 if v['group_type'] == groupID and tempID // 10 == groupID :
                     shipID[3 - (v['star_max'] - v['star'])] = {'id':tempID, 'oil_at_start':v['oil_at_start'], 
                     'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id}
-            for breakout in range(4):
+            shipRemould, transShipID = shipTransform(groupID, shipTrans, transformTemplate)
+            if transShipID and transShipID in template.keys():
+                v = template[transShipID]
+                shipID[4] = {'id':transShipID, 'oil_at_start':v['oil_at_start'], 
+                    'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id}
+            for breakout in range(5):
                 if breakout in shipID.keys():
                     v = shipID[breakout]
                     v['breakout'] = breakout
@@ -97,7 +105,6 @@ def getData(ships = None):
                         v['values'][36+i] = v['strengthen'][i]
                     v['values'][54] = v['oil_at_start']
                     v['values'][55] = v['oil_at_end']
-                    shipRemould = shipTransform(groupID, shipTrans, transformTemplate)
                     if shipRemould:
                         for i in range(13):
                             v['values'][i+41] += shipRemould[i]
@@ -108,10 +115,19 @@ def getData(ships = None):
 def formatData(ID, values, name, breakout):
     if ID in ['001', '002', '003']:
         breakout = 0
-    output = 'PN' + ID + str(breakout) + ':['
+    output = 'PN' + ID
+    if breakout == 4:
+        output += 'g3:['
+    else:
+        output += str(breakout) + '['
     for v in values:
         output += str(v) + ','
-    output = output[:-1] + '],\t//' + name + str(breakout) + '破'
+    output = output[:-1] + '],\t//' + name + '_'
+    if breakout == 4:
+        output += '3'
+    else:
+        output += str(breakout)
+    output += '破'
     return output
 
 if __name__ == "__main__":
