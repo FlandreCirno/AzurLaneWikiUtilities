@@ -29,7 +29,7 @@ def createNameList():
     with open(os.path.join(util.WikiDirectory, 'nameIndex.txt'), 'w+', encoding='utf-8') as f:
         for k, v in shipCollection.items():
             name = getShipName(v, shipStatistics, shipTemplate)
-            f.write(str(k) + ': ' + name + '\n')
+            f.write(name + ', ' + str(k) + ', ' + str(v) + '\n')
 
 if __name__ == "__main__":
     createNameList()
