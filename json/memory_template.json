@@ -16026,6 +16026,83 @@
         "title": "\u751c\u871c\u7684\u5984\u60f3",
         "type": 1
     },
+    "1571": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a11",
+        "icon": "memory_beilaluosi",
+        "id": 1571,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI1",
+        "subtitle": "",
+        "title": "\u4e0d\u901f\u4e4b\u5ba2\uff1f",
+        "type": 1
+    },
+    "1572": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a12",
+        "icon": "memory_beilaluosi",
+        "id": 1572,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI2",
+        "subtitle": "",
+        "title": "\u7784\u51c6\u76ee\u6807",
+        "type": 1
+    },
+    "1573": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a13",
+        "icon": "memory_beilaluosi",
+        "id": 1573,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI3",
+        "subtitle": "",
+        "title": "Welcome to \u6e2f\u533a\uff01",
+        "type": 1
+    },
+    "1574": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a14",
+        "icon": "memory_beilaluosi",
+        "id": 1574,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI4",
+        "subtitle": "",
+        "title": "\u52a0\u6df1\u4e86\u89e3",
+        "type": 1
+    },
+    "1575": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a15",
+        "icon": "memory_beilaluosi",
+        "id": 1575,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI5",
+        "subtitle": "",
+        "title": "\u6726\u80e7\u4e4b\u4e2d",
+        "type": 1
+    },
+    "1576": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a16",
+        "icon": "memory_beilaluosi",
+        "id": 1576,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI6",
+        "subtitle": "",
+        "title": "\u6e05\u6717\u7684\u65e9\u6668",
+        "type": 1
+    },
+    "1577": {
+        "condition": "\u89e3\u9501\u300c\u98d2\u723d\u4e4b\u767d\u300d\u4efb\u52a17",
+        "icon": "memory_beilaluosi",
+        "id": 1577,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BEILALUOSI7",
+        "subtitle": "",
+        "title": "\u5728\u6307\u6325\u5ba4",
+        "type": 1
+    },
     "4000": {
         "condition": "\u8fdb\u5165\u300c\u5f02\u8272\u683c\u300d\u4f5c\u6218B4/D4",
         "icon": "activity",

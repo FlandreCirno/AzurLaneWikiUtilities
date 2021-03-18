@@ -616,7 +616,7 @@
         "shop_id": 70212,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -720,7 +720,7 @@
         "shop_id": 70282,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -1373,7 +1373,7 @@
         "shop_id": 0,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -1592,7 +1592,7 @@
         "shop_id": 0,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -2745,7 +2745,7 @@
         "shop_id": 70443,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -2979,7 +2979,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -3094,7 +3094,7 @@
         "shop_id": 70034,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -3213,7 +3213,7 @@
         "shop_id": 70147,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -3318,7 +3318,7 @@
         "shop_id": 70175,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -3524,7 +3524,7 @@
         "shop_id": 70264,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -4192,7 +4192,7 @@
         "shop_id": 70012,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -4303,7 +4303,7 @@
         "shop_id": 70380,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -4414,7 +4414,7 @@
         "shop_id": 70442,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -4525,7 +4525,7 @@
         "shop_id": 70456,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -4866,7 +4866,7 @@
         "shop_id": 70024,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -4970,7 +4970,7 @@
         "shop_id": 70050,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -5091,7 +5091,7 @@
         "shop_id": 70130,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -5221,7 +5221,7 @@
         "shop_id": 70259,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -5441,7 +5441,7 @@
         "shop_id": 0,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -5747,7 +5747,7 @@
         "shop_id": 0,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -5953,7 +5953,7 @@
         "shop_id": 70455,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -6159,7 +6159,7 @@
         "shop_id": 70049,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -6261,7 +6261,7 @@
         "shop_id": 70126,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -6365,7 +6365,7 @@
         "shop_id": 70410,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -6803,7 +6803,7 @@
         "shop_id": 70182,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -7109,7 +7109,7 @@
         "shop_id": 70246,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -7213,7 +7213,7 @@
         "shop_id": 70340,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -7419,7 +7419,7 @@
         "shop_id": 70111,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -7625,7 +7625,7 @@
         "shop_id": 70112,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -7831,7 +7831,7 @@
         "shop_id": 0,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -8037,7 +8037,7 @@
         "shop_id": 70156,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -8243,7 +8243,7 @@
         "shop_id": 70208,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -8549,7 +8549,7 @@
         "shop_id": 70257,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -8755,7 +8755,7 @@
         "shop_id": 70313,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -8990,7 +8990,7 @@
         "shop_id": 70329,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -9114,7 +9114,7 @@
         "shop_id": 70454,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -9833,7 +9833,7 @@
         "shop_id": 70136,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -9937,7 +9937,7 @@
         "shop_id": 70188,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -10503,7 +10503,7 @@
         "shop_id": 70028,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -10956,7 +10956,7 @@
         "shop_id": 70018,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -11094,7 +11094,7 @@
         "shop_id": 70101,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -11206,7 +11206,7 @@
         "shop_id": 70211,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -11317,7 +11317,7 @@
         "shop_id": 70296,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -11659,7 +11659,7 @@
         "shop_id": 70318,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -11988,7 +11988,7 @@
         "shop_id": 70054,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -12114,7 +12114,7 @@
         "shop_id": 70109,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -12226,7 +12226,7 @@
         "shop_id": 70129,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -12369,7 +12369,7 @@
         "shop_id": 70216,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -12605,7 +12605,7 @@
         "shop_id": 70047,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -12730,7 +12730,7 @@
         "shop_id": 70134,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -12864,7 +12864,7 @@
         "shop_id": 70369,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -13078,7 +13078,7 @@
         "shop_id": 70137,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -13386,7 +13386,7 @@
         "shop_id": 70181,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -13488,7 +13488,7 @@
         "shop_id": 0,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -13694,7 +13694,7 @@
         "shop_id": 70117,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -13798,7 +13798,7 @@
         "shop_id": 70280,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -14412,7 +14412,7 @@
         "shop_id": 70209,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -14516,7 +14516,7 @@
         "shop_id": 70492,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -14824,7 +14824,7 @@
         "shop_id": 70310,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -14928,7 +14928,7 @@
         "shop_id": 70376,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -15032,7 +15032,7 @@
         "shop_id": 70474,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -15252,7 +15252,7 @@
         "shop_id": 70334,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -15363,7 +15363,7 @@
         "shop_id": 70412,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -15583,7 +15583,7 @@
         "shop_id": 70336,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -15692,7 +15692,7 @@
         "shop_id": 0,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -16517,7 +16517,7 @@
         "shop_id": 70164,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -16851,7 +16851,7 @@
         "shop_id": 70165,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -16955,7 +16955,7 @@
         "shop_id": 0,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -17161,7 +17161,7 @@
         "shop_id": 70082,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -17367,7 +17367,7 @@
         "shop_id": 70083,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -17573,7 +17573,7 @@
         "shop_id": 70084,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -17675,7 +17675,7 @@
         "shop_id": 70140,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -17894,7 +17894,7 @@
         "shop_id": 70427,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -17998,7 +17998,7 @@
         "shop_id": 70435,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -18204,7 +18204,7 @@
         "shop_id": 70113,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -18308,7 +18308,7 @@
         "shop_id": 70330,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -18412,7 +18412,7 @@
         "shop_id": 70453,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -18720,7 +18720,7 @@
         "shop_id": 70207,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -18824,7 +18824,7 @@
         "shop_id": 70333,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -18946,7 +18946,7 @@
         "shop_id": 70418,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -19153,7 +19153,7 @@
         "shop_id": 70331,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -19277,7 +19277,7 @@
         "shop_id": 70482,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -21378,7 +21378,7 @@
         "shop_id": 70103,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -21598,7 +21598,7 @@
         "shop_id": 70371,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -21912,7 +21912,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -22020,7 +22020,7 @@
         "shop_id": 70434,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -22549,7 +22549,7 @@
         "shop_id": 70337,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -23060,7 +23060,7 @@
         "shop_id": 70154,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -23279,7 +23279,7 @@
         "shop_id": 70007,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 30,
@@ -23383,7 +23383,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -23485,7 +23485,7 @@
         "shop_id": 70179,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -23589,7 +23589,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -23691,7 +23691,7 @@
         "shop_id": 70457,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -23795,7 +23795,7 @@
         "shop_id": 70494,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -24310,7 +24310,7 @@
         "shop_id": 70190,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -24515,7 +24515,7 @@
         "shop_id": 70025,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -24612,7 +24612,7 @@
         "shop_id": 70149,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -24709,7 +24709,7 @@
         "shop_id": 70217,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -24901,7 +24901,7 @@
         "shop_id": 70375,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -25201,7 +25201,7 @@
         "shop_id": 70189,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -25298,7 +25298,7 @@
         "shop_id": 70479,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -25583,7 +25583,7 @@
         "shop_id": 70245,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -25693,7 +25693,7 @@
         "shop_id": 70419,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -25791,7 +25791,7 @@
         "shop_id": 70484,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -25983,7 +25983,7 @@
         "shop_id": 70332,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -26270,7 +26270,7 @@
         "shop_id": 70163,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -26367,7 +26367,7 @@
         "shop_id": 70400,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -26464,7 +26464,7 @@
         "shop_id": 70518,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -26656,7 +26656,7 @@
         "shop_id": 70433,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -26971,7 +26971,7 @@
         "shop_id": 70210,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -27163,7 +27163,7 @@
         "shop_id": 70162,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -27260,7 +27260,7 @@
         "shop_id": 70390,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -27545,7 +27545,7 @@
         "shop_id": 70372,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -27737,7 +27737,7 @@
         "shop_id": 70206,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -27834,7 +27834,7 @@
         "shop_id": 0,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -28026,7 +28026,7 @@
         "shop_id": 70335,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -28326,7 +28326,7 @@
         "shop_id": 70095,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -28532,7 +28532,7 @@
         "shop_id": 70240,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -28636,7 +28636,7 @@
         "shop_id": 70277,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -28740,7 +28740,7 @@
         "shop_id": 70392,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -28946,7 +28946,7 @@
         "shop_id": 70185,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -29048,7 +29048,7 @@
         "shop_id": 70214,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -29152,7 +29152,7 @@
         "shop_id": 70466,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -29376,7 +29376,7 @@
         "shop_id": 70102,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -29698,7 +29698,7 @@
         "shop_id": 70066,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -29807,7 +29807,7 @@
         "shop_id": 70315,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -30136,7 +30136,7 @@
         "shop_id": 70319,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -31142,7 +31142,7 @@
         "shop_id": 0,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -31259,7 +31259,7 @@
         "shop_id": 70027,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -31363,7 +31363,7 @@
         "shop_id": 0,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -31467,7 +31467,7 @@
         "shop_id": 70172,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -31571,7 +31571,7 @@
         "shop_id": 70339,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -32471,7 +32471,7 @@
         "shop_id": 70496,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -32909,7 +32909,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -33039,7 +33039,7 @@
         "shop_id": 70088,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -33144,7 +33144,7 @@
         "shop_id": 70176,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -33246,7 +33246,7 @@
         "shop_id": 0,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -33454,7 +33454,7 @@
         "shop_id": 0,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -33917,7 +33917,7 @@
         "shop_id": 0,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -34150,7 +34150,7 @@
         "shop_id": 70044,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -34261,7 +34261,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -34396,7 +34396,7 @@
         "shop_id": 70225,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -34508,7 +34508,7 @@
         "shop_id": 70440,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -34863,7 +34863,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -35192,7 +35192,7 @@
         "shop_id": 70194,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -35630,7 +35630,7 @@
         "shop_id": 70382,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -35850,7 +35850,7 @@
         "shop_id": 70396,
         "shop_type_id": 15,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -35959,7 +35959,7 @@
         "shop_id": 70414,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -36664,7 +36664,7 @@
         "shop_id": 70099,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -37143,7 +37143,7 @@
         "shop_id": 70374,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -37363,7 +37363,7 @@
         "shop_id": 70295,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -37583,7 +37583,7 @@
         "shop_id": 70142,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -37692,7 +37692,7 @@
         "shop_id": 70222,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -37803,7 +37803,7 @@
         "shop_id": 70428,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": {},
         "tag": [
             4
@@ -38009,7 +38009,7 @@
         "shop_id": 70311,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -38242,7 +38242,7 @@
         "shop_id": 70051,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -38353,7 +38353,7 @@
         "shop_id": 70254,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -38612,7 +38612,7 @@
         "shop_id": 70146,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -38833,7 +38833,7 @@
         "shop_id": 70242,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -38944,7 +38944,7 @@
         "shop_id": 0,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -39055,7 +39055,7 @@
         "shop_id": 70364,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -39164,7 +39164,7 @@
         "shop_id": 70465,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -39737,7 +39737,7 @@
         "shop_id": 70043,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -39848,7 +39848,7 @@
         "shop_id": 70097,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -39994,7 +39994,7 @@
         "shop_id": 70314,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -40324,7 +40324,7 @@
         "shop_id": 70195,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -40542,7 +40542,7 @@
         "shop_id": 70144,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -40653,7 +40653,7 @@
         "shop_id": 0,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -40982,7 +40982,7 @@
         "shop_id": 70107,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -41309,7 +41309,7 @@
         "shop_id": 70145,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -41433,7 +41433,7 @@
         "shop_id": 70193,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -41545,7 +41545,7 @@
         "shop_id": 70303,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -41765,7 +41765,7 @@
         "shop_id": 70157,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -42094,7 +42094,7 @@
         "shop_id": 70158,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -42423,7 +42423,7 @@
         "shop_id": 70196,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -42534,7 +42534,7 @@
         "shop_id": 70304,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -42645,7 +42645,7 @@
         "shop_id": 70411,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -42880,7 +42880,7 @@
         "shop_id": 70226,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -42992,7 +42992,7 @@
         "shop_id": 70308,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -43321,7 +43321,7 @@
         "shop_id": 70274,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -43556,7 +43556,7 @@
         "shop_id": 70394,
         "shop_type_id": 15,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -43693,7 +43693,7 @@
         "shop_id": 70413,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -44023,7 +44023,7 @@
         "shop_id": 70500,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -45222,7 +45222,7 @@
         "shop_id": 70250,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -45333,7 +45333,7 @@
         "shop_id": 70401,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -45893,7 +45893,7 @@
         "shop_id": 70215,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -46004,7 +46004,7 @@
         "shop_id": 70379,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -46453,7 +46453,7 @@
         "shop_id": 70005,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -46912,7 +46912,7 @@
         "shop_id": 70098,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -47016,7 +47016,7 @@
         "shop_id": 70439,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -47120,7 +47120,7 @@
         "shop_id": 0,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -47224,7 +47224,7 @@
         "shop_id": 70495,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -47453,7 +47453,7 @@
         "shop_id": 70127,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -47557,7 +47557,7 @@
         "shop_id": 70438,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -47878,7 +47878,7 @@
         "shop_id": 70116,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -48095,7 +48095,7 @@
         "shop_id": 70008,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -48212,7 +48212,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -48416,7 +48416,7 @@
         "shop_id": 70186,
         "shop_type_id": 7,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -48649,7 +48649,7 @@
         "shop_id": 70011,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -48760,7 +48760,7 @@
         "shop_id": 70133,
         "shop_type_id": 2,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -48871,7 +48871,7 @@
         "shop_id": 70387,
         "shop_type_id": 14,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -49091,7 +49091,7 @@
         "shop_id": 70143,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -49202,7 +49202,7 @@
         "shop_id": 70386,
         "shop_type_id": 14,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -49422,7 +49422,7 @@
         "shop_id": 70393,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -49642,7 +49642,7 @@
         "shop_id": 70397,
         "shop_type_id": 15,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -50105,7 +50105,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -50221,7 +50221,7 @@
         "shop_id": 70045,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -50355,7 +50355,7 @@
         "shop_id": 70161,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -50474,7 +50474,7 @@
         "shop_id": 70291,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -50608,7 +50608,7 @@
         "shop_id": 70437,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -50974,7 +50974,7 @@
         "shop_id": 70093,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -51093,7 +51093,7 @@
         "shop_id": 70150,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -51327,7 +51327,7 @@
         "shop_id": 70159,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -51438,7 +51438,7 @@
         "shop_id": 70197,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -51672,7 +51672,7 @@
         "shop_id": 70395,
         "shop_type_id": 15,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -51906,7 +51906,7 @@
         "shop_id": 70399,
         "shop_type_id": 15,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52111,7 +52111,7 @@
         "shop_id": 70089,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52234,7 +52234,7 @@
         "shop_id": 70184,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52332,7 +52332,7 @@
         "shop_id": 70298,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52537,7 +52537,7 @@
         "shop_id": 70021,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52632,7 +52632,7 @@
         "shop_id": 70106,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52729,7 +52729,7 @@
         "shop_id": 70170,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -52824,7 +52824,7 @@
         "shop_id": 70306,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -53124,7 +53124,7 @@
         "shop_id": 70141,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -53221,7 +53221,7 @@
         "shop_id": 70486,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -53413,7 +53413,7 @@
         "shop_id": 70230,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -53605,7 +53605,7 @@
         "shop_id": 70065,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -53730,7 +53730,7 @@
         "shop_id": 70490,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -54140,7 +54140,7 @@
         "shop_id": 70001,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -54242,7 +54242,7 @@
         "shop_id": 70255,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -54494,7 +54494,7 @@
         "shop_id": 70115,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -54712,7 +54712,7 @@
         "shop_id": 70256,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -54918,7 +54918,7 @@
         "shop_id": 70276,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -55124,7 +55124,7 @@
         "shop_id": 70071,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -55228,7 +55228,7 @@
         "shop_id": 70151,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -55448,7 +55448,7 @@
         "shop_id": 70403,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -55579,7 +55579,7 @@
         "shop_id": 70481,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -55800,7 +55800,7 @@
         "shop_id": 70402,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -56020,7 +56020,7 @@
         "shop_id": 70055,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -56131,7 +56131,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -56255,7 +56255,7 @@
         "shop_id": 70096,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -56367,7 +56367,7 @@
         "shop_id": 0,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -56478,7 +56478,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -56711,7 +56711,7 @@
         "shop_id": 70019,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -56820,7 +56820,7 @@
         "shop_id": 70061,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -56929,7 +56929,7 @@
         "shop_id": 70153,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -57040,7 +57040,7 @@
         "shop_id": 70177,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -57258,7 +57258,7 @@
         "shop_id": 70263,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -57695,7 +57695,7 @@
         "shop_id": 70108,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -57804,7 +57804,7 @@
         "shop_id": 70248,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58022,7 +58022,7 @@
         "shop_id": 70290,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58267,7 +58267,7 @@
         "shop_id": 70022,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58376,7 +58376,7 @@
         "shop_id": 70220,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58487,7 +58487,7 @@
         "shop_id": 70431,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58720,7 +58720,7 @@
         "shop_id": 70023,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58829,7 +58829,7 @@
         "shop_id": 70221,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -58940,7 +58940,7 @@
         "shop_id": 70432,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -59185,7 +59185,7 @@
         "shop_id": 70062,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -59404,7 +59404,7 @@
         "shop_id": 70037,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -59508,7 +59508,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -59610,7 +59610,7 @@
         "shop_id": 70241,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -59714,7 +59714,7 @@
         "shop_id": 70452,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -60027,7 +60027,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u8fdb\u51fb\uff0c\u4f0a490\uff01",
+        "name": "\u8fdb\u51fb\uff0c{namecode:257}\uff01",
         "painting": "shiyu_2",
         "prefab": "shiyu_2",
         "rarity_bg": "",
@@ -60035,7 +60035,7 @@
         "shop_id": 70006,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -60152,7 +60152,7 @@
         "shop_id": 70192,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -60475,7 +60475,7 @@
         "shop_id": 70057,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -60608,7 +60608,7 @@
         "shop_id": 70301,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -60937,7 +60937,7 @@
         "shop_id": 70020,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -61256,7 +61256,7 @@
         "shop_id": 0,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -61693,7 +61693,7 @@
         "shop_id": 70139,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -62020,7 +62020,7 @@
         "shop_id": 0,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -62240,7 +62240,7 @@
         "shop_id": 70429,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -62569,7 +62569,7 @@
         "shop_id": 70430,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -62911,7 +62911,7 @@
         "shop_id": 70063,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -63022,7 +63022,7 @@
         "shop_id": 70152,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -63133,7 +63133,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -64116,7 +64116,7 @@
         "shop_id": 70029,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -64227,7 +64227,7 @@
         "shop_id": 70224,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -64338,7 +64338,7 @@
         "shop_id": 0,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -64667,7 +64667,7 @@
         "shop_id": 0,
         "shop_type_id": 2,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -64996,7 +64996,7 @@
         "shop_id": 70064,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -65309,7 +65309,7 @@
         "shop_id": 70070,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -65513,7 +65513,7 @@
         "shop_id": 70316,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -65733,7 +65733,7 @@
         "shop_id": 70258,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -65939,7 +65939,7 @@
         "shop_id": 70069,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -66258,7 +66258,7 @@
         "shop_id": 70278,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -66566,7 +66566,7 @@
         "shop_id": 0,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -66772,7 +66772,7 @@
         "shop_id": 70168,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -66992,7 +66992,7 @@
         "shop_id": 70128,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -67212,7 +67212,7 @@
         "shop_id": 70135,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -67432,7 +67432,7 @@
         "shop_id": 70092,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -67761,7 +67761,7 @@
         "shop_id": 70058,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -68074,7 +68074,7 @@
         "shop_id": 70067,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -68178,7 +68178,7 @@
         "shop_id": 70475,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -68384,7 +68384,7 @@
         "shop_id": 0,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -68488,7 +68488,7 @@
         "shop_id": 0,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -68592,7 +68592,7 @@
         "shop_id": 70491,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -69030,7 +69030,7 @@
         "shop_id": 70317,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -69357,7 +69357,7 @@
         "shop_id": 70347,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -69577,7 +69577,7 @@
         "shop_id": 70297,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -69797,7 +69797,7 @@
         "shop_id": 70346,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -70237,7 +70237,7 @@
         "shop_id": 70415,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -70348,7 +70348,7 @@
         "shop_id": 70467,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -70799,7 +70799,7 @@
         "shop_id": 0,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -71032,7 +71032,7 @@
         "shop_id": 70114,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -71141,7 +71141,7 @@
         "shop_id": 70281,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -71483,7 +71483,7 @@
         "shop_id": 0,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -72601,7 +72601,7 @@
         "shop_id": 70110,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -72930,7 +72930,7 @@
         "shop_id": 70345,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -73150,7 +73150,7 @@
         "shop_id": 70279,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -73261,7 +73261,7 @@
         "shop_id": 70299,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -73372,7 +73372,7 @@
         "shop_id": 70377,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -73609,7 +73609,7 @@
         "shop_id": 70283,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -73738,7 +73738,7 @@
         "shop_id": 70422,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -73849,7 +73849,7 @@
         "shop_id": 70488,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -75019,7 +75019,7 @@
         "shop_id": 70138,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -75130,7 +75130,7 @@
         "shop_id": 70343,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -75363,7 +75363,7 @@
         "shop_id": 70002,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -75487,7 +75487,7 @@
         "shop_id": 70042,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -75598,7 +75598,7 @@
         "shop_id": 70072,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -75709,7 +75709,7 @@
         "shop_id": 70384,
         "shop_type_id": 14,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -76077,7 +76077,7 @@
         "shop_id": 70009,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -76189,7 +76189,7 @@
         "shop_id": 70030,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -76300,7 +76300,7 @@
         "shop_id": 70073,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -76411,7 +76411,7 @@
         "shop_id": 70385,
         "shop_type_id": 14,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -77080,7 +77080,7 @@
         "shop_id": 70407,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -77299,7 +77299,7 @@
         "shop_id": 70167,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -77403,7 +77403,7 @@
         "shop_id": 70398,
         "shop_type_id": 15,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -77623,7 +77623,7 @@
         "shop_id": 70091,
         "shop_type_id": 0,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -77732,7 +77732,7 @@
         "shop_id": 70309,
         "shop_type_id": 3,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -77843,7 +77843,7 @@
         "shop_id": 70344,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78049,7 +78049,7 @@
         "shop_id": 70068,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78153,7 +78153,7 @@
         "shop_id": 70426,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78257,7 +78257,7 @@
         "shop_id": 70473,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78477,7 +78477,7 @@
         "shop_id": 70060,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78588,7 +78588,7 @@
         "shop_id": 70227,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78699,7 +78699,7 @@
         "shop_id": 70293,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -78810,7 +78810,7 @@
         "shop_id": 70497,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -79030,7 +79030,7 @@
         "shop_id": 70341,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -79359,7 +79359,7 @@
         "shop_id": 70048,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -79470,7 +79470,7 @@
         "shop_id": 70160,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -79812,7 +79812,7 @@
         "shop_id": 0,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -79935,7 +79935,7 @@
         "shop_id": 70026,
         "shop_type_id": 1,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -80046,7 +80046,7 @@
         "shop_id": 0,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -80157,7 +80157,7 @@
         "shop_id": 0,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -80266,7 +80266,7 @@
         "shop_id": 70251,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -81126,7 +81126,7 @@
         "shop_id": 70166,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -81230,7 +81230,7 @@
         "shop_id": 70287,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -81334,7 +81334,7 @@
         "shop_id": 70523,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -81642,7 +81642,7 @@
         "shop_id": 70173,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -82177,7 +82177,7 @@
         "shop_id": 70090,
         "shop_type_id": 0,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -82288,7 +82288,7 @@
         "shop_id": 70171,
         "shop_type_id": 0,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -82399,7 +82399,7 @@
         "shop_id": 70520,
         "shop_type_id": 9,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -82728,7 +82728,7 @@
         "shop_id": 70416,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -82966,7 +82966,7 @@
         "shop_id": 70284,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -83390,7 +83390,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -83607,7 +83607,7 @@
         "shop_id": 70017,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -83892,7 +83892,7 @@
         "shop_id": 70124,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -84110,7 +84110,7 @@
         "shop_id": 70286,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -84303,7 +84303,7 @@
         "shop_id": 70408,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -84495,7 +84495,7 @@
         "shop_id": 70409,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -84700,7 +84700,7 @@
         "shop_id": 70003,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -84810,7 +84810,7 @@
         "shop_id": 70032,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -84907,7 +84907,7 @@
         "shop_id": 70423,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -85220,7 +85220,7 @@
         "shop_id": 70004,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -85330,7 +85330,7 @@
         "shop_id": 70033,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -85427,7 +85427,7 @@
         "shop_id": 70424,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -85727,7 +85727,7 @@
         "shop_id": 70031,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -85824,7 +85824,7 @@
         "shop_id": 70052,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -86124,7 +86124,7 @@
         "shop_id": 70053,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -86424,7 +86424,7 @@
         "shop_id": 70234,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -86535,7 +86535,7 @@
         "shop_id": 70388,
         "shop_type_id": 14,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -86727,7 +86727,7 @@
         "shop_id": 70218,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -86824,7 +86824,7 @@
         "shop_id": 70389,
         "shop_type_id": 14,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -87029,7 +87029,7 @@
         "shop_id": 70104,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -87140,7 +87140,7 @@
         "shop_id": 70302,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -87238,7 +87238,7 @@
         "shop_id": 70383,
         "shop_type_id": 14,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -87430,7 +87430,7 @@
         "shop_id": 70421,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -87764,7 +87764,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u5de1\u6f5c\u4e59\u578b\u6f5c\u8247\u4f0a19",
+        "desc": "{namecode:280}\u6f5c\u8247{namecode:154}",
         "fx_container": [
             [
                 0,
@@ -87804,7 +87804,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a19",
+        "name": "{namecode:154}",
         "painting": "I19",
         "prefab": "I19",
         "rarity_bg": "",
@@ -87907,7 +87907,7 @@
         "shop_id": 70074,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88004,7 +88004,7 @@
         "shop_id": 70391,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88053,7 +88053,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u5de1\u6f5c\u4e59\u578b\u6f5c\u8247\u4f0a26",
+        "desc": "{namecode:280}\u6f5c\u8247{namecode:155}",
         "fx_container": [
             [
                 0,
@@ -88093,7 +88093,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a26",
+        "name": "{namecode:155}",
         "painting": "I26",
         "prefab": "I26",
         "rarity_bg": "",
@@ -88196,7 +88196,7 @@
         "shop_id": 70075,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88293,7 +88293,7 @@
         "shop_id": 70223,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88342,7 +88342,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u5de1\u6f5c\u4e59\u578b\u6539\u4e8c\u578b\u6f5c\u8247\u4f0a58",
+        "desc": "{namecode:283}\u578b\u6f5c\u8247{namecode:156}",
         "fx_container": [
             [
                 0,
@@ -88382,7 +88382,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a58",
+        "name": "{namecode:156}",
         "painting": "I58",
         "prefab": "I58",
         "rarity_bg": "",
@@ -88437,7 +88437,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u5de1\u6f5c\u4e59\u578b\u6f5c\u8247\u4f0a25",
+        "desc": "{namecode:280}\u6f5c\u8247{namecode:252}",
         "fx_container": [
             [
                 0,
@@ -88477,7 +88477,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a25",
+        "name": "{namecode:252}",
         "painting": "I25",
         "prefab": "I25",
         "rarity_bg": "",
@@ -88580,7 +88580,7 @@
         "shop_id": 70205,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88677,7 +88677,7 @@
         "shop_id": 70498,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88726,7 +88726,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u5de1\u6f5c\u4e59\u578b\u6539\u4e8c\u578b\u6f5c\u8247\u4f0a56",
+        "desc": "{namecode:283}\u578b\u6f5c\u8247{namecode:254}",
         "fx_container": [
             [
                 0,
@@ -88766,7 +88766,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a56",
+        "name": "{namecode:254}",
         "painting": "I56",
         "prefab": "I56",
         "rarity_bg": "",
@@ -88869,7 +88869,7 @@
         "shop_id": 0,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -88918,7 +88918,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u6d77\u5927VI\u578ba\u578b\u6f5c\u8247\u4f0a168",
+        "desc": "{namecode:284}\u6f5c\u8247{namecode:256}",
         "fx_container": [
             [
                 0,
@@ -88958,7 +88958,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a168",
+        "name": "{namecode:256}",
         "painting": "I168",
         "prefab": "I168",
         "rarity_bg": "",
@@ -89061,7 +89061,7 @@
         "shop_id": 70203,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -89309,7 +89309,7 @@
         "shop_id": 70035,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -89420,7 +89420,7 @@
         "shop_id": 70100,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -89531,7 +89531,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -89640,7 +89640,7 @@
         "shop_id": 0,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -89796,7 +89796,7 @@
         },
         "bullet_skin_main": "",
         "bullet_skin_secondary": "",
-        "desc": "\u5de1\u6f5c\u7532\u578b\u6539\u4e8c\u578b\u6f5c\u8247\u4f0a13",
+        "desc": "{namecode:282}\u578b\u6f5c\u8247{namecode:163}",
         "fx_container": [
             [
                 0,
@@ -89836,7 +89836,7 @@
             0
         ],
         "main_UI_FX": "",
-        "name": "\u4f0a13",
+        "name": "{namecode:163}",
         "painting": "I13",
         "prefab": "I13",
         "rarity_bg": "",
@@ -90078,7 +90078,7 @@
         "shop_id": 70406,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -90190,7 +90190,7 @@
         "shop_id": 70294,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -90331,7 +90331,7 @@
         "shop_id": 70420,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -90571,7 +90571,7 @@
         "shop_id": 70131,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -90676,7 +90676,7 @@
         "shop_id": 70238,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -90780,7 +90780,7 @@
         "shop_id": 70305,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -90986,7 +90986,7 @@
         "shop_id": 70132,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -91192,7 +91192,7 @@
         "shop_id": 70219,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -91411,7 +91411,7 @@
         "shop_id": 70300,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -91636,7 +91636,7 @@
         "shop_id": 70056,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -91944,7 +91944,7 @@
         "shop_id": 70444,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -92651,7 +92651,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -92773,7 +92773,7 @@
         "shop_id": 70368,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -92884,7 +92884,7 @@
         "shop_id": 70178,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -92993,7 +92993,7 @@
         "shop_id": 70187,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -93213,7 +93213,7 @@
         "shop_id": 70265,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -93324,7 +93324,7 @@
         "shop_id": 0,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -93760,7 +93760,7 @@
         "shop_id": 70472,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -93980,7 +93980,7 @@
         "shop_id": 70081,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -94200,7 +94200,7 @@
         "shop_id": 70405,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -94420,7 +94420,7 @@
         "shop_id": 70476,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -94640,7 +94640,7 @@
         "shop_id": 70292,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -94997,7 +94997,7 @@
         "shop_id": 70076,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -95124,7 +95124,7 @@
         "shop_id": 70328,
         "shop_type_id": 13,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -95249,7 +95249,7 @@
         "shop_id": 70436,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -95361,7 +95361,7 @@
         "shop_id": 70483,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -96396,7 +96396,7 @@
         "shop_id": 70470,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -96761,7 +96761,7 @@
         "shop_id": 0,
         "shop_type_id": 6,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 70,
@@ -96885,7 +96885,7 @@
         "shop_id": 70036,
         "shop_type_id": 2,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -96996,7 +96996,7 @@
         "shop_id": 70236,
         "shop_type_id": 7,
         "show_skin": "stand2",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -97338,7 +97338,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -97463,7 +97463,7 @@
         "shop_id": 70080,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -97575,7 +97575,7 @@
         "shop_id": 70239,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -97686,7 +97686,7 @@
         "shop_id": 70307,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -97906,7 +97906,7 @@
         "shop_id": 70059,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -98017,7 +98017,7 @@
         "shop_id": 70125,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -98126,7 +98126,7 @@
         "shop_id": 70191,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -98253,7 +98253,7 @@
         "shop_id": 70260,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -98692,7 +98692,7 @@
         "shop_id": 70468,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -98925,7 +98925,7 @@
         "shop_id": 70312,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -99176,7 +99176,7 @@
         "shop_id": 70253,
         "shop_type_id": 8,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -99410,7 +99410,7 @@
         "shop_id": 70183,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -99660,7 +99660,7 @@
         "shop_id": 70078,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -99772,7 +99772,7 @@
         "shop_id": 70237,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -99883,7 +99883,7 @@
         "shop_id": 70463,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -100075,7 +100075,7 @@
         "shop_id": 70471,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -100295,7 +100295,7 @@
         "shop_id": 70077,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -100596,7 +100596,7 @@
         "shop_id": 70459,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -100789,7 +100789,7 @@
         "shop_id": 70105,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -100981,7 +100981,7 @@
         "shop_id": 70079,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -101078,7 +101078,7 @@
         "shop_id": 70235,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -101365,7 +101365,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -101555,7 +101555,7 @@
         "shop_id": 0,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -101745,7 +101745,7 @@
         "shop_id": 70204,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102032,7 +102032,7 @@
         "shop_id": 70252,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102129,7 +102129,7 @@
         "shop_id": 70425,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102226,7 +102226,7 @@
         "shop_id": 70441,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102323,7 +102323,7 @@
         "shop_id": 70477,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102515,7 +102515,7 @@
         "shop_id": 70404,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102707,7 +102707,7 @@
         "shop_id": 70469,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -102899,7 +102899,7 @@
         "shop_id": 70501,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -103119,7 +103119,7 @@
         "shop_id": 70244,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -103325,7 +103325,7 @@
         "shop_id": 70285,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -103756,7 +103756,7 @@
         "shop_id": 70462,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -103976,7 +103976,7 @@
         "shop_id": 70180,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -104303,7 +104303,7 @@
         "shop_id": 70046,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -104538,7 +104538,7 @@
         "shop_id": 70148,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -104989,7 +104989,7 @@
         "shop_id": 70016,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -105100,7 +105100,7 @@
         "shop_id": 70013,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -105225,7 +105225,7 @@
         "shop_id": 70262,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -105336,7 +105336,7 @@
         "shop_id": 70289,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -105447,7 +105447,7 @@
         "shop_id": 70378,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -105558,7 +105558,7 @@
         "shop_id": 0,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -105898,7 +105898,7 @@
         "shop_id": 70010,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -106009,7 +106009,7 @@
         "shop_id": 70014,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -106134,7 +106134,7 @@
         "shop_id": 70261,
         "shop_type_id": 11,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -106246,7 +106246,7 @@
         "shop_id": 70288,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -106383,7 +106383,7 @@
         "shop_id": 70370,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -106495,7 +106495,7 @@
         "shop_id": 0,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -106822,7 +106822,7 @@
         "shop_id": 0,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -107042,7 +107042,7 @@
         "shop_id": 70499,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -107262,7 +107262,7 @@
         "shop_id": 70232,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -107591,7 +107591,7 @@
         "shop_id": 70231,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -107837,7 +107837,7 @@
         "shop_id": 70229,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -108167,7 +108167,7 @@
         "shop_id": 70228,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -108278,7 +108278,7 @@
         "shop_id": 70373,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -108607,7 +108607,7 @@
         "shop_id": 70233,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -108842,7 +108842,7 @@
         "shop_id": 70323,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -108954,7 +108954,7 @@
         "shop_id": 70515,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -109174,7 +109174,7 @@
         "shop_id": 70324,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -109394,7 +109394,7 @@
         "shop_id": 70327,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -109505,7 +109505,7 @@
         "shop_id": 70517,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -109834,7 +109834,7 @@
         "shop_id": 70516,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -110054,7 +110054,7 @@
         "shop_id": 70508,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -110274,7 +110274,7 @@
         "shop_id": 70510,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -110507,7 +110507,7 @@
         "shop_id": 70322,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -110727,7 +110727,7 @@
         "shop_id": 70326,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -110838,7 +110838,7 @@
         "shop_id": 70513,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -111167,7 +111167,7 @@
         "shop_id": 70321,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -111278,7 +111278,7 @@
         "shop_id": 70514,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -111498,7 +111498,7 @@
         "shop_id": 70507,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -111718,7 +111718,7 @@
         "shop_id": 70509,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -111938,7 +111938,7 @@
         "shop_id": 70505,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -112158,7 +112158,7 @@
         "shop_id": 70325,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -112269,7 +112269,7 @@
         "shop_id": 70511,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -112489,7 +112489,7 @@
         "shop_id": 70506,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -112709,7 +112709,7 @@
         "shop_id": 70320,
         "shop_type_id": 12,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -113038,7 +113038,7 @@
         "shop_id": 70087,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -113147,7 +113147,7 @@
         "shop_id": 70201,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -113258,7 +113258,7 @@
         "shop_id": 70381,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -113587,7 +113587,7 @@
         "shop_id": 70350,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -113698,7 +113698,7 @@
         "shop_id": 70524,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -113918,7 +113918,7 @@
         "shop_id": 70202,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -114153,7 +114153,7 @@
         "shop_id": 70085,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -114291,7 +114291,7 @@
         "shop_id": 70361,
         "shop_type_id": 9999,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -114621,7 +114621,7 @@
         "shop_id": 70362,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -114858,7 +114858,7 @@
         "shop_id": 70359,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -114995,7 +114995,7 @@
         "shop_id": 70461,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -115202,7 +115202,7 @@
         "shop_id": 70366,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -115435,7 +115435,7 @@
         "shop_id": 70249,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -115562,7 +115562,7 @@
         "shop_id": 70360,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -115791,7 +115791,7 @@
         "shop_id": 70417,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 40,
@@ -115896,7 +115896,7 @@
         "shop_id": 70485,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -116102,7 +116102,7 @@
         "shop_id": 70478,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -135417,6 +135417,115 @@
         "voice_actor": -1,
         "voice_actor_2": -1
     },
+    "900309": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "",
+        "bg_sp": "",
+        "bgm": "",
+        "bound_bone": {
+            "antiaircraft": [
+                [
+                    2.092,
+                    1.003,
+                    0
+                ]
+            ],
+            "cannon": [
+                [
+                    2.068,
+                    0.997,
+                    0
+                ]
+            ],
+            "torpedo": [
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "vicegun": [
+                [
+                    2.084,
+                    1.006,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u82cf\u7ef4\u57c3\u540c\u76df\u7ea7\u6218\u5217\u8230\u2014\u82cf\u7ef4\u57c3\u8d1d\u62c9\u7f57\u65af",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 0,
+        "hand_id": 1,
+        "id": 900309,
+        "illustrator": 1,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\uff1f\uff1f\uff1f",
+        "painting": "suweiaibeilaluosi_hei",
+        "prefab": "suweiaibeilaluosi_hei",
+        "rarity_bg": "",
+        "ship_group": 900308,
+        "shop_id": 0,
+        "shop_type_id": 0,
+        "show_skin": "stand",
+        "skin_type": -1,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.5,
+                            2.346,
+                            0
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "tag": {},
+        "time": "",
+        "voice_actor": -1,
+        "voice_actor_2": -1
+    },
     "901010": {
         "air_bomb_skin": "",
         "air_bullet_skin": "",
@@ -135614,7 +135723,7 @@
         "shop_id": 0,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -135725,7 +135834,7 @@
         "shop_id": 70200,
         "shop_type_id": 4,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -136274,7 +136383,7 @@
         "shop_id": 70367,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -136494,7 +136603,7 @@
         "shop_id": 70198,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -136616,7 +136725,7 @@
         "shop_id": 70357,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -136946,7 +137055,7 @@
         "shop_id": 70365,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -137070,7 +137179,7 @@
         "shop_id": 70489,
         "shop_type_id": 3,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -137291,7 +137400,7 @@
         "shop_id": 70363,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -137526,7 +137635,7 @@
         "shop_id": 70086,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -137638,7 +137747,7 @@
         "shop_id": 70199,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -137858,7 +137967,7 @@
         "shop_id": 70243,
         "shop_type_id": 7,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -137985,7 +138094,7 @@
         "shop_id": 70358,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -138129,7 +138238,7 @@
         "shop_id": 70460,
         "shop_type_id": 2,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -138438,7 +138547,7 @@
         "shop_id": 70213,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -138568,6 +138677,115 @@
         "tag": {},
         "time": "",
         "voice_actor": 30,
+        "voice_actor_2": -1
+    },
+    "9707020": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "",
+        "bg_sp": "",
+        "bgm": "",
+        "bound_bone": {
+            "antiaircraft": [
+                [
+                    2.01,
+                    1.56,
+                    0
+                ]
+            ],
+            "cannon": [
+                [
+                    2.07,
+                    1.53,
+                    0
+                ]
+            ],
+            "torpedo": [
+                [
+                    0.04,
+                    -0.01,
+                    0
+                ]
+            ],
+            "vicegun": [
+                [
+                    2.1,
+                    1.55,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u822a\u7a7a\u6bcd\u8230\u7687\u5bb6\u65b9\u821f\uff0c\u52a0\u5165\u4f60\u7684\u9ebe\u4e0b\u3002\u53ea\u8981\u9601\u4e0b\u662f\u5fc3\u6000\u5927\u5fd7\u4e4b\u4eba\uff0c\u6211\u5c31\u4f1a\u5168\u529b\u4e3a\u4f60\u800c\u6218\uff01",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 0,
+        "hand_id": 1,
+        "id": 9707020,
+        "illustrator": -1,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u7687\u5bb6\u65b9\u821f\u00b7META",
+        "painting": "huangjiafangzhou_alter",
+        "prefab": "huangjiafangzhou_alter",
+        "rarity_bg": "",
+        "ship_group": 970702,
+        "shop_id": 0,
+        "shop_type_id": 0,
+        "show_skin": "stand",
+        "skin_type": -1,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.56,
+                            2.2,
+                            0
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "tag": {},
+        "time": "",
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "10100010": {
@@ -139161,7 +139379,7 @@
         "shop_id": 70038,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -139367,7 +139585,7 @@
         "shop_id": 70039,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -139573,7 +139791,7 @@
         "shop_id": 70040,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -139779,7 +139997,7 @@
         "shop_id": 70041,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -140189,7 +140407,7 @@
         "shop_id": 70118,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -140395,7 +140613,7 @@
         "shop_id": 70119,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -140601,7 +140819,7 @@
         "shop_id": 70122,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -140807,7 +141025,7 @@
         "shop_id": 70120,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -141013,7 +141231,7 @@
         "shop_id": 70121,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -141219,7 +141437,7 @@
         "shop_id": 70123,
         "shop_type_id": 0,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -141425,7 +141643,7 @@
         "shop_id": 70174,
         "shop_type_id": 10,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -141954,7 +142172,7 @@
         "shop_id": 70267,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -142161,7 +142379,7 @@
         "shop_id": 70272,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -142368,7 +142586,7 @@
         "shop_id": 70269,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -142575,7 +142793,7 @@
         "shop_id": 70268,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -142782,7 +143000,7 @@
         "shop_id": 70271,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -142989,7 +143207,7 @@
         "shop_id": 70273,
         "shop_type_id": 9,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -143196,7 +143414,7 @@
         "shop_id": 70270,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -143403,7 +143621,7 @@
         "shop_id": 70445,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -143610,7 +143828,7 @@
         "shop_id": 70447,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -143817,7 +144035,7 @@
         "shop_id": 70446,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -144024,7 +144242,7 @@
         "shop_id": 70448,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -144231,7 +144449,7 @@
         "shop_id": 70449,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -144466,7 +144684,7 @@
         "shop_id": 70450,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
@@ -144687,7 +144905,7 @@
         "shop_id": 70451,
         "shop_type_id": 6,
         "show_skin": "stand",
-        "skin_type": 0,
+        "skin_type": 4,
         "smoke": [
             [
                 50,
