@@ -16103,6 +16103,94 @@
         "title": "\u5728\u6307\u6325\u5ba4",
         "type": 1
     },
+    "1581": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a11",
+        "icon": "memory_danfo",
+        "id": 1581,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO1",
+        "subtitle": "",
+        "title": "\u63a5\u53d7\u59d4\u6258\uff01",
+        "type": 1
+    },
+    "1582": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a12",
+        "icon": "memory_danfo",
+        "id": 1582,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO2",
+        "subtitle": "",
+        "title": "\u7b2c\u4e00\u4e2a\u4efb\u52a1\uff0c\u7b2c\u4e00\u652f\u56e2\u961f",
+        "type": 1
+    },
+    "1583": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a13",
+        "icon": "memory_danfo",
+        "id": 1583,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO3",
+        "subtitle": "",
+        "title": "\u9a91\u58eb\u4e5f\u9700\u8981\u5efa\u8bae",
+        "type": 1
+    },
+    "1584": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a14",
+        "icon": "memory_danfo",
+        "id": 1584,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO4",
+        "subtitle": "",
+        "title": "\u9a91\u58eb\u59d0\u59b9",
+        "type": 1
+    },
+    "1585": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a15",
+        "icon": "memory_danfo",
+        "id": 1585,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO5",
+        "subtitle": "",
+        "title": "\u6765\u81ea\u5bf9\u624b\u7684\u59d4\u6258",
+        "type": 1
+    },
+    "1586": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a16",
+        "icon": "memory_danfo",
+        "id": 1586,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO6",
+        "subtitle": "",
+        "title": "\u6bd4\u8d5b\u5f00\u59cb\uff01",
+        "type": 1
+    },
+    "1587": {
+        "condition": "\u89e3\u9501\u300c\u4e39\u4f5b\u7684\u6e2f\u533a\u59d4\u6258\uff01\u300d\u4efb\u52a17",
+        "icon": "memory_danfo",
+        "id": 1587,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DANFO7",
+        "subtitle": "",
+        "title": "\u76f4\u767d\u7684\u8a93\u8a00",
+        "type": 1
+    },
+    "1588": {
+        "condition": "\u901a\u8fc7\u300c\u9ec4\u91d1\u7684\u79d8\u5b9d\u300d",
+        "icon": "memory_huangjindemibao",
+        "id": 1588,
+        "is_open": 0,
+        "mask": "bg/bg_story_outdoor",
+        "story": "HUANGJINDEMIBAO4",
+        "subtitle": "",
+        "title": "\u9ec4\u91d1\u7684\u79d8\u5b9d\u00b7\u5360\u5751",
+        "type": 1
+    },
     "4000": {
         "condition": "\u8fdb\u5165\u300c\u5f02\u8272\u683c\u300d\u4f5c\u6218B4/D4",
         "icon": "activity",
