@@ -16181,14 +16181,14 @@
         "type": 1
     },
     "1588": {
-        "condition": "\u901a\u8fc7\u300c\u9ec4\u91d1\u7684\u79d8\u5b9d\u300d",
+        "condition": "\uff1f\uff1f\uff1f",
         "icon": "memory_huangjindemibao",
         "id": 1588,
         "is_open": 0,
         "mask": "bg/bg_story_outdoor",
         "story": "HUANGJINDEMIBAO4",
         "subtitle": "",
-        "title": "\u9ec4\u91d1\u7684\u79d8\u5b9d\u00b7\u5360\u5751",
+        "title": "\u9ec4\u91d1\u7684\u79d8\u5b9d\u00b7\u7279\u522b\u7bc7",
         "type": 1
     },
     "4000": {
