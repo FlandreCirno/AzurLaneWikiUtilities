@@ -17388,6 +17388,110 @@
         "voice_actor": 143,
         "voice_actor_2": -1
     },
+    "103082": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "104",
+        "bg_sp": "1102",
+        "bgm": "",
+        "bound_bone": {
+            "antiaircraft": [
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "cannon": [
+                [
+                    1.15,
+                    0.83,
+                    0
+                ]
+            ],
+            "vicegun": [
+                [
+                    1.15,
+                    0.84,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u55bd\u54c8\uff0c\u51c6\u5907\u597d\u4e86\u5417\uff0c\u6307\u6325\u5b98\uff1f\u72c2\u6b22\u4e4b\u591c\u5f00\u59cb\u4e86\u54e6\uff5e\u4e0d\u7528\u62c5\u5fc3\u996e\u6599\u4f9b\u5e94\uff0c\u5c3d\u60c5\u5730\u4eab\u53d7\u5609\u5e74\u534e\u5427\uff5e",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 2,
+        "hand_id": 1,
+        "id": 103082,
+        "illustrator": -1,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u9ed1\u5154\u5609\u5e74\u534e",
+        "painting": "asituoliya_2",
+        "prefab": "asituoliya_2",
+        "rarity_bg": "",
+        "ship_group": 10308,
+        "shop_id": 70527,
+        "shop_type_id": 9999,
+        "show_skin": "stand",
+        "skin_type": 4,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.57,
+                            2.33,
+                            0
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "tag": [
+            2
+        ],
+        "time": "",
+        "voice_actor": 143,
+        "voice_actor_2": -1
+    },
     "103090": {
         "air_bomb_skin": "",
         "air_bullet_skin": "",
@@ -26405,6 +26509,103 @@
             ]
         ],
         "tag": {},
+        "time": "",
+        "voice_actor": 179,
+        "voice_actor_2": -1
+    },
+    "107171": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "109",
+        "bg_sp": "1102",
+        "bgm": "",
+        "bound_bone": {
+            "antiaircraft": [
+                [
+                    1.29,
+                    1.03,
+                    0
+                ]
+            ],
+            "plane": [
+                [
+                    1.41,
+                    1.07,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u4efb\u52a1\u544a\u4e00\u6bb5\u843d\uff0c\u6b63\u597d\u6765\u8bd5\u8bd5\u957f\u5c9b\u63a8\u8350\u7684\u65b0\u6e38\u620f\u5427\u3002\u2026\u6307\u6325\u5b98\uff1f\u81ea\u5df1\u627e\u4e2a\u4f4d\u7f6e\u5750\u5427\uff0c\u5c31\u4e0d\u7279\u610f\u62db\u5f85\u4f60\u4e86\u3002",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 1,
+        "hand_id": 1,
+        "id": 107171,
+        "illustrator": -1,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u7eb5\u60c5\u5047\u65e5",
+        "painting": "bangkeshan_2",
+        "prefab": "bangkeshan_2",
+        "rarity_bg": "",
+        "ship_group": 10717,
+        "shop_id": 70526,
+        "shop_type_id": 9,
+        "show_skin": "stand",
+        "skin_type": 4,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.49,
+                            2.34,
+                            0
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "tag": [
+            2
+        ],
         "time": "",
         "voice_actor": 179,
         "voice_actor_2": -1
