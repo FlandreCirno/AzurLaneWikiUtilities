@@ -45411,8 +45411,13 @@
     },
     "301851": {
         "airassist_time": {},
-        "buff_list": {},
-        "buff_list_display": {},
+        "buff_list": [
+            14300
+        ],
+        "buff_list_display": [
+            14300,
+            22081
+        ],
         "can_get_proficency": 0,
         "energy": 150,
         "equip_1": [
@@ -45448,8 +45453,14 @@
     },
     "301852": {
         "airassist_time": {},
-        "buff_list": {},
-        "buff_list_display": {},
+        "buff_list": [
+            14300,
+            22081
+        ],
+        "buff_list_display": [
+            14300,
+            22081
+        ],
         "can_get_proficency": 0,
         "energy": 150,
         "equip_1": [
@@ -45485,8 +45496,14 @@
     },
     "301853": {
         "airassist_time": {},
-        "buff_list": {},
-        "buff_list_display": {},
+        "buff_list": [
+            14300,
+            22081
+        ],
+        "buff_list_display": [
+            14300,
+            22081
+        ],
         "can_get_proficency": 0,
         "energy": 150,
         "equip_1": [
@@ -45522,8 +45539,14 @@
     },
     "301854": {
         "airassist_time": {},
-        "buff_list": {},
-        "buff_list_display": {},
+        "buff_list": [
+            14300,
+            22082
+        ],
+        "buff_list_display": [
+            14300,
+            22082
+        ],
         "can_get_proficency": 1,
         "energy": 150,
         "equip_1": [
