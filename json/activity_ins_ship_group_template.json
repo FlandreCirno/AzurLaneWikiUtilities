@@ -934,6 +934,11 @@
         "sculpture": "u81",
         "ship_group": 40801
     },
+    "40802": {
+        "name": "UBoat47",
+        "sculpture": "U47",
+        "ship_group": 40802
+    },
     "40804": {
         "name": "U.B.556",
         "sculpture": "u556",
@@ -1034,6 +1039,26 @@
         "sculpture": "wenqinzuojiaobeidi",
         "ship_group": 60103
     },
+    "60104": {
+        "name": "Maestrale",
+        "sculpture": "xibeifeng",
+        "ship_group": 60104
+    },
+    "60105": {
+        "name": "Libeccio",
+        "sculpture": "xinanfeng",
+        "ship_group": 60105
+    },
+    "60106": {
+        "name": "Captain.Da.Recco",
+        "sculpture": "daleike",
+        "ship_group": 60106
+    },
+    "60201": {
+        "name": "C_Abruzzi",
+        "sculpture": "abuluqi",
+        "ship_group": 60201
+    },
     "60301": {
         "name": "Da Trento",
         "sculpture": "teluntuo",
@@ -1049,10 +1074,25 @@
         "sculpture": "bola",
         "ship_group": 60303
     },
+    "60501": {
+        "name": "VV_Veneto",
+        "sculpture": "weineituo",
+        "ship_group": 60501
+    },
     "60502": {
         "name": "VV_Littorio",
         "sculpture": "lituoliao",
         "ship_group": 60502
+    },
+    "60701": {
+        "name": "Aquila",
+        "sculpture": "tianying",
+        "ship_group": 60701
+    },
+    "60801": {
+        "name": "Torricelli",
+        "sculpture": "tuolichaili",
+        "ship_group": 60801
     },
     "70102": {
         "name": "Grozny",
@@ -1186,7 +1226,7 @@
     },
     "90111": {
         "name": "VivaLaze",
-        "sculpture": "edu_idol",
+        "sculpture": "edu",
         "ship_group": 90111
     },
     "90201": {
