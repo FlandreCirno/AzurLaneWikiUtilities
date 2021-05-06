@@ -64884,7 +64884,9 @@
         "equip_id_2": 49000,
         "equip_id_3": 0,
         "group_type": 40703,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 407031,
         "max_level": 100,
         "oil_at_end": 7,
@@ -64929,7 +64931,9 @@
         "equip_id_2": 0,
         "equip_id_3": 0,
         "group_type": 40703,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 407032,
         "max_level": 100,
         "oil_at_end": 9,
@@ -64975,7 +64979,9 @@
         "equip_id_2": 0,
         "equip_id_3": 0,
         "group_type": 40703,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 407033,
         "max_level": 100,
         "oil_at_end": 11,
@@ -65021,7 +65027,9 @@
         "equip_id_2": 0,
         "equip_id_3": 0,
         "group_type": 40703,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 407034,
         "max_level": 100,
         "oil_at_end": 13,
@@ -71547,7 +71555,9 @@
         "equip_id_2": 95800,
         "equip_id_3": 0,
         "group_type": 60701,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 607011,
         "max_level": 100,
         "oil_at_end": 7,
@@ -71592,7 +71602,9 @@
         "equip_id_2": 0,
         "equip_id_3": 0,
         "group_type": 60701,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 607012,
         "max_level": 100,
         "oil_at_end": 9,
@@ -71638,7 +71650,9 @@
         "equip_id_2": 0,
         "equip_id_3": 0,
         "group_type": 60701,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 607013,
         "max_level": 100,
         "oil_at_end": 11,
@@ -71685,7 +71699,9 @@
         "equip_id_2": 0,
         "equip_id_3": 0,
         "group_type": 60701,
-        "hide_buff_list": {},
+        "hide_buff_list": [
+            340
+        ],
         "id": 607014,
         "max_level": 100,
         "oil_at_end": 13,
