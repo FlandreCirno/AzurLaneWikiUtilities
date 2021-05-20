@@ -1980,6 +1980,18 @@
         "title": "\u590d\u5174\u7684\u8d5e\u7f8e\u8bd7",
         "type": 2
     },
+    "197": {
+        "icon": "title_event",
+        "id": 197,
+        "memories": [
+            1661,
+            1662,
+            1663,
+            1664
+        ],
+        "title": "\u94f6\u8272\u6863\u6848",
+        "type": 2
+    },
     "501": {
         "icon": "title_chara_mingshi",
         "id": 501,
@@ -2861,6 +2873,21 @@
             1657
         ],
         "title": "\u5927\u5c0f\u59d0\u7684\u5b66\u4e60\u65e5\u8bb0",
+        "type": 3
+    },
+    "561": {
+        "icon": "title_chara_u47",
+        "id": 561,
+        "memories": [
+            1671,
+            1672,
+            1673,
+            1674,
+            1675,
+            1676,
+            1677
+        ],
+        "title": "\u6e29\u67d4\u3001\u5b89\u9759\u53c8\u6e29\u6696",
         "type": 3
     }
 }

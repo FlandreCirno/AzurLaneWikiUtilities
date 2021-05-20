@@ -5534,6 +5534,27 @@
                     ""
                 ],
                 0
+            ],
+            [
+                "\u8fdb\u884c\u91cd\u578b\u8230\u5efa\u9020",
+                [
+                    "GETBOAT",
+                    {
+                        "page": 1,
+                        "projectName": "heavy"
+                    }
+                ],
+                0
+            ],
+            [
+                "\u519b\u9700\u5546\u5e97\u5151\u6362",
+                [
+                    "SHOP",
+                    {
+                        "warp": "supplies"
+                    }
+                ],
+                0
             ]
         ],
         "group_type": 20505,
@@ -9218,6 +9239,17 @@
                 "\u9650\u65f6\u6d3b\u52a8\uff1a\u94c1\u8840\u3001\u97f3\u7b26&\u8a93\u8a00",
                 [
                     ""
+                ],
+                0
+            ],
+            [
+                "\u8fdb\u884c\u91cd\u578b\u8230\u5efa\u9020",
+                [
+                    "GETBOAT",
+                    {
+                        "page": 1,
+                        "projectName": "heavy"
+                    }
                 ],
                 0
             ]
@@ -13632,6 +13664,17 @@
                     ""
                 ],
                 0
+            ],
+            [
+                "\u8fdb\u884c\u7279\u578b\u8230\u5efa\u9020",
+                [
+                    "GETBOAT",
+                    {
+                        "page": 1,
+                        "projectName": "special"
+                    }
+                ],
+                0
             ]
         ],
         "group_type": 40804,
@@ -13661,6 +13704,17 @@
                 "\u9650\u65f6\u6d3b\u52a8\uff1a\u94c1\u8840\u3001\u97f3\u7b26&\u8a93\u8a00",
                 [
                     ""
+                ],
+                0
+            ],
+            [
+                "\u8fdb\u884c\u7279\u578b\u8230\u5efa\u9020",
+                [
+                    "GETBOAT",
+                    {
+                        "page": 1,
+                        "projectName": "special"
+                    }
                 ],
                 0
             ]
@@ -13694,6 +13748,16 @@
                     ""
                 ],
                 0
+            ],
+            [
+                "\u519b\u9700\u5546\u5e97\u5151\u6362",
+                [
+                    "SHOP",
+                    {
+                        "warp": "supplies"
+                    }
+                ],
+                0
             ]
         ],
         "group_type": 40136,
@@ -13723,6 +13787,16 @@
                 "\u9650\u65f6\u6d3b\u52a8\uff1a\u94c1\u8840\u3001\u97f3\u7b26&\u8a93\u8a00",
                 [
                     ""
+                ],
+                0
+            ],
+            [
+                "\u519b\u9700\u5546\u5e97\u5151\u6362",
+                [
+                    "SHOP",
+                    {
+                        "warp": "supplies"
+                    }
                 ],
                 0
             ]
@@ -16153,6 +16227,16 @@
                     ""
                 ],
                 0
+            ],
+            [
+                "\u519b\u9700\u5546\u5e97\u5151\u6362",
+                [
+                    "SHOP",
+                    {
+                        "warp": "supplies"
+                    }
+                ],
+                0
             ]
         ],
         "group_type": 40126,
@@ -16182,6 +16266,17 @@
                 "\u9650\u65f6\u6d3b\u52a8\uff1a\u94c1\u8840\u3001\u97f3\u7b26&\u8a93\u8a00",
                 [
                     ""
+                ],
+                0
+            ],
+            [
+                "\u8fdb\u884c\u7279\u578b\u8230\u5efa\u9020",
+                [
+                    "GETBOAT",
+                    {
+                        "page": 1,
+                        "projectName": "special"
+                    }
                 ],
                 0
             ]
