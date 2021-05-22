@@ -63,5 +63,14 @@ def parseDataFile(fileName, filePath = r'sharecfg', mode = 0):
         saveJsonFile(output, fileName)
         return output
         
+
+def getShipName(skinID, skinTemplate, groupID = None):
+    if not groupID:
+        groupID = skinTemplate[skinID]['ship_group']
+    for k, v in skinTemplate.items():
+        if groupID == v['ship_group'] and v['group_index'] == 0:
+            return v['name']
+    return skinTemplate[skinID]['name']
+        
 if __name__ == "__main__":
     pass
