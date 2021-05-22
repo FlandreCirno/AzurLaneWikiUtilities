@@ -2,6 +2,7 @@
 import re, os
 from slpp import slpp
 import util
+getShipName = util.getShipName
 
 def getMemoryGroup():
     return util.parseDataFile('memory_group')
@@ -61,13 +62,6 @@ def getNameCode():
 def getShipSkinTemplate():
     return util.parseDataFile('ship_skin_template',
     filePath = os.path.join('sharecfg', 'ship_skin_template_sublist'), mode = 1)
-
-def getShipName(skinID, skinTemplate, shipStatistics, shipTemplate):
-    shipGroup = skinTemplate[skinID]['ship_group']
-    for k, v in skinTemplate.items():
-        if shipGroup == v['ship_group'] and v['group_index'] == 0:
-            return v['name']
-    return skinTemplate[skinID]['name']
 
 def getGroup(memoryGroup, worldGroup):
     group = []
@@ -155,7 +149,7 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
             if 'actorName' in script.keys():
                 name = script['actorName']
             elif actor and actor > 0:
-                name = getShipName(actor, skinTemplate, shipStatistics, shipTemplate)
+                name = getShipName(actor, skinTemplate)
             else:
                 name = ''
             type = 'say'
@@ -229,7 +223,7 @@ def wikiSlide(slide, lastActor):
             output += '<br>\n'
     if slide['option'] and 'optionFlag' in slide['option'].keys():
         output += "'''''<span style=" + '"color:black;"' + ">（选择项" + str(slide['option']['optionFlag']) + "）</span>'''''"
-    output += nowiki(slide['words']) + '<br>\n'
+    output += nowiki(slide['words']).replace('\n', '<br>\n') + '<br>\n'
     if slide['option'] and 'options' in slide['option'].keys():
         for option in slide['option']['options']:
             output += "'''''<span style=" + '"color:black;"' + ">选择项" + str(option['flag']) + "："
