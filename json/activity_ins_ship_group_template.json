@@ -59,6 +59,21 @@
         "sculpture": "kubo",
         "ship_group": 10144
     },
+    "10147": {
+        "name": "Bear-MKII",
+        "sculpture": "molisen",
+        "ship_group": 10147
+    },
+    "10203": {
+        "name": "Brooklyn",
+        "sculpture": "bulukelin",
+        "ship_group": 10203
+    },
+    "10204": {
+        "name": "PhoenixBurn",
+        "sculpture": "feinikesi",
+        "ship_group": 10204
+    },
     "10205": {
         "name": "HelenaSG",
         "sculpture": "hailunna",
@@ -134,6 +149,11 @@
         "sculpture": "mabuerheide_3",
         "ship_group": 10227
     },
+    "10229": {
+        "name": "USSBOISE",
+        "sculpture": "boyixi",
+        "ship_group": 10229
+    },
     "10306": {
         "name": "INDI_LOVE",
         "sculpture": "botelan",
@@ -169,6 +189,11 @@
         "sculpture": "mingniabolisi",
         "ship_group": 10313
     },
+    "10314": {
+        "name": "HappyEveryDay!",
+        "sculpture": "jiujinshan",
+        "ship_group": 10314
+    },
     "10316": {
         "name": "Justice_B",
         "sculpture": "baerdimo",
@@ -183,6 +208,11 @@
         "name": "Nevada",
         "sculpture": "neihuada",
         "ship_group": 10501
+    },
+    "10517": {
+        "name": "BlackDragon",
+        "sculpture": "xinzexi",
+        "ship_group": 10517
     },
     "10519": {
         "name": "2700P.Justice",
@@ -224,6 +254,11 @@
         "sculpture": "wuwei",
         "ship_group": 10711
     },
+    "10714": {
+        "name": "Ticonderoga",
+        "sculpture": "tikangdeluojia",
+        "ship_group": 10714
+    },
     "10722": {
         "name": "Independence",
         "sculpture": "duli",
@@ -241,8 +276,18 @@
     },
     "10802": {
         "name": "G_Albacore",
-        "sculpture": "daqinghuayu_idol",
+        "sculpture": "daqinghuayu",
         "ship_group": 10802
+    },
+    "10803": {
+        "name": "Cavalla",
+        "sculpture": "jiqi",
+        "ship_group": 10803
+    },
+    "10806": {
+        "name": "CharmArcher",
+        "sculpture": "sheshuiyu",
+        "ship_group": 10806
     },
     "20101": {
         "name": "ThornyA",
@@ -788,6 +833,11 @@
         "name": "Shinano",
         "sculpture": "xinnong",
         "ship_group": 30708
+    },
+    "30801": {
+        "name": "I19_sensuisenntai",
+        "sculpture": "i19",
+        "ship_group": 30801
     },
     "30802": {
         "name": "I26_sensuisenntai",
