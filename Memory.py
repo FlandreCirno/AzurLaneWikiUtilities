@@ -214,13 +214,13 @@ def wikiSlide(slide, lastActor):
         name = None
     else:
         name = slide['name']
-    if name:
-        if slide['color']:
-            output += '<span style="color:' + slide['color'] + ';">' + name + '：</span><br>\n'
-        else:
-            if len(name) > 0:
+    if name != None:
+        if len(name) > 0:
+            if slide['color']:
+                output += '<span style="color:' + slide['color'] + ';">' + name + '：</span>'
+            else:
                 output += name + '：'
-            output += '<br>\n'
+        output += '<br>\n'
     if slide['option'] and 'optionFlag' in slide['option'].keys():
         output += "'''''<span style=" + '"color:black;"' + ">（选择项" + str(slide['option']['optionFlag']) + "）</span>'''''"
     output += nowiki(slide['words']).replace('\n', '<br>\n') + '<br>\n'
