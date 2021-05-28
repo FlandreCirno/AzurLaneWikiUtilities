@@ -1,0 +1,605 @@
+{
+    "100001": {
+        "condition": "\u30bb\u30a4\u30ec\u30fc\u30f3\u4f5c\u6226\u958b\u59cb",
+        "group_ID": 1,
+        "icon": "memory_dashijie",
+        "id": 100001,
+        "mask": "bg/bg_memory",
+        "name": "\u30d6\u30ea\u30fc\u30d5\u30a3\u30f3\u30b0",
+        "story": "WORLD100A"
+    },
+    "100002": {
+        "condition": "1\u7ae0\u30fb1\u7bc0\u958b\u59cb",
+        "group_ID": 2,
+        "icon": "memory_dashijie",
+        "id": 100002,
+        "mask": "bg/bg_memory",
+        "name": "\u5e8f\u7ae0\u30fb\u2160",
+        "story": "GWORLD101A"
+    },
+    "100003": {
+        "condition": "\u30db\u30fc\u30cd\u30c3\u30c8\u3068\u4f1a\u8a71",
+        "group_ID": 3,
+        "icon": "memory_dashijie",
+        "id": 100003,
+        "mask": "bg/bg_memory",
+        "name": "\u5e8f\u7ae0\u30fb\u2161",
+        "story": "GWORLD101B"
+    },
+    "100004": {
+        "condition": "\u30db\u30fc\u30cd\u30c3\u30c8\u3068\u6f14\u7fd2",
+        "group_ID": 4,
+        "icon": "memory_dashijie",
+        "id": 100004,
+        "mask": "bg/bg_memory",
+        "name": "\u5e8f\u7ae0\u30fb\u2162",
+        "story": "GWORLD101C"
+    },
+    "100005": {
+        "condition": "\u6226\u95d8\u64a4\u9000\u7d42\u4e86\u5f8c",
+        "group_ID": 5,
+        "icon": "memory_dashijie",
+        "id": 100005,
+        "mask": "bg/bg_memory",
+        "name": "\u5e8f\u7ae0\u30fb\u2163",
+        "story": "GWORLD101D"
+    },
+    "100006": {
+        "condition": "\u6f14\u7fd2\u6d77\u57df\u306eNY\u6e2f\u8a2a\u554f",
+        "group_ID": 6,
+        "icon": "memory_dashijie",
+        "id": 100006,
+        "mask": "bg/bg_memory",
+        "name": "\u51fa\u9663\u306e\u89d2\u7b1b",
+        "story": "WORLD102A"
+    },
+    "100007": {
+        "condition": "1\u7ae0\u30fb2\u7bc0\u958b\u59cb",
+        "group_ID": 7,
+        "icon": "memory_dashijie",
+        "id": 100007,
+        "mask": "bg/bg_memory",
+        "name": "\u3082\u3046\u4e00\u5ea6\u6226\u5834\u3078",
+        "story": "WORLD105A"
+    },
+    "100008": {
+        "condition": "1\u7ae0\u30fb2\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 8,
+        "icon": "memory_dashijie",
+        "id": 100008,
+        "mask": "bg/bg_memory",
+        "name": "\u30ec\u30fc\u30c0\u30fc\u30e2\u30b8\u30e5\u30fc\u30eb",
+        "story": "WORLD105B"
+    },
+    "100009": {
+        "condition": "\u30a8\u30ea\u30a2\u2460\u306e\u6575\u3092\u5168\u3066\u6483\u7834",
+        "group_ID": 9,
+        "icon": "memory_dashijie",
+        "id": 100009,
+        "mask": "bg/bg_memory",
+        "name": "\u8a18\u61b6\u30ed\u30b0",
+        "story": "WORLD105C"
+    },
+    "100010": {
+        "condition": "\u30a8\u30ea\u30a2\u2461\u306e\u6575\u3092\u5168\u3066\u6483\u7834",
+        "group_ID": 10,
+        "icon": "memory_dashijie",
+        "id": 100010,
+        "mask": "bg/bg_memory",
+        "name": "\u75d5\u8de1",
+        "story": "WORLD105D"
+    },
+    "100011": {
+        "condition": "1\u7ae0\u30fb2\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 11,
+        "icon": "memory_dashijie",
+        "id": 100011,
+        "mask": "bg/bg_memory",
+        "name": "\u8b0e\u306e\u8266\u8239",
+        "story": "WORLD105E"
+    },
+    "100012": {
+        "condition": "1\u7ae0\u30fb3\u7bc0\u958b\u59cb",
+        "group_ID": 12,
+        "icon": "memory_dashijie",
+        "id": 100012,
+        "mask": "bg/bg_memory",
+        "name": "\u6575\u306e\u6575",
+        "story": "WORLD106A"
+    },
+    "100013": {
+        "condition": "1\u7ae0\u30fb3\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 13,
+        "icon": "memory_dashijie",
+        "id": 100013,
+        "mask": "bg/bg_memory",
+        "name": "\u63a2\u7d22\u30fb1",
+        "story": "WORLD106B"
+    },
+    "100014": {
+        "condition": "1\u7ae0\u30fb3\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 14,
+        "icon": "memory_dashijie",
+        "id": 100014,
+        "mask": "bg/bg_memory",
+        "name": "\u63a2\u7d22\u30fb2",
+        "story": "WORLD106C"
+    },
+    "100015": {
+        "condition": "1\u7ae0\u30fb3\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 15,
+        "icon": "memory_dashijie",
+        "id": 100015,
+        "mask": "bg/bg_memory",
+        "name": "\u63a2\u7d22\u30fb3",
+        "story": "WORLD106D"
+    },
+    "100016": {
+        "condition": "\u5168\u3066\u306e\u6575\u3092\u6483\u7834",
+        "group_ID": 16,
+        "icon": "memory_dashijie",
+        "id": 100016,
+        "mask": "bg/bg_memory",
+        "name": "\u30a8\u30ea\u30a2\u78ba\u4fdd",
+        "story": "WORLD106E"
+    },
+    "100017": {
+        "condition": "1\u7ae0\u30fb4\u7bc0\u958b\u59cb",
+        "group_ID": 17,
+        "icon": "memory_dashijie",
+        "id": 100017,
+        "mask": "bg/bg_memory",
+        "name": "\u4f5c\u6226\u9032\u6357",
+        "story": "WORLD107A"
+    },
+    "100018": {
+        "condition": "\u6575\u8266\u968a\u30925\u3064\u6483\u7834\u3059\u308b",
+        "group_ID": 18,
+        "icon": "memory_dashijie",
+        "id": 100018,
+        "mask": "bg/bg_memory",
+        "name": "\u30ec\u30c3\u30c9\u30a2\u30af\u30b7\u30ba",
+        "story": "WORLD107B"
+    },
+    "100019": {
+        "condition": "1\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 19,
+        "icon": "memory_dashijie",
+        "id": 100019,
+        "mask": "bg/bg_memory",
+        "name": "\u901a\u4fe1",
+        "story": "WORLD108A"
+    },
+    "100020": {
+        "condition": "1\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 20,
+        "icon": "memory_dashijie",
+        "id": 100020,
+        "mask": "bg/bg_memory",
+        "name": "\u5bfe\u7a7a\u6226",
+        "story": "WORLD108B"
+    },
+    "100021": {
+        "condition": "\u9244\u8840\u4e3b\u529b\u8266\u968a\u3092\u6483\u9000",
+        "group_ID": 21,
+        "icon": "memory_dashijie",
+        "id": 100021,
+        "mask": "bg/bg_memory",
+        "name": "\u505c\u6226\u2026\uff1f",
+        "story": "WORLD108C"
+    },
+    "100022": {
+        "condition": "1\u7ae0\u30fb6\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 22,
+        "icon": "memory_dashijie",
+        "id": 100022,
+        "mask": "bg/bg_memory",
+        "name": "\u6e96\u5099",
+        "story": "WORLD109A"
+    },
+    "100023": {
+        "condition": "1\u7ae0\u30fb6\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 23,
+        "icon": "memory_dashijie",
+        "id": 100023,
+        "mask": "bg/bg_memory",
+        "name": "\u6e96\u5099\u5b8c\u4e86",
+        "story": "WORLD109B"
+    },
+    "100024": {
+        "condition": "\u4f59\u71fc\u6226\u958b\u653e",
+        "group_ID": 24,
+        "icon": "memory_dashijie",
+        "id": 100024,
+        "mask": "bg/bg_memory",
+        "name": "\u4f59\u71fc\u5ea7\u6a19",
+        "story": "GWORLD109A"
+    },
+    "100025": {
+        "condition": "2\u7ae0\u30fb1\u7bc0\u306e\u6e2f\u306b\u5165\u6e2f",
+        "group_ID": 1,
+        "icon": "memory_dashijie",
+        "id": 100025,
+        "mask": "bg/bg_memory",
+        "name": "\u5973\u738b\u306e\u8cac\u4efb",
+        "story": "WORLD200A"
+    },
+    "100026": {
+        "condition": "2\u7ae0\u30fb1\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 2,
+        "icon": "memory_dashijie",
+        "id": 100026,
+        "mask": "bg/bg_memory",
+        "name": "\u96c6\u7d50",
+        "story": "WORLD200B"
+    },
+    "100027": {
+        "condition": "2\u7ae0\u30fb2\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 3,
+        "icon": "memory_dashijie",
+        "id": 100027,
+        "mask": "bg/bg_memory",
+        "name": "\u5171\u540c\u4f5c\u6226",
+        "story": "WORLD201A"
+    },
+    "100028": {
+        "condition": "2\u7ae0\u30fb3\u7bc0\u958b\u59cb",
+        "group_ID": 4,
+        "icon": "memory_dashijie",
+        "id": 100028,
+        "mask": "bg/bg_memory",
+        "name": "\u6383\u8a0e",
+        "story": "WORLD202A"
+    },
+    "100029": {
+        "condition": "\u5168\u3066\u306e\u6575\u3092\u6483\u7834",
+        "group_ID": 5,
+        "icon": "memory_dashijie",
+        "id": 100029,
+        "mask": "bg/bg_memory",
+        "name": "\u6551\u63f4\u4fe1\u53f7",
+        "story": "WORLD202B"
+    },
+    "100030": {
+        "condition": "2\u7ae0\u30fb4\u7bc0\u958b\u59cb",
+        "group_ID": 6,
+        "icon": "memory_dashijie",
+        "id": 100030,
+        "mask": "bg/bg_memory",
+        "name": "\u906d\u96e3\u5730\u70b9",
+        "story": "WORLD203A"
+    },
+    "100031": {
+        "condition": "2\u7ae0\u30fb4\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 7,
+        "icon": "memory_dashijie",
+        "id": 100031,
+        "mask": "bg/bg_memory",
+        "name": "\u6b8b\u9ab8",
+        "story": "WORLD203B"
+    },
+    "100032": {
+        "condition": "2\u7ae0\u30fb4\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 8,
+        "icon": "memory_dashijie",
+        "id": 100032,
+        "mask": "bg/bg_memory",
+        "name": "\u6b8b\u5f71",
+        "story": "WORLD203C"
+    },
+    "100033": {
+        "condition": "2\u7ae0\u30fb4\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 9,
+        "icon": "memory_dashijie",
+        "id": 100033,
+        "mask": "bg/bg_memory",
+        "name": "\u7279\u5225\u4efb\u52d9",
+        "story": "WORLD203D"
+    },
+    "100034": {
+        "condition": "2\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 10,
+        "icon": "memory_dashijie",
+        "id": 100034,
+        "mask": "bg/bg_memory",
+        "name": "\u5973\u738b\u965b\u4e0b\u306e\u9023\u7d61",
+        "story": "WORLD204A"
+    },
+    "100035": {
+        "condition": "2\u7ae0\u30fb6\u7bc0\u958b\u59cb",
+        "group_ID": 11,
+        "icon": "memory_dashijie",
+        "id": 100035,
+        "mask": "bg/bg_memory",
+        "name": "\u91cd\u529b\u7570\u5e38",
+        "story": "WORLD205A"
+    },
+    "100036": {
+        "condition": "\u5168\u3066\u306e\u6575\u3092\u6483\u7834",
+        "group_ID": 12,
+        "icon": "memory_dashijie",
+        "id": 100036,
+        "mask": "bg/bg_memory",
+        "name": "\u6163\u308c\u306e\u8a71\u984c",
+        "story": "WORLD205B"
+    },
+    "100037": {
+        "condition": "2\u7ae0\u30fb6\u7bc0\u6575\u7279\u6b8a\u30e6\u30cb\u30c3\u30c8\u6483\u7834",
+        "group_ID": 13,
+        "icon": "memory_dashijie",
+        "id": 100037,
+        "mask": "bg/bg_memory",
+        "name": "\u5f37\u6575",
+        "story": "WORLD205C"
+    },
+    "100038": {
+        "condition": "\u6575\u7279\u6b8a\u30e6\u30cb\u30c3\u30c8\u6483\u7834",
+        "group_ID": 14,
+        "icon": "memory_dashijie",
+        "id": 100038,
+        "mask": "bg/bg_memory",
+        "name": "\u89e3\u6c7a",
+        "story": "WORLD205D"
+    },
+    "100039": {
+        "condition": "3\u7ae0\u30fb1\u7bc0\u306e\u6e2f\u306b\u5165\u6e2f",
+        "group_ID": 1,
+        "icon": "memory_dashijie",
+        "id": 100039,
+        "mask": "bg/bg_memory",
+        "name": "\u5225\u50cd\u968a",
+        "story": "WORLD300A"
+    },
+    "100040": {
+        "condition": "3\u7ae0\u30fb1\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 2,
+        "icon": "memory_dashijie",
+        "id": 100040,
+        "mask": "bg/bg_memory",
+        "name": "\u30b7\u30b9\u30c6\u30e0\u30c1\u30a7\u30c3\u30af",
+        "story": "WORLD300B"
+    },
+    "100041": {
+        "condition": "3\u7ae0\u30fb2\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 3,
+        "icon": "memory_dashijie",
+        "id": 100041,
+        "mask": "bg/bg_memory",
+        "name": "\u9244\u8840\u306e\u52d5\u5411",
+        "story": "WORLD301A"
+    },
+    "100042": {
+        "condition": "3\u7ae0\u30fb3\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 4,
+        "icon": "memory_dashijie",
+        "id": 100042,
+        "mask": "bg/bg_memory",
+        "name": "\u5473\u65b9\u306e\u75d5\u8de1\uff1f",
+        "story": "WORLD302A"
+    },
+    "100043": {
+        "condition": "3\u7ae0\u30fb3\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 5,
+        "icon": "memory_dashijie",
+        "id": 100043,
+        "mask": "bg/bg_memory",
+        "name": "\u30b8\u30e3\u30df\u30f3\u30b0",
+        "story": "WORLD302B"
+    },
+    "100044": {
+        "condition": "3\u7ae0\u30fb4\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 6,
+        "icon": "memory_dashijie",
+        "id": 100044,
+        "mask": "bg/bg_memory",
+        "name": "\u6551\u63f4",
+        "story": "WORLD303A"
+    },
+    "100045": {
+        "condition": "3\u7ae0\u30fb4\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 7,
+        "icon": "memory_dashijie",
+        "id": 100045,
+        "mask": "bg/bg_memory",
+        "name": "\u7591\u60d1",
+        "story": "WORLD303B"
+    },
+    "100046": {
+        "condition": "3\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 8,
+        "icon": "memory_dashijie",
+        "id": 100046,
+        "mask": "bg/bg_memory",
+        "name": "\u8abf\u67fb\u4efb\u52d9",
+        "story": "WORLD304A"
+    },
+    "100047": {
+        "condition": "3\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 9,
+        "icon": "memory_dashijie",
+        "id": 100047,
+        "mask": "bg/bg_memory",
+        "name": "\u6b8b\u5f71",
+        "story": "WORLD304B"
+    },
+    "100048": {
+        "condition": "3\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 10,
+        "icon": "memory_dashijie",
+        "id": 100048,
+        "mask": "bg/bg_memory",
+        "name": "\u30a2\u30d3\u30fc\u30bf",
+        "story": "WORLD304C"
+    },
+    "100049": {
+        "condition": "\u5168\u3066\u306e\u6575\u3092\u6483\u7834",
+        "group_ID": 11,
+        "icon": "memory_dashijie",
+        "id": 100049,
+        "mask": "bg/bg_memory",
+        "name": "\u5897\u63f4",
+        "story": "WORLD304D"
+    },
+    "100050": {
+        "condition": "\u6575\u7279\u6b8a\u30e6\u30cb\u30c3\u30c8\u6483\u7834",
+        "group_ID": 12,
+        "icon": "memory_dashijie",
+        "id": 100050,
+        "mask": "bg/bg_memory",
+        "name": "\u5bf8\u5206\u9055\u308f\u305a",
+        "story": "WORLD304E"
+    },
+    "100051": {
+        "condition": "3\u7ae0\u30fb6\u7bc0\u958b\u59cb",
+        "group_ID": 13,
+        "icon": "memory_dashijie",
+        "id": 100051,
+        "mask": "bg/bg_memory",
+        "name": "\u96c6\u4e2d\u653b\u52e2",
+        "story": "WORLD305A"
+    },
+    "100052": {
+        "condition": "3\u7ae0\u30fb6\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 14,
+        "icon": "memory_dashijie",
+        "id": 100052,
+        "mask": "bg/bg_memory",
+        "name": "\u4f11\u61a9",
+        "story": "WORLD305B"
+    },
+    "100053": {
+        "condition": "4\u7ae0\u30fb1\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 1,
+        "icon": "memory_dashijie",
+        "id": 100053,
+        "mask": "bg/bg_memory",
+        "name": "\u9060\u6d0b\u306e\u65c5",
+        "story": "WORLD400A"
+    },
+    "100054": {
+        "condition": "4\u7ae0\u30fb1\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 2,
+        "icon": "memory_dashijie",
+        "id": 100054,
+        "mask": "bg/bg_memory",
+        "name": "\u30b5\u30c7\u30a3\u30a2",
+        "story": "WORLD400B"
+    },
+    "100055": {
+        "condition": "4\u7ae0\u30fb2\u7bc0\u958b\u59cb",
+        "group_ID": 3,
+        "icon": "memory_dashijie",
+        "id": 100055,
+        "mask": "bg/bg_memory",
+        "name": "\u30bf\u30e9\u30f3\u30c8",
+        "story": "WORLD401A"
+    },
+    "100056": {
+        "condition": "4\u7ae0\u30fb2\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 4,
+        "icon": "memory_dashijie",
+        "id": 100056,
+        "mask": "bg/bg_memory",
+        "name": "\u9014\u4e2d\u96e2\u5e2d",
+        "story": "WORLD401B"
+    },
+    "100057": {
+        "condition": "4\u7ae0\u30fb3\u7bc0\u958b\u59cb",
+        "group_ID": 5,
+        "icon": "memory_dashijie",
+        "id": 100057,
+        "mask": "bg/bg_memory",
+        "name": "\u30c0\u30ab\u30fc\u30eb",
+        "story": "WORLD402A"
+    },
+    "100058": {
+        "condition": "4\u7ae0\u30fb3\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 6,
+        "icon": "memory_dashijie",
+        "id": 100058,
+        "mask": "bg/bg_memory",
+        "name": "\u5358\u72ec\u884c\u52d5",
+        "story": "WORLD402B"
+    },
+    "100059": {
+        "condition": "\u5168\u3066\u306e\u6575\u3092\u6483\u7834",
+        "group_ID": 7,
+        "icon": "memory_dashijie",
+        "id": 100059,
+        "mask": "bg/bg_memory",
+        "name": "\u7591\u60d1",
+        "story": "WORLD403A"
+    },
+    "100060": {
+        "condition": "4\u7ae0\u30fb5\u7bc0\u958b\u59cb",
+        "group_ID": 8,
+        "icon": "memory_dashijie",
+        "id": 100060,
+        "mask": "bg/bg_memory",
+        "name": "\u6df1\u5165\u308a",
+        "story": "WORLD404A"
+    },
+    "100061": {
+        "condition": "4\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 9,
+        "icon": "memory_dashijie",
+        "id": 100061,
+        "mask": "bg/bg_memory",
+        "name": "\u7570\u69d8",
+        "story": "WORLD404B"
+    },
+    "100062": {
+        "condition": "4\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 10,
+        "icon": "memory_dashijie",
+        "id": 100062,
+        "mask": "bg/bg_memory",
+        "name": "\u5e7b\u5f71",
+        "story": "WORLD404C"
+    },
+    "100063": {
+        "condition": "4\u7ae0\u30fb5\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 11,
+        "icon": "memory_dashijie",
+        "id": 100063,
+        "mask": "bg/bg_memory",
+        "name": "\u4ee3\u66ff\u54c1",
+        "story": "WORLD404D"
+    },
+    "100064": {
+        "condition": "4\u7ae0\u30fb6\u7bc0\u958b\u59cb",
+        "group_ID": 12,
+        "icon": "memory_dashijie",
+        "id": 100064,
+        "mask": "bg/bg_memory",
+        "name": "\u8ecd\u5e2b\u306e\u899a\u9192",
+        "story": "WORLD405A"
+    },
+    "100065": {
+        "condition": "\u5168\u3066\u306e\u6575\u3092\u6483\u7834",
+        "group_ID": 13,
+        "icon": "memory_dashijie",
+        "id": 100065,
+        "mask": "bg/bg_memory",
+        "name": "\u4ef2\u88c1\u3059\u308b\u8ce2\u8005",
+        "story": "WORLD405B"
+    },
+    "100066": {
+        "condition": "\u6575\u7279\u6b8a\u30e6\u30cb\u30c3\u30c8\u6483\u7834",
+        "group_ID": 14,
+        "icon": "memory_dashijie",
+        "id": 100066,
+        "mask": "bg/bg_memory",
+        "name": "\u8131\u51fa",
+        "story": "WORLD405C"
+    },
+    "100071": {
+        "condition": "1\u7ae0\u30fb6\u7bc0\u63a2\u7d22\u30dd\u30a4\u30f3\u30c8\u8a2a\u554f",
+        "group_ID": 1,
+        "icon": "memory_dashijie",
+        "id": 100071,
+        "mask": "bg/bg_memory",
+        "name": "DMRECX074\uff1aMETA",
+        "story": "WORLD9901A"
+    }
+}
