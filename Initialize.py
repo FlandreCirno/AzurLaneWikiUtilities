@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 FileList = []
-PathList = ['Wiki/memories', 'json', 'Wiki']
+PathList = [os.path.join('Wiki', 'memories'), 'json', 'Wiki', os.path.join('json', 'JP'), os.path.join('Wiki', 'memories', 'JP')]
 
 if __name__ == "__main__":
     for f in FileList:

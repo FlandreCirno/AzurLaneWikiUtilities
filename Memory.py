@@ -2,6 +2,7 @@
 import re, os
 from slpp import slpp
 import util
+StoryDirectory = os.path.join(util.DataDirectory, 'gamecfg', 'story')
 getShipName = util.getShipName
 
 def getMemoryGroup():
@@ -18,7 +19,7 @@ def getWorldTemplate():
     
 def getStory(filename, type = 1):
     if type == 1:
-        with open(os.path.join(util.DataDirectory, 'gamecfg', 'story', filename), 'r', encoding='utf-8') as f:
+        with open(os.path.join(StoryDirectory, filename), 'r', encoding='utf-8') as f:
             content = f.read()
         content = re.match(r".*?(\{.*\})" ,content, flags = re.DOTALL)[1]
         output = slpp.decode(content)
@@ -251,6 +252,30 @@ def wikiGenerate():
     for group in groupsbuilt:
         with open(os.path.join(util.WikiDirectory, 'memories', group['title'].replace(':', '') + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
+            
+def MemoryJP():
+    util.DataDirectory = os.path.join('AzurLaneData', 'ja-JP')
+    util.JsonDirectory = os.path.join('json', 'JP')
+    global StoryDirectory
+    StoryDirectory = os.path.join(util.DataDirectory, 'gamecfg', 'storyjp')
+    nameCode = getNameCode()
+    memoryGroup = getMemoryGroup()
+    memoryTemplate = getMemoryTemplate()
+    worldGroup = getWorldGroup()
+    worldTemplate = getWorldTemplate()
+    shipGroup = getShipGroup()
+    shipStatistics = getShipStatistics()
+    shipTemplate = getShipTemplate()
+    skinTemplate = getShipSkinTemplate()
+    groups = getGroup(memoryGroup, worldGroup)
+    mergeMemoryTemplate(memoryTemplate, worldTemplate)
+    groupsbuilt = []
+    for v in groups:
+        groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
+    for group in groupsbuilt:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'JP', group['title'].replace(':', '：').replace('?', '？') + '.txt'), 'w+', encoding='utf-8') as f:
+            f.write(wikiPage(group))
 
 if __name__ == "__main__":
     wikiGenerate()
+    MemoryJP()
