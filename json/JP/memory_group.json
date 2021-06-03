@@ -2936,5 +2936,20 @@
         ],
         "title": "\u7d20\u76f4\u306b\u306a\u308c\u306a\u3044\u30ad\u30e2\u30c1",
         "type": 3
+    },
+    "563": {
+        "icon": "title_chara_boyixi",
+        "id": 563,
+        "memories": [
+            1725,
+            1726,
+            1727,
+            1728,
+            1729,
+            1730,
+            1731
+        ],
+        "title": "\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c9",
+        "type": 3
     }
 }

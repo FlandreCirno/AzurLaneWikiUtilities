@@ -4,10 +4,30 @@
         "sculpture": "gelideli",
         "ship_group": 10105
     },
+    "10109": {
+        "name": "Fletcher",
+        "sculpture": "fulaiche",
+        "ship_group": 10109
+    },
     "10111": {
         "name": "L.B.Charles",
         "sculpture": "aosiben",
         "ship_group": 10111
+    },
+    "10112": {
+        "name": "L.B.Thatcher",
+        "sculpture": "saqieer",
+        "ship_group": 10112
+    },
+    "10113": {
+        "name": "L.B.Aulick",
+        "sculpture": "aolike",
+        "ship_group": 10113
+    },
+    "10115": {
+        "name": "L.B.Spence",
+        "sculpture": "sipengsi",
+        "ship_group": 10115
     },
     "10117": {
         "name": "Lafite.82",
@@ -54,10 +74,20 @@
         "sculpture": "beiqi",
         "ship_group": 10135
     },
+    "10141": {
+        "name": "L.B.Stanly",
+        "sculpture": "sitanli",
+        "ship_group": 10141
+    },
     "10144": {
         "name": "BlackCat",
         "sculpture": "kubo",
         "ship_group": 10144
+    },
+    "10145": {
+        "name": "A.M.Sumner",
+        "sculpture": "ailunsamuna",
+        "ship_group": 10145
     },
     "10147": {
         "name": "Bear-MKII",

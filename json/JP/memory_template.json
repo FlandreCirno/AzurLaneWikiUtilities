@@ -17049,6 +17049,83 @@
         "title": "\u79c1\u306f\u3044\u3064\u3060\u3063\u3066\u671f\u5f85\u3057\u3066\u308b\u3093\u3060\u304b\u3089\uff01",
         "type": 1
     },
+    "1725": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c91\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1725,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI1",
+        "subtitle": "",
+        "title": "\u30de\u30fc\u30e1\u30a4\u30c9\uff1f",
+        "type": 1
+    },
+    "1726": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c92\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1726,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI2",
+        "subtitle": "",
+        "title": "\u30eb\u30fc\u30ad\u30fc\u79d8\u66f8\u5b98\u8266",
+        "type": 1
+    },
+    "1727": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c93\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1727,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI3",
+        "subtitle": "",
+        "title": "\u8cb7\u3044\u7269",
+        "type": 1
+    },
+    "1728": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c94\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1728,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI4",
+        "subtitle": "",
+        "title": "\u8ca0\u3051\u305d\u3046\uff1f",
+        "type": 1
+    },
+    "1729": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c95\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1729,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI5",
+        "subtitle": "",
+        "title": "\u898b\u3048\u306a\u3044\u7b11\u9854",
+        "type": 1
+    },
+    "1730": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c96\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1730,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI6",
+        "subtitle": "",
+        "title": "\u7d04\u675f\u901a\u308a",
+        "type": 1
+    },
+    "1731": {
+        "condition": "\u300c\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c97\u300d\u958b\u59cb",
+        "icon": "memory_boyixi",
+        "id": 1731,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "BOYIXI7",
+        "subtitle": "",
+        "title": "\u30c6\u30a3\u30e9\u30df\u30b9\u306e\u7518\u3055\u3068",
+        "type": 1
+    },
     "4000": {
         "condition": "\u93e1\u5199\u3055\u308c\u3057\u7570\u8272B4/D4\u958b\u59cb",
         "icon": "activity",
