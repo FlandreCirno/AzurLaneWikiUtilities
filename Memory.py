@@ -205,10 +205,12 @@ def wikiParagraph(memory, index):
     for slide in memory['memory']:
         output += wikiSlide(slide, lastActor, lastOption)
         lastActor = slide['name']
-        if slide['option'] and 'optionFlag' in slide['option'].keys():
-            lastOption = slide['option']['optionFlag']
-        else:
-            lastOption = None
+        lastOption = None
+        if slide['option']:
+            if 'optionFlag' in slide['option'].keys():
+                lastOption = slide['option']['optionFlag']
+            elif 'options' in slide['option'].keys():
+                lastOption = 0
     output += '{{折叠面板|内容结束}}\n\n'
     return output
     
@@ -216,11 +218,13 @@ def wikiSlide(slide, lastActor, lastOption):
     output = ''
     if slide['type'] == 'break':
         return '<br>\n'
-    if slide['option'] and 'optionFlag' in slide['option'].keys():
-        thisOption = slide['option']['optionFlag']
-    else:
-        thisOption = None
-    if thisOption != lastOption:
+    thisOption = None
+    if slide['option']:
+        if 'optionFlag' in slide['option'].keys():
+            thisOption = slide['option']['optionFlag']
+        elif 'options' in slide['option'].keys():
+            thisOption = 0
+    if lastOption and thisOption != lastOption:
         name = slide['name']
     elif slide['name'] == lastActor:
         name = None
