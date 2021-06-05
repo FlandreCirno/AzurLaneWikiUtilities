@@ -30,8 +30,10 @@
 这是…？好像有什么东西从随机单词生成器里跑出来了呢<br>
 <span style="color:#a9f548;">绊爱：</span><br>
 哦哦，得到“Pt-绊”了！这就是那个吧，惯例的那玩意儿，靠这个就可以换到各种活动限定道具了吧♪<br>
+<br>
 '''''<span style="color:black;">选择项1：好，那就马上去换吧！</span>'''''<br>
 '''''<span style="color:black;">选择项2：为什么你会知道Pt？</span>'''''<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''好～要换什么呢？个人觉得“晃悠悠”挺好的呢～<br>
 <span style="color:#a9f548;">{{AF|电}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''{{AF|电}}，想要“智慧模块”<br>
@@ -39,6 +41,7 @@
 '''''<span style="color:black;">（选择项1）</span>'''''{{AF|雷}}想要更多的金色科技箱呢～当然不要涂色的那种！<br>
 <span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''真不错呢！就这个势头努力消除病毒，赚取更多的“Pt-绊”吧！<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''当然知道啦！毕竟我在原来的世界也是指挥官嘛！可是经历过无数激烈的战斗的哦？<br>
 <span style="color:#a9f548;">{{AF|雷}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''诶诶？爱酱也和“指挥官”一样吗！？<br>
@@ -82,11 +85,15 @@
 二 天才与笨蛋只有一线之隔<br>
 <span style="color:#a9f548;">绊爱：</span><br>
 好～指挥官！今天也一起加油清除病毒吧～！嘿、嘿、嚯～！<br>
+<br>
 '''''<span style="color:black;">选择项1：嘿、嘿、嚯～！</span>'''''<br>
 '''''<span style="color:black;">选择项2：啊，今天还有点事…</span>'''''<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''状态不错嘛，那就赶紧开始吧！<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指～挥～官？我记得今天的任务都已经完成了才对吧～？（盯）<br>
 '''''<span style="color:black;">（选择项2）</span>'''''指挥官的日程全都在我的掌控之中！死心吧！<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 放心吧，要清除今天份的病毒很简单的，轻松轻松！快点完成掉然后去休息吧！<br>
 <br>
 一小时后<br>
@@ -104,9 +111,12 @@
 啊，圣地亚哥酱～我不是在睡觉啦～刚才还在清除病毒的，不过很不顺利……<br>
 <span style="color:#a9f548;">圣地亚哥：</span><br>
 没事吧～？病毒清除……听起来好像很有趣呢～！<br>
+<br>
 '''''<span style="color:black;">选择项1：圣地亚哥也要试试吗？</span>'''''<br>
 '''''<span style="color:black;">选择项2：接下来就…拜托了（倒地）</span>'''''<br>
+<span style="color:#a9f548;">圣地亚哥：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''诶？可以吗～？那我也要试试！<br>
+<span style="color:#a9f548;">圣地亚哥：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指挥官！？没事吧！？<br>
 <span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指挥官…是个好人啊……<br>
@@ -150,6 +160,7 @@
 嗯？有什么从随机单词生成器里跑出来了呢？<br>
 <span style="color:#a9f548;">绊爱：</span><br>
 噢噢？…这、这是！“随机单词”！！！<br>
+<br>
 '''''<span style="color:black;">选择项1：这个是用来做什么的？</span>'''''<br>
 问得好！这个东西正如其名，是能够随机生成单词，并以此作为企划主题的超级便利的箱子！<br>
 ……本来应该是这的样，但是不知怎么的莫名连上了各种各样的空间，所以变成了能把物质变换成数据的超科技呢<br>

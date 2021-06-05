@@ -109,6 +109,7 @@ Z～～1～～前～～辈！<br>
 今天的午餐是海伦娜准备的爱心便当哦～<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：打声招呼</span>'''''<br>
 '''''<span style="color:black;">选择项2：在一旁微笑守候</span>'''''<br>
 <span style="color:#a9f548;">火奴鲁鲁：</span><br>
@@ -117,6 +118,7 @@ Z～～1～～前～～辈！<br>
 指、指挥官？！什、什么时候开始在那里的！？<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项3：和小熊说话的时候</span>'''''<br>
 <span style="color:#a9f548;">火奴鲁鲁：</span><br>
 哇哇哇哇！你、你一定是听错了！我、我才没有和小熊说话…<br>
@@ -165,13 +167,16 @@ Z～～1～～前～～辈！<br>
 又安静…又宽敞…还偶尔能戏弄一下来借书的驱逐们嘻嘻嘻——<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项2：顺着声音悄悄靠近</span>'''''<br>
 '''''<span style="color:black;">选择项1：顺着声音狂奔过去</span>'''''<br>
 <span style="color:#a9f548;">爱丁堡：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''哇！哇哇！！<br>
+<span style="color:#a9f548;">爱丁堡：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''贝法那家伙…明明我才是姐姐…<br>
 '''''<span style="color:black;">（选择项2）</span>'''''话说今天爱看书的驱逐们怎么还没来呢——<br>
 '''''<span style="color:black;">（选择项2）</span>'''''哇！哇哇！！<br>
+<span style="color:#a9f548;">爱丁堡：</span><br>
 原来是指挥官啊…不要吓我啦……啊糟了——<br>
 <span style="color:#a9f548;">克雷文：</span><br>
 原来妖精是爱丁堡呀~<br>
@@ -197,6 +202,7 @@ Z～～1～～前～～辈！<br>
 喵喵…不可以捣乱……<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：推开教室的门</span>'''''<br>
 <span style="color:#a9f548;">埃尔德里奇：</span><br>
 嗯…？指挥…官？<br>
@@ -208,11 +214,13 @@ Z～～1～～前～～辈！<br>
 但是喵喵…经常把书本弄得好乱…指挥官？<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：帮忙收拾书本</span>'''''<br>
 <span style="color:#a9f548;">埃尔德里奇：</span><br>
 谢谢指挥官…喵喵…也要道谢哦<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：学校有趣吗？</span>'''''<br>
 <span style="color:#a9f548;">埃尔德里奇：</span><br>
 在学校，没有在指挥官身边，有趣…<br>
@@ -288,6 +296,7 @@ Z～～1～～前～～辈！<br>
 啊，一不小心…<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：为什么是不良少女？</span>'''''<br>
 <span style="color:#a9f548;">{{AF|飞龙}}：</span><br>
 因为姐姐是风纪委员嘛…总觉得就这样下去，姐姐就都忙着管别人了…<br>
@@ -333,6 +342,7 @@ Z～～1～～前～～辈！<br>
 呜…作为风纪委员的姐姐我的立场——<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：总之新学期大家一起加油吧</span>'''''<br>
 <span style="color:#a9f548;">{{AF|苍龙}}：</span><br>
 是、是呢<br>

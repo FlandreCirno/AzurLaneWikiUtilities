@@ -107,6 +107,7 @@
 今日のお昼はヘレナちゃんが用意したお弁当だよ～<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：あいさつをする</span>'''''<br>
 '''''<span style="color:black;">选择项2：静かに見守る</span>'''''<br>
 <span style="color:#a9f548;">ホノルル：</span><br>
@@ -115,6 +116,7 @@
 し、指揮官！！？いつからそこに！？<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项3：いまクマちゃんとおしゃべりしてた時から……</span>'''''<br>
 <span style="color:#a9f548;">ホノルル：</span><br>
 そ、そんなの聞き間違えよ！べ、べつにクマちゃんとおしゃべりなんか……<br>
@@ -163,13 +165,16 @@
 静かで広いし、たまに来る駆逐艦を困らせるのも楽しいし……ふふふ<br>
 <br>
 ……！<br>
+<br>
 '''''<span style="color:black;">选择项2：声の元へこっそりスニーキング</span>'''''<br>
 '''''<span style="color:black;">选择项1：声の元へ全力ダッシュ</span>'''''<br>
 <span style="color:#a9f548;">エディンバラ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''あわわわ！！？<br>
+<span style="color:#a9f548;">エディンバラ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''ベルったら…私が姉なのに…<br>
 '''''<span style="color:black;">（选择项2）</span>'''''そういえば、いつもの駆逐艦たち、そろそろ来ないかなぁーー<br>
 '''''<span style="color:black;">（选择项2）</span>'''''あわわわ！！？<br>
+<span style="color:#a9f548;">エディンバラ：</span><br>
 し、指揮官じゃないですか！もう驚かさないでくださいよ……あ！しまっ――<br>
 <span style="color:#a9f548;">クレイヴン：</span><br>
 なるほど、妖精さんってエディンバラさんですか～<br>
@@ -195,6 +200,7 @@
 ニャンニャン…迷惑をかけちゃダメ……<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：扉を開く。</span>'''''<br>
 <span style="color:#a9f548;">エルドリッジ：</span><br>
 指揮官…？<br>
@@ -206,11 +212,13 @@
 ニャンニャン…教科書を散らかして…指揮官？<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：教科書を片付ける</span>'''''<br>
 <span style="color:#a9f548;">エルドリッジ：</span><br>
 指揮官、ありがと…ニャンニャンも…謝ろう…<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：「学園が面白い？」と聞いてみる</span>'''''<br>
 <span style="color:#a9f548;">エルドリッジ：</span><br>
 学園…指揮官がいないけど、面白い…<br>
@@ -286,6 +294,7 @@ HRが終わったら説教するから、心の準備でもしておきなさい
 そうでした！ごめんなさい、つい…<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：「不良少女」役？</span>'''''<br>
 <span style="color:#a9f548;">{{AF|飛龍}}：</span><br>
 ええと、姉様は風紀委員役ですよね？私が不良少女役をやっていれば、姉様もきっと私に振り返ってくれると思って……<br>
@@ -331,6 +340,7 @@ HRが終わったら説教するから、心の準備でもしておきなさい
 はぁ…そもそも風紀委員役の私の立場も考えてほしいわ……<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：新学期は心機一転で頑張ろう</span>'''''<br>
 <span style="color:#a9f548;">{{AF|蒼龍}}：</span><br>
 もちろんです。<br>

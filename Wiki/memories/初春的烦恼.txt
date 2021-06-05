@@ -19,6 +19,7 @@
 ……<br>
 指挥室变得格外安静起来<br>
 唔…对话似乎没法继续下去了<br>
+<br>
 '''''<span style="color:black;">选择项1：温柔地询问</span>'''''<br>
 <span style="color:#92fc63;">{{AF|初春}}：</span><br>
 ！！呜……<br>
@@ -154,6 +155,7 @@
 <br>
 从{{AF|若叶}}那里听说了之前发生的种种——<br>
 原、原来如此……<br>
+<br>
 '''''<span style="color:black;">选择项1：答应{{AF|初春}}的请求</span>'''''<br>
 <span style="color:#a9f548;">{{AF|初春}}：</span><br>
 欸，这，这是同意了吗？<br>
@@ -181,6 +183,7 @@
 看来果然没有那么顺利呢<br>
 <span style="color:#a9f548;">{{AF|初春}}：</span><br>
 对不起，给指挥官添了很多麻烦…我，我果然还是不太擅长和别人交流……<br>
+<br>
 '''''<span style="color:black;">选择项1：安慰{{AF|初春}}</span>'''''<br>
 呜…指挥官…谢谢你<br>
 啊？对话的练习？指挥官和我吗？<br>
@@ -250,10 +253,12 @@
 六 改变与决心<br>
 <span style="color:#a9f548;">{{AF|初春}}：</span><br>
 为什么，指挥官也会在这里？<br>
+<br>
 '''''<span style="color:black;">选择项1：表示因为担心{{AF|初春}}</span>'''''<br>
 呜…指挥官，为什么要那么关心我…<br>
 无论是担任秘书舰，还是演习的时候，我都是半吊子的存在，老是拖指挥官、拖大家的后腿…<br>
 胆小也好、对人恐惧也好，也一直没法好好克服……<br>
+<br>
 '''''<span style="color:black;">选择项1：说出{{AF|初春}}的改变</span>'''''<br>
 我的…改变？<br>
 第一次和指挥官交流的时候？<br>
@@ -269,6 +274,7 @@
 <span style="color:#a9f548;">{{AF|初春}}：</span><br>
 呜…不过…指挥官一直在给我勇气，我却全部忽略掉了…<br>
 我，我，我实在是……<br>
+<br>
 '''''<span style="color:black;">选择项1：表示期待明天的对话练习</span>'''''<br>
 ！！我，我明白了…我会加油的！<br>
 <span style="color:#a9f548;">{{AF|飞鹰}}：</span><br>

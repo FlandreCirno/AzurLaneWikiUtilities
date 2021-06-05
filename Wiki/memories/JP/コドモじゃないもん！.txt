@@ -14,16 +14,20 @@
 補給担当への差し入れ、無事届けた！<br>
 それと――これ！<br>
 倉庫の定例レポート！指揮官が教えてくれた通りもらってきたよ！<br>
+<br>
 '''''<span style="color:black;">选择项1：書類を受け取る</span>'''''<br>
 ほかにすることは？<br>
+<br>
 '''''<span style="color:black;">选择项1：カヴァラをちょっと休ませる</span>'''''<br>
 わかった！<br>
 ふーふふーん♪<br>
 今日は指揮官のためにお仕事を３つ出来た！ええと、科学研究室と学園と倉庫と――<br>
 あたし、すごい！<br>
 カヴァラは上機嫌だ。<br>
+<br>
 '''''<span style="color:black;">选择项1：褒める</span>'''''<br>
 '''''<span style="color:black;">选择项2：頭なでなで</span>'''''<br>
+<span style="color:#a9f548;">カヴァラ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''ふふん！やっぱりあたしが必要だよね！<br>
 <br>
 '''''<span style="color:black;">（选择项1）</span>'''''必要とまではいかなくても色々助けてもらってるから、彼女に感謝しないとな。<br>
@@ -31,6 +35,7 @@
 '''''<span style="color:black;">（选择项2）</span>'''''むぅ。指揮官、子供扱いしないで！<br>
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''頭を撫でられるのはあまり好きではないようだ。<br>
+<br>
 今日のお仕事はここまでとして、明日からまた手伝ってもらおう。<br>
 {{折叠面板|内容结束}}
 
@@ -190,6 +195,7 @@
 <span style="color:#a9f548;">カヴァラ：</span><br>
 あ、あれ？あたしはどこにいるの？<br>
 うぅ……わからないよ！<br>
+<br>
 '''''<span style="color:black;">选择项1：声をかける</span>'''''<br>
 <span style="color:#a9f548;">翔鶴：</span><br>
 なるほど…カヴァラちゃんが終点よりも先に進んじゃったんですね<br>
@@ -230,9 +236,11 @@
 <span style="color:#a9f548;">カヴァラ：</span><br>
 指揮官が先で！<br>
 さて、どんな物語を語ろうかな？<br>
+<br>
 '''''<span style="color:black;">选择项1：自分を犠牲に世界を救う英雄の物語</span>'''''<br>
 '''''<span style="color:black;">选择项2：恋人のために王位を捨てる王の物語</span>'''''<br>
 '''''<span style="color:black;">选择项3：推理で犯人を探し出す探偵の物語</span>'''''<br>
+<span style="color:#a9f548;">カヴァラ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''……<br>
 '''''<span style="color:black;">（选择项1）</span>'''''なんで主人公死んじゃうの！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''自分を犠牲にしなくても世界を救う方法はきっとある！そんなの認めない！<br>
@@ -257,6 +265,7 @@
 彼女のカンレキにまつわる物語だった。<br>
 <span style="color:#a9f548;">カヴァラ：</span><br>
 どう？カヴァラはすごいでしょ！ほかの子ではぜったいにわからない、カヴァラだけのモノガタリだよ！<br>
+<br>
 '''''<span style="color:black;">选择项1：頭なでなでする</span>'''''<br>
 あ！指揮官また子供扱いしたな！<br>
 今度は指揮官にカヴァラはもう子供じゃないってわからせてやる！<br>
@@ -280,6 +289,7 @@
 指揮官、よく聞こえなかったの？カヴァラとデート、して！<br>
 <br>
 （落ち着け、まずは素数でも数えて……）<br>
+<br>
 '''''<span style="color:black;">选择项1：「デート」の理由を聞く</span>'''''<br>
 <span style="color:#a9f548;">カヴァラ：</span><br>
 翔鶴さんが教えてくれた！<br>
@@ -289,10 +299,14 @@
 そんなのもう嫌！<br>
 だからカヴァラとデートして！そしたらいままでとは違うあたしを見せてやる！<br>
 お願い！<br>
+<br>
 '''''<span style="color:black;">选择项1：了承する</span>'''''<br>
 '''''<span style="color:black;">选择项2：断る</span>'''''<br>
+<span style="color:#a9f548;">カヴァラ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指揮官がはいというまでここから離れないよ！<br>
+<br>
 '''''<span style="color:black;">选择项3：了承する</span>'''''<br>
+<span style="color:#a9f548;">カヴァラ：</span><br>
 よかった！<br>
 翔鶴さん、デートは何をするか教えてくれなかったけど…一緒に遊べばいいの？<br>
 <br>
@@ -308,6 +322,7 @@
 指揮官、待ってたよ！<br>
 早速、レッツゴー！<br>
 ……んー、どこに行くの？？<br>
+<br>
 '''''<span style="color:black;">选择项1：自分に任せてもらう</span>'''''<br>
 さすが指揮官！えへへ、じゃあ頼んでもいいかな？<br>
 <span style="color:#a9f548;">明石：</span><br>
@@ -321,6 +336,7 @@
 ふぅ…………<br>
 って違ーう！完全に子供扱いしてたでしょー！<br>
 ……翔鶴さん、あたしに嘘ついたのかな……<br>
+<br>
 '''''<span style="color:black;">选择项1：でも、楽しかったでしょ？</span>'''''<br>
 うん！楽しかった！……楽しかったけど……<br>
 やっぱり、指揮官ってあたしを子供扱いしてるよね……<br>

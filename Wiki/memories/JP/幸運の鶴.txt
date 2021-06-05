@@ -8,6 +8,7 @@
 母港・朝<br>
 この時間になるといつも秘書艦の瑞鶴が朝の報告をしに来るのだが、どうやらまだ来ていないようだ。<br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：重桜の空母寮へ瑞鶴の様子を見に行く</span>'''''<br>
 <span style="color:#a9f548;">{{AF|瑞鶴}}：</span><br>
 ぐう…はぁ…ぐう…Zzzzzzz<br>
@@ -168,6 +169,7 @@
 で、どう？<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：普通に美味しい</span>'''''<br>
 <span style="color:#a9f548;">{{AF|瑞鶴}}：</span><br>
 ……普通においしい？やった！ふっふん翔鶴姉の助けがなくてもこれぐらいはできるんだからねっ！<br>
@@ -222,6 +224,7 @@
 指揮官はやっぱり…翔鶴姉が用意してくれた分を選ぶよね…<br>
 <br>
 ……<br>
+<br>
 '''''<span style="color:black;">选择项1：瑞鶴を呼び止める</span>'''''<br>
 <span style="color:#a9f548;">{{AF|瑞鶴}}：</span><br>
 両方ほしい…？<br>

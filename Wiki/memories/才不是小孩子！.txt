@@ -14,16 +14,20 @@
 让我带给后勤部门的慰问品，已经全部送到啦！<br>
 然后是——这个！<br>
 今天的仓库管理报告！按照指挥官的要求拿过来了！<br>
+<br>
 '''''<span style="color:black;">选择项1：接过递来的文件。</span>'''''<br>
 还有什么要我做的吗？<br>
+<br>
 '''''<span style="color:black;">选择项1：让棘鳍休息下</span>'''''<br>
 明白了！<br>
 ♪~~<br>
 我看看…今天我一共帮指挥官完成了三次跑腿任务，分别是科研部门，学院和后勤——<br>
 噢噢，我超级厉害！<br>
 棘鳍一脸洋洋得意的样子。<br>
+<br>
 '''''<span style="color:black;">选择项1：夸奖她</span>'''''<br>
 '''''<span style="color:black;">选择项2：摸摸头</span>'''''<br>
+<span style="color:#a9f548;">棘鳍：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''哼哼，指挥官没有我就什么都做不到了呢！<br>
 <br>
 '''''<span style="color:black;">（选择项1）</span>'''''确实有棘鳍在省下了不少工作量，就稍微顺着她一点……也没问题吧<br>
@@ -31,6 +35,7 @@
 '''''<span style="color:black;">（选择项2）</span>'''''！？唔——指挥官，别把我当成小孩子！<br>
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''棘鳍似乎对被摸头有些介意<br>
+<br>
 今天的工作就到此为止了，明天再让她继续帮忙吧。<br>
 {{折叠面板|内容结束}}
 
@@ -190,6 +195,7 @@
 <span style="color:#a9f548;">棘鳍：</span><br>
 这个状况……难道是突发状况演习？<br>
 既然这样的话……！<br>
+<br>
 '''''<span style="color:black;">选择项1：叫住双方</span>'''''<br>
 <span style="color:#a9f548;">{{AF|翔鹤}}：</span><br>
 原来如此……是奋力向前的小鱼一不小心游过了终点呢。<br>
@@ -231,9 +237,11 @@
 <span style="color:#a9f548;">棘鳍：</span><br>
 那指挥官，你先来吧！<br>
 讲什么故事好呢？<br>
+<br>
 '''''<span style="color:black;">选择项1：英雄牺牲拯救世界的故事</span>'''''<br>
 '''''<span style="color:black;">选择项2：国王为了爱人放弃王位的故事</span>'''''<br>
 '''''<span style="color:black;">选择项3：侦探步步为营找出凶手的故事</span>'''''<br>
+<span style="color:#a9f548;">棘鳍：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''……<br>
 '''''<span style="color:black;">（选择项1）</span>'''''为什么拯救世界就一定要牺牲掉主人公啊！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''就没有既救了世界又不用牺牲自己的方法吗？这样的结局我绝对不认同！<br>
@@ -258,6 +266,7 @@
 棘鳍把自己记忆中的经历讲了一遍<br>
 <span style="color:#a9f548;">棘鳍：</span><br>
 怎么样，是不是很厉害！我的经历可是独一无二的！<br>
+<br>
 '''''<span style="color:black;">选择项1：摸摸头</span>'''''<br>
 啊，真是的，指挥官又把我当成小孩子了！<br>
 我一定会让指挥官对我刮目相看的！<br>
@@ -281,6 +290,7 @@
 指挥官，不明白吗？来和我约会吧！<br>
 <br>
 （先冷静下来，弄清楚具体状况……）<br>
+<br>
 '''''<span style="color:black;">选择项1：询问“约会”的原因</span>'''''<br>
 <span style="color:#a9f548;">棘鳍：</span><br>
 啊，这个是重樱的{{AF|翔鹤}}小姐告诉我的呢！<br>
@@ -290,10 +300,14 @@
 我不想一直被当成小孩子看待下去<br>
 所以，指挥官，请和我约会吧！这样一来指挥官就能看到一个不一样的我了！<br>
 拜托了！<br>
+<br>
 '''''<span style="color:black;">选择项1：答应</span>'''''<br>
 '''''<span style="color:black;">选择项2：犹豫</span>'''''<br>
+<span style="color:#a9f548;">棘鳍：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''拜托了！<br>
+<br>
 '''''<span style="color:black;">选择项3：答应</span>'''''<br>
+<span style="color:#a9f548;">棘鳍：</span><br>
 太好了！<br>
 对了，指挥官！我只听说约会是一起出去玩……具体要做些什么呀？<br>
 <br>
@@ -309,6 +323,7 @@
 等你很久啦，指挥官！<br>
 我们出发吧！<br>
 ……虽然这么说，我们这是要去哪里呀？<br>
+<br>
 '''''<span style="color:black;">选择项1：交给我吧</span>'''''<br>
 不愧是指挥官呢！嘿嘿，那就拜托你啦！<br>
 <span style="color:#a9f548;">{{AF|明石}}：</span><br>
@@ -322,6 +337,7 @@
 呼——<br>
 不对！这完完全全就是带着小孩子出去玩嘛！！<br>
 我不会是被{{AF|翔鹤}}小姐骗了吧！<br>
+<br>
 '''''<span style="color:black;">选择项1：「今天开心么？」</span>'''''<br>
 当然很开心啦！能和指挥官一起出来玩，怎么会不开心！<br>
 只是……我好像还是被当成小孩子了呢……<br>

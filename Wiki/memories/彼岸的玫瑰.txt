@@ -10,6 +10,7 @@
 <span style="color:#a9f548;">扎拉：</span><br>
 啊，指挥官，你醒了。<br>
 看我的手，这是几？<br>
+<br>
 '''''<span style="color:black;">选择项1：二</span>'''''<br>
 '''''<span style="color:black;">选择项2：三</span>'''''<br>
 '''''<span style="color:black;">选择项3：四</span>'''''<br>
@@ -26,9 +27,11 @@
 <br>
 扎拉突然自责起来。<br>
 再怎么样也不能让别人为自己的过错揽责。<br>
+<br>
 '''''<span style="color:black;">选择项1：表示自己会反省</span>'''''<br>
 <span style="color:#a9f548;">扎拉：</span><br>
 真的吗？那指挥官以后也会听扎拉的话吗？<br>
+<br>
 '''''<span style="color:black;">选择项1：要看具体情况。</span>'''''<br>
 欸——真可惜啊<br>
 那我就先离开了。希望我回来的时候，能看到一个精神的指挥官呢<br>
@@ -171,6 +174,7 @@
 <br>
 这，这是什么问题啊<br>
 突如其来的“超级难题”，让我陷入了思考<br>
+<br>
 '''''<span style="color:black;">选择项1：龙骑兵</span>'''''<br>
 '''''<span style="color:black;">选择项2：特伦托</span>'''''<br>
 '''''<span style="color:black;">选择项3：喜欢扎拉你这种</span>'''''<br>
@@ -220,6 +224,7 @@
 <span style="color:#a9f548;">扎拉：</span><br>
 到休息时间了哦，稍微喘口气吧，指挥官<br>
 有什么想让扎拉帮你做的吗？不用顾虑太多，什么事情都可以的<br>
+<br>
 '''''<span style="color:black;">选择项1：让扎拉帮忙掏耳朵</span>'''''<br>
 欸？掏耳朵吗？我可以试试的<br>
 <br>

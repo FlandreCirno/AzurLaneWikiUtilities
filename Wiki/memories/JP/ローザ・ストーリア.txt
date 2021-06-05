@@ -10,6 +10,7 @@
 <span style="color:#a9f548;">ザラ：</span><br>
 あら、指揮官、起きた？<br>
 はい、指を数えてみて？<br>
+<br>
 '''''<span style="color:black;">选择项1：二本？</span>'''''<br>
 '''''<span style="color:black;">选择项2：三本？</span>'''''<br>
 '''''<span style="color:black;">选择项3：四本？</span>'''''<br>
@@ -26,9 +27,11 @@
 <br>
 ザラは自分のミスだと主張して謝罪した。<br>
 もちろん、これは決して彼女のせいではないし、このまま責任を感じさせるわけにはいかない。<br>
+<br>
 '''''<span style="color:black;">选择项1：ザラをなだめる</span>'''''<br>
 <span style="color:#a9f548;">ザラ：</span><br>
 じゃあ…私の言うこと、全部聞いてくれる？<br>
+<br>
 '''''<span style="color:black;">选择项1：場合による、と答える</span>'''''<br>
 ………ふふ、それはちょっと残念ね。<br>
 支度をお願いね。みんなの前ではカッコいい指揮官でいないと<br>
@@ -171,6 +174,7 @@
 <br>
 誰にも教えないと言っているが、彼女の真意は図り難い。<br>
 というか、どうして急にこんなを質問をしてきたんだ…？<br>
+<br>
 '''''<span style="color:black;">选择项1：カラビニエーレ</span>'''''<br>
 '''''<span style="color:black;">选择项2：トレント</span>'''''<br>
 '''''<span style="color:black;">选择项3：ザラ</span>'''''<br>
@@ -220,6 +224,7 @@
 <span style="color:#a9f548;">ザラ：</span><br>
 指揮官、休憩時間よ。仕事から上がりなさい<br>
 ふふ、秘書官になにかご注文でも？なんでもいいわよ<br>
+<br>
 '''''<span style="color:black;">选择项1：せっかくなので耳かきしてもらう</span>'''''<br>
 耳かき……？やってみるわ<br>
 <br>

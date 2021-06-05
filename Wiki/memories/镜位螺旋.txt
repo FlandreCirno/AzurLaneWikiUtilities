@@ -20,8 +20,10 @@
 是什么是啊！我们这次可是大战之后的凯旋而归，本来不用那么着急吧！<br>
 比如好好休息一段时间，或者在沿途旅旅游什么的……<br>
 结果某个工作狂……居然就这么毫不停歇的笔直返回了PH港！真是难以置信……<br>
+<br>
 '''''<span style="color:black;">选择项1：辛苦了！回到港区之后请你吃大餐！</span>'''''<br>
 '''''<span style="color:black;">选择项2：现在各地局势都不稳固，我们不能因为一场战斗的胜利就……</span>'''''<br>
+<span style="color:#a9f548;">{{AF|射水鱼}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''真的么？吃什么都可以？指挥官全部报销？！<br>
 <br>
 '''''<span style="color:black;">（选择项1）</span>'''''全部报销！<br>
@@ -42,6 +44,7 @@
 '''''<span style="color:black;">（选择项1）</span>'''''一言为定……<br>
 <span style="color:#a9f548;">{{AF|射水鱼}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''嘿嘿，好耶~！<br>
+<span style="color:#a9f548;">{{AF|射水鱼}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''嗯嗯嗯，我懂！<br>
 '''''<span style="color:black;">（选择项2）</span>'''''指挥官，您这次急于返回PH港是为了尽快投入新的工作中吧。<br>
 '''''<span style="color:black;">（选择项2）</span>'''''我们都理解哦，所以一路上就算再辛苦也毫无怨言的跟您一起完成了任务。<br>
@@ -103,8 +106,10 @@ PH港·指挥室<br>
 自从出发前的工作交接之后就没再见了吧……真没想到一下离开了这么久。<br>
 <span style="color:#a9f548;">{{AF|新泽西}}：</span><br>
 要是从并肩作战的时间来算的话就更久了哦。<br>
+<br>
 '''''<span style="color:black;">选择项1：咦，我们有并肩作战过么……？</span>'''''<br>
 '''''<span style="color:black;">选择项2：AF作战中你在后方为集结支援舰队提供了很大帮助吧。</span>'''''<br>
+<span style="color:#a9f548;">{{AF|新泽西}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''好过分啊，AF作战那次我也出力了吧！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''你想想，萨拉托加增援舰队的调动，圣地亚哥司令部的支援！<br>
 <br>
@@ -234,10 +239,13 @@ NY司令部的……？转过来吧。<br>
 <span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
 今天时间已经很晚了，指挥官，先睡觉！剩下的事明天再说嘛~<br>
 重樱舰队就算真有什么打算，以那个航速过来还要好久好久呢！<br>
+<br>
 '''''<span style="color:black;">选择项1：再看一份报告！</span>'''''<br>
 '''''<span style="color:black;">选择项2：说的也是，今天先休息吧……</span>'''''<br>
+<span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''不行~！既然现在我是秘书舰，就有维护指挥官健康的义务！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''您还是放弃抵抗，乖乖跟我去休息吧！<br>
+<span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指挥官这边请~您的床铺可是我亲自铺的，满意请给五星好评哦！<br>
 <br>
 然后翌日——<br>
@@ -252,6 +260,7 @@ AF基地与PH港区彻底失去了联系。<br>
 <span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
 派出侦察机！对，派出侦察机前往AF的方向进行搜索！<br>
 什么？派出的侦察机都没有回来的？继续派遣！<br>
+<br>
 '''''<span style="color:black;">选择项1：现在情况怎么样？</span>'''''<br>
 大事不妙啊，指挥官！<br>
 AF依然没有回应我们的任何联络，派出的侦察机也都陆续失去了联系！<br>
@@ -674,11 +683,13 @@ AF战役的重演。塞壬这次的计划大概是这样的吧？<br>
 这样的经历对于了解重樱的指挥系统会有很有帮助吧……<br>
 <span style="color:#a9f548;">{{AF|射水鱼}}：</span><br>
 我有疑问！塞壬为什么会知道当时重樱舰队的指挥细节，甚至能做成这样完整的纪录呢？！<br>
+<br>
 '''''<span style="color:black;">选择项1：重樱和塞壬关系非凡……</span>'''''<br>
 '''''<span style="color:black;">选择项2：塞壬的情报工作出色……</span>'''''<br>
 <br>
 '''''<span style="color:black;">（选择项1）</span>'''''重樱与塞壬之间一直都有某种说不上来的默契。在AF作战后期，遭受打击的重樱舰队也是因为反常的塞壬进攻而得以成功撤退。<br>
 '''''<span style="color:black;">（选择项1）</span>'''''如果塞壬拥有当时重樱指挥系统的详细记录，只能说明塞壬在比我们想象的更早时间，以更深的程度介入了这场战争之中……<br>
+<br>
 '''''<span style="color:black;">（选择项2）</span>'''''塞壬毕竟也参与了那次作战，甚至派出了人型指挥者直接带领舰队进攻。<br>
 '''''<span style="color:black;">（选择项2）</span>'''''它们的电子设备很先进，想截获战场上的通讯联络并不困难。这里也许是以那些情报为基础进行的还原吧……<br>
 <span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
@@ -1213,6 +1224,7 @@ AF西南方海域 海雾中<br>
 哎？！真的么指挥官！在这么莫名其妙的状况下你居然能猜出她的名字么？！<br>
 <br>
 虽然不能十分肯定，不过从装束和感觉上判断，也许是——————<br>
+<br>
 '''''<span style="color:black;">选择项1：海伦娜·META</span>'''''<br>
 '''''<span style="color:black;">选择项2：海伦娜·BLACK</span>'''''<br>
 '''''<span style="color:black;">选择项3：海伦娜·ALTER</span>'''''<br>
@@ -1632,6 +1644,7 @@ META是本质，并非组织。我是指挥官的友军……这一点我可以�
 不好意思，我们其实在哪里见过么？<br>
 <span style="color:#ffa500;">？？？：</span><br>
 谁知道呢，也许在梦里吧~<br>
+<br>
 '''''<span style="color:black;">选择项1：…………</span>'''''<br>
 '''''<span style="color:black;">选择项2：不要学习{{AF|信浓}}的话术啊—！</span>'''''<br>
 <span style="color:#ff5c5c;">{{AF|苍龙}}·META：</span><br>
@@ -1722,6 +1735,7 @@ META是本质，并非组织。我是指挥官的友军……这一点我可以�
 这件事也是我正在调查的事项之一。本来我只是有所怀疑，现在看来或许……<br>
 不过在它那种状态下，能不能理解“合作”这个词的含义还很难说呢。<br>
 看来我来帮忙确实是正确的选择，只有敌人力量单方面的强大未免太不公平了吧~<br>
+<br>
 '''''<span style="color:black;">选择项1：关于余烬——</span>'''''<br>
 '''''<span style="color:black;">选择项2：关于你——</span>'''''<br>
 我知道你有很多问题，但是指挥官，现在还不到回答的时候。<br>

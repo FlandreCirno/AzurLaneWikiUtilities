@@ -11,6 +11,7 @@ SPストーリー
 いつもは他の護衛艦がいるのに、こうして二人でパトロールするのは珍しいな<br>
 母港の近海周辺での簡単な当直任務なら、私一人でも問題なく遂行できるはずだ<br>
 そうは言ったものの、指揮官が来てくれなかったら流石にちょっと心細くなってただろうな<br>
+<br>
 '''''<span style="color:black;">选择项1：心細い…？</span>'''''<br>
 ああ、背中を預ける仲間がいないと、程度はどうであれ、やっぱり心のどこかで不安を感じるところがある<br>
 確かに、ユニオンは個の力を大事にする陣営であり、映画などでも自立を良しとする文化が強調されるが…<br>
@@ -44,6 +45,7 @@ SPストーリー
 <span style="color:#a9f548;">エンタープライズ：</span><br>
 ああ、またちょっと話が重くなった……………こ、コホン！<br>
 そういえば指揮官、空から海を見てみたいか？<br>
+<br>
 '''''<span style="color:black;">选择项1：そんなことできるのか…？</span>'''''<br>
 指揮官さえよければな。専用の装備と着替えを用意する<br>
 こう見えても空母だ。ユニオンの技術を以てすれば、量産型の艦載機の操縦程度なら平気だぞ<br>
@@ -53,12 +55,17 @@ SPストーリー
 エンタープライズのおかげでいい風景が見れた。<br>
 <span style="color:#a9f548;">エンタープライズ：</span><br>
 指揮官、「空のお散歩」はどうだった？<br>
+<br>
 '''''<span style="color:black;">选择项1：海がキレイだった</span>'''''<br>
 '''''<span style="color:black;">选择项2：普通だった</span>'''''<br>
 '''''<span style="color:black;">选择项3：やっぱり乗り慣れないな</span>'''''<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''キレイ…か……<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''はは、お客人に快適に乗ってもらえるよう鍛え直しておかないとな<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项3）</span>'''''そうか…今度はエセックスに声をかけて鍛えてもらったほうがいいか…<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 艦隊で出撃する場合が多いから、こういうのは頻繁に出来ないが<br>
 今度また機会があった時、もし風景を見たいなら気軽に私に声をかけていい――<br>
 いや、言いたいことはこれじゃないな<br>
@@ -82,16 +89,19 @@ SPストーリー
 完璧なる従者<br>
 <span style="color:#a9f548;">？？？：</span><br>
 ……さま、ご主人様。<br>
+<br>
 '''''<span style="color:black;">选择项1：目を覚ます</span>'''''<br>
 '''''<span style="color:black;">选择项2：二度寝をする</span>'''''<br>
 <span style="color:#a9f548;">ベルファスト：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''おはようございます。ご主人様<br>
+<span style="color:#a9f548;">ベルファスト：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''ご主人様、そろそろお茶の時間でございます<br>
 <br>
 目を開くと、そこにはメイド長の美しい顔があった。<br>
 <span style="color:#a9f548;">ベルファスト：</span><br>
 ふふ、本当はもっと早く起こしたかったのですが、ご主人様の寝顔が大変可愛くて、つい起こすのが惜しくて……<br>
 ベルファストの膝枕、ご満足いただけたでしょうか。<br>
+<br>
 '''''<span style="color:black;">选择项1：満足</span>'''''<br>
 '''''<span style="color:black;">选择项2：すごく満足</span>'''''<br>
 ありがとうございます。ご主人様が寝言でベルファストと呼ぶので思わず、悪夢を見ているのではないかと心配しました<br>
@@ -105,6 +115,7 @@ SPストーリー
 ご主人様、今日は何の日か覚えていらっしゃいますか？<br>
 <br>
 あれ、何の日なんだろ……？<br>
+<br>
 '''''<span style="color:black;">选择项1：ベルファストの進水日</span>'''''<br>
 '''''<span style="color:black;">选择项2：陛下のなんちゃら記念日</span>'''''<br>
 '''''<span style="color:black;">选择项3：メイド隊の記念日</span>'''''<br>
@@ -182,8 +193,10 @@ SPストーリー
 こういうときは、ケイタイで助っ人からアドバイス、です<br>
 <br>
 綾波はスマホを取り出して指で操作し始めた。<br>
+<br>
 '''''<span style="color:black;">选择项1：覗く</span>'''''<br>
 '''''<span style="color:black;">选择项2：覗かない</span>'''''<br>
+<br>
 '''''<span style="color:black;">（选择项1）</span>'''''【着信：L.Iさん】と、とりあえず距離感を縮めて、ゲームをするの―！<br>
 <span style="color:#a9f548;">綾波：</span><br>
 ……指揮官、ゲーム、一緒にしてもいいですか？<br>
@@ -197,6 +210,7 @@ SPストーリー
 時間がそこそこ経過した。<br>
 <span style="color:#a9f548;">綾波：</span><br>
 …！メール着信、です。指揮官、一時停止ボタンよろしくです<br>
+<br>
 '''''<span style="color:black;">选择项1：覗く</span>'''''<br>
 '''''<span style="color:black;">选择项2：覗かない</span>'''''<br>
 <br>
@@ -225,6 +239,7 @@ SPストーリー
 あんな量を平らげたためか、食後の眠気に猛烈に襲われている。キツイ<br>
 <span style="color:#a9f548;">綾波：</span><br>
 …っ。メールが……<br>
+<br>
 '''''<span style="color:black;">选择项1：眠気を振り絞って覗く</span>'''''<br>
 '''''<span style="color:black;">选择项2：覗かない</span>'''''<br>
 <br>
