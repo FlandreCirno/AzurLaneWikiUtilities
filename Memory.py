@@ -201,17 +201,28 @@ def wikiPage(group):
 def wikiParagraph(memory, index):
     output = '{{折叠面板|标题=' + memory['title'] + '|选项=' + str(index) + '|主框=1|样式=primary|展开=否}}\n'
     lastActor = None
+    lastOption = None
     for slide in memory['memory']:
-        output += wikiSlide(slide, lastActor)
+        output += wikiSlide(slide, lastActor, lastOption)
         lastActor = slide['name']
+        if slide['option'] and 'optionFlag' in slide['option'].keys():
+            lastOption = slide['option']['optionFlag']
+        else:
+            lastOption = None
     output += '{{折叠面板|内容结束}}\n\n'
     return output
     
-def wikiSlide(slide, lastActor):
+def wikiSlide(slide, lastActor, lastOption):
     output = ''
     if slide['type'] == 'break':
         return '<br>\n'
-    if slide['name'] == lastActor:
+    if slide['option'] and 'optionFlag' in slide['option'].keys():
+        thisOption = slide['option']['optionFlag']
+    else:
+        thisOption = None
+    if thisOption != lastOption:
+        name = slide['name']
+    elif slide['name'] == lastActor:
         name = None
     else:
         name = slide['name']
@@ -226,6 +237,7 @@ def wikiSlide(slide, lastActor):
         output += "'''''<span style=" + '"color:black;"' + ">（选择项" + str(slide['option']['optionFlag']) + "）</span>'''''"
     output += nowiki(slide['words']).replace('\n', '<br>\n') + '<br>\n'
     if slide['option'] and 'options' in slide['option'].keys():
+        output += '<br>\n'
         for option in slide['option']['options']:
             output += "'''''<span style=" + '"color:black;"' + ">选择项" + str(option['flag']) + "："
             output += nowiki(option['content']) + "</span>'''''<br>\n"
