@@ -164,6 +164,7 @@ Zzzzzzz<br>
 殿様知っていますか？実は雪風ちゃん、頼めば何でもやってくれるんですよ！<br>
 <br>
 '''''<span style="color:black;">选择项1：それはただのお人好し過ぎなのでは……</span>'''''<br>
+<span style="color:#a9f548;">{{AF|山城}}：</span><br>
 そ、そうですね…あははは……<br>
 {{折叠面板|内容结束}}
 
@@ -223,6 +224,7 @@ Zzzzzzz<br>
 <br>
 '''''<span style="color:black;">选择项1：ポンポン</span>'''''<br>
 '''''<span style="color:black;">选择项2：なでなで</span>'''''<br>
+<span style="color:#a9f548;">{{AF|雪風}}：</span><br>
 えへへ……わぅわぅ……<br>
 うん……今度は無理しないで指揮官の話を聞くー<br>
 ……は！雪風様がなんて……<br>
@@ -247,6 +249,7 @@ Zzzzzzz<br>
 <br>
 '''''<span style="color:black;">选择项1：ポンポン</span>'''''<br>
 '''''<span style="color:black;">选择项2：なでなで</span>'''''<br>
+<span style="color:#a9f548;">{{AF|雪風}}：</span><br>
 えへへ……わぅわぅ……<br>
 <br>
 ……<br>

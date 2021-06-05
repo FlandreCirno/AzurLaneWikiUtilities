@@ -23,6 +23,7 @@
 <br>
 '''''<span style="color:black;">选择项1：辛苦了！回到港区之后请你吃大餐！</span>'''''<br>
 '''''<span style="color:black;">选择项2：现在各地局势都不稳固，我们不能因为一场战斗的胜利就……</span>'''''<br>
+<span style="color:#a9f548;">{{AF|射水鱼}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''真的么？吃什么都可以？指挥官全部报销？！<br>
 <br>
 '''''<span style="color:black;">（选择项1）</span>'''''全部报销！<br>
@@ -108,6 +109,7 @@ PH港·指挥室<br>
 <br>
 '''''<span style="color:black;">选择项1：咦，我们有并肩作战过么……？</span>'''''<br>
 '''''<span style="color:black;">选择项2：AF作战中你在后方为集结支援舰队提供了很大帮助吧。</span>'''''<br>
+<span style="color:#a9f548;">{{AF|新泽西}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''好过分啊，AF作战那次我也出力了吧！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''你想想，萨拉托加增援舰队的调动，圣地亚哥司令部的支援！<br>
 <br>
@@ -240,6 +242,7 @@ NY司令部的……？转过来吧。<br>
 <br>
 '''''<span style="color:black;">选择项1：再看一份报告！</span>'''''<br>
 '''''<span style="color:black;">选择项2：说的也是，今天先休息吧……</span>'''''<br>
+<span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''不行~！既然现在我是秘书舰，就有维护指挥官健康的义务！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''您还是放弃抵抗，乖乖跟我去休息吧！<br>
 <span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
@@ -259,6 +262,7 @@ AF基地与PH港区彻底失去了联系。<br>
 什么？派出的侦察机都没有回来的？继续派遣！<br>
 <br>
 '''''<span style="color:black;">选择项1：现在情况怎么样？</span>'''''<br>
+<span style="color:#a9f548;">{{AF|旧金山}}：</span><br>
 大事不妙啊，指挥官！<br>
 AF依然没有回应我们的任何联络，派出的侦察机也都陆续失去了联系！<br>
 <br>
@@ -1735,6 +1739,7 @@ META是本质，并非组织。我是指挥官的友军……这一点我可以�
 <br>
 '''''<span style="color:black;">选择项1：关于余烬——</span>'''''<br>
 '''''<span style="color:black;">选择项2：关于你——</span>'''''<br>
+<span style="color:#ffa500;">？？？：</span><br>
 我知道你有很多问题，但是指挥官，现在还不到回答的时候。<br>
 今天就到此为止吧。<br>
 <br>

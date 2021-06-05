@@ -33,6 +33,7 @@
 <br>
 '''''<span style="color:black;">选择项1：好，那就马上去换吧！</span>'''''<br>
 '''''<span style="color:black;">选择项2：为什么你会知道Pt？</span>'''''<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''好～要换什么呢？个人觉得“晃悠悠”挺好的呢～<br>
 <span style="color:#a9f548;">{{AF|电}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''{{AF|电}}，想要“智慧模块”<br>
@@ -87,6 +88,7 @@
 <br>
 '''''<span style="color:black;">选择项1：嘿、嘿、嚯～！</span>'''''<br>
 '''''<span style="color:black;">选择项2：啊，今天还有点事…</span>'''''<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''状态不错嘛，那就赶紧开始吧！<br>
 <span style="color:#a9f548;">绊爱：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指～挥～官？我记得今天的任务都已经完成了才对吧～？（盯）<br>
@@ -112,6 +114,7 @@
 <br>
 '''''<span style="color:black;">选择项1：圣地亚哥也要试试吗？</span>'''''<br>
 '''''<span style="color:black;">选择项2：接下来就…拜托了（倒地）</span>'''''<br>
+<span style="color:#a9f548;">圣地亚哥：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''诶？可以吗～？那我也要试试！<br>
 <span style="color:#a9f548;">圣地亚哥：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指挥官！？没事吧！？<br>
@@ -159,6 +162,7 @@
 噢噢？…这、这是！“随机单词”！！！<br>
 <br>
 '''''<span style="color:black;">选择项1：这个是用来做什么的？</span>'''''<br>
+<span style="color:#a9f548;">绊爱：</span><br>
 问得好！这个东西正如其名，是能够随机生成单词，并以此作为企划主题的超级便利的箱子！<br>
 ……本来应该是这的样，但是不知怎么的莫名连上了各种各样的空间，所以变成了能把物质变换成数据的超科技呢<br>
 顺便一提，这个箱子的制作者是我（诶嘿<br>

@@ -13,6 +13,7 @@ SPストーリー
 そうは言ったものの、指揮官が来てくれなかったら流石にちょっと心細くなってただろうな<br>
 <br>
 '''''<span style="color:black;">选择项1：心細い…？</span>'''''<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 ああ、背中を預ける仲間がいないと、程度はどうであれ、やっぱり心のどこかで不安を感じるところがある<br>
 確かに、ユニオンは個の力を大事にする陣営であり、映画などでも自立を良しとする文化が強調されるが…<br>
 チームワークを疎かにしたり、団結の大切さを否定するまで個人の力を強調するような真似はしない<br>
@@ -47,6 +48,7 @@ SPストーリー
 そういえば指揮官、空から海を見てみたいか？<br>
 <br>
 '''''<span style="color:black;">选择项1：そんなことできるのか…？</span>'''''<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 指揮官さえよければな。専用の装備と着替えを用意する<br>
 こう見えても空母だ。ユニオンの技術を以てすれば、量産型の艦載機の操縦程度なら平気だぞ<br>
 <br>
@@ -59,6 +61,7 @@ SPストーリー
 '''''<span style="color:black;">选择项1：海がキレイだった</span>'''''<br>
 '''''<span style="color:black;">选择项2：普通だった</span>'''''<br>
 '''''<span style="color:black;">选择项3：やっぱり乗り慣れないな</span>'''''<br>
+<span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''キレイ…か……<br>
 <span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''はは、お客人に快適に乗ってもらえるよう鍛え直しておかないとな<br>
@@ -103,6 +106,7 @@ SPストーリー
 <br>
 '''''<span style="color:black;">选择项1：満足</span>'''''<br>
 '''''<span style="color:black;">选择项2：すごく満足</span>'''''<br>
+<span style="color:#a9f548;">ベルファスト：</span><br>
 ありがとうございます。ご主人様が寝言でベルファストと呼ぶので思わず、悪夢を見ているのではないかと心配しました<br>
 <br>
 ……！？<br>
@@ -195,6 +199,7 @@ SPストーリー
 <br>
 '''''<span style="color:black;">选择项1：覗く</span>'''''<br>
 '''''<span style="color:black;">选择项2：覗かない</span>'''''<br>
+<br>
 '''''<span style="color:black;">（选择项1）</span>'''''【着信：L.Iさん】と、とりあえず距離感を縮めて、ゲームをするの―！<br>
 <span style="color:#a9f548;">綾波：</span><br>
 ……指揮官、ゲーム、一緒にしてもいいですか？<br>

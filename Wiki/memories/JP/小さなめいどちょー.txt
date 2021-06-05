@@ -148,6 +148,7 @@
 ご機嫌麗しゅうございます。メイドのベルが着任しました！<br>
 <br>
 '''''<span style="color:black;">选择项1：べ、ベルファスト！？</span>'''''<br>
+<span style="color:#a9f548;">ベルファスト：</span><br>
 私ならここにいます。この子は私……いいえ、正確に言うと私ではありませんが――<br>
 <span style="color:#a9f548;">{{AF|明石}}：</span><br>
 実は――<br>
@@ -157,6 +158,7 @@
 <br>
 '''''<span style="color:black;">选择项1：も、もちろんいいぞ！</span>'''''<br>
 '''''<span style="color:black;">选择项2：ベルちゃん可愛い！！</span>'''''<br>
+<span style="color:#a9f548;">ベルファスト：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''よかったぁ…やっぱり姐さまたちが言ったように、指揮官は優しいお方ですね。<br>
 <span style="color:#a9f548;">ベルファスト：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''これって…大丈夫、の意味ですか？ちょっとよくわかりませんが…でも指揮官はやっぱり姐さまたちが言ってた通り、優しいお方ですね。<br>
