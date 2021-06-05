@@ -59,7 +59,6 @@ SPストーリー
 '''''<span style="color:black;">选择项1：海がキレイだった</span>'''''<br>
 '''''<span style="color:black;">选择项2：普通だった</span>'''''<br>
 '''''<span style="color:black;">选择项3：やっぱり乗り慣れないな</span>'''''<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''キレイ…か……<br>
 <span style="color:#a9f548;">エンタープライズ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''はは、お客人に快適に乗ってもらえるよう鍛え直しておかないとな<br>
@@ -196,7 +195,6 @@ SPストーリー
 <br>
 '''''<span style="color:black;">选择项1：覗く</span>'''''<br>
 '''''<span style="color:black;">选择项2：覗かない</span>'''''<br>
-<br>
 '''''<span style="color:black;">（选择项1）</span>'''''【着信：L.Iさん】と、とりあえず距離感を縮めて、ゲームをするの―！<br>
 <span style="color:#a9f548;">綾波：</span><br>
 ……指揮官、ゲーム、一緒にしてもいいですか？<br>

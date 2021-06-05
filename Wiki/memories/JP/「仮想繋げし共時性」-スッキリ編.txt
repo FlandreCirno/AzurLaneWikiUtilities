@@ -33,7 +33,6 @@
 <br>
 '''''<span style="color:black;">选择项1：よし、さっそく報酬を受け取りに行こう！</span>'''''<br>
 '''''<span style="color:black;">选择项2：なんでPTについて知ってるの？</span>'''''<br>
-<span style="color:#a9f548;">キズナアイ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''はーい、何に交換しましょうかね？私的には「ぴょこぴょこ」なんかいいと思うんですよねー<br>
 <span style="color:#a9f548;">電：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''電、「インテリジェントチップ」が気になります。<br>
@@ -88,7 +87,6 @@
 <br>
 '''''<span style="color:black;">选择项1：えい、えい、おー！</span>'''''<br>
 '''''<span style="color:black;">选择项2：あっ、今日はちょっと用事が…</span>'''''<br>
-<span style="color:#a9f548;">キズナアイ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''ノリが良いですねー、さっそくはじめて行きましょう！<br>
 <span style="color:#a9f548;">キズナアイ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''しーきーかーん？今日の任務はあらかた終わってるって聞きましたけど～？（ジト目）<br>
@@ -114,7 +112,6 @@
 <br>
 '''''<span style="color:black;">选择项1：サンディエゴもやってみる？</span>'''''<br>
 '''''<span style="color:black;">选择项2：あとは…任せた…</span>'''''<br>
-<span style="color:#a9f548;">サンディエゴ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''え？いいのー？サンディエゴもやるやる～！<br>
 <span style="color:#a9f548;">サンディエゴ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''指揮官！？大丈夫！？<br>

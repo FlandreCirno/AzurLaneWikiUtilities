@@ -43,7 +43,6 @@
 '''''<span style="color:black;">选择项1：「听说这座要塞从不主动发起进攻，应该不会有事吧。」</span>'''''<br>
 '''''<span style="color:black;">选择项2：「有你们在身边，就算有突发情况也能轻松解决」</span>'''''<br>
 '''''<span style="color:black;">选择项3：看着平静的海面，一不小心就松懈下来了…</span>'''''<br>
-<span style="color:#a9f548;">萨拉托加：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''哼！通常的平静的表象下，往往隐藏都着巨大的阴谋哦。<br>
 <span style="color:#a9f548;">萨拉托加：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''哼`萨拉妹妹可不会被这些话攻略哦！<br>
@@ -672,7 +671,6 @@ MK6，主炮齐射，开火！<br>
 <br>
 '''''<span style="color:black;">选择项1：熟悉</span>'''''<br>
 '''''<span style="color:black;">选择项2：不熟悉</span>'''''<br>
-<span style="color:#a9f548;">塔什干：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''…这样。下次有机会…和塔什干一起聊聊这个吧。<br>
 <span style="color:#a9f548;">塔什干：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''…这样。下次，塔什干跟你说说塔什干了解的撒丁帝国料理吧。<br>

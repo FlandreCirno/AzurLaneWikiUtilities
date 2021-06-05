@@ -43,7 +43,6 @@ NYシティ、そしてバミューダ海域での戦いのあと、本部から
 '''''<span style="color:black;">选择项1：「セイレーンの「要塞」……」</span>'''''<br>
 '''''<span style="color:black;">选择项2：「仲間がいるから安心だ」</span>'''''<br>
 '''''<span style="color:black;">选择项3：とりあえず資料を箱に入れるか</span>'''''<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''そう！あの巨大構造物は、セイレーンの量産型がいるだけじゃなく、防衛機構も備えているから「要塞」と呼ばれているわ！<br>
 <span style="color:#a9f548;">サラトガ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''えへへ、サラトガちゃんに惚れ直したほうがいいよ♪！<br>
@@ -668,7 +667,6 @@ Mark6カリバー、ファイア！<br>
 <br>
 '''''<span style="color:black;">选择项1：もちろん</span>'''''<br>
 '''''<span style="color:black;">选择项2：別にそこまでは</span>'''''<br>
-<span style="color:#a9f548;">タシュケント：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''あっそ。じゃあ今度機会があったら話してちょうだい<br>
 <span style="color:#a9f548;">タシュケント：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''あっそ。タシュケントが教えてあげよっか？<br>
