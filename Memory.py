@@ -224,7 +224,7 @@ def wikiSlide(slide, lastActor, lastOption):
             thisOption = slide['option']['optionFlag']
         elif 'options' in slide['option'].keys():
             thisOption = 0
-    if lastOption and thisOption != lastOption:
+    if thisOption != 0 and thisOption != lastOption:
         name = slide['name']
     elif slide['name'] == lastActor:
         name = None
