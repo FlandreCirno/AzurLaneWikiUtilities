@@ -51479,6 +51479,110 @@
         "voice_actor": 32,
         "voice_actor_2": -1
     },
+    "205048": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "",
+        "bg_sp": "",
+        "bgm": "",
+        "bound_bone": {
+            "cannon": [
+                [
+                    1.126,
+                    1.018,
+                    0
+                ]
+            ],
+            "torpedo": [
+                [
+                    0.004,
+                    -0.096,
+                    0
+                ]
+            ],
+            "vicegun": [
+                [
+                    1.161,
+                    1.002,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u3053\u306e\u5922\u306e\u30b7\u30c1\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3\u3001\u307e\u3055\u304b\u672c\u5f53\u306b\u306a\u308b\u3068\u306f\u306d\uff5e\u6307\u63ee\u5b98\u306f\u3053\u3093\u306a\u611f\u3058\u306e\u30ed\u30c9\u30cb\u30fc\u3092\u3001\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3057\u305f\uff1f\u3075\u3075",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 8,
+        "hand_id": 1,
+        "id": 205048,
+        "illustrator": 1,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u30d1\u30ec\u30b9\u30fb\u30d6\u30e9\u30a4\u30c8\u30cd\u30b9",
+        "painting": "luodeni_h",
+        "prefab": "luodeni_h",
+        "rarity_bg": "",
+        "ship_group": 20504,
+        "shop_id": 0,
+        "shop_type_id": 0,
+        "show_skin": "stand2",
+        "skin_type": 1,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.437,
+                            2.454,
+                            0.4
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "special_effects": "",
+        "spine_offset": "",
+        "tag": {},
+        "time": "",
+        "voice_actor": 32,
+        "voice_actor_2": -1
+    },
     "205050": {
         "air_bomb_skin": "",
         "air_bullet_skin": "",
@@ -55922,6 +56026,103 @@
         "tag": [
             2
         ],
+        "time": "",
+        "voice_actor": 5,
+        "voice_actor_2": -1
+    },
+    "207028": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "",
+        "bg_sp": "",
+        "bgm": "",
+        "bound_bone": {
+            "antiaircraft": [
+                [
+                    1.162,
+                    0.996,
+                    0
+                ]
+            ],
+            "plane": [
+                [
+                    1.155,
+                    0.989,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u79c1\u304c\u3053\u306e\u3088\u3046\u306a\u683c\u597d\u3092\u3059\u308b\u65e5\u304c\u6765\u308b\u3068\u306f\u2026\u30b3\u30db\u30f3\u3002\u95a3\u4e0b\u306e\u5e78\u305b\u3082\u3001\u99c6\u9010\u8266\u306e\u59b9\u305f\u3061\u306e\u5e78\u305b\u3082\u3001\u3053\u308c\u304b\u3089\u306f\u3053\u306e\u79c1\u304c\u5b88\u308b\u30c3\uff01",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 8,
+        "hand_id": 1,
+        "id": 207028,
+        "illustrator": 18,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u7d14\u767d\u306a\u308b\u5b88\u8b77\u8005",
+        "painting": "huangjiafangzhou_h",
+        "prefab": "huangjiafangzhou_h",
+        "rarity_bg": "",
+        "ship_group": 20702,
+        "shop_id": 0,
+        "shop_type_id": 0,
+        "show_skin": "stand",
+        "skin_type": 1,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.46,
+                            2.462,
+                            0
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "special_effects": "",
+        "spine_offset": "",
+        "tag": {},
         "time": "",
         "voice_actor": 5,
         "voice_actor_2": -1
@@ -96842,6 +97043,123 @@
             1,
             4
         ],
+        "time": "",
+        "voice_actor": 175,
+        "voice_actor_2": -1
+    },
+    "399048": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "",
+        "bg_sp": "",
+        "bgm": "",
+        "bound_bone": {
+            "antiaircraft": [
+                [
+                    1.333,
+                    1.011,
+                    0
+                ]
+            ],
+            "cannon": [
+                [
+                    1.298,
+                    0.982,
+                    0
+                ]
+            ],
+            "torpedo": [
+                [
+                    -0.015,
+                    -0.02,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u5922\u306b\u307e\u3067\u898b\u305f\u771f\u3063\u767d\u306a\u30c9\u30ec\u30b9\u2026\u3075\u3075\u3075\u3001\u3044\u3044\u3048\u3001\u91cd\u8981\u306a\u306e\u306f\u3053\u308c\u304b\u3089\u3067\u3059\u306d\u3002\u6307\u63ee\u5b98\u3001\u300c\u306f\u306a\u3088\u3081\u3057\u3085\u304e\u3087\u3046\u300d\u306e\u6210\u679c\u3092\u3054\u671f\u5f85\u304f\u3060\u3055\u3044\u307e\u305b\u266a",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 8,
+        "hand_id": 2,
+        "id": 399048,
+        "illustrator": 1,
+        "illustrator2": -1,
+        "l2d_animations": [
+            "idle",
+            "main_1",
+            "main_2",
+            "main_3",
+            "mission",
+            "mission_complete",
+            "complete",
+            "login",
+            "home",
+            "mail",
+            "touch_body",
+            "touch_head"
+        ],
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u4ed5\u5408\u305b\u306e\u30db\u30ef\u30a4\u30c8\u30fb\u30e9\u30d6",
+        "painting": "wuqi_h",
+        "prefab": "wuqi_h",
+        "rarity_bg": "",
+        "ship_group": 39904,
+        "shop_id": 0,
+        "shop_type_id": 0,
+        "show_skin": "stand",
+        "skin_type": 1,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.47,
+                            2.341,
+                            -0.16
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "special_effects": "",
+        "spine_offset": "",
+        "tag": {},
         "time": "",
         "voice_actor": 175,
         "voice_actor_2": -1
@@ -144076,29 +144394,29 @@
         "bound_bone": {
             "antiaircraft": [
                 [
-                    2.01,
-                    1.56,
+                    1.369,
+                    1.002,
                     0
                 ]
             ],
             "cannon": [
                 [
-                    2.07,
-                    1.53,
+                    1.34,
+                    1.021,
                     0
                 ]
             ],
             "torpedo": [
                 [
-                    0.04,
-                    -0.01,
+                    0,
+                    0,
                     0
                 ]
             ],
             "vicegun": [
                 [
-                    2.1,
-                    1.55,
+                    1.321,
+                    1.009,
                     0
                 ]
             ]
@@ -144162,7 +144480,7 @@
                         "smoke",
                         [
                             -0.56,
-                            2.2,
+                            2.454,
                             0
                         ]
                     ]
@@ -147492,6 +147810,110 @@
         ],
         "time": "",
         "voice_actor": 98,
+        "voice_actor_2": -1
+    },
+    "9702010": {
+        "air_bomb_skin": "",
+        "air_bullet_skin": "",
+        "air_torpedo_skin": "",
+        "aircraft_skin": "",
+        "bg": "",
+        "bg_sp": "",
+        "bgm": "",
+        "bound_bone": {
+            "cannon": [
+                [
+                    1.266,
+                    1.151,
+                    0
+                ]
+            ],
+            "torpedo": [
+                [
+                    0.03,
+                    0.003,
+                    0
+                ]
+            ],
+            "vicegun": [
+                [
+                    1.301,
+                    1.144,
+                    0
+                ]
+            ]
+        },
+        "bullet_skin_main": "",
+        "bullet_skin_secondary": "",
+        "desc": "\u30d8\u30ec\u30ca\u306e\u3053\u3068\u3092\u304a\u63a2\u3057\uff1f\u529b\u3092\u8cb8\u3057\u3066\u3082\u3044\u3044\u3051\u3069\u2015\u2015\u79c1\u306b\u4f55\u3082\u96a0\u3057\u4e8b\u3092\u3057\u306a\u3044\u3063\u3066\u7d04\u675f\u3057\u3066",
+        "fx_container": [
+            [
+                0,
+                1.99185,
+                1.15
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0.75,
+                -1.299
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "group_index": 0,
+        "hand_id": 13,
+        "id": 9702010,
+        "illustrator": -1,
+        "illustrator2": -1,
+        "l2d_animations": "",
+        "l2d_para_range": "",
+        "l2d_se": "",
+        "l2d_voice_calibrate": "",
+        "lip_smoothing": 0,
+        "lip_sync_gain": 0,
+        "live2d_offset": [
+            0,
+            0,
+            0
+        ],
+        "main_UI_FX": "",
+        "name": "\u30d8\u30ec\u30ca(META)",
+        "painting": "hailunna_alter",
+        "prefab": "hailunna_alter",
+        "rarity_bg": "",
+        "ship_group": 970201,
+        "shop_id": 0,
+        "shop_type_id": 0,
+        "show_skin": "stand",
+        "skin_type": -1,
+        "smoke": [
+            [
+                50,
+                [
+                    [
+                        "smoke",
+                        [
+                            -0.596,
+                            2.323,
+                            0.14
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        "special_effects": "",
+        "spine_offset": "",
+        "tag": {},
+        "time": "",
+        "voice_actor": 34,
         "voice_actor_2": -1
     },
     "9707010": {

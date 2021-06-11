@@ -207,12 +207,12 @@
         "story": "WORLD109B"
     },
     "100024": {
-        "condition": "\u89e3\u9501\u300c\u4fe1\u6807\u00b7\u70ec\u300d\u7cfb\u7edf",
+        "condition": "\u89e3\u9501\u300c\u4fe1\u6807\u00b7META\u300d\u7cfb\u7edf",
         "group_ID": 24,
         "icon": "memory_dashijie",
         "id": 100024,
         "mask": "bg/bg_memory",
-        "name": "\u4fe1\u6807\u00b7\u70ec",
+        "name": "\u4fe1\u6807\u00b7META",
         "story": "GWORLD109A"
     },
     "100025": {

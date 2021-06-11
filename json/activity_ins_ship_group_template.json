@@ -1009,6 +1009,11 @@
         "sculpture": "qibolin",
         "ship_group": 40701
     },
+    "40703": {
+        "name": "Flugzeugtr\u00e4gerB ",
+        "sculpture": "shitelasai",
+        "ship_group": 40703
+    },
     "40801": {
         "name": "U-81",
         "sculpture": "u81",

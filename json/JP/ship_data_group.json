@@ -19853,5 +19853,39 @@
         "trans_skin": 0,
         "trans_type": 0,
         "type": 7
+    },
+    "30003": {
+        "code": 30003,
+        "description": [
+            [
+                "\u30e1\u30bf\u30e9\u30dc\u30fb\u60c5\u5831\u89e3\u6790",
+                [
+                    "METACHARACTER",
+                    {
+                        "autoOpenShipConfigID": 9702011
+                    }
+                ],
+                0
+            ]
+        ],
+        "group_type": 970201,
+        "handbook_type": 3,
+        "hide": 0,
+        "index_id": 30003,
+        "nationality": 97,
+        "property_hexagon": [
+            "B",
+            "E",
+            "E",
+            "B",
+            "A",
+            "B"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 2
     }
 }
