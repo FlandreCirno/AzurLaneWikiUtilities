@@ -49775,7 +49775,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "204020": {
@@ -50561,7 +50561,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "205010": {
@@ -81460,7 +81460,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "303121": {
@@ -81600,7 +81600,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "303122": {
@@ -81713,7 +81713,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "303123": {
@@ -81826,7 +81826,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "303124": {
@@ -81939,7 +81939,7 @@
             4
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "303128": {
@@ -82050,7 +82050,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "303130": {
@@ -87592,7 +87592,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "305080": {
@@ -91035,7 +91035,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "307021": {
@@ -91147,7 +91147,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "307022": {
@@ -91246,7 +91246,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "307023": {
@@ -91345,7 +91345,7 @@
             4
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "307024": {
@@ -91451,7 +91451,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "307028": {
@@ -91548,7 +91548,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "307030": {
@@ -106955,7 +106955,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "407011": {
@@ -107070,7 +107070,7 @@
             2
         ],
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "407020": {
@@ -107167,7 +107167,7 @@
         "spine_offset": "",
         "tag": {},
         "time": "",
-        "voice_actor": 9,
+        "voice_actor": -1,
         "voice_actor_2": -1
     },
     "407030": {
