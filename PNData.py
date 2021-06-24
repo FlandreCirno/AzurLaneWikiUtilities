@@ -119,7 +119,7 @@ def formatData(ID, values, name, breakout):
     if breakout == 4:
         output += 'g3:['
     else:
-        output += str(breakout) + '['
+        output += str(breakout) + ':['
     for v in values:
         output += str(v) + ','
     output = output[:-1] + '],\t//' + name + '_'
