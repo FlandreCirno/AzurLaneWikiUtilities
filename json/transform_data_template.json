@@ -32595,6 +32595,458 @@
         ],
         "use_ship": 0
     },
+    "42401": {
+        "condition_id": {},
+        "descrip": "\u8010\u4e45+45",
+        "effect": [
+            {
+                "durability": 45
+            }
+        ],
+        "gear_score": [
+            10
+        ],
+        "icon": "hp_1",
+        "id": 42401,
+        "level_limit": 1,
+        "max_level": 1,
+        "name": "\u8230\u4f53\u6539\u826fI",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 2,
+        "use_gold": 400,
+        "use_item": [
+            [
+                [
+                    18001,
+                    2
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42402": {
+        "condition_id": [
+            42401
+        ],
+        "descrip": "\u673a\u52a8+5",
+        "effect": [
+            {
+                "dodge": 5
+            }
+        ],
+        "gear_score": [
+            10
+        ],
+        "icon": "dd_1",
+        "id": 42402,
+        "level_limit": 5,
+        "max_level": 1,
+        "name": "\u673a\u52a8\u5f3a\u5316I",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 2,
+        "use_gold": 600,
+        "use_item": [
+            [
+                [
+                    18001,
+                    3
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42403": {
+        "condition_id": [
+            42401
+        ],
+        "descrip": "\u4e3b\u70ae\u6b66\u5668\u6548\u7387+5%",
+        "effect": [
+            {
+                "equipment_proficiency_1": 0.05
+            }
+        ],
+        "gear_score": [
+            15
+        ],
+        "icon": "mgup_1",
+        "id": 42403,
+        "level_limit": 20,
+        "max_level": 1,
+        "name": "\u4e3b\u70ae\u6539\u826fI",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 3,
+        "use_gold": 800,
+        "use_item": [
+            [
+                [
+                    18001,
+                    3
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42404": {
+        "condition_id": [
+            42403
+        ],
+        "descrip": "\u70ae\u51fb+10",
+        "effect": [
+            {
+                "cannon": 10
+            }
+        ],
+        "gear_score": [
+            15
+        ],
+        "icon": "cn_1",
+        "id": 42404,
+        "level_limit": 25,
+        "max_level": 1,
+        "name": "\u70ae\u51fb\u5f3a\u5316I",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 3,
+        "use_gold": 1000,
+        "use_item": [
+            [
+                [
+                    18001,
+                    5
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42405": {
+        "condition_id": [
+            42403
+        ],
+        "descrip": "\u9c7c\u96f7\u6b66\u5668\u6548\u7387+5%",
+        "effect": [
+            {
+                "equipment_proficiency_2": 0.05
+            }
+        ],
+        "gear_score": [
+            20
+        ],
+        "icon": "tpup_1",
+        "id": 42405,
+        "level_limit": 35,
+        "max_level": 1,
+        "name": "\u9c7c\u96f7\u6539\u826fI",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 4,
+        "use_gold": 1200,
+        "use_item": [
+            [
+                [
+                    18002,
+                    3
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42406": {
+        "condition_id": [
+            42405
+        ],
+        "descrip": "\u96f7\u51fb+10",
+        "effect": [
+            {
+                "torpedo": 10
+            }
+        ],
+        "gear_score": [
+            20
+        ],
+        "icon": "tp_1",
+        "id": 42406,
+        "level_limit": 40,
+        "max_level": 1,
+        "name": "\u96f7\u51fb\u5f3a\u5316I",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 4,
+        "use_gold": 1500,
+        "use_item": [
+            [
+                [
+                    18002,
+                    2
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42407": {
+        "condition_id": [
+            42405
+        ],
+        "descrip": "\u822a\u901f+3",
+        "effect": [
+            {
+                "speed": 3
+            }
+        ],
+        "gear_score": [
+            25
+        ],
+        "icon": "sp_1",
+        "id": 42407,
+        "level_limit": 50,
+        "max_level": 1,
+        "name": "\u52a8\u529b\u5f3a\u5316",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 4,
+        "use_gold": 1800,
+        "use_item": [
+            [
+                [
+                    18002,
+                    5
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42408": {
+        "condition_id": [
+            42404,
+            42407
+        ],
+        "descrip": "\u88c5\u586b+5/\u88c5\u586b+10",
+        "effect": [
+            {
+                "reload": 5
+            },
+            {
+                "reload": 10
+            }
+        ],
+        "gear_score": [
+            10,
+            15
+        ],
+        "icon": "rl_2",
+        "id": 42408,
+        "level_limit": 55,
+        "max_level": 2,
+        "name": "\u88c5\u586b\u5f3a\u5316II",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 4,
+        "use_gold": 2000,
+        "use_item": [
+            [
+                [
+                    18002,
+                    1
+                ]
+            ],
+            [
+                [
+                    18002,
+                    2
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42409": {
+        "condition_id": [
+            42407
+        ],
+        "descrip": "\u8010\u4e45+45/\u8010\u4e45+75",
+        "effect": [
+            {
+                "durability": 45
+            },
+            {
+                "durability": 75
+            }
+        ],
+        "gear_score": [
+            10,
+            20
+        ],
+        "icon": "hp_2",
+        "id": 42409,
+        "level_limit": 70,
+        "max_level": 2,
+        "name": "\u8230\u4f53\u6539\u826fII",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 5,
+        "use_gold": 2500,
+        "use_item": [
+            [
+                [
+                    18003,
+                    1
+                ]
+            ],
+            [
+                [
+                    18003,
+                    1
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42410": {
+        "condition_id": [
+            42406,
+            42409
+        ],
+        "descrip": "\u96f7\u51fb+5/\u96f7\u51fb+15",
+        "effect": [
+            {
+                "torpedo": 5
+            },
+            {
+                "torpedo": 15
+            }
+        ],
+        "gear_score": [
+            10,
+            20
+        ],
+        "icon": "tp_2",
+        "id": 42410,
+        "level_limit": 75,
+        "max_level": 2,
+        "name": "\u96f7\u51fb\u5f3a\u5316II",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 5,
+        "use_gold": 3000,
+        "use_item": [
+            [
+                [
+                    18003,
+                    1
+                ],
+                [
+                    17023,
+                    5
+                ]
+            ],
+            [
+                [
+                    18003,
+                    2
+                ],
+                [
+                    17023,
+                    15
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42411": {
+        "condition_id": [
+            42409,
+            42410
+        ],
+        "descrip": "\u673a\u52a8+5/\u673a\u52a8+10",
+        "effect": [
+            {
+                "dodge": 5
+            },
+            {
+                "dodge": 10
+            }
+        ],
+        "gear_score": [
+            10,
+            20
+        ],
+        "icon": "dd_2",
+        "id": 42411,
+        "level_limit": 85,
+        "max_level": 2,
+        "name": "\u673a\u52a8\u5f3a\u5316II",
+        "ship_id": {},
+        "skill_id": 0,
+        "skin_id": 0,
+        "star_limit": 5,
+        "use_gold": 3000,
+        "use_item": [
+            [
+                [
+                    18003,
+                    2
+                ]
+            ],
+            [
+                [
+                    18003,
+                    2
+                ]
+            ]
+        ],
+        "use_ship": 0
+    },
+    "42412": {
+        "condition_id": [
+            42408,
+            42411
+        ],
+        "descrip": "\u8fd1\u4ee3\u5316\u6539\u9020\u5b8c\u6210\uff0c\u96f7\u51fb+30\uff0c\u673a\u52a8+15",
+        "effect": [
+            {
+                "dodge": 15,
+                "torpedo": 30
+            }
+        ],
+        "gear_score": [
+            50
+        ],
+        "icon": "mt_red",
+        "id": 42412,
+        "level_limit": 90,
+        "max_level": 1,
+        "name": "\u8fd1\u4ee3\u5316\u6539\u9020",
+        "ship_id": [
+            [
+                301814,
+                301534
+            ]
+        ],
+        "skill_id": 0,
+        "skin_id": 301819,
+        "star_limit": 5,
+        "use_gold": 4000,
+        "use_item": [
+            [
+                [
+                    18003,
+                    3
+                ]
+            ]
+        ],
+        "use_ship": 1
+    },
     "43401": {
         "condition_id": {},
         "descrip": "\u8010\u4e45+70",
