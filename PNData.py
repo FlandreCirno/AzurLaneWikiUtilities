@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import re, os
 from slpp import slpp
 import util
@@ -23,15 +22,21 @@ def getShipTrans():
 def getTransformTemplage():
     return util.parseDataFile('transform_data_template')
 
+def getShipStrengthenBlueprint():
+    return util.parseDataFile('ship_strengthen_blueprint')
+    
+def getShipDataBlueprint():
+    return util.parseDataFile('ship_data_blueprint')
+
 def getWikiID(id):
     wikiID = '%03d' % (id % 10000)
     if id < 10000:
         return wikiID
-    elif id > 10000:
+    elif id < 20000:
         return 'Collab' + wikiID
-    elif id > 20000:
+    elif id < 30000:
         return 'Plan' + wikiID
-    elif id > 30000:
+    elif id < 40000:
         return 'Meta' + wikiID
 
 def shipTransform(group, shipTrans, transformTemplate):
@@ -61,55 +66,68 @@ def statusTransTotal(transList):
             total[STATUSENUM[t['type']]] += t['amount']
     return total
 
-def getData(ships = None): 
-    group = getShipGroup()
-    statistics = getShipStatistics()
-    template = getShipTemplate()
-    strengthen = getShipStrengthen()
-    shipTrans = getShipTrans()
-    transformTemplate = getTransformTemplage()
+def modifyTechData(data, blueprintData, blueprintStrengthen):
+    for ship in data:
+        if ship['realID'] > 20000 and ship['realID'] < 30000:
+            groupID = ship['groupID']
+            blueprintStrengthenID = blueprintData[groupID]['strengthen_effect']
+            strengthenList = []
+            for i in range(0, min(30, ship['breakout']*10)):
+                if 'effect_attr' in blueprintStrengthen[blueprintStrengthenID[i]].keys() \
+                            and blueprintStrengthen[blueprintStrengthenID[i]]['effect_attr']:
+                    for effect in blueprintStrengthen[blueprintStrengthenID[i]]['effect_attr']:
+                        strengthenList.append({'type': effect[0], 'amount': effect[1]})
+            strengthenTotal = statusTransTotal(strengthenList)
+            for i in range(5):
+                ship['values'][3*i] += strengthenTotal[i]
+
+def modifyMetaData():
+    for ship in data:
+        if ship['realID'] > 30000 and ship['realID'] < 40000:
+            pass
+        
+def getData(group, statistics, template, strengthen, shipTrans, transformTemplate, ships = None): 
     if not ships:
         ships = {}
         for k, v in group.items():
-            ships[v['code']] = v['group_type']
+            if v['code'] < 30000:
+                ships[v['code']] = v['group_type']
     shipData = []
     for realID, groupID in ships.items():
-        if realID < 20000:
-            id = getWikiID(realID)
-            shipID = {}
-            for tempID, v in template.items():
-                if v['group_type'] == groupID and tempID // 10 == groupID :
-                    shipID[3 - (v['star_max'] - v['star'])] = {'id':tempID, 'oil_at_start':v['oil_at_start'], 
-                    'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id}
-            shipRemould, transShipID = shipTransform(groupID, shipTrans, transformTemplate)
-            if transShipID and transShipID in template.keys():
-                v = template[transShipID]
-                shipID[4] = {'id':transShipID, 'oil_at_start':v['oil_at_start'], 
-                    'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id}
-            for breakout in range(5):
-                if breakout in shipID.keys():
-                    v = shipID[breakout]
-                    v['breakout'] = breakout
-                    stat = statistics[v['id']]
-                    v['attrs'] = stat['attrs']
-                    v['attrs_growth'] = stat['attrs_growth']
-                    v['attrs_growth_extra'] = stat['attrs_growth_extra']
-                    v['strengthen'] = strengthen[v['strengthen_id']]['durability']
-                    name = stat['name']
-                    v['values'] = [0]*56
-                    for i in range(12):
-                        v['values'][3*i] = v['attrs'][i]
-                        v['values'][3*i+1] = v['attrs_growth'][i]
-                        v['values'][3*i+2] = v['attrs_growth_extra'][i]
-                    for i in range(5):
-                        v['values'][36+i] = v['strengthen'][i]
-                    v['values'][54] = v['oil_at_start']
-                    v['values'][55] = v['oil_at_end']
-                    if shipRemould:
-                        for i in range(13):
-                            v['values'][i+41] += shipRemould[i]
-                    v['format'] = formatData(id, v['values'], name, breakout)
-                    shipData.append(v)
+        id = getWikiID(realID)
+        shipID = {}
+        for tempID, v in template.items():
+            if v['group_type'] == groupID and tempID // 10 == groupID :
+                shipID[3 - (v['star_max'] - v['star'])] = {'id':tempID, 'oil_at_start':v['oil_at_start'], 
+                'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID': id, 'realID': realID, 'groupID': groupID}
+        shipRemould, transShipID = shipTransform(groupID, shipTrans, transformTemplate)
+        if transShipID and transShipID in template.keys():
+            v = template[transShipID]
+            shipID[4] = {'id':transShipID, 'oil_at_start':v['oil_at_start'], 
+                'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
+        for breakout in range(5):
+            if breakout in shipID.keys():
+                v = shipID[breakout]
+                v['breakout'] = breakout
+                stat = statistics[v['id']]
+                v['attrs'] = stat['attrs']
+                v['attrs_growth'] = stat['attrs_growth']
+                v['attrs_growth_extra'] = stat['attrs_growth_extra']
+                v['strengthen'] = strengthen[v['strengthen_id']]['durability']
+                v['name'] = stat['name']
+                v['values'] = [0]*56
+                for i in range(12):
+                    v['values'][3*i] = v['attrs'][i]
+                    v['values'][3*i+1] = v['attrs_growth'][i]
+                    v['values'][3*i+2] = v['attrs_growth_extra'][i]
+                for i in range(5):
+                    v['values'][36+i] = v['strengthen'][i]
+                v['values'][54] = v['oil_at_start']
+                v['values'][55] = v['oil_at_end']
+                if shipRemould:
+                    for i in range(13):
+                        v['values'][i+41] += shipRemould[i]
+                shipData.append(v)
     return shipData
 
 def formatData(ID, values, name, breakout):
@@ -132,11 +150,20 @@ def formatData(ID, values, name, breakout):
 
 if __name__ == "__main__":
     f = open(os.path.join(util.WikiDirectory, 'PN.txt'), 'w+', encoding = 'utf-8')
-    data = getData()
+    group = getShipGroup()
+    statistics = getShipStatistics()
+    template = getShipTemplate()
+    strengthen = getShipStrengthen()
+    shipTrans = getShipTrans()
+    transformTemplate = getTransformTemplage()
+    blueprintData = getShipDataBlueprint()
+    blueprintStrengthen = getShipStrengthenBlueprint()
+    data = getData(group, statistics, template, strengthen, shipTrans, transformTemplate)
+    modifyTechData(data, blueprintData, blueprintStrengthen)
     def func(ship):
         return ship['wikiID'] + str(ship['breakout'])
     data.sort(key = func)
     for ship in data:
-        f.write(ship['format'])
+        f.write(formatData(ship['wikiID'], ship['values'], ship['name'], ship['breakout']))
         f.write('\n')
     f.close()
