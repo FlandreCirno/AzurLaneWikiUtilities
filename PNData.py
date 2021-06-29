@@ -1,8 +1,9 @@
-import re, os
+import re, os, math
 from slpp import slpp
 import util
 
 STATUSENUM = {'durability': 0, 'cannon': 1, 'torpedo': 2, 'antiaircraft': 3, 'air': 4, 'reload': 5, 'range': 6, 'hit': 7, 'dodge': 8, 'speed': 9, 'luck': 10, 'antisub': 11, 'gearscore': 12}
+STATUSINVERSE = ['durability', 'cannon', 'torpedo', 'antiaircraft', 'air', 'reload', 'range', 'hit', 'dodge', 'speed', 'luck', 'antisub', 'gearscore']
 
 def getShipGroup():
     return util.parseDataFile('ship_data_group')
@@ -77,9 +78,13 @@ def modifyTechData(data, blueprintData, blueprintStrengthen):
                             and blueprintStrengthen[blueprintStrengthenID[i]]['effect_attr']:
                     for effect in blueprintStrengthen[blueprintStrengthenID[i]]['effect_attr']:
                         strengthenList.append({'type': effect[0], 'amount': effect[1]})
+                for j in range(5):
+                    strengthenList.append({'type': STATUSINVERSE[j+1], 'amount': blueprintStrengthen[blueprintStrengthenID[i]]['effect'][j]/100.0})
             strengthenTotal = statusTransTotal(strengthenList)
-            for i in range(5):
-                ship['values'][3*i] += strengthenTotal[i]
+            for i in range(6):
+                ship['values'][3*i] += math.floor(strengthenTotal[i])
+            for i in range(36, 41):
+                ship['values'][i] = 0
 
 def modifyMetaData():
     for ship in data:
