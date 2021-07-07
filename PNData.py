@@ -77,12 +77,12 @@ def modifyTechData(data, blueprintData, blueprintStrengthen):
                 if 'effect_attr' in blueprintStrengthen[blueprintStrengthenID[i]].keys() \
                             and blueprintStrengthen[blueprintStrengthenID[i]]['effect_attr']:
                     for effect in blueprintStrengthen[blueprintStrengthenID[i]]['effect_attr']:
-                        strengthenList.append({'type': effect[0], 'amount': effect[1]})
+                        strengthenList.append({'type': effect[0], 'amount': effect[1]*100})
                 for j in range(5):
-                    strengthenList.append({'type': STATUSINVERSE[j+1], 'amount': blueprintStrengthen[blueprintStrengthenID[i]]['effect'][j]/100.0})
+                    strengthenList.append({'type': STATUSINVERSE[j+1], 'amount': blueprintStrengthen[blueprintStrengthenID[i]]['effect'][j]})
             strengthenTotal = statusTransTotal(strengthenList)
-            for i in range(6):
-                ship['values'][3*i] += math.floor(strengthenTotal[i])
+            for i in range(12):
+                ship['values'][3*i] += strengthenTotal[i]//100
             for i in range(36, 41):
                 ship['values'][i] = 0
 
