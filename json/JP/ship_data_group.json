@@ -19855,6 +19855,176 @@
         "trans_type": 0,
         "type": 5
     },
+    "20018": {
+        "code": 20018,
+        "description": [
+            [
+                "\u7814\u7a76\u30c9\u30c3\u30af",
+                [
+                    "SHIPBLUEPRINT",
+                    {
+                        "shipGroupId": 19903
+                    }
+                ],
+                0
+            ]
+        ],
+        "group_type": 19903,
+        "handbook_type": 2,
+        "hide": 0,
+        "index_id": 20018,
+        "nationality": 1,
+        "property_hexagon": [
+            "A",
+            "C",
+            "E",
+            "C",
+            "C",
+            "A"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 3
+    },
+    "20019": {
+        "code": 20019,
+        "description": [
+            [
+                "\u7814\u7a76\u30c9\u30c3\u30af",
+                [
+                    "SHIPBLUEPRINT",
+                    {
+                        "shipGroupId": 39905
+                    }
+                ],
+                0
+            ]
+        ],
+        "group_type": 39905,
+        "handbook_type": 2,
+        "hide": 0,
+        "index_id": 20019,
+        "nationality": 3,
+        "property_hexagon": [
+            "E",
+            "E",
+            "S",
+            "B",
+            "B",
+            "S"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 7
+    },
+    "20020": {
+        "code": 20020,
+        "description": [
+            [
+                "\u7814\u7a76\u30c9\u30c3\u30af",
+                [
+                    "SHIPBLUEPRINT",
+                    {
+                        "shipGroupId": 49905
+                    }
+                ],
+                0
+            ]
+        ],
+        "group_type": 49905,
+        "handbook_type": 2,
+        "hide": 0,
+        "index_id": 20020,
+        "nationality": 4,
+        "property_hexagon": [
+            "A",
+            "C",
+            "E",
+            "C",
+            "C",
+            "S"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 18
+    },
+    "20021": {
+        "code": 20021,
+        "description": [
+            [
+                "\u7814\u7a76\u30c9\u30c3\u30af",
+                [
+                    "SHIPBLUEPRINT",
+                    {
+                        "shipGroupId": 49906
+                    }
+                ],
+                0
+            ]
+        ],
+        "group_type": 49906,
+        "handbook_type": 2,
+        "hide": 0,
+        "index_id": 20021,
+        "nationality": 4,
+        "property_hexagon": [
+            "E",
+            "E",
+            "S",
+            "C",
+            "B",
+            "A"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 7
+    },
+    "20022": {
+        "code": 20022,
+        "description": [
+            [
+                "\u7814\u7a76\u30c9\u30c3\u30af",
+                [
+                    "SHIPBLUEPRINT",
+                    {
+                        "shipGroupId": 69901
+                    }
+                ],
+                0
+            ]
+        ],
+        "group_type": 69901,
+        "handbook_type": 2,
+        "hide": 0,
+        "index_id": 20022,
+        "nationality": 6,
+        "property_hexagon": [
+            "S",
+            "E",
+            "E",
+            "D",
+            "C",
+            "S"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 5
+    },
     "30001": {
         "code": 30001,
         "description": [

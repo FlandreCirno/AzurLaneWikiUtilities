@@ -17126,6 +17126,50 @@
         "title": "\u30c6\u30a3\u30e9\u30df\u30b9\u306e\u7518\u3055\u3068",
         "type": 1
     },
+    "1732": {
+        "condition": "\u7279\u5225\u8a08\u753b\u8266\u5f37\u5316\u30ec\u30d9\u30eb30\u9054\u6210",
+        "icon": "memory_chaijun",
+        "id": 1732,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "LUCK29903",
+        "subtitle": "",
+        "title": "\u65b0\u3057\u3044\u65c5-\u30c1\u30a7\u30b7\u30e3\u30fc",
+        "type": 1
+    },
+    "1733": {
+        "condition": "\u7279\u5225\u8a08\u753b\u8266\u5f37\u5316\u30ec\u30d9\u30eb30\u9054\u6210",
+        "icon": "memory_xiangbin",
+        "id": 1733,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "LUCK89902",
+        "subtitle": "",
+        "title": "\u65b0\u3057\u3044\u65c5-\u30b7\u30e3\u30f3\u30d1\u30fc\u30cb\u30e5",
+        "type": 1
+    },
+    "1734": {
+        "condition": "\u7279\u5225\u8a08\u753b\u8266\u5f37\u5316\u30ec\u30d9\u30eb30\u9054\u6210",
+        "icon": "memory_aoding",
+        "id": 1734,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "LUCK49904",
+        "subtitle": "",
+        "title": "\u65b0\u3057\u3044\u65c5-\u30aa\u30fc\u30c7\u30a3\u30f3",
+        "type": 1
+    },
+    "1735": {
+        "condition": "\u7279\u5225\u8a08\u753b\u8266\u5f37\u5316\u30ec\u30d9\u30eb30\u9054\u6210",
+        "icon": "memory_meiyinci",
+        "id": 1735,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "LUCK49903",
+        "subtitle": "",
+        "title": "\u65b0\u3057\u3044\u65c5-\u30de\u30a4\u30f3\u30c4",
+        "type": 1
+    },
     "4000": {
         "condition": "\u93e1\u5199\u3055\u308c\u3057\u7570\u8272B4/D4\u958b\u59cb",
         "icon": "activity",
