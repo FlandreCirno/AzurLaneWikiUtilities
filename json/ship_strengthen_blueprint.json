@@ -12239,6 +12239,159 @@
         "need_lv": 70,
         "special": 1
     },
+    "1331": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                1
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+1",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1331,
+        "lv": 31,
+        "need_exp": 100,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1332": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                2
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+2",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1332,
+        "lv": 32,
+        "need_exp": 200,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1333": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                3
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+3",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1333,
+        "lv": 33,
+        "need_exp": 300,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1334": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                4
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+4",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1334,
+        "lv": 34,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1335": {
+        "change_skill": [
+            19270,
+            18270
+        ],
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                5
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+5|\u3010\u67f4\u90e1PowerUp\uff01\u3011\u6280\u80fd\u5f3a\u5316\u4e3a\u3010\u67f4\u90e1PowerUp\uff01 +\u3011",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1335,
+        "lv": 35,
+        "need_exp": 650,
+        "need_lv": 100,
+        "special": 1
+    },
     "1401": {
         "change_skill": "",
         "effect": [
@@ -13891,6 +14044,159 @@
         "need_lv": 70,
         "special": 1
     },
+    "1531": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                1
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+1",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1531,
+        "lv": 31,
+        "need_exp": 100,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1532": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                2
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+2",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1532,
+        "lv": 32,
+        "need_exp": 200,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1533": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                3
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+3",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1533,
+        "lv": 33,
+        "need_exp": 300,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1534": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                4
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+4",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1534,
+        "lv": 34,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1535": {
+        "change_skill": [
+            19320,
+            18320
+        ],
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                5
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+5|\u3010\u300cAusgewogen\u300d\u3011\u6280\u80fd\u5f3a\u5316\u4e3a\u3010\u300cAusgewogen\u300d +\u3011",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1535,
+        "lv": 35,
+        "need_exp": 650,
+        "need_lv": 100,
+        "special": 1
+    },
     "1601": {
         "change_skill": "",
         "effect": [
@@ -14711,6 +15017,159 @@
         "need_lv": 70,
         "special": 1
     },
+    "1631": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                1
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+1",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1631,
+        "lv": 31,
+        "need_exp": 100,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1632": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                2
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+2",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1632,
+        "lv": 32,
+        "need_exp": 200,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1633": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                3
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+3",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1633,
+        "lv": 33,
+        "need_exp": 300,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1634": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                4
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+4",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1634,
+        "lv": 34,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1635": {
+        "change_skill": [
+            19340,
+            18340
+        ],
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                5
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+5|\u3010\u8d2f\u7a7f\u4e4b\u8f70\u96f7\u3011\u6280\u80fd\u5f3a\u5316\u4e3a\u3010\u8d2f\u7a7f\u4e4b\u8f70\u96f7 +\u3011",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1635,
+        "lv": 35,
+        "need_exp": 650,
+        "need_lv": 100,
+        "special": 1
+    },
     "1701": {
         "change_skill": "",
         "effect": [
@@ -15529,6 +15988,4300 @@
             "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad815%"
         ],
         "id": 1730,
+        "lv": 30,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1731": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                1
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+1",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1731,
+        "lv": 31,
+        "need_exp": 100,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1732": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                2
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+2",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1732,
+        "lv": 32,
+        "need_exp": 200,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1733": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                3
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+3",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1733,
+        "lv": 33,
+        "need_exp": 300,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1734": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                4
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+4",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1734,
+        "lv": 34,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1735": {
+        "change_skill": [
+            19350,
+            18350
+        ],
+        "effect": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "effect_attr": [
+            [
+                "luck",
+                5
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u5e78\u8fd0+5|\u3010\u8f85\u52a9\u673a\u6784\u300cS.P.\u300d\u3011\u6280\u80fd\u5f3a\u5316\u4e3a\u3010\u8f85\u52a9\u673a\u6784\u300cS.P.\u300d +\u3011",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1735,
+        "lv": 35,
+        "need_exp": 650,
+        "need_lv": 100,
+        "special": 1
+    },
+    "1801": {
+        "change_skill": "",
+        "effect": [
+            69,
+            59,
+            0,
+            0,
+            45
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u9274\u8d4f\u89e3\u9501\uff1a\u767b\u5f55\u3001\u56de\u6e2f\u3001\u56fe\u9274",
+        "effect_dialog": [
+            "login",
+            "home",
+            "profile"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1801,
+        "lv": 1,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 1
+    },
+    "1802": {
+        "change_skill": "",
+        "effect": [
+            69,
+            59,
+            0,
+            0,
+            45
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1802,
+        "lv": 2,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1803": {
+        "change_skill": "",
+        "effect": [
+            69,
+            59,
+            0,
+            0,
+            45
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1803,
+        "lv": 3,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1804": {
+        "change_skill": "",
+        "effect": [
+            69,
+            59,
+            0,
+            0,
+            45
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1804,
+        "lv": 4,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1805": {
+        "change_skill": "",
+        "effect": [
+            69,
+            59,
+            0,
+            0,
+            45
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                268
+            ],
+            [
+                "antiaircraft",
+                10
+            ],
+            [
+                "dodge",
+                5
+            ]
+        ],
+        "effect_base": [
+            2,
+            1,
+            1
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+268|\u9632\u7a7a+10|\u673a\u52a8+5|\u4e3b\u70ae\u5e95\u5ea7+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
+        "effect_dialog": [
+            "main1",
+            "battle",
+            "mission"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1805,
+        "lv": 5,
+        "need_exp": 50,
+        "need_lv": 1,
+        "special": 1
+    },
+    "1806": {
+        "change_skill": "",
+        "effect": [
+            138,
+            118,
+            0,
+            0,
+            90
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1806,
+        "lv": 6,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1807": {
+        "change_skill": "",
+        "effect": [
+            138,
+            118,
+            0,
+            0,
+            90
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1807,
+        "lv": 7,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1808": {
+        "change_skill": "",
+        "effect": [
+            138,
+            118,
+            0,
+            0,
+            90
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1808,
+        "lv": 8,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1809": {
+        "change_skill": "",
+        "effect": [
+            138,
+            118,
+            0,
+            0,
+            90
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1809,
+        "lv": 9,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1810": {
+        "change_skill": "",
+        "effect": [
+            138,
+            118,
+            0,
+            0,
+            90
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 199032,
+        "effect_desc": "\u7a81\u7834\u81f34\u661f|\u9c7c\u96f7\u9884\u88c5\u586b+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97622\u3001\u6218\u6597MVP\u3001\u5931\u8d25",
+        "effect_dialog": [
+            "main2",
+            "win_mvp",
+            "lose"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u4e60\u5f97\u6280\u80fd\u3010\u585e\u58ec\u4e4b\u654c\u3011",
+            "\u83b7\u5f97\u4e13\u5c5e\u5f39\u5e55I",
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%"
+        ],
+        "id": 1810,
+        "lv": 10,
+        "need_exp": 80,
+        "need_lv": 10,
+        "special": 1
+    },
+    "1811": {
+        "change_skill": "",
+        "effect": [
+            207,
+            177,
+            0,
+            0,
+            135
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1811,
+        "lv": 11,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1812": {
+        "change_skill": "",
+        "effect": [
+            207,
+            177,
+            0,
+            0,
+            135
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1812,
+        "lv": 12,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1813": {
+        "change_skill": "",
+        "effect": [
+            207,
+            177,
+            0,
+            0,
+            135
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1813,
+        "lv": 13,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1814": {
+        "change_skill": "",
+        "effect": [
+            207,
+            177,
+            0,
+            0,
+            135
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1814,
+        "lv": 14,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1815": {
+        "change_skill": "",
+        "effect": [
+            207,
+            177,
+            0,
+            0,
+            135
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                537
+            ],
+            [
+                "antiaircraft",
+                21
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+537|\u9632\u7a7a+21|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad810%|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
+        "effect_dialog": [
+            "main3",
+            "touch",
+            "mission_complete"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.1
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1815,
+        "lv": 15,
+        "need_exp": 120,
+        "need_lv": 10,
+        "special": 1
+    },
+    "1816": {
+        "change_skill": "",
+        "effect": [
+            276,
+            236,
+            0,
+            0,
+            180
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1816,
+        "lv": 16,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1817": {
+        "change_skill": "",
+        "effect": [
+            276,
+            236,
+            0,
+            0,
+            180
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1817,
+        "lv": 17,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1818": {
+        "change_skill": "",
+        "effect": [
+            276,
+            236,
+            0,
+            0,
+            180
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1818,
+        "lv": 18,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1819": {
+        "change_skill": "",
+        "effect": [
+            276,
+            236,
+            0,
+            0,
+            180
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1819,
+        "lv": 19,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1820": {
+        "change_skill": "",
+        "effect": [
+            276,
+            236,
+            0,
+            0,
+            180
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 199033,
+        "effect_desc": "\u7a81\u7834\u81f35\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u6280\u80fd\u3001\u90ae\u4ef6\u3001\u59d4\u6258\u5b8c\u6210",
+        "effect_dialog": [
+            "skill",
+            "mail",
+            "expedition"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u9c7c\u96f7\u6548\u7387\u63d0\u9ad810%"
+        ],
+        "id": 1820,
+        "lv": 20,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 1
+    },
+    "1821": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1821,
+        "lv": 21,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1822": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1822,
+        "lv": 22,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1823": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1823,
+        "lv": 23,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1824": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1824,
+        "lv": 24,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1825": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                805
+            ],
+            [
+                "antiaircraft",
+                31
+            ],
+            [
+                "dodge",
+                10
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+805|\u9632\u7a7a+31|\u673a\u52a8+10|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
+        "effect_dialog": [
+            "touch2",
+            "hp_warning"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1825,
+        "lv": 25,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 1
+    },
+    "1826": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1826,
+        "lv": 26,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1827": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1827,
+        "lv": 27,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1828": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1828,
+        "lv": 28,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1829": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1829,
+        "lv": 29,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1830": {
+        "change_skill": "",
+        "effect": [
+            345,
+            295,
+            0,
+            0,
+            225
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 199034,
+        "effect_desc": "\u7a81\u7834\u81f36\u661f",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u4e13\u5c5e\u5f39\u5e55\u5347\u7ea7",
+            "\u5168\u6b66\u5668\u6548\u7387\u63d0\u9ad85%"
+        ],
+        "id": 1830,
+        "lv": 30,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "1901": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            129,
+            35
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u9274\u8d4f\u89e3\u9501\uff1a\u767b\u5f55\u3001\u56de\u6e2f\u3001\u56fe\u9274",
+        "effect_dialog": [
+            "login",
+            "home",
+            "profile"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1901,
+        "lv": 1,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 1
+    },
+    "1902": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            129,
+            35
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1902,
+        "lv": 2,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1903": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            129,
+            35
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1903,
+        "lv": 3,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1904": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            129,
+            35
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1904,
+        "lv": 4,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1905": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            129,
+            35
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                346
+            ],
+            [
+                "antiaircraft",
+                15
+            ]
+        ],
+        "effect_base": [
+            2,
+            1,
+            1
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+346|\u9632\u7a7a+15|\u6218\u6597\u673a\u6548\u7387\u63d0\u9ad85%|\u6240\u6709\u6218\u6597\u673a+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
+        "effect_dialog": [
+            "main1",
+            "battle",
+            "mission"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1905,
+        "lv": 5,
+        "need_exp": 80,
+        "need_lv": 1,
+        "special": 1
+    },
+    "1906": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            258,
+            70
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1906,
+        "lv": 6,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1907": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            258,
+            70
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1907,
+        "lv": 7,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1908": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            258,
+            70
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1908,
+        "lv": 8,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1909": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            258,
+            70
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1909,
+        "lv": 9,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "1910": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            258,
+            70
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 399052,
+        "effect_desc": "\u7a81\u7834\u81f34\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97622\u3001\u6218\u6597MVP\u3001\u5931\u8d25",
+        "effect_dialog": [
+            "main2",
+            "win_mvp",
+            "lose"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u4e60\u5f97\u6280\u80fd\u3010\u585e\u58ec\u4e4b\u654c\u3011",
+            "\u6218\u6597\u673a\u6548\u7387\u63d0\u9ad85%",
+            "\u6218\u6597\u673a\u680f\u4f4d\u53ef\u4ee5\u88c5\u5907\u9c7c\u96f7\u673a"
+        ],
+        "id": 1910,
+        "lv": 10,
+        "need_exp": 120,
+        "need_lv": 10,
+        "special": 1
+    },
+    "1911": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            387,
+            105
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1911,
+        "lv": 11,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1912": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            387,
+            105
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1912,
+        "lv": 12,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1913": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            387,
+            105
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1913,
+        "lv": 13,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1914": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            387,
+            105
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1914,
+        "lv": 14,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1915": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            387,
+            105
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                691
+            ],
+            [
+                "antiaircraft",
+                30
+            ]
+        ],
+        "effect_base": [
+            2,
+            3,
+            1
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+691|\u9632\u7a7a+30|\u6240\u6709\u8f70\u70b8\u673a+2|\u8f70\u70b8\u673a\u6548\u7387\u63d0\u9ad810%|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
+        "effect_dialog": [
+            "main3",
+            "touch",
+            "mission_complete"
+        ],
+        "effect_equipment_proficiency": [
+            2,
+            0.1
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1915,
+        "lv": 15,
+        "need_exp": 180,
+        "need_lv": 10,
+        "special": 1
+    },
+    "1916": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            516,
+            140
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1916,
+        "lv": 16,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1917": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            516,
+            140
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1917,
+        "lv": 17,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1918": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            516,
+            140
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1918,
+        "lv": 18,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1919": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            516,
+            140
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1919,
+        "lv": 19,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "1920": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            516,
+            140
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 399053,
+        "effect_desc": "\u7a81\u7834\u81f35\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u6280\u80fd\u3001\u90ae\u4ef6\u3001\u59d4\u6258\u5b8c\u6210",
+        "effect_dialog": [
+            "skill",
+            "mail",
+            "expedition"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u673a\u5e93\u5bb9\u91cf+1",
+            "\u8f70\u70b8\u673a\u6548\u7387\u63d0\u9ad810%"
+        ],
+        "id": 1920,
+        "lv": 20,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 1
+    },
+    "1921": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1921,
+        "lv": 21,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1922": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1922,
+        "lv": 22,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1923": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1923,
+        "lv": 23,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1924": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1924,
+        "lv": 24,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1925": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                1037
+            ],
+            [
+                "antiaircraft",
+                45
+            ]
+        ],
+        "effect_base": [
+            3,
+            4,
+            2
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+1037|\u9632\u7a7a+45|\u9c7c\u96f7\u673a\u6548\u7387\u63d0\u9ad85%|\u6240\u6709\u8230\u8f7d\u673a+1|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
+        "effect_dialog": [
+            "touch2",
+            "hp_warning"
+        ],
+        "effect_equipment_proficiency": [
+            3,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1925,
+        "lv": 25,
+        "need_exp": 450,
+        "need_lv": 30,
+        "special": 1
+    },
+    "1926": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1926,
+        "lv": 26,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1927": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1927,
+        "lv": 27,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1928": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1928,
+        "lv": 28,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1929": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 1929,
+        "lv": 29,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "1930": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            645,
+            175
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 399054,
+        "effect_desc": "\u7a81\u7834\u81f36\u661f",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u8230\u8f7d\u673a\u6548\u7387\u63d0\u9ad85%",
+            "\u9c7c\u96f7\u673a\u680f\u4f4d\u53ef\u4ee5\u88c5\u5907\u8f70\u70b8\u673a"
+        ],
+        "id": 1930,
+        "lv": 30,
+        "need_exp": 600,
+        "need_lv": 70,
+        "special": 1
+    },
+    "2001": {
+        "change_skill": "",
+        "effect": [
+            78,
+            55,
+            0,
+            0,
+            46
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u9274\u8d4f\u89e3\u9501\uff1a\u767b\u5f55\u3001\u56de\u6e2f\u3001\u56fe\u9274",
+        "effect_dialog": [
+            "login",
+            "home",
+            "profile"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2001,
+        "lv": 1,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 1
+    },
+    "2002": {
+        "change_skill": "",
+        "effect": [
+            78,
+            55,
+            0,
+            0,
+            46
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2002,
+        "lv": 2,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2003": {
+        "change_skill": "",
+        "effect": [
+            78,
+            55,
+            0,
+            0,
+            46
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2003,
+        "lv": 3,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2004": {
+        "change_skill": "",
+        "effect": [
+            78,
+            55,
+            0,
+            0,
+            46
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2004,
+        "lv": 4,
+        "need_exp": 30,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2005": {
+        "change_skill": "",
+        "effect": [
+            78,
+            55,
+            0,
+            0,
+            46
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                305
+            ],
+            [
+                "antiaircraft",
+                12
+            ]
+        ],
+        "effect_base": [
+            2,
+            1,
+            1
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+315|\u9632\u7a7a+12|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u4e3b\u70ae\u5e95\u5ea7+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
+        "effect_dialog": [
+            "main1",
+            "battle",
+            "mission"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2005,
+        "lv": 5,
+        "need_exp": 80,
+        "need_lv": 1,
+        "special": 1
+    },
+    "2006": {
+        "change_skill": "",
+        "effect": [
+            156,
+            110,
+            0,
+            0,
+            92
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2006,
+        "lv": 6,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2007": {
+        "change_skill": "",
+        "effect": [
+            156,
+            110,
+            0,
+            0,
+            92
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2007,
+        "lv": 7,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2008": {
+        "change_skill": "",
+        "effect": [
+            156,
+            110,
+            0,
+            0,
+            92
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2008,
+        "lv": 8,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2009": {
+        "change_skill": "",
+        "effect": [
+            156,
+            110,
+            0,
+            0,
+            92
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2009,
+        "lv": 9,
+        "need_exp": 60,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2010": {
+        "change_skill": "",
+        "effect": [
+            156,
+            110,
+            0,
+            0,
+            92
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 499052,
+        "effect_desc": "\u7a81\u7834\u81f34\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97622\u3001\u6218\u6597MVP\u3001\u5931\u8d25",
+        "effect_dialog": [
+            "main2",
+            "win_mvp",
+            "lose"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u4e60\u5f97\u6280\u80fd\u3010\u585e\u58ec\u4e4b\u654c\u3011",
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%"
+        ],
+        "id": 2010,
+        "lv": 10,
+        "need_exp": 120,
+        "need_lv": 10,
+        "special": 1
+    },
+    "2011": {
+        "change_skill": "",
+        "effect": [
+            234,
+            165,
+            0,
+            0,
+            138
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2011,
+        "lv": 11,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2012": {
+        "change_skill": "",
+        "effect": [
+            234,
+            165,
+            0,
+            0,
+            138
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2012,
+        "lv": 12,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2013": {
+        "change_skill": "",
+        "effect": [
+            234,
+            165,
+            0,
+            0,
+            138
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2013,
+        "lv": 13,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2014": {
+        "change_skill": "",
+        "effect": [
+            234,
+            165,
+            0,
+            0,
+            138
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2014,
+        "lv": 14,
+        "need_exp": 90,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2015": {
+        "change_skill": "",
+        "effect": [
+            234,
+            165,
+            0,
+            0,
+            138
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                611
+            ],
+            [
+                "antiaircraft",
+                23
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+611|\u9632\u7a7a+23|\u9632\u7a7a\u70ae\u6548\u7387\u63d0\u9ad810%|\u9c7c\u96f7\u9884\u88c5\u586b+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
+        "effect_dialog": [
+            "main3",
+            "touch",
+            "mission_complete"
+        ],
+        "effect_equipment_proficiency": [
+            3,
+            0.1
+        ],
+        "effect_preload": [
+            0,
+            1,
+            0
+        ],
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2015,
+        "lv": 15,
+        "need_exp": 180,
+        "need_lv": 10,
+        "special": 1
+    },
+    "2016": {
+        "change_skill": "",
+        "effect": [
+            312,
+            220,
+            0,
+            0,
+            184
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2016,
+        "lv": 16,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2017": {
+        "change_skill": "",
+        "effect": [
+            312,
+            220,
+            0,
+            0,
+            184
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2017,
+        "lv": 17,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2018": {
+        "change_skill": "",
+        "effect": [
+            312,
+            220,
+            0,
+            0,
+            184
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2018,
+        "lv": 18,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2019": {
+        "change_skill": "",
+        "effect": [
+            312,
+            220,
+            0,
+            0,
+            184
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2019,
+        "lv": 19,
+        "need_exp": 150,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2020": {
+        "change_skill": "",
+        "effect": [
+            312,
+            220,
+            0,
+            0,
+            184
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 499053,
+        "effect_desc": "\u7a81\u7834\u81f35\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u6280\u80fd\u3001\u90ae\u4ef6\u3001\u59d4\u6258\u5b8c\u6210",
+        "effect_dialog": [
+            "skill",
+            "mail",
+            "expedition"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u9c7c\u96f7\u6548\u7387\u63d0\u9ad810%"
+        ],
+        "id": 2020,
+        "lv": 20,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 1
+    },
+    "2021": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2021,
+        "lv": 21,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2022": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2022,
+        "lv": 22,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2023": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2023,
+        "lv": 23,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2024": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2024,
+        "lv": 24,
+        "need_exp": 220,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2025": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                916
+            ],
+            [
+                "antiaircraft",
+                34
+            ],
+            [
+                "dodge",
+                5
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+916|\u9632\u7a7a+34|\u673a\u52a8+5|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
+        "effect_dialog": [
+            "touch2",
+            "hp_warning"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2025,
+        "lv": 25,
+        "need_exp": 450,
+        "need_lv": 30,
+        "special": 1
+    },
+    "2026": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2026,
+        "lv": 26,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2027": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2027,
+        "lv": 27,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2028": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2028,
+        "lv": 28,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2029": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2029,
+        "lv": 29,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2030": {
+        "change_skill": "",
+        "effect": [
+            390,
+            275,
+            0,
+            0,
+            230
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 499054,
+        "effect_desc": "\u7a81\u7834\u81f36\u661f",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad815%"
+        ],
+        "id": 2030,
+        "lv": 30,
+        "need_exp": 600,
+        "need_lv": 70,
+        "special": 1
+    },
+    "2101": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            122,
+            33
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u9274\u8d4f\u89e3\u9501\uff1a\u767b\u5f55\u3001\u56de\u6e2f\u3001\u56fe\u9274",
+        "effect_dialog": [
+            "login",
+            "home",
+            "profile"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2101,
+        "lv": 1,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 1
+    },
+    "2102": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            122,
+            33
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2102,
+        "lv": 2,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2103": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            122,
+            33
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2103,
+        "lv": 3,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2104": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            122,
+            33
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2104,
+        "lv": 4,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2105": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            122,
+            33
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                310
+            ],
+            [
+                "antiaircraft",
+                15
+            ]
+        ],
+        "effect_base": [
+            1,
+            2,
+            1
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+310|\u9632\u7a7a+15|\u6218\u6597\u673a\u6548\u7387\u63d0\u9ad85%|\u6240\u6709\u8f70\u70b8\u673a+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
+        "effect_dialog": [
+            "main1",
+            "battle",
+            "mission"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2105,
+        "lv": 5,
+        "need_exp": 50,
+        "need_lv": 1,
+        "special": 1
+    },
+    "2106": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            244,
+            66
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2106,
+        "lv": 6,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2107": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            244,
+            66
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2107,
+        "lv": 7,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2108": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            244,
+            66
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2108,
+        "lv": 8,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2109": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            244,
+            66
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2109,
+        "lv": 9,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2110": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            244,
+            66
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 499062,
+        "effect_desc": "\u7a81\u7834\u81f34\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97622\u3001\u6218\u6597MVP\u3001\u5931\u8d25",
+        "effect_dialog": [
+            "main2",
+            "win_mvp",
+            "lose"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u4e60\u5f97\u6280\u80fd\u3010\u585e\u58ec\u4e4b\u654c\u3011",
+            "\u6218\u6597\u673a\u6548\u7387\u63d0\u9ad85%"
+        ],
+        "id": 2110,
+        "lv": 10,
+        "need_exp": 80,
+        "need_lv": 10,
+        "special": 1
+    },
+    "2111": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            366,
+            99
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2111,
+        "lv": 11,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2112": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            366,
+            99
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2112,
+        "lv": 12,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2113": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            366,
+            99
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2113,
+        "lv": 13,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2114": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            366,
+            99
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2114,
+        "lv": 14,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2115": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            366,
+            99
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                621
+            ],
+            [
+                "antiaircraft",
+                30
+            ]
+        ],
+        "effect_base": [
+            1,
+            2,
+            2
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+621|\u9632\u7a7a+30|\u9c7c\u96f7\u673a\u6548\u7387\u63d0\u9ad85%|\u6240\u6709\u9c7c\u96f7\u673a+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
+        "effect_dialog": [
+            "main3",
+            "touch",
+            "mission_complete"
+        ],
+        "effect_equipment_proficiency": [
+            3,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2115,
+        "lv": 15,
+        "need_exp": 120,
+        "need_lv": 10,
+        "special": 1
+    },
+    "2116": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            488,
+            132
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2116,
+        "lv": 16,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2117": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            488,
+            132
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2117,
+        "lv": 17,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2118": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            488,
+            132
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2118,
+        "lv": 18,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2119": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            488,
+            132
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2119,
+        "lv": 19,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2120": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            488,
+            132
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 499063,
+        "effect_desc": "\u7a81\u7834\u81f35\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u6280\u80fd\u3001\u90ae\u4ef6\u3001\u59d4\u6258\u5b8c\u6210",
+        "effect_dialog": [
+            "skill",
+            "mail",
+            "expedition"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u673a\u5e93\u5bb9\u91cf+1",
+            "\u9c7c\u96f7\u673a\u6548\u7387\u63d0\u9ad810%"
+        ],
+        "id": 2120,
+        "lv": 20,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 1
+    },
+    "2121": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2121,
+        "lv": 21,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2122": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2122,
+        "lv": 22,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2123": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2123,
+        "lv": 23,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2124": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2124,
+        "lv": 24,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2125": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                931
+            ],
+            [
+                "antiaircraft",
+                46
+            ]
+        ],
+        "effect_base": [
+            2,
+            3,
+            3
+        ],
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+931|\u9632\u7a7a+46|\u6240\u6709\u8230\u8f7d\u673a+1|\u6218\u6597\u673a\u6548\u7387\u63d0\u9ad85%|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
+        "effect_dialog": [
+            "touch2",
+            "hp_warning"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2125,
+        "lv": 25,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 1
+    },
+    "2126": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2126,
+        "lv": 26,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2127": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2127,
+        "lv": 27,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2128": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2128,
+        "lv": 28,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2129": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2129,
+        "lv": 29,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2130": {
+        "change_skill": "",
+        "effect": [
+            0,
+            0,
+            0,
+            610,
+            165
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 499064,
+        "effect_desc": "\u7a81\u7834\u81f36\u661f",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u8230\u8f7d\u673a\u6548\u7387\u63d0\u9ad85%"
+        ],
+        "id": 2130,
+        "lv": 30,
+        "need_exp": 400,
+        "need_lv": 70,
+        "special": 1
+    },
+    "2201": {
+        "change_skill": "",
+        "effect": [
+            123,
+            0,
+            0,
+            0,
+            43
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u9274\u8d4f\u89e3\u9501\uff1a\u767b\u5f55\u3001\u56de\u6e2f\u3001\u56fe\u9274",
+        "effect_dialog": [
+            "login",
+            "home",
+            "profile"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2201,
+        "lv": 1,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 1
+    },
+    "2202": {
+        "change_skill": "",
+        "effect": [
+            123,
+            0,
+            0,
+            0,
+            43
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2202,
+        "lv": 2,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2203": {
+        "change_skill": "",
+        "effect": [
+            123,
+            0,
+            0,
+            0,
+            43
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2203,
+        "lv": 3,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2204": {
+        "change_skill": "",
+        "effect": [
+            123,
+            0,
+            0,
+            0,
+            43
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2204,
+        "lv": 4,
+        "need_exp": 20,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2205": {
+        "change_skill": "",
+        "effect": [
+            123,
+            0,
+            0,
+            0,
+            43
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                344
+            ],
+            [
+                "antiaircraft",
+                12
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+344|\u9632\u7a7a+12|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
+        "effect_dialog": [
+            "main1",
+            "battle",
+            "mission"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2205,
+        "lv": 5,
+        "need_exp": 50,
+        "need_lv": 1,
+        "special": 1
+    },
+    "2206": {
+        "change_skill": "",
+        "effect": [
+            246,
+            0,
+            0,
+            0,
+            86
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2206,
+        "lv": 6,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2207": {
+        "change_skill": "",
+        "effect": [
+            246,
+            0,
+            0,
+            0,
+            86
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2207,
+        "lv": 7,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2208": {
+        "change_skill": "",
+        "effect": [
+            246,
+            0,
+            0,
+            0,
+            86
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2208,
+        "lv": 8,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2209": {
+        "change_skill": "",
+        "effect": [
+            246,
+            0,
+            0,
+            0,
+            86
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2209,
+        "lv": 9,
+        "need_exp": 40,
+        "need_lv": 1,
+        "special": 0
+    },
+    "2210": {
+        "change_skill": "",
+        "effect": [
+            246,
+            0,
+            0,
+            0,
+            86
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 699012,
+        "effect_desc": "\u7a81\u7834\u81f34\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97622\u3001\u6218\u6597MVP\u3001\u5931\u8d25",
+        "effect_dialog": [
+            "main2",
+            "win_mvp",
+            "lose"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u4e60\u5f97\u6280\u80fd\u3010\u585e\u58ec\u4e4b\u654c\u3011",
+            "\u4e3b\u70ae\u5e95\u5ea7+1",
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%"
+        ],
+        "id": 2210,
+        "lv": 10,
+        "need_exp": 80,
+        "need_lv": 10,
+        "special": 1
+    },
+    "2211": {
+        "change_skill": "",
+        "effect": [
+            369,
+            0,
+            0,
+            0,
+            129
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2211,
+        "lv": 11,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2212": {
+        "change_skill": "",
+        "effect": [
+            369,
+            0,
+            0,
+            0,
+            129
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2212,
+        "lv": 12,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2213": {
+        "change_skill": "",
+        "effect": [
+            369,
+            0,
+            0,
+            0,
+            129
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2213,
+        "lv": 13,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2214": {
+        "change_skill": "",
+        "effect": [
+            369,
+            0,
+            0,
+            0,
+            129
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2214,
+        "lv": 14,
+        "need_exp": 60,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2215": {
+        "change_skill": "",
+        "effect": [
+            369,
+            0,
+            0,
+            0,
+            129
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                688
+            ],
+            [
+                "antiaircraft",
+                24
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+688|\u9632\u7a7a+24|\u9632\u7a7a\u70ae\u6548\u7387\u63d0\u9ad810%|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
+        "effect_dialog": [
+            "main3",
+            "touch",
+            "mission_complete"
+        ],
+        "effect_equipment_proficiency": [
+            3,
+            0.1
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2215,
+        "lv": 15,
+        "need_exp": 120,
+        "need_lv": 10,
+        "special": 1
+    },
+    "2216": {
+        "change_skill": "",
+        "effect": [
+            492,
+            0,
+            0,
+            0,
+            172
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2216,
+        "lv": 16,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2217": {
+        "change_skill": "",
+        "effect": [
+            492,
+            0,
+            0,
+            0,
+            172
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2217,
+        "lv": 17,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2218": {
+        "change_skill": "",
+        "effect": [
+            492,
+            0,
+            0,
+            0,
+            172
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2218,
+        "lv": 18,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2219": {
+        "change_skill": "",
+        "effect": [
+            492,
+            0,
+            0,
+            0,
+            172
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2219,
+        "lv": 19,
+        "need_exp": 100,
+        "need_lv": 10,
+        "special": 0
+    },
+    "2220": {
+        "change_skill": "",
+        "effect": [
+            492,
+            0,
+            0,
+            0,
+            172
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 699013,
+        "effect_desc": "\u7a81\u7834\u81f35\u661f|\u9274\u8d4f\u89e3\u9501\uff1a\u6280\u80fd\u3001\u90ae\u4ef6\u3001\u59d4\u6258\u5b8c\u6210",
+        "effect_dialog": [
+            "skill",
+            "mail",
+            "expedition"
+        ],
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u526f\u70ae\u5e95\u5ea7+2",
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad810%"
+        ],
+        "id": 2220,
+        "lv": 20,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 1
+    },
+    "2221": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2221,
+        "lv": 21,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2222": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2222,
+        "lv": 22,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2223": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2223,
+        "lv": 23,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2224": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2224,
+        "lv": 24,
+        "need_exp": 150,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2225": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": [
+            [
+                "durability",
+                1032
+            ],
+            [
+                "antiaircraft",
+                35
+            ]
+        ],
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "\u8010\u4e45+1032|\u9632\u7a7a+35|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
+        "effect_dialog": [
+            "touch2",
+            "hp_warning"
+        ],
+        "effect_equipment_proficiency": [
+            1,
+            0.05
+        ],
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2225,
+        "lv": 25,
+        "need_exp": 300,
+        "need_lv": 30,
+        "special": 1
+    },
+    "2226": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2226,
+        "lv": 26,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2227": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2227,
+        "lv": 27,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2228": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2228,
+        "lv": 28,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2229": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 0,
+        "effect_desc": "",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": "",
+        "id": 2229,
+        "lv": 29,
+        "need_exp": 200,
+        "need_lv": 30,
+        "special": 0
+    },
+    "2230": {
+        "change_skill": "",
+        "effect": [
+            615,
+            0,
+            0,
+            0,
+            215
+        ],
+        "effect_attr": "",
+        "effect_base": "",
+        "effect_breakout": 699014,
+        "effect_desc": "\u7a81\u7834\u81f36\u661f",
+        "effect_dialog": "",
+        "effect_equipment_proficiency": "",
+        "effect_preload": "",
+        "effect_skill": "",
+        "effect_skin": 0,
+        "extra_desc": [
+            "\u3010\u585e\u58ec\u4e4b\u654c\u3011\u5347\u7ea7",
+            "\u4e3b\u70ae\u5e95\u5ea7+1",
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad815%"
+        ],
+        "id": 2230,
         "lv": 30,
         "need_exp": 400,
         "need_lv": 70,
