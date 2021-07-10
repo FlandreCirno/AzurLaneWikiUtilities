@@ -17921,7 +17921,7 @@
         "effect_attr": [
             [
                 "durability",
-                305
+                338
             ],
             [
                 "antiaircraft",
@@ -17934,7 +17934,7 @@
             1
         ],
         "effect_breakout": 0,
-        "effect_desc": "\u8010\u4e45+315|\u9632\u7a7a+12|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u4e3b\u70ae\u5e95\u5ea7+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
+        "effect_desc": "\u8010\u4e45+338|\u9632\u7a7a+12|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u4e3b\u70ae\u5e95\u5ea7+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97621\u3001\u65d7\u8230\u5f00\u6218\u3001\u4efb\u52a1",
         "effect_dialog": [
             "main1",
             "battle",
@@ -18078,7 +18078,8 @@
         "effect_skin": 0,
         "extra_desc": [
             "\u4e60\u5f97\u6280\u80fd\u3010\u585e\u58ec\u4e4b\u654c\u3011",
-            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%"
+            "\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%",
+            "\u88c5\u5907\u7279\u6b8a\u526f\u70ae"
         ],
         "id": 2010,
         "lv": 10,
@@ -18198,7 +18199,7 @@
         "effect_attr": [
             [
                 "durability",
-                611
+                675
             ],
             [
                 "antiaircraft",
@@ -18207,7 +18208,7 @@
         ],
         "effect_base": "",
         "effect_breakout": 0,
-        "effect_desc": "\u8010\u4e45+611|\u9632\u7a7a+23|\u9632\u7a7a\u70ae\u6548\u7387\u63d0\u9ad810%|\u9c7c\u96f7\u9884\u88c5\u586b+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
+        "effect_desc": "\u8010\u4e45+675|\u9632\u7a7a+23|\u9632\u7a7a\u70ae\u6548\u7387\u63d0\u9ad810%|\u9c7c\u96f7\u9884\u88c5\u586b+1|\u9274\u8d4f\u89e3\u9501\uff1a\u4e3b\u754c\u97623\u3001\u89e6\u64781\u3001\u4efb\u52a1\u5b8c\u6210",
         "effect_dialog": [
             "main3",
             "touch",
@@ -18475,7 +18476,7 @@
         "effect_attr": [
             [
                 "durability",
-                916
+                1014
             ],
             [
                 "antiaircraft",
@@ -18488,7 +18489,7 @@
         ],
         "effect_base": "",
         "effect_breakout": 0,
-        "effect_desc": "\u8010\u4e45+916|\u9632\u7a7a+34|\u673a\u52a8+5|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
+        "effect_desc": "\u8010\u4e45+1014|\u9632\u7a7a+34|\u673a\u52a8+5|\u4e3b\u70ae\u6548\u7387\u63d0\u9ad85%|\u9274\u8d4f\u89e3\u9501\uff1a\u8840\u91cf\u8b66\u62a5",
         "effect_dialog": [
             "touch2",
             "hp_warning"
