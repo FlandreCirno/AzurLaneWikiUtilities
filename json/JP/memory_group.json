@@ -3119,5 +3119,21 @@
         "subtype": 0,
         "title": "\u30c6\u30a3\u30e9\u30df\u30b9\u30fb\u30de\u30fc\u30de\u30ec\u30fc\u30c9",
         "type": 3
+    },
+    "564": {
+        "icon": "title_chara_fusang",
+        "id": 564,
+        "memories": [
+            1736,
+            1737,
+            1738,
+            1739,
+            1740,
+            1741,
+            1742
+        ],
+        "subtype": 0,
+        "title": "\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u3067",
+        "type": 3
     }
 }

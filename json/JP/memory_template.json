@@ -17170,6 +17170,83 @@
         "title": "\u65b0\u3057\u3044\u65c5-\u30de\u30a4\u30f3\u30c4",
         "type": 1
     },
+    "1736": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30671\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1736,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG1",
+        "subtitle": "",
+        "title": "\u63a2\u3057\u7269\u306f\u306a\u3093\u3067\u3059\u304b",
+        "type": 1
+    },
+    "1737": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30672\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1737,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG2",
+        "subtitle": "",
+        "title": "\u3042\u307e\u3044\u304a\u8cb7\u3044\u7269",
+        "type": 1
+    },
+    "1738": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30673\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1738,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG3",
+        "subtitle": "",
+        "title": "\u30e1\u30fc\u30eb\u306f\u82e6\u624b\uff1f",
+        "type": 1
+    },
+    "1739": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30674\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1739,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG4",
+        "subtitle": "",
+        "title": "\u7d04\u675f",
+        "type": 1
+    },
+    "1740": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30675\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1740,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG5",
+        "subtitle": "",
+        "title": "\u7b11\u9854\u3067\u3044\u3066\u306d",
+        "type": 1
+    },
+    "1741": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30676\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1741,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG6",
+        "subtitle": "",
+        "title": "\u5931\u610f\u306e\u96e8",
+        "type": 1
+    },
+    "1742": {
+        "condition": "\u300c\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u30677\u300d\u958b\u59cb",
+        "icon": "memory_fusang",
+        "id": 1742,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "FUSANG7",
+        "subtitle": "",
+        "title": "\u5c0f\u3055\u306a\u5e78\u305b",
+        "type": 1
+    },
     "4000": {
         "condition": "\u93e1\u5199\u3055\u308c\u3057\u7570\u8272B4/D4\u958b\u59cb",
         "icon": "activity",
