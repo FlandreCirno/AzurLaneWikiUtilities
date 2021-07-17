@@ -4,6 +4,8 @@ from slpp import slpp
 import util
 StoryDirectory = os.path.join(util.DataDirectory, 'gamecfg', 'story')
 getShipName = util.getShipName
+getNameCode = util.getNameCode
+parseNameCode = util.parseNameCode
 
 def getMemoryGroup():
     return util.parseDataFile('memory_group')
@@ -50,15 +52,6 @@ def getShipStatistics():
     
 def getShipTemplate():
     return util.parseDataFile('ship_data_template')
-    
-def getNameCode():
-    content = util.parseDataFile('name_code')
-    if isinstance(content, dict):
-        content = content.values()
-    output = {}
-    for i in content:
-        output[i['id']] = i['name']
-    return output
     
 def getShipSkinTemplate():
     return util.parseDataFile('ship_skin_template',
@@ -176,18 +169,6 @@ def buildGroup(group, skinTemplate, shipStatistics, shipTemplate, memoryTemplate
         print(str(memory))
         raise
     return output
-
-def parseNameCode(text, nameCode, AF = False):
-    def parsefunc(matchobj, nameCode = nameCode, AF = AF):
-        id = int(matchobj.group(1))
-        if id in nameCode.keys():
-            if AF:
-                return '{{AF|' + nameCode[id] + '}}'
-            else:
-                return nameCode[id]
-        else:
-            return matchobj.group(0)
-    return re.sub(r'\{namecode\:(\d+)\}', parsefunc, text)
 
 def wikiPage(group):
     output = '== ' + group['title'] + ' ==\n{{折叠面板|开始}}\n'
