@@ -229,7 +229,7 @@ def wikiSlide(slide, lastActor, lastOption):
     return output
 
 def nowiki(text):
-    return re.sub(r'~~~~', '<nowiki>~~~~</nowiki>', text)
+    return re.sub(r'(~{3,})', r'<nowiki>\1</nowiki>', text)
 
 def wikiGenerate():
     nameCode = getNameCode()
