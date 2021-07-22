@@ -19277,6 +19277,223 @@
         "trans_type": 0,
         "type": 2
     },
+    "10071": {
+        "code": 10071,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070001,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10071,
+        "nationality": 107,
+        "property_hexagon": [
+            "B",
+            "A",
+            "E",
+            "B",
+            "B",
+            "C"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 2
+    },
+    "10072": {
+        "code": 10072,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070002,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10072,
+        "nationality": 107,
+        "property_hexagon": [
+            "E",
+            "E",
+            "S",
+            "B",
+            "B",
+            "A"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 7
+    },
+    "10073": {
+        "code": 10073,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070003,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10073,
+        "nationality": 107,
+        "property_hexagon": [
+            "A",
+            "E",
+            "E",
+            "D",
+            "B",
+            "A"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 5
+    },
+    "10074": {
+        "code": 10074,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070004,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10074,
+        "nationality": 107,
+        "property_hexagon": [
+            "B",
+            "E",
+            "E",
+            "C",
+            "C",
+            "A"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 3
+    },
+    "10075": {
+        "code": 10075,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070005,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10075,
+        "nationality": 107,
+        "property_hexagon": [
+            "D",
+            "E",
+            "E",
+            "D",
+            "D",
+            "B"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 19
+    },
+    "10076": {
+        "code": 10076,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070006,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10076,
+        "nationality": 107,
+        "property_hexagon": [
+            "D",
+            "A",
+            "E",
+            "D",
+            "E",
+            "D"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 8
+    },
+    "10077": {
+        "code": 10077,
+        "description": [
+            [
+                "\u30a4\u30d9\u30f3\u30c8\uff1a\u6d77\u306b\u97ff\u304f\u30a2\u30a4\u30c9\u30eb\u306e\u6b4c",
+                [
+                    ""
+                ],
+                0
+            ]
+        ],
+        "group_type": 1070007,
+        "handbook_type": 1,
+        "hide": 0,
+        "index_id": 10077,
+        "nationality": 107,
+        "property_hexagon": [
+            "D",
+            "A",
+            "E",
+            "D",
+            "E",
+            "D"
+        ],
+        "redirect_id": 101,
+        "trans_radar_chart": {},
+        "trans_skill": {},
+        "trans_skin": 0,
+        "trans_type": 0,
+        "type": 8
+    },
     "20001": {
         "code": 20001,
         "description": [
