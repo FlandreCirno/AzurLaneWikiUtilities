@@ -116,7 +116,7 @@
     },
     "10209": {
         "name": "Cleveland\u2606Knight",
-        "sculpture": "kelifulan_idol",
+        "sculpture": "kelifulan",
         "ship_group": 10209
     },
     "10210": {
@@ -319,6 +319,11 @@
         "sculpture": "sheshuiyu",
         "ship_group": 10806
     },
+    "11201": {
+        "name": "Vestal",
+        "sculpture": "zaoshen",
+        "ship_group": 11201
+    },
     "20101": {
         "name": "ThornyA",
         "sculpture": "nvjiang",
@@ -336,7 +341,7 @@
     },
     "20123": {
         "name": "Vampire ",
-        "sculpture": "xixuegui_5",
+        "sculpture": "xixuegui",
         "ship_group": 20123
     },
     "20132": {
@@ -536,7 +541,7 @@
     },
     "30110": {
         "name": "HibikiChannel",
-        "sculpture": "xiang_2",
+        "sculpture": "xiang",
         "ship_group": 30110
     },
     "30111": {
@@ -1373,5 +1378,40 @@
         "name": "Monica",
         "sculpture": "monika_DOA",
         "ship_group": 1060007
+    },
+    "1070001": {
+        "name": "Haruka_Amami",
+        "sculpture": "chunxiang",
+        "ship_group": 1070001
+    },
+    "1070002": {
+        "name": "Chihaya_Kisaragi",
+        "sculpture": "qianzao",
+        "ship_group": 1070002
+    },
+    "1070003": {
+        "name": "Iori_Minase",
+        "sculpture": "yizhi",
+        "ship_group": 1070003
+    },
+    "1070004": {
+        "name": "Azusa_Miura",
+        "sculpture": "zi",
+        "ship_group": 1070004
+    },
+    "1070005": {
+        "name": "Ritsuko_Akizuki",
+        "sculpture": "lvzi",
+        "ship_group": 1070005
+    },
+    "1070006": {
+        "name": "Ami_Futami",
+        "sculpture": "yamei",
+        "ship_group": 1070006
+    },
+    "1070007": {
+        "name": "Mami_Futami",
+        "sculpture": "zhenmei",
+        "ship_group": 1070007
     }
 }

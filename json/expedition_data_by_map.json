@@ -9948,6 +9948,132 @@
         "ui_type": 1,
         "uifx": ""
     },
+    "1540001": {
+        "ani_name": "Map_1430001",
+        "animtor": 1,
+        "bg": "Map_1430001",
+        "bgm": "Idom-Appeal",
+        "bind_map": 0,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "OUXIANGDASHIGUANQIA1",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1540001,
+        "name": "\u54cd\u5f7b\u78a7\u6d77\u7684\u5076\u50cf\u6b4c|| ||CHAPTER EX||E.X.",
+        "on_activity": 4050,
+        "title": "EX",
+        "type": 4,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1540002": {
+        "ani_name": "Map_1430001",
+        "animtor": 1,
+        "bg": "Map_1430001",
+        "bgm": "Idom-Appeal",
+        "bind_map": 1540001,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1540002,
+        "name": "\u54cd\u5f7b\u78a7\u6d77\u7684\u5076\u50cf\u6b4c\u00b7SP|| ||CHAPTER EX||E.X.",
+        "on_activity": 4050,
+        "title": "EX",
+        "type": 8,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1540003": {
+        "ani_name": "Map_1430001",
+        "animtor": 1,
+        "bg": "Map_1430001",
+        "bgm": "Idom-Appeal",
+        "bind_map": 1540001,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1540003,
+        "name": "\u54cd\u5f7b\u78a7\u6d77\u7684\u5076\u50cf\u6b4c\u00b7EX|| ||CHAPTER EX||E.X.",
+        "on_activity": 4050,
+        "title": "EX",
+        "type": 8,
+        "ui_type": 1,
+        "uifx": ""
+    },
     "2100000": {
         "ani_name": "fengshan_1",
         "animtor": 1,
