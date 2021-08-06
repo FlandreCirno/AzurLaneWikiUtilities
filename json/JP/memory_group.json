@@ -3173,5 +3173,21 @@
         "subtype": 0,
         "title": "\u685c\u6d41\u3057\u306e\u65e5\u306e\u3042\u3068\u3067",
         "type": 3
+    },
+    "565": {
+        "icon": "title_chara_guinu",
+        "id": 565,
+        "memories": [
+            1771,
+            1772,
+            1773,
+            1774,
+            1775,
+            1776,
+            1777
+        ],
+        "subtype": 0,
+        "title": "\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f",
+        "type": 3
     }
 }

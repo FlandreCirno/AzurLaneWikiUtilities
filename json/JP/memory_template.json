@@ -17467,6 +17467,83 @@
         "title": "\u79c1\u9054\u306e\u9053\u3001\u79c1\u9054\u306e\u6b4c\u2461",
         "type": 1
     },
+    "1771": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f1\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1771,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU1",
+        "subtitle": "",
+        "title": "\u975e\u5e38\u4e8b\u614b\uff01\uff1f",
+        "type": 1
+    },
+    "1772": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f2\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1772,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU2",
+        "subtitle": "",
+        "title": "\u5b9f\u529b\u5dee",
+        "type": 1
+    },
+    "1773": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f3\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1773,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU3",
+        "subtitle": "",
+        "title": "\u9b3c\u306b\u975e\u305a",
+        "type": 1
+    },
+    "1774": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f4\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1774,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU4",
+        "subtitle": "",
+        "title": "\u552f\u4e00\u7121\u4e8c\u306e\u3082\u306e",
+        "type": 1
+    },
+    "1775": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f5\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1775,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU5",
+        "subtitle": "",
+        "title": "\u8eab\u3092\u633a\u3057\u3066",
+        "type": 1
+    },
+    "1776": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f6\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1776,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU6",
+        "subtitle": "",
+        "title": "\u30dd\u30fc\u30ab\u30fc\u30d5\u30a7\u30a4\u30b9",
+        "type": 1
+    },
+    "1777": {
+        "condition": "\u300c\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f7\u300d\u958b\u59cb",
+        "icon": "memory_guinu",
+        "id": 1777,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "GUINU7",
+        "subtitle": "",
+        "title": "\u4e0d\u610f\u306e\u4e00\u672c",
+        "type": 1
+    },
     "4000": {
         "condition": "\u93e1\u5199\u3055\u308c\u3057\u7570\u8272B4/D4\u958b\u59cb",
         "icon": "activity",
