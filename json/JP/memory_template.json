@@ -17544,6 +17544,83 @@
         "title": "\u4e0d\u610f\u306e\u4e00\u672c",
         "type": 1
     },
+    "1781": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff011\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1781,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG1",
+        "subtitle": "",
+        "title": "\u5143\u6c17\u30cf\u30c4\u30e9\u30c4",
+        "type": 1
+    },
+    "1782": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff012\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1782,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG2",
+        "subtitle": "",
+        "title": "\u7121\u53e3\u306a\u53cb\u9054",
+        "type": 1
+    },
+    "1783": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff013\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1783,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG3",
+        "subtitle": "",
+        "title": "\u59c9\u59b9\u8266\u306e\u8a71\u984c",
+        "type": 1
+    },
+    "1784": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff014\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1784,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG4",
+        "subtitle": "",
+        "title": "\u30e9\u30a4\u30d0\u30eb\u767b\u5834\uff1f",
+        "type": 1
+    },
+    "1785": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff015\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1785,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG5",
+        "subtitle": "",
+        "title": "\u30a8\u30f3\u30d7\u30e9\u59c9\u306e\u59b9",
+        "type": 1
+    },
+    "1786": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff016\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1786,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG6",
+        "subtitle": "",
+        "title": "\u79c1\u304c\u79c1\u3067\u3042\u308b\u3053\u3068",
+        "type": 1
+    },
+    "1787": {
+        "condition": "\u300c\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff017\u300d\u958b\u59cb",
+        "icon": "memory_dahuangfeng",
+        "id": 1787,
+        "is_open": 0,
+        "mask": "bg/bg_memory",
+        "story": "DAHUANGFENG7",
+        "subtitle": "",
+        "title": "\u5927\u597d\u304d\u3063\u3066\u8a00\u3046\u3088\uff01",
+        "type": 1
+    },
     "4000": {
         "condition": "\u93e1\u5199\u3055\u308c\u3057\u7570\u8272B4/D4\u958b\u59cb",
         "icon": "activity",

@@ -3189,5 +3189,21 @@
         "subtype": 0,
         "title": "\u51db\u3068\u3057\u3066\u9b3c\u306e\u5982\u304f",
         "type": 3
+    },
+    "566": {
+        "icon": "title_chara_dahuangfeng",
+        "id": 566,
+        "memories": [
+            1781,
+            1782,
+            1783,
+            1784,
+            1785,
+            1786,
+            1787
+        ],
+        "subtype": 0,
+        "title": "\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30fb\u30c7\u30e5\u30a8\u30eb\uff01",
+        "type": 3
     }
 }

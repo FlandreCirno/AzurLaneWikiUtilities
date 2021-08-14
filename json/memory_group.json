@@ -3183,5 +3183,37 @@
         "subtype": 0,
         "title": "\u5728\u6a31\u82b1\u7eb7\u98de\u7684\u90a3\u5929\u4e4b\u540e",
         "type": 3
+    },
+    "565": {
+        "icon": "title_chara_guinu",
+        "id": 565,
+        "memories": [
+            1771,
+            1772,
+            1773,
+            1774,
+            1775,
+            1776,
+            1777
+        ],
+        "subtype": 0,
+        "title": "\u51db\u51bd\u5982\u6076\u9b3c",
+        "type": 3
+    },
+    "566": {
+        "icon": "title_chara_dahuangfeng",
+        "id": 566,
+        "memories": [
+            1781,
+            1782,
+            1783,
+            1784,
+            1785,
+            1786,
+            1787
+        ],
+        "subtype": 0,
+        "title": "\u50cf\u725b\u4ed4\u4e00\u6837!",
+        "type": 3
     }
 }

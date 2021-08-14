@@ -5872,9 +5872,18 @@
             "B"
         ],
         "redirect_id": 101,
-        "trans_radar_chart": {},
-        "trans_skill": {},
-        "trans_skin": 0,
+        "trans_radar_chart": [
+            "E",
+            "E",
+            "S",
+            "C",
+            "B",
+            "A"
+        ],
+        "trans_skill": [
+            14710
+        ],
+        "trans_skin": 207029,
         "trans_type": 0,
         "type": 7
     },
