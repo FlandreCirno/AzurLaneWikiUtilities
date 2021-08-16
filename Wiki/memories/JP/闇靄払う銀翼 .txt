@@ -1,7 +1,7 @@
 == 闇靄払う銀翼  ==
 {{折叠面板|开始}}
 {{折叠面板|标题=「渡り橋」|选项=1|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">通信：</span><br>
+<span style="color:#4eb24e;">通信：</span><br>
 こちらNYシティ、定時連絡を頼む<br>
 こちらボルチモア、運河要塞に向けて無事進行中。位置はさきほど送信済みだ<br>
 NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
@@ -33,31 +33,31 @@ NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
 パトロール艦隊――ボルチモアが率いる艦隊が突如現れた海霧に突入した後、行方不明。.<br>
 要塞への支援、そしてボルチモア艦隊救出のための増援艦隊が早速編成された。<br>
 運河要塞・周辺海域<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 へーこれが伝説の運河要塞？噂は聞いてたけど、実際に見たらやっぱりすごいわね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ブレマートンは確かずっとNYシティ配置だったっけ？この辺りに来たことなかったんだ？<br>
 そりゃ運河要塞は運河航路を守る要だから、これだけ大きく作られてるのは頷けるわね<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 そうですね。軍事輸送だけでなく、民生にも決して欠かせない重要な航路ですもの<br>
 セイレーンの大規模攻勢が収束しつつある今でも、決して警戒を緩めていい場所ではありませんから<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 先行のボルチモアたちのことはやっぱり心配ね…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 要塞が見えるところまで来たというのに、敵の影すらないのね……<br>
 ボルチモアたちが何の抵抗もせずセイレーンに攫われるはずがない。なのに、ここには戦闘の痕跡が一切見当たらない…<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 もしかして鏡面海域に巻き込まれた？ほらあの突然発生した海霧、明らかにおかしいし<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 その可能性は低いと思う。鏡面海域では外部への通信が不可能なのに、最後の連絡を受信するまで何度も連絡してきたじゃない<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 それに当日パナマ運河周辺を通る輸送船団も、無事海霧を通って要塞に到着しましたから<br>
 ただ、イントレピッドが言ってた海霧ですが、沿岸部ではその範囲を測れないほど広く発生していたってことが判明しましたね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 つまり海霧の中に入って、通信機器が故障して、セイレーンと遭遇して…流石に「すべて偶然だー」とは言えないね、これ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 そうね…エンタープライズ先輩はどう思います？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 私もイントレピッドと同意見だ。この状況はどう見ても普通じゃない<br>
 ただ、海霧が消えた今、探すにも手がかりはない。あの広さではとても手に負えないしな<br>
 ひとまず要塞増援の艦隊と合流しよう。そして情報を整理してから救援計画を練るとしよう<br>
@@ -66,52 +66,52 @@ NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
 {{折叠面板|标题=運河要塞にて|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞・周辺海域<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ……えー運河要塞の防衛支援艦隊を率いる、エセックス級のバンカー・ヒルと申しますー<br>
 （小声）……っ。次に言うべきは…<br>
 コホン。はるばるお越しいただき、感謝いたし――<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 バンカー・ヒル、それ無理して読まなくてもいいよ…<br>
 ここにいるのは皆ユニオンの仲間だから、そうかしこまらなくてもいいって！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 久しぶりね、バンカー・ヒル<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 久しぶりだ。エセックス、イントレピッドとエンタープライズせんぱ…<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 エンタープライズでいい。皆までエセックスの真似をしなくていいから<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 助かる。ではこちらの状況だが、哨戒航海に出かけたブルーギル以外みんな揃っている<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 アレン・M・サムナー級のクーパーだ！長旅お疲れさま！……あれ？そういえば指揮官は？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 指揮官は今サラトガたちと一緒に北方連合との共同作戦に参加している。流石に呼び戻すわけにはいかないな<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 それはちょっと残念ですねー。どこまでイケてる人か確かめたかったのにぃ<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 今回はメインヒーローが登場しないのね…そっか。だったらサポーターが活躍するスピンオフって感じかな？<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 大丈夫！クーパーがいるからきっと上手くいくよ！リノは安心して！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 「機関も凍って動かなくなる」北方連合ね…うわっ、聞いただけでなんだか寒気がしてきた<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 冬の平均気温が氷点下――と言っても、ユニオンの飛び地もそんな感じですし、動いている機関部の温度からすると突然止まらないでしょ。普通～<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 く、詳しいですね…あははは<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 意外と底知れない、マーブルヘッド……<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 コホン。雑談は要塞の中でしてほしいのだが<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 そうだ！トロピカルジュースもあるよ！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ここで立ち話しても何だし、みんな要塞に移動しよう<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 そうね。このあとの捜索計画も立てなければならないから…エンタープライズ先輩？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ん？あ、すまない今考えごとをしてたんだ<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 お？エンタープライズさんもしかして気になることでもあった？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 いや、特にこれといったものはないな。このあとの捜索だが、皆で手分けして探そう<br>
 運河の東だけでもかなりの広さだ。…忙しくなるな<br>
 {{折叠面板|内容结束}}
@@ -120,7 +120,7 @@ NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
 <br>
 運河要塞・東部海域<br>
 運河要塞から離れた東部海域にて、仲間たちと手分けして単独捜索を行っているエンタープライズ。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ………行方不明になったボルチモア艦隊。そして謎の救援信号、か<br>
 ボルチモアの通信によると、セイレーンが出現したようだが、戦闘の痕跡が見当たらない<br>
 鏡面海域に入ると通信機器が故障して使えなくなるのが今までの経験則だ。だが――<br>
@@ -133,7 +133,7 @@ NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
 そしてあえて「通信機器を使えるようにして」、私たちを誘い出す罠だとしたら…！<br>
 <br>
 ―――――瞬く間に、周囲が白い海霧に包まれた。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ！？いつの間に！<br>
 やはりこれはセイレーンの―――<br>
 <br>
@@ -144,23 +144,23 @@ NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
 {{折叠面板|标题=消失|选项=5|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞内<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 エンタープライズさん、戻ってきていないですね……<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 まあまあ、実際景色に見惚れてつい寄り道をした、ってオチかもしれないし<br>
 エンタープライズ、いつも張り切ってるじゃない？少しリラックスさせてあげても大丈夫っしょ<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 ヒーローの休憩タイムってやつね。スカイスクレイパーで俯瞰したくなるし、わかるよ<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ……よし。この度の任務編成についてだが<br>
 ブレマートンと私が1隊、エンタープライズさんとエセックスが1隊をそれぞれ率いて<br>
 セイレーンの来襲に備えつつ、ボルチモア艦隊の捜索を行う――<br>
 という理解でいいのか。エンタープライズさん自身が戻ってきていないのだが<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 どうする？一回連絡してみる？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 ううん、ここはこのまま再出撃して先輩と合流しよう。探す海域が同じなら絶対どこかで会える<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （エセックス、相変わらずエンタープライズさんのことになるとせっかちだね…）<br>
 あ、それなら私が先頭に出るね。エセックスがリーダーだし先行する必要はないわよ<br>
 エンタープライズさん…どこだろ……<br>
@@ -169,64 +169,64 @@ NYシティ了解。艦隊の位置を把握した。随時連絡を<br>
 エンタープライズさんの…艤装のパーツ？<br>
 <br>
 エンタープライズの艤装と思われるパーツが海に浮かんでいた。<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 戦闘の痕跡がない…ということはうっかりパーツを落とした？<br>
 いやいや、イントレピッド、エンタープライズさんは私のようなうっかりさんじゃないって。……<br>
 <br>
 「要塞周辺海域にセイレーン艦隊の反応を探知！各員至急戦闘態勢を！」<br>
 「繰り返す！要塞周辺に来襲するセイレーンを至急迎撃されたし！」<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 こんな時にセイレーンが！？やっぱり要塞を狙っているのね…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=応戦|选项=6|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞・外洋<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 イントレピッド、こっちのセイレーンも撃破した！<br>
 要塞の火力支援の元で戦いたいのは山々だけど、NYシティの防衛線のことを考えると敵を叩いていかないとキリがないよね<br>
 ところで、エンタープライズ先輩は見かけなかった？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ないね。見つけたのはこのパーツだけ……<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 エンタープライズ先輩……<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 エンタープライズ、さっきから通信にも出ないよ…<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 このセイレーンの襲撃と関係あったりします？もしかして、鏡面海域に入ったりしたとか<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 防衛艦隊の戦力を少しずつ分断し、各個撃破して最後は要塞を襲う――<br>
 って、つまりボルチモアたちも鏡面海域に入ったってこと！？<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 そ、そんな！？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 Such terrible！イントレピッド、なんてことに気づいてしまったんだ…！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 それ、遅かれ早かれ分かることでしょ。心配でしたら、なおさらここのセイレーンをやっつけるのを急いだほうがいいですよ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 ……うん。迷ってる時間はない！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ええと、つまり――セイレーンの指揮艦を叩いてから捜索再開ってことでいい？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 そういうこと！バンカー・ヒルの隊もきっと同じことを考えてるはず！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=海霧再臨|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 クーパー、華麗にセイレーン撃破をフィニッシュ！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 「イントレピッド了解。バンカー・ヒルのほうもエンタープライズさんの捜索をよろしく」<br>
 エセックス、向こうも同じくセイレーンと接敵したけど、無事倒せたみたい<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 よし。でもセイレーンを倒せても、エンタープライズ先輩の行方がわからないままね…<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 要塞のほうでも、エンタープライズさんが運河を通ったって報告はないって<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 それならこのぼく、クーパーが華麗に事件を解決してみせるよ！<br>
 早速推理だけど……ってあれ？この霧は……<br>
 <br>
 気が付けば、辺りが白い海霧に覆われていた。<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 確かボルチモアたちも海霧に突っ込んで行方不明になったみたいだけど…<br>
 あれ？霧ってこんなに早く出るものでしたっけ？<br>
 {{折叠面板|内容结束}}
@@ -234,53 +234,53 @@ Such terrible！イントレピッド、なんてことに気づいてしまっ�
 {{折叠面板|标题=「キオク」の断片Ⅰ|选项=8|主框=1|样式=primary|展开=否}}
 <br>
 ？？？·？？？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ……一体何が起きた…？<br>
 <br>
 海を覆っていた霧が晴れ、目の前の風景が一変した。<br>
 どこか懐かしく感じる海。<br>
 しかし同時に、強烈な違和感に襲われる。<br>
 まるで激戦が繰り広げられたばかりの場所にあるような、硝煙の匂い…<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 運河要塞の周辺ではないようだ。<br>
 また霧か…今度は一体何なんだ…<br>
 <br>
 エンタープライズの言葉に応えるように、霧の中から機関の駆動音が鳴り響く。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ほかにも誰かがいるのか…？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=協同|选项=9|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞・湾内<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 しっかし、まさかここまでのものとは思わなかったよ。運河要塞って<br>
 試しにゲートを通ったけど、もう圧倒的過ぎて敵わないわ～今日の艦船通信のネタは決まりね<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 昔セイレーンが襲来した時に大いに役立ったって聞きました<br>
 沿岸航路とはいえ、それまでは大陸沿いで回り道しなければならなかったけど、通る距離が短くなるだけでどれだけありがたいことか…<br>
 その運河を守る要塞がどんどん増築、改修されるのも自然というべきでしょう<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 で、その要塞を今私たちが守らなければならないってことね。道理でボルチモアがやる気なわけよ<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 やる気があるのはいいこと。ヒーローは戦場を選ばない！<br>
 猫探しからヴィランを倒すまで、全力でこなしてこそ人類の親愛なる隣人こと…<br>
-<span style="color:#a9f548;">通信：</span><br>
+<span style="color:#4eb24e;">通信：</span><br>
 「要塞周辺海域にセイレーン艦隊の反応を探知！各員至急戦闘態勢を！」<br>
 「繰り返す！要塞周辺に来襲するセイレーンを至急迎撃されたし！」<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 ……………<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 まあ空気を読んだらヴィランじゃないしね…<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 この航路が通行不可となれば、場合によっては文明の逆戻りもありうる<br>
 カサブランカは湾内の輸送船の退避を。リノはセイレーンの航空攻撃の対処を<br>
-<span style="color:#a9f548;">リノ＆カサブランカ：</span><br>
+<span style="color:#4eb24e;">リノ＆カサブランカ：</span><br>
 了解！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ブレマートンは私と一緒にセイレーンの掃討を行う<br>
 ……何を見ているんだ？<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 別に？目つきが悪いって言われているけど、カッコいいところもあるんじゃないって思って<br>
 でもセイレーン艦隊かぁ…ちょうど運動したかったところよ<br>
 ふふん、こっちの気が済むまで相手してもらうわよ！<br>
@@ -289,40 +289,40 @@ Such terrible！イントレピッド、なんてことに気づいてしまっ�
 {{折叠面板|标题=突破任務|选项=10|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞・外洋<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 結構やるな。ブレマートン<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 ふふん、ボルチモアほどじゃないけど、戦うのって別になんとも無いわよ<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 先日NYシティにセイレーンが襲来した際に、ボルチモア型が大いに活躍したと聞いた<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 そりゃどうも。私はあの時戦場にいなかったけど、まあ褒め言葉として受け取っておくよ<br>
 もっとも、ボルチモアと一緒に戦いたかったけどね<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ボルチモアのことが心配なんだな。やっぱり<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 もちろんさ。友達だもん<br>
 <br>
 ブレーマトンの顔が一瞬だけ曇った。<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 あのボルチモアのことだから、今頃セイレーンの本陣で大暴れしてるんじゃないかなーって<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ああ、きっと彼女たちは無事だ<br>
 ……待て。これは…霧？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 ……ブレーマトン…カー・ヒル…こえていますか…<br>
 …霧に乗じて…レーンが…湾内に……<br>
 …早く…抜け出して…<br>
 <br>
 ……………………<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 カサブランカの通信の通りだ。あの霧が通信機器を故障させたな<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 そして湾内に侵入しようとするセイレーンがいると。こりゃ捜索どころじゃなさそうだ<br>
 ――こっちは運河要塞の防衛に専念して、ボルチモアとエンタープライズのことは仲間に任せる<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 問題ない。エセックス級の前では、セイレーンの攻勢など無意味だ<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 こっちだってボルチモア級の一員、これぐらいの敵など楽勝よ！<br>
 （ボルチモア……大丈夫かな……）<br>
 {{折叠面板|内容结束}}
@@ -330,33 +330,33 @@ Such terrible！イントレピッド、なんてことに気づいてしまっ�
 {{折叠面板|标题=霧の中|选项=11|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞？・外洋？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 イントレピッド、偵察機の様子は？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 無理だよ。この霧の中じゃ直掩機の発着もギリギリだから<br>
 通信機、レーダー、ナビシステムが全部ダメ。目視ではお互いぶつからないようにするのが精一杯<br>
 鏡面海域でも聞いたことないよ、こんなの<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 つまり私たち、霧の中で完璧に迷い込んだってわけね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 「この霧がただの霧じゃなくセイレーンの仕業。そしてボルチモアもエンタープライズさんもこの霧の中で行方不明になった可能性が高い」<br>
 これだけ分かれば十分な気がする<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 んじゃあ逆に考えますと、この霧の正体さえ分かれば、ボルチモアたちを救出できる可能性も高いですよね？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 要塞の防衛が先か、エンタープライズ先輩たちの救出が先か……<br>
 ダメ、そんな話じゃないの。せめて運河要塞の位置か脱出ルートを確保しないと。このまま探しては危険よ<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 艦載機が使えないってことは、つまりぼくが活躍する番！先頭の偵察なら任せて！<br>
 探照灯、ライトオン！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ああちょっと！敵に狙われるわよ！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 ん？でも敵が攻撃してきたら居場所がばれるんじゃない？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （この子、ポジティブというかバカというか…）<br>
 はいはい！じゃあこっちの直掩機もつけてやるから、気をつけて！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 大丈夫大丈夫！ぼく、こういう時は結構やるんだから！<br>
 駆逐艦クーパー、出撃！<br>
 {{折叠面板|内容结束}}
@@ -366,27 +366,27 @@ Such terrible！イントレピッド、なんてことに気づいてしまっ�
 ？？？·？？？<br>
 ……霧の中での航行が続く。<br>
 ――どれぐらい時間が経ったのか。やがてエンタープライズの前に「影」が現れた。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 あなたは……アーク・ロイヤル！<br>
 アーク・ロイヤル！あなたもここに迷い込んだのか？<br>
 <br>
 「影」は振り返り、そして言葉を放った。<br>
-<span style="color:#ffa500;">アーク・ロイヤル：</span><br>
+<span style="color:#ff9900;">アーク・ロイヤル：</span><br>
 「エンタープライズか？ついにやってきたか。待ってたんだ」<br>
 「思ったより少なかったが…いや、みんなよく来てくれたな」<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 「みんな」って…何を言っている？ここはどこだ？<br>
-<span style="color:#ffa500;">アーク・ロイヤル：</span><br>
+<span style="color:#ff9900;">アーク・ロイヤル：</span><br>
 あと少し待たせてもらう。もしかしたら別の仲間も――<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 アーク・ロイヤル！答えてくれ！アーク・ロイヤル！<br>
 <br>
 「影」はそれ以上答えることなく、踵を返し霧の中へと歩いていった<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 一体どうなっているんだ？！アーク……<br>
 <br>
 エンタープライズの手が「影」に触れた途端、「影」はまるで霧に溶け込んだかのように消えてなくなった。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 まぼろし、というのか…？<br>
 セイレーン、一体何を企んでいる……<br>
 {{折叠面板|内容结束}}
@@ -395,168 +395,168 @@ Such terrible！イントレピッド、なんてことに気づいてしまっ�
 <br>
 運河要塞？・外洋？<br>
 エセックスたちは霧の中に現れるセイレーンを撃退しながら、慎重に脱出ルートを探していた。<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 もぉ、一体敵はどこから湧いてくるんですかねー<br>
 （このままでは戦力を消耗してジリ貧に…なんとかしなくちゃ…！）<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 マーブルヘッド、どうしたの？<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 クーパーちゃんちょっと静かにしてくれません？さっきから「サイクロンスマッシャー！」とか叫び続けるせいで集中できませんって<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 それぼくの新しい必殺技の名前だよ！カッコいいでしょう！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 変に叫んでセイレーンを引き寄せなければいいですけどぉ<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 い、言われてみれば確かに……<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （脱出ルートが全然見つかりそうにない…今の所はまだ戦えるけど、このままではいずれ倒れる）<br>
 （セイレーンなら私たちが消耗しきった時に現れるはず、そうなっては――）<br>
 （エセックスがさっきから全然喋らないけど…エンタープライズさんが行方不明でかなりショックなのかもね）<br>
 （…ないか。エセックスはただ「エンタープライズ先輩ならどうするか」って考え込んでるだけかも）<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 （エンタープライズ先輩なら何をするか…）<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （エンタープライズさんの評価をいちいち気にしすぎだと思うけどな。あの子）<br>
 エセックス、大丈夫？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 （エンタープライズ先輩なら…）<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 エセックス！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 わわわ！？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ……流石に考え過ぎじゃない？セイレーンの新手が接近しているってクーパーちゃんから連絡があったよ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 だ、大丈夫よ！ただエンタープライズ先輩なら……<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 エンタープライズさんならきっと、皆を率いて敵を攻撃するだろうね<br>
 というかエンタープライズさんの戦い方とか、基本参考にならないと思うよ……<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 ――そうだ！ここが鏡面海域と同じくセイレーンが作り出したのなら、発生源が絶対どこかにあるはずよ！<br>
 その発生源を壊せば、きっとこの霧を解除できるはず！<br>
 イントレピッド、ありがとう！助かった！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 えええええ！？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=新型出現|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 「こちらクーパー。巡回中の紫に発光している新型のセイレーン量産艦を発見」<br>
 「なんか強そうだし、ぼくのサイクロンスマッシャーが効かなそうだけど頑張る」<br>
 「でも多分勝てないから、増援をお願い！助けて！」<br>
 あの子、やっぱりぶっ飛んでるよね…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 新型のセイレーンが巡回しているってことは、もしかすると敵の重要拠点も近いかもね<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 これは中々ノッてますね～<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 よし、クーパーの支援に向かおう。新型セイレーンを倒して、霧を解除する！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 Roger！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=水面下の敵|选项=15|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 Pushing on！一気に突破するよ！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 イントレピッド、危ない！<br>
 <br>
 ―――！！！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 せ、潜水艦？！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 潜水艦対策は得意なほうでしたよね…！<br>
 さあ、こそこそ覗いてないでさっさと上がってき・や・が・れ！<br>
 <br>
 …………！<br>
 セイレーン潜水艦の航跡を発見したマーブルヘッドが大量の爆雷を一気に投下した。<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 そんなに一気に？！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 潜水艦は一隻見たら三隻いると思えって聞いたことあるんですよね～<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 よし、浮上したやつが現れた！艦載機たち、攻撃開始！<br>
 マーブルヘッド、クーパー、引き続きソナーでの索敵を頼むよ！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 あのセイレーンは艦砲も装備している！砲撃にも気をつけて！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=ブルーデビュー！|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ふぅ…どうやらこれで最後のようね。対潜戦も大変ね<br>
 みんな兵装が揃っていてよかった！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 新型セイレーンの一群を撃破したけど、特にこれといった変化はないね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 つまりここは「ハズレ」ってことか……<br>
 （まあ、そういう時もあるよね……）<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 せっかくぼくが頑張ったのに…しょうがない！<br>
 次からはもっと頑張るぞー！おー！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 そうね！今までは順調じゃなかったけどそのうちきっと霧の発生源が見つかるよ！このまま――<br>
 <br>
 ―――！！！！！<br>
 何も見えない霧の向こうから突如、巨大な波の壁が押し寄せてきた<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 …っ！？みんな気をつけて！この波も霧と同じく自然発生したものなんかじゃない！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 そんなの見たらわか……っ！？<br>
 <br>
 ――衝撃、爆発、荒れる波、白から一転して深蒼へと変わる目の前の景色。<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （ちょっと、私、海に呑まれた…！？そんなはずが……！）<br>
 <br>
 ――沈む。体がまるで重りに引っ張られているかのように、どこまでも沈んでいく。<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （艤装が故障した？違う…セイレーンの攻撃？！さっき全部やっつけたはず…）<br>
 （ま、まさか…ただバランス崩れて転んだだけ…？！）<br>
 （ちくしょう！台無しにしやがった！あんたのカンレキはいつもそうだ。あんたはいつもドックに入ってばかりだ）<br>
 （ひとつだって大きな戦果を手に入れられない。誰もあんたのことを――）<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 おーい！イントレピッド、だいじょうぶかー！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （い、いた！この声は…ブルーギルちゃん！哨戒航海から戻ってきたのね！）<br>
 た、助けて……！！<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 まさかイントレピッド、潜水艦に改造された！？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ………（Ouch！誰がそんな事するか！溺れかけてるだけよ！）<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 わわ！暴れないで！今引き上げるから！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=幕間|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 んああああ疲れたああああああ！<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 戻ったか<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 「」って聞いたことないの？<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ない<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 にしてもさあ、なんでここまで霧で覆ってんの？リソースの無駄じゃない？<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ミステリアスの演出<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 …………<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ……<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 子プログラムの分際でよくもまあそんな態度取れるなぁ！<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 無駄に動かない。<br>
 通信、ナビゲーション、磁気ジャミング適用、海霧濃度30％増大、化合率50％向上<br>
 以上。指差し確認<br>
 アイドリング中ならもう一度時間稼ぎすれば？<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 嫌よ。こっちの仕事はもう終わってんの。早く次行きたいもん<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 行って。邪魔しないで<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 言われなくても出ていってやるよ<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ………<br>
 記録再生。次の「キオク」を<br>
 {{折叠面板|内容结束}}
@@ -565,32 +565,32 @@ Pushing on！一気に突破するよ！<br>
 <br>
 ？？？·？？？<br>
 「影」が消えた方向を辿って別の場所に踏み入ったようだ。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ……これは……各陣営の……<br>
 識別信号を探知できない。これがすべて「幻」だというのか<br>
-<span style="color:#ffa500;">アーク・ロイヤル：</span><br>
+<span style="color:#ff9900;">アーク・ロイヤル：</span><br>
 ……いまので全部か？<br>
-<span style="color:#ffa500;">高雄？：</span><br>
+<span style="color:#ff9900;">高雄？：</span><br>
 今の所はな。合流できない者もいる<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 ……厳しい状況ですね。この戦いは<br>
-<span style="color:#ffa500;">アーク・ロイヤル？：</span><br>
+<span style="color:#ff9900;">アーク・ロイヤル？：</span><br>
 できればこっちからも救出したかったが、組織的な動きができない以上、合流を優先せざるを得ない<br>
-<span style="color:#ffa500;">アーク・ロイヤル：</span><br>
+<span style="color:#ff9900;">アーク・ロイヤル：</span><br>
 落ち込んでいてもしかたない。エンタープライズがここにいるんだ。きっと上手くいく<br>
-<span style="color:#ffa500;">高雄：</span><br>
+<span style="color:#ff9900;">高雄：</span><br>
 そうなると良いがな。エンタープライズ殿、早速だが、「名前」を伺っても良いか<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ……「名前」？<br>
-<span style="color:#ffa500;">高雄：</span><br>
+<span style="color:#ff9900;">高雄：</span><br>
 うむ、「炬火（きょか）」か。拙者たちに気を使わずとも構わないが…いずれにしても、いい名前だ<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 それより本当にあいつらと協力するんですか？あいつら、「セイレーン」は本来、私たちに代わって戦う存在として――<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ……！？<br>
-<span style="color:#ffa500;">高雄：</span><br>
+<span style="color:#ff9900;">高雄：</span><br>
 そういうことか。ここは一旦彼らの動きを見極めるとしよう<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 セイレーンと…艦船（KAN-SEN）！？お前たちは一体何者だ！<br>
 <br>
 「影」は消え、エンタープライズはただ一人、静かな海に取り残された。<br>
@@ -601,44 +601,44 @@ Pushing on！一気に突破するよ！<br>
 運河要塞・湾内<br>
 霧に乗じて、セイレーンの艦隊が運河要塞に接近してくる。<br>
 しかし――<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 計画通り、艦隊機動で敵火力を引き付けて、要塞の支援砲撃で敵を撃退します<br>
 幸い要塞の物資備蓄は十分ありますから、今の敵勢なら数ヶ月は持ちこたえられるでしょう<br>
 攻めてくるセイレーンは…決して生きて帰しません！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 ナイス発破！カサブランカは凄いね～まさかあんなに手際よく輸送船を退避させるなんて<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 いいえ、輸送船団のエスコートこそ自分の領分です。むしろ提案を聞いていただきありがとうございます！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 正しい提案を採用するのは当然のことだ。領分だの役職だの気にしてはやってられん<br>
 人型のセイレーンがいない量産型艦隊相手だと、たしかにこういう戦術が有効だと聞いたけど<br>
 まさかここまでとは……<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 イントレピッドたちも上手く捜索を続けられていればいいのですが…<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 大丈夫だ。エンタープライズさんがいなくても、エセックスが上手く皆を指揮してくれる<br>
 <br>
 ――！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 ？！これはもしかして…<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 要塞の砲台が破壊された。やっぱり量産型とはいえ物事はそう上手くいかないらしい。リノ、ブレマートン、様子はどうだ？<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 それが…こっちを無視して要塞にまっすぐ向かってるよ！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 こちらの計画がバレたのですか？！なんとか量産型の注意を引き付けられませんか？<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 ダメ、向こうは被害を無視して突っ込んでる。どうやら向こうも本気で要塞を狙っているみたいね…<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 自我が無いとはいえ、やっぱり不気味だ<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 戦闘員を使い捨てにするなどまさにヴィランの所業！リノとしては許すわけにはいかない！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 それだけ恐ろしい敵だ。セイレーンは<br>
 …いずれにしても、量産型で物量に物を言わせてやってくるのは厄介だな<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 そうね。このまま要塞に突っ込まれ続けたら防衛施設の被害は無視できないね。バンカー・ヒル、どうする？<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 セイレーンが本気になった以上、こっちのやることも簡単だ<br>
 艦船と比べれば、要塞の火力の方が脅威的。だから向こうは量で押し寄せることにした<br>
 全力を挙げて敵本陣を叩き、これ以上援軍を湧かせなければいい…！<br>
@@ -648,26 +648,26 @@ Pushing on！一気に突破するよ！<br>
 <br>
 運河要塞？・外洋？<br>
 イントレピッドたちが運河要塞に到着する前――<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 よ、ようやく撒いた…早くみんなにセイレーンの状況を知らせなくちゃ！<br>
 <br>
 ―――・―――・―――<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 あれは‥…！！！！<br>
 <br>
 妖しい光を放つ漆黒の影――無数のセイレーン潜水艦が運河要塞に向かおうとしていた。<br>
 ……量産型セイレーンがまるで回遊魚群のように同じ方向に向かって行進しているその様は、なんともおぞましい光景だった。<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 いつ回り込んだの？！どうしよう……<br>
 <br>
 運河要塞からそう遠くない距離かもしれない。だがセイレーンの「魚群」にバレずに追い越すのは、間違いなく不可能だ。<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 ここでセイレーンと戦ったら、仲間たちに情報を伝えられない！<br>
 …んん？よく考えたら、あのセイレーンにはブルーギルがいることがバレていない！つまりこのままこっそり…<br>
 いた！あの一回り大きなセイレーンはたしか…<br>
 <br>
 岩礁の裏に隠れ、小さな狩人が狙いを定めた。<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 噂の中枢艦に違いない！あいつさえ倒せばセイレーンたちの指揮系統が動かなくなって、そうなったらこっちの勝ちだ！<br>
 そう！この勝利は「ブルーギル・スナイプ・ヴィクトリー」と呼ぶことにする！<br>
 あ、あれ？この白い靄は一体…なんで海の中でもこんな霧みたいのがあるの！？<br>
@@ -676,7 +676,7 @@ Pushing on！一気に突破するよ！<br>
 <br>
 視界が真っ白になり、まるで渦の中に放り込まれたかのように激流に襲われる。<br>
 そしてしばらくして海が鎮まり――<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 あいててて…あれ？セイレーン艦隊は？ここは一体…<br>
 あそこにいるのは…イントレピッドさん！？<br>
 {{折叠面板|内容结束}}
@@ -684,78 +684,78 @@ Pushing on！一気に突破するよ！<br>
 {{折叠面板|标题=ヒーローに乾杯を|选项=21|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞？・外洋？<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 んじゃ、さいなら！<br>
 <br>
 ―――！！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 目標撃破しました！セイレーンの動き…変化なしです！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 また「ハズレ」か…！今ので何体目？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 に、21体目です！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 まさかセイレーンの新型まで現れるとはね…全員が全員怪しく見えますけど…！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 みんな、諦めないで！最後に笑うのはヒーローサイドよ！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 リノってチアやる素質がありそうね<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 チアダンスをやるのは色々とねえ…でもこういうのはたしかに嫌いじゃないよ<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 まあ、中枢艦がわからなければ、このまま全員倒せばいいだけだわ<br>
 ボルチモアに言わせてみれば、「戦わなければ生き残れない」ってね！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 うんうん、その通り！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 次の中枢艦らしいものも見っけ！やるわよ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=災害|选项=22|主框=1|样式=primary|展开=否}}
 <br>
 ――――<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 セイレーンの艦載機か！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 ここはリノに任せて！<br>
 <br>
 奇襲してきた数機のセイレーンの艦載機はアトランタ級――オークランド級の彼女に撃破された。<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 助かったな。感謝する、リノ<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 こっちも敵を片付けたわよ！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 敵影なし、っと…結局今のは敵の中枢艦でした？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 「ハズレ」のようですね。霧がまだ消えていませんから<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 むっ、要塞に戻るにしても、この状況では…<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 しっ。今変な声が…<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 こっちも聞こえた。これは…波の音にしてはちょっと距離感が掴めな……なっ！？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 津波…波の壁！？<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 こんな波が普通突然現れるわけないっしょ！皆、注意して！！<br>
 <br>
 セイレーンの量産艦を文字通り「飲み込んだ」波に、艦船たちは慌てながらも――必死に対処していた。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=「キオク」の断片Ⅳ|选项=23|主框=1|样式=primary|展开=否}}
-<span style="color:#ffa500;">アーク・ロイヤル：</span><br>
+<span style="color:#ff9900;">アーク・ロイヤル：</span><br>
 エンタープライズ、くるぞ<br>
 <br>
 いつの間にか「影」たちの会話に、新たな存在が加わっていた。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 セイレーン……？！<br>
 <br>
 今まで何度も対峙していた危険な敵を目視したエンタープライズはすぐさま戦闘態勢を取った。<br>
-<span style="color:#ffff4d;">オブザーバー：</span><br>
+<span style="color:#ffd000;">オブザーバー：</span><br>
 「シンパンシャ」様に代わって挨拶を申し上げるわ。「コードG」<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 「コードG」……「シンパンシャ」……<br>
-<span style="color:#ffff4d;">オブザーバー：</span><br>
+<span style="color:#ffd000;">オブザーバー：</span><br>
 量子時間跳躍装置は人類全体の存続のためにあるべきだと…「ソウゾウシュ」様も同意見だわ<br>
 必要な設備ならいつでもあなた達に提供する用意はできているの<br>
 ――研究の成果が望ましくない存在の手に落ちないよう、その保証としてね<br>
@@ -763,11 +763,11 @@ Pushing on！一気に突破するよ！<br>
 ……では計画通り、こちらも協力するわ<br>
 これは「ソウゾウシュ」様、そして「シンパンシャ」様の総意だと認識して頂戴<br>
 「アビータ」の座標も共有するわ。あの子たちを上手く回避して<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 セイレーンと協力？これは一体……<br>
 <br>
 「影」たちは誰一人エンタープライズの問いに反応しないまま、霧の中へと溶け込んだ。<br>
-<span style="color:#ffff4d;">？？？：</span><br>
+<span style="color:#ffd000;">？？？：</span><br>
 「キオク」再生、完了<br>
 {{折叠面板|内容结束}}
 
@@ -776,231 +776,231 @@ Pushing on！一気に突破するよ！<br>
 運河要塞？・外洋？<br>
 波の壁がそのまま通り過ぎ、まるで何事も起きなかったかのように海は元に戻っていた。霧に覆われ続けている以外は。<br>
 ブルーギルに救出されたイントレピッドは――<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 げほげほ……助かった……<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 イントレピッド、大丈夫？！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 だ、大丈夫。ちょっと溺れて……<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 ブルーギル、ナイスタイミング！<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 ブルーギル、パトロールから帰還した！<br>
 セイレーンの大群に遭遇して、そして大きな波に巻き込まれて気づいたらここに…みんなはもうセイレーンと戦っていたの？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 えっ…さっきからずっと戦いっぱなしだけど、ブルーギルはそうじゃなかったの？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （こっちは結構派手に戦ってたのに、気づかないなんてことはないはず…）<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 あっちからなにかが近づいて来ますよ。とりあえずこれで……<br>
 <br>
 ――！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 あわわ！みんな大丈夫？！ちょっと返事して！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 リノ？なんでここに？<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 マーブルヘッド！？<br>
 …って、なんでいきなり撃ってきたの！空砲だからセイレーンじゃないってのは分かったけど…<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 まあ、セイレーンの「駒」って可能性もありますしぃ？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 あれ？リノはバンカー・ヒルたちとは別行動を取っていたんじゃなかった？<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 え！そっちこそなんで要塞の湾内まで戻ってきたの？<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 さ、流石に今の波で要塞近くまで押し返されたわけじゃないよね…<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 ブレマートン！カサブランカ！バンカー・ヒル！こっちこっちー<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 みんなもいるの？<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 あ、捜索チームのみんな！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 どうやらみんな同じ異常気象？の波に遭遇したようですね<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 ブルーギルも大きな波に押されて気づいたら違う場所にいた…ってもしかしたら私たち、セイレーンに「転移」させられたってこと？<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 にわかに信じがたいが、可能性を否定できないな<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 つまり…今の場所は要塞周辺海域でいうどの辺なの？<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 それがわからないんだ。さっきから計器が狂いっぱなしでな。鏡面海域の中にいる、ってのもありうる<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 エンタープライズ先輩とボルチモアも見つかっていないまま、ね…<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 まあでも、合流できたのは戦力的に嬉しいことじゃない？ここでやるべきことは――<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 この霧の発生源を見つけること！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=転移機構|选项=25|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 あ、そういえばブルーギル、中枢艦を見つけた！<br>
 確か潜水艦の大群に紛れ込んでる、すっごく大きなセイレーンのはず！<br>
 ブルーギルはそいつを攻撃しようとしたときにここまで転移されたけど…。<br>
 んー確かあのときの時間は……<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 同じだ。私たちが波の壁に襲われたのと<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 こっちも。ってことは……<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 情報を総合すると、あの波の壁に巻き込まれてみんなが同じタイミングで同じ場所に「転移」された<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 な、なんだって！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 今まで撃破した敵の編成の共通点からすると、ブルーギルが見たあの潜水タイプのセイレーンが中枢艦の可能性が高い…<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 そしてぼくたちが合流してから遭遇したセイレーンはほとんど新型艦…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 敵の本拠地に殴り込んだか、それとも敵に包囲されているかのどちらかだね<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 いずれにしても、敵潜水艦の大群がいるってことは、対潜体制を整えたほうが良さそうだよね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （ブルーギルのおかげで一気に戦況が判明した気がする…！）<br>
 とにかくみんな、水面下からの攻撃に気をつけて！<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 ブルーギルも支援するよ！今度こそ「ブルーギル・スナイプ・ヴィクトリー」を達成してやる！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=ヒーローチーム|选项=26|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 散り散りになったヒーローたちが合流してスーパーヴィランに挑む…<br>
 ちょっとベタだけど盛り上がる展開だね！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 正義のヒーロー大集合！クライマックス！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 確かに熱いわね！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 ん？クーパーちゃんもヒーロードラマが好きなの？<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 もちろん！世界を華麗に救うヒーローたち、ぼくと同じでカッコいいもん！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 （リノと同じ趣味？！）あ、それならこのガジェットを見せるね！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 あのガントレットっぽいもの、光るものなんだ！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 ふふん、それとここを押せば！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 変形した？！凄い！！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 これは全てリノの手作り！ふふん、凄いでしょ！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 ぼくもほしいなぁ～<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 今度作ってあげてもいいよ。ギミックとか、予算とか教えてくれたら<br>
 しかし、まさかここでヒーロー好きに出会えるとは思わなかったね<br>
 リノ、帰ったらすぐコレクションを見せたい気分！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 本当？！運河要塞に戻ったら見せて見せて！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 おう！ヒーローのサポーター・このリノの秘蔵ガジェットたちを存分にご覧あれ！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 そしてぼくのガジェットを作ってくれ！必殺技があってもガジェットがないってずっと悩んでたよ！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 まあまあ、ヒーローのシンボルはそれぞれ、ガジェットがなくてもアビリティだけで有名なヒーローもいるし<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 「特殊能力あってのヒーローではなく、なす事あってのヒーロー」ってことね<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 …あれ？今のドラマで聞いたことあるような気がする<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 私もたまにボルチモアと一緒に見るんだけどね<br>
 ヒーロー談義するほどじゃないけど、まああれね？たしか…<br>
 「ヒーローでありたいのではなく、ヒーローのすべきことをしよう！」<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 お！それそれ！ぼくもそう思う！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 そして今ヒーローのすべきことは――<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 リノは敵の艦載機を警戒して！<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 クーパーちゃんは敵の潜水艦を警戒する！ってね☆<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=姉妹艦|选项=27|主框=1|样式=primary|展开=否}}
 <br>
 運河要塞？・外洋？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 対潜哨戒の艦載機が敵を発見し次第、位置を連絡して…<br>
 ふぅ、潜水艦対策をしておいてよかったです。まさかセイレーンの潜水艦がこんなに…<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 護衛空母なのに戦おうとするなんて凄いですねーあたしも艦載機を装備できればね～<br>
 霧があるとはいえ、やっぱりちょっと高いところから偵察してみたいってカンジ？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 ええと、水上機ならまだしも、空母艦載機の運用までとなりますと、航空巡洋艦に改造したほうが良さそうですよ<br>
 ……<br>
 マーブルヘッドはメンフィスのことが心配ですか？<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 そうですねーメンフィスって苦労人気質じゃないですかー<br>
 運河要塞回りの観光スポットも紹介して、非番の日にはリラックスしてもらおうと思ってましたけどぉ<br>
 流石にこの様子だとちょっと無理そうですね…あははは<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 私もエンタープライズさんとボルチモアさんたちのことが心配です<br>
 姉妹艦ではないからマーブルヘッドとは違うかもしれませんけど、同じユニオンの仲間として、みんなの無事を祈る気持ちは同じです<br>
 だからマーブルヘッドがあの…「チャラい」感じのままでいられるよう、私も頑張りたいと思います<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 言いますね～マジメな子だと思ってたのに意外と冗談が通じるタイプ？<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 意外でしたか？<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 まぁ、お互いぼちぼち頑張りましょー<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 うん！みんなと一緒に頑張りましょう！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=「キオク」の断片Ⅴ|选项=28|主框=1|样式=primary|展开=否}}
 <br>
 ？？？・？？？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 誰だ！<br>
-<span style="color:#ffff4d;">？？？：</span><br>
+<span style="color:#ffd000;">？？？：</span><br>
 背景にいる、モブ<br>
 今の映像を見て、気になったこととかある？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 映像？この「影」たちのことか？<br>
-<span style="color:#ffff4d;">？？？：</span><br>
+<span style="color:#ffd000;">？？？：</span><br>
 「キオク」。つまりログ<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ログ？記憶？誰の？いつのものだ？<br>
-<span style="color:#ffff4d;">？？？：</span><br>
+<span style="color:#ffd000;">？？？：</span><br>
 あなたのも、「彼女」のも。未来でも、過去でも<br>
 それは今、あなたのものよ<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 また訳のわからないことを…デタラメの映像を見せて揺さぶりをかける気か？<br>
-<span style="color:#ffff4d;">？？？：</span><br>
+<span style="color:#ffd000;">？？？：</span><br>
 ログはウソを付かない<br>
 来たね<br>
 <br>
 ――霧の中から、新しい「影」が現れた。<br>
 今まで出会った、そして記録にあるどの人型個体とも違う異様な雰囲気を出す存在。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 あなたは…<br>
 <br>
 ――――！<br>
 巨大な轟音が響く。まるで空間そのものが引き裂かれたかのような激震に襲われ、海が荒れ出す。<br>
-<span style="color:#ffff4d;">？？？：</span><br>
+<span style="color:#ffd000;">？？？：</span><br>
 ……っ<br>
 <br>
 今までの「影」と違って、視線を明確にエンタープライズに向けたセイレーンは、言葉を発することなく霧に溶け込んでいった。<br>
 まるで彼女の行動に呼応するかのように、霧が薄れていき――そして無数の量産型セイレーンが姿を現した。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 結局戦うしかないか…！<br>
 <br>
 いくらエンタープライズでも、一人でこの数のセイレーン相手では無理だと分かっている。<br>
 しかし――<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 エンタープライズ！助けは要るか！<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ボルチモア！みんな！<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 ずっと霧の中で迷っていたけど、どうやら脱出できたみたいかしら！<br>
-<span style="color:#a9f548;">ヘレナ：</span><br>
+<span style="color:#4eb24e;">ヘレナ：</span><br>
 今はセイレーンの撃退を…！<br>
 <br>
 思わぬ援軍の到来、そして行方不明になった仲間の無事――エンタープライズは胸を撫で下ろした。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 みんな、よく無事で……！今のは…！<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 …………<br>
 「指揮官」…ここにいないか……<br>
 {{折叠面板|内容结束}}
@@ -1010,48 +1010,48 @@ Pushing on！一気に突破するよ！<br>
 運河要塞？・外洋？<br>
 霧が薄くなっていく中、イントレピッドたちが次々と現れるセイレーンの大群相手に激戦を繰り広げていた。<br>
 敵の攻勢が確かに強くなったものの、海霧で全力出せずにいた空母たちもまた猛威を振るい始める。<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 とんでもない数だ。「あたり」が近いとでもいうのか<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 かもしれないわね。艦載機に量産艦に潜水艦、そして霧の影響…<br>
 セイレーンの中枢艦を撃破するまでの勝負ってことね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 このままではこちらが不利になる可能性が高い…どうすれば…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 どうするもこうするもない。ここを切り抜けないといずれ全滅するもの<br>
 ほら、しゃんとして！恐れなきイントレピッドでしょ？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ……！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 エンタープライズ先輩がいない今、私たちが頑張るしかない！…ううん、私たちが先輩たちを助ける！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 そしてボルチモアたち、当然だが運河要塞もだ<br>
 みんなを心配してくれるのは嬉しいが、ここはあなたの前向きさを活かす番だな<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ……エセックス、バンカー・ヒル……<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ああ、「とにかく突っ込む」はなしだな。エンタープライズさんだって状況を見ずに無闇に突進したりはしない<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 しないよそんなの！<br>
 （でも、この状況をどうすれば……）<br>
 あ！そういえばさっきから霧が少しずつ薄くなってきているわね<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ああ、おかげさまで出せる艦載機も多くなったな<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 バンカー・ヒル、偵察機で霧の濃度を調べられない？見晴らしの良さ程度でいいから！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ……もちろんだ。しかしどうしてそれを…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 霧が一箇所から発生するのなら、薄くなる時に濃度が均等には変化しないはず！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 そうよ！つまり発生源の方向を特定できるってことよ！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 やったわねイントレピッド！これでどこへ進めばいいか分かる！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 よし、次はどうやって敵の中枢艦に接近するかだけど……<br>
-<span style="color:#a9f548;">バンカー・ヒル&エセックス：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル&エセックス：</span><br>
 時間がないから、とにかく突っ込め！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 えええ！？<br>
 ……ふふ、やっぱりみんなエセックス級だね！<br>
 さあ、偵察機、かっとべ！敵の中枢艦に私たちを導いて！<br>
@@ -1061,108 +1061,108 @@ Pushing on！一気に突破するよ！<br>
 <br>
 ―――！！！<br>
 巨大な轟音が響く。まるで空間そのものが引き裂かれたかのうような激震に襲われ、海が荒れ出す。<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 わわわ！どうなってるの！？<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 霧がまた急に晴れ始めましたね…前方になにか浮上してきます！<br>
 <br>
 巨大なセイレーン潜水艦とともに、異形の艤装を纏い、だるそうな表情をしている人型セイレーンが立ちはだかる。<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 あれは…セイレーンの中枢艦！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 そしてここに来てまた新型セイレーン…記録のどこにもないわね、あれ<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ちっ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 この霧を作り出し、運河要塞に攻撃をしかけたのはあなたね！<br>
 エンタープライズ先輩とボルチモアたちをどこへやった！？<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 面倒くさ<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 艦載機…！？こいつは今までのと違う！<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 水上戦闘モード、起動<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 あの主砲…水上戦闘も可能か！<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 出力、70％<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 攻撃してくる！みんな、気をつけて！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=モードチェンジ|选项=31|主框=1|样式=primary|展开=否}}
 <br>
 ――！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 潜水艦とはわけが違いすぎません？！<br>
-<span style="color:#a9f548;">ブレマートン：</span><br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
 艦載機に主砲、魚雷、そしてシールドまで！いくらなんでもデタラメよ！<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 間違いなく強敵…！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 でも攻撃に手応えがあるよ！このまま攻撃し続ければあの厄介なシールドも貫けるはず！<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 オーバーヒート寸前。モードチェンジ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 艤装が変形しようとしている？！あれがやつの潜航モード！？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 やらせはしない！艦載機、行け！Roll on！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 リノ、マーブルヘッド！イントレピッドを援護して！ブルーギルはやつの変形を阻止して！<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 了解！ブルーギルに任せて！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 運河要塞を、エンタープライズ先輩たちを襲ったセイレーン――絶対に逃さない！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=霧晴れ|选项=32|主框=1|样式=primary|展开=否}}
 <br>
 イントレピッドたちの集中攻撃により、セイレーンは変形が阻止され、大ダメージを受けたように見えた。<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 （フィギュアもガジェットも可動部とか接続部とかが一番強度が弱いから！）<br>
 そのまま関節部を狙い続けて！そうすれば敵の変形を阻止できるよ！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 リノ、機械にも詳しいのですか？<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 え？あはは…そ、そうかもね！<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ……しょうがない<br>
 <br>
 ！！！<br>
-<span style="color:#a9f548;">ブルーギル：</span><br>
+<span style="color:#4eb24e;">ブルーギル：</span><br>
 エセックス、ブレマートン、水上にいる皆聞こえてる！？<br>
 今すごくやばいものが向こうから近づいているよ！海面下に気をつけて回避して！！<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 ってもう来ていますけど！！なにこれ？！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 機械の触手！？…ど、どこから！？<br>
-<span style="color:#a9f548;">マーブルヘッド：</span><br>
+<span style="color:#4eb24e;">マーブルヘッド：</span><br>
 いくらなんでも水圧とか摩擦とか計算が合わないじゃありませんかーーー！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 このままでは攻撃できない…！くっ…！<br>
-<span style="color:#a9f548;">カサブランカ：</span><br>
+<span style="color:#4eb24e;">カサブランカ：</span><br>
 ふぅ……あのセイレーンに逃げられてしまいましたね……<br>
-<span style="color:#a9f548;">リノ：</span><br>
+<span style="color:#4eb24e;">リノ：</span><br>
 でもちょっと妙だったね…殺気とか全然感じられなかったし……<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 よくわからない触手を避けるのに気を取られたし…<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 セイレーンたち、撤退し始めているよ。通信もそろそろ回復するところかな<br>
 ここの場所は…よし！とにかくこれで要塞は大丈夫なはず！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 うん、次はエンタープライズ先輩とボルチモアたちの捜索…えええ？！<br>
 エンタープライズ先輩！？<br>
-<span style="color:#a9f548;">バンカー・ヒル：</span><br>
+<span style="color:#4eb24e;">バンカー・ヒル：</span><br>
 ボルチモアもいる！？いつの間に……<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 突然で悪かったな。すまん、ちょっとセイレーンの追撃を撒くのに時間をかけすぎた<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 一体何があったの？<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 ん？ああ、迷っていたらよくわからないやつが現れて、そしてエンタープライズと出会って、そのままここまで来ただけさ<br>
 まあ話すとまた長くなるから、みんなまずは要塞に戻ろう<br>
 エンタープライズも、ほら<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ああ、帰ろう。みんな、無事で良かった<br>
 {{折叠面板|内容结束}}
 
@@ -1170,54 +1170,54 @@ Pushing on！一気に突破するよ！<br>
 <br>
 バミューダ海域・海霧<br>
 ボルチモア艦隊がピュリファイアーと戦っていた。<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 アタラナイヨ―<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 ちっ、ちまちま逃げるんじゃなく、正々堂々と戦え！<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 ダーメ。こっちはデータ収集がメインなんだから、無駄な出力を出したくないもん～<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 さっきの波の壁が現れてからピュリファイアーは時間稼ぎしているとしか思えないわ…<br>
 <br>
 ―――！！<br>
-<span style="color:#a9f548;">ヘレナ：</span><br>
+<span style="color:#4eb24e;">ヘレナ：</span><br>
 今のは…戦闘の音？<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 （お。ついに餌に食いついたかな）<br>
 あら大変～これは逃げないと駄目のようだね～オボエテイロヨ―（棒読み）<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 待て！……今度は後ろか！？<br>
 <br>
 霧の中から現れたのは――<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 …………<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 「余燼」…か<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 指揮官は一緒じゃなかったのか<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 …君に言うことはなにもないよ<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 そうか……<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 待ちなさい！…ううん、助けてくれて感謝するわ！<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 ……<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 しかし、ここは一体どの海域なのかしら…私たち、一体どうすれば…<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 お前たちが行きたい場所からそう遠くは離れていない。セイレーンも雑な仕事をしてくれる<br>
-<span style="color:#a9f548;">ヘレナ：</span><br>
+<span style="color:#4eb24e;">ヘレナ：</span><br>
 私たち、この海霧の中を「移動させられている」ってこと？<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 …またセイレーンに翻弄されているのか。『微層化混合物』のジャミングフォッグごときに<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 ああ、悪かったな…<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 私たち、どうすれば帰れるのかしら…<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 海霧を解除しない限り無理だろうな。もっとも、こいつが戦う気なら――<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 ……ジャミングフォッグの発生機構……<br>
 ……ふっ。お前たちの仲間が放った「空の目」を借りるとしよう<br>
 {{折叠面板|内容结束}}
@@ -1226,43 +1226,43 @@ Pushing on！一気に突破するよ！<br>
 <br>
 炎と硝煙、破壊と暴力に満ち溢れる赤い海。<br>
 破れた旗、数え切れないほどの残骸、倒れる「ヒト」たち。<br>
-<span style="color:#ffa500;">エンタープライズ：</span><br>
+<span style="color:#ff9900;">エンタープライズ：</span><br>
 ここは…どこだ？<br>
 <br>
 彼女たちの戦闘が続いている。知った顔も、知らない顔も。<br>
-<span style="color:#ffa500;">エンタープライズ：</span><br>
+<span style="color:#ff9900;">エンタープライズ：</span><br>
 ……各、陣営の……<br>
 <br>
 しかし、向かい撃つ敵は「セイレーン」ではない<br>
-<span style="color:#ffa500;">エンタープライズ：</span><br>
+<span style="color:#ff9900;">エンタープライズ：</span><br>
 敵は……北方連合の量産艦たち…？<br>
 違う。シルエットこそ似ているが、塗装も兵装も何もかもまるで違う…<br>
 <br>
 「フネ」の攻撃で「ヒト」が次々と海へと――ひざまずく。倒れ込む。沈む。<br>
-<span style="color:#ffa500;">エンタープライズ：</span><br>
+<span style="color:#ff9900;">エンタープライズ：</span><br>
 助けないと……！<br>
 <br>
 しかし体が思うように動かない。<br>
-<span style="color:#ffa500;">エンタープライズ：</span><br>
+<span style="color:#ff9900;">エンタープライズ：</span><br>
 …夜空を駆ける――流星…か？<br>
 数え切れないほどの流星が、大きく……こっちに……<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 …………<br>
-<span style="color:#ffa500;">エンタープライズ：</span><br>
+<span style="color:#ff9900;">エンタープライズ：</span><br>
 ？！！！<br>
 今のは……夢か…？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=闇靄|选项=35|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">コンパイラー：</span><br>
+<span style="color:#ec5d53;">コンパイラー：</span><br>
 海霧に鏡面海域の防御システム加算。１秒で崩壊<br>
 オブザーバー、失敗<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 「コードG」を足止めすることすら叶わないのかしら…<br>
 よくやったわ。子プログラム<br>
-<span style="color:#ff5c5c;">コンパイラー：</span><br>
+<span style="color:#ec5d53;">コンパイラー：</span><br>
 極北の氷山要塞、攻撃を受けている<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 …いいえ、私の計画は成功したわ。ふふふ<br>
 「コードG」の強さは、深層精神系統の外部遮断から来ているの<br>
 しかし、今は「つながっている」のよ。「エンタープライズ」と<br>

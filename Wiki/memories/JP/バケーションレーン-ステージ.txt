@@ -10,591 +10,591 @@
 期待せよ、現れる「バカンス島」で<br>
 スペシャル「ヴィーナスフェス」、まもなく開幕」<br>
 ある日、妙な手紙が執務室の机に置かれていた<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 あはは、なにがなんだか…さっぱり<br>
 <br>
 その通り、なにがなんだかさっぱりわからない<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 犯罪予告…？<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 でも悪いことをするって感じじゃなさそうですよ？…どちらかというと、番組の予告のような…？<br>
 <br>
 ただのいたずらかな？考えても仕方ない気がしてきた<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 指揮官、明石からの報告書です。読む…です？<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 あ、そういえば仕事中だった！この変な手紙に気を取られすぎてすっかり…<br>
 <br>
 '''''<span style="color:black;">选择项1：報告書を読む</span>'''''<br>
 <br>
 ……<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 え、港の周辺海域で新しい島が！？<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 これがあの手紙に書いてた「バカンス島」…です？<br>
 <br>
 ただのいたずらじゃなさそうだな……<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 考えても仕方ないような気がしますね…指揮官！私たちが見てきますよ！<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 む…？<br>
 <br>
 ジャベリンの言うとおり、ここで考えるだけじゃ答えがでない。直接確かめに行ったほうがいいだろう。<br>
 <br>
 '''''<span style="color:black;">选择项1：同意する</span>'''''<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 よーし、それじゃあ出発するよ！ニーミちゃん、綾波ちゃん、ラフィーちゃん！<br>
-<span style="color:#a9f548;">ラフィー＆綾波：</span><br>
+<span style="color:#4eb24e;">ラフィー＆綾波：</span><br>
 おー！<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 ちょ、ちょっとまってください！これはちゃんとした任務です！遊びに行くんじゃないですよ！<br>
 <br>
 ヴィーナスフェス…か、なんか一波乱起きそうな予感がするな…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=予期された出会い|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 …見えてきた！あれが明石の報告にあった島かな？<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 こんな近くに…なんで今まで気がつかなかったのでしょう…？<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 前方に何かを発見…ゴムボートです？<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 敵…？戦闘準備する？<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 武装はしていないみたい…あ、こっちに気づいたみたい！<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 戦うって感じじゃなさそうですね、近く寄って様子を見てみましょう<br>
 <br>
 ……<br>
-<span style="color:#a9f548;">？？？：</span><br>
+<span style="color:#4eb24e;">？？？：</span><br>
 気づいてくれてよかった…！わたしはかすみと言います。あなたたちは…近くの島の方でしょうか？<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 かすみ…さん？ですね。私はZ23、海域調査の任務でこちらに来た「艦船」です。こちらは綾波、ラフィー、ジャベリンです。<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 かん…せん？言われてみれば、海の上に浮いていて…まるで「ニンジュツ」みたい…<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 「ニンジュツ」って、なんか重桜の仲間たちみたいだね<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 黒潮たちはともかく、重桜の艦船がみんな「ニンジュツ」が使えるわけではないです<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 艦船を知らないみたい…まさか……<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 これがあの手紙にあった「新たな出会い」ってことでしょうか…かすみさんは、あの島から来たのですか？<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 はい、説明は難しいんですけど…目が覚めたら、いきなり、みんなとここに…<br>
 …そうだ。もしかして皆さんは「緑の猫娘のゆかいな仲間たち」…の方でしょうか？<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 もしかして…明石のことです？<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 え！かすみさんって明石の知り合いなんですか？<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 …本当に書いてあった通り…あの、とりあえず、わたしたちのところに来ていただけませんか？あとで、詳しく説明しますから…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=訪れる「ヴィーナス」|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 ただいま、マリーちゃん、みんな。<br>
-<span style="color:#a9f548;">？？？：</span><br>
+<span style="color:#4eb24e;">？？？：</span><br>
 あら？人が増えているような…<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 先に、皆さんを紹介しますね。こちらは、さっき出会ったZ23さん、ジャベリンさん、綾波さん、そしてラフィーさんです。<br>
 こっちは、わたしのお友達…ヴィーナス諸島から来た仲間です。<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 マリー・ローズと言います！マリーって呼んでください！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 初めまして、ほのかです。その…よろしくお願いしますね！<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 こんにちは！わたしはみさき、よろしくね！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 こんにちは。わたしはみさきの姉の、なぎさです。いきなりでよくわからないけど……よろしくお願いします。<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 ディーラーのモニカです♪…まだ見習いですけど。よろしくお願いしますね、ふふっ<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 わらわは女天狗じゃ。そなたら、おもしろそうな気配がするのう？<br>
 <br>
 互いに自己紹介した後、突如現れた「島」の現状について確認した。<br>
 カクカクシカジカ……<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 なるほど、そなたらは「かんせん」と言うのじゃな。身に着けてるこれは…「せいれーん」とやらと戦うための「ぎそう」と言うやつか、おもしろそうじゃのう<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 「指揮官さん」って人に頼まれてここに来たら、かすみさんと逢ったのですね<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 かすみさんたちは「ヴィーナスフェス」というイベントに参加していたけど、先日目が覚めたらこの島に来たのですね…<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 マリー、すっごくびっくりしました！…でも、家も食べ物もあったから…<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 プールとか、ビーチバレーするところもあったり…ヴィーナス諸島と似てるなぁって思いました<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 そして、この変な手紙を見つけたんです…<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 指揮官に送られてきたものと同じ…<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 お互い、仕組まれていたみたいですね…なら、これも…<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 これは…なにかの端末、です？<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 画面がついてて、「タブレット」って感じがしますね<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 おお！なにか書いてあるみたい……<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「遥々より来たれし“ヴィーナス”たちよ、ようこそバカンス島へ！」<br>
 「戸惑うことなかれ。諸君らがバカンスを楽しんでいる合間に、与えられた“ミッション”を遂行すれば、戻る道はいずれ開かれるであろう」<br>
 「メインミッション：この世界にちなんだ特別な“スペシャルヴィーナスフェス”を開催し、碧波の少女たちと華麗なる姿を見せよ」<br>
 「サブミッション：緑の猫娘の愉快な仲間たちを探せ（完了）」<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 緑の猫娘は明石。そして愉快な仲間たちとは…<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 はぁ…なんかからかわれているような内容ですね…<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 あはは…ちょうどゴムボートがありましたので、近くの状況を確かめようと…そしたら、あなたたちと出会ったんです<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 あら？またなにかメッセージが届いたみたいですよ<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「サブミッション：「港」に向かい、緑の猫娘から「艤装の力」を得よ」<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 この展開…なんか見たことあるような…<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 と、とりあえずヴィーナス諸島？の皆さんを港に迎えましょう！指揮官にも報告しないといけませんね<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=特別な「力」|选项=4|主框=1|样式=primary|展开=否}}
 <br>
 数日後、近海にて<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 これが「艤装」…？とても不思議な感じがします。<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 わあ！マリー、ほんとに海の上に浮いてます！あははっ、これ楽しい♪<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 はわわわ…マリーちゃん気を付けて、海に落ちちゃったら大変だよ…<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 みさきは大丈夫？痛い所とかない？<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 うん♪こうやって海の上で動けるの、ちょっとテンション上がるかも！<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 潮風が気持ちいいですね～ふふっ、明石さんにちゃんと感謝しないといけませんね♪<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 このような巧妙なものを作るとは…あの緑の猫娘、なかなかやるのう<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ゲフンゲフン…気に入ってくれたようでよかったにゃ！この艤装は明石の心血そそいだ結晶にゃ、大事に使ってほしいにゃ<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 さて、どうするかのう？　ふふふ<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 とりあえず、あとは「ヴィーナスフェス」の準備だにゃ。できるまで艤装に慣れてみるにゃ！<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 本当に、こんな「スペシャルヴィーナスフェス」になるなんて……<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 指揮官、みんなが来ましたよ！あと、明石のことも探しているみたいです！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ？こちらはあの島の住民かにゃ？明石になにか用があるにゃ？<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 初めまして、あなたが指揮官？さんですね。それに、緑の猫…じゃなくて、明石さん…ですか？わたしはかすみです。仲間たちと一緒にヴィーナス諸島から……<br>
 <br>
 ……<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 …というわけで、かすみさんたちを連れて戻りました。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ…これがその「端末」かにゃ？明石に見せてみるにゃ…全く、緑の猫娘って失礼にゃ<br>
 <br>
 明石と艤装のことはもちろん、ほかにも気になる単語が書かれている…<br>
 <br>
 '''''<span style="color:black;">选择项1：「ヴィーナスフェス」について尋ねる</span>'''''<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 わたしが答えよっか。フェスのサポーターとして、バイトしてるし♪<br>
 「ヴィーナスフェス」は、常夏のヴィーナス諸島ってところでやってる超大きな祭典のことなんだ。島のオーナーが選んだ女の子たちを「ヴィーナス」として、思いっきり輝かせてあげるの！そして、巨万の富を手に入れ、島を大きなリゾートに…！<br>
 <br>
 なんだかおもしろそう…？<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 指揮官、興味ありそうな顔をしてるにゃ？<br>
-<span style="color:#a9f548;">ジャベリンたち：</span><br>
+<span style="color:#4eb24e;">ジャベリンたち：</span><br>
 じー<br>
 <br>
 おっと。ここはまず「タブレット」に書かれている内容について確認しないと…<br>
 <br>
 '''''<span style="color:black;">选择项1：「メインミッション」について</span>'''''<br>
-<span style="color:#a9f548;">ジャベリン：</span><br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
 この「碧波の少女」って…私たち？私たちも参加するの？<br>
-<span style="color:#a9f548;">Z23：</span><br>
+<span style="color:#4eb24e;">Z23：</span><br>
 「この世界にちなんだ」ことで勝負って…まさか…<br>
-<span style="color:#a9f548;">綾波：</span><br>
+<span style="color:#4eb24e;">綾波：</span><br>
 もしかして戦う…もしくは模擬戦や演習のことなのです？<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 ラフィー、負けない…！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 うーん…この端末はただの受信機みたいだにゃ、なにも特別な…ふにゃ？なんかメッセージが来たにゃ<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「メインミッション：艤装の力を用いた「演習」で特別な“ヴィーナスフェス”を開催し、碧波の少女たちと華麗なる姿を見せよ（ミッション進行度0%）」<br>
 <br>
 演習か…確か近々に島の周辺海域を利用した演習の計画があったような…<br>
 <br>
 '''''<span style="color:black;">选择项1：明石に指示を出す</span>'''''<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ？次の演習で…発信源も特定してほしいにゃ？確かに「ミッション」が進まないと新しいメッセージも来なさそうにゃ…わかったにゃ！準備は任せるにゃ！<br>
-<span style="color:#a9f548;">ラフィー：</span><br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
 おぉ…さすが明石<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 みんなも手伝うにゃ！忙しくなるにゃ～！<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 あはは、なんかわからないけど…わたしたちも手伝うよ♪<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 近くの海域に「演習艦」を配置したにゃ！まずはこれで艤装を使う練習をしてみるにゃ！<br>
-<span style="color:#a9f548;">ヴィーナス諸島一同：</span><br>
+<span style="color:#4eb24e;">ヴィーナス諸島一同：</span><br>
 おー！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=華麗なる開幕|选项=5|主框=1|样式=primary|展开=否}}
 <br>
 準備を経て、待望の「フェス」がついに始まる<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふっふー、やるからにはベストを尽くすにゃ！特別演習「スペシャルヴィーナスフェス」はっじまるにゃー！司会進行は、明石に任せるにゃ！<br>
 今回の演習は、ヴィーナスたちの赤チーム対指揮官の青チームだにゃ！勝ち負け関係なく、みんな「華麗」な戦いを見せるにゃ！<br>
 ちなみに、弾薬は特別な処理をしてるから、ケガする心配もないにゃ！<br>
 それでは一戦目、始めるにゃ！まずは赤チームの紹介だにゃ！<br>
 占い趣味のお姉さん「かすみ」と、ディーラー見習い「モニカ」だにゃ！<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 ふふっ、まずはわたしたちですね！頑張りましょう！<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 かすみさーん！モニカさーん！みんな応援してるからねー！<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 あら？お相手のほうは…すごくかわいい女の子たちですね！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 次は青チームにゃ！重桜よりサムライ美女・砂浜ラプソディこと「高雄」と、情熱溢れるお姉さん・真夏の行進曲こと「愛宕」だにゃ！<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 指揮官殿から期待されるのは光栄であるが……なんで水着なのだ！？<br>
-<span style="color:#a9f548;">愛宕：</span><br>
+<span style="color:#4eb24e;">愛宕：</span><br>
 それは「ヴィーナスフェス」だからよ～水着のほうが合ってると思わない？ふふふっ<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 高雄さんの水着、すごくかわいいです！<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 うっ…かたじけない……<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 では、お互い力の限り、頑張りましょう！<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 あ…ああ！いざ尋常に勝負！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 それでは…始めるにゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=刀剣共舞|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 さすが歴戦の「艦船」…でも、わたしも負けるわけには…！…ここで決める！<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 させぬ！はあああああ！！<br>
 <br>
 （艤装による）絶妙な攻防に、周りから歓声が上がっていた。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 そこまでにゃ！両チームともすごかったにゃ！<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 さすがだ！「ヴィーナス島」はツワモノ揃いだと聞いていたが、かすみ殿とモニカ殿がこれほど強いとは…拙者もまだまだ修行が必要だな<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 ふふっ、高雄さんこそ！こんなに可愛いお姿なのに、すごく強かったですよ♪<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 い、いえ、拙者はそんな……<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 ふふっ、高雄さんもわたしたちのほうのヴィーナスフェスに参加してはいかがですか？<br>
-<span style="color:#a9f548;">高雄：</span><br>
+<span style="color:#4eb24e;">高雄：</span><br>
 えっ、えー？！<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 じゃあ、次はビーチバレーで「真剣勝負」してみませんか？<br>
-<span style="color:#a9f548;">愛宕：</span><br>
+<span style="color:#4eb24e;">愛宕：</span><br>
 それはいいアイデアね～<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 というわけで、一戦目はこれにて終了にゃ！次の試合まで自由時間だから、ビーチバレーで遊んだりして親睦を深めるといいにゃ～次は二戦目で会うにゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=間幕|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 指揮官！端末になんか動きがあったにゃ！<br>
 <br>
 端末の画面にあった「0%」の数字が「28.5%」へと変わっていた。向こうは一体どうやってこちらの状況を把握しているのだろうか？<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ～…まだ発信源を特定できないにゃ…<br>
 <br>
 どうやら、引き続き状況を見るしかなさそうだ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=それぞれの姉妹談|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 お待たせしましたにゃ！二戦目、まもなく始まるにゃ！<br>
 今回は「姉妹VS姉妹」にゃ！赤チーム「みさき＆なぎさ」対青チーム「アドミラル・ヒッパー＆プリンツ・オイゲン」にゃ！<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 この格好で「戦う」って、どうしていいかわからないけど……一緒にがんばろうね、お姉ちゃん！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 みさき……ケガとかしないように、気を付けてね？<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 大丈夫だよ♪明石さんも、弾薬は特別な処理をしてるって言ってたし♪<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 もう…油断しないの。大事な妹なんだから…わたしが守るから、後ろにいなさい？<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 いいけど…わたしも、弾撃ちたいな…<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ふぅん、相手のほうも「姉妹」か～指揮官もおつな采配をするわね、ふふっ<br>
-<span style="color:#a9f548;">アドミラル・ヒッパー：</span><br>
+<span style="color:#4eb24e;">アドミラル・ヒッパー：</span><br>
 冗談はここまでよ、オイゲン！準備はいい？あのバカにも私たちの力を見せてやるっての！<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 あら、もしかして同じ姉妹コンビとして指揮官に期待されて緊張してるのかしら、「姉さん」？<br>
-<span style="color:#a9f548;">アドミラル・ヒッパー：</span><br>
+<span style="color:#4eb24e;">アドミラル・ヒッパー：</span><br>
 はあ？誰のこと言ってるのよ！私が緊張するわけないでしょ！<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 でも、手がちょっと震えてるわよ？<br>
-<span style="color:#a9f548;">アドミラル・ヒッパー：</span><br>
+<span style="color:#4eb24e;">アドミラル・ヒッパー：</span><br>
 こ、これは重桜の「武者震い」ってやつよ！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 むこうの「妹」はなかなか手強そうね…<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 そう？わたしは色々話してみたいなぁって思った！<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 あら、奇遇だわ～あとでゆっくり話しましょうか、例えば…「姉」について、とか<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 うん、約束だよ！<br>
-<span style="color:#a9f548;">アドミラル・ヒッパー：</span><br>
+<span style="color:#4eb24e;">アドミラル・ヒッパー：</span><br>
 い、いいから、演習に集中しなさいっての！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 みさき、準備はいい？<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 あいさつは終わったかにゃ？では二戦目、開始にゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=姉妹共闘|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 みさき、左よ！<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 了解！えいっ！<br>
-<span style="color:#a9f548;">アドミラル・ヒッパー：</span><br>
+<span style="color:#4eb24e;">アドミラル・ヒッパー：</span><br>
 させないわよ！<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 あら、感謝するわ「姉さん」<br>
 <br>
 どちらも息が合って、連携もバッチリだ。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 そこまでにゃ！両チームともいいコンビネーションだったにゃ！姉妹の関係ってなんか憧れるにゃ<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 ふう…まあ、悪くなかったかな。…みさき、ケガとかしてない？<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 もう、お姉ちゃんったら心配性なんだから…この通り、ピンピンしてる♪<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ふふっ、お互いにいい姉をもっているわね<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 あははっ、みたいだね～<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ええ、強いて言えば、「ツン」より、もっと「デレ」がほしいんだけどね～<br>
-<span style="color:#a9f548;">アドミラル・ヒッパー：</span><br>
+<span style="color:#4eb24e;">アドミラル・ヒッパー：</span><br>
 はあ？！誰がツンデレよ！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 あはは…やっぱり手強い妹みたい…<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 ふふっ、わたしもそう思うな♪<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 …みさき、いまの「そう思う」って、わたしへの返事…よね？<br>
 <br>
 姉妹コンビのほほえましい光景を眺めていると、ふと誰かが駆け寄って来ている気がした。<br>
-<span style="color:#a9f548;">ポートランド：</span><br>
+<span style="color:#4eb24e;">ポートランド：</span><br>
 お姉ちゃん仲間発見！これインディちゃんグッズです！お近づきのしるしに！一緒に妹（インディちゃん）を堪能しましょ！<br>
-<span style="color:#a9f548;">インディアナポリス：</span><br>
+<span style="color:#4eb24e;">インディアナポリス：</span><br>
 お姉ちゃん、恥ずかしいからやめて……ごめんなさい、姉がご迷惑を…<br>
-<span style="color:#a9f548;">ポートランド：</span><br>
+<span style="color:#4eb24e;">ポートランド：</span><br>
 ちょ、ちょっとまってよー！まだインディちゃんの魅力を…って、あーれー……<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 こ、こんな感じの「お姉ちゃん」もいるんだね…<br>
-<span style="color:#a9f548;">プリンツ・オイゲン：</span><br>
+<span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 これはこれで、楽しそうじゃない？<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 タイムアップ～！はい、二戦目も終了にゃ！暫く休憩時間だにゃ！次の演習も期待するにゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=大きさの問題？|选项=10|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 もう待ちきれないのかにゃ？三戦目、始まるにゃ！<br>
 赤チーム、さっきの姉妹コンビにも負けない仲良しコンビ「マリー・ローズ＆ほのか」にゃ！<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 マリーとほのかのタッグは、無敵なんですから！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 えへへ、マリーちゃん、一緒にがんばろ！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 青チーム、長きにわたる女王陛下の右腕コンビ「ウォースパイト＆ベルファスト」だにゃ！<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 ベル！ロイヤルメイド隊の優雅と気品、見せてやるのよー！<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 ウォースパイト、ロイヤルの威光を見せてやりなさい！特にあのピンク…なんなのあの大きさは！！ぐぬぬぬ…「品乳同盟」の力、思い知らせてやるのよ！！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 はわわ、な、なんですか？<br>
-<span style="color:#a9f548;">ウォースパイト：</span><br>
+<span style="color:#4eb24e;">ウォースパイト：</span><br>
 へ、陛下…落ち着いてください…！<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 もう、ほのかを困らせて…マリー、燃えてきました！よろしくお願いしますね、メイド長さん！<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 ふふ、では力の限り、皆さんに素晴らしい戦いをお届けいたしましょう<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 むむ…明石も思わずウォースパイトを応援したく…ゲフンゲフン、それでは試合開始にゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=注目の戦い|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 ほのか、避けて！   <br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 は、はいっ！（ぷるん）<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ？！こ、これは…<br>
-<span style="color:#a9f548;">ウォースパイト：</span><br>
+<span style="color:#4eb24e;">ウォースパイト：</span><br>
 これでどうだ！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 ……たぁーっ！（ぷるん）<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 す、すごいにゃ！<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 チャンスっ！ほのか、一緒にっ！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 あちょーっ！（ぷるるん）<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 させません！<br>
 それにしても、これは少々色々と刺激がお強いのではありませんか…？<br>
 <br>
 確かに、明石が狙っているとしか思えないすごさかも……<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 そ、そこまでにゃ！これは目が離せない戦いだったにゃ…<br>
 <br>
 明石さん！？<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 はあ…やっぱりメイド長さんの前では、簡単にはいかないですね<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 さすがお二方、完璧なコンビネーションでした<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 ふふ、マリーちゃんとはお友達ですから♪お二方もすごかったです！なんというか…「言葉にしなくても、ぴぴっって伝わる」みたいな？<br>
-<span style="color:#a9f548;">ウォースパイト：</span><br>
+<span style="color:#4eb24e;">ウォースパイト：</span><br>
 い、意外な感じで注目されてしまったようだけど、とても楽しい戦いだったわ！二人ともありがとう！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 えへへ、なんか照れちゃいますね～<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃっ！しっかりするにゃ、明石…プロの司会はこんなことでめげちゃダメにゃ！では少し休憩をはさんで、いよいよ最後の演習だにゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=決戦の前|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 うーん…進行度85%まで来てるけど、まだ発信源が特定できないにゃ……<br>
 <br>
 しかたない、とりあえず進行度100%まで待ってみるか…<br>
 最後の対戦カードはまだ決まっていないようだ。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 女天狗にゃ…重桜でも伝説の大妖怪だにゃ……<br>
 <br>
 こちらの艦船は誰が相手をするのだろう…？<br>
-<span style="color:#a9f548;">？？？：</span><br>
+<span style="color:#4eb24e;">？？？：</span><br>
 うむ、ここは我が案を出すとしよう<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ？！びっくりしたにゃ、三笠大先輩だったのにゃ……<br>
-<span style="color:#a9f548;">三笠：</span><br>
+<span style="color:#4eb24e;">三笠：</span><br>
 そこまで気圧されることはなかろう？向こうが伝説の大妖怪と聞いて驚いてはいたが、話してみれば意外と親しみやすかったぞ<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ふふふ、三笠殿とはふしぎと話が合うのう<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 ふにゃ？！ほ、本当にゃ！？<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 おや、驚かせてしもうたか？　猫耳の娘よ<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 明石は「明石」という名前があるにゃ！<br>
 <br>
 よし、三笠なら安心できそうだ。<br>
 <br>
 '''''<span style="color:black;">选择项1：大先輩のアドバイスは…</span>'''''<br>
-<span style="color:#a9f548;">三笠：</span><br>
+<span style="color:#4eb24e;">三笠：</span><br>
 せっかく伝説の存在が相手だ。艦隊の「後輩」たちにも手合わせの機会を与えてはどうだ？<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 「後輩」たち…のう。よくわからんが、そなたたちの相手など戯言のようなもの。皆でかかってくるがよい♪…わらわを楽しませよ…指揮官殿❤<br>
 <br>
 これが大先輩の貫禄ってやつか…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=先輩の期待|选项=13|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 数々の演習、お見事だったにゃ！そして…次で最後の演習だにゃ！<br>
 司会の明石もなんだか名残惜しいにゃ…<br>
 それでは最後の出場者を紹介するにゃ！<br>
 赤チーム！伝説の大妖怪、女天狗にゃ！<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ふふふ、このときを待っていたぞ<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 青チーム…にゃんと！？重桜の新星、五航戦姉妹の翔鶴と瑞鶴にゃ！<br>
-<span style="color:#a9f548;">三笠：</span><br>
+<span style="color:#4eb24e;">三笠：</span><br>
 翔鶴、瑞鶴、二人とも期待しているぞ！<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#4eb24e;">瑞鹤：</span><br>
 おお！これが伝説の大妖怪様…相手にとって不足なし！よろしくお願いします、女天狗さん！<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ほう、活きがいいのう。これは期待に応えてくれそうじゃ、ふふふ<br>
-<span style="color:#a9f548;">加賀：</span><br>
+<span style="color:#4eb24e;">加賀：</span><br>
 出られないのは残念だが、お前たちに託した。実力を示すがいい、五航戦<br>
-<span style="color:#a9f548;">赤城：</span><br>
+<span style="color:#4eb24e;">赤城：</span><br>
 この赤城ではなく、五航戦が出ることになるなんて…後でたっぷり指揮官様とお話、しませんと❤<br>
-<span style="color:#a9f548;">翔鶴：</span><br>
+<span style="color:#4eb24e;">翔鶴：</span><br>
 ふふ、私たちの活躍をしっかり見ていてくださいね～赤城せ・ん・ぱ・い♪<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ふふふ、そなたら「重桜」は、なにやら懐かしい気配がするのう。これも何かの縁じゃ、たっぷり楽しませてくれようぞ！<br>
-<span style="color:#a9f548;">瑞鶴＆翔鶴：</span><br>
+<span style="color:#4eb24e;">瑞鶴＆翔鶴：</span><br>
 はい！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 はにゃにゃにゃ…え、演習開始にゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=期待に応え|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ふふふ、まだじゃ！こんなものではなかろう！<br>
-<span style="color:#a9f548;">翔鶴：</span><br>
+<span style="color:#4eb24e;">翔鶴：</span><br>
 さすが女天狗さん…まだ余裕みたいですね…<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#4eb24e;">瑞鹤：</span><br>
 でも、私たちだってまだまだいける！<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 よいのう！三笠殿の言う通り、期待できそうな後輩たちじゃ！<br>
-<span style="color:#a9f548;">瑞鶴＆翔鶴：</span><br>
+<span style="color:#4eb24e;">瑞鶴＆翔鶴：</span><br>
 はああああああああああああ！！！<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 そこまでにゃ！<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ふふ、そなたら、よかったぞ❤胸躍る戦いであったわ♪<br>
-<span style="color:#a9f548;">翔鶴：</span><br>
+<span style="color:#4eb24e;">翔鶴：</span><br>
 私はもう疲れて死にそう…ふう……<br>
-<span style="color:#a9f548;">瑞鹤：</span><br>
+<span style="color:#4eb24e;">瑞鹤：</span><br>
 あはは、私も。でも…なんだか清々しい気分だ<br>
 <br>
 女天狗は満足しているようだし、翔鶴と瑞鶴も戦いからなにか得るものがあったみたいだ。アドバイスをくれた三笠には感謝しないとな。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 今回の特別演習、スペシャル「ヴィーナスフェス」はこれにて終了にゃ！みんなお疲れ様だにゃ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=繋がる世界|选项=15|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 指揮官！端末が反応したにゃ！<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「全ミッションの達成を確認、バカンス島の座標＜XXX,XXX＞に向かい、転送装置を起動せよ」<br>
 <br>
 端末の指示に従って座標にたどり着くと、バカンス島にある「転送装置」を見つけた。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 前はなにもなかったところだにゃ…やはり、いま出現した感じかにゃ…<br>
 <br>
 端末に新しいメッセージが届く。<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「転送装置を起動するか＜YES＞＜NO＞」<br>
 <br>
 どうやら、別れのときが来たみたいだ。<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 うわーん…マリーちゃん…みんなぁ…元気でね～……<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 ううっ…短い間でしたけど、マリーほんとに楽しかったです！<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 マリーちゃん、さようならを言うときは笑顔だよ、わたしだって…ううっ……<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 こうして帰ることができるのは、皆さんのおかげです！なんとお礼を言ったらいいのか…！<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 指揮官さんも、皆さんも…ヴィーナス諸島に来れたらお礼ができるんですが……<br>
 <br>
 いい提案かもしれない<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 じー<br>
 <br>
 当然、冗談だ<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 明石さん、皆さん…お世話になりました！それに…指揮官も。ほんとに、ありがとね！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 ときどきみさきを変な目で見ていたようですけど…まあ、こんなに頑張ったんですから…今回は許してあげます…バカわんこ♪<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 別れはいずれ訪れるものじゃが、この縁はまだ尽きておらぬ。いずれ、またどこかで会うかもしれぬぞ、ふふふ<br>
 <br>
 惜しくとも、別れはいつか訪れる……<br>
@@ -609,50 +609,50 @@
 '''''<span style="color:black;">选择项1：「YES」をタップする</span>'''''<br>
 <br>
 笑顔で見送ってあげないと。<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 にゃにゃ？指揮官、端末に新しいメッセージが届いてるにゃ！<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「転送装置起動完了。以後、この転送装置は168時間ごとに自動運転を行い、一度の起動持続時間は7時間。転送対象の情報を入力しました。これより転送装置は特定の対象のみ転送可能とするモードを維持します。」<br>
 <br>
 どうやらこの装置は一度限り機能するものではないようだ。<br>
-<span style="color:#a9f548;">端末：</span><br>
+<span style="color:#4eb24e;">端末：</span><br>
 「通信端末の機能終了。端末機能停止。リソースはこれより転送装置の保守運用に移行します。それでは、よいバカンスを」<br>
-<span style="color:#a9f548;">明石：</span><br>
+<span style="color:#4eb24e;">明石：</span><br>
 あ…端末の動きが止まったにゃ……<br>
-<span style="color:#a9f548;">マリー・ローズ：</span><br>
+<span style="color:#4eb24e;">マリー・ローズ：</span><br>
 えーと、つまり…マリーたち、いつでもここに来てもいいってことですか？<br>
-<span style="color:#a9f548;">ほのか：</span><br>
+<span style="color:#4eb24e;">ほのか：</span><br>
 うん！永遠のお別れじゃなくてよかったね…！<br>
-<span style="color:#a9f548;">かすみ：</span><br>
+<span style="color:#4eb24e;">かすみ：</span><br>
 ふふっ、また重桜の皆さんともお話ができますね<br>
-<span style="color:#a9f548;">モニカ：</span><br>
+<span style="color:#4eb24e;">モニカ：</span><br>
 わたしも、まだまだ皆さんとたくさん「真剣勝負」したいです♪<br>
-<span style="color:#a9f548;">みさき：</span><br>
+<span style="color:#4eb24e;">みさき：</span><br>
 よかったね！お姉ちゃん！<br>
-<span style="color:#a9f548;">なぎさ：</span><br>
+<span style="color:#4eb24e;">なぎさ：</span><br>
 わ、わたしはべつに…！でもまあ、みさきが喜ぶなら、ふふっ<br>
-<span style="color:#a9f548;">女天狗：</span><br>
+<span style="color:#4eb24e;">女天狗：</span><br>
 ふふふ、この縁はまだ暫く続きそうじゃのう<br>
 <br>
 新たな仲間たちとのバカンスは、もう暫く続きそうだ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=観測の一方|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 ふふ、とりあえずデータがとれたわね<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 でもさあ…こんな「お遊び」からほんとに使えるデータってとれるの？<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 「異なるもの」との接触は、何かしらの「変化」をもたらす。もしかしたら、おもしろい「結果」が見えるかもしれないじゃない…<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 あ～あ、つまんない。出撃もしないで、ただデータを待ってるとかほんとつまんない<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ……<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 しかし、ビーチバレーってのは…そんなに面白いのか？<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 試してみるか？<br>
-<span style="color:#ff5c5c;">ピュリファイアー：</span><br>
+<span style="color:#ec5d53;">ピュリファイアー：</span><br>
 ……やっぱりいいや<br>
 {{折叠面板|内容结束}}
 

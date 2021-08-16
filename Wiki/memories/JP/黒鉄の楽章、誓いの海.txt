@@ -58,9 +58,9 @@
 {{折叠面板|标题=尾行|选项=3|主框=1|样式=primary|展开=否}}
 <span style="color:#ffde38;">プリンツ・オイゲン：</span><br>
 あら、ネズミが尾行してきてるのね<br>
-<span style="color:#a9f548;">ノーフォーク：</span><br>
+<span style="color:#4eb24e;">ノーフォーク：</span><br>
 み、見つかっちゃいました！？<br>
-<span style="color:#a9f548;">サフォーク：</span><br>
+<span style="color:#4eb24e;">サフォーク：</span><br>
 あわわわ、早く打電を！<br>
 <span style="color:#ffde38;">プリンツ・オイゲン：</span><br>
 ビスマルク、ちょっとあの子と遊んできてもいい？<br>
@@ -117,11 +117,11 @@
 「力への渇望」<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 ……あなたたち――「セイレーン」を信じる理由はないわ<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 フフフ♪まあ、大人しく私の話を聞きなさいな。鉄血艦隊の指導者さん？<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 くっ……！<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 このままいけば、鉄血はこの世界でも消されるわよ？<br>
 あなた方の「相手」は…そう、あなた方が守る人を傷つけ、富を貪り、あなたの生命線たるその青き航路をも我が物にする<br>
 屈辱的な敗北とはこういうものかしら？<br>
@@ -131,20 +131,20 @@
 ほざくな！<br>
 鉄血の存在は、そんなちっぽけな敗北一つ二つ程度で消えてなくなるものか！<br>
 戦友と共に勝利を掴み、人類の敵であるあなたたちをもう一度駆逐するまでよ！<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 フフフ…そういえば人間の残した言葉にこういうものがあるな……<br>
 「ヒトは木と同じく、高みへ明るみへと上へ伸びていこうとするほど、その根は強く向かっていく。地へ、下へ、深みへ、――悪のなかへ」<br>
 そうね。あなたは光に憧れないのかしら？<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 セイレーンと交わす言葉はあるまい……！Feuer！<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 この程度の力では、あなたの願いは到底叶いそうにないわ<br>
 よく考えてご覧なさい？私たちがあなたたちに求めているものは一体何なのかしら？<br>
 その貧弱な技術力？無いに等しい財産？それとも既に手中に収めているこの「海」？<br>
 あなたたちは――何も、持っていないわよ<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 …………<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 ロイヤルネイビーの艦隊の力だけでもあなたたちの数倍、その気になれば鉄血の航路をいつでも封鎖可能……<br>
 生存を脅かす敵はセイレーンではなく、ロイヤルだと、あなたならこの大局をわかっているはずだわ<br>
 こう見えても、自由だの正義だのを抜かす偽善者たちと違って、私はあなたのことを買ってるつもりよ？<br>
@@ -155,11 +155,11 @@
 …………私はずっと震えていた<br>
 あまりにも大きすぎる力の差――協議どころか、話し合いにすらなかった。私は「あの力」を受け入れるしかなかった<br>
 私の「名前」……あの御方なら、一体どんな選択をするのかしら……<br>
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 ふっふん、目標のビスマルクを発見よ！航空攻撃、やってもいいかしら？<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 良かろう。許可する。空母の力、大いに見せつけるのだ<br>
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 了解！航空母艦ヴィクトリアス、攻撃隊発進！――女王陛下に栄光を！<br>
 {{折叠面板|内容结束}}
 
@@ -173,17 +173,17 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=戦局|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 ビスマルクに命中弾確認！…って、速力全然落としていないじゃない！<br>
 攻撃隊を回収したのち、第二波を用意するわ！見てなさい！<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ははは！よくやった、ヴィクトリアス！<br>
 （……しかし、あの損傷で連戦してなお速力を維持できているとは、恐ろしい戦闘力だ）<br>
 （このままヴィシアの海域に逃げられたら少しまずい）<br>
 （どんな手を使っても、あのスピードを落とさなければ…！）<br>
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 あんたのところのH部隊、そろそろ到着するわ！あと30分で接敵よ！<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ふむ、ロイヤルネイビーの主力艦が総出したってことか<br>
 王家の栄光にかけて――ビスマルクを捕捉し、撃破する！<br>
 {{折叠面板|内容结束}}
@@ -312,17 +312,17 @@ U-556は艤装に乗り、U-557たちと一緒に母港から出発した。<br>
 ビスマルクのアネキがもし傷ついたら<br>
 いつでもどこでも駆けつけ、引っ張ってでも母港にお連れ帰ります<br>
 ――海のパーシヴァルこと、U-556より<br>
-<span style="color:#a9f548;">レナウン：</span><br>
+<span style="color:#4eb24e;">レナウン：</span><br>
 ロイヤルネイビーH部隊所属――巡洋戦艦レナウン、貴艦の要撃の命により参りました！無駄な抵抗をやめてください！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 くっ…！新手か…！<br>
-<span style="color:#a9f548;">レナウン：</span><br>
+<span style="color:#4eb24e;">レナウン：</span><br>
 王家のすべての主力艦がここに集結してきています！逃しませんっ！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 ……どうやら一つ見落としていることがあるようだな<br>
 砲撃戦では遅れを取るだろうが、今の状況ならこちらが有利！<br>
 悪いが、翻弄させてもらう！全速前進！<br>
-<span style="color:#a9f548;">アーク・ロイヤル：</span><br>
+<span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 思った通り抵抗してきたな！<br>
 キングジョージ5世の言った通りだ、まずはその速力を鈍らせる！<br>
 ソードフィッシュ隊、発進！ビスマルクを取っ捕まえるぞ！<br>
@@ -331,17 +331,17 @@ U-556は艤装に乗り、U-557たちと一緒に母港から出発した。<br>
 {{折叠面板|标题=決意|选项=9|主框=1|样式=primary|展开=否}}
 <span style="color:#ffde38;">ビスマルク：</span><br>
 そろそろ終わりにさせてもらう！<br>
-<span style="color:#a9f548;">アーク・ロイヤル：</span><br>
+<span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 逃すか！818中隊、狙え！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 くっ…死角から……！？<br>
 回避が……間に合わない……！<br>
 スクリュー損傷……違う、艤装に食い込んだ？<br>
 複葉機と侮ったせいね……不覚……<br>
-<span style="color:#a9f548;">アーク・ロイヤル：</span><br>
+<span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 周辺のロイヤル艦隊に告ぐ。敵艦ビスマルクは航行能力を失いつつある！繰り返す、ビスマルクは航行能力を失いつつある！<br>
 今から位置を打電する！すぐに増援を！<br>
-<span style="color:#a9f548;">レナウン：</span><br>
+<span style="color:#4eb24e;">レナウン：</span><br>
 ビスマルク、アーク・ロイヤルの言う通り貴艦の航行能力は致命的な損傷を受けています。無駄な抵抗はやめてください！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 …………<br>
@@ -381,14 +381,14 @@ U-556は艤装に乗り、U-557たちと一緒に母港から出発した。<br>
 {{折叠面板|标题=白熱|选项=11|主框=1|样式=primary|展开=否}}
 <br>
 ————<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ビスマルク、これで最後だ<br>
 抵抗をやめたまえ。陛下の名のもとに、あなたをロイヤルに連行し、アズールレーンを裏切った審判を受けてもらうぞ――<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 あなたたちアズールレーンに私を裁く権利などないわ<br>
 それよりキングジョージ5世、あなたは本当は私と戦艦としての戦いをしたいのではなくて？フッドを傷つけたかどうかは関係なく<br>
 ……優雅だの栄光だの、くだらない理想と信条のために自分の願望を抑え込むその偽善こそ、私が軽蔑する理由よ<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ははは、さすがは鉄血のリーダー、よく言い当てたな<br>
 だが一つ訂正させてもらおう。優雅と栄光は我がロイヤルネイビーの伝統にして誇り、あなたの言うような心に抑え込むための存在などではない<br>
 まあ、そのへんは陛下に会うときに気が済むまで語らせてもらうとして……<br>
@@ -397,7 +397,7 @@ U-556は艤装に乗り、U-557たちと一緒に母港から出発した。<br>
 Feuer！<br>
 <br>
 ————<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 至近弾か！？ふん、初撃からやってくれる…！<br>
 ならば望み通り――<br>
 全艦隊、砲撃用意！ロイヤルネイビーの栄光のために撃ちまくれ！<br>
@@ -406,7 +406,7 @@ Feuer！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=援軍|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 大したタフさだ…よもや私の14インチ砲すらことごとく弾いてくれるとは…！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 旧式の装甲でもこの距離では防御性能が上回るわよ！乱戦に持ち込めばいくら相手が多くても――<br>
@@ -415,7 +415,7 @@ Feuer！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 右舷より砲撃！？<br>
 この火力……まさか……<br>
-<span style="color:#a9f548;">ロドニー：</span><br>
+<span style="color:#4eb24e;">ロドニー：</span><br>
 戦艦ロドニー、これより援護します！<br>
 さあ、ビッグセブンの火力を味わってもらいますよ！<br>
 主砲、ビスマルクに火力全開！<br>
@@ -445,18 +445,18 @@ Feuer！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 くっ…！ドーラが！？<br>
 ここが限界になるのか……！？<br>
-<span style="color:#a9f548;">ロドニー：</span><br>
+<span style="color:#4eb24e;">ロドニー：</span><br>
 艦橋に照準、全砲門――<br>
 <br>
 ————<br>
-<span style="color:#a9f548;">ロドニー：</span><br>
+<span style="color:#4eb24e;">ロドニー：</span><br>
 きゃっ！？視界外からの砲撃！？<br>
 違っ…これは…まさか、そんな！？<br>
 ジョージ、全艦に後退命令を出してください！セイレーンよ！<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 そこまでよ、ロイヤル<br>
 このままサンプルを壊してくれたら迷惑だわ。下がってなさい<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 セイレーン！？こんなときに…！<br>
 全艦隊、一旦後退して陣形を立て直せ！<br>
 {{折叠面板|内容结束}}
@@ -466,11 +466,11 @@ Feuer！<br>
 第五楽章
 
 「知識の結晶」<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ビスマルク、こんなにボロボロになって…「あの力」を使うつもりになったのかしら？<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 手を出すんじゃないわ。これは私たちの問題よ<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 オブザーバーが教えたはずよ。あなたがその気になれば、これしきの敵など片手間で蹂躙できる<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 フッドと戦ってわかったわ<br>
@@ -479,14 +479,14 @@ Feuer！<br>
 廃墟、残骸、煙、炎、悲鳴、赤い血、殺戮に満ちた黒い海――<br>
 あの「キューブ」が見せてくれたおぞましい光景の連続こそ、「あの力」の源よ<br>
 このままでは、私は私ではなく、あなた達の望む兵器になってしまう<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ……<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 オイゲンに先に行かせたのは、ここから何が起こるかわからなかったから<br>
 でも今ははっきりわかるわ。私は、ここですべてを終わらせる……！<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ターミナルに状況報告：テスト結果No.151、ネガティブ、特異点に該当せず、次の命令を<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 了解。回収プロトコルの執行を許可するわ<br>
 <br>
 ―――――！<br>
@@ -494,81 +494,81 @@ Feuer！<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 私は鉄血艦隊のビスマルク――<br>
 鉄血の仲間のために、私たちの敵をすべて倒す！<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ……<br>
 No.151、テスト結果を修正。覚醒の観測を開始して<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 変化を確認。覚醒フローの続行をお願い<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 プロトコルに準じて、エリア内の目標を排除。覚醒対象の独立性を確保する――<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ロドニー、損傷報告を！<br>
-<span style="color:#a9f548;">ロドニー：</span><br>
+<span style="color:#4eb24e;">ロドニー：</span><br>
 ダメージコントロールが効いてます！A砲塔が無力化しましたけど、まだ戦えます！<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 良し！セイレーンも鉄血も、逃すんでないぞ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=覚醒|选项=15|主框=1|样式=primary|展开=否}}
 <br>
 ————<br>
-<span style="color:#a9f548;">レナウン：</span><br>
+<span style="color:#4eb24e;">レナウン：</span><br>
 巡洋戦艦レナウン、戦闘に参加します！撃て！<br>
-<span style="color:#a9f548;">アーク・ロイヤル：</span><br>
+<span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 航空母艦アーク・ロイヤル、参るぞ！<br>
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 同じく、航空母艦ヴィクトリアス！<br>
-<span style="color:#a9f548;">空母たち：</span><br>
+<span style="color:#4eb24e;">空母たち：</span><br>
 ソードフィッシュ隊、発進！<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 制空権は任せた！私はロドニーとやつの守りを貫くことに集中する！敵を一隻たりとも逃がすな！<br>
 <br>
 ————<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ふん、この戦い方、全然優雅じゃないのね！<br>
 戦術でも何でもなく、ただのゴリ押しじゃない……！<br>
 <br>
 ————<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 （……テストのデータは変よ）<br>
 （オブザーバーのセンサーほどではないけど、こっちでも熱量の観測値が狂っている）<br>
 （ビスマルクに渡した「キューブ」の影響か……？）<br>
 ターミナル、観測データの提供を――<br>
 <br>
 ————<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 キューブの活性化テストを行うよう申請する――<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 ■■■■■■■■■■■■■■――<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 （通信が………遮断されている……？）<br>
 …………<br>
 （まあ、いい機会だし…「キューブ」に関するテストデータをもっと集められるね）<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 セイレーンの動きが鈍くなった！全力で攻撃せよ！<br>
 <br>
 ————<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 （エネルギーレベル、なおも上昇…ふふふ、その怒りと火力をもっとぶつけるがいい……）<br>
 <br>
 ————<br>
 激しい轟音。<br>
 セイレーン、そしてビスマルクを襲ってくる砲火は無数の水しぶきを上げて、そして――<br>
 まるで炎に触れたかのように、水しぶきが一瞬で蒸発し、戦場は霧に包まれた。<br>
-<span style="color:#a9f548;">アーク・ロイヤル：</span><br>
+<span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 この霧……艦載機の視野も観測装置のデータも何も見えないぞ！<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ……<br>
 人間の歴史とは技術による進化の歴史……<br>
 進化のためなら、どんな犠牲も厭わない――<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ……まさか…<br>
 緊急回避！！<br>
 ————————————————<br>
 <br>
 高熱をこもった白き光が、戦場を覆う霧を切り裂いた。<br>
 光を放ったのが「彼女」とは――<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ビスマルク……！<br>
 全艦、戦闘配置！<br>
 {{折叠面板|内容结束}}
@@ -580,20 +580,20 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 「再生」<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 はあああああ！！<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 くっ！装甲が…！<br>
 気をつけろ！ただの砲撃ではない！<br>
 （戦艦クラスの装甲でも、一撃で……！？）<br>
-<span style="color:#ff5c5c;">ビスマルク：</span><br>
+<span style="color:#ec5d53;">ビスマルク：</span><br>
 ……<br>
 <br>
 そこに立っているのは確かに「彼女」――ビスマルクだ。<br>
 その艤装にはうっすらと赤い光をまとっている。<br>
 一方、セイレーンのテスターはどこかに消えていった。<br>
-<span style="color:#ff5c5c;">ビスマルク：</span><br>
+<span style="color:#ec5d53;">ビスマルク：</span><br>
 「カミハ私の願イ、叶えてくレル……」<br>
 「だが、カミナドイナイ……ワタシガ、カミ二ナラナイカギリ…！」<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 これは……セイレーンの力に飲み込まれたのか…！<br>
 ……ビスマルク、陣営こそ違えど、あなたのことは尊敬している<br>
 戦艦としての性能ではなく、鉄血艦隊を率いるカリスマでも、セイレーンの技術をいち早く取り入れるその決断力でもない。<br>
@@ -603,39 +603,39 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=決戦|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ようやくここまで近づかせてくれたな。ビスマルク<br>
 フッドを傷つけた時はセイレーンの力を用いたと聞いた<br>
 それが今の力とはどういう関係かわからないが……どっちにしても変わらない<br>
-<span style="color:#ff5c5c;">ビスマルク：</span><br>
+<span style="color:#ec5d53;">ビスマルク：</span><br>
 「…………」<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ロイヤルの栄光を賭けてあなたを打倒してみせよう！<br>
-<span style="color:#ff5c5c;">ビスマルク：</span><br>
+<span style="color:#ec5d53;">ビスマルク：</span><br>
 「ロイヤルノ……エイコウ……」<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 全艦、火力全開！<br>
 <br>
 ————<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=終局|选项=18|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">ビスマルク：</span><br>
+<span style="color:#ec5d53;">ビスマルク：</span><br>
 はあ……はあ……はああああああ！！<br>
 <br>
 ————<br>
 制御を失った力の奔流が近くのセイレーンの量産型をブラックホールのように吸い込み、その姿を跡形もなく消し去っていく<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 セイレーンの艦船が…吸い込まれている…！？<br>
-<span style="color:#a9f548;">ロドニー：</span><br>
+<span style="color:#4eb24e;">ロドニー：</span><br>
 セイレーンの力が暴走しています！<br>
-<span style="color:#a9f548;">アーク・ロイヤル：</span><br>
+<span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 それだけじゃない！ビスマルクがこちらを狙っている！今の状態で直撃を受けたら……<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 くっ……！<br>
 <br>
 ——<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ………………<br>
 ………<br>
 なにも、起きなかった…？<br>
@@ -645,13 +645,13 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 はあ…はあ……はあ…………<br>
 これが……限界、か<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 自分で接続を切ったとは……キューブとの融合がやっぱり十分ではなかったか<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 ふふ、悔しいわ……「あの力」を使わないよう必死に抑えていても<br>
 結局、一瞬の心の弱みをつかれて……<br>
 あの力に飲み込まれかけていたのね………<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 ……<br>
 報告：No.151、キューブの活性化の影響を単独で脱したことから、特異点となる素質が高レベルと推定。全体的なデータは目標値に未達…<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
@@ -665,10 +665,10 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 <br>
 ロイヤル艦隊のいる方向に向けて、ビスマルクの最後の主砲が鳴り響く。<br>
 測距装置も照準装置もほぼ完全に破壊されたためか、砲弾はロイヤルの艦船から大きくハズレた。<br>
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 照準もままならないのに、反撃してくるなんて……<br>
 一体どうしてそこまで……<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ビスマルク……やはりこの結末を選んだのか<br>
 潔いとはこういうものだ。敬意を込めて最後の攻撃をくれてやろう<br>
 全艦、ビスマルクに火力を集中せよ！<br>
@@ -680,15 +680,15 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 （大洋をも制する……）<br>
 （最強の海軍、は……）<br>
 待ちなさい！<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 まだ何か聞きたいことがあるの？ビスマルク<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 あくまで可能性の話よ。あなたたちが観測…いや、演算できる「未来」の中で、もしや…………<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 ないわよ、そんなの<br>
 <span style="color:#ffde38;">ビスマルク：</span><br>
 ………………っ！<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 人類史というデータはとてつもなく膨大なの。貴女の存在などその中のごくわずかな一欠片に過ぎないわ<br>
 そんなのわざわざリソースを消費してまで演算するものでもないし、そもそもあなたがそれを知ったところで何も変わらないわ<br>
 戦うために生まれたあなたは、戦いの中で沈むの<br>
@@ -698,7 +698,7 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 私が知りたいのは私自身ではなく、鉄血の「未来」よ<br>
 この世界の鉄血の人間たち、私の仲間たち……そしてティルピッツ<br>
 彼女たちの「未来」は変えられるのだろうか<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 ……………<br>
 面白いサンプルね。あなた。私の予測の優先順位で一番低い回答をしてくれるなんて<br>
 そうね。もし方法があると言ったら、大いなる責任を背負っているあなたは何をするの？鉄血艦隊の指導者さん？<br>
@@ -706,7 +706,7 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 ……あらゆる手を使うまでよ<br>
 戦艦ビスマルクであると同時に、私は仲間たちを、「鉄血」を守る存在<br>
 役目を果たすためなら、なんだってしてやるわ<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 ふふふ……気が変わったわ。あなた、もしかしたら「本当に」運命を変えられるかもしれないのね<br>
 いいわ。私たちの力を使って、この世界を変えてみなさいな<br>
 あなたが「ビスマルク」という存在をもし超克することが出来たら、その方法が自ずと見えてくるはずよ<br>
@@ -720,24 +720,24 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 <br>
 もしかしたら私、少し疲れたのかしら……<br>
 （ティルピッツ……会いたいわ……）<br>
-<span style="color:#a9f548;">ロドニー：</span><br>
+<span style="color:#4eb24e;">ロドニー：</span><br>
 これで…終わり、ですよね……<br>
-<span style="color:#a9f548;">ヴィクトリアス：</span><br>
+<span style="color:#4eb24e;">ヴィクトリアス：</span><br>
 ふぅ…………<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 うむ、セイレーンもこの海域から消えたし、私たちの勝利で間違いない<br>
-<span style="color:#a9f548;">レナウン：</span><br>
+<span style="color:#4eb24e;">レナウン：</span><br>
 鉄血、そしてセイレーン…手応えのある勝利ですね<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 ……<br>
 （あの最後の砲撃は、セイレーンの力によるものではなく、ビスマルク自身の砲撃だったな）<br>
 （……あなたの覚悟、よくぞ見せてくれた）<br>
 ――諸君、今日はよく戦ってくれた。将来数倍の敵に囲まれようが、今日の戦いを思い出してほしい<br>
 そして、我がロイヤルネイビーの栄光と伝統を貫いてほしい<br>
 陛下に栄光を――<br>
-<span style="color:#a9f548;">みんな：</span><br>
+<span style="color:#4eb24e;">みんな：</span><br>
 陛下に栄光を――<br>
-<span style="color:#a9f548;">キング・ジョージ5世：</span><br>
+<span style="color:#4eb24e;">キング・ジョージ5世：</span><br>
 （願わくば、ビスマルク、あなたともう一度手合わせできれば…）<br>
 {{折叠面板|内容结束}}
 
@@ -764,54 +764,54 @@ No.151、テスト結果を修正。覚醒の観測を開始して<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=いつの日か|选项=20|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 そこのあなた、母港の海域でイタズラをしないことよ。所属を言いなさい<br>
-<span style="color:#ff5c5c;">U-556：</span><br>
+<span style="color:#ec5d53;">U-556：</span><br>
 ふ、ふふふふ……柏葉勲章受章者、海のパーシヴァルことU-556とはあたしのこと！<br>
 ティルピッツのアネキ、おはようございまーす！<br>
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 あ…アネキ……？だれがそんなことを…<br>
 これ以上勝手に騒いだら人を呼ぶわよ<br>
-<span style="color:#ff5c5c;">U-556：</span><br>
+<span style="color:#ec5d53;">U-556：</span><br>
 ふふん、U-556はそう簡単に捕まらないですよ！<br>
 あ、せっかくですから、ティルピッツのアネキ、これを真似してみてー<br>
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 ……？<br>
 <br>
 艤装で一瞬だけ身体を浮かし、U-556はどぼーん、とバク転して海に突っ込んだ。<br>
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 …………ちょっと！！<br>
 <br>
 ティルピッツは拡声器を片手にU-556に注意し続けた。<br>
-<span style="color:#ff5c5c;">U-556：</span><br>
+<span style="color:#ec5d53;">U-556：</span><br>
 ティルピッツさん、冷たい人って聞いたのに、あんな顔もするんだ……<br>
 やっぱりビスマルクのアネキと似ているね！<br>
 さぁて、今日も海のパーシヴァルことU-556、任務を頑張っちゃうぞー！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=鏡面海域|选项=21|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 キューブで収集した情報の解読は失敗したのかしら<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 残念だけどそうね。それ以外にも色々と面白いデータを集めたが<br>
 にしても、なぜビスマルクをテストの対象にした？彼女以外にも、あなたにとって「王手」になれる子は一杯いるのに<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 鉄血の敗北は、最初から決まっているわよ。ビスマルクが何をしようと、これだけはこの世界の避けられない確定事項……<br>
 私が調べたいのは、彼女の「因子」――「覚醒」の条件パターンが、私たちの「未来」に役に立つかどうか、よ<br>
 彼女自身の運命はまあ…あら、たしか人間にはこんな物語があるの<br>
 「神の声が聞こえる踊り子は、神の奏でる曲で踊るけど…」<br>
 「神の声が聞こえない人間からすれば、彼女は狂人以外何者でもないの」<br>
 彼女とよく似合う悲劇の物語ね。ふふふふ<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 今の例え方、この時代の人間に似ているのね<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 旧文明の文献の解析時に少しインスパイアされただけよ<br>
 文明の芸術遺産の保存も、私たちに任されたタスクのひとつなのではなくて？<br>
-<span style="color:#ff5c5c;">テスター：</span><br>
+<span style="color:#ec5d53;">テスター：</span><br>
 …………<br>
 そんなことより、あなたが注文した鏡面海域が完成したけど<br>
 テストの内容はどんなものにするつもり？<br>
-<span style="color:#ff5c5c;">オブザーバー：</span><br>
+<span style="color:#ec5d53;">オブザーバー：</span><br>
 あなたの集めたデータのおかげで、この世界の鉄血陣営の「素体」がほぼ完成したわ<br>
 鏡面海域に映し出される者――「鏡映されし異色」は、どんな結果を映し出してくれるのかしら？ふふふ……<br>
 {{折叠面板|内容结束}}

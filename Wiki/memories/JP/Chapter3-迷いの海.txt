@@ -3,454 +3,454 @@
 {{折叠面板|标题=別働隊|选项=1|主框=1|样式=primary|展开=否}}
 <br>
 NA海域・ユニオン担当エリア<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 エセックス、指揮官が率いる本隊はもう出発したわよ。私たちも作戦内容のブリーフィングをやりましょ？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 ええ、皆よく聞いて。今回のセイレーン作戦はNA海域に出現するセイレーンの脅威を一挙に排除する「掃討戦」で、<br>
 そして私たちの任務はNA海域の北西――ここのエリアを確保し、前哨基地の設立を行ってセイレーン中枢への足掛かりを作ることよ<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 今回はユニオンも戦力をガッツリ用意したからね！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 うん！その上みんなやる気も十分よ。なので港周辺エリアの確保は簡単だと思う<br>
 けどその先は油断ならないわね。NA海域の中心に近づけば近づくほど、敵の反撃もきっと激しくなるわ<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 でも、もう一つ心配があるの<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 指揮官たちが遭遇した「鉄血」艦隊のこと？<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 ええ、ティルピッツたちとは思えないけど、タイミングがあまりにもあからさますぎるわ。セイレーンの「駒」であるかどうか確認する前に消えたし<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 そもそも鉄血艦隊がユニオンの担当区域にいること自体ちょっとよくわからないわね<br>
 セイレーン作戦のためなら連絡してくれればこちらだって色々できるのに…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 きっとそんなに簡単なことじゃないわ。フリードリヒとビスマルクのことだし<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 そんなところかしらね。とは言ってもトラブルが起きた以上、こちらも調査しないといけないわ<br>
 …こうして作戦中にエリアを確保しながら、ね<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 もちろんよ。私たちは私たちで確かめてみるわ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=システムチェック|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 サラトガから通信要請を受けました<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 この声…TBちゃん！？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 サラトガから通信要請を受けました<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 わわ、いけない。早く受信許可…っと<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 もしもし～？あ、つながった！TBちゃん、指揮官、ありがとう！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 長距離連絡をサポートしてくれてるって本当なんだ…こちらエセックス、強化通信機能、正常に稼働しています<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 一瞬TBちゃんがそばにいるの？って思った…<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 そこは指揮官が便宜を図って長距離通信と通常通信の違いをわかりやすくしたって形で！<br>
 指揮官はちょっと別のエリアにいるけど、これでTBちゃん経由でこちらの状況を把握できるわね！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 それともう一つ、セイレーンのジャミングへの防御機能…これも上手く機能するといいですね<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 そこは実際にセイレーンからジャミングを受けてみないとわからないわよ。そっちのエリア確保の状況はどう？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 予定通りとはいえ、エンタープライズ先輩より遅く出発している分、まだ狭いですね<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 じゃあ引き続き頑張って！サラトガちゃんも通信と後方担当を頑張るよ！<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 ……これでいざという時は指揮官とも通信できますね。さすが本部のメカニズム、というべきかしら<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 先輩と指揮官に負担をかけないようにしなくちゃ…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=鉄血の動向|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 セイレーンの反撃、ここまで弱いとかえって不安になるわね…<br>
 昔運河要塞で出会った強いやつらどころか、人型セイレーンすらあまり見かけないなんて<br>
 本当に中枢海域まで後退したんだ…<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 海域にたまに出てくるはぐれセイレーン以外、ここまで弱い敵は初めてかもしれませんね<br>
 攻撃が散発で、艦隊運動も規律があるようには見えません…数が多いこと以外脅威になりませんね<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 そういえば、数自体そこまで極端に減ったわけではないのに、確かに戦いやすくなっているね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 指揮ユニットが引き抜かれたってこと？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 前情報通りってことよ。もしくは指揮ユニットどころかまともな戦力は全部NA海域中心部に引き上げてたりして<br>
 （あとあと中枢部に行った時はとんでもない抵抗を受けそうね……）<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 鉄血艦隊のほうも、エンタープライズたちの一件以来とくに目撃情報はないわ<br>
 上層部の交渉がサディアの海域に行われていることから、もしかするとそこにいるのかもしれないわね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 鉄血艦隊がセイレーン作戦には実は参加していないってこと？<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 正確に言うと、「まだ」、ですね<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 指揮官のほうから何か聞かれました？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 リクエスト、失敗しました。そのような会話ログは存在しません<br>
 上層部のデータベースにアクセスしたい場合は、指揮官を通して閲覧申請できます。許可をお願いします<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 別にそういうつもりはないよっ。今はセイレーン作戦に集中しないと<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ごめんねTBちゃん。今度指揮官に直接聞くから<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 了解しました。よろしくお願いします<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=味方の痕跡？|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 分析中です。アーク・ロイヤルと思われる味方のシグナルを検出しました<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 アーク・ロイヤル？ロイヤルの艦船がなぜここに？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 迷い込んだにしても遠すぎるわね…もしかしてセイレーンの転送装置で転送されてきた！？ほかの艦もいる？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダーを受領しました。スキャンを開始します――アーク・ロイヤル以外のシグナルはありません<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 おかしい…みんな、周りを警戒しながら接近して！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=ジャミング|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 広域スキャン結果を分析中です。<br>
 主機との接続が切断されました。…システム、再起動しました<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 TB、大丈夫！？主機って……<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 セイレーンによるジャミングを感知。指揮官の艦隊ではなく、こちらに向けて攻撃が行われています<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 セイレーンによるジャミング攻撃…！やっぱり来たわね<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 本部のジャミング対策がどこまで通用するのか、ここでテストできそうですね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ……！<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 （「TBがセイレーンのジャミングを受けた」ということはつまり、TBが私たちの味方だと証明してくれましたね）<br>
 （上層部からセイレーン作戦の情報と同時に指揮官のところに送られてきたこの子、確かに最初は疑っていました…）<br>
 （しかし、なぜ上層部は急にこの子を指揮官に？それに、なぜ上層部にこんなすごい技術があるのかもわかりませんね）<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 エセックス、ジャミングの発生源の調査とアーク・ロイヤルの救援、どちらからやるの？<br>
 もしセイレーンによって単身転送されてきたとしたら、アーク・ロイヤルが危険だよ？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 ……味方の救援が先！クリーブランドたちに先行させて、本隊はすぐ追い付くわ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=救援|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 クリーブランド、こっちにもセイレーンの残骸があるよ！<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 どうやら私達が来るまでもなかったようね…<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 姉貴、セイレーンだけでなくこの島にある施設も一緒に破壊されています<br>
 とてもアーク・ロイヤル一人で破壊できるものじゃありませんっ<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 そうだよね…レーダーに反応が何もないのに<br>
 もうちょっと調べよう！みんな、気をつけて！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=疑惑|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 これは…！セイレーンの装置が破壊されている！<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 しかもまだ燃えている…！やっぱりこのエリアのセイレーンは全滅したばかりだ…！<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 ここは何のための施設だろう…？<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 わからない。セイレーンのやることはぼくたちには理解不能だ<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 聞いても答えてくれなさそうだよね…むむむ<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 みんな！これを見て！セイレーンの残骸から回収したものだ！<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 黒い…結晶体…？<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 セイレーンの残骸でも見たことがない！もしかしてアーク・ロイヤルさんが持ってたものだったり？<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 どうしてこんなものを持ってるんだ？<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 姉貴、もしかしてアーク・ロイヤルがこれを持っていたからセイレーンに狙われた…とか？<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 違うと思う。それにしても…ここのセイレーンもさっきまで出会った旧式のものばかりだね<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 ……姉貴！レーダーに反応――新手のセイレーン艦隊です！<br>
 早く戦闘準備を……ん？<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 し、至近距離からいきなり大量に出てきてる！…あれ？<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 目視できる距離なのに、一隻も見えない？<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 海にも変化ないね。どうしてレーダーにこんなに反応が出てるんだ？<br>
 レーダーの表示通りなら、周りは完全に包囲されているはずなのに…<br>
-<span style="color:#a9f548;">クーパー：</span><br>
+<span style="color:#4eb24e;">クーパー：</span><br>
 セイレーン反応が動いた！って、これ艦艇の動きじゃないよね…？？<br>
 も、もしかして幽霊！？ぼくたちの兵装って幽霊にも効くの？？<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 もしくはジャミングか、兵装の故障だ<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 さっきTBがセイレーンのジャミング攻撃って言ってなかったっけ？<br>
 これはそもそもアーク・ロイヤル自体がここに来ていないってことか～<br>
-<span style="color:#a9f548;">モントピリア：</span><br>
+<span style="color:#4eb24e;">モントピリア：</span><br>
 本部からすごい技術が開発されたと思ったのに、セイレーンはやはり上回っているのですね<br>
 対ジャミング防御、あまり信頼しすぎるのはよくないと思います<br>
 （セイレーンの防御が手薄になっているという情報も信頼できないのなら…ううん、疑心暗鬼は良くない。ここが誰かに襲われたのは確実だ）<br>
 （しかし、このエリアの施設を襲ったのは誰だ？これほど敵を倒してきたというのに自分の痕跡を一切残していないなんて…）<br>
-<span style="color:#a9f548;">クリーブランド：</span><br>
+<span style="color:#4eb24e;">クリーブランド：</span><br>
 ここで見つけた情報を指揮官に送ろう。なんだか嫌な予感がする…<br>
 こういう場合、私達は何をすればいいかも確認しないと<br>
 みんな、早く出発するぞ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=調査任務|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 ……調査任務部隊？<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 そうよ。本部の作戦計画に載ってるわ。破壊されたセイレーン実験場の異常気象情報を調査するって<br>
 この指示にそのまま従うなら、クリーブランドたちは引き続きその調査を担当したほうが良さそうね<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 Nonsense！セイレーン作戦は総力戦、兵力を分けるのは良くないと思うよ！<br>
 クリーブランドたちがそこに留まり続ければ、本隊の作戦計画も影響を受けてしまうわ！<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 それに、あのアーク・ロイヤルのシグナルとセイレーン施設の廃墟がこちらを誘い出す罠だったとしたら、クリーブランド達の状況は非常に危険ですわ<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 ええ、私もこの作戦指令、そのまま守るべきではないと思うの。…エセックス、どうする？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 私は……調査すべきだと思う<br>
 確かに罠かもしれないけど、セイレーン作戦を遂行するためにも相手のことをもっと知っておかないと。ただ…<br>
 クリーブランドたちだけにはしない！後で私達も合流しに行く！<br>
 エンタープライズ先輩…そして指揮官もきっと同じことをすると思う！<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 システム再起動中です。ジャミングの停止を確認しました。広域探知結果に異常ありません<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 TBも完全復活したようだし、私たちも引き続きエリアを確保していこう！クリーブランドたちをいつでも支援できるようにね！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=残影|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 敵個体多数を確認しました。お気をつけください<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 Really!?私が出した偵察機には何も見えてないよ？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 情報処理プログラムを修正する必要があります。必要時間を計算中です。<br>
 ………計算完了です。プログラム修正完了まで、同タイプの反応を「セイレーンによるジャミング」と定義します<br>
 システム、ジャミングを探知しました。対ジャミングアプリケーションの更新・最起動を行います<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 これがクリーブランドたちがさっき報告してきた「ゴーストシグナル」？クーパーの言う通り確かに幽霊っぽいわね<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 本部に反応パターンのデータを転送中です<br>
 通信システムにエラーが発生しました。本部と通信できません<br>
 「主機」との接続が中断しました。オフラインモードに移行します<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 また来たわね…！<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 申し訳ございません<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 （セイレーンのジャミングの狙いは一体何でしょう？）<br>
 （こちらを遅滞させたいのなら、もっとスマートな方法がありますし…分割誘導するなら、さっきのセイレーン廃墟は大掛かり過ぎます）<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 エセックス、このまま敵が現れなかったらどうする？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 どうするも何もエリアを確保していくだけよ。それに敵は逃げることはあっても消えてなくなることはないし、いずれ戦場で相見えることになるわ<br>
 しかし、NA海域中心にここまで近づいても、セイレーンのジャミングによる反応以外、敵にほとんど遭遇しなかったわね<br>
 …各艦隊の体力がまだ十分あるうちに、エリアを探索してジャミング元を探しましょう<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=アビータ|选项=10|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 通信要請を受信しました。発信元は……不明、です<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 さて、黒幕のお出ましだといいわね<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 いきなり顔を見せることなく通信から…例の「オミッター」がやりそうなことだわ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 オミッター…うん、TB、通信を切っていいよ<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダー受領しました。通信要請をブロックしました。<br>
-<span style="color:#ff5c5c;">通信機：</span><br>
+<span style="color:#ec5d53;">通信機：</span><br>
 ーーー・ーー・ーーー<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 拒絶は…無駄である<br>
 このエリアのKAN-SENへ。我々はアビータ。武装解除して投降しろ。抵抗は無意味だ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 アビータ…！お前たちはセイレーンの味方か！？<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 セイレーン…？聞いたことがあるぞ、その名前。だが我々はーー「アンチエックス」と呼ばれるのがふさわしい<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 （「余燼」たちが言っていましたね。「アンチエックス」）<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 個体名は「アビータ・TemperanceⅩⅣ」。どうしても呼びたいならそう呼べ<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 （な、長い……！）TBにジャミングしているのはあなたね！<br>
-<span style="color:#ff5c5c;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
 ジャミング対策、なかなか面白いが…足りない。もう飽きたのだ<br>
 繰り返す。武装解除して投降しろ。抵抗は無意味だ<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 本体すら見せない敵の言葉を聞く必要ないわ！エセックス！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 私達は武装解除もましてや投降もしない！さあ、姿を見せなさいアビータ！<br>
 ジャミングが飽きたとか言ってたじゃない。正々堂々戦え！<br>
-<span style="color:#ff5c5c;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
 拒絶は…無駄。武力行使である<br>
 正々堂々は…不要である<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 通信が切断されました<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 「アビータ」と「アンチエックス」の情報って本部のデータベースにありますか？指揮官と私達で閲覧できるもので<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダー受領しました。オフラインモードでは、ローカルのデータベースを検索します<br>
 ローカルのデータベース、該当資料は存在しません。「主機」との接続を試行します<br>
 …ジャミング…ジャミングのため、「主機」と接続できません。オーダー、実行できません<br>
 警告です。セイレーンの反応を多数探知<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 また？飽きたとか言っておきながらまたやりだすなんて…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 違うわ。今回はちゃんと視認できてるのよ。しかもいきなり現れてきた…<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 まさか透明な迷彩でもあるの！？いやいや、いくらなんでもそれはないと思うよ<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 転送できるのは鏡面海域のみだと思ってたけど、この認識も改めなければならないようね<br>
 いや、もしかして向こうはもう鏡面海域になっているとか……<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 いずれにしてもこの敵を見逃すわけにはいかないわ。このエリアに展開しているほかの隊と連絡して、敵を対処するよ！<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 ………どうやらそれも無理なようね。アビータのジャミング、今度は通信装置狙いでと来ているわ<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 じゃあジャミングの発信源を叩くしかないようね…！<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 すみません…<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 TBのせいじゃないよ。セイレーンのことだし、今回も上回られただけ<br>
 大丈夫！セイレーンにユニオン艦隊の強さを見せてやるわ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=増援|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 セイレーンの新型……！<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 これは…オブストラクターの改造型かもしれません…！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 今までの人形セイレーンよりはだいぶ強化されている！みんな、注意して！<br>
 電子撹乱されている状態では航空攻撃の威力がかなり落ちるわね…エセックス、後退する？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 まだよ！今は急降下攻撃で精度を上げるのに集中して！戦艦隊のみんなはどこにいるの…！<br>
 <br>
 ーーーー！！！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 来た！味方の艦砲射撃だ！<br>
-<span style="color:#a9f548;">サウスダコタ：</span><br>
+<span style="color:#4eb24e;">サウスダコタ：</span><br>
 エセックス！ようやく見つけた！<br>
 ジャミングの報告が上がってからすぐに指揮官から指示を受けて駆けつけたが、こっちもセイレーンに通信機がやられていて…すまない！<br>
-<span style="color:#a9f548;">マサチューセッツ：</span><br>
+<span style="color:#4eb24e;">マサチューセッツ：</span><br>
 空母がセイレーンに近距離戦を挑む…いいね。目新しい<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 好きでこの距離で戦っているわけではないけど！<br>
-<span style="color:#a9f548;">サウスダコタ：</span><br>
+<span style="color:#4eb24e;">サウスダコタ：</span><br>
 分かっている。損傷状況は？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 艦載機と火器は問題ないけど、電子機器は完全にやられて動けないよ。本当にいいタイミングで来てくれた<br>
 相手はオブストラクターの改造型だと推定する！サウスダコタ、マサチューセッツ、アラバマ気をつけて！<br>
-<span style="color:#a9f548;">アラバマ：</span><br>
+<span style="color:#4eb24e;">アラバマ：</span><br>
 安心して。電子戦型のセイレーンは空母より戦艦のほうが戦いやすいよ<br>
-<span style="color:#a9f548;">マサチューセッツ：</span><br>
+<span style="color:#4eb24e;">マサチューセッツ：</span><br>
 ここはぼくたちが引きつけるから、空母は下がって艦載機による支援に集中して<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 わかった！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=寸分違わず|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
 1種類のエンフォーサーが足りないようね。じゃあ、追加――<br>
-<span style="color:#ff5c5c;">？？？：</span><br>
+<span style="color:#ec5d53;">？？？：</span><br>
 テンパランス、コードGの手かがりが見つかりました。遊びはここまでにしなさい<br>
-<span style="color:#ff5c5c;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
 ようやくね。エンフォーサー、トランスパレント<br>
-<span style="color:#a9f548;">サウスダコタ：</span><br>
+<span style="color:#4eb24e;">サウスダコタ：</span><br>
 消えた。これが君たちが急に襲われた理由か<br>
 なるほど、レーダーステルスに光学迷彩によるカモフラージュ、そしてなにかしら航跡を隠蔽する特殊なテクノロジー<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 道理で接近してくるまで気づかなかったわけね<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 テスターたちも光学迷彩を使っていたけど、一体の個体だけじゃなく、量産艦も含めてまとめて姿を隠すなんて……<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 ジャミングの対策が完了しました。システム、再稼働します――先程の作戦記録は指揮官に送りますか？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 もちろんよ。あと上層部にも<br>
 残念だけど、セイレーンの技術に対処するには私達だけでは無理よ<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 セイレーンの残骸、もうほとんどなくなっているわね<br>
-<span style="color:#a9f548;">マサチューセッツ：</span><br>
+<span style="color:#4eb24e;">マサチューセッツ：</span><br>
 あ、本当にもう消えちゃってる<br>
 このままでは私達がサンプルを回収することもできないまま全部消えちゃうね<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 これでは新しい敵の分析も叶いませんね…またもセイレーンにしてやられたのでしょうか<br>
-<span style="color:#a9f548;">サウスダコタ：</span><br>
+<span style="color:#4eb24e;">サウスダコタ：</span><br>
 いや、こっちもだいぶ敵を倒したから、すぐ襲ってくる可能性は低いだろう<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 油断はできないね。サウスダコタ、こちらと前哨基地建設ポイントに同行して<br>
 固定基地ならもっと強力な電子機器を装備できるはずよ。今は警戒しながら進むしかないっ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=集中攻勢|选项=13|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 ここが前哨基地を建設するエリア……NA海域の中心部にだいぶ近づいてきているね<br>
 確かに、ここに兵站基地でも建設できたら、セイレーン中枢部に進軍する際の補給もだいぶ楽になるはず<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 前哨基地はここ一箇所だけじゃないわ。中枢部を囲んで各陣営それぞれ何個も作るつもりよ<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 四方からセイレーンの本拠地を完全包囲して、全艦隊の一斉攻撃で徹底殲滅する…まさに総力戦だ…<br>
 出撃時はどんな大艦隊になるだろう<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 本来はセイレーンの後退を待つことなく大攻勢を仕掛けられるはずよ、「アズールレーン」ならね<br>
 ただ、レッドアクシズが存在する以上、指揮官のもとでなければ100％連携が取れるはずがないわ<br>
 まあ、和平条約が締結された以上、それもだいぶ改善されるわね。ほかに不安定要素があるとすれば――<br>
-<span style="color:#a9f548;">シャングリラ：</span><br>
+<span style="color:#4eb24e;">シャングリラ：</span><br>
 「余燼」ですね。指揮官の艦隊も「余燼」のメンバーらしき艦船と遭遇しました<br>
 一体彼女たちは何のために戦場をかき乱しているのでしょう……<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 本来上層部「余燼」の存在を隠すつもりだったけど、こうも至る所に出しゃばられたら<br>
 「余燼」への対策のルールが検討されるのも時間の問題ね…事務系の仕事がまた増えちゃうわ<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 あははは…そういえば、私からも一つ気になってることがあるけど<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 どうしたの？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 アビータと私達が普段戦っているセイレーンは同じ場所に出現しないのでは…って<br>
 ほら、もしアビータとセイレーンが同じ指揮系統にいるとしたら、私達が戦っているセイレーンはもっと統率されているはず<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 つまりセイレーンが指揮系統を失っている現状を、アビータは全然気にしていない、とでも言いたいのかしら？<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 そうそう、もしくは「アズールレーンの大艦隊をNA海域中心部に誘い込む」作戦なのかもしれないけど…流石にそこまではわからない<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 はぁ…今ここで考えていても無駄でしょ？敵を撃破して、前哨基地建設エリアを確保するわ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=休憩|选项=14|主框=1|样式=primary|展开=否}}
 <br>
 NA海域南西・前哨基地建設地<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 サラトガさん、この船団は前哨基地の建設部隊ね<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 そうでもあり、セイレーン作戦前線兵站支援部隊でもあるの！このサラトガちゃんがその護衛艦隊のメンバーなんだよ！<br>
 というわけで、出来たてのアイスクリームよ！<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 あわわ…ありがとうございます！<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 前哨基地が完成した暁にはこうした艦内のアイスクリーム機だけでなく、母港生活エリアレベルの美味しい食べ物を用意できるわ<br>
 それと熱々なコーヒーもいつでも飲めて……メンフィス、砂糖はいる？<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 いるけど、自分でやるわ。サラトガさんに任せたら変ないたずらされちゃいそう<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 サラトガちゃんのことを信じてくれないな～エセックスもどう？<br>
-<span style="color:#a9f548;">エセックス：</span><br>
+<span style="color:#4eb24e;">エセックス：</span><br>
 はい、一杯ください<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 そうそう、コーヒーでも飲んで今日は臨時寮舎でゆっくり休もうね！<br>
 前哨基地はセイレーン作戦が次の段階に進むときに機能が更に強化されるから、楽しみにしておくといいわ！<br>
 って、何もできてないのにいきなり言われても実感が湧かないよね……<br>
 とにかく、サラトガちゃんと指揮官を信じてってことよ！<br>
-<span style="color:#a9f548;">イントレピッド：</span><br>
+<span style="color:#4eb24e;">イントレピッド：</span><br>
 Looking forward！楽しみにしてるよ！<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 イントレピッドちゃん、素直でよろしい！セイレーンと戦うのが大変でも余裕を忘れないようにね！<br>
 次の命令が来るまで、まずは休憩して英気を養ってね！<br>
 {{折叠面板|内容结束}}

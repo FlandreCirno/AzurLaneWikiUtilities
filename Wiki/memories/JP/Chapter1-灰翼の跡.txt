@@ -1,7 +1,7 @@
 == Chapter1-灰翼の跡 ==
 {{折叠面板|开始}}
 {{折叠面板|标题=ブリーフィング|选项=1|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 接続を行っています。暗号通信、接続完了しました<br>
 はじめまして、指揮官<br>
 補助電子アイデンティティインターフェイス、ナビゲーターTBです<br>
@@ -21,54 +21,54 @@ NYシティとロイヤル王都を拠点とし、NA海域の北西から南東�
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=序章・Ⅰ|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 あ！指揮官、待ってたわよ！<br>
 <br>
 '''''<span style="color:black;">选择项1：ホーネットに挨拶する</span>'''''<br>
 '''''<span style="color:black;">选择项2：戦闘準備！</span>'''''<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''ふふん、今のコンディションは最高よ！<br>
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''セイレーンの「駒」への対策として、まずは味方艦隊との演習が予定されていた。<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''フフフフよーくも私の正体を見破ったな～…あわわ！今のは冗談だってば！<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 …コホン！今回の作戦はセイレーンの活動が活発なエリアに侵入することが予想される<br>
 もちろん鏡面海域が生み出した「駒」――つまり私たちの偽物と戦うこともあることから、出撃の前の肩慣らしに戦闘演習を行う、と…<br>
 そしてその相手はこのホーネット様が務めるわ！というわけで指揮官、戦闘準備はできている？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダー受領しました。そのままホーネット艦隊に接近し、演習を始めてください<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=序章・Ⅱ|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 おっ、指揮官、もう始めちゃっていいの？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 目標、確認しました。演習でホーネットを撃退してください<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=序章・Ⅲ|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 ホーネットに演習弾の直撃を確認しました<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 やっぱり指揮官もしっかり準備していたわね！見事だったよ！<br>
 指揮官も知っていると思うけど、今回の作戦の事前偵察でこれまでに「情報がない」セイレーンが観測されたの<br>
 極めて強力なセイレーンを相手にするときは引き際も肝心ってことね<br>
 例えば…突然のピンチにはどう対応するかな！？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 警告です。現在の状況はこちらに不利です。戦闘から撤退してください<br>
 <br>
 '''''<span style="color:black;">选择项1：よし、演習の計画通り撤退しよう。</span>'''''<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=序章・Ⅳ|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダー受領しました。艦隊を再集結します<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 指揮官もTBちゃんもお疲れ～<br>
 …よし、戦闘演習も終わったし、次はいよいよ艦隊集結ね<br>
 ロイヤル艦隊はもう準備完了のようね…早くNYシティに行ってみんなと合流しよう！<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 演習任務、完了しました<br>
 次のナビゲート先をNYシティに設定しました。NYシティに入港し、艦隊を集結させましょう<br>
 {{折叠面板|内容结束}}
@@ -76,7 +76,7 @@ NYシティとロイヤル王都を拠点とし、NA海域の北西から南東�
 {{折叠面板|标题=出陣の角笛|选项=6|主框=1|样式=primary|展开=否}}
 <br>
 NYシティ・艦隊集結ポイント<br>
-<span style="color:#a9f548;">フッド：</span><br>
+<span style="color:#4eb24e;">フッド：</span><br>
 通信が繋がりました。指揮官様、エンタープライズ様<br>
 では、あらためて――ロイヤル艦隊、セイレーン作戦への集結が完了いたしましたわ<br>
 「セイレーンの最初の侵攻より数十年、かつて人類と艦船たちがセイレーンの攻勢を凌ぎ、大きな代償を払いながらも膠着状態へと持ち込みました<br>
@@ -90,28 +90,28 @@ NYシティ・艦隊集結ポイント<br>
 『艦船である私たちにとって、真の敵はあくまでセイレーンである』<br>
 このことを今回の作戦行動を通して、全ての勢力の艦船たちに、そして人々に示さなければなりませんわ<br>
 改めて――指揮官様、そしてエンタープライズ様、共に勝利を目指して協力しましょう」<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 頼もしいな。ロイヤル艦隊の健闘を祈る<br>
 <br>
 '''''<span style="color:black;">选择项1：ご武運を。</span>'''''<br>
-<span style="color:#a9f548;">フッド：</span><br>
+<span style="color:#4eb24e;">フッド：</span><br>
 はい。指揮官様もどうかお気をつけてくださいませ。ところで、本部から預けられた、「作戦補助インタフェース」のことですが……<br>
 <br>
 作戦命令書の到着とともに、端末から急に現れた女の子（？）のことを思い出す。<br>
 <br>
 '''''<span style="color:black;">选择项1：どことなく見たことがある気がする…</span>'''''<br>
 '''''<span style="color:black;">选择项2：これが本部のスゴイ技術か……</span>'''''<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''ん？どうしたの指揮官？もしかして鼻の下伸ばしてる～？<br>
-<span style="color:#a9f548;">フッド：</span><br>
+<span style="color:#4eb24e;">フッド：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''ええ、私たちも急に端末からあの子の顔が飛び出してきて驚きましたわ。可愛らしいですこと。ふふふ<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 作戦補助インターフェイスのTBです。改めてよろしくお願いします<br>
 <br>
 '''''<span style="color:black;">选择项1：よろしくお願いします</span>'''''<br>
 <br>
 しかし、AI…ということは、何かしらのプログラムか…？この外見と言動からそう言われても中々納得しにくいのだが…<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 作戦計画の命令書と海域のマップも全部TBちゃんがいる端末にインストールされてるって聞いたわ！作戦で何かわからないことがあったら聞いてみるといいかも！<br>
 それと、今回の作戦ってかなり広い範囲で活動しなきゃならないから、指揮官も遠く離れた艦隊に連絡したいときは、海域マップで艦隊の位置を確認しながら行うといいよ！<br>
 というわけで、早速だけどセイレーン作戦の艦隊指揮のやり方を復習してみよう！<br>
@@ -121,159 +121,159 @@ NYシティ・艦隊集結ポイント<br>
 {{折叠面板|标题=もう一度戦場へ|选项=7|主框=1|样式=primary|展开=否}}
 <br>
 NA海域北西。セイレーン作戦の第一作戦海域はユニオン艦隊と共に行動することにした。<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 数々の怪談を生み出したバミューダ海域か。ユニオン本土近くのセイレーンの前進拠点、今回は徹底的に破壊しなくては<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 ふふん、今回は私もいるからバッチリ大丈夫よ！<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 いや、油断はできないぞ。他の海域と違ってバミューダ海域だけセイレーン艦隊がNA海域深部より撤退したのではなく前進していた、という観測結果もある<br>
 きっと狙いがあるに違いない<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 エンタープライズがそう判断したからこそ、指揮官に進言して私たちも同じ配属になったんですわね<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ああ、いずれにしても、まずは前進して敵の動きを確かめねば<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=レーダーモジュール|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 分析完了です。前方海域にセイレーン反応を多数検出しました。こちらの進軍を阻止するために集結している模様です<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 この距離から分かっちゃうの？本部の最新技術はすごいわね……<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 はい。各艦のデータリンク機能により、情報の分析のみならず情報共有もスムーズに遂行できます<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 これは想像以上ですわね…<br>
 <br>
 TBの情報を上手く利用して、敵を迎撃しよう。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=記憶ログ|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 スキャンが完了しました。遠距離に新たなセイレーン反応です。気をつけてください<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 バミューダ海域に入ったばかりなのに、セイレーンがわんさか出てきたわね<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 どうやらここだけセイレーンが後退していないという情報は本当だったようですね<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 反撃が激しいというなら、それだけこっちの作戦が敵にとって都合が悪いってことさ。もしかしたら私たちに見つかりたくない秘密を守っているのかもしれないな<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 バミューダ海域の秘密、か……<br>
 映像？この「影」たちのことか？<br>
-<span style="color:#ff5c5c;">コンパイラー：</span><br>
+<span style="color:#ec5d53;">コンパイラー：</span><br>
 「キオク」。つまりログ<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ログ？記憶？誰の？いつのものだ？<br>
-<span style="color:#ff5c5c;">コンパイラー：</span><br>
+<span style="color:#ec5d53;">コンパイラー：</span><br>
 あなたのも、「彼女」のも。未来でも、過去でも<br>
 それは今、あなたのものよ<br>
 ログはウソを付かない<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 エンタープライズ？どうした？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 いや、なんでもない。気を引き締めて進もう<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=痕跡|选项=10|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 …セイレーンの残骸。TB、私達以外にこのエリアで戦っている艦隊はいるか？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 味方艦隊の反応――対象はこのエリアに存在しません。また、この海域に味方艦隊が通過した記録もありません<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 そんなことよりもっと面白いことが起きてるわよ<br>
 <br>
 端末を確認すると、前方海域のセイレーン反応を示すシンボルがこうしている間にも一つ、また一つと文字通り「消え」ていっている。<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 移動ではなく、反応そのものが消失している…？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 私達と同じく、セイレーンと戦っている存在……もしや……<br>
 指揮官すまない。危険だと思うがセイレーン反応が消失している海域への急行を具申する！<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 状況はよくわからないが、いくらエンタープライズでも一人では危険すぎる<br>
 ホーネット、セイレーン反応以外になにか変な反応はないか？<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 ないよ！でもセイレーンの動きがいくらなんでも異常すぎる…もしかしてこれが資料に書いてた「余燼」…！？<br>
 <br>
 余燼だとすると戦況が大きく変わりそうだ。味方戦力を集結させて急行しよう。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=謎の艦船|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 重桜の…飛龍？いや、違う…………<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 お前たちもアビータのことで来ているのか<br>
 <br>
 アビータ？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 「主機」のデータベースを検索しています。……アビータ、という対象は存在しません<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 ……口が滑った。忘れろ<br>
 「エンタープライズ」を悩ませている指揮官、か<br>
 <br>
 こちらに顔を向けてきた「飛龍」と目が合った。<br>
 向こうの存在感に気圧されたのか、指が一本も動かない。<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 ……どうやらまだ認識できてないようだな。「エンタープライズ」に気に入られた理由はわからないが、ぼくの邪魔をしなければ手は出さん<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 こちらがこのまま何もせず見過ごすと思うか？<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 何をする気だ<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 悪いが、質問に答えてもらう<br>
-<span style="color:#ffa500;">飛龍：</span><br>
+<span style="color:#ff9900;">飛龍：</span><br>
 ……厳しい状況ですね。この戦いは<br>
 それより本当にあいつらと協力するんですか？あいつら、「セイレーン」は本来、私たちに代わって戦う存在として――<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 「炬火」と「余燼」――こちらの予想が正しければ、あなたの正体――「セイレーン」とは一体どういう関係だ<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 アンチエックスにログを見せられたか<br>
 知りたければあいつらに聞くがいい。向こうもお前のことに興味があるようだ<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 私に…興味が…？<br>
-<span style="color:#ffa500;">？？？：</span><br>
+<span style="color:#ff9900;">？？？：</span><br>
 ここでお前たちに話すことはない。ぼくの邪魔をするというのなら、全員残らず沈めるまでだ<br>
 …………その身が惜しければ、アビータの連中のことに首を突っ込むな<br>
 <br>
 そう言い放つと飛龍は離れていった。<br>
 このまま追い続けても――あの速力に艦隊が追い付くのは無理そうだ。<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 あの子は…「余燼」の飛龍……間違いなく戦えば苦戦する相手ね…<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 でも資料に書いてあるほど絶望的な実力差はなさそう。指揮官、今度会ったら簡単に逃さないようにしよう！<br>
 <br>
 ああ。ただ、いずれにしてもレーダーに表示されない相手は探しようがない……何らかの方法で観測情報から座標を割り出さなければ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=敵の敵|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 さっきまでは敵があんなにいたのに、この辺りは敵の反撃がほとんどありません…不思議ですね…<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 その分残骸が増えているな。どうやら私達とあの「飛龍」は偶然にも同じ方向を進んでいるようだ<br>
 にしても、さすがはセイレーンの前進拠点だな。私たちだけで攻撃を仕掛けてもこんなところにこうも簡単には近づけないはずだ<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 私達はセイレーンと戦って、そのセイレーンは「余燼」と戦ってて…しかも本部の作戦計画の内容では「余燼」との交戦も指示されている<br>
 レッドアクシズもセイレーン作戦に応じていることから、この海域には4つの勢力が存在しているわね<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 「アビータ」も…いるかどうかわかりませんが、あれもセイレーンや「余燼」と違う別の勢力でしょうか<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 NA海域のセイレーン勢力は想像以上に複雑だな……<br>
 <br>
 ――――――！！<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 ……雷？晴れているのに？それもこの海域のど真ん中で？<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 気象データに…異常はありませんね<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 以前セイレーンが現れた「特異点」はこの近くね<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ああ。もう完全に消滅したはずだが。特異点が現れたおかげで多少環境に影響が出たようだ<br>
 指揮官、TBに気象情報の分析を頼めるか？<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダー受領しました。偵察機・レーダー・ソナーの情報の整理・分析を行っています<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 アドバンスドコンバットなんとかってシステムでTBは色々できるんだっけ？<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 どういう仕組みで把握しているんだろうか…<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 分析完了です。気象情報の分析結果を端末に表示しました<br>
 6時間後には悪天候に変わる可能性が高いと推測します。対策の許可をお願いします<br>
 <br>
@@ -281,18 +281,18 @@ NA海域のセイレーン勢力は想像以上に複雑だな……<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=探索・1|选项=13|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 分析中です。生態環境異常・海洋生物の痕跡が確認されました。気をつけてください<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 これは……輸送艦とかから燃料が漏れてたのかな……<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 燃料ならなにかしらの痕跡があるはず…どうやら違うようですね<br>
 <br>
 だとしたら、何かしらの手段で海の水質を変えたとしか…これもセイレーンの仕業か？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=探索・2|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 あれは……！前はこんなところに島なんてなかった！<br>
 しかも島の山に雪が積もってる？異常気象なんてどころじゃないよ！<br>
 <br>
@@ -307,11 +307,11 @@ NA海域のセイレーン勢力は想像以上に複雑だな……<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=エリア確保|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 NYシティからバミューダまでの航路エリアの確保が完了した。後詰めのサラトガに連絡しよう<br>
 <br>
 '''''<span style="color:black;">选择项1：サラトガに連絡する</span>'''''<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 さすがのサラトガちゃんでも予測できなかったビックリ展開！<br>
 …はさておき、上層部から「まずは余燼の捜索をして、異常気象？現象？の探索はその後に」って指示が来たわ！<br>
 NYシティから遠くまで出撃して大変だけど、まだ凱旋するわけにはいかなそうね<br>
@@ -319,114 +319,114 @@ NYシティから遠くまで出撃して大変だけど、まだ凱旋するわ
 サラトガちゃんもいいと思う！というか、サラトガちゃんも仲間たちを連れて応援しに行くよ！<br>
 あ、レッドアクシズの動向は何かあったらすぐ指揮官に連絡するから、安心して！<br>
 それじゃ、サラトガちゃん、アウト！<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 レッドアクシズ、指揮官の連絡通り動いているね<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ああ、別に驚くことではない。各陣営の上層部もこの作戦の重要性を認知しているはず<br>
 上層部との調整・連絡役にあのクイーン・エリザベスが買って出たから、おそらく続報はすぐにでも上がってくるだろう<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 指揮官の人徳もあるからね<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 ふふ、お互いの陣営を一つにするには共通の敵だけでなく、率いる存在も必要ですね<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 クイーン・エリザベスか…艦船同士はともかく、ロイヤルと鉄血の上層部間はひと悶着起きそうだな<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 そこは女王陛下のカリスマを信じるしかないな<br>
 <br>
 アズールレーンとレッドアクシズとの共闘。うまく実現できれば…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=作戦進捗|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 おかしい。このエリアは敵がいくらなんでも少なすぎる<br>
 ここは脅威レベル――いや、セイレーン侵攻レベル6のエリアのはずだ。なのに小規模かつ散発的な抵抗しかない…<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 行動パターンが単純すぎるわね…セイレーンの指揮ユニットもいるとは思いません<br>
 バミューダ海域より危険なエリアのはずなのに、敵の戦力がさっきより弱い気がします<br>
 <br>
 過去の調査資料が当てにならないってことか。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 この行動パターンはセイレーン艦隊の指揮ユニットが消失したときのものだ<br>
 ここまでの距離で大規模なセイレーン艦隊が何個現れても不思議じゃないのに、全部このパターンになっているなら…<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 よっぽどひどくやられたようね。セイレーン側は<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 でもバミューダより弱かったのはなぜだろう。例の「余燼」が通ったようにも見えないし<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 じゃあセイレーンの指揮系統が変更して中枢ユニットが変わった、ってのはどうでしょう<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 あははは…とにかく、敵が弱くなっている好機を逃すわけにはいかないってことだけは確実さ<br>
 <br>
 敵のセイレーンが弱くなっている現状は海域を奪還する最大のチャンスだ。利用しない手はない…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=レッドアクシズ|选项=18|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 偵察機が艦隊を発見したわよ！<br>
 …って、鉄血のティルピッツ！？どうしてここに！？<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 こちらに向かっている？<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 ううん、向こうはバミューダ海域に向かっているよ。どうやらこちらの存在に気づいていないようね<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 セイレーン作戦のことは向こうも知っているし、変なことはしないとは思うが<br>
 念の為こちらから合流するか？もしかしたら協力してもらえるかもしれない<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 そうね…でもいいの？たしか向こうは向こうで独自で作戦を練っているでしょう？<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 上層部の話し合いも最終的にどうなったかわかりませんわね…もしかしたら、鉄血の行動自体向こうの上層部が知らないパターンも<br>
 一応ここはユニオンの海域ですから、合流が無理ならNA海域の東側に引き返させたほうが良さそうですね<br>
 <br>
 '''''<span style="color:black;">选择项1：サラトガに知らせよう</span>'''''<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 通信データ転送中です。データを転送しました<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 指揮官、どうする？カロの言うことが正しかったら、私達が動くことで女王陛下の折衝の邪魔になりかねない<br>
 <br>
 NA海域の状況はすでに各陣営・勢力で入り乱れている。これ以上状況を複雑にするのは得策ではない。<br>
 ここは気にせず探索を続けよう。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 私も同意する。陣営間の連携も大事だが、こと上層部が絡んでしまっては安易に動かないほうがいい<br>
 とはいえ、私たちの存在を示したほうが後々何か好転するかもしれない<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 艦載機で上を通ってみる、とか？<br>
 <br>
 良い案だ。TBに艦載機の飛行コースもサポートしてもらおう<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 艦載機飛行コースセッティング中です。鉄血艦隊の上空を通過するコースをセッティングしました<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 よぉし、任せて！鉄血の子たちとうまく顔合わせしてくるよ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=通信|选项=19|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 艦載機、鉄血艦隊の上空を通過したよ！<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 反応ないな…無線封止でもやっているのか？<br>
 これは困った。せめて通信で挨拶をと思ったんだがな<br>
 <br>
 '''''<span style="color:black;">选择项1：もう一回艦載機を飛ばしてみる</span>'''''<br>
 '''''<span style="color:black;">选择项2：艦隊を向かわせる</span>'''''<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 通信要請を受信しました。鉄血からの暗号通信チャンネルの確立が可能です。通信を接続しますか？<br>
 <br>
 よし、一回通信を確立しよう<br>
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 こちら鉄血艦隊ティルピッツ。ユニオンの艦隊と見たわ<br>
 連絡が遅れてすまない。話があるなら直接顔を合わせてはいかがだろう？<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 向こうが面談を申し出てくるとはな…これはどう応じるべきか。<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 すまないティルピッツ、こちらの作戦海域での鉄血の通行について事前連絡を受けていない。もし合流が難しいなら鉄血の担当海域へと引き返してもらえないだろうか<br>
-<span style="color:#ff5c5c;">ドイッチュラント：</span><br>
+<span style="color:#ec5d53;">ドイッチュラント：</span><br>
 作戦の担当海域？ここはセイレーンの占拠海域には見えるけど？<br>
 そもそも作戦海域の割当は向こうの上層部が勝手に作ったものよ。ここはお互い無視していいんじゃないかしら？<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 そうしたいのは山々ですけど、政治的なリスクがありますわ…<br>
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 ドイッチュラントが言いたいのは、こちらからあなた達の作戦を邪魔するつもりはなく、またユニオン管轄海域に入る予定はないってこと<br>
 もしこちらの艦隊行動に異議があるというのなら……あっ<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 鉄血艦隊、こちらに向かっているわね<br>
 <br>
 これは……量産型の鉄血艦の反応？！<br>
@@ -435,74 +435,74 @@ NA海域の状況はすでに各陣営・勢力で入り乱れている。これ
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=対空戦|选项=20|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 敵艦載機を確認しました。鉄血の艦載機と同じタイプと思われます<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 量産型の艦載機だな。しかも攻撃態勢の<br>
 ホーネット、偵察機はまだ周辺海域にいるか？できるだけ近くに寄って、グラーフ・ツェッペリン…いや、艦船の空母がいないか確認してくれ！<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 任せて！<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 直掩隊、迎撃用意！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=停戦…？|选项=21|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 指揮官！サラトガちゃんからのグッド・ニュースよ！<br>
 エリザベスちゃんから連絡があったわ！フリードリヒからようやく上層部との取り成しが終わったって！これでレッドアクシズとも上手く話せるわね！<br>
 …あ、あれ？なんかすごくホッとした…？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 いや、実はさっき鉄血の艦載機から襲われそうになったのだが…（かくかくしかじか…<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 ……えええええ！？<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 わわ、エンプラ姉！これ以上は流石に近づけ…づけ…<br>
 あれ？鉄血艦隊、急に全部いなくなった？<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 ？？？いなくなった？艦隊が急にいなくなったって、どういう意味だ…？<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 聞いたことがあります。鉄血のホログラフィック技術というものだそうです<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 たしか昔パーシュースが言ってたような…んーでもそれって量産艦にホログラフィックを被せるものじゃなかった？いきなり消えるのとは全然違うと思うけど？<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 つまり、ティルピッツと話している途中に、追跡していた「鉄血艦隊」が反転して、艦載機を飛ばして攻撃してきたってこと？<br>
 「駒」のこともあるし、あの艦隊はもしかすると本物のティルピッツたちじゃないかもね…<br>
 <br>
 '''''<span style="color:black;">选择项1：同意する</span>'''''<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 だといいけどね。本当にドンパチやりはじめたら色んな意味で終わっちゃうよ<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 ま、まあ、とにかく、エリザベスちゃんはまだ細かいところを詰めないとって言ってたし<br>
 それにアイリスのほうの動きもあるし…ここはなかったことにして、ね？<br>
 <br>
 '''''<span style="color:black;">选择项1：わかった</span>'''''<br>
 '''''<span style="color:black;">选择项2：やっぱり気になる</span>'''''<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ティルピッツとの連絡が途切れた以上、ここは一旦放置するしかないな…<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 それより指揮官、エリザベスちゃんが取り付けた話の詳細を説明するわ！ええと…<br>
 ロイヤルは一部海域を重桜に、鉄血は一部海域を北方連合に開放し…<br>
 セイレーン作戦では運河及び公海での行動を自由とする！とのこと<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 それってつまり、レッドアクシズとアズールレーンの対立状態が終わったってこと？<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 半分はな。指揮官の艦隊はともかく、上層部はそう簡単に折れないだろう<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 せっかくの対セイレーンの大作戦なのに一緒に戦わないでどうするの！と、思うかもしれないけど<br>
 一応目下の最大の敵はセイレーンってことは再確認できたし、一歩前進ってことね！<br>
 アズールレーンもレッドアクシズも、この青い海を奪還するためにあるんだから！<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 ふふん！このクイーン・エリザベスの偉業をどんどん褒め称えなさい！<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 エリザベスちゃん！そっちの仕事はもう大丈夫？<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 今終わったところよ！通信でさっき聞いてたけど、危うく罠に引っかかるところだったみたいじゃない！<br>
 エンタープライズたちも揃って不注意ね…今度はちゃんと気をつけることよ！<br>
 セイレーン作戦、フッドたちも上手く動いているわ！あとでこちらに来て合流しなさいよね！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=準備|选项=22|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 オーダーを受領しました。NAで海域外側エリアに艦隊を配置しました<br>
 敵個体、確認。前哨基地設立のため、海域の敵を全て撃破してください<br>
 <br>
@@ -510,31 +510,31 @@ NA海域の状況はすでに各陣営・勢力で入り乱れている。これ
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=準備完了|选项=23|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 セイレーン作戦第一段階、終了しました。前哨基地の設営が行われます<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 あとはNYシティからの輸送部隊と前哨基地設営隊を待つだけだな<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 前哨基地って一体どんなものだろう…作戦資料にも色々書いてあるけど読んでもよくわからないや<br>
-<span style="color:#a9f548;">ノースカロライナ：</span><br>
+<span style="color:#4eb24e;">ノースカロライナ：</span><br>
 本部の特殊技術云々書いていますけど、ざっくり言えば移動できる浮きドックよ<br>
 艦船の整備と補給、生活エリアに指揮機能…多用途の大型海上基地といえばピンと来ますかね？<br>
-<span style="color:#a9f548;">ボルチモア：</span><br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
 自衛武装もあるといいな<br>
-<span style="color:#a9f548;">ホーネット：</span><br>
+<span style="color:#4eb24e;">ホーネット：</span><br>
 なんか楽しみだね<br>
 <br>
 この前哨基地が4つの作戦海域に建設されたら、次はNA海域の中心部に攻め入る――という寸法だ。<br>
 そもそも、ここまで大規模な基地がなければ、セイレーンの中枢基地に攻め入る兵力を集めるのは無理という話だ。<br>
 さて、仲間たちと…そしてTBと次の海域に向かうとしよう。<br>
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 作戦、お疲れ様でした。TBより――感謝…します<br>
 <br>
 今、TBの声が……？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=META戦|选项=24|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">TB：</span><br>
+<span style="color:#4eb24e;">TB：</span><br>
 「余燼」座標追跡システム、再起動しました。これよりチュートリアルを開始します<br>
 「余燼」艦船の艤装には特殊な遮蔽装置が装備されていると思われ、電波探知に対して100％カモフラージュでき、追跡は不可能だと思われていました<br>
 しかし、本部技術研究部署の努力により、「余燼」の行動痕跡を検出できる装置の開発についに成功しました<br>
@@ -544,7 +544,7 @@ NA海域の状況はすでに各陣営・勢力で入り乱れている。これ
 「余燼」との戦闘は非常に危険です。お気をつけて<br>
 <br>
 ……「余燼」との戦い、か。「排除」とは書いているが、「殲滅」とは書いていないな。<br>
-<span style="color:#a9f548;">メンフィス：</span><br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
 あら、いい着眼点ね。そこは私が説明するわ<br>
 確かに「余燼」はセイレーン作戦の脅威かもしれないけど、質問したかったり、同じ艦船なら仲間だと思ったりする子もいるわ<br>
 情報を解析して理解が進めば、もしかしたら将来仲間にできる可能性もある…とは思わない？<br>

@@ -3,55 +3,55 @@
 {{折叠面板|标题=援助要請|选项=1|主框=1|样式=primary|展开=否}}
 <br>
 ロイヤル本島・作戦開始より数日前<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ――北方連合の戦況は以上だ。概ね彼女たちからの報告通りだが、ロイヤルの意見を聞きたい<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 北方連合の極地艦隊、こちらの予測を遥かに上回った戦力を見せたけど、それでも援助要請してくるなんてよっぽど切羽詰まっているようね<br>
 氷山要塞を攻略してセイレーンもおとなしくなると思ったら暴れだした……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 むむ、今までは彼女たちのおかげでどうにかセイレーンを北極圏内に抑え込めてたわけだし…<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 はい、北方連合が敗北した場合、セイレーンが北極圏から流れ出し、ユニオン側の大洋北部だけでなく、ロイヤル本島も脅かしかねない<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 そうはさせないわよ！<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 こちらも同じだ。つまり今回の北方連合への支援はロイヤル側も異議なし、という認識でいいだろうか<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 「ユニオンから提供された支援物資を、ロイヤル側が戦力を供出し輸送船団と護衛船団を編成して北方連合まで送り届ける」……陛下、いかがですか？<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 いいわよ！それで、鉄血の動向は？<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 そこはサラトガちゃんが説明するね！…情報によれば、バレンツ海に戦力を移動させているらしいから、そこを通るときは気をつけてね！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 やっぱり極地航路を…<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 望むところよ！もし鉄血が出てくるなら、これを機に盛大に「歓迎」してやるわ！<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 エリザベスちゃん、もしかして…？！<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 ふふん、極地航路を狙うのがいかにバカかってことを思い知らせてやるわよ！<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 …コホン。では支援物資の件はそちらの提案通りに進めよう。それともう一つ、指揮官の状況だが<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 はい、「北方連合への滞在が長引いているが、戦況によりもう少し留まってほしい」っていう件…ね<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ああ、北方連合からこんな連絡があったのだが<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 空気を読んでないわね<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 ユニオンとしてはもちろん反対よ！支援物資が届けば戦況も改善するし、指揮官をいつまでもあんなさむ～いところに留める必要なんてないじゃない！<br>
 ってなわけで、ユニオンSDシティ側の戦力で指揮官救出艦隊を編成して北方連合から奪還！ってのはどう？<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 SDシティってたしか重桜側への対応もしているから、さすがにちょっと荷が重すぎないかしら？<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 それについてはもっといい案があるわ，輸送船団を送り届けたら、そのまま指揮官をロイヤル経由でユニオンに届ける、ってのはどう？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 （王家艦隊の指揮系統とエウロラ大陸の状況も知ってもらう必要があるし……や、やるわねエリザベス様…！）<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 （ふっふん！こちらの作戦に支障を及ぼさないように準備しておく必要があるわよ！）<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 それならこちらも問題ない<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 （あとでフッド様たちとも編成を相談しないと…んー…）<br>
 では陛下の案の通り、ユニオンの物資を北方連合に届けたのち、指揮官を迎え入れてロイヤル本島経由でユニオンに回送する――ともに作戦完遂のために頑張りましょう！<br>
 <br>
@@ -72,241 +72,241 @@ SDシティってたしか重桜側への対応もしているから、さすが
 ユニオンからの支援物資が届き、ロイヤルの輸送船団と護衛船団の編成がすぐさま行われた。<br>
 一日中太陽が沈んだ状態――つまり極夜のバレンツ海を通るのは輸送任務では好ましくないことだが、北方連合の要請を優先せざるを得なかった。<br>
 幸いにも、ロイヤル本島からの出航時は好天に恵まれていた。<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 そろそろ出航の時間になりますが、ハーマイオニー、準備はよろしいでしょうか<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 はい、輸送艦隊と護衛艦隊、そして後詰めの支援艦隊と主力艦隊、すべて集結完了しました。あとは物資の積み込みさえ完了すれば出発できます<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 わかりました。ロイヤルメイド隊のメンバーも今回作戦に参加することになりますが、陛下より預かった命令を必ず完遂してください<br>
-<span style="color:#a9f548;">エディンバラ&シェフィールド：</span><br>
+<span style="color:#4eb24e;">エディンバラ&シェフィールド：</span><br>
 はい！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ……<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 ハーマイオニー？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 …！申し訳ございません、少し緊張していて…<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 あら、久々の出撃任務なのに？ハーマイオニーならきっと大丈夫ですよ。姉さんのことを頼みますね<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 もうベルったら、いくら私でもやるときはやるからね！<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 ふふ、では最後にもう一度だけ作戦要項を確認しましょう<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 「北方連合への支援物資を輸送する船団を送り届け、その後北方連合に滞在中の指揮官を迎え入れ、ロイヤルに回送ーー」<br>
 「鉄血艦隊に遭遇した場合、後詰めの艦隊と共同し一挙して北方航路から駆除する――」<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 （そして北方連合の情報収集と、「再現」……）<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 バッチリ覚えているわよ！北方連合の…コホン、氷山要塞の作戦記録も確認したの！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 まあ、さすがエディンバラさんですね<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 もっと褒めて褒めて～ベルのお姉さんだからね～何でも任せていいから～<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 では、ハーマイオニー、シェフィ、姉さん、お願いします<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 はい！がんばります！<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 ちぇ、ベルも褒めてくれたっていいじゃない…<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 （陛下も港までいらっしゃったということは、やっぱり……）<br>
 ベルファスト、すみませんが嫌な予感がしました。陛下のことを頼みます<br>
-<span style="color:#a9f548;"> ベルファスト：</span><br>
+<span style="color:#4eb24e;"> ベルファスト：</span><br>
 はい、シェフィ。そちらもご無事で<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 …女王陛下に栄光を<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=計画調整|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 バレンツ海・ロイヤル護衛艦隊<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 みんな、悪いニュースだ。私たちと合流予定だった北方連合の駆逐艦隊だが、急遽最前線に召集され合流ができなくなった<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 まあ…旧式の駆逐艦まで……<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 そうだな。指揮官までもがその応援に駆り出されたって話だ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 指揮官様まで…支援物資を届けても、指揮官を迎え入れられるようになるにはしばらくかかりそうですね<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 状況が悪けりゃボスも北方連合から離れてくれないだろう<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 大変……<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 最悪の場合、陛下に連絡して、我々も支援戦力として戦闘に参加する必要があるな<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 その「必要」があればな…<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 にしても、本当に天候が悪いですね。風も太陽も味方してくれませんもの<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 天候はともかく、鉄血も我々同様にこの航路を狙っている。せめてこの天候が敵の航空戦力を阻んでくれることを願いたいものだ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 今のところはまだこちらの戦力配置を察知されていないみたいですね<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 ふん、さしずめ「フェイク」がうまく働いているといったところか<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 そうだといいのだが…私が心配しているのはどちらかというと潜水艦だ。この荒天ではこちらの探知も影響を受ける<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 そうですね…鉄血と上手く話して、無事通していただければいいですね…<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 そう簡単に話が通るとは思わんな。みんな、気を引き締めておこう。前線は我々が運んでいる物資で支えているのだぞ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 はい。あっ、後詰めの艦隊との連絡が繋がりました<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 助かる。…ロイヤル本隊、こちら護衛艦隊は現在予定通り北方連合海域へ航行中だ。周辺海域に異常なし、以上<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=ポールライト|选项=4|主框=1|样式=primary|展开=否}}
 <br>
 彩りある光の帯は極夜のバレンツ海の空に煌めき、星々とともに海を明るく照らし出している。<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 これが極光（オーロラ）……美しいです……<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 闇を払う光の帯…か。ふん、随分と「味」のある空だ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 どういう意味です…？<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 そういうワケのわからん話をしている場合じゃないぞ。オーロラがこれほど見えるくらいには雲がない、つまりその間は――<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 敵もハーマイオニーたちもお互い発見しやすくなる…ってことですね<br>
 …！量産艦から、後方より鉄血の偵察機が接近中とのことです！<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 やっぱり来たか！<br>
 すぐ鉄血の警戒戦力がこちらに集まってくるはずだ。…このオーロラに乗じてな<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 空の変化が早すぎるッ！これが世界の選択ということか…！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ジャマイカさん、私たちも早く行きましょう！<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 ……ああ！<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 （ああ見えてもうまく連携取れているのか…）<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 イーグルさん、潜水艦は私たちに任せてください！イーグルさんは敵攻撃隊の対処をお願いします！<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 もちろんだ。敵の航空戦力は私の航空隊で対処する！全艦、警戒陣形を維持し、輸送船団を守れ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=待ち伏せ|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 こっそり接近して敵を仕留める群狼を率いる者、それが私……！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 見つけましたわ、鉄血の潜水艦さん！<br>
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 ちっ、バレた…！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 こちらロイヤルネイビー輸送船団護衛艦隊、ここを通してくれるよう要請します！<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 よせハーマイオニー、あの数では「見なかったことにしてくれる」はずがないぞ<br>
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 それは無理な話よ。鉄血の主力艦隊もこっちに向かっているわ。大人しく降参したほうが身のためよ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 （鉄血の主力艦隊まで……どうすれば……）<br>
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 ……どうやら投降するつもりも積荷を引き渡すつもりもないようね<br>
 じゃあ仕方ない！私は目の前の大戦果をみすみす見逃すつもりなんてないからねっ！<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 「向かってくる」というのか…！なら！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ハーマイオニー、対潜戦闘を開始します！女王陛下に栄光を！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=分析|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 いかんいかん、敵は本気だ……また今度ね！<br>
 <br>
 最後の魚雷を射出し、ハーマイオニーに回避行動を取らせている隙に、U-73は潜航して戦場から離脱した。<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 小手調べだったというわけか<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ふぅ……「群狼作戦」ではなく、相手が一隻のみで良かったですね……<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 こちらも接近してくる航空機を片付けた<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ほかの潜水艦は…いませんね。敵を撃退できたってことでしょうか<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 ああ。被害は？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 特にありません。どなたも被弾していませんね<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 ……妙だな<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 そうだな。輸送船団を襲撃するにしては戦力が少なすぎる<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 もしかして「威力偵察」でしょうか。先程鉄血の主力艦隊も向かっている…と聞きましたから<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 いや、それはあえて相手に教えるものか…？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 そ、そうですね。いずれにしても、敵の主力艦隊がいるなら、こちらの後詰め艦隊に対応してもらう必要がありますね<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 ちょっと待って、もし敵が「主力艦隊をこちらに引き寄せる状況」を作り出そうとしているなら…<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 つまりこっちの主力艦隊と支援艦隊を引き離すのが目的だと？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 そうだとしたら、支援艦隊が危ないです…！<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 そう判断するのは早計だ。今の状況では測りかねる<br>
 こちらからもう一度偵察機を出すぞ。ハーマイオニーとジャマイカは警戒を怠らないように<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=帰還命令|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 入電です。これは……陛下から直々に？<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 全艦に連絡よ！ティルピッツにシャルンホルスト姉妹…とにかく鉄血の主力艦隊がそちらのバレンツ海に向かっているわ！<br>
 各艦速やかに反転し、鉄血の主力艦隊を迎撃して！<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 鉄血の戦艦隊…これは大きく出てきたね…！<br>
 ………ん？この連絡、こちらにも届いている？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 はい。私たちにも反転して迎撃するようにとの命令で…<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 確かにあの大艦隊を一挙に撃破するには戦力を集中させる必要があるが…今は船団護衛中だぞ<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 輸送船団を放置するなんてありえない、か<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 そうですね。その間にもし襲われたら、北方連合もユニオンも大変なことになります…<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 陛下がそこまでしてこの航路から鉄血を排除したいとは思えんな。何かの手違いでこちらにも連絡が来てしまったってわけか<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 確認しますね…！<br>
-<span style="color:#ff5c5c;">U-101：</span><br>
+<span style="color:#ec5d53;">U-101：</span><br>
 U-73は撤退したし、攻撃隊も引っ込めたし、ということは今あの輸送船団は――<br>
-<span style="color:#ff5c5c;">U-81：</span><br>
+<span style="color:#ec5d53;">U-81：</span><br>
 無防備にはなってないね…護衛艦隊がまだ周りで警戒しているし<br>
-<span style="color:#ff5c5c;">U-522：</span><br>
+<span style="color:#ec5d53;">U-522：</span><br>
 まあそう上手くいかないんじゃない？護衛艦隊が輸送船団を見捨てるなんて普通ありえないわ<br>
-<span style="color:#ff5c5c;">U-81：</span><br>
+<span style="color:#ec5d53;">U-81：</span><br>
 でもオイゲンさん、襲撃するタイミングを待てって言ってたよ？<br>
 もうちょっとだけ待てば護衛艦隊がいなくなるかもしれないし…いなくならなくても、その時はその時で！<br>
-<span style="color:#ff5c5c;">U-522：</span><br>
+<span style="color:#ec5d53;">U-522：</span><br>
 はいはい、まあ気長に待つのは得意だからねー<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=極光作戦|选项=8|主框=1|样式=primary|展开=否}}
 <br>
 ？？？<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 オイゲンそろそろ時間よ。なにこそこそやってんの？<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 そう慌てないでヒッパーちゃん。急がば回れって前にも言ったじゃない<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 あんたが作戦の指揮を取ってんだから心配してやってんの<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 そうなの？この主力艦隊の旗艦は「こっちのティルピッツさん」じゃなくて？<br>
 こうして…こう……準備終わり♪<br>
-<span style="color:#ff5c5c;">ドイッチュラント：</span><br>
+<span style="color:#ec5d53;">ドイッチュラント：</span><br>
 ようやく出撃できるのかしら？もう待ちきれないわ！<br>
-<span style="color:#ff5c5c;"> グナイゼナウ：</span><br>
+<span style="color:#ec5d53;"> グナイゼナウ：</span><br>
 どんなに緻密な計画でも、計算が狂わされることはあるわ<br>
-<span style="color:#ff5c5c;">シャルンホルスト：</span><br>
+<span style="color:#ec5d53;">シャルンホルスト：</span><br>
 ははは！今日は派手にやれるわね！<br>
-<span style="color:#ff5c5c;">アドミラル・グラーフ・シュペー：</span><br>
+<span style="color:#ec5d53;">アドミラル・グラーフ・シュペー：</span><br>
 （………………………私……）<br>
-<span style="color:#ff5c5c;">ティルピッツ：</span><br>
+<span style="color:#ec5d53;">ティルピッツ：</span><br>
 （気持ちは分かるわ。鉄血の勝利には必要なものよ）<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 さて、北極海の幻の光――ええ、この極光を借りて勝利を手に入れましょう<br>
 鉄血の主力艦隊を排除しようというのなら、逆にその動機を利用させてもらうわ<br>
 楽しみにしていてちょうだい。女王陛下と忠実な取り巻きたち♪<br>
@@ -316,354 +316,354 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 {{折叠面板|标题=オーロラを背に|选项=9|主框=1|样式=primary|展开=否}}
 <br>
 バレンツ海・ロイヤル後詰め支援艦隊<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 「前の大戦」ね……どんなものだったのか、ヴァンパイアさんなら知ってるわよね？<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 もちろんよ。セイレーンとの戦いもあんたたちよりずっと長く経験してるもの<br>
 あの頃は鉄血もロイヤルも、みんな「アズールレーン」に所属してセイレーンと戦っていたわ<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 で、今はかつての仲間をこの航路から排除しようとこの暗い海を延々と黙々と進むわけね<br>
 <br>
 ――――！<br>
 パーシュースたちの前に煌びやかな風景が広がった。<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ………あ。<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 これは…<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 風景画みたいな美しさね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 風景そのものでしょ！まあ美しいのは認めるわ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ですが、海が明るく照らされたために襲撃される可能性が上がりました。ご注意を<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 風情の分からない感想ね…<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 そもそもこんな大規模なオーロラが「急に」出現するなんて明らかに異常ですが<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 極夜だからオーロラがはっきり見えるとはいえ、流石にここまでのものは中々ないわね<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 自然現象ですからお気持ちは察しますが、作戦中はくれぐれも慎重になさるようお願いします<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 はいはい、シェフィの話は耳が痛いわね<br>
 まあせっかく北極海近くまで来ているんだし、ちょっとは気楽にしたほうがいいわよ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 申し訳ございませんが作戦行動中ですので。ヴァンパイア様がお気持ちの整理を必要としているようでしたら喜んでお付き合いしますが<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 そ、そんな必要ないわよ！<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ヴァンパイア様の棺こそそろそろ清掃してもらったほうがいいんじゃなくて？<br>
-<span style="color:#a9f548;">ヴァンパイア&シェフィールド：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア&シェフィールド：</span><br>
 ……ん？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=情報露呈|选项=10|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 情報によると、北方連合は危機に瀕していて、指揮官までも前線に駆り出してるみたいね<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 皆様の無事を祈るばかりでございます<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 指揮官がどうなっているか気になるわね<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 連れ戻すとの王命でございます。トラブルが起きたら困るのはこちらですが<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 まあ、そうだけどね<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 …今は北方連合の戦況より身近な心配をしたほうが良さそうよ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 鉄血の主力艦隊の動向、ですか？<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 先行している量産艦が敵の大艦隊を発見したそうよ。……時化みたいわね<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 申し訳ございません。こちらで観測している気象状況には特に変化がありませんが<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 大勢いるってこと。ティルピッツにシャルンホルスト姉妹、ドイッチュラントとアドミラル・グラーフ・シュペー……<br>
 あとはプリンツ・オイゲンとアドミラル・ヒッパー、量産艦山盛り、これは大物が釣れたわね…<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 大物って騒ぎじゃないわよこれ！このまま輸送船団に向かわれたらひとたまりもないわ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 相手の進行方向は分かりますか？<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 そうね…まっすぐこちらに向かっているわ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ……大々的に航行していた輸送船団と違って、こちらはほぼ隠密状態だったはず。しかもついさっき護衛艦隊が接敵したにもかかわらず、こちらに接近する艦影はありませんでした<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ってことは、通信傍受…もしくはこちらの作戦は最初から敵に筒抜けだったってことね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 はいはい考えるのはそこまで！とんでもない大艦隊がこちらに向かって来るなら、戦うか逃げるか決めるのが先よ<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 逃げてもしょうがないし、ここは主力艦隊を呼び寄せて一気に敵艦隊を叩くしかないんじゃない？<br>
 陛下の計画通り、鉄血主力艦隊を撃破するわよ…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=謀略|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 北極光……まさか本当に出るとは……<br>
 この作戦の原案者はやっぱりオイゲン…いいえ、「補佐」であるフリードリヒ・デア・グローセさんでしょうか<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 ええ、そうよ。妙なところで鋭いというか…カンがいいわね。<br>
 ……あら、今のはロイヤルの艦載機？私たちの計画が予定通り「バレてる」のかしら？<br>
 ということは……<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 オイゲンさん、ロイヤル支援艦隊からの通信をキャプチャーしました<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 上手くいったわね。さすがは我が鉄血の最高技術…ふふふ<br>
 …次は誰の名義を使おうかな。やはり、あの小さい女王陛下のほうが信じやすいかしら？<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 オイゲンさん……<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 別にこんなことをしたくてやっているわけじゃないわ。でもロイヤル艦隊と真正面からやり合うなんて嫌でしょう？<br>
 さて、潜水艦たちに襲撃のタイミングを送信しなくちゃ<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 分かっています。…ええ。ロイヤルは本当にこちらの思惑通りに動いてくれますでしょうか<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 潜水艦の子たちは「再現」をぶち壊す「楔」よ。重要なのは彼女たちがそこに現れるということ。護衛艦隊を上手く引き離せなくても成立するわ<br>
 そして、こっちはこっちで支援艦隊をどうにかしないとね<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=鉄血先兵|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ヒッパーたち、本隊から離脱して速力のある艦を引き連れてこちらに向かっているわね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 時間稼ぎもさせてくれないの？<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ですが敵の戦力が分散しました。主力艦には勝てないとしても巡洋艦と駆逐艦だけが相手ならこちらも勝機があります<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 シェフィの言う通りよ。ハウたちの位置に移動しつつ戦うわ<br>
 一捻りには――できなさそうな相手ね。ふぅ…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=魔眼大戦|选项=13|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">Z36：</span><br>
+<span style="color:#ec5d53;">Z36：</span><br>
 蠱惑の力を司る我が魔眼――デビルアイドルの恐ろしさに慄き、勝利の礎となるがいいッ！<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 夜闇の力を司る我が魔眼――ヴァンパイアの恐ろしさに跪き、汝の鮮血を捧げるがいいわッ！<br>
-<span style="color:#ff5c5c;">Z36：</span><br>
+<span style="color:#ec5d53;">Z36：</span><br>
 ！？まさか、「真祖」…！？<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ねえあの子たち、何やってるの……<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 こっちのセリフだっての！まさかゼクちゃんに引けを取らない子がいるとはね…<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ってあなたはアドミラル・ヒッパーね。はじめまして、ロイヤル所属の空母パーシュースですわ<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 はあ？何言ってんの？もうとっくにおっ始めてるでしょう？！<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ロイヤルレディとしていかなるときも優雅に振る舞うべきですわ。というわけでどうぞよろしくー<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 ……こ、こちらこそよろしく<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ――！<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 …！って、なんて卑怯な！やるなら正々堂々とやりなさいっての！<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 戦力的にこちらが不利ですから、何卒ご容赦くださいませ<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 逃げるんじゃないわよ！ぐうう…！絶対に逃さないっての！！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=疑惑|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">Z36：</span><br>
+<span style="color:#ec5d53;">Z36：</span><br>
 ヒッパーさん、ごめん…ヴァンパイアたちに逃げられた……<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 あんたの責任じゃないわ。あの艦載機たちが邪魔すぎただけだっての<br>
 「それでこそ追跡しがいがあるわ」ってあいつも言ってたじゃない？めっっちゃ不愉快だけど<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 ヒッパーの足止め、感謝するわ。これでしばらくは安全よ<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 そうでもないわ。鉄血の主力艦隊がもうヒッパーと合流したようね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 戦艦なのにそんなに早く走れるの！？<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 …パーシュース様、「鉄血の主力艦隊がヒッパーと合流した」という情報は確かでしょうか<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 どういう意味…？確かに遠くからでも艦が見えたわよ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 気になることがございます。もしよければ偵察機を更に鉄血艦隊に近づけていただけないでしょうか<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 もちろん構わないけど、ただ撃ち落とされる危険を冒してまで…あら？<br>
 ……ティルピッツとシャルンホルストたちの対空火器、こちらに反応しなかったわね<br>
 偵察機1機相手じゃ弾薬がもったいない…のかな？違う、これって……<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 やはりですね。あの主力艦たちはダミーと判断していいでしょう<br>
 ヴァンパイア様、パーシュース様、ここは反転して敵を攻撃することを具申します<br>
 <br>
 証拠は歴然。主力艦にしてありえない速力、反応しない対空火器……つまり――「ティルピッツたちはそこにいなかった」のだ。<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 もう、敵の囮に引っかかるところだったわ<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 しょうがないわ。私たちだってあの主力艦隊を警戒していたから<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=予定通り？|选项=15|主框=1|样式=primary|展开=否}}
 <br>
 バレンツ海・ロイヤル主力艦隊<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 今スヴァールバル諸島を通過しました！そろそろ北方連合の海域に入りますね<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ご苦労さまよ。さすがイカルス、エスコートはお手の物ね<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 へへへ、任せてください！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 輸送船団もそろそろ航路の半分過ぎを航行しているところかな…今のところは何もないようだけど<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 エディンバラ、通信装置の点検をしなさい。この見惚れちゃいそうなオーロラが無線にも影響していることを忘れないで頂戴<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 はいはい…今のところ通信装置の動作に異常なしですー通信を受信していませーん<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 鉄血艦隊が出てくると聞いてやる気が湧いたのに、これではわたしのカリスマを持て余すことになるわ<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 そうでしょうか…？輸送船団を無事送り届けて、更に指揮官を連れ戻せば、ヴァリアント様の評価が上がるんじゃなくて？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 そ、それはもちろん分かっているけど、ただこう普通に終わるだけだとちょっと拍子抜けじゃない？ほら、元々鉄血の主力艦隊と戦う準備もしてたし<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 鉄血の主力艦隊…ビスマルクさんは最近あまり表には出ていなくて、「補佐」の仲間たちと一緒に艦隊を指揮していると聞いたわ<br>
 シャルンホルストさんたちは…前の「再現」で損傷しているので、鉄血の主力艦隊が出撃してくるとしても、ヴァリアント様が期待しているような戦いにはならないかと<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 向こうの全開火力を見れないのはちょっと残念ですね……残念……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 でも敵を侮らないのがこの栄光あるクイーン・エリザベス級のヴァリアントよ！見るがいいわ鉄血の腑抜けども！華麗に鉄血をこの航路から追い出してみせるわよ！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 （こ、ここは「おー！」と拍手してあげたほうがよろしいのかしら……）<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ………そういえば、今のところ敵潜水艦としか接敵していないわね…<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 いっそのこと、鉄血に通信を送って決戦を申し込んではいかがですか？今準備して――<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ま、待たんか！いくらなんでもそこまではしないわよ！ほら、敵を侮らないのがヴァリアントって言ったばかりだし！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 戦果が目的なら、真正面で一回戦ったほうが確かによさそうね<br>
 北方連合に着いたら、陛下に具申して指揮官のいる前線に馳せ参じて、跋扈するセイレーンを懲らしめるのは――<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 よほどのことがない限り北方連合は許可してくれないわね。むむむ、どうしたら……<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 （とりあえず前線に乗り込んでから事後申請をする…ダメダメ、私イカルスちゃんみたいになってない？）<br>
 （とりあえず今のところ、目標海域まで移動するのが先ね）<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=出迎え|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 通信が入りました！支援艦隊からの通信です！<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 ティルピッツにシャルンホルスト姉妹を含む、敵鉄血の主力艦隊が支援艦隊に向けて移動中！<br>
 ――主力艦隊に支援を要請する！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 鉄血艦隊、ようやく出てきたわね…！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ふふん、戦艦まで出てくるなら…このヴァリアントのカリスマを発揮するときよ！<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 陛下の作戦通りですね！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ヴァリアント様、早く救援に行きましょう！鉄血艦隊をこの航路から追い出すときが来たわ！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 その通り！ロイヤル主力艦隊反転！鉄血艦隊に向けて――前進！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=招かれざる客|选项=17|主框=1|样式=primary|展开=否}}
 <br>
 ――――――！<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 ヴァリアント様、援護します！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 わわっ！…いい働きだったわエディンバラ！…って、今のはセイレーンの艦載機？<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 北方連合より通信です！セイレーンの一部勢力が防衛線を突破し、こちらに向かって来ているとのことです！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 もう来てるわよ！全く北方連合ときたらなんとだらしない！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 イカルス、指揮官のほうは大丈夫？<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 はい、追伸がありました！指揮官の応援もあって防衛線の穴を塞いだけど、こちらに向かって来るセイレーンを追撃する余力はないとのこと…<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ふぅ……指揮官はどうやら無事のようね。でもここはどうすれば…困ったわ<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 セイレーンの対処が先か味方の救援が先か……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 どうもこうもないわよ！セイレーンがもうあっちこっち出てきてるじゃない！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 そうね…セイレーンを倒さないと味方の救援もできないわ<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 噂の氷山要塞で出現した新型セイレーンもいるようです！気をつけてください！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 指揮官とユニオン艦隊が頑張って手に入れた情報のおかげね。ふふふ<br>
 みんな、対セイレーン戦闘を開始するわ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=火力全開|选项=18|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 再装填完了です！イカルス、火力全開！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 見た目に反して豪快な戦い方をしているわね。ふふ<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 みんなを傷つける敵は火力全開でパーッとぶっ倒すべし！ですよ<br>
 …本当はハウさんみたいにすごい火力があればなぁ…って時々思ってたり…<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 駆逐艦で戦艦レベルの火力は流石にちょっと無理だと思うわ<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 まあまあ、みんなそれぞれ好みの戦い方があるからね<br>
 大胆ながらもしなやかに戦う子がいても別に――<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 とにかく大火力をぶっ放して、敵を圧倒する戦い方ができればいいなあ……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 この子、全然あんたが思ってたようなタイプじゃないわね……<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=最重要選択|选项=19|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 資料でも読んでたけど、この新型セイレーン…思ったよりずっと厄介だわ！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 輸送船団が襲われてしまったら、護衛艦隊では対応できそうにないわ<br>
 ここで食い止めて、輸送船団の安全を確保しなければ……<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 でも支援艦隊はまだ鉄血の主力艦隊を引きつけていますよ！私たちが救援に向かわないと……<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 輸送船団と護衛艦隊、そして支援艦隊……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 本島に連絡しなさい！最悪、支援艦隊はロイヤル本島方面に逃げる選択肢が残ってるわ<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 でも、そのあと鉄血が反転したら…<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 そんな漁夫の利ならくれてやる！このヴァリアントがその程度ではくじけないことを思い知らせてやるわ！<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 ――――――――<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 通信は送りましたけど、着信確認の返信がありません…！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 本島に伝わったかどうかすら分からないなんて…うぅ…どうしてこうなるのー！<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 や、やっぱり火力全開にするだけでは解決できそうにないですね…<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ヴァリアント様、ここはどうかご決断を――<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ふ、ふん！エリザベス様ほどでなくても、あのウォースパイト並の冴えを見せるなんて造作もないわ！<br>
 ええと、まず今回の任務は船団輸送と鉄血艦隊の排除――そう、要は鉄血艦隊に被害を与え撃退さえできればいいってこと<br>
 支援艦隊は確かにピンチだけど、速力を活かせば時間が稼げるはず。でも足の遅い輸送船団はそうはいかないわ<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ええ、セイレーンがそこになだれ込んでしまえば、艦船たちはともかく、輸送船団は全滅してしまうに違いないわ<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 そして北方連合への支援物資は海の藻屑、今度は指揮官がピンチになる<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 それだけでなく、北極圏のセイレーン勢力が拡大し、ロイヤル本島とユニオンを脅かすことに――<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ……下手すると戦線が総崩れになるのね……んんん…<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ヴァリアント様……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 決まりよ。主力艦隊は反転せず、ここでセイレーンを食い止めて、輸送船団の安全を確保するわ<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 支援艦隊のみんなは……？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 本島への撤退を指示するわ。あと鉄血にも連絡よ、セイレーンの前でアズールレーンとレッドアクシズが相争うことはないわ<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 確かに…それなら鉄血も撤退してくれるかもしれませんね<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 はい！今の状況ではそれが最善ね<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 責任はこのヴァリアントが負うわ！まずは全力でセイレーンを食い止めるわよ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=幕間|选项=20|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 ヨユウヨユウズバリラクチン！Ⅲ型リソースの使用許諾さえあれば北方連合なんぞに囚われるかよコノヤロー！！<br>
 …あの北極光…すっげえなおい。コンダクターの設備ってやつ<br>
 いつか「外から来たモノ」が使えるといいけどさ<br>
@@ -678,121 +678,121 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 {{折叠面板|标题=艦隊指示No.3|选项=21|主框=1|样式=primary|展开=否}}
 <br>
 バレンツ海・ロイヤル護衛艦隊<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 ……もう「3回目」だぞ。イーグル、ハーマイオニー<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ええと、まずは「全ての艦船は西へ」<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 それと、「北方連合の港に急行せよ」<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 最後は、「船団を解散せよ」<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 わけがわからんぞ。…本島からの連絡は？<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 意味のあるものはない。全部この調子だ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 オーロラが無線に影響すると聞きましたけど…こういうことでしょうか<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 で、これからどうする？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 輸送船団の護衛艦隊として、船団を目標地点まで無事送り届けなければいけません<br>
 潜水艦以外にも、航空攻撃隊を警戒する必要がありますし…<br>
 恐れ入りますが、こちらの命令は真に受けないほうがよろしいのかと…<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 ……確認しようにも返信がない、確認できないままでは…困ったな<br>
 嘘か真かいずれにせよ、我々には陛下より預かった使命がある<br>
 ――輸送船団を無事北方連合に送り届けることだ<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 「鉄血艦隊との戦闘は支援艦隊と主力艦隊に任せる」…とおっしゃっていましたね<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 「答え」が明確だな<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 ああ。ロイヤルネイビーの一員として、王命を守ることが第一だ。こんな情報に惑わされるべきではない<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 輸送船団を見捨てるなんて、陛下がなさるはずありませんしね。皆様、引き続き進みましょう！<br>
-<span style="color:#a9f548;">ジャマイカ&イーグル：</span><br>
+<span style="color:#4eb24e;">ジャマイカ&イーグル：</span><br>
 ああ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=襲撃準備|选项=22|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">U-101：</span><br>
+<span style="color:#ec5d53;">U-101：</span><br>
 「おっと、護衛艦隊、引き続き航行を開始したわね」<br>
-<span style="color:#ff5c5c;">U-522：</span><br>
+<span style="color:#ec5d53;">U-522：</span><br>
 「ほらね、ロイヤルネイビーは輸送船団を放置しないって言ったじゃん？」<br>
-<span style="color:#ff5c5c;">U-81：</span><br>
+<span style="color:#ec5d53;">U-81：</span><br>
 「オイゲンさんに連絡するよ！これから予定通りタイミングに合わせて襲撃開始って」<br>
-<span style="color:#ff5c5c;">U-101：</span><br>
+<span style="color:#ec5d53;">U-101：</span><br>
 「まあ元々そううまくいかないだろうって話だったし、気楽に行こうじゃない」<br>
-<span style="color:#ff5c5c;">U-522：</span><br>
+<span style="color:#ec5d53;">U-522：</span><br>
 「（とはいえ、相手が警戒しているようでは多分ろくな戦果が得られないわね）」<br>
 「（あの輸送船団の物資は対セイレーンのものだから、【できれば狙わない】パターンだし）」<br>
-<span style="color:#ff5c5c;">U-81：</span><br>
+<span style="color:#ec5d53;">U-81：</span><br>
 「よぉし、みんな頑張るぞー」<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=護衛艦隊|选项=23|主框=1|样式=primary|展开=否}}
 <br>
 バレンツ海・ロイヤル護衛艦隊<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 輸送船団、今の所全員ついてきていますね。…護衛艦隊の皆様も大丈夫ですか？<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 ああ、大丈夫だ。このまま油断せず哨戒を続けるぞ<br>
 さっきの潜水艦は「また来る」らしいことを言っていたし、今度はおそらくお得意の戦法を取ってくるに違いない<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ……「ウルフパック」……！<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 いや、航跡からすると三隻じゃ済まないな<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 あのふざけた命令通りに動かなかったのは幸運だな…でなければ今頃輸送船団を全部失っていただろう<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 無事でよかったですね<br>
 っ！――敵潜水艦を探知しました！皆様、気を引き締めて対潜態勢を…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=ウルフパック|选项=24|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 また会えたわね。いきなり探知されたけど<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 一度撃退されたのにわざわざ顔を出してくれるとはな<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 鉄血の潜水艦…輸送船団には近づけさせません！<br>
-<span style="color:#ff5c5c;">U-522：</span><br>
+<span style="color:#ec5d53;">U-522：</span><br>
 （まあ、そこはあんたたちの対潜能力次第だけどね）<br>
-<span style="color:#ff5c5c;">U-101：</span><br>
+<span style="color:#ec5d53;">U-101：</span><br>
 （大ザメに乗ってるU-101はやる気全開よ！輸送船団は絶対見逃さないんだから）<br>
-<span style="color:#ff5c5c;">U-81：</span><br>
+<span style="color:#ec5d53;">U-81：</span><br>
 （輸送船団の運んでいる物資はUボートたちがいただくわよ、フフフ）<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 （浮上している子以外にもたくさんいますね…！ここは踏ん張り所よハーマイオニー）<br>
 ロイヤルメイド隊の対潜戦闘――お見せします…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=危機解除|选项=25|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">U-101：</span><br>
+<span style="color:#ec5d53;">U-101：</span><br>
 わわ！？大ザメに爆雷が命中した！？<br>
-<span style="color:#ff5c5c;">U-73：</span><br>
+<span style="color:#ec5d53;">U-73：</span><br>
 こっちも魚雷が尽きたわよ！流石にこれは限界ね…！<br>
-<span style="color:#ff5c5c;">U-522：</span><br>
+<span style="color:#ec5d53;">U-522：</span><br>
 はいはい量産艦隊もおしまいっと。もう撤退したほうがよくない？<br>
-<span style="color:#ff5c5c;">U-81：</span><br>
+<span style="color:#ec5d53;">U-81：</span><br>
 鬼ごっこは楽しかったけど戦果なかったー！<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 ふぅ……鉄血潜水艦、海域から離脱していきます<br>
-<span style="color:#a9f548;">ジャマイカ：</span><br>
+<span style="color:#4eb24e;">ジャマイカ：</span><br>
 長く苦しい戦いだった……陛下がこの航路から鉄血戦力を排除しようとする気持ちが分かる<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 これで潜水艦の脅威を排除できていればいいのですが…<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 ああ。願わくば空襲もこれで最後だといいな。こっちの損傷は？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 護衛艦隊は損傷を受けた量産艦が何隻かいますが、輸送船団は大丈夫でしたよ<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 それはよかった。鉄血も流石に対セイレーン用の物資を奪うなどとは考えていないようだな<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 本当は何事もなくそのまま通行させてほしかったですね…あははは…<br>
-<span style="color:#a9f548;">イーグル：</span><br>
+<span style="color:#4eb24e;">イーグル：</span><br>
 それよりハーマイオニー、本島からの返信はまだないのか？<br>
-<span style="color:#a9f548;">ハーマイオニー：</span><br>
+<span style="color:#4eb24e;">ハーマイオニー：</span><br>
 はい…それどころか支援艦隊、主力艦隊への連絡すら何も返信ありません<br>
 （でも通信機が壊れた感じではありませんし、もしかして情報が上手く相手に伝わっていないのでは…？）<br>
 （疑ってもしょうがないですね…ここは引き続き前進しましょう！はい！）<br>
@@ -802,170 +802,170 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 <br>
 バレンツ海・ロイヤル支援艦隊<br>
 シェフィールドとパーシュース、ヴァンパイアたち支援艦隊は鉄血の「主力艦隊」に向けて前進していた。<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ティルピッツの長距離砲撃にしても精度が低すぎます。やはり……<br>
-<span style="color:#ff5c5c;">ドイッチュラント：</span><br>
+<span style="color:#ec5d53;">ドイッチュラント：</span><br>
 そこまでだわ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ……ドイッチュラント<br>
-<span style="color:#ff5c5c;">ドイッチュラント：</span><br>
+<span style="color:#ec5d53;">ドイッチュラント：</span><br>
 そんな少ない戦力で我が鉄血の主力艦隊に挑んでくるなんて、その無駄な勇気を褒めてやるわ<br>
 あんたたちを倒すのはティルピッツではなく、この鉄血のスピリチュアルリーダーこと私、ドイッチュラントよ！<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 邪魔はしないでいただきたいのですが<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 シェフィ、避けなさい！<br>
 <br>
 パーシュースの放った艦載機が先制攻撃しようと爆弾を投下した――が、ドイッチュラントの体をそのまま「通り抜けた」。<br>
-<span style="color:#a9f548;">シェフィールド&パーシュース：</span><br>
+<span style="color:#4eb24e;">シェフィールド&パーシュース：</span><br>
 ……！？<br>
-<span style="color:#ff5c5c;">ドイッチュラント：</span><br>
+<span style="color:#ec5d53;">ドイッチュラント：</span><br>
 フフフ……あははははは！！<br>
 見たか下等生物たち！我が鉄血の技術は世界一だわ！<br>
 <br>
 爆弾が通り抜けたドイッチュラントの体が半透明になり――そのまま海の上から跡型もなく消え去った。<br>
 ドイッチュラントだけではない―。ティルピッツやシャルンホルスト姉妹、アドミラル・グラーフ・シュペー……鉄血の主力艦隊の艦影がまるで最初から存在しなかったかのように海から消えてなくなった<br>
 残ったのは、いくつかの量産型艦のみ――<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 鉄血の主力艦隊が……消えた？<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 そのようね！レーダーからも消えたわ！<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 レーダーだけでなく目視まで……これは鉄血の最新技術というより……<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 はぁ…シェフィの推測通りよ<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 鉄血の主力艦隊は最初からここにいなくて、わたしたちはずっと幻と追いかけっこしてたわけね<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 結果的にいえばそうなるわね<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 …………<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 でもあの量産艦たちは本物のようね。ほらもう狙ってきているし…！<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 雨降れば量産艦固まるってことね…！<br>
-<span style="color:#a9f548;">ヴァンパイア&シェフィールド：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア&シェフィールド：</span><br>
 ……？<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 …とりあえずほかの艦隊に打電するわ。こいつらを片付けるわよ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=計画通り|选项=27|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 というのがこの装置の操作の仕方よ。まさか「傍受」じゃなくて、文字通り「捕まえる」なんて、とんでもないわね<br>
 といっても何回も使えるものじゃないわ。周波数を変えれば対策されるし、味方にも被害を及ぼしかねないから<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 怪しまれてはただのジャミングと効果が変わらないですね。ええ、実際護衛艦隊を引き離せませんでした<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 まあね。『再現』を破壊するお膳立てをするのが目的でしょう？そういう意味なら十分役割を果たしているわ<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 ………適当ですね。ええ、いつものことですが<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 深く考えないほうが身のためよ。ふふふ<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 では、主力艦隊のプロジェクションが終了したので、次は何をしますか？<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 ん……そうね、とりあえずかるーく戦ってから離脱する？<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 作戦計画の中には書いていませんが。ええ、「私たちまで」戦闘に参加することは<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 もちろんよ。でもヒッパーちゃんとドイッチュラントたちがあのままだと大変でしょ？<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 了解しました。…ええ、各艦に連絡します<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=招かれざる客・真|选项=28|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 軽空母だからってなめるんじゃないわよ。ふん<br>
 ……ほら、そこ<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 艦載機を片付けたらこっちの支援も頼むわよ。量産型とはいえ重巡となると私とシェフィじゃ火力が足りないの<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 はいはい<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 うんうん、やっぱり空母による航空支援があると気持ちいいわね！<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 これで鉄血の戦力を排除できました。が…<br>
 通信機が故障していますね。返信が来ないのではなく、今度はこちらからの発信もできなくなってしまっています<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 ひどくなってない？<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 装置の故障とは考えにくいので、これは誰かのジャミングと考えていいでしょう<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 また鉄血の仕業かー、と言いたいところだけど、どうやらそうではないようね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 対空戦闘…って誰かがセイレーンの艦載機と戦っているわ！<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 艦載機だけじゃないよ。セイレーンの量産艦が北方よりこちらに接近している、それも結構な数ね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 なんで急に現れたか考えるヨユウもなさそうね<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 考えるまでもないわよ。「北方連合がセイレーンを抑えてくれている」、つまりその北方連合がピンチになったら漏れ出すセイレーンもいるってことね<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 言い換えれば鉄血艦隊も一緒にセイレーンと戦ってくれるってわけね<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 …だといいわね。うん…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=セイレーン増勢|选项=29|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 セイレーン艦隊多数を発見。私たちとロイヤル艦隊とで掎角になっていますね<br>
 通信機器もかろうじて短距離で使える程度ですが、これではもう鏡面海域の感触です。ええ、これも作戦計画の一環ですか？<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 そんなわけないわよ。だいたいセイレーンなんて使った時点で「再現」にならなくない？<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 つまりこれは…ええ、向こうも「諦めている」ということでいいのでしょうか<br>
 …いずれにしても、早くヒッパーさんたちと合流しましょう<br>
-<span style="color:#ff5c5c;">プリンツ・オイゲン：</span><br>
+<span style="color:#ec5d53;">プリンツ・オイゲン：</span><br>
 ……………もちろんよ<br>
 任された仕事はもうこなしたわ。早くみんなを連れておうちに戻るわよ<br>
-<span style="color:#ff5c5c;">Z36：</span><br>
+<span style="color:#ec5d53;">Z36：</span><br>
 ヒッパーさん！セイレーンの艦載機がそちらに向かってる！<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 この動力機構調子悪すぎだっての！よし直った…<br>
-<span style="color:#ff5c5c;">Z36：</span><br>
+<span style="color:#ec5d53;">Z36：</span><br>
 オイゲンさんから撤退の連絡が来ているよ！早く戻ろう！<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 は？！ドイッチュラントがまだ戦っているってのに？！<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 気持ちは分かりますが。ええ、そちらにも連絡しています。一緒に戻りましょう<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 ……分かったわよ。セイレーンまで出てきてからじゃあ話にならないわ。そっちの作戦は順調？<br>
-<span style="color:#ff5c5c;">Z2：</span><br>
+<span style="color:#ec5d53;">Z2：</span><br>
 ええ、「作戦」は順調です。はい<br>
-<span style="color:#ff5c5c;">アドミラル・ヒッパー：</span><br>
+<span style="color:#ec5d53;">アドミラル・ヒッパー：</span><br>
 ならいいわ。Z36、早く量産艦をまとめて後退するわよ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 鉄血艦隊が撤退していきますね。やっぱりセイレーンへの対策が優先されるようです<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 こちらと共闘したほうがもっとセイレーンを早く倒せるというのに…まあ仕方ないわね<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 「昨日の敵は今日の友」と言っても、まだ日を跨いでないしね<br>
 とりあえず鉄血艦隊は放っておいて、今はセイレーン艦隊に集中するわ<br>
 なんか連中の雰囲気、今までと違うし…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=再出発|选项=30|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 片付いたわね。戦いにくかった…<br>
 北方連合がこんなセイレーンとばかり戦っているのならピンチも分かるわね…人形の指揮個体がいなくてもあんな戦闘力だし<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 でもこの数はまだなんとかなるわね。私たちだけでも<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 そうね。もし敵が全部こんな感じだったら…うっ、考えないでおくわ<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 ………………<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ……あ！私たちがセイレーンに遭遇したということは、輸送船団も同じセイレーンと交戦している可能性が高くない？！<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 まずいわ！護衛艦隊は輸送船団を守りながら戦わなければならないわ！<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 ヴァンパイアさん、シェフィ、ここは急いで護衛艦隊と合流しましょう<br>
-<span style="color:#a9f548;">ヴァンパイア：</span><br>
+<span style="color:#4eb24e;">ヴァンパイア：</span><br>
 確かに、鉄血の主力艦隊がいないって分かったならそっちに行ったほうがいいわね！<br>
-<span style="color:#a9f548;">パーシュース：</span><br>
+<span style="color:#4eb24e;">パーシュース：</span><br>
 なら決まりね。ほら、シェフィも早く！<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 （セイレーンが出現してから、ドイッチュラントもヒッパーたちもかなり慌ただしく撤退しました）<br>
 （どうやらセイレーンは鉄血の作戦の一部ではないようです。少なくとも今回は「利用している」ようには見えません）<br>
 （だとしたら、鉄血はどうして偽りの主力艦隊を作り出してまでこちらをおびき寄せようとしたのでしょうか）<br>
@@ -976,239 +976,239 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 <br>
 バレンツ海・ロイヤル主力艦隊。セイレーンとの戦いはまだ続いている――<br>
 鉄血の主力艦隊を正面から撃破するために編成された戦力だけあって、セイレーンを次から次へと撃破していってるが――<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 なんて数なの…きりがないわ…！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ま、まさか北方連合の防衛線がもう崩壊して……<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 落ち着いてヴァリアント様！セイレーンは元々急に現れたりするものよ！ここは私達主力艦隊で踏ん張らないと！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 そ、そうね！王家のカリスマを北方連合とセイレーンに見せてやるわ！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 その調子よヴァリアント様！……あれは？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 確かあれは「オブストラクター」とかいう人形セイレーンね！イカルス、あれはなんなのか説明して頂戴！<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 は、はい！艦船艤装の電気伝導系統を攻撃する兵装を装備し、その兵装の攻撃を受けたら…火力全開できなくなります！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 じゃあどうすればいい？<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 氷山要塞のレポートによると、北方連合はそのまま火力で押し切ったそうです！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ……北方連合らしいわね………<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 なんだか格好いいやり方ですね……！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 こうなったら仕方ないわ！火力だって北方連合に負けないことを思い知らせてやるわ！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 はい！みんな、火力全開よ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=オミッター|选项=32|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 再装填完了！全弾発射です！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 やるわねイカルス！その調子よ！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 手応えがあったわ！どうやらオブストラクターの機動性と防御力もそこまでじゃないみたい<br>
 エディンバラ、氷山要塞のレポートにまだ何か書いてある？<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 えっ！？急に聞かれても……んんん……<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 エディンバラはやっぱりエディンバラだわ……<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 ひどい！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ごめんなさい。急に聞いた私も悪かったわ。…イカルス？どうしたの？<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 なんでもありませんっ！多分私の思い違いかな…<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 今はあんたの勘も頼りよ！早く言いなさい！<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 はい！ええとですね…北方連合の防衛線すら突破できるようなセイレーンなのに、火力がちょっと低すぎないですか？<br>
 確かにオブストラクターのような面倒な敵もいますし、防御力とか全体的に性能が上がってますけど…<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 言われてみれば……<br>
-<span style="color:#ff5c5c;">通信機：</span><br>
+<span style="color:#ec5d53;">通信機：</span><br>
 ――愚鈍にして弱小、無知蒙昧な個体たちよ、この我を随分と待たせるな！<br>
 震えよ！竦めよ！我が暗き深淵から出でし恐怖に怖れおののけ！――<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 通信機から声が！？<br>
-<span style="color:#ff5c5c;">通信機：</span><br>
+<span style="color:#ec5d53;">通信機：</span><br>
 ……決まったぜ。やっぱり登場はこうカッコよく決めねぇとなァ！<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 思い出しました！氷山要塞レポートに書いてある「通信チャンネルの迷惑連絡」ですよ！<br>
-<span style="color:#ff5c5c;">通信機：</span><br>
+<span style="color:#ec5d53;">通信機：</span><br>
 め。迷惑連絡だと……！？ナメやがって！！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 あんたがセイレーンの指揮個体と見ていいわね<br>
-<span style="color:#ff5c5c;">通信機：</span><br>
+<span style="color:#ec5d53;">通信機：</span><br>
 そうだ！我が領域に踏み入る愚か者よ、今貴様らを全て永久に凍てつかせてやる！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ど、どういう意味…？<br>
-<span style="color:#ff5c5c;">通信機：</span><br>
+<span style="color:#ec5d53;">通信機：</span><br>
 あははは！今日はたくさん新しい玩具を用意してやったから今に見てろよ！<br>
 ——————————<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 こ、声が消えました…<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 今のってジャマイカなら意味分かるのかしら…？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 こんなわけの分からない連絡をいきなり送ってくるなんて迷惑連絡としか言いようないわよ！<br>
 みんな、こいつにしっかりロイヤルのマナーを叩き込んでやるわ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=ロイヤルの流儀|选项=33|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 よーやく辿り着いたか。量産型艦隊を突破したことは褒めてやるぜ<br>
 オブストラクターの新型までリソースを持ち出したんだ、さぞ戦いで苦しめられただろう？あはははは！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 北方連合によって追い出された残党程度では苦戦するまでもないわ<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 あ、あれは所詮本体に対する先兵、ロングテイルのテイル、無限にあるリソース中のチリ程度だぜ？<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 ……言い訳？<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 つまりてめぇら程度では手持ちの権限やリソースだけでいいってことだ！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ふん、威勢だけは一人前のようね<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 実力も一人前だ！ナメてんのかこのチビがあああ！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 なんだと！？エディンバラ、こいつも確か氷山要塞にいたのよね？<br>
-<span style="color:#a9f548;">エディンバラ：</span><br>
+<span style="color:#4eb24e;">エディンバラ：</span><br>
 え！？あ、言われてみれば外見と艤装の特徴に覚えがあるような…<br>
 （ど、どうしよう一瞬だけそんな記述を読んだ気がするけど、全然思い出せない…頑張れエディンバラ！ここは格好いいところを見せてベルに負けてないことをアピールして…）<br>
 「強力な人形セイレーンにして魚雷と砲撃を駆使するだけでなく電子機器へのジャミング攻撃を行いオブストラクターへの対策と同じく対策を検討すべきで戦闘時における火力集中が効果的だと思われる」<br>
 「さらに背中の巨大な砲口と思われる部分の用途は現状不明になっており氷山要塞での戦いでは攻撃に使われた痕跡がなくおそらくは威嚇用のオブジェクトである可能性が高いと推測される」<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 あ、あの背中のものは巨大な砲ではないのですか…？<br>
 （敵の強力な兵装でないのは幸運ですけど、なんだかちょっと残念なような……）<br>
 （な、なにを考えているのわたし？！あははは……）<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 い、威嚇用のオブジェクトォ……<br>
 ふざけるなあああああああああ！！！！<br>
 そんなに…このオミッターの力を見たいのか――<br>
 絶望に屠られよ！地獄で足掻け！てめぇらのデータは――<br>
 <br>
 ―――！！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 来るわ！みんな、戦闘準備を！女王陛下に栄光あれ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=対策|选项=34|主框=1|样式=primary|展开=否}}
 <br>
 オミッターとの戦いは苛烈をきわめた。<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 この光学兵器……っ！<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 す、凄いです！色んな意味で…！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 侮ったわね…ヴァリアント様は無事？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 なんとかね！流石に直撃したらただでは済まないわ！イカルス、エディンバラ、装甲が薄い子は後退して！<br>
-<span style="color:#a9f548;">イカルス&エディンバラ：</span><br>
+<span style="color:#4eb24e;">イカルス&エディンバラ：</span><br>
 はい！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 （まさかここまで強い敵がいるなんて…！ウォースパイトでもキツイんじゃない！？）<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 このまま砲撃戦を続けても埒があかないわ。なんとしてでもあの光学兵器を止めないと…<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 光学兵器を止める方法…まさかハウ！？<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ええ、あの「主砲」とやらを破壊してみせるわ！<br>
 ヴァリアント様、お力をお借りしてもよろしくて？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ふん！ロイヤルのカリスマとしてこのヴァリアント、配下を支えるのは当然よ！<br>
 我々はロイヤルネイビー・バレンツ海特派作戦主力艦隊！いざ、前進！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 女王陛下の栄光と、この剣にかけて！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=そして再び|选项=35|主框=1|样式=primary|展开=否}}
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 さっきまでの威勢はどうした！もう逃げ回ることしかできねぇのかー！？はははははは！！！<br>
 <br>
 オミッターからの乱れ撃たれる破壊光線を避けながら、ヴァリアントとハウは必殺の瞬間を伺っていた。<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 砲撃に魚雷、そしてあの光学兵器…また砲撃に魚雷…<br>
 …！あの主兵装を撃ったあと、しばらく動きが止まるわ！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 チェスなら「キング」はときにほかの駒を立たせるわね…ならわたしが囮になるわ！<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 ……ハァ？もう観念したのか？急に動きを止めてさぁ<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 腐っても上位個体、侮っていたわたしが迂闊だったわ<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 「腐っても」とはなんだ？まあいい、降参したからには楽にしてやる<br>
 どうせてめぇらのデータは収集したし、こっちも急いでいるわけで――<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 そう簡単にやられないわよ…！<br>
 <br>
 オミッターが発射した破壊光線をギリギリのところで回避したヴァリアント、そして――<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 おっと外したか！だがざんねーん、またすぐにチャージして―――<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 今よ！ハウ！チャージなどさせるんじゃないわッ！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 任せて！<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 しまった！？<br>
 <br>
 はあああああああああ！！！<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 あのチビ、自分を囮にしていたというのか……くっ！？<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 いつも「駒」ばかり言ってるあんたらに、このヴァリアントが真なる「駒」の動かし方を教えてやるわ！<br>
 <br>
 オミッターのチャージが終わる前に、ハウの剣がオミッターの艤装に深く突き刺さった。<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 これで終わりよ！<br>
-<span style="color:#ff5c5c;">オミッター：</span><br>
+<span style="color:#ec5d53;">オミッター：</span><br>
 そんなああああ！！爆発エンドだけは…ああああああ！！！<br>
 <br>
 オミッターの艤装に込められていたエネルギーによる誘爆のあと、人形セイレーンと艤装の痕跡は何もかも残っていなかった。<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 げほげほ…危なかったわ…やっぱりこういうのより砲撃戦のほうが……ヴァリアント様っ！<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 さっきの攻撃でちょっと片方の主砲がやられただけよ。どうせ母港に戻ったら修理するし大事ないわ……そんなことよりあのオミッターは？<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 レーダーに反応はありません……今探してみます！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 残った敵の掃討を手伝うわ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=鉄血の意図|选项=36|主框=1|样式=primary|展开=否}}
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 みんな、大変です！北極光が……<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 セイレーンを撃破したと同時に急になくなってきたわね……あ、もしかして通信機のほうも回復しつつある？<br>
-<span style="color:#a9f548;">イカルス：</span><br>
+<span style="color:#4eb24e;">イカルス：</span><br>
 はい！今通信が入ってきました――<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 ――――――――――こちらロイヤル本島―――<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 ふぅ……北方連合のようにセイレーンのジャミングに対抗できる通信機がほしいわ<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 こちらウォースパイト。主力艦隊、今すぐ任務を中止し帰還しなさい！<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 任務中止？ウォースパイト様、私たちはこれから指揮官を迎え入れるのでは……？<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 今はそれどころじゃないの。主力艦隊と支援艦隊はすぐに艦隊の反転を。輸送船団は北方連合に到着しているから大丈夫よ<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 もう何がなにやら…ハウ、通信機を<br>
 ウォースパイト！こちらヴァリアントよ。スカパ・フローで一体何が起きたの！？<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 …バレンツ海の作戦でスカパ・フローの防備が一時手薄になっていたわ。それで鉄血による奇襲を受けたの<br>
 タイミングが悪いことに、その直前に陛下とベルファストがスカパ・フローに向かっていたわ<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 エリザベス様が…？！どうして急にスカパ・フローへ…！？<br>
-<span style="color:#a9f548;">通信機：</span><br>
+<span style="color:#4eb24e;">通信機：</span><br>
 こちらも現地の艦船たちが交戦中とのこと以外、詳しい状況は知らないわ<br>
 とにかく、こちらはすぐ現地に急行するわ<br>
-<span style="color:#a9f548;">ヴァリアント：</span><br>
+<span style="color:#4eb24e;">ヴァリアント：</span><br>
 ――ウォースパイト、本気ね……<br>
-<span style="color:#a9f548;">ハウ：</span><br>
+<span style="color:#4eb24e;">ハウ：</span><br>
 鉄血の主力艦隊、スカパ・フローを奇襲するために私達をここで釘づけにしたのでは……<br>
 護衛艦隊が無事に到着しているのでしたらこの海域に留まる必要はないわ。みんな、反転してパーシュースたちと合流するわよ<br>
 （陛下、無事でいてください……）<br>
@@ -1219,13 +1219,13 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 無数の氷柱が外力によって海面から抜き出され、先端が空へと続く巨大な構造体を形成している。<br>
 そこは北方連合・特異点「王冠」――そして現在セイレーンの北極圏内における最大の拠点の一つ。<br>
 そして、その拠点から生み出された無尽蔵のセイレーンに抗い続けている人類の守り手たちもまた存在している。<br>
-<span style="color:#a9f548;">チャパエフ：</span><br>
+<span style="color:#4eb24e;">チャパエフ：</span><br>
 ソユーズの希望とはいえ、指揮官を少し長く滞在させすぎじゃないかしら？そろそろ迎えが来てもおかしくないわ<br>
-<span style="color:#a9f548;">タシュケント：</span><br>
+<span style="color:#4eb24e;">タシュケント：</span><br>
 あっそ。タシュケントは別に……よくないわね<br>
-<span style="color:#a9f548;">アヴローラ：</span><br>
+<span style="color:#4eb24e;">アヴローラ：</span><br>
 確かに今のタイミングだとちょっと難しいですね。指揮官がいてくれるおかげでここまで「王冠」に接近できていますし<br>
-<span style="color:#a9f548;">ソビエツカヤ・ロシア：</span><br>
+<span style="color:#4eb24e;">ソビエツカヤ・ロシア：</span><br>
 ああ、結局一つずつセイレーンの拠点を潰さないと、押しつぶされるのはこちらのほうだ。防衛線より総力戦というべきか<br>
 すまない、指揮官。今一度氷山要塞のときのように、私達を導いてくれないか？<br>
 <br>
@@ -1233,57 +1233,57 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 なら、彼女を率いる存在として、あともう少しだけ――<br>
 <br>
 '''''<span style="color:black;">选择项1：作戦指示を出す</span>'''''<br>
-<span style="color:#a9f548;">みんな：</span><br>
+<span style="color:#4eb24e;">みんな：</span><br>
 γpa！！！！<br>
-<span style="color:#ffff4d;">ソビエツキー・ソユーズ：</span><br>
+<span style="color:#ffd000;">ソビエツキー・ソユーズ：</span><br>
 「「「一緒に、戦いましょう。同志指揮官」」」<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=スカパ・フロー|选项=38|主框=1|样式=primary|展开=否}}
 <br>
 ロイヤル本島<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 本国艦隊も一気に出撃すると壮観ね。ベルもそう思わない？<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 はい。作戦成功を祈っております。陛下<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 鉄血艦隊はきっと出てきてくれるわ！…さて、ベルはここで様子を見ておきなさい、誰も通さないように<br>
 あと、シェフィのほうも、進展があったら教えて<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 かしこまりました<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 スカパ・フローにいらっしゃるのですか？<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 そうよ！北方連合から戻るときは「例のもの」を持って指揮官をそのままスカパ・フローに連れて来なさい！<br>
-<span style="color:#a9f548;">シェフィールド：</span><br>
+<span style="color:#4eb24e;">シェフィールド：</span><br>
 かしこまりました<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 （「水底にある歴史」「仮説の具現」ねえ……鉄血のほうがやっぱり一歩先に進んでいるじゃない）<br>
 （こっちももうちょっと頑張らないと…全く悩ましいわ。ヴィシア…ううん、あの鉄血の艦船…）<br>
 （あれは確か「艦船（KAN-SEN）」ではなくただの「フネ」…そしてあの数々の船たちとともにスカパ・フローに沈んでいたはず……）<br>
 （なら、今の「艦船」としての彼女は一体なんなの？「水底にある歴史」？それとも「仮説の具現」…？）<br>
 <br>
 ――――！！！<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 陛下、鉄血の主力艦隊による奇襲です！避難してください！<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 鉄血の主力艦隊？！バレンツ海ではなく、どうしてここに！？<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 こちらの情報網をなにかしらの手段で欺いたのでしょう。陛下、時間がありません、すぐ安全な場所に移動してください<br>
-<span style="color:#ff5c5c;">ドイッチュラント：</span><br>
+<span style="color:#ec5d53;">ドイッチュラント：</span><br>
 待ちなさい！また会えたわね女王陛下！<br>
 ようやくここに辿り着いたわ！今度こそこの場所を我が鉄血の手に――<br>
 ここで沈みたくなければさっさと尻尾巻いて逃げるがいいわ！あはははは！<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 ベル、敵の規模は？<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 申し訳ございません、敵の奇襲によりこちらの指揮系統はまだ混乱状態です。ただ、最低でもあと2隻以上の戦艦クラスの艦船がここにいると――<br>
-<span style="color:#a9f548;">クイーン・エリザベス：</span><br>
+<span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 鉄血の主力艦隊で間違いないわね。なんてこと…<br>
 ……ふん、控えなさいドイッチュラント、あんたに言われる筋合いなどないの<br>
 むしろ道を開けるのはそちらのほうよ、私の高貴な道を邪魔するんじゃないわ！<br>
 ……突破するわよ。ベル！<br>
-<span style="color:#a9f548;">ベルファスト：</span><br>
+<span style="color:#4eb24e;">ベルファスト：</span><br>
 かしこまりました。陛下<br>
 {{折叠面板|内容结束}}
 
@@ -1291,74 +1291,74 @@ U-73は撤退したし、攻撃隊も引っ込めたし、ということは今�
 <br>
 マルタ島・宴会会場<br>
 ロイヤルとアイリスの共同主催による宴会では、とある艦船が出席することになっていた――<br>
-<span style="color:#ffff4d;">リットリオ：</span><br>
+<span style="color:#ffd000;">リットリオ：</span><br>
 地中海に美味しい紅茶、そして美しいレディたち――ロイヤルの宴会に参加するなんて久しぶりだわ<br>
-<span style="color:#a9f548;">イラストリアス：</span><br>
+<span style="color:#4eb24e;">イラストリアス：</span><br>
 ご満足いただけてなによりですわ<br>
-<span style="color:#a9f548;">リシュリュー：</span><br>
+<span style="color:#4eb24e;">リシュリュー：</span><br>
 ご参加いただきありがとうございます。リットリオ様<br>
-<span style="color:#ffff4d;">リットリオ：</span><br>
+<span style="color:#ffd000;">リットリオ：</span><br>
 こちらこそ、お誘いいただき感謝するわ枢機卿。あなたのおかげでアイリスも新しいステージに上がったようで<br>
-<span style="color:#a9f548;">リシュリュー：</span><br>
+<span style="color:#4eb24e;">リシュリュー：</span><br>
 アイリス教国はアズールレーンの一員として、引き続きセイレーンへの抗戦を続けるつもりです。サディア帝国は…<br>
-<span style="color:#ffff4d;">リットリオ：</span><br>
+<span style="color:#ffd000;">リットリオ：</span><br>
 ああ、それならヴェネトといろいろ努力しているが、元老院は難儀なんでね。すぐに鞍替えできるような状況ではないわ<br>
-<span style="color:#a9f548;">リシュリュー：</span><br>
+<span style="color:#4eb24e;">リシュリュー：</span><br>
 左様ですか。表向きですが、お互いまだ敵同士……という間柄なのですね<br>
-<span style="color:#ffff4d;">リットリオ：</span><br>
+<span style="color:#ffd000;">リットリオ：</span><br>
 なのでこちらも帰路は惚れさせた子から夜間攻撃されないよう気をつけないとね。ふふふ<br>
-<span style="color:#a9f548;">イラストリアス：</span><br>
+<span style="color:#4eb24e;">イラストリアス：</span><br>
 あらら……<br>
-<span style="color:#a9f548;">ユニコーン：</span><br>
+<span style="color:#4eb24e;">ユニコーン：</span><br>
 イラストリアス姉ちゃん……<br>
-<span style="color:#a9f548;">イラストリアス：</span><br>
+<span style="color:#4eb24e;">イラストリアス：</span><br>
 どうしたの？ユニコーンちゃん？<br>
-<span style="color:#a9f548;">ユニコーン：</span><br>
+<span style="color:#4eb24e;">ユニコーン：</span><br>
 本島から連絡が……<br>
-<span style="color:#a9f548;">イラストリアス：</span><br>
+<span style="color:#4eb24e;">イラストリアス：</span><br>
 本島から？リットリオ様は大丈夫ですわ。どういう内容か教えて？<br>
-<span style="color:#a9f548;">ユニコーン：</span><br>
+<span style="color:#4eb24e;">ユニコーン：</span><br>
 はい…陛下がスカパ・フロー滞在中に鉄血の奇襲を受け、極めて危急の状況にって……<br>
-<span style="color:#a9f548;">イラストリアス：</span><br>
+<span style="color:#4eb24e;">イラストリアス：</span><br>
 ……あぅ<br>
-<span style="color:#a9f548;">リシュリュー：</span><br>
+<span style="color:#4eb24e;">リシュリュー：</span><br>
 エリザベス様が…！そのようなことに……<br>
-<span style="color:#ffff4d;">リットリオ：</span><br>
+<span style="color:#ffd000;">リットリオ：</span><br>
 鉄血がなぜそのような場所に……また戦局が大きく変わるわね…<br>
 <br>
 ユニオン・NYシティ<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 エンタープライズ、ワシントン！今の連絡って……<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 ああ、状況を把握した。鉄血艦隊があのスカパ・フローを狙っていたとはな<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 あそこはただの泊地じゃないのに…<br>
 今ころロイヤルはどうなっているのかな…<br>
-<span style="color:#a9f548;">ワシントン：</span><br>
+<span style="color:#4eb24e;">ワシントン：</span><br>
 鉄血の目的がわからないな。南のほうに向かうためか、それとも…<br>
-<span style="color:#a9f548;">サラトガ：</span><br>
+<span style="color:#4eb24e;">サラトガ：</span><br>
 サラトガちゃんでもそこまでは分からないな…<br>
-<span style="color:#a9f548;">エンタープライズ：</span><br>
+<span style="color:#4eb24e;">エンタープライズ：</span><br>
 とにかく警戒態勢を敷こう。各ユニオン艦船に連絡して、敵の奇襲に備えよう…！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=新段階|选项=40|主框=1|样式=primary|展开=否}}
 <br>
 北方連合にて<br>
-<span style="color:#ffff4d;">ソビエツキー・ソユーズ：</span><br>
+<span style="color:#ffd000;">ソビエツキー・ソユーズ：</span><br>
 「輸送船団まで狙われるとは、ロイヤルの護衛艦隊がいてくれてよかったです」<br>
 「ロイヤルの作戦は失敗…鉄血にひどくやられた模様…」<br>
-<span style="color:#ffff4d;">ソビエツカヤ・ロシア：</span><br>
+<span style="color:#ffd000;">ソビエツカヤ・ロシア：</span><br>
 セイレーンの動きと鉄血はシンクロしすぎている。偶然の結果とは思えないな<br>
-<span style="color:#ffff4d;">ソビエツキー・ソユーズ：</span><br>
+<span style="color:#ffd000;">ソビエツキー・ソユーズ：</span><br>
 「だが輸送船団の到着でバルト海方面の状況は改善しました。支援物資の分配は順調ですか」<br>
-<span style="color:#ffff4d;">ソビエツカヤ・ロシア：</span><br>
+<span style="color:#ffd000;">ソビエツカヤ・ロシア：</span><br>
 前線に最速で届けている。損傷していた輸送船の修理も始めているぞ<br>
-<span style="color:#ffff4d;">ソビエツキー・ソユーズ：</span><br>
+<span style="color:#ffd000;">ソビエツキー・ソユーズ：</span><br>
 「輸送任務に感謝します。皆さんを英雄として讃えましょう」<br>
-<span style="color:#ffff4d;">ソビエツカヤ・ロシア：</span><br>
+<span style="color:#ffd000;">ソビエツカヤ・ロシア：</span><br>
 流石にセイレーンと戦うための物資に鉄血は手を出さなかったな<br>
-<span style="color:#ffff4d;">ソビエツキー・ソユーズ：</span><br>
+<span style="color:#ffd000;">ソビエツキー・ソユーズ：</span><br>
 「指揮官を出迎えることも条件…必要な存在は、大事に、丁寧に……」<br>
 「指揮官の重要性はもはや疑うまでもありません。ロイヤル艦隊も現在ほかの案件に集中している模様」<br>
 「滞在期間の延長要請をもはや断られることはありません」<br>
