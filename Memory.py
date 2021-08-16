@@ -7,6 +7,13 @@ getShipName = util.getShipName
 getNameCode = util.getNameCode
 parseNameCode = util.parseNameCode
 
+ColorDict = {
+    '#a9f548': '#4eb24e', #绿色
+    '#ffff4d': '#ffd000', #黄色
+    '#ff5c5c': '#ec5d53', #红色
+    '#ffa500': '#ff9900' #橙色
+}
+
 def getMemoryGroup():
     return util.parseDataFile('memory_group')
     
@@ -214,7 +221,7 @@ def wikiSlide(slide, lastActor, lastOption):
     if name != None:
         if len(name) > 0:
             if slide['color']:
-                output += '<span style="color:' + slide['color'] + ';">' + name + '：</span>'
+                output += '<span style="color:' + replaceColor(slide['color']) + ';">' + name + '：</span>'
             else:
                 output += name + '：'
         output += '<br>\n'
@@ -230,6 +237,12 @@ def wikiSlide(slide, lastActor, lastOption):
 
 def nowiki(text):
     return re.sub(r'(~{3,})', r'<nowiki>\1</nowiki>', text)
+
+def replaceColor(color):
+    if color in ColorDict.keys():
+        return ColorDict[color]
+    else:
+        return color
 
 def wikiGenerate():
     nameCode = getNameCode()
