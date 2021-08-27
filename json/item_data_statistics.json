@@ -13145,6 +13145,31 @@
         "type": 17,
         "virtual_type": 0
     },
+    "40119": {
+        "display": "\u8d2d\u4e70\u793c\u5305\u53ef\u83b7\u5f97\u5fc3\u667a\u5355\u5143*1000",
+        "display_icon": [
+            [
+                2,
+                15008,
+                1000
+            ]
+        ],
+        "drop_gold_max": 0,
+        "drop_oil_max": 0,
+        "icon": "ChargeIcon/boxChips",
+        "id": 40119,
+        "index": {},
+        "is_world": 0,
+        "link_id": 0,
+        "name": "\u5fc3\u667a\u5355\u5143\u793c\u5305",
+        "price": {},
+        "rarity": 4,
+        "replace_item": 0,
+        "shiptrans_id": 0,
+        "shop_id": -1,
+        "type": 17,
+        "virtual_type": 0
+    },
     "40901": {
         "display": "\u8d2d\u4e70\u793c\u5305\u53ef\u83b7\u5f97\u968f\u673a\u65b0\u5e74\u6362\u88c5*1\uff0c\u88c5\u5907\u5916\u89c2\u7bb1*3(\u76f4\u63a5\u5f00\u542f)\uff0c\u94bb\u77f3*2018\uff0c\u5fc3\u667a\u9b54\u65b9*8\uff0c\u5feb\u901f\u5efa\u9020*4\uff0c\u5bb6\u5177\u5e01*100",
         "display_icon": [
@@ -137223,6 +137248,25 @@
         "shiptrans_id": 0,
         "shop_id": -1,
         "type": 0,
+        "virtual_type": 0
+    },
+    "59229": {
+        "display": "\u7528\u4e8e\u300e\u5fae\u5c42\u6df7\u5408\u300f\u590d\u523b\u6d3b\u52a8\u5151\u6362\uff0c\u6d3b\u52a8\u7ed3\u675f\u540e\u5c06\u4f1a\u6d88\u5931",
+        "display_icon": {},
+        "drop_gold_max": 0,
+        "drop_oil_max": 0,
+        "icon": "Props/meixiv3_pt",
+        "id": 59229,
+        "index": {},
+        "is_world": 0,
+        "link_id": 0,
+        "name": "\u94f6\u7ffc\u4e4b\u5fbd",
+        "price": {},
+        "rarity": 2,
+        "replace_item": 0,
+        "shiptrans_id": 0,
+        "shop_id": -1,
+        "type": 98,
         "virtual_type": 0
     },
     "59230": {

@@ -10074,6 +10074,258 @@
         "ui_type": 1,
         "uifx": ""
     },
+    "1550001": {
+        "ani_name": "Map_1300001",
+        "animtor": 1,
+        "bg": "Map_1300001",
+        "bgm": "hunhe-story",
+        "bind_map": 1550011,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "WEICENGHUNHE1",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1550001,
+        "name": "\u5fae\u5c42\u6df7\u5408\u00b7\u4e0a\u7bc7|| ||CHAPTER EX||E.X.",
+        "on_activity": 4079,
+        "title": "EX",
+        "type": 4,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1550002": {
+        "ani_name": "Map_1300002",
+        "animtor": 1,
+        "bg": "Map_1300002",
+        "bgm": "hunhe-level",
+        "bind_map": 1550012,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "WEICENGHUNHE17",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1550002,
+        "name": "\u5fae\u5c42\u6df7\u5408\u00b7\u4e0b\u7bc7|| ||CHAPTER EX||E.X.",
+        "on_activity": 4079,
+        "title": "EX",
+        "type": 4,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1550011": {
+        "ani_name": "Map_1300003",
+        "animtor": 1,
+        "bg": "Map_1300003",
+        "bgm": "hunhe-story",
+        "bind_map": 1550001,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "WEICENGHUNHE1",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1550011,
+        "name": "\u5fae\u5c42\u6df7\u5408\u00b7\u4e0a\u7bc7|| ||CHAPTER EX||E.X.",
+        "on_activity": 4079,
+        "title": "EX",
+        "type": 5,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1550012": {
+        "ani_name": "Map_1300004",
+        "animtor": 1,
+        "bg": "Map_1300004",
+        "bgm": "hunhe-level",
+        "bind_map": 1550002,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "WEICENGHUNHE17",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1550012,
+        "name": "\u5fae\u5c42\u6df7\u5408\u00b7\u4e0b\u7bc7|| ||CHAPTER EX||E.X.",
+        "on_activity": 4079,
+        "title": "EX",
+        "type": 5,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1550025": {
+        "ani_name": "Map_1300004",
+        "animtor": 1,
+        "bg": "Map_1300004",
+        "bgm": "xinnong-4",
+        "bind_map": 1550012,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1550025,
+        "name": "\u5fae\u5c42\u6df7\u5408\u00b7SP|| ||CHAPTER EX||E.X.",
+        "on_activity": 4079,
+        "title": "EX",
+        "type": 8,
+        "ui_type": 1,
+        "uifx": ""
+    },
+    "1550026": {
+        "ani_name": "Map_1300004",
+        "animtor": 1,
+        "bg": "Map_1300004",
+        "bgm": "xinnong-4",
+        "bind_map": 1550012,
+        "cloud_suffix": "",
+        "clouds_pos": [
+            [
+                332,
+                271
+            ],
+            [
+                896,
+                110
+            ],
+            [
+                -280,
+                0
+            ],
+            [
+                990,
+                -90
+            ],
+            [
+                0,
+                -465
+            ]
+        ],
+        "destory_icon_suffix": "blue",
+        "drop_by_map_display": "",
+        "enter_story": "",
+        "guide_id": "",
+        "level_limit": 1,
+        "map": 1550026,
+        "name": "\u5fae\u5c42\u6df7\u5408\u00b7EX|| ||CHAPTER EX||E.X.",
+        "on_activity": 4079,
+        "title": "EX",
+        "type": 8,
+        "ui_type": 1,
+        "uifx": ""
+    },
     "2100000": {
         "ani_name": "fengshan_1",
         "animtor": 1,
