@@ -264,8 +264,8 @@ def wikiGenerate():
             f.write(wikiPage(group))
             
 def MemoryJP():
-    util.DataDirectory = os.path.join('AzurLaneData', 'ja-JP')
-    util.JsonDirectory = os.path.join('json', 'JP')
+    util.DataDirectory = os.path.join('AzurLaneData', 'JP')
+    util.JsonDirectory = os.path.join('AzurLaneData', 'JP', 'ShareCfg')
     global StoryDirectory
     StoryDirectory = os.path.join(util.DataDirectory, 'gamecfg', 'storyjp')
     nameCode = getNameCode()

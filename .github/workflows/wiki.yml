@@ -2,7 +2,7 @@ name: Wiki Utilities
 
 on:
   schedule:
-  - cron:  '0 */6 * * *'
+  - cron:  '45 * * * *'
   
   push:
 

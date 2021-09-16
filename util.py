@@ -2,8 +2,8 @@
 import re, os, json
 from slpp import slpp
 
-DataDirectory = os.path.join('AzurLaneData', 'zh-CN')
-JsonDirectory = 'json'
+DataDirectory = os.path.join('AzurLaneData', 'CN')
+JsonDirectory = os.path.join('AzurLaneData', 'CN', 'ShareCfg')
 WikiDirectory = 'Wiki'
 
 def saveJsonFile(data, fileName):
@@ -13,6 +13,8 @@ def saveJsonFile(data, fileName):
 def loadJsonFile(fileName):
     with open(os.path.join(JsonDirectory, fileName + '.json'), 'r+', encoding='utf-8') as f:
         content = json.load(f)
+        if 'all' in content.keys():
+            del content['all']
         return parseJson(content)
 
 def parseJson(data):

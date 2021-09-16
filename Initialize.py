@@ -3,9 +3,7 @@ import os
 FileList = []
 PathList = [
 os.path.join('Wiki', 'memories'),
-    'json',
     'Wiki',
-    os.path.join('json', 'JP'),
     os.path.join('Wiki', 'memories', 'JP'),
     os.path.join('Wiki', 'chapterAwards'),
     os.path.join('Wiki', 'chapterAwards', '普通主线'),
