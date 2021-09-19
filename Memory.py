@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 import re, os
-from slpp import slpp
 import util
-StoryDirectory = os.path.join(util.DataDirectory, 'gamecfg', 'story')
 getShipName = util.getShipName
 getNameCode = util.getNameCode
 parseNameCode = util.parseNameCode
@@ -28,16 +26,9 @@ def getWorldTemplate():
     
 def getStory(filename, type = 1):
     if type == 1:
-        with open(os.path.join(StoryDirectory, filename), 'r', encoding='utf-8') as f:
-            content = f.read()
-        content = re.match(r".*?(\{.*\})" ,content, flags = re.DOTALL)[1]
-        output = slpp.decode(content)
-        return output
+        return Stories[filename]
     elif type == 2:
-        with open(os.path.join(util.DataDirectory, 'gamecfg', 'dungeon', filename), 'r', encoding='utf-8') as f:
-            content = f.read()
-        content = re.match(r".*?(\{.*\})" ,content, flags = re.DOTALL)[1]
-        dungeon = slpp.decode(content)
+        dungeon = Dungeons[filename]
         storylist = []
         if 'beginStoy' in dungeon.keys():
             storylist.append(dungeon['beginStoy'])
@@ -254,6 +245,10 @@ def wikiGenerate():
     shipStatistics = getShipStatistics()
     shipTemplate = getShipTemplate()
     skinTemplate = getShipSkinTemplate()
+    global Stories
+    Stories = util.loadJsonFile('story')
+    global Dungeons
+    Dungeons = util.loadJsonFile('dungeon')
     groups = getGroup(memoryGroup, worldGroup)
     mergeMemoryTemplate(memoryTemplate, worldTemplate)
     groupsbuilt = []
@@ -265,9 +260,7 @@ def wikiGenerate():
             
 def MemoryJP():
     util.DataDirectory = os.path.join('AzurLaneData', 'JP')
-    util.JsonDirectory = os.path.join('AzurLaneData', 'JP', 'ShareCfg')
-    global StoryDirectory
-    StoryDirectory = os.path.join(util.DataDirectory, 'gamecfg', 'storyjp')
+    util.JsonDirectory = os.path.join('AzurLaneData', 'JP')
     nameCode = getNameCode()
     memoryGroup = getMemoryGroup()
     memoryTemplate = getMemoryTemplate()
@@ -277,6 +270,10 @@ def MemoryJP():
     shipStatistics = getShipStatistics()
     shipTemplate = getShipTemplate()
     skinTemplate = getShipSkinTemplate()
+    global Stories
+    Stories = util.loadJsonFile('story')
+    global Dungeons
+    Dungeons = util.loadJsonFile('dungeon')
     groups = getGroup(memoryGroup, worldGroup)
     mergeMemoryTemplate(memoryTemplate, worldTemplate)
     groupsbuilt = []

@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 import re, os, json
-from slpp import slpp
 
 DataDirectory = os.path.join('AzurLaneData', 'CN')
-JsonDirectory = os.path.join('AzurLaneData', 'CN', 'ShareCfg')
+JsonDirectory = os.path.join('AzurLaneData', 'CN')
 WikiDirectory = 'Wiki'
 
 def saveJsonFile(data, fileName):
@@ -11,11 +10,24 @@ def saveJsonFile(data, fileName):
         json.dump(data, f, sort_keys = True, indent = 4, separators = (',', ': '))
         
 def loadJsonFile(fileName):
-    with open(os.path.join(JsonDirectory, fileName + '.json'), 'r+', encoding='utf-8') as f:
-        content = json.load(f)
-        if 'all' in content.keys():
-            del content['all']
-        return parseJson(content)
+    if os.path.isfile(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')):
+        with open(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json'), 'r+', encoding='utf-8') as f:
+            content = json.load(f)
+            if 'all' in content.keys():
+                del content['all']
+            return parseJson(content)
+    elif fileName in ['dungeon', 'story']:
+        with open(os.path.join(JsonDirectory, 'GameCfg', fileName + '.json'), 'r+', encoding='utf-8') as f:
+            content = json.load(f)
+            if 'all' in content.keys():
+                del content['all']
+            return parseJson(content)
+    else:
+        with open(os.path.join(JsonDirectory, 'ShareCfg', fileName + '.json'), 'r+', encoding='utf-8') as f:
+            content = json.load(f)
+            if 'all' in content.keys():
+                del content['all']
+            return parseJson(content)
 
 def parseJson(data):
     if isinstance(data, dict):
@@ -34,7 +46,7 @@ def parseJson(data):
     return output
 
 def hasJsonFile(fileName):
-    return os.path.isfile(os.path.join(JsonDirectory, fileName + '.json'))
+    return True #os.path.isfile(os.path.join(JsonDirectory, fileName + '.json'))
 
 def parseDataFile(fileName, filePath = r'sharecfg', mode = 0):
     if hasJsonFile(fileName):

@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import re, os
-from slpp import slpp
 import util
 
 shipType = ['驱逐', '轻巡', '重巡', '战巡', '战列', '轻母', '航母', '潜艇', '航巡', '航战', '雷巡', '维修', '重炮', '占位', '占位', '占位', '潜母', '超巡', '运输']

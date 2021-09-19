@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import re, os
-from slpp import slpp
 import util
     
 def getShipStatistics():
