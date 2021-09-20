@@ -141,7 +141,11 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
             if 'actorName' in script.keys():
                 name = script['actorName']
             elif actor and actor > 0:
-                name = getShipName(actor, skinTemplate)
+                try:
+                    name = getShipName(actor, skinTemplate, shipStatistics)
+                except:
+                    name = str(actor)
+                    print(f'未找到actor{actor}名称')
             else:
                 name = ''
             type = 'say'

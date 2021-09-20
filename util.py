@@ -99,13 +99,22 @@ def getChapterTemplate(fileName = 'chapter_template', filePath = r'sharecfg'):
         saveJsonFile(output, fileName)
         return output
 
-def getShipName(skinID, skinTemplate, groupID = None):
-    if not groupID:
-        groupID = skinTemplate[skinID]['ship_group']
-    for k, v in skinTemplate.items():
-        if groupID == v['ship_group'] and v['group_index'] == 0:
-            return v['name']
-    return skinTemplate[skinID]['name']
+
+def getShipName(skinID, skinTemplate, shipStatistics, groupID = None):
+    if skinID in skinTemplate.keys():
+        if not groupID:
+            groupID = skinTemplate[skinID]['ship_group']
+        for k, v in skinTemplate.items():
+            if groupID == v['ship_group'] and v['group_index'] == 0:
+                return v['name']
+    else:
+        groupID = skinID // 10
+        for k, v in shipStatistics.items():
+            if skinID == v['skin_id']:
+                return v['name']
+        for k, v in shipStatistics.items():
+            if groupID == v['id']//10:
+                return v['name']
 
 def getShipType(shipID, shipTemplate, groupID = None):
     if not groupID:
