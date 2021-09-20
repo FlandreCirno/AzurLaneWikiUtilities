@@ -40,7 +40,7 @@ jobs:
         
     - name: Summary
       run: |
-        output=$(Summary.py)
+        output=$(python Summary.py)
         echo "::set-output name=summary::$output"
       id: summary
     
