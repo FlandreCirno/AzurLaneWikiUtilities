@@ -2,8 +2,8 @@
 {{折叠面板|开始}}
 {{折叠面板|标题=序章·演说|选项=1|主框=1|样式=primary|展开=否}}
 <br>
-序章
-
+序章<br>
+<br>
 「日出～Einleitung, oder Sonnenaufgang～」<br>
 <span style="color:#ffde38;">俾斯麦：</span><br>
 诸君！<br>
@@ -24,8 +24,8 @@ Eisen und Blut über alles！<br>
 
 {{折叠面板|标题=脱离|选项=2|主框=1|样式=primary|展开=否}}
 <br>
-第一乐章
-
+第一乐章<br>
+<br>
 「来世之人～Von den Hinterweltlern～」<br>
 清晨，海域坐标：？？？，？？？<br>
 <span style="color:#ffde38;">欧根亲王：</span><br>
@@ -112,8 +112,8 @@ Eisen und Blut über alles！<br>
 
 {{折叠面板|标题=谈判|选项=5|主框=1|样式=primary|展开=否}}
 <br>
-第二乐章
-
+第二乐章<br>
+<br>
 「极度的渴望～Von der großen Sehnsucht～」<br>
 <span style="color:#ffde38;">俾斯麦：</span><br>
 我们凭什么相信你<br>
@@ -190,8 +190,8 @@ Feuer！<br>
 
 {{折叠面板|标题=小小的友人|选项=8|主框=1|样式=primary|展开=否}}
 <br>
-第三乐章
-
+第三乐章<br>
+<br>
 「欢乐与激情～Von den Freuden und Leidenschaften～」<br>
 <span style="color:#ffde38;">U-556：</span><br>
 俾斯麦大人，俾斯麦大人请等一下！！<br>
@@ -359,8 +359,8 @@ Eisen und Blut über alles！<br>
 
 {{折叠面板|标题=挽歌|选项=10|主框=1|样式=primary|展开=否}}
 <br>
-第四乐章
-
+第四乐章<br>
+<br>
 「挽歌～Das Grablied～」<br>
 「保持礼仪，反击，我们现在可是代表着皇家的威仪——」<br>
 <br>
@@ -465,8 +465,8 @@ Ventis Secundis<br>
 
 {{折叠面板|标题=诱惑|选项=14|主框=1|样式=primary|展开=否}}
 <br>
-第五乐章
-
+第五乐章<br>
+<br>
 「科学与学习～Von der Wissenschaft～」<br>
 <span style="color:#ec5d53;">测试者：</span><br>
 俾斯麦女士，就算是这样的局面，也不打算使用“那个”吗？<br>
@@ -577,8 +577,8 @@ Ventis Secundis<br>
 
 {{折叠面板|标题=力量|选项=16|主框=1|样式=primary|展开=否}}
 <br>
-第六乐章
-
+第六乐章<br>
+<br>
 「新生～Der Genesende～」<br>
 <span style="color:#ffde38;">俾斯麦：</span><br>
 哈啊啊啊！！————<br>
