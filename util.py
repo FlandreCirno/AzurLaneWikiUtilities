@@ -16,7 +16,7 @@ def saveJsonFile(data, fileName):
         json.dump(data, f, sort_keys = True, indent = 4, separators = (',', ': '))
         
 def loadJsonFile(fileName):
-    if (not fineName in ForceShareCfg) and os.path.isfile(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')):
+    if (not fileName in ForceShareCfg) and os.path.isfile(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')):
         with open(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json'), 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
