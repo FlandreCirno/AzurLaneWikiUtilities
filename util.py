@@ -5,18 +5,24 @@ DataDirectory = os.path.join('AzurLaneData', 'CN')
 JsonDirectory = os.path.join('AzurLaneData', 'CN')
 WikiDirectory = 'Wiki'
 
+ForceShareCfg = [
+    'ship_skin_template', 
+    'activity_ins_npc_template',
+]
+GameCfgList = ['dungeon', 'story']
+
 def saveJsonFile(data, fileName):
     with open(os.path.join(JsonDirectory, fileName + '.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, sort_keys = True, indent = 4, separators = (',', ': '))
         
 def loadJsonFile(fileName):
-    if os.path.isfile(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')):
+    if (not fineName in ForceShareCfg) and os.path.isfile(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')):
         with open(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json'), 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
                 del content['all']
             return parseJson(content)
-    elif fileName in ['dungeon', 'story']:
+    elif fileName in GameCfgList:
         with open(os.path.join(JsonDirectory, 'GameCfg', fileName + '.json'), 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
