@@ -1,2 +1,2 @@
 # AzurLaneWikiUtilities
-Tools for maintaining CN Azur Lane Wiki based on decompiled code from Dimbreath/AzurLaneData
+Tools for maintaining Azur Lane CN Wiki based on data from AzurLaneTools/AzurLaneData
