@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re, os
 import util
 
@@ -27,6 +28,15 @@ def getShipStrengthenBlueprint():
     
 def getShipDataBlueprint():
     return util.parseDataFile('ship_data_blueprint')
+    
+def getShipStrengthenMeta():
+    return util.parseDataFile('ship_strengthen_meta')
+    
+def getShipMetaRepair():
+    return util.parseDataFile('ship_meta_repair')
+    
+def getShipMetaRepairEffect():
+    return util.parseDataFile('ship_meta_repair_effect')
 
 def getWikiID(id):
     wikiID = '%03d' % (id % 10000)
@@ -85,16 +95,30 @@ def modifyTechData(data, blueprintData, blueprintStrengthen):
             for i in range(36, 41):
                 ship['values'][i] = 0
 
-def modifyMetaData():
+def modifyMetaData(data, metaStrengthen, metaRepair, metaRepairEffect):
     for ship in data:
         if ship['realID'] > 30000 and ship['realID'] < 40000:
-            pass
+            strengthenData = metaStrengthen[ship['strengthen']]
+            strengthenList = []
+            for s, i in STATUSENUM.items():
+                if "repair_"+s in strengthenData.keys():
+                    l = strengthenData["repair_"+s]
+                    for repair in l:
+                        attr = metaRepair[repair]["effect_attr"]
+                        strengthenList.append({'type': attr[0], 'amount': attr[1]})
+            for repair in strengthenData['repair_effect']:
+                effect = metaRepairEffect[repair[1]]
+                for attr in effect["effect_attr"]:
+                    strengthenList.append({'type': attr[0], 'amount': attr[1]})
+            strengthenTotal = statusTransTotal(strengthenList)
+            for i in range(12):
+                ship['values'][41+i] += strengthenTotal[i]
         
 def getData(group, statistics, template, strengthen, shipTrans, transformTemplate, ships = None): 
     if not ships:
         ships = {}
         for k, v in group.items():
-            if v['code'] < 30000:
+            if v['code'] < 40000:
                 ships[v['code']] = v['group_type']
     shipData = []
     for realID, groupID in ships.items():
@@ -117,15 +141,19 @@ def getData(group, statistics, template, strengthen, shipTrans, transformTemplat
                 v['attrs'] = stat['attrs']
                 v['attrs_growth'] = stat['attrs_growth']
                 v['attrs_growth_extra'] = stat['attrs_growth_extra']
-                v['strengthen'] = strengthen[v['strengthen_id']]['durability']
+                if v['strengthen_id'] in strengthen.keys():
+                    v['strengthen'] = strengthen[v['strengthen_id']]['durability']
+                else:
+                    v['strengthen'] = v['strengthen_id']
                 v['name'] = stat['name']
                 v['values'] = [0]*56
                 for i in range(12):
                     v['values'][3*i] = v['attrs'][i]
                     v['values'][3*i+1] = v['attrs_growth'][i]
                     v['values'][3*i+2] = v['attrs_growth_extra'][i]
-                for i in range(5):
-                    v['values'][36+i] = v['strengthen'][i]
+                if isinstance(v['strengthen'], list):
+                    for i in range(5):
+                        v['values'][36+i] = v['strengthen'][i]
                 v['values'][54] = v['oil_at_start']
                 v['values'][55] = v['oil_at_end']
                 if shipRemould:
@@ -149,7 +177,7 @@ def formatData(ID, values, name, breakout):
         output += '3'
     else:
         output += str(breakout)
-    output += '破'
+    output += u'破'
     return output
 
 if __name__ == "__main__":
@@ -162,8 +190,12 @@ if __name__ == "__main__":
     transformTemplate = getTransformTemplage()
     blueprintData = getShipDataBlueprint()
     blueprintStrengthen = getShipStrengthenBlueprint()
+    metaStrengthen = getShipStrengthenMeta()
+    metaRepair = getShipMetaRepair()
+    metaRepairEffect = getShipMetaRepairEffect()
     data = getData(group, statistics, template, strengthen, shipTrans, transformTemplate)
     modifyTechData(data, blueprintData, blueprintStrengthen)
+    modifyMetaData(data, metaStrengthen, metaRepair, metaRepairEffect)
     def func(ship):
         return ship['wikiID'] + str(ship['breakout'])
     data.sort(key = func)
