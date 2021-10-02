@@ -47,7 +47,7 @@ def getWikiID(id):
     elif id < 30000:
         return 'Plan' + wikiID
     elif id < 40000:
-        return 'Meta' + wikiID
+        return 'META' + wikiID
 
 def shipTransform(group, shipTrans, transformTemplate):
     if group in shipTrans.keys():
