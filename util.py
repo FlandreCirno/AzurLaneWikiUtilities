@@ -16,20 +16,31 @@ def saveJsonFile(data, fileName):
         json.dump(data, f, sort_keys = True, indent = 4, separators = (',', ': '))
         
 def loadJsonFile(fileName):
-    if (not fileName in ForceShareCfg) and os.path.isfile(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')):
-        with open(os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json'), 'r+', encoding='utf-8') as f:
-            content = json.load(f)
-            if 'all' in content.keys():
-                del content['all']
-            return parseJson(content)
+    fileNameData = os.path.join(JsonDirectory, 'sharecfgdata', fileName + '.json')
+    fileNameGame = os.path.join(JsonDirectory, 'GameCfg', fileName + '.json')
+    fileNameShare = os.path.join(JsonDirectory, 'ShareCfg', fileName + '.json')
+    if os.path.isfile(fileNameData):
+        if os.path.isfile(fileNameShare):
+            if os.path.getsize(fileNameShare) > os.path.getsize(fileNameData):
+                with open(fileNameShare, 'r+', encoding='utf-8') as f:
+                    content = json.load(f)
+                    if 'all' in content.keys():
+                        del content['all']
+                    return parseJson(content)
+            else:
+                with open(fileNameData, 'r+', encoding='utf-8') as f:
+                    content = json.load(f)
+                    if 'all' in content.keys():
+                        del content['all']
+                    return parseJson(content)
     elif fileName in GameCfgList:
-        with open(os.path.join(JsonDirectory, 'GameCfg', fileName + '.json'), 'r+', encoding='utf-8') as f:
+        with open(fileNameGame, 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
                 del content['all']
             return parseJson(content)
     else:
-        with open(os.path.join(JsonDirectory, 'ShareCfg', fileName + '.json'), 'r+', encoding='utf-8') as f:
+        with open(fileNameShare, 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
                 del content['all']
