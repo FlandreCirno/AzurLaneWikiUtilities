@@ -38,7 +38,7 @@ def getStory(filename, type = 1):
                 storylist.append(wave['triggerParams']['id'])
         output = []
         for story in storylist:
-            s = getStory(story.lower() + '.lua')
+            s = getStory(story.lower())
             output.append(s)
         return output
 
