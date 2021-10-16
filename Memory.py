@@ -28,7 +28,7 @@ def getStory(filename, type = 1):
     if type == 1:
         return Stories[filename]
     elif type == 2:
-        dungeon = Dungeons[filename]
+        dungeon = Dungeons[int(filename)]
         storylist = []
         if 'beginStoy' in dungeon.keys():
             storylist.append(dungeon['beginStoy'])
