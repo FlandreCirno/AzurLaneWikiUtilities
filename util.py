@@ -9,7 +9,7 @@ ForceShareCfg = [
     'ship_skin_template', 
     'activity_ins_npc_template',
 ]
-GameCfgList = ['dungeon', 'story']
+GameCfgList = ['dungeon', 'story', 'storyjp']
 
 def saveJsonFile(data, fileName):
     with open(os.path.join(JsonDirectory, fileName + '.json'), 'w', encoding='utf-8') as f:

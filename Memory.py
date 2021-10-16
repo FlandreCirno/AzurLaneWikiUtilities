@@ -78,6 +78,7 @@ def getMemory(memoryID, memoryTemplate):
         output['story'] = getStory(story, output['type'])
     except:
         print(output)
+        print(Stories.keys())
         raise
         return None
     return output
@@ -275,7 +276,7 @@ def MemoryJP():
     shipTemplate = getShipTemplate()
     skinTemplate = getShipSkinTemplate()
     global Stories
-    Stories = util.loadJsonFile('story')
+    Stories = util.loadJsonFile('storyjp')
     global Dungeons
     Dungeons = util.loadJsonFile('dungeon')
     groups = getGroup(memoryGroup, worldGroup)
