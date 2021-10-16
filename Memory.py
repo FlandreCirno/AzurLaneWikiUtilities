@@ -75,7 +75,7 @@ def getMemory(memoryID, memoryTemplate):
             story = v['story'].lower()
             output['type'] = v['type']
     try:
-        output['story'] = getStory(story + '.lua', output['type'])
+        output['story'] = getStory(story, output['type'])
     except:
         print(output)
         raise
