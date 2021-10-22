@@ -1,0 +1,556 @@
+== Chapter 1 - Trails of Ashen Wings ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Operation Briefing|选项=1|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Establishing encrypted channel...<br>
+Greetings, Commander.<br>
+I am TB, your identification interface digital assistant and navigator.<br>
+When you connect to the mainframe and go online, you can view data, analyses, and statistics sent from your fleets' sonar and radar. Additionally, you may issue commands.<br>
+When you disconnect from the mainframe and go offline, my processing capabilities will be limited, but basic features such as target marking, data reception, and course plotting will remain fully functional.<br>
+In this upcoming operation, I shall serve as your adjutant.<br>
+I will now transmit classified information to you.<br>
+After repeated investigations, there have been many sightings of the Siren fleets deployed in the coastal waters of the North Atlantic, better known as the NA Ocean, withdrawing towards the region’s depths.<br>
+The reasons for their changes in behavior are unknown, but as a result, the stalemate between the Sirens and the major naval powers has largely been resolved.<br>
+The conditions for a large-scale counter-offensive operation against the Sirens, which had previously been impossible, have now been met.<br>
+In accordance with the decisions of the Naval HQ, a large-scale operation mobilizing the fleets from all around the world has finally been announced. Its name is “Operation Siren.”<br>
+Our centers of operations are based in NY City and the Royal Capital. We are in charge of suppressing the Sirens in the area spanning the northwest to southeast sectors of the NA Ocean.<br>
+Judging from recent trends and the current situation, we unfortunately should not count on the full cooperation of the Crimson Axis.<br>
+However, we shall still begin the operation simultaneously across three sectors. Commander, you should first dispatch a fleet from NY City to secure each operational zone.<br>
+Commander, your objective is to lead the fleet to recapture Siren-controlled waters, establish two forward bases, and then await orders to begin our final assault.<br>
+This is the conclusion of TB’s strategy briefing. I wish you the best of luck.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prologue - Part I|选项=2|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Hornet：</span><br>
+Woah! Commander, hold it right there!<br>
+<br>
+'''''<span style="color:black;">选择项1："Hornet...?"</span>'''''<br>
+'''''<span style="color:black;">选择项2："I didn't think we’d run into the enemy so soon."</span>'''''<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hehe, long time no see, Commander~<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''After all, we were warned that Siren Pawns were on the move, and an exercise was staged as a countermeasure.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Ahahaha! So you've seen through me! ...Wait, hold on, that was a bad joke! I'm the real Hornet!<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+...Anyway, here’s the deal. There’s been a lot of weird weather conditions around these parts, most likely due to Siren activity in these waters.<br>
+I don't need to be lecturing you about how the Pawns created by the Mirror Seas sometimes fight just like us, so the point of the exercise is to get us familiar with that...<br>
+And I, Hornet, will be your opponent. How about it, Commander? Ready for some action?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. Simply approach Hornet’s fleet to begin the exercise.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prologue - Part II|选项=3|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Hornet：</span><br>
+Woah~ You sure don't beat around the bush, Commander! But now, it’s my turn!<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Objective identified: repel Hornet in this exercise.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prologue - Part III|选项=4|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+I've confirmed that you've scored a direct hit on Hornet with a dummy round.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+You really came prepared, Commander! Good on ya!<br>
+You should've already been briefed on this, but there’s been a new Siren spotted during pre-operation scouting.<br>
+If you encounter a particularly tough battle, don't be afraid to withdraw.<br>
+For example, if you encounter something... like this~!<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Warning: Based on an analysis of the incoming practice rounds, we are at a disadvantage. I would recommend withdrawing.<br>
+<br>
+'''''<span style="color:black;">选择项1：....“All right, let’s stick to that plan and withdraw!”</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prologue - Part IV|选项=5|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. Currently reassembling the fleet.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Good job out there, Commander. And you too, Cutie-B.<br>
+...All right. Now that we're done with the exercise, it’s time to get the A-team together!<br>
+And if I'm not mistaken, the Royal Navy is ready as well... Let’s hurry to NY City Port and join up with them!~<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Naval exercise complete.<br>
+Course has been plotted to NY City. Please enter the port there and assemble your fleet.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Bugle Sounds|选项=6|主框=1|样式=primary|展开=否}}
+<br>
+NY City / Fleet Rally Point<br>
+<span style="color:#4eb24e;">Hood：</span><br>
+Commander, Miss Enterprise, thank you for answering our call.<br>
+Now that we all have gathered, I would like to lend your ears for but a minute.<br>
+Decades after the Siren invasion, humanity has managed to push the Sirens back into an uneasy equilibrium, though at a great cost...<br>
+Since then, there have been no major changes on the battlefield. Time passed, and now, the Eagle Union and the Royal Navy... Nay, the Azur Lane, is on the verge of launching another counterattack.<br>
+All this time, we've been trying to study the Sirens, learning about their characteristics and patterns, about their identity and their goals. Sometimes alongside each other, sometimes in spite of each other.<br>
+Even so, we still have not uncovered their true purpose, and there are many voices opposed to this operation...<br>
+As you know, Commander, given the persistent Siren threat to the safety of the oceans, their retreat poses a great opportunity for us.<br>
+If we capitalize upon this opening, we may be able to eradicate the Sirens from the NA Ocean, reclaim these waters for good, and put an end to their reign of terror.<br>
+It is for that reason that we are gathered here today – to execute the plan jointly devised by our navies.<br>
+While I would've liked to have the Sakura Empire and Iron Blood with us as we undertake this operation, our hopes for a united front do not seem like they'll be realized.<br>
+However, our true enemy is the Sirens.<br>
+Through this operation, we will demonstrate our power to and uphold our commitment to the survival of humanity.<br>
+Once again, Commander, Miss Enterprise, I look forward to working with both of you to achieve glorious victory.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+That was a great speech, Hood. We wish you good luck....<br>
+<br>
+'''''<span style="color:black;">选择项1："Yeah. Good luck."</span>'''''<br>
+<span style="color:#4eb24e;">Hood：</span><br>
+Thank you. We wish you the best of luck as well. Apropos of nothing, I've heard headquarters assigned a “digital assistant” to you...<br>
+<br>
+She must mean that white-haired hologram girl who appeared with my mission orders.<br>
+<br>
+'''''<span style="color:black;">选择项1："I could swear I've seen her somewhere before...、"</span>'''''<br>
+'''''<span style="color:black;">选择项2："HQ sent her? Technology sure is amazing."</span>'''''<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''...Are you trying to remember, or just imagining pervy stuff, Commander? Hehe~~<br>
+<span style="color:#4eb24e;">Hood：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Indeed it is. We, too, were quite surprised when she appeared on the screen. She is quite the cute adjutant, though.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Greetings, I am TB, your digital assistant. It is my pleasure to be working with you.<br>
+<br>
+'''''<span style="color:black;">选择项1：It is my pleasure to be working with you.</span>'''''<br>
+<br>
+She’s supposedly an artificial intelligence, but her mannerisms feel too lifelike to just have been programmed...<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+I heard our mission orders and a map of the sector are installed on the same device as TB is! She seems like our go-to girl if we have any questions.~<br>
+Oh, and Commander, since this operation is gonna be pretty massive in scope, you might wanna make use of the map to keep track of far-away fleets!<br>
+Actually, I think we could all use a crash course on commanding fleets during Operation Siren!<br>
+you're up, TB!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Once More, Into battle|选项=7|主框=1|样式=primary|展开=否}}
+<br>
+NA Ocean NW Sector - Part one of Operation Siren has me deployed alongside one of the Eagle Union's fleets.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+They caught us off guard the last time, but the tables have turned! Now it’s our turn to launch a surprise attack on the Sirens!<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+I couldn't make it to Bermuda before, but now it’s a different story! I'm prepped and ready!<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+The Siren presence is waning around most of the NA Ocean, with the exception of the Bermuda sector. They refocused their efforts and took it back from us.<br>
+They must've had a good reason for that, although I can't say what that might be...<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Perhaps that hunch of yours is the very reason why headquarters tasked us, and the Commander, with, uhh, re-re-reclaiming the sector? This back-and-forth is getting a little confusing......<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+In any case, we need to reclaim it sooner or later. We'll find out what’s really going on once it’s back in our hands.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Radar Module|选项=8|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Analysis complete. Multiple hostile signals have been detected to the front. Profile matches that of a Siren defense fleet.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Wow, you can tell that all the way from over here? HQ spared no expenses on their new radar, huh...<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Affirmative. I can provide real-time analysis of the battlefield by interfacing with the fleet’s weaponry and cross-referencing the data.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+That’s quite the handy auxiliary system They've created...<br>
+<br>
+Let’s take TB’s analyses into account when planning from here on out.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Recollection|选项=9|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Scan complete. Attention: detecting distant Siren signal. Proceed with caution.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Geesh. We only just got here, and they're already starting to swarm us.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+They've clearly been on standby to mount a counterattack, unlike every other sector in the NA Ocean we've taken back.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+The fiercer their defense, the clearer it is there’s something in the depths of the Bermuda sector that we need to investigate. It’s gotta be something really, really big.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Something big...<br>
+What... is this? What are these dark shapes?<br>
+<span style="color:#ec5d53;">Compiler ：</span><br>
+Memories. Logged data, to be specific.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Logged data? Memories? Whose? And from when?<br>
+<span style="color:#ec5d53;">Compiler ：</span><br>
+Yours. Hers. From the future, and the past, too.<br>
+And now, it makes up the fiber of your very being.<br>
+The data does not lie. It is the truth.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Enterprise? Do you hear me? What’s wrong?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+...Oh, no, it’s nothing. Let’s keep moving. Be on your guard.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Traces|选项=10|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Baltimore：</span><br>
+What the... Siren wreckage? Is there another fleet besides us operating in this zone, or...?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Commencing scan... No allied presence detected within zone. Additionally, no record of recent allied activity in this zone could be found.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Hey, folks... Check the radar. You won't believe it.<br>
+<br>
+The radar screen shows dozens upon dozens of little dots, each symbolizing a Siren force. With each scan, a dot disappears.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+The Sirens aren't moving... they're vanishing.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Someone is here, taking out the Sirens one by one. And it’s not one of ours...<br>
+Commander, I know it’s dangerous, but we should head there and investigate immediately!<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+We have only an incomplete picture of the situation at best, but one thing’s for sure: we should stick together.<br>
+Hornet, Sirens vanishing aside, are you picking up any unusual readings?<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Nope, not a single one! But these Sirens vanishing are the darndest thing I've ever seen... You don't think it could be... the Ashes?!<br>
+<br>
+If it is one of them, we will need to reconsider our approach entirely. For now, we must proceed forward to see what we're dealing with.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Mysterious Ship|选项=11|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Is that... Hiryuu? No, something’s not right here...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Why are you all here? Because of Arbiter?<br>
+<br>
+Arbiter...? Who’s that?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Searching through mainframe database... Entity by the name of “Arbiter” could not be found.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Slip of the tongue. Forget I said anything.<br>
+And what do we have here... You must be the commander who’s the source of “Enterprise’s” suffering.<br>
+<br>
+The battle-scarred girl who resembles Hiryuu looks at me and makes eye contact.<br>
+Her gaze is paralyzing, and I find myself unable to move a muscle.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+You still haven't realized it, have you? Pitiful... I don't know why she cares so much about you, but as long as you stay out of my way, we won't have any trouble.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+You think we're gonna let you walk, just like that?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Damn right you are. You have no idea who you're talking to.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Wait. I need to ask you some questions.<br>
+<span style="color:#ff9900;">Hiryuu：</span><br>
+We haven't heard from the Royal Navy either. The war is going pretty badly for everyone...<br>
+But even so... Are you sure about this? Allying with the Sirens? I mean, they were originally created to replace us...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Who are you? Who are the Ashes? And what’s your relation to the Sirens?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Antiochus showed you the logs, huh.<br>
+Ask ‘em yourself, if you're so curious. They've taken great interest in you, for whatever reason.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Interest... in me...? Why?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Don't know, don't care. I don't have time to talk with you people. Out of my way, or I will annihilate every last one of you.<br>
+...Word of advice: stay out of Arbiter’s hair if you value your lives.<br>
+<br>
+The unnamed individual promptly makes off shortly after her final words.<br>
+She is far too fast for our fleet to ever catch up to her.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+She looked a lot like a member of Ashes... She must be very powerful<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Yeah, but it’s not like they're unmatchable in strength, based on what the reports say. Commander, if we see her again, we shouldn't just let her leave like that.<br>
+<br>
+Hornet has a point; it’s worth trying, at least. That said, it won't be easy to find her if she’s invisible to radar... We need to find a way to track her position.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Enemy of My Enemy|选项=12|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">North Carolina：</span><br>
+There were so many Sirens here before, and now they're all but gone... It’s so strange.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+they're not gone, They've just turned into wrecks, dotting the path we're headed... Coincidentally, the same path that Hiryuu lookalike went.<br>
+Still, you've gotta hand it to the Sirens. They built a base amazingly fast after they reclaimed this place. Wouldn't be easy to break through with just our fleet alone.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+we're at war with the Sirens, and the Sirens are at war with the Ashes... Add to that, the mission outline declares the Ashes group as hostile to us, too.<br>
+If the Crimson Axis decides to throw their hat into the ring, We'll have 4 distinct factions competing in this region.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Potentially more, if this “Arbiter” individual isn't working with the Sirens or the Ashes.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+The reason for the Sirens’ unconventional deployment across the NA Ocean is getting weirder and weirder...<br>
+<br>
+KABOOOOM!<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Was that... thunder? But the skies are clear! And it struck the middle of the ocean...<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Let me check the weather data... Strange. No unusual readings.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+...Enterprise, we're near where the Singularity in this region originated, aren't we?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Yeah. It’s long gone by now, but the Singularity had some lasting effects on the region.<br>
+TB, could you analyze all the available weather data from this region?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. Fetching and analyzing data gathered by radar, sonar, and reconnaissance planes...<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Wow. Used to take a team of specialists to make heads or tails of that much data. Expect no less of an identification inter... whatever TB said she was.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+The waves are starting to pick up, it looks like...<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Analysis complete. Displaying results of analysis on interface screen.<br>
+Attention: There is a high likelihood of bad weather within the next 6 hours. Requesting permission to form a plan.<br>
+<br>
+6 hours? That’s pretty specific... Anyway, We'll go ahead and let TB devise a plan for us to follow.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Search - Part I|选项=13|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Analyzing... Complete. Large quantities of expired marine life has been detected. Proceed with caution.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+God, this is horrifying stuff... Looks like the result of an oil spill.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+If it was an oil spill, there’d be, well, oil everywhere. That’s one possibility excluded...<br>
+<br>
+Then maybe the salinity changed, or someone changed the water somehow... Our primary suspect thus far is the Sirens.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Search - Part II|选项=14|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Hornet：</span><br>
+Hey, this isn't right! I know for a fact there was never an island here before!<br>
+And look at the peak of that mountain! There’s snow, that shouldn't even be possible!<br>
+<br>
+Hornet is right. The climate out here Wouldn't possibly allow for snow to form. Something unusual is going on here...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Search - Part III|选项=15|主框=1|样式=primary|展开=否}}
+<br>
+Our fleet catches the sight of some strange black cloud of matter....？<br>
+Direct contact with it could prove a disastrous mistake. Instead, we keep our distance and safely collect a few samples of it.<br>
+Let’s have our analysts back at port take a look at it later.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Securing the Zone|选项=16|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Commander, we've managed to secure a route from the NY City port to the center of the Bermuda region. You should contact Saratoga for a follow-up plan.<br>
+<br>
+'''''<span style="color:black;">选择项1：“Right. Let’s inform her at once.”</span>'''''<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Holy moly, this is a lot to take in for a humble idol like me!<br>
+Okay, so... Naval command’s plan is as follows: “Primary objective: investigate the Ashes individual. Secondary objective: investigate the abnormal-slash-artificial weather phenomena.”<br>
+I know it’s tough out there, but it’s too early to call it quits and come home. Hang in there!~<br>
+What’s that? “Clear a path through to the NA Central Sector”?<br>
+Sounds good! That idea has Sara’s seal of approval! In fact, I'll round up some backup and try to meet you halfway there!<br>
+Oh, and if we see any sign of the Crimson Axis getting up to no good, We'll let you know!<br>
+Sister Sara, over and out!~！<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+The Crimson Axis, huh... You think they'll try anything?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+can't say for sure. What we do know is that they know just how critical this operation is. All we can do is hope they'll keep to themselves, as agreed.<br>
+With Queen Elizabeth at the negotiating table, everything should go fine.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+We have some leeway in the form of the Commander too, so there’s that.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Perhaps what it takes to bring our two factions together is not a common enemy, but a common leader. Hehe~？<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+I'm not so much worried about any one person on their side sparking trouble, but the Royal Navy’s and Iron Blood’s respective leaders don't exactly get along...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Either way, there’s not much we can do but put our faith in Her Majesty’s ability to keep the situation under control.<br>
+<br>
+Ideally, the Azur Lane and Crimson Axis will be able to work together. At least for this vitally important operation...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Securing the Zone|选项=17|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Baltimore：</span><br>
+There’s hardly any Sirens in this zone. Something fishy’s going on...<br>
+This is supposed to be a Corrosion level 6 zone, and all we've come across are small fry every now and then...<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+What’s more, their mode of attack is way too simplistic. I don't think they have anyone leading them.<br>
+The reports said this zone is a big step up from the Bermuda sector, yet it feels like a big step down instead.<br>
+<br>
+Perhaps those reports were way out of date.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+you're right. The Sirens only attack like this once They've been stripped of their command. They become like headless chickens.<br>
+Under normal circumstances, we’d probably have run into several major Siren fleets by now. And yet, we've not seen anything close to that...<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Guessing they must've taken some major losses for this happen.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+It just doesn't add up... No sign that any of the Ashes have come through here, either.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+I have a theory: their chain of command collapsed entirely, but their most basic units can still function independently.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Whatever happened, it’s worked out in our favor. Let’s not pass up this opportunity to seize an easy victory.<br>
+<br>
+Baltimore is right. This is the most favorable situation possible for us. Let’s use it to reclaim this sector!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Crimson Axis|选项=18|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Hornet：</span><br>
+Hold up a hot minute, y’all! One of my recon planes just spotted a ships, and it’s not allied nor Siren!<br>
+........Wait... TIRPITZ?! What on earth is she doing out here?!<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Is she coming towards us?<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Us? No, she and her escorts are headed for the Bermuda sector. I don't think they even know we're here.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+They know about Operation Siren, so whatever she’s here for, I can only hope her intentions are good.<br>
+Actually... I reckon we should link up with her. She might be able to help us...<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Maybe... Or she’s out on a mission on her own. Might not be very happy to see us.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+We have no idea how the talks between our respective higher-ups panned out... She could be acting on her own. There’s a myriad of possibilities.In any case, this region falls under the Eagle Union’s jurisdiction. If we can't link up with her, we can at least ask her to retreat to the east end of the NA Ocean.<br>
+In any case, this region falls under the Eagle Union’s jurisdiction. If we can't link up with her, we can at least ask her to retreat to the east end of the NA Ocean.<br>
+<br>
+'''''<span style="color:black;">选择项1：“Let’s give Saratoga a call.”</span>'''''<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Transferring data... Complete. Communications package sent.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+So, what now, Commander? Assuming Carolina’s right, us taking matters into our own hands might cost Her Majesty some leverage at the negotiating table.<br>
+<br>
+Things are already complicated enough in the NA Ocean. We have no incentive to make it any worse for ourselves.<br>
+The best course of action is to simply stick to our orders.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+I agree. As important as cooperation is between our factions, we should take a more conservative approach for the time being.<br>
+Having said that... We should at least let her know we're here. You know, broadcast our presence.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+What, like, fly some planes right above her or something?<br>
+<br>
+That should be good enough. TB can set a travel path for the planes to follow.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Plotting course... Complete. Aircraft will proceed in airspace directly intersecting the Iron Blood fleet’s path.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+All right, I've got this! Let’s give ‘em a pretty little flyby!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Communications|选项=19|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Hornet：</span><br>
+Transferring data...<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+That’s not like them at all... Weird. Maybe they're under strict radio silence?<br>
+Ugh. If only she’d contact us, or do anything to show acknowledgement...<br>
+<br>
+'''''<span style="color:black;">选择项1：“Fly over a second time.”</span>'''''<br>
+'''''<span style="color:black;">选择项2：“We'll have to send someone over...”</span>'''''<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Communications request from Iron Blood received. An encrypted channel is ready to be established. What do you wish to do?<br>
+<br>
+“All right, open a link to them.”<br>
+<span style="color:#ec5d53;">Tirpitz：</span><br>
+This is Tirpitz of the Iron Blood speaking. I saw your aircraft.<br>
+Sorry for not calling you sooner. Is there something you want to discuss? Then we should do it in person.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Interesting... She’s the one proposing we meet face-to-face. Should we take her up on it?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Sorry, it’s just that nobody told us you’d be passing through one of our sectors. If you can't link up with us, then do you think you could turn back to a sector you have jurisdiction over?<br>
+<span style="color:#ec5d53;">Deutschland：</span><br>
+YOUR sector? This is all Siren territory as far as I can tell.<br>
+And even if it was your territory, who decided that? Your higher-ups just claimed it for themselves. How about we just pretend we never saw each other here, hmm?<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Believe me, I wish we could, but that would be a political concession on our part...<br>
+<span style="color:#ec5d53;">Tirpitz：</span><br>
+Allow me to clarify what she meant. We do not wish to interfere in your operations, and we have no intentions of trespassing on Eagle Union territory. This, however, is not your territory.<br>
+If you still object to our presence here, then we will have to settle it in person...<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Hey... They changed course... they're coming towards us! Our position’s been compromised!<br>
+<br>
+And with heavy mass-produced unit backup... This is not good.<br>
+<br>
+'''''<span style="color:black;">选择项1：Prepare to engage!</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Aviation Battle|选项=20|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Approaching non-allied aircraft have been detected. Profile matches that of Iron Blood manufacture.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Must be from those mass-produced ships... they're in attack formation, too.<br>
+Hornet, do you still have recon planes in the vicinity? Have a good look around and see if you can spot any Iron Blood carriers!<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Will do!<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Fighter squadrons, prepare to intercept!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ceasefire...?|选项=21|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Saratoga：</span><br>
+I flew right over ‘em, aaand... nothing!<br>
+We've got word from Elizabeth! Friedrich finally managed to get the Iron Blood to agree to a ceasefire. That ought to smooth over talks with the Crimson Axis, too!<br>
+...What? What was that about an attack?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Well, thing is... We just spotted a bunch of Iron Blood aircraft headed our way. In an attack formation, no less...<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Whaaaaat?! Are you SURE they're Iron Blood planes?!<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Enty! I'm right above them, ready to launch a counterattack at... any...<br>
+What the hell? Tirpitz’s fleet just... vanished!<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Vanished? What do you mean vanished? A whole fleet can't go up in smoke!<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Perhaps not in smoke, but I've heard of this before. The Iron Blood have some sort of hologram tech.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Oh yeah, Perseus said something about that once... Thing is, dressing mass-produced units in holograms is one thing, but they all just vanished without a trace!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Sounds to me like this supposed “Iron Blood fleet” dropped the hologram charade while you were talking to Tirpitz, and that’s where the planes came from.<br>
+Oh, there’s also the possibility they were Pawns, i.e. that wasn't Tirpitz as we know her...<br>
+<br>
+'''''<span style="color:black;">选择项1：“Saratoga is right. It doesn't make sense otherwise.”</span>'''''<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+I can only hope so. If they were seriously out to get us, it would be game over, period.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Um, anyway... Elizabeth and friends are still working out the specifics of the ceasefire, just so you know.<br>
+The Iris Libre still has some qualms about this whole thing, but... what do you think, Commander? Should we just pretend you never saw any Iron Blood ships?<br>
+<br>
+'''''<span style="color:black;">选择项1：“That’s probably for the best.”</span>'''''<br>
+'''''<span style="color:black;">选择项2：“It’s hard to just forget about like that...”</span>'''''<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Either way, we kind of have to drop the matter since we lost contact with Tirpitz...<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+With that settled then, lemme give you a briefing of the agreement Elizabeth struck up!<br>
+The long and short of it is: the Royal Navy conceded part of their AO to the Sakura Empire, while the Iron Blood conceded part of theirs to the Northern Parliament.<br>
+And, for the duration of Operation Siren, canals and international waters will be freely accessible to all factions!<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+Wouldn't that mean that hostilities between Azur Lane and the Crimson Axis have come to a close?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Kind of. It’s a start, but our respective higher-ups won't bury their hatches so readily.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+They might hate each other’s guts, but I think they hate the Sirens even more! So they can't say no to a chance to team up and kick Siren butt, methinks.<br>
+If nothing else, it’s a good reminder to the people on the ground – err, at sea – that the Sirens are our biggest enemy.<br>
+After all, both sides can agree that the seas belong to humanity!<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+There is not enough praises being sung about our political success! Let us hear it!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Oh, hey, Elizabeth! How’s it going on your end?<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+We just wrapped it up! We heard your little conversation just now. You were THIS close to stepping right into a trap!<br>
+All of you, Enterprise included, were quite careless. Do not let that happen a second time!<br>
+Hood’s fleet, meanwhile, has been doing quite well. Do regroup with her at a later point to discuss strategies!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Necessary Preparations|选项=22|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. A fleet has been deployed beyond the NA Ocean boundary.<br>
+Hostiles detected. All hostile presence in the sector must be eliminated to establish a forward base.<br>
+<br>
+we're nearing the finale of the first part of Operation Siren. It’s time to wipe out all the hostiles and establish a forward base.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Preparations Complete|选项=23|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Part one of Operation Siren has been completed. Forward base has been established.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Now we just sit tight until NY City arrives with their supply ships and a crew to man the forward base.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+So, what even IS a forward base? The mission documents say a whole lot about it, but it’s all jargon to me.<br>
+<span style="color:#4eb24e;">North Carolina：</span><br>
+From what I've read, it’s essentially a sophisticated, repositionable floating dock.<br>
+Not only does it let a fleet rest, resupply, and repair, but it also serves as a tactical command center.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Hope it’s got automated defenses. Now that would be peachy.<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+Hey, now that actually sounds pretty swell!<br>
+<br>
+The plan is to establish 4 forward bases spread out across the NA Ocean. Once that’s been done, we can mount an offensive on the central sector.<br>
+Without stopover points like these, we couldn't dream of maintaining an organized offensive against the Sirens.<br>
+Now that we're finished here, it’s time to set our eyes on the next sector. TB will no doubt play an indispensable role to come.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+.You have completed your mission admirably. Allow me to offer... my sincerest thank-you.<br>
+<br>
+Was that... emotion in her voice just now?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=META Beacon|选项=24|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+META coordinate tracking system initiated. Commencing tutorial.<br>
+It is hypothesized that META riggings are encased in a special material that renders them completely undetectable using conventional radars.<br>
+Fortunately, the R&D department has managed to engineer a device that is capable of detecting the faint tracks left by META members.<br>
+Locking on to these tracks and following them allows us to pinpoint the location of any META members active in the region.<br>
+Unlike Sirens, it is believed that META members can be reasoned with and that they are not inherently hostile. In certain cases, cooperation between us may even be feasible.<br>
+However, naval command has concluded that they will invariably interfere with Operation Siren in one way or another.<br>
+Bear in mind that fighting META members comes with extreme danger. Proceed with caution.<br>
+<br>
+Extreme danger... I don't doubt it. Looking over the mission documents again, they say we only have to “deal with” the META, not “eliminate” them.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Why, what a keen eye you have. Allow me to elaborate on what means.<br>
+It is true that the META may pose a threat to the integrity of Operation Siren, but depending on who you ask, some members of the fleet view them as one of us.<br>
+If we gather more information about their goals and who they are, we may be able to get them on our side one day. Wouldn't that be something?~<br>
+<br>
+Memphis has a point. We still don't know what the META are after. Moreover, they might be willing to at least hear what their fellow shipgirl has to say.<br>
+Who knows. One day, we might even fight side-by-side with them...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

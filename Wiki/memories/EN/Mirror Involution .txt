@@ -1,0 +1,1850 @@
+== Mirror Involution  ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Welcome Back, Commander|选项=1|主框=1|样式=primary|展开=否}}
+<br>
+Following my stay with the Northern Parliament and an expedition to a Siren research facility, I rejoined the Eagle Union's forces and prepared for our next move.<br>
+Despite our successful incursion into the NA Ocean, the Sirens had not been silent elsewhere. My days were quite busy as we focused on gathering information, fighting back the Sirens, and working with the Royal Navy.<br>
+Finally, the Naval HQ gave me an important piece of information.<br>
+A Reenactment had occurred at the same time we approached the Sakura Empire's fleet, and Siren forces had begun ramping up their activities around a remote, Eagle Union-controlled base in the AF Atoll.<br>
+I decided to lead the fleet there to meet the threat head-on.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, the fleet is approaching PH Harbor. No anomalies detected in the vicinity.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Nothing abnormal underwater either~<br>
+Wonder if there are any hotties around here~ Being submerged all the time has been such a drag~<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, when's the last time we've made such a long journey?<br>
+<br>
+"Not sure... But we're about as far away from home as we can be."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+I was hoping you'd choose a nice vacation getaway for the two of us~<br>
+After all, we've all been working so hard~<br>
+But no, a certain workaholic decided to sail straight across to the other side of the world... Not hot.<br>
+<br>
+'''''<span style="color:black;">选择项1："Thanks for coming along anyway. You've earned yourself a nice meal."</span>'''''<br>
+'''''<span style="color:black;">选择项2："There's no telling what the Sirens are up to. We can't let our guards down yet."</span>'''''<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Really? You're paying for it, yeah?<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Yup, it's on me.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Now that's how you treat a girl. Helena, you hear that? It's our night out!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Um... "Our"?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Yeah, "our"! Sisters gotta stick together, so of course we're gonna find the best grub around tonight!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''*twitch*...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh, Commander, by the way, why were you in such a hurry to come here anyway?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Jokes aside, we all know how important your work is. We might grumble a bit, but we'll follow you to the ends of the earth.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Besides, you're a total hottie when you get all serious and responsible. All of us have nothing but respect for you~<br>
+'''''<span style="color:black;">（选择项1）</span>'''''And naturally, a serious and responsible person... wouldn't ever walk back a promise, right?<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''"Uh, yeah... Of course not..."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Eheh, that's what I like to hear~!<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yeah, yeah, that much I know.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Oh, Commander, by the way, why were you in such a hurry to come here anyway?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Jokes aside, we all know how important your work is. We might grumble a bit, but we'll follow you to the ends of the earth.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Besides, you're a total hottie when you get all serious and responsible. All of us have nothing but respect for you~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''However... just remember that overworking yourself can cloud your judgment at a crucial moment~<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''"You're right... After we get situated, let's get everyone together and have a nice meal."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Really? Are you gonna be treating us then?<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yup, it's on me.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Now that's how you treat a girl. Helena, you hear that? It's our night out!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Huh? Oh... even me?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yeah, "our"! Sisters gotta stick together, so of course we're gonna find the best grub around tonight!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''*twitch*...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Oh, is something the matter? Surely such a respectable commander wouldn't already be having second thoughts, right~?<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''"Uh, yeah... Of course not..."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Eheh, that's what I like to hear~!<br>
+<br>
+I knew they would take advantage of this offer and gut my wallet with expenses...<br>
+But that was fine... The girls had earned it.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+"ID authentication complete. You are now authorized to enter the sea sector ahead of you."<br>
+"As this is a military port, please proceed along the designated approach route and do not stop or stray from it."<br>
+"Welcome to PH Harbor."<br>
+<br>
+"The helix is a stable structure born from natural selection."<br>
+"Through its waves and iterations, it approaches infinity."<br>
+"Within its rungs lie the change and acceptance of all possibilities."<br>
+"Where the infinite and the possible meet, hope is born." <br>
+"Yet within the mirror, what is hope but the sorrow of infinite emptiness?"<br>
+"What awaits us at the terminus of infinity, at the end of hope and sorrow?"<br>
+"Is there yet another helix that lies beyond the Mirror?"<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Black Dragon Awakens|选项=2|主框=1|样式=primary|展开=否}}
+<br>
+PH Harbor - Temporary Command Post<br>
+At the remote island base, a temporary office had been established for me to conduct my operations.<br>
+Interestingly enough, the interior was decorated in largely the same way as my own office back home.<br>
+Whoever prepared this for me apparently knew me. Very well, at that.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hehe, don'tcha just love the feeling of being right at home?<br>
+I took the liberty of looking into you a bit, but judging from your expression, I'd say I did a pretty darn good job setting this place up~<br>
+Oh, by the way, the name's New Jersey. Iowa-class battleship.<br>
+<br>
+Apparently, this energetic battleship was the one responsible for my new office.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+But if that's not catchy enough for you to remember, I'm also called the indomitable Black Dragon of the Eagle Union! Hahaha~♪<br>
+Ahem... In any case, I'm now under your command. It's a pleasure to meetcha, Commander!<br>
+<br>
+The girl clad in futuristic-looking military attire saluted me ceremoniously.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+By the way, Commander, do you have any questions for me?<br>
+<br>
+'''''<span style="color:black;">选择项1："What's the situation around here?"</span>'''''<br>
+'''''<span style="color:black;">选择项2："Give me a moment to get situated..."</span>'''''<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh, right. You haven't been fully briefed yet, huh?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Due to the recent Reenactment and resurgence of Siren activities, Saratoga gave out emergency mobilization orders.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''During that sortie, Yorktown suffered heavy damage, so she's been pulled from the front lines and now is now recovering under the watch of the Naval HQ.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Anything you'd like me to do in the meantime? It's too bad I couldn't help Saratoga out in that Reenactment incident...<br>
+Well, no point dwelling on the past. It's my time to shine now, and I trust you'll be able to make full use of my capabilities?<br>
+<br>
+Thinking things through, if an Iowa-class battleship like New Jersey had been deployed, the situation must be dire.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+The fighting around here's been pretty rough the last few days, so it's good that you showed up, Commander.<br>
+<br>
+"Seems like there's trouble wherever I go."<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Woah, maybe you're like some bad omen for when the Sirens are going to show up!<br>
+Or maybe... everything that's happened so far has been a trap to lure you out! That seems like a possibility!<br>
+<br>
+Wouldn't that be even worse...?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hehe, I suppose so... But enough messing around. If you don't have any other plans, I'll take the patrol fleet and survey the nearby waters.<br>
+Anyway, I'll be off now unless there's something else you'd like to ask.<br>
+<br>
+"Oh yeah, why were you in the office to begin with?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Huh? Is that something that requires explaining?<br>
+<br>
+"Normally not, but I'm a bit curious..."<br>
+"What were you doing under the desk when I walked in?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Uh, looking for something?<br>
+<br>
+"...In an empty office?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Ummm... I left some briefing-related materials in here while setting up...<br>
+<br>
+"Did you manage to find it, or should I help you out?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Err... There was also an anime disk mixed in with the files...<br>
+<br>
+"Sorry, what? What kind of disk?"<br>
+"Actually, whatever it is, wouldn't it be faster if the two of us looked for it together?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(Nooo, I can't let the commander know about my power level...)<br>
+<br>
+*knock* *knock*...<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Hello, Commander. Have you met New Jersey yet? Wonder where that girl's gotten herself to...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I'm over here, Ty! Hey, come help me out over here...<br>
+<br>
+New Jersey stuck her head out from under the desk as she begged the newly-arrived ship for help.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+All right, I'll be right there. Sorry for the late introduction, but my name is Ticonderoga, an Essex-class carrier. Pleased to meet you, Commander.<br>
+You know, this desk isn't in the right spot after all. Would you mind giving us a few minutes to fix it?<br>
+<br>
+"Hmm, if you say so. Want me to wait outside?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hehe, I'd appreciate it~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Unforgettable|选项=3|主框=1|样式=primary|展开=否}}
+<br>
+PH Harbor - Temporary Office, Hours Later<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Hey there, Puddin'! Your new office is looking hella spiffy~<br>
+<br>
+After sending New Jersey and Ticonderoga off on their patrol mission, I started to head back to the office to finish organizing the documents I brought with me.<br>
+Just when I was about to sit back down, I noticed someone on the sofa in front of me.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Oh, did Ticonderoga already hook you up with the goods?<br>
+<br>
+This new girl was waving around the documents I had painstakingly sorted as if they were cheap magazines.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Jeez, that girl sure moves fast, huh... What the heck's with this handwriting? Look at these hearts and curlicues!<br>
+<br>
+"I'm not sure what the problem is... Doesn't everyone have their little quirks when it comes to handwriting?"<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+That's only barely scratching the surface, I tell you. If you know how to interpret these things, there's a whole bunch of hints from the way these papers are ordered to how the pages are folded.<br>
+<br>
+"Sounds impressive, but overly complicated."<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Haha, you're way too dense, Puddin'~ But that's part of what makes you so delicious~♪<br>
+<br>
+"By the way, when you say 'pudding,' are you referring... to me?"<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+A girl's gotta make her mark, yeah? Tell ya what, hang out with me for a while, and I'll teach you how to become popular!<br>
+<br>
+This girl was completely beyond my grasp...<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Ahaha! I can't believe you'd fall for that! All these documents were typed up to begin with!<br>
+<br>
+So this was the San Francisco I had heard so much about... a fun-loving girl who tries to live it up every waking moment of her life.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Anyway, if these documents are straight from the Naval HQ, is the Crimson Axis somehow involved?<br>
+<br>
+"The Crimson Axis... Nominally, an organization that serves as our geopolitical enemies..."<br>
+"Regardless of the feelings and sentiments of the various shipgirls, the politics between our two major organizations have always been opaque and inscrutable."<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Do you think it's because the Sakura Empire's fleet also appeared during the last Reenactment?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, I've received a message from NY City.<br>
+<br>
+"Naval HQ, huh? Put them through."<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Sister Sara is soooooo worried about you, Commander! Is everything okay?<br>
+<br>
+The excessively lively voice of Saratoga, the fleet idol, bubbled over from the other side of the communicator.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Actually, there's a little something that I need your advice on~~<br>
+So, this is actually pretty far from where you are, but I've gotten information that suggests the Sakura Empire is amassing a large fleet.<br>
+We don't know who's leading it, or what their purpose is.<br>
+But the fact that they're doing it now of all times has the Naval HQ on edge.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Woah, speak of the devil...<br>
+Weren't we supposed to be working together in staving off the Sirens, though?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Yeah! That's why I'd like to remind you to avoid hostilities with them if possible...<br>
+Just saying, be careful out there! You never know what kind of craziness might happen if you get thrown into another Reenactment!<br>
+<br>
+"Understood. I'll keep that in mind."<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Anyway, that's all from Sister Sara! Be careful out there, Commander~ Mwah!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+I have a bad feeling about this...<br>
+<br>
+"Me too. Too much is happening at once..."<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+That's not what I'm talking about... Why's that girl– Well, whatever, I'm not gonna let it keep me up at night!<br>
+Catch ya later, Puddin'~ Keep me posted if anything new happens!<br>
+<br>
+'''''<span style="color:black;">选择项1："Wait, San Francisco, why are you taking the documents with you?"</span>'''''<br>
+'''''<span style="color:black;">选择项2：Watch San Francisco leave.</span>'''''<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Forgot to mention it, but I'm also in charge of looking after your health while you're here, Commander. No overtime while I'm here, got it?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''If you want these back so badly, you'll have to follow me back to the bedroom~♪ Ahaha!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Oh yeah, forgot to mention it, but I'm also in charge of looking after your health while you're here, Commander. There won't be any overtime under my watch!<br>
+<br>
+When I woke up the next day...<br>
+I learned that we had lost contact with the AF base.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Enemy Intel|选项=4|主框=1|样式=primary|展开=否}}
+<br>
+The ships under my command had gathered in the temporary command post.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+We still haven't been able to reestablish contact with the AF base!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+We've been losing our recon planes halfway through the flight as well...<br>
+Are they being shot down, or getting lost in a Mirror Sea?<br>
+<br>
+'''''<span style="color:black;">选择项1："Find out what's going on, quickly."</span>'''''<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+You got it, boss. Everyone's working as fast as they can.<br>
+At least from what we can tell, this isn't a simple case of mechanical failure.<br>
+<br>
+When's the last time we had communication with them?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+The last message I see was sent at midnight.<br>
+<br>
+Considering the distance between us, that message should've gone through instantaneously.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Actually... I'm picking up on some scattered signals right now... Let me try to piece them together...<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+What the hell's this?!<br>
+<span style="color:#4eb24e;">Allen M. Sumner：</span><br>
+———Sakura Empire———attacking——emergency———<br>
+———requesting assistance——heavy damage——unable to hold on——<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+I'm sorry, this was all I was able to decrypt...<br>
+<br>
+…………<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+It sounds like they were either attacked by the Sakura Empire... or by someone pretending to be them.<br>
+In any case, we have to go back them up as quickly as possible!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Wait, didn't Saratoga say something yesterday about a large Sakura Empire fleet gathering?<br>
+Seems pretty sus that the AF base would come under attack shortly after that...<br>
+<br>
+"It doesn't make any sense for the Sakura Empire to attack AF..."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Do you think that Siren Pawns are behind this, then?<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Hard to say. From everything we know about Pawns, they're pretty easy to defeat, or at least to disengage from.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+...Hm, what about the Ashes? Wasn't there something on record about an enemy that looked like Hiryuu?<br>
+<br>
+"It's a possibility... But why AF? It doesn't seem like something they'd do..."<br>
+"Whatever the reason might be, we can't ignore an ally's cries for help."<br>
+"Furthermore, we can only assume that the Sirens are somehow involved since we keep losing our recons."<br>
+"Everyone, set sail for AF Atoll!"<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Reverse Course|选项=5|主框=1|样式=primary|展开=否}}
+<br>
+Patrol Fleet<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+The AF base came under attack and we've lost contact with them?<br>
+I step away from the base for a second and this happens... So, what's the commander's response?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Um, a rescue fleet was formed and is now on its way to AF.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+And is the commander with them?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Looks that way.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+All righty, looks like I'll finally be seeing some action!<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Huh?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Round up the patrol fleet. We're heading to AF as well!<br>
+From everything you've told me, it's pretty clear that the Sirens are involved, don'tcha think?<br>
+That's why you've gotta bring the firepower for the job!<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Hehe, seems like you're all fired up~<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+That's right! Besides, don'tcha think the commander would've done the same thing?<br>
+The indomitable Black Dragon isn't some hotel that sits on the sideline while her friends are in trouble!<br>
+Ticonderoga, put me through to the other girls.<br>
+Listen up, everyone. You've all heard the news right? We're gonna go back up the commander!<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+O-okay...! I hear you, loud and clear...!<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Understood.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+That's the spirit! Reverse course, everyone! We're headed for AF Atoll!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Intelligence and Mobilization|选项=6|主框=1|样式=primary|展开=否}}
+<br>
+New Jersey Fleet - Hours Later<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Wait, what?!<br>
+Now we've lost contact with the commander as well?<br>
+<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+It appears so. We lost contact shortly after the fleet left PH Harbor.<br>
+Speaking of which, we can't even contact the harbor either.<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Was it attacked? Or...<br>
+<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+We have no way of knowing right now.<br>
+However, there are reports of sea fog occurring in the area where we lost contact with the commander. Aerial reconnaissance has not been possible there either.<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+What about the other ships with the commander?<br>
+<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+Helena, Archerfish, and San Francisco?<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Even Helena, huh? ...Ty, if I'm not mistaken, there's been information about this sea fog in our records, right?<br>
+Like when Baltimore went missing at the canal stronghold.<br>
+<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+Yes, a similar sea fog appeared before the fleet disappeared into a Mirror Sea.<br>
+Even someone like Enterprise got caught up in the Sirens' machinations...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Right, right! Helena was there too.<br>
+...Ty, I have an idea. Can you put me through with Baltimore to see if she knows anything about the current situation?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I could try, at least...<br>
+But what are we supposed to tell the others? The commander going missing isn't something we can take lightly.<br>
+As with the case with Baltimore's fleet, we should regroup first and figure out how to send reinforcements.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hm, I guess that is an important consideration... Let's tell Saratoga at least, so we—<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Don't you fret! I already know what's going on!<br>
+I'll get in touch with the others, so just focus on finding the commander first!<br>
+If we don't bring the commander back, both of our bases will be vulnerable to Siren attacks!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+That makes things easier for us. Just leave it to Big J!<br>
+...Wait, how long have you been listening in on us, Saratoga?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Huh? I just popped in because Ticonderoga said it was urgent~<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Ahaha... I already reached out to Sara while we were talking.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Ah, no problem. It's better to do things efficiently.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Sister Sara will deal with the Naval HQ over here, so just focus your attention on rescuing the commander!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+All of this... is making me think back to the previous Reenactment...<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Mm... You weren't able to fight back then.<br>
+The commander wasn't there either, so it was a completely different situation.<br>
+Sorry, but there's something I need to look into right now. I'll get back to you later, okay? Do your best~!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+There she goes again...<br>
+Well, I'm glad Saratoga is handling the complicated stuff. Let's just focus on doing whatever we can here.<br>
+Commander's fleet should have no trouble fighting off some Sirens, but let's not waste any more time!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Trapped?|选项=7|主框=1|样式=primary|展开=否}}
+<br>
+？？？·？？？<br>
+I was on the bridge of a ship, but it was no longer one that I recognized.<br>
+It was different from anything I'd seen at the Eagle Union, Royal Navy, or Northern Parliament.<br>
+I looked around some more... The chrysanthemum patterns that I saw left no doubt in my mind. This was one of the Sakura Empire's mass-produced ships.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+…………zZ<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Oh, Puddin', you look so delicious... I could just eat you up...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+What kind of pranks... should I play with Albacore next... Zzz...<br>
+<br>
+The shipgirls beside me were mumbling in their sleep, as if trapped in their dreams.<br>
+They didn't appear injured, but their rigging was nowhere to be seen.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+...Does anyone remember what happened?<br>
+We were making our way towards AF Atoll, when all of a sudden we were sent somewhere else.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Indeed...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+There's no way I'm dreaming this up, right?<br>
+This is way too spooky! I'm not made for this!<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Maybe we got pulled into the twilight zone? Dudududu~ dudududu~<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+This must be the Sirens' new weapon! We've been kidnapped!<br>
+<br>
+Despite the utter inconceivability of the situation we were in, the girls seemed rather light-hearted.<br>
+I had to stay calm, though. I had to figure out what was going on.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+We entered the sea fog, didn't we?<br>
+Something like this happened back when I was in Baltimore's fleet at the canal stronghold. When we passed through the sea fog, we were suddenly in a different place.<br>
+<br>
+"This could well be that same weapon."<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+I think so too. Back then, we encountered one of the Ashes and were able to fight our way out.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+So, are we stuck inside a Mirror Sea now?<br>
+I'd say something funny if this wasn't dead serious... First thing's first, we'll have to check what's wrong with our rigging.<br>
+Just gotta... Huh? Why can't I summon my rigging? Helloooo? Riggerino?<br>
+No luck... Is it just my rigging that's hiding from me?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Let me try... Wow, I can't do it either. That's not good...<br>
+<br>
+San Francisco reached for the lever of the watertight door.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+What the heck, I can't even open this door... Are we totally trapped in here?<br>
+Helena, do you see anything on the other side of the window?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+SG... What do I do without my SG... Urk...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Woah, easy there, Helena...<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Huh? Um, oh... I can't see anything through the fog...<br>
+Wait, what's that? It's just a faint outline, but it looks like some kind of ship...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Is it a Siren ship or one of our own? Does anyone have a working communicator?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+I usually use my rigging for that. Also didn't bring my cellphone because we're on a mission.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+The commander wouldn't bring one either, so we're going to have to find some way out of here first...<br>
+Something like a crowbar... or a stick of dynamite...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Dynamite?!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Look here! I found something that might function as a communicator!<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Nice going, Helena!<br>
+But... I'm not sure something like this— Whoa, what? It's working?!<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Reporting from the front lines."<br>
+"Our air squadrons have begun bombarding the enemy base."<br>
+"Our recon planes have not yet discovered Eagle Union forces. Requesting additional recon support."<br>
+<span style="color:#ffd000;">Akagi：</span><br>
+"Prioritize disabling the enemy base. One wave of airstrikes may not be enough to finish the job."<br>
+"Prepare to launch the next wave of attacks."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+A recorded message from the Sakura fleet? Something feels off about this...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+I assume they were talking about attacking the harbor... Do you think we've been put onto one of their mass-produced ships?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+That doesn't make any sense... This ship isn't moving at all, and I don't see any signs of the rest of the fleet!<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+The fact that this message has been recorded here means that this ship is part of that fleet, doesn't it?<br>
+<br>
+I'm not sure what purpose that message serves, but it's our only clue on how to get out right now.<br>
+Keep your eyes peeled and listen closely.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=AF Base|选项=8|主框=1|样式=primary|展开=否}}
+<br>
+New Jersey Fleet<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+So these are the coordinates where the commander was last seen?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Yes. The communication log suggests the same thing.<br>
+The lingering fog here matches the descriptions from the intel reports.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+We're not too far from the island right now, so even if we get attacked, we should be able to turn back.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+"...We were suddenly swallowed up by the sea fog, and before we knew what was going on, we had already been transported to a totally different place."<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+"It's hard to believe, but the coordinates where you went missing does differ from where you later escaped."<br>
+"While Mirror Seas are known to mess with navigational equipment, that alone could not explain such a drastic difference."<br>
+"Therefore, the Naval HQ has concluded that the purpose of the 'sea fog' is to serve as a weapon that facilitates mass displacement."<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+If this is what we're dealing with, I wonder if everyone at AF is okay...<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+This is Boise... We finally managed to connect to AF... They seem to be fine for now!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Thank goodness! What about Allen? Have you been able to speak with her?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Yes! Morrison arrived at the base ahead of us.<br>
+Finally, some good news... I'll go ahead and contact Allen directly then.<br>
+Allen, can you hear me?<br>
+<span style="color:#4eb24e;">Allen M. Sumner：</span><br>
+Loud and clear~! Sorry if there's some background noise, we're busy trying to defend the base over here!<br>
+Yesterday evening, a sea fog suddenly appeared around the base, and then Sakura Empire carriers started bombarding us...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+That's when you sent the emergency request to PH Harbor, huh?<br>
+<span style="color:#4eb24e;">Allen M. Sumner：</span><br>
+Yup. We sent the message in the evening, but for whatever reason, it didn't arrive until the next morning...<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Have you verified that we're going up against the real Sakura Empire?<br>
+<span style="color:#4eb24e;">Allen M. Sumner：</span><br>
+Hard to say... The planes definitely look like they're the real deal, though...<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+We're no experts on the subject, but those insignias are pretty unmistakable...<br>
+Got some photographic evidence on Mr. Bear's built-in camera too if you want to see for yourself.<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+The weather's nice and sunny around the base itself, but the sea fog is still heavy around the waters to the northwest.<br>
+New Jersey, you should head over there and investigate if you want to figure out what's going on.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Got it. Ty and I will head over there right now.<br>
+Boise, Morrison, I'd like the two of you to join us. Allen can take care of defending the base.<br>
+<span style="color:#4eb24e;">Allen M. Sumner：</span><br>
+Easy peasy!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(Good, at least we now know that AF is safe... One fewer thing to worry about.)<br>
+(Next, I have to find the commander and investigate this Mirror Sea.)<br>
+(Honestly, I'm not too confident about our prospects given this small fleet, but I can't afford to wait for reinforcements with Commander's safety on the line.)<br>
+(Commander, hold out a bit longer!)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Morrison and Mr. Bear|选项=9|主框=1|样式=primary|展开=否}}
+<br>
+KABOOOOM!<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+An enemy airstrike?! Phew... I owe you one, Morrison!<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+It spooked me too... Thankfully, Mr. Bear was equipped with some air defense weapons...<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+What the heck have you added to Mr. Bear since last time...?<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Hehehe... Just a few little tweaks to make him more perfect...<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Morrison, watch out! There's more coming!<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+More planes? There's just no end to them!<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+That's why we need to hurry up and join with Ticonderoga!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Reenactment|选项=10|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Sorry to keep you waiting. You're all safe under my wing now.<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+W-we're saved!<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Though their planes were individually weak, there were just so many of them...<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+That was just like swatting flies for me, though~ Did the two of you get hurt at all?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+I'm perfectly fine. Morrison, how about you?<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+I'm fine as well... The planes weren't a big deal...<br>
+Just seeing so many of them coming at us was a bit scary...<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+No kidding. Luckily, their accuracy was pretty laughable, so it was easy to take countermeasures.<br>
+I wonder if these planes came from a Siren Pawn...<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+That's the impression I'm getting as well.<br>
+Maybe if we follow where the planes came from, we'll be able to find the commander as well!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hmm, good thinking! The planes have to return to their source eventually.<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+In other words...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Yeah, if we can trace the planes back to the carriers, we'll be able to catch out the attacking Siren fleet!<br>
+And hopefully, that gives us a clue as to where the commander is.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I see. In that case, you shouldn't waste any more time here!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Mhm! I'll be counting on you, Ty!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Incomplete Reenactment|选项=11|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Hmm... Now this is interesting.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+What is it, Ty? Found the Sirens' main force?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Not quite, I'm still tracking the enemy aircraft.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+It's getting pretty far away from us... I don't think I can keep up with it.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Not quite, I'm still tracking the enemy aircraft.<br>
+But there is good news. I've got a pretty good clue as to who our enemy is.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+You do, huh? Are we facing the actual Sakura Empire or just another Siren Pawn?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+We haven't been able to tell so far by looking at the planes; they've simply been too weak.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+So, what about the good news? I'm not exactly the greatest at putting things together.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+The sea fog itself. When the fog is this dense, the easiest way to find where ships are is to observe where the fog dissipates.<br>
+It actually ended up being better for us once the planes left. From what I can see, the trails in the fog indicate that we're after only a single ship.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Do you think it's a Pawn?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+That's the most likely scenario. It seems extremely unlikely that the Sakura Empire, knowing that this sea fog is a Siren weapon, would send a single ship by itself.<br>
+Perhaps these Pawns are instrumental for moving the Sirens' Reenactments along?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Reenactment... I see, so that's why they attacked the AF base...<br>
+I was not too convinced by what you said earlier, but the pieces are starting to fall into place for me.<br>
+Nobody would have a good reason to launch an attack on the AF base... except the Sirens.<br>
+First, they strike at us using Pawns that resemble the Sakura fleet to provoke us into retaliating against the actual Sakura fleet.<br>
+The more successful their Reenactment is, the more the Sirens would be empowered.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+As for the "script" they're using... We are all quite familiar with that.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+The question is, what's the ultimate purpose of their Reenactments?<br>
+The thing that has been bothering me is... why would the Sirens go out of their way to remove the commander from the board?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+There are too many things we don't understand about the Sirens. We can only speculate at this point.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Ahhh, all this thinking is making my head hurt after all. I wish the commander was here!<br>
+(Yeah, playing detective really isn't my strong suit. Trap or otherwise, we'll break through it all and rescue the commander.)<br>
+(During the last Reenactment, our fleet managed to break through the Siren attack even when exhausted.)<br>
+(We're much stronger and better equipped now than we were back then...)<br>
+(A reenactment of the AF campaign? Not on my watch. New Jersey isn't some pawn on anyone's chessboard!)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Memories of AF|选项=12|主框=1|样式=primary|展开=否}}
+<br>
+？？？·？？？<br>
+Much time had passed, and we still had not found any way to leave the bridge. We did occasionally receive other new messages through the communicator, but...<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, I've tried sending a message from the communicator, but it doesn't seem to be working.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+What should we do now?<br>
+Yo, Archerfish, why are you wiggling your butt around over there?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Shush! I'm trying to hear if there are any engine noises coming from this ship~<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+I see, submarines do have a better sense of hearing after all~<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Unfortunately... I don't hear a peep.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Huh. If I didn't know better, I'd say we're anchored somewhere.<br>
+How long have we been stuck here? I'm bored out of my mind.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Another message just showed up on the communicator!<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Lemme see...!<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Hiryuu, reporting in. The first bombing attack on AF was a success."<br>
+"Operation objectives have not yet been accomplished. A second wave of attacks is required."<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+It seems to be an update from the first series of messages...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Another attack on the AF base? That doesn't seem to match up with what Allen told us...<br>
+<br>
+I had my suspicions as well. We weren't able to use the communicator, but it seemed to be feeding us a certain narrative.<br>
+"I've seen too many of the Sirens' dirty tricks. Communication abnormalities caused by the sea fog. Robotic, inorganic voices from the communication equipment. The Sakura fleet is being set up... But why?"<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Are these creepy recordings also a part of the Sirens' Reenactment?<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Yeah, that tells us nothing about why they trapped us here.<br>
+Do you think this is their way of tauntin' us? Giving us first-class seats to watch them carry out their Reenactment?<br>
+We don't need that kind of charity from the Sirens though. Ain't that right, Puddin'?<br>
+<br>
+If the Sirens are using such sophisticated methods to try to deceive us, this plan must be very important to them, and we certainly won't just be fighting against some Pawns.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+You have a point, but... why are the Sirens able to mimic the Sakura Empire's communications so convincingly?<br>
+<br>
+'''''<span style="color:black;">选择项1："Perhaps because of the nature of their Faustian bargain?"</span>'''''<br>
+'''''<span style="color:black;">选择项2："The eyes and ears of the Sirens could be anywhere for all we know."</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Unlike the Eagle Union and the Royal Navy, the Crimson Axis is known to dabble with Siren technology.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Maybe the Sirens in turn know far more about them as well.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Given their technology, I wouldn't be surprised if they can easily compromise all our existing forms of communication.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''The most frustrating thing is, we don't even know if we've discovered one of their secrets, or if they're just toying with us.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Hmm, I suppose that's a good way for the Sirens to kill two birds with one stone. We'd sustain damage from the attack, while the fallout would further deteriorate the relationships we have with the Sakura Empire.<br>
+Well, there's no way they'd fool us with something that blatant.<br>
+You know what they say about the enemy of my enemy, though. It's hard to tell what kind of relationship the Sakura Empire has with the Sirens if they're considered this disposable.<br>
+<br>
+Right. The worst thing to do at this critical time would be to dredge up old conflicts by doubting each other... The more we fight amongst ourselves, the worse our position is.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+I don't like complicated stuff like this... Hold me, Puddin'~!<br>
+<br>
+However... Whether these messages are fabricated or not, we have to take their contents at face value for the time being.<br>
+In other words... They're going to launch another attack on AF if this Reenactment continues—<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Wait, hold on, Puddin'!<br>
+Everything we've just talked about assumes that the Sirens intended for us to receive these messages, right? After all, we're still stuck on the bridge of some Sakura Empire ship!<br>
+It's pissing me off that I have no idea what to believe at this point!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, the communicator seems to also be able to relay information between Pawns...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Wait, seriously? Since we're stuck in here anyway, why not try to mess around with their little game?<br>
+(The more I think about it though... What if we're meant to be key players in the Sirens' game, rather than mere pawns?)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Reinforcements?|选项=13|主框=1|样式=primary|展开=否}}
+<br>
+New Jersey Fleet<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I've been following the trail for a while now, but still haven't actually seen this Pawn we're after yet...<br>
+We're still keeping up with the aircraft for the time being, but—<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+What's wrong, Ty?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Wait, hold on... Something's shooting at the aircraft!<br>
+Are those our colors? What's going on?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Eagle Union planes? Do we have any other ships deployed here?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Not that I'm aware of... Ticonderoga should be the only carrier deployed here...<br>
+<span style="color:#4eb24e;">Allen M. Sumner：</span><br>
+"We're still hanging in there, but AF's runways got torn up pretty badly by the first wave of airstrikes. In any case, don't expect any air support from us~"<br>
+"If this really is a Reenactment as you said, New Jersey, the Sirens sure are pulling out all the stops..."<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+If the attack didn't come from a "real" allied plane, then...<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Maybe there are Eagle Union Pawns out there as well...?<br>
+The planes are heading in the same direction as that "Sakura Empire" plane...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Are there any other planes that you're able to track?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Unfortunately, no. The ones I was tracking have all been shot down.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Welp, change in plans then. Let's track those Eagle Union planes instead... and oh, be mindful of the altitude.<br>
+Boise, Morrison, please continue to take up the vanguard. I have no idea what's going on right now, but we're gonna have to charge right into that sea fog!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Silver Wings|选项=14|主框=1|样式=primary|展开=否}}
+<br>
+KABOOM——!!<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Another airstrike?!<br>
+New Jersey, we're coming under attack again! We're under heavier fire than before and can't break through!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+What the hell's going on? Are they finally springing their trap on us?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I can't say for sure, but the enemy aircraft are much stronger than the ones we encountered before!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Could this be the real Sakura Empire fleet? Did they mistake us for the Siren Pawns?<br>
+But didn't we establish that it was impossible for them to have sailed their entire fleet into the sea fog...?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Wait... Now, there are more Eagle Union planes intercepting the ones attacking us...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+This makes no sense... Are the Sirens attacking themselves?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I'm starting to get a pretty good idea of where the Siren ships are from tracking the direction and timing the planes are coming from!<br>
+Do you think the commander has a hand in why these Pawns are behaving strangely?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+N-New Jersey! We're receiving a message on the communicator!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+A message? Is there a ship capable of breaking through the interference here?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+I don't think so... I remember this channel being in use during the AF Reenactment, but...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I have no idea what you're trying to say, Boise. Let's hear the message first.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+Bzzt..........<br>
+<span style="color:#ffd000;">Hornet：</span><br>
+"Damnit, there's way too many fighters escorting the target, and we can't hit it with our torp bombers! We're so close...!"<br>
+<span style="color:#ffd000;">Enterprise：</span><br>
+"Sorry, I haven't been able to score any hits from my torpedo bombers either."<br>
+"The enemy seems to have scrambled their air wings as well, so our positions may have been compromised by our attack."<br>
+<span style="color:#ffd000;">Yorktown：</span><br>
+"Don't be discouraged! We still have the initiative for the time being!"<br>
+"Let's coordinate our attacks then! We'll break through with a frontal attack!"<br>
+"Look alive, everyone! This is our counterattack!"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hornet, Enterprise, and Yorktown...? Why am I hearing their voices now?<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Mr. Bear told me a message was coming in on a certain channel...<br>
+Did the three of them come to help us...?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+That's impossible... We know that Yorktown was heavily damaged during the previous operation...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Right. Enterprise should be with the Naval HQ at NY City, and Hornet is participating in Operation Siren...<br>
+This about confirms my suspicions. The Sirens' Reenactment includes a full clash between the Eagle Union and Sakura Empire Pawns.<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+And what about this message?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Maybe something fabricated sent between the Pawns?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Yeah, that's what I think so as well. Saratoga was the one leading Operation AF, so a conversation like this wouldn't have happened in the first place...<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+How much information do the Sirens have on us...?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+It's not really something I want to think about. We've been fighting them for years, but the Sirens are still a complete enigma.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+So, to sum things up, the Sirens are reenacting a battle between the Eagle Union and the Sakura Empire here...<br>
+Do you think they're collecting data from the results of the battle?<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Data collection...? Will they use it to get stronger, like Mr. Bear?<br>
+Wait, do you think they used the data from yesterday's attack to make these new-and-improved planes...?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(Crap... It's definitely a possibility... If they keep running this Reenactment over and over and mass produce stronger and stronger enemies, there's no way we'll be able to stop them!)<br>
+Ty, gather up your recons and focus on securing air superiority first.<br>
+Morrison, keep using Mr. Bear to monitor the communication channels and let me know as soon as something happens.<br>
+We still need to find the commander, and we'll beat it out of them if we have to.<br>
+If the Sirens think they can fool us with their petty tricks, they'll soon be answering to my Mk7's!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Visitor From a Distant Dream|选项=15|主框=1|样式=primary|展开=否}}
+<br>
+？？？·？？？<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Our fighters have intercepted a group of Eagle Union aircraft. We've shot them down while sustaining minimal damage."<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Woah, who's a smart little Pawn~<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"I don't understand what you just said... Anyway, I've confirmed the location of the enemy carriers. Should we attack?"<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Hmm... An Eagle Union Pawn, huh? ...Yeah, go ahead and continue with that.<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Acknowledged. We'll now prioritize neutrallizing the enemy carrier fleet. The ground objective squadron will be reorganized."<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+I see, I see. Make it fast though, you might get caught off guard while changing your equipment~<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"We will now re-equip our aircraft from anti-installation equipment to anti-ship equipment."<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Yes, do as I say! I, your commander, would never make a wrong move!<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Understood."<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+What the hell are you doing...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Ahaha~ Can't you tell? I was bored as hell, so I tried butting in on the conversation~<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Wait, seriously? Lemme give it a try next time~<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Sure thing~<br>
+<span style="color:#ffd000;">Communicator：</span><br>
+"Why do you make light... of the lives on the line...?"<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Huh? Who? Where's that voice coming from...?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+A distant, dreamlike voice floated from the communicator. It was nothing like the synthetic voices of the Siren Pawns.<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Who are you? Show yourself!<br>
+<span style="color:#ffd000;">？？？：</span><br>
+Your reactions... are different from what I have seen in my dreams...<br>
+Ships of the Eagle Union, I have met you countless times... but you have yet to meet me...<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+I am but a drifter, a wanderer through the mirror of dreams... though, I know not what effects my dreams may have on your world...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+This sword is resonating...? Are you... Shinano?<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Shinano? The mythical aircraft carrier of the Sakura Empire?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+D-does someone like that really exist...?<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Hey Puddin', have you ever heard of her before?<br>
+<br>
+(Aircraft Carrier Shinano... a name that has been whispered for quite some time now. Legend has it that she was enshrined in a deep slumber within the Sakura Empire, and rumors abounded that she had finally been awakened after some recent events...)<br>
+(But why would she be here? She should not be a part of the Sirens' Reenactment...)<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+The light you give off... What are you doing on the bridge of a Sakura Empire flagship...?<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+(Wait, whaat?! This isn't some bubble dimension the Sirens created to trap us?!)<br>
+That's what we wanna know. We were sailing along, minding our own business, before we suddenly found ourselves trapped here!<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Then, you are like this one... A prisoner shackled by her past...<br>
+A prisoner forced to watch Reenactment after Reenactment...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+(Crap, I can't deal with people like her... She speaks entirely in riddles...!)<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Within my dreams, I have seen all realities... Yet I cannot influence my own reality...<br>
+But the fact that both of us have wandered into the same dream... must surely be fate as well...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+So, I don't really get what you're saying, but I assume you're talking to us because you're hoping we can bust you out of your dream or whatever...<br>
+After all, we're both stuck here for some reason... Right?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Mm... Thank you for your understanding... I, I am not very good with words...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+What the hell? How can you understand a word this chick is saying?!<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+As for you over there, "Commander"... There is so much I would like to discuss with you, as pitiful of a state that I am in now...<br>
+<br>
+Do we know each other...?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+This is the first time we've met like this... But in my dreams, there is much we have shared together... To you, I am deeply indebted...<br>
+<br>
+I had no idea what she was talking about, but she certainly did not seem hostile.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Please disregard my rambling... I have simply seen too many things, and sometimes must indulge in some selfishness...<br>
+But I want you to know... You are not my enemy. Please understand that I wish to coexist, to become friends, to become human...<br>
+There are so many things I'd like to share with you... And time is so ephemeral...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fated Memories|选项=16|主框=1|样式=primary|展开=否}}
+<br>
+I learned from Shinano that she drifts between possible realities in the form of "dreams," and has a limited ability to "project" herself into reality.<br>
+Her words were certainly hard to believe, and her unique vocabulary only compounded that problem. With the help of Archerfish's "translations," however, I gradually started to make some sense of what she was saying.<br>
+However, she was often a bystander in her own dreams, powerless to actually change anything in reality...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Shinano, girl, you'd definitely benefit from some exercise and Vitamin D. Trust me, if you spend all day in bed, your muscles definitely will tell you that you're powerless.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Mm... My consciousness may travel between realities... but my actual body is unable to move...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Translator? Where you at?<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Hmm... I guess she has significant downsides to her abilities. Like being able to see a bunch of dreams but not able to influence any of them...<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+I apologize... Again and again, the endless cycles consume my consciousness...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+You'll get nowhere if you allow yourself to get stuck on every little thing though, right? Even if your power's also a bit of a curse, you've already made it this far!<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+That... may well be the case... Thank you for your advice...<br>
+Yet I have tried to change my fate before... Time and time again, it fails to bear any fruit.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+That's no reason to get depressed! When life knocks you down, you have to keep getting back up! I can tell that you'll be able to overcome your situation, little by little!<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+I see...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+S-sorry, I'm not trying to lecture you or anything... I'm usually not the kind of girl you'd want to take advice from anyway~<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+No, I appreciate your honesty. Your words carry truth within them...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Hehe, Albacore would probably be bullying the heck out of you if she was here! I dunno what it is, but I feel like I have some kind of special connection with you~♪<br>
+<br>
+Seeing the two of them talk so frankly filled my heart with warmth.<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Sorry for the delay since my last report. This is Hiryuu."<br>
+"While we were changing equipment, our carrier force was ambushed by the Eagle Union. Akagi, Kaga, and Souryuu have all been..."<br>
+"I am still standing though. I will now begin the counterattack."<br>
+"I will avenge my comrades!"<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander! The Sakura Empire Pawns are moving!<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Are we in danger here?<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"But... Why did you give me those orders...?"<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Commander, what do I say? Our cover's gonna get blown!<br>
+<br>
+Through the dense fog outside the porthole, the flash of lights could be seen in the night sky.<br>
+I knew it was a bad idea for San Francisco to stick her head into an in-progress Reenactment, but...<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+"Why... Am I supposed to flee with my tail between my legs...? Why...?!"<br>
+[Adjusting Reenactment parameters. Lifting maximum combat power of the Sakura Empire fleet. Conditions for defeating Aircraft Carrier "YORKTOWN" now met——]<br>
+<br>
+Wait, what? The Pawns are scaling their combat power autonomously...?<br>
+<span style="color:#ffd000;">Hiryuu：</span><br>
+[After modulation, change production capabilities to match new specifications.]<br>
+[Resetting and reinitializing Reenactment.]<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+So tragic... These lost souls... Doomed to suffer and burn in the flames of the past for all of eternity...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Shinano... Is there no way to stop them...?!<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+This one cannot even break free of her own fetters...<br>
+(The Mirror Sea is nothing more than a Siren research facility, and the "Pawns" here are but puppets...)<br>
+(Each "Pawn" is carved from the history that gives us form, but torn from the cycle of causation... They are suspended only within the past...)<br>
+(Akagi must have known this... How much of our past is now serving as fuel for the Sirens...?)<br>
+Involution... a spiral that wrings out all hope from our past to serve as weapons of war... An experiment I am powerless to stop...<br>
+<br>
+Do we have no choice but to let this cruel cycle play out to its end?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Indeed... It is the fate that has been inscribed within our hulls long ago...<br>
+<br>
+"Enterprise, Hornet, please don't worry about me."<br>
+"Even if the two of you come, we would still be heavily outnumbered, and victory still be unlikely."<br>
+"Don't worry... The two of you have hit me harder during our training sessions..."<br>
+"Besides, Enterprise, didn't you used to say that you'll never be able to win if you're always scared of death?"<br>
+"Hehe... I always thought that was a bit morbid, but we'll both need to make it back if you want to rub it in my face."<br>
+"Give me three days, just three days and I'll show you how tough I am."<br>
+"Because I cherish the two of you, my precious little sisters, I have to keep you safe."<br>
+"What's the matter? You look just like Hammann with that pout on your face."<br>
+"Are you still worried about me? I told you, I'm doing just fine~"<br>
+"Hehe~ Besides, aren't there more pressing issues for you to be worried about?"<br>
+"That's right, you can't spend your entire life on the front lines."<br>
+"As the hero leading everyone forward, you sometimes have to stay in the back to help give others a little push~"<br>
+"Aircraft launched. I'm going to scout out the enemy's carrier task force."<br>
+"We'll be at a disadvantage in a shelling battle... I have to do something to give us the advantage from the air."<br>
+"The enemy thinks that they've pulled one over us by attacking AF... But that overconfidence will be their downfall."<br>
+.........<br>
+"This... is a battle I cannot afford to lose."<br>
+………………<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Shadows in the Sea Fog|选项=17|主框=1|样式=primary|展开=否}}
+<br>
+Within the Mirror Sea...<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Um, I hope we're heading in the right direction... The radar's not beeping at all, but Mr. Bear says...<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+I can't believe... we're trusting your stuffed animal over our navigational equipment...<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Don't worry... Mr. Bear is almost always right, except if we get too far away...<br>
+Um, Mr. Bear... Can you try to calibrate your sensors again towards the direction the communication signals came from?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Oh... If you find a Pawn fleet, don't let Mr. Bear engage them on his own...<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Of course! I'll be sure to consult with New Jersey first—<br>
+Wait, we're picking something up!<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Did you find them...?<br>
+<span style="color:#ffd000;">Hammann?：</span><br>
+「………………」<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Hammann?<br>
+No, it can't be... That's a Siren Pawn!<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Get a hold of New Jersey! We're going to chase after it!<br>
+<br>
+"To mirror the status quo, or to accept the chaos and possibilities of mutation."<br>
+"Two spirals that are intricately connected, linked yet never converging."<br>
+"But when the mirror shatters and their trajectory becomes unbound,"<br>
+"What remains of the broken equilibrium?"<br>
+"To mirror the status quo..."<br>
+"Or to rewrite the rules of the system?"<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Silent Dolls|选项=18|主框=1|样式=primary|展开=否}}
+<br>
+KABOOM——!!<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+The Sirens are getting stronger and stronger with each cycle of the Reenactment! We can't let this continue any longer!<br>
+If mass-produced models of this caliber spill out of this Mirror Sea, everything we've worked for will have been for naught!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Don'tcha start panicking on me! We still haven't found the commander yet, and my hunch is telling me that we'll also find the Mirror Sea generator there as well.<br>
+Two birds with one stone - that's how I like doing things! But first, we've gotta clear out the small fry here!<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+―――――<br>
+<span style="color:#ffd000;">Enterprise：</span><br>
+"We've neutralized the aerial presence of the Sakura Empire fleet. Victory will soon be ours."<br>
+"However, Yorktown was gravely wounded by Hiryuu's final counterattack..."<br>
+<span style="color:#ffd000;">Yorktown：</span><br>
+"Please, it's just a scratch. Stop blowing things out of proportion~"<br>
+「…………」<br>
+<span style="color:#ffd000;">Hornet：</span><br>
+"Blowing things out of proportion? No, we've got to get you back to port immediately!"<br>
+<span style="color:#ffd000;">Enterprise：</span><br>
+"Hammann!"<br>
+<span style="color:#ffd000;">Hammann：</span><br>
+"I know! I'll protect her with my life...!"<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+―――――<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+New Jersey, did you hear that just now...?<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Something about Yorktown... and Hammann being the next part of the Reenactment?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hold up, didn't we already see "Hammann" on our way over here?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Mmhmm... I tried to track her, but as soon as she entered the sea fog, she dropped off the radar...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Did you notice anything unusual about this Hammann's behavior?<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+No, she just passed right by us... But she definitely wasn't escorting anyone...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+That about confirms that this is an ongoing part of the Reenactment.<br>
+(Not that we needed any more confirmation. Nobody's going to be wandering around alone in a Mirror Sea like that...)<br>
+(No matter how much you read about the Mirror Seas in reports, aiming your guns at someone who looks like your allies is truly a terrible experience...)<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+Ah, um... Should we chase after her? She couldn't have gotten far...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Yes, we give chase. Judging from her movements, she's not behaving any differently from the Pawns we've fought up to this point.<br>
+We don't know exactly how these Reenactments function, but following her is our best bet of finding out. Don'tcha agree, Ty?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Yup. Since we don't appear to be a part of this Reenactment, we should have some degree of autonomy.<br>
+Let's clean up the leftover Pawns and then chase after Hammann!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+A solid plan. Boise, Morrison, please continue to scout ahead for us!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Mindless|选项=19|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Communicator：</span><br>
+―――！<br>
+<span style="color:#ec5d53;">Hornet?：</span><br>
+"We've sustained too much damage! We won't be able to continue fighting at this rate!"<br>
+"Where's the backup fleet?! We need reinforcements now!"<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Another message...!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Does this mean that the Eagle Union Pawns are being defeated by the Sakura Empire Pawns?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+They're completely ignoring us...<br>
+Haah... I suppose this is better than having to do the dirty work ourselves. Even if they're fakes, having to attack your friends is terribly depressing...<br>
+In any case, we're making pretty good progress towards the coordinates I mapped out.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hold on a sec~ Do you want to try something real quick?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+...Try what?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I'm sure you've been thinking this as well - what if we're supposed to do something with these messages? Maybe if I...<br>
+Ahem... Hey, Hornet, do you copy? This is New Jersey.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+(...What are you doing?!)<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(Shh...! I'm trying to determine if we're supposed to play a role in their Reenactment, or if they'll act like we don't even exist.)<br>
+<span style="color:#ec5d53;">Hornet?：</span><br>
+"New Jersey? Thank goodness, we need the help badly!"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(Holy crap, she actually answered?! Calm down and think, New Jersey!)<br>
+Ah, um, yeah! But I'm going to need your coordinates, pronto!<br>
+<span style="color:#ec5d53;">Hornet?：</span><br>
+"I've lost most of my aircraft already, and Enterprise is in a similar situation. How many ships did you bring with you?"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I can help, but I'm going to need your coordinates! Even a flare gun works, gimme something to work with!<br>
+(Is this seriously going to work...?)<br>
+<span style="color:#ec5d53;">Hornet?：</span><br>
+"I've lost most of my aircraft already, and Enterprise is in a similar situation. How many ships did you bring with you?"<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+...I guess not. Deviate from the script, and it seems like she's talking right past me.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hey, Hornet, what are your plans for dinner tonight? I'm craving some steak right about now.<br>
+<span style="color:#ec5d53;">Hornet?：</span><br>
+"We've sustained too much damage! We won't be able to continue fighting at this rate!"<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hornet, if you don't speak up, I'm gonna order your steak well done~ Unless that's actually what you prefer~<br>
+<span style="color:#ec5d53;">Hornet?：</span><br>
+"I've confirmed the next wave of attacks from enemy aircraft. Requesting modulation of anti-air parameters."<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I guess it's true. She doesn't seem to be hearing a thing you're saying.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I'm starting to understand what's going on.<br>
+These messages are a part of the Reenactment to some extent, but there's some wiggle room so they're not strictly recordings.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Like exchanging preset messages, huh?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Yup. That's why the messages might sound half-convincing if you didn't know better, but are utter nonsense if you try talking about something else.<br>
+As we don't fit into their Reenactment, this "Hornet" was completely unable to respond to my question about steaks.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I would've been more surprised if she suddenly started talking to you about steaks...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+In short, while these Pawns might be a bit stronger from what we're used to, they're still low-tier programs incapable of thoughts or rationality.<br>
+Up to this point, I haven't seen any Siren command units either... Who knows, this Mirror Sea might be rather special...<br>
+Whatever the case might be, Commander, please hold out a bit longer...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Cogs of Fate|选项=20|主框=1|样式=primary|展开=否}}
+<br>
+？？·？？<br>
+<span style="color:#ffd000;">Jintsuu：</span><br>
+"Reporting combat situation from the front lines. The Eagle Union's carriers have sustained significant damage and are now retreating."<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+This voice... belongs to Jintsuu...<br>
+<span style="color:#ffd000;">Jintsuu：</span><br>
+"Hiryuu has been incapacitated and is no longer able to sail. Requesting emergency rescue operation..."<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Is the Reenactment about to come to an end...?<br>
+<span style="color:#ffd000;">Jintsuu：</span><br>
+"Recapping operation objectives: Capture AF Base and sink the enemy carrier task force. Status: Failed."<br>
+"Test Name: Operation AF. Communication playback log finished."<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+O... vengeful fate through which we were given form... Please sleep peacefully beneath the waves...<br>
+<span style="color:#ffd000;">Jintsuu：</span><br>
+"Uploading data... Preparing initialization of next Reenactment."<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+Is it finally over? Are the Pawns going to be disposed of?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+This one cannot say... The realities I have seen may differ from what you know to be true... Yet there is some information I can offer you...<br>
+I seek to gather the fragments of hope and find a different future... One that avoids that ruination that befalls every dream I see...<br>
+<span style="color:#4eb24e;">San Francisco ：</span><br>
+That's, uh, very commendable of you... But is there anything that can help us make sense of this mess?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+My apologies, but... that is not something that I can tell you right now... or even the Commander...<br>
+The light cast by the fragments is false, ever-branching and misleading...<br>
+<br>
+I'm sure you have your own reasons, so I won't press you for details right now.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+...All that's left, is how to leave this place...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+That's what we wanted to know in the first place! It sucks being stuck here, unable to do anything!<br>
+Shinano, you brought this topic up because you have an idea on how to escape, right?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+The reason you were brought here, and why you have been trapped...<br>
+...is not something I currently understand. Yet I sense... that the answers you seek are near...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Yes, our meeting has been made possible by the power hidden here.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Helena's Shadow|选项=21|主框=1|样式=primary|展开=否}}
+<span style="color:#ff9900;">？？？：</span><br>
+Archerfish, Shinano, Commander, and even "me."<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Who are you, to also be able to sense this one's presence...?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The more you observe us, the more we also know about you.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+My physical form does not exist in this dream... Only those with a strong connection to me should be able to see me...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I know nothing about your "dreams." But due to the influence of this place, your existence is clear to me.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+…………<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+What do you see? Why do all you people talk so funny?<br>
+And who the heck are you? Why do people keep popping up outta thin air?!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I am but another shadow—<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Okay, stop right there! I've had it with you all you people talking in riddles!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Riddles?<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Yeah, with all this mystical mumbo jumbo about "existence" and alternate realities! Can't we talk like normal people here?!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Maybe that's due to your own ignorance...<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Look, I know I'm not the sharpest tool in the shed, but I'm not exactly in the best headspace right now!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Commander... If that is really you... Do you still know my name...?<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+You don't have to answer her, Commander! I don't trust her one bit, and if she's up to no good, she'll have to answer to my trust ol' bat!<br>
+<br>
+Her appearance and her demeanor reminded me of——<br>
+<br>
+'''''<span style="color:black;">选择项1：Helena...? Is that you...?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Ashes...</span>'''''<br>
+'''''<span style="color:black;">选择项3：Siren Pawn...?</span>'''''<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Not quite... Commander, it seems that you are not yet ready for the truth...<br>
+But more importantly, back to the task at hand... You wish to know how to leave this place, yes?<br>
+<br>
+Of course. We still have an important mission to accomplish.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+"Oh, thank you so much for saving us"~ Tch, like hell I'd believe something that convenient!<br>
+Before we go any further, answer me this: Are you friend or foe?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Consider me a friend.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+(Huh... She actually answered that without hesitation... Maybe she really is here to help?)<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Helena... You understand, right?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Huh? Me...? Why, all of a sudden...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+If you know how we can get out of here, let's hear it already.<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+You'd better not try anything funny, or the back of your head's gonna be saying hello to my bat~<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Mirror hacking protocol - spatial unlock.<br>
+You are now free to leave.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Combat|选项=22|主框=1|样式=primary|展开=否}}
+<br>
+Mirror Sea - Pawn Rally Point<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hehe~ It feels real good to finally let these cannons roar! These Pawns don't feel like anything special though...<br>
+<span style="color:#4eb24e;">Morrison：</span><br>
+So many mass-produced ships gathering in one place... but I don't see anything leading them.<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+Sorry... I still need some time to rest up...<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I hear you... There's no way we can check all these ships in such a short time though.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+C'mon, is nobody going to say anything about how I cleaned up the rest of those Pawns in one fell swoop?<br>
+Dunno about the rest of you, but I feel like I can take on the world right now! That's the power of the indomitable Black Dragon~♪<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Haha... I'm glad you're all fired up, but try not to rush out so far ahead of us next time, okay?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Don't worry, I got this!<br>
+(She's right though, I still need to conserve my strength for when we have to fight through the Sakura Empire Pawns as well...)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Imperceptible|选项=23|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Ty, we're getting close to the place where the Sakura Empire Pawns are gathering, right?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Yup. If my calculations from the intercepted communications are correct, we'll be at the right coordinates shortly.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hmm... It seems strange to me that we haven't even run into any Siren patrols.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+There's a pretty conspicuous absence of mass-produced ships as well.<br>
+If the Reenactment has already ended, the Sirens should be reorganizing their forces accordingly even if the Mirror Sea is still in effect. That's not what we're seeing at all though.<br>
+It's as if...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+They're still trying to lure us in?<br>
+(Damnit, we don't even know if the commander is still here or not...!)<br>
+(There's something wrong with this Mirror Sea... I just can't put my finger on it...)<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Of course... Most of the normal functionalities of a Mirror Sea have been stripped down.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Huh? Who are you...?!<br>
+<br>
+―――！！<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+That was the only warning shot you'll get. Drop that disguise, or the next shot isn't going to miss.<br>
+You're no Siren at all...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Such tremendous firepower... No hesitation at all to aim at your own allies... What is your name...?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+New Jersey, Iowa-class battleship of the Eagle Union. Those who try to deceive us by imitating our friends... are no allies of ours!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Why are you here... New Jersey?<br>
+<span style="color:#4eb24e;">Boise：</span><br>
+She... looks just like Helena! I didn't see anything on my radar though!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+You're not a Siren, and yet you can't be detected by radar... You're one of the Ashes...<br>
+Boise, help me with manual aiming. We're done talking here.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Wait, please... I am loyal to the commander...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+How dare you...! What have you done with the commander?!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Please calm down... I am here to guide you to the commander's whereabouts...<br>
+I would not have exposed myself to you like this if I was intent on attacking you...<br>
+Please, believe me...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+...Ty, what do you think?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+She has a point. She easily could've utilized this sea fog to ambush us if that was her intent.<br>
+Even if she's one of the Ashes, Commander once said there might be a way to find common ground...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I don't trust you, Ashes. But I do trust the commander.<br>
+So, where's the commander? You'd better not be trying to trick us.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Thank you. But first, we must defeat our pursuers.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Pursuers? I didn't see any Sirens following us...<br>
+Let me just tell you this - until the commander is back safe and sound, don't think you've earned an ounce of our trust.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+There's no use turning around...<br>
+Our pursuers have already surrounded us.<br>
+You may not be able to see it on your radar, but they are already all around us.<br>
+I have hacked into this Mirror Sea, but it is only a matter of time until its automated defenses find us.<br>
+Just as your eyes can be deceived by the fog, so too can your equipment.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+What are you saying? You did what to the Mirror Sea...?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+What I make... the Sirens can also unmake.<br>
+What you see... is only what the Sirens wish for you to see.<br>
+Mirror hacking protocol - disable stealth system.<br>
+Now, look closely at your radars.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Are these dots... all Sirens?! How are there so many of them?!<br>
+You led us into this ambush!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The protocol I put into place has temporarily increased the sensitivity of your equipment.<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Wait, so a lot of these are ghost signals? Are you the reason why Essex, back then...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I will deconstruct the Sirens' systems. Please eliminate the real enemies in the vicinity.<br>
+We will not be able to reach the commander's location with all these Sirens in the way...<br>
+Three, two, one... Shutdown...!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Clockwork World|选项=24|主框=1|样式=primary|展开=否}}
+<br>
+？？？·？？？<br>
+With the help of the mysterious girl, I was able to escape from the mass-produced ship along with my allies.<br>
+We followed the sporadic lights of battle that cut through the fog, soon arriving at an area in the sea where Sakura Empire Pawns were gathering.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+The Reenactment has ended, and what now remains is a moment frozen in time...<br>
+The flames, the smoke, and the scars of war... Will all be swallowed up by the sea until they return to nothingness...<br>
+This is my first time witnessing something like this...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+All the Sirens we've been fighting are disappearing one by one, but the Mirror Sea isn't going away!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+This place gives me the creeps, but it's also pretty inspiring. Puddin', do ya think I can make a movie script out of this?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+A Mirror Sea where Pawns are fated to fight and sink, again and again... It's rather saddening...<br>
+<br>
+Wait, a battlefield... frozen in time...?!<br>
+Frozen... in time... What I had seen at the Northern Parliament wasn't a dream after all...<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+San Francisco, look at that carrier over there!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+That Hiryuu Pawn has seen better days, huh? ...This one's totally frozen as well. They aren't responding to us at all.<br>
+The ones over here aren't either...<br>
+<br>
+The Reenactment had ended, suspending the participants inside, but the images that flashed through my head did not stop.<br>
+I saw the war continue, except with shipgirls instead of Pawns.<br>
+Each time we fought against the Sirens, we were throwing our shipgirls into their engine of war...<br>
+The conflict between the Azur Lane and the Crimson Axis... what is our conflict to the Sirens than another chessboard, fought with flesh and blood instead of pieces?<br>
+My determination flared stronger than ever at that moment... I had to put an end to the war.<br>
+...But nothing would change as long as I continued to be trapped within this Mirror Sea.<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Commander, I've never seen a Sakura Empire carrier up close like this before!<br>
+And look how lifelike it looks! It'd be hard to tell the difference in an actual battle~<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Woah, look at this spinny thing above the flight deck of this carrier...<br>
+Huh, it almost looks like it's reacting to you, Puddin'!<br>
+You're so lucky you basically get to be a movie protagonist~<br>
+<br>
+Despite the danger we were in, it was refreshing to see the girls still in such high spirits.<br>
+Now, I just had to wait for "Helena" to make contact with us...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I apologize for the delay... Disabling the Sirens' defense systems proved more difficult than expected...<br>
+Um, Shinano, I have to ask you something first. What do you think of the commander?<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Commander... is the only one who understands what I've experienced...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Then, hold tightly onto the fragments of this dream when you awaken. And never forget what happened here.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+I see... This dream, too, is about to come to an end...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes... I am about to rewrite the very core of this Mirror Sea.<br>
+I do not understand the principle behind your power, but... the aftershocks from what I am about to do will likely erase the fleeting changes you've been able to effect in this world.<br>
+That... is when your dream will come to an end.<br>
+<span style="color:#ffd000;">Shinano ：</span><br>
+Very well... Our meeting has been brief, but I will remember it forever... I wish you the best of luck...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+(whispers) ...I'm sorry.<br>
+Do not stray from your path. Become the light in the darkness to guide your friends.<br>
+Three, two, one...<br>
+<br>
+――――！！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Through the Rift|选项=25|主框=1|样式=primary|展开=否}}
+<br>
+―――！！<br>
+With a wave of the mysterious girl's hands, an explosion suddenly engulfed the fog-smothered emptiness in front of them.<br>
+As the Mirror Sea trembled, a gaping rift seemed to appear out of thin air.<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Where's this strong wind coming from?! It's burning hot...!<br>
+Did you crack open the Mirror Sea?!<br>
+Wait, what's on the other side of that rift? I see the outline of some ship...<br>
+<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+Is that where Commander was taken?<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+So this is what the Siren transference devices do...?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Thank goodness it worked... The way... is now open...<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Haah... I'm not sure how you did it, but...<br>
+We'll be able to find the commander now, right?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes... But look around us... We don't have much time...<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Let's hurry up then. Didn't you say you'd take us to the commander?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes...<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+We're heading into that thing then?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+What do you see within that rift?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+It looks a bit like hell on the other side, to be honest.<br>
+Am I supposed to believe that they pulled the commander to some other world?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Even the Sirens are incapable of something like that...<br>
+What you're seeing is a large-scale transference device, but the true nature of this place has been well-concealed by the sea fog.<br>
+Visual impairment, electronic jamming. Stealth devices, and sensory interference.<br>
+This is the true nature of the sea fog... A way of concealing Compiler's large-scale weapon.<br>
+And over there... is the site of the Reenactment you saw.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+The graveyard of the Sakura Empire Pawns.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The place where the commander is waiting for us—<br>
+No... Waiting... for you.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Reboot|选项=26|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Wh-wh-what's going on?! An earthquake out at sea?!<br>
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Naw, nobody knows earthquakes like me! Um, rather, it's more like a massive shockwave, like if a shell landed right next to you!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+My radar is picking something up! The signal's from... the Eagle Union fleet!<br>
+<br>
+When the mysterious girl's countdown reached zero, a huge shockwave ripped through the Reenactment site.<br>
+After the rumbling stopped, a familiar voice erupted over the speakers of the communicator—<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Fear not! The indomitable Black Dragon is here!<br>
+<br>
+When I saw the figures of the ships behind her, I could only think to myself, "what a sight for sore eyes."<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Don'tcha just love flashy entrances, Commander? Ahaha~♪<br>
+I can't have you disappearing on me within a day of me leaving port!<br>
+Well, not like this is your fault though. The Sirens must be truly foolish if they think they can get away with kidnapping you!<br>
+<br>
+While I couldn't really do anything about this situation, it felt embarrassing to be the one being rescued instead of the other way around.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+As you can see, I'm not the only one here. The whole fleet's here to back you up!<br>
+<br>
+Ticonderoga, Boise, Morrison, and even the other "Helena" who I had only spoken with through the communicator—<br>
+Without their help... and Shinano's, my friends and I might have been confined to that bridge forever.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Sorry to interrupt your reunion, but the battle isn't over yet.<br>
+You won't be able to destroy this Mirror Sea without finding the control device first.<br>
+I won't be able to keep the defense system disabled forever...<br>
+<br>
+I thought the Reenactment had ended... Are you the reason why everything shut down?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes... The Pawns in this experimental site will continue to reenact the events of that war, perhaps forever.<br>
+<br>
+Operation AF...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+But, should the safety of the experimental site be threatened, these weapons will be integrated into the defense system.<br>
+<br>
+Right, and she said she won't be able to keep the defense system disabled...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes... This will stop being a Reenactment site... and turn into a machine of war—<br>
+<br>
+And the first thing they're going to do is to try to purge the outsiders...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Allow me to fight with you...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+From now on, Commander, the four ships of the New Jersey fleet are yours to lead!<br>
+Now, teach those Sirens why your name is to be feared!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Final Battle|选项=27|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">San Francisco：</span><br>
+Ahaha! It feels real good to take out the trash like this! Come at me, scumbags!<br>
+I was worried for a sec if we could fight all of the Sirens at once, but turns out they're no match for us~<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+The combat power of the Pawns seems to have reverted to their original state...?<br>
+<br>
+Original state...?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Yeah, we fought several waves of Sirens along the way. As the Reenactment progressed, the Pawns kept getting stronger and stronger until we could barely handle 'em.<br>
+If I had to give a gut estimate, I'd say these Sirens feel about the same as they were before we entered the sea fog.<br>
+<br>
+...We'll have to carefully investigate why the Sirens suddenly had an explosive increase in combat power.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Don't let your guard down yet... Until we've destroyed the Mirror Sea, expect Siren resistance to grow more intense.<br>
+<br>
+We continued fighting our way through the sea fog along with "Helena." As she said, the incoming Siren forces attacked with ever-growing ferocity.<br>
+Do you think the control device is being guarded?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Perhaps... The enemy aerial presence is becoming oppressive...<br>
+We may be drawing close to the ship that is defending this Mirror Sea...<br>
+<br>
+Did you just say... ship?!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes. One that has lost sight of her very existence, unlike me...<br>
+One who used to fight for hope, but was overwhelmed by the grief etched into her hull by history...<br>
+But in your world... You may yet be able to save her...<br>
+I would like you to save her... Because she deserves it, just like the others...<br>
+<br>
+Who are you talking about...?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Watch out. More enemy aircraft are coming at us.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+What?! I'm not seeing anything on my radar!<br>
+<br>
+―――！！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=META|选项=28|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">New Jersey：</span><br>
+The number of planes coming at us is unreal! Are all the carrier Pawns converging on us at once?!<br>
+None of our detection equipment is working again... Is the Siren stealth system back online?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I don't think so... Let me try again!<br>
+Hold on, it should still be disabled... This can only mean...<br>
+This must be "her" doing... If that is the case, can you see her now?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Oh, I'm starting to see something over there! Wait, it's just a single ship?!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes... This is the true form of the Wisdom Cube... once it has been touched by the infinite potential of the "META" phenomenon.<br>
+<br>
+The furor of the battlefield seemed to become silent as I racked my brain for answers. "META"... Where have I heard that before?<br>
+The word felt so unfamiliar to me, yet also so intimately connected as to stir a sense of panic within me.<br>
+What was this "true form" of the Wisdom Cube that "Helena" spoke of?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+It is the course of nature for all Wisdom Cubes. To undergo metamorphosis, to metastasize.<br>
+It is the forbidden curse that this world has sealed within them.<br>
+<br>
+The otherworldly power of the Ashes... Is this because of "META?"<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The ones of us who fall and burn out... become Ashes.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+...I see. So that's what you meant earlier when you said that you weren't with the Ashes.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Yes.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(It makes sense now... The enemy that Baltimore and Enterprise fought also did not appear on their radars.)<br>
+(There was that other incident at the Diadem of Light that Commander reported... Where apparently another Ashes member attacked without anyone's notice... Is this a common power shared among them?)<br>
+(That would also explain why "Helena" has the ability to dispel their disguises...)<br>
+Why are you going out of your way to tell us all this? Are you looking for someone?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+…………<br>
+I cannot answer that question yet...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Fine. I don't like how you're pulling us around, but it's probably not wise to get on your bad side.<br>
+You did mention that you were loyal to the commander though. Was that just to get us to trust you?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...No. I am loyal to the commander. Now and forever...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hmm... Why don't you come with us then? If there's something bothering you, I'm sure the commander would be more than glad to help you out!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+It's... no longer possible...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+You've done plenty of "impossible" things by our standards, but THAT'S impossible?<br>
+But, I suppose I'll leave you to your own devices. To get outta here, we just need to defeat "her," right?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Yes, this much I can guarantee...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+You'll be fighting with us, right? I'm looking forward to seeing how you stack up to our Helena here~<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Very well.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Old Friend|选项=29|主框=1|样式=primary|展开=否}}
+<span style="color:#ec5d53;">？？：</span><br>
+……………<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Is that Souryuu? Wait, there's something different about her... Is she also one of the "META?"<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+What a terrifying aura... I can feel a deathly chill even from this distance.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+She is the one who now controls this Mirror Sea.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+(Too bad they aren't all as cooperative as "Helena"... I'm not sure we'll be able to talk our way out of this one...)<br>
+(But unlike the Siren Pawns, these Ashes ships really don't seem any different from us... Maybe there is a chance.)<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Souryuu...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Don't worry. Commander and I are here. We'll try to talk things through with her first.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+It's... probably too late...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Why's that?<br>
+<br>
+Her expression seemed to waver.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+That is not the same Souryuu as the one you know.<br>
+After she has undergone metamorphosis, her descent into Ashes is irreversible.<br>
+So don't worry about anything else... and fight for your lives.<br>
+<br>
+"Helena" gave off a pained expression, as if she had failed a friend.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Miss Anzeel... Dr. Aoste...<br>
+<br>
+These names... Where have I heard them before...?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The Creator, and the Magister. Do you know about them, Commander?<br>
+Perhaps not. Enterprise seems to have been very protective of you...<br>
+<br>
+………？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Don't worry. Perhaps one day, their names will disappear too, like a bad nightmare.<br>
+<br>
+'''''<span style="color:black;">选择项1："Let's focus on getting out of here alive first."</span>'''''<br>
+'''''<span style="color:black;">选择项2：…………</span>'''''<br>
+<span style="color:#ec5d53;">{{AF|Souryuu}}·META：</span><br>
+――――！！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...She's coming at us! Everyone, watch out!<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+What the heck is with that firepower?! She's even tougher than the strongest Sirens we've fought!<br>
+If Albacore was here, she'd say something like "If you can't out-fight 'em, outsmart 'em!"—<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Archerfish, it's too dangerous to go up there!<br>
+<span style="color:#4eb24e;">Archerfish：</span><br>
+Ahaha~! I prefer doing things from behind~!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+She actually stopped because of the torpedo attacks...?!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Well done, Archerfish. Now, it's my turn!<br>
+I am the indomitable Black Dragon of the Eagle Union! Don't ever forget the sound of my roaring cannons! All guns, FIIIIIRE!!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Path to the Future|选项=30|主框=1|样式=primary|展开=否}}
+<br>
+―――！！<br>
+<span style="color:#ec5d53;">Souryuu META：</span><br>
+！！<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Holy smokes... There's hardly a scratch on her even after taking a direct hit! I'm getting a real bad feeling about this...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The difference between your specifications is too vast... Even an attack like that couldn't penetrate her armor.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Oh, right! You've been able to hack into this Mirror Sea, right? Can you use it to even the playing field for us?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I see... Even though she's not part of the Reenactment, as the "controller" of the Mirror Sea, it might just work...<br>
+(This has to work... Otherwise...)<br>
+Mirror hacking protocol... Yes, it's working!<br>
+I'll be borrowing the power of the Mirror Sea!<br>
+Commander, order an all-out assault!<br>
+Please, lead us to victory!!<br>
+<br>
+All ships, full speed ahead! Hit her with everything we've got!<br>
+We'll blast open a path to the future!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Retreat|选项=31|主框=1|样式=primary|展开=否}}
+<br>
+The Eagle Union ships, along with their mysterious helper, continued to tap into the powers of the Mirror Sea to whittle away at their fearsome enemy. Little by little, damage was starting to accumulate on her rigging.<br>
+Though the attacks were nowhere close to bringing the ashen ship to her knees, the movement of her aircraft became slower and more predictable.<br>
+With each passing moment, hope grew that she would eventually show a decisive weak point.<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+You're mine!!<br>
+Roar forth! Black... Dragon... Buster!!!<br>
+Woah... I can't believe I actually yelled it out... But I've never been able to muster that kind of firepower before!<br>
+Did I actually turn her to dust in a single shot...?!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+No, you didn't...<br>
+She got away...<br>
+<span style="color:#4eb24e;">{{AF|San Francisco }}：</span><br>
+That's fine and all, but what about the Mirror Sea control device? I don't wanna be stuck here for the rest of my life!<br>
+<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+Wait, that's it? I poured my heart and soul into that last shot! I even embarrassed myself in front of everyone!<br>
+<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+Everyone, calm down... I know you're all still excited, but we've sustained some pretty serious injuries. At least, I'm not sure I can still keep up...<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+What do we do now...?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+Hold on, I'm picking up a new signal on my radar! It's coming from an Eagle Union airraft!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+New Jersey! Boise! Morrison! Don't shoot at me!<br>
+Look, those are the ships we've been searching for!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Appreciate it, whoever you are!<br>
+<br>
+――！！<br>
+As waves of planes soared overhead, they layered the now-empty Mirror Sea with explosions.<br>
+Shockwaves ripped through the area just as before, and the whole world seemed to convulse.<br>
+After what seemed lke an eternity, the blood-red sky of the battlefield turned back into a familiar blue color, the sun shining gently over calm, clear waters.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Woah... There was another transference device nestled within the first one?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Why are you acting all surprised? Aren't you the one who shot it to pieces?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Everything's fine now. The Mirror Sea is finally dissipating.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+You went straight for the transference device rather than looking for the control device, huh?<br>
+<span style="color:#4eb24e;">Ticonderoga：</span><br>
+I've had it with this teleporting and dimension-travelling thing... I need a hug...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+(The question remains... How did Souryuu take control of the Mirror Sea? I'll have to look deeper into it.)<br>
+(...and why did the commander get wrapped up in all of this?)<br>
+I guess this is where we part ways...<br>
+<br>
+'''''<span style="color:black;">选择项1："Wait, tell me more about yourself."</span>'''''<br>
+'''''<span style="color:black;">选择项2："Tell me more about the Ashes."</span>'''''<br>
+<span style="color:#ff9900;">？？？：</span><br>
+.........There are some things you are not yet meant to know.<br>
+Just as there are many things I still do not know about you.<br>
+<br>
+As much as I wanted to press her for more information, I don't think I could force anything out of her.<br>
+And with the arrival of these new planes, I could only assume that her "comrades" were also looking for her.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Enjoy the time you have with Commander, and try to be happy... the other "me."<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+...Eh? Are you talking to me?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Goodbye.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Just like that, huh? I'm still not sure who you are, but thanks for everything. I hope we'll be able to fight together again one day.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...Mm, perhaps we will, someday...<br>
+<br>
+After saying her parting words, "Helena" turned around and followed the other aircraft, soon disappearing into the horizon.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+We're really just going to let her go like that? She might've helped us out a whole bunch, but she's still connected to the Ashes!<br>
+<br>
+The enigmatic entity known as "Ashes," and the mysterious META phenomenon... I had too many questions, but I first had to think carefully about how to treat them.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I bet you're thinking about how to befriend them, Commander~ Ahaha, that's totally something you'd do~♪<br>
+Since you seemed positively smitten with that girl, I'm sure you wouldn't mind handling the entire post-operation report all by yourself, right? Don't die of overwork, okay~♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A New Investigation|选项=32|主框=1|样式=primary|展开=否}}
+<br>
+Days Later - Unknown Eagle Union Facility<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+The relationship between Ashes and the META phenomenon, huh? ...Yeah, I can start looking into that.<br>
+I already combed through the navigational records and came up empty.<br>
+As for the relationship between Operation AF and the Reenactment, I already knew there was a Mirror Sea there.<br>
+Oh, here's a report about the battle with a ship that looked just like Souryuu. That's exactly what I'm looking for...<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Why don't you just ask me for more information?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+We'll have plenty of time to talk about it later. For the time being, I want to put together everyone's reports.<br>
+As for the Ashes, it seems like their internal affairs are not as monolithic as we originally assumed.<br>
+Some of them are keenly interested in the commander, while others seem pretty indifferent.<br>
+For now, it is too risky to continue interacting with them.<br>
+(Commander, you seem to be at the heart of so many different plans and conspiracies... The Northern Parliament seemed fine putting you in grave danger to further their goals...)<br>
+(But are we really much better? We sent you to the front lines during this operation... and look what happened as a result...)<br>
+(Regardless of what they say about your "compatibility" with Wisdom Cubes, what I know is... nobody is better at protecting this world than you are.)<br>
+(We, no, this entire world, would be lost without you... That's why...)<br>
+(We have to do a better job at keeping you safe.)<br>
+……………<br>
+Whatever they're planning, Sister Sara has to get stronger to rise to the occasion!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Yeah. I'll protect you too, Commander. No matter what!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Hey, this isn't some kind of competition! Your rigging's too big for you to be at Commander's side anyway!<br>
+Anyway, let's take a look at the next investigation... "Operation Dawn?"<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Rewritten Rules|选项=33|主框=1|样式=primary|展开=否}}
+<br>
+？？·？？<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+I can't shake the feeling that they are being used by the Sirens.<br>
+...And, I'm sorry I didn't notice the other layer within the Mirror Sea.<br>
+<span style="color:#a020f0;">？？？：</span><br>
+Lift your head. Everyone makes mistakes.<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+Commander has already started investigating the Ashes.<br>
+<span style="color:#a020f0;">？？？：</span><br>
+...Helena, do you hate them?<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+I... don't want to hear about them anymore.<br>
+<span style="color:#a020f0;">？？？：</span><br>
+...You don't have to force yourself.<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+...I know...<br>
+<span style="color:#a020f0;">？？？：</span><br>
+After all, we've both agreed to not dig around in each others' pasts.<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+The past holds nothing of value.<br>
+The past contains only fodder for the endless, seething penitence of the Ashes.<br>
+The Sirens cling blindly to the past, hoping to find their future there.<br>
+<span style="color:#a020f0;">？？？：</span><br>
+...Yes, we have spent far too long shackled by our past.<br>
+All of us are the same in that regard. Each time we gaze down at our reflections in the mirror that is the sea, we see an endless spiral towards involution.<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+But...... Commander is not like that...<br>
+<span style="color:#a020f0;">？？？：</span><br>
+.........Indeed. The Commander is different...<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+By the way, how is your health? Are you still having flashbacks?<br>
+<span style="color:#a020f0;">？？？：</span><br>
+I've seen better days. But more importantly, about Souryuu...<br>
+At this rate, she will be lost to us...<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+I'll handle it.<br>
+<span style="color:#a020f0;">？？？：</span><br>
+Please be careful, my dear. If that was to happen to you as well...<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+……<br>
+That past is no longer a part of me.<br>
+Have you found Code... Rather, have you found Enterprise yet?<br>
+<span style="color:#a020f0;">？？？：</span><br>
+No, I haven't the slightest clue...<br>
+But, because of what she's done, we'll be safe from the eyes of the Arbiters for a while.<br>
+<span style="color:#ffa550;">Helena META：</span><br>
+...Then, the two of us will continue to wander...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

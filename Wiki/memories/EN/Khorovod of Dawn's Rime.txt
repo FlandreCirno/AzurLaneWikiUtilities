@@ -1,0 +1,1397 @@
+== Khorovod of Dawn's Rime ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Arcana Sanctum|选项=1|主框=1|样式=primary|展开=否}}
+<br>
+Somewhere in the Northern Parliament - Conference Room<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+You’re early than I expected... It must have been difficult to rush over here, Belorussiya. How is your health?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Truly no rest for the wicked in times like these. Still have a faulty power system, and my turret might need an overhauling, but that’s what happens when you rush back from the front lines.<br>
+It’s all minor stuff though, and more importantly, I’ve made it back in time. By the way, where’s Sovetsky Soyuz? Wasn’t she the one who sent out this emergency assembly order?<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+Unfortunately, she had to set out for another meeting in St. Petersburg yesterday, so now I’m in charge over here.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Guess it’s that time again, huh... But given how we’re besieged on all sides, I guess it doesn’t matter if she’s here or not, eh?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+As of late, the Azur Lane has been preparing for a large-scale operation in the NA Ocean. Whether our navy participates in this operation,and if so, through which means and to what extent, are all major decisions that require the input of Sovetsky Soyuz.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+One moment, she’s fighting on the front lines. The next, she’s fighting the bureaucrats in back rooms. I don’t envy the responsibilities of our fleet leader.<br>
+Let me guess, the reason why I was called back urgently is because it’s finally time to take that commander to the Arcana Sanctum?<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+Precisely. Through our time working with you, Comrade, you’ve not only proven your worth as a commander, but also demonstrated exceptional strength of character.<br>
+You have proven that you are willing to look beyond prejudices and are not beholden to any of the various factions you’ve worked with in the past. The ability to set aside your own preconceptions and strive towards the survival of humanity truly embodies the ideals of the Azur Lane.<br>
+You have more than earned your title of “Comrade,” but I am not here to flatter you. We believe you are the key to unraveling the unique phenomena we have seen in the records from the Arcana Sanctum.<br>
+By all our indications, you are ready to learn the secrets we’ve discovered.<br>
+This matter is of great importance. Sovetsky Soyuz had planned to take the commander there herself, but there’s no shrugging off summons from St. Petersburg. That’s where we come in.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+We can wait a couple days for the meeting to end before taking the commander over, can’t we? There’s no reason why we need to rush things so much, is there?<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+Mmm... I’m not sure if you’ve noticed, but the situation in Europa has been very strange as of late. After the attack on Scapa Flow, we were expecting a full-blown engagement between the Royal Navy and the Iron Blood. Instead, both sides have been eerily quiet about this matter.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+That does sound suspicious. Do you think the two sides managed to broker some kind of deal?<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+Hard to say. The Iron Blood has a roundabout way of doing things, and knowing the Royal Navy... In any case, because the situation has eased up, they want to bring the commander back.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Tsk... What a demanding bunch.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+We’ve received intel showing that they’ve begun significant preparations for this purpose. Because we no longer have any reason to keep delaying, our hands will probably be tied once their convoy arrives.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Hmm... Got any specifics about their preparation progress?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+We’re not exactly sure which route they’re taking, but they should be here within the week.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Are they in that much of a hurry?! I guess we really are in a race against time. What’s the plan?<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+We’ll launch a joint attack. The Sirens in the Arctic front seem to have finally discovered the purpose for us keeping the commander here. After all this time of being fairly ambivalent towards our “Secret Room,” they’ve finally started to direct their attacks there.<br>
+After the operation begins, I’ll draw the Sirens away. Use that time to escort the commander to the Arcana Sanctum, and complete our mission.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+We won’t have the commander for much longer, and the Siren offensive is also becoming more intense. This might be the only chance we get, so failure is not an option.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Don’t worry. It shall be done.<br>
+<br>
+“Zero, do you know how to design a worthwhile treasure hunt?”<br>
+“First, you need an intrepid Scavenger.”<br>
+“Then, you’ll need a keen Observer to oversee the game.”<br>
+“Of course, you’ll need a Compiler to record the whole thing.” <br>
+“Finally, and do pay extra attention here...”<br>
+“Make sure they never meet one another.”<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Two-Pronged Operation|选项=2|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Avrora：</span><br>
+Good morning, Comrade~ Have you been enjoying your time here with us, away from the front lines?<br>
+<br>
+My eyes are still having a bit of trouble adjusting to how white it gets when it starts snowing, but other than that, the hearths are warm and the food is delicious.<br>
+Also, I’m discovering that bears can be unexpectedly cute...<br>
+<span style="color:#4eb24e;">Avrora：</span><br>
+Hehe~ See? I knew you’d come to appreciate how great our bears are. Cuteness and power in one package!<br>
+<br>
+How are things going on your end? I heard the fighting in the front lines is still tense.<br>
+<span style="color:#4eb24e;">Avrora：</span><br>
+It should be fine. It’s never easy being on the front lines of course...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+We’ve been locked in what seems like an endless tug-of-war with the Sirens. Our current deployment strategy focuses on outlasting the enemy with minimal losses...<br>
+After being at war for so long, knowing how to relax is just as important as knowing how to fight.<br>
+<span style="color:#4eb24e;">Avrora：</span><br>
+That's right. But today, we're not here to relax.<br>
+<br>
+Then, we're going to look for a way to break this stalemate?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Well said! Now then, Comrade, are you ready to go on a trip with us?<br>
+<br>
+Our destination this time... is that secret facility of yours, right?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Mm, you could say that.<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+Tallinn, what’s the status of the area around the Sanctum?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+We’ve managed to repel a good number of the Sirens, but there’s no end to them. Without a doubt, they’ll start launching even more vicious waves of attacks.<br>
+<br>
+If the Sirens have found out about this facility, is it going to be safe?<br>
+<span style="color:#4eb24e;">Chapayev：</span><br>
+Don’t you fret, dear. Tallinn and the others are dependable. Even if the Sirens were to muster their main forces, they’ll find our defenses difficult to break.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Commander, after you’ve taken charge here, the apparent leader of the Sirens, Omitter, seems to have fallen into a state of madness after a series of setbacks.<br>
+Even if we can hold the line here, we can’t guarantee that the Sanctum won’t become collateral damage.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Mm, make every second count. Let’s get this over with.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+According to the plan we agreed upon, Kirov and Gremyashchy will act with the commander and rendezvous with Tallinn’s garrison fleet before entering the Arcana Sanctum.<br>
+Sovetskaya Rossiya, Chapayev, and Tashkent will lead the Polar Fleet in an offensive on Purifier’s old nest at the Winter’s Crown, drawing away the Siren fleet to buy us additional time.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+I’ll crush any enemies that threaten the commander’s safety. Mm, that’s all.<br>
+<span style="color:#4eb24e;">Chapayev：</span><br>
+The Sirens will likely see through a maneuver as blatant as this, but if we commit enough of our forces, Omitter will be forced to turn the fleet around to defend the Winter’s Crown.<br>
+<span style="color:#4eb24e;">Tashkent：</span><br>
+I won’t be able to protect you, so please stay safe. Let’s crush our enemies together, dear comrade.<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+Commander, I wish you the best of luck. Let us begin the first phase of our combat preparations.<br>
+<br>
+You too. Come back safely. We’ll handle whatever is inside that Sanctum.<br>
+<span style="color:#4eb24e;">Avrora：</span><br>
+Everyone, I wish for your success and safety in this operation.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=History|选项=3|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Comrade, you’ve been unusually quiet this whole time. Is something troubling you?<br>
+<br>
+I’ve been trying to piece everything together... The operation briefings laid out the specifics of the operation as well as the necessity of my participation in great detail, but any references of the Arcana Sanctum itself have been extremely vague. It’s almost as if the information has been tampered with.<br>
+What are you able to tell me about this "Arcana Sanctum?"<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Hmm... The best way of putting it is, the nature of the Sanctum is extremely unique, to the point where we have to be cautious even in our internal briefings. If unredacted information was somehow allowed to spread...<br>
+Of course I’d be willing to explain things to you, Comrade, as long as you don’t record anything down.<br>
+Now, where do I begin...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Comrade, do you know when and how the first shipgirls were born?<br>
+<br>
+Let’s see if I remember my history... After the Siren invasion, various countries came together to form the Azur Lane and assembled the world’s resources to develop the Wisdom Cube. From there came the shipgirls that were able to turn the tides of the war, right?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+That would be true, according to the information that has been publicly disclosed. But this explanation is only a half-truth.<br>
+It’s not quite accurate to say that the Wisdom Cubes gave rise to the shipgirls. Rather, the two appeared at roughly the same time.<br>
+<br>
+What? Are you saying... the appearance of the shipgirls wasn't due to the invention of Wisdom Cubes...?<br>
+Where did you get this information?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Haha, it's just a fanciful conjecture. But assuming that what we just told you is true, Comrade, who do you think was the first shipgirl?<br>
+<br>
+Hm......<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Long story short, after we discovered this information, we returned to the sector to conduct an in-depth exploration, and that’s when we discovered the existence of the Arcana Sanctum.<br>
+Turns out, we later discovered that the Sanctum was actually a Siren stronghold. Perhaps the Sirens weren’t prepared for the forces we had on hand, but we were able to seize control of it through a surprise attack.<br>
+The reason why the Northern Parliament was able to make such a miraculous recovery after being devastated by the Sirens previously... is because of the contents of the Sanctum.<br>
+<br>
+I see... And is this why the Northern Parliament has been tiptoeing around the issue of how to handle Siren technology?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+The Royal Navy and Eagle Union will never understand what it feels like to desperately struggle for air when being strangled by an overwhelmingly powerful enemy.<br>
+In any case, around that time, the Naval HQ managed to successfully develop and mass-produce the Wisdom Cube, and the rest is history. Various countries utilized the Wisdom Cubes to create their own fleets, eventually tipping the scales in our favor.<br>
+<br>
+Are you implying that the development of the Wisdom Cube hinged upon whatever was in that Sanctum?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+No, that’s not quite what I’m getting at. We had no hand in the development of the Wisdom Cube, and the resources recovered from the Sanctum didn’t have any records of Wisdom Cubes either.<br>
+If anything, I’m inclined to say that the two are unrelated. However, Wisdom Cubes appeared at around the same time as the first shipgirl,and this alone is something worth thinking about, is it not?<br>
+<br>
+Who knew that such a shocking revelation would lie beneath something long-considered common sense? I’ll have to thoroughly comb through the files at the Naval HQ when I get back.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Guardian|选项=4|主框=1|样式=primary|展开=否}}
+<br>
+KABOOM————————!!<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+The path is clear, Commander. You can continue forward.<br>
+<br>
+Gremyashchy was the perfect representation of the stoic fighting style of the Northern Parliament, expressionlessly mowing down the enemy ships that occasionally appeared in our way. Among all the destroyers I’ve commanded, Gremyashchy’s combat capabilities were absolutely top-notch.<br>
+<br>
+'''''<span style="color:black;">选择项1：“Exceptionally well fought.”</span>'''''<br>
+'''''<span style="color:black;">选择项2：“I’m very impressed by your performance.”</span>'''''<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Think nothing of it. I’m just doing my job. Mm, that’s all.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Hah. You sure know talent when you see it, Comrade. Gremyashchy here has been given the prestigious title of “Guardian.” She’s the ace up our sleeve!<br>
+<br>
+Now that you mention it, I do remember something about that...<br>
+<br>
+'''''<span style="color:black;">选择项1：“That’s a very rare reward, isn’t it?”</span>'''''<br>
+'''''<span style="color:black;">选择项2：“You’ve done well to serve your country.”</span>'''''<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+That’s right! Very few ships in the entire Northern Parliament fleet are given this prestigious title!<br>
+<br>
+Even when I was back at the Eagle Union, word had spread of the outstanding reputation of the Guardians.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+I don’t really need the honors. All that matters to me is doing my job well.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Gremyashchy, a good warrior should also know how to acknowledge the praise of others.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Um, thank you... Umm, y-yes, that is all...<br>
+<br>
+Considering how exceptional of a fighter she is, it’s a bit strange to me that I haven’t seen her active until this point.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Gremyashchy’s mostly been active in the Arctic naval routes, and we only recently had her transferred here to aid with our current operations.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+It’s only fitting that she would come down to guard someone as important as you, Comrade~<br>
+<br>
+I really appreciate it. Let’s all try to make it back in one piece.<br>
+<br>
+'''''<span style="color:black;">选择项1：Continue observing Gremyashchy.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Continue commanding the battle.</span>'''''<br>
+Gremyashchy：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Unlike the other destroyers I’ve worked with, Gremyashchy doesn’t solely rely on her gunnery and torpedo strikes. She prefers to quickly close the gap on her enemies before dispatching them with a swing of her massive, comically exaggerated chain mace.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''In addition to her snow-white naval hat and coat, I also found her scarf to be very distinctive.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''And when she courses through the waves at high speeds, the scarf flaps behind her like the wings of an angel.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''What are you ogling me for? Are you... some kind of creep?<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''…………<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Cooperation|选项=5|主框=1|样式=primary|展开=否}}
+<br>
+Northern Parliament “Arcana Sanctum” - Offshore<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Good morning, Comrade~ I’m Murmansk, from the fleet in charge of the Sanctum’s defense. The flagship of the defense fleet, Tallinn, is currently busy commanding, so I am in charge of making sure you all docksafely. Right this way~<br>
+<br>
+How’s the current situation?<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Hmm... Sovetskaya Rossiya might have already begun her offensive. The Sirens started to significantly change their behavior today.<br>
+But, we haven’t seen them pull their forces back as we were hoping. Instead, their attacks have been more ferocious than ever...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+After launching an attack on their base, Omitter did show some signs of being flustered, but instead of turning her fleet around, she’s doubled down on the offensive...<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+This is indeed the best decision for the Sirens, given their lack of concern for casualties. We may have underestimated her decisionmaking just because of her comical demeanor.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+She is the mastermind behind the Sirens in the Arctic front, after all... Hmph, but there’s nothing more to it than that.<br>
+In the face of our mighty Polar Fleet, clarity of mind is not enough to account for the fact that they can’t sufficiently reinforce their front lines.<br>
+As long as we clear out the remainder of their forces here, the Sanctum will no longer be in danger. After that, we can start doing the things we came here for!<br>
+<br>
+'''''<span style="color:black;">选择项1：“I agree.”</span>'''''<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Mm~ That’s what Tallinn had in mind as well. Our fleet is currently holding the enemy back from several directions. I’d love to play it cool and say we have everything under control, but to be honest, the fighting is really fierce out there and we could use the help...<br>
+So... Comrade, I hope you’ll be able to lend us your aid and protect the Sanctum!<br>
+<br>
+'''''<span style="color:black;">选择项1：“Of course. That’s what I’m here for.”</span>'''''<br>
+'''''<span style="color:black;">选择项2：“Sure, I didn’t come here to sightsee.”</span>'''''<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Thanks a ton! It’s an honor to fight by your side, Comrade~!<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Ehehe~ Fortunately for you, the view inside the Sanctum is simply stunning. After we clear out the enemies, I’ll show you exactly what I mean~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Disguise|选项=6|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Tashkent：</span><br>
+This is our regularly-scheduled transmission. Dear comrade, we’ve already reached our destination, and are now holding our positions.<br>
+I haven’t seen any higher-tier Sirens like Omitter yet, but I’m sure they’ll be forced to come out as long as we keep fighting.<br>
+How are things on your end, dear comrade?<br>
+<br>
+The Sirens here haven’t gotten any stronger. I’d say your gamble was a success. However, the Sirens around the Sanctum haven’t pulled back either, and we’re currently engaging them.<br>
+<span style="color:#4eb24e;">Tashkent：</span><br>
+I see. Well, I believe in you. Teach them a harsh lesson for me. Over.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Seems like the assault on the Winter’s Crown is going smoothly. Unfortunately, we’re facing more resistance here than expected...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+The more times we clash with Omitter, the more incongruous her behavior seems. The way she acts says little about the way she commands.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+I concur. I have witnessed their cunning ambushes time and time again along the Arctic routes.<br>
+It is hard to picture such ruthless and cunning attacks coming from that clown. Mm, that’s all.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+I do have a theory though... Commander, the Sirens are supposed to be some kind of program, right...?<br>
+<br>
+Mhm. Though there’s much we don’t understand about the Sirens, based upon the Naval HQ’s classifications, Sirens are more structurally similar to machines than they are to organic lifeforms.<br>
+Normally, lower-level Siren combat units are simply mindless tools of destruction, whereas higher-tier humanoid Sirens exhibit both knowledge and intelligence, and have absolute command over the lower-level units.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Almost like a hive of bees commanded by a queen...<br>
+<br>
+“Right, that’s the impression I get.”<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+In theory, you can eliminate the treat of a Siren fleet by taking out their command structure. But in reality, the Sirens often have multiple command units, and each command unit can use special flagships to remotely relay their orders.<br>
+Theory rarely stacks up to the reality of the battlefield.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Given that fact... there’s obviously a better way for the Sirens to communicate that would not only be more efficient, but also be more machine-like. Why would they need to take on human personalities?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Hmm... I can’t say I’ve considered this before...<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Perhaps they’re trying to exploit our empathy to create an advantage on the battlefield...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+What’s your take on this, Comrade?<br>
+<br>
+“Hm......”<br>
+<br>
+'''''<span style="color:black;">选择项1：“Maybe it’s a disguise used to approach us...?”</span>'''''<br>
+'''''<span style="color:black;">选择项2：“Are they trying to cast themselves in our image...?”</span>'''''<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Mm... Obviously, lower-level Sirens are unambiguously menacing in their appearance. As for their leaders, they not only are rich with emotions, but also take on the appearance of young girls.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Given the Sirens’ pragmatism and precision, it’s understandable that they would seek to reach out to us in a form we can relate to.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh, that reminds me... Kirov, has your latest work been related to this kind of stuff?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Uhh, I guess? As we continue to encounter these Siren commanders, a growing number of Siren-worshipping cults have begun to appear across the world, their members perhaps bewitched by their alluring forms. A most disturbing trend.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''“Siren worshippers, huh? I’ve also heard about this...”<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Comrade, we can’t allow this trend to continue! The Northern Parliament has been monitoring this development closely, but the Naval NQ needs to recognize the seriousness of this situation and act accordingly.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''“I’ll make sure they get the memo.”<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''The bodies of young girls, and massive ship riggings... These Siren commanders are similar to us in many ways.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Do you think the Sirens might be a product of humankind?<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Though we don’t have that kind of technology, I’d say it’s quite likely that the Sirens were constructed. In any case, whoever created the Sirens... must know us very well.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You make a very interesting point...<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And the purpose of designing them in this manner... must surely be some kind of disguise to let them get closer to us.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+They sound like us. They look like us. The Sirens exploit these similarities to subconsciously influence our thinking and interfere with our judgment, even without us being aware of it.<br>
+This battle is proof of that. We misjudged the battle situation based upon an assessment of Omitter’s outward personality.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Wearing emotions as a disguise to give us the illusion of having common ground, of being able to communicate... when in fact, underneath those expressions, they are cold-blooded killing machines. How terrifying...<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Like demons that adorn themselves in the trappings of men... but humans are their victims.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Indeed... Just like what the name they’ve been given symbolizes...<br>
+Speaking of which... did humans name them “Sirens,” or is that what they call themselves?<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+When I entered service, the Sirens were already known as Sirens. Mm, I don’t know anything else beyond that.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+I don’t think I remember either... But most likely, whoever discovered them named them “Sirens,” as mysterious enemies that emerged from the ocean.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Just going off of destructive potential, wouldn’t it have made more sense to call them “Leviathans” or something? ...Why Siren?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+You have a point... But they’ve just been called that for so long, I’m not sure anyone actually has an explanation for the origin of that name.<br>
+<br>
+(The Ashes keep referring to something as “Antiochus”... Could that have something to do with the Sirens’ true identities...?)<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Murmansk, your questions have been unusually on the mark today. Have you recently changed your hobby from observing small animals to perusing tomes of philosophy?<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Whether you’re observing nature or reading books, a thirst for knowledge goes a long way~<br>
+Ehehe... Did I just say something totally quotable? To be honest though, I suddenly thought of all these things after meeting Comrade Commander today...<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+I see... I can only hope that the answers we seek lie behind the doors of the Arcana Sanctum.<br>
+<br>
+(I can only pray... that the solution to our problems also lies behind those doors...)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Unexpected Results|选项=7|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Tallinn：</span><br>
+That should wrap things up over here. I do believe this is my first time meeting you in person, Commander. I am the flagship of the Secret Room’s defense fleet, heavy cruiser Tallinn.<br>
+And I’m sure you already know Murmansk.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Zdravstvuyte! You look even cooler in person than through the communicator, Comrade! Ehehe~<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+And over here is another member of the defense fleet, destroyer Gromky.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Hehe~ Well met, Comrade Commander! My name is Gromky, a destroyer from the Northern Parliament! I hope I’ll be able to assist you in this operation!<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I didn’t expect the Sirens to call our bluff and ignore our offensive on the Winter’s Crown... Fortunately, the worst is behind us, and the Sanctum is safe.<br>
+Commander, though this is our first time working together, I need no further convincing about your abilities.<br>
+<br>
+“I’m glad to hear that.”<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Don’t get me wrong - this isn’t some attempt at flattery. I’m merely stating objective facts.<br>
+<br>
+(I could sense a domineering aura from Tallinn. As the flagship of a fleet that had been fighting tooth and nail, on top of her experience in the Iron Blood, she was a force to be reckoned with...)<br>
+So, when you say that the Sanctum is safe, does that mean it’s around here somewhere?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+You guessed it, Comrade. The Northern Parliament has kept a very close eye on this place!<br>
+<br>
+...We’re still surrounded by icebergs and freezing winds. It’s somewhere in these waters then?<br>
+(All around us are the husks of Siren ships destroyed during previous engagements, and the various logistics forces trying to clear them away.)<br>
+(When I look into the distance, all I see is the frozen sea being blanketed by endless white snow, with no traces of platforms, facilities, or any other manmade object for that matter.)<br>
+(As far as I could tell, there’s nothing here that makes it stand out from the other places I’ve seen across the Arctic.)<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+The commander looks completely lost. Did none of you say anything?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Oho, do you remember how shocked we were the first time we came here? It wouldn’t be fair if our Comrade missed out on that rite of passage. But don’t worry, Tallinn, everything has been taken care of.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I established a connection as soon as the battle ended. Judging by the time... we should be about ready.<br>
+<br>
+Ready for what...?<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+We’re going underwater, Comrade Commander! Don’t just stare out into the distance - make sure to watch your feet as well!<br>
+<br>
+Under... water...?<br>
+CRAAAAAASH—————!!<br>
+Not far from me, a massive object could be seen ramming the ice from beneath.<br>
+CRAAAAAASH—————!!<br>
+What the hell is that?!  Is that...?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Icebreaker Submarine|选项=8|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Ahaha! A hail of cannonfire may not be enough to faze you, Comrade, but seeing this really caught you off guard, huh?<br>
+<br>
+Indeed... I never expected to see something like this here...<br>
+That roaring sound... is that some kind of vessel? It’s coming straight out of the ice...<br>
+The mechanical roar, the violent cracking of the ice, and the surging of the ocean beneath... A symphony of sounds rushed together as the world around me shook, as if I was witnessing the summoning of an otherworldly beast.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+When the weather is warmer, this area doesn’t stay frozen over like it is now.<br>
+But as fate would have it, we now get to use this icebreaker submarine to carry out our grand mission!<br>
+<br>
+An icebreaker submarine... I don’t think the Naval HQ, or any of the other factions, have ever seen a vessel like this.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Of course they haven’t~ This is our latest multifunctional tactical submarine, developed independently by the Northern Parliament! But as you can see, due to its size, you can’t just call it a submarine anymore! It’s a submersible ship!<br>
+Sovetskaya Rossiya should already have taken you to some of the laboratories used to test the Wisdom Cubes’ power supply.<br>
+What you see in front of you is one example of the fruits of that research. Powering it with Wisdom Cubes ensures this behemoth’s power and endurance.<br>
+Of course, it is more than capable of fighting as well. Though it can only be used as an icebreaker while surfaced, it can transform into an underwater combat platform when submerged.<br>
+The huge arsenal it has on board provides us with excellent firepower coverage. Combined with its ability to freely navigate through the Arctic region, including parts of the sea covered in ice, and the long time it is able to stay submerged, we have high expectations for this new class of ship in any future conflicts.<br>
+<br>
+A huge underwater combat platform with the ability to engage in anti-submarine warfare... Is this the reason why we didn’t see many Siren submarines in the previous battle?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+You got it~<br>
+<br>
+And if we need to take a submarine, I suppose this Sanctum is underwater?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+More or less. Belorussiya, Commander, please board the submarine so that we can prepare to dive.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Let’s go, Comrade! You are able to see the reason why we have brought you here!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Air Chamber|选项=9|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Kirov：</span><br>
+Comrade, we’ve arrived at our destination.<br>
+<br>
+It feels like we’ve already been underwater for a long time... Do we need to switch into smaller expedition vessels if we’re exploring underwater ruins or something?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+It’s not that complicated. We can just walk off from this ship.<br>
+<br>
+Walk off? Aren’t we still underwater?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+To be precise, this is a unique space that resembles a Mirror Sea, except underwater. The specifics are a bit more complicated, but you’ll see once you get out.<br>
+<br>
+An underwater Mirror Sea...?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Comrade, welcome to the Northern Parliament’s Arcana Sanctum!<br>
+<br>
+After exiting the hatch,  I was surprised to discover that there was no water pressure. A wide, spacious area stretched out in front of my eyes.<br>
+When I looked down at my feet, I could see a layer of calm ocean water coursing beneath me. Lifting my head, I could see that the dome of stars that should’ve been above me was now replaced by the expansive sea.<br>
+Around me, icebergs cut neatly into titanic slabs floated overhead serenely, and two tracks swirled overhead as they spiraled toward the surface. Not even in my wildest imagination would I have been able to envisage such a surreal dreamscape.<br>
+At first, I expected this “Arcana Sanctum” to be some sort of naval base. Then, I thought it was some abandoned underwater facility. But this... could something so spectacular truly exist in this world...?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+It’s been some time since I last came here. A marvelous sight to behold, as always.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Heh. You look completely speechless, Commander.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Ehehe~ I was just like that the first time I came here... It takes a while to let everything sink in, you know~<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Comrade, we need to get moving. You’ll find even more wondrous things deeper inside.<br>
+Take this submarine as your command ship. The rest of us will spread out and enter an escort formation as we head through the first Gate.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sanctuary|选项=10|主框=1|样式=primary|展开=否}}
+<br>
+...The icebergs floating here must be hundreds of meters high...<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+From 50 to 200 meters, to be precise, and their surfaces are flat and smooth.<br>
+As we all know, most of an iceberg’s actual mass is hidden under the surface — in theory. Based on our observations, however, the icebergs here do not have substantial underwater structures. Rather than “floating,” they seem to be suspended within the water.<br>
+<br>
+Are these icebergs all a part of the Mirror Sea...?<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+That’s not all! The Mirror Sea periodically produces Siren defense modules around these parts! These modules are rather dated, but we can’t just ignore them either.<br>
+Per our orders, we have to return here periodically to sweep any enemies that might spawn, and these icebergs sometimes get split apart by stray fire...<br>
+But... after we leave and come back, the icebergs simply reform as if nothing ever happened!<br>
+<br>
+The ice is capable of regrowing...?<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+That’s right~! Pretty spooky stuff, right? So that’s why we still have to carry out lots of experiments. When the icebergs are lightly damaged, they regenerate into their original forms.<br>
+If we blast ‘em to pieces, the fragments disappear, but then an identical iceberg will float up to take its place soon afterwards!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+So far, the Mirror Seas we’ve encountered can be broken up into two categories: one, arsenals for making Pieces as well as mass-producing ships; and two, experimental research facilities for creating unfathomable weapons.<br>
+Of all the Mirror Seas discovered by mankind, this may be the first that does not fall into one of those categories.<br>
+We’ve conducted extensive long-term research on this place, gathering as much data as possible and analyzing any samples that we can get our hands on. However, we still have no idea what the purpose of setting up a Mirror Sea like this might be - a hidden underwater facility that seems only to preserve a landscape.<br>
+Finally, we made a hypothesis... Comrade, what if Mirror Seas were not originally meant to be tools of war, but were designed to be tools of stealth and evasion?<br>
+<br>
+What do you mean by that?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Generally speaking, Mirror Seas are unrecognizable from the outside until you’ve actually entered them. The single thing that all Mirror Seas have in common is their concealment.<br>
+On the battlefield, the Sirens often directly convert a portion of the ocean into a Mirror Sea, suggesting that whatever device they use to do this must be portable.<br>
+As for all the attacks we’ve seen both from and inside the Mirror Seas, those might just be products of the equipment stored inside.<br>
+As someone who formerly stayed in Iron Blood, I can attest that they started researching Mirror Seas very early on.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+The impression I got was that initially, Iron Blood wanted to monopolize the fruits of their research on Siren technology, and refused to join the other major powers in the Azur Lane for that reason.<br>
+At first, Iron Blood was not a primary target for the first wave of Siren attacks. Ironically, their meddling into Siren technology stirred the sleeping beast, so to speak, and they suffered devastating losses as a result.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Mhm. Iron Blood has always been obsessed with Siren technology, through and through. Even before I left, they already managed to disassemble components of the Mirror Sea.<br>
+I assume they’re still ironing out technical challenges for the various modules, but I don’t know how much progress they’ve made.<br>
+<br>
+What I’m taking away from all this is that we have to distinguish between the Mirror Seas we encounter in battle, and the actual concept of a Mirror Sea, right?<br>
+An actual Mirror Sea is just a technological device designed for absolute privacy and portability, whereas what we see in practice is like an upgraded, personalized version of that?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+That sounds about right. Though Mirror Seas can be a pain in the ass when used offensively, we are able to destroy them directly as long as we have the numbers. But what if Mirror Seas are used to hide away places just like this one? We may never find those places... or know how many there are.<br>
+<br>
+That does sound plausible. Perhaps the Sirens’ main base, which has never been pinpointed so far, is hidden somewhere in the depths of the ocean in a similar form?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+We reached the same conclusion, but because we’ve never found a second Mirror Sea that shares the same conditions as this one, we need a lot more evidence before making that logical leap.<br>
+<br>
+(...Wait, if the Sirens are hiding underwater in well-concealed Mirror Seas, how was the Northern Parliament able to seize control of this “Arcana Sanctum?”)<br>
+(I can’t help but feel that there’s more to this story that they’re not telling me...)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Obsolete|选项=11|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Careful, a Siren guard fleet has appeared.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Seriously? We cleaned out this place not that long ago...<br>
+<br>
+Those look like some seriously outdated models.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+The enemy models in the Arcana Sanctum have never been upgraded. They’re the exact same as they first were when this place was discovered decades ago.<br>
+Back then, the Sirens that wrought such destruction and suffering upon humanity... looked just like this...<br>
+But now, enemies like these are hardly worth our attention. Comrade, time is precious. Let’s end this quickly! Uraaa!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Vortex|选项=12|主框=1|样式=primary|展开=否}}
+<br>
+The fleet made its way to a massive iceberg, easily dispatching the enemies in the way. It is said that this iceberg is the only facility here with an internal structure, and also houses the “Gate.”<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+This place is where we first recovered some truly revolutionary information. Isn’t it spectacular, Comrade?<br>
+The first time, we had to fight our way here. Countless comrades became martyrs in these very waters before we finally managed to clear out the swarming Siren forces.<br>
+But considering what we got out of it... their sacrifices were not in vain.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+It can be said that what we discovered here was a turning point for fate. The intelligence we recovered from here was the reason why the Northern Parliament, then on the verge of collapse, managed to hold its tattered line of defense and then claw its way back into becoming one of the major world powers today.<br>
+But that’s not all. We also discovered a sliver of the Sirens’ secrets...<br>
+<br>
+The Sirens’ secrets...?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+What I’m about to tell you has never been made public. After so much information has been leaked, we’ve completely lost trust in the ability of the Naval HQ to maintain confidentiality, but we do think you need to know this information.<br>
+<br>
+I assume I’m also to keep this a secret from the Naval HQ?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+That’s not our intent, no. However, I do hope that after listening to everything, you will utilize your best judgment in deciding what to disclose.<br>
+All the information you learn in the Arcana Sanctum today should be treated in that manner.<br>
+<br>
+I can agree to those terms.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+We’re almost convinced that the Sirens were not spontaneously “born” from these oceans, in any sense of the word, but rather came from a distant place.<br>
+As for their true purpose, it is not something as simple as trying to eradicate humanity.<br>
+Since the very beginning, most of their actions have been aimed at driving wedges between our major factions and amplifying those conflicts, plunging us into a state of endless war.<br>
+Looking back at everything that’s happened, the Iron Blood had the deepest ties to the Sirens. Their splintering from the Azur Lane, sudden betrayal, and formation of the Crimson Axis, all reek with the Sirens’ lingering influence.<br>
+And perhaps, us too in the past, no... Even right now, we might have walked straight into a trap set by the Sirens.<br>
+<br>
+It’s not just you. Both the Eagle Union and Royal Navy have been somewhat aware of this.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Somewhat aware, perhaps. But they still continued to fight, whatever the reasons may have been. In the end, everything still happened as the Sirens desired. This is the true nature of their power.<br>
+As for where the Sirens came from and what they’re actually after... Unfortunately, we still haven’t found the answers. But we’re sure that the answers can be found behind the Gate.<br>
+We’ll reach it on the other side of this great hall. Let’s keep moving.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Control Room|选项=13|主框=1|样式=primary|展开=否}}
+<br>
+So, the reason you need me is because you haven’t been able to open the Gate.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Correct. We believe that your natural attunement to Wisdom Cubes will aid us in opening this dusty Gate.<br>
+We’ve scoured the entire Mirror Sea, but have not found any device that can control the facilities here. We can’t even control the Mirror Sea or access its maintenance device.<br>
+The most suspicious thing is this console up in front.<br>
+<br>
+Ahead of us in the middle of the great hall is a metallic console that looks like some kind of control device.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+There’s a groove in it where you’re supposed to insert a Wisdom Cube, right?<br>
+<br>
+Hmm, seems like it... It does look like some special device that requires a Wisdom Cube to activate.<br>
+However, all the Siren devices and facilities we’ve encountered so far have been powered by a special energy storage device. Why would this thing here require a Wisdom Cube to activate?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+We may never know until we see what’s on the other side of this door.<br>
+<br>
+An infinite loop, huh...<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+We’ve conducted a series of experiments to try to activate the console, but everything we’ve tried has resulted in failure. It won’t respond at all.<br>
+<br>
+So you believe that this device will only respond to special individuals?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Mhm. Comrade, the tests you took when you first became a commander showed that you have the highest attunement with Wisdom Cubes that this world has ever seen.<br>
+All the science we have today cannot explain why you are able to produce benign changes to Wisdom Cubes, but even you should be aware of this phenomenon.<br>
+<br>
+Mhm. I’ve always wanted to know... Why me?<br>
+But where is this “Gate” that you keep talking about? We’ve reached the end of the great hall, but I don’t see any doors here...<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Ah... Sorry, sorry. I forgot to tell you one little detail about the Gate~<br>
+The wall of ice in front of you, right at the end of this hall, is what we call the “Gate.” We’re confident that if you’re able to activate this console, this will open up into another passage.<br>
+<br>
+Just from its size and texture, there’s no way something like this could have formed naturally. But I can’t see any kinds of mechanisms inside... It seems like just a sheet of ice.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+And that’s where you’d be wrong, Comrade. There’s much, much more to it than that.<br>
+Gromky, let’s do a little demonstration for the commander. Shoot at that corner over there.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Aye aye! Everyone, please keep a safe distance! Commencing fire!<br>
+<br>
+KABOOM————————!!<br>
+The shell discharged from Gromky’s gun slammed into the wall of ice and erupted in a cloud of smoke and steam... But when it cleared, there wasn’t a scratch on the wall...<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+As you can see, we can’t damage the wall even with this amount of force.<br>
+Of course, we’ve tried many other methods. Using larger-caliber guns, having the entire fleet fire salvos, using explosives, using heavier explosives...<br>
+But nothing has worked so far. All the firepower we’ve been able to muster to date, and still not a scratch on this wall.<br>
+<br>
+I guess you really do have to work from the console... Hm? Wait, this insignia here... it’s not what the Sirens use to represent themselves... I’ve never seen this before.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Huh? That’s weird... I don’t think we would’ve glossed over something like that...<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+What...?! Impossible! I’m certain that symbol was never there before.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+In other words, the console changed in a way we’ve never seen before?<br>
+Sure enough, mysterious things start to happen as soon as the commander sets foot in here... Here, use this Wisdom Cube.<br>
+Don’t keep us waiting. Go ahead and give it a try.<br>
+<br>
+There’s nothing else on the console that can be operated. Might as well start with the Wisdom Cube first——<br>
+<br>
+'''''<span style="color:black;">选择项1：Place it</span>'''''<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+...Woah, the console’s actually reacting!<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Woaahhhh... It’s glowing!<br>
+<br>
+As soon as I pressed the Wisdom Cube into the groove, the device began to vibrate and hum. The Wisdom Cube seemed to dissolve, replaced by a ball of light that expanded above the console.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+The structure of the Wisdom Cube is reflected in the motes of light... as if they’re trying to deconstruct the cube...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+...Belorussiya, looks like our hypothesis might be correct.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Yes! The Gate has also began to change shape! Now, show me what lies behind this wall of ice!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=City of Light|选项=14|主框=1|样式=primary|展开=否}}
+<br>
+The Gate gave way to a new path, but in a way nobody had expected.<br>
+The wall of ice became thin and translucent, as if turning into a gossamer membrane that could disappear at any time. And on the other side of the veil, a radiant city comprised entirely of light rose from the formerly empty Mirror Sea.<br>
+My jaw dropped once more at the indescribable majesty shimmering before my eyes.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Incredible... A truly unexpected development...<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Woooow... It’s so pretty...<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Holy... this makes the towering icebergs we saw before seem insignificant in comparison...<br>
+It’s like a fairytale castle straight out of the storybooks...<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Those streams of water above us actually turned out to be suspended tracks leading to the city...<br>
+The Sirens truly hid a magnificent work of art here. I can’t imagine their ugly sense of aesthetics giving birth to something this beautiful.<br>
+<br>
+The buildings here... they don’t look like Siren architecture... Rather, there’s something... human-like about them...<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Not even the most advanced countries can pull off an engineering marvel like this... not to mention, this entire city seems to be composed entirely of light.<br>
+But you have a point... this doesn’t feel like something the Sirens would do...<br>
+Now this is an unexpected development. Instead of getting some secret backroom or lab, an entire city of light materializes out of nowhere, and we don’t have any clues as to who built it.<br>
+Comrade, now that you’ve seen this, will you continue this expedition with us?<br>
+<br>
+Of course. I’m also searching for my own answers here.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Then, let us pass through the Gate and discover what awaits us in this city of light!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Strings I|选项=15|主框=1|样式=primary|展开=否}}
+<br>
+Loud alarms blaring through the air... the burning stench of gunpowder choking my lungs... waves of scorching heat flaying my skin... I’ve experienced this before.<br>
+This must be... the defensive line... at NY Harbor...?<br>
+Why am I here...? What was I doing...? Why can’t I remember anything?<br>
+<span style="color:#ffd000;">？？：</span><br>
+Hey! Why are you still here?!<br>
+Didn’t we agree that you’d be heading to Samos with the others? Why are you here all by yourself?<br>
+<br>
+'''''<span style="color:black;">选择项1：I don’t know...</span>'''''<br>
+<br>
+The voice in the distance, calling to me... It feels so familiar, but also so alien... Who could it be...?<br>
+<span style="color:#ffd000;">？？：</span><br>
+We were crushed terribly in our last-ditch counterattack, so this place will fall soon.<br>
+You were supposed to go to Samos because we had anticipated this possibility...<br>
+Our defenses are still holding for now, but that cannot last much longer. They will come again with even greater numbers and raze this place to the ground, just as was planned.<br>
+You were there when the plan was drafted, weren’t you? Did you vote for it, or against it? ...So much has happened, I can’t even remember the details anymore...<br>
+Forget it... In any case, even if you wanted to stay with me, I can’t accept that.<br>
+I’m not important, and you’re still needed elsewhere... Let’s see if any evacuation fleets have yet to leave. Good grief, so stubborn even at a time like this...<br>
+<br>
+<br>
+“Hurry. This place will fall as well.”<br>
+<br>
+“Unfortunately... I won’t be able to keep our promise.”<br>
+What...?!<br>
+<span style="color:#ffd000;">？？：</span><br>
+Hey! What are you doing, staring off into space by yourself over there? The battle isn’t over yet, so you can’t be wandering around outside!<br>
+<br>
+...............<br>
+<br>
+'''''<span style="color:black;">选择项1：The others will come back and save you.</span>'''''<br>
+<span style="color:#ffd000;">？？：</span><br>
+Hm? Surely not. If they’re following the plan, there’s no way they’d be able to leave.<br>
+<br>
+They’ll come back... I’m sure of it...<br>
+<span style="color:#ffd000;">？？：</span><br>
+Well, that complicates things. I wanted to make this deal without them finding out...<br>
+<br>
+So...<br>
+<br>
+'''''<span style="color:black;">选择项1：Let’s run away, together.</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Phase |选项=16|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Are you finally awake, Comrade?<br>
+<br>
+...My head still feels fuzzy. Did I pass out just now?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Only briefly. The fleet has managed to cross the Gate.<br>
+<br>
+That’s good... Were you the one who brought me back to the command ship?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Unfortunately not... As soon as we crossed the gate, we were scattered across this sector, with no sign of the control room or where we came through.<br>
+While regrouping, we found you unconscious on the submarine.<br>
+<br>
+'''''<span style="color:black;">选择项1：Sorry to make you worry.</span>'''''<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Hah, it’s nothing worth apologizing over. Rather, we owe you an apology for taking you into an unknown and dangerous battlefield.<br>
+<br>
+It’s my fault for not working with the fleet...<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Ahaha, words fit for a hero, Comrade.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+At least, you weren’t the only one affected by passing through the Gate. Each of us experienced a short period of malaise as well.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Yeah, it felt like someone clubbed me hard in the head or something... Ugh, this place is weird...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+However, the city of light is still glowing brightly in front of us, so at least we can be sure that we passed through the other side of the gate. <br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Do you think that all these strange phenomena were set up by the Sirens? ...Well, it’s best not to dwell on it. We’ve seen enough Mirror Seas to know that pretty much anything is possible.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+The huge floaty icebergs are also totally different! Look, strange glowy lines are running through them now, just like the console when it was activated!<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+As I suspected, it was no accident that the icebergs in the Mirror Sea continued to regenerate themselves. Everything, including the icebergs, is an indispensable part of this giant city.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+You’re right... Everything the light is touching is being repaired.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Look, the tracks above us are glowing so prettily! Imagine how fun it’d be to slide all the way down from up there!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Those tracks seem to provide access throughout the whole city. We’ll have the best shot of finding our bearings if we take control of it.<br>
+Of course, before we get pulled in too deeply, we should at least find our way back to the control room, just so we have an exit strategy.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Agreed. Unfortunately, we don’t have the luxury of aerial reconnaissance here, so we’ll have to gather whatever information we can while looking for a way back.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Swarms of Light|选项=17|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Gromky：</span><br>
+Hum~ dee dum~♪<br>
+<br>
+Gromky seemed to be enjoying this a lot.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+.........<br>
+<br>
+Gremyashchy, on the other hand, looked no different than before, even beneath the splendors of the city of light.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Why are you staring at me again? ...Do you need something?<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Gremyashchy, it’s not good to be so grumpy around Comrade Commander! You’ll be able to get along better with others if you just put a smile on your face~!<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+I’m not grumpy. This is just the face I was born with. Besides, I’m here as an escort ship, not a therapist. Mm, that’s all.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Aww, why do you always have to be like this? Fine then! Comrade Commander, if there’s anything you don’t understand, I’ll be your Gremyashchy translator~<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Hmph... Well, that’ll be all.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Look, look, she’s blushing!<br>
+Gremyashchy might act all cold, but she’s actually happy that she gets to work with you!<br>
+<br>
+You two really understand each other, huh.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Heheh, we sure do! We used to be in the same fleet, but I was assigned to defend the Sanctum later on. It’s so nice to be back together!<br>
+Naturally, it’s as if we were never apart! Right, Gremyashchy~?<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Yeah, yeah... So, can you let go of me already...?<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+No can do! I’ve missed you a tooooooon, so you owe me a bazillion hugs! You should come join in too, Comrade Commander~!<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+......<br>
+<br>
+The hugging session was quickly cut short by the piercing sensation of Gremyashchy’s icy gaze.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Oh, you’ve returned? We’ve finally made some progress. There seems to be a passageway that goes deeper into this research facility, from this point here on the iceberg with the control room.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Hm... Weird stuff happened when we got across the Gate. Do you think we’ll be able to leave the way we came through?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+We’ll never know until we try.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Strings II|选项=18|主框=1|样式=primary|展开=否}}
+<span style="color:#ffd000;">？？？：</span><br>
+If we adopt this plan, there may be a chance of success.<br>
+However, we must ensure that the jamming device remains operational as long as possible. In the meantime, we’ll have to hold the line while evacuations are carried out.<br>
+In other words...<br>
+<span style="color:#ffd000;">？？？？：</span><br>
+We already know this, Dr. Aoste. We’ve taken it upon ourselves to build upon this framework.<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+...I understand. But even if that is the case, everyone has already sustained heavy losses. The actual feasibility of the timeframe you provided must still be carefully evaluated...<br>
+If the “Light of Dawn” is ever extinguished, then Laplace’s Demon will cease to be. If we have not reached the evacuation threshold at that time, our future operational plans will be impacted.<br>
+<span style="color:#ffd000;">？？：</span><br>
+Worry not. I will also help buy time for you.<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+...Dr. Anzeel?<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+I’ve already issued too many communications through the process of commanding the operation, and they’ve likely already identified me for destruction.<br>
+As long as I can continue to draw their attention, I should be able to alleviate the pressure in other places, giving you more time to implement the plan.<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+But, what will happen to you then?<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+After such a fiasco, someone always has to bear the responsibility. Only now, there aren’t many people left who can shoulder that burden.<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+I see... You can bring your KAN-SEN along as well. However, I would like Code G to accompany my Antiochus if possible.<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+Very well. You can have Enterprise, and whoever else manages to survive.<br>
+However, take them as far away from NY City as you can. Never let them return here.<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+...Without you here, I’m not sure I’ll be able to control them...<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+What happened to the ever-so-wise and stoic Magister? You have no choice but to give those children both a purpose and the responsibility that comes with it, right?<br>
+...Even after you “betrayed” us, I still believe we see things eye-to-eye. And I think what you’re doing is just. I completely understand you, and I trust that in their hearts, they understand you as well...<br>
+I’m sure they’ll need some time to accept it, but they will come to understand you one day...<br>
+Yes, I’m sure of it...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Line of Sight|选项=19|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Gromky：</span><br>
+The whole atmosphere around us has changed!<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I’m sure we’re at the same place, but nothing else about this facility matches what we saw before. I don’t think this is the same console from before.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Doesn’t this feel familiar? This seems more like one of the Northern Parliament’s command centers rather than what we saw before.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+That’s also the impression I’m getting. Belorussiya, I don’t think I’ve seen that insignia anywhere before. Ring any bells?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+I can’t say I recognize it either. This place really is full of mysteries.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Look at all those doors ahead of us! Why don’t we go explore them all?<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+I don’t think anyone’s home anyway~ Surely nobody will mind if we take a little peek inside~<br>
+Besides, it’s not like we’re doing anything else right now...<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Everything here must have been hidden away for a reason. I, for one, am in favor of getting whatever valuable intelligence we can.<br>
+There must be something around here that gives us more information about this Mirror Sea, and how to control it.<br>
+...Having said that though, we don’t have the time to look through every single room.<br>
+<br>
+How about starting from the big picture and working our way down?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+I agree. If this is some kind of command center, then there must also be a conference room, a records room, and some information about what this place was used for.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Ah... Look at that room up ahead! Don’t you think that fits the bill?<br>
+<br>
+After entering the curious room, we were immediately greeted by a huge display screen on the opposing wall.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Hmm... Why would something like this be here?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+This is a chart that seems to track the course of a battle of some kind... It seems to be of... an island defense?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Hmm... the red star in the middle must represent an important target, and a defensive line has been erected all around it.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Trying to defend such a small island in this manner seems like a fool’s errand.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Indeed. You can buckle down all you want, but anyone trying to defend this island will be at a huge disadvantage due to the lack of maneuverability.<br>
+You might be able to use some of the smaller surrounding islands as a buffer, but even so... Assuming each mark represents the same amount of forces, the defenders are outnumbered several times over.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+“The purpose of this operation is the absolute defense of the island’s facilities, and to prevent the enemy from establishing a foothold in the region.”<br>
+This place must’ve had some greater importance we’re not seeing. Otherwise, it wouldn’t make sense to defend this place so desperately at such an overwhelming disadvantage.<br>
+“Use the fleet's speed to fight back. Even if it’s impossible to overcome the difference in numbers, we can still buy more time...”<br>
+“There is still a glimmer of hope in this operation. We were expecting to be crushed, but luckily, the enemy’s forces seem to be getting diverted elsewhere.”<br>
+“We will hold the line until our last breath.”<br>
+“We’ve done all that we could. Your dedication and sacrifice shall not be forgotten.”<br>
+...That sounds pretty tragic...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Thank you for your dramatic display of oratorical flair, Murmansk. We can already see all that information on the screen.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+What’s wrong with embellishing things a little bit~<br>
+...Huh? Gremyashchy, what’s the matter?<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Wait...<br>
+We’re not alone... Something is watching us. Do you feel that as well?<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Eh? I don’t feel anything...<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Me neither... Jeez, Gremyashchy, stop saying spooky stuff like that.<br>
+<br>
+I will admit... I’ve had an uneasy feeling ever since I stepped into this room...<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Eh? You feel it too, Comrade?!<br>
+It's weird, isn't it? Nobody's been here for ages, but the monitor is still on, like everyone just up and disappeared.<br>
+More than weird, it's kind of creepy, even... Like we've entered a haunted house.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Ahaha, how unscientific of you, comrade Murmansk! Besides, how could the Revolution falter before some ghosts?<br>
+That said, since several of you share this suspicion, I suppose we should proceed under the assumption that we are indeed being watched.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Stay close, everyone. Nobody is to wander off on their own, lest we risk getting lost, or worse yet, walk into a trap.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Blueprint Ships|选项=20|主框=1|样式=primary|展开=否}}
+<br>
+The fleet moved in a single group through the complex corridors. There was much ground to cover, but not infeasibly so, now that we got through some of the biggest rooms.<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Comrade, I’ve found something amazing here as well!<br>
+<br>
+'''''<span style="color:black;">选择项1："Good find."</span>'''''<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Ehehe... Let’s go explore in that room and see if there’s any more treasure~!<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Hehe~ Sounds like fun. Let’s all go on a treasure hunt~♪<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+I didn't find much in the way of treasure. All I recovered was this stack of misprinted documents.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Let me have a look. Hmm... "Summary on Bluepoint Ships"?<br>
+Actually, it must be "Blueprint Ships." It's barely legible, but that looks more plausible.<br>
+<br>
+"Blueprint Ships" rings a bell...<br>
+I think that was the term the Naval HQ came up with after we first saw a ship called Gascogne at the Battle of the Basilica.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+That's right, but I remember coming across this term some earlier reports from the Iron Blood and Royal Navy. Bismarck's aide, Friedrich der Grosse, seems to have taken this classification for herself.<br>
+<br>
+Friedrich, huh? We have practically no information on her other than what you just said...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Immediately after our campaign to suppress Bismarck, a mysterious new leader took command from the shadows and stabilized the situation in the Iron Blood. It is believed that the Royal Navy also started pursuing this technology as a countermeasure.<br>
+I've been thinking about this, Comrade. What kind of existence is a blueprint ship supposed to be?<br>
+We have always thought that a ship's foundational hull is inseparable from its history. In essence, this history is supposed to be a sum of humanity's perceptions and notions about the ship.<br>
+A hull is widely considered a prerequisite to a ship's construction, even for mass-produced ships. By extension, a history is a prerequisite.<br>
+All this is to say, a shipgirl's history is her proof of existence. Even if she was only dreamed up in blueprints.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+...That's an interesting point. Soyuz, Rossiya, and I all fall under this category. We were just never given forms.<br>
+This is hardly a unique occurence and yet we've never been referred to as blueprint ships, whereas Freidrich has.<br>
+<br>
+Based on how rarely the term comes up, I think there are a small number of blueprint ships in existence.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Yes, and this raises another question: What makes one a blueprint ship? Is it not something determined by the Wisdom Cubes that constitute our foundational hull?<br>
+Through whatever means, the Wisdom Cubes already contain the data that makes us who we are. To build a ship, you must extract this information.<br>
+But what if there is not enough information within the Wisdom Cubes to give form to a ship? What would happen if you "edited" another reality into the Wisdom Cubes?<br>
+<br>
+It's a lot to take in. If I understanding this right, Wisdom Cubes contain the "essence" of a shipgirl, and building them is the process of giving this essence a physical form, right? In contrast, blueprint ships...<br>
+Are you saying that someone is capable of inserting their own "history" into Wisdom Cubes and manifesting them...?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Who knows? This is just a theory of mine, but if it is true, what restrictions are there on the kinds of history you are able to edit into a Wisdom Cube?<br>
+And finally, what is a blueprint if not a plan for the future? Whose plan is it, and what is it they were trying to do?<br>
+<br>
+.........<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+It seems our search has grown in scope, Comrade. We started out looking for an exit, but now we're also searching for the truth behind the Sirens, and behind our very existences.<br>
+The Sirens may have a deeper connection to the Wisdom Cubes than we first realized, but let's not jump to conclusions until we've fully explored this place.<br>
+These documents may not tell us all that much, but it's clear that the Sirens know much more than we do.<br>
+I'm certain that what we've learned so far is only the tip of the iceberg...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Pick|选项=21|主框=1|样式=primary|展开=否}}
+<br>
+We stepped into another room, this one even bigger than the command room we found earlier.<br>
+Hundreds of seats lined both sides of what appears to be an auditorium, its roof well over 20 or even 30 meters above the floor. At the far opposite end of the room, there was a podium.<br>
+A few enormous monitors hanged on the wall behind it. These ones were turned off, projecting not a thing.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+First a control room, then a conference room, and now an auditorium. Not too surprising, I suppose.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+This must be the heart of the facility. Unlike the control room though, the screens in here are all turned off.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+It's not hard to imagine they simply switched off the power here after they'd evacuated everyone.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Just looking at it makes me think... Soyuz is probably having her meeting in a room much like this one right now~<br>
+I really hope we'll get to see her soon~<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+That can be arranged. We could throw a party as soon as she gets back.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Ooh, a party! Wouldn't that be nice, Gremyashchy?<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+It'd be cool. Mm, that's all.<br>
+But I'm not good with situations where I need to pay extra attention to what I say and do. Especially not in front of a crowd of people.<br>
+The commander especially should know how that feels.<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+I see how that could be off-putting, but we're all friends, aren't we? You shouldn't have to feel nervous in front of your friends.<br>
+<br>
+"When you're in my position, you sometimes don't have a choice. I at least know how you feel."<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Oh, you poor thing. It is part of your job though, so don't expect to garner too much sympathy.<br>
+<br>
+Tallinn threw me a cold remark, but interestingly, followed it up with a friendly smile.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+It's easy to forget how influential you actually are from the way you talk, but I appreciate how easygoing and approachable you are.<br>
+<br>
+"Since my job also includes even more stressful things like negotiating with faction leaders, it helps to make a good impression on others..."<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Now you've got me interested~ I don't think I've ever seen you giving a public speech though~<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+That would be because commanders generally spend more time attending confidential naval meetings than they do talking to the public.<br>
+<br>
+"True, but I think we've gone completely off-topic at this point. Let's get back on track and have a look around the auditorium."<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+We're just chatting! What's wrong with that? As I was gonna say... Don't you ever wish you got more recognition for all your hard work?<br>
+I mean, I can only imagine how tough your job is. You must work day and night to make sure everything goes smoothly, right?<br>
+<br>
+Rather than acknowledge Murmansk with a response, I instead pulled back an empty chair at a desk and examined its spine.<br>
+It looked a lot like the chairs we sat in during a meeting at Naval HQ quite some time ago. They had buttons on the back that would power on the screens.<br>
+Interestingly, this chair also has something like that. I wonder if it works the same way...?<br>
+.........<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Strings III|选项=22|主框=1|样式=primary|展开=否}}
+<span style="color:#ffd000;">Aoste ：</span><br>
+...More electronic interference? How is that possible? We are deep below the surface and should be immune to any kind of jamming.<br>
+Zero, survey the surrounding waters and determine if there are hostiles approaching.<br>
+Nothing of the sort? I see. Well done, child.<br>
+<br>
+It seems to have been an equipment malfunction.<br>
+<br>
+'''''<span style="color:black;">选择项1：Push the system restore button.</span>'''''<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+And you fixed it? Thank goodness it was nothing more than that.<br>
+Why would there be a hardware failure now though...? Diagnostics were performed on the system yesterday and everything was in working order... There must've been some reason for it...<br>
+<br>
+'''''<span style="color:black;">选择项1："The audience is getting anxious."</span>'''''<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+Yes, you're right... We'll look into the source of the malfunction later. It may well have been the result of the solar flares we've experienced of late.<br>
+Apologies for that. Our equipment suffered a malfunction, but the issue has been rectified.<br>
+Rest assured, this auditorium is completely closed off from the outside. No electronic signals can get in or out. Furthermore, we are safe with Antiochus's fleet guarding the perimeter.<br>
+With that behind us, let us continue where we left off. Standing with me today is the leading expert on the study of Wisdom Cubes.<br>
+This individual may have a solution to the issue of metamorphosis which plagues us so. Allow me to introduce–<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Alarm|选项=23|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Hurry, Commander! We've gotten all the info we can, so it's time to get out of here!<br>
+<br>
+'''''<span style="color:black;">选择项1："Why? Did something happen...?"</span>'''''<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Are you serious? You're either the bravest person alive, or the dumbest, and I can't tell which.<br>
+Whatever you did, this place's entire security entourage is here. I've never seen so many undocumented types of enemies before...<br>
+Belorussiya took the others out to intercept them, but we need to hurry up and grab as many documents as we can before getting out of here.<br>
+...Did you forget?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+We're surrounded, and we still haven't found the way out! We're in deep, deep trouble here!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+What should we do, then? We'll be annihilated for sure if we remain here.<br>
+If we head in the opposite direction of the Gate, we might just find the exit. It's better than awaiting our doom, at least...<br>
+<br>
+'''''<span style="color:black;">选择项1："Kirov's right. We need to evacuate."</span>'''''<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Then what are we waiting for? Fire up those leg-engines!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Not so fast. If we flee now, we'll be putting the commander's life at risk.<br>
+I can cover for myself, but I cannot guarantee the commander's safety if a firefight breaks out in these cramped corridors. We must reduce the enemy's numbers until it's safe enough to leave.<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Mm, I guess that's a plan.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Gremyashchy, you and Comrade Commander will stay here and gather up everything we've found! The rest of you, follow me!<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Now do you remember?<br>
+<br>
+I do, but... why did I forget in the first place? Why did I only remember just now?<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Never mind that, Belorussiya just gave us the signal. Come on, we have to–<br>
+<br>
+'''''<span style="color:black;">选择项1："Gremyashchy...?"</span>'''''<br>
+<br>
+All of a sudden, Gremyashchy vanished without a trace, as did the flashes of the firefight happening outside. They were simply gone, like they had never existed in the first place.<br>
+Simultaneously, the auditorium's monitors sprung to life, showing me what appeared to be footage of Northern Parliament girls doing battle with strange enemies.<br>
+They were enormous beasts made of black steel, but even through the high-resolution screens, their shapes were blurred as if light itself was repulsed by their grotesque forms.<br>
+The Northern Parliament girls were similarly blurry. All I could tell from looking at their contours was that they were not Kirov or Belorussiya.<br>
+Whatever the screens were showing me, it did not seem to be live footage of the battle outside. In any case, I had to contact Belorussiya.<br>
+<br>
+'''''<span style="color:black;">选择项1："Belorussiya! What's happening out there?!"</span>'''''<br>
+<span style="color:#4eb24e;">Recorded Voice：</span><br>
+.........<br>
+<br>
+That was when I realized that the button on the communicator was stuck, and no amount of pushing on it did anything. I could not contact her, and even if I could, it seemed extremely unlikely that I'd get a response.<br>
+It seemed almost as though... time had stopped.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Vox ex Machina|选项=24|主框=1|样式=primary|展开=否}}
+<br>
+The auditorium's exit was not physically blocked, but I couldn't go beyond its open doors. It's as though there was an invisible barrier, locking me in here.<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Suddenly, a hologram appeared, breaking the dead silence in the frozen room.<br>
+<br>
+'''''<span style="color:black;">选择项1："Are you... a Siren?"</span>'''''<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Those ships on the monitors, who are they?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+What is the Revolutionary Front?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Who are they fighting?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Is the enemy the Sirens?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Then what ARE the Sirens?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Who is Antiochus?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Who is commanding this fleet?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+What happened to those girls?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Were they fighting to... protect something, or someone?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+Similar to what my fleet is doing, then?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+<br>
+Is there any way to leave this facility then?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+There... isn't...?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Radiance|选项=25|主框=1|样式=primary|展开=否}}
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+Oof! These enemies don't mess around!<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Yeah, not to mention they're covered in some sort of... weird mist...<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+They look like Sirens, but there's something very different about these things!<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+If they look like Sirens and come attacking us, then as far as I'm concerned, they might as well be Sirens! <br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Well said! Either way, there's but one thing for us to do: dispatch them!<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+That's the Kirov I know! Hahaha!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Right you are! I cannot and will not rest until the revolution has come!<br>
+They are neither immune to our cannon fire, nor too fast to hit! We need only keep firing on them until they sink!<br>
+Blow them to dust, comrades! Hold the frontline until Comrade Commander and Gremyashchy have evacuated!<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Commander! Gremyashchy!<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+You finished at just the right time! I'm dying to return to the surface!<br>
+Murmansk! Tallinn! It's time to fall back!<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Will do! I was just starting to worry we'd never make it back!<br>
+Commander, this way!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Afterglow|选项=26|主框=1|样式=primary|展开=否}}
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Damn... My second turret's been disabled! How's the rest of the fleet?!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Gremyashchy and Gromky are still resting... And we're about to run out of ammo.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Murmansk and I have suffered varying degrees of damage, but we're still able to fight.<br>
+We've lost nearly all of our mass-produced ships except for the icebreaker, but... we didn't have that many to begin with, and they don't have the same maneuverability as we do.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+We'll have to make do without. I didn't expect to make it this far in, so I didn't bring as many mass-produced ships as I could have.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+We can't keep this up forever. How are we supposed to maintain our defenses while also holding the evacuation point?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Damn, I can't believe the Sirens got the best of us... I thought it was impossible for there to be enemies like these still hidden after all the surveying we did!<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+This is a terrible failure on our part, but we shall assume full responsibility. Even should we all fall, Comrade Commander must not be lost here!<br>
+Kirov, Tallinn, Gremyashchy, take the Commander aboard the icebreaker and make for the exit. Everyone else, we make our stand here!<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Sorry, Belorussiya, but I don't intend to sink without seeing what's on the other side of that iceberg!<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+We might have a better shot if we all stick together and press forward. What's your opinion, Comrade?<br>
+<br>
+'''''<span style="color:black;">选择项1："I disagree with both of those options."</span>'''''<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+...I know you don't like making sacrifices, but the world cannot afford to lose you here.<br>
+<br>
+If this is actually a "Reenactment," then there is no escape route anyway.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Reenactment? How were you able to come to that conclusion, Comrade?<br>
+<br>
+Reality is a harsh mistress. I've already tried lining up the map to the information we recorded before, and I'm not seeing an exit.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+I see... As much as I don't believe in giving up, I don't think I have the strength anymore to search for the control device for this Mirror Sea...<br>
+I'm sorry, Comrade. This might be it for us...<br>
+<br>
+'''''<span style="color:black;">选择项1："I've accepted this possibility from the moment we arrived here."</span>'''''<br>
+'''''<span style="color:black;">选择项2：<size=24>"There must be another way."</size></span>'''''<br>
+<br>
+Is there any way to leave this facility then?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+There... isn't...?<br>
+<span style="color:#ffd000;">Recorded Voice：</span><br>
+<br>
+<br>
+The lights of the city are gradually dimming, one by one!<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+You're right! So, we're supposed to hold until all the lights go out?<br>
+<br>
+Judging by how things are going, that might take a few more hours at this rate...<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Will everything disappear once the lights go out? I don't think we can hold on that long...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Don't give up so soon! We may be cornered, but we must grasp onto this lifeline and hold on to it no matter what!<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Instead of trying to retreat, we'll focus on buying as much time as possible. Commander, please continue to lead us!<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+I'll protect you, even if all I have left is my flail. Mm, that's all.<br>
+<br>
+Everyone...<br>
+<br>
+'''''<span style="color:black;">选择项1："It's been an honor to fight alongside all of you."</span>'''''<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+The feeling is mutual, Comrade.<br>
+Now, fight with everything you have until this false light is extinguished! Go!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Project Dawn|选项=27|主框=1|样式=primary|展开=否}}
+<br>
+.........<br>
+Where am I...? Back to the place where I first inserted the Wisdom Cube into the console...?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+.........Zzzzzz....<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+............zzZZZ<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+............zzZZZ<br>
+<br>
+The others are scattered across the hall, collapsed around the floor in deep slumber. None of them appear to be injured.<br>
+Their rigging is unblemished as if no battle had taken place, and their breaths were soft and quiet like dreaming children.<br>
+But what about the city of light? I remembered passing through the Gate, and...<br>
+I looked towards the place we had passed through. The passageway to the city of light had been closed off, a wall of ice with a surface that resembled a cracked mirror in its place.<br>
+I remembered searching around a mysterious facility, and interacting with some kind of terminal. I remember fighting against the Reenactment of a Siren foe... but then what happened...? My memory might be a little fuzzy because I just woke up...<br>
+—"Please fight until the last light has faded."<br>
+...What happened at the end of that battle?<br>
+In my hand was a small box of materials collected from the facility. Above all else, my friends were safe and sound.<br>
+Let's not worry about anything else right now.<br>
+I peered inside a box, and on the very top was a document with the words: "Project Dawn."<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Exchange of Opinions|选项=28|主框=1|样式=primary|展开=否}}
+<br>
+Northern Parliament “Arcana Sanctum” - Offshore<br>
+<span style="color:#4eb24e;">Gromky：</span><br>
+We're finally back! Oh, how I've missed you, fresh air~!<br>
+<span style="color:#4eb24e;">Gremyashchy：</span><br>
+Ugh... My head is still throbbing like crazy... Is everyone alright...?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+My memory also feels incomplete... I remember entering a mysterious facility in the City of Light and recovering some data, and then we ended up in a desperate battle against the enemy...<br>
+What happened at the end though? What exactly were we fighting, and how did we get back to the entrance?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I don't know... The recording equipment I brought in is completely blank. It's been running the entire time, but there's nothing but noise from the time we entered the city of light...<br>
+Our riggings have also been fixed, as if a battle had never taken place.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+But, the Commander and Gremyashchy managed to retrieve some data, right? What exactly is going on...?<br>
+<span style="color:#4eb24e;">Murmansk：</span><br>
+Let's not worry too much about the complicated stuff~ We have experts for that after all! Now, let's just be thankful we're all safe and head back to port~<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Hey, don't just leave Kirov behind... Wait, what are those ships coming towards us?<br>
+<br>
+A large fleet began to appear over the horizon. Lifted above them were the banners of the Eagle Union and Royal Navy.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+Did the Azur Lane schedule a joint exercise in our waters? I don't remember hearing anything about that...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+There definitely isn't anything of the sort. What have our outposts been doing, letting such a large fleet sail through without notifying us?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+I was told they'd be coming, but I didn't expect them to be here so soon.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I see, I see. Well, I can understand why they'd be in such a hurry.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+What do you mean, Tallinn?<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I'm talking about their beloved Commander, of course. It's been a while, hasn't it?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+That makes sense. I was afraid that our greatest secret had been compromised.<br>
+However... I must say I'm impressed by how quickly and decisively they put together this operation.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+I'm sure they suspect something. If the Iron Blood and Sakura Empire also got involved, we wouldn't be able to keep any secrets for long.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Hello, my lovely friends of the Northern Parliament! Commander, I've missed you sooooo much~!<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+To what do we owe the pleasure, comrades? I do not recall the Northern Parliament requesting aid from the Azur Lane.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Hmm... I wanted to see my Commander so badly, I just couldn't wait~☆ And besides, these are technically neutral waters, right? Nothing wrong with Sister Sara here passing through, right?<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Ahaha, of course not, comrade! We were simply doing a bit of sightseeing before bringing the Commander back to port! Would you care to accompany us?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+We'd be glad to, but could I ask you to transfer Commander to one of our ships first?<br>
+<span style="color:#4eb24e;">Washington：</span><br>
+Quite interesting to see you "sightseeing" on such a strange... ship. Is this the vessel that the Commander is on?<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+Now now, let's not be in such a hurry.<br>
+While Sovetsky Soyuz did request the presence of Comrade Commander, the decision to stay was ultimately not ours alone.<br>
+Where would the "freedom" be in not hearing out your Commander's own desires first?<br>
+<span style="color:#4eb24e;">Hornet：</span><br>
+No doubt the Northern Parliament found a reason to keep the Commander around longer...<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+What do our friends of the Royal Navy think of this?<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Her Majesty has already given her seal of approval. "My loyal subject is permitted to go to the Eagle Union," she said.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Very well. What do you want to do, Comrade?<br>
+<br>
+(What should I say...?)<br>
+<br>
+'''''<span style="color:black;">选择项1："I'll go with them."</span>'''''<br>
+'''''<span style="color:black;">选择项2："I want to stay here."</span>'''''<br>
+<br>
+(Or so I'd like to say... But I don't think there's a way to keep this from turning ugly...)<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Oh my. Nobody told me that we'd have guests over.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Soyuz? Weren't you supposed to be at a meeting?<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Yes, and at the meeting, an urgent request for the Commander was brought up.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+From Her Majesty? Ugh...<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+After much deliberation, the Northern Parliament has agreed to transfer the Commander to the Eagle Union.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+What...?! How could you make a decision like that?<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Belorussiya, I will explain the details to you in full at a later time.<br>
+Commander, thank you for everything you've done for the Northern Parliament. May we fight again side by side.<br>
+<span style="color:#4eb24e;">Tallinn：</span><br>
+I guess that's it, then. Don't get yourself killed out there.<br>
+<span style="color:#4eb24e;">Kirov：</span><br>
+You're always welcome here, Comrade! Maybe next time, you can come visit as a tourist!<br>
+<br>
+...Thank you. I won't forget my time here.<br>
+Looking back upon their warm hospitality and the arduous battles we had overcome together, I felt a pang in my heart from having to leave my new friends. However, the Eagle Union needed me...<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Commander, let's head back to port with the others!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Awakening|选项=29|主框=1|样式=primary|展开=否}}
+<span style="color:#ffd000;">Aoste ：</span><br>
+I heard you've made a major breakthrough in your research, Dr. Anzeel.<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+You heard right. I finally have some insight into the phenomenon of cognitive awakening.<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+That again? This "cognitive awakening" is nothing more than a flight of fancy. Higher emotions cannot exist within these simulacra of yours.<br>
+Or, did you finally find evidence to show that this "cognitive awakening" is real?<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+Not yet... But soon! I just need a little more time...!<br>
+<span style="color:#ffd000;">Aoste ：</span><br>
+...How many times have you said this?<br>
+<span style="color:#ffd000;">Anzeel ：</span><br>
+I'm sure of it this time! *cough* *cough*...<br>
+If we can find a human with high enough attunement to the Wisdom Cubes... then I'm sure we'll be able to...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Priority|选项=30|主框=1|样式=primary|展开=否}}
+<br>
+<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Through our expedition into the Arcana Sanctum, we've all seen firsthand how anomalous an existence the Commander is.<br>
+The Commander's attunement to Wisdom Cubes not only affects shipgirls, but also devices powered by Wisdom Cubes.<br>
+Lasting changes have already been observed in the Sanctum, something we could not bring about despite all our efforts.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+Do you think that the Commander is the "seed of change" mentioned in the documents?<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+I cannot say for sure. We may arrive at a clearer understanding after analyzing all the data we've collected.<br>
+Whether or not the Commander will become this seed... is not something that we can decide.<br>
+Now that there are no outsiders here, I shall speak frankly.<br>
+As long as the endless war between the Northern Parliament and the Sirens persists, there can be no future for our people.<br>
+Even with the advantages we have currently, the Sirens' infinite adaptability will eventually overwhelm us.<br>
+We've used everything to try to secure our future. The aid of the Azur Lane. The technology of the Crimson Axis. Even the secrets of the Sirens and the Ashes.<br>
+But now we know, the Commander has gained the "Key" from the Arcana Sanctum.<br>
+We must now turn this key together and grasp the possibilities that open up before us.<br>
+<span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
+If that is the case, why didn't we pull some strings to keep the Commander here a bit longer?<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+The Royal Navy and the Eagle Union have not yet grasped the Commander's true worth. Were they to do so... I fear we may not ever meet again.<br>
+We are viewed with distrust from the outside, but the Commander has given us a way forward.<br>
+<span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
+...You're right. We can't squander this opportunity that the Commander earned for us.<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+For the sake of the Northern Parliament, nay, for humanity itself, we must seek every advantage.<br>
+To these ends, the Commander's assistance is indispensable, and we must squeeze everything we can from this "Key."<br>
+But that is something reserved for the future. For now, we must be practical and do the things we ought to do. <br>
+Study these materials well. Do not waste the light of dawn that the Commander has given us—<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Convergence|选项=31|主框=1|样式=primary|展开=否}}
+<span style="color:#ec5d53;">Observer zero：</span><br>
+And the conclusion...?<br>
+<span style="color:#ec5d53;">empress：</span><br>
+The one known as the "Commander" is in fact unique.<br>
+Three times, the one known as the "Commander" vanished from this world, albeit for a few microseconds.<br>
+Disappeared, then reappeared, with no fluctuations in energy. As if the world was rejecting its existence, then re-accepting it.<br>
+<span style="color:#ec5d53;">Observer zero：</span><br>
+This timeline did not diverge then, but rather is being pruned...<br>
+<span style="color:#ec5d53;">empress：</span><br>
+If this phenomenon is real, then there is much for us to consider.<br>
+<span style="color:#ec5d53;">Observer zero：</span><br>
+Indeed.<br>
+<span style="color:#ec5d53;">empress：</span><br>
+Your other intuition proved correct as well. The Observer's Reenactment was compromised.<br>
+The work of the Arbiters cannot be detected by even the most unique of Observers... Even the one in this timeline.<br>
+<span style="color:#ec5d53;">Observer zero：</span><br>
+Continue to monitor the experiment, and stay concealed. You are forbidden from interfering in it. Another Arbiter will be sent to deal with Code G.<br>
+A large number of variables that cannot be empirically determined have begun to converge upon a single timeline. We must handle this situation with extreme caution.<br>
+.........<br>
+What exactly did you see... "Commander?"<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

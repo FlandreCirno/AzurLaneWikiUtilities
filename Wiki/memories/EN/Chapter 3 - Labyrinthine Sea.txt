@@ -1,0 +1,459 @@
+== Chapter 3 - Labyrinthine Sea ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Detached Force|选项=1|主框=1|样式=primary|展开=否}}
+<br>
+NA Ocean - Sector under Eagle Union jurisdiction<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Essex, the Commander has set off with the fleet. We should depart soon too.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Right, but please remember that this battle is not meant to be an assault on the Siren stronghold, but rather a sector sweep to clear the NA Ocean of all Siren presence.<br>
+Our task is to clear out zone C, which is in the Northwest sector, and then establish two Outposts for the final offensive.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+The Eagle Union is far stronger than it was last time we saw the Sirens. Let's show them how much we've improved!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Good to see that you're motivated, Intrepid. The Sirens have basically completely abandoned their offshore blockade, so the initial few battles should be fairly easy.<br>
+However, it will get harder after that... The central sector has been occupied by Sirens for a long time, and they might have laid traps in that time. Don't underestimate them.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+There is one more thing that naval command wants us to pay special attention to.<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+The Iron Blood fleet's suspicious activity, I assume?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Yep. The whereabouts of Tirpitz's fleet is still unknown, and we don't even know whether they're Pawns or not, which is a big, security-threatening question mark...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+I don't get it. Why would an Iron Blood fleet waltz into OUR area of operations anyway?<br>
+If it's to assist in Operation Siren, they could've at least contacted us about it. Hell, then we could've worked together...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I doubt they came here simply to assist us. This is Iron Blood we're talking about, the faction led by Friedrich and Bismarck.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+There's bound to be layers of complexity to the situation, because of course there has to be. In any case, we have little choice but to investigate.<br>
+Well, investigate as much as we can. Our primary goal is to secure this zone.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+We'll find the Iron Blood fleet sooner or later, and when we do, we can ask them what their intentions are.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=TB Systems Test|选项=2|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Communications request from Saratoga received. An encrypted channel is ready to be established. What do you wish to do?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Whuah?! Oh, right, I forgot they installed an AI into our systems... Gonna take some time getting used to that...<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Communications request from Saratoga received. An encrypted channel is ready to be established. What do you wish to do?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Oops, uhh... Open a channel, I guess?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+This is Sara! Just testing out your comms. How's it going with TB? Are you all starting to get used to her?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+This is Essex. No issues with any of her practical functions, but... sometimes her mannerisms feel just a bit too lifelike for a computer program.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Are you sure HQ didn't just pick out a junior officer, dress her up, and present her as an auxiliary system to joke with us?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+I know it might seem weird, but TB isn't just someone in a disguise! I don't know the specifics, but they apparently went with a cute design to facilitate user-to-interface communication.<br>
+Function-wise, she's cutting-edge! They spared no expensive developing in reliable systems for her. For starters, she's able to connect to Siren devices, and provides automatic shielding against Siren interference.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Shield against Siren interference? That's incredibly useful... assuming it works in practice. They're calling this a test run of her systems for a reason.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+You'll see for yourself sooner or later! On another note... Essex, I heard that Enterprise and the Commander have managed to have already cleared their assigned zone.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+What?! That means we're lagging behind in progress! ...I can't let them make us look like second-raters. We'll pick up the pace from here on out!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+That's the spirit! Make quick work of those Sirens, and report back when you're done. Sara, over and out!<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+Hmm... I still have my doubts about whether TB truly is an AI or not, but I can say with certainty that her systems and database access will be of significant strategic benefit.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+We can speculate more on that later. For now, let's focus on wiping out these low-level Sirens. We can't let Enterprise put our task force to shame!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Iron Blood's Movements|选项=3|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Hmm... I can't complain about being served an easy victory on a silver platter, but... it feels TOO easy.<br>
+You'd think we'd have run into a new Siren this deep into their territory, or at least come across a force that poses some semblence of a threat.<br>
+Are they just going to take it lying down...?<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+After having fought them for so long, this is the first time I feel we have a big technological and strategic advantage over the Sirens.<br>
+Their unit deployment is so bizarrely unconventional... It's as though they're just clearing out their old stock.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Hey, yeah, you're right... It's not like they're deploying fewer fleets, more like they just never deployed any of their stronger elite units!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Something fishy is going on here. They're only doing the bare minimum to give off the impression of a counterattack while essentially letting us waltz in and retake territory.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The Sirens' chain of command is nowhere to be seen, and we still have no idea about the whereabouts of the Iron Blood's fleet...<br>
+I can't help but feel this is all part of a clever ploy that we just can't grasp with the intel we have now...<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Well, speaking of intel and the Iron Blood fleet, I just came across an unverified report.<br>
+Allegedly, not long after the attack on Scarpa Bay ended, an Iron Blood fleet embarked on a secret mission through the canal into the Eritrean Sea. 。<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+The Eritrean Sea? Why? Are they just acting without rhyme or reason, like the Sirens are now?<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+Our defenses have always been rather lackluster in that sector. You don't think they're planning on taking the long way around to attack our west coast, are they?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+TB, what's your take on this?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Parsing request... Complete. No definite conclusion can be drawn based on currently available data.<br>
+The Eritrean Sea has always been under the joint responsibility of the Royal Navy and Dragon Empery. Do you wish to submit an official query to these authorities?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Err... No, just thought I'd ask. Never mind. Let's get back to the more pressing operation at hand.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You gotta hand it to TB though. It's incredible how much data she can fetch and parse if you just ask her.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+It is my duty to provide analysis and facilitate communication upon a user's request. I am glad to be of assistance.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Allied Activity?|选项=4|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Scan complete. An allied signal has been detected. Profile matches that of Ark Royal of the Royal Navy.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+What? But this sector is under our jurisdiction... Why would Ark Royal be here?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Maybe she's lost? The NA Ocean is massive, after all. TB, is she alone, or are there any other ships accompanying her?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Scanning... Complete. No other signals have been detected. Only the signal matching Ark Royal's profile can be detected.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+So it's only her... Something's not right here. Let's send out a few recon planes to keep an eye on her.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Jamming|选项=5|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Scan complete. Unit identified as Ark Royal is being pursued by a large number of hostiles.<br>
+Warning: Connection to mainframe has been lost. Resuming in offline mode.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+We lost connection?! What happened, TB?!<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Detecting Siren electronic interference. Readings indicate that a hostile presence is moving toward this location.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Sirens...! I should've known. It was only a matter of time before they showed their hand...<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+This seems like a good time to test our anti-jamming function to see how well it works.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Wasn't it supposed to be automatic? ...Did TB disable it and let us get jammed?<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+It's more probable that it simply wasn't automatic, or it failed. They did task us with testing TB's systems after all.<br>
+In a way, I'm relieved that her anti-jamming system failed. That means her coding is flawed, but flaws can be fixed.<br>
+Imagine if she worked perfectly all the time. Wouldn't that be a cause for concern? That could suggest the Sirens have a backdoor into her system and are saving it as an ace up their sleeve.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+In that sense, yeah. When things work TOO smoothly, you get complacent, and that's how they get you.<br>
+...We're getting sidetracked! What about Ark Royal? Should we link up and assist her, or what?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Yeah, let's go! We can catch up with Cleveland's fleet later; Ark Royal needs help, and quick!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Relief|选项=6|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Cooper：</span><br>
+Hey, Cleveland! There's even more Siren wrecks here!<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+Really? Man... I would've stayed home if I'd known someone would do all our work for us.<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+Looks like they didn't dunk on just the Sirens, but all their facilities, too.<br>
+It's hard to say who did this, but it can't have been Ark Royal. The damage is just way too extensive to have been caused by her alone.<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+True that... What's even weirder is, she's not showing up on radar.<br>
+Let's look around a little more, maybe we'll find some answers! Be on your guards, guys!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Suspicions|选项=7|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Cleveland：</span><br>
+Yikes, looks like someone had a real beef with this Siren device.<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+It's still burning, too... Whoever broke it, they must've been here very recently!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+What's the purpose of this facility, anyway?<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+Beats me. Everything the Sirens get up to feels like 4D chess to me.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Doubt they'd give us a straight answer if we asked either...<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+Guys, check this out! I scavenged this off one of the Siren wrecks!<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+What is that? A crystal...?<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+It's no Siren tech, that's for sure! Do you think it might've belonged to Ark Royal?<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+I mean, maybe... But then how'd it end up in the hands of a Siren?<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+If I had to fathom a guess, they might actually have been trying to take it from her. That would explain why they were chasing her.<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+Sounds plausible, at least. But how does that tie into these wrecks? These are ancient Siren models...<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+...Cleve! I've got something on the radar! It's a fresh batch of Sirens!<br>
+We need to get in formation and– Wait... Huh?<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Detecting tons of Sirens appearing at close range! ...But where are they?<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+We should have a clear visual on them! What's going on here?!<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+Seas are dead quiet, too. All signs point toward some kind of radar error.<br>
+Because if our radars were correct, we'd be surrounded on all sides...<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+One of the signals just moved! ...Through a structure, no less?! What the heck!<br>
+A-are we dealing with actual ghosts?! ...Do our cannons work against ghosts?<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+Relax. I'd sooner bet on radar interference or equipment malfunction.<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+Didn't TB send out some notification about Siren jamming just earlier?<br>
+If there's jamming going on, maybe that Ark Royal signal was just an error too.<br>
+<span style="color:#4eb24e;">Montpelier：</span><br>
+Just as we think we've managed to engineer unjammable equipment, the Sirens show up and immediately prove us wrong...<br>
+Seeing as our radars have been compromised, we should probably assume our comms have been too, to some degree.<br>
+...Actually, I might be being overly paranoid. Let's focus on the facts: we haven't confirmed Ark Royal is here, but we DO know someone did attack this Siren facility.<br>
+The question is: who? Who's so powerful they can take out all these Sirens without even leaving a single trace that they were here?<br>
+<span style="color:#4eb24e;">Cleveland：</span><br>
+No clue, but I wouldn't wanna make foes with them... Anyway, we should report our findings to the Commander.<br>
+While we're at, we should ask for new orders. We're kinda just speculating right now.<br>
+Everyone ready? Let's go find the Commander!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Weather Task Force|选项=8|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Intrepid：</span><br>
+...What? Investigating the weather, of all things?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Yeah. Don't you remember? It's written in the operation documents. "Investigate the abnormal weather phenomena at the destroyed Siren Research Facility."<br>
+Cleveland's fleet took it upon themselves to do just that, from the sound of it.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+No! Operation Siren is a united offensive against the Sirens! We're supposed to stick together, not divide our forces across vast distances!<br>
+The rest of the operation will be affected if you keep Cleveland's fleet there, doing dumb weather reconnaissance!<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+Furthermore, what if Ark Royal's signal and the destroyed Siren facilities are a trap meant to lure Cleveland's fleet in? That would put them in even graver danger than they are already.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+You know, I actually agree. I think this directive isn't worth pursuing, at least not now. Essex? What do you think?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I think... it IS worth pursuing.<br>
+Sure, it might be a trap, but we need all the intel we can get for Operation Siren to be a success. That said...<br>
+They shouldn't be out there by themselves. We'll head there to back them up in just a while.<br>
+If Enterprise were in my shoes... that's probably what she would do!<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+System rebooting... Complete. Jamming has ceased. Wide-area scan revealed no abnormalities.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Look at that, TB is back online! All right, let's continue with securing this zone so we can come to Cleveland's aid at any time.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Phantoms|选项=9|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Numerous hostiles have been detected. Proceed with caution.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You sure? My recon planes in the air haven't spotted anything...<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Update to data processing program required. Calculating time requirement...<br>
+Complete. This signal type will be treated as a form of Siren jamming. Reboot required to update definitions...<br>
+Complete. System jamming has been detected. Initiating anti-jamming program.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Is this the "ghost signal" Cleveland's fleet reported earlier? I'll admit, the things it does to the radar is pretty spooky...<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Transferring interference pattern data to headquarters...<br>
+Error: Data package could not be sent. Connection with headquarters could not be established.<br>
+Connection to mainframe has been lost. Resuming in offline mode.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Dammit! Not again!<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+I apologize for the inconvenience.<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+I can't help but wonder: what are the Sirens trying to achieve with this jamming?<br>
+If it's meant to impede our progress, then there are more effective ways to do that... I'm almost inclined to believe they're just flaunting what they're capable of.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Essex, what do we do if we don't run into any Sirens soon?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Then we just reclaim the zone, simple as that. Whether we fight them now or later doesn't matter much, we'll run into Sirens sooner or later.<br>
+I will say though, it's bizarre that we've come this close to the center of the NA Ocean and hardly done any fighting at all.<br>
+Don't get me wrong, it's better than the alternative, but I'm worried that they might be amassing their forces somewhere...<br>
+...Anyway, let's get back to our objective: reclaiming the zone, then searching around for the source of this jamming.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Arbiter|选项=10|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">TB ：</span><br>
+Communications request received. Its sender could not be identified.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Hidden caller ID? I think we all know better than to answer that.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Sending a communications request out of nowhere and refusing to identify themselves... Sounds like the work of the Sirens' Omitter.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I agree. TB, deny the communications request.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. Incoming communications request has been rejected.<br>
+<span style="color:#ec5d53;">Communicator：</span><br>
+Brrzzzt...<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+You cannot reject me.<br>
+Hear my word, all you within this region. I am Arbiter. Lay down your arms and surrender. Resistance is futile.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Arbiter?! So you're with the Sirens, huh?<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Sirens? I've heard of that name before... But I prefer to be known as "Antiochus."<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+Antiochus? The Ashes have used that word before...<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+In full, my name is Arbiter: Temperance ⅩⅣ. If you insist on titles, then call me by this one.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+What a mouthful... You're the one jamming TB's systems, aren't you?!<br>
+<span style="color:#ec5d53;">Arbiter: Temperance XIV：</span><br>
+Her anti-jamming measures were an amusing little puzzle. But I have had enough with puzzles.<br>
+This is your last warning. Lay down your arms and surrender. Resistance is futile.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Yeah, like we're going to do what some random voice over the radio tells us!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+We're not surrendering to anyone! Now show yourself, "Arbiter"!<br>
+You're tired of puzzles, are you? Then come out and fight us on equal terms!<br>
+<span style="color:#ec5d53;">Arbiter: Temperance XIV：</span><br>
+I offered you the easy way, and you rejected it. If I must beat you into submission, then I shall.<br>
+But... fight you on equal terms? Don't make me laugh. There is no fairness in war.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Sender has closed the communications channel.<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+TB, can you check the mainframe's database for info on Antiochus and this "Arbiter"?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. Mainframe database is unavailable in offline mode. Searching through local database...<br>
+No results found in local database. Attempting to reconnect with mainframe...<br>
+Connection could not be established due to electronic interference. Order could not be executed.<br>
+Warning: Multiple Siren signals have been detected.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Again? How long are they gonna keep messing with us like this?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+No... This time, they're not messing around. Look, we have a visual on them.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Say what?! Do the Sirens have fricking optical camouflage now or something?!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Well... this disproves that whole theory about Mirror Seas being the only thing that can dimensionally displace organic matter.<br>
+Or maybe they've already formed a Mirror Sea around us...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+In any case, we have to deal with these Sirens to secure the zone. Everyone, try to contact other fleets in the region and request backup!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+...Not happening. Our signals aren't coming through due to Arbiter's jamming...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+That doesn't leave us with much choice but to locate and destroy the jammer, then...!<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+I apologize for this...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+It's not your fault, TB. Besides, it's not the first time we've been in this sort of situation.<br>
+We'll be fine, don't worry. Now let's show these Sirens what we're really made of!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Backup|选项=11|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Intrepid：</span><br>
+A new type of Siren...!<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+It... seems to be an improved version of the Obstructor...!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Looks a lot stronger than the basic Sirens we've fought so far! Be careful, everyone!<br>
+My aircraft are performing at well below average because of all the electronic interference... Essex, should we retreat?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Not yet! Just keep a low altitude and make every bomb count! Agh, where are our battleships?! We need them!<br>
+<br>
+KABOOOOM!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+There they are! And thank goodness for it!<br>
+<span style="color:#4eb24e;">South Dakota：</span><br>
+Essex! At last, we found you!<br>
+We came running as quick as we could after we got word from the Commander about jamming in the area. Had our own comms not been compromised, we would've arrived sooner!<br>
+<span style="color:#4eb24e;">Massachusetts：</span><br>
+Carriers fighting Sirens at close quarters... Novel. I like it.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+If we could've kept our distance, we would've!<br>
+<span style="color:#4eb24e;">South Dakota：</span><br>
+Of course. What's your status? Any injuries?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Our aircraft and weaponry are fine, but all our electronics are disabled and we're stuck here. You came right in the nick of time.<br>
+We're presumably dealing with an upgraded version of the Obstructor! Watch yourselves!<br>
+<span style="color:#4eb24e;">Alabama：</span><br>
+Don't you worry now. Us battleships can handle a jammin' without too much trouble.<br>
+<span style="color:#4eb24e;">Massachusetts：</span><br>
+We'll draw their fire. Carriers, fall back and try to provide support with your aircraft if you can.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Got it! We're counting on you!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Precise Measurements|选项=12|主框=1|样式=primary|展开=否}}
+<span style="color:#ec5d53;">Arbiter: Temperance XIV：</span><br>
+It seems a lone Enforcer will not suffice. Then let us add another...<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Temperance, we've found a clue as to Code G's whereabouts. It's time to stop playing around.<br>
+<span style="color:#ec5d53;">Arbiter: Temperance XIV：</span><br>
+At last. Enforcer, disappear.<br>
+<span style="color:#4eb24e;">South Dakota：</span><br>
+The Sirens... vanished.<br>
+Now I see. They have some combination of radar presence negation, optic camouflage, and some sort of tech that negates the waves caused by their movement.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+If they've got all that, then it's no wonder we didn't detect them until they were right in our faces.<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+I remember Tester having access to optic camouflage as well, but that's not on the same scale as concealing an entire fleet of mass-produced units...<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Jamming countermeasure has been devised. System will reboot momentarily. Do you wish to send a data log of your previous battle to the Commander?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Obviously, yes. Send it to naval headquarters too.<br>
+As it stands, we can't possibly defeat THOSE Sirens just by ourselves...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Hey... Am I imagining things, or did almost every Siren wreck just... disappear?<br>
+<span style="color:#4eb24e;">Massachusetts：</span><br>
+Huh... Now that you mention it, yeah.<br>
+Doesn't look like we'll get to gather many samples now...<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+We won't be able to analyze these new Siren models this way... The next time they attack, we'll be no wiser than we are now.<br>
+<span style="color:#4eb24e;">South Dakota：</span><br>
+At the very least, we took a considerable amount of them out. I doubt they will attack us again right away.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Either way, we can't get careless. South Dakota, follow us to the planned spot for the Outpost.<br>
+Once we establish an Outpost and gain a foothold in this zone, we'll be able to repair our electronics. We just have to keep going until then.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Focused Offensive|选项=13|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Essex：</span><br>
+Here it is, the place we're going to build the Outpost. We're getting pretty near the center of the NA Ocean now.<br>
+If we can also set up a supply base here, it should make it a lot easier to sustain an offensive on the Sirens' stronghold.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+This isn't the only place we're building an Outpost, you know. Every faction is building their own in each sector surrounding the center.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Attacking from all directions? Now that's what I call a united offensive. The Sirens will crumble under the sheer firepower.<br>
+When we all attack at once, boy, it'll be the biggest sortie anyone's ever seen...<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+If we ALL would attack at once, we wouldn't need to first force the Sirens back.<br>
+As long as the Crimson Axis exists, we're reliant on the Commander bringing all the factions' ships together under the same banner.<br>
+That aside, as we get closer to establishing Outposts in each sector, there's still one big question with no answer in sight...<br>
+<span style="color:#4eb24e;">Shangri-La：</span><br>
+You mean the Ashes, correct? I believe the Commander's fleet ran into one of their members earlier.<br>
+They are, indeed, a mystery. I can't even fathom a guess as to why they're in the NA Ocean...<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Naval command wanted to keep the existence of the Ashes a secret, but... well, that's not really possible with how much they make their presence known.<br>
+It's only a matter of time before they start considering ways to deal with them. Which, of course, will mean more paperwork for me...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Hang in there, Memphis... On another note, I've been thinking about something. Did you notice how we haven't been jammed since we fought off Arbiter's units?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+What about it? Isn't that a good thing?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Well, yeah, but shortly after the jamming stopped, a regular Siren fleet turned up and engaged us.<br>
+And they weren't factory seconds either. They put up a decent fight.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Are you... saying that Arbiter's jamming affects ordinary Sirens too? Or maybe that Arbiter repaired whatever was causing disarray in the Sirens' chain of command?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+I'm not sure which of those two is more accurate, but maybe the latter. The Sirens were sloppy ever since this operation began, and maybe Arbiter just fixed whatever was wrong.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Speculate in your spare time, you two! Focus! We still need to clear this zone of Sirens and establish the Outpost!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Rest|选项=14|主框=1|样式=primary|展开=否}}
+<br>
+NA Ocean SW Sector - Outpost construction site<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Hey, Saratoga, what are these ships? The transports for the materials and workers that will build the Outpost?<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+You got it! And don't forget the logistics team needed to sustain this operation! Which, by the way, yours truly is a member of!<br>
+Hey, I know what you all could use after all your hard work! Nice, cold ice cream!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I-ice cream? Why, thank you!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+And that's not all you'll find at the Outpost! There's also a lounge area with entertainment, a cafeteria with snacks and drinks, and a recreation room to relax after a day of hard fighting!<br>
+Speaking of drinks, we've got some hot coffee for you as well. With or without sugar, Memphis?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Just hand me the cup, please. Knowing you, you'd add salt instead of sugar just as a prank.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Hey now, I wouldn't stoop THAT low! That's just mean! How about you, Essex? Want some coffee?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Yes, please.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Here you are! Now head to the provisionary dorm and get yourselves some rest.<br>
+The Outpost's facilities will receive an upgrade once the next stage of Operation Siren commences. Look forward to it!<br>
+The facilities we have now might be pretty basic, but as we reclaim more zones and establish supply routes, the resources available to us will increase!<br>
+...All that is to say, just have faith in me and the Commander!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Will do. Looking forward to seeing what the upgraded Outpost will be like!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+That's the kind of enthusiasm I want to hear! Now, you must all be dead tired after fighting the Sirens for so long.<br>
+So just get comfy and have yourselves a rest while we await new orders!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

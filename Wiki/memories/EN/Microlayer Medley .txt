@@ -1,0 +1,1278 @@
+== Microlayer Medley  ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Bridge|选项=1|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Communication：</span><br>
+This is NY City. Requesting status report, over.<br>
+This is Baltimore. We are en route to the Canal Stronghold. We've sent you our coordinates, over.<br>
+NY City copies. We've received your location. Keep the channels open, over.<br>
+This is NY City. Requesting status report, over.<br>
+This is Memphis. No abnormalities detected so far. Seems like another peaceful day, over.<br>
+That's good... But according to our weather reports, a strange mist has been forming along your route, over.<br>
+Understood. We'll keep our eyes peeled, over.<br>
+This is NY City. Requesting status report, over.<br>
+.........<br>
+Baltimore Fleet, this is NY City. Requesting response, over.<br>
+This is NY City. Baltimore Fleet, do you copy? Over.<br>
+Baltimore, Helena, Memphis, this is NY City. Requesting response, over.<br>
+Repeating, this is NY City. If you copy, please resp...<br>
+Bzzzzzt... Bzzzt...<br>
+This is... encountered Sirens... the Canal Stronghold... requesting immediate...<br>
+Repeat... urgent... requesting immediate...<br>
+<br>
+A stronghold sits upon the canal that links two great oceans.<br>
+Its crucial role is to protect this vital route.<br>
+Knowing this, the Sirens have launched many attacks against it, only to be repelled each time.<br>
+Various patrols and defenses were put into place to deter them. <br>
+But now, a mysterious fog has begun to permeate the entire area.<br>
+To rescue a fleet that has been swallowed by the dark mist...<br>
+The warriors of the Eagle Union must once again push forward into the destruction that awaits...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Rescue Fleet|选项=2|主框=1|样式=primary|展开=否}}
+<br>
+A few days ago, a patrol fleet lead by Baltimore suddenly went missing in a mysterious fog en route to the Canal Stronghold.<br>
+A rescue fleet was immediately formed to locate the missing fleet, and to lend aid to the stronghold.<br>
+Canal Stronghold - Surrounding waters<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+So this is the legendary Canal Stronghold? I've heard all sorts of rumors about it, but it's even more awesome seeing it in person!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Bremerton, have you never left NY City in your life? How have you never been here before?<br>
+In any case, this stronghold is a crucial holdout against the Sirens because of how important the canal is, so of course it's gotta be big.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+That's right. The safety of this canal is not just vitally important for the armed forces. The civilians depend on it as well.<br>
+That's why we can't spare any expenses in preparing for a large-scale Siren assault.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+I see... I'm still worried about Baltimore and the others though...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+We've almost arrived at the fortress, but there still hasn't been a single trace of Siren activity...<br>
+There's no way Baltimore and the others would allow themselves to be captured without a fight, but there's no sign of a battle anywhere...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Do you think they got trapped in a Mirror Sea? This fog appearing out of nowhere clearly isn't normal.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I don't think that's likely. Normally, all communications are cut off from the Mirror Sea. However, I've been receiving a string of messages.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Furthermore, a convoy that was patrolling the canal safely arrived at the stronghold, even having to go through the mist.<br>
+However, it was mentioned that the mist was so expansive that its size couldn't be accurately assessed from coastal monitoring stations.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+In other words, their communication equipment started to fail after entering the fog, and then they encountered Sirens... This sure doesn't smell like a coincidence to me.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I agree... What do you think, Enterprise?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+I'm with Intrepid. This situation is no accident.<br>
+However, given the present conditions, we don't have a lead as to where to start searching, and we can't cover this entire area.<br>
+For the time being, let's head back and join up with the stronghold reinforcement fleet. We can organize our information and then draft a rescue plan.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Stronghold|选项=3|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold - Surrounding waters<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+I'm Bunker Hill of the Essex-class, and I am in charge of the stronghold reinforcement fleet.<br>
+(whispers) Um... What should I say next...<br>
+Ahem... Thank you for coming all the way out here...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You don't have to read off the script, you know...<br>
+We're all family here, so just take it easy.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Long time no see, Bunker Hill.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Indeed. It's good to see you all, Essex, Intrepid, and, uh...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Just Enterprise is fine. Don't worry about the formalities.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Thanks. In any case, looks like everyone is here except for Bluegill, who's still out on patrol.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Allen M. Sumner-class destroyer, Cooper here! You all must be tired from sailing all the way down here! ...Wait, where's the Commander?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+The Commander is with Saratoga for a joint operation with the Northern Parliament. We wouldn't be able to recall the Commander for a task like this.<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+That's too bad~ I heard your commander was a total stud~<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+So, the main hero isn't here, huh... I suppose this is one of those side stories when the sidekicks get to take front and center.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Don't worry about it, Reno! As long as I'm here, everything's gonna go swimmingly!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+That Northern Parliament, where engines freeze over and stop working? Guh... just hearing about it makes me cold.<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Even if it gets below zero there, it's not like we don't have airfields that get that chilly as well. Trust me, there's no way an engine would suddenly freeze over and stop working just because of the temperature.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+You sure know your stuff... Ahaha.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You didn't come across as the knowledgeable type, Marblehead...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Ahem... Let's continue our chat inside.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Booyah! We also have some tropical punch inside!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Since we're just standing around here anyways, we might as well head inside.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+That's right. Besides, we need to get around to drafting our rescue plan... Right, Enterprise?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Huh? Oh, sorry. I was thinking about something.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Oh? Is something bothering you, Enterprise?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+It's no big deal. After this, let's all help search.<br>
+There's a lot of territory to cover just to the east of the canal. We're going to have our work cut out for us.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Deep in Thought|选项=4|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold - Eastern region<br>
+With the help of her allies, Enterprise launched a search in the waters to the east of the Canal Stronghold.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+...An entire fleet, vanished without a trace. And a mysterious SOS signal...<br>
+According to Baltimore's message, they did in fact encounter Sirens. We've found no signs of any sort of battle despite that.<br>
+So far, we've known that our communications equipment always breaks down when entering a Mirror Sea. However...<br>
+If you can't count on that assumption...<br>
+Doesn't that only make this phenomenon even more suspicious?<br>
+Think harder. It's normal for fog to roll in along the coast, but there's no way it should extend so far out to sea.<br>
+What could it mean...<br>
+No... could something like that be possible...?!<br>
+The mist was originally created by the Sirens, but its purpose is not necessarily to jam our equipment...<br>
+But to dare us to use it, to lure me into a trap...!<br>
+<br>
+Before she could finish her thought, Enterprise's surroundings quickly became enveloped in a thick, white mist.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+When did they find me?!<br>
+So, the Sirens were behind this after all...<br>
+<br>
+……………………<br>
+………………………………<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Disappearance|选项=5|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Enterprise still hasn't come back yet...<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Well, I'm sure she just stopped to smell the roses somewhere. Pretty beautiful place we've got around here.<br>
+Don't you think she's always a bit too enthusiastic about her work? Probably would do her good to take it easy for a bit.<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Even superheroes need to rest after all. I'd love to go to the top of a skyscraper and look all the way around, so I totally get it.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+...All right, about this mission assignment...<br>
+Bremerton and I will lead the first fleet, while Enterprise and Essex will lead the second fleet.<br>
+Our mission is to search for Baltimore's missing fleet while also preparing for a Siren assault.<br>
+Should be straightforward enough. But, is Enterprise not back yet?<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+What should we do? Maybe try to contact her first?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+That won't be necessary. Let's set sail and regroup with her. If we just follow her route, we're sure to meet up at some point.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(Essex sure gets hot-headed when it comes to Enterprise, just like always...)<br>
+Let me head out first. Since you're the leader, there's no need for you to do the scouting.<br>
+Enterprise... where are you...?<br>
+I even got a special local coffee blend from Marblehead. I know how much you like coffee...<br>
+Huh?<br>
+Parts... from Enterprise's rigging?<br>
+<span style="color:#4eb24e;">Narration：</span><br>
+Various parts that looked like they were from Enterprise's rigging were scattered in the water.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Doesn't look like you got into a fight... so did you just drop this stuff on accident?<br>
+No no, that's impossible. Enterprise isn't a scatterbrain like me...<br>
+<span style="color:#4eb24e;">Narration：</span><br>
+"Siren forces have been detected in the waters around the Canal Stronghold! All hands, prepare for battle immediately!"<br>
+"Repeat, Siren forces have surrounded us! Prepare for battle immediately!"<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Showing up now of all times?! So they were aiming for the stronghold after all...!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ambush|选项=6|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold - Surrounding waters<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Intrepid, I've cleared out the Sirens over here as well!<br>
+As much as I enjoy being backed up by the stronghold's supporting fire, if there's anything I learned from what happened at the NY Defense Line, it's that the enemies will keep coming unless we take the fight to them.<br>
+By the way, did you find Enterprise?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Nope. Only found these parts...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+What in the world happened, Enterprise...<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Enterprise isn't responding to the communication I sent earlier...<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Do you think this has something to do with the Siren attack? Maybe she got pulled into a Mirror Sea as well.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Slowly whittling our forces down until they can launch an all-out attack against the stronghold...<br>
+Damn... that means Baltimore's also trapped in a Mirror Sea?!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+No way...!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Curses! What has my terrible luck wrought upon us...?!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Now now, this was bound to happen sooner or later. If you're worried about it, then you should hurry up and smash these Sirens to bits.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+...Right. Now is no time to hesitate.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Um, so the game plan is, take out the Siren's ringleader, and resume the search operation?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Exactly! I'm sure Bunker Hill's fleet is thinking the same thing!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Creeping Mist|选项=7|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Cooper：</span><br>
+One point to Cooper, zero to the Sirens!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+"Intrepid copies. I see Bunker Hill is looking for Enterprise as well."<br>
+Essex, the others also encountered Sirens, but it seems like they managed to win without any issues.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Good. But even if we defeat these Sirens, that doesn't tell us where Enterprise is...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+I already checked with the stronghold's intel. Doesn't seem like Enterprise went through the canal at any point.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+This is turning out to be quite the mystery... Luckily, Detective Cooper is on the case!<br>
+My deductions might be a bit rough, but... Wait, huh? What is this fog...<br>
+<br>
+Suddenly, the sea became blanketed in a white mist.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Baltimore also went missing in a thick fog...<br>
+Huh? How'd the fog spread here so quickly?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fragments I|选项=8|主框=1|样式=primary|展开=否}}
+<br>
+??? ???<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Ugh... What's going on...?<br>
+<br>
+The fog hanging over the ocean cleared, but the sight before her eyes was completely different.<br>
+It was almost nostalgic...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+But also deeply disconcerting at the same time.<br>
+<br>
+The smell of smoke was strong, as if a battle had just started here...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+I don't seem to be anywhere near the stronghold anymore.<br>
+The fog is rolling in again... what is it this time?<br>
+<br>
+As if responding to Enterprise's words, the sound of engines whirring could be heard through the fog.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Is someone else here...?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Teamwork|选项=9|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold Bay<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Man, this canal really is a feat of engineering, any way you look at it.<br>
+I'm totally speechless after seeing it in person. I know what I'm going to post about on Juustagram after I get back.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+I heard that this played an important role in staving off the Sirens in the past.<br>
+In order to get across this little strip of land, people used to have to sail around the entire continent.<br>
+It only makes sense to continually expand and renovate the stronghold that protects this all-important canal.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+And, that's the reason why we're here to protect this fortress. I can see why Baltimore was so pumped up about this.<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Getting pumped up is a good thing. A superhero doesn't get to pick her battles!<br>
+From searching for lost cats to defeating nefarious villains, we've gotta do everything in our power to be humanity's best neighbors!<br>
+<span style="color:#4eb24e;">Narration：</span><br>
+"Siren forces have been detected in the waters around the Canal Stronghold! All hands, prepare for battle immediately!"<br>
+"Repeat, Siren forces have surrounded us! Prepare for battle immediately!"<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+What...?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Damn, those villains sure know how to ruin the moment...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+If we lose control of this route, human civilization may very well backslide.<br>
+Casablanca, please focus on evacuating the transport ships in the bay. Reno, I'll leave the anti-air to you.<br>
+<span style="color:#4eb24e;">Reno & Casablanca：</span><br>
+Understood!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Bremerton, come with me. We're going to hunt some Sirens.<br>
+...What are you looking at?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Nothing in particular. You might have one hell of an evil eye, but even you know how to bust out the cool lines when it matters.<br>
+But, taking on the Sirens, huh? That's just the exercise I was itching for!<br>
+Heheh, let's dance until you can't move anymore!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Mission|选项=10|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold - Out at sea<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Not bad, Bremerton.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Heh. I might not be as good as Baltimore, but there's nothing impressive about smashing up foes like this.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+I heard that the Baltimore class played a large role in the defense of NY City.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Well, thanks. I certainly wasn't there, but I'll take credit for it anyway.<br>
+Having that said, I was looking forward to fighting alongside Baltimore...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+I'm worried about her too. I really am.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+That's natural. You're friends, after all.<br>
+<br>
+Bremerton's expression seemed pained for a moment, but she quickly went back to her characteristically bright, smiling self..<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+If it's that Baltimore we're talking about, she's probably smashing up the Sirens' home as we speak.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Yeah... I'm sure she's fine.<br>
+Wait... Is that... mist?<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+...Bremerton ...ker Hill... can you hear...<br>
+...the mist is... Sirens... the bay is...<br>
+...Hurry... run away...<br>
+<span style="color:#4eb24e;">Narration：</span><br>
+Various parts that looked like they were from Enterprise's rigging were scattered in the water.......<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+It's as Casablanca said. The mist is interfering with our communications.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+And it seems like the Sirens are trying to invade the bay. Guess we're not looking in the right place either.<br>
+We should head back and defend the stronghold. We'll let our peers continue the search for Baltimore and Enterprise.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Sounds good to me. After all, the Sirens shall never break through a member of the Essex class!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+As a member of the Baltimore class, there's no way I'd lose to some small fry here!<br>
+(Baltimore... please stay safe...)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Duties|选项=11|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Intrepid, any good news from your recons?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+It's no good. I can barely even get my aircraft to take off and land in this thick fog.<br>
+The communication system, radar, and navigation system are all down. All I can do right now is make sure we don't bump into each other.<br>
+I've never seen anything like this before, even in the Mirror Seas.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+In other words, we're completely lost in the fog...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+"This is no ordinary fog. It is actually the work of the Sirens. What we do know is that Baltimore and Enterprise most likely went missing within this fog."<br>
+I feel like that's all we've got to work with right now...<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+If we change the angle we think about the issue, then it should be possible to rescue Baltimore if we understand how this mist works.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Should we prioritize defending the stronghold first, or locating Enterprise?<br>
+What am I thinking? We've got to secure a safe route to the stronghold first. Otherwise, it'd be dangerous to stumble around blindly.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+The fact that you're unable to use your recon planes means that it's my time to shine! Let me handle the recon!<br>
+Searchlights, deploy!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Ahh! Hold on! You're going to draw the enemy's fire!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Huh? But if the enemy attacks, wouldn't they be giving away their position?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(This kid... I'm not sure if she's an optimist or just an idiot...)<br>
+Fine, fine! If you're gonna use that thing, just make sure to be careful!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Don't worry! Look, I do this all the time!<br>
+Destroyer Cooper, setting sail!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fragments II|选项=12|主框=1|样式=primary|展开=否}}
+<br>
+??? ???<br>
+...A lone ship continued to sail through the fog.<br>
+...How much time had passed? Then, a shadow coalesced in front of Enterprise.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+You're... Ark Royal?!<br>
+Ark Royal! Did you get lost here too?<br>
+<br>
+The shadow turned around and spoke.<br>
+<span style="color:#ff9900;">Ark Royal：</span><br>
+"So you came, Enterprise? I've been waiting."<br>
+"It seems like we're still missing some people... No, everyone who needs to be here is already here."<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+"Everyone"...? Who else is here? Where are we?<br>
+<span style="color:#ff9900;">Ark Royal：</span><br>
+In due time, my friend. Until then, maybe another friend will join us...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Answer me, Ark Royal! Ark Royal!<br>
+<br>
+The shadow turned her back and stepped forward into the fog.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+What the hell was that?! Ark Royal...<br>
+<br>
+As soon as Enterprise extended her hand to touch the shadow, it disappeared as if melting into the mist.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Was that... an illusion?<br>
+Sirens... what are you plotting...?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Engagement|选项=13|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+Intrepid, any good news from your recons?<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Damnit, where are these enemies coming from?!<br>
+(At this rate, our supplies are going to get whittled down... What should we do...?!)<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+What's wrong, Marblehead?<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Cooper, could you tone it down a notch? I can't focus with you constantly yelling "Cyclone Smasher!"<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+But that's the name of my new secret technique! It's super cool!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Look, you're going to draw the attention of the Sirens with all your yelling.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Ugh... I guess you have a point...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(I'm not seeing an escape route... We can still fight for now, but we can't keep this up forever.)<br>
+(Knowing the Sirens, they're likely to appear once we've exhausted our reserves. And if that happens...)<br>
+(Essex hasn't said much, but... I'm sure Enterprise's disappearance must have dealt a heavy blow to her...)<br>
+(...or maybe not. I'm sure she's thinking hard about what Enterprise would do in this situation.)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+(Enterprise, if you were here right now, what would you do...?)<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(That girl dwells way too much on what Enterprise thinks about her.)<br>
+Essex, are you all right?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+(If only Enterprise was here right now...)<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Essex!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Waaah?!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+...Aren't you thinking a bit too hard? According to Cooper, a new Siren is approaching us.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I-I'm fine... but if Enterprise was here...！<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+...she'd probably lead everyone to attack the enemy.<br>
+But look, you probably shouldn't emulate her style in lieu of the core strategies.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+...I've got it! If the Sirens did in fact create a Mirror Sea here, then the core must be located somewhere!<br>
+If we break that core, whatever it is, then that should also dissipate this heavy mist.<br>
+Intrepid, thanks a ton! You were a great help!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Huhhh?!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Prize|选项=14|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Intrepid：</span><br>
+"Cooper here. I've detected a new type of mass-produced Siren ship that emits some purple glow while patrolling."<br>
+"It looks pretty tough, but I think my Cyclone Smasher works on it. Wish me luck!"<br>
+"On second thought, I don't think I can win! Wanna head over? Help me!"<br>
+That girl just can't stay put...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The fact that there's a new mass-produced model here means that we're probably getting closer to their base.<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Bingo! Looks like you're right on the money~<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+All right. Let's go bail Cooper out, defeat the Sirens, and lift this mist.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Roger that!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Pulled Under|选项=15|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Push forward with everything you've got!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Intrepid, watch out!<br>
+<br>
+BOOOOM!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+What?! Submarines?!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Weren't you trained in anti-submarine tactics...?!<br>
+Come out now, stop sneaking around and... Face! Us! Now!<br>
+<br>
+BOOOOM!<br>
+Marblehead, locating the Siren submarines, dropped a large number of depth charges.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Woah! So many at once?!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+They say that for every one sub you see, there actually three lurking beneath the waves. Right~?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Great! They've come up to the surface! Planes, prepare to launch!<br>
+Marblehead, Cooper, I'm counting on you to locate the other enemies with your sonars!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+That Siren over there is equipped with a cannon! Make sure to watch out for shelling!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Bluegill?!|选项=16|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Phew... looks like this is the last one. Anti-submarine warfare is no fun at all.<br>
+I'm glad everyone was prepared for this!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+We've destroyed a group of the new Siren ships, but nothing has fundamentally changed.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+A tactical defeat, huh...<br>
+(I guess stuff like this happens too...)<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+I did all I can, but... guess it wasn't enough!<br>
+I'll make sure to do better next time!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Yeah! Things haven't been going well for us so far, but I'm sure we'll be able to find the source of this mist in no time! At this rate...<br>
+<br>
+Suddenly, the surface of the ocean trembled as a thunderous roar swallowed the bold words that were just uttered...<br>
+Out of nowhere, a massive wave rose out of the thick mist, the surface undulating turbulently as if seized by a storm.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+What?! Watch out...! This storm feels unnatural, just like the mist!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You don't need to state the obvious...!<br>
+<br>
+Shockwaves, thunderous crashes, and violent waves tore through the fleet, dying the white mist into a deep, ominous blue.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(Wait... No way... I was swallowed by the ocean...?! Impossible...!)<br>
+<br>
+She was sinking... Deeper and deeper, as if pulled by some unknown weight. She continued to sink, seemingly for an eternity.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(My rigging is falling apart...? Was it a Siren attack...?! No, we should have defeated all of them...)<br>
+(Impossible... Did I just lose my balance...?!)<br>
+(Damn it, Intrepid! You're always ruining everything! You're always messing up! It's always you being sent to the docks!)<br>
+(You can't even accomplish a single thing... Everyone is better than you...)<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Hey! Intrepid, are you still alive?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+(Oww! This voice... it's Bluegill! She's returned from her patrol!)<br>
+H-help me...!<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Woahh, Intrepid, when did you get converted into a submarine?!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+*glug* *glug* (Who the hell would do that...?! I'm drowning over here!)<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Woah woah, don't get mad at me! I'll carry you up right now!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Respite|选项=17|主框=1|样式=primary|展开=否}}
+<span style="color:#ec5d53;">Purifier：</span><br>
+Nnnnnnnnghh! I'm soooooo tiiiiired!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Welcome back.<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+Did you hear about "that?"<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+No.<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+By the way, why are you blanketing the entire area with mist? Isn't it a waste of resources?<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+For the suspense.<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+......<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+…<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+Look, I have seniority here, so don't be giving me that cheeky attitude!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Waste of energy.<br>
+Communications jammed. Navigation systems jammed. Radars jammed. Seafog density increased by 30%. Compounding rate 50% and rising.<br>
+That is all. Confirming and returning to work.<br>
+If you have nothing better to do, why not head out again?<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+Don't wanna. My job here's already done. Let's hurry it up and get to the next thing~<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Just go then. Don't get in the way of my work.<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+Sure, sure. I was on my way out anyway.<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+......<br>
+Resuming playback. The next "fragment" is...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fragments III|选项=18|主框=1|样式=primary|展开=否}}
+<br>
+??? ???<br>
+She followed the direction that the shadow was facing before it disappeared.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+This is... each faction's...<br>
+I'm not detecting any identification signals. Is everything here an illusion?<br>
+<span style="color:#ff9900;">Ark Royal：</span><br>
+...is everyone here now?<br>
+<span style="color:#ff9900;">Takao：</span><br>
+For the time being. There are some who cannot make it.<br>
+<span style="color:#ff9900;">Hiryuu：</span><br>
+...What a bitter situation this war is.<br>
+<span style="color:#ff9900;">Ark Royal：</span><br>
+I'd like to get out of here too, but because we're not able to conduct any concerted operations, we should prioritize sticking together for now.<br>
+Cheer up, everyone. Enterprise is here as well, after all! I'm sure everything's going to be fine!<br>
+<span style="color:#ff9900;">Takao：</span><br>
+If only things were so easy. Miss Enterprise, I know this is sudden, but please state your "name."<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+...My name?<br>
+<span style="color:#ff9900;">Takao：</span><br>
+Yes. "Flare." A single light that pierces the darkness and illuminates the path forward. A wonderful name, if I must say so myself.<br>
+<span style="color:#ff9900;">Hiryuu：</span><br>
+Are we really going to work with those guys? Those "Sirens" were originally created to be substitutes for us...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+What...?!<br>
+<span style="color:#ff9900;">Takao：</span><br>
+Indeed. In any case, let's see how they perform first.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Working with... the Sirens?! What are you plotting?<br>
+<br>
+Once again, the shadows disappeared, leaving Enterprise alone in the still sea.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Breakthrough|选项=19|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold - Bay<br>
+Under the cover of the mist, the Siren forces encroached upon the Canal Stronghold.<br>
+However...<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+All right everyone, let's stick to the plan. Draw the enemies in, and work with the support fire from the stronghold to take them out.<br>
+Fortunately, we're well prepared for a war of attrition. We have enough supplies to withstand a siege for months.<br>
+At least, make sure none of these Sirens make it back alive!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Nice going, Casablanca! You really are amazing! You even managed to evacuate all the transports so skillfully!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Speak nothing of it. Escorting vessels falls within my ballpark. If anything, thanks for hearing my ideas out.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Correct ideas ought to be implemented, regardless of position or seniority.<br>
+I heard that this tactic is especially effective against mass-production Siren fleets that aren't lead by a humanoid-type.<br>
+But the fact that they've pushed us to take such measures...<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+All we can hope for is that Intrepid and the others are having good luck with their search...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Don't worry about them. If anyone is fit to lead in Enterprise's absence, it would be Essex.<br>
+<br>
+BOOOOOM--!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+What just happened...?!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+One of the stronghold's turrets was just destroyed. I was afraid things wouldn't go so smoothly, even if it's just mass-produced enemies we're facing. Reno, Bremerton, how's the situation?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Um... They're ignoring us and heading straight towards the stronghold!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Did the plan fail? Were you not able to draw their fire?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+It's no good. They're even ignoring our attacks. They're single-mindedly advancing on the stronghold!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+They way they're moving makes my skin crawl, even if they aren't even sentient...<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+What villainous tactics! Throwing out mindless pawns like this! The hero within me screams out for justice!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+They know nothing of compassion or consciousness towards even their own.<br>
+The Sirens truly are terrifying enemies.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Yeah... If they're shrugging off all our attacks like this, the stronghold's not going to be able to fend them off forever. How about a change in tactics?<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+If the Sirens are dead set in destroying the stronghold, then what we ought to do should be clear as well.<br>
+The stronghold's firepower is overwhelming compared to what us ships can muster. We can't afford to let it fall, no matter the cost.<br>
+We need to take the initiative, break their lines, and cut off their reinforcements...!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Return|选项=20|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+Right before Intrepid and the others arrived at the Canal Stronghold...<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Finally... I finally got them off my tail... I've got to hurry up and tell everyone about the Siren situation!<br>
+<br>
+―――・―――・―――<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+This sound...!<br>
+<br>
+The sea shimmered with specks of mysterious light as a multitude of shadows approached the stronghold. Underneath them were countless Siren submarines.<br>
+The mass-produced Sirens, moving like a school of fish, was an undeniably terrifying sight.<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+When'd they surround me...?! Shoot, is this the end? What should I do...<br>
+<br>
+Even though the stronghold was not far away along the coast, Bluegill saw no way to break through the Siren encirclement.<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+If I fall here, I won't be able to get this information to my friends!<br>
+...Wait a sec. Now that I think about it, none of them seem to know that I'm here. In other words, I should be safest right here...<br>
+This'll do! If I remember correctly, that one large Siren was...<br>
+<br>
+Concealed behind a reef, the small hunter carefully took aim.<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+That one must be the flagship! <br>
+If I can take it out, I'll be able to disrupt their command chain, and victory will be ours!<br>
+Okay! This one's called the Victory Snipe!<br>
+W-wait! Huh? Why is there a thick mist covering the ocean?!<br>
+What's going on... Woooooahhh!<br>
+Aaaaaahhhhh!<br>
+<br>
+Bluegill's vision turned white as a raging torrent consumed her, as if a washing machine was tossing her around.<br>
+After a while, when the waters finally calmed down...<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Owwie... Huh? Where'd the Siren fleet go? Where am I...?<br>
+Wait... Is that Intrepid over there?!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sidekick|选项=21|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Say your prayers!<br>
+<br>
+KABOOM!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+We've destroyed our target! The enemy's movements... haven't changed at all!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Another swing and a miss... How many times has it been now?<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Twenty-one times!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+I didn't expect a new type of Siren to show up here... Plus, they all look creepy as hell...!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Don't give up, everyone! Remember, the hero always gets to have the last laugh!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Reno, have you considered a future as a cheerleader?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Maybe, but we need to make it out of this mess first. Come on, everyone! Let's see that fighting spirit!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Well, since we can't seem to figure out which one is commanding them, we might as well annihilate them all.<br>
+As Baltimore would say, "fight if you want to survive, girls!"<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Woah, that feels really heroic. Very cool, Bremerton!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Heh, another target's coming our way. Maybe this one's the flagship. Let's gooo!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Disaster|选项=22|主框=1|样式=primary|展开=否}}
+<br>
+――――<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Siren aircraft incoming!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Just leave it to me!<br>
+<br>
+The enemy's aerial ambush was quickly mowed down by the combined anti-air fire of the Atlanta and Oakland-class ships.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Thanks for covering us, Reno.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+We've destroyed the enemies over here too!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+No luck over here... Doesn't look like this was the enemy's command ship either.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Another miss. The mist still hasn't cleared up.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Damn... Even if head back to the stronghold, nothing will have changed...<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Shh... I hear something...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+I hear it too. It sounds like... the rushing of water... and it's getting closer and closer...?!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+What?! Everyone, look out, it's a tsunami!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+How does a huge wave like this appear out of nowhere?! Hang on, everyone!<br>
+<br>
+The ships were desperately hanging on as a wall of water began to swallow the mass-produced Sirens.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fragments IV|选项=23|主框=1|样式=primary|展开=否}}
+<span style="color:#ff9900;">Ark Royal：</span><br>
+They're here, Enterprise.<br>
+<br>
+An unexpected participant had entered the gathering of shadows.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+A Siren...?!<br>
+<br>
+Before her was an enemy who Enterprise had faced off against many times. Reflexively, she poised herself for battle.<br>
+<span style="color:#ffd000;">Observer：</span><br>
+Greetings on behalf of the Magister, Code G.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Code G... Magister...<br>
+<span style="color:#ffd000;">Observer：</span><br>
+Laplace's Demon should serve the common interest of humanity rather than being used as an instrument of war. The Creator is in accordance.<br>
+Therefore, we shall provide you a base and supply you with any resources that you need. Make sure that the research you conduct never falls into the wrong hands.<br>
+Know that we too have our orders, and cannot always act of our free will.<br>
+However, there should still be room for cooperation despite this.<br>
+...Rest assured, we shall uphold our end of the bargain.<br>
+After all, this is the will of both the Creator and the Magister.<br>
+I have shared the coordinates of the Arbiters with you. Make sure to avoid them at all costs.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Working with the Sirens? What is this sorcery...<br>
+<br>
+The shadows once again melted into the fog, none of them responding to Enterprise's question.<br>
+<span style="color:#ffd000;">？？？：</span><br>
+Fragment replay, complete.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Rendezvous|选项=24|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+The waves dissolved and the sea became still as if nothing had happened... except the mist still lingered.<br>
+Bluegill had pulled Intrepid from the depths, saving her from certain demise.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+*cough* *cough*... I owe you one...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Intrepid, are you okay?!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+As fine as I will be for someone who almost drowned...<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Bluegill, thank goodness you made it in time!<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Heheh! I just finished my recon mission and am now back to join up with the team!<br>
+On my way back, I encountered a huge swarm of Sirens before getting pulled into a huge wave, and, well, here you all are fighting the Sirens.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Hmm... We were fighting this whole time. Did you not notice anything before that?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Wait, is that the sound of an engine coming towards us?<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Watch out! Something's approaching! Hurry up and...<br>
+<br>
+BOOOMM!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Woah! Everyone, are you okay? Say something if you are!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Reno? Why are you here?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Marblehead?!<br>
+...Why'd you suddenly shoot? Judging from the anti-air fire, I knew it wouldn't be a Siren, but still...<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Well, you can't rule out the possibility of one of the Sirens' "pieces" showing up, right?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Huh? Was Reno supposed to be acting independently from Bunker Hill and the others?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Yeah... Why'd all of you come back to the Canal Stronghold bay?<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+We did just get swept up by a huge wave, but there's no way it swept us all the way back into the bay, right?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Bremerton! Casablanca! Bunker Hill! Over here~<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Everyone's back together, huh?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Woah, it's everyone on the rescue team!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Somehow, it seems like we all encountered the same weather abnormality? And we all got caught up by that huge wave...<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+When Bluegill was caught up in the wave, she noticed that she was somewhere altogether different. Do you think the Sirens are moving us on purpose?<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+I find that hard to believe, but can't rule out that possibility either.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+In other words... where are we currently relative to the Canal Stronghold?<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+It's hard to say. My equipment has been going crazy for a while now. It's possible that we're even inside a Mirror Sea.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+To make matters worse, we still haven't found Baltimore or Enterprise...<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+That's true, but at least we're all together now, right? What we need to do now is...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Find the source of this mist!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Defense Mechanism|选项=25|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Oh, by the way, I found the enemy flagship!<br>
+I'm almost certain it's that really big ship that slipped into a swarm of submarines!<br>
+When I tried to snipe it, I got transported here.<br>
+Now that I think about it, at that time...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Same here. We were suddenly swallowed up by a huge wave.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+And same here. That means...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Putting together all our information, that means all of our groups were swallowed up by the waves and transported to the same location.<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Why is everyone looking at me?!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+From the looks of things, you might have activated the defense mechanism of the flagship by imperiling it.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+And since most of the new Sirens we encountered after arriving here...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+It makes sense that they're trying to gather us in one place and then finish us all off in one go.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Since we know there are lots of enemy submarines out there, we should prepare a better anti-submarine system.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Thanks to Bluegill's information, we're way better prepared than we were before...!<br>
+Anyway, we've got to keep our eyes peeled from attacks from beneath!<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+I'll help out! This time, I'll make sure to land that Victory Snipe!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Hero's Party|选项=26|主框=1|样式=primary|展开=否}}
+<span style="color:#4eb24e;">Reno：</span><br>
+The scattered heroes joined forces to face the supervillain...<br>
+A bit cliché, but it's still an exciting plot development!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Heroes of justice, assemble! This is our climax!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+I see we have multiple comic fans in the house here!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Hmm? Cooper, are you into this stuff as well?<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Of course I am! Heroes who put it all on the line to save the world are the only ones as cool as me!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+(Woah, she has the same hobby as me?!) Well, wait until you take a look at this gadget here!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Is that a gauntlet? It's glowing too!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Heheh, and if you push this button right here...<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+It transforms?! Amazing!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+I made this myself! Hehe, pretty cool, right?<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+I want one too~<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Sure, I'll whip something up for you. Just give me a design and a budget you'd like me to work with.<br>
+However, I sure didn't expect to meet other superhero fans here.<br>
+I'd love to show you my collection once we get back!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Really? Show me once we get back to the stronghold!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Sure thing! Look at all the gadgets I've got here! I'm a true hero's supporter!<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+And don't forget to make one for me! I've always been afraid of not having the right tools for the job even though I already have my special move!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Now now, heroes should be iconic for their abilities, even without their gadgets.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+"It's not the superpower that makes the hero, but rather the super things that they do." Isn't that right?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+...Huh? Where have I heard that line before?！<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+It's a new show that Baltimore and I sometimes watch together.<br>
+I'm not as invested as Baltimore is, but I know what she'd say...<br>
+"You become a hero not by looking the part, but by following in their footsteps."<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Yeah! That's exactly right! I agree one hundred percent!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+And right now, the heroic thing to do...<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Reno, you'll be the hero who protects us from enemy planes!<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Cooper, you'll be the hero who protects us from enemy subs! Right~?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sister Ships|选项=27|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+As soon as the anti-submarine recons detect an enemy, it will alert us as to its position and continue to track its movements.<br>
+Phew... I'm glad we made preparations to deal with enemy submarines beforehand. I didn't actually expect the Sirens to suddenly field them in such large numbers...<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+It's really amazing how many different roles you can cover as an escort carrier. I wish I could have planes as well~<br>
+Even with all this mist, I'd like to be able to get a birds' eye view of things.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Well, if you want to operate seaplanes, that would be possible after being retrofitted into an aviation cruiser.<br>
+......<br>
+Marblehead, are you worried about Memphis?<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Memphis is always working so hard, she barely gets any time back at home. This was supposed to be a vacation for her...<br>
+I was going to show her around to all the neat sightseeing spots around here, as well as the best places to kick back and relax on off-duty days...<br>
+But it looks like that won't be possible anymore... Ahaha...<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+I'm also worried about Baltimore and Enterprise.<br>
+We may not be sister ships, but as fellow compatriots of the same great union, I pray for their safety as if they were related to me.<br>
+That's why I want to work even harder... So I can protect your smile and stuff.<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Woah, talk about a curveball! You always came across as the overly serious type. Didn't think you had an appetite for jokes like that as well~<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Here's looking at you, kid~<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Let's both do our best then.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+That's right. Let's make sure everyone gets home safely!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fragments V|选项=28|主框=1|样式=primary|展开=否}}
+<br>
+??? ???<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Who's there?<br>
+<span style="color:#ffd000;">？？？：</span><br>
+Just a spectator in the background.<br>
+Do you not like what you see in this film?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+"Film?" Are you talking about those shadows?<br>
+<span style="color:#ffd000;">？？？：</span><br>
+Fragments. A log of memories.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+A log? Memories? Whose are you talking about? When was this?<br>
+<span style="color:#ffd000;">？？？：</span><br>
+They were "hers." Both in the past, and in the future.<br>
+And now, they are yours as well.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+I have no time for your sick games. Why are you trying to show me these lies?<br>
+<span style="color:#ffd000;">？？？：</span><br>
+The past cannot lie.<br>
+Come. She is here.<br>
+<br>
+A new shadow emerged from the mist.<br>
+An entity with an indescribable aura unlike any being that she had met...<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+You're...<br>
+<br>
+BOOOOM!<br>
+The very land roars. The ocean waters rage and space itself seems to unravel as if split by an earthquake.<br>
+<span style="color:#ffd000;">？？？：</span><br>
+......<br>
+<br>
+Unlike the other shadows, this figure only gazed into Enterprise's eyes before fading back into the mist.<br>
+As if responding to her actions, the mist pulled back, revealing countless mass-produced Siren ships.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+I guess I'm going to have to fight my way out after all...!<br>
+<br>
+BOOOOM!<br>
+However...<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Enterprise! Need a hand?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Baltimore! Everyone!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+It feels like we've been stranded in the mist forever, but there is a way out after all!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Now, let's push back the Sirens!<br>
+<br>
+With the arrival of unexpected reinforcements, Enterprise struck down enemy after enemy with no burdens in her heart knowing that her friends were safe.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+I'm so glad everyone is safe! Right now...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+......<br>
+Not here... the Commander...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Might of the Essex Class|选项=29|主框=1|样式=primary|展开=否}}
+<br>
+Canal Stronghold? - Out at sea?<br>
+As the mist began to recede, Intrepid could be seen fiercely fighting back wave after wave of Siren forces.<br>
+Although the enemies had increased their firepower, the carriers which had been suppressed by the heavy mist once again took control of the skies.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+What an absurd number of enemies. Have the Sirens already seen through our plans?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+It's possible. A full-scale assault launched from three dimensions, using a thick mist for cover...<br>
+It's all to conceal the position of their flagship.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Our advantages will only shrink at this rate... What should we do?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+There's nothing else to do. It's do or die at this point.<br>
+Come on, chin up. Intrepid means "without fear," right?<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You're right...!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Now that Enterprise isn't here, we have to do our best in her stead... No, we'll have to go above and beyond and take on her part.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Not just for her sake, but also for Baltimore's, and for everyone counting on us in the Canal Stronghold.<br>
+I'm glad you care about everyone, but this is your opportunity to break free from your past.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Essex... Bunker Hill...<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Ah, but don't go charging forward blindly. Enterprise would never rush in first before assessing the situation.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+As if I'd do something like that!<br>
+(Though I said all that, what should I do next...?)<br>
+Oh, in case anyone hasn't noticed, the mist has gradually been thinning out.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Of course. That's the only reason we've been able to get our planes off the ground.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Bunker Hill, were you able to get a good look at the mist density from the air? Pretty good view up there!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+...I did, but why are you talking about that now...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+If the mist was generated from a single point, the density should not change significantly even if the mist is thinning out.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+That's right! Basically, this will let us know where to search!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Good going, Intrepid! Finally, we have a lead on where to head towards!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+All right. Next up is figuring out how to approach the enemy flagship.<br>
+<span style="color:#4eb24e;">Bunker Hill&Essex：</span><br>
+We don't have time to worry about that, so let's get going!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+Ehhhhh?!<br>
+...Haha, good grief, I guess that's just part of what makes us the Essex class.<br>
+All right, my recon planes! Take us to the enemy core flagship!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Compiler|选项=30|主框=1|样式=primary|展开=否}}
+<br>
+KABOOM!<br>
+The very land roars. The ocean waters rage and space itself seems to unravel as if split by an earthquake.<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+Woah! What's going on?!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+The fog's starting to clear... Wait, something's coming right towards us!<br>
+<br>
+Accompanying a massive submarine was a humanoid Siren, clad in an alien-looking rigging with a bored expression on her face.<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+That's... the Siren core flagship!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Yet another new model of Siren... and once again, we don't have an ounce of information on this one.<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+......<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You're the one responsible for creating this mist and for launching this assault!<br>
+What did you do with Baltimore, Enterprise, and the others? Answer me!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Pain in the ass...<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Planes...?! This one's different from the ones we've fought before!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Activating surface combat mode.<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+That main battery... It can also fight on the surface?!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Output: 70%.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+She's starting her attack! Everyone, take cover!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Transformation|选项=31|主框=1|样式=primary|展开=否}}
+<br>
+BOOOOM!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Can you still call that a submarine?!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+She has aircraft, main batteries, torpedoes, and a shield?! Isn't that kit way too overloaded?!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+Without a doubt, this is a formidable enemy...!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+But, our attacks are working! If we keep attacking, we'll be able to get through that pesky shield!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+Overheating imminent. Changing modes.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Her rigging is transforming?! She's about to dive!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+As if I'd let you! Planes, roll out!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Reno, Marblehead, back Intrepid up! Bluegill, stop her from finishing her transformation!<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Got it! Just leave it to me!<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+You're the one who attacked the stronghold and abducted Enterprise... I won't let you get away!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Mist Clears|选项=32|主框=1|样式=primary|展开=否}}
+<br>
+After receiving the focused fire from Intrepid and the others, the Siren was unable to complete her transformation and appeared heavily damaged.<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+That's right. Figures and gadgets are weakest at the joints, so we knew exactly where to hit.<br>
+Keep aiming at the joints! Stop her from transforming!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Reno, are you a mechanic?<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+Eh? Ahaha... Wh-who knows!<br>
+<span style="color:#ec5d53;">？？？：</span><br>
+...No choice.<br>
+<br>
+The waters shake and rumble ominously.<br>
+<span style="color:#4eb24e;">Bluegill：</span><br>
+Essex, Bremerton, everyone on the surface, do you hear that?!<br>
+There's something terrible approaching from under the waves! Watch out beneath you!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Darn it, I've had enough with these bad surprises! What the hell is that?!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Mechanical tentacles?! ...Wh-where are they coming from?!<br>
+<span style="color:#4eb24e;">Marblehead：</span><br>
+Whatever this thing is, it's defying everything I know about physics!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+We're not going to be able to attack at this right... Ugh...!<br>
+<span style="color:#4eb24e;">Casablanca：</span><br>
+Phew... At least we managed to get away from that thing...<br>
+<span style="color:#4eb24e;">Reno：</span><br>
+But you know what was weird? I didn't feel any sort of malevolence from that thing...<br>
+<span style="color:#4eb24e;">Cooper：</span><br>
+I wasn't paying attention, since I was just trying to get away from those tentacles...<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+The Sirens are starting to withdraw. I suppose our communication systems will be coming back online soon.<br>
+And this spot... seems to be good! Anyway, the stronghold should be safe now.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+After all that, we still haven't found Baltimore and Enterprise... Ehh?!<br>
+Enterprise?!<br>
+<span style="color:#4eb24e;">Bunker Hill：</span><br>
+And Baltimore as well?! When did you all...<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Sorry for dropping in on such short notice. It took a long time to shake off the Sirens.<br>
+<span style="color:#4eb24e;">Intrepid：</span><br>
+What in the world happened?<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Hmm... Well, we got lost in the fog, met some strange person, bumped into Enterprise... and, well, now we're here.<br>
+The story is actually quite long, but we should go inside first.<br>
+C'mere, Enterprise, we need you too.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Indeed. Welcome back. I'm glad that you're all safe.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Third Party|选项=33|主框=1|样式=primary|展开=否}}
+<br>
+Bermuda Triangle - Mist<br>
+The Baltimore fleet was locked in combat with Purifier.<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+Can't catch me~<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Damn it... Come back here, why are you running away? Fight me fair and square!<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+No can do~ I'm just here to gather data, so I don't wanna waste any extra energy~<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Since that wave, it's clear that Purifier is just here to waste our time, but we can't do anything about it right now...<br>
+<br>
+BOOOOOM--!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Was that... the sound of battle?<br>
+<span style="color:#ec5d53;">Purifier：</span><br>
+(Oh, that's the sound of the bait being taken.)<br>
+Oh no, whatever shall I do~ You haven't seen the last of me~ I'll remember this~ We're blasting off again~<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Come back here!<br>
+<br>
+Another figure emerged from the mist...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+......<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Ember...?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The Commander isn't here?<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+...I have nothing to say to you.<br>
+<span style="color:#ff9900;">？？？：</span><br>
+I see...<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Hold on! Wait, thanks for helping us!<br>
+<span style="color:#ff9900;">？？？：</span><br>
+……<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+But, where are we? What should we do next?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Not far from where you need to be.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Is this mist moving us around?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+The Sirens are toying with you once again. "Microlayer medley," a compound that creates a signal-jamming mist.<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+I knew those blasted Sirens were up to no good...!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+How do we get out of this place?<br>
+<span style="color:#4eb24e;">Baltimore：</span><br>
+Doesn't look like it will be possible as long as we're trapped in this mist. But if this fellow wants to fight...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+...The jamming mist generator mechanism...<br>
+Hmm... If I remember properly, the way it was made...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Stars in the Firmament|选项=34|主框=1|样式=primary|展开=否}}
+<br>
+A sea, dyed a dark red by flames and smoke. Tarnished by wanton violence and destruction.<br>
+Tattered flags floated in the water. Debris and bodies alike were strewn everywhere unceremoniously.<br>
+<span style="color:#ff9900;">Enterprise：</span><br>
+Where... am I?<br>
+<br>
+They are still fighting. Among them are faces that she recognizes, and some that she doesn't.<br>
+<span style="color:#ff9900;">Enterprise：</span><br>
+...the different factions...<br>
+<br>
+But, it is not Sirens that they raise their weapons against.<br>
+<span style="color:#ff9900;">Enterprise：</span><br>
+The enemy... is mass-produced ships from the Northern Parliament...?<br>
+No... They look similar, but the weapons and design are completely different...<br>
+<br>
+One by one, the humans fall before the hands of the ships. They kneel. They sink. Into nothingness.<br>
+<span style="color:#ff9900;">Enterprise：</span><br>
+I must help them...!<br>
+<br>
+But her body would not obey her.<br>
+<span style="color:#ff9900;">Enterprise：</span><br>
+...Up in the sky... are those meteors?<br>
+They're so beautiful...<br>
+<span style="color:#ff9900;">？？？：</span><br>
+Indeed. Welcome back. I'm glad that you're all safe.<br>
+<span style="color:#ff9900;">Enterprise：</span><br>
+Gaaaahhh?!<br>
+*gasp*... Was I dreaming...?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Microlayer Medley|选项=35|主框=1|样式=primary|展开=否}}
+<span style="color:#ec5d53;">Compiler：</span><br>
+Even after the mist was superimposed upon the Mirror Sea, it collapsed after only one second.<br>
+Observer, the experiment has failed.<br>
+<span style="color:#ec5d53;">Observer：</span><br>
+Is it impossible to prevent "Code G" from coming to pass...?<br>
+Well done, young program.<br>
+<span style="color:#ec5d53;">Compiler：</span><br>
+The Arctic iceberg fortress is also under attack.<br>
+<span style="color:#ec5d53;">Observer：</span><br>
+...No, the plan was a success. Hehehe...<br>
+The power of "Code G" comes from its ability to reject all foreign interference.<br>
+However, the connection has now opened. To "Enterprise."<br>
+...No, not good enough. Whatever I can come up with now has surely been tried in a parallel timeline.<br>
+Why have all the experiments that we can access through the logs ended in failure so far...?<br>
+I see... it's because of the presence of the "Commander" in this timeline.<br>
+Zero, just how many secrets are you keeping from us...<br>
+I'm just dying to find out. Ahahaha...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
