@@ -144,6 +144,8 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
             elif actor and actor > 0:
                 try:
                     name = getShipName(actor, skinTemplate, shipStatistics)
+                    if name == None:
+                        name = ''
                 except:
                     name = str(actor)
                     print(f'未找到actor{actor}名称')
@@ -240,6 +242,12 @@ def replaceColor(color):
     else:
         return color
 
+def sanitizeFileName(fileName):
+    charSet = [[':', '：'], ['?', '？'], ['"', '“'], ['.', '。']]
+    for c in charSet:
+        fileName = fileName.replace(c[0], c[1])
+    return fileName
+
 def wikiGenerate():
     nameCode = getNameCode()
     memoryGroup = getMemoryGroup()
@@ -260,7 +268,7 @@ def wikiGenerate():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', group['title'].replace(':', '') + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
             
 def MemoryJP():
@@ -285,9 +293,87 @@ def MemoryJP():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', 'JP', group['title'].replace(':', '：').replace('?', '？') + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'JP', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+            f.write(wikiPage(group))
+    
+def MemoryEN():
+    util.DataDirectory = os.path.join('AzurLaneData', 'EN')
+    util.JsonDirectory = os.path.join('AzurLaneData', 'EN')
+    nameCode = getNameCode()
+    memoryGroup = getMemoryGroup()
+    memoryTemplate = getMemoryTemplate()
+    worldGroup = getWorldGroup()
+    worldTemplate = getWorldTemplate()
+    shipGroup = getShipGroup()
+    shipStatistics = getShipStatistics()
+    shipTemplate = getShipTemplate()
+    skinTemplate = getShipSkinTemplate()
+    global Stories
+    Stories = util.loadJsonFile('story')
+    global Dungeons
+    Dungeons = util.loadJsonFile('dungeon')
+    groups = getGroup(memoryGroup, worldGroup)
+    mergeMemoryTemplate(memoryTemplate, worldTemplate)
+    groupsbuilt = []
+    for v in groups:
+        groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
+    for group in groupsbuilt:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'EN', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+            f.write(wikiPage(group))
+            
+def MemoryKR():
+    util.DataDirectory = os.path.join('AzurLaneData', 'KR')
+    util.JsonDirectory = os.path.join('AzurLaneData', 'KR')
+    nameCode = getNameCode()
+    memoryGroup = getMemoryGroup()
+    memoryTemplate = getMemoryTemplate()
+    worldGroup = getWorldGroup()
+    worldTemplate = getWorldTemplate()
+    shipGroup = getShipGroup()
+    shipStatistics = getShipStatistics()
+    shipTemplate = getShipTemplate()
+    skinTemplate = getShipSkinTemplate()
+    global Stories
+    Stories = util.loadJsonFile('story')
+    global Dungeons
+    Dungeons = util.loadJsonFile('dungeon')
+    groups = getGroup(memoryGroup, worldGroup)
+    mergeMemoryTemplate(memoryTemplate, worldTemplate)
+    groupsbuilt = []
+    for v in groups:
+        groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
+    for group in groupsbuilt:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'KR', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+            f.write(wikiPage(group))
+            
+def MemoryTW():
+    util.DataDirectory = os.path.join('AzurLaneData', 'TW')
+    util.JsonDirectory = os.path.join('AzurLaneData', 'TW')
+    nameCode = getNameCode()
+    memoryGroup = getMemoryGroup()
+    memoryTemplate = getMemoryTemplate()
+    worldGroup = getWorldGroup()
+    worldTemplate = getWorldTemplate()
+    shipGroup = getShipGroup()
+    shipStatistics = getShipStatistics()
+    shipTemplate = getShipTemplate()
+    skinTemplate = getShipSkinTemplate()
+    global Stories
+    Stories = util.loadJsonFile('story')
+    global Dungeons
+    Dungeons = util.loadJsonFile('dungeon')
+    groups = getGroup(memoryGroup, worldGroup)
+    mergeMemoryTemplate(memoryTemplate, worldTemplate)
+    groupsbuilt = []
+    for v in groups:
+        groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
+    for group in groupsbuilt:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'TW', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
 
 if __name__ == "__main__":
     wikiGenerate()
     MemoryJP()
+    MemoryEN()
+    MemoryKR()
+    MemoryTW()
