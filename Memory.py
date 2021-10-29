@@ -274,7 +274,7 @@ def wikiGenerate():
 def MemoryJP():
     util.DataDirectory = os.path.join('AzurLaneData', 'JP')
     util.JsonDirectory = os.path.join('AzurLaneData', 'JP')
-    nameCode = getNameCode()
+    nameCode = {}
     memoryGroup = getMemoryGroup()
     memoryTemplate = getMemoryTemplate()
     worldGroup = getWorldGroup()
@@ -299,7 +299,7 @@ def MemoryJP():
 def MemoryEN():
     util.DataDirectory = os.path.join('AzurLaneData', 'EN')
     util.JsonDirectory = os.path.join('AzurLaneData', 'EN')
-    nameCode = getNameCode()
+    nameCode = {}
     memoryGroup = getMemoryGroup()
     memoryTemplate = getMemoryTemplate()
     worldGroup = getWorldGroup()
@@ -324,7 +324,7 @@ def MemoryEN():
 def MemoryKR():
     util.DataDirectory = os.path.join('AzurLaneData', 'KR')
     util.JsonDirectory = os.path.join('AzurLaneData', 'KR')
-    nameCode = getNameCode()
+    nameCode = {}
     memoryGroup = getMemoryGroup()
     memoryTemplate = getMemoryTemplate()
     worldGroup = getWorldGroup()
@@ -349,7 +349,7 @@ def MemoryKR():
 def MemoryTW():
     util.DataDirectory = os.path.join('AzurLaneData', 'TW')
     util.JsonDirectory = os.path.join('AzurLaneData', 'TW')
-    nameCode = getNameCode()
+    nameCode = {}
     memoryGroup = getMemoryGroup()
     memoryTemplate = getMemoryTemplate()
     worldGroup = getWorldGroup()
