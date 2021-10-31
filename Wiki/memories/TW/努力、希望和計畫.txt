@@ -26,9 +26,9 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Z艦隊的反擊|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|最上}}：</span><br>
+<span style="color:#ff0000;">{namecode:57}：</span><br>
 聽說陸航部隊剛剛發現了大魚，皇家的遠東艦隊出港了<br>
-<span style="color:#ff0000;">{{AF|愛宕}}：</span><br>
+<span style="color:#ff0000;">{namecode:67}：</span><br>
 哼哼哼，繞了大半個地球過來的孩子們終於憋不住寂寞了嗎，是時候讓這片海洋熱鬧一下了<br>
 南遣艦隊全員聽令，全速南下對Z艦隊進行攔截，可不要被陸航部隊給搶了風頭<br>
 {{折叠面板|内容结束}}
@@ -54,12 +54,12 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=終局2|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|愛宕}}：</span><br>
+<span style="color:#ff0000;">{namecode:67}：</span><br>
 啊啦啦~如此堅硬的鋼鐵之軀，在魚雷機的攻擊之下居然如此脆弱不堪，真是讓人惋惜呢<br>
 這次居然被陸航給搶了頭功，看來艦隊的孩子們未來還要繼續加油呀<br>
-<span style="color:#ff0000;">{{AF|金剛}}：</span><br>
+<span style="color:#ff0000;">{namecode:70}：</span><br>
 恩，這個時間點，大洋的另一頭，一航戰、二航戰和五航戰的姐妹們也應該已經開始行動了<br>
-<span style="color:#ff0000;">{{AF|愛宕}}：</span><br>
+<span style="color:#ff0000;">{namecode:67}：</span><br>
 哼哼哼，是嗎，看來這個世界很快就要變得熱鬧起來了~<br>
 拭目以待吧，新的時代，就要開啟了<br>
 {{折叠面板|内容结束}}

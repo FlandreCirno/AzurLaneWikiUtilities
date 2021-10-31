@@ -97,7 +97,7 @@
 <span style="color:#4eb24e;">德意志：</span><br>
 ……<br>
 <span style="color:#4eb24e;">伦敦：</span><br>
-第二十名，{{AF|高雄}}，{{AF|高雄}}小姐也是唯一上榜的重巡，很厲害。<br>
+第二十名，{namecode:66}，{namecode:66}小姐也是唯一上榜的重巡，很厲害。<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 等等，我呢？！<br>
 <span style="color:#4eb24e;">伦敦：</span><br>
@@ -293,14 +293,14 @@
 算了，對了就好。<br>
 <br>
 港區·廣場<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 德意志，妳是不是有另一個名字呀？<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 啊……是啊，我曾經有過另一個名字，那個名字叫做“呂佐”。<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 聽起來感覺還挺威風的呢~能用這個名字來叫妳嗎？<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
-{{AF|三日月}}，要是德意志不喜歡的話……<br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
+{namecode:126}，要是德意志不喜歡的話……<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 哼，妳想的話就隨妳高興吧。<br>
 反正我就是我這件事是不會改變的。<br>

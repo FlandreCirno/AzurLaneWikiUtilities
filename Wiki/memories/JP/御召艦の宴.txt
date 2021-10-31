@@ -88,7 +88,7 @@
 ！ならかかってこい！絶対に負けないッ！<br>
 <span style="color:#4eb24e;">比叡：</span><br>
 元気そうなのはいいですけど…まだ任務中ですよ？やるなら母港に戻ってからにしてちょうだい。<br>
-<span style="color:#4eb24e;">{{AF|霧島}}&{{AF|榛名}}：</span><br>
+<span style="color:#4eb24e;">{namecode:73}&{namecode:72}：</span><br>
 はい…<br>
 <br>
 言葉こそ厳しくないが、気迫で二人を止めさせた比叡だった。<br>
@@ -100,7 +100,7 @@
 <span style="color:#4eb24e;">比叡：</span><br>
 ふふ、指揮官様もお疲れ様でした。労うといえば……<br>
 宴会を開いてはどうでしょうか？<br>
-<span style="color:#4eb24e;">{{AF|霧島}}&{{AF|榛名}}：</span><br>
+<span style="color:#4eb24e;">{namecode:73}&{namecode:72}：</span><br>
 おおお！比叡さんの宴会！<br>
 <br>
 そういえばそんなことがあったな……<br>

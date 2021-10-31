@@ -48,7 +48,7 @@
 <span style="color:#4eb24e;">蒼龍：</span><br>
 じゃあ、私がみんなに声を掛けますね。<br>
 あら、翔鶴と瑞鶴？ちょうどいいところに。<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}&{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
 うん？<br>
 <span style="color:#4eb24e;">翔鶴：</span><br>
 蒼龍先輩ですか……<br>
@@ -190,22 +190,22 @@
 お花見大会<br>
 <br>
 その七  二人の後夜祭<br>
-<span style="color:#4eb24e;">{{AF|鳳翔}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 宴は楽しいですが、宴が終わった後の静けさはなんだか寂しいですね……<br>
 あら？指揮官様？もうお休みになったと思ってましたけど…まだ起きていらっしゃったのですか？<br>
 この鳳翔と夜ザクラを見たい、ですか？<br>
 <br>
 （ぺこり）<br>
-<span style="color:#4eb24e;">{{AF|鳳翔}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 うふふ…それでしたら、少々お待ち下さい。今支度いたしますわ。<br>
 「旦那さん、今宵のお花見お供させておくんなし」<br>
 <br>
 ！！！<br>
-<span style="color:#4eb24e;">{{AF|鳳翔}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 どうですか？…ドキドキしますか？指揮官様？<br>
 <br>
 ！！<br>
-<span style="color:#4eb24e;">{{AF|鳳翔}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 うふふ、指揮官様からお褒めの言葉をいただけるなんて…鳳翔は満足しましたわ。<br>
 では、続いては「月見酒」…月と夜ザクラの下で乾杯といたしましょうか？「旦那さま」？<br>
 {{折叠面板|内容结束}}

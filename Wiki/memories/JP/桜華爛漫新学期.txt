@@ -8,40 +8,40 @@
 桜華爛漫新学期<br>
 <br>
 その一　遅刻5分前<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 うわあああ！！遅刻遅刻ぅ――！<br>
 うぅ…なんで妹たちは誰も私を起こしてくれないんだぁぁ！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 うん…不良といえば正々堂々と授業をサボる、とか…？<br>
 いいや、やっぱりダメですね…姉様が怒りますし。<br>
 で、でも姉様が風紀委員役でしたら、ここは不良少女らしく…！うん！<br>
 あれ？<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}&{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}&{namecode:94}：</span><br>
 うわっ！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 コホン！誰だ！どこに目をつけて…い、いやがる！<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 いたた…ひゃう！？す、すみません…<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 って、吹雪じゃないですか！なにを急いでるんですか？<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 遅刻しちゃうんですよ！……って飛龍さん！？その格好は……<br>
 もしかしてグレたんですか――！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 ふふん、どうですか！結構それらしく見えるんじゃないですか？これで姉様も――<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ひ～～りゅう～～！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 わっ！姉様！？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 妙高さんから一日預かった風紀委員として、妹でも、いいえ、妹だからこそちゃんと更生してあげるわ！<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}&{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}&{namecode:94}：</span><br>
 そんな――<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 うん？なんで吹雪もここにいるの？<br>
 もうこんな時間…と、とにかく学園に急ぎなさい！遅刻しないように！<br>
 飛龍！あとで説教するわよ！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 はぃ……<br>
 {{折叠面板|内容结束}}
 
@@ -54,11 +54,11 @@
 勉強も運動もこのZ1様こそ最強！<br>
 不服があるやつはこの俺と「決闘」だ！<br>
 競走だろうが玉投げだろうが、なんでも……<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 ふふん、言いましたね――<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 あなたは重桜の――<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 売られたケンカは買わせてもらいます！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 よく言うね～じゃあ勝負よ！<br>
@@ -68,7 +68,7 @@
 悩んでもキリがありませんし、両方応援しちゃおう！フレー！HI☆RYU！ファイト！レーベちゃん！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 れーべーせんーぱーい！！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ひ～～りゅう～～！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 学園で煽ってはダメって言ったでしょう！<br>
@@ -78,19 +78,19 @@
 授業もろくに参加してませんし！もう私もほかの子や先生にさんざん言われましたよ！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 別に授業に参加したくないってわけじゃないぞ！だって先生が教えるのがあまりにもつまらないから、この俺様が教えてやるって、つい……<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 そういうことですか！あははははは<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 飛龍も釣られるんじゃないわよ！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 えええ！だって向こうが…<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 そう簡単に挑発に乗るあなたも悪いわよ！あとクレイヴン、この子たちが元気すぎるのは良しとして、あなたが調子に乗せたらダメでしょう！？<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 ごめんなさい…ついノリで……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 とにかくついてきなさい！説教するわよ！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}&クレイヴン&Z1：</span><br>
+<span style="color:#4eb24e;">{namecode:94}&クレイヴン&Z1：</span><br>
 はい……<br>
 {{折叠面板|内容结束}}
 
@@ -144,15 +144,15 @@
 その四　図書室の妖精さん<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 いましたね！図書室の！<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 あ！実は私も！<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 うん！学園の不思議ってやつですね！<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 声を追ってみると、誰もいなかったり…<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 と思ったらまた別な場所から声が聞こえたり…<br>
-<span style="color:#4eb24e;">クレイヴン&{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">クレイヴン&{namecode:2}：</span><br>
 名付けて「図書室の妖精さん」です！指揮官！<br>
 <br>
 ……<br>
@@ -178,7 +178,7 @@
 し、指揮官じゃないですか！もう驚かさないでくださいよ……あ！しまっ――<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 なるほど、妖精さんってエディンバラさんですか～<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 よ、よかったぁ…怖いものとかじゃなくて…<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 ごめんなさい…つい出来心でした……<br>
@@ -234,36 +234,36 @@
 桜華爛漫新学期<br>
 <br>
 その六　放課後のHRタイム<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 では…今日のHRをはじめるわ。<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 蒼龍姉様は教壇に立っても凛々しいですね！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 ふぅーん、なんで俺まで補習なの？成績は鉄血の駆逐艦ではNo.1なのに。<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 うぅ…この前のテスト、解答用紙に名前書くの忘れてた……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 みんな揃ったのね…まずは吹雪！<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 は、はい！？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 学力は全く問題ないのに、いつも変な所を間違えるわね…<br>
 名前を書き忘れたり、マークシートが一行ズレたり…<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 な、なんでだろう……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 まあ今後気をつけてちょうだい。こればかりは補習で治るものではないわね…<br>
 次はZ1！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 はぁん？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 …と、飛龍も！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 はい！？な、なんでしょう？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 昼の時言ったわよね。元気過ぎる問題児には「学園のルール」そのものから教える必要があるわ！<br>
 HRが終わったら説教するから、心の準備でもしておきなさい！<br>
-<span style="color:#4eb24e;">Z1&{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">Z1&{namecode:94}：</span><br>
 はぁ……<br>
 {{折叠面板|内容结束}}
 
@@ -272,13 +272,13 @@ HRが終わったら説教するから、心の準備でもしておきなさい
 桜華爛漫新学期<br>
 <br>
 その七　本当の新学期<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 ま、まさか本当に延々と説教されるとは……<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 そ、そうだな…風紀委員に睨まれるとか二度と御免だ……<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 あ！指揮官！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 おや？珍しいな。学園の見学か？<br>
@@ -286,69 +286,69 @@ HRが終わったら説教するから、心の準備でもしておきなさい
 ……<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 学園が面白いかって？ふん、面白いに決まってるだろ。<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 まあ面白いかどうかというより、学園で戦技を勉強し実力を上げるのも重要な任務ですね。<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 ふーん、「不良少女」役の言うセリフらしくないな。<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 そうでした！ごめんなさい、つい…<br>
 <br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：「不良少女」役？</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 ええと、姉様は風紀委員役ですよね？私が不良少女役をやっていれば、姉様もきっと私に振り返ってくれると思って……<br>
 それに、風紀委員がいるなら、不良少女もいないと、なんだかしっくり来ないでしょう？<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 あはははは、飛龍ってやっぱシスコンだな！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 ち、違いますよ！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 まあ安心しな。妹を心配しない姉なんていないって。Zクラスの俺が保証するぜ。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 はぁ…もうこんな時間……<br>
 吹雪ちゃんごめんね、資料の整理を手伝ってもらって<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 いえいえ、これぐらい大丈夫ですよ～<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 うん？飛龍とZ1？<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 それに指揮官も…？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 いま指揮官となに話してたの？<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 あ、大したことじゃありませんよ。新学期が始まるなって…<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 そう言えばそうね…飛龍？今度は姉さんの話を聞いて、ちゃんと用意した制服を着るのよ？<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 （ニッコリ）<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 い、今のほうが好きですよ！<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 不良少女役の飛龍さんもカッコイイですね！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 クレイヴン！いつのまに？<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 神出鬼没のチアガール役です！…って普段から変わってませんけど…<br>
 実は指揮官と話していた時からいましたよ。<br>
 飛龍さんがなぜ不良少女役にしたこ――うぐぅ！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 なに？<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 いいえ！なんでもありませんっ！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 はぁ…そもそも風紀委員役の私の立場も考えてほしいわ……<br>
 <br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：新学期は心機一転で頑張ろう</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 もちろんです。<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 ふふん、あたりめーだろ？<br>
-<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+<span style="color:#4eb24e;">{namecode:2}：</span><br>
 ちゃ、ちゃんと出席するよ！<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 応っ！<br>
 <span style="color:#4eb24e;">クレイヴン：</span><br>
 みんな～ファイト！<br>

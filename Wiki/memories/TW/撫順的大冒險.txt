@@ -81,28 +81,28 @@
 撫順的大冒險<br>
 <br>
 三　勇者的旅途<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-歡迎光臨~喵喵？東煌的小妹妹找{{AF|明石}}有什麼事情喵？要買東西喵？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+歡迎光臨~喵喵？東煌的小妹妹找{namecode:98}有什麼事情喵？要買東西喵？<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 哇~這裡就是購買部嗎~好多看起來很好玩的東西啊~<br>
-啊不對，我不是來買東西的，{{AF|明石}}{{AF|明石}}~能幫我看看這個東西嗎~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+啊不對，我不是來買東西的，{namecode:98}{namecode:98}~能幫我看看這個東西嗎~<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 這個是…遊戲機？<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
-好像是！長島說，修理機械找{{AF|明石}}就對了~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+好像是！長島說，修理機械找{namecode:98}就對了~<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 真、真拿妳沒辦法喵…這次就破例給妳免費服務好了喵…<br>
 我看看喵…還真是古老的機器喵…這裡要這樣…然後這裡再這樣……<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 哦哦……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 呼…修好了喵！<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
-哇~{{AF|明石}}好厲害~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-雖然零件太古老費了一番功夫，但這點小問題還難不住{{AF|明石}}喵~<br>
+哇~{namecode:98}好厲害~<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+雖然零件太古老費了一番功夫，但這點小問題還難不住{namecode:98}喵~<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
-謝謝{{AF|明石}}~<br>
+謝謝{namecode:98}~<br>
 長春~掌機修好了喲~一起來玩吧~<br>
 <span style="color:#4eb24e;">长春：</span><br>
 還真的修好了啊…<br>
@@ -155,7 +155,7 @@
 都給我站好了！今天一定——<br>
 嗯？這、這個難道是！？<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
-這個是我在舊倉庫發現的哦~本來都壞掉了呢，多虧了{{AF|明石}}才修好的~<br>
+這個是我在舊倉庫發現的哦~本來都壞掉了呢，多虧了{namecode:98}才修好的~<br>
 <span style="color:#4eb24e;">鞍山：</span><br>
 竟然修好了啊…<br>
 <span style="color:#4eb24e;">长春：</span><br>

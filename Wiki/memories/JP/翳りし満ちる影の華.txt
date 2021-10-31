@@ -647,7 +647,7 @@ Eisen und Blut über alles！<br>
 皆さん、安心してください！この祭儀の島の守備は万全です！<br>
 何があっても私たち主催側が対応します！<br>
 駿河、能代、出撃よ<br>
-<span style="color:#4eb24e;">{{AF|能代}}&{{AF|駿河}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}&{namecode:175}：</span><br>
 はい！<br>
 <span style="color:#4eb24e;">龍鳳：</span><br>
 この龍鳳がいる以上、会場の皆様の手はわずらわせません！<br>
@@ -663,20 +663,20 @@ Eisen und Blut über alles！<br>
 くっ…！キリがありません！次から次へと現れて…！<br>
 <span style="color:#4eb24e;">駿河：</span><br>
 （まさか初めての実戦からピンチだなんて！！祭儀の主催なんてやらなきゃよかった！）<br>
-<span style="color:#4eb24e;">{{AF|龍鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 重桜の本島は永くセイレーンの襲撃がなかったから、あまり実感はありませんけど…<br>
 やっぱりセイレーンは脅威です…！<br>
 みんな！ここは気を引き締めて全力で戦いましょう！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=「駒」|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|龍鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 霞！鬼怒！よく持ちこたえました！早く合流を……<br>
-<span style="color:#4eb24e;">{{AF|駿河}}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}：</span><br>
 龍鳳、危ない！<br>
-<span style="color:#ec5d53;">{{AF|霞}}？：</span><br>
+<span style="color:#ec5d53;">{namecode:180}？：</span><br>
 ……<br>
-<span style="color:#ec5d53;">{{AF|鬼怒}}？：</span><br>
+<span style="color:#ec5d53;">{namecode:181}？：</span><br>
 ……<br>
 <span style="color:#4eb24e;">能代：</span><br>
 あなたたち、何を……！？<br>
@@ -710,16 +710,16 @@ Eisen und Blut über alles！<br>
 「鏡面海域」だ。いま島の向こうからやってきたが、どうやら島周辺海域全域が鏡面海域になっているようだ<br>
 <span style="color:#4eb24e;">龍鳳：</span><br>
 鬼怒！霞！二人共無事でしたか？<br>
-<span style="color:#4eb24e;">{{AF|鬼怒}}：</span><br>
+<span style="color:#4eb24e;">{namecode:181}：</span><br>
 はい、龍鳳の直掩機を目印に急いで駆けつけてきた。向こうの量産型は全部撃破した<br>
 この海域らしからぬ天気の異変、外部との通信断絶…記録と同じ現象…ね<br>
 一つだけ違う。鏡面海域は通常「海」の上でだけ発生するが、今回のようにまるで島を覆っているようなケースはどの記録にもないぞ<br>
 これぐらいのセイレーンを撃退しただけじゃ鏡面海域が消えたりはしない。龍鳳、これからどうする？<br>
-<span style="color:#4eb24e;">{{AF|龍鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 指示を出すまでもありません。あっちからもう第二波が来ているようですね<br>
-<span style="color:#4eb24e;">{{AF|能代}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 出現したのは暗礁の多い海域…あの大きさで暗礁を通れるわけないはずなのに、一体どうやって…？<br>
-<span style="color:#4eb24e;">{{AF|龍鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 霞、駿河、ちょっと様子を見に行きますわよ。みんなはこのまま防衛線を構築して！<br>
 <span style="color:#4eb24e;">みんな：</span><br>
 はい！<br>

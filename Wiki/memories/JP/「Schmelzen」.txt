@@ -191,12 +191,12 @@
 出現予測海域にそって、次にパトロールするときのルートも変更、と……<br>
 <br>
 （コンコン）<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 こんにちは。ティルピッツ、この前はすごく助かった。ありがとう<br>
 はい、最新の空気浄化装置。ええと、仕事の能率向上と健康促進効果があるタイプ。ここに置いとく<br>
 <span style="color:#4eb24e;">ティルピッツ：</span><br>
 ああ、ありがとう。<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 科学部の用事はまだ終わってないから、先に帰るぞ<br>
 <span style="color:#4eb24e;">ティルピッツ：</span><br>
 パトロールルートはこれで……人選は……<br>

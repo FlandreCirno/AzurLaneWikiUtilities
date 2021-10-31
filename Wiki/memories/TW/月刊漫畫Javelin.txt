@@ -30,7 +30,7 @@ Zzzzzzz……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 ——！！！<br>
 （指揮喵應該是不會說話的吧？）<br>
-啊，大概是{{AF|明石}}又做了什麼奇怪的東西吧~<br>
+啊，大概是{namecode:98}又做了什麼奇怪的東西吧~<br>
 哇哇，已經這麼晚了！要跑步去教室了！<br>
 啊啊啊不行不行！下午還要給指揮官提交報告，不好好整理髮型一下可不行——！<br>
 <br>
@@ -48,22 +48,22 @@ Zzzzzzz……<br>
 標槍，好晚<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 真是的，已經開始上課了哦<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 這是筆記，的說<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 這可不能作為遲到的理由呢……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 我是說真的啦！遇到了一隻會說話的指揮喵，說著“會遇到命運之人”什麼的！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 學園七大不可思議要增加到八個了，的說<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 也許只是標槍沒睡醒犯迷糊了…<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 確實有可能…不過，也可能是科學部又進行了什麼奇怪的改造…<br>
-總之，下次再碰到的話，還是抓住它，然後送到{{AF|明石}}那裡去比較好<br>
+總之，下次再碰到的話，還是抓住它，然後送到{namecode:98}那裡去比較好<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲也會注意的，遇到了就抓住<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 讓妳們見識一下特型驅逐艦的速度、的說<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 真是的~大家都太較真了啦！<br>
@@ -72,7 +72,7 @@ Zzzzzzz……<br>
 這是…粉紅色的信封…？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 情書…？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 真虧大家能注意到的說<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 這、這難道是——！<br>
@@ -97,13 +97,13 @@ Zzzzzzz……<br>
 ……這都是什麼？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 本來以為是皇家方舟，看起來似乎也不是<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 看不出來是誰寫的<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 是封奇怪的匿名信呢……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 不過，這究竟是什麼意思呢…巨大的鐘、盛放的花又是什麼…<br>
-<span style="color:#4eb24e;">拉菲&{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">拉菲&{namecode:6}：</span><br>
 問問其他人吧<br>
 問問其他人的說<br>
 <span style="color:#4eb24e;">独角兽：</span><br>
@@ -125,7 +125,7 @@ Zzzzzzz……<br>
 這、這麼說的話……<br>
 <span style="color:#4eb24e;">Z46：</span><br>
 巨大的鐘指的的學院的鐘，盛放的花…考慮到現在的時間，應該可以認定是重櫻移栽過來來的櫻花。<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 意思是“下午4點到中庭的櫻花樹下來”的說？<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 ……我、我知道了！<br>
@@ -147,7 +147,7 @@ Zzzzzzz……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 妳、妳是——！<br>
 <span style="color:#4eb24e;">？？？：</span><br>
-「沒錯，我乃持有模擬再現經由{{AF|夕張}}改造之心智魔方的意識傾向反映機能之力，由妳的心願具象化而生的存在——」<br>
+「沒錯，我乃持有模擬再現經由{namecode:37}改造之心智魔方的意識傾向反映機能之力，由妳的心願具象化而生的存在——」<br>
 「指揮喵J是也！喵」<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 那封信也是妳送來的吧！<br>
@@ -163,12 +163,12 @@ Zzzzzzz……<br>
 標槍！撐住啊！馬上來幫妳了！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 指揮喵J…最強的敵人…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 “鬼神”之力，好好感受吧…！<br>
 <br>
 (大爆炸)<br>
 <span style="color:#ec5d53;">指揮喵J：</span><br>
-「怎、怎麼可能——！喵。{{AF|夕張}}大人賦予的強大力量，竟然這麼輕易的就被壓制了——！喵。」<br>
+「怎、怎麼可能——！喵。{namecode:37}大人賦予的強大力量，竟然這麼輕易的就被壓制了——！喵。」<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 標槍，最後一擊！<br>
 <span style="color:#4eb24e;">标枪：</span><br>
@@ -192,7 +192,7 @@ Zzzzzzz……<br>
 五　這是什麼！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 ……這是什麼<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 到一半就開始變得亂七八糟了、的說。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 標槍、爛尾了…<br>
@@ -205,14 +205,14 @@ Zzzzzzz……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 那、那是…因為畫到一半突然不知道要怎麼編下去了…後面就這樣把素描本忘在社團活動室了…<br>
 不知什麼時候就被大家各種補畫完了…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 製作漫畫果然很難的說。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 如果叫上我們一起幫忙就好了。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 不過，總會有不順的時候嘛，下次努力畫到最後吧？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
-{{AF|綾波}}也想要一起畫漫畫的說<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+{namecode:6}也想要一起畫漫畫的說<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲也要幫忙<br>
 <span style="color:#4eb24e;">标枪：</span><br>

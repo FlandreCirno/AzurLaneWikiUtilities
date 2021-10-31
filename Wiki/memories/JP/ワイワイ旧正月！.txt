@@ -65,24 +65,24 @@
 聞くにしても、それを知っている子じゃないと……あ、あっちにいるのは……？<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 やっほ～！綾波ちゃん！ラフィーちゃん！そっちのは新しいお友達？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 重桜の夕暮です。撫順が会うのは初めてのはず、です<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 あっ、初めまして、夕暮です。よろしくお願いします<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 どうもどうも～ってあれ？なんかみんな新しい衣装着てるよ！しかも東煌風の！<br>
 <span style="color:#4eb24e;">太原：</span><br>
 綾波とラフィー、夕暮の新しい衣装……みんなかわいいです…<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 みんなで一緒に作りました<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 うん、綾波とみんなで……時間をかけて、作った<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 予想よりも時間かかったです……でも春節に間に合ったから大丈夫、です<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 いいねいいね～お、そうだ！ちょっと聞きたいことがあって～<br>
 実は春節の余興として、爆竹を作る火薬を探しているんだけど、どこにあるか知ってる？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……この前のお祭りのときの花火用の火薬なら、旧倉庫にあるはずです<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 おお！旧倉庫か！へへへ、まさかこんなに早く見つかるとはね～<br>
@@ -92,21 +92,21 @@
 すっごく面白いものなんだよ！火をつけるとどでかい音でパチパチと鳴るよ！<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 面白そうかも……ラフィーも一緒に作る<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 火薬は危険……です。でも、気を付ければ……<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 きゅ、旧倉庫ですか？わ、私は遠慮します……有明姉さんも待っていますし、それに旧倉庫の中はちょっと暗くて、こわい……<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 夕暮、気をつけて、です<br>
 <br>
 母港・旧倉庫<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……見つけた、こっち、です<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 えへへへへ、爆竹の材料は見つけた、あとは――<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 ラフィー、これを見つけた。モノポリー……？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 綾波は見たことあるのです。「すごろく」盤……です？<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 なになに？私にも見せて――<br>
@@ -147,7 +147,7 @@
 うううぅ、撫順姉さんの爆竹こわすぎますよぉ！……すみません鞍山姉さん、撫順姉さんを止められなくて……<br>
 <span style="color:#4eb24e;">鞍山：</span><br>
 ……ブ！ジュ！！ン！！！こっちに来なさい！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 うっ……頭がくらくらするのです……<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 パチパチどころじゃなかった……<br>
@@ -190,7 +190,7 @@
 あぅ……撫順姉さん運良すぎますよ……<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 撫順……強敵……<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 形勢逆転はもう無理、です……<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 へへへっ、撫順、大勝利～！やっぱりこのすごろく？……モノポリー？ショウカンズ？ってゲーム面白いよね！<br>

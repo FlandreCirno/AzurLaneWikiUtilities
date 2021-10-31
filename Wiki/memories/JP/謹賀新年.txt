@@ -5,38 +5,38 @@
 謹賀新年<br>
 <br>
 その一  この素晴らしい正月に準備を！<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 ふぅ……やっと帰ったわ……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 ただいまにゃ！今日も大漁だにゃ……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 大漁って……私たちは確かお正月の買い出しに行ったはずだったんだけど……ねぇ、明石ちゃん？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 ふにゃ…いいパーツを見つけて思わず…べ、別にいいにゃ！「びじねすちゃんす」だにゃ！<br>
 それに指揮官やみんなもきっと喜ぶにゃ！<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 明石ちゃんコラ、パーツを抱えて逃げないの！買ってきたものを片付けるわよ。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 にゃ…明石は指揮官の懐で寝たいにゃ―<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あら、愛宕と明石ちゃん、おかえり。買い出しは終わった？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 にゃ！蒼龍だにゃ！<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 ええ。こっちの買い出しはだいたい終わったわ。…といってもこの子は余計なものまで買っちゃって。ふふふ。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 それはよかった。買ったものの片付け、それと……そろそろ年末の大掃除ね。みんなに声掛けないと。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 蒼龍は凄いわね。さすが指揮官の右腕だわ。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ま、まぁやるべきことをやっただけよ……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 明石も右腕だにゃ！<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 はいはい、明石ちゃんは母港みんなの右腕だわ。右腕ならちゃんと手伝わないとね。はい、これはあっちに――<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 わかったにゃ……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あ、私も手伝うわよ？<br>
 {{折叠面板|内容结束}}
 
@@ -45,47 +45,47 @@
 謹賀新年<br>
 <br>
 その二  年末の大ソウジ<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 コホン！ではこれより年末の大掃除を始めますわ！<br>
 <span style="color:#4eb24e;">重桜のみんな：</span><br>
 おう！<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 オゥ！あたたたたた！一気に片付けてやるぜ！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 あわわわ！ いませいりしたばかりなのに……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 ふぅ…戦場の「ソウジ」より、母港の掃除のほうが疲れるな……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 ふふふ……普段でも注意しているとはいえ、やっぱり正月はもっと気をつけないと……指揮官様の母港の「害虫」はこの機に……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 赤城姉さま、今日の任務は普通の整理整頓……くれぐれも暴走しないでください……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 加賀、安心して。指揮官には迷惑をかけないように心掛けていますわ。あの「害虫」たちが指揮官の側にさえ近づかなければ……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 なんか不穏な発言が聞こえちゃったけど……<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 あら……なんか面白いことでもやっているの？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 貴女はたしか鉄血の……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あ、オイゲンさん、こんにちは。いま重桜寮で年に一度の大掃除をやっているの。<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 「オオソウジ」ね……そういえば、先ほど指揮官が誰かと一緒にいるのを見かけたけど……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 なん、ですって……指揮官様の身の回りも「ソウジ」しなければならないようね……ふふふ、指揮官様、いま赤城がお側に駆けつけますわ……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}&{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}&{namecode:92}：</span><br>
 ……<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 やっぱり「オオソウジ」はこうでないと面白くないわね。うふふ<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 策で赤城をけしかけてこちらの戦力を削るとは、さすがは鉄血だな。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 うぅ…赤城先輩は指揮官が絡むととことんわかりやすくなるものね……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 あら、掃除する場所は結構残っているのに、なんで赤城がもう行っちゃうの……<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ねぇ、私にも手伝わせてもらえないかしら？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 え、いいの？<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ふふ、重桜の「オショウガツ」には結構興味があるからね…<br>
@@ -102,42 +102,42 @@
 年越し…毎年いつもみんなと同じ『Dinner for one』を見て…<br>
 なんかそろそろ飽きちゃったな……<br>
 うん？そこにいるのは……重桜の……？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 にゃ！オイゲンにゃ！どうしたにゃ？なんか元気ないにゃ…？<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 購買部の明石じゃない…なんか忙しそうね。最近はどうかしら？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 明石は重桜のみんなと一緒にお正月の準備をしているにゃ！色々忙しすぎて売店の売上も落としそうだにゃ……<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ふぅ～ん。重桜の「オショウガツ」ね。そんなに準備することあるの？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 ありすぎて超忙しいにゃ！重桜のみんなにとってお正月は大切な祝日だにゃ！<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 へぇー。なんか面白そうじゃない……<br>
 <br>
 重桜寮<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あ、じゃあこの飾をそこに置くのを手伝って。これ全部お正月用だから今日中に全部飾ってしまいたいの。こっちも人手不足で…<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 りょうかーい。…この竹みたいのは何に使うのかしら？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 これは門松っていうの。あ、これ2つでワンセットだから門の両側に置いて。由来は“豊作をもたらす神様が家に来るための目印”という所かしら。<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 これを門に置けば確かに目立つわね……この藁みたいなのは？ちょっとカッコイイじゃない。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あ、あれはえっと、神様を迎えられるように神聖な場所を作るものよ。玄関に飾るものだから、玄関と窓の上につけといて。キッチンにも。<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 しきたりが結構あるわね……できたわ。<br>
 この白い餅みたいのは食べれる？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 あれは鏡餅だにゃ。食べ物だけど今はまだ食べられないにゃ。……ちゃんとお供えして、正月が終わったら食べるにゃ。<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 そう？凄く食べてほしい形にしているのに、今じゃ食べられないわけ？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 我慢にゃ！年越しパーティーではいっぱい食べられるにゃ！<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 重桜のパーティーね……ふーん……私も参加できる？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 母港のみんなは仲間だからウェルカムにゃ～<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 うふふ……じゃあ楽しみにしているわ……重桜の酒が美味いと聞いてるからね<br>
@@ -173,7 +173,7 @@
 綾波…寝坊…？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 ラフィーが寝坊しても綾波は寝坊しないと思う。多分。<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 綾波はここ、です。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 うわぁぁぁ！あ、綾波！？<br>
@@ -181,11 +181,11 @@
 ニーミちゃんの今の顔！あはははは！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 うぅ…な、なんで後ろに現れるのよ……<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 鳳翔さんのところに行って、頼んだものを受け取ってきたのです<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 なるほど…綾波ちゃんが持っているもの……衣装？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 鳳翔さんに作ってもらって、みんなにプレゼントしようと思ったのですが…時間がなくて、一着しかないのです…<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 一着ね…<br>
@@ -195,13 +195,13 @@
 綾波、この丸い食べ物はなに――<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 決まった！ラフィーちゃんにしよう！いいよね？ニーミちゃん、綾波ちゃん！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}&Z23：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&Z23：</span><br>
 はい！<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 え……？あぅ…待っ――<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 えへへへ、よいではないか～よいではないか～<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ラフィーの肌…すべすべ――<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 かゆ…さむ――<br>
@@ -211,13 +211,13 @@
 変身完了～ラフィーちゃん、どう？<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 ビミョー……ウエストが高い……ちょっとキツい……袖がヒラヒラ、ちょっとスースーする……<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 でも、可愛いです。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 凄く似合っていますよ？私でもちょっと妬いちゃう（小声）こ、コホン！<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 やっぱりいいな、ラフィーちゃんと同じ衣装が欲しいな…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 次は、みんなの分を用意するのです。<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 うん……みんな…一緒……<br>
@@ -225,7 +225,7 @@
 うん！楽しみ！<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 じゃあプレゼントももらったし、みんな揃ったし、パーティーを始めよう！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 うん、まずはアニメ鑑賞、です。<br>
 <span style="color:#4eb24e;">みんな：</span><br>
 ……<br>
@@ -236,82 +236,82 @@
 謹賀新年<br>
 <br>
 その五  年賀状<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 蒼龍おねえちゃん、なにしてるの？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あら如月ちゃんじゃない。みんなに年賀状を書いているのよ。<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 ねんがじょう？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 友達に新年のご挨拶を送ることね。あとは近況報告とかも。<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 如月も……かいていい？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 もちろん。誰に送るの？<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 えっと……えっと……しきかん？<br>
 如月、しきかんにおめでとうって……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あら？いいんじゃない？如月ちゃんの年賀状をもらえたら指揮官もきっと嬉しいわ。<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 え…？なんで嬉しくなるんだよ？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 それは…って夕立廊下を走るな！……年賀状を送ってくれる大人しい子にはご褒美が出るかもしれないわよ？<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 なに！じゃあ夕立も書く！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 本当に？じゃあちゃんと座ってて。如月も。はい、この年賀状とペンを使って。<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 うん！楽しみ！<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 蒼龍、なんでこの年賀状には犬が描いてあんの？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 年賀状はその年の干支をあしらったものが多いわ。今年は戌年だから犬なのよ。夕立には嬉しいんじゃない？<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 だから犬じゃないって！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ふふ、とにかく、新年のご挨拶と抱負を書いてみて。とくに小さい子は思ったことをそのまま書いてもいいわ。<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 じゃあ…「指揮官、今年はお肉をいっぱい食わせろ！」…よし！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ………………せ、せめて「謹賀新年」って書いて、ね？<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 オゥ！……でこれどうやって書くの？<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 如月も……かけないよ……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 はぁ、私としたことが……じゃあまず私が書いてみるから、みんなで真似してね。<br>
-<span style="color:#4eb24e;">{{AF|青葉}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 あれ？蒼龍と夕立ちゃんと如月ちゃんじゃない。ここで何してるの？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 指揮官に送るための年賀状の書き方を教えているの。<br>
-<span style="color:#4eb24e;">{{AF|青葉}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 年賀状？………………ははん、なるほど～ごゆっくり～<br>
 <br>
 一時間後<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 青葉、あなたがやったのね……<br>
-<span style="color:#4eb24e;">{{AF|青葉}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 さて、なんのことかな………<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 駆逐艦の子たち全員を呼んだでしょう……<br>
-<span style="color:#4eb24e;">{{AF|青葉}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 いえいえ、私はただ「指揮官に年賀状を書きたい子はこちらまでー」と言いふらしただけよ～？<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 蒼龍せんせい、おはなをかいたの！どう？<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 蒼龍……せんせい、「きんがしんねん」のじはあってるの……？<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 あ！この年賀状に肉が描いてある！これで書くぜ！<br>
-<span style="color:#4eb24e;">{{AF|神風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:124}：</span><br>
 おーほっほっほ～、なんか“刺激的な”ことでも書いてやるかのう～<br>
-<span style="color:#4eb24e;">{{AF|新月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:125}：</span><br>
 あぅ……また間違えちゃいました……<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 蒼龍、吾輩の字はどうなのじゃ！<br>
-<span style="color:#4eb24e;">{{AF|青葉}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 へっへー、『人気絶頂！年末限定・蒼龍先生の特別教室開催中！』これで明日の一面はバッチリ！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 なんで神風さんまでいるのよ……はぁ……まあ、こういうのも悪くないか……<br>
 はい、質問はひとりずつ！「謹賀新年」の書き方をもう一度教えるから、みんな注意して――<br>
 {{折叠面板|内容结束}}
@@ -321,47 +321,47 @@
 謹賀新年<br>
 <br>
 その六  新年の狂宴？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ふぅ…よし、年越しそばはこんな感じかしら……<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 おいしそう……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ああ夕立気をつけて！鍋に落ちたらやけどするわよ！<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 こっちもうまそうじゃん！おかわりくれ！早く！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 お、落ち着いて……おかわりはいっぱいあるわよ。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 やはり蒼龍はこういうのが得意のようね。あら、加賀もこっちにいるの？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 たまには落ち着いて平和を享受するのも悪くないか。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 平和とか加賀らしくないわね。そういえば赤城は？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 「まだ働いている指揮官様の世話をしに行く」と言って飛び出したな。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 あらあら……これは指揮官も大変ねぇ……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 愛の重みとはそういうことだ。せっかくの正月だ、姉さまを好きにさせてもいいだろう。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 とはいえ、好き勝手にさせてはいけない子もふたりほどいるわね。<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 重桜の酒…なるほど、たしかに美味しいわ。<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 ラフィーも……おかわりほしい……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 オイゲンはわかるけど…なんでユニオンのラフィーちゃんまでいるの！？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 お店で出会ったにゃ。ラフィーも重桜のお正月に興味がありそうだから連れてきたにゃ。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ああ、せっかくの可愛い着物なのに……お酒が入ったら本当にだらしないんだから……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 年越し飲み会か……ふふふ…久しぶりに心躍りそうだな。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 あらら、これは……あとの惨状がもう見えているわね…<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 さんじょう…？なに…？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 羽目をはずしすぎた大人たちの悲惨な末路だにゃ…いい子は真似しないでにゃ。<br>
 {{折叠面板|内容结束}}
 
@@ -370,11 +370,11 @@
 謹賀新年<br>
 <br>
 その七  新年の願い<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 赤城姉さま……初詣に行くこと忘れてなかったんですね……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 うふふ、もちろん♪指揮官様の健康、そして害虫に毒されないためにも、こういう祈願は大事なのですわ～<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 さすがは赤城ね～<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 うぅ……<br>
@@ -384,65 +384,65 @@
 あんなに飲んでいたのに、なんでこうもスッキリした顔をしていられるんだ……<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 重桜の力…凄い……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 ふん、初詣は大事な行事だからな。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 今年一年の平和と幸運を祈るにゃ！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 如月、ねむい……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あはは、結構遅くまではしゃいだものね……特に飲んだくれた人には今日はきついかも……<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 ここが「ジンジャ」？いい雰囲気じゃない。<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 神聖な場所だからな。まさかあの姉妹が短時間でここまで仕込めるとは……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 はい、来たからには参拝しないとね。<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 先に来た子たちはもう絵馬を掛けたの？……わあ、変なのもいっぱいあるようね…<br>
 （このひどい字に肉の落書き…夕立ね…）<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 ようこそいらっしゃいました。みんなが願いを込めてお祈りするところを見られて、私と山城も準備した甲斐がありました。<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 破魔矢、感謝する。大事にするぞ。<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 御利益がありますように。では皆様どうぞこちらへ。あとは…オイゲンとラフィーちゃんのために少し説明しますね。<br>
 まずは手を清めてください。次は神前で鈴を鳴らして、お賽銭を入れてから二拝二拍手一拝が作法です。<br>
 <span style="color:#4eb24e;">プリンツ・オイゲン：</span><br>
 わかったわ。<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 うん……<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 じゃあ始めるわよ？<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 （今の生活がいつまでも続きますように……）<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 （指揮官がもっと頼ってくれるように……）<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 （指揮官様と赤城が永遠に一緒にいられますように……もちろん、害虫はこの赤城が……ふふふ……）<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 （今年も強敵と血わき肉おどる戦闘ができますように……）<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 （ことしも睦月ちゃん…みんなといっしょにたのしくあそべますように……）<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 （今年も明石のお店にたくさん来ますように、にゃ）<br>
 <br>
 （カラカラカラ～）<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 これからも美味しいものを一杯食べさせてもらうぜ！<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 こら、口に出してはダメよ！ってそれ願いじゃないでしょ！？<br>
 <br>
 （カラカラカラ～）<br>

@@ -19,7 +19,7 @@
 <span style="color:#4eb24e;">康克德：</span><br>
 啊呀~光顧著說補充糖分的事了。桌上的訓練報告還有很多要匯總呢~<br>
 該專心工作了~♪<br>
-喂！那邊的小{{AF|睦月}}，要不要交換棒棒糖？<br>
+喂！那邊的小{namecode:33}，要不要交換棒棒糖？<br>
 那不是笨蛋奧馬哈大姐嘛……啊，又去買零食了~待會兒也去蹭一些過來，嘻嘻~<br>
 啊哈，工作全做完了~好累~還不快來給我揉揉肩~♪<br>
 <br>
@@ -136,7 +136,7 @@ HI~HI~HI~☆ 持續~應援中~<br>
 <span style="color:#4eb24e;">拉德福特：</span><br>
 整個屋子都香噴噴的，敦克爾克小姐的屋子真棒啊~<br>
 桌子上的糖果也很好吃！<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 哇！總算來啦，好次的點心出爐啦~<br>
 <span style="color:#4eb24e;">敦刻尔克：</span><br>
 讓大家久等了，充滿獨特風格的甜點上桌了。<br>
@@ -144,8 +144,8 @@ HI~HI~HI~☆ 持續~應援中~<br>
 喜歡甜品的大家都聚在了一起。<br>
 <span style="color:#4eb24e;">敦刻尔克：</span><br>
 今天的甜點味道如何呢？希望能夠合各位的口味。<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
-好次！{{AF|睦月}}能多吃一些嗎？<br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
+好次！{namecode:33}能多吃一些嗎？<br>
 <span style="color:#4eb24e;">拉德福特：</span><br>
 馬卡龍果然還是敦克爾克小姐做的最好吃！<br>
 <br>
@@ -250,7 +250,7 @@ HI~HI~HI~☆ 持續~應援中~<br>
 糖分互助聯盟的又一次聚會——<br>
 <span style="color:#4eb24e;">敦刻尔克：</span><br>
 久等了，今天的第一道甜品是鬆餅。<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 是糖分充足的松餅！<br>
 <span style="color:#4eb24e;">奥马哈：</span><br>
 哇啊啊——的確能夠激起食欲！<br>

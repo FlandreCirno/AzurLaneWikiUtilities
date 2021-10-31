@@ -9,19 +9,19 @@
 值班——也是指揮官和秘書艦的工作之一。<br>
 這是為了讓平時住在基地之外的將官們能在緊急時刻及時應對，而讓他們留在基地過夜的一種制度，但是……<br>
 如果隔天是休息日，只要遵守了“指揮官和秘書艦兩天內保持共同行動”這一條，不管是出門還是休息，據說都沒問題。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 指揮官？都0點了，你是不是該睡了？<br>
 明天不用值班，你只管休息，夜班就交給姐姐我吧。<br>
 <br>
-'''''<span style="color:black;">选择项1：向{{AF|愛宕}}提出明天的邀約。</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+'''''<span style="color:black;">选择项1：向{namecode:67}提出明天的邀約。</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 啊啦，約會？……開玩笑的。<br>
 不過“明天陪我去買東西吧”這種話，未免太無趣了吧？姐姐想聽的是別的話呢。<br>
 反正明天看來也沒什麼事，什麼時候回去都沒關係，陪陪你也行啊。<br>
 然後呢，你想買什麼？<br>
 <br>
-'''''<span style="color:black;">选择项1：把事先準備好的購物清單拿給{{AF|愛宕}}看。</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+'''''<span style="color:black;">选择项1：把事先準備好的購物清單拿給{namecode:67}看。</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 唔，還真是“港區買不到但也不至於出遠門網購又太麻煩的”東西大集合啊……<br>
 你還真是準備充分呢，這樣一來姐姐也可以放心讓你帶路啦。<br>
 好了，明天還要早起，今天你就早點睡吧。<br>
@@ -34,36 +34,36 @@
 <br>
 二 出發！<br>
 次日·早晨<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 哎呀？指揮官，早安。今天來的挺早啊。<br>
 比約定的時間早了半個小時？你該不會是……覺得姐姐我是和你一樣守規矩又懂禮貌的好孩子？<br>
 那你可就誤會了哦？姐姐來得早是因為……你看那邊。<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
-{{AF|愛宕}}？還有……指揮官？你們也是來晨練的嗎？<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
+{namecode:67}？還有……指揮官？你們也是來晨練的嗎？<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 不是。啊，這個先給妳。<br>
 <br>
-{{AF|愛宕}}拿出一瓶運動飲料，遞給{{AF|高雄}}。<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
-多謝。指揮官，其實{{AF|愛宕}}每天早上都會在晨練的時候給我送這個。相當於是日課吧。<br>
+{namecode:67}拿出一瓶運動飲料，遞給{namecode:66}。<br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
+多謝。指揮官，其實{namecode:67}每天早上都會在晨練的時候給我送這個。相當於是日課吧。<br>
 剛，剛開始我是有拒絕的，但是她怎麼說都不聽……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 啊啦，是誰說什麼只要有拼搏精神就足夠了，連口水都不肯喝一個勁死練，最後演習的時候中暑累趴下了？<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 ……咳咳！話說回來，指揮官今天不是休息嗎？<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
-呵呵，{{AF|高雄}}很在意嗎？其實呢……<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
+呵呵，{namecode:66}很在意嗎？其實呢……<br>
 <br>
-{{AF|愛宕}}湊到{{AF|高雄}}耳邊竊竊私語了一番。<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+{namecode:67}湊到{namecode:66}耳邊竊竊私語了一番。<br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 什麼！？指揮官！就、就算是休息，作、作為軍人，這不太合適吧！<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
-{{AF|高雄}}也想來的我們三個人一起做也可以哦？<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
+{namecode:66}也想來的我們三個人一起做也可以哦？<br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 在下還是免了吧！<br>
 <br>
-不知為何變得氣呼呼的{{AF|高雄}}，揣著刀一路跑開了。<br>
-到底{{AF|愛宕}}對她說了什麼……<br>
+不知為何變得氣呼呼的{namecode:66}，揣著刀一路跑開了。<br>
+到底{namecode:67}對她說了什麼……<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=購物事件|选项=3|主框=1|样式=primary|展开=否}}
@@ -72,40 +72,40 @@
 <br>
 三 購物事件<br>
 港區附近的街道<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 感覺好久沒來買東西了呢……指揮官你還好吧？還拿得動嗎？<br>
 呵呵，抱歉啊，這種時候要是我拿太多的話，會被人用奇怪的眼光盯著的~<br>
 不過話說回來……<br>
-<span style="color:#4eb24e;">{{AF|鳥海}}：</span><br>
-那是……{{AF|愛宕}}前輩？前輩——！<br>
-<span style="color:#4eb24e;">{{AF|摩耶}}：</span><br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
+那是……{namecode:67}前輩？前輩——！<br>
+<span style="color:#4eb24e;">{namecode:68}：</span><br>
 哇……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
-啊啦，這不是{{AF|鳥海}}和{{AF|摩耶}}嘛。妳們也來買東西？<br>
-<span style="color:#4eb24e;">{{AF|鳥海}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
+啊啦，這不是{namecode:69}和{namecode:68}嘛。妳們也來買東西？<br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
 是的！今天我們來買新衣服！啊，指揮官你也辛苦了！<br>
-啊，{{AF|愛宕}}前輩！聽說這附近新開了一家自助餐廳誒！要不等會兒妳和指揮官一起去看看吧！<br>
-那我們就先走了……{{AF|摩耶}}也別杵著了，快去看下一家！<br>
-<span style="color:#4eb24e;">{{AF|摩耶}}：</span><br>
+啊，{namecode:67}前輩！聽說這附近新開了一家自助餐廳誒！要不等會兒妳和指揮官一起去看看吧！<br>
+那我們就先走了……{namecode:68}也別杵著了，快去看下一家！<br>
+<span style="color:#4eb24e;">{namecode:68}：</span><br>
 我又不是非要買東西……好了別拉拉扯扯了！我去總行了吧！去就去！<br>
-<span style="color:#4eb24e;">{{AF|鳥海}}：</span><br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
 真不好意思……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
-{{AF|摩耶}}這麼不高興倒是挺少見的，怎麼了嗎？<br>
-<span style="color:#4eb24e;">{{AF|鳥海}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
+{namecode:68}這麼不高興倒是挺少見的，怎麼了嗎？<br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
 呃，就是剛才我們試內衣的時候，試衣間只剩一間空著了，就兩個人一起進去了……結果出來以後就一直這樣了……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
-這樣啊……{{AF|摩耶}}啊，像我們這樣的，怎麼說呢，雖然是不太發育……但體型還是有可能會變化的哦？<br>
-<span style="color:#4eb24e;">{{AF|摩耶}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
+這樣啊……{namecode:68}啊，像我們這樣的，怎麼說呢，雖然是不太發育……但體型還是有可能會變化的哦？<br>
+<span style="color:#4eb24e;">{namecode:68}：</span><br>
 話雖這麼說……我也不知道為什麼自己會是這樣的……<br>
 <br>
-'''''<span style="color:black;">选择项1：給{{AF|摩耶}}圓場</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|摩耶}}：</span><br>
-就算妳這麼說……唉……{{AF|愛宕}}前輩一開始就很大所以完全不用操心啊……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+'''''<span style="color:black;">选择项1：給{namecode:68}圓場</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:68}：</span><br>
+就算妳這麼說……唉……{namecode:67}前輩一開始就很大所以完全不用操心啊……<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 （驚）妳剛剛說什麼？<br>
-<span style="color:#4eb24e;">{{AF|摩耶}}：</span><br>
-什、什麼也沒說！{{AF|鳥海}}我們走！<br>
+<span style="color:#4eb24e;">{namecode:68}：</span><br>
+什、什麼也沒說！{namecode:69}我們走！<br>
 <br>
 兩人迅速地離開了。<br>
 {{折叠面板|内容结束}}
@@ -115,29 +115,29 @@
 和姐姐的一日約會<br>
 <br>
 四 休息時間，然後——<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 午飯也吃了，要買的東西也差不多了吧。還挺順利的？<br>
 呵呵，看看你，一臉“就這麼回去好可惜”的表情，有沒有什麼想去的地方呢？<br>
 <br>
-'''''<span style="color:black;">选择项1：由{{AF|愛宕}}決定就好</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+'''''<span style="color:black;">选择项1：由{namecode:67}決定就好</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 嗯……我不是說了今天交給你帶路的嗎？這樣是要扣分的哦。<br>
 ……說說而已，其實姐姐我倒是有點東西想看，你不妨……陪陪我吧？<br>
 門票，拿好。抱歉啊，讓你陪著我到處跑。<br>
 <br>
 莫名其妙地跟著到了電影院來陪她看電影……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 唉，好久沒來看電影了呢。其實姐姐我挺喜歡這種愛情片的~<br>
 ……呃…………這…………該不會是我買錯票了……？<br>
 <br>
-仔細一看，{{AF|愛宕}}買的票上寫著“類型：恐怖”……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+仔細一看，{namecode:67}買的票上寫著“類型：恐怖”……<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 嗯，嘛，這種偶爾也會看一看啦。好了指揮官，要開始了哦！<br>
 座位……嗯，就挨著坐好了，要是害怕的話可以撲到姐姐懷裡來哦？<br>
 實在不行的話，中途退場也可以啊。本來就是我硬拉你來的……<br>
-你可不要像{{AF|高雄}}那樣逞能哦。有什麼事就和姐姐說知道嗎？<br>
+你可不要像{namecode:66}那樣逞能哦。有什麼事就和姐姐說知道嗎？<br>
 <br>
-不知道是不是錯覺，{{AF|愛宕}}的笑容看上去十分勉強。<br>
+不知道是不是錯覺，{namecode:67}的笑容看上去十分勉強。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=黑暗之中|选项=5|主框=1|样式=primary|展开=否}}
@@ -146,52 +146,52 @@
 <br>
 五 黑暗之中<br>
 （咔嚓咔嚓咔嚓）<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 ……………<br>
 <br>
 （咕咚咕咚咕咚）<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 ……………<br>
 <br>
 （無聲）<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 ……………<br>
 <br>
 （我——好——恨——）<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 ！！！！！<br>
 <br>
 '''''<span style="color:black;">选择项1：好痛痛痛！</span>'''''<br>
 <br>
-突然被坐在身邊的{{AF|愛宕}}用力捏住了手。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+突然被坐在身邊的{namecode:67}用力捏住了手。<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 （哆哆嗦嗦……）<br>
 <br>
 回頭一看，她一聲不吭地低著頭——在發抖。<br>
 <br>
 '''''<span style="color:black;">选择项1：用力回握她的手</span>'''''<br>
-'''''<span style="color:black;">选择项2：將{{AF|愛宕}}摟過來</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+'''''<span style="color:black;">选择项2：將{namecode:67}摟過來</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''……………！<br>
 <br>
 她回握的力氣也更大了。<br>
 無暇在意電影的內容，我們只能以緊握的手感受彼此的體溫。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''…………指揮官……？<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 …………嗯……我不怕，不怕……<br>
 <br>
-時而英氣，時而魅惑，但總是不慌不忙的{{AF|愛宕}}……此時顯得柔弱了不少。<br>
-電影結束的時候，能聽到在懷中睡著的{{AF|愛宕}}微微的呼吸聲。<br>
+時而英氣，時而魅惑，但總是不慌不忙的{namecode:67}……此時顯得柔弱了不少。<br>
+電影結束的時候，能聽到在懷中睡著的{namecode:67}微微的呼吸聲。<br>
 （一小時後）<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 剛才謝謝啦。就算是姐姐我，對幽靈也是有點怕的……<br>
 不是有這麼個說法，再完美的人也會有一兩個弱點嘛？<br>
 姐姐我也一樣啊。倒是指揮官你，能瞭解到我的另一面也挺好不是嗎？<br>
-啊不過，千萬別告訴其他人哦？除了{{AF|高雄}}……<br>
+啊不過，千萬別告訴其他人哦？除了{namecode:66}……<br>
 <br>
-又恢復到往常的{{AF|愛宕}}了。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+又恢復到往常的{namecode:67}了。<br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 只有指揮官一個人知道的“秘密”，很珍貴對吧？呵呵。<br>
 {{折叠面板|内容结束}}
 
@@ -201,13 +201,13 @@
 <br>
 六 夕陽下的禮物<br>
 港區附近的高處<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 指揮官，今天辛苦你了。<br>
 雖然也有突發情況，姐姐還是挺開心的。<br>
 指揮官覺得今天的約會怎麼樣？開心嗎？<br>
 <br>
 '''''<span style="color:black;">选择项1：很開心</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 呵呵，謝謝囉。話說回來，這片海永遠都是這麼美啊。<br>
 有時候會記不起自己是為什麼而戰，可一來到這裡看到這片海，就能想起來。<br>
 ——我，是為了自己最想要的東西而戰鬥著的。<br>
@@ -218,7 +218,7 @@
 <br>
 說得沒錯，有時候確實自己也會忘記本來的目的。<br>
 跨越了各個勢力間的隔閡而聚集到港區來的大家，她們的信念究竟會如何……<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 今天過去以後，明天就回到日常了。<br>
 可能我已經不是秘書艦，指揮官也會和其他人有所交集。<br>
 所以在那之前——<br>
@@ -234,20 +234,20 @@
 就算是充滿犧牲的道路,<br>
 也一定會毫不回頭地前進到最後一刻。<br>
 所以這次，我——<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 我最想要的，就是你呀，指揮官。<br>
 我當然明白，要獨佔你很難，雖然我很想。<br>
 不過姐姐我就是這個性子，指揮官也明白的吧。<br>
 <br>
 眼前一黑，伴隨著柔軟的觸感。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 沒關係，也不是非得今天才行。<br>
 只要將來某個時刻能答應我，就算是最後的最後——這場戰爭結束以後，也行。<br>
 為了那一刻，我什麼都能做，多久都能等。<br>
 讓指揮官屬於我——只要這個目標還在，姐姐就能戰鬥下去。<br>
 <br>
 這並不是瘋狂，也不是執著，對她而言這是“目標”，是“生存下去的力量”，僅此而已。<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 所以讓我再說一次吧。<br>
 呐，指揮官，成為只屬於姐姐的存在吧。你只要聽姐姐的話，什麼都不用想……<br>
 因為這次，我絕不會放過你的♪<br>

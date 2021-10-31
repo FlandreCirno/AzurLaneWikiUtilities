@@ -55,7 +55,7 @@
 ……あなたたちだけじゃ心配だから、来てあげたのよ<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 帰る方法はイストワールが調査中です。心配せずとも大丈夫みたいですわよ<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 別の偵察任務でばったり会ったので、お連れしたです<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 ありがとう、綾波ちゃん…あなたたちも自分の偽物と？<br>
@@ -63,20 +63,20 @@
 ……ええ、綾波たちの協力で、何とか撃退できたけど……<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 正直、シェアがないので本領発揮とは行きませんわね<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 そういえば……ねぷねぷたちのことで、明石さんが呼んでいたのです<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 話は聞いてるにゃ。女神の皆さんは、こっちじゃ力を出せないらしいにゃ？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 明石さん、解決策が見つかったんですか？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 簡単にゃ、郷に入れば郷に従え──女神さんたち専用の艤装を作ればいいにゃ<br>
 これでみんなと一緒に出撃できるはずにゃ<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 おおーっ！まさかの新装備キタコレ！<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 そんな手があったとはね……すぐ作れるの、明石ちゃん？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 うーん…今日はもう遅いから、みんな休むといいにゃ<br>
 明石が一晩でやってみせるにゃ。期待して待ってるにゃ！<br>
 {{折叠面板|内容结束}}
@@ -84,19 +84,19 @@
 {{折叠面板|标题=異色海域GREEN|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 『異色海域GREEN』<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 というわけで──明石が一晩でやってみせたにゃ！<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 むむむ…聞き捨てならないな。私も技術協力したのに……<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 わーい！新装備だー！しかもわたしたち専用装備ー！<br>
 明石ちゃん、夕張ちゃん、ありがとね！大切にするよ！<br>
 おお～っ！かっこいいー！これ大砲？あ、魚雷も撃てるの！？これでドカドカドカーンってぶっ放せばいいわけだね！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 にゃにゃにゃ！人に向けちゃいけないにゃ！？<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 ごめんごめん！気をつけるね！<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 艤装はみんなの思うままにコントロールできるよ…だから、不注意で発射されることはないけど……こっち向けんな！？<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 私のはネプテューヌのと違って、砲塔メインなのね。その分、火力重視ってとこかしら……カラーリングもバッチリね、いいじゃない！<br>
@@ -105,13 +105,13 @@
 <span style="color:#4eb24e;">ベール：</span><br>
 わたくしのは艦載機？というのでしょうか。それを発着させて戦う艤装なのですわね……この艦載機たちも可愛いですし、わたくしにぴったりですわ！<br>
 ……艦載機を可愛い女の子の形にするとかできないかしら？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 そういうのは別料金になりますにゃ<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 ……ベール、こっちに来てもブレないわね<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 じゃあじゃあ、わたしの魚雷も可愛いイルカさんとかにしたいなー<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 資金で払ってくれるなら外装も用意できるにゃ。お値段はこんな感じで……<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 それは後よ後！まずは私たちの偽物を対処する、これが優先よ！<br>
@@ -159,7 +159,7 @@
 とにかく、こちらでもワームホールを再び開けるように全力を尽くします。皆さんも十分に気をつけてくださいね<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 通信はわたしたちにも聞こえてました……これで敵の正体が、少しだけ見えてきましたね<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 きっと、セイレーンの仕業……です<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 ねぷねぷたちのデータを集めて、あの偽物を作ったのかな？<br>
@@ -169,7 +169,7 @@
 セイレーン、チート……いつものこと<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 ダイジョーブ！わたしたちは負けない！絶対勝てるって！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 おお、根拠もないのにすごい自信……！<br>
 <span style="color:#4eb24e;">ブラン：</span><br>
 ……当てにしない方がいいわ。確証だってないんだから<br>
@@ -194,7 +194,7 @@
 そうは問屋がって……まだ何かしなくちゃいけないの？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 鏡面海域の偽物たちは、私たちとネプテューヌさんで排除しましたよ？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 あ、もしかして……まだ足りない、とかですか？<br>
 <span style="color:#4eb24e;">イストワール：</span><br>
 はい、大正解です。データが全然足らないんです<br>
@@ -212,7 +212,7 @@
 いいのいいの、あれがいつものいーすんだから<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 重要なことだけ伝えて、『後は任せたー』ってところはあるわよね<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……少しだけ、ウチの指揮官に似てるです<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 そうそう。艦隊編成してー、『みんな頑張れー』って送り出すだけ、みたいな？<br>
@@ -241,7 +241,7 @@
 さっさと潰しておくに限る……ベール、あなただって前の鏡面海域で、自分の偽物を念入りに倒してたじゃない……<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 やはり、近親憎悪というものがありますしね…力の入れようも変わりますわ<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 それ……なんとなくわかるです<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 この鏡面海域では、ジャベリンたちも自分と同じ姿の敵と戦うことがあるから……他人事じゃないよね<br>
@@ -297,7 +297,7 @@
 いや、そこは指揮官の味方をしてあげましょうよ？<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 あーうちの指揮官がそうじゃないけど……燃料だけじゃなく疲労度も真っ赤になるまで回す指揮官もいるのね……<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 見える、酷使される未来が……残業代、請求するです<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 どこもかしこもブラックね、まったく……<br>
@@ -313,7 +313,7 @@
 だってぇ……こんな愛らしい娘たちに囲まれていられるなんて……ここはわたくしにとっての天国ですわ～（ムギュ）<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 わわわっ！？ベールさん、いきなりのハグですか！？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 おおっ……空母以上の包容力……です！<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 ベールもベールで、ネプテューヌ以上に平常運転ね……<br>
@@ -347,7 +347,7 @@
 なかなか新鮮な体験でしたわね……でも、帰ることになるのですか……<br>
 <span style="color:#4eb24e;">ラフィー：</span><br>
 ねぷねぷたち……帰っちゃうの？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 そんなすぐに帰らなくても……もう少し、学園にいてもいい、です<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 みんな……ごめんね、でも、私たち四女神が、あまりゲイムギョウ界を留守にするわけにもいかないのよ<br>
@@ -389,7 +389,7 @@
 まあまあ、そんなこと言われたら……お姉さん毎日来てしまいますわ！<br>
 <span style="color:#4eb24e;">ブラン：</span><br>
 ……ベールは本当に入り浸りそうだから止めた方がいいわ<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……うん、みんなが来るのを待ってるです<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 そして時たま、ジャベリンたちと一緒に出撃しよ、ね？<br>

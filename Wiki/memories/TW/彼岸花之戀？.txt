@@ -6,28 +6,28 @@
 <br>
 一 赤色的秘書艦<br>
 港區·指揮室<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 指揮官大人，下次開會要用的資料給你拿過來了哦。…沒錯，就放在老地方。有時間記得確認一下～<br>
-當然，{{AF|赤城}}都已經仔細檢查篩選過了。真是的…指揮官大人明明只要放輕鬆，將一切都交給{{AF|赤城}}就好了…<br>
-…果然是怕{{AF|赤城}}太累，在擔心我吧～{{AF|赤城}}好感動～<br>
+當然，{namecode:91}都已經仔細檢查篩選過了。真是的…指揮官大人明明只要放輕鬆，將一切都交給{namecode:91}就好了…<br>
+…果然是怕{namecode:91}太累，在擔心我吧～{namecode:91}好感動～<br>
 <br>
 （敲門）<br>
 <span style="color:#4eb24e;">企业：</span><br>
 指揮官，之前演習的報告，我給你拿過來了<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 嗚…企、企業…<br>
 <span style="color:#4eb24e;">企业：</span><br>
-唔，{{AF|赤城}}……<br>
+唔，{namecode:91}……<br>
 <br>
-{{AF|赤城}}不經意地微微捏緊了拳頭。指揮室的氣氛突然凝重……<br>
+{namecode:91}不經意地微微捏緊了拳頭。指揮室的氣氛突然凝重……<br>
 <br>
 '''''<span style="color:black;">选择项1：打個圓場</span>'''''<br>
-'''''<span style="color:black;">选择项2：總之先觀察一下{{AF|赤城}}</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+'''''<span style="color:black;">选择项2：總之先觀察一下{namecode:91}</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''指揮官大人…哼，我知道，現在我們並非敵人，而是同伴。算了，有什麼報告就快說吧。<br>
 <span style="color:#4eb24e;">企业：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''不用妳說我也打算這麼做就是……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''…………（咬牙切齒）<br>
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''有種不光是桌子，整間指揮室都在搖晃的感覺…<br>
@@ -35,9 +35,9 @@
 報告完畢…我也不打算在這裡久留，先告辭了。<br>
 <br>
 （關門）<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-哈啊…指揮官不用擔心，{{AF|赤城}}可是很公私分明的…不會打擾指揮官的公務哦。<br>
-沒錯！就算之後準備把害蟲都“打掃”乾淨，把指揮官變成{{AF|赤城}}的…在工作時間還是…對吧？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+哈啊…指揮官不用擔心，{namecode:91}可是很公私分明的…不會打擾指揮官的公務哦。<br>
+沒錯！就算之後準備把害蟲都“打掃”乾淨，把指揮官變成{namecode:91}的…在工作時間還是…對吧？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=無雙的傳承|选项=2|主框=1|样式=primary|展开=否}}
@@ -47,30 +47,30 @@
 二 無雙的傳承<br>
 白天·演習海域<br>
 艦載機緊急下落引起的凜冽風聲、以及炸彈命中靶艦後的爆炸聲、各種聲響交織著——<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
 哈啊…哈啊…今，今天訓練得比平時還兇啊…<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
-是啊……{{AF|赤城}}前輩這是怎麼了…已經好久沒經歷過這麼辛苦的共同訓練了吧…？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-唔！但只要熬過這關就能更接近前輩一些了！…怎麼了{{AF|翔鶴}}姐！？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
+是啊……{namecode:91}前輩這是怎麼了…已經好久沒經歷過這麼辛苦的共同訓練了吧…？<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+唔！但只要熬過這關就能更接近前輩一些了！…怎麼了{namecode:95}姐！？<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 前輩真壞前輩真壞前輩真壞真壞真壞……（碎碎念）<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 妳們還是別費口舌了。今天的姐姐是動真格的。一個不小心就會像當初姐姐綽號裡說的那樣…見識到什麼是地獄。<br>
-<span style="color:#4eb24e;">{{AF|飛龍}}：</span><br>
-不過為什麼突然說要共同演習呢……{{AF|加賀}}前輩知道原因嗎？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:94}：</span><br>
+不過為什麼突然說要共同演習呢……{namecode:92}前輩知道原因嗎？<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 我也不清楚，不過據報告說上次演習的時候，白鷹那些傢伙的成績比我們重櫻更好<br>
 姐姐也好久沒這麼拼了。就讓我好好享受吧……呵呵呵呵……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 這點程度就叫苦…就這樣也敢自稱重櫻航空戰隊的一員嗎！？<br>
 ……指揮官大人？呵呵，讓你見笑了……請見諒<br>
 不過…我並不是公報私仇，而是為了我們一航戰…不，是為了我們重櫻……<br>
 正是因為這些努力，我們才會在那場戰鬥裡得到“無雙”的稱呼哦<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-{{AF|赤城}}，整隊完畢了。指揮官，別看辛苦，為了獲得足夠的力量大家都很努力。你無需同情她們。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-……那麼指揮官，{{AF|赤城}}就先回去共同訓練了哦。想參觀的話麻煩到那邊去看吧。呵呵♪<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+{namecode:91}，整隊完畢了。指揮官，別看辛苦，為了獲得足夠的力量大家都很努力。你無需同情她們。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……那麼指揮官，{namecode:91}就先回去共同訓練了哦。想參觀的話麻煩到那邊去看吧。呵呵♪<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=情敵與…例外？|选项=3|主框=1|样式=primary|展开=否}}
@@ -79,35 +79,35 @@
 <br>
 三 情敵與…例外？<br>
 白天·商店街<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 放假和指揮官出門逛街……呵呵，呵呵呵♪<br>
 <br>
-{{AF|赤城}}開心地提著購物袋走在身邊<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-指揮官…？你累了嗎？畢竟是人類嘛，不用那麼逞強啊…{{AF|赤城}}全都能幫你拿哦～<br>
+{namecode:91}開心地提著購物袋走在身邊<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+指揮官…？你累了嗎？畢竟是人類嘛，不用那麼逞強啊…{namecode:91}全都能幫你拿哦～<br>
 <br>
-說著{{AF|赤城}}就把購物袋一手奪過，她這麼一說，確實……<br>
+說著{namecode:91}就把購物袋一手奪過，她這麼一說，確實……<br>
 <br>
 '''''<span style="color:black;">选择项1：（…可能精神上是真累了）</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-呵呵呵…這麼微不足道的螻蟻之輩，也想從我{{AF|赤城}}手裡搶走指揮官？先手…指揮官？為什麼要阻止{{AF|赤城}}？<br>
-剛才你看那個女孩子了吧？吶，為什麼不看{{AF|赤城}}？明明你是和{{AF|赤城}}來逛街的？被她勾引了嗎？就那種貨色，{{AF|赤城}}馬上就收拾掉……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+呵呵呵…這麼微不足道的螻蟻之輩，也想從我{namecode:91}手裡搶走指揮官？先手…指揮官？為什麼要阻止{namecode:91}？<br>
+剛才你看那個女孩子了吧？吶，為什麼不看{namecode:91}？明明你是和{namecode:91}來逛街的？被她勾引了嗎？就那種貨色，{namecode:91}馬上就收拾掉……<br>
 大…那個小丫頭，跟在我們後面…！等有機會一定要把她解決了…！<br>
-沒，沒什麼！指揮官不用往後看，只要看著{{AF|赤城}}就行啦～<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-姐…咳，{{AF|赤城}}，和指揮官逛街啊。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-是啊。吶，{{AF|加賀}}也來吧？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+沒，沒什麼！指揮官不用往後看，只要看著{namecode:91}就行啦～<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+姐…咳，{namecode:91}，和指揮官逛街啊。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+是啊。吶，{namecode:92}也來吧？<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 我…就算了。難得妳能和指揮官一起休假，我可不要做燈泡啊<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-不要逞強嘛。{{AF|加賀}}的話指揮官分享給妳一點也行哦。指揮官也沒意見吧？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+不要逞強嘛。{namecode:92}的話指揮官分享給妳一點也行哦。指揮官也沒意見吧？<br>
 <br>
-{{AF|赤城}}強行地把{{AF|加賀}}拉了過來。<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-唉…{{AF|赤城}}姐姐真是的……<br>
+{namecode:91}強行地把{namecode:92}拉了過來。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+唉…{namecode:91}姐姐真是的……<br>
 <br>
-……和{{AF|赤城}}還有{{AF|加賀}}相安無事（？）地享受了購物的樂趣<br>
+……和{namecode:91}還有{namecode:92}相安無事（？）地享受了購物的樂趣<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=友軍與過去|选项=4|主框=1|样式=primary|展开=否}}
@@ -116,43 +116,43 @@
 <br>
 四 友軍與過去<br>
 重櫻·鐵血交流會上<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 哎呀？妳是鐵血的……<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 我是齊柏林。真難得啊，妳竟會來參加這種活動<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 心血來潮而已…再說還得照顧年輕孩子們啊。妳不也一樣嗎？<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 …我不否定。是因為我是基於妳而被設計建造的嗎…不只是力量，連這種方面都這麼相似<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 下次就能一起並肩戰鬥了呢。想想身邊還有另一個自己就很安心啊。<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 ……話說回來，聽說妳沒有選擇妳所謂的“神”而是加入了我們的時候，我還是吃了一驚呢<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 確實，那時如果沒有遇到指揮官，我應該是會繼續追隨“神”的哦？<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 中途島…指揮官是在那片海域和妳進行著“那場大戰”的…對吧？<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 不斷持續的戰爭，不惜傷害同伴，為了得到可憎敵人的力量，一味地尋求著擁有“覺醒”可能的存在……<br>
 不，那個跟隨了“神明”的我……不管是不是真的——都不過是一種可能而已。<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 可能…？<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 同一面鏡子裡倒映出的不同姿態的我…基於同樣的信息而被雕刻出的，有著自我的存在都是“可能性”呦。<br>
 在某個時刻與妳們交戰的我，也不過是“可能性”的一種。在這裡和妳一起喝酒的我亦不過是…<br>
 因為遇到指揮官而從“塞壬”手中得到解救的一種“可能性”……<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 ……哼，聽妳這個口氣，指揮官還不知道吧。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 總有一天他會明白的。<br>
 我們的存在、“聖域”、“靈魂”，還有“模具”…<br>
 <span style="color:#4eb24e;">齐柏林伯爵：</span><br>
 哼…盡說些不知所謂的話<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 呵呵…看來我也有點喝醉了呢…<br>
 <br>
 離開了喧鬧的會場，兩人的對話還在繼續。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 即使如此，我也相信指揮官會愛著我……呵呵呵……<br>
 {{折叠面板|内容结束}}
 
@@ -162,32 +162,32 @@
 <br>
 五 細小的傷痕<br>
 港區·食堂廚房<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 今天負責做飯的傢伙居然感冒了…真是…竟然要指揮官親自動手，回頭要好好懲罰一下…<br>
-不過仔細想想，能和指揮官一起做飯，倒是該表達感謝了～呵呵呵…換做是{{AF|加賀}}的話什麼事都會自己解決，所以能享受這種體驗的只有我了……<br>
-啊…指揮官做飯的樣子好帥…{{AF|赤城}}光是看著就快燒起來了……<br>
+不過仔細想想，能和指揮官一起做飯，倒是該表達感謝了～呵呵呵…換做是{namecode:92}的話什麼事都會自己解決，所以能享受這種體驗的只有我了……<br>
+啊…指揮官做飯的樣子好帥…{namecode:91}光是看著就快燒起來了……<br>
 <br>
 身旁投來熾熱的目光。……結果分了神，稍微切到了手。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 指揮官！？你的手怎麼了……！<br>
 怎麼會這樣…難道這把刀裡藏了什麼機關！？還是這裡面有什麼打擾指揮官注意力的傢伙……<br>
 是我失策了。光是在指揮室做了不讓任何人進來的預防措施，忽視了指揮官不常來的廚房…<br>
-既然{{AF|赤城}}不能時刻陪在指揮官身邊，只好找那孩子幫忙了…啊不過她要是以此為藉口要和指揮官住到一間房裡去的話…！<br>
-對了！乾脆把指揮官鎖起來就不會離開{{AF|赤城}}身邊了……去找{{AF|明石}}那小丫頭……不，{{AF|赤城}}自己來做吧！<br>
+既然{namecode:91}不能時刻陪在指揮官身邊，只好找那孩子幫忙了…啊不過她要是以此為藉口要和指揮官住到一間房裡去的話…！<br>
+對了！乾脆把指揮官鎖起來就不會離開{namecode:91}身邊了……去找{namecode:98}那小丫頭……不，{namecode:91}自己來做吧！<br>
 <br>
 '''''<span style="color:black;">选择项1：先自己貼個OK蹦</span>'''''<br>
-'''''<span style="color:black;">选择项2：先向{{AF|赤城}}解釋自己沒事</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-指揮官，你在說什麼呢？還是說不需要{{AF|赤城}}擔心你？該不會明明有{{AF|赤城}}在你還想去找別人幫忙吧…？<br>
-……對付這種不聽{{AF|赤城}}的話，還一直逞強的指揮官……<br>
+'''''<span style="color:black;">选择项2：先向{namecode:91}解釋自己沒事</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+指揮官，你在說什麼呢？還是說不需要{namecode:91}擔心你？該不會明明有{namecode:91}在你還想去找別人幫忙吧…？<br>
+……對付這種不聽{namecode:91}的話，還一直逞強的指揮官……<br>
 <br>
 眼前一黑。<br>
 動一下身體，感覺到周圍毛茸茸的……<br>
 看來已經完全被尾巴擋住了去路。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-別以為能逃掉哦。別看我這樣，{{AF|赤城}}對指揮官可是比誰都……呵呵<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+別以為能逃掉哦。別看我這樣，{namecode:91}對指揮官可是比誰都……呵呵<br>
 <br>
-被巨大的尾巴籠罩著，關在了和{{AF|赤城}}獨處的這個空間裡。<br>
+被巨大的尾巴籠罩著，關在了和{namecode:91}獨處的這個空間裡。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=黑暗之中的告白|选项=6|主框=1|样式=primary|展开=否}}
@@ -195,42 +195,42 @@
 彼岸花之戀？<br>
 <br>
 六 黑暗之中的告白<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-指揮官只要好好聽{{AF|赤城}}的話就行了……別讓{{AF|赤城}}傷心……<br>
-{{AF|赤城}}要是傷心了……就……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+指揮官只要好好聽{namecode:91}的話就行了……別讓{namecode:91}傷心……<br>
+{namecode:91}要是傷心了……就……<br>
 <br>
-{{AF|赤城}}一邊說著一邊將身體靠了過來，接著——<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+{namecode:91}一邊說著一邊將身體靠了過來，接著——<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 ……（舔）……<br>
 <br>
 …………！？<br>
-{{AF|赤城}}用嘴含住了被刀切到的手指。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-{{AF|赤城}}絕不會……傷害指揮官。就算指揮官成為了我的敵人——  <br>
-可是，如果指揮官受了傷，能為指揮官療傷的只有{{AF|赤城}}。<br>
-其他任何人都不能，{{AF|加賀}}也不能，只有{{AF|赤城}}可以……指揮官你要記住……<br>
+{namecode:91}用嘴含住了被刀切到的手指。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+{namecode:91}絕不會……傷害指揮官。就算指揮官成為了我的敵人——  <br>
+可是，如果指揮官受了傷，能為指揮官療傷的只有{namecode:91}。<br>
+其他任何人都不能，{namecode:92}也不能，只有{namecode:91}可以……指揮官你要記住……<br>
 <br>
 指尖傳來一絲涼意。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-指揮官什麼也不用想，什麼也不用做。{{AF|赤城}}會為你做好一切。<br>
-所以…指揮官，閉上眼睛…把一切都交給{{AF|赤城}}就好。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+指揮官什麼也不用想，什麼也不用做。{namecode:91}會為你做好一切。<br>
+所以…指揮官，閉上眼睛…把一切都交給{namecode:91}就好。<br>
 <br>
-已經聽過無數遍的話，卻充滿了{{AF|赤城}}的心意。<br>
+已經聽過無數遍的話，卻充滿了{namecode:91}的心意。<br>
 <br>
 '''''<span style="color:black;">选择项1：閉上眼睛</span>'''''<br>
-'''''<span style="color:black;">选择项2：告訴{{AF|赤城}}希望她能依靠我</span>'''''<br>
+'''''<span style="color:black;">选择项2：告訴{namecode:91}希望她能依靠我</span>'''''<br>
 <br>
 '''''<span style="color:black;">（选择项1）</span>'''''……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''——指揮官不只是想依靠{{AF|赤城}}，“也想被{{AF|赤城}}依靠”……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-這是說…指揮官也想對{{AF|赤城}}好…的意思嗎？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''——指揮官不只是想依靠{namecode:91}，“也想被{namecode:91}依靠”……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+這是說…指揮官也想對{namecode:91}好…的意思嗎？<br>
 <br>
 （點頭）<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 ……指揮官……<br>
 <br>
-被{{AF|赤城}}緊緊抱住。<br>
+被{namecode:91}緊緊抱住。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=命運之人|选项=7|主框=1|样式=primary|展开=否}}
@@ -242,21 +242,21 @@
 “為了沒能守護的夥伴，也為了跨過那時的【自己的記憶】”<br>
 “為了這些，就算要依賴神明的力量……”<br>
 “不過，這些都過去了…因為我已經找到了命中註定的人”<br>
-感覺到輕吻而睜開了眼。看來是躺在了{{AF|赤城}}的腿上，就那麼睡著了。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+感覺到輕吻而睜開了眼。看來是躺在了{namecode:91}的腿上，就那麼睡著了。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 指揮官，睡得如何？沒想到你就那樣睡著了…果然是最近太累了吧…<br>
-……{{AF|赤城}}什麼也沒做呀。嗯，只要指揮官能接受我……<br>
-指揮官要是不想只看著{{AF|赤城}}，不看也沒關係……不想只屬於{{AF|赤城}}的話…也可以。<br>
-{{AF|赤城}}只是希望，{{AF|赤城}}對指揮官的愛能一直留在指揮官心裡，就夠了…<br>
+……{namecode:91}什麼也沒做呀。嗯，只要指揮官能接受我……<br>
+指揮官要是不想只看著{namecode:91}，不看也沒關係……不想只屬於{namecode:91}的話…也可以。<br>
+{namecode:91}只是希望，{namecode:91}對指揮官的愛能一直留在指揮官心裡，就夠了…<br>
 ……指揮官真是溫柔的人啊……<br>
 <br>
 耳邊傳來珍貴的夥伴們的聲音。<br>
 <br>
 '''''<span style="color:black;">选择项1：該出發了</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 好的，指揮官。已經到了出發的時間了呢。<br>
-無論是{{AF|赤城}}，還是我們這支艦隊，亦或是重櫻的大家，都交給你了<br>
-願神明大人的力量能守護著你…{{AF|赤城}}的…命運之人……<br>
+無論是{namecode:91}，還是我們這支艦隊，亦或是重櫻的大家，都交給你了<br>
+願神明大人的力量能守護著你…{namecode:91}的…命運之人……<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}

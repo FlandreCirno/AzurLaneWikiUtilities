@@ -61,44 +61,44 @@
 <br>
 その三 重桜的クリスマス・上<br>
 母港・売店<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 うん…食材と…あとはこの前予約したクリスマスケーキ…クリスマスツリー…それと……<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 わあ～母港のなか、もうすっかりクリスマスだね！<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 そうね、どんな祝日もお祭り騒ぎになっちゃうね<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 姉さま、お祭りが嫌いなの？<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 ううん、むしろ重桜のみんなが楽しんでいるのを見て、私もなんかワクワクしてきたの。今のはただの感想よ。<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 もう扶桑姉さまったら…うん、あれは――<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 あれは…クリスマスの衣装…かしら？あら？山城はクリスマス衣装に興味があるの？<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 そ、そんなことないよ…こういうの私に似合わないもん…<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 そんなことないわ。せっかくだから、クリスマスの衣装はこれにしない？お祭りは思いっきり楽しまないと…ね？<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 ね、姉さまがそういうなら……<br>
 ど、どうかな…？<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 さすがは私の妹ね♪<br>
 <span style="color:#4eb24e;">声：</span><br>
 重桜の戦艦姉妹発見～っと！<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 あれは…ユニオンの…<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 グリッドレイちゃん？<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 グリッドレイ、クリスマス・カメラマンモード、ただいま参上！指揮官に頼まれて、クリスマスの思い出を撮ってるよ！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 殿様は…やはり忙しいのかな…<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 まあまあ、だからこそ指揮官様のために山城の思い出の写真を残した方がいいと思うわ。<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 そうそう！はい笑って――チーズ！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 はわわ！<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 ふんふん、名付けて「聖夜の大作戦？」！次はどの子にしようかな…？<br>
@@ -110,50 +110,50 @@
 <br>
 その四 重桜的クリスマス・下<br>
 母港・重桜寮<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}&{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}&{namecode:79}：</span><br>
 ただいまー<br>
 <span style="color:#4eb24e;">睦月：</span><br>
 おかえりなさい！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 うむ！ご苦労！よくぞ戻った！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 睦月と…三笠大先輩？？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 ああ、皆はその、「くりすます」とやらの準備忙しくてな……。我も手伝おうと思ったのだが「三笠大先輩、ここは私たちに任せてください」と遠慮された……<br>
 後輩たちに尊敬されるのはいいが、こうもかしこまられるとむしろ寂しく思ってな……<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 三笠大先輩……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 まあ良い！我はここで小さい後輩たちの面倒を見るとしよう。<br>
 <span style="color:#4eb24e;">睦月：</span><br>
 三笠しぇんぱい！睦月またあそびたーい！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 うむうむ、睦月は何がしたい？お馬さんごっこか？それとも、たかーいたかーいするか？<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 三笠大先輩は戦場では凛々しくてかっこいいと聞いたけど…<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 普段はこんな感じなんだ…<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 うふふ、さすが♪<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 ――よし！では我々も「重桜寮くりすますパーティー」を始めるぞ！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 姉さま、みんな、メリークリスマス！<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 山城、メリークリスマス！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 殿様、まだ執務室にいるかな……<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 そんなに気になったら、会いに行ったら？ついでにクリスマス衣装も指揮官様に見せてもいいわよ？<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 ね、姉さま……///<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 山城は大事な妹だからね。こういう時に後押ししないとお姉さん失格よ？<br>
 <span style="color:#4eb24e;">睦月：</span><br>
 睦月もしゅきかんにあいにいきたい！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 じゃ、じゃあ…！睦月ちゃんひとりに行かせると危ないから、私が連れて行くね！<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 あらら……気をつけていってらっしゃい。うふふ♪<br>
 {{折叠面板|内容结束}}
 
@@ -325,9 +325,9 @@
 いやーでも本当にいい写真が撮れたよ！凄くいい思い出がいっぱい！ほら、指揮官――<br>
 <span style="color:#4eb24e;">サンディエゴ：</span><br>
 ハロー！みんなのアイドル、サンディエゴだよぉ！指揮官に歌を届けに来たよ！<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 はわわ！ひ、人がいっぱい！<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 しゅきかんのしつむしつにひとがいっぱいー！あそぼー！<br>
 <span style="color:#4eb24e;">シグニット：</span><br>
 うぅ……フッド姉さまから、「カワイイから指揮官にも見せてきなさい」っていわれてぇ……<br>
@@ -344,9 +344,9 @@
 「エンタープライズ」じゃない。「サンタクロース」だ。ほら、プレゼントをもらっていない子の分もあるぞ。<br>
 <span style="color:#4eb24e;">シグニット：</span><br>
 わあ～ありがとう……<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 え？私にもあるの？あ、ありがと……<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 むつきはアメさんがほしい！<br>
 <span style="color:#4eb24e;">エンタープライズ：</span><br>
 もちろん、指揮官にも。メリークリスマスだ。<br>
@@ -356,9 +356,9 @@
 指揮官、メリークリスマス…うちのクリスマス衣装……どぉ？<br>
 <br>
 ！！！<br>
-<span style="color:#4eb24e;">{{AF|山城}}&{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}&{namecode:33}：</span><br>
 指揮官、メリークリスマス！（しゅきかん、めりーくりすます！）<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 扶桑姉さまから、せっかくのクリスマス衣装だから是非指揮官に見せたほうがいいって……<br>
 <br>
 ！！！！<br>

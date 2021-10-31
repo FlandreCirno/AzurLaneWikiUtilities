@@ -15,7 +15,7 @@
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 誰都沒想到在“演出”馬上要開始的時候，會發生這樣的意外。<br>
 <span style="color:#4eb24e;">希佩尔海军上将：</span><br>
-接下來怎麼辦？除了聯絡{{AF|赤城}}她們，我們也得做些什麼才行…<br>
+接下來怎麼辦？除了聯絡{namecode:91}她們，我們也得做些什麼才行…<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 不能讓這些“幻象”妨礙“演出”。一定要——<br>
 <br>
@@ -26,7 +26,7 @@
 …！緊急撤退！<br>
 <br>
 同一時刻，港區·臨時事務所<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 來到我們港區的偶像……就是這幾位喵！<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 大、大家好！我是765事務所所屬的偶像天海春香！請多多關照！<br>
@@ -37,7 +37,7 @@
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 等等，為什麼就開始一本正經地做起自我介紹了啊！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
-就是！都讓人說了些什麼呀{{AF|明石}}！<br>
+就是！都讓人說了些什麼呀{namecode:98}！<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 好啦好啦……自我介紹也是必要的啦。別這麼著急…<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
@@ -57,17 +57,17 @@
 真美幾個，剛才在拍電影宣傳照呢，眼前突然變得一片空白——<br>
 <span style="color:#4eb24e;">双海亚美：</span><br>
 回過神後就來到這裡了…大概就是這樣。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 原來如此。偏偏指揮官正好不在…不對，莫非是趁著指揮官不在的時候才…？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-姐…咳咳。妳想到什麼了？{{AF|赤城}}？<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-沒什麼。{{AF|明石}}，她們出現的時候有沒有發生什麼其他的怪事？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+姐…咳咳。妳想到什麼了？{namecode:91}？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+沒什麼。{namecode:98}，她們出現的時候有沒有發生什麼其他的怪事？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 怪事？妳是指什麼喵？<br>
 <span style="color:#4eb24e;">欧根亲王：</span><br>
 未知的能量反應之類的，以前也出現過的吧？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 對了喵！一進到這個新建成的事務所，檢測器就嗶嗶嗶地響…<br>
 不過能量反應很微弱喵…還在變得越來越弱……<br>
 啊，消失了喵。<br>
@@ -98,8 +98,8 @@
 <span style="color:#4eb24e;">秋月律子：</span><br>
 ……話說，那片城市裡能看到“765事務所”的大字招牌啊。<br>
 唔……我想確認下，“這個世界”也存在“765事務所”嗎？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-沒有喵。{{AF|明石}}是第一次聽說喵。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+沒有喵。{namecode:98}是第一次聽說喵。<br>
 <span style="color:#4eb24e;">双海亚美：</span><br>
 這就是傳說中的“神隱”？<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
@@ -118,11 +118,11 @@
 意思是說，整座城市都是投影出來的嗎…？<br>
 <span style="color:#4eb24e;">谢菲尔德(μ兵装)：</span><br>
 似乎是這樣的。甚至投影出了妳們熟悉的事務所標記。<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 在完全不相關的地方出現了和異世界的客人相關的現象，就意味著…<br>
 <span style="color:#4eb24e;">如月千早：</span><br>
 這些現像很可能就是我們回到原來世界的線索…<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 我明白了。謝菲爾德，拜託妳繼續調查了。<br>
 <span style="color:#4eb24e;">谢菲尔德(μ兵装)：</span><br>
 嗯，在主人回來之前把一切搞定吧。<br>
@@ -139,7 +139,7 @@
 雖然看不太清，可是跟伊織醬長得好像…<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 那些是……跟我們長得很像的人嗎……？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 妳可以認為是“假貨”。<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 本來是為了演出而準備的虛擬影像，卻成了擋在眼前的障礙…<br>
@@ -172,8 +172,8 @@
 <span style="color:#4eb24e;">加斯科涅(μ兵装)：</span><br>
 演唱・舞蹈・視覺——確認對方的演出處於全方位的優勢<br>
 <span style="color:#4eb24e;">希佩尔海军上将(μ兵装)：</span><br>
-接下來怎麼辦，{{AF|赤城}}？這麼僵持下去也不是辦法。<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+接下來怎麼辦，{namecode:91}？這麼僵持下去也不是辦法。<br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 ……撤退吧。雖然很不甘心，這場演出的確是我們輸了。<br>
 <br>
 ……………<br>
@@ -181,16 +181,16 @@
 ……輸了呢。<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
 討厭，明明只差一點點了~<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 讓妳們看到丟人的一面了。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 沒、沒關係的啦！大家都沒受傷，之後再來挑戰就好！<br>
 <span style="color:#4eb24e;">欧根亲王：</span><br>
 嗯…進行特訓，做好完全的準備以後再來挑戰，一定能贏的。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-用演出決勝負的這個設定可不是{{AF|明石}}的主意喵～<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-誰都沒想到會變成這樣。{{AF|明石}}就專心研究為什麼會出現那樣的“城市”吧。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+用演出決勝負的這個設定可不是{namecode:98}的主意喵～<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+誰都沒想到會變成這樣。{namecode:98}就專心研究為什麼會出現那樣的“城市”吧。<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 那個冒牌貨怎麼回事嘛！……不可原諒！<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
@@ -215,7 +215,7 @@
 陛下…！<br>
 <span style="color:#4eb24e;">伊丽莎白女王：</span><br>
 我是皇家的女王陛下，伊莉莎白女王！妳們這樣下去可不行啊！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 呼喵？！贊助商大人登場了喵！<br>
 <span style="color:#4eb24e;">伊丽莎白女王：</span><br>
 這樣下去可贏不了那冒牌貨，特訓之後再去挑戰吧！還有…讓其他μ兵裝的組合也動員起來！<br>
@@ -224,7 +224,7 @@
 欸？是在問我們嗎……？<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 哎呀~怎麼辦呢……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 突然說什麼呢…她們又不屬於碧藍航線，只是突然從異世界穿越過來的普通人。<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 對啊！陛下，不管怎麼說這也…<br>
@@ -237,7 +237,7 @@
 好像很有趣的樣子，亞美也會幫妳們的！<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
 異世界偶像…聽上去就好帥啊！<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 謝謝妳們。<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 我也會加油幫忙的。<br>
@@ -245,14 +245,14 @@
 就交給超級偶像伊織醬我吧！嘻嘻嘻♪<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 “碧藍航線”的各位，請多多關照！一起加油吧！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 哼哼哼…………<br>
-專業的偶像啊…{{AF|明石}}已經聞到新的商機了喵。<br>
+專業的偶像啊…{namecode:98}已經聞到新的商機了喵。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 想什麼呢…她們只是“顧問”而已。<br>
 她們只是來幫我們進行訓練和彩排而已，可別給她們安排什麼奇怪的任務哦？<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
-二位是{{AF|明石}}…還有Z23…對吧？現在方便嗎？<br>
+二位是{namecode:98}…還有Z23…對吧？現在方便嗎？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 律子小姐？有什麼事嗎？<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
@@ -282,17 +282,17 @@
 <span style="color:#4eb24e;">如月千早：</span><br>
 是呢，畢竟偶像並不是港區各位的本職工作。<br>
 所以，不僅是特訓，先從日常生活中嘗試體驗偶像如何……春香是這麼建議的。<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 這個主意被皇家的女王陛下爽快採用了呢。<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 欸嘿嘿…<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 沒什麼問題。妳們會協助我們進行訓練，對吧？<br>
 <span style="color:#4eb24e;">双海亚美：</span><br>
 手臂像這樣轉起來~自然的感覺~<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
 嗚哇嗚哇！一下就練習舞步會受傷的啦~！<br>
-<span style="color:#4eb24e;">{{AF|大鳳}}(μ兵装)：</span><br>
+<span style="color:#4eb24e;">{namecode:97}(μ兵装)：</span><br>
 可惡…指揮官看不到的演唱會什麼的…得跟羅恩商量一下，讓她好好錄下來……<br>
 <span style="color:#4eb24e;">恶毒(μ兵装)：</span><br>
 哈啊…哈啊……不，不行了…沒想到會這麼累……<br>
@@ -334,7 +334,7 @@ Zzzzzz………<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
 沒問題！聽得很清楚！<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
-根據{{AF|明石}}的情報，前方就是出現能量反應的異常海域。大家小心。<br>
+根據{namecode:98}的情報，前方就是出現能量反應的異常海域。大家小心。<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 嗯！妳們也要小心啊，標槍。<br>
 我們會在這艘船上守望著妳們的……！<br>
@@ -421,7 +421,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 當然！如果不打贏的話別說前進了，就連港區都回不去，不是嗎？<br>
 <span style="color:#4eb24e;">巴尔的摩(μ兵装)：</span><br>
 沒有裝備“μ兵裝”的各位偶像請根據指示撤離！其他艦船支援伊織她們！<br>
-<span style="color:#4eb24e;">大青花魚·{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">大青花魚·{namecode:6}：</span><br>
 明白！！<br>
 了解！<br>
 {{折叠面板|内容结束}}
@@ -439,7 +439,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 嗯哼哼！說明亞美們的支援時機非常完美！<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
 嗯嗯！也剛好展示了真美們的μ兵裝！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 必敗事件之後馳援而來的新夥伴，是神演出的說。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 真是的，剛才狀況還是挺危險的呢……<br>
@@ -452,8 +452,8 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 在春香她們不知道的情況下，我們一直跟在艦隊後面哦！<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
 真的能夠潛水嗎…？！真是超乎想像的技術力…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
-也不能一整天都潛在水里…嗯，是{{AF|明石}}的功勞…的說。<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+也不能一整天都潛在水里…嗯，是{namecode:98}的功勞…的說。<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
 看，兵裝的設計跟服裝也很搭~♪<br>
 <span style="color:#4eb24e;">双海亚美：</span><br>
@@ -461,8 +461,8 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 哎呀…這究竟是…？<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
-那時候律子諮詢了那個叫{{AF|明石}}的小夥伴，我們的冒牌貨裝備的那個機械究竟是什麼。<br>
-按{{AF|明石}}所說，那個似乎是“跟這邊的艦船們裝備的『μ兵裝』相似”的東西呢。<br>
+那時候律子諮詢了那個叫{namecode:98}的小夥伴，我們的冒牌貨裝備的那個機械究竟是什麼。<br>
+按{namecode:98}所說，那個似乎是“跟這邊的艦船們裝備的『μ兵裝』相似”的東西呢。<br>
 所以我在想，我們是不是也能裝備“μ兵裝”。<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
 本來只是順口問問，沒想到居然真的幫我們做出來了……<br>
@@ -474,8 +474,8 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 原來如此~<br>
 <span style="color:#4eb24e;">巴尔的摩(μ兵装)：</span><br>
 妳們願意“一起戰鬥”真是太好了，不過千萬別太勉強哦。<br>
-剛才看到{{AF|綾波}}、亞美和真美一起衝出去支援的時候，真是嚇了一跳啊。別忘了是大家要“互相幫助”的哦？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+剛才看到{namecode:6}、亞美和真美一起衝出去支援的時候，真是嚇了一跳啊。別忘了是大家要“互相幫助”的哦？<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 非常抱歉…的說。<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 不用道歉啦，保護同伴不是理所當然的事情嘛。<br>
@@ -490,14 +490,14 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 港區·臨時事務所<br>
 <span style="color:#4eb24e;">如月千早：</span><br>
 怎，怎麼樣…？<br>
-<span style="color:#4eb24e;">拉菲·{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">拉菲·{namecode:6}：</span><br>
 噢噢……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 很適合妳哦，千早小姐！<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
-真不愧是{{AF|明石}}，不用量尺寸就能給大家做出這麼合身的艦裝！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-{{AF|明石}}對這類工作已經很熟練了喵，儘管多誇誇{{AF|明石}}喵~♪<br>
+真不愧是{namecode:98}，不用量尺寸就能給大家做出這麼合身的艦裝！<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+{namecode:98}對這類工作已經很熟練了喵，儘管多誇誇{namecode:98}喵~♪<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 我的艦裝類型是“重巡”，春香醬是“輕巡”，律子小姐是“運輸艦”啊。<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
@@ -508,9 +508,9 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 艦裝都沒問題了嗎？那就讓我們開始作戰會議吧！<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 是關於那個“演出海域”中的舞台對吧？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 正是。根據之前調查的結果來看，那個舞台正是能量反應異常的中心位置。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 按以往的經驗來說，那裡可能存在跟原來世界連通的隧道喵。<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 如果能找到隧道，說不定大家就能回去了對吧！<br>
@@ -566,19 +566,19 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 嗚哇哇哇？！看不見前面了！！真美救救我……哇？！（碰撞聲）<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
 ……啊哈哈，妳們要好好照顧好對方才行啊。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 梓，妳喜歡甜的還是辣的？<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 唔~~……其實我不太能吃辣……不過，其他人總有喜歡吃辣的吧…,<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 嗯…那做什麼口味的比較好呢…<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
-話說，{{AF|赤城}}小姐經常做飯嗎？<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+話說，{namecode:91}小姐經常做飯嗎？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 倒也不算吧。應該說…比起給自己做，更多的時候是在給別人做呢。<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
-哎呀…♪{{AF|赤城}}小姐將來一定能成為一位好妻子呢～<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+哎呀…♪{namecode:91}小姐將來一定能成為一位好妻子呢～<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 ………什！？<br>
 <span style="color:#4eb24e;">如月千早：</span><br>
 ♪～（發聲練習中）<br>
@@ -615,22 +615,22 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 春香小姐！一起去今晚的祭典吧！<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 欸，祭典？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 是的，港區每年夏天都會舉辦祭典，有很多很好玩的活動哦！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲，已經切換到祭典模式了……<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 哇~這邊原來也有祭典呀~！好期待~♪……我能去把大家也喊上嗎？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 嗯，看到妳們來，港區的大家也一定會很開心的。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=點亮勇氣之星|选项=11|主框=1|样式=primary|展开=否}}
 <br>
 港區·演出海域<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
-終於到這時候了…{{AF|加賀}}，監視器那邊沒問題吧？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
+終於到這時候了…{namecode:92}，監視器那邊沒問題吧？<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 能量反應依舊異常，不過數值保持穩定。<br>
 <span style="color:#4eb24e;">双海真美：</span><br>
 嗯哼嗯哼……原來如此……就是說，接下來只要一鼓作氣衝到舞台那裡就好了吧！<br>
@@ -648,14 +648,14 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 這裡就交給我們吧，765事務所的大家先保存好體力哦！<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 謝謝～看來今天會是漫長的一天呢。<br>
-<span style="color:#4eb24e;">{{AF|大鳳}}(μ兵装)：</span><br>
+<span style="color:#4eb24e;">{namecode:97}(μ兵装)：</span><br>
 今天的演唱會指揮官可是一直在看著的呢~從開場就全力以赴的話後面可是會撐不住的哦~<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 等等，什麼時候開始看著的？！我可沒聽說有這回事！<br>
 <span style="color:#4eb24e;">如月千早：</span><br>
 （說不定指揮官看著，對艦船們來說是個不錯的刺激…）<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-{{AF|大鳳}}，不能隨便動演唱會轉播裝置的線路喵！線路不僅連接著指揮官的辦公室，還連著港區的轉播設備喵！<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+{namecode:97}，不能隨便動演唱會轉播裝置的線路喵！線路不僅連接著指揮官的辦公室，還連著港區的轉播設備喵！<br>
 <span style="color:#4eb24e;">如月千早：</span><br>
 ……！<br>
 （呵呵，看來是我多慮了，不過希望有人看著的這份心情確實是很重要的呢）<br>
@@ -670,7 +670,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 大家的“冒牌貨”都出現了。看來對方也準備好“一決勝負”了呢。<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
 終於來到最後的舞台了啊。我們只要站上舞台就可以了嗎？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 嗯，即使要調查能量來源，也要先在舞台上打敗那些冒牌貨才行。<br>
 <span style="color:#4eb24e;">欧根亲王：</span><br>
 如果通路還開著的話，就直接把妳們送回原來的世界。<br>
@@ -689,7 +689,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 伊織說得對。我們要——<br>
 <br>
 ……！！！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 能量反應變強了喵！<br>
 <span style="color:#4eb24e;">希佩尔海军上将(μ兵装)：</span><br>
 有種不祥的預感…謝菲，這個反應難道是…<br>
@@ -697,7 +697,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 嗯，和各位偶像來到這邊的那天很像。<br>
 <span style="color:#4eb24e;">秋月律子：</span><br>
 意思是…會變成和我們過來的那天相同的狀況嗎？<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 只能說很可能會變成那樣了呢。聯絡負責護衛的標槍她們，讓她們也集合到舞台這邊來吧。<br>
 <span style="color:#4eb24e;">如月千早：</span><br>
 不要緊嗎？負責護衛的各位還肩負著吸引量產型的任務…<br>
@@ -719,27 +719,27 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 當然！不只是這個世界，無論在哪個舞台上都要閃耀光輝才對！<br>
 <br>
 後台<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-{{AF|赤城}}、各位，大事不好了喵！<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+{namecode:91}、各位，大事不好了喵！<br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 …什麼情況？！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 糟糕了喵！能量越來越強了喵！<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-{{AF|明石}}，冷靜一下，先說清楚發生了什麼事情，以及該做什麼。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-{{AF|明石}}也不是很清楚喵…<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+{namecode:98}，冷靜一下，先說清楚發生了什麼事情，以及該做什麼。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+{namecode:98}也不是很清楚喵…<br>
 演唱會開始後，本來就異常的能量反應變得越來越強喵。<br>
 <span style="color:#4eb24e;">加斯科涅(μ兵装)：</span><br>
 匯報，根據加斯科涅的監視，判斷能源的發生源是“舞台上”。<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 連加斯科涅都這麼說…那，如果一直這樣下去會怎麼樣？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 如果能量暴走的話……先不提原本設置在這裡的機器…<br>
 唔…不止是舞台，整個港區都會灰飛煙滅的喵！<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 那，那要馬上聯絡她們終止演唱會才行…！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 就算剛剛中場休息的時候，能量也在上漲，就算現在停下來也阻止不了爆炸了喵！<br>
 <span style="color:#4eb24e;">加斯科涅(μ兵装)：</span><br>
 提案，有能減輕能量暴走風險的方法。<br>
@@ -748,9 +748,9 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 意思就是說，用全力以赴的演出“正面壓制”嗎…<br>
 <span style="color:#4eb24e;">巴尔的摩(μ兵装)：</span><br>
 真是單純明快的作戰呢。幸好之前為了能一起演出而做了彩排呢。<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 我們需要做什麼？<br>
-<span style="color:#4eb24e;">{{AF|赤城(μ兵裝) }}：</span><br>
+<span style="color:#4eb24e;">{namecode:176}：</span><br>
 按照原來的計劃就好。多虧有妳們在，演唱會的氣氛才能更加熱烈哦。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 是啊…絕不能辜負了大家的努力！<br>
@@ -770,7 +770,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 ………………………………<br>
 <span style="color:#4eb24e;">亞美・真美：</span><br>
 ………………………………<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 …我們並不想牽連大家。只是…<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 都怪我們帶大家來到這裡…對不起…<br>
@@ -792,7 +792,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 如果我們的歌能幫上大家的忙，我很願意歌唱下去。<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 就是這個道理！大家齊心構建出的舞台，我可不允許它就這麼被破壞了！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 各位……<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 所以，大家一起登上舞台吧！<br>
@@ -817,12 +817,12 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 <br>
 港區·臨時事務所<br>
 <span style="color:#4eb24e;">欧根亲王：</span><br>
-{{AF|明石}}，μ兵裝的能量數值怎麼樣了？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+{namecode:98}，μ兵裝的能量數值怎麼樣了？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 已經很高了喵！這樣的話應該真的能把對方的能量給……<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 不，還差一點。看吧，對方的能量也在不斷升高，彷彿跟這邊比拼著一樣。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 真的喵…這樣下去真的只能一起爆炸了喵？！<br>
 <span style="color:#4eb24e;">欧根亲王：</span><br>
 就這樣下去的話，確實…究竟該怎麼辦才好呢……<br>
@@ -851,12 +851,12 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 （而且，在原來世界的夥伴們也………）<br>
 <br>
 ―――！！<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 舞台的氛圍產生變化了…<br>
 <span style="color:#4eb24e;">欧根亲王：</span><br>
 是啊，看來擔心的問題已經解決了。<br>
-{{AF|明石}}，能量數值應該也產生變化了吧？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+{namecode:98}，能量數值應該也產生變化了吧？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 真的喵！我們這邊的數值已經超過對方了喵！再加把勁喵！<br>
 <span style="color:#4eb24e;">双海亚美：</span><br>
 我們最棒的舞台，還沒有結束哦！<br>
@@ -890,13 +890,13 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 結果最後才發現通路並不在舞台那邊，反而就在這個事務所裡……<br>
 <span style="color:#4eb24e;">水濑伊织：</span><br>
 這種驚嚇對心臟太不好了啊，真是的。<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 下次聯繫大家之前，記得先好好調查一下。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-非常抱歉喵…都是{{AF|明石}}的錯喵，請原諒喵＞＜<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+非常抱歉喵…都是{namecode:98}的錯喵，請原諒喵＞＜<br>
 <span style="color:#4eb24e;">三浦 梓：</span><br>
 沒關係啦，多虧了大家才能順利找到通路，結果是好的嘛。如果在找這個隧道的是我們，想想就不安呢~<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 嗯，這次可以保證，大家從這裡就能回到原來的世界了。<br>
 <span style="color:#4eb24e;">天海春香：</span><br>
 （那場演唱會之後，艦船夥伴們所說的異常能量和“μ兵裝”產生的能量一起消失了）<br>
@@ -908,7 +908,7 @@ Task Force・μ兵裝，雙海亞美登場！<br>
 辛苦啦！謝謝大家一直以來的幫助！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲，不會忘記大家的。<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 希望以後還能大家一起玩遊戲的說。<br>
 <span style="color:#4eb24e;">双海亚美：</span><br>
 下次絕對不會輸的！對吧，真美？<br>

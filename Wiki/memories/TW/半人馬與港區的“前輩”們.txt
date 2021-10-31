@@ -69,29 +69,29 @@
 好的，胡德前輩！我一定準時參加！<br>
 <br>
 半人馬看起來和皇家的前輩們相處得不錯。<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 指揮官，還有，那個，唔……給你們糖~<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
-{{AF|睦月}}，是剛加入艦隊的半人馬啦。<br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
+{namecode:33}，是剛加入艦隊的半人馬啦。<br>
 <span style="color:#4eb24e;">半人马：</span><br>
-是的，{{AF|睦月}}前輩，{{AF|如月}}前輩，我是皇家的半人馬。<br>
+是的，{namecode:33}前輩，{namecode:34}前輩，我是皇家的半人馬。<br>
 <br>
 半人馬非常標準地向兩人鞠了個躬。<br>
 <br>
 '''''<span style="color:black;">选择项1：……？！</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 欸欸欸，前、前輩嗎……<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 是的，對我來說，兩位也是值得尊敬的前輩呢。<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
-哇，還沒有人叫過{{AF|睦月}}前輩呢！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
-{{AF|睦月}}，這樣不太好啦……被航母叫前輩，總覺得怪怪的……<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
-嗯哼，這種時候就要抬頭挺胸把稱呼接下來啊{{AF|如月}}！<br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
+哇，還沒有人叫過{namecode:33}前輩呢！<br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
+{namecode:33}，這樣不太好啦……被航母叫前輩，總覺得怪怪的……<br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
+嗯哼，這種時候就要抬頭挺胸把稱呼接下來啊{namecode:34}！<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 是的，請不用太在意。<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 嗚，但還是覺得怪怪的啦……<br>
 <br>
 ……似乎半人馬對誰都會敬稱為“前輩”的樣子。<br>
@@ -134,9 +134,9 @@
 <br>
 四　意外的發展<br>
 港區·指揮室<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
-半人馬，來玩扮家家酒吧！{{AF|如月}}也想和妳一起玩呢！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
+半人馬，來玩扮家家酒吧！{namecode:34}也想和妳一起玩呢！<br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 嗯，雖然我不喜歡飛機，但我喜歡半人馬……來一起玩吧。<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 啊，兩位前輩，當然沒問題~<br>
@@ -225,9 +225,9 @@
 會不會是因為我的名字是神話中的生物，而且和森林也有著挺深的關係。<br>
 所以在認知上就容易讓人聯想到同為森林中的幻想種族“精靈”了呢…？<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
-認知嗎…感覺會是{{AF|夕張}}或是{{AF|明石}}喜歡的話題呢。<br>
+認知嗎…感覺會是{namecode:37}或是{namecode:98}喜歡的話題呢。<br>
 <span style="color:#4eb24e;">半人马：</span><br>
-{{AF|夕張}}前輩和{{AF|明石}}前輩嗎…下次遇到的時候也和她們聊聊吧~<br>
+{namecode:37}前輩和{namecode:98}前輩嗎…下次遇到的時候也和她們聊聊吧~<br>
 <span style="color:#4eb24e;">胜利：</span><br>
 結果和約克公爵一樣不明不白的嘛…不過不得不說，這種幻想風的服裝很合我心意呢，之後給我參考一下，讓我也做一套吧。<br>
 <span style="color:#4eb24e;">半人马：</span><br>
@@ -265,23 +265,23 @@
 妳喜歡就好，對茶葉還感興趣的話，隨時來找我哦？<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 嗯~<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 啊，是半人馬！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 半人馬，在工作嗎？<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 是的，兩位前輩還是一樣精神很好呢！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 工作，加油哦…！<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 謝謝~<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 半人馬，給妳糖，記得來找我們玩哦！<br>
 <span style="color:#4eb24e;">半人马：</span><br>
 好的~我晚點再去找妳們~<br>
 <br>
-'''''<span style="color:black;">选择项1：向{{AF|睦月}}要糖</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+'''''<span style="color:black;">选择项1：向{namecode:33}要糖</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 不給指揮官~~<br>
 <br>
 有種微妙的挫敗感…<br>

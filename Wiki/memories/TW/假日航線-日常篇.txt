@@ -8,15 +8,15 @@
 一 要來一點可麗餅嗎？<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 期間限定明石甜點攤絕讚開張中~有各種口味的可麗餅哦~走過路過不要錯過~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 呼喵~賣得不錯喵~今天也是大豐收喵~<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 做可麗餅的主意能派上用場，真是太好了呢，明石~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 海咲有做生意的天賦喵~是可以賺大錢的孩子喵~<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 嘻嘻~也沒有那麼厲害啦~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 歡迎光臨喵！呼喵？是指揮官喵？今天沒有和標槍她們一起喵？<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 歡迎光臨！咦？姐姐和指揮官在一起？<br>
@@ -34,7 +34,7 @@
 <br>
 原來如此，果然是關心妹妹的姐姐呢。<br>
 如此這般，最後和凪咲來到了這裡。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 來得正好喵！現在有活動喵！一次買兩個有優惠喵！<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 每個口味都很好吃哦~不過，我的個人推薦還是香草芒果味呢~<br>
@@ -54,7 +54,7 @@
 想把好吃的東西也分享給大家嘛~嘻嘻，也希望姐姐“約會”愉快哦~<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 都說了只是碰巧啦！打工要加油哦！走了啦，笨狗！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 謝謝惠顧喵~<br>
 <br>
 告別了海咲她們，與凪咲又稍微同行了一段路——<br>
@@ -77,11 +77,11 @@
 哦~一起加油吧，瑪莉~<br>
 <span style="color:#4eb24e;">加斯科涅：</span><br>
 已加載多套“沙雕建築”預備方案，隨時準備實行…！<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 雖然之前的沙堡最後還是沒能贏過Sis Sara，不過，經過一番苦練，這次一定會表現得更好！<br>
 <span style="color:#4eb24e;">女天狗：</span><br>
 有意思~汝等會造出什麼有趣的沙雕作品呢，真讓人期待啊~<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 大家都挺興致勃勃的呢~​​加油哦~<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 評審的工作就麻煩你了哦~指揮官~<br>
@@ -94,17 +94,17 @@
 體型巨大的圓球，水手服的領結還有海軍帽……這是……<br>
 <span style="color:#4eb24e;">女天狗：</span><br>
 呼呼，圓滾滾的，看起來就像饅頭一樣美味啊♪<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 巨大的…指揮喵？！好可愛……不、不過我的也不會輸的！<br>
 <span style="color:#4eb24e;">女天狗：</span><br>
 嚯…這是…“天守”嗎，把氣勢很好地還原出來了嘛~<br>
 <span style="color:#4eb24e;">穗香：</span><br>
-哇~不愧是{{AF|高雄}}小姐，真厲害~<br>
+哇~不愧是{namecode:66}小姐，真厲害~<br>
 <br>
 而加斯科涅則是……<br>
 <span style="color:#4eb24e;">玛莉萝丝：</span><br>
 好、好氣派的拱門！門柱上居然還有浮雕的樣式！？<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 簡直像是把哪裡的奇觀搬過來了一樣呢……<br>
 <span style="color:#4eb24e;">加斯科涅：</span><br>
 這是代表勝利的拱門…！<br>
@@ -114,7 +114,7 @@
 指揮官！接下來就是你的任務了！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 嘻嘻，還是請指揮官作為大會的裁判做出決定吧~<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 指揮官，來吧！說出你認為的冠軍作品吧！<br>
 <span style="color:#4eb24e;">加斯科涅：</span><br>
 等待…最終評測……<br>
@@ -177,18 +177,18 @@
 假日航線-日常篇<br>
 <br>
 四 重櫻的閒談<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 不管怎麼說，想到傳說中的“大天狗”就活生生的在眼前，還是很讓人激動啊~<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
-{{AF|瑞鶴}}，雖然很理解妳激動的心情，不過在前輩們面前太失禮可不行哦~<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+{namecode:96}，雖然很理解妳激動的心情，不過在前輩們面前太失禮可不行哦~<br>
 <span style="color:#4eb24e;">女天狗：</span><br>
 無妨，年輕一輩就該有年輕一輩的活力~<br>
 <span style="color:#4eb24e;">霞：</span><br>
 不過，“重櫻”的方方面面，確實都給人一種十分熟悉的感覺呢。<br>
 之前跟幾位重櫻的小小“忍者”們，也進行了一番有趣的交流~<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 呵呵，幾位客人能喜歡這裡就再好不過了~！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 茶泡好了哦，幾位請~<br>
 <span style="color:#4eb24e;">霞：</span><br>
 “茶道”…啊，啊哈哈，確實就像是在原本的故鄉一樣呀~<br>
@@ -199,21 +199,21 @@
 <span style="color:#4eb24e;">女天狗：</span><br>
 這小姑娘，還是一如既往地學習能力驚人啊。<br>
 這邊還是有些獨特的東西，比如這個能讓人在海上航行，發揮戰力的“艦裝”。<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 不過幾位都很快適應了呢，看來諸位平時都對戰鬥很熟悉的樣子啊~<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-女天狗前輩真的很厲害啊，演習的時候也是，和{{AF|翔鶴}}姐兩個人都差點被前輩的氣勢壓倒了呢！<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+女天狗前輩真的很厲害啊，演習的時候也是，和{namecode:95}姐兩個人都差點被前輩的氣勢壓倒了呢！<br>
 <span style="color:#4eb24e;">女天狗：</span><br>
 我也玩得很盡興哦，呵呵，妳們倆還是挺不錯的~<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 呵呵，畢竟是我值得驕傲的後輩嘛~<br>
 <span style="color:#4eb24e;">霞：</span><br>
 雖然來到這裡是意外，不過最後還是度過了一段快樂的時間呢，無論是演習比賽也好，沙灘排球也好~<br>
 <span style="color:#4eb24e;">女天狗：</span><br>
 還泡到了不錯的溫泉吶~<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 說到溫泉，感覺最近肩膀又開始酸了呢…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 啊，前輩，要我幫妳捶捶肩嗎？<br>
 <span style="color:#4eb24e;">霞：</span><br>
 重櫻的各位關係果然都很好呢~<br>

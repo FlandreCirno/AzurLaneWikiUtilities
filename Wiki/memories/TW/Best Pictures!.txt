@@ -13,12 +13,12 @@ Best Pictures!<br>
 ……看來她太專注於工作，並沒有注意到這邊。<br>
 <br>
 '''''<span style="color:black;">选择项1：看看上次“那件東西”</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-當場逮捕喵！偷拍也就算了，還盜用{{AF|明石}}的影印機，這是大罪喵！<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+當場逮捕喵！偷拍也就算了，還盜用{namecode:98}的影印機，這是大罪喵！<br>
 <span style="color:#4eb24e;">格里德利：</span><br>
-指揮官救我——！我只是想給大家宣傳魅力無限的小加加嘛！……話說那台影印機原來是{{AF|明石}}的嗎！？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-沒錯喵！所以複印件就由我{{AF|明石}}全部沒收了喵！原稿交給指揮官處理喵！<br>
+指揮官救我——！我只是想給大家宣傳魅力無限的小加加嘛！……話說那台影印機原來是{namecode:98}的嗎！？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+沒錯喵！所以複印件就由我{namecode:98}全部沒收了喵！原稿交給指揮官處理喵！<br>
 <span style="color:#4eb24e;">格里德利：</span><br>
 欸欸……（倒地）<br>
 <br>
@@ -161,7 +161,7 @@ Best Pictures!<br>
 <span style="color:#4eb24e;">格里德利：</span><br>
 為什麼會知道是我！？<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>
-因為像這樣拍照的人只有格里德利啊……{{AF|青葉}}她們會事先問我的。<br>
+因為像這樣拍照的人只有格里德利啊……{namecode:55}她們會事先問我的。<br>
 <span style="color:#4eb24e;">格里德利：</span><br>
 抱歉……我馬上就刪！<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>

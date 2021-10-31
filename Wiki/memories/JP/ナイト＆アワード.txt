@@ -155,15 +155,15 @@
 うん！<br>
 <span style="color:#4eb24e;">モントピリア：</span><br>
 さすがは三水戦のリーダー、手強い…！<br>
-<span style="color:#4eb24e;">{{AF|川内}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 俺とここまで戦えるとは……あの時のようには行かないぞ！<br>
 <span style="color:#4eb24e;">デンバー：</span><br>
 相手が重巡だろうと…私の理想は絶対に負けないっ！<br>
-<span style="color:#4eb24e;">{{AF|妙高}}：</span><br>
+<span style="color:#4eb24e;">{namecode:63}：</span><br>
 来い！臥薪嘗胆した末の訓練の成果を見せてやる！<br>
 <span style="color:#4eb24e;">クリーブランド：</span><br>
 まさか全員一対一に持ちこたえるとは…！あのときの戦訓を活かしてるのか！<br>
-<span style="color:#4eb24e;">{{AF|阿賀野}}：</span><br>
+<span style="color:#4eb24e;">{namecode:49}：</span><br>
 私たちの戦術に不満でも？うふふ、素直にやられなさいな～<br>
 <br>
 重桜チームの各個撃破の戦術にクリーブランドたちが苦戦している。<br>
@@ -196,9 +196,9 @@
 おおお！！！<br>
 <span style="color:#4eb24e;">コロンビア：</span><br>
 （小声）指揮官、ありがとね♪<br>
-<span style="color:#4eb24e;">{{AF|妙高}}：</span><br>
+<span style="color:#4eb24e;">{namecode:63}：</span><br>
 このままでは押し切られるぞ！なんとしてもパスを止めるのだ！<br>
-<span style="color:#4eb24e;">{{AF|川内}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 くっ！連携された途端にこっちの戦術が…！<br>
 <span style="color:#4eb24e;">クリーブランド：</span><br>
 みんなのために…そして指揮官のために……この試合もらったああああ！！！<br>

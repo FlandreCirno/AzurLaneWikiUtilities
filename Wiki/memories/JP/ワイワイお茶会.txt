@@ -5,37 +5,37 @@
 ワイワイお茶会<br>
 <br>
 その一 午後3時のレディたち<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 ジャジャーン！お茶会、始まるわ！<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 えっと、その前に質問があるのですが…なんでいきなりお茶会？<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！ロイヤルのメイドさんは理由を知りたいのね！それはね――大人の理由だよ！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 そろそろ「ふゆしーずん」ですから、皆を労おうと思います。……疲れた皆さんを電はここで暖かいお茶と一緒に待ってようと思います。<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 私もみんなを慰労するいいきっかけだと思いますわ。最近、部屋に引きこもっている子が増えて大変だったようで……<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 雷は部屋に引きこもってないわ！雷は……えっと、冬眠！雷、冬眠中だよ！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 ……雷、ウソも「ほうべん」…ですよ。<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 光のささない場所に引きこもるなんて、私、心配ですわ……<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！でも電気をつけてあるから大丈夫！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 ……イラストリアスさん、雷のほかにもうひとり来ると聞きましたが……<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 北にいるあの娘ですか？あの娘はやっぱりちょっと恥ずかしがって……残念です。<br>
 <span style="color:#4eb24e;">ベルファスト：</span><br>
 冬でしたら、スノーマン作りでお誘いしたほうがよろしいかと。<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 うん……フッドさんも来ていないのですか？<br>
 <span style="color:#4eb24e;">ベルファスト：</span><br>
 フッド様もウェールズ様も今日非番ですゆえ、買い出しに出掛けたと存じます。<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 ……コホン、まぁ雑談はここまで…では皆さま、重桜のアフタヌーンティーをご賞味くださいませ！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 「雷の自信作をお見せしまーす」<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 まぁ、これは楽しみですわ～<br>
@@ -46,13 +46,13 @@
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 ふぅ……「マッチャ」の味……やっぱり独特ですわ……<br>
 そういえば、暁ちゃんはまだ来ていませんか？今日は非番だと聞きましたけど……<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 暁は……<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 置き手紙を残して一人で出掛けたらしいよ！<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 置き手紙!？<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 『響が参加していないお茶会なんて拙者はお断りするでござる！響、待ってて！拙者が絶対連れ帰ってみせるのでござる！』<br>
 {{折叠面板|内容结束}}
 
@@ -67,11 +67,11 @@
 紅茶を携帯するのはメイドとして当然のことです。<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 私だってメイドですけど…少なくともロイヤルの役職的には……<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 抹茶を味わったら、ほかの飲み物も美味しく感じますよ<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 そうですか？それなら紅茶も美味しくなりそうですわね。<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！雷もベルファストの淹れた紅茶を飲みたい！<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 待ちなさーーい！<br>
@@ -94,7 +94,7 @@
 <br>
 同じ時刻、暁は――<br>
 【N34°E140°】<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 一人はやっぱりちょっと……ううん――ニンジャの暁なら一人でもくじけないわ！北方連合、それがしが参るでござる！<br>
 {{折叠面板|内容结束}}
 
@@ -133,7 +133,7 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 うふふ、誠に、可愛らしい笑顔でございます…<br>
 <br>
 その後、お茶会にて<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 このお菓子すごく美味しいわ！誰が作ったの？<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 ……<br>
@@ -145,18 +145,18 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 え、えへへ……<br>
 <span style="color:#4eb24e;">ベルファスト：</span><br>
 お褒めいただき誠にありがとうございます。<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 姉妹の絆が感じられる味ですね。<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 電、こっちを見ないでよ……もうわかった！エディンバラに「すこーん」の作り方を教えてもらうよ！――ここまで美味しく作れるかはわからないけど！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 大丈夫、雷が上手く作れるようになるまで、電はずっと待っていますよ。<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 ……<br>
 <br>
 同じ時刻、暁は――<br>
 【N28°E167°】<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 重桜の北方、こんなに暖かいなんて……北方連合⁉恐るべし！<br>
 {{折叠面板|内容结束}}
 
@@ -205,7 +205,7 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 <br>
 同じ時刻、暁は――<br>
 【N21°E158°】<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 熱い…服もびしょびしょだよ……うん、早く進みすぎちゃったのかな…うん？ほの…るる…？どういうこと？まあいいわ、このまま進んだらときっと大丈夫！<br>
 {{折叠面板|内容结束}}
 
@@ -276,7 +276,7 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 <br>
 同じ時刻、暁は――<br>
 【S2°W139°】<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 ま、まだか……もうヘトヘトだよ……響、ずっとこんな厳しいところにいたの……？ううん、響、お姉ちゃんをもう少し待ってて！<br>
 {{折叠面板|内容结束}}
 
@@ -356,7 +356,7 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 <br>
 同じ時刻、暁は――<br>
 【S71°W100°】<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 雪と氷の大陸……やっぱり間違えていないわ！北方連合！響、安心して、お姉ちゃんはもうすぐだよ！<br>
 {{折叠面板|内容结束}}
 
@@ -387,19 +387,19 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 致し方ありませんね……<br>
 <span style="color:#4eb24e;">エディンバラ：</span><br>
 あ！陛下ずるいですよ！私もベルに食べさせたいです！<br>
-<span style="color:#4eb24e;">{{AF|雷}}&{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}&{namecode:14}：</span><br>
 ……<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 食べさせてあげましょうか？<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 わ、わたしのことはいいから、いや――<br>
 <span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 は！そろそろ駆逐艦たちが委託から戻ってくる時間だ。すまない、私は先に失礼させてもらう！<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 き、消えた……ロイヤルの空母って凄いね……<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 あははは……私も一応、ロイヤルの空母ですわよ？<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 イラストリアスさんも、凄い所があるのです……<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 ？？<br>
@@ -411,16 +411,16 @@ Zzzz……新しい仲間……本当！？私の知り合いなの！？……�
 ちょうどいいわ。私も政務に戻らないとね。<br>
 <span style="color:#4eb24e;">イラストリアス：</span><br>
 では、今日はこれでお開きにしましょう。<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 次のお茶会もお待ちしています。<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 次はゲーム大会でどう？ロングアイランドさんも誘って――<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 「絶対にいや―！」<br>
 <br>
 同じ時刻、暁は――<br>
 【S71°31′34″E24°08′17″】<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 響がいない……うん？ここになんか書いてあるわ。「あすか」「ドローニング・モード・ランド」――<br>
 {{折叠面板|内容结束}}
 

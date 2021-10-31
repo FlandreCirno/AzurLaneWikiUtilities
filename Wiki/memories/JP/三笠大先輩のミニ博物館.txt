@@ -52,9 +52,9 @@
 なんで自爆装置があるのですか！？<br>
 <span style="color:#4eb24e;">三笠：</span><br>
 ま、万が一のことも考えて……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 大先輩危ない！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 わあああ！<br>
 <br>
 ミニ博物館が廃墟になった。<br>
@@ -131,7 +131,7 @@
 睦月ちゃんがアメさんをわけてくれた……？<br>
 <span style="color:#4eb24e;">睦月：</span><br>
 だいせんぱいのはくぶつかんのために、がんばるよー！<br>
-<span style="color:#4eb24e;">{{AF|水無月}}&{{AF|卯月}}&{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:133}&{namecode:137}&{namecode:34}：</span><br>
 おーー！<br>
 <br>
 睦月型のお手伝い大作戦、好評継続中！<br>

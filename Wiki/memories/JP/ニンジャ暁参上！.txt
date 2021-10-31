@@ -98,7 +98,7 @@
 <br>
 三　みんなでワイワイ？・上<br>
 母港・執務室<br>
-<span style="color:#4eb24e;">{{AF|雷}}&{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}&{namecode:14}：</span><br>
 たのもー！<br>
 <span style="color:#4eb24e;">暁：</span><br>
 雷と電？どうしてここに？<br>
@@ -214,11 +214,11 @@ K.O.  また雷と電に負けた。<br>
 <br>
 ？！<br>
 執務室が急に真っ暗になった。<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 きゃう！？<br>
 <br>
 誰かに急に抱きつかれた。<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 …………<br>
 ごご、ご、ごめんなさい！それがし、くく、暗闇が怖くて……その……<br>
 うぅ…………<br>
@@ -226,7 +226,7 @@ K.O.  また雷と電に負けた。<br>
 暁が震えていた。<br>
 <br>
 '''''<span style="color:black;">选择项1：軽く抱きしめる</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 ！！<br>
 あ、ありがと……<br>
 {{折叠面板|内容结束}}
@@ -237,7 +237,7 @@ K.O.  また雷と電に負けた。<br>
 <br>
 六　暗闇の中<br>
 真っ暗な執務室で、時間がどれぐらい過ぎただろうか――<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 ……<br>
 それがしはダメダメでござるね……<br>
 ネームシップなのに、艤装をつけなければ暗い場所でも怖くて怖くて……<br>
@@ -247,7 +247,7 @@ K.O.  また雷と電に負けた。<br>
 暁が抱きしめる力が強まった気がする。<br>
 <br>
 '''''<span style="color:black;">选择项1：暁を落ち着かせる</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 指揮官殿って、やっぱり優しくて頼れる大人でござるね<br>
 指揮官殿のそばにいると、それがしの勇気が湧いてくる気がするのでござる<br>
 も、もう少し待てばそれがしがこの暗闇を切り裂いてみせるのでござる！<br>
@@ -255,11 +255,11 @@ K.O.  また雷と電に負けた。<br>
 そういえば、執務室の机に懐中電灯が置いてあった気がする――<br>
 <br>
 '''''<span style="color:black;">选择项1：暁に教える</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 そ、それは真でござるか！？<br>
 <br>
 抱きしめられている感触がなくなった。<br>
-<span style="color:#4eb24e;">{{AF|暁}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 おお！見つけた！助かった！！<br>
 <br>
 暁は早速懐中電灯をつけた。<br>

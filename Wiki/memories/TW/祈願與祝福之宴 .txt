@@ -116,12 +116,12 @@
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 等等，姐姐，啊…走掉了。<br>
 享受宴會…究竟該怎麼做比較好？<br>
-…那是…？重櫻的…{{AF|夕暮}}小姐？<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
-{{AF|有明}}姐姐……唔啊！是鐵血的施佩小姐…對、對不起，果汁差點就潑到了…<br>
+…那是…？重櫻的…{namecode:32}小姐？<br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
+{namecode:31}姐姐……唔啊！是鐵血的施佩小姐…對、對不起，果汁差點就潑到了…<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 沒關係，反正沒有弄髒禮服…不過，妳怎麼了嗎，慌慌張張的…<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 其實是…<br>
 {{折叠面板|内容结束}}
 
@@ -132,36 +132,36 @@
 五　享受宴會的方式<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 和姐姐、還有同伴走散了…嗎<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
-嗯…本來想要一起去找指揮官打個招呼的，結果{{AF|夕立}}說著“我聞到了美味的肉的味道！”，就突然跑了起來<br>
-我和{{AF|有明}}姐姐還有{{AF|時雨}}想追上她，結果卻不小心在人群裡走散了……<br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
+嗯…本來想要一起去找指揮官打個招呼的，結果{namecode:16}說著“我聞到了美味的肉的味道！”，就突然跑了起來<br>
+我和{namecode:31}姐姐還有{namecode:17}想追上她，結果卻不小心在人群裡走散了……<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 這、這樣嗎…重櫻…還真是很多充滿個性的人呢<br>
 …我陪妳找妳的夥伴們吧<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 沒、沒關係嗎？<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 沒事，反正我也…還沒找到享受宴會的方式——<br>
 那邊的…是妳的夥伴們吧<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
-喔！ {{AF|夕暮}}！原來妳在這裡啊，剛才還在想說怎麼一回頭妳人就沒了<br>
-<span style="color:#4eb24e;">{{AF|有明}}：</span><br>
-太好了，還以為{{AF|夕暮}}走丟了呢…嗯？<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
-喔？是施佩帶著{{AF|夕暮}}找到我們的嗎？<br>
-<span style="color:#4eb24e;">{{AF|有明}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
+喔！ {namecode:32}！原來妳在這裡啊，剛才還在想說怎麼一回頭妳人就沒了<br>
+<span style="color:#4eb24e;">{namecode:31}：</span><br>
+太好了，還以為{namecode:32}走丟了呢…嗯？<br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
+喔？是施佩帶著{namecode:32}找到我們的嗎？<br>
+<span style="color:#4eb24e;">{namecode:31}：</span><br>
 謝謝妳，幫了大忙了<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 沒事，反正我也…<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 …其實施佩小姐她……<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 不知道怎麼享受宴會？這還不簡單嗎～<br>
 享受晚會的原則就是---看妳想要做什麼就做什麼唄～<br>
-妳看，像白鷹那幾位那樣跳跳舞，或者像{{AF|夕立}}那傢伙那樣放開了吃～只要自己覺得開心不就好了嘛～<br>
+妳看，像白鷹那幾位那樣跳跳舞，或者像{namecode:16}那傢伙那樣放開了吃～只要自己覺得開心不就好了嘛～<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
-做自己想做的事情…嗎…謝謝妳，{{AF|時雨}}，我好像明白一些了<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
+做自己想做的事情…嗎…謝謝妳，{namecode:17}，我好像明白一些了<br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 嘿嘿，不客氣——<br>
 啊，這聲音難道是——<br>
 {{折叠面板|内容结束}}
@@ -193,7 +193,7 @@
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 這種被玩弄的微妙感覺究竟是…啊，那是…<br>
 <span style="color:#4eb24e;">佐治亚：</span><br>
-哦哦？竟然還準備了這個，是{{AF|明石}}嗎？<br>
+哦哦？竟然還準備了這個，是{namecode:98}嗎？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=祝福的花火 |选项=7|主框=1|样式=primary|展开=否}}
@@ -202,13 +202,13 @@
 <br>
 七　祝福的花火<br>
 港區·空地<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-{{AF|夕張}}、{{AF|不知火}}，準備好了喵？<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+{namecode:37}、{namecode:20}，準備好了喵？<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 隨時可以…<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 OK！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 那就準備放了喵，三、二、一，點火喵！<br>
 <br>
 港區·宴會場外<br>
@@ -218,9 +218,9 @@ OK！<br>
 重櫻的煙火還是一如既往地華麗呀<br>
 <br>
 港區·宴會場<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 快看窗外，是煙火呀！<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 啊…<br>
 <span style="color:#4eb24e;">斯佩伯爵：</span><br>
 好漂亮…<br>

@@ -118,11 +118,11 @@ BOOM！<br>
 糖果，幫妳撿起來了<br>
 <span style="color:#4eb24e;">斯莫利：</span><br>
 謝謝………嗯？<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 我跳~我跳~糖果給妳<br>
 <span style="color:#4eb24e;">阿贝克隆比：</span><br>
 啊哈哈，三日月是殭屍啊，完成度挺高的嘛！<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 嗯，三日月現在變成殭屍了，我跳~我跳~有鯛魚燒嗎？<br>
 <span style="color:#4eb24e;">撒切尔：</span><br>
 這一個個，都提前進入萬聖節狀態了嗎……<br>
@@ -138,7 +138,7 @@ BOOM！<br>
 ……<br>
 <span style="color:#4eb24e;">斯莫利：</span><br>
 回收完畢，魔女快遞，可以繼續營業了…！<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 這裡好像沒有鯛魚燒…三日月去找睦月她們好了，再見，我跳，我跳<br>
 <span style="color:#4eb24e;">阿贝克隆比：</span><br>
 那~我也走啦~<br>
@@ -188,9 +188,9 @@ BOOM！<br>
 …好吧<br>
 <span style="color:#4eb24e;">沙恩霍斯特：</span><br>
 不過，妳這是萬聖節的鬼怪裝扮嗎？哼哼，還真是大膽啊！就用這身讓她們都嚇一跳吧！作為我們姐妹的代表…呢！<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 我跳~我跳~萬聖夜活動的會場是在…<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 唔…糖果的香味！是從那邊傳來的！嗯…雖然好像還混著什麼…不太一樣的味道……<br>
 <span style="color:#4eb24e;">阿贝克隆比：</span><br>
 嘿嘿嘿~馬上就要開始啦！今年的惡作劇之王，非我莫屬啦！<br>
@@ -221,11 +221,11 @@ BOOM！<br>
 好，糖果給妳~嘿嘿，前面辛苦妳啦，斯莫利~<br>
 <span style="color:#4eb24e;">斯莫利：</span><br>
 只是做了魔女快遞應該做的事情，沒什麼<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 我跳~我跳~treat or trick！三日月可以要鯛魚燒嗎<br>
 <span style="color:#4eb24e;">爱丁堡：</span><br>
 啊哈哈…可惜我只有糖果呢，給妳~<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 唔…糖果的話…一會給睦月好了<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 也能給我一些糖果嗎<br>
@@ -243,9 +243,9 @@ BOOM！<br>
 此時，在活動會場的另一邊——<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 這、這就是驅逐妹妹們糖果的味道嗎，這麼充滿爆炸性的與殺傷力的……嗚咕——<br>
-<span style="color:#4eb24e;">{{AF|三日月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
 唔…皇家方舟…？啊…皇家方舟，好像死掉了…？會變成殭屍嗎？<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 唔…還是覺得這些糖果裡…混著不太一樣的味道！我試試……嗚哇！？<br>
 嗚哇啊啊啊啊啊——好辣嗚嗚嗚嗚嗚<br>
 <br>

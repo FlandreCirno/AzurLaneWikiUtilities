@@ -64,25 +64,25 @@
 <span style="color:#4eb24e;">太原：</span><br>
 就算要問，也要有知道的人…嗯？那是……<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
-呀吼~{{AF|綾波}}醬，拉菲醬~這邊的是新的小夥伴嗎？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
-重櫻的夥伴，{{AF|夕暮}}，撫順應該是第一次見。<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
-啊，初次見面，我是{{AF|夕暮}}，請、請多指教……<br>
+呀吼~{namecode:6}醬，拉菲醬~這邊的是新的小夥伴嗎？<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+重櫻的夥伴，{namecode:32}，撫順應該是第一次見。<br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
+啊，初次見面，我是{namecode:32}，請、請多指教……<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 妳好妳好~咦？突然發現，大家都換上了新衣服欸～還是我們東煌風格的！<br>
 <span style="color:#4eb24e;">太原：</span><br>
-{{AF|綾波}}、拉菲和{{AF|夕暮}}的新衣服都好可愛…<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+{namecode:6}、拉菲和{namecode:32}的新衣服都好可愛…<br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 這個是大家一起做的…<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
-嗯，{{AF|綾波}}和大家…花了好久的時間，才做出來的<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+嗯，{namecode:6}和大家…花了好久的時間，才做出來的<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 雖然比預想的花了更多時間…不過還是趕上了東煌的春節，問題不大…的說。<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 真好呀真好呀～哦，對了對了，正有點事情想問妳們<br>
 我們正在尋找能製作爆竹的火藥呢，妳們知道哪裡有嘛～？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 …火藥的話，之前祭典做煙花用的…應該還有，就在舊倉庫…的說<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 哦哦！舊倉庫嗎！嘿嘿嘿，沒想到真的這麼順利就找到了～<br>
@@ -92,32 +92,32 @@
 是好玩的東西哦～點起來以後就會“劈裡啪啦砰砰”的哦！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 好像很有趣…拉菲，也想去看看<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 火藥危險…的說，不過，小心點的話…<br>
-<span style="color:#4eb24e;">{{AF|夕暮}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 舊、舊倉庫嗎…那我就先回去了，姐姐還在等我，而且舊倉庫那裡總有些陰森森的，有些可怕…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 路上要注意安全……的說。<br>
 <br>
 港區·舊倉庫<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 …找到了，在這裡<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 欸嘿嘿，鞭炮材料導到手啦~接下來就是——<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲找到了這個，強手棋……？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
-這個棋盤…{{AF|綾波}}之前好像見過，是“雙六”…的說？<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+這個棋盤…{namecode:6}之前好像見過，是“雙六”…的說？<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 什麼什麼？讓我看看讓我看看——<br>
 欸？這個不是“大富翁”的棋盤嘛！<br>
-<span style="color:#4eb24e;">撫順&拉菲&{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">撫順&拉菲&{namecode:6}：</span><br>
 ……<br>
 <span style="color:#4eb24e;">太原：</span><br>
 那、那要不要大家一起玩這個，鞭炮什麼的就——<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 那就做完鞭炮以後再一起來玩這個吧！嘿嘿，遊戲我可是很擅長的呢～<br>
-<span style="color:#4eb24e;">拉菲&{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">拉菲&{namecode:6}：</span><br>
 喔——<br>
 <span style="color:#4eb24e;">太原：</span><br>
 欸，欸欸欸！？——<br>
@@ -147,7 +147,7 @@
 嗚嗚嗚，撫順姐的大號爆竹太可怕了……鞍山姐，對不起，沒能攔住她……<br>
 <span style="color:#4eb24e;">鞍山：</span><br>
 …撫！順！！妳過來！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 唔…被震得頭都有點暈了…的說<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 劈裡啪啦砰…厲害…<br>
@@ -190,7 +190,7 @@
 唔…撫順姐運氣太強了…<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 撫順…是強敵…！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 形勢已經…無法逆轉了…的說<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 嘿嘿嘿，撫順、大獲全勝～果然大富翁…額，強手棋？升官圖？，總之這遊戲很好玩～<br>
@@ -262,11 +262,11 @@
 <span style="color:#4eb24e;">君主：</span><br>
 正是，對了，在這裡遇到也是湊巧——<br>
 <span style="color:#4eb24e;">追赶者：</span><br>
-我的是特意從{{AF|明石}}那裡訂的呢，說起來其實我和東煌多少也有點緣分呢，呵呵～<br>
+我的是特意從{namecode:98}那裡訂的呢，說起來其實我和東煌多少也有點緣分呢，呵呵～<br>
 <span style="color:#4eb24e;">贝尔法斯特：</span><br>
 女僕隊的服裝是自己製作的。畢竟主人都說了，偶爾想要看看異國風情的服裝呢<br>
-另外，也準備了白鷹各位的份，由{{AF|明石}}小姐提供了材料，並且——<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+另外，也準備了白鷹各位的份，由{namecode:98}小姐提供了材料，並且——<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 春節大放送喵，材料費就由指揮官出了喵！<br>
 <span style="color:#4eb24e;">企业：</span><br>
 原、原來如此，既然是大家的一片心意，那就——<br>
@@ -310,7 +310,7 @@
 身處這種暖洋洋的氛圍裡，忽然有點想唱歌呢，不過還是先吃飯吧～<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 哈姆…東煌的料理，很好吃……<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 拉菲，筷子不是那樣使用的，要像這樣拿，再這樣夾……的說。<br>
 <span style="color:#4eb24e;">贝尔法斯特：</span><br>
 原來馬鈴薯還可以這樣料理…嗯，下次可以研發新的菜式了<br>
@@ -385,7 +385,7 @@
 哎呀，真是調皮的孩子，不過這個節目效果倒也算是不錯呢~<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 咳咳，嚇死我了，還以為會怎樣呢，欸？我臉上怎麼了嗎？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 鏡子給妳…的說<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 哇哇，哈哈哈哈哈，這下沒臉見人了哈哈哈<br>
@@ -401,8 +401,8 @@
 啊啊，果然，能有這麼溫暖的團聚時光，無論是不是一時的短暫和平，都得好好感謝指揮官才是呢<br>
 <span style="color:#4eb24e;">抚顺：</span><br>
 唔，鞍山姐，我們也一起去找指揮官嘛～<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
-{{AF|綾波}}和拉菲…也一起去<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+{namecode:6}和拉菲…也一起去<br>
 <span style="color:#4eb24e;">列克星敦：</span><br>
 呵呵呵，那就去指揮官的辦公室再來一次“團聚”吧？<br>
 <span style="color:#4eb24e;">眾人：</span><br>

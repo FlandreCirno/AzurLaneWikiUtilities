@@ -7,29 +7,29 @@
 一 去尋找迷路的幽靈吧！<br>
 <span style="color:#4eb24e;">克利夫兰：</span><br>
 鏘鏘！<br>
-<span style="color:#4eb24e;">{{AF|祥鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 哇哦～好大！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 這就是今天要展示的“超級南瓜燈”嗎？<br>
 <span style="color:#4eb24e;">克利夫兰：</span><br>
 正是！從種植到雕刻！在大家的幫助下才終於完成的超級南瓜燈！<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 順便一提，裡面的東西吾輩已經全部做成派了！<br>
 <span style="color:#4eb24e;">克利夫兰：</span><br>
 哼哼，我已經等不及了，趕緊試試效果吧！<br>
 …奇怪？沒反應？難道是裡面的燈出故障了？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}&{{AF|祥鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:87}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|祥鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 唔…有點麻煩了啊，晚上的派對馬上就要開始了…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 南瓜的嘴巴那裡…好像有個東西<br>
 <span style="color:#4eb24e;">克利夫兰：</span><br>
 嗯？啊，真的欸！…有張紙條！<br>
-<span style="color:#4eb24e;">{{AF|祥鳳}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 “萬聖節派對中混進了一個迷路的幽靈，要集三位善良的魔女之力才能將其送回家”？<br>
 這是什麼意思？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}&{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:19}：</span><br>
 “三位善良的魔女”？<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 哼哼，這時候！就輪到熱心的兔兔星魔女登場了！<br>
@@ -37,7 +37,7 @@
 哇，魔女真的出現啦！<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 就讓來自兔兔星的魔女貝利來幫忙吧！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}&{{AF|陽炎}}&克里夫蘭：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:19}&克里夫蘭：</span><br>
 哦哦哦——<br>
 {{折叠面板|内容结束}}
 
@@ -61,7 +61,7 @@
 兔美，兔吉，我們去這邊！<br>
 潛藏在港區裡的幽靈的秘密，就讓我貝利來揭開！<br>
 不過，“三位善良的魔女”…貝利算一個的話，還有兩個是指誰呢……<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 嗚嗚…幽靈什麼的，感覺好可怕啊。不、不過……<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 啊！發現新的魔女了～<br>
@@ -76,40 +76,40 @@
 <br>
 三 害怕幽靈的魔女<br>
 不久前……<br>
-<span style="color:#4eb24e;">{{AF|長良}}：</span><br>
-怎麼了，{{AF|五十鈴}}？在煩惱{{AF|祥鳳}}說的幽靈小姐的事情嗎？<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
-欸？{{AF|長良}}姐？妳怎麼知道的——<br>
-<span style="color:#4eb24e;">{{AF|長良}}：</span><br>
-當然是從{{AF|祥鳳}}那裡聽說的啦～<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:46}：</span><br>
+怎麼了，{namecode:48}？在煩惱{namecode:87}說的幽靈小姐的事情嗎？<br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
+欸？{namecode:46}姐？妳怎麼知道的——<br>
+<span style="color:#4eb24e;">{namecode:46}：</span><br>
+當然是從{namecode:87}那裡聽說的啦～<br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 我、我果然還是不行的啦，幽靈什麼的對我來說太勉強了…<br>
-<span style="color:#4eb24e;">{{AF|長良}}：</span><br>
+<span style="color:#4eb24e;">{namecode:46}：</span><br>
 但是，如果幽靈小姐找不到回去的路，就會一直待在港區了吧<br>
 如果哪天在路上碰到了幽靈小姐的話，不是更讓人困擾了？<br>
 這樣想的話，把幽靈送回家以後，不就少一個煩惱了嗎？<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 啊…確、確實是這樣…<br>
-<span style="color:#4eb24e;">{{AF|長良}}：</span><br>
-加油，{{AF|五十鈴}}！姐姐相信妳~<br>
+<span style="color:#4eb24e;">{namecode:46}：</span><br>
+加油，{namecode:48}！姐姐相信妳~<br>
 <br>
 回到現在…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 啊！發現新的魔女了～嘿！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 呀啊～！！<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 哇啊！！嚇、嚇了我一跳<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 欸…是貝利啊，這一身是…魔女？<br>
 <span style="color:#4eb24e;">贝利：</span><br>
-是呀～嘿嘿，{{AF|五十鈴}}難道也是要去尋找幽靈小姐的嗎？<br>
+是呀～嘿嘿，{namecode:48}難道也是要去尋找幽靈小姐的嗎？<br>
 跟妳說哦，我剛才聽到了情報呢，幽靈小姐其實在倉庫！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 幽靈小姐…？啊，是、是的，我也在找幽靈小姐來著<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 那就跟貝利一起往倉庫去吧，Let's go～<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 嗯，嗯！一起去吧！<br>
 （有同伴一起的話……我就不會那麼害怕了！）<br>
 {{折叠面板|内容结束}}
@@ -140,12 +140,12 @@
 捕獲第三名魔女啦！！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 哇啊啊啊！——原來是妳們啊…<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 納爾遜小姐也是在尋找幽靈小姐的“善良的魔女”嗎？<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 啊？喔，是、是吧……<br>
 （糟了，下意識就回應了）<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 這下就湊齊三人了呢，太好了…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 那就按照貝利聽到的情報，一起前往倉庫尋找幽靈小姐吧！<br>
@@ -161,12 +161,12 @@
 港區·倉庫<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 幽靈小姐——！快出來吧——！大家都在擔心妳呢——！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 這樣喊的話，幽靈小姐會被嚇跑吧……<br>
 而且，這裡有點黑，感覺會有什麼嗚嗚……<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 幽靈小姐——！快……嗯？那是什麼？棺材？<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 嗚哇啊！？棺、棺材？！<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 總之先打開來看看吧！我開！<br>
@@ -174,7 +174,7 @@
 等——<br>
 <span style="color:#4eb24e;">恐怖：</span><br>
 哇、嚇妳一跳。<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 呀啊啊啊啊啊！！！<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 哦哦！突然出現了一個人呢！<br>
@@ -182,7 +182,7 @@
 妳是…恐怖？<br>
 <span style="color:#4eb24e;">恐怖：</span><br>
 唔……果然嚇人的練習還不夠嗎。<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 還以為是僵屍什麼的，嚇死我了…<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 …為什麼恐怖妳會在倉庫的棺材裡？<br>
@@ -191,7 +191,7 @@
 恐怖不能說，恐怖答應了要保密…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 啊！快看那邊！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 嗚、幽，幽靈小姐現身了！！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 是誰？！<br>
@@ -202,7 +202,7 @@
 <span style="color:#4eb24e;">贝利：</span><br>
 剛好一人一把嗎…總之得先追上那個幽靈！<br>
 可別以為自己能從兔兔手上逃走！貝利，追擊!<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 貝利，跑太快了啦…!<br>
 {{折叠面板|内容结束}}
 
@@ -216,7 +216,7 @@
 啊！她往這邊跑了！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 呼…呼…沒想到一路追到了天台…<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 我，我跑不動了啦…<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 不過這下就無路可逃了。妳究竟是誰？妳的目的是什麼？<br>
@@ -226,23 +226,23 @@
 ……<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 竟、竟然飛走了？！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 這，這怎麼辦！我們可不會飛…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 飛、飛…啊！剛才拿到的掃帚！既然如此…我跳！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 喂，等、等等，這樣的話妳會掉下去——<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 飛，飛起來了…真的飛起來了？！<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 哼，可別以為這次還能逃走！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 不、不會吧，這個掃帚究竟是…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
-啊哈哈哈~真的是飛翔的魔女耶~{{AF|五十鈴}}、納爾遜，妳們也快來呀~<br>
+啊哈哈哈~真的是飛翔的魔女耶~{namecode:48}、納爾遜，妳們也快來呀~<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 等等——<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 嗚哇哇哇！真的飛起來了！我，我在飛！<br>
 掃，掃把，追上她們……！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
@@ -260,7 +260,7 @@
 搗蛋萬聖夜！<br>
 <br>
 七 萬聖夜快樂！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 總，總算回到地面了…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 終於追上妳了，幽靈小姐！<br>
@@ -282,30 +282,30 @@
 就算幽靈是惡作劇，剛才的掃帚是怎麼回事…疑、掃帚呢？<br>
 <span style="color:#4eb24e;">恐怖：</span><br>
 那個的話…剛才夕張已經全收回去了，說是為了下次的試驗，還有一些地方要調整……<br>
-<span style="color:#4eb24e;">納爾遜&{{AF|五十鈴}}&貝利：</span><br>
+<span style="color:#4eb24e;">納爾遜&{namecode:48}&貝利：</span><br>
 恐怖！？<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 這是萬聖節的餘興節目嗎…雖然已經預想過是惡作劇了，沒想到連港區的科研力量都用上了…<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 在天上飛的感覺貝利很喜歡呢！貝利想再來一次！<br>
-<span style="color:#4eb24e;">{{AF|五十鈴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 那，那幽靈小姐也不會再出現了吧……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 好啦好啦，「萬聖節搗蛋作戰」也算是順利完成了喵~<br>
-這是{{AF|陽炎}}準備的南瓜派喵，大家一起來吃喵~<br>
+這是{namecode:19}準備的南瓜派喵，大家一起來吃喵~<br>
 <span style="color:#4eb24e;">罗德尼：</span><br>
 姐姐，飛行的感覺如何呢？<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 意外的還不錯…啊！羅德尼！妳一開始就知道這些的吧！<br>
 <span style="color:#4eb24e;">罗德尼：</span><br>
-呵呵，從{{AF|明石}}那裡拿到萬聖節服裝的時候就知道了，也沒什麼不好的嘛，姐姐不也玩得很開心~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-呼喵…經過這麼一番宣傳，今年的魔女服裝應該不愁賣不出去了喵，{{AF|明石}}真是天才喵！<br>
+呵呵，從{namecode:98}那裡拿到萬聖節服裝的時候就知道了，也沒什麼不好的嘛，姐姐不也玩得很開心~<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+呼喵…經過這麼一番宣傳，今年的魔女服裝應該不愁賣不出去了喵，{namecode:98}真是天才喵！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
-罪魁禍首原來是{{AF|明石}}嗎！？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+罪魁禍首原來是{namecode:98}嗎！？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 喵？！喵喵…離、離萬聖夜結束還有不少時間，大家請盡情享受喵！<br>
-<span style="color:#4eb24e;">貝利&{{AF|五十鈴}}&恐怖：</span><br>
+<span style="color:#4eb24e;">貝利&{namecode:48}&恐怖：</span><br>
 好！<br>
 <span style="color:#4eb24e;">纳尔逊：</span><br>
 等等，不要岔開話題啊！<br>

@@ -2,70 +2,70 @@
 {{折叠面板|开始}}
 {{折叠面板|标题=軍神の帰還|选项=1|主框=1|样式=primary|展开=否}}
 <br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 困った…まさか「鏡面海域」では計器も故障が起きるなんて…<br>
 翔鶴姉、どうしよう…<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 「迷子にならないわ！なんたって幸運艦の瑞鶴なんだから！」って、自慢げに言ったのは誰かしらねー<br>
 はぁ…<br>
 こうなると思って偵察機をいくつか出しておいたわよ。この海域から脱出するための情報を持って帰ってくるといいわ<br>
 偵察機が戻ってくるまで、大人しく今のことを反省しなさい！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ごめんごめん、やっぱり翔鶴姉は頼りになる～<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 でも、まさか本当に「鏡面海域」に迷い込むなんて…運悪く「セイレーン」に遭遇しないといいのだけど<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 注意です…前方海域に反応多数、識別…「セイレーン」…です<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 翔鶴姉相変わらず「ふらぐ」を立てるのが上手いね、あははは<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ……（ガン見<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 …すみません翔鶴姉今のは言い過ぎました…え、えっと、全艦戦闘用意！<br>
 <br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 あらあら、海神（わたつみ）の力を持つと言われる「セイレーン」の艦隊もこの程度とはね<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 所詮魂のない抜け殻…<br>
 大義なき者に、この拙者の刃の前には勝てん！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ふぅ……量産型の「駒」でよかった…親分の「アレ」に出くわしていたら…<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 注意、前方大型反応……識別信号…「テスターα型」、です…<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 翔鶴姉…あまりしゃべらないほうが……<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
 まさかこんなに可愛いお客さんが来るとはね…「■■■■■■■」の子たちじゃなくて<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 あんたが赤城が言ってた「カミ」！？<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
 うふふ、「カミ」だなんて所詮仮の名すぎないわ。私たちはお前たちと人類に選択肢を与えているだけ…<br>
 私たちとともに「現在」を犠牲にして「進化」を求め、破滅の未来を回避するか、<br>
 それとも変革を拒絶しかつてと同じ「滅亡」の道を歩むか……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 あんたと協力する気はないわ。さっさと深海に引っ込んでなさい！<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
 「聖域」では色々見せてもらったわ。面白いデータも一杯集まったけれど…<br>
 今のお前たちはまだ【シミュレーション】の予測すら越えていないわ。<br>
 その魂（メンタル）、幾千と繰り返す経験の中で培われた「人格」そのものこそがお前たちの本質……<br>
 そう…「悪」を拒絶しようとする心、その自信に溢れる輝かしい「魂」……今のお前たちには自身の本質をまだ理解できないわ……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ワケの分からないことばっかり…ケンカなら付き合ってやるわ！この瑞鶴がボッコボコにしてやる！<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
 ふふふ…せっかく来てくれたお客さんですもの……この海域のある主としてもう一回「実験」をしてあげる<br>
 さあ、全力で来なさい！！<br>
 <br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 くっ……やばい…です……<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
 いかがかしら？これこそ「進化」がもたらす圧倒的な力……さあ、もう諦めてこの茶番をお開きにしましょう<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 あの変な艦載機…私たちの艦載機より10倍、ううん100倍は強いわ…<br>
 艦載機はほぼ全滅……やつの装甲を貫くには戦艦の巨砲が必要ね……<br>
 ……瑞鶴、先に逃げて。お姉さんが敵を引きつけるわ。せめてあなただけでも……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 翔鶴姉と皆を見捨てないって前に言ったじゃない！<br>
 今度こそ最後の最後まで……！<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -75,15 +75,15 @@
 まさかこの時代でも実によい啖呵が聞けるとは…いい後輩を持つというのはこういうことだな！<br>
 間に合いましたね。翔鶴が出した偵察機のお陰です。<br>
 「テイサツキ」ってあの飛んでいるちっこいやつのことか？…やっぱり時代の波には中々追えんな…あははは<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 …この声は…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 あ、あの旗……<br>
 まさか……！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}&{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
 ！！…かつて連合艦隊の旗艦を務めた「軍神」――<br>
 三笠！！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 さあ、我が重桜の根性を見せてやれ！戦いはまだまだこれからだ！！<br>
 天は正義に与し、神は至誠に感ず<br>
 我が正義で未来を導き、我が至誠で大義を照らし出さん！<br>
@@ -96,7 +96,7 @@
 （warning…warning…warning…ダメージ蓄積速度、コントロール範囲を突破）<br>
 ！？どうして……【シミュレーション】に記録がない！？<br>
 たかが型落ちの旧式戦艦なのに…！！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 簡単なことだ。百発百中の大砲一門あらば、一発しか当たらない百門の大砲と互角に戦うことができる<br>
 武器の性能の差が戦力の決定的な差ではない！<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
@@ -104,9 +104,9 @@
 この海域から逃れるための道標は用意したわ。<br>
 時代を変えるというなら、やってみるがいいわ<br>
 だが覚えておきなさい。私たちはずっと「観察」しているわ…うふふふ<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 待て！逃げるな！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 瑞鶴！深追いは禁物よ！<br>
 <span style="color:#ff0000;">テスターα型：</span><br>
 ふふふ、命拾いしたようね。その判断は正確よ<br>
@@ -120,154 +120,154 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=戸惑い|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 た、大変じゃ！なんかすっごく偉そうな人が港に来たのじゃ！<br>
-<span style="color:#4eb24e;">{{AF|白露}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 偉そうな人…うぅ……ど、どういうこと？<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 …むむむ…つ、つまり偉い人じゃ！かの大戦に参加してた大先輩なのじゃ！<br>
-<span style="color:#4eb24e;">{{AF|白露}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 おおーよくわからないけど、でも偉いのがわかった！<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 だーかーら三笠大先輩が戻ってきたって特型の子たちからとっくに聞いたの！<br>
 巡洋艦と戦艦のみんなはもう港に迎えに行ってるけど…ったく、本当にそんなに偉そうなわけ？<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 もちろんじゃ！三笠大先輩はかの連合艦隊の旗艦を務めたのじゃ！吾輩も記念写真が欲しいぐらいカッコイイのじゃ！<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 うふふふ…儲けの匂いがするでございます……<br>
-<span style="color:#4eb24e;">{{AF|夕立}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 あ！食堂が早く閉まったのはそのためか！ちくしょー腹減ったのにー<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！…でもあの大戦に参加した大先輩たちはほとんど姿を消したって聞いたけど…<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 急に来たと言われても…ちょっとおかしいかも…？<br>
-<span style="color:#4eb24e;">{{AF|白露}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 ZZZZZzzzzz…<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 もういいのじゃ！吾輩は先に港のほうに行くのじゃ！<br>
 <br>
 母港・発着場<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 おおーこれもまた立派なものだ！<br>
 位置取りは要衝（ようしょう）、施設は至り尽くせり、物資輜重の備蓄も十分…<br>
 うむ、軍港としては申し分ないぞ。<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 軍港として、ですか？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 うむ、我が活躍していた頃は多くの港に寄港したことがあってな…それより、やっぱりこの時代のものは見慣れぬものは多いな…<br>
 特に空を飛ぶ…たしか…「ヒコウキ」だったな？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 えっと…飛行機のことですか？<br>
 確かに大先輩の時代と違い、私たちの時代では大砲より飛行機が大いに活躍していますね…この前の戦闘も……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 ふふ、そうかしこまるでない。この「時代遅れ」をそこまで気にしなくとも良いぞ！ほら、元気出して！<br>
 この前の「セイレーン」との戦いでは、確かに時代の差を感じた。<br>
 だが戦場でのあの雰囲気と高揚感は昔と同じだ。<br>
 肌で感じる殺気、砲火交える硝煙の匂い、重なる炎の熱さ、軋む鋼鉄の「悲鳴」…<br>
 この全ては実に変わっていないのだ。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 さすがは三笠大先輩……私、すごく憧れます！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 ま、まあ…そう褒めるでない！我々はあの時代に生きたものとして、やるべきことをやったまでだ。<br>
 むしろお主のような後輩がいてくれてよかった。うむ、先日の戦いはまさしく大儀であったぞ。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 三笠大先輩！あの…大先輩のように強くなれる方法を知りたいです！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 これはまた単刀直入だな…装備以前にお主たちに一つ大切なものが欠けている。<br>
 最後に勝利するにはどうしても必要なもの、だ。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ！！「最後の勝利」…もしかして三笠大先輩、すごい特訓のやり方をご存知ですか？装備じゃないといえば、やっぱり戦技のほうでは――<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 それは違う。旧式艦である我に言わせてみれば、お主たちは多少納得せんかもしれぬが……。<br>
 ――性能も戦技も局地的な戦局を覆せても、最後の勝敗を決することはありえぬ。<br>
 最後の勝利を決するのは…「心」だ。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=祝宴会|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|比叡}}：</span><br>
+<span style="color:#4eb24e;">{namecode:71}：</span><br>
 榛名の協力はありませんが、本日の祝宴会の献立もこの比叡の逸品ぞろいでございます。皆様、戦いの疲れをお忘れになって、思う存分お楽しみくださいませ～<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 三笠大先輩はこういうことが苦手だと思っていました…<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 あはは、美酒佳肴（びしゅかこう）にどんちゃん騒ぎ、嫌うものはそうあるまい。バルト海の戦のあとは三日三晩騒いたぞ。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 三笠大先輩がどんちゃん騒ぎする姿……ちょっとイメージしづらいですね…<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 この我をそう堅い人間だと思うかな？それより瑞鶴、比叡が用意した宴会は気に入ったか？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 もちろん好きですよ？でないと訓練の時間に来るわけ――あ、定常訓練ではなく、自主練の時間です！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 自主練……か。ここにいる子たちはみな努力しているな。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 はい。まあ頑張りすぎな子も何人かいますけど……まあ、「セイレーン」相手の戦いだもの、全てを賭けなきゃ！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 全てを賭けて……瑞鶴、お主にとって一番大切な、守りたいものはなんだ？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 一番大切なものですか？えっと……たくさんありますね…翔鶴姉、重桜のみんな……それといつかあのグレイゴーストにも勝ちたいし、どれも捨てがたい……うぅ、私こういう話はちょっと苦手かも……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 では聞き方を改めよう。勝利のために全てを賭けるのは至極当然の考えだ。だがお主にとって「全て」は一体なんだろうか？<br>
 「この世界のために戦う」と息巻いている間、その心には力が溢れるのか？<br>
 絶望の時、己の無力さを感じる時、「人類の存亡」だの「世界」だのより、仲間とライバル、こうして祝宴が開ける時間こそ、お主にとっての「全て」ではなかろうか。<br>
 そんな「己の全て」を捨て去るのはすなわち「己の存在」を否定するものであり……己の存在も否定する者は己の限界を越えることは出来るはずがあるまい。<br>
-<span style="color:#4eb24e;">{{AF|比叡}}：</span><br>
+<span style="color:#4eb24e;">{namecode:71}：</span><br>
 ……お二人さん？そろそろダンスが始まりますよ？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 すまんすまん…むっ、相手が……瑞鶴、一曲付き合ってくれるか？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 えええ！？わ、私ダンスはあまり……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 そう固くするでない～どれ、難しい所は我の足を踏んでも構わんぞ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=信念|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 三笠大先輩、昨日の宴会はどうもありがとうございました。…でも大先輩が言ってたこと、私にはまだちょっとよく分からなくて……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 なら、我と一回演習で勝負でもしてみるか？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 三笠大先輩と…ですか？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 うむ。切磋琢磨は重要だ。何かがひらめくかも知れぬぞ。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 はい！全力で行かせていただきます！演習海域はちょうど空いていますから、三笠大先輩、今から行きましょう！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 我はここでも構わぬが……まあ良い。では演習海域に出航しよう。って瑞鶴、ちょっと待てーー<br>
 （あの時、ダンスは苦手だと言ったのに、我の足を一回も踏まなかったな……）<br>
 <br>
 一刻後<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 瑞鶴！セイレーンとの戦いでの勢いはどうした！<br>
 攻撃が全てわざとらしすぎる！どこを狙っているかひと目でわかるぞ！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 やっぱり、大先輩には勝てない……か……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 そんなことあるか！今のはお主の全力ではあるまい！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ……兵装には問題ないはず、でもなぜ……大先輩相手にはやっぱり……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 まだ気づいておらぬか。お主は我と戦う時、そしてセイレーン・エンタープライズと戦う時と比べて決定的な差があるーー<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ……？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 我を傷つけるのを恐れるあまり、全ての攻撃前に躊躇しているのだ。<br>
 …戦いを単純に考えすぎる者もいるが、お主はその逆だ。戦闘に入ったら、余計なことを考えるな！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 そう言われても……！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 お主が気にすることもわかる。しかしだ、お主が自分の道を決めない限り、誰もがそれを決められまい。<br>
 我の後を追っかけるのも構わぬ。だが――「全てを賭ける」と決めているのなら、最後まで貫け！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 私の、全て……わかりました。三笠大先輩！またいつかお手合わせお願いできませんか？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 構わぬぞ。お主のためなら、我はその第一歩となろう。<br>
 …ただ、あまり長く待たせるでないぞ。その後はお主の努力が必要になるのだからな――<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 ふぅ……ここだな。<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 この旗は、一体……？<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 かつて我を勝利に導いた旗だ。<br>
 この旗さえあれば、お主らはきっと勝利への道を見つけ出せる。<br>
 威厳で敵勢を挫き、勇気で性能差を補い、信念と根性で最後の最後まで粘り勝つ。<br>

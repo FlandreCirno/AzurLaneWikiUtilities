@@ -6,47 +6,47 @@
 <br>
 一　補給中的“驚喜”<br>
 港區·廣場<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 嗯喵，這一批補給物資可以用好久了喵，軍部在這方面倒是從來不小氣喵~<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 這不是理所當然的事情嗎，我們這可是最前線，要是我們都得不到充足的補給可怎麼辦……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 話是這麼說，看到這麼多的東西還是會高興喵，被人支持的感覺很好喵~<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 ……難得說了句好話呢。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-喵？！竟然被{{AF|不知火}}誇獎了喵！不得了喵，等會兒說不定要來颱風了喵！~<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵？！竟然被{namecode:20}誇獎了喵！不得了喵，等會兒說不定要來颱風了喵！~<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 妳這傢伙…我看看…彈藥…食物…醫療用品…嗯？這是什麼？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-喵？讓{{AF|明石}}看看？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵？讓{namecode:98}看看？<br>
 這是什麼喵，好像是衣服喵？<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 嗯…這個是…護士服？<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 護士服？<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 呼喵！？…吸血鬼妳從哪裡竄出來的喵，嚇喵一跳！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 人家只是路過而已~<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 ……能不能不要一邊說一邊就把衣服拿起來比自己的身材。<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 有什麼不好嘛，妳看，雖然小了點，這不是和人家的身材正相稱嗎？<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 ……但是妳並不是護士吧？要說的話旁邊這只還能算。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-喵？！{{AF|明石}}才不想穿這個喵！<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵？！{namecode:98}才不想穿這個喵！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 ……唔<br>
 嘖嘖嘖，這妳就小看人家了，人家可是皇家驅逐的大前輩，護理這種小事當然是不在話下啦~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 真的喵？！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 總而言之，這件衣服就暫時由我來保管了哦~~<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 ……就這麼讓她走掉了喵。<br>
-<span style="color:#4eb24e;">{{AF|不知火}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 只是一件衣服的話，向指揮官報告一下從她的工資裡扣就好了。總之，繼續清點吧。<br>
 {{折叠面板|内容结束}}
 
@@ -150,19 +150,19 @@
 十分抱歉。<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 不，做錯了就是做錯了，這點道理人家還是懂的。<br>
-看起來人家確實不適合做護士呢，連最基本的體諒病人都沒有做到…這件衣服人家會還給{{AF|明石}}的，然後去向大家好好道歉……<br>
+看起來人家確實不適合做護士呢，連最基本的體諒病人都沒有做到…這件衣服人家會還給{namecode:98}的，然後去向大家好好道歉……<br>
 <span style="color:#4eb24e;">伦敦：</span><br>
 吸血鬼小姐，其實……<br>
-<span style="color:#4eb24e;">{{AF|卯月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 不好了，指揮官，指揮官！<br>
-{{AF|睦月}}生病啦，好像很嚴重的樣子，嗚嗚，怎麼辦呀！<br>
+{namecode:33}生病啦，好像很嚴重的樣子，嗚嗚，怎麼辦呀！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 什麼？<br>
 ……倫敦，這件衣服我可以等一下再換掉嘛？<br>
 <span style="color:#4eb24e;">伦敦：</span><br>
 從一開始我就沒有這個意思就是了……<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
-那就…倫敦去叫{{AF|明石}}或者女灶神來，指揮官跟我一起去看看小{{AF|睦月}}，沒問題吧？<br>
+那就…倫敦去叫{namecode:98}或者女灶神來，指揮官跟我一起去看看小{namecode:33}，沒問題吧？<br>
 <span style="color:#4eb24e;">伦敦：</span><br>
 我知道了。<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
@@ -174,20 +174,20 @@
 白衣天使or惡魔？<br>
 <br>
 五　專業護士吸血鬼<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 指揮官……<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
-{{AF|睦月}}她沒事吧？<br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
+{namecode:33}她沒事吧？<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
-嗯…和女灶神說的一樣，是普通的發燒呢。不過也不能掉以輕心。能去拿一盆水和兩條濕毛巾過來嗎，小{{AF|如月}}？<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+嗯…和女灶神說的一樣，是普通的發燒呢。不過也不能掉以輕心。能去拿一盆水和兩條濕毛巾過來嗎，小{namecode:34}？<br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 嗯……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-基本沒有問題了喵，睡醒應該就能恢復精神了，看起來沒有{{AF|明石}}出場的機會了喵？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+基本沒有問題了喵，睡醒應該就能恢復精神了，看起來沒有{namecode:98}出場的機會了喵？<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 呼……太好了<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-不過吸血鬼真是意外的厲害喵，有沒有興趣來協助{{AF|明石}}的出診喵？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+不過吸血鬼真是意外的厲害喵，有沒有興趣來協助{namecode:98}的出診喵？<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 ……還是算了，人家其實一點也不懂護理，只是書上看來了一些，之前還給大家添了麻煩……<br>
 <span style="color:#4eb24e;">伦敦：</span><br>

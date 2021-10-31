@@ -29,29 +29,29 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-遇敵|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 啊啦啦，這是第幾波魚雷機了，她們就不懂得學好麼，這麼笨重的玩意怎麼可能會是“靈”式的對手？<br>
 看來AF上的敵人依然在做著沒用的負隅頑抗呀，立刻準備發動下一輪攻擊<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 還是要時刻注意敵方航母的動向，請保留足夠多的戰鬥機護航！<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
-哼哼，{{AF|利根}}派出的偵查部隊壓根沒有看到敵方有什麼航母部隊，怕不是被我們龐大的艦隊給嚇得不敢出聲了~<br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
+哼哼，{namecode:61}派出的偵查部隊壓根沒有看到敵方有什麼航母部隊，怕不是被我們龐大的艦隊給嚇得不敢出聲了~<br>
 畢竟，那位大人就在後方欣賞著我們的作戰呢呵呵呵呵<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-交戰|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 ！！！正上方，發現敵機，“靈”式編隊緊急升空！！<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 所有轟炸機立刻停止作業，換裝魚雷對敵方航母編隊發動攻擊！<br>
 <span style="color:#4eb24e;">企业：</span><br>
 太晚了！麥克拉斯基隊，俯衝！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-戰勝|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 居然會和計算出現這麼大的偏差……無念<br>
-…{{AF|赤城}}……<br>
+…{namecode:91}……<br>
 <br>
 猶如神助<br>
 一輪完美的俯衝，歷史與時間定格在了這一刻<br>
@@ -62,13 +62,13 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-敵機|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
-可惡，{{AF|加賀}}居然被妳們…<br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
+可惡，{namecode:92}居然被妳們…<br>
 右滿舵，全力回避敵機俯衝，立即召回所有“靈”式攔截敵機！！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-宿命|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 浩瀚的大洋終究不過是一個龐大的賭局<br>
 這一回合，是妳們的勝利<br>
 居然能讓這群腐朽之輩使出如此精妙的戰術…不愧是我所看中的指揮官呀…<br>
@@ -77,27 +77,27 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-絕筆|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|蒼龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:93}：</span><br>
 時也命也，此役竟為吾輩之絕筆，哀哉<br>
-{{AF|飛龍}}…接下來交給妳了…<br>
+{namecode:94}…接下來交給妳了…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-最後的反擊|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 …<br>
-是麼，一航戰和{{AF|蒼龍}}都已經…<br>
+是麼，一航戰和{namecode:93}都已經…<br>
 不能就這麼空著手回去，所有艦載機立刻起飛！<br>
 讓妳們看看二航戰的底力，這是我們“最後的反擊”！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-傳承的意志|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 最後的機會了，貫徹吾輩畢生修行的一擊！！<br>
 <span style="color:#4eb24e;">约克城：</span><br>
 啊！！<br>
 <span style="color:#4eb24e;">企業&大黃蜂：</span><br>
 姐姐！！<br>
-<span style="color:#ff0000;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 至少…為那位大人挽回了一點局面呢…<br>
 吾輩此生亦無憾矣<br>
 <span style="color:#4eb24e;">约克城：</span><br>

@@ -38,7 +38,7 @@
 融冰<br>
 <br>
 二　任務<br>
-鐵必制正準備將一批舊裝備交給研發部門的{{AF|夕張}}<br>
+鐵必制正準備將一批舊裝備交給研發部門的{namecode:37}<br>
 <span style="color:#4eb24e;">提尔比茨：</span><br>
 數量稍微有點多啊……那就分幾批送過去吧。<br>
 <span style="color:#4eb24e;">???：</span><br>
@@ -192,12 +192,12 @@
 根據這份分佈圖，接下來的巡邏路線也要隨之進行調整……<br>
 <br>
 （敲門聲）<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 打擾了。鐵必制，上次謝謝妳的幫忙了。<br>
 這是最新型的空氣淨化器，能提高工作效率，保持健康的那種。我就放這裡了。<br>
 <span style="color:#4eb24e;">提尔比茨：</span><br>
 啊，謝謝了。<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 科研部還有事情，那我先走了。<br>
 <span style="color:#4eb24e;">提尔比茨：</span><br>
 巡邏路線安排好了，接下來是人選……<br>

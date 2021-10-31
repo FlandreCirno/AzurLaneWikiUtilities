@@ -12,33 +12,33 @@
 <br>
 '''''<span style="color:black;">选择项1：拝み倒す</span>'''''<br>
 '''''<span style="color:black;">选择项2：こんな自己紹介ができるとは…やっぱり天才か…</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ふん！とにかく、これであんたの艦隊に着任してやったのだぞ。努力してこの雪風様を上手く使うがいいのだ！<br>
 <br>
 キラ～ン！<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 さあ、この雪風様にひれ伏して、艦隊の主力にするのだ！<br>
 <br>
 パチーン！<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 この雪風様の威光に感服して言葉を失ったのか？所詮はカヨワイ人間なのだな！<br>
 <br>
 ……<br>
 …………<br>
 ヒュー。<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 あ、あれ？<br>
-<span style="color:#4eb24e;">{{AF|浜風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 ええと……指揮官、固まっている…<br>
-<span style="color:#4eb24e;">{{AF|谷風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:127}：</span><br>
 ゆ、雪風ちゃんはこんな感じですから，…あまり驚かないで…ね？<br>
-<span style="color:#4eb24e;">{{AF|磯風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:143}：</span><br>
 か、かっこいい……浦風さま、磯風にもこの「ナンバン風自己紹介」作ってほしい！<br>
-<span style="color:#4eb24e;">{{AF|浦風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:142}：</span><br>
 はぐぅ！？わ、私が作るわけないでしょ！？それより指揮官、雪風をそのまま放置していいの？<br>
 <br>
 '''''<span style="color:black;">选择项1：なにを言えばいいか忘れてた…</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ぐぬぬぬ…！この雪風様を無視するなんて……万死に値するのだ！<br>
 {{折叠面板|内容结束}}
 
@@ -47,7 +47,7 @@
 佐世保生まれの幸運艦<br>
 <br>
 その二　天才の雪風様<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 あーはっはっは！この雪風様を秘書艦にするなんて、あんたも見る目はあるのだな♪<br>
 ふん、さては雪風様の活躍を早速耳にしたのだな！<br>
 <br>
@@ -56,19 +56,19 @@
 ニーミちゃん～この問題わからないよ～<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 だから授業ではちゃんと聞いてって何回も言ったじゃない……うっ、これは……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ふん！そんな簡単な問題も解けないのか？この雪風様が一発で解いてやるのだ！<br>
-<span style="color:#4eb24e;">{{AF|愛宕}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 この艤装、膝の上において整備するとなにも見えないのね…雪風ちゃん、助けてもらっていい？<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 お？おお？？（パン！）<br>
-<span style="color:#4eb24e;">{{AF|高雄}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 なっ！？まさかこうも簡単に出来るとは……むっ、拙者の立つ瀬がない……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ふん！これぐらい楽勝なのだ！あと、雪風ちゃんじゃなくて雪風様なのだ！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 雪風が来て助かるにゃ～前に落とした素材も全部見つかったにゃ～<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ふ、ふん！この雪風様にかかれば解決できない問題などないのだ！（素材はそこらを歩いてたら見つかったんだけど…）<br>
 ふっふん、この雪風様の凄さを思い知ったか！これからも雪風様をどんどん頼っていいのだぞ♪<br>
 まずはお茶汲んでこい…なのだと！？こ、この雪風様にそんな雑用を任せるのか――！<br>
@@ -83,43 +83,43 @@
 寮舎でまたコインを拾ったわ、この馬鹿指揮官♪<br>
 <span style="color:#4eb24e;">雪風：</span><br>
 寮舎でコインを拾ったのだ！雪風様に感謝するのだ！<br>
-<span style="color:#4eb24e;">{{AF|雪風}}&{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}&{namecode:17}：</span><br>
 …………<br>
 <span style="color:#4eb24e;">時雨：</span><br>
 なんなのよ！なんで雪風がここにいるの！<br>
 <span style="color:#4eb24e;">雪風：</span><br>
 なんなのだ！この秘書艦の雪風様を差し置いて！<br>
-<span style="color:#4eb24e;">{{AF|雪風}}&{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}&{namecode:17}：</span><br>
 …………<br>
 <span style="color:#4eb24e;">時雨：</span><br>
 ちっ、なんであの雪風がここにいるのよ……<br>
 <span style="color:#4eb24e;">雪風：</span><br>
 ぐぬぬ……まさか時雨がここにいるなんて……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}&{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}&{namecode:17}：</span><br>
 …………<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 もう我慢出来ないわ！雪風、勝負よ！<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 あーはっはっは！この雪風様に一度も勝てなかったあんたが勝負なのだと！ふん！なんでもかかってこいなのだ！<br>
-<span style="color:#4eb24e;">{{AF|白露}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 し、時雨ちゃん、ケンカはだめだよ……<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 良いではないか！うちの若いのは元気なのじゃな！<br>
-<span style="color:#4eb24e;">{{AF|白露}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 か、陽炎も野分も二人を止めてよぉ……<br>
-<span style="color:#4eb24e;">{{AF|野分}}：</span><br>
+<span style="color:#4eb24e;">{namecode:24}：</span><br>
 Zzzzzzz<br>
-<span style="color:#4eb24e;">{{AF|陽炎}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 はっはっは！指揮官も見て楽しんでいるのじゃな！<br>
-<span style="color:#4eb24e;">{{AF|時雨}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 はぁ…はぁ…まさかここまでやるとは……運だけと言って悪かったわね……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ま、まだなのだ！野分！秘伝冷却水を持ってくるのだ！<br>
-<span style="color:#4eb24e;">{{AF|野分}}：</span><br>
+<span style="color:#4eb24e;">{namecode:24}：</span><br>
 ……Zzzzzzz<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！これが「フグタイテン」ということね！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 でも、たかがくじ引き勝負なのに、なんであんなに疲れてるの？電、ちょっとわかりません…<br>
 {{折叠面板|内容结束}}
 
@@ -133,7 +133,7 @@ Zzzzzzz<br>
 それはありがたいね！流石は幸運艦！私も今度雪風ちゃんに頼もうかな…<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 というわけで、この雪風様がこの母港では大人気なのだ！<br>
 さあ、この雪風様にシッポを振れば、雪風様のシッポを少しモフモフさせてやらなくもない――のだ！？<br>
 <br>
@@ -144,7 +144,7 @@ Zzzzzzz<br>
 ありがとうレパルス！よぉし、雪風ちゃんに頼んで、今度こそお姉さん力を……！<br>
 <span style="color:#4eb24e;">ジュノー：</span><br>
 姉ちゃん、サンディエゴちゃんがすごく運がいいって聞いたばかり…雪風ちゃん、ごめん…！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 如月も…こううん、ほしい……<br>
 <span style="color:#4eb24e;">ヨーク：</span><br>
 フフフ、東つ国の凍りつく嵐よ！その豪運をこの私に捧げるが良いぞ！<br>
@@ -154,17 +154,17 @@ Zzzzzzz<br>
 まあまあ、そういうこともあるってことさ<br>
 <br>
 '''''<span style="color:black;">选择项1：どういう…ことだ？</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ふ、ふん！たかがモフモフぐらい、この雪風様が全部させてやるのだ――！<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|扶桑}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 雪風ちゃん、本当に大人気ですね…でもこれはちょっと大変かも……<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 殿様知っていますか？実は雪風ちゃん、頼めば何でもやってくれるんですよ！<br>
 <br>
 '''''<span style="color:black;">选择项1：それはただのお人好し過ぎなのでは……</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|山城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 そ、そうですね…あははは……<br>
 {{折叠面板|内容结束}}
 
@@ -173,13 +173,13 @@ Zzzzzzz<br>
 佐世保生まれの幸運艦<br>
 <br>
 その五　雪風と遊園地（上）<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 遊園地に行きたいか？ふん、そんなとこ、この大人の雪風様が好きなわけ……ぐぬぬ……<br>
 ………こ、これは指揮官がどうしても雪風様を連れてってあげたいと言ったから仕方なく行ってあげたのだ！<br>
 ふん！感謝するのだぞ！<br>
 <br>
 というわけで、休日の遊園地にて――<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 メリーゴーランド？そんな子供っぽい遊具は雪風様は絶対に乗らないのだぞ！<br>
 ジェットコースター？海の荒波と比べれば話にすらならないのだ！<br>
 観覧車？あ、あれはでで、デートする時に乗るものなのだぞ！？雪風は別に……<br>
@@ -187,13 +187,13 @@ Zzzzzzz<br>
 あっはっはっは！お化け屋敷なんて所詮は子供騙しなのだ！この雪風が怖がるわけないのだ！<br>
 <br>
 5分後――<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 うにゃあああああああああああ！！！<br>
 （ブルブル）……こ、怖ぃ……！て、ててて手は離さないでぇ――！<br>
 指揮官！助けてええええ！！<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 し、死ぬかと思った……<br>
 し、しきかん……うぇえええ……<br>
 <br>
@@ -206,17 +206,17 @@ Zzzzzzz<br>
 <br>
 その六　雪風と遊園地（下）<br>
 遊園地・観覧車<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 しきかん……ありがとう……<br>
 <br>
 最初は強がってた雪風だったが、お化け屋敷を出てから完全に弱気になっていた。<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 指揮官が謝ることなんてないよ！<br>
 そ、それは入る前も怖かったけど…でも指揮官が入りたいかなって思ったら断れないよぉ……<br>
 つ、強がりなんてしてない！…のだ…<br>
 <br>
 そういえば、雪風は普段も人に頼まれると、ほとんど断らない気がする。<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 普段も無理してないかって？<br>
 違うのだ！あれは……………<br>
 みんなが頼ってくるから、雪風様が皆を助けてやっているのだ！<br>
@@ -224,7 +224,7 @@ Zzzzzzz<br>
 <br>
 '''''<span style="color:black;">选择项1：ポンポン</span>'''''<br>
 '''''<span style="color:black;">选择项2：なでなで</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 えへへ……わぅわぅ……<br>
 うん……今度は無理しないで指揮官の話を聞くー<br>
 ……は！雪風様がなんて……<br>
@@ -237,33 +237,33 @@ Zzzzzzz<br>
 <br>
 その七　いつもの雪風様<br>
 そして、ある日母港にて――<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 あっはっはっは！今日も雪風様が秘書艦として報告してやるのだ！<br>
 ふん！この雪風様がいないと仕事ちゃんとできないのだな？<br>
 <br>
 そういえば、雪風は昨日も深夜まで頑張ってた気がする。<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 ふん！指揮官もようやくこの雪風様のありがたみを理解できるようになったのだな！<br>
 そんな物分りのいい指揮官のために、雪風様がもうすこし頑張ってやらなくもないのだぞ！<br>
 ほら、雪風様をもっともっと褒めるのだ♪<br>
 <br>
 '''''<span style="color:black;">选择项1：ポンポン</span>'''''<br>
 '''''<span style="color:black;">选择项2：なでなで</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 えへへ……わぅわぅ……<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|磯風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:143}：</span><br>
 浦風さま！磯風も指揮官にモフモフさせたい！<br>
-<span style="color:#4eb24e;">{{AF|浦風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:142}：</span><br>
 わたしも…は！空気読め！今は雪風が秘書艦だぞ！<br>
-<span style="color:#4eb24e;">{{AF|浜風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 お、おちたのね……<br>
-<span style="color:#4eb24e;">{{AF|谷風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:127}：</span><br>
 雪風ちゃん……よかったです……<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|雪風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 しきかーん、もっとモフモフしていいのだぞー♪<br>
 {{折叠面板|内容结束}}
 

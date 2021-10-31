@@ -190,42 +190,42 @@
 <br>
 五 來自對手的委託<br>
 站在佈告欄前的，是騎士們宿命中的對手。<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 ——什麼啊，剛想說是誰在這邊吵吵嚷嚷的……原來是丹佛啊。<br>
 <br>
-重櫻輕巡洋艦{{AF|川內}}的手中，正拿著一張紙。<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+重櫻輕巡洋艦{namecode:38}的手中，正拿著一張紙。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 這個？這是我剛準備貼上去的委託書。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 是什麼樣的委託啊？可以的話，就讓我和指揮官幫忙吧！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 只要你們不介意的話……不是什麼重要的大事哦？<br>
-最近這幾天我在打籃球，不過已經和{{AF|足柄}}、{{AF|那智}}她們打膩了。因此，我正在尋找對外比賽的對手。<br>
+最近這幾天我在打籃球，不過已經和{namecode:144}、{namecode:64}她們打膩了。因此，我正在尋找對外比賽的對手。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 對外比賽？也就是說妳要找其他陣營的人做對手？<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 沒錯。不過要是從現在開始找齊兩隊人的話，恐怕要等到天黑了。所以就想快速找個能進行單挑的對手。<br>
 <br>
-{{AF|川內}}把任務書攤開，臉上露出了微笑。<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+{namecode:38}把任務書攤開，臉上露出了微笑。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 說來也巧，這裡不就有個喜歡籃球的克里夫蘭級嘛——<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 原來如此，妳是想讓我做妳的對手嗎？<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 其實我本來只是想碰碰運氣的，結果沒想到一下子就遇到了合適的對手。遇到強敵就想挑戰是理所當然的吧？<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 哈哈~既然妳都這麼說了，我就不能不接受這個挑戰了啊！<br>
 <br>
 瀰漫在兩人之間的並非劍拔弩張的肅殺，而是同港區的同伴之間對於即將到來的“戰鬥”的緊張與興奮。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
-這也是對我身為海上騎士的考驗啊~沒問題，{{AF|川內}}，我正式接受妳的挑戰了！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+這也是對我身為海上騎士的考驗啊~沒問題，{namecode:38}，我正式接受妳的挑戰了！<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 兩個小時後開始比賽，在這期間一定要好好準備一下哦。<br>
 比起我們各自陣營的人，指揮官，如果方便的話裁判就由你來擔任吧。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 指揮官，拜託了！<br>
 <br>
-丹佛和{{AF|川內}}的眼中都燃燒著鬥志之火。看來這將會是一場相當激烈的比賽……！<br>
+丹佛和{namecode:38}的眼中都燃燒著鬥志之火。看來這將會是一場相當激烈的比賽……！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=比賽開始！|选项=6|主框=1|样式=primary|展开=否}}
@@ -236,54 +236,54 @@
 按時來到籃球場後，球場上已經聚集了相當多的人，是比賽的消息傳出去了嗎？<br>
 <span style="color:#4eb24e;">斯彭斯：</span><br>
 加加加加油……！丹佛！<br>
-<span style="color:#4eb24e;">{{AF|妙高}}：</span><br>
-平時我不會看這些比賽，不過{{AF|川內}}和丹佛的就另當別論了。<br>
-<span style="color:#4eb24e;">{{AF|阿賀野}}：</span><br>
-呼呼~考慮到綜合實力，{{AF|川內}}的技術要更好一些吧？<br>
+<span style="color:#4eb24e;">{namecode:63}：</span><br>
+平時我不會看這些比賽，不過{namecode:38}和丹佛的就另當別論了。<br>
+<span style="color:#4eb24e;">{namecode:49}：</span><br>
+呼呼~考慮到綜合實力，{namecode:38}的技術要更好一些吧？<br>
 <span style="color:#4eb24e;">查尔斯·奥斯本：</span><br>
 哼，那是因為妳從來沒有看過丹佛的籃球比賽所以才會這麼說啦！<br>
 <br>
-在觀眾的熱烈的視線中，{{AF|川內}}一邊看著走進賽場的丹佛，一邊用纏著繃帶的食指轉著球。<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+在觀眾的熱烈的視線中，{namecode:38}一邊看著走進賽場的丹佛，一邊用纏著繃帶的食指轉著球。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 規則是每次投籃得1分，三分線外投籃得2分，先得10分的選手獲勝。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 簡單易懂的規則呢。那就讓我們開始吧!<br>
 <br>
-擲硬幣的結果是{{AF|川內}}先攻，然後激烈的比賽正式開始了——！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+擲硬幣的結果是{namecode:38}先攻，然後激烈的比賽正式開始了——！<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 首先讓我看看妳的本事吧！<br>
 <br>
-{{AF|川內}}快速運球衝到了籃下。對位的丹佛則在判斷著她會往左邊還是右邊突破。<br>
+{namecode:38}快速運球衝到了籃下。對位的丹佛則在判斷著她會往左邊還是右邊突破。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 左邊！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 天真！是右邊！<br>
 <br>
-{{AF|川內}}巧妙而華麗地閃開了丹佛，然後精準投籃。目前{{AF|川內}}一分領先。<br>
+{namecode:38}巧妙而華麗地閃開了丹佛，然後精準投籃。目前{namecode:38}一分領先。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 這次輪到我了！我上了哦！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 不管妳從哪邊突破——啊？！<br>
 <br>
 丹佛就在拿到球的地方，於三分線外投籃。球以一個漂亮的弧線精準入框，為丹佛得到兩分。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 我擅長的位置，可是得分後衛哦……！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 可惡……那我就用徹徹底底的進攻擊敗妳！<br>
 <br>
-你來我往的比賽還在繼續，現在丹佛和{{AF|川內}}的比分是8比9，可以說是相當焦灼——<br>
+你來我往的比賽還在繼續，現在丹佛和{namecode:38}的比分是8比9，可以說是相當焦灼——<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
-呼……川，{{AF|川內}}的運球，太巧妙了，根本跟不上啊……！<br>
+呼……川，{namecode:38}的運球，太巧妙了，根本跟不上啊……！<br>
 <br>
-丹佛的遠距離投籃戰術，被{{AF|川內}}的貼身防守完全封鎖了。<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+丹佛的遠距離投籃戰術，被{namecode:38}的貼身防守完全封鎖了。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 嘖嘖……丹佛，我已經完全掌握了妳的動作……我不會讓妳再進一球的……！<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 還沒有輸……！不，這場比賽我不能輸!<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 哼，終於我們彼此都該拿出真本事了啊……！<br>
 <br>
-{{AF|川內}}解開了手上纏著的繃帶。丹佛則是仰望天空，調整起自己的呼吸來。<br>
+{namecode:38}解開了手上纏著的繃帶。丹佛則是仰望天空，調整起自己的呼吸來。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 指揮官，大姐頭，請看著我，看著丹佛閃耀的那一瞬間吧……！<br>
 <br>
@@ -306,19 +306,19 @@
 <span style="color:#4eb24e;">丹佛：</span><br>
 ……是！<br>
 <br>
-在最強的應援聲中，丹佛改變了之前保持距離的策略，向{{AF|川內}}直衝而去。<br>
+在最強的應援聲中，丹佛改變了之前保持距離的策略，向{namecode:38}直衝而去。<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 ……上了！<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 居然……！？<br>
 <br>
-強行進攻的丹佛，在最後時刻以一個勉強到幾乎違例的運球，躲過了{{AF|川內}}的攔截！<br>
+強行進攻的丹佛，在最後時刻以一個勉強到幾乎違例的運球，躲過了{namecode:38}的攔截！<br>
 <span style="color:#4eb24e;">丹佛：</span><br>
 指揮官和大姐頭……現在就在場邊看著我啊！！<br>
 <br>
-丹佛突破了{{AF|川內}}的貼身防守，直接到了另一側的三分線外投籃。<br>
-在撲空的{{AF|川內}}呆呆地目送下，丹佛的投籃唰地命中了。最終比分10比9，丹佛獲勝。<br>
-<span style="color:#4eb24e;">{{AF|川內}}：</span><br>
+丹佛突破了{namecode:38}的貼身防守，直接到了另一側的三分線外投籃。<br>
+在撲空的{namecode:38}呆呆地目送下，丹佛的投籃唰地命中了。最終比分10比9，丹佛獲勝。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 看來我在幹勁上輸了妳一籌啊……<br>
 <br>
 現場歡呼聲雷動。海上騎士又一次突破了試煉（？）。<br>

@@ -82,37 +82,37 @@
 <br>
 這聲音是貝利和…？<br>
 <span style="color:#4eb24e;">贝利：</span><br>
-啊，{{AF|那智}}姐姐，晚上好~<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+啊，{namecode:64}姐姐，晚上好~<br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 別姐姐姐姐地叫那麼親熱，我可沒打算和妳搞好關係……<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 但是但是……<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 ……算了，既然現在是戰友了，隨妳高興吧。<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 耶~<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 不過妳還真是努力呢，每天下班後都會抽出時間在這邊練習嗎？<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 嗯~薩拉老師說過，練習是必不可少的呢！<br>
-{{AF|那智}}姐姐不也是經常暗中來這邊練習對話之類的嗎？<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+{namecode:64}姐姐不也是經常暗中來這邊練習對話之類的嗎？<br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 我、我只是在複習而已，那些都是我早就會的東西了。<br>
 <span style="color:#4eb24e;">贝利：</span><br>
-這樣啊，{{AF|那智}}姐姐果然好厲害呢。<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+這樣啊，{namecode:64}姐姐果然好厲害呢。<br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 ………………咳咳，總、總之，妳也不要太累到自己，白天還要擔任秘書艦的吧？<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 嗯！不過沒關係的~幫指揮官的忙對貝利來說是和成為偶像同等重要的事呢！<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 …還真是個好孩子呢<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 欸嘿嘿，沒有啦~<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 總之，既然妳要在這裡練習，那我就不打擾了。<br>
 <span style="color:#4eb24e;">贝利：</span><br>
-欸，我還想讓{{AF|那智}}姐姐幫我看看我的練習成果呢。<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+欸，我還想讓{namecode:64}姐姐幫我看看我的練習成果呢。<br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 …好吧，也不是不行。<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 太好啦~<br>
@@ -215,7 +215,7 @@
 嗯哼，一定是上帝大人為我下的流星雨~<br>
 <span style="color:#4eb24e;">科尔克：</span><br>
 太臭美了啦霍比~<br>
-<span style="color:#4eb24e;">{{AF|那智}}：</span><br>
+<span style="color:#4eb24e;">{namecode:64}：</span><br>
 願望許什麼好呢……<br>
 <br>
 ……諸如此類，看起來，女孩們對於流星十分感興趣的樣子。<br>
@@ -229,14 +229,14 @@
 <br>
 ……原來還有這樣的思考方式。<br>
 不過果然再怎麼說也不太可能是兔兔星的飛船……<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-飛船？不是喵，{{AF|明石}}通過天文望遠鏡看過，是普通的隕石喵！<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+飛船？不是喵，{namecode:98}通過天文望遠鏡看過，是普通的隕石喵！<br>
 而且兔兔星從科學上來說，果然至少在我們所處的星系內沒有這樣的星球喵<br>
-路過的{{AF|明石}}給出了科學上的意見。<br>
+路過的{namecode:98}給出了科學上的意見。<br>
 <br>
-'''''<span style="color:black;">选择项1：提醒{{AF|明石}}</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-……啊，不、不過喵！{{AF|明石}}也沒有看得很仔細喵，有飛船混在裡面也說不定喵！<br>
+'''''<span style="color:black;">选择项1：提醒{namecode:98}</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+……啊，不、不過喵！{namecode:98}也沒有看得很仔細喵，有飛船混在裡面也說不定喵！<br>
 而且，兔兔星的話，說不定外星系什麼的有存在喵！<br>
 <br>
 雖然明石馬上補救，不過氣氛似乎變得有點尷尬起來<br>
@@ -267,8 +267,8 @@
 <br>
 ……總覺得貝利說了十分成熟的話。<br>
 <span style="color:#4eb24e;">贝利：</span><br>
-而且而且，剛才{{AF|明石}}也說了，說不定在其他星、星系？什麼的東西裡存在真正的兔兔星嘛。<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+而且而且，剛才{namecode:98}也說了，說不定在其他星、星系？什麼的東西裡存在真正的兔兔星嘛。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 確實喵，從科學上來說，宇宙還很廣闊喵！<br>
 <span style="color:#4eb24e;">贝利：</span><br>
 所以，說不定兔兔星是真的存在的，只是大家還不知道而已~<br>

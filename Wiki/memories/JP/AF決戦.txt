@@ -29,27 +29,27 @@ AFの場所がわかったのなら、そろそろ出動しないと。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-攻勢|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 あら、これで何度目？あんな鈍重なもの、私たちの「霊（ゼロ）」の相手ではないのがなんで分からないのかしら？<br>
 AFの敵も無駄な足掻きね…第二次攻撃のための換装を急いでちょうだい。<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 姉さま、ここは敵空母に備えて直掩機も準備したほうが…！<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 心配要らないわ。敵機動艦隊は利根の索敵機も発見できなかったし、この大艦隊に怯えてもう逃げたのかもしれないわよ？<br>
 それに、あのお方も裏で私たちの戦闘を見ているもの…うふふ<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-交戦|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 ！！敵機直上！急降下！「霊（ゼロ）」緊急発進！<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 ！？各機装備換装を止め!緊急発進！<br>
 <span style="color:#4eb24e;">エンタープライズ：</span><br>
 もう遅い！マクラスキー隊、ぶっ飛ばせ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-運命再帰|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 くっ……計算よりここまでズレるとは……無念…<br>
 …赤城、姉さま……<br>
 <br>
@@ -62,13 +62,13 @@ AFの敵も無駄な足掻きね…第二次攻撃のための換装を急いで
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-進撃|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 おのれ、よくも加賀を！<br>
 面舵一杯！回避運動！「霊（ゼロ）」を全機呼び戻せ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-宿命の因子|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 この海も、所詮は戯れ事に過ぎないというの…<br>
 今回はお前たちの勝ちよ。<br>
 凡愚どもをここまでまとめ上げるなんて…流石は私が見込んだ指揮官様ですこと…<br>
@@ -77,13 +77,13 @@ AFの敵も無駄な足掻きね…第二次攻撃のための換装を急いで
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-絶筆|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|蒼龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:93}：</span><br>
 これが、私の最後ね…<br>
 飛龍、あとは…頼むわ…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-最後の反撃|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 …<br>
 そうか、一航戦の先輩たちも、蒼龍姉様も……<br>
 だがこのままでは終わらせない！全艦載機、直ちに発進！<br>
@@ -91,13 +91,13 @@ AFの敵も無駄な足掻きね…第二次攻撃のための換装を急いで
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三章-引継がれる意志|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 ぼくの全てをかけて、この一撃で…！！<br>
 <span style="color:#4eb24e;">ヨークタウン：</span><br>
 きゃああ！<br>
 <span style="color:#4eb24e;">エンタープライズ＆ホーネット：</span><br>
 姉さん！<br>
-<span style="color:#ff0000;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 あのお方のために…一矢報いてやったよ…！<br>
 ぼくはこれで満足…よ！<br>
 <span style="color:#4eb24e;">ヨークタウン：</span><br>

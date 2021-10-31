@@ -6,25 +6,25 @@
 <br>
 一 宿命的對決<br>
 某日·港區學園<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 …學校，真是一個好地方。<br>
 可以安靜地躲在角落裡，不和別人說話也沒有關係…<br>
 而且……還能看到大家不同的一面，呼呼……<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 ……的末日到了！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 咦，那是……<br>
 <span style="color:#4eb24e;">哈曼：</span><br>
 妳的末日才到了，哈曼今天要好好教訓妳一頓！伊168！<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 做得到妳就試試看呀！哼哼，最後可別哭著回去找妳的約克鎮姐姐告狀！<br>
 <span style="color:#4eb24e;">哈曼：</span><br>
 哼，哈曼要靠自己把妳打倒！<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 哇哈哈，大話就留到夢裡說吧！…以教室為終點，誰先到，誰就贏，怎麼樣？<br>
 <span style="color:#4eb24e;">哈曼：</span><br>
 哼，比就比！<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 那就，預備——<br>
 <span style="color:#4eb24e;">约克城：</span><br>
 哈曼，妳和168在幹什麼呢？<br>
@@ -33,30 +33,30 @@
 <span style="color:#4eb24e;">约克城：</span><br>
 今天任務結束得早，我順便來看看妳。<br>
 呵呵，今天還是一樣精神呢，伊168。<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 嗚…妳妳妳妳好！<br>
 <span style="color:#4eb24e;">约克城：</span><br>
 哈哈…別緊張，現在大家都是同伴呢～<br>
 反倒是哈曼沒有給妳添麻煩吧…？<br>
 <span style="color:#4eb24e;">哈曼：</span><br>
 （使眼色）<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 沒、沒有，我、我和哈曼是好朋友呢！<br>
 <span style="color:#4eb24e;">约克城：</span><br>
 哎呀，妳們成為朋友啦，那真是太好了～<br>
 不過，哈曼多少有些脾氣急躁，還需要妳們多多包涵呢……<br>
 <span style="color:#4eb24e;">哈曼：</span><br>
 哈曼才沒有！<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 哦、哦…！<br>
 <span style="color:#4eb24e;">约克城：</span><br>
 呵呵，既然哈曼在和小夥伴玩耍，我就先回去了<br>
 <span style="color:#4eb24e;">哈曼：</span><br>
 嗯、嗯…約克鎮姐姐，妳先回去吧！<br>
 ……下次再戰。<br>
-<span style="color:#4eb24e;">{{AF|伊168}}：</span><br>
+<span style="color:#4eb24e;">{namecode:256}：</span><br>
 哼、哼!好吧，今天就先放過妳了！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 ……曾經的對手，如今成為了並肩作戰的夥伴，寫作勁敵讀作摯友…哈啊…<br>
 真、真是令人心潮澎湃呢。<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -68,50 +68,50 @@
 角落的向日葵<br>
 <br>
 二 誤會與交友<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 噫！！！<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 哇啊！？我、我有這麼可怕嗎…<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
-是、是{{AF|伊25}}啊…<br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
+是、是{namecode:252}啊…<br>
 沒、沒什麼，只、只是覺得這邊草叢挺涼快的而已…——<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 啊…是168和哈曼呀，今天還是一如既往呢…<br>
 妳這是在…觀察她們嗎？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 ……嗯。<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 啊，我知道了！原來是這樣啊。<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 欸，什麼？<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 因為伊56妳出任務總是一個人，而且在校園裡也是一個人，還以為妳不喜歡和別人交流——<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 欸，我確實……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 還以為妳不喜歡和別人交流……其實伊56也是很想和大家交朋友的吧！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 我、我不是…<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 不要害羞啦，嘿嘿，就讓我來做妳的第一個朋友…怎麼樣？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 欸？！不、不用，我沒……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 就這麼決定了，從今天開始，我們就是好朋友啦！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 唔唔唔……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 這樣就不用擔心孤單啦…嗯嗯，好孩子…<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 唔唔……胸部……呼吸……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 啊，抱歉抱歉！我一不小心就…<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 沒、沒有……（伊25平時也是這麼補充指揮官成分的嗎…）<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 咦，妳們兩個在草地上...做什麼呢？好像挺有趣的，也算我一個！<br>
 我跳！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 噫！！！<br>
 {{折叠面板|内容结束}}
 
@@ -120,46 +120,46 @@
 角落的向日葵<br>
 <br>
 三 新的夥伴？<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 哎呀，妳是……<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 嘿嘿～妳們好呀，重櫻的潛艇，我是鐵血的U-522！<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 我是伊25，她是……<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 嗚嗚嗚嗚嗚嗚嗚(屁股壓到我了）……我、我叫伊56<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 不好意思突然跳出來嚇到妳們啦<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 沒、沒事……<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 於是妳們剛才在搞什麼呢？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 沒什麼……呃……<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 嘿嘿，我正在尋找有趣的事呢，有沒有什麼建議分享一下呀！<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 有趣的事情…好像…沒有什麼呢，56呢？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 唔…有趣的事，學校裡，有很多…吧<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 吼～學校裡有什麼有趣的事呀？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 U-557和伊58經常會在天台一起發呆……<br>
 伊26經常和U-81玩捉迷藏，也會和鰷魚會一起訓練……<br>
 U-73和伊19跟誰都合得來所以有點微妙，伊13經常去找航母們玩，所以她們比較……嗯……<br>
 然後,大青花魚則是喜歡捉弄所有人……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 ……沒想到，56妳這麼關注大家…<br>
 嗯…我也會加油的！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 欸，不是，我沒有……<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 嗯…貌似那個叫大青花魚的傢伙也挺有意思的…<br>
 好！下次到學校就去找大青花魚玩吧！<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 糟了糟了糟了！要來不及了！<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 又、又來了嗎！？！！！<br>
 {{折叠面板|内容结束}}
 
@@ -176,7 +176,7 @@ U-73和伊19跟誰都合得來所以有點微妙，伊13經常去找航母們玩
 是啊，我們正在聊有趣的事情呢，妳要不要一起來？<br>
 <span style="color:#4eb24e;">U-101：</span><br>
 喔喔！！…哦…抱歉，我趕時間，還是下次吧！<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 大魚也在…這是準備去哪裡嗎？<br>
 <span style="color:#4eb24e;">U-101：</span><br>
 嘿嘿，我準備出海一趟～有一片魚群順著暖流遷移，按估算差不多正好要經過港區附近的海域了<br>
@@ -184,17 +184,17 @@ U-73和伊19跟誰都合得來所以有點微妙，伊13經常去找航母們玩
 啊對了，妳們要不要一起來算了？<br>
 <span style="color:#4eb24e;">U-522：</span><br>
 欸，聽起來超有意思的。我也要一起去！<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 似乎很有意思呢！56，我們也一起去吧？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 我、我就……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 是嗎……好不容易大家可以一起去的……<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 呃……<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 其實我很想和伊56一起看呢……<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 ……（！）<br>
 （這個展開——好像可以……！）<br>
 <span style="color:#4eb24e;">U-101：</span><br>
@@ -203,9 +203,9 @@ U-73和伊19跟誰都合得來所以有點微妙，伊13經常去找航母們玩
 妳的艦裝載得動四個人？<br>
 <span style="color:#4eb24e;">U-101：</span><br>
 哼哼，可別小看了我經過特別改裝的大魚！<br>
-<span style="color:#4eb24e;">{{AF|伊25}}：</span><br>
+<span style="color:#4eb24e;">{namecode:252}：</span><br>
 56，抓緊我囉？<br>
-<span style="color:#4eb24e;">{{AF|伊56}}：</span><br>
+<span style="color:#4eb24e;">{namecode:254}：</span><br>
 嗯……呃，嗯？<br>
 （好、好像我沒答應說要去…？）<br>
 （怎麼會變成這樣——！？）<br>

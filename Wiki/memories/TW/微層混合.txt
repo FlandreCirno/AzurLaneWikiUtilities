@@ -577,24 +577,24 @@ OK~看我把它們全部收拾掉！<br>
 簡直像記錄裡的碧藍航線成立大會一樣。大家上一次這麼聚在一起，是多久之前了呢……<br>
 <span style="color:#ff9900;">皇家方舟：</span><br>
 噢？ ！重櫻的各位也來了……只有妳們到了嗎？<br>
-<span style="color:#ff9900;">{{AF|高雄}}：</span><br>
+<span style="color:#ff9900;">{namecode:66}：</span><br>
 目前為止，是的…赤城她們在路上發生了點意外，等解決之後應該就會趕來和我們匯合了。<br>
-<span style="color:#ff9900;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff9900;">{namecode:94}：</span><br>
 妳們皇家的伊莉莎白也沒來嗎…唉，看來現在各家情況都很慘啊。<br>
 <span style="color:#ff9900;">皇家方舟：</span><br>
 ………伊莉莎白陛下那邊暫時無法脫身，我們還在努力中…<br>
 大家打起精神來，我們不是還有企業在這裡嘛！今後的事，一切都會好起來的…！<br>
-<span style="color:#ff9900;">{{AF|高雄}}：</span><br>
+<span style="color:#ff9900;">{namecode:66}：</span><br>
 希望如此吧…該談正事了。企業，組織的名字妳想好了嗎？<br>
 <span style="color:#4eb24e;">企业：</span><br>
 ……名字？<br>
-<span style="color:#ff9900;">{{AF|高雄}}：</span><br>
+<span style="color:#ff9900;">{namecode:66}：</span><br>
 “火炬”啊…黑暗中的一絲光明，照亮前進的道路。不錯，我喜歡。<br>
-<span style="color:#ff9900;">{{AF|飛龍}}：</span><br>
+<span style="color:#ff9900;">{namecode:94}：</span><br>
 我們真的要和那群傢伙合作嗎…？ “它們”原本是作為我們的替代品被製造出來的吧。<br>
 <span style="color:#4eb24e;">企业：</span><br>
 ？ ！ ！ “它們”難道是！<br>
-<span style="color:#ff9900;">{{AF|高雄}}：</span><br>
+<span style="color:#ff9900;">{namecode:66}：</span><br>
 原來是這樣……如果是這個理由的話…就看看它們的表現吧。<br>
 <span style="color:#4eb24e;">企业：</span><br>
 喂！到底是怎麼回事，妳們打算做什麼？ ！<br>

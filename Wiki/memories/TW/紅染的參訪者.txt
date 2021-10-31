@@ -18,7 +18,7 @@
 前方發現巨大不明物體，航向150，立即規避撤離……<br>
 不明物體？在暴風雨中？快告訴我妳的方位！<br>
 …………<br>
-回話呀，{{AF|翔鶴}}姐，告訴我妳的方位<br>
+回話呀，{namecode:95}姐，告訴我妳的方位<br>
 …………<br>
 …………<br>
 ……快…走…………………<br>
@@ -26,40 +26,40 @@
 可惡…明明還沒跟那傢伙決出勝負的就…<br>
 等等，前面這道光是？…<br>
 ！！！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ……<br>
 ……這是…?<br>
 誒！？？居然又大難不死了！！！<br>
 只是…頭好痛，剛才一瞬間的事情已經完全記不起來了…<br>
-可惡，{{AF|翔鶴}}姐也聯繫不上，情況一點也沒有好轉嘛…<br>
+可惡，{namecode:95}姐也聯繫不上，情況一點也沒有好轉嘛…<br>
 ……<br>
 收回前言…至少，終於讓我找到妳了…<br>
 傳說中的的“聖域”<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=風暴的盡頭·上|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 居然用暴風雨把這片海域完全覆蓋住了，真是驚人的力量…<br>
 估計想來揭曉謎底的傢伙們早就已經填滿海底了吧…要不是我運氣好…<br>
-……不管怎樣，必須先試圖聯繫上{{AF|翔鶴}}姐才行，這個地方…給我一種很不舒服的感覺<br>
+……不管怎樣，必須先試圖聯繫上{namecode:95}姐才行，這個地方…給我一種很不舒服的感覺<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=風暴的盡頭·下|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 妳們這些量產的冒牌貨可真是煩人，究竟還有多少，一起上吧！<br>
 <span style="color:#ff0000;">？？？：</span><br>
 …<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-這不是{{AF|曉}}嗎！？來得真是時候，剛才在暴風雨中走散之後就一直擔心妳們，平安無事真是太好了<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+這不是{namecode:11}嗎！？來得真是時候，剛才在暴風雨中走散之後就一直擔心妳們，平安無事真是太好了<br>
 快來幫我一起趕走這些煩人的蟲子！<br>
 <span style="color:#ff0000;">？？？：</span><br>
 …任務…破壞…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ！！！妳這是做什麼，差一點就要擊中我了，小心…<br>
-一點…{{AF|曉}}，妳這是…<br>
+一點…{namecode:11}，妳這是…<br>
 <span style="color:#ff0000;">？？？：</span><br>
 …任務…殲滅…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 棋子嗎...明明才進入“聖域”沒多久，好快的速度。<br>
 可憐又可憎的人偶...就讓我來把妳從詛咒解放出來吧。<br>
 “靈”式戰機，全數起飛！<br>
@@ -77,76 +77,76 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=求救信號的彼方·上|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 可惡，淨派出些冒牌貨來拖延時間，要不是之前在暴風雨中損失了那麼多艦載機的話…<br>
-恩？前方海域收到求救信號，難道會是{{AF|翔鶴}}姐？<br>
+恩？前方海域收到求救信號，難道會是{namecode:95}姐？<br>
 等著我，這一次，不會再失去妳了！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=求救信號的彼方·下|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-求救信號居然是...{{AF|伊勢}}和{{AF|日向}}？！妳們沒事-----<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+求救信號居然是...{namecode:76}和{namecode:77}？！妳們沒事-----<br>
 ......不只是曉，連妳們兩位的冒牌貨都準備好了嗎<br>
-<span style="color:#ff0000;">{{AF|伊勢}}：</span><br>
+<span style="color:#ff0000;">{namecode:76}：</span><br>
 ……<br>
-<span style="color:#ff0000;">{{AF|日向}}：</span><br>
+<span style="color:#ff0000;">{namecode:77}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 明白了…全員備戰！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=回想|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐，看我們找到了什麼！這就是前往“聖域”的鑰匙！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐，看我們找到了什麼！這就是前往“聖域”的鑰匙！<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 這是…妳是從哪裡得到的？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-嘿嘿，要說情報工作的話，自然是{{AF|曉}}的功勞！這一次，妳不會拒絕我了吧~<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+嘿嘿，要說情報工作的話，自然是{namecode:11}的功勞！這一次，妳不會拒絕我了吧~<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 如果情報屬實，確實得立刻行動了，立即召集大家出發<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 這一次，一定要揭穿她們的陰謀！<br>
 回頭一想，也許連這個圈套也只是陰謀的一部分…<br>
 可惡的前輩，又被她們暗算了嗎！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=聖域的護衛·上|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
-{{AF|瑞鶴}}親，從這裡開始不可以再前進了喲喵~<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|山城}}，連妳也成為冒牌貨了嗎？<br>
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
-才不是呢，{{AF|山城}}還是那個元·氣·滿·滿的{{AF|山城}}醬喲！<br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
+{namecode:96}親，從這裡開始不可以再前進了喲喵~<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:79}，連妳也成為冒牌貨了嗎？<br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
+才不是呢，{namecode:79}還是那個元·氣·滿·滿的{namecode:79}醬喲！<br>
 只不過~人家也是有命令在身呢，自然就是阻止妳繼續在“聖域”搗亂了<br>
 所以~妳能乖乖的被我擊倒嗎，拜託了<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-既然“妳”還是“妳”的話，告訴我，{{AF|翔鶴}}姐在哪裡<br>
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+既然“妳”還是“妳”的話，告訴我，{namecode:95}姐在哪裡<br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
 如果妳能打敗我的話我就告訴妳喲~<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 現在的前輩們都這麼麻煩的嗎…<br>
 既然如此，那就痛快的來一戰吧！<br>
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
-{{AF|山城}}醬的溫馨提示：她們給我改造了奇怪的裝備~這些可是之前那幫木頭腦袋們一直沒法搞定的設計呢<br>
-所以~現在的{{AF|山城}}醬可是很強的喲，我終於也可以丟飛機……哇，怎麼不聽我說完就打過來了！！<br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
+{namecode:79}醬的溫馨提示：她們給我改造了奇怪的裝備~這些可是之前那幫木頭腦袋們一直沒法搞定的設計呢<br>
+所以~現在的{namecode:79}醬可是很強的喲，我終於也可以丟飛機……哇，怎麼不聽我說完就打過來了！！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=聖域的護衛·下|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
-嗚，{{AF|山城}}醬被擊敗了…就算用上神賜予的力量也被{{AF|瑞鶴}}親無情的擊敗了…嗚——<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
+嗚，{namecode:79}醬被擊敗了…就算用上神賜予的力量也被{namecode:96}親無情的擊敗了…嗚——<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 妳剛才在關鍵時刻手下留情了吧？<br>
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
-才...才沒有呢！人家才沒有想告訴妳{{AF|翔鶴}}其實被她們封鎖在聖域中心的那座大房子裡呢！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
+才...才沒有呢！人家才沒有想告訴妳{namecode:95}其實被她們封鎖在聖域中心的那座大房子裡呢！<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 謝啦～先走一步<br>
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
 等等！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 怎麼，後悔了？<br>
-<span style="color:#ff0000;">{{AF|山城改}}：</span><br>
+<span style="color:#ff0000;">{namecode:132}：</span><br>
 請一定要拯救我們的未來…她們，不是壞孩子…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ……<br>
 嗯，我保證！<br>
 {{折叠面板|内容结束}}
@@ -162,173 +162,173 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=“幸運”艦·上|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|野分}}：</span><br>
+<span style="color:#ff0000;">{namecode:24}：</span><br>
 這次的任務目標…意外的強大呢…唔，人家明明不是正面作戰類型的<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-對不起，{{AF|翔鶴}}姐現在危在旦夕，沒有時間陪妳玩遊戲了，速戰速決吧<br>
-<span style="color:#ff0000;">{{AF|野分}}：</span><br>
-雖然是強大的目標…但是{{AF|野分}}也是意外強大的哦…<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+對不起，{namecode:95}姐現在危在旦夕，沒有時間陪妳玩遊戲了，速戰速決吧<br>
+<span style="color:#ff0000;">{namecode:24}：</span><br>
+雖然是強大的目標…但是{namecode:24}也是意外強大的哦…<br>
 航空母艦什麼的，也是擊沉過很多的哦呵呵…大概…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=“幸運”艦·下|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|野分}}：</span><br>
+<span style="color:#ff0000;">{namecode:24}：</span><br>
 嗚…幸運艦什麼的…果然都是騙人的<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 哼哼，也許只是妳的對手幸運值更高罷了～<br>
 好了，把妳知道的陰謀都告訴我<br>
-<span style="color:#ff0000;">{{AF|野分}}：</span><br>
-嗚...人家也是迷迷糊糊進入這片“聖域”的，然後...在這裡見到了失踪多時的{{AF|赤城}}大人和{{AF|加賀}}大人<br>
-{{AF|赤城}}大人一直在這裡研究神明所賜予的科技，想要靠它們來扭轉戰局...<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#ff0000;">{namecode:24}：</span><br>
+嗚...人家也是迷迷糊糊進入這片“聖域”的，然後...在這裡見到了失踪多時的{namecode:91}大人和{namecode:92}大人<br>
+{namecode:91}大人一直在這裡研究神明所賜予的科技，想要靠它們來扭轉戰局...<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 被帶來的嗎...果然和情報所說的“聖域”一樣。看來妳沒有撒謊。<br>
-跟著我一起去幫助{{AF|翔鶴}}姐吧，多一人多一份力量<br>
-<span style="color:#ff0000;">{{AF|野分}}：</span><br>
-我不想違背{{AF|赤城}}大人的命令...<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+跟著我一起去幫助{namecode:95}姐吧，多一人多一份力量<br>
+<span style="color:#ff0000;">{namecode:24}：</span><br>
+我不想違背{namecode:91}大人的命令...<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 就算她所信仰的神明都是虛假的謊言？<br>
-<span style="color:#ff0000;">{{AF|野分}}：</span><br>
-{{AF|赤城}}大人是給予了我們希望的人，就算這條路也許是錯的，我也...<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#ff0000;">{namecode:24}：</span><br>
+{namecode:91}大人是給予了我們希望的人，就算這條路也許是錯的，我也...<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 明白了，祝妳好運～<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=“姐妹”的羈絆·上|选项=13|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 艦載機全部出擊，目標，列星頓！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 注意保留護航用的編隊，不可如此魯莽！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 白鷹的那幫新手，怎麼可能是“靈”的對手，速戰速決才是王道～<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 高空發現80餘架敵方艦載機，“靈”式立刻起飛攔截！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 怎…怎麼會？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 快躲進那片雨雲下！敵機交給我來對付！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 但是，姐姐妳…<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
-沒時間多想了，{{AF|祥鳳}}那孩子已經吃到苦頭了，不能再有更多的損失了！<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+沒時間多想了，{namecode:87}那孩子已經吃到苦頭了，不能再有更多的損失了！<br>
 我會守護妳的，記住，下一次，不許再這麼魯——<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐…這一次不會再讓這種事發生了…<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐…這一次不會再讓這種事發生了…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=“姐妹”的羈絆·中|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|翔鶴}}：</span><br>
+<span style="color:#ff0000;">{namecode:95}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐！！！妳平安無事真是太好…<br>
-<span style="color:#ff0000;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐！！！妳平安無事真是太好…<br>
+<span style="color:#ff0000;">{namecode:95}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ......棋子...嗎<br>
 ……為什麼，妳們為什麼要這樣做<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 如果想要神明賜予更多恩惠，獻上優質的祭品是理所應當的吧~<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 這一切，都是為了重櫻的未來<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ......“重櫻的未來”...呵，這一句話，妳們還要欺騙我們多少次...<br>
 居然不惜將同胞作為實驗素材也要得到的力量.....<br>
 這種被詛咒的力量根本不可能是神的恩賜，它是不會給我們帶來未來的！<br>
 從第一次出手，我就隱約察覺了妳們的企圖<br>
 而這一次，我很生氣，因為，妳們選錯了下手的目標<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 呵呵呵，在此之前，不如好好想想怎麼對付妳眼前的這個對手吧～<br>
 就算是沒有靈魂的軀殼，也將會成為妳旅途的終點<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=“姐妹”的羈絆·下|选项=15|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 【棋子】終究只有這種水準的戰鬥力嗎，趁這個時候…先手必勝！！<br>
 妳的靈魂，我們就收下了！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ！！！可惡，來不及回避了<br>
-……{{AF|翔鶴}}…{{AF|翔鶴}}姐？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+……{namecode:95}…{namecode:95}姐？<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 …約定……守護…………永遠…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐...？<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐...？<br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 ？！棋子居然……？<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 呵呵呵，製造出的棋子居然會在這時候選擇為“妹妹”挺身而出嗎。<br>
 （只是製造出的棋子，竟然會為了妹妹.....）<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 這…這就是所謂的覺醒反應嗎…只要在合適的地點激發出心底最重要的一段類似的經歷就…<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
-{{AF|加賀}}、先撤退，如果有棋子出現“覺醒”的反應，按照和神明的約定應當作為最高優先級日誌上報<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
+{namecode:92}、先撤退，如果有棋子出現“覺醒”的反應，按照和神明的約定應當作為最高優先級日誌上報<br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 瞭解<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ...等！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 嗚......<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐？我終於找到妳了，妳沒事吧！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
-{{AF|瑞鶴}}...妳來了啊...感覺好像做了一個很長的夢。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐？我終於找到妳了，妳沒事吧！<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+{namecode:96}...妳來了啊...感覺好像做了一個很長的夢。<br>
 在夢裡...我......<br>
 那個棋子...看來都結束了啊...唔，頭好痛。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐…對不起，這麼久了，我一直沒有成長，總是這麼魯莽的只顧著眼前…<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐…對不起，這麼久了，我一直沒有成長，總是這麼魯莽的只顧著眼前…<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 只要妳能夠平安無事，我們就還有希望...只有妳，能夠戰勝那個對手....<br>
 在那之前，姐姐會一直在妳身邊...一直守護著妳...<br>
 妳只要…放心的看著前方…看著那個目標就好…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐…<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐…<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 去吧…追上她們，問清楚她們的動機，不能讓重櫻的未來…毀在她們手中…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=紅染的守護者·上|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 所有的日誌都已經交給神明了，接下來，就能獲得更多的力量了吧，呵呵呵~<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 但是，五航戰的那孩子還在後面緊追不捨。<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 反正神明給予我們的任務已經完成，我們不妨來和她好好玩上一局吧~<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 妳的性格果真還是一點都沒變呢<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=紅染的守護者·中|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 在AF作戰中詐死的妳們，究竟在玩什麼把戲！?<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 如妳所見，這裡是神明賜予我們的“聖域”，在這裡，我們可以獲得無盡的力量<br>
 只要繼續獻上更多優質的靈魂...“那位大人”就......<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 那些東西...才不是什麼神明呢！<br>
 這樣輕信歪門邪道出賣自己同胞所獲得的力量，是無法戰勝她，戰勝那個幽靈的<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 閉嘴！！！不許在我面前提到那個傢伙！！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 這樣一味的逃避是無法找到未來的！相信我，現在回頭還來得及——<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 妳們總是把那個傢伙幽靈、幽靈的掛在嘴邊！！我，怎麼可能會被那種傢伙給……啊啊啊啊啊！<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 ！！！多說無用，究竟是強者還是弱者，就讓我們來鑒定一下吧！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=紅染的守護者·下|选项=18|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 啊啊…神明大人，您看到了嗎…靈魂間碰撞激發出的熠熠光輝…這也是您所期望的「覺醒」嗎？<br>
 美麗而脆弱…讓人忍不住想一把捏碎…呵呵……呵呵呵……<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 唉…果然還是陷入這種狀態了…也罷，這一次的表演也差不多接近尾聲了<br>
-<span style="color:#ff0000;">{{AF|赤城}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 是嗎…真遺憾～既然如此，那就準備吧…呵呵…前往…下一處的“聖域”——<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 嗚……別、別想走……我還有話——<br>
 <span style="color:#ff0000;">系統：</span><br>
 警告——回收程序已啟動，本區域即將廢棄——<br>
 警告——回收程序已啟動，本區域即將廢棄——<br>
 警告——回收程序已啟動，本區域即將廢棄——<br>
-<span style="color:#ff0000;">{{AF|加賀}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 同胞啊，世間萬物一切自有其因果。但是命運果真就是如此既定的麼？<br>
 在這無限輪迴的“聖域”中，我們一直在尋找著命運的另一種可能性<br>
 總有一天妳會明白…我們在做什麼，為什麼會這麼做……<br>

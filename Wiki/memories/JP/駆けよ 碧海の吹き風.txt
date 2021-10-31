@@ -240,19 +240,19 @@
 <br>
 一行が「島」に近づくと、そこには巨大な建物が海の上にそびえ立っていた。<br>
 豪華な天守と白く輝く城壁、まるで通路のように城のあっちこっちに張り巡らされた水の道。<br>
-<span style="color:#4eb24e;">{{AF|島風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 か、葛城殿、これは一体…！？<br>
-<span style="color:#4eb24e;">{{AF|葛城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}：</span><br>
 うちに聞かれても分からぬわ！むむ、正規空母であるうちの経験と素晴らしき判断力から簡単な予想をすれば――<br>
-<span style="color:#4eb24e;">{{AF|山風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:207}：</span><br>
 伝説の「竜宮城」みたい！<br>
-<span style="color:#4eb24e;">{{AF|葛城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}：</span><br>
 そういうことだ！島風、早う筑摩たちに大発見だと連絡するのだ！<br>
-<span style="color:#4eb24e;">{{AF|島風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 はい！筑摩殿、聞こえていますか？<br>
-<span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
+<span style="color:#4eb24e;">{namecode:62}：</span><br>
 こちら筑摩です。何があったんです？<br>
-<span style="color:#4eb24e;">{{AF|島風}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 実は航路のすぐそばに今まで発見されていない巨大な城がありまして……<br>
 <span style="color:#4eb24e;">筑摩：</span><br>
 状況は了解しました。ただ…信濃様はお眠りになられていますから、あとで指示を伝えますのでそれまで待機でお願いしますね<br>

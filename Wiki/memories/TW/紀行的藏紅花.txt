@@ -185,24 +185,24 @@
 演習海域<br>
 <span style="color:#4eb24e;">香格里拉：</span><br>
 根據紀錄，今天這個時間，她們應該會從這裡經過才對…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 啊，指揮官，今天的重櫻演習已經結束了哦？<br>
 妳是…香格里拉小姐？<br>
 <span style="color:#4eb24e;">香格里拉：</span><br>
-妳好，{{AF|瑞鶴}}小姐，我是最近加入港區的白鷹艾塞克斯級航空母艦香格里拉。<br>
+妳好，{namecode:96}小姐，我是最近加入港區的白鷹艾塞克斯級航空母艦香格里拉。<br>
 雖然有些唐突，不過能佔用妳一點時間嗎。有點事情想要請教一下…<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 哦哦！是想問關於灰色幽靈的事嗎？<br>
 <span style="color:#4eb24e;">香格里拉：</span><br>
-呃……關於企業前輩的妹妹大黃蜂，{{AF|瑞鶴}}小姐是如何看待這位對手的呢？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-欸？大黃蜂嗎？唔，關於那位的話，{{AF|翔鶴}}姐應該比我更清楚一些吧<br>
-喂——{{AF|翔鶴}}姐——<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+呃……關於企業前輩的妹妹大黃蜂，{namecode:96}小姐是如何看待這位對手的呢？<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+欸？大黃蜂嗎？唔，關於那位的話，{namecode:95}姐應該比我更清楚一些吧<br>
+喂——{namecode:95}姐——<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 來了來了，什麼事？啊，是指揮官，和秘書艦小姐？<br>
 <span style="color:#4eb24e;">香格里拉：</span><br>
-{{AF|翔鶴}}小姐妳好，事情是這樣的——<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+{namecode:95}小姐妳好，事情是這樣的——<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 原來如此，想要更加了解自己的對手，於是找到了我們……<br>
 呵呵，所謂敵人的敵人就是朋友，只是說說的話倒也無妨~<br>
 大黃蜂，怎麼說呢，首先是不管怎樣危險的任務都會努力執行的勇氣，<br>
@@ -212,7 +212,7 @@
 啊，不好意思，我這邊淨顧著說了……香格里拉？剛才說的聽到了嗎？<br>
 <br>
 香格里拉一邊聽著，一邊快速地揮舞著手中的筆<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 好快的寫字速度…不愧是擅長紀錄的秘書艦小姐…！<br>
 <br>
 結果三人談論了很久很久——<br>
@@ -232,7 +232,7 @@
 哼～就讓大黃蜂大人來好好挫挫妳的銳氣吧！<br>
 <span style="color:#4eb24e;">香格里拉：</span><br>
 真巧呢，這邊也想說，就請妳切身體會一下戰術的重要性吧！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 哇哦，燃起來了燃起來了！<br>
 <span style="color:#4eb24e;">企业：</span><br>
 會是怎麼樣一場戰鬥呢，真是令人期待啊.<br>
@@ -256,7 +256,7 @@
 這也在…預料之內！<br>
 <span style="color:#4eb24e;">企业：</span><br>
 陷入苦戰的，看起來是大黃蜂啊<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 呵呵…看來這次會是戰術的勝利了<br>
 <span style="color:#4eb24e;">约克城：</span><br>
 沒到最後，什麼都不好說呢～<br>
@@ -314,7 +314,7 @@
 <span style="color:#4eb24e;">大黄蜂：</span><br>
 啊！這張照片！是昨天結束之後大家一起拍的那張啊<br>
 <br>
-照片中的是有些倦意的大黃蜂和香格里拉，站在企業旁邊顯得有些緊張的艾塞克斯和{{AF|瑞鶴}}，以及露出溫和微笑的約克鎮……<br>
+照片中的是有些倦意的大黃蜂和香格里拉，站在企業旁邊顯得有些緊張的艾塞克斯和{namecode:96}，以及露出溫和微笑的約克鎮……<br>
 <span style="color:#4eb24e;">香格里拉：</span><br>
 名字叫做“夥伴”。反面要寫上些什麼可以和大家商量下嗎……？<br>
 <br>

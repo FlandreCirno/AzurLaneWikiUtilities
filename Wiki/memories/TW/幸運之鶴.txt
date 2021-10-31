@@ -1,144 +1,144 @@
 == 幸運之鶴 ==
 {{折叠面板|开始}}
-{{折叠面板|标题={{AF|瑞鶴}}的早晨|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题={namecode:96}的早晨|选项=1|主框=1|样式=primary|展开=否}}
 <br>
 幸運之鶴<br>
 <br>
-一  {{AF|瑞鶴}}的早晨<br>
-往常的這個時間，作為秘書艦的{{AF|瑞鶴}}應該已經前來進行早晨的報告了。不過今天…似乎還沒來的樣子<br>
+一  {namecode:96}的早晨<br>
+往常的這個時間，作為秘書艦的{namecode:96}應該已經前來進行早晨的報告了。不過今天…似乎還沒來的樣子<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：去重櫻航母宿舍看看</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 呼…哈啊…咕…Zzzzzzz<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 如您所見…指揮官，非常抱歉……<br>
 <br>
-{{AF|瑞鶴}}在床上躺成大字，發出豪爽的酣睡聲<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+{namecode:96}在床上躺成大字，發出豪爽的酣睡聲<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 不知道是不是昨晚特訓太拼命了…明明平常都比我早起得多<br>
-好啦{{AF|瑞鶴}}，快起床，指揮官來了哦？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+好啦{namecode:96}，快起床，指揮官來了哦？<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 指……啊嗚！？對對對不起我睡過頭…哇啊啊啊！？<br>
 <br>
-慌忙起身的{{AF|瑞鶴}}踩到了掉在地上的被子摔倒了<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+慌忙起身的{namecode:96}踩到了掉在地上的被子摔倒了<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 哎呀呀……姐姐幫妳整理，快去洗漱一下吧<br>
 …指揮官在等著妳哦？呵呵<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 好、好的！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题={{AF|瑞鶴}}與小夥伴們|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题={namecode:96}與小夥伴們|选项=2|主框=1|样式=primary|展开=否}}
 <br>
 幸運之鶴<br>
 <br>
-二  {{AF|瑞鶴}}與小夥伴們<br>
-聽完匆忙洗漱完畢後就位的{{AF|瑞鶴}}的晨間報告，和她一起開始了早晨的巡邏<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+二  {namecode:96}與小夥伴們<br>
+聽完匆忙洗漱完畢後就位的{namecode:96}的晨間報告，和她一起開始了早晨的巡邏<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官對不起…昨晚看攻擊教科書看太晚了……<br>
 是…我以後會注意的…<br>
 啊，大家聚在那裡做什麼呢？<br>
-<span style="color:#4eb24e;">{{AF|伊勢}}：</span><br>
-喔？{{AF|瑞鶴}}和指揮官在巡邏嗎？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:76}：</span><br>
+喔？{namecode:96}和指揮官在巡邏嗎？<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 是的！話說大家在這裡做什麼呢？<br>
-<span style="color:#4eb24e;">{{AF|日向}}：</span><br>
+<span style="color:#4eb24e;">{namecode:77}：</span><br>
 在討論和白鷹進行聯合演習的事。在想怎麼跟那邊提出來比較合適<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 怎麼提…正常地說不就好了嗎？<br>
-<span style="color:#4eb24e;">{{AF|阿武隈}}：</span><br>
-如果只有{{AF|伊勢}}{{AF|日向}}還好說，這裡沒什麼人說得出“重櫻希望和白鷹進行聯合演習”的話呢……<br>
-<span style="color:#4eb24e;">{{AF|加古}}：</span><br>
-是啊。我或{{AF|高雄}}講話太生硬，只怕會造成奇怪的誤解……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:47}：</span><br>
+如果只有{namecode:76}{namecode:77}還好說，這裡沒什麼人說得出“重櫻希望和白鷹進行聯合演習”的話呢……<br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
+是啊。我或{namecode:66}講話太生硬，只怕會造成奇怪的誤解……<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 那我去說吧？反正一會也會經過那裡<br>
-<span style="color:#4eb24e;">{{AF|伊勢}}：</span><br>
+<span style="color:#4eb24e;">{namecode:76}：</span><br>
 真的嗎！幫大忙了<br>
-<span style="color:#4eb24e;">{{AF|阿武隈}}：</span><br>
-{{AF|瑞鶴}}去說的話，一定沒問題的<br>
-<span style="color:#4eb24e;">{{AF|加古}}：</span><br>
+<span style="color:#4eb24e;">{namecode:47}：</span><br>
+{namecode:96}去說的話，一定沒問題的<br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 嗯。抱歉，臨時拜託妳<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 沒關係！就交給我吧！<br>
 <br>
 向白鷹陣營提出了聯合演習的提議，取得了大多數人的同意<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 呼…差不多就這樣吧？<br>
 經常這樣呢，不知不覺就收到了這樣那樣的拜託…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题={{AF|瑞鶴}}與前輩們|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题={namecode:96}與前輩們|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 幸運之鶴<br>
 <br>
-三  {{AF|瑞鶴}}與前輩們<br>
+三  {namecode:96}與前輩們<br>
 返回指揮室的途中……<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 指揮官大人～<br>
 <br>
-在路上偶遇了剛結束演習的{{AF|赤城}}與{{AF|加賀}}<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+在路上偶遇了剛結束演習的{namecode:91}與{namecode:92}<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 前輩們辛苦了！<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 妳也辛苦了。和指揮官在巡邏中嗎？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 是的！誒？指揮官躲在我身後幹嘛？<br>
-<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-{{AF|瑞鶴}}，指揮官大人是看到{{AF|赤城}}覺得害羞了呀。呵呵呵，報告書，我放在“老地方”了喲<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-姐…咳咳、{{AF|赤城}}，別給指揮官添太多麻煩<br>
-{{AF|瑞鶴}}妳也是，要好好盡到秘書艦的職責…好了，{{AF|赤城}}，妳先走吧<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+{namecode:96}，指揮官大人是看到{namecode:91}覺得害羞了呀。呵呵呵，報告書，我放在“老地方”了喲<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+姐…咳咳、{namecode:91}，別給指揮官添太多麻煩<br>
+{namecode:96}妳也是，要好好盡到秘書艦的職責…好了，{namecode:91}，妳先走吧<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-指揮官，{{AF|赤城}}前輩已經走了哦<br>
-話說，雖然{{AF|赤城}}前輩是有點強硬，但剛才的指揮官是不是有點反應過度了？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-{{AF|瑞鶴}}，妳還是沒懂啊<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+指揮官，{namecode:91}前輩已經走了哦<br>
+話說，雖然{namecode:91}前輩是有點強硬，但剛才的指揮官是不是有點反應過度了？<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+{namecode:96}，妳還是沒懂啊<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 誒？什麼？<br>
-<span style="color:#4eb24e;">{{AF|加賀}}：</span><br>
-如果被看到和其他女孩子在一起，{{AF|赤城}}就不會找指揮官，而是會念著“害蟲”之類的詞去找一起的女孩子算帳了。就算像那樣躲起來也沒用的<br>
-也就是說，{{AF|赤城}}判斷妳和指揮官在一起是“無害”的，才沒有發生什麼事<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+如果被看到和其他女孩子在一起，{namecode:91}就不會找指揮官，而是會念著“害蟲”之類的詞去找一起的女孩子算帳了。就算像那樣躲起來也沒用的<br>
+也就是說，{namecode:91}判斷妳和指揮官在一起是“無害”的，才沒有發生什麼事<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 該高興還是該難過呢……心情真微妙……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题={{AF|瑞鶴}}與大前輩|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题={namecode:96}與大前輩|选项=4|主框=1|样式=primary|展开=否}}
 <br>
 幸運之鶴<br>
 <br>
-四  {{AF|瑞鶴}}與大前輩<br>
+四  {namecode:96}與大前輩<br>
 傍晚·演習海域<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 很好！就照這樣子攻過來！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 好的！<br>
 <br>
-{{AF|瑞鶴}}的艦載機投下的模擬彈漂亮地擊中了{{AF|三笠}}<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+{namecode:96}的艦載機投下的模擬彈漂亮地擊中了{namecode:82}<br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 好疼！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-贏了！……啊！{{AF|三笠}}前輩！沒事吧！<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+贏了！……啊！{namecode:82}前輩！沒事吧！<br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 沒、沒事…漂亮的轟炸！比剛開始訓練時進步了不少啊！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 非常感謝！…指揮官覺得剛才我的表現怎麼樣！<br>
 …啊哈哈哈，不用這麼誇我啦～！好！這下就離那個“灰色幽靈”更近一步了！<br>
 ……下次出擊請讓我和“灰色幽靈”一起！我絕對會拿下MVP的！<br>
 <br>
-{{AF|瑞鶴}}一邊笑著一邊把航向轉向了港區<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+{namecode:96}一邊笑著一邊把航向轉向了港區<br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 指揮官，能說句話嗎？<br>
-雖然{{AF|瑞鶴}}平時那樣，其實她是會不斷給自己加擔子的類型——換句話說，就是會不斷逼自己鑽牛角尖的性格<br>
-不只是超越灰色幽靈這件事，對{{AF|翔鶴}}和重櫻的同伴、港區的同伴們、人類的世界、甚至還有指揮官你——都想要獨自背負<br>
+雖然{namecode:96}平時那樣，其實她是會不斷給自己加擔子的類型——換句話說，就是會不斷逼自己鑽牛角尖的性格<br>
+不只是超越灰色幽靈這件事，對{namecode:95}和重櫻的同伴、港區的同伴們、人類的世界、甚至還有指揮官你——都想要獨自背負<br>
 指揮官，作為那孩子的前輩…我有個請求，不是作為您的部下，僅僅是個人的請求<br>
 如果有一天，那孩子被責任所壓垮，撐不住了的話……希望指揮官能在她身邊，與她一起支撐下去<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
-……呵呵，你的回答，我會記著的。{{AF|瑞鶴}}就拜託你了啊<br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
+……呵呵，你的回答，我會記著的。{namecode:96}就拜託你了啊<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=今天料理我負責！|选项=5|主框=1|样式=primary|展开=否}}
@@ -147,25 +147,25 @@
 <br>
 五  今天料理我負責！<br>
 指揮室·夜<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官辛苦了！差不多該吃晚飯了吧？<br>
-？前面說過今天不是{{AF|翔鶴}}姐而是我做飯吧？也不能老是麻煩{{AF|翔鶴}}姐，我也要努力嘗試一下！<br>
+？前面說過今天不是{namecode:95}姐而是我做飯吧？也不能老是麻煩{namecode:95}姐，我也要努力嘗試一下！<br>
 所以稍微等我一會～<br>
 <br>
-過了一會，{{AF|瑞鶴}}把晚飯端了上來<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+過了一會，{namecode:96}把晚飯端了上來<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 炸雞塊加香蔥蘸料，三分大麥的米飯和加雞蛋的味增湯，南國定番的椰子果汁，還有專供軍官的高級皇家香蕉！<br>
 <br>
-料理看起來很好吃，但擺盤和盛菜又微妙地有些隨便，很有{{AF|瑞鶴}}的風格<br>
+料理看起來很好吃，但擺盤和盛菜又微妙地有些隨便，很有{namecode:96}的風格<br>
 雞塊旁邊偷偷放著的天婦羅莫非是隱藏的小菜？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 怎麼樣？<br>
 <br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：很好吃</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-……好吃嗎？太好了！哼哼，就算沒有{{AF|翔鶴}}姐幫忙，這點程度的我還是可以的嘛！<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+……好吃嗎？太好了！哼哼，就算沒有{namecode:95}姐幫忙，這點程度的我還是可以的嘛！<br>
 比灰色幽靈做的還好吃？謝謝指揮官！<br>
 雖然那邊有女灶神的指導，但也不是我的對手呢！<br>
 哼哼♪今天贏了灰色幽靈♪<br>
@@ -177,33 +177,33 @@
 <br>
 六  深夜的插曲<br>
 指揮室·深夜<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 哈啊……今天事情真多啊……平常這個點指揮官都該睡覺了……<br>
 <br>
 久違地工作到了深夜<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 嗯…已經這麼晚了，指揮官要不要吃點東西？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 哎呀，這種事要在說之前先做比較好吧？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-{{AF|翔鶴}}姐？！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+{namecode:95}姐？！<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 想說怎麼這麼晚了還沒回宿舍，原來還在工作啊……<br>
 工作過度對身體可不好哦？“先手必勝～”♡<br>
 <br>
-{{AF|翔鶴}}帶著豔麗的笑容，搶在{{AF|瑞鶴}}之前拿出了小麵包和瓶子放到了桌上<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+{namecode:95}帶著豔麗的笑容，搶在{namecode:96}之前拿出了小麵包和瓶子放到了桌上<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 我、我正要準備的說……話說這是、酒？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 沒錯～♪辛苦工作了一天，就用酒來放鬆放鬆也好呢～另外，也算是上次指揮官你灌我酒的時候的“回禮”呦～<br>
-上次我喝醉的時候……哎呀，這事還沒跟{{AF|瑞鶴}}說過吧……？<br>
+上次我喝醉的時候……哎呀，這事還沒跟{namecode:96}說過吧……？<br>
 <br>
 一點印象也沒有……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-（果然在我不知道的地方{{AF|翔鶴}}和指揮官有各種各樣的……）<br>
-（也是…{{AF|翔鶴}}姐那麼漂亮…又沉穩…就算戰鬥力差不多，作為秘書艦又比我做的好…嗚嗚果然我還是……）<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+（果然在我不知道的地方{namecode:95}和指揮官有各種各樣的……）<br>
+（也是…{namecode:95}姐那麼漂亮…又沉穩…就算戰鬥力差不多，作為秘書艦又比我做的好…嗚嗚果然我還是……）<br>
 …那…我這些就放回冷藏庫了……<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 …是不是玩笑有點開過頭了呢？<br>
 {{折叠面板|内容结束}}
 
@@ -213,30 +213,30 @@
 <br>
 七 不屈之鶴<br>
 指揮室·深夜<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-指揮官果然…還是選了{{AF|翔鶴}}姐準備的……<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+指揮官果然…還是選了{namecode:95}姐準備的……<br>
 <br>
 ……<br>
 <br>
-'''''<span style="color:black;">选择项1：叫住{{AF|瑞鶴}}</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+'''''<span style="color:black;">选择项1：叫住{namecode:96}</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 兩邊都要？<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 哈哈，看來指揮官肚子已經餓扁了呢♪<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
-不用勉強自己哦…？難得{{AF|翔鶴}}姐準備了，我的就下次再說吧？<br>
-……“{{AF|瑞鶴}}和{{AF|翔鶴}}都是我的翅膀，不可能只選擇一邊”……？<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+不用勉強自己哦…？難得{namecode:95}姐準備了，我的就下次再說吧？<br>
+……“{namecode:96}和{namecode:95}都是我的翅膀，不可能只選擇一邊”……？<br>
 ……啊、啊嗚……（///）<br>
 <br>
-{{AF|瑞鶴}}一下子臉紅了<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+{namecode:96}一下子臉紅了<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 雖然知道指揮官是想解圍……但這台詞實在有點……<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官，剛才謝謝你了<br>
-明知道指揮官對{{AF|翔鶴}}姐和我都一樣重視…我還像那樣亂了陣腳……<br>
+明知道指揮官對{namecode:95}姐和我都一樣重視…我還像那樣亂了陣腳……<br>
 如果我又失去自信，像這樣陷入消沉的話……<br>
-不對，不會再這樣了！我可是不屈的{{AF|瑞鶴}}！<br>
-不過…要是聽到“我更重視{{AF|瑞鶴}}哦”這類的話……<br>
+不對，不會再這樣了！我可是不屈的{namecode:96}！<br>
+不過…要是聽到“我更重視{namecode:96}哦”這類的話……<br>
 我大概會更高興……吧？<br>
 呐…指揮官…？<br>
 {{折叠面板|内容结束}}

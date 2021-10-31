@@ -46,7 +46,7 @@
 <br>
 二 正義！<br>
 幾小時前——<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 指揮官！大事不好了喵！今天倉庫出了點狀況喵！急需人手喵！<br>
 呼喵？指揮官還有工作抽不開身喵…？唔喵…那就…這樣行不行喵？——<br>
 多謝指揮官喵！那我就把秘書艦小姐暫時借走了喵！<br>
@@ -59,13 +59,13 @@
 <br>
 ……好快？！<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
-哼哼，我照著指揮官的安排，和其他夥伴們一起幫助{{AF|明石}}度過了倉庫的危機！<br>
+哼哼，我照著指揮官的安排，和其他夥伴們一起幫助{namecode:98}度過了倉庫的危機！<br>
 正義必勝！<br>
 啊，指揮官看起來不知道發生了什麼呢。就讓我來好好說明一下吧！<br>
 <br>
 棘鰭講述了她今天在倉庫的經歷。<br>
-簡單來說的話就是…{{AF|明石}}不小心把倉庫弄得一團糟，想找幫手幫她將倉庫恢復原狀。<br>
-本來{{AF|明石}}只拜託了秘書艦棘鰭一人，不過在處理過程中被路過的小海狸中隊發現。在眾人的努力之下，很快就完成了任務。<br>
+簡單來說的話就是…{namecode:98}不小心把倉庫弄得一團糟，想找幫手幫她將倉庫恢復原狀。<br>
+本來{namecode:98}只拜託了秘書艦棘鰭一人，不過在處理過程中被路過的小海狸中隊發現。在眾人的努力之下，很快就完成了任務。<br>
 到底…是做了什麼才把倉庫給變成那樣的啊……<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
 “正義永遠不會缺席”！那個小海狸中隊的隊長是這麼說的呢！<br>
@@ -175,22 +175,22 @@
 呃…指、指揮官，我們快去看看吧！<br>
 <br>
 海域另一側<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 哇——！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 是姐姐我的勝利呢~<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 嗚……居然用偷襲的方法，姐姐太狡猾了！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
-{{AF|瑞鶴}}，精神不夠集中的話可是贏不了姐姐我的呢~<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+{namecode:96}，精神不夠集中的話可是贏不了姐姐我的呢~<br>
 再說了，萬一實戰的時候，有什麼東西突然出現——<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
 噗哈！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ！！<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
 哼哼，我是第一名！我就說她們兩個怎麼可能追得上……呃……奇怪？<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 這，這是……！<br>
 姐姐就由我來守護！接招！<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
@@ -198,20 +198,20 @@
 既然這樣的話……！<br>
 <br>
 '''''<span style="color:black;">选择项1：叫住雙方</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 原來如此……是奮力向前的小魚一不小心游過了終點呢。<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
 沒，沒想到我會犯這樣的失誤……<br>
 非，非常抱歉！<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
-呵呵，沒關係的。順便一提，{{AF|瑞鶴}}，要在分清楚敵友之後再攻擊哦？妳剛剛過於緊張了呢。<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+呵呵，沒關係的。順便一提，{namecode:96}，要在分清楚敵友之後再攻擊哦？妳剛剛過於緊張了呢。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 對，對不起…嚇到妳了<br>
-<span style="color:#4eb24e;">{{AF|翔鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 作為懲罰，妳的天婦羅要分一半給指揮官和小魚們哦。<br>
 <span style="color:#4eb24e;">大青花魚&鰷魚：</span><br>
 耶——！<br>
-<span style="color:#4eb24e;">{{AF|瑞鶴}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 怎，怎麼會這樣！<br>
 等等怎麼又多了兩個啊！！<br>
 <br>
@@ -295,7 +295,7 @@
 <br>
 '''''<span style="color:black;">选择项1：詢問“約會”的原因</span>'''''<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
-啊，這個是重櫻的{{AF|翔鶴}}小姐告訴我的呢！<br>
+啊，這個是重櫻的{namecode:95}小姐告訴我的呢！<br>
 “只要約會了，指揮官就會對我刮目相看，不再把我當做小孩子來對待了！ ”她是這麼告訴我的！<br>
 指揮官一直以來都在幫助我，照顧我...我非常的喜歡指揮官！<br>
 但是，這些會不會都是因為指揮官覺得我是小孩子，覺得我更需要被照顧，所以才對我這麼細心……<br>
@@ -329,7 +329,7 @@
 '''''<span style="color:black;">选择项1：交給我吧</span>'''''<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
 不愧是指揮官呢！嘿嘿，那就拜託你啦！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 多謝惠顧喵~<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>
 嘿嘿，謝謝指揮官請客啦！<br>
@@ -339,7 +339,7 @@
 指揮官，看這裡！三，二，一，茄子！<br>
 呼——<br>
 不對！這完完全全就是帶著小孩子出去玩嘛！！<br>
-我不會是被{{AF|翔鶴}}小姐騙了吧！<br>
+我不會是被{namecode:95}小姐騙了吧！<br>
 <br>
 '''''<span style="color:black;">选择项1：「今天開心嗎？」</span>'''''<br>
 <span style="color:#4eb24e;">棘鳍：</span><br>

@@ -135,7 +135,7 @@
 ねぷぷっ！？なに、このエマージェンシーな警報音は！？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 緊急出撃？まさか……敵襲！？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 みんな、ここにいたですか…探したです<br>
 本部より緊急入電、です。学園近海に突如、鏡面海域が発生…至急、偵察部隊を派遣することになったです。ニーミちゃん、お願いするです<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -167,13 +167,13 @@
 じゃあ、ねぷねぷにしようよ。響きが可愛いし<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 おおっ、いいセンスだね！それでね、わたしたちはゲイムギョウ界ってとこからやってきたんだー。プラネテューヌって国の女神だよ！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 女神、ですか？全然そんな風に見えないです……証拠はあるですか？<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 証拠？もう、しょうがないなー、ちょっとだけなんだからね。へんしーん！<br>
 <span style="color:#4eb24e;">パープルハート：</span><br>
 ……ふう、やっぱりシェアが少ないと、この姿を維持するのも辛いわね<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 おお！本当に変身した、です……！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 というか、さっき鏡面海域で戦った相手じゃないですか！？<br>
@@ -191,13 +191,13 @@
 わたしたちも自己紹介を……わたしはＺ２３、気軽にニーミとお呼びください<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 ジャベリンでーす、よろしくー♪<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 綾波、です…よろしくです<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 ごめんなさい。いきなりお邪魔しちゃって……私たち、こちらの世界に来たばかりで右も左もわからなくって……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 いえ、お気になさらず。困った時はお互い様です<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 別の次元から来た、ですか……アニメでよく見たから知ってるです<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 綾波さん、それはフィクションなのでは……？<br>
@@ -205,7 +205,7 @@
 ネプテューヌと同じ匂いがするわね…<br>
 それよりも…ここはいったいどういう世界なのかしら？シェアも僅かながら存在しているし、ゲイムギョウ界と何か関係がありそうな気がするわね。<br>
 私たちの偽物が現れた、鏡面海域というのも謎が多いけど……この世界に私たちが飛ばされてきたことと関係あるのかしら？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……できれば、わたしたちも、お話を聞きたいです<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 ひとまず、学園での居住と滞在については、私から指揮官に申請しておきました。さきほど、了解も得られましたのでご心配なく<br>
@@ -215,7 +215,7 @@
 昼寝はいらないでしょ…でも、助かるわ。ありがとうね、ニーミ<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 いえ、お安いご用です。ところで皆さん、お腹は空いてませんか？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 腹が減っては戦が出来ぬ、です。御飯の用意ができてるです<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 あら、ありがとう。この世界に来てから何も食べてなかったの。嬉しいわ<br>
@@ -250,7 +250,7 @@
 なんでもこの世界とゲイムギョウ界との関係や、ワームホールの件も兼ねて、念入りに調査したいとのことですわ<br>
 <span style="color:#4eb24e;">ジャベリン：</span><br>
 いつの間にか、女神様が増えちゃった！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ２人も４人も一緒、です……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 あははは…賑やかになりそうですね<br>
@@ -265,7 +265,7 @@
 はい、それじゃあ皆さんご一緒に！ねっぷねぷにしてやんよ～♪<br>
 <span style="color:#4eb24e;">ラフィー＆ジャベリン：</span><br>
 ねっぷねぷにしてやんよ～♪<br>
-<span style="color:#4eb24e;">{{AF|電}}&{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}&{namecode:13}：</span><br>
 ねっぷねぷにしてやんよ～♪<br>
 <span style="color:#4eb24e;">サラトガ＆サンディエゴ：</span><br>
 ねっぷねぷにしてやんよ～♪<br>
@@ -277,7 +277,7 @@
 これレプリカだから大丈夫だって！わたしが作詞作曲振り付けを担当した、オリジナル曲“ねぷねぷダンス”！ちょっと披露したら、駆逐艦の間でブレイク寸前の大ヒット中でーす！<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 そういう問題じゃないわよ……もう<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 しれっと空母や軽巡も混じってるような……？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 そのうち、戦艦や重巡にも流行りそうな勢いですね<br>
@@ -299,9 +299,9 @@
 そ、そうゆう問題じゃないと思うのだけれど……<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 いいよー、やろうやろう♪じゃあ最初はわたしが鬼やったげる！<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！ねぷねぷ優しいー！みんな、「えすけーぷ」するわよ！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 ……わたしも逃げます、『三十六計逃げるに如かず』です……<br>
 <span style="color:#4eb24e;">サンディエゴ：</span><br>
 ひゃっほう！エキサイティングに隠れるわよー！<br>
@@ -309,7 +309,7 @@
 逃げろ隠れろー！撤退戦だー！<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 はあ…もう完全にネプテューヌのペースじゃない。周りの子たちもノリノリだし……これ以上はついていけないわね<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 でも……みんな楽しそうだし、笑ってるです<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 こういうのも悪くない、とわたしも思います<br>
@@ -320,26 +320,26 @@
 ベールさんとブランさんですか？お二人でしたら──<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 ここは……ひょっとすると天国でしょうか？<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 べーるおねえさん、アメさんもっとちょーだい！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 睦月ばっかりずるい…如月にもアメさん、ください…<br>
-<span style="color:#4eb24e;">{{AF|卯月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 あたしもあたしもー！おねえちゃんたちよりおっきいの！<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 はいはい、ちゃんと人数分ありますからねー♪キャンディ、マシュマロ、チョコレート…アメさん以外のお菓子もたくさんありますわよー♪<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 わーい！たべたことのないアメさんがいっぱいだー！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 チョコレート、おいしい…<br>
-<span style="color:#4eb24e;">{{AF|卯月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 うーん、マシュマロふかふか～♪<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 うふふ…たまたま持ち合わせていた菓子セットが役に立つなんて……何が起きるかわかりませんわね。さあ、お菓子の欲しいカワイイ子たちはおいでなさ～い♪<br>
 <span style="color:#4eb24e;">アーク・ロイヤル：</span><br>
 ぐぬぬ…カワイイ妹たちをお菓子で釣るなんて……うらやまけしからん！<br>
 ……今度、私も真似しよう！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……って感じで、小っちゃい子たちと遊んでたです<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 なんか危ない人も混じってなかった？<br>
@@ -351,7 +351,7 @@
 ブランさんなら、この世界の本に興味があるというので、図書館の場所を教えてあげました。あとで、わたしも覗いてみます<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 みんなそれぞれ、こっちの世界でエンジョイしてるわけね……なら私も、少し学園を視察させてもらおうかしら<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 なら、綾波が案内してあげる、です<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 ありがとう、綾波。それじゃあお願いするわね<br>
@@ -366,12 +366,12 @@
 なんて理想的な…ゲーマーのための空間なんでしょう<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 いらっしゃ～い。ようこそゲーム愛好会へ～<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 ここはゲームを愛し、自堕落を愛し、任務から解放された一時は干物として過ごす者たちの憩いの場……歓迎するぞ！<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 えぇ、そうですわよね。わたくしたちゲーマーには、こういった場所が必要不可欠ですわ……わかる、わかりますわぁ……<br>
 ゲームをする時は、誰にも邪魔されず、自由でなんといいますか……心が癒されるような場所が必要ですわ。独りで静かで豊かで……<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 むむむ、なんて深みのある言葉……おまえ、プロだな？<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 綾波から聞いてはいたけど、ロング・アイランドたちとここまで波長が合うなんて…お姉さん、本物のゲーマーだね！<br>
@@ -382,15 +382,15 @@
 ──カタカタカタカタカタカタ……ターンッ！<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 す、すごい……ＦＰＳで確実にヘッドショット！１回も外してない！？<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 ハンティングゲームなら裸でソロ…むむむ、しかもノーダメクリア！？<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 シミュレーションゲームでも無敵！ぶっちぎりでランキングトップ！？<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 陸、海、空……あらゆる軍事シミュレーションを制覇した！<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 な、なんてプレイスキル…！そして、隙あらばコーラを飲んで……！<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 すかさず、ポテチを食べる……恐るべき、プレイスタイル！<br>
 <br>
 ──カタカタカタカタカタカタ……ターンッ！<br>
@@ -398,7 +398,7 @@
 ……ふぅ、ざっとこんなものですわ<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 お姉さん……まさに神！ゲーマーの神だよ、すごいよぉ……<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 夕張も感服したぞ！おまえこそ…この世界に舞い降りた、ゲーマーの神……！<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 うふふ、とんでもありませんわ…わたくしはリーンボックスの女神。本物の女神ですわー♪<br>
@@ -409,13 +409,13 @@
 まあ、冗談はこのくらいにして…せっかくのゲームですもの、今度はみんなで遊べるものをやりましょう。お姉さんが教えて、ア・ゲ・ル♪<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 うん、やろうやろう！じゃあ多人数が同時参加できるやつね<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 むむむ、そうなると、もう少し参加者がほしいな……<br>
 <span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 ここが下々の者が集まって遊んでいるというゲーム同好会ね！<br>
 <span style="color:#4eb24e;">ウォースパイト：</span><br>
 失礼させてもらうわね。陛下が一度、見学したいというものだから……<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 ……あ、参加者が来たかな？<br>
 <span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 女王が直々に来てあげたのだから、面白いゲームでもてなしなさい！できれば私が連戦連勝して、とっても楽しめるやつね！<br>
@@ -425,7 +425,7 @@
 どうぞどうぞ～！せっかくだから楽しんでってよ。みんな干物になろ～♪<br>
 <span style="color:#4eb24e;">クイーン・エリザベス：</span><br>
 望むところよ！いかなるものにおいても女王が最強だということを世に知らしめてあげるわ！さあ、どんなゲームでも持ってらっしゃい！<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 話が噛み合ってないけど…いいのか？<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 あらあらまあまあ……また可愛くて小っちゃい娘が二人も来てくれるなんて……お姉さん、張り切っちゃおうかしら～♪<br>
@@ -433,7 +433,7 @@
 誰が小っちゃいですって！？<br>
 <span style="color:#4eb24e;">ウォースパイト：</span><br>
 小さい、というのは聞き捨てならないわね……<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 あ、この人……アーク・ロイヤルと同じ匂いがする！<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 なんでもいいから早くやろ～。みんなでワイワイするの楽しみ～♪<br>
@@ -512,7 +512,7 @@
 ……ごめんなさい。ちょっと、面白かった<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 なんだか、レンジャー先生の意外な一面を見られた気がします<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 あら、図書館なのに何だか賑やかね……みんな、どうしたの？<br>
 <span style="color:#4eb24e;">ブラン：</span><br>
 ……ちょっと、レンジャーをいじって遊んでいたの<br>
@@ -520,13 +520,13 @@
 ブランちゃん、もう許して……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 蒼龍さんも本を借りに来たんですか？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 ええ、ちょっと勉強する必要があるかなー、と思ってね<br>
 <span style="color:#4eb24e;">Z19：</span><br>
 『生徒の理解力を高める先生の心得』、『成績を高める勉強メソッド』、『アホの子でも躾けられる最強教育術』……先生向けの参考書ばかり<br>
 <span style="color:#4eb24e;">レンジャー：</span><br>
 蒼龍…………先生？<br>
-<span style="color:#4eb24e;">{{AF|蒼龍}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 レンジャーさんまで何を言うの…はあ、このまま私、先生キャラを定着させられちゃうのかしら……？<br>
 <span style="color:#4eb24e;">ブラン：</span><br>
 ……この学園、先生多くない？<br>
@@ -546,9 +546,9 @@
 これにより実現したビッグイベント！今日は学園中がゲームセンターになっております！さあ、みんな！存分に遊んじゃって楽しんじゃってー！！<br>
 <br>
 ──ワァァァァァァーッ！ドンドン！パフパフ！<br>
-<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 資材は提供したんじゃないにゃ。今回のイベントで儲けた分、きっちり回収させてもらうにゃ<br>
-<span style="color:#4eb24e;">{{AF|夕張}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 むむむ、別次元のゲーム技術……初めて触れるデータばかりで新鮮だったぞ！これを参考に新装備ができないものだろうか？<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 ま、まあ、ゲイムギョウ界の女神なら、ゲームディスクぐらい常備しておくのは当然でしょ……あははははは。（たまたま持っていたなんて今更言えないわ……）<br>
@@ -560,9 +560,9 @@
 ──ワァァァァァァーッ！ドンドン！パフパフ！<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 え、あの、ちょっと…えへへ、まあ、これくらい、女神としてのたしなみよね！さあ、今日は楽しんでちょうだい！私のおごりよ！<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 こんな大きな「いべんと」を開催できるなんて……なるほどね！ノワールさん、さすがー！これが「まねじめんと」ってやつなのね！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 私も感服したです…「企画力」と「プロデュース力」が違います<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 まあ、言い出しっぺはネプテューヌだったんだけど、あいつ途中で面倒になって私に丸投げ。まったく、私がいなかったらどうなってたんだか……<br>
@@ -587,11 +587,11 @@
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 戦闘は火力、戦闘は火力……ああん、弾が足りない！<br>
 綾波ー！弾持ってきて弾ー！このままだと負けちゃうよー！<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 自力で何とかしてください、です……こっちもジリ貧なのです！<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 うふふふ……まだまだですわね、新兵ってところかしら？戦略ＦＰＳでお姉さんに勝てると思って？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……ベールお姉さん、やっぱり強い、です……！<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 ２対１でこっちが有利なはずなのに、どうして負けてるの～？<br>
@@ -601,11 +601,11 @@
 こっそりジャベリンもいまーす♪<br>
 <span style="color:#4eb24e;">ロング・アイランド：</span><br>
 げげっ！？道理でそっちの兵力が多いわけだー！３対２じゃーん！？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 卑怯です！ベールお姉さん……！<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 ふふふ……『兵は詭道なり』と言って、これもタクティクスのひとつですわ。みなさん、勉強になったかしら<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 なるほど、です……ならば、こちらも援軍要請です！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 というわけで──義を見てせざるは勇なきなり！綾波さんたちに加勢します！<br>
@@ -620,9 +620,9 @@
 <span style="color:#4eb24e;">ベール：</span><br>
 あらあら、あっという間に負け戦。敗色濃厚ですわね<br>
 でも……逆境だからこそ面白い、という遊び方もあるんですのよ？<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 なるほどね！ここのコーナーで「よんりんどりふと」よ！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 雷、上手です。「ステアリング」のいい車種を選びましたね<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 なんですとー！最速の車を選んだのに、どうして勝てないのー！？<br>
@@ -632,9 +632,9 @@
 あなた、アクセルべた踏みで突っ込んでるだけなんだもの<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 カーブではちゃんと曲がって……ねぷー！？またクラッシュー！？<br>
-<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 とかなんとかねぷねぷがやってる間に「ごーる」！「うぃにんぐらん」はこの雷様のものよー！！<br>
-<span style="color:#4eb24e;">{{AF|電}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 雷、お見事…すかさず私も「ゴール」…姉妹で一位二位を「独占」です。これはもう勝利の「シャンパン」ですね……<br>
 <span style="color:#4eb24e;">ネプテューヌ：</span><br>
 むぅぅぅ……もう１回！もう１回やろ、雷ちゃん、電ちゃん！<br>
@@ -699,7 +699,7 @@
 ゲイムギョウ界を長く留守にするのもよくありませんしね<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 では、名残惜しいですが……お別れなんですね？<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 せっかく仲良くなれたのに……残念です<br>
 <span style="color:#4eb24e;">ノワール：</span><br>
 うん、私も。だけど、ラステイションのこともあるし…それにまた会いに来るわ<br>
@@ -714,7 +714,7 @@
 あれね……私の分はネプテューヌにあげるわ<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 やっぱり飲めませんか……あれは私たち専用の飲料ですから、指揮官もお飲みになりませんしね<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……ねぷねぷ、ゴクゴク飲んでた。綾波たちと味覚が一緒？<br>
 <span style="color:#4eb24e;">イストワール：</span><br>
 ではみなさん、そろそろワームホールを潜ってください<br>
@@ -724,15 +724,15 @@
 ええ、わかったわ……それじゃあニーミ、綾波、ありがとうね。色々あったけど、私も楽しかったわ<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 こちらこそ、感謝の言葉もありません。ありがとうございました、ノワールさん<br>
-<span style="color:#4eb24e;">{{AF|綾波}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 綾波も楽しかった、です。バイバイ、ノワール<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 睦月ちゃん、如月ちゃん、卯月ちゃん、またすぐ遊びに来ますから……お姉さん、今度はもっとたっくさん、アメさんやお菓子を持ってまいりますから！<br>
-<span style="color:#4eb24e;">{{AF|睦月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 うん、べーるおねえちゃん、アメさんやくそくー！<br>
-<span style="color:#4eb24e;">{{AF|如月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 まってる……ばいばい、べーるおねえちゃん<br>
-<span style="color:#4eb24e;">{{AF|卯月}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 ばいばーい♪<br>
 <span style="color:#4eb24e;">ベール：</span><br>
 ああっ……なんて愛らしいのかしら！やっぱり帰りたくありませんわ！<br>
