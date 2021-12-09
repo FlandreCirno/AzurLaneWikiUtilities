@@ -25,6 +25,8 @@ def getWorldTemplate():
     return util.parseDataFile('world_collection_record_template')
     
 def getStory(filename, type = 1):
+    if filename.isnumeric():
+        type = 2
     if type == 1:
         return Stories[filename]
     elif type == 2:
@@ -374,6 +376,6 @@ def MemoryTW():
 if __name__ == "__main__":
     wikiGenerate()
     MemoryJP()
-    #MemoryEN()
-    #MemoryKR()
+    MemoryEN()
+    MemoryKR()
     MemoryTW()
