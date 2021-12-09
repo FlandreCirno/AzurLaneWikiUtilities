@@ -15,7 +15,7 @@
 <span style="color:#92fc63;">카가：</span><br>
 큭! 직위대에 귀환 지시! 대공 화력을!<br>
 크아아아아아!!<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 카가! 카가아아아아아아!!<br>
 <br>
 ……………………<br>
@@ -27,37 +27,37 @@
 아마기…씨……<br>
                                                               ——청홍의 메아리<br>
 ……확실히…예전 이야기였지……<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 후후후후……외통수네요.<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 앗!<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 언니의 10연승!<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 네 녀석…내 '사(士)' 를 대각선으로 옮기라고 꼬드기는 바람에 졌잖아! 치사하다!<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 호호, 카가가 너무 공격만 하니까 그렇죠. '장(將)' 을 가운데로 옮겼을 때 이미 승부는 끝났었답니다.<br>
 공격하기 보다 방어를 하는 척 하며 상대를 끌어들이는 게 어쩔 땐 더 효과적인 계책이 될 수 있다고나 할까요.<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 칫, 우쭐대기는…이번엔 어쩌다가 내가 방심했을 뿐이야! 두고보라고……<br>
 에잇, 한 판 더 둬!<br>
 <br>
 '''''<span style="color:black;">选择项1：한 판 더 둔다</span>'''''<br>
 '''''<span style="color:black;">选择项2：여기까지 둔다</span>'''''<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''아아아아!!<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''아마기 언니 11연승~!<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 벌써 시간이 이렇게…아카기, 슬슬 돌아가도록 하죠. 본의 아니게 카가의 연습을 방해하게 되었네요.<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 아, 네!<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 잠깐! 도망칠 셈이냐?<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 그럴리가요. 내일모레는 일 년에 한 번 있는 사쿠라 엠파이어 연합 함대의 대연습 훈련 날인걸요, 잊은 건 아니겠죠?<br>
 연습이긴 하지만, 오늘 같은 승부가 아니라 실전으로 승부를 가리는 게 더 공평하다고 할 수 있겠지요.<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 …그렇지. 그럼 누가 최강의 신세대 전함인지, 실전으로 어디 한 번 가려보자고!<br>
 <span style="color:#92fc63;">무츠 ：</span><br>
 나가토 언니, 무츠가 조금 알아봤는데…이번 참가자들은 다들 승부욕이 대단하대! 기대된다!<br>
@@ -218,37 +218,37 @@
 <br>
 둘은 모두가 모인 장소로 황급히 발걸음을 옮겼다.<br>
 ……그곳은, 연습 훈련 정보가 적힌 게시판이 있는 곳이었다.<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 하!? 너는 멍청이냐?<br>
 "내가 연습전에 참가할 수 있으면 아마기 언니가 나올 것도 없다" 라니, 그 미완성된 장비랑 그 멍청한 머리로 말이냐?<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 그쪽이야 말로 전투에서 꽁무니 빼고 도망친 주제에 잘도 그런 말을 하는군요!<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 까불지 마라. 그 약아빠진 여우는 말야, 교활한 책략으로 상대를 함정에 빠뜨리는 걸 제일 잘한단 말이다.<br>
 본인이 전선에 나온다고 해서 바로 공격을 하러 가는 멍청한 짓은, 아무리 너 같은 얼간이라 해도 안 하겠다!<br>
 게다가 난 '전함' 이다. '순양전함' 과는 방호 능력이 애초에 다르단 말이다.<br>
 너희 얇은 장갑을 다시 한 번 보고 내게 얘기해보시지. 나, '전함' 카가가 정면 승부에서 두려워 할 거라 생각하나?？<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 어쩜 그런 말을?! 나와 언니는 처음부터 당신과는 달리 속력이 빠르다고! 당신의 그 둔한 다리로 우리 30노트를 애시당초 따라잡을 수 있을 거라 생각하나요?<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 흥, 설마 지금 도망치는 게 빠르다고 자랑이라도 하는 건가?<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 이…이……촌스러운 백발요괴가!<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 이 쓸데없이 가슴만 큰 멍청이가!<br>
 <br>
 ――딱!<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 헉?!<br>
 <br>
 좀 전까지 서로 살기를 내뿜으며 말다툼을 했던 두 사람은, 갑자기 나타난 맹렬한 살기 앞에 순식간에 침묵했다.<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 약아빠진 여우란 누구를 얘기하는 걸까요?<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 아마기 언니!<br>
 <br>
 ――딱!<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 전부 사이좋게 지내자고 하지 않았나요? 카가와 말다툼을 해서 어쩌겠단 거죠~?<br>
 자~ 서로 악수하고 화해하는 거에요~<br>
 <br>
@@ -256,19 +256,19 @@
 아마기의 꿀밤을 맞아 머리에 혹이 난 카가와 아카기는, 싫은 티를 내며 반강제적으로 악수를 할 수 밖에 없었다.<br>
 그때, 자리에 있던 모두는 생각했다, '이 여자, 무섭구나……'<br>
 자비로운 미소에 감춰진 강철의 괴수로부터 느껴지는 살기를 느낀 사람들은, 그 사실을 확실히 머릿속에 각인하게 되었다.<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 자, 이걸로 화해했네요. 잘 됐어요~<br>
 <br>
 아카기와 카가에 눈엔 눈물이 그렁그렁 맺혔다.<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 사쿠라 엠파이어의 미래는 우리에게 달려있으니까, 서로 사이좋게 지내지 않으면 적과 싸울 수 없다구요~<br>
 자자, 오늘 연습전도 이제 곧 시작되니까, 각자 자리로 돌아가도록 하죠.<br>
 <br>
 두 사람은 화가 아직 다 풀리지 않았는지, 꼭 붙잡은 손을 점점 더 세게 쥐었지만,<br>
 아마기의 무언의 살기에 압도당해, 결국 서로 등을 돌리곤 각기 다른 방향으로 걸어갔다.<br>
-<span style="color:#92fc63;">{{AF|카가}}：</span><br>
+<span style="color:#92fc63;">{namecode:92}：</span><br>
 목숨은 건졌구나 왕가슴. 네가 전장에 서게 되면 똑똑히 알려주도록 하마.<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 흥, 오늘이야 말로 아마기 언니가 아마기급이야말로 최강이란 걸 확실히 알려줄 테니, 도망이나 치지 마시죠.<br>
 <br>
 이들을 구경하던 이들도 하나 둘 씩 자리를 떠나고,<br>
@@ -326,7 +326,7 @@
 그럼, 전에 말했던 연합 함대의 차기 기함은……<br>
 차후 아마기급 순양전함, 아마기에게 위임하도록 하겠다!<br>
 앞으로 아마기가 과거 미카사님으로부터 내려온 이 중요한 자리를 물려받아, 우리 사쿠라 엠파이어를 이끌어나갈 수 있길 바란다!<br>
-{{AF|아카기}}：<br>
+{namecode:91}：<br>
 언니가…연합 함대의 기함이……!<br>
 <br>
 아카기의 눈에 기쁨의 눈물이 맺혔다.<br>
@@ -357,29 +357,29 @@
 그렇다면 적어도, 전력을 다할 전장에서 끝나는 게 나의 희망사항.<br>
 "연합 함대, 그리고 사쿠라 엠파이어를 부탁해……"<br>
 "나의…………"<br>
-<span style="color:#92fc63;">{{AF|아시가라 }}：</span><br>
+<span style="color:#92fc63;">{namecode:144}：</span><br>
 아마기씨, 큰일이에요! 카가씨가 편지만 남겨두고, 혼자 세이렌이 지배하고 있는 거울해역으로 떠났대요!<br>
 속력이 빠른 구축함 아이들이 뒤를 쫓고 있긴 하지만, 전력적으로 거울해역을 탐색하기엔……<br>
 <br>
 아시가라가 카가가 남긴 편지를 아마기에게 건네주었다.<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 이건……카가, 당신 설마……<br>
 상황은 알겠습니다. 수색은 계속 부탁해요. 뒷일은 제가 맡겠습니다.<br>
-<span style="color:#92fc63;">{{AF|아시가라 }}：</span><br>
+<span style="color:#92fc63;">{namecode:144}：</span><br>
 아, 네!<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 수뇌부가 체결했다는 '그 조약'……그 때부터 모든 것이 변했습니다.<br>
 저 뿐만이 아니라, 과거 이글 유니온에 소속되었던 렉싱턴급이라는 아이들도……<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 아마기 언니, 우리들도 계획이 변경되어 항공모함인지 뭔지가 되는 건가요…?<br>
 410mm포, 아직 한 번도 못 쏴봤는데……<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 ………………<br>
 제 짧지만 남은 시간동안 완수해야 할 계책에는, 카가의 협력이 반드시 필요합니다…<br>
 하지만 성급히 편성하여 세이렌의 영역에 함부로 들어갔다간 자멸하는 것이나 마찬가지……그렇다면 어떻게 해야…<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 지금까지 지속되었던 거함거포주의를, 하늘을 나는 장난감 같은 함재기들로 바꾸면 과연 얼마나 도움이 될까요?<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 ………………<br>
 그렇군요, 그런 수단이 남아있었네요…<br>
 하늘을 나는 장난감……그것 밖엔 없겠어요……!<br>
@@ -420,12 +420,12 @@
 아마기는 호쇼에게 가볍게 귓속말을 하곤, 정찰함들에게 이동지시를 내렸다.<br>
 <span style="color:#92fc63;">호쇼：</span><br>
 알겠습니다. 그럼 무운을.<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 언니, 여기서부터는 함재기들과 연락을 하며 거울해역을 탐색할 수 있겠어요.<br>
 <span style="color:#92fc63;">아마기 ：</span><br>
 응, 이 아이들은 의외로 유용하게 쓰일 수 있을지도 모른답니다.<br>
 그것보다 아카기, 배웅은 여기까지만으로 괜찮아요. 당신은 장비가 아직 완성되지 않았으니까, 바로 모항으로 돌아가 개조 준비를 해주세요.<br>
-<span style="color:#92fc63;">{{AF|아카기}}：</span><br>
+<span style="color:#92fc63;">{namecode:91}：</span><br>
 그치만 역시 전, 왠지 안 좋은 예감이……<br>
 <span style="color:#92fc63;">아마기 ：</span><br>
 언니 말 들어요. 카가는 반드시 데려올 테니까요.<br>
@@ -451,7 +451,7 @@
 쿠콰아앙!<br>
 <span style="color:#92fc63;">아마기 ：</span><br>
 ……큭!<br>
-<span style="color:#92fc63;">{{AF|아시가라 }}&{{AF|나카}}：</span><br>
+<span style="color:#92fc63;">{namecode:144}&{namecode:40}：</span><br>
 아마기씨!<br>
 <span style="color:#92fc63;">아마기 ：</span><br>
 괜찮아요, 긁힌 상처에요. 그래도…역시 이 자폭 능력은 예측할 수 없겠네요…제 불찰입니다.<br>
@@ -672,7 +672,7 @@
 ……카가급 전함, 카가!<br>
 <span style="color:#ff0000;">아마기 ：</span><br>
 ……아마기급 순양전함, 아마기.<br>
-<span style="color:#92fc63;">{{AF|카가}}&{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:92}&{namecode:161}：</span><br>
 전투 개시!<br>
 {{折叠面板|内容结束}}
 
@@ -701,7 +701,7 @@
 당신과 아카기가 가진 영광스러운 용골은, 그 자격을 충분히 갖고 있습니다.<br>
 그러니, 약자로서의 아마기가 아니라, 당신이 생각하는 강자로서의 저의 '인자' 를 짊어지고,<br>
 사쿠라 엠파이어의 수호자가 되어, 부디……<br>
-<span style="color:#92fc63;">{{AF|아마기 }}：</span><br>
+<span style="color:#92fc63;">{namecode:161}：</span><br>
 …………………아카기를, 잘 부탁드립니다…<br>
 {{折叠面板|内容结束}}
 

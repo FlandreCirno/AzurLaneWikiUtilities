@@ -12,33 +12,33 @@ Listen up! I'm the noble, lucky, invincible, magni... magnici...<br>
 <br>
 '''''<span style="color:black;">选择项1：All hail Yukikaze the Great!</span>'''''<br>
 '''''<span style="color:black;">选择项2：That was truly a magnificent self-introduction...</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Hmph! In any case, I am a part of this fleet from now on. Do your best to use Yukikaze the Great to her fullest potential!<br>
 <br>
 *sparkle!*<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Now! Bow down before me and place me in the main fleet!<br>
 <br>
 *poses!*<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Were you so starstruck by Yukikaze the Great's majesty that you are unable to speak? You are merely a lowly human after all!<br>
 <br>
 ...<br>
 ... ...<br>
 Only the sound of the wind could be heard...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 H-huh...?<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Um... Commander... turned into a rock...<br>
-<span style="color:#4eb24e;">{{AF|Tanikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:127}：</span><br>
 Uhh... Y-Yukikaze is always like this... so don't let it bother you too much... okay?<br>
-<span style="color:#4eb24e;">{{AF|Isokaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:143}：</span><br>
 S-so cool... Hey Urakaze, help me think up a wild self-introduction like that too!<br>
-<span style="color:#4eb24e;">{{AF|Urakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:142}：</span><br>
 Huh? How would I know how to do something like that? More importantly, Commander, is it fine to leave Yukikaze alone over there?<br>
 <br>
 '''''<span style="color:black;">选择项1：I forgot what we were talking about...</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Grrr...!! For ignoring Yukikaze the Great, even ten thousand deaths are not enough for the likes of you!<br>
 {{折叠面板|内容结束}}
 
@@ -47,7 +47,7 @@ Grrr...!! For ignoring Yukikaze the Great, even ten thousand deaths are not enou
 "Call me Yukikaze the Great!"<br>
 <br>
 Chapter 2: Yukikaze, the Genius<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Wa ha ha ha! So you want Yukikaze the Great to be your secretary. You've chosen well!<br>
 Heh. Surely this is because you've heard of my many feats!<br>
 <br>
@@ -56,19 +56,19 @@ Heh. Surely this is because you've heard of my many feats!<br>
 Zed, I don't quite get this question~<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 That's why I said you've got to pay attention in class... Let me see... it goes like this...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Hmph! You two seriously can't solve an easy question like this? I can figure out the answer just by glancing at it!<br>
-<span style="color:#4eb24e;">{{AF|Atago}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 I've been having trouble trying to do maintenance on my equipment, since I can't really see from this angle... Yuki~ could you lend me a hand?<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Uhh.... Huh?? *bonk!*<br>
-<span style="color:#4eb24e;">{{AF|Takao}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 W-what?! She managed to fix it so easily! I am truly humbled by her ability to use her head...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Hmph! This was a piece of cake! Also, it's not "Yuki!" It's Yukikaze the Great!<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 I'm so glad you came, Yukikaze! You've managed to find all the supplies that I lost, nya!<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 H-hmph! There's no problem that Yukikaze the Great cannot solve, after all! (She randomly bumped into the supplies when she tripped and rolled into the bushes...)<br>
 Hmph! Now, you understand the true power of Yukikaze the Great! Please continue count on me in the future!<br>
 What?! Make a cup of tea for you...?! Do you think Yukikaze the Great is some kind of errand girl...?<br>
@@ -83,43 +83,43 @@ What?! Make a cup of tea for you...?! Do you think Yukikaze the Great is some ki
 I found another furniture coin~ Stuuupid Commander~<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 Yukikaze the Great has found yet another furniture coin! You should be thankful!<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}&{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}&{namecode:17}：</span><br>
 ... ...<br>
 <span style="color:#4eb24e;">Shigure：</span><br>
 What the heck! What is this loser doing here?<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 What the heck! Why is she reporting in before your secretary!<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}&{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}&{namecode:17}：</span><br>
 ... ...<br>
 <span style="color:#4eb24e;">Shigure：</span><br>
 Tsk... I never thought they'd assign Yuckykaze over here...<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 Grrrrr... why'd she have to be here...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}&{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}&{namecode:17}：</span><br>
 …………<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 There's only room for one of us here, Yukikaze! Let's take this outside!<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Wa ha ha ha! Even though you've never defeated Yukikaze the Great even once? Hmph! Come at me then!<br>
-<span style="color:#4eb24e;">{{AF|Shiratsuyu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 Um... Shigure... it's not good to pick fights..<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Isn't it fine? This is how youth has gotta be!<br>
-<span style="color:#4eb24e;">{{AF|Shiratsuyu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 Kagerou... Nowaki... please stop those two...<br>
-<span style="color:#4eb24e;">{{AF|Nowaki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:24}：</span><br>
 Zzz... zzz...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Hahaha! Commander, you should also come enjoy the show!<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 *pant* *pant*... I thought you only had your dumb luck going for you but... seems like you do have some real skill...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 We're not... done yet! Nowaki, bring the towel and the water bottle! We're going another round!<br>
-<span style="color:#4eb24e;">{{AF|Nowaki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:24}：</span><br>
 Zzzzz... zzzzz...<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 I see, I see! So these two are nemeses, just like in those superhero movies!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 They could've just played rock-paper-scissors... so how did it escalate into all this? I don't get it...<br>
 {{折叠面板|内容结束}}
 
@@ -133,7 +133,7 @@ Did you know? Rubbing Yukikaze's tail will grant you good luck!<br>
 Seriously? I'm so glad we have a lucky ship~! Maybe I should give it a try next time...<br>
 <br>
 ... ...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Hmph! I have already won the adoration of everyone here!<br>
 Come! Commander, rub the tail of Yukikaze the Great and receive her blessings--- woaaaahhh!?<br>
 <br>
@@ -144,7 +144,7 @@ She's here! She's here! Yukikaze's over here!<br>
 Thanks, Repulse! All righty, with Yukikaze's help, this time I'm gonna increase my standings as a big sister for sure...!<br>
 <span style="color:#4eb24e;">Juneau：</span><br>
 San Diego kept telling my sister about how lucky you were, so... Sorry, Yukikaze...!<br>
-<span style="color:#4eb24e;">{{AF|Kisaragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 I also... want some good luck...<br>
 <span style="color:#4eb24e;">York：</span><br>
 Hehe, frigid wind from the Eastern Empire, †Snowfrost†! Bestow upon me your †Real Luck†!<br>
@@ -154,17 +154,17 @@ Ahahaha! Count me in too!<br>
 All right everyone, queue up orderly.<br>
 <br>
 '''''<span style="color:black;">选择项1：What in the world is going on here...?</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 H-heh! Give my tail a rub! Yukikaze the Great shall make your dreams come true!<br>
 <br>
 ...<br>
-<span style="color:#4eb24e;">{{AF|Fusou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:78}：</span><br>
 Yukikaze is quite personable after all... but I hope she's not biting off more than she can chew...<br>
-<span style="color:#4eb24e;">{{AF|Yamashiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 Milord, what do you think? Can Yukikaze really fulfill anyone's wishes?<br>
 <br>
 '''''<span style="color:black;">选择项1：Doesn't it seem like she is just saying what others want to hear...?</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Yamashiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:79}：</span><br>
 I suppose so... aha... ha...?<br>
 {{折叠面板|内容结束}}
 
@@ -173,13 +173,13 @@ I suppose so... aha... ha...?<br>
 "Call me Yukikaze the Great!"<br>
 <br>
 Chapter 5: Yukikaze and the Amusement Park (Pt 1)<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 You want to take me to the amusement park? Hmph, do you seriously think that Yukikaze the Great and Mature would want to... Arghhh...<br>
 ...Hmph! Commander, since you're begging me to go so desperately, I suppose I can follow you!<br>
 Hmph! You should bow before me in gratitude!<br>
 <br>
 After all was said and done, we went to the amusement park over the weekend...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Merry-go-round? Yukikaze the Great would never do something so childish?<br>
 Roller coaster? That's like a nap on a soft bed compared to being on the rough seas!<br>
 Ferris wheel? Isn't that for dates? Yukikaze the Great does not...<br>
@@ -187,13 +187,13 @@ Huh? So, you want to go for a test of courage in that haunted mansion?<br>
 Wa ha ha! Only a child would get spooked by one of these cheap haunted mansions! Yukikaze the Great isn't afraid of anything!<br>
 <br>
 5 minutes later...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Fugyaaaaaaaaaaaaaahhh!!<br>
 *trembling* ... Wh-wh-what was that...! H-h-h-here... hold onto my hand and... AAAAAAAHHH!!<br>
 Commander! Save meeeeeeeee!!<br>
 <br>
 ... ...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 I... I thought I was gonna die...<br>
 C-Commander... Waaaahhh...!!<br>
 <br>
@@ -206,11 +206,11 @@ At that time, the only thing I could do was to hug Yukikaze tightly.<br>
 <br>
 Chapter 6: Yukikaze and the Amusement Park (Pt 2)<br>
 Amusement Park - Ferris Wheel<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Commander... thanks...<br>
 <br>
 Yukikaze, that haunted house really took a lot out of you... Maybe I shouldn't have....<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 C-Commander, it's not your fault!<br>
 Truthfully, I was never good with the scary stuff... But since you wanted to go, I couldn't just say no...<br>
 I wasn't trying to act tough... much...<br>
@@ -221,7 +221,7 @@ It's not like... I want to be better friends with them or anything...<br>
 <br>
 '''''<span style="color:black;">选择项1：Pat her head</span>'''''<br>
 '''''<span style="color:black;">选择项2：Ruffle her hair</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Ehehe... murr...<br>
 Hmm... I suppose I can try to be more honest like you said, Commander...<br>
 Ack...! What did you make Yukikaze the Great say just now...?<br>
@@ -234,7 +234,7 @@ F-forget you ever heard anything! ... I definitely didn't say anything just now!
 <br>
 Chapter 7: Yukikaze, Great as Always?<br>
 A few days later, at the port...<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Wa ha ha! Yukikaze the Great Secretary is reporting inm!<br>
 Hmph! Without me, you'd be totally lost and helpless!<br>
 Hmph! Commander, have you finally realized how blessed you are to have Yukikaze the Great working with you?<br>
@@ -243,21 +243,21 @@ Here, praise me more! Yes, praise Yukikaze the Great!<br>
 <br>
 '''''<span style="color:black;">选择项1：Pat her head</span>'''''<br>
 '''''<span style="color:black;">选择项2：Ruffle her hair</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Ehehe... murrr...<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|Isokaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:143}：</span><br>
 Urakaze! Isokaze also wishes to receive a commanderly headpatting!<br>
-<span style="color:#4eb24e;">{{AF|Urakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:142}：</span><br>
 Me too... Gah! Read the mood! It's Yukikaze's turn to be secretary!<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 She's... t-totally been tamed...<br>
-<span style="color:#4eb24e;">{{AF|Tanikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:127}：</span><br>
 Yuki... congratulations...<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|Yukikaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:22}：</span><br>
 Yesh, Commander~ pat me some more~♪<br>
 {{折叠面板|内容结束}}
 

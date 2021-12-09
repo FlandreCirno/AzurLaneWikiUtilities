@@ -135,7 +135,7 @@ WEEEEEH! WEEEEEH! WEEEEEH! <br>
 Nep?! Is that a siren I hear?! What's it for?<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 The emergency attack siren? There's... an enemy raid incoming?!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 So this is where you all were... I was looking for you.<br>
 I have an emergency telegram from HQ. A Mirror Sea has appeared in the vicinity of the academy's shore... A fleet must be dispatched to scout the area immediately. They're counting on us, Z23.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -167,13 +167,13 @@ Yup, that's right! I'm Neptune, nice to meet you! Some people call me Nep-Nep, o
 Okay then, let's go with Nep-Nep. It sounds cute.<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Oooh, I see you're a woman of culture! Also, we came from this place called Gamindustri, and I'm the CPU of a country we call Planeptune!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 A CPU...? You don't look like a machine to me, though... Do you have any proof of that?<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 You want proof? Fiiiiine, guess I'll just have to prove it. Just stay on the line while I... TRANSFOOOORM!<br>
 <span style="color:#4eb24e;">Purple Heart：</span><br>
 ...Phew. Having no shares makes it really difficult to remain in this form.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Whoa! She actually transformed...!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Hold on, aren't you one of the enemies from the Mirror Sea we just fought?!<br>
@@ -191,13 +191,13 @@ She's right. We won't get anywhere asking about something they know nothing abou
 We should introduce ourselves as well... I'm Z23. You don't need to be so formal with me.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 I'm Javelin! Nice to meet you!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 I'm Ayanami... It's a pleasure.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 We're sorry for being such a nuisance... We only just arrived in this world and we don't even know which way's left or right...<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 No, no, not at all. I'm certain that you have been equally inconvenienced.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 So you came from another dimension, huh... I see that all the time in anime, so I think I understand.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Ayanami, you do know anime is just fiction, right...?<br>
@@ -205,7 +205,7 @@ Ayanami, you do know anime is just fiction, right...?<br>
 Sounds like something you'd hear Neptune say...<br>
 Anyway... Could you tell me more about this world? We know that while there aren't many shares in this world, they do exist, so I think there has to be some kind of connection between this world and Gamindustri.<br>
 Those imposters of us that appeared, and the many mysteries surrounding Mirror Seas... Do you think they might have something to do with why we were sent to this world?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ...If possible, we'd like to find that out as well.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 For now, I sent a request to the commander regarding your housing and stay at the academy. I received his approval just a while ago so you should have nothing to worry about.<br>
@@ -215,7 +215,7 @@ Wowzers! Does it include room service and 3 meals a day?! Tonight, we dine in he
 We're not gonna need any room service, you know... That aside, thank you, Z23. We both owe you for this.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Not at all, it was my pleasure. Incidentally, would you two happen to be hungry?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 You can't fight on an empty stomach, as they say. We have some food if you'd like to eat.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Ah, thank you. I haven't had anything to eat ever since we came to this world. I could eat a horse, downloadable armor and all.<br>
@@ -250,7 +250,7 @@ Apparently she wanted us to go investigate this world then report back...<br>
 She told us to come here and thoroughly investigate the wormhole as well as what, if any, connection this world has to Gamindustri.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 It looks like Noire and Neptune's got some company!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Now there are 4 of them, and 4 of us...<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Ahahaha... I think things are going to get busy around here.<br>
@@ -265,7 +265,7 @@ Chapter 3 - Cross-Cultural Contact<br>
 Everyone together now, let's make some noise! I'll nep up your face~♪<br>
 <span style="color:#4eb24e;">Laffey & Javelin：</span><br>
 I'll nep up your face~♪<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}&{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}&{namecode:13}：</span><br>
 I'll nep up your face~♪<br>
 <span style="color:#4eb24e;">Saratoga & San Diego：</span><br>
 I'll nep up your face~♪<br>
@@ -277,7 +277,7 @@ Hold on, Neptune! What in the world are you teaching these poor little kids?! It
 Relax, they're just replicas! I'm working on the lyrics and choreography for this new song I've named "Nep-Nep Style"! All we need is small breakout performance and these destroyers are gonna smash everything else on the charts!<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 That's not what I was talking about... Ah, screw it.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Is she ignoring the fact there are carriers and light cruisers here too...?<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 It has the kind of rhythm that seems like it'll be popular even among battleships and heavy cruisers before long.<br>
@@ -299,9 +299,9 @@ It's fine, we've removed the fuse from it...<br>
 I-I don't think that's the problem here...<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Fiiiine, let's do tag then! I'll be it for the first round!<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 I see! You're so considerate, Nep-Nep! Okay everyone, let's ctrl+esc out of here, before she tags us!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 ...I will follow you. "Of the thirty-six stratagems, fleeing is best," as they say...<br>
 <span style="color:#4eb24e;">San Diego：</span><br>
 Yeehaw! I'm gonna hide somewhere exciting!<br>
@@ -309,7 +309,7 @@ Yeehaw! I'm gonna hide somewhere exciting!<br>
 Commence Operation Retreat! Run away and hide!<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Sigh... They've already turned into mini-Neptunes. Some other girls are getting into it as well... I don't think I can keep up with these guys anymore.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 That said... Everyone's enjoying themselves and having fun.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 I don't believe that there's anything wrong with this either.<br>
@@ -320,26 +320,26 @@ Oh yeah, Vert and Blanc... Uh, those 2 that arrived here after we did, where are
 Ah, Vert and Blanc? If you're wondering what they're up to, then...<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Oh dear... Have I died and gone to CPU heaven?<br>
-<span style="color:#4eb24e;">{{AF|Mutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 Veeeeert, could I have more candy?<br>
-<span style="color:#4eb24e;">{{AF|Kisaragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 It's unfair if she gets all of it... I want some too, please...<br>
-<span style="color:#4eb24e;">{{AF|Uzuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 Me, me! Me too! I want even more candy than they do!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Don't worry, there's enough to go around for everyone~! I've got candy, marshmallows, chocolate... I don't have any lollipops, but I have everything else you could imagine, and lots of it~!<br>
-<span style="color:#4eb24e;">{{AF|Mutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 Yaaaay! You have so much candy I've never tasted before!<br>
-<span style="color:#4eb24e;">{{AF|Kisaragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 I like this chocolate...<br>
-<span style="color:#4eb24e;">{{AF|Uzuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 Mmmm, these marshmallows are so fluffy!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Hahah... I never would've thought this box of candy I happened to bring with me would come in handy... You never know what's going to happen. Okay, children, come sit on Vert's lap~!<br>
 <span style="color:#4eb24e;">Ark Royal：</span><br>
 Grrrrr... How DARE you lure these cute little kids in with candy... I've never been so angry yet so jealous at the same time!<br>
 ...Next time, I'll just copy your strategy!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ...Something like that. I saw her playing games with some of the children.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Didn't you mention someone that should set off stranger danger alarms for anyone?<br>
@@ -351,7 +351,7 @@ Huh, I see... So what about Blanc?<br>
 Blanc expressed an interest in this world's books, so I told her where our library is located. I'll go take a look at how she's doing later.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Everyone's enjoying their time in this world in their own way, I guess... Perhaps I should let myself have a look around the academy as well.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 If so, I could be your guide, if you'd like.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Yes please, Ayanami. Well then, after you.<br>
@@ -366,12 +366,12 @@ This room is just the right size, it's just messy enough, the only source of lig
 It's pretty much perfect... This is what I'd call a room fit for a gamer.<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Come on iiiin. Welcome to the Gamer Girl Grotto.<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 This is a place of relaxation for those who have been freed of their duties, a place where they can spend some time as social rejects and indulge in their love of games and degeneracy... You are welcome here!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Indeed it is. A place such as this is absolutely indispensable for us gamers... I totally know that feel...<br>
 When we play games, we don't want to be interrupted by anyone, we want to be free and, how should I say it... We need a place to soothe our minds. An isolated, quiet, peaceful place...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Hum hum, that is the deepest thing I've heard all month... You are a pro, aren't you?<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Ayanami told me about you, but I never thought we'd be so in sync with each other... You're a TRUE gamer, aren't you, Miss?<br>
@@ -382,15 +382,15 @@ I will now give you a lecture on what it really means to be a TRUE gamer!<br>
 ...CLACK CLACK CLACK CLACK CLACK... KA-CLICK!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Oh my god... She only goes for headshots! And she never misses!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 And she plays hunting games solo and without any gear... Then completes it without even taking any damage! How?!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Nobody can beat her at simulators either! She always walks away at the top of the scoreboard!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 She tried land, sea, and air combat... She played every military sim there is, and she conquered them all!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Her gaming skills are elder god tier...! And whenever she has the chance, she sips some cola...!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Then she immediately reaches for a bag of chips... I've never seen such a fearsome playstyle before!<br>
 <br>
 ...CLACK CLACK CLACK CLACK CLACK... KA-CLICK!<br>
@@ -398,7 +398,7 @@ Then she immediately reaches for a bag of chips... I've never seen such a fearso
 ...Phew, that wasn't too bad.<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Miss... You're a god among peasants! A gaming god! All I can say is: wow...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 I, too, admire you! You are the very god of gaming itself... You have descended from the heavens to grace us with your presence...!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Ohoho, don't be silly, now... I am a god, and a gamer, and a gaming god... But we are known as CPUs!<br>
@@ -409,13 +409,13 @@ Our god is a great god...! Let me bow before you!<br>
 Well, that's enough fooling around for now... Games are to be treasured, so now let's pick something we can play with several people. I'll give you some useful protips!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 You're the boss, boss! I'll pick out something we can play with several people at once.<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Hum hum, if that's the plan, then it would be nice if we had a few more players...<br>
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
 So this is the Gamer Girl Grotto where commoners gather to play video games, I see!<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
 You'll have to excuse us. Her Majesty wished to see what this place is about...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 ...Oh, I guess we just got a few more players.<br>
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
 The Queen herself is here in person, so you'd better entertain me with a game worth my time! Preferably something highly enjoyable that I can win every round of!<br>
@@ -425,7 +425,7 @@ The Queen herself is here in person, so you'd better entertain me with a game wo
 Sure, come on in~! We don't get visitors every day, so we'll have tons of fun. Let's all be social rejects together~!<br>
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
 That's what I was hoping to hear! I will make it known to the whole world that The Queen always wins! Now pick any game you want and I shall beat you at it!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 I think there's a fallacy in there somewhere, but... Are you sure?<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Oh my, oh my... It seems two adorable little girls have come my way... Maybe I should go all out, just for you~?<br>
@@ -433,7 +433,7 @@ Oh my, oh my... It seems two adorable little girls have come my way... Maybe I s
 Who are you calling "little"?!<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
 I will not forgive you for calling me "little"...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Hey... That sounds exactly like something Ark Royal would say!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Let's just move on to the games now~! I'm looking forward to having some multiplayer fun with you all~!<br>
@@ -512,7 +512,7 @@ Ahhh... Blanc, Z23, could you stop grinning at me and back me up here?!<br>
 ...Sorry. I couldn't help but find this situation funny.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Somehow I feel like I've seen a side of you very different from your usual self.<br>
-<span style="color:#4eb24e;">{{AF|Souryuu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 Why, for being a library, it's awfully lively in here... What did I miss?<br>
 <span style="color:#4eb24e;">Blanc：</span><br>
 ...We were just having fun teasing Ranger a little.<br>
@@ -520,13 +520,13 @@ Why, for being a library, it's awfully lively in here... What did I miss?<br>
 Blanc, please, have some mercy...<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Are you here to borrow some books as well, Souryuu?<br>
-<span style="color:#4eb24e;">{{AF|Souryuu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 I am. I was thinking that I probably have to study a bit.<br>
 <span style="color:#4eb24e;">Hermann Künne (Z19)：</span><br>
 A Teacher's Tips For Making Your Students Understand Better... "10 Tricks To Improve Your Students' Grades"... "How To Make Even Idiots Pay Attention In Class"... These reference materials are all intended for teachers...<br>
 <span style="color:#4eb24e;">Ranger：</span><br>
 So... does that make you Miss Souryuu?<br>
-<span style="color:#4eb24e;">{{AF|Souryuu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:93}：</span><br>
 What are you saying now, Ranger? ...Sigh, at this rate I'm actually going to become established as a teacher character...<br>
 <span style="color:#4eb24e;">Blanc：</span><br>
 ...Sure are a lot of teachers at this academy, huh?<br>
@@ -546,9 +546,9 @@ We bring you a hyperdimensional fusion of materials provided by Akashi, technica
 We bring you... A hyperdimensional event! For the whole day, the academy will be one giant arcade! Now come, everyone! Play and enjoy yourselves to your heart's content!<br>
 <br>
 HOORAAAAAAAY! DA-DA-DADA<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 I didn't provide anything for free, nya. I will get my share of the profits you earn from this event down to the last cent. Capiche?<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Hum hum, I'd never come across gaming technology from another dimension before... But now that I have, I can say it was an invigorating experience! Could I use these as reference for designing some new equipment?<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 W-well, it's only natural a CPU from Gamindustri would have some spare games on her... Ahahahaha... (Now I can't go and tell them I just happened to bring them with me...)<br>
@@ -560,9 +560,9 @@ You heard it, folks! This lady here who brought tons of the latest and greatest 
 HOORAAAAAAAY! DA-DA-DADA!<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Um, well, you know... Hahaha, this is just, um, how I roll as a CPU! Go on, enjoy yourselves today! It's all on me!<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 It's amazing they're able to hold an event as big as this... I see! Noire really knows her stuff! This must be why they call it "item management"!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 I am amazed as well... After all, planning something is easy, but to realize it is not.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Well, Neptune was the one who proposed it, but halfway in she got bored and left everything to me. Who knows how poorly things could have gone if I wasn't here to take over...<br>
@@ -587,11 +587,11 @@ BANG! BANG BANG! POW! BA-BOOOOM!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 Firefight, firepower, firefight, firepower... Ahh, I don't have enough ammo!<br>
 Ayanami! You've gotta bring me some ammo, otherwise we're gonna lose!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 You'll have to do something about that on your own... Things are only getting worse for me over here as well!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Ohoho... I see you have much to learn. You're both newbies, aren't you? Did you really think you could beat me in a tactical shooter?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ...I guess you're really good at this after all, Vert...!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 It's a 2v1, we're supposed to have the advantage, so how come we're losing~?<br>
@@ -601,11 +601,11 @@ It's a 2v1, we're supposed to have the advantage, so how come we're losing~?<br>
 As have I!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
 What?! No wonder your team's got better stats than we do! But that makes this a 3v2!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 That's not fair! You play dirty, Vert...!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Hohoho... There are no rules in war. Also, deceiving the enemy could be thought of as a tactic. Perhaps you've learned something today.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 I see... Then we will call for some reinforcements as well!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Indeed! Only a coward with no morals would stand by and watch! I will assist Ayanami and Long Island!<br>
@@ -620,9 +620,9 @@ Now they have the same stas as us, and they made it a 3v3...<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Oh dear, and in the blink of an eye we're not winning anymore. We're most likely going to lose.<br>
 But... Some people play games precisely because they want a challenge, you know?<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 I see! So at this corner you do a four-wheel drift!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 That was good, Ikazuchi. It seems you picked a model with good steering.<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 What the heck! I picked the fastest car there is, so why can't I win?!<br>
@@ -632,9 +632,9 @@ In racing games, how well you can control your vehicle, how many shortcuts you c
 And all you were doing was putting the pedal to the metal and crashing into things.<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Then I'll turn at the curve properly this... Nep?! I totaled my car again!<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 And while Nep-Nep's busy with that, I'm gonna slamdunk that finish line! It's victory lap time!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 Bravo, Ikazuchi... I'm just behind you... It seems we will never lose first and second place. I think it's time for some victory champagne...<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 You got me... But let's play one more round! Just one more! Come on, man<br>
@@ -699,7 +699,7 @@ Oh, you wanna do that? Stay up all night talking about games, again?<br>
 Leaving Gamindustri without CPUs for too long isn't very good.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Though it pains us all... I suppose you must leave now...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Just after we'd all become such close friends... It's a shame.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Yeah, I don't want to leave either... But I've got Lastation to take care of, and I promise we'll meet again.<br>
@@ -714,7 +714,7 @@ Wowzers! Thanks, Javelin! Holy moley, there's like a dozen Oxy-colas in here! We
 Uh, yeah... You can have mine, Neptune.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 You can't quite drink them, I see... They're intended for consumption by shipgirls only, not even our commander can handle drinking them.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ...But I remember Nep-Nep downing a whole bottle. Maybe she has the same taste as we do?<br>
 <span style="color:#4eb24e;">Histoire：</span><br>
 Now then, CPUs, please line up in front of the wormhole and prepare to jump into it.<br>
@@ -724,15 +724,15 @@ When you have business in this world, I can open it again, so you don't need to 
 Yeah, I guess you're right... Z23, Ayanami, thank you once again. We all had our ups and downs, but I enjoyed myself too.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 I couldn't agree more. There are no words to express my gratitude. Thank you for everything, Noire.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 I had fun too. Sayonara, Noire.<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Mutsuki, Kisaragi, Uzuki... I'll be back before you know it! And I'll bring you girls more candy than you could ever dream of!<br>
-<span style="color:#4eb24e;">{{AF|Mutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:33}：</span><br>
 Okay, Vert! I'm gonna dream of tons of candy while you're gone!<br>
-<span style="color:#4eb24e;">{{AF|Kisaragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:34}：</span><br>
 We'll be waiting... Bye bye, Vert!<br>
-<span style="color:#4eb24e;">{{AF|Uzuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:137}：</span><br>
 Bye byyyyeee!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Ahhh... You're all so lovely! I wish I didn't have to return home!<br>

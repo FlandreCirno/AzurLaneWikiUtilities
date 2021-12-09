@@ -29,12 +29,12 @@ Union Task Force 16, 17, sortieing!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Enemy Encounter|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Akagi}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 Oh my, how many times does this make now? Haven't these dullards learnt by now that their flying pieces of scrap metal are no match for our Zeros?<br>
 It looks like AF's enemies are capable of nothing more than scrabbling desperately at our feet. Hurry and prepare to launch our next wave of attacks on the island.<br>
-<span style="color:#ff0000;">{{AF|Kaga}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 Akagi, I think we still have to keep track of the movement of enemy aircraft. It would be prudent to leave enough fighters on reserve...<br>
-<span style="color:#ff0000;">{{AF|Akagi}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 What is there to fear? Tone's recon planes haven't found any of these "carriers." Perhaps they turned tail and ran at the sight of our mighty fleet?<br>
 After all, "they" are behind us, observing our glorious battle... ahaha!<br>
 {{折叠面板|内容结束}}
@@ -60,11 +60,11 @@ Too late! McClusky squadron, attaaack!!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Victory|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Kaga}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 Graaaaghhh!<br>
 <span style="color:#ff0000;">Akagi：</span><br>
 Kaga! Kagaaaaaaaaaa!<br>
-<span style="color:#ff0000;">{{AF|Kaga}}：</span><br>
+<span style="color:#ff0000;">{namecode:92}：</span><br>
 To let my guard down... at such a critical time...<br>
  ...Akagi... Sister...<br>
 <br>
@@ -77,13 +77,13 @@ This moment, when strength, luck, and even the whimsical hand of fate all seemed
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Enemy Aircraft|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Akagi}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 Bastards!! What have you done to Kaga!!<br>
 Hard starboard! Evade the enemy attacks, and call back all the Zeros this instant!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Destiny|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Akagi}}：</span><br>
+<span style="color:#ff0000;">{namecode:91}：</span><br>
 In the end, the vast ocean is but a playground...<br>
 So this time, I'll admit defeat...<br>
 To think that we could be outwitted by such an ragtag, antiquated bunch... as expected of the Commander that I chose...<br>
@@ -92,13 +92,13 @@ Perhaps one day... I can escape... this fate...<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Final Words|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Souryuu}}：</span><br>
+<span style="color:#ff0000;">{namecode:93}：</span><br>
 I see... So this is where I meet my end...<br>
 Hiryuu... I leave the rest to you...<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Final Counter|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Hiryuu}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 …<br>
 So, the First Carrier Division and my sister have already...<br>
 But I can't let it end like this... All squadrons, attack!!<br>
@@ -106,13 +106,13 @@ I'll show you what the Second Carrier Division is made of! This is our final cou
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Chapter 3: Continued Willpower|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Hiryuu}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 I'll put every last ounce of my remaining strength... into this single attack!<br>
 <span style="color:#4eb24e;">Yorktown：</span><br>
 Aaaagh!!<br>
 <span style="color:#4eb24e;">Enterprise & Hornet：</span><br>
 Yorktown!!<br>
-<span style="color:#ff0000;">{{AF|Hiryuu}}：</span><br>
+<span style="color:#ff0000;">{namecode:94}：</span><br>
 At least... I was able to slightly salvage the situation... for "Their" sake...<br>
 I can die without any regrets...<br>
 <span style="color:#4eb24e;">Yorktown：</span><br>

@@ -38,7 +38,7 @@
 벌써 이런 시간인데, 설마 이소카제가 더러워진 옷차림으로 정월을 보내게 할 거야?<br>
 <span style="color:#92fc63;">우라카제 ：</span><br>
 알았어, 알았다고! 정말, 사고 친 건 이소카제인데 왜 내가 한 소리 듣는 거야……<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 짜잔! 우라카제님이 만든 옷, 엄청 귀여워서 나한테 딱이야!<br>
 <span style="color:#92fc63;">우라카제 ：</span><br>
 딱 맞는지는 둘째치고, 귀여운 건 당연하잖아? 미완성이라곤 해도, 이 내가 정성을 다해 만든 옷이니까!<br>
@@ -49,7 +49,7 @@
 미안해. 돕는다고 해놓고 결국 거의 아무것도 안 한 데다, 폐까지 끼치고……<br>
 <span style="color:#92fc63;">아카시：</span><br>
 괜찮다냥! 연말연시엔 모두 바쁜거다냥. 고양이 손이라도 빌리고 싶을 정도다냥.<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 그럼 우린 먼저 철수할게! 떡국 다 만들어지면 나눠주는 거 도와줄 테니까!<br>
 {{折叠面板|内容结束}}
 
@@ -68,11 +68,11 @@
 오오오! 눈이다! 눈이 내리고 있어!! 시구레, 눈싸움 하자!<br>
 <span style="color:#92fc63;">시구레：</span><br>
 우와, 잠깐, 끌고가지 말라구!<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 와아, 엄청 내리네! 벌써 이만큼 쌓였어!<br>
 <span style="color:#92fc63;">우라카제 ：</span><br>
 흥, 겨우 눈 오는 거 가지고 저렇게 신이 나선.<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 우라카제님, 꼬리가 바르르 떨리고 있다구? 아! 혹시 이것이 바로 전설의 '무사의 떨림'!?<br>
 <span style="color:#92fc63;">우라카제 ：</span><br>
 아냐! 벼, 별로 눈 왔다고 들뜨거나 한 건 아니니까!<br>
@@ -247,9 +247,9 @@
 이 장식끈과 옷자락은…… 조금 움직이기 불편한 것 같습니다.<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 안경, 재밌어. 찌릿찌릿하면, 안 돼. 머리가, 흐트러져 버려……<br>
-<span style="color:#92fc63;">{{AF|이즈모}}：</span><br>
+<span style="color:#92fc63;">{namecode:151}：</span><br>
 가부키라도 한 판 추고 싶어지는 의상이군. 움직이기 쉬운 것치곤 나쁘지 않다.<br>
-<span style="color:#92fc63;">{{AF|이부키}}：</span><br>
+<span style="color:#92fc63;">{namecode:152}：</span><br>
 제 건 평범하군요. 왠지 차분해집니다.<br>
 <span style="color:#92fc63;">프린스 오브 웨일즈：</span><br>
 과연, 여러 진영의 특징을 섞은 건가. 재밌네, 후후후.<br>
@@ -277,7 +277,7 @@
 정월의 축복<br>
 <br>
 6 저녁 식사는 무르익어가고<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 와아! 국수랑 떡국이다! 드디어 밥이네!<br>
 <span style="color:#92fc63;">프린스 오브 웨일즈：</span><br>
 둥둥 떠있는 건 '떡'인가. 어디……<br>
@@ -300,7 +300,7 @@
 우후후, 괜찮을 거라 했잖니? 클리블랜드, 마침 잘 왔어. 이 '국수'란 거, 식으면 맛없어지는 모양이야.<br>
 <span style="color:#92fc63;">클리블랜드：</span><br>
 오, 땡큐―! 어라? 왜 책상 밑에 이불이 있는 거야?<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 이건 코타츠란 거야. 사쿠라 엠파이어의 최종병기라구!<br>
 <span style="color:#92fc63;">클리블랜드：</span><br>
 다들 붙어서 몸을 녹이는 거야? 난 사양…… 루이스!? 아, 좀! 잡아당기지 말라고!<br>
@@ -336,7 +336,7 @@
 오? 혹시 다들 신사에 가는 건가?<br>
 <span style="color:#92fc63;">시그넷：</span><br>
 신사에 가서, 올해의 소원을 비는, 그…… 우으, 이름이 기억나지 않아요……<br>
-<span style="color:#92fc63;">{{AF|이부키}}：</span><br>
+<span style="color:#92fc63;">{namecode:152}：</span><br>
 첫 참배 말씀이시군요. 새로운 해를 맞아 처음으로 신께 비는 소원은 반드시 이루어진다고 합니다.<br>
 <span style="color:#92fc63;">몬트필리어 ：</span><br>
 새해 소원인가. (작은 목소리로) 정말 이루어진다고 하면……<br>
@@ -348,17 +348,17 @@
 헬레나, 이뤄졌으면 하는 소원이라던가 있어?<br>
 <span style="color:#92fc63;">헬레나：</span><br>
 에? 나? 나는……<br>
-<span style="color:#92fc63;">{{AF|이즈모}}：</span><br>
+<span style="color:#92fc63;">{namecode:151}：</span><br>
 잠깐, 소원을 입 밖에 내면 이루어지지 않아. 각자의 소원은 신께만 들려주는 거다.<br>
 <span style="color:#92fc63;">아카시：</span><br>
 어쨌든, 빨리 출발하는 편이 좋다냥! 날이 저물고 만다냥!<br>
-<span style="color:#92fc63;">{{AF|이즈모}}：</span><br>
+<span style="color:#92fc63;">{namecode:151}：</span><br>
 오오! 모항의 신사에 오는 건 처음이다만, 설마 이렇게 훌륭할 줄은!<br>
-<span style="color:#92fc63;">{{AF|이부키}}：</span><br>
+<span style="color:#92fc63;">{namecode:152}：</span><br>
 모항에도 이렇게 영험한 곳이 있다니…… 신께서도 분명 지켜주고 계실 거예요.<br>
 <span style="color:#92fc63;">프린스 오브 웨일즈：</span><br>
 이토록 세월이 느껴지는 건물이 모항 안에 있었다니, 놀랍군.<br>
-<span style="color:#92fc63;">{{AF|이소카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:143}：</span><br>
 (작은 목소리로) 저기, 아카시씨…… 여기 분명 작년부터……<br>
 <span style="color:#92fc63;">아카시：</span><br>
 쉿! 그런 말은 안 해도 된다냥!<br>
@@ -371,7 +371,7 @@
 아니, 이즈모가 입 밖에 내면 이루어지지 않는다고 했잖아?<br>
 <span style="color:#92fc63;">프린스 오브 웨일즈：</span><br>
 어쨌든, 건강과 기쁨을 기원하는 건 어디든 똑같다. 새해 복 많이 받도록.<br>
-<span style="color:#92fc63;">{{AF|이부키}}：</span><br>
+<span style="color:#92fc63;">{namecode:152}：</span><br>
 그렇네요. 올해야말로 서로 힘내서 평화로운 세계를 되찾도록 하죠.<br>
 <span style="color:#92fc63;">아카시：</span><br>
 ………후후후후후.<br>

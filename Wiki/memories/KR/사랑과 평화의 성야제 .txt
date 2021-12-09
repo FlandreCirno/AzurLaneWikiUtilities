@@ -61,44 +61,44 @@
 <br>
 제3장 - 사쿠라 엠파이어의 크리스마스 (상)<br>
 모항 - 매점<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 음… 식재료랑… 다음은 저번에 예약했던 크리스마스 케이크… 크리스마스트리… 그리고……<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 와아~ 모항이구나, 이제 완전히 크리스마스 같네!<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 그렇네, 어떤 명절이던 축제로 떠들썩해지네.<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 언니, 축제가 싫어요?<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 아니, 오히려 사쿠라 엠파이어의 모두가 즐거워하는 걸 보니, 나도 왠지 두근두근 거리는 걸. 지금 건 그냥 내 감상이란다.<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 정말 후소 언니도 참… 어, 저건……<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 저건… 크리스마스 의상…인가? 어머, 야마시로는 크리스마스 의상에 흥미가 있는 거야?<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 그, 그렇지 않아요… 이런 거 저한테는 안 어울리는 걸요…<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 그렇지도 않아. 모처럼 만이니 크리스마스 의상은 이걸로 하지 않을래? 축제는 마음껏 즐겨야…겠지?<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 어, 언니가 그렇게 말한다면……<br>
 어, 어때요…?<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 역시 내 여동생이네♪<br>
 <span style="color:#92fc63;">목소리：</span><br>
 사쿠라 엠파이어의 전함 자매 발견~!!<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 저 사람은… 이글 유니온의…<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 그리들리?<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 그리들리, 크리스마스 카메라맨 모드! 바로 지금 등장! 지휘관한테 부탁받아서, 크리스마스의 추억들을 찍고 있어!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 지휘관 나리는… 역시 바쁘신 걸까나…<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 자자, 그러니까 지휘관님을 위해 야마시로의 추억도 사진으로 남기는 편이 좋겠지?<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 그래 그래! 자 웃어요~ 치~즈!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 와앗!<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 흠흠, 이름은 '성야의 대작전?' 으로 하지! 다음은 누구를 찍어볼까나…?<br>
@@ -110,50 +110,50 @@
 <br>
 제4장 - 사쿠라 엠파이어의 크리스마스 (하)<br>
 모항 - 사쿠라 엠파이어 숙소<br>
-<span style="color:#92fc63;">{{AF|후소}}&{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}&{namecode:79}：</span><br>
 다녀왔습니다~<br>
 <span style="color:#92fc63;">무츠키：</span><br>
 다녀오셨어요!<br>
-<span style="color:#92fc63;">{{AF|미카사}}：</span><br>
+<span style="color:#92fc63;">{namecode:82}：</span><br>
 음! 수고했다! 잘 돌아왔다!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 무츠키랑… 미카사 선배??<br>
-<span style="color:#92fc63;">{{AF|미카사}}：</span><br>
+<span style="color:#92fc63;">{namecode:82}：</span><br>
 아아, 모두들 그 '크리스마스' 인가 뭔가 하는 준비로 바쁜 듯해서 말이다…… 나도 도우려 했지만 "미카사 선배, 여기는 저희한테 맡겨주세요" 라며 모두들 사양하더구나……<br>
 후배들이 챙겨주는 건 좋지만, 그래도 너무 챙겨주는 건 뭔가 쓸쓸하다 생각해서 말이지……<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 미카사 선배……<br>
-<span style="color:#92fc63;">{{AF|미카사}}：</span><br>
+<span style="color:#92fc63;">{namecode:82}：</span><br>
 뭐 좋아! 나는 여기서 귀여운 후배들을 돌보도록 하지.<br>
 <span style="color:#92fc63;">무츠키：</span><br>
 미카사 서언배! 무츠키 또 놀고 시퍼~!<br>
-<span style="color:#92fc63;">{{AF|미카사}}：</span><br>
+<span style="color:#92fc63;">{namecode:82}：</span><br>
 오냐 오냐, 무츠키는 뭐 하고 놀고 싶으냐? 목마타기? 아니면, 둥기둥기 비행기를 태워주랴?<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 미카사 선배는 전장에선 늠름하다고 들었는데…<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 평소엔 이런 느낌이구나…<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 우후후, 역시♪<br>
-<span style="color:#92fc63;">{{AF|미카사}}：</span><br>
+<span style="color:#92fc63;">{namecode:82}：</span><br>
 좋아! 그럼 우리들도 '사쿠라 엠파이어 크리스마스 파티' 를 시작하자꾸나!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 언니, 모두들, 메리 크리스마스!<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 야마시로, 메리 크리스마스!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 지휘관 나리, 아직 집무실에 계신 걸까……<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 그렇게 신경 쓰이면, 만나러 가보는 건 어떠니? 가는 김에 크리스마스 의상도 지휘관님께 보여주면 좋잖아?<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 어, 언니……부끄럽게……<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 야마시로는 소중한 여동생이니까. 이럴 때 등을 떠밀어주지 않으면 언니 실격이겠지?<br>
 <span style="color:#92fc63;">무츠키：</span><br>
 무츠키도 지히간 만나고 시퍼!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 그, 그러면…! 무츠키 혼자 보내면 위험하니까, 제가 따라갈게요!<br>
-<span style="color:#92fc63;">{{AF|후소}}：</span><br>
+<span style="color:#92fc63;">{namecode:78}：</span><br>
 어머머…… 조심해서 다녀오렴. 우후훗♪<br>
 {{折叠面板|内容结束}}
 
@@ -325,9 +325,9 @@
 이야~ 그래도 진짜 좋은 사진들이 찍혔어! 엄청 좋은 추억들로 가득해! 봐봐, 지휘관~<br>
 <span style="color:#92fc63;">샌디에이고：</span><br>
 헬로~! 모두의 아이돌, 샌디에이고야! 지휘관에게 노래를 전해주러 왔어!<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 와앗! 사, 사람들이 되게 많아요!<br>
-<span style="color:#92fc63;">{{AF|무츠키}}：</span><br>
+<span style="color:#92fc63;">{namecode:33}：</span><br>
 지히간의 집무실에 사람이 잔뜩~ 노라조~!<br>
 <span style="color:#92fc63;">시그넷：</span><br>
 우으… 후드 언니한테 "귀여우니까 지휘관에게도 보여주고 오세요" 라고 떠밀려서……<br>
@@ -344,9 +344,9 @@
 엔터프라이즈가 아니다. '산타클로스' 다. 자, 선물을 못 받은 아이들의 몫도 여기 있다고.<br>
 <span style="color:#92fc63;">시그넷：</span><br>
 와아~ 고마워요……<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 에? 제 것도 있어요? 고, 고맙……<br>
-<span style="color:#92fc63;">{{AF|무츠키}}：</span><br>
+<span style="color:#92fc63;">{namecode:33}：</span><br>
 무츠키는 사탕 먹고 시퍼!<br>
 <span style="color:#92fc63;">엔터프라이즈：</span><br>
 물론, 지휘관에게도. 메리 크리스마스다.<br>
@@ -356,9 +356,9 @@
 지휘관, 메리 크리스마스… 지가 입은 크리스마스 의상…… 어때유?<br>
 <br>
 ！！！<br>
-<span style="color:#92fc63;">{{AF|야마시로}}&{{AF|무츠키}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}&{namecode:33}：</span><br>
 지휘관, 메리 크리스마스! (지히간~ 메리 크리슈마수!)<br>
-<span style="color:#92fc63;">{{AF|야마시로}}：</span><br>
+<span style="color:#92fc63;">{namecode:79}：</span><br>
 후소 언니가 모처럼 준비해준 크리스마스 의상이니까 꼭 나으리한테 보여주는 게 좋다고 해서……<br>
 <br>
 ！！！！<br>

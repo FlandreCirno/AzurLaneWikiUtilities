@@ -65,24 +65,24 @@ Ahahah... To be honest, I'm not really sure either! Let's start by asking around
 We can ask, but if they don't know either, then... Hey, who's that over there?<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Yo! It's Ayanami! And Laffey, too! Who's your new friend?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 This is Yuugure. I don't believe you've met before.<br>
-<span style="color:#4eb24e;">{{AF|Yuugure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 Ah... Nice to meet you. I'm Yuugure. I hope we can be friends.<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Nice meeting you~ Hey, aren't you guys wearing new clothes? That's gotta be Dragon Empery-style!<br>
 <span style="color:#4eb24e;">Tai Yuan：</span><br>
 Ayanami, Laffey, and Yuugure in new clothes... You look so cute in them...<br>
-<span style="color:#4eb24e;">{{AF|Yuugure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 We worked on them together.<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 Yeah, we did... We spent a long time making them.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Longer than we'd expected to, yes... But it's fine since we made in time for the Lunar New Year.<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Wow, that's really nice~ Oh right, I was gonna ask you guys something!<br>
 We're doing something special for Lunar New Year and we're looking for some gunpowder to make firecrackers. Do you know where we could find some?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ...Yes, there should be some that we previously used to make fireworks with in the old warehouse.<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Oh, really? In the old warehouse? Heheheh, I didn't think we'd be able to find some this quickly~<br>
@@ -92,21 +92,21 @@ Oh, I love firecrackers!<br>
 They're really fun. They're even better when you make them yourself, though. Then you won't know quite what to expect!<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 That sounds like it might be fun... I wanna make some too...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Firecrackers are dangerous... But, when used responsibly... in sober mind... they can be quite fun.<br>
-<span style="color:#4eb24e;">{{AF|Yuugure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:32}：</span><br>
 T-to the old warehouse? I-I think I'll have to pass... My sister Ariake is waiting for me, and the old warehouse is just a little too dark and scary for me...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Okay. Take care on the way back, Yuugure.<br>
 <br>
 Port - Old Warehouse<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ...I found it. Over here.<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Hehehehe~! So we've got the gunpowder, now we'll just...<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 I found this thing... oh it's Momopoly...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 I found something as well. It's called a sugoroku board... I think?<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 You found something? Lemme see!<br>
@@ -147,7 +147,7 @@ Oh, crap, An Shan's here... Yikes, guys! I guess we shouldn't have used a whole 
 Owww... Your firecrackers are scary, Fu Shun! ...I'm sorry, An Shan, I just couldn't stop her...<br>
 <span style="color:#4eb24e;">An Shan：</span><br>
 ...Fu Shun! Get over here right now!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Owch... My head is spinning...<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 "Bang bang"... That sounded more like a bomb...<br>
@@ -190,7 +190,7 @@ Oh, I landed on Community Chest! "Bank error in your favor. Collect 200 bucks."<
 Geesh... Your luck is out of this world, Fu Shun...<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 Fu Shun... is OP...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 She's unstoppable now...<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Heheheh, I win! This sugoroku... Momopoly... Shengguan Tu... whatever it is, sure is fun!<br>

@@ -13,12 +13,12 @@ Best Pictures!<br>
 ...... 아마 일에 너무 집중한 나머지, 이 쪽은 신경쓰지 못하는 듯하다.<br>
 <br>
 '''''<span style="color:black;">选择项1：저번에 “그 물건”을 본다</span>'''''<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
-현장 체포다냥! 몰래 사진 찍는 건 그렇다쳐도, {{AF|아카시}}의 프린터를 절도하다니, 이건 큰 죄다냥!<br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
+현장 체포다냥! 몰래 사진 찍는 건 그렇다쳐도, {namecode:98}의 프린터를 절도하다니, 이건 큰 죄다냥!<br>
 <span style="color:#92fc63;">그리들리：</span><br>
-지휘관 살려줘——! 난 단지 모두에게 무한한 매력의 새러토가를 알려주고 싶었을 뿐이야! ...... 근데 그 프린터가 {{AF|아카시}}꺼였어?<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
-그렇다냥! 그러니까 복사본은 {{AF|아카시}}가 전부 몰수하겠다냥! 원본은 지휘관에게 처리를 맡긴다냥!<br>
+지휘관 살려줘——! 난 단지 모두에게 무한한 매력의 새러토가를 알려주고 싶었을 뿐이야! ...... 근데 그 프린터가 {namecode:98}꺼였어?<br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
+그렇다냥! 그러니까 복사본은 {namecode:98}가 전부 몰수하겠다냥! 원본은 지휘관에게 처리를 맡긴다냥!<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 에에...... (풀썩)<br>
 <br>
@@ -161,7 +161,7 @@ Best Pictures!<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 어떻게 알았어!?<br>
 <span style="color:#92fc63;">새러토가：</span><br>
-이렇게 사진 찍는 건 그리들리밖에 없으니까...... {{AF|아오바}}들은 나한테 먼저 물어보거든.<br>
+이렇게 사진 찍는 건 그리들리밖에 없으니까...... {namecode:55}들은 나한테 먼저 물어보거든.<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 미안...... 바로 삭제할게!<br>
 <span style="color:#92fc63;">새러토가：</span><br>

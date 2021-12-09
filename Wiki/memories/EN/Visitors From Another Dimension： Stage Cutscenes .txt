@@ -55,7 +55,7 @@ Nep?! Blanc and Vert? You guys are here too?<br>
 Just the two of you don't instill a whole lot of confidence, so I decided to check in.<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Histoire is currently investigating a way of getting home. There shouldn't be anything to worry about.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 We encountered them during another reconnaissance mission... so we brought them over.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Thank you, Ayanami. Did you also run into your own clones?<br>
@@ -63,20 +63,20 @@ Thank you, Ayanami. Did you also run into your own clones?<br>
 Yes... With everyone's aid... we somehow managed to fight them back...<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 Frankly speaking, there's no way of utilizing our full power without shares.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Come to think of it, Akashi was looking for Nep-Nep and the others.<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 I've been listening, nya. It seems like the CPUs aren't able to wield their powers here, nya.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 Akashi, did you find a solution?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 It's quite simple, nya. When in Rome, do as the Romans do. All we need to do is to equip you CPUs with your own ship rigging!<br>
 This way, everyone can sortie together!<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Wooah! Shiny new equipment! Gimme Gimme!<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 To think that something like this could be done... Akashi, can we equip these right now?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Hmm... I don't think I can make it tonight. Why don't you all get some rest, nya?<br>
 Akashi will have it done by the morning. Look forward to it, nya!<br>
 {{折叠面板|内容结束}}
@@ -84,19 +84,19 @@ Akashi will have it done by the morning. Look forward to it, nya!<br>
 {{折叠面板|标题=Odd-Colored Seas - GREEN|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 "Odd-Colored Seas - GREEN"<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Here you have it... the fruits of Akashi's hard work last night, nya!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 pouts... Don't act like I didn't hear that. I helped with the technical stuff...<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Whew! Brand spankin' new equipment! And what's more - it's super epic and exclusive to us!<br>
 Akashi, Yuubari, thank you very much. I'll be sure to treasure it!<br>
 Wooahh! Badass! Is this a cannon? Ah this thing shoots torpedoes too! I can't wait to unload all these explosives into someone's face!<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Nya nya nya! Don't point those at other people!<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Sorry, sorry! I'll be more careful!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Your ship rigging can be controlled freely with just your thoughts. As long as you don't space out, there shouldn't be any risk of misfiring... Woah, don't point those guns over here!<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Mine seems to be different from Neptune's, with these main turrets. This one focuses on heavy firepower, doesn't it? The color also matches, not bad!<br>
@@ -105,13 +105,13 @@ This rigging fits my image nicely... it has a nice white theme. Looks like it fo
 <span style="color:#4eb24e;">Vert：</span><br>
 Are these carrier aircraft? And this rigging lets you launch them? What's more, these planes are adorable. It's a perfect fit for me!<br>
 ... Say, is it possible to make these planes into cute girls?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 There would be an additional charge, nya.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Vert, you're the same as ever, even over here.<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Then, then, can I turn my torpedoes into cute dolphins?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 You can purchase these exclusive equipment skin boxes. The pricing goes something like this...<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Save that discussion for later! Our first priority should be to take care of those clones.<br>
@@ -159,7 +159,7 @@ It would appear that is the case.<br>
 In any case, I will do my best to re-open the wormhole. Everyone, make sure to be careful.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 We also heard the communication over here. It seems that we're getting closer to unveiling whoever is behind this incident.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Surely... it's the work of the Sirens...<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 So those fakes were made using the data of Nep Nep and her friends?<br>
@@ -169,7 +169,7 @@ Sirens? I don't really get it, but they sure sound like an insidious bunch. But 
 Sirens... always cheat...<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
 Don't sweat it! There's no way we can lose. We'll definitely win!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Ohh, what amazing, baseless confidence!<br>
 <span style="color:#4eb24e;">Blanc：</span><br>
 ... Don't take her too seriously. There's no proof.<br>
@@ -194,7 +194,7 @@ Nep?! It's Histy's voice!<br>
 It's too early to celebrate. Don't you still have something to do?<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 But didn't we already eliminate those clones from the Mirror Sea?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 That may be the case but... what if, that alone isn't enough?<br>
 <span style="color:#4eb24e;">Histoire：</span><br>
 Mm, correct. We still need a lot more data.<br>
@@ -212,7 +212,7 @@ That's correct. For the time being, please continue to investigate the Mirror Se
 It's fine, it's fine! Histy's always like that.<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 She just drops the important details and then is all like "I'll leave the rest with you," before bouncing.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ... She's a bit like our commander.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 Mmhmm. After the fleet formation is set up, we just get a "do your best, everyone," or something like that.<br>
@@ -241,7 +241,7 @@ Hmph... isn't that obvious? These frickin' clones are creepy as hell.<br>
 We have to mop them up as fast as we can... Come to think of it, Vert, you didn't hold back against your clone either in the previous zone.<br>
 <span style="color:#4eb24e;">Vert：</span><br>
 How do I put it... it's like hatred towards your relatives? My power kept welling up.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Somehow... that makes a lot of sense.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 We've also been fighting off clones of ourselves here... Somehow, I'm not even sure if this is being caused by someone else...<br>
@@ -297,7 +297,7 @@ Loosen up, Noire, I know~♪ After all, the commander here is sure to burn all t
 Wait, shouldn't you be taking the commander's side?<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 Ah... our commander isn't like that... Though there are some who not only burn all their fuel, but also run everyone's morale into red...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 I can see a bleak future of overwork ahead of us... I'm asking to be paid for overtime...<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Jeez, I'm surrounded by black-hearted people.<br>
@@ -313,7 +313,7 @@ Now now, everyone, let's not be so serious. It'll ruin your cute faces. Let's li
 Don't wanna~ Being surrounded by all these cute girls... this is the heaven I wanted... ehehe... (Squeeze!)<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 Awawa?! Vert, what are you doing all of a sudden?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Urk... so this is the strength... of a carrier's embrace...<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Vert, you're just like Neptune. Whether in war or peace, you two never change.<br>
@@ -347,7 +347,7 @@ Phew... we can finally go home.<br>
 This was certainly quite the novel experience... But, it looks like it's time for us to go...<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 Nep-Nep, do you all really have to go?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 You don't need to be in such a hurry... it's fine to stay at the academy a bit longer...<br>
 <span style="color:#4eb24e;">Noire：</span><br>
 Sorry, everyone. As CPUs, we can't be away from Gamindustri for too long.<br>
@@ -389,7 +389,7 @@ No, no, don't hesitate to come at any time. We'll always welcome you.<br>
 If that's the case, your big sister is going to come see you cuties every day!<br>
 <span style="color:#4eb24e;">Blanc：</span><br>
 ... Vert's really going end up stuck here, so it's best to not be too courteous to her.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ... Mm, I'll be waiting for everyone to come.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 When that time comes, will you all fight alongside Javelin again?<br>

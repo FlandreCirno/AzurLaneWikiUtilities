@@ -25,7 +25,7 @@ Bagley, please come with me! We've got trouble!<br>
 Though the enemies were not numerous, Chicago and Bagley found themselves outnumbered as they pressed forward. By the time they reached the enemy's main force, they had already sustained many injuries.<br>
 <span style="color:#4eb24e;">Chicago：</span><br>
 You sure have some guts to attack with a force this small. I suppose this is what they mean when they talk about the Sakura Empire's fearsome valor.<br>
-<span style="color:#4eb24e;">{{AF|Kako}}：</span><br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 A small fighting force is just what we need to carry out a surprise attack, is that not obvious? Or rather, should I say that your defenses were astoundingly weak? We had steeled ourselves for the worst, but...<br>
 <span style="color:#4eb24e;">Chicago：</span><br>
 I hate to admit it, but you're right...<br>
@@ -33,22 +33,22 @@ I hate to admit it, but you're right...<br>
 After enduring countless air raids for several days in the harsh heat, their defenses had in fact been worn thin. But in the face of failure, these were meaningless excuses. Knowing this, Chicago simply bit her lip.<br>
 <span style="color:#4eb24e;">Chicago：</span><br>
 But there's no point babbling on. Prepare yourself!<br>
-<span style="color:#4eb24e;">{{AF|Kako}}：</span><br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 You will face Kako and Kinugasa of the Sakura Empire's 6th Fleet!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Retreat|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 After a desperate defense, Chicago managed to buy time for Bagley to escape. However, she was incapacitated by the concentrated fire of the enemy cruisers and had to retreat. Bagley, alone, was powerless to stop the advance of the Sakura ships.<br>
-<span style="color:#4eb24e;">{{AF|Kinugasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:56}：</span><br>
 Even though they got away, this should be good enough, right? Doesn't seem like there are any more enemies in this area.<br>
-<span style="color:#4eb24e;">{{AF|Kako}}：</span><br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 I suppose so. Since this is a fast fleet, we can outmaneuver our enemies even if they outgun us. Besides, Tenryuu's group isn't cut out for heavy fighting.<br>
 This island is critical for us, so let's focus on clearing out any enemies that might be left.<br>
 Besides, this airfield belonged to us in the first place.<br>
-<span style="color:#4eb24e;">{{AF|Kinugasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:56}：</span><br>
 Yes, yes, I know. We should be concentrating our efforts on supporting Operation SN now, correct?<br>
-<span style="color:#4eb24e;">{{AF|Kako}}：</span><br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 If you understand, then let's go moving. Choukai and the others have already begun to engage the enemies in the north, so we should join up as soon as possible.<br>
 {{折叠面板|内容结束}}
 
@@ -117,15 +117,15 @@ Roger that!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Backup|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Kako}}：</span><br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 Choukai! We're here!<br>
-<span style="color:#4eb24e;">{{AF|Kinugasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:56}：</span><br>
 Sis, I've come to help!<br>
 <br>
 Having defeated Chicago's South Group, Kako and Kinugasa rejoined with Choukai's fleet to face Astoria and her sisters.<br>
-<span style="color:#4eb24e;">{{AF|Choukai}}：</span><br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
 Great. Furutaka, Aoba, keep firing. We're going to rebuild our lines and seize victory here and now!<br>
-<span style="color:#4eb24e;">{{AF|Aoba}}&{{AF|Furutaka}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}&{namecode:53}：</span><br>
 Understood!<br>
 {{折叠面板|内容结束}}
 
@@ -174,20 +174,20 @@ All right, let's make our final counterattack!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Overture|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Aoba}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 Phew, looks like it's over. As expected, there's no one who can match our expertise in night battles. Should we finish chasing down those transports?<br>
-<span style="color:#4eb24e;">{{AF|Furutaka}}：</span><br>
+<span style="color:#4eb24e;">{namecode:53}：</span><br>
 That's right. We didn't sustain any major injuries, so we can probably keep fighting on.<br>
-<span style="color:#4eb24e;">{{AF|Choukai}}：</span><br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
 Aoba, Furutaka, don't gloat too much. I'm wary as to why the enemies were so underprepared. Plus, their air support hasn't shown up yet, so we should consider ourselves lucky.<br>
 If the enemy air force shows up, or if their stragglers manage to regroup, we won't even have a retreat path.<br>
-<span style="color:#4eb24e;">{{AF|Kinugasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:56}：</span><br>
 You have a point. By the way, before we left, who was it yelling "I absolutely don't wanna go?"<br>
-<span style="color:#4eb24e;">{{AF|Aoba}}：</span><br>
+<span style="color:#4eb24e;">{namecode:55}：</span><br>
 W-who knows?! I have n-no clue what you're talking about~!<br>
-<span style="color:#4eb24e;">{{AF|Kako}}：</span><br>
+<span style="color:#4eb24e;">{namecode:54}：</span><br>
 If not for the fact that we sustained devastating losses at AF, we would be able to really strike hard at the enemy. But we can't afford to take any more unnecessary losses.<br>
-<span style="color:#4eb24e;">{{AF|Choukai}}：</span><br>
+<span style="color:#4eb24e;">{namecode:69}：</span><br>
 Unfortunately, there are no "if's" in the world. Let's go, there is only so much we can do tonight. It's a pity that we couldn't stop the enemies from landing, but I won't give up here.<br>
 We'll have to continue to give it our all. There will surely be a large battle around this island.<br>
 <br>

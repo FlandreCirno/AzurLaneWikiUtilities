@@ -341,25 +341,25 @@ That's the spirit! Reverse course, everyone! We're headed for AF Atoll!<br>
 {{折叠面板|标题=Intelligence and Mobilization|选项=6|主框=1|样式=primary|展开=否}}
 <br>
 New Jersey Fleet - Hours Later<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Wait, what?!<br>
 Now we've lost contact with the commander as well?<br>
-<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 It appears so. We lost contact shortly after the fleet left PH Harbor.<br>
 Speaking of which, we can't even contact the harbor either.<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Was it attacked? Or...<br>
-<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 We have no way of knowing right now.<br>
 However, there are reports of sea fog occurring in the area where we lost contact with the commander. Aerial reconnaissance has not been possible there either.<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 What about the other ships with the commander?<br>
-<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 Helena, Archerfish, and San Francisco?<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Even Helena, huh? ...Ty, if I'm not mistaken, there's been information about this sea fog in our records, right?<br>
 Like when Baltimore went missing at the canal stronghold.<br>
-<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 Yes, a similar sea fog appeared before the fleet disappeared into a Mirror Sea.<br>
 Even someone like Enterprise got caught up in the Sirens' machinations...<br>
 <span style="color:#4eb24e;">New Jersey：</span><br>
@@ -1425,26 +1425,26 @@ Three, two, one...<br>
 ―――！！<br>
 With a wave of the mysterious girl's hands, an explosion suddenly engulfed the fog-smothered emptiness in front of them.<br>
 As the Mirror Sea trembled, a gaping rift seemed to appear out of thin air.<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Where's this strong wind coming from?! It's burning hot...!<br>
 Did you crack open the Mirror Sea?!<br>
 Wait, what's on the other side of that rift? I see the outline of some ship...<br>
-<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 Is that where Commander was taken?<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 So this is what the Siren transference devices do...?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 Thank goodness it worked... The way... is now open...<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Haah... I'm not sure how you did it, but...<br>
 We'll be able to find the commander now, right?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 Yes... But look around us... We don't have much time...<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Let's hurry up then. Didn't you say you'd take us to the commander?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 Yes...<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 We're heading into that thing then?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 What do you see within that rift?<br>
@@ -1649,7 +1649,7 @@ Don't worry. Perhaps one day, their names will disappear too, like a bad nightma
 <br>
 '''''<span style="color:black;">选择项1："Let's focus on getting out of here alive first."</span>'''''<br>
 '''''<span style="color:black;">选择项2：…………</span>'''''<br>
-<span style="color:#ec5d53;">{{AF|Souryuu}}·META：</span><br>
+<span style="color:#ec5d53;">{namecode:93}·META：</span><br>
 ――――！！<br>
 <span style="color:#ff9900;">？？？：</span><br>
 ...She's coming at us! Everyone, watch out!<br>
@@ -1695,7 +1695,7 @@ We'll blast open a path to the future!<br>
 The Eagle Union ships, along with their mysterious helper, continued to tap into the powers of the Mirror Sea to whittle away at their fearsome enemy. Little by little, damage was starting to accumulate on her rigging.<br>
 Though the attacks were nowhere close to bringing the ashen ship to her knees, the movement of her aircraft became slower and more predictable.<br>
 With each passing moment, hope grew that she would eventually show a decisive weak point.<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 You're mine!!<br>
 Roar forth! Black... Dragon... Buster!!!<br>
 Woah... I can't believe I actually yelled it out... But I've never been able to muster that kind of firepower before!<br>
@@ -1703,11 +1703,11 @@ Did I actually turn her to dust in a single shot...?!<br>
 <span style="color:#ff9900;">？？？：</span><br>
 No, you didn't...<br>
 She got away...<br>
-<span style="color:#4eb24e;">{{AF|San Francisco }}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 That's fine and all, but what about the Mirror Sea control device? I don't wanna be stuck here for the rest of my life!<br>
-<span style="color:#4eb24e;">{{AF|New Jersey }}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 Wait, that's it? I poured my heart and soul into that last shot! I even embarrassed myself in front of everyone!<br>
-<span style="color:#4eb24e;">{{AF|Ticonderoga }}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 Everyone, calm down... I know you're all still excited, but we've sustained some pretty serious injuries. At least, I'm not sure I can still keep up...<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 What do we do now...?<br>

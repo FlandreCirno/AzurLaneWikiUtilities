@@ -171,7 +171,7 @@ Mhm! I hope we do! By the way, Ma'am, would you mind telling me your name?<br>
 Of course... Though it may surprise you...<br>
 <span style="color:#4eb24e;">Suruga：</span><br>
 Lady Shinano, your escorts have arrived. I advise you to return to your–<br>
-……{{AF|Shimakaze}}？<br>
+……{namecode:18}？<br>
 (So SHE'S the speedy shortie they mentioned! How'd she get on this job? And more importantly, how the hell did she get into Lady Shinano's back garden?!)<br>
 What are you doing out here?<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -239,19 +239,19 @@ Wait, there is?! All right then! I'll be back before you know it!<br>
 <br>
 As the party approached the island, a huge building towered above the water.<br>
 In front of them was a lavish castle with pristine white walls, waterways flowing from a central spire like roads of cascading blue.<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 K-Katsuragi, any idea what this is...?!<br>
-<span style="color:#4eb24e;">{{AF|Katsuragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}：</span><br>
 Just as lost as you are! However, using my extensive aircraft carrier knowledge of castles, I would have to surmise that what we're looking at iiiis...<br>
-<span style="color:#4eb24e;">{{AF|Yamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:207}：</span><br>
 I dunno, looks like the legendary Dragon Palace to me!<br>
-<span style="color:#4eb24e;">{{AF|Katsuragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}：</span><br>
 Yeah, exactly what I was going to say! Shimakaze, let's tell Chikuma that we found something real amazing!<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Sure thing! Chikuma, can you hear me?<br>
-<span style="color:#4eb24e;">{{AF|Chikuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:62}：</span><br>
 Loud and clear. Something to report?<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Well, we went just a little off course and came across a hereto undiscovered island, and...<br>
 <span style="color:#4eb24e;">Chikuma：</span><br>
 That's... interesting. I would ask Lady Shinano about it, but she's asleep at the moment. For now, just stay put until I manage to get in touch with her.<br>
@@ -462,7 +462,7 @@ Fine, fine. I'll be counting on you to lead the way then, Chikuma.<br>
 You got it. Hehe, I guess that makes us Team Chikuma?<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
 You're on! We'll be Team Shimakaze then!<br>
-<span style="color:#4eb24e;">{{AF|Katsuragi}}&{{AF|Yamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}&{namecode:207}：</span><br>
 Aye aye!<br>
 <span style="color:#4eb24e;">Umikaze：</span><br>
 Aye... aye?<br>
@@ -670,7 +670,7 @@ Yura, hurry up and push through the opening Suruga made for us!<br>
 (With how long we're taking, Shimakaze's probably getting ready to lap us by now...)<br>
 Let's bust our way out of here, finish our mission, and then go back home already...!<br>
 <span style="color:#4eb24e;">Chikuma：</span><br>
-……{{AF|Suruga}}？<br>
+……{namecode:175}？<br>
 <span style="color:#4eb24e;">Suruga：</span><br>
 Gaaah! Forget it, let's just keep going.<br>
 {{折叠面板|内容结束}}
@@ -1279,7 +1279,7 @@ Supposing we defeat you, should we not also receive the Palace's "treasure" and 
 I haven't a clue what you're talking about. Just fight me already, will you?<br>
 <span style="color:#4eb24e;">Chikuma：</span><br>
 I suppose the only way we'll find out more is not by engaging her in conversation, but in battle...<br>
-{{AF|Suruga}}~<br>
+{namecode:175}~<br>
 <span style="color:#4eb24e;">Suruga：</span><br>
 4 pedestals... Maybe they each house a Palace mechanism?<br>
 <span style="color:#ec5d53;">Hakuryuu：</span><br>
@@ -1320,32 +1320,32 @@ Got it!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Treasure of Verdant Gales |选项=29|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 This looks like the pedestal of rejuvenation! We'll start off with this one!<br>
 What the... It's a lot harder to see once you get close to it...!<br>
 Okay, do as Eugen showed you... Under there... This goes here...<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "Answer me this..."<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Whuah?! Wh-who said that?!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "What motivated you to come this far?"<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Well... my friends! They're fighting for dear life right now, and I'm doing this so I can save them!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "The treasure of the verdant gales is only for the brave. Yes, you may proceed."<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 I-is that all I had to do...? All right, thank you!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Treasure of Azure Vortexes |选项=30|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 This pedestal's totally new... But it should work the same way as the rest...!<br>
 It HAS to work... Okay, this goes there... Now this...<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "Answer me this..."<br>
 "Who are your friends? Akagi's people, or the New Sakura Alliance?"<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Huh? What are either of those? Are you talking about the Great Veteran and Lady Nagato?<br>
 Hmm... The way I see it... They're all my friends!<br>
 I can only assume something happened between Akagi and the others, but that's not the end of the world...<br>
@@ -1354,17 +1354,17 @@ People can come to an understanding as long as they're willing to listen to the 
 That's what I've always believed!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "That is a brave view to hold. Yes, this treasure is yours as well."<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Thank you! We'll meet again at the next pedestal!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Treasure of Scarlet Flames |选项=31|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Umm, Ms. Disembodied Voice? I'm ready for the next question!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "Yes, of course. Answer me this..."<br>
 "When will you consider yourself victorious? What is your ultimate goal?"<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 To defeat all the Sirens and ensure the safety of our seas!<br>
 That, and to bring peace back to the Sakura Empire... No, to the whole world!<br>
 And to do this, I need the Palace's powers! Please, give me your strength!<br>
@@ -1377,23 +1377,23 @@ And to do this, I need the Palace's powers! Please, give me your strength!<br>
 "Answer me this final question..."<br>
 "..."<br>
 "Supposing the war comes to an end, what comes next for the world's shipgirls?"<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Huh? That depends on what you mean...<br>
 I can only speak for myself, but I'd like to travel all around the world... Or maybe start a dojo and teach the Shimakaze fighting style!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "The question is not about you specifically, it is about what will become of all shipgirls."<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 Hmm... Well, I don't think we exist solely to fight.<br>
 When we're not fighting, we all have fun hobbies to pursue. If there wasn't any more fighting for us to do, couldn't we just enjoy a life of peace?<br>
 As for "what will become of us," I'm afraid I don't know...<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "That is... a pleasant idea. Yes."<br>
 "I have no more questions for you. The rest of this all is Eugen's problem now."<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 What was that? It's "Eugen's problem now"? What do you mean?<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "Err, I meant... Listen closely, O brave one!"<br>
-<span style="color:#4eb24e;">{{AF|Shimakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 I-I'm all ears!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "You have acquired every treasure the Dragon Palace has to give."<br>

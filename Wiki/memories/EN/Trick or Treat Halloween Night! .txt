@@ -7,29 +7,29 @@ Trick or Treat, Halloween!<br>
 I 「In Search of Lost Ghosts!」<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Heya!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Wow~ It’s so big!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Is this the “Super Pumpkin Lantern” that we’re showing off today?<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Sure is! The pumpkin was home grown and then carved out! With everyone’s help, we were able to create such an awesome pumpkin lantern!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 By the way, I've made delicious pies stuffed with pumpkin filling inside!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Oh, I just can’t wait, let’s try out these effects, quickly!<br>
 ...Strange? Nothing’s happening? Could the lantern be malfunctioning?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}&{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:87}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Oh...this seems troublesome, the party will start shortly tonight...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 There seems to be something inside...the pumpkin’s mouth...<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Eh? Oh,gosh,you’re right! There’s a note!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 “We have lost a ghost mingling amongst us at this Halloween party, only the combined power of three virtuous witches can send it home.”<br>
 What does this mean?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}&{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:19}：</span><br>
 “Three virtuous witches”?<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Hehe, it’s time! Here comes the witch from the Rabbit Planet!<br>
@@ -37,7 +37,7 @@ Hehe, it’s time! Here comes the witch from the Rabbit Planet!<br>
 Wow, a witch really did appear!<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Let the rabbit witch help out Bailey!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}&{{AF|Kagerou}}&Cleveland：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:19}&Cleveland：</span><br>
 Ooo-ahhh~<br>
 {{折叠面板|内容结束}}
 
@@ -61,7 +61,7 @@ How is that possible! Even though it’s Halloween, but actual ghosts shouldn’
  “Pretty”, “Lucky”, let’s head over there!<br>
 Just let me, Bailey, unravel the mysteries of the hidden ghost lurking at port!<br>
 Although, “Three virtuous witches”...if you count Bailey as one of them, then who are the other two...<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Hey...ghosts or whatever, they seems so scary. B-but...<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Ah! I found a new Witch!<br>
@@ -78,17 +78,17 @@ III 「A Witch Scared of Ghosts」<br>
 How much longer...<br>
 <span style="color:#4eb24e;">Nagara：</span><br>
 What's wrong, Isuzu? Are you worried about Miss ghost that Shouhou was telling you about?<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Eh? Nagara-chan? How did you know——<br>
 <span style="color:#4eb24e;">Nagara：</span><br>
 Of course, I heard about it from Shouhou~<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 I, I really can’t do it, ghosts are just too much for me...<br>
 <span style="color:#4eb24e;">Nagara：</span><br>
 But, if Miss ghost can’t find her way back home, then she’ll wander the port area forever.<br>
 What if one day you bump into Miss ghost, wouldn’t it be more troublesome then?<br>
 Think about it this way, if you help the ghosts return home, wouldn't there be less to worry about?<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Hmm…yea, That's true...<br>
 <span style="color:#4eb24e;">Nagara：</span><br>
 You can do it, Isuzu! I believe in you~<br>
@@ -96,20 +96,20 @@ You can do it, Isuzu! I believe in you~<br>
 Back to present...<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Ack! I found a new Witch~ Hey!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Ack~!!<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Wow! You, you scared the heck outa me.<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Huh?... So it turned out to be Bailey, you are the…Witch?<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Yea~ Heehee. Is Isuzu also trying to find Miss ghost?<br>
 Hey, let me tell ya, I just heard that Miss ghost is actually in the warehouse!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Miss ghost…? Um, yes, yes I was umm searching for Miss ghost.<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Then why don’t you join me and we’ll head to the warehouse together. Let’s go~<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Yes, yes! Together!<br>
 (If I got someone to come along...then I’ll be less afraid!)<br>
 {{折叠面板|内容结束}}
@@ -140,12 +140,12 @@ Sigh...such a troublemaker...that Rodney. Half the time I don’t know what goes
 I caught the third Witch!<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Wow! -- So it turns out to be you girls...<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Is Ms. Nelson also one of the "virtuous witches" who is looking for the “Miss ghost”?<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Ha? Um, yea, sure...<br>
 (Crap, I blurted that out)<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Now all three have shown up, great...<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Then let’s head to the warehouse, Bailey heard Miss ghost is there!<br>
@@ -161,12 +161,12 @@ V 「Helper From A Coffin?」<br>
 Port area, Warehouse<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Miss ghost~! Come out, come out! Everyone is worried about you!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 If you shout like that, you’ll scare her away...<br>
 Also, it’s dark in here, I feel like something ominous will...<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Miss ghost——! Hurry...huh? What’s over there? A coffin?<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Ack! A C-Coffin?!!!!<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Let’s open it first! Allow me!<br>
@@ -174,7 +174,7 @@ Let’s open it first! Allow me!<br>
 Wait——<br>
 <span style="color:#4eb24e;">Terror：</span><br>
 Boo! Surprise, surprise~~<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Ahhhh!!!<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 O gosh, suddenly someone appeared!<br>
@@ -182,7 +182,7 @@ O gosh, suddenly someone appeared!<br>
 You are...Terror?<br>
 <span style="color:#4eb24e;">Terror：</span><br>
 Sigh…I need to practice more on how to scare people.<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 I thought it was a zombie or something, you scared me...<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 …Why are you in a coffin, Terror?<br>
@@ -191,7 +191,7 @@ Wait, why is there a coffin in the warehouse in the first place...<br>
 Terror cannot say, Terror is keeping a promise...<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Ah! Quick, look over there!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Hey, M-Miss ghost has appeared!!<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Who is it?!<br>
@@ -202,7 +202,7 @@ Wait...take this. It is “Witch’s Broomstick”.<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Wow, exactly one broomstick per person...we must catch up to that ghost!<br>
 Don’t think you can easily escape from us! I’m coming for ya!!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Bailey, don't rush...<br>
 {{折叠面板|内容结束}}
 
@@ -216,7 +216,7 @@ Over here!<br>
 No! Over there!<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Huff...puff...I can’t believe we chased her all the way to the rooftop...<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 I, I can’t run any longer...<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 There’s nowhere left for you to run. Who are you exactly? What are you up to?<br>
@@ -226,13 +226,13 @@ Miss ghost, Bailey and the others are not here to scare you, we’ve come all th
 ……<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Sh-she flew away?!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Wh-what now! We can’t fly…<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 F...Fly! I just got this broomstick! Could it be time for me to...jump!<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Wa-wait! Wait wait wait, you’ll fall off the roof if you jump.<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 She...she’s flying….she’s ACTUALLY flying?!<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Hmph, don’t think that you can escape this time!<br>
@@ -242,7 +242,7 @@ No way, what’s with this broomstick...<br>
 Hahaha~ I’m now a flying Witch~ Quick, come join me Isuzu, Nelson~<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
 Wait——<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Wahahaha! I’m actually flying! I...am...flying!<br>
 Broomstick, catch up to them…!<br>
 <span style="color:#4eb24e;">Nelson：</span><br>
@@ -260,7 +260,7 @@ Go and enjoy this feeling of flying, this is a once in a lifetime experience. Ho
 Trick or Treat, Halloween!<br>
 <br>
 VII 「Happy Halloween!」<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 Finally, I’m back on the ground...<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 We’ve finally caught up to you, Miss ghost!<br>
@@ -288,7 +288,7 @@ Terror?!<br>
 Is this typical for Halloween...I mean I knew it was going to be a prank, but I didn’t expect you girls to use the research tech from our Port laboratory.<br>
 <span style="color:#4eb24e;">Bailey：</span><br>
 Bailey really enjoyed flying in the sky! Bailey wants to do it again!<br>
-<span style="color:#4eb24e;">{{AF|Isuzu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 So, Miss ghost will not appear again...<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 Relax relax, we should consider this “Happy Halloween Trick or Treat” to be a success, nyaa~<br>

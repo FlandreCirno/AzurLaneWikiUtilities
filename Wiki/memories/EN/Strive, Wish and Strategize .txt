@@ -26,9 +26,9 @@ It's ok, those bombers are no match for our battleships, keep advancing, ready a
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Z Fleet's Counterattack|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Mogami}}：</span><br>
+<span style="color:#ff0000;">{namecode:57}：</span><br>
 It's rumored that the Army Air Corps just discovered a big catch, the Royal Navy is currently out of port.<br>
-<span style="color:#ff0000;">{{AF|Atago}}：</span><br>
+<span style="color:#ff0000;">{namecode:67}：</span><br>
 Hmmmm, after traveling halfway across the world, they finally started their attack. Let's stir things up then.<br>
 On my command! Full-speed south! Let's intercept the Z-fleet.<br>
 {{折叠面板|内容结束}}
@@ -54,12 +54,12 @@ For the Queen!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Outcome 2|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#ff0000;">{{AF|Atago}}：</span><br>
+<span style="color:#ff0000;">{namecode:67}：</span><br>
 Ahhaha~ She’s like a steel giant, so fragile while under torpedo attack. What a pity.<br>
 Our credit was stolen by the Army Air Corps, which was not expected. It seems we need to play smarter in the future.<br>
-<span style="color:#ff0000;">{{AF|Kongou}}：</span><br>
+<span style="color:#ff0000;">{namecode:70}：</span><br>
 Well, at this point, the sisters of the First, Second, and Fifth fleets should have started their attack on the other side of the ocean.<br>
-<span style="color:#ff0000;">{{AF|Atago}}：</span><br>
+<span style="color:#ff0000;">{namecode:67}：</span><br>
 Hehehe, interesting, seems the world will soon become a livelier reality.<br>
 Wait and see. A new era is about to begin.<br>
 {{折叠面板|内容结束}}

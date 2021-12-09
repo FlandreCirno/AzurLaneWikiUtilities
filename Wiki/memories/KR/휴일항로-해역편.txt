@@ -44,7 +44,7 @@
 '''''<span style="color:black;">选择项1：동의하기</span>'''''<br>
 <span style="color:#4eb24e;">재블린：</span><br>
 좋아요~ 그럼 바로 출발하겠습니다! Z23, 아야나미, 라피!<br>
-<span style="color:#4eb24e;">라피&{{AF|아야나미}}：</span><br>
+<span style="color:#4eb24e;">라피&{namecode:6}：</span><br>
 와~!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 잠, 잠깐! 이건 엄연히 조사 임무라구! 놀러가는 게 아니야!<br>
@@ -528,7 +528,7 @@
 사쿠라 엠파이어의 명예를 쟁취하는 모습을 지켜봐 주세요 ~아·카·기·선·배~<br>
 <span style="color:#4eb24e;">뇨텐구：</span><br>
 하하하~ 비록 저 멀리 타향에서 온 나이지만, 그대들의 이름인 "사쿠라 엠파이어"는 어쩐지 익숙하구나. 이것 역시 인연~ 덤벼라, 날 즐겁게 해주어라.<br>
-<span style="color:#4eb24e;">{{AF|즈이카쿠}}&{{AF|쇼카쿠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}&{namecode:95}：</span><br>
 좋아요!<br>
 <span style="color:#4eb24e;">아카시：</span><br>
 냐냐냥 전…전투 시작냥!<br>
@@ -543,7 +543,7 @@
 하지만, 우리도 더 할 수 있어!<br>
 <span style="color:#4eb24e;">뇨텐구：</span><br>
 괜찮다! 보아하니 미카사의 말이 맞구나. 기대할만한 후배다!<br>
-<span style="color:#4eb24e;">{{AF|즈이카쿠}}&{{AF|쇼카쿠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}&{namecode:95}：</span><br>
 하아아아아아아아아아아아!!!<br>
 <span style="color:#4eb24e;">아카시：</span><br>
 여기까지냥! ! 겹겹이 제한된 무장으로 이렇게까지 싸울 수 있을줄 몰랐다냥……<br>

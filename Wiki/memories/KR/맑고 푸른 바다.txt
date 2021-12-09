@@ -163,15 +163,15 @@
 <span style="color:#4eb24e;">시마카제：</span><br>
 네! 스루가공과는 함께 작전을 수행한 적이 있어요. 전투 경험이 없던 저를 스루가공이 많이 도와주셨지요!<br>
 하지만 폐도 많이 끼쳐서... 스루가공께서 시마카제를 어떻게 생각하실지 모르겠네요...<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 걱정 말거라, 너희는 분명 좋은 친구가 될 수 있을 테니.<br>
 <span style="color:#4eb24e;">시마카제：</span><br>
 정말이요?! 아! 하지만 지금은 너무 불공평해요. 저는 당신의 이름조차 모르고 있는걸요?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 나의 이름은...<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 시나노 님, 무사시 님이 보내신 호위대가 도착했습니다. 오늘 밤 연회 이후——<br>
-……{{AF|시마카제}}？<br>
+……{namecode:18}？<br>
 (설마, 설마... 치쿠마가 말한 동료가 시마카제는 아니겠지! 이곳은 시나노 님이 쉬는 정원인데, 여기서 길을 잃다니?!)<br>
 ...여기서 무엇을 하고 있죠?<br>
 <span style="color:#4eb24e;">시마카제：</span><br>
@@ -179,16 +179,16 @@
 시나노님이 어디 계신지 아세요? 어서 인사를 드려야 해요. 동료들이 기다리고 있거든요!<br>
 잠시만, 그런데 방금 다가오면서 시나노님의 이름을 부르지 않으셨나요...?<br>
 으음...?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ............<br>
 <span style="color:#4eb24e;">시마카제：</span><br>
 (기절) ............<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 기절했구나.<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 (기절했다고?! 시나노 님 앞에서 기절을 하다니?! 대체 왜 이런 일이 벌어지는 거지...)<br>
 시나노 님, 이런 모습을 보여드려서 정말 죄송합니다...<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 괜찮다. 저렇게 귀여운 아이가 있다니, 이번 여행이 꽤 재밌을 것 같구나.<br>
 {{折叠面板|内容结束}}
 
@@ -239,19 +239,19 @@
 <br>
 함대가 가까이 다가갈수록 섬의 윤곽이 뚜렷하게 드러났다.<br>
 화려한 정자와 복잡한 물길이 마치 거대한 궁전처럼 보이는 바닷속 도시였다.<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 멋있네요... 카츠라기공, 여기는 대체 뭘까요?<br>
-<span style="color:#4eb24e;">{{AF|카츠라기}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}：</span><br>
 나도 잘 모르겠어. 하지만 정규 항공모함인 내 판단에 따르면... 여기는 자연적으로 만들어진 섬이 아니야!<br>
-<span style="color:#4eb24e;">{{AF|야마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:207}：</span><br>
 전설 속 '용궁' 같은데!<br>
-<span style="color:#4eb24e;">{{AF|카츠라기}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}：</span><br>
 후후~ 시마카제, 당장 본진에 연락해서 이 대발견을 전하도록 해!<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 네—— 치쿠마공, 듣고 계세요?<br>
-<span style="color:#4eb24e;">{{AF|치쿠마}}：</span><br>
+<span style="color:#4eb24e;">{namecode:62}：</span><br>
 여기는 치쿠마, 무슨 일이죠?<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 정찰 중에 아주 이상한 섬을 하나 발견했어요——<br>
 <span style="color:#4eb24e;">치쿠마：</span><br>
 상황은 알겠어요. 시나노 님이 쉬고 계시니 잠시 뒤에 보고하도록 하죠. 여러분은 계속 정보를 수집해 주세요. 함부로 행동하면 안 됩니다. 치쿠마, 통신 종료.<br>
@@ -274,17 +274,17 @@
 {{折叠面板|标题=꿈에서 깨다|选项=5|主框=1|样式=primary|展开=否}}
 <span style="color:#ff9900;">???：</span><br>
 시간이 없어. 시나노, 대답해—— 넌 지휘관을 어떻게 생각해?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 지휘관인가... 말이 통하고 재미있는 사람이란다.<br>
 <span style="color:#ff9900;">???：</span><br>
 깨어난 이후에도 오늘 일어났던 일을 잊지 마.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 이 꿈이 곧 끝날 때가 된 것인가...<br>
 <span style="color:#ff9900;">???：</span><br>
 응. 이제 이곳을 '개조'할 거야.<br>
 네 꿈의 구체적인 원리는 모르겠지만, '개조'로 인한 충격은 네 간섭을 무너뜨릴 거야.<br>
 그렇다면 꿈도 이어지지 않겠지.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 나는 여기까지인 것 같구나. 아쉽군... 이 기묘한 여행의 끝이 궁금했는데...<br>
 <span style="color:#ff9900;">???：</span><br>
 미안.<br>
@@ -293,42 +293,42 @@
 <br>
 펑————————!<br>
 파커피크 해·사쿠라 엠파이어 주력 함대<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ................<br>
 <span style="color:#4eb24e;">카스미 ：</span><br>
 시나노 님, 몸은 괜찮아?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 또 길고 생생한 꿈을 꿨구나... 이대로 빠져들고 싶었을 정도란다.<br>
 카스미, 가서 벽람항로 지휘관의 자료를 정리해 다오.<br>
 <span style="color:#4eb24e;">카스미 ：</span><br>
 벽람항로의 그 지휘관에 대한 자료? 알았어.<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 시나노 님, 앞으로 이글 유니온과 작전이 있는 건가요?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 그런 계획에 대해서는 듣지 못했다. 지휘관에 대한 자료를 보는 것은 그저 단순한 호기심일 뿐이지.<br>
 함대의 상황은 어떻지?<br>
 <span style="color:#4eb24e;">치쿠마：</span><br>
 계획대로 메탈 블러드의 부유섬 요새로 접근하고 있습니다. 적은 없었습니다.<br>
 하지만... 정찰 함대가 전방에서 소속 불명의 인공 부유섬을 발견했다고 하더군요.<br>
 시마카제는 '용궁'이라고 보고했습니다만, 한번 봐주셔야 할 것 같습니다.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ...용궁인가. 꿈에서도 본 적이 없구나.<br>
 <span style="color:#4eb24e;">치쿠마：</span><br>
 바다 위에 저런 '이상한' 것은 대부분 세이렌의 거울 해역에 숨겨져 있곤 합니다.<br>
 이렇게 대놓고 있다면, 미끼일 가능성이 높을 것 같군요.<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 저도 세이렌의 장난질이라고 생각합니다만, 무시할까요?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 아니. 세이렌은 우리를 주목하기 시작했단다. 그러니 함정을 무방비 상태로 남겨두는 것은 위험하지.<br>
 <span style="color:#4eb24e;">치쿠마：</span><br>
 그렇다면 화력을 집중해서 없앨까요?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 시마카제의 말대로 용궁이라면 없애는 것도 아깝지 않으냐.<br>
 ...흠, 세이렌의 기관이라면 어쩔 수 없겠지.<br>
 치쿠마, 지원 함대를 이끌고 시마카제와 합류하거라. 그리고... 스루가도 동행하도록.<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 예? 저도요? 하지만 시나노 님의 곁에는...<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 나는 이곳에서 안전할 테니 걱정 말거라. 카스미도 있지 않으냐.<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 네, 알겠습니다.<br>
@@ -462,7 +462,7 @@
 그건 문제없어요. 그렇다면 이쪽은 치쿠마 함대라고 하죠.<br>
 <span style="color:#4eb24e;">시마카제：</span><br>
 좋아요~ 그러면 여기는 시마카제 함대예요! 시마카제 함대, 전원 스탠바이! 출격!<br>
-<span style="color:#4eb24e;">{{AF|카츠라기}}&{{AF|야마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:208}&{namecode:207}：</span><br>
 출격!<br>
 <span style="color:#4eb24e;">우미카제：</span><br>
 추... 출격!<br>
@@ -670,7 +670,7 @@
 (...전부 다 처리하고 나면 시마카제 쪽은 중심부를 한 바퀴 돌고도 남았을 것 같은데요...)<br>
 (어떤 기관이 나와도 상관없다고 말한 업보인가요, 운이 참 안 좋네요...)<br>
 <span style="color:#4eb24e;">치쿠마：</span><br>
-……{{AF|스루가 }}？<br>
+……{namecode:175}？<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 아니요... 모두, 발사하죠——!<br>
 {{折叠面板|内容结束}}
@@ -770,14 +770,14 @@
 지원을 나갔던 치쿠마 일행이 실종되었다니?! 음... 이건 심각한 일이군.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 그 용궁이 정말 사라진 건가?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 맞아. 후속 정찰에서도 그 어떤 흔적을 발견하지 못했지.<br>
 메탈 블러드 역시 의심스러운 것도 보이지 않는다고 했고.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 집 나가면 고생이라더니... 예의차 방문하려던 함대에게 이런 일이 생기다니.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
 본섬에서 지원을 보내달라고 연락을 한 것인가?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 아, 그건 아니다. 용궁이라고 하니 잠깐 물속에 잠겨있는 것일 수도 있지.<br>
 시마카제 일행이 잘 해결할 수 있을 거라고 믿고 상의를 하는 것이지.<br>
 오늘 벽람항로의 지휘관과 관련된 꿈을 꾸었다.<br>
@@ -789,7 +789,7 @@
 <span style="color:#4eb24e;">미카사：</span><br>
 지휘관의 참전 전 정보라... 내가 알지도 모르겠어.<br>
 벽람항로 지휘부에 직속 군사 아카데미가 있다는 사실 알고 있어?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 정보로 들은 적은 있지만 구체적인 것은...<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
 인상이 있네. 오래전, 사쿠라 엠파이어 답사단의 원정 항해 신청을 승인한 적이 있다. 그런데 그때는 군사 아카데미가 아니었던 것 같은데?<br>
@@ -808,7 +808,7 @@
 그 공식 방문 외에도, 퇴역 이후에 몇 번 더 여행을 다녀왔었어.<br>
 그 연구소가 군사 아카데미로 바뀌게 된 것과 비슷한 시기에 한 가지 사건이 있었어.<br>
 지휘부가 어느 테스트를 하던 중 멘탈 큐브 적응도가 매우 높은 사람을 찾았다고 하던데...<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 그런 내용은 자료에서도 본 적이 없구나.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 그래, 그런 놀라운 소식이 왜 소리 소문 없이 사라졌는지 모를 일이야.<br>
@@ -822,11 +822,11 @@
 <span style="color:#4eb24e;">카스미 ：</span><br>
 시나노 님, 방해해서 미안...<br>
 메탈 블러드 부유섬 요새의 책임자 페터 슈트라서의 연락이야. 함대 도킹에 관한 자세한 것을 얘기하고 싶대.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 알겠다.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 그럼 가서 일 봐. 잡담은 언제든지 할 수 있으니까. 나와 나가토는 아카기의 배려로 꽤 한가하거든~<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 아, 마지막으로 한 가지 더... 미카사, 혹시 지휘관을 직접 본 적이 있는가?<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 없어. 내가 바다에서 활약하던 시기에 지휘관은 아직 전장에 발도 들이지 않았는걸.<br>
@@ -1279,7 +1279,7 @@
 오만하군. 너희가 정말 나를 이긴다면 용궁의 어떤 것이던지 마음대로 가져가도 좋다.<br>
 <span style="color:#4eb24e;">치쿠마：</span><br>
 그렇게 하는 것으로 하죠. 그렇다면 우리 사쿠라 엠파이어의 신예 전함을 소개할게요. 좋은 상대가 될 겁니다.<br>
-{{AF|스루가 }}~<br>
+{namecode:175}~<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 네. (에, 에? 잠시만요?!)<br>
 <span style="color:#ec5d53;">하쿠류：</span><br>
@@ -1320,32 +1320,32 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=생기의 보물|选项=29|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 이건 적을 무한으로 나오게 하는 콘솔이었죠. 열면 무슨 일이 생길까요...<br>
 윽... 가까이서 보니까 확실히 복잡하네요!<br>
 프린츠 오이겐공이 알려준 방법은, 으으음... 먼저 이걸 누르고, 그리고————<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「질문——」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 또 그 소리예요?! 시마카제에게 물어볼 곳이 있나요?<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「너는 왜 다시 온 것이지. 왜 노력을 하는 것이지?」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 간단하죠. 동료들이 싸우고 있으니까 시마카제도 노력 중인 동료들을 위해 노력하는 거예요!<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「생기의 보물을 주겠다. 계속 나아가라.」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 고맙습니다, 누군지 모르는 분~!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=견석의 보물|选项=30|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 이건 스루가공이 만난 특수한 실드를 만드는 기관이죠...<br>
 이게 있다면 모두가 전투 중에 자신을 보호할 수 있을 거예요!<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「다시 질문——」<br>
 「동료는 무엇을 위하는 것인가, 무엇이 동료를 위하는 것인가? 아카기인가, 아니면 신생 사쿠라 엠파이어 연합인가?」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 어, 아카기공과 신생 사쿠라 엠파이어 연합에 대해서도 알고 있나요?!<br>
 음... 아카기공과 미카사공 사이의 갈등은 시마카제도 느낄 수 있어요.<br>
 하지만 동료 사이에 의견이 다른 것은 자연스러운 일이에요!<br>
@@ -1354,17 +1354,17 @@
 저는 모두를 동료로 생각하니까요!<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「그런가... 견석의 보물을 주겠다. 계속 나아가라.」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 고마워요. 다음 콘솔에서 봐요~<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=불꽃의 보물|选项=31|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 저 왔어요~ 이번 질문은 뭔가요?<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「다시 질문——」<br>
 「너는 전투에서 무엇을 원하는가? 너에게 승리는 무슨 의미인가?」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 전투에서 원하는 것이요...? 당연히 평화죠!<br>
 승리는 평화로운 바다에서 동료들과 행복하게 살기 위해서 존재해요!<br>
 그러니까 지금 눈앞의 난관을 헤쳐 나가야 해요!<br>
@@ -1377,23 +1377,23 @@
 「마지막 질문이다.」<br>
 「질문——」<br>
 「전쟁이 끝난 뒤 평화가 찾아오면 병기로서의 함선은 어떻게 될 것인가?」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 음, 그건 생각해 본 적이 없네요.<br>
 평화가 오면 찻집이라도 차릴까요? 그쪽에 흥미가 많거든요~!<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「...너에게 묻는 것이 아니다. 전투가 일어나지 않는다면 함선에 존재 의미가 있는가?」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 음... 전쟁 중이라도 전투가 우리 삶의 전부는 아니었어요.<br>
 계속 싸울 필요가 없다면 남는 시간에 다른 것을 하면 되죠.<br>
 혹시 그게 곤란한가요...?<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「...정말 좋은 목표가 왔군.」<br>
 「됐다. 내 임무는 끝났다. 골치 아픈 일은 프린츠 오이겐에게 넘기지.」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 네? 그게 무슨 말이죠? 프린츠 오이겐공에게 골치 아픈 일이 있나요?!<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「(망했다...) 시마카제여.」<br>
-<span style="color:#4eb24e;">{{AF|시마카제}}：</span><br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 네, 네!<br>
 <span style="color:#ffd000;">불가사의한 소리：</span><br>
 「이제 노도, 불꽃, 견석, 생기의 보물을 모두 너에게 주었다.」<br>
@@ -1429,7 +1429,7 @@
 파커피크 해·사쿠라 엠파이어 주력 함대<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 실종되었던 함대와 다시 연락이 닿았어. 새로운 동료를 얻었고 세이렌 부유섬을 점령했다는데?<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 그래. 용궁이 잘 보존되어 있어서 메탈 블러드가 이동 기술을 지원한다고 하더구나.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 도착하기도 전에 큰 수확을 얻었네.<br>
@@ -1441,7 +1441,7 @@
 아니, 하지만 근거 없는 소리는 아니다.<br>
 신목에 봉인되어 있던 긴 시간 동안 나는 계속 사쿠라 엠파이어의 그리움 속에 잠겨 있었지.<br>
 그리고 어느 순간, 하쿠류라고 느껴지는 존재가 나타났다? 으으음... 뭐라고 설명할 수 없는 느낌이다.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 허황되지만 손에 닿을 수 있다는 이야기구나—— 이해했다. 때때로 꿈 속에서 비슷한 감각을 느끼곤 하지.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 '감각'인가... 하하하, 난 전혀 이해 못 하겠는데.<br>
@@ -1450,7 +1450,7 @@
 음, 그렇다고 생각한다.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 그러고 보니 시나노, 그 부적은 뭐야? 어디서 많이 본 것 같은데.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 꿈에서 보았던 것이지... 분명히 꿈속에서 본 것인데, 깨어나고 난 뒤에도 생생하게 기억이 나는구나. 마치 나에게 뭔가를 일깨워주는 것 같이.<br>
 언젠가 유용하게 사용할 수 있을 것 같아 무사시가 남겨준 해약의 조각으로 만들어 보았다.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
@@ -1460,13 +1460,13 @@
 <span style="color:#4eb24e;">카스미 ：</span><br>
 시나노 님, 선봉 함대가 메탈 블러드와 합류했다고 해.<br>
 앞으로 메탈 블러드 함대의 인솔을 받아 방문을 진행할 거야.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 그래, 수고했다.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 위기는 지나간 것 같네. 그렇다면 이번 방문이 원만하게 끝날 수 있도록 빌지.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
 그래. 메탈 블러드 기지로 계속 가도록 해라, 시나노.<br>
-<span style="color:#4eb24e;">{{AF|시나노 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 고맙구나. 사쿠라 엠파이어의 이름에 누가 되지 않도록 제대로 마치고 오마.<br>
 {{折叠面板|内容结束}}
 

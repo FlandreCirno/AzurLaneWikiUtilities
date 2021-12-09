@@ -98,7 +98,7 @@ Enter: Akatsuki, The Ninja!<br>
 <br>
 Chapter 3 - A Friendly Gathering (Part 1)<br>
 Port - Office<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}&{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}&{namecode:14}：</span><br>
 Pardon the intrusion!<br>
 <span style="color:#4eb24e;">Akatsuki：</span><br>
 Ikazuchi? Inazuma? Why are you here?<br>
@@ -214,11 +214,11 @@ Looking out through the window, we noticed it was now late into the night.<br>
 <br>
 What the...?!<br>
 The lights in the office went out all of a sudden. It was pitch black.<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 Eek?! D-d-darkness?!<br>
 <br>
 Suddenly, I felt that someone was holding onto me.<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 ......<br>
 I-I-I apologize! I'm a-afraid of the dark... and I can't...<br>
 *Sob*...<br>
@@ -226,7 +226,7 @@ I-I-I apologize! I'm a-afraid of the dark... and I can't...<br>
 Akatsuki was trembling.<br>
 <br>
 '''''<span style="color:black;">选择项1：Gently embrace Akatsuki back</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 Ah...!<br>
 T-thank you...<br>
 {{折叠面板|内容结束}}
@@ -237,7 +237,7 @@ Enter: Akatsuki, The Ninja!<br>
 <br>
 Chapter 6 - In The Dark<br>
 The lights in the office had gone out, rendering it pitch black. I wasn't sure how much time had passed...<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 ......<br>
 I'm such a hopeless case...<br>
 I'm supposed to a brave nameship, yet without my rigging, I dare not tread in dark places...<br>
@@ -245,7 +245,7 @@ But... I MUST be brave! Dark places, more than anywhere else, are where ninjas s
 Guh... And yet, my legs refuse to move...<br>
 <br>
 It felt like Akatsuki was tightening her embrace of me.<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 I'm glad to have someone as kind, dependable, and mature as you, Commander.<br>
 When I'm with you, I feel the courage within me start to well up.<br>
 J-just let it well a little more, then I will clear the darkness enveloping us!<br>
@@ -253,11 +253,11 @@ J-just let it well a little more, then I will clear the darkness enveloping us!<
 ... Wait a moment, if I recall correctly, there was a flashlight lying somewhere on the desk...<br>
 <br>
 '''''<span style="color:black;">选择项1：Tell Akatsuki where it is</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 S-so I was right!<br>
 <br>
 Akatsuki let go of me then went to the desk and felt around to find the flashlight.<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 Ah! I've found it! Thank goodness!<br>
 <br>
 Akatsuki turned it on without any further delay.<br>

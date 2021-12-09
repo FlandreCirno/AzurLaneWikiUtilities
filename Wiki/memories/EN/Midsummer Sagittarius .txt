@@ -64,14 +64,14 @@ Chapter 2 - Summer's Secret Weapon?<br>
 Ping Hai! Shigure! Are you two also getting watermelon?<br>
 <span style="color:#4eb24e;">Ping Hai：</span><br>
 Mm... watermelon is delicious.<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 Javelin, huh?<br>
 Is that the newbie over there?<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 That's right, I'm showing her around!<br>
 <span style="color:#4eb24e;">Centaur：</span><br>
 Good day, Elder Shigure, Elder Ping Hai.<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 Oh, I like this one already! If you ever need any advice, Shigure's got your back!<br>
 <span style="color:#4eb24e;">Ping Hai：</span><br>
 Um... I don't remember seeing you at the kung fu school...<br>
@@ -79,16 +79,16 @@ Um... I don't remember seeing you at the kung fu school...<br>
 Haha, don't worry about it~<br>
 <span style="color:#4eb24e;">Centaur：</span><br>
 Elder Shigure's swimsuit... is very distinctive. It gives off a completely different vibe than swimsuits worn by the others...<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 You're talking about this? It's a school swimsuit! These are considered legendary where we're from!<br>
 And, I'll let you into a little secret... Commander probably has a thing for these!<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 Ehh?! Really?<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 Who knows~? I promised Yamashiro that I'd go play with her, so I'm gonna head off. If you're interested in learning more, you know where to find me~<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 It's a promise, then! Tell me more about it later!<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 Sure, sure.<br>
 <span style="color:#4eb24e;">Centaur：</span><br>
 I had no idea the Sakura Empire had developed such a powerful secret weapon...!<br>

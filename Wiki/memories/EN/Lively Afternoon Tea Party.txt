@@ -5,38 +5,38 @@
 Lively Afternoon Tea Party I<br>
 <br>
 「Ladies At 3 O’Clock」<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 Ding Dong~ Let’s begin our afternoon tea party!<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 Wait a minute, before we start I have a question. Why are we holding a tea party?<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 Typical, a Royal Navy maid wishes to know of our intentions? The reason is—— only meant for adults to know!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
-We're holding a tea party for all those hard working sisters out in the cold in order to warm them up. So no matter how tired everyone gets, {{AF|Inazuma}} will be here to greet everyone with a pot of hot tea!<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+We're holding a tea party for all those hard working sisters out in the cold in order to warm them up. So no matter how tired everyone gets, {namecode:14} will be here to greet everyone with a pot of hot tea!<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 I hope I get an opportunity to help everyone relax. What’s more, some sisters are just constantly staying in their rooms lately...<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
-{{AF|Ikazuchi}} is not always staying in her room, {{AF|Ikazuchi}} is merely just… hibernating! Yes, {{AF|Ikazuchi}} is hibernating.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+{namecode:13} is not always staying in her room, {namecode:13} is merely just… hibernating! Yes, {namecode:13} is hibernating.<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 ...Sister, you’re always telling half-truths, who’s going to believe you.<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 If you're always hiding in dark places with no light, then I'll get worried...<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
-Naturally, {{AF|Ikazuchi}} has got lamps in her room, so not to worry!<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
-...Illustrious, besides {{AF|Ikazuchi}}, where are those other introverted sisters?<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+Naturally, {namecode:13} has got lamps in her room, so not to worry!<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+...Illustrious, besides {namecode:13}, where are those other introverted sisters?<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Are you referring to the one from the North Union? Unfortunately, she is still a little shy to attend...<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 Just wait until winter, we’ll lure her out with a snowman.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 And… Miss. Hood is not coming as well?<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 She and Prince of Wales were given a rare day off, so likely she won't have time to attend this tea party.<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 Ok, if I may interrupt this chit-chat, let’s get everyone to taste the traditional afternoon tea from the Sakura Empire.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
-Please have a try of {{AF|Ikazuchi}}'s signature dish.<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+Please have a try of {namecode:13}'s signature dish.<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 O, I’ve been highly anticipating this~<br>
 <span style="color:#4eb24e;">Royal Navy：</span><br>
@@ -45,15 +45,15 @@ O, I’ve been highly anticipating this~<br>
 —— Why is this so bitter! My eyes are getting watery! There must be some kind of dark chocolate inside!<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Hmm… so this is what matcha tastes like. It really is a unique flavour~<br>
-Huh, {{AF|Akatsuki}} did not come? She shouldn’t be on a mission today, right?<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+Huh, {namecode:11} did not come? She shouldn’t be on a mission today, right?<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 Sister...<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 —— She left a note and then headed out!<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 A note?<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
-I won't attend this tea party without {{AF|Hibiki}}!... {{AF|Hibiki}}, just wait, I'll definitely come get you!<br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
+I won't attend this tea party without {namecode:12}!... {namecode:12}, just wait, I'll definitely come get you!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=A Lonely Queen|选项=2|主框=1|样式=primary|展开=否}}
@@ -67,12 +67,12 @@ Thank goodness Belfast brought black tea...<br>
 As a maid of the Royal Navy, having tea on-hand is a given.<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 (Bites lip) I’m also a maid, so, so… tea should be a must-have?<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 After tasting the bitterness of matcha, I will cherish even more the sweetness of other foods.<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Having black tea after tasting matcha tea, what an opportunity to compare the two flavours.<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
-{{AF|Ikazuchi}} also wants to try the black tea prepared by Belfast!<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+{namecode:13} also wants to try the black tea prepared by Belfast!<br>
 <span style="color:#4eb24e;">???：</span><br>
 Wait, wait for me——!<br>
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
@@ -92,10 +92,10 @@ No matter, if you’ll tell me bedtime stories every night henceforth then I sha
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 Here~ this tea was especially prepared for you by the Sakura Empire. I hope that your Majesty likes it~<br>
 <br>
-At the same time, {{AF|Akatsuki}}...<br>
+At the same time, {namecode:11}...<br>
 [North Latitude 34° East Longitude 140°]<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
-A single person alone can be a bit… but——Ninja {{AF|Akatsuki}} will never give up even if I'm facing danger alone! Here I come, North Union!<br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
+A single person alone can be a bit… but——Ninja {namecode:11} will never give up even if I'm facing danger alone! Here I come, North Union!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Morning Rays of Sun|选项=3|主框=1|样式=primary|展开=否}}
@@ -133,7 +133,7 @@ Hmm… we still got some time left, let me enjoy glancing at your Majesty’s fa
 Hehe~ That sleeping face your Majesty makes is so cute~<br>
 <br>
 Back at the tea party——<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 This snack is delicious, who made this?<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 ...<br>
@@ -145,18 +145,18 @@ Oh? I thought you made them, Belfast. Both of you make very similar tea and snac
 Hehehehe….<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 Haha, I'll take that as a compliment.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 This snack tastes… how should I put it—— right. You can taste all love and effort from you sisters.<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
-{{AF|Inazuma}}, don't look at me that way, enough I get it already, I'll learn how to bake scones the way Edinburgh makes it—— Even though I might not be able to make it as tasty.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+{namecode:14}, don't look at me that way, enough I get it already, I'll learn how to bake scones the way Edinburgh makes it—— Even though I might not be able to make it as tasty.<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 It’s ok, I can wait, not matter how long it takes for you to learn to bake this!<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 ...<br>
 <br>
-At the same time, {{AF|Akatsuki}}...<br>
+At the same time, {namecode:11}...<br>
 [North Latitude 28° East Longitude 167°]<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 Should the northern side of the Sakura Empire be this warm… might be caused by greenhouse effects, scary!<br>
 {{折叠面板|内容结束}}
 
@@ -203,9 +203,9 @@ Really... hehe~ Belfast, I love you sis!<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 Really now? Rushing over to hug me while I’m cracking eggs….<br>
 <br>
-At the same time, {{AF|Akatsuki}}...<br>
+At the same time, {namecode:11}...<br>
 [North Latitude 21° West Longitude 158°]<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
 It's getting hotter and hotter, my clothes are all soaked... Must be because I ran too much! A route sign ahead, Honolulu? What does this mean? No matter, as long as I keep on moving forward!<br>
 {{折叠面板|内容结束}}
 
@@ -225,11 +225,11 @@ Is this the so-called “social death”? ...so, so scary...<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 It’s nice to be with friends whenever you’re on break.<br>
 <span style="color:#4eb24e;">Ikazuchi：</span><br>
-Is that so, no, no matter, {{AF|Ikazuchi}} is also my friend!<br>
+Is that so, no, no matter, {namecode:13} is also my friend!<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Really?<br>
 <span style="color:#4eb24e;">Ikazuchi：</span><br>
-Of course! {{AF|Yuubari}}, {{AF|Nowaki}}, {{AF|Shiratsuyu}} are all my friends.<br>
+Of course! {namecode:37}, {namecode:24}, {namecode:15} are all my friends.<br>
 <span style="color:#4eb24e;">Inazuma：</span><br>
 If I remember correctly, aren't you all members of the “Afternoon Nap” club.<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
@@ -271,10 +271,10 @@ In all honesty, it’s better if you were a bit further away from her Majesty.<b
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
 (Angry) The both of you better listen carefully to what I'm about to say. I am not a destroyer!<br>
 <br>
-At the same time, {{AF|Akatsuki}}...<br>
+At the same time, {namecode:11}...<br>
 [South Latitude 2° West Longitude 139°]<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
-N-not there yet… I'm already so exhausted… {{AF|Hibiki}} is constantly living in such harsh environments... {{AF|Hibiki}}, I'll be there soon!<br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
+N-not there yet… I'm already so exhausted… {namecode:12} is constantly living in such harsh environments... {namecode:12}, I'll be there soon!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Feigned Grace|选项=6|主框=1|样式=primary|展开=否}}
@@ -351,10 +351,10 @@ Ha, this is called sharing happiness with commoners. On occasion, we should ming
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 Your Majesty, let me teach you how to roast these.~<br>
 <br>
-At the same time, {{AF|Akatsuki}}...<br>
+At the same time, {namecode:11}...<br>
 [South Latitude 71° West Longitude 100°]<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
-A continent covered in snow… The map is reliable as expected. This is the North Union! {{AF|Hibiki}}, rest assured, I am here to get you!<br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
+A continent covered in snow… The map is reliable as expected. This is the North Union! {namecode:12}, rest assured, I am here to get you!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=An Electric Tea Party?!|选项=7|主框=1|样式=primary|展开=否}}
@@ -384,19 +384,19 @@ Belfast, under the authority as your Queen, I order you to open your mouth, say 
 I really have no choice....<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 You’re really wicked your Majesty, I want to feed Belfast as well!<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}&{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}&{namecode:14}：</span><br>
 ……<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Ahh, do you all went to be fed?<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 Sorry, please excuse, I never want to be——<br>
 <span style="color:#4eb24e;">Ark Royal：</span><br>
 Ah, those sister destroyer ships have returned back to port. Sorry, I must take my leave~<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 And just like that she disappeared, those carriers from the Royal Navy are really unfathomable.<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Haha, another aircraft carrier here from the Royal Navy is still here.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 After all this is an unfathomable place...<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 ？<br>
@@ -408,17 +408,17 @@ Ah, then I'll take my leave as well.<br>
 Right, I need to continue my official duties as Queen——<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Then, let’s end the tea party here.<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
-{{AF|Inazuma}} am looking forward to the next tea party~<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+{namecode:14} am looking forward to the next tea party~<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 For next time, let’s organize a video game party. We'll bring along Long Island——<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 Absolutely—— not!<br>
 <br>
-At the same time, {{AF|Akatsuki}}...<br>
+At the same time, {namecode:11}...<br>
 [South Latitude 71°31′34″ East Longitude 24°08′17″]<br>
-<span style="color:#4eb24e;">{{AF|Akatsuki}}：</span><br>
-There’s no trace of {{AF|Hibiki}}’s lifesign. Hmm… oh look, there’s a note? Antarctic Bird Survey Station, Queen Maud Land——<br>
+<span style="color:#4eb24e;">{namecode:11}：</span><br>
+There’s no trace of {namecode:12}’s lifesign. Hmm… oh look, there’s a note? Antarctic Bird Survey Station, Queen Maud Land——<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}

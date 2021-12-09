@@ -34,31 +34,31 @@
 크리스마스 선물 대작전!<br>
 <br>
 2. 사쿠라 엠파이어의 제안<br>
-<span style="color:#92fc63;">{{AF|오오시오 }}：</span><br>
-{{AF|우라카제 }}쨩, 서두르지 마라! 쪼매만, 쪼매만 더 기다리면 금방 고를 수 있다!<br>
-<span style="color:#92fc63;">{{AF|우라카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:146}：</span><br>
+{namecode:142}쨩, 서두르지 마라! 쪼매만, 쪼매만 더 기다리면 금방 고를 수 있다!<br>
+<span style="color:#92fc63;">{namecode:142}：</span><br>
 더 기다리라니! 선물 하나 고르는데 왜 두시간 씩이나 필요한 거야!<br>
-<span style="color:#92fc63;">{{AF|오오시오 }}：</span><br>
-머릿수가 많다! 그리고 모두에게 선물을 주자고 얘기한 건 {{AF|우라카제 }}쨩 아이가.<br>
-<span style="color:#92fc63;">{{AF|우라카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:146}：</span><br>
+머릿수가 많다! 그리고 모두에게 선물을 주자고 얘기한 건 {namecode:142}쨩 아이가.<br>
+<span style="color:#92fc63;">{namecode:142}：</span><br>
 어, 어쩔 수 없네. 여기선 어른스럽게 참는 수밖에. 하지만 마지막 한 시간이야!<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 응? 사쿠라 엠파이어의 구축함들이잖아. 말다툼하는 건가?<br>
-<span style="color:#92fc63;">{{AF|오오시오 }}：</span><br>
+<span style="color:#92fc63;">{namecode:146}：</span><br>
 어라, 로열의 전함과 구축함 딸내미! 니들도 선물 사러 왔나?<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 맞아. 동료들을 위한 선물을 사러 왔어. 아직…… 뭘 사야 할지는 못 정했지만.<br>
 <span style="color:#92fc63;">시그넷：</span><br>
 아……안녕하세요……<br>
-<span style="color:#92fc63;">{{AF|오오시오 }}：</span><br>
-오? 징하게 고민하고 있나. {{AF|오오시오 }}가 도와줄 만한 게 있으면 말만 해라!<br>
-<span style="color:#92fc63;">{{AF|우라카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:146}：</span><br>
+오? 징하게 고민하고 있나. {namecode:146}가 도와줄 만한 게 있으면 말만 해라!<br>
+<span style="color:#92fc63;">{namecode:142}：</span><br>
 자기 선물도 못 골랐으면서 남을 도와주겠다니, 굉장하네!<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 우리도 너희의 시간을 뺏을 생각은 없어. 하지만 너희가 입은 옷 말이야, 이게 바로 크리스마스에 입는 옷인 거야?<br>
-<span style="color:#92fc63;">{{AF|우라카제 }}：</span><br>
+<span style="color:#92fc63;">{namecode:142}：</span><br>
 이건 내가 직접 디자인한 전국시대 스타일의 옷이야. 칭찬은 사양할게. 전부 알고 있으니까.<br>
-<span style="color:#92fc63;">{{AF|오오시오 }}：</span><br>
+<span style="color:#92fc63;">{namecode:146}：</span><br>
 내는 선물을 주는 순록이다! 봤나? 크리스마스 기분이 나제?<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 오! 직접 만든 옷이었구나. 확실히 크리스마스 분위기가 나는걸. 하지만 모두에게 줄 선물로는 안 되겠어.<br>
@@ -75,7 +75,7 @@
 아니면 저희…… 유니온 쪽으로 물어보러 갈까요? 작년에…… 선물을 많이 준비했었으니까……<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 우리의 맹우에게? 좋아. 지금은 별다른 방법이 없으니까. 그렇다면 우리는 먼저 실례하지. 메리 크리스마스!<br>
-<span style="color:#92fc63;">{{AF|오오시오 }}：</span><br>
+<span style="color:#92fc63;">{namecode:146}：</span><br>
 잘가래이, 전함 딸내미!<br>
 {{折叠面板|内容结束}}
 

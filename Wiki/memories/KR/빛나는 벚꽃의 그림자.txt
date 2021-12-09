@@ -376,20 +376,20 @@ Eisen und Blut über alles!<br>
 <span style="color:#ec5d53;">프린츠 오이겐：</span><br>
 왜 그래, 사쿠라 엠파이어의 경순양함은 고작 이 정도인가?<br>
 하찮은 재주라는 말이 인사치레는 아니었던 모양이네.<br>
-<span style="color:#4eb24e;">{{AF|노시로 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 (이 힘, 그리고 숨기지 않는 살의… 오이겐은 진심인가?!)<br>
 (상대는 손님이다. 진정해… 강함을 겨루는 자리가 아니니 여기서는 일단…)<br>
 ……대단한 전술이군요. 역시 많은 전투를 경험해본 분 답습니다.<br>
 <span style="color:#ec5d53;">프린츠 오이겐：</span><br>
 전술? 경험? 하, 약하면 죽어야지. 이렇게 간단한 도리를 사쿠라 엠파이어의 경순양함은 모르는 모양이네?<br>
 그 밖에 다른 것은, 방금 전의 너를 상대하는 데는 필요 없는 것들이었어.<br>
-<span style="color:#4eb24e;">{{AF|노시로 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 (…끝이 없군! 하지만 진정하자… 손님을 대할 때는 예의를 갖춰야 해……)<br>
 사쿠라 엠파이어의 연무는 실전까지는 아니라는 것을 이해해 주셨으면 합니다만…<br>
 <span style="color:#ec5d53;">프린츠 오이겐：</span><br>
 어라, 실망이네. 이 메탈 블러드의 맹우가 이 정도로 무능하다니.<br>
 사쿠라 엠파이어의 새로운 경순양함인데도 말이야. 정말 실망했어.<br>
-<span style="color:#4eb24e;">{{AF|노시로 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 (…………아아아, 이제 됐어. 이런 태도라니. 시나노님도 뭐라고 하지는 않으시겠지!)<br>
 프린츠 오이겐, 말이 심하네요!<br>
 계획에는 없는 일이지만, 그렇게 원하신다면 보여드리지요. 사쿠라 엠파이어의 새로운 순양함이 가진 힘을!<br>
@@ -644,7 +644,7 @@ Z2가 또 오이겐의 말을 끊었다.<br>
 손님 여러분, 괜찮습니다. 아마이와섬을 지키는 것은 저희의 일이기에 놀라지 않으셔도 돼요.<br>
 저희에게 맡겨주시길.<br>
 스루가, 노시로. 전선을 도우러 가죠.<br>
-<span style="color:#4eb24e;">{{AF|노시로 }}&{{AF|스루가 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}&{namecode:175}：</span><br>
 네!<br>
 <span style="color:#4eb24e;">류호 ：</span><br>
 여러분은 걱정 마세요. 원만한 축제를 위해 저희가 책임지고 지킬 테니까요!<br>
@@ -660,20 +660,20 @@ Z2가 또 오이겐의 말을 끊었다.<br>
 정말이지…! 하나를 처리하면 둘이 몰려오고, 세이렌 함대는 끝이란 게 없는 건가요?!<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 하하하… 첫번째 실전을 이렇게 치를 줄은 몰랐네요.<br>
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 너무 후방에 익숙해져 있었나. 평화로운 시대라는 착각을 했네요.<br>
 세이렌의 위협은 단 한 번도 사라진 적이 없는데!<br>
 여러분, 모처럼의 실전입니다. 배운 것을 마음껏 펼쳐보세요!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=장기말과의 만남|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 카스미, 키누? 그쪽은 모두 정리되었나요? 마침 잘-----<br>
-<span style="color:#4eb24e;">{{AF|스루가 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}：</span><br>
 류호, 조심하세요!<br>
-<span style="color:#ec5d53;">{{AF|카스미 }}？：</span><br>
+<span style="color:#ec5d53;">{namecode:180}？：</span><br>
 …<br>
-<span style="color:#ec5d53;">{{AF|키누 }}？：</span><br>
+<span style="color:#ec5d53;">{namecode:181}？：</span><br>
 …<br>
 <span style="color:#4eb24e;">노시로 ：</span><br>
 잠시만, 이게 무슨 짓이죠…?<br>
@@ -707,17 +707,17 @@ Z2가 또 오이겐의 말을 끊었다.<br>
 거울 해역. 세이렌이 방금 아마이와섬을 포함한 이 해역을 전부 거울 해역으로 만들었다.<br>
 <span style="color:#4eb24e;">류호 ：</span><br>
 아, 진짜 카스미와 키누군요. 무사해서 다행이에요.<br>
-<span style="color:#4eb24e;">{{AF|키누 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:181}：</span><br>
 류호의 함재기가 선회하는 것을 보고 바로 달려왔다. 서쪽의 세이렌은 이미 해치웠어.<br>
 기압이 떨어지고 바람이 약해지면서 고요해진 바다에 자신이 비춘다… 외부와의 신호는 완전 차단… 확실히 기록된 것과 똑같군요.<br>
 거울 해역은 보통 외해에 생긴다는 점이 다르지. 지금까지 연해에 비자연적으로 생겨난 사례는 없어.<br>
 곧 대규모 습격이 있을 것 같군. 류호, 지시를.<br>
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 …………<br>
 이번에는… 동쪽과 서쪽인가?<br>
-<span style="color:#4eb24e;">{{AF|노시로 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 동쪽은 분명 암초 지대라 분명 세이렌이 물 밑에서 접근할 방법이 없는걸요. 그래서 병력을 배치하지 않았는데, 이건 대체…?<br>
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 카스미, 스루가—— 저와 함께 어떻게 된 것인지 조사를 해보죠. 그리고 여러분은, 정면의 항로를 사수하세요!<br>
 <span style="color:#4eb24e;">모두들：</span><br>
 네!<br>
@@ -819,31 +819,31 @@ BigSeven·사쿠라!!<br>
 아, 나… 나가토님!!<br>
 <br>
 나가토를 본 류호, 스루가, 카스미는 일어나 예를 표했다.<br>
-<span style="color:#4eb24e;">{{AF|카스미 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:180}：</span><br>
 이… 이분이 전설의 무녀… 처음 봐…<br>
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 무녀님을 세이렌의 위협에 빠뜨리다니, 직무 유기입니다…<br>
 어째서 말도 없이 오셨는지, 알았더라면 호위를 붙였을 텐데…<br>
-<span style="color:#4eb24e;">{{AF|나가토}}：</span><br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
 이것은 이 몸… 아니, 내가 개인적으로 한 일이니 이야기하지 않았어… 일부러 그런 건 아니야…<br>
-<span style="color:#4eb24e;">{{AF|스루가 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}：</span><br>
 어쨌든 나가토님이 오셔서 정말 다행입니다. 나가토님이 오셨을 때를 대비한 축제의 플랜B도 있으니까요.<br>
-<span style="color:#4eb24e;">{{AF|나가토}}：</span><br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
 …백업 플랜?!!! 그게 뭐지?<br>
-<span style="color:#4eb24e;">{{AF|스루가 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}：</span><br>
 음… 나가토님이 한밤중까지 도착하지 않으신다면… 무녀의 혈통을 이은 야마시로님이 대신 의식을——<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
 큰일이다. 이게 목적이었구나——<br>
 카와카제, 움직일 수 있겠느냐?<br>
-<span style="color:#4eb24e;">{{AF|카와카제 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:158}：</span><br>
 움직이는 것 정도는 문제없습니다. 나가토님.<br>
-<span style="color:#4eb24e;">{{AF|나가토}}：</span><br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
 그렇다면 어서 연회에 참여하러 가자꾸나, 카와카제!<br>
-<span style="color:#4eb24e;">{{AF|카와카제 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:158}：</span><br>
 윽, 이럴 때 세이렌의 장기말인가.<br>
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 여기는 저희에게 맡기고 어서 출발하세요, 나가토님. 미카사님이 기다리고 계십니다.<br>
-<span style="color:#4eb24e;">{{AF|나가토}}：</span><br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
 그러면, 뒤는 맡기겠다!<br>
 {{折叠面板|内容结束}}
 
@@ -1044,7 +1044,7 @@ BigSeven·사쿠라!!<br>
 ——신석을 파괴하는 것이다.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=또 다른 {{AF|타카오}}|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=또 다른 {namecode:66}|选项=24|主框=1|样式=primary|展开=否}}
 <br>
 쾅!<br>
 <span style="color:#4eb24e;">즈이카쿠：</span><br>
@@ -1087,17 +1087,17 @@ BigSeven·사쿠라!!<br>
 쾅!<br>
 <span style="color:#FF5C5CFF;">？？？：</span><br>
 …지원군인가.<br>
-<span style="color:#4eb24e;">{{AF|키누 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:181}：</span><br>
 즈이카쿠, 쇼카쿠! 늦어서 미안하다!<br>
-<span style="color:#4eb24e;">{{AF|즈이카쿠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 조심해. 저 녀석, 생각보다 강해!<br>
-<span style="color:#4eb24e;">{{AF|류호 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 알겠습니다. 항공 지원은 저에게 맡기세요!<br>
-<span style="color:#4eb24e;">{{AF|스루가 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}：</span><br>
 포격 지원, 준비됐습니다!<br>
-<span style="color:#4eb24e;">{{AF|카스미 }}：</span><br>
+<span style="color:#4eb24e;">{namecode:180}：</span><br>
 카스미도… 힘낼게!!<br>
-<span style="color:#4eb24e;">{{AF|즈이카쿠}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 아아… 약간 괴롭히는 느낌이긴 하지만…<br>
 그래도 신석을 보호하기 위해선 어쩔 수 없어!!<br>
 {{折叠面板|内容结束}}

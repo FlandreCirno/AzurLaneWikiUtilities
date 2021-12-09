@@ -59,7 +59,7 @@ Lady Shinano, your escort fleet is approaching<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (Just then... I felt my consciousness slipping... Ugh...)<br>
 Ryuuhou, Noshiro, Suruga, let us prepare to set sail...<br>
-<span style="color:#4eb24e;">{{AF|Suruga}}&{{AF|Ryuuhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}&{namecode:179}：</span><br>
 Understood!。<br>
 {{折叠面板|内容结束}}
 
@@ -142,26 +142,26 @@ Of course, if anyone seeks to block our way, I shall see to it that they do not 
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=First Transformation - I|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (Did I... fall asleep...?) "Others... approach..."<br>
-<span style="color:#4eb24e;">{{AF|Kii}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 Lady Shinano, is your perception so keen even when you're asleep? Indeed, there's another Sakura Empire fleet in front of us.<br>
-<span style="color:#4eb24e;">{{AF|Suzutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:27}：</span><br>
 Let me confirm! It seems to be the munition ship, Kashino, being escorted back to the main island by Chitose and Chiyoda's group.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 "Munition ship... Kashino..."<br>
-<span style="color:#4eb24e;">{{AF|Kii}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 Hmm... I don't remember hearing anything about a transport operation. It's unusual that a munition ship would be sailing with a sortieing fleet.<br>
-<span style="color:#4eb24e;">{{AF|Kumano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 I wonder what she's carrying with her!<br>
 Kashino's been in charge of carrying stuff for Yamato-class guns, right? I know there weren't any Yamato-class ships planned after Lady Shinano, but do you think that...<br>
-<span style="color:#4eb24e;">{{AF|Suzutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:27}：</span><br>
 Curiosity kills the cat, Kumano. Weren't you specifically prohibited from talking about this stuff?<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 Suzutsuki is right. It seems that Zuikaku and Shoukaku learned something that put them at odds with Akagi. I remember how thick the tension was between them at the last festival...<br>
-<span style="color:#4eb24e;">{{AF|Kumano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 Spooky, spooky... Guess I really should leave this stuff alone~<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 But, at least we're headed in the same direction. If we work together, we'll all be safer along the way.<br>
 Will you order them to join us, Lady Shinano?<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -292,7 +292,7 @@ KABOOM——!!<br>
 <span style="color:#ec5d53;">Tester：</span><br>
 Reenactment concluded. I'm glad you came here, Shinano, but know this. Your actions alone will never change the fate of the Sakura Empire.<br>
 ...Data entry complete. And upon this timeline... nothing will change.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (What... It can't be... I...)<br>
 (I saw the dreams many times... what was going to happen... I had awoken...)<br>
 (How could this life amount to so little...)<br>
@@ -423,19 +423,19 @@ I won't permit... anyone... to get in the way of my love!!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Second Transformation - V|选项=14|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (...Akagi...)<br>
 (That black light... that black box...... Is calamity itself...)<br>
 "Akagi... Stop..."<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 ...So you finally decided to show up, Shinano.<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Shinano?! Milady, you've finally awakened?!<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 "Akagi, what you hold in your hand is calamity itself. The Sakura Empire has no need for such dark power... You must discard it."<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Ahahaha!! ...Even you're trying to lecture me? You've been hiding away all this time, sleeping away in your safe haven. What do you know?!<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 "...It was not this one's decision to slumber while the world burned."<br>
 (...Akagi thinks more of the Sakura Empire than anyone else...)<br>
 (...Yet this great passion also spawns great danger...)<br>
@@ -448,7 +448,7 @@ Ahahaha!! ...Even you're trying to lecture me? You've been hiding away all this 
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Third Transformation - I|选项=15|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (I can hear the sound of the waves... But the ocean...)<br>
 (...stings with the stench of rust, and the frigid wind bites at my skin... This nightmare...)<br>
 (...nay, this world, is unlike any I have known...)<br>
@@ -614,28 +614,28 @@ Lady Shinano, I'm entrusting you with activating our "trump card" when the time 
 {{折叠面板|标题=Third Transformation - V|选项=19|主框=1|样式=primary|展开=否}}
 <br>
 The enemy swelled like the tide itself.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (These dreams... are not clearly revealing everything to me...)<br>
 (All I know is their strength... and this abject terror...)<br>
 <br>
 She saw the Leviathan that transcended the very oceans. From its wake grew a calamitous storm that could overwhelm all existence on this planet.<br>
 <span style="color:#696969;">█ █ █ █：</span><br>
 ▊▇ ▊▇ ▊▇ ▊▇ ▊▇ ▊▇ ■■■■▋▌▊▎▇<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (This is... the enemy...?)<br>
 <br>
 She saw a colossus that could rend the sky, its body rippling like a crucible of cold steel, grinding the land into nothingness.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (......)<br>
 <span style="color:#696969;">█ █ █ █：</span><br>
 ▊▇ ▊▇ ▊▇ ▊▇ ▊▇ ▊▇ ■■■■▋▌▊▎▇ ▊▇ ▊ ▊▇ ▊ ▊▇ ▊▊▊▊▊<br>
-<span style="color:#4eb24e;">{{AF|Chiyoda}}：</span><br>
+<span style="color:#4eb24e;">{namecode:104}：</span><br>
 Lady Shinano! The escort fleet has been breached!<br>
-<span style="color:#4eb24e;">{{AF|Kashino}}：</span><br>
+<span style="color:#4eb24e;">{namecode:188}：</span><br>
 No way...! How'd the enemy get over here?!<br>
-<span style="color:#4eb24e;">{{AF|Chitose}}：</span><br>
+<span style="color:#4eb24e;">{namecode:103}：</span><br>
 They're aiming for Watatsumi! Lady Shinano, prepare yourself...!<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (My duty... is to protect the Sakura Empire... and all her peoples!)<br>
 (Nay... It is not just my duty... It is my conviction...)<br>
 (I shall fight... Until my soul is spent...!)<br>
@@ -661,7 +661,7 @@ But the flames of resistance flickered in the storm and sputtered out. Be it aft
 ——One fragment is still missing.<br>
 <span style="color:#696969;">█ █ █ █：</span><br>
 ▊▇ ▊▇ ▊▇ ▊▇ ▊▇ ▊▇ ▊▎▇ ▊▇ ▊ ▊▇ ▊ ▊▇ ▊▊▊ ▊▇ ▊▇ ▊▇<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (This was... the fate of "Shinano" within this world...)<br>
 (Why is it still not enough...)<br>
 (How many times must I witness this ruination... How long must I wallow in sorrow, emptiness, and helplessness...)<br>
@@ -669,7 +669,7 @@ But the flames of resistance flickered in the storm and sputtered out. Be it aft
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Fourth Transformation - I|选项=21|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (...Where am I...? Is this the ocean... of yet another dream...?)<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (Yukikaze... Hamakaze... Isokaze... Surely, this is... on the way to Kure...)<br>
@@ -680,7 +680,7 @@ But the flames of resistance flickered in the storm and sputtered out. Be it aft
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Fourth Transformation - II|选项=22|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Lady Shinano... Lady Shinano? What a sleepyhead you are~<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "Ah... Did this one fall asleep again...?"<br>
@@ -688,12 +688,12 @@ Lady Shinano... Lady Shinano? What a sleepyhead you are~<br>
 Sure did! You must've been having a real pleasant dream. Wouldn't even have woken up if an enemy found us!<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "What time is it...?"<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Around 0800. After detecting Union submarines, I changed our formation per your instructions.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (My body feels empty... impotent...)<br>
 (My rigging was cobbled together hastily... It's patched up haphazardly... I have no aircraft, and my engine barely responds...)<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Sorry, this was the best we could do due to how urgent this trip was. Once we return to Kure, we'll be able to finish your outfitting and equip you with some planes...<br>
 <span style="color:#4eb24e;">Isokaze：</span><br>
 The Eagle Union will be in for a shock when they see you!<br>
@@ -724,17 +724,17 @@ I see... It's not just you though, everyone seems to be having a hard time stayi
 Of course I'm getting sleepy, it's already 2200... Yukikaze, you're not tired?<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 Wa ha ha! See, Yukikaze the Great is a grown-up, so there's no way she'd doze off like you guys!<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Even though you're always the first to crash... Anyway, any updates from the scouts?<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 They haven't spotted any enemies in the three directions we sent them.<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Weird... I thought an Eagle Union submarine was chasing us... Did it give up? Let me check one more direction.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "Nay... The enemy is over there..."<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 Really? I didn't see anything when I scouted over there.<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Luckily, Yukikaze didn't run into any enemies...<br>
 <span style="color:#4eb24e;">Isokaze：</span><br>
 Lady Shinano, we're picking up that one enemy submarine again! Allow me to—<br>
@@ -759,21 +759,21 @@ Lady Shinano?<br>
 There's no way the enemy subs can keep up with Yukikaze the Great's speed! As long as we keep this up, we'll be done here in no time!<br>
 <span style="color:#4eb24e;">Isokaze：</span><br>
 Charge! Charge! Upon our honor, crush the Army of the West~♪<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 ...I don't see any "Army of the West."<br>
 <span style="color:#4eb24e;">Isokaze：</span><br>
 Hmm, Lady Shinano? What's the matter? You slowed down all of a sudden...<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "My movement... seems a bit sluggish... Even at full output..."<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 I knew it was a bad idea to push up the construction timetable...<br>
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 We're gonna be in trouble if Shinano can't outpace the submarines and they catch up to us!<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Just our luck...! I've detected their signals already!<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "Is it... the same one you mentioned earlier...?"<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Let's see... Actually, I can't even tell. We might already be surrounded...<br>
 <br>
 ——Evade. Steer away from the submarines. <br>
@@ -787,7 +787,7 @@ Let's see... Actually, I can't even tell. We might already be surrounded...<br>
 "I'm flooding... Even with the defenses of an armored carrier... How could this be..."<br>
 <br>
 KABOOM——!!<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 "From only four torpedoes? ...Impossible..."<br>
 (Defenseless... Incomplete... with no planes... On my very first journey...)<br>
 (This was my past fate... as a warship...)<br>
@@ -799,7 +799,7 @@ KABOOM——!!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Fifth Transformation - I|选项=26|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (The warm sunlight... The sound of birds chirping... The gentle aroma of the free-flowing wind...)<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (...Where am I...?)<br>
@@ -958,49 +958,49 @@ Huh? Did Shinano just disappear into thin air, nya??<br>
 (...and no Crimson Axis... Nay, this is a peaceful world in which even Azur Lane is rendered unnecessary...)<br>
 (As Akashi said, the way I am in this world... is closest to the true "Shinano"...)<br>
 (Alas, this is the "truth" that I sought... the future that avoids ruination... in which both humanity and the Sakura Empire find salvation...)<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (At last, the final fragment that I sought...)<br>
 <br>
 Suddenly, the wind picked up, carrying a flurry of cherry blossoms that seemed to dye the entire landscape. Shinano turned her head, and saw... a girl who "should not have been."<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (A...magi...? Everyone... Akagi... has wanted to see you so badly...)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Shinano? Why are you here?<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (Why... am I...)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 What's the matter? You look like you just saw a ghost... Or rather, as if you're about to cry, out of both sorrow and joy.<br>
 The Shinano I know would never show such an expression. Ehehe~<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (She's reading me...?)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 The Shinano in front of me must surely be from a distant, distant place— *cough* *cough*...<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (......!)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Don't worry. It's just my chronic health condition... From your expression, I surmise that you've never met "me" before, right?<br>
 ...After all, the Shinano here already knows about my condition, and wouldn't act this worried. Hehe~<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (............)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 I don't know why you've come here, but I can see how long you've been bitterly fighting.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (This... is just a dream... All I am here to do is to collect these fragments and seek the future...)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 But don't worry. This dream is not yours alone.<br>
 What matters most is not whether this is a dream or if it is reality— but that we are here, now, and able to experience happiness.<br>
 After all, even if this is but a fleeting dream, you can turn it into reality should you desire it.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 (...Bringing the dreams that I see... into reality...?)<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Indeed. As long as you wish it so, it shall be. The butterfly's dream is yours to behold.<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 I.........<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 You look a bit worried. Hehe~<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ...Do I...?<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Come with me then. Surely what you're looking for lies ahead.<br>
 {{折叠面板|内容结束}}
 
@@ -1105,37 +1105,37 @@ Combat situation? Um... After we left the Diadem of Light, you took a nap on one
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (This is what I remember... have I returned to reality...?)<br>
 (It is as if I know not whether I am a person who dreamt of being a butterfly, or a butterfly that dreamt of being a person...)<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 Lady Shinano, did you enjoy your vacation?<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 Indeed... 'twas a long, long dream... I apologize sincerely for worrying you...<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 There's no need to apologize.<br>
-<span style="color:#4eb24e;">{{AF|Kumano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 (Is it just me, or does Shinano seem a bit different?)<br>
-<span style="color:#4eb24e;">{{AF|Suzutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:27}：</span><br>
 (She still seems a bit sleepy... but I guess she slept well?)<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ...Is there something on my face...?<br>
-<span style="color:#4eb24e;">{{AF|Suzutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:27}：</span><br>
 Ah, um, it's nothing! Please pardon my rudeness!<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ...There's no need to be so formal... If you need anything, please let me know...<br>
-<span style="color:#4eb24e;">{{AF|Kii}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 Is it just me, or do you seem a lot more at peace, Lady Shinano?<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 ...Yes. Once again, sorry for making you worry about me...<br>
-<span style="color:#4eb24e;">{{AF|Kii}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 Ah... Ahahaha...<br>
-<span style="color:#4eb24e;">{{AF|Kumano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 Well, since it's smooth sailing ahead of us, let's kick back and relax~!<br>
-<span style="color:#4eb24e;">{{AF|Suzutsuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:27}：</span><br>
 No matter what happens, allow Suzutsuki to lay down her life for you! Just kidding~♪<br>
-<span style="color:#4eb24e;">{{AF|Kii}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 Maybe when you're flagship of the fleet, Suzutsuki~<br>
-<span style="color:#4eb24e;">{{AF|Shinano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
 Noshiro...?<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 Eh? Um... Now that I'm escorting you, of course it's my duty to protect you, Lady Shinano...<br>
 Anyway, let's focus on the road ahead of us...<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -1244,11 +1244,11 @@ I shall fight until my soul's duty is fulfilled...!<br>
 {{折叠面板|标题=Dreamwaker's Opus - V|选项=39|主框=1|样式=primary|展开=否}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 Suzutsuki, Hanazuki, watch out for the subs—<br>
-<span style="color:#4eb24e;">{{AF|Suzutsuki}}&{{AF|Hanazuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:27}&{namecode:29}：</span><br>
 Yes, Lady Shinano!<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 Chitose, Chiyoda, please focus on maintaining air superiority—<br>
-<span style="color:#4eb24e;">{{AF|Chitose}}&{{AF|Chiyoda}}：</span><br>
+<span style="color:#4eb24e;">{namecode:103}&{namecode:104}：</span><br>
 Got it!<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 Everyone else, please stand by—<br>

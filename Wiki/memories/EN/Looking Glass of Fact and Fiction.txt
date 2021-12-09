@@ -209,7 +209,7 @@ The place where we hid before we got taken here. Follow us and we'll take you th
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=The Guide|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Zuikaku}}&{{AF|Kawakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}&{namecode:158}：</span><br>
 The what? The "Hololive Resistance Base"?<br>
 <span style="color:#4eb24e;">Shirakami Fubuki：</span><br>
 You heard right! It's a place we made before we got transported here, and it somehow carried over. We've got plenty of items stocked, and might be able to resupply you with ammo and stuff!<br>
@@ -683,7 +683,7 @@ But that's for tomorrow! Right now, we need to all get some sleep.<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=At Nighttime|选项=23|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Even knowing they're just copycats, fighting enemies that look like your allies takes its toll on you. I would know.<br>
 But for them, it's even worse. This place their home, and this base looks just like one they put so much effort into making.<br>
 Which is why I feel guilty about making them go to battle amidst all this.<br>

@@ -44,7 +44,7 @@ She's right. It's best if we just go ahead and check it out for ourselves.<br>
 '''''<span style="color:black;">选择项1："Carry on with that."</span>'''''<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 All right! Z23, Ayanami, Laffey, we're heading out!<br>
-<span style="color:#4eb24e;">Laffey&{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">Laffey&{namecode:6}：</span><br>
 Woo~!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 H-hold on a minute! This should be treated as the mission it is! We're not just going there to play around!<br>
@@ -528,7 +528,7 @@ To think I was passed over for them... Oh, Commander, you can be such a prankste
 Hah! I promise we won't let you down, great and honorable Akagi~<br>
 <span style="color:#4eb24e;">Nyotengu：</span><br>
 Hehehe. The sight of you Sakura Empire lasses brings me such nostalgia. Perhaps there is a bond that connects us. Now, entertain me!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}&{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}&{namecode:95}：</span><br>
 Let's go!<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 Oh boy... Um, final round, start, nya!<br>
@@ -543,7 +543,7 @@ The legends of her power were true after all... And she still isn't going all-ou
 Maybe not, but we haven't exhausted our bag of tricks just yet!<br>
 <span style="color:#4eb24e;">Nyotengu：</span><br>
 Ooh, majestic... Just as Mikasa said, you young'uns don't disappoint!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}&{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}&{namecode:95}：</span><br>
 Hiii-yaaaaaahhhhh!<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 Aaand, stop!<br>

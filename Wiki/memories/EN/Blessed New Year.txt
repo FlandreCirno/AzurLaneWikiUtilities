@@ -18,7 +18,7 @@ We of Destroyer Division 17 shall lend you a hand! Now let us head for the kitch
 We ought to make it fast! We've still got the backyard to clean afterwards!<br>
 <span style="color:#4eb24e;">Tanikaze：</span><br>
 I don't think we should rush it; it's important to get New Year's food done right...<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 "The man who chases 2 rabbits catches neither." We have to help Akashi first!<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 Can you handle it nya...? Making zouni takes quite some time nya. I hope you're ready for that nya!<br>
@@ -28,13 +28,13 @@ Oh, shoot! I got it on my clothes!<br>
 I told you to be careful! Why would you mix it so hard?<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 Oh dear nya... Those stains aren't easy to get rid of nya...<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Isokaze just never listens to people.<br>
 <span style="color:#4eb24e;">Tanikaze：</span><br>
 Well, there's no use grumbling over it now... But that reminds me, wasn't Urakaze-chan making some new clothes?<br>
 <span style="color:#4eb24e;">Urakaze：</span><br>
 I'm not finished with them yet! And I'm only making one set anyway...<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Come on, Urakaze. You're not just going to let Isokaze spend New Year's wearing dirty clothes, are you?<br>
 <span style="color:#4eb24e;">Urakaze：</span><br>
 Fine, fine! I get it! *Sigh*, why should I have to pay for Isokaze's mistake...<br>
@@ -45,7 +45,7 @@ They're hardly a perfect fit, but of course they're cute. Though they're not fin
 <span style="color:#4eb24e;">Akashi：</span><br>
 A-anyway, all that's left is adding the mochi to the mix nya. Just let me handle that nya.<br>
 Since Urakaze-chan could go crazy if someone gets her precious clothes dirty nya...<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 We're really sorry. We said we'd help, but in the end we hardly did anything but get in the way...<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 It's okay nya! Everyone's so busy around this time of year that I appreciate almost any help I can get nya.<br>
@@ -110,7 +110,7 @@ Heh! Carriers don't stand an icicle's chance in hell against me in a snowball fi
 Wait! We just cleaned the yard, so please don't make a mess in it!<br>
 <span style="color:#4eb24e;">Yuudachi：</span><br>
 Huh? Fine... then let's do it somewhere else. Then at least we won't make a mess of the yard.<br>
-<span style="color:#4eb24e;">{{AF|Hamakaze}}：</span><br>
+<span style="color:#4eb24e;">{namecode:128}：</span><br>
 Yeah. How about the drydock nearby? It's big and not very windy. And it's been empty for a while so I'm sure nobody would mind.<br>
 <span style="color:#4eb24e;">Tanikaze：</span><br>
 That's a great idea, Hamakaze-chan! I'm starting to feel like you know everything~<br>
@@ -247,9 +247,9 @@ Whoa... these clothes... are warmer than I thought they'd be~<br>
 These decorative strings and hems... make it feel a little hard to move around.<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
 Glasses nice. No emit sparks. Hair will be ruined...<br>
-<span style="color:#4eb24e;">{{AF|Izumo}}：</span><br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
 This makes me want to perform kabuki. It's flamboyant and doesn't get in the way.<br>
-<span style="color:#4eb24e;">{{AF|Ibuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
 And I received a regular kimono. Somehow it feels relaxing to wear.<br>
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
 Now I see. These kimonos have design elements from various different factions. Hahah, how fascinating!<br>
@@ -336,7 +336,7 @@ Nya?! It's this late already nya?!<br>
 Late? Does that mean it's time we go visit a shrine?<br>
 <span style="color:#4eb24e;">Cygnet：</span><br>
 We go to a shrine, say our wishes for the year, and... Umm, I can't remember what it's called...<br>
-<span style="color:#4eb24e;">{{AF|Ibuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
 It's called a hatsumode, the first shrine visit of the year. It's said that the first wish of the year you make will always come true.<br>
 <span style="color:#4eb24e;">Montpelier：</span><br>
 New Year's wish, huh. (Whispering) I wonder if it'll really come true...<br>
@@ -348,13 +348,13 @@ No, nothing. Just that I'll keep working hard to try to be more like you.<br>
 Is there anything you're hoping will come true, Helena?<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 Huh? Me? Well...<br>
-<span style="color:#4eb24e;">{{AF|Izumo}}：</span><br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
 Hold it. If you say your wish out loud, it won't come true. Your wishes are for the gods' ears only.<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 At any rate, we'd better go now nya! The day is coming to an end nya!<br>
-<span style="color:#4eb24e;">{{AF|Izumo}}：</span><br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
 Whoa! I've never visited the port's shrine before, but I didn't expect it to be this magnificent!<br>
-<span style="color:#4eb24e;">{{AF|Ibuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
 It's marvelous that such a divine place exists on this base... I'm certain the gods will watch over it.<br>
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
 I see. I'm surprised that there'd be such an awe-inspiring building on the base's premises.<br>
@@ -371,7 +371,7 @@ So what did everyone wish for?<br>
 Uh, didn't Izumo tell us not to say our wishes out loud or they won't come true?<br>
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
 Well, people of all cultures wish for good health and happy lives. Happy new year, everyone.<br>
-<span style="color:#4eb24e;">{{AF|Ibuki}}：</span><br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
 That they do. Let's work together to restore peace and harmony to this world.<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
 ...Hah hah ha...<br>

@@ -7,29 +7,29 @@
 길 잃은 유령을 찾아서!<br>
 <span style="color:#92fc63;">클리블랜드：</span><br>
 짜잔~!<br>
-<span style="color:#92fc63;">{{AF|쇼호}}：</span><br>
+<span style="color:#92fc63;">{namecode:87}：</span><br>
 크기가 엄청나네……<br>
-<span style="color:#4eb24e;">{{AF|아야나미}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 이게 오늘 전시할 '슈퍼 펌프킨 라이트' 인가요?<br>
 <span style="color:#4eb24e;">클리블랜드：</span><br>
 그래! 호박은 재배부터 처리까지 전부 수작업한 거라고! 모두가 협력해준 덕분이야!<br>
-<span style="color:#4eb24e;">{{AF|카게로}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 참고로, 이 몸이 남은 내용물로는 호박파이를 만들었네!<br>
 <span style="color:#4eb24e;">클리블랜드：</span><br>
 더는 못 기다리겠어! 빨리 달아보자고! 라이트 업!<br>
 ……이상하네? 불이 안 들어오네? 라이트가 고장났나……<br>
-<span style="color:#4eb24e;">{{AF|아야나미}}&{{AF|쇼호}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:87}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|쇼호}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 귀찮아져뿟네… 핼러윈 파티 곧 시작한다카이…<br>
-<span style="color:#4eb24e;">{{AF|아야나미}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 호박의 입에…뭔가 있는 것 같아요.<br>
 <span style="color:#4eb24e;">클리블랜드：</span><br>
 엥? 아! 진짜다! 이거는……쪽지?<br>
-<span style="color:#4eb24e;">{{AF|쇼호}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 "길 잃은 유령이 무서워하고 있으니 라이트를 껐다. 3인의 선한 마녀가 힘을 합쳐 집까지 데려가 주길 바란다"…뭐고 이거?<br>
 뭐야 이거?<br>
-<span style="color:#4eb24e;">{{AF|아야나미}}&{{AF|카게로}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:19}：</span><br>
 "3인의 선한 마녀"?<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 토끼토끼별에서 온 어둠의 마녀 베일리, 화려하게 등장!<br>
@@ -37,7 +37,7 @@
 오오! 때마침 마녀가 등장해주다니! 이것 좀 부탁할 수 있을까……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 좋아! 이 토끼토끼 마녀 베일리에게 맡겨줘!<br>
-<span style="color:#4eb24e;">{{AF|아야나미}}&{{AF|카게로}}&클리블랜드：</span><br>
+<span style="color:#4eb24e;">{namecode:6}&{namecode:19}&클리블랜드：</span><br>
 오오오!<br>
 {{折叠面板|内容结束}}
 
@@ -61,7 +61,7 @@
 토순이, 토돌이, 여기야!<br>
 모항에 숨어있는 유령, 이 베일리가 반드시 찾아낼 테니까!<br>
 그래도 선한 마녀가 셋이나 필요하다는 건…아야나미는 "저는 선한 마녀가 아니에요" 라 하고 있고, 다른 사람들은……<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 우에에에에…유령도 역시 무서워어……그, 그치만 찾지 않으면……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 아! 새로운 마녀 발견!<br>
@@ -78,17 +78,17 @@
 얼마 전……<br>
 <span style="color:#4eb24e;">나가라：</span><br>
 이스즈, 왜 그래? 쇼호가 말한 유령이 신경쓰여서?<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 엥? 나가라 언니, 어떻게 안 거야……?<br>
 <span style="color:#4eb24e;">나가라：</span><br>
 쇼호가 알려줬거든~<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 ……아, 난 역시 안 되겠어……유령 같은 건 무리니까……<br>
 <span style="color:#4eb24e;">나가라：</span><br>
 으음, 그래도 유령이 언제까지고 집에 돌아가지 않으면, 계속 이 모항에 있게 될걸?<br>
 그러다 갑자기 이스즈의 몸에 들어와 버린다면, 이스즈도 큰일이잖아…?<br>
 그러니까, 유령을 집에 보낼 수 있으면 이스즈의 걱정도 없어지지 않을까?<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 ……그, 그렇지만……<br>
 <span style="color:#4eb24e;">나가라：</span><br>
 그러니까 이스즈, 힘내라구! 내가 응원할 테니까♪<br>
@@ -96,20 +96,20 @@
 그리고 현재……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 새로운 마녀 발견! 안녕~!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 우냐아아앗?!?!<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 우왓! 까, 깜짝 놀랐네……<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 하아하아…베, 베일리? 이 옷은…마녀야?<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 맞아♪ 에헤헤, 이스즈도 유령을 찾고 있는 거야?<br>
 있잖아, 베일리가 아까 유령이 모항의 폐창고에 있다는 걸 들었거든!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 유령…? 그, 그렇구나. 나도 유령을 찾고 있거든……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 그럼 베일리도 같이 찾을게! 자, 폐창고로 렛츠고~!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 으, 응! 같이 가자!<br>
 (동료가 있으면……그렇게 무섭진 않을 거야…!)<br>
 {{折叠面板|内容结束}}
@@ -140,12 +140,12 @@
 아! 세 번째 마녀 발견!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 누구야?! ……베일리랑 이스즈잖아…<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 넬슨씨도 유령을 찾는 '선한 마녀' 야?<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 에? 뭐, 뭐 그렇지…<br>
 (당했다! 나도 모르게 그만 대답해버렸다!)<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 후우……이걸로 셋 다 모였네…다행이다……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 그럼 다음은 베일리가 들은 정보대로, 폐창고로 가서 유령을 찾아보자!<br>
@@ -161,12 +161,12 @@
 모항 - 폐창고<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 유령아~! 나와봐~! 모두 걱정하고 있다구~!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 베, 베일리씨…큰 소리로 부르면 유령이 무서워해서 도망가는 건……<br>
 우으으…어두워……뭐 나올 거 같아……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 유령아~! 빨리……응? 이건…관?<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 우냐아앗!! 과, 관?!<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 왠지 이상하니까 열어본다! 에잇!<br>
@@ -174,7 +174,7 @@
 베일리, 잠깐……<br>
 <span style="color:#4eb24e;">테러：</span><br>
 그, 그웨에에에에~<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 우냐아아아아아아앗?!?! (털썩)<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 오오! 뭔가 나왔다!<br>
@@ -182,7 +182,7 @@
 ……테러?<br>
 <span style="color:#4eb24e;">테러：</span><br>
 우으…테러……깜짝 놀라게 하는 건, 특기가 아니에요……<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 무, 무서웠어……<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 …왜 테러가 관 안에 있는 거야? <br>
@@ -191,7 +191,7 @@
 테러, 말할 수 없어요. 비밀로 하겠다고 약속해서……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 아! 다들, 저기 봐!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 우냣?! 유령이 나타난 거야?!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 대체 누군데?!<br>
@@ -202,7 +202,7 @@
 <span style="color:#4eb24e;">베일리：</span><br>
 고마워! 하나, 둘, 셋~ 좋아, 빗자루 다 챙겼지~<br>
 토끼토끼로부턴 도망칠 수 없다구~ 베일리, 출발~!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 베일리, 기다려……<br>
 {{折叠面板|内容结束}}
 
@@ -216,7 +216,7 @@
 아아! 저기로 갔다!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 하아…하아……설마 옥상까지 쫓아갈 줄은 몰랐는데……<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 더, 더는 못 뛰겠어어……<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 그래도 이제 도망칠 곳은 없어. 자, 누구냐 넌? 무슨 목적으로 이러는 거야?<br>
@@ -226,13 +226,13 @@
 ……<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 날았어?!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 어, 어떡하지…우린 못 날잖아…?<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 날아다닌다, 플라잉, 마녀……맞다! 테러에게 받은 빗자루! 에잇!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 자, 잠깐! 이거 진짜 날 수 있을지 없을지도……<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 베일리가…하늘에 떠있네? 진짜 날 수 있는 거야?!<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 좋아! 반드시 쫓아가 주지!<br>
@@ -242,7 +242,7 @@
 하하하! 진짜 마녀가 된 거 같아! 이스즈씨, 넬슨씨도 빨리 와!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 나, 나는……<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 나, 날고 있어! 나 정말로 하늘을 날고 있어!<br>
 빗자루야, 베일리를 쫓아가 줘……!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
@@ -260,7 +260,7 @@
 장난스런 핼러윈<br>
 <br>
 해피 핼러윈!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 겨우 착지했네……<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 드디어 찾았다, 길 잃은 유령!<br>
@@ -282,13 +282,13 @@
 잠깐만, 유령은 그냥 장난이었다고 해도, 그 하늘을 나는 빗자루는……어라, 빗자루는?<br>
 <span style="color:#4eb24e;">테러：</span><br>
 빗자루는, 유바리가 회수했어요…다음 실험에 쓰기 위해……<br>
-<span style="color:#4eb24e;">넬슨&{{AF|이스즈}}&베일리：</span><br>
+<span style="color:#4eb24e;">넬슨&{namecode:48}&베일리：</span><br>
 테러!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 하아……그러니까, 이 핼러윈 장난은 테러도 모항의 과학부도 다 한패였다 이거네…<br>
 <span style="color:#4eb24e;">베일리：</span><br>
 그 빗자루로 하늘 나는 거, 정말 재밌더라! 한 번 더 타고 싶다아~!<br>
-<span style="color:#4eb24e;">{{AF|이스즈}}：</span><br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
 그, 그럼 유령은 이제 안 나타난다는 거지……?<br>
 <span style="color:#4eb24e;">아카시：</span><br>
 유령 같은 건 처음부터 없었다냥. 아무튼 '핼러윈 장난 신병기 테스트 작전' 이 무사히 종료되어 다행이다냥.<br>
@@ -305,7 +305,7 @@
 이 일의 흑막은 아카시였군……<br>
 <span style="color:#4eb24e;">아카시：</span><br>
 냐냥?! 해, 핼러윈이 끝나기 전까진 아직 시간이 남았다냥! 아카시는 신경 쓰지 말고 모두 즐겨주길 바랄게냥~!<br>
-<span style="color:#4eb24e;">베일리&{{AF|이스즈}}&테러：</span><br>
+<span style="color:#4eb24e;">베일리&{namecode:48}&테러：</span><br>
 오오~!<br>
 <span style="color:#4eb24e;">넬슨：</span><br>
 잠깐! 갑자기 딴 얘기 하지 말라고~!!<br>

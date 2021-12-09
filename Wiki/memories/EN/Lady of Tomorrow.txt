@@ -27,13 +27,13 @@ B-B-Belfast! You've shrunk! Aiiieeee!<br>
 What... what's become of you...?<br>
 <span style="color:#4eb24e;">Little Bel：</span><br>
 Hm? What are you talking about? Mesdames, I can assure you that I have not shrunk.<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Nya! I finally found you, nya! Didn't I tell you not to go running off, nya?!<br>
 <span style="color:#4eb24e;">Little Bel：</span><br>
 Oh, Madam Akashi...<br>
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
 A-A-Akashi?! Explain yourself at once!<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Well, er, okay, so it's like this, nya...<br>
 {{折叠面板|内容结束}}
 
@@ -43,49 +43,49 @@ The Miniature Head Maid<br>
 <br>
 Chapter 2 - Accidents Have Consequences<br>
 Port - A Few Days Ago<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Ready, nya?<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Yep. Just give the word.<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Hit it, nya! Commence "Wisdom Cube Composition Analysis Test #256," nya!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 It's fair to say the Wisdom Cubes are sort of like our keels.<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 If there's something wrong with your keel, you're in big trouble, nya.<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Although it's common knowledge we were born from the Wisdom Cubes, no one has ever successfully analyzed the internal composition of the cubes themselves...<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 The only way to get our hands on a Wisdom Cube is to harvest 'em, nya... They're what you'd call a "black box," nya...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 But this time is different! This time we have this!<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 This "weapon" we got from a battle with the Sirens, nya.<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 We've tentatively named it the "Focused Beam Emitter."<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 While we don't yet understand the principles at work, we do know that the device emits a heat ray with tremendous penetrative power when stimulated by a high voltage direct current, nya.<br>
 We had a little problem last time... Yuubari said we oughta try recharging it, nya. Result was a base-wide blackout, and damn near a hole in my head, nya...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 We must be willing to make sacrifices in the name of science...<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Safety comes first, nya...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 We've prepared a large capacitor to guard against any power surges this time.<br>
 So I don't expect we'll run into any such problems again...<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Let's run through the experiment one more time, nya!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 We will direct the high-energy heat ray at the Wisdom Cube in an attempt to disintegrate or penetrate it, that we may analyze its internal composition.<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Wisdom Cube and Emitter in position nya! We're gonna see some serious shit, nya...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Engaging. Countdown: three, two...<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 Madam Akashi, I've come to retrieve those docu—<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 B-Belfast, nya!? Yuubari, halt the expe—!<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 One! Firing the Emitter!<br>
 <br>
 ......<br>
@@ -97,13 +97,13 @@ The Miniature Head Maid<br>
 <br>
 Chapter 3 - Sisters?<br>
 Port - Present<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 The prismatic light dancing from the irradiated Wisdom Cube was spectacular, nya!<br>
 Belfast did take a direct hit from the beam, that was indeed a concern, nya...<br>
 But on the other hand, the results were...<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
 On the other hand?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 The Wisdom Cube we were testing just disappeared, nya!<br>
 And this little kid appeared in its place, nya...<br>
 <span style="color:#4eb24e;">Little Bel：</span><br>
@@ -124,7 +124,7 @@ Awww, does Big Bel want a hug too~?<br>
 So... does this mean there are three sisters now...?<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
 That is to say, this child is Belfast's little sister, right?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 When she first appeared, she introduced herself as "Belfast," nya.<br>
 So as not to mix them up, I wanted to call her "Bel-chan" in the Sakura Empire way, but Yuubari reminded me she ought to have a Royal Navy name, nya. Hence "Little Bel," nya.<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
@@ -152,7 +152,7 @@ Good Day, "Commander," Maid-in-Training Bel, reporting for duty.<br>
 '''''<span style="color:black;">选择项1：Ask Belfast what happened to her</span>'''''<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 I am over here, Master. This is my— No, that's not right. Rather, I am... Hmm...<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Let me explain it, nya...<br>
 Get it, nya? Things've gotten a teensy bit complicated, so I thought we'd just bring her over here, nya...<br>
 <span style="color:#4eb24e;">Little Bel：</span><br>
@@ -164,7 +164,7 @@ May I... stay here? "Commander?"<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Splendid~ You know, you're exactly as wise and as kind as the ladies said you were.<br>
 <span style="color:#4eb24e;">Little Bel：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Does that mean... I can stay? This "Commander" may be a bit odd, but all the nice things the ladies said about the Commander were true.<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 I knew the Commander wouldn't leave a kid out on the street, nya~<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
 Thank you very much, Master. As head maid, I vow to educate this child in our ways, raising her to be a truly magnificent maid.<br>
@@ -172,17 +172,17 @@ Thank you very much, Master. As head maid, I vow to educate this child in our wa
 Aye-aye! I shall do my best!<br>
 <br>
 And so, the port welcomes a new recruit...<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 But I still don't know how Little Bel came to be in the first place, nya...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Mental Cube... logrithmic casing... radiation... two similar people... radiation... ?<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Yuubari, do you have an idea, nya?<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 It's like... I almost have something... but... No, it's gone...<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
 Sounds like we've got more experiments to do, nya...<br>
-<span style="color:#4eb24e;">{{AF|Yuubari}}：</span><br>
+<span style="color:#4eb24e;">{namecode:37}：</span><br>
 Right then, how shall we conduct Test #257...?<br>
 {{折叠面板|内容结束}}
 

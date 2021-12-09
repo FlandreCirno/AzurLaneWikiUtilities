@@ -9,19 +9,19 @@
 당직도 지휘관과 비서함의 업무 중 하나이다.<br>
 이는 평상시에 기지 밖에 있는 장교들이 긴급 상황 시에 즉각 대응할 수 있도록 기지에 남아 밤을 새우는 제도이다. 하지만......<br>
 격일이 휴일이라면, "지휘관과 비서함은 이틀 동안 공동으로 행동한다"는 규칙만 준수한다면, 외출하거나 휴식을 취해도 아무런 문제가 없다.<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 지휘관? 벌써 밤 12시야. 자야하지 않겠어?<br>
 내일은 당직 설 필요 없어. 쉬기만 해, 야근은 이 누나한테 맡기렴.<br>
 <br>
-'''''<span style="color:black;">选择项1：{{AF|아타고}}에게 내일 만나자고 한다.</span>'''''<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+'''''<span style="color:black;">选择项1：{namecode:67}에게 내일 만나자고 한다.</span>'''''<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 어머, 데이트? ...... 농담이야.<br>
 그런데 “내일 나랑 쇼핑가자”라는 말은, 너무 식상하지 않아? 누나는 다른 말이 듣고 싶은데.<br>
 어쨌든 내일 특별한 일도 없는 것 같으니까 아무 때나 돌아와도 상관 없겠다. 같이 가줄게.<br>
 뭐 사고 싶어?<br>
 <br>
-'''''<span style="color:black;">选择项1：미리 준비해둔 쇼핑 리스트를 {{AF|아타고}}에게 보여준다.</span>'''''<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+'''''<span style="color:black;">选择项1：미리 준비해둔 쇼핑 리스트를 {namecode:67}에게 보여준다.</span>'''''<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 흠, 정말 “항구에선 못 구하지만, 멀리까지 찾아갈만하진 않고, 인터넷으로 구매하긴 귀찮은” 것들만 모아놨구나......<br>
 정말 꼼꼼히 준비했네. 이러면 누나도 안심하고 같이 가줄 수 있겠어<br>
 좋아, 내일 일찍 일어나야 하니까 오늘은 그만 자.<br>
@@ -34,36 +34,36 @@
 <br>
 2. 출발<br>
 다음 날·이른 아침<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 어머? 지휘관, 좋은 아침. 엄청 일찍왔네.<br>
 약속 시간보다 30분이나 일찍 왔다고? 너 설마...... 누나가 너처럼 규칙도 잘 지키고 예의도 바른 착한 아이라고 착각하는거 아니겠지?<br>
 절대 오해하지마. 이 누나가 일찍 온 이유는...... 저기 봐봐.<br>
-<span style="color:#92fc63;">{{AF|타카오}}：</span><br>
-{{AF|아타고}}? 그리고...... 지휘관  나리? 새벽 훈련을 온 것인가?<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:66}：</span><br>
+{namecode:67}? 그리고...... 지휘관  나리? 새벽 훈련을 온 것인가?<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 아니야. 아, 이거 우선 받아.<br>
 <br>
-{{AF|아타고}}가 스포츠 드링크를 꺼내 {{AF|타카오}}에게 건네줬다.<br>
-<span style="color:#92fc63;">{{AF|타카오}}：</span><br>
-고맙군. 지휘관 나리, 사실 {{AF|아타고}}는 매일 새벽 훈련할 때마다 이것을 소인에게 준다네. 일과와도 같지.<br>
+{namecode:67}가 스포츠 드링크를 꺼내 {namecode:66}에게 건네줬다.<br>
+<span style="color:#92fc63;">{namecode:66}：</span><br>
+고맙군. 지휘관 나리, 사실 {namecode:67}는 매일 새벽 훈련할 때마다 이것을 소인에게 준다네. 일과와도 같지.<br>
 처, 처음에는 거절했지만, 어떻게 말을 해도 듣지 않더군......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 어멋, 누가 투혼만 있으면 충분하다고 물도 마시지 않고 죽어라 연습했다가, 마지막 연습 때 더위에 지쳐서 나자빠졌더라?<br>
-<span style="color:#92fc63;">{{AF|타카오}}：</span><br>
+<span style="color:#92fc63;">{namecode:66}：</span><br>
 ...... 크흠! 어쨌든, 지휘관 나리는 오늘 쉬는 날 아닌가?<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
-후훗, {{AF|타카오}}, 신경 쓰는거야? 사실은......<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
+후훗, {namecode:66}, 신경 쓰는거야? 사실은......<br>
 <br>
-{{AF|아타고}}는 {{AF|타카오}}의 귓가에 대고 소곤거렸다.<br>
-<span style="color:#92fc63;">{{AF|타카오}}：</span><br>
+{namecode:67}는 {namecode:66}의 귓가에 대고 소곤거렸다.<br>
+<span style="color:#92fc63;">{namecode:66}：</span><br>
 뭣!? 지휘관 나리! 휴, 휴식이라고 해도, 구, 군인으로서 이건 아니지 않나!<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
-{{AF|타카오}}도 같이 가고 싶으면 우리 셋이 같이해도 괜찮아.<br>
-<span style="color:#92fc63;">{{AF|타카오}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
+{namecode:66}도 같이 가고 싶으면 우리 셋이 같이해도 괜찮아.<br>
+<span style="color:#92fc63;">{namecode:66}：</span><br>
 소인은 됐네!<br>
 <br>
-왜인지 모르게 화가 난  {{AF|타카오}}는 검을 거두고 뛰어가버렸다.<br>
-도대체 {{AF|아타고}}는 뭐라고 말한걸까......<br>
+왜인지 모르게 화가 난  {namecode:66}는 검을 거두고 뛰어가버렸다.<br>
+도대체 {namecode:67}는 뭐라고 말한걸까......<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=쇼핑 중 사건 발생|选项=3|主框=1|样式=primary|展开=否}}
@@ -72,40 +72,40 @@
 <br>
 3. 쇼핑 중 사건 발생<br>
 항구 근처 거리<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 엄청 오랜만에 쇼핑한 것 같네...... 지휘관 괜찮니? 아직 들 수 있지?<br>
 후훗, 미안~ 이럴 때 내가 너무 많이 들면, 다른 사람들이 이상한 시선으로 볼 수 있다고~<br>
 그런데 말이야......<br>
-<span style="color:#92fc63;">{{AF|초카이}}：</span><br>
-저건......{{AF|아타고}} 선배? 선배——!<br>
-<span style="color:#92fc63;">{{AF|마야}}：</span><br>
+<span style="color:#92fc63;">{namecode:69}：</span><br>
+저건......{namecode:67} 선배? 선배——!<br>
+<span style="color:#92fc63;">{namecode:68}：</span><br>
 와......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
-어머, {{AF|초카이}}랑 {{AF|마야}}잖아. 너희도 쇼핑하러 온거야?<br>
-<span style="color:#92fc63;">{{AF|초카이}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
+어머, {namecode:69}랑 {namecode:68}잖아. 너희도 쇼핑하러 온거야?<br>
+<span style="color:#92fc63;">{namecode:69}：</span><br>
 응! 옷 좀 사려고! 앗, 지휘관도 고생이 많네!<br>
-아, {{AF|아타고}} 선배! 이 근처에 새로 개업한 뷔페가 있다던데! 좀이따 지휘관이랑 가 봐!<br>
-그럼 우린 먼저 갈게...... {{AF|마야}} 빨리 가자!<br>
-<span style="color:#92fc63;">{{AF|마야}}：</span><br>
+아, {namecode:67} 선배! 이 근처에 새로 개업한 뷔페가 있다던데! 좀이따 지휘관이랑 가 봐!<br>
+그럼 우린 먼저 갈게...... {namecode:68} 빨리 가자!<br>
+<span style="color:#92fc63;">{namecode:68}：</span><br>
 난 뭐 사지도 않을건데...... 알았어, 잡아 끌지마! 이거놔! 간다고 가!<br>
-<span style="color:#92fc63;">{{AF|초카이}}：</span><br>
+<span style="color:#92fc63;">{namecode:69}：</span><br>
 정말 미안......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
-{{AF|마야}}가 이렇게 기분 나빠하는 건 거의 본 적이 없는데, 어떻게 된거야?<br>
-<span style="color:#92fc63;">{{AF|초카이}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
+{namecode:68}가 이렇게 기분 나빠하는 건 거의 본 적이 없는데, 어떻게 된거야?<br>
+<span style="color:#92fc63;">{namecode:69}：</span><br>
 음, 그러니까 방금 속옷을 입어봤는데, 탈의실이 하나 밖에 안남아서 둘이 같이 들어갔었거든...... 그리고 나오고 나서부터 계속 이러네......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
-그랬구나...... {{AF|마야}}, 우리 같은 이런, 뭐랄까, 발육은 그다지 좋진 않지만...... 체형은 변할 수 있어.<br>
-<span style="color:#92fc63;">{{AF|마야}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
+그랬구나...... {namecode:68}, 우리 같은 이런, 뭐랄까, 발육은 그다지 좋진 않지만...... 체형은 변할 수 있어.<br>
+<span style="color:#92fc63;">{namecode:68}：</span><br>
 그렇게 말해도...... 나도 모르겠어. 왜 나는 이런건지......<br>
 <br>
-'''''<span style="color:black;">选择项1：{{AF|마야}}를 진정시킨다.</span>'''''<br>
-<span style="color:#92fc63;">{{AF|마야}}：</span><br>
-네가 그렇게 말한다면...... 아...... {{AF|아타고}} 선배는 처음부터 컸으니까 아무런 걱정할 필요가 없지......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+'''''<span style="color:black;">选择项1：{namecode:68}를 진정시킨다.</span>'''''<br>
+<span style="color:#92fc63;">{namecode:68}：</span><br>
+네가 그렇게 말한다면...... 아...... {namecode:67} 선배는 처음부터 컸으니까 아무런 걱정할 필요가 없지......<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 (깜짝) 방금 뭐라고?<br>
-<span style="color:#92fc63;">{{AF|마야}}：</span><br>
-아, 아무것도 아니야! {{AF|초카이}} 가자!<br>
+<span style="color:#92fc63;">{namecode:68}：</span><br>
+아, 아무것도 아니야! {namecode:69} 가자!<br>
 <br>
 두 사람은 빠르게 자리를 떴다.<br>
 {{折叠面板|内容结束}}
@@ -115,29 +115,29 @@
 누나와의 일일 데이트<br>
 <br>
 4. 휴식 시간, 그 후——<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 점심도 먹었고, 살 것도 거의 다 샀지? 꽤 순조롭네?<br>
 후훗, 네 얼굴에 “이렇게 돌아가긴 아쉬운데”라는 표정 좀 봐. 가고 싶은 곳 있어?<br>
 <br>
-'''''<span style="color:black;">选择项1：{{AF|아타고}}가 결정해</span>'''''<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+'''''<span style="color:black;">选择项1：{namecode:67}가 결정해</span>'''''<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 음...... 오늘 코스는 너한테 맡긴다고 하지 않았었나? 이러면 점수 깎아야 하는데.<br>
 ...... 그냥 말해 본거야. 사실 누나는 보고 싶은게 있었거든. 괜찮으면...... 같이 갈거지?<br>
 자, 티켓. 미안, 여기저기 따라오게 해서.<br>
 <br>
 영문도 모르게 영화관까지 따라 왔다......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 음, 영화 보는 것도 오랜만이네. 사실 누나는 이런 멜로를 좋아해~<br>
 ...... 음............ 이거.............. 설마 티켓을 잘못 산건 아니겠지......?<br>
 <br>
-자세히 보니, {{AF|아타고}}가 산 티켓에 "장르: 공포"라고 적혀있었다......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+자세히 보니, {namecode:67}가 산 티켓에 "장르: 공포"라고 적혀있었다......<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 음, 아, 이런 것도 가끔은 볼 수 있지. 좋아 지휘관, 시작하겠다!<br>
 자리가...... 응, 그냥 붙어 앉으면 돼. 무서우면 누나 품에 달려들어도 돼.<br>
 정말 안되겠으면, 보다가 나가도 괜찮아. 어차피 내가 억지로 데리고 왔으니까......<br>
-절대로 {{AF|타카오}}처럼 그렇게 무리하지마. 무슨 일 있으면 누나한테 얘기해, 알았지?<br>
+절대로 {namecode:66}처럼 그렇게 무리하지마. 무슨 일 있으면 누나한테 얘기해, 알았지?<br>
 <br>
-착각인지 모르겠지만, {{AF|아타고}}의 웃는 얼굴이 매우 부자연스러워 보였다.<br>
+착각인지 모르겠지만, {namecode:67}의 웃는 얼굴이 매우 부자연스러워 보였다.<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=어둠 속|选项=5|主框=1|样式=primary|展开=否}}
@@ -146,52 +146,52 @@
 <br>
 5. 어둠 속<br>
 (덜컥 덜컥 덜컥)<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 ....................<br>
 <br>
 (쿠궁 쿠궁 쿠궁)<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 ……………<br>
 <br>
 (조용)<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 ……………<br>
 <br>
 (대——체——왜——)<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 !!!!!!!!!<br>
 <br>
 '''''<span style="color:black;">选择项1：아아악!</span>'''''<br>
 <br>
-갑자기 옆에 앉아 있던 {{AF|아타고}}가 손을 세게 꽉 쥐었다.<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+갑자기 옆에 앉아 있던 {namecode:67}가 손을 세게 꽉 쥐었다.<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 (바들바들......)<br>
 <br>
 돌아보니, 그녀는 소리 없이 고개를 숙인채——떨고 있었다.<br>
 <br>
 '''''<span style="color:black;">选择项1：그녀의 손을 꽉 잡는다.</span>'''''<br>
-'''''<span style="color:black;">选择项2：{{AF|아타고}}를 끌어 안는다.</span>'''''<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+'''''<span style="color:black;">选择项2：{namecode:67}를 끌어 안는다.</span>'''''<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''...............!<br>
 <br>
 그녀는 손을 더 꽉 쥐었다.<br>
 영화 내용은 신경쓸 겨를도 없이, 우리는 맞잡은 손으로 서로의 체온을 느낄 수 있을 뿐이었다.<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''.............지휘관.....?<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 .............응...... 나 안 무서워, 안 무서워......<br>
 <br>
-때로는 용맹하고 때로는 매혹적이지만, 항상 침착한 {{AF|아타고}}가...... 지금은 너무 연약해 보였다.<br>
-영화가 끝나고 품에서 잠이든 {{AF|아타고}}의 작은 호흡 소리가 들려왔다.<br>
+때로는 용맹하고 때로는 매혹적이지만, 항상 침착한 {namecode:67}가...... 지금은 너무 연약해 보였다.<br>
+영화가 끝나고 품에서 잠이든 {namecode:67}의 작은 호흡 소리가 들려왔다.<br>
 (한 시간 후)<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 방금 고마웠어. 이 누나라도, 귀신은 무섭더라고......<br>
 이런 말도 있잖아. 정말 완벽한 사람도 약점 한두개 정도는 있다.<br>
 누나도 똑같아. 지휘관 너도 나의 또 다른 면을 알 수 있었으니까 좋은거지. 안 그래?<br>
-아 근데, 다른 사람들에게는 절대 말하면 안돼? {{AF|타카오}} 빼고......<br>
+아 근데, 다른 사람들에게는 절대 말하면 안돼? {namecode:66} 빼고......<br>
 <br>
-다시 평상시의 {{AF|아타고}}로 돌아왔다.<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+다시 평상시의 {namecode:67}로 돌아왔다.<br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 지휘관 혼자만 아는 "비밀"이야. 아주 소중한. 그렇지? 후훗.<br>
 {{折叠面板|内容结束}}
 
@@ -201,13 +201,13 @@
 <br>
 6. 석양 아래에서의 선물<br>
 항구 근처 높은 곳<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 지휘관, 오늘 수고했어.<br>
 돌발 상황도 있었지만, 누나는 엄청 즐거웠어.<br>
 지휘관은 오늘 데이트 어땠어? 즐거웠어?<br>
 <br>
 '''''<span style="color:black;">选择项1：정말 즐거웠어.</span>'''''<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 후훗, 고마워. 그런데, 이 바다는 영원히 이렇게 아름답네.<br>
 가끔은 자신이 무엇 때문에 싸우는지 생각이 나지 않을 때도 있어. 하지만 여기에 와서 바다를 보고 있으면, 생각이 나.<br>
 ——나는, 내 자신이 가장 원하는 것을 위해 싸우는 거야.<br>
@@ -218,7 +218,7 @@
 <br>
 틀리지 않았다. 가끔은 정말 자신도 본래의 목적을 잊곤 한다.<br>
 각 세력 간의 장벽을 뛰어넘고 항구에 모인 모두들, 그녀의 신념은 과연 어떨까......<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 오늘이 지나고 나면, 내일은 일상으로 돌아가야해.<br>
 난 비서함이 아닐지도 모르고, 지휘관도 다른 사람과 어느 정도 어울리겠지.<br>
 그러니까 그 전에——<br>
@@ -234,20 +234,20 @@
 수많은 희생이 따르는 길이라고 하더라도,<br>
 조금도 고개를 돌리지 않고 마지막 순간까지 전진할 것이다.<br>
 그러니까 이번엔, 나는——<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 내가 가장 원하는 것. 바로 너야. 지휘관.<br>
 물론 잘 알아. 널 독점하는 것은 어렵다는걸, 정말 원하더라도<br>
 근데 이 누나는 바로 이런 성격이야. 지휘관도 잘 알지?<br>
 <br>
 눈 앞이 캄캄해지더니, 부드러운 촉감이 느껴졌다.<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 괜찮아. 굳이 오늘이 아니더라도.<br>
 미래에 언젠가 내게 답해줄 수만 있다면. 마지막의 마지막이더라도.——이 전쟁이 끝난 이후라도. 괜찮아.<br>
 그 순간을 위해, 난 뭐든지 해낼거야, 얼마든지 기다릴 수 있어.<br>
 나만의 지휘관——단지 이 목표만 있다면, 누나는 싸워 나갈 수 있어.<br>
 <br>
 이는 절대 미친 것이 아니며, 집착도 아니다. 그녀에게 이는 "목표"이고, "살아가게 하는 힘"이다. 단지 그 뿐이다.<br>
-<span style="color:#92fc63;">{{AF|아타고}}：</span><br>
+<span style="color:#92fc63;">{namecode:67}：</span><br>
 그러니까 한 마디 하게 해줘.<br>
 자, 지휘관, 이 누나만의 존재가 되어줘. 누나 말만 들으면, 아무것도 생각할 필요 없어......<br>
 이번만큼은, 절대 놓아주지 않겠어♪<br>

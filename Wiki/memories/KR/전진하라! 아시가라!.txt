@@ -234,7 +234,7 @@
 이상하구먼……혹시 자고 있는 겐가?<br>
 <span style="color:#92fc63;">아시가라 ：</span><br>
 어, 어떡하지…무심결에 너무 많이 접었다…지휘관 나리께는 이 정도만 보내면……<br>
-<span style="color:#92fc63;">{{AF|아시가라 }}&{{AF|카미카제}}：</span><br>
+<span style="color:#92fc63;">{namecode:144}&{namecode:124}：</span><br>
 앗…<br>
 <span style="color:#92fc63;">아시가라 ：</span><br>
 지지지지휘관 나리?!<br>
@@ -285,9 +285,9 @@
 몇 번이고 아시가라의 말을 받아주니, 움추려 있던 아시가라의 표정이 마침내 풀리기 시작했다.<br>
 <span style="color:#92fc63;">아시가라 ：</span><br>
 그럼……그럼 약속……이에요?<br>
-<span style="color:#92fc63;">{{AF|묘코}}：</span><br>
+<span style="color:#92fc63;">{namecode:63}：</span><br>
 ……너희들, 거기서 뭘 하고 있는 거야! 훔쳐듣는 건 예의범절이 아니지!<br>
-<span style="color:#92fc63;">{{AF|아오바}}：</span><br>
+<span style="color:#92fc63;">{namecode:55}：</span><br>
 망했다! 묘코잖아! ……아야야얏!<br>
 <br>
 갑자기 방문이 열리면서, 아이들 몇 명이 앞으로 넘어졌다.<br>

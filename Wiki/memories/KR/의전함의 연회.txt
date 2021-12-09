@@ -88,7 +88,7 @@
 좋아! 덤벼 보라고! 절대로 안 질 테니까!<br>
 <span style="color:#92fc63;">히에이：</span><br>
 기운 넘치는 건 좋지만…아직 임무가 안 끝났답니다. 하시려면 모항에 돌아가서 해주세요.<br>
-<span style="color:#92fc63;">{{AF|키리시마}}&{{AF|하루나}}：</span><br>
+<span style="color:#92fc63;">{namecode:73}&{namecode:72}：</span><br>
 네…<br>
 <br>
 히에이는 차분하게 말을 이어나갔지만, 두 사람은 알 수 없는 히에이의 기백에 눌려 꼬리를 내렸다.<br>
@@ -100,7 +100,7 @@
 <span style="color:#92fc63;">히에이：</span><br>
 후후, 수고라면 지휘관님께서 더 하셨지요……마침 얘기가 나와서 말입니다만,<br>
 연회를 열어보는 건 어떨까요?<br>
-<span style="color:#92fc63;">{{AF|키리시마}}&{{AF|하루나}}：</span><br>
+<span style="color:#92fc63;">{namecode:73}&{namecode:72}：</span><br>
 오오오! 히에이 씨의 연회!<br>
 <br>
 그러고 보니 그런 일이 있었지……<br>

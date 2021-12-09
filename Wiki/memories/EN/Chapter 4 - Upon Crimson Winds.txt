@@ -276,7 +276,7 @@ Anomalous weather and jammed communications... I’m afraid we’ve wandered int
 Sister, the situational clearly is abnormal. We should slow down and survey the situation first... Sister?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
 This fog... Could it be......?<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Akagi, what’s happening to you?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
 Ah, sorry, I got lost in my thoughts. What were you saying?<br>

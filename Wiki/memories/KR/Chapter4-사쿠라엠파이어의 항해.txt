@@ -276,7 +276,7 @@ NA 해역의 세이렌은 자료에서 본 것처럼 강하지 않네요.<br>
 언니, 상황이 이상한데 일단 속도를 줄이고 상황을 알아보는 것이 어떨까?<br>
 <span style="color:#4eb24e;">아카기：</span><br>
 .............................................<br>
-<span style="color:#4eb24e;">{{AF|카가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 언니?!<br>
 <span style="color:#4eb24e;">아카기：</span><br>
 아, 미안해요. 방금 뭐라고 했죠, 카가?<br>
@@ -320,26 +320,26 @@ NA 해역의 세이렌은 자료에서 본 것처럼 강하지 않네요.<br>
 이상한데... 갑자기 모두 사라지다니.<br>
 세이렌이 공격해오지 않은 것은 다행인데... 하지만 기계가 전부 작동하지 않는데다 바다안개까지 이렇게 짙은 걸 보면 조난을 당했군.<br>
 음? 잠시만, 장비가 왜 전함의 것이지...?<br>
-<span style="color:#4eb24e;">{{AF|아마기 }}？：</span><br>
+<span style="color:#4eb24e;">{namecode:161}？：</span><br>
 오랜만이에요, 카가. 좋아 보이네요. 이제는 함대를 이끌고 먼 바다에서 작전을 수행할 수 있나요?<br>
 <span style="color:#4eb24e;">카가 ：</span><br>
 아마기...?<br>
-<span style="color:#4eb24e;">{{AF|아마기 }}？：</span><br>
+<span style="color:#4eb24e;">{namecode:161}？：</span><br>
 내 동생은 잘 지내나요? 잘 돌봐달라고 부탁했는데, 지금은 어떤가요?<br>
 <span style="color:#4eb24e;">카가 ：</span><br>
 지금은...<br>
-<span style="color:#4eb24e;">{{AF|아마기 }}？：</span><br>
+<span style="color:#4eb24e;">{namecode:161}？：</span><br>
 계속 동생의 곁을 지켜줄 수 있는 존재는 나였어요. 카가, 당신이 아니라.<br>
 이렇게 된 것은 나도 원하지 않았답니다. 함대를 이끄는 것이 당신이 아니라 나였다면, 나의 동생과 사쿠라 엠파이어도 지금과 달라졌겠죠.<br>
 <span style="color:#4eb24e;">카가 ：</span><br>
 나는...<br>
-<span style="color:#4eb24e;">{{AF|아마기 }}？：</span><br>
+<span style="color:#4eb24e;">{namecode:161}？：</span><br>
 카가, 정말 실망이에요.<br>
 <br>
 펑————————!<br>
 <span style="color:#4eb24e;">카가 ：</span><br>
 윽...!<br>
-<span style="color:#ec5d53;">{{AF|아마기 }}？：</span><br>
+<span style="color:#ec5d53;">{namecode:161}？：</span><br>
 여기서 당신을 없애고 동생을 만나러 가겠어요.<br>
 그 대단한 실력을 자랑하던 카가는 어디로 갔죠? 당신의 주포는 장식인가요?<br>
 <span style="color:#4eb24e;">카가 ：</span><br>

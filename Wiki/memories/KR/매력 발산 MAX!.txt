@@ -163,11 +163,11 @@
 <br>
 날 여기로 초대한 이유는 나도 분명히 알고 있다.<br>
 사쿠라 엠파이어의 함선들은 여기서 연습전을 진행한다. 그리고 나는 이번 연습전의 심판이다.<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 흐흥, 스루가, 잘 왔어! 먼저 도망가지 않은 것을 칭찬해 주지!<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
-{{AF|키이}}……<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+{namecode:80}……<br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 이번에 또 내가 승자가 되는 건 아니겠지?<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 입만 살았군요……！<br>
@@ -177,7 +177,7 @@
 거의 때가 되었군요. 지휘관님, 부탁드리겠습니다.<br>
 <br>
 전장 내 관중들의 뜨거운 열정, 그리고 스루가와 키이의 저력을 느끼며 연습전의 시작을 알렸다.<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 나의 이 화려한 공격을 잘 봐라! 받아라!<br>
 <br>
 키이는 순식간에 움직였다. 그녀는 스루가에게 다가가며 연사했다. 단번에 끝장내려는 것 같았다.<br>
@@ -185,7 +185,7 @@
 또 이 공격인가요…… 질린다구요!<br>
 <br>
 스루가는 그동안 함께 지내면서 들어본 적 없던 날카로운 목소리를 내면서 키이의 맹공을 교묘히 피했다.<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 어떻게!? 스루가, 어떻게 된 거야!!? 이건 너답지 않아ー!!<br>
 <br>
 예상 밖의 상황에 직면하고도 여력이 있는 키이와는 대조적으로 스루가는 숨을 몰아쉬며 반격을 시도하고 있었다.<br>
@@ -196,7 +196,7 @@
 키이의 기세가 대단했지만, 스루가도 전혀 뒤지지 않고 눈에 띄었다.<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 흐아아아압!!<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 ……흐흥!<br>
 <span style="color:#4eb24e;">아마기 ：</span><br>
 ——이번에, 승부가 갈릴 것이다.<br>
@@ -209,7 +209,7 @@
 5. 자신을 보호하는 방패<br>
 모항·연습 해역<br>
 승부가 가려졌다——이번 연습전의 승자는 키이다. 스루가가 현재 비서함이라고는 해도, 공정하게 가려야 한다……<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 아하핫, 또 내가 이겼네!!<br>
 <br>
 키이는 막판에 거짓 공격을 퍼부어 스루가의 공격을 유도한 뒤, 초근거리 총탄으로 그녀를 명중시켰다. 우수함을 한눈에 알 수 있었다.<br>
@@ -218,17 +218,17 @@
 하아, 끝났네요——……<br>
 <br>
 의외로 매우 안정되어 보였다. 마치 곤란한 일에서 벗어난 듯이.<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 응? 아직도 여력이 남아 있는 것 같네?<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 ……뭐라고요?<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 내 말은, 스루가는 언제 100% 전력을 다해서 나랑 대결할 거냐는 거야.<br>
 완전히 진지한 스루가와 대결한다면, 난 힘을 120% 개방할 수 있을 것 같거든! 참, 스루가도 방금 꽤 즐거웠지? 우리 한 판 더 할까?<br>
 <span style="color:#4eb24e;">스루가 ：</span><br>
 ……당신은, 정말……!<br>
 전 지금 비서함을 겸임 중이고, 내일도 다른 업무 계획이 있으니, 귀찮은 일은 그만하죠.<br>
-<span style="color:#4eb24e;">{{AF|키이}}：</span><br>
+<span style="color:#4eb24e;">{namecode:80}：</span><br>
 우왓—. 또 이렇게 까다롭고 정당한 이유를ー……!<br>
 <br>
 사실…… 내일 특별한 업무 따위는 전혀 없었다. 역시 단순히 핑계일 뿐이었다……<br>

@@ -251,7 +251,7 @@
 아아아아~! 계속 나만 공격하지마!<br>
 <span style="color:#4eb24e;">후타미 아미：</span><br>
 니히히~ 전부 한데 모여있는 틈을 타서…… 필살기를 받아라! 궁극의 버닝 펀치!<br>
-<span style="color:#4eb24e;">후타미 마미·{{AF|아야나미}}·{{AF|후부키}}：</span><br>
+<span style="color:#4eb24e;">후타미 마미·{namecode:6}·{namecode:2}：</span><br>
 으악——!<br>
 <span style="color:#4eb24e;">후타미 아미：</span><br>
 예~ 승리는 아미꺼~!<br>
@@ -275,9 +275,9 @@
 재밌겠…네요. 바로 뽑죠.<br>
 <span style="color:#4eb24e;">후타미 아미：</span><br>
 … 다 골랐지? 그럼 한 번에 보여주는 거다… 하나, 둘~!<br>
-<span style="color:#4eb24e;">후타미 아미·{{AF|아야나미}}：</span><br>
+<span style="color:#4eb24e;">후타미 아미·{namecode:6}：</span><br>
 A팀!<br>
-<span style="color:#4eb24e;">후타미 마미·{{AF|후부키}}：</span><br>
+<span style="color:#4eb24e;">후타미 마미·{namecode:2}：</span><br>
 B팀!<br>
 <span style="color:#4eb24e;">후타미 마미：</span><br>
 좋아! 마미는 후부키랑 한 팀! 잘 부탁해~!<br>

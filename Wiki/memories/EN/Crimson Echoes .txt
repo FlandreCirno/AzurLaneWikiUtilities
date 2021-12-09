@@ -15,8 +15,8 @@ They're coming from behind?!<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
 Dammit! Call back the fighters! We need anti-air now!<br>
 Graaaaghhh!<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
-{{AF|Kaga}}，{{AF|Kaga}}！！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+{namecode:92}，{namecode:92}！！<br>
 <br>
 ............<br>
 ......<br>
@@ -27,37 +27,37 @@ To let my guard down... at such a critical time...<br>
 Amagi... san...<br>
                                                               ——Crimson Echoes<br>
 -- I remember... the events from way back...<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 *Giggle*... checkmate.<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Argh!<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 That makes this your tenth consecutive victory!<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 You dirty little...! You baited out my Gold General! You're not playing fair!<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 You focus too much on offense. Your fate was already sealed when you left your King in the middle of the board.<br>
 Let's just say that going on the offensive while appearing to be on the defensive to lure out your opponent can sometimes be an effective strategy.<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Look at you being all smug and wagging your tails... You were just lucky to catch me off guard! I'll show you...<br>
 Come on, we're having another match!<br>
 <br>
 '''''<span style="color:black;">选择项1：Have one more match</span>'''''<br>
 '''''<span style="color:black;">选择项2：Call it quits</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Aaahh! God dammit!<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''That makes this your eleventh consecutive victory!<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 I'm afraid it's gotten quite late... Akagi, we should head home soon. I wouldn't want to get in the way of Kaga's training.<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Ah, certainly!<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 What, are you leaving because you're scared of actually losing to me?<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Not at all. The fact is that in two days, the Sakura Empire will be having its annual naval exercise. You haven't forgotten about it, have you?<br>
 Speaking of which, don't you agree we would be more evenly matched in a wargame than in a board game?<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 ...That's true. Then we shall have a real battle to see who is the most powerful modern ship!<br>
 <span style="color:#4eb24e;">Mutsu：</span><br>
 Sis, I checked out the participants for this year... and they all seem really motivated! I'm so excited!<br>
@@ -218,37 +218,37 @@ Oh, you're finally here. There's something not so great going on. Just follow me
 <br>
 The two hurried off to the place where everyone was gathering.<br>
 That place being in front of the exercise's information board.！<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Are you stupid?<br>
 "If I can participate then Amagi won't need to come to the exercise"? Then what? Are you going to fight with unfinished equipment and sheer naive motivation?<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 You're one to talk! You ran away from the battle with your tails between your legs!<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Listen, you absolute idiot. That sly, conniving she-fox is an expert at tricking people with her dirty little schemes.<br>
 Just because she's appearing in person at the frontlines doesn't mean I'll lower my guard and get lured out by her, no matter what an idiot like you says.<br>
 And furthermore, I'm a battleship. I'm completely different from battlecruisers like you two.<br>
 Just look at how thin your armor is. Do you think I, a battleship, have any reason to be scared of fighting you?？<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 How dare you! Unlike you, nee-sama and I have always focused on speed! How would a snail like you catch up to us cruising at 30 knots?<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Hah, you're not telling me you're PROUD of how fast you can run away, are you?<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 ...Your hair color says it all, the inside of your head is as white as a blank canvas, you idiot!<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 No you, you bootlicker! Your only redeeming feature is that big rack of yours...!<br>
 <br>
 -- CLANG!<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 Owww?!<br>
 <br>
 The two sisters who seemed on the brink of starting a fight fell silent in the blink of an eye from the intense rage they could sense.<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Who is this "sly, conniving she-fox" you speak of~?<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Nee-sama!<br>
 <br>
 -- CLANG!<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Didn't I tell you to be nice to everyone~? Why are you picking a fight with Kaga~?<br>
 There, now let's be nice and shake hands~<br>
 <br>
@@ -256,19 +256,19 @@ Amagi smiled and forced Akagi and Kaga to hold hands.<br>
 ...They both had bumps forming on their heads.<br>
 -- That woman seriously freaks me out.<br>
 Hidden beneath Amagi's loving smile was a rage that would frighten even the most vile of beasts. All the bystanders knew this for a fact.<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 There, now you've reconciled and will live happily ever after.<br>
 <br>
 Akagi and Kaga couldn't stop their tears.<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 The future of the Sakura Empire lies in our hands, and if we're not all nice to each other then we won't be able to defeat our enemies~<br>
 Now, today's exercise will be starting soon, so could everyone return to their posts?<br>
 <br>
 Both sisters started tightening their own grip on the other's hand, seemingly because they hadn't quite reached a mutual understanding yet.<br>
 Nevertheless, overwhelmed by Amagi's silent rage, they both reluctantly let go of the other's hand and began walking in opposite directions.<br>
-<span style="color:#4eb24e;">{{AF|Kaga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
 You got away this time, bootlicker. Next time I see you on the battlefield I'll make you understand the class difference between us.<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Hmph! Before the day is over I will make YOU understand that Amagi is the strongest of her class, so don't think you can run away again.<br>
 <br>
 The crowd of onlookers who had gathered around began to disperse as well. And then...<br>
@@ -326,7 +326,7 @@ I want you to leverage these skills and to be ready for war with the Sirens or a
 Now, in regards to the candidate for the next Combined Fleet flagship...<br>
 When the appropriate time comes, I will delegate my powers to the Amagi-class battlecruiser, Amagi!<br>
 Amagi, you should be prepared for an important duty, a duty rivaling that of a Sakura Empire shrine maiden, a duty passed down from Mikasa-sama's days!<br>
-{{AF|Akagi}}：<br>
+{namecode:91}：<br>
 Nee-sama... will be the Combined Fleet's next flagship...!<br>
 <br>
 Akagi was so overjoyed that she burst into tears.<br>
@@ -356,29 +356,29 @@ Those who perished were simply too weak. Nothing more.<br>
 If this is to be my fate, then at least let me meet my end on the battlefield.<br>
 I now entrust the future of the Combined Fleet- no, of the Sakura Empire to you...<br>
 My... sworn... rival...<br>
-<span style="color:#4eb24e;">{{AF|Ashigara}}：</span><br>
+<span style="color:#4eb24e;">{namecode:144}：</span><br>
 Amagi, there's trouble! Kaga just left this letter before charging straight towards the Siren-controlled Mirror Sea by herself!<br>
 A destroyer division has already been deployed to chase after her, but they lack the firepower to handle recon on the Mirror Sea...<br>
 <br>
 Amagi, standing there emotionlessly, receives Kaga's letter from Ashigara.<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 (It's just like you to write something like this, Kaga... Could you be...)<br>
 I understand the situation. Please continue the search. I shall handle the rest.<br>
-<span style="color:#4eb24e;">{{AF|Ashigara}}：</span><br>
+<span style="color:#4eb24e;">{namecode:144}：</span><br>
 Understood!<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 Since the singing of that "Treaty," everything has changed...<br>
 We're not the only ones who were affected. Even those girls in the Eagle Union...<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Amagi, will our equipment also be dismantled and replaced with those strange things...?<br>
 I haven't even had a chance to experience the recoil of my 41cm cannons yet...<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 ... ... ...<br>
 Our time is short, and there is something I still must finish. But before that, I have to bring Kaga back first.<br>
 (However, sending a hastily cobbled-together fleet into Siren territory is extremely ill-advised... What should I do...?)<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Say, Amagi, are these little mosquitoes really able to replace the splendor of our main batteries?<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 From the very beginning, the world has never judged who is weak or strong. You are just using that as an excuse to escape from reality.<br>
 ... Mosquitoes?<br>
 ... That's right! There is a way!<br>
@@ -386,7 +386,7 @@ From the very beginning, the world has never judged who is weak or strong. You a
 To Akagi's surprise, the normally collected Amagi let out a yell and bolted out of the room.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 *Gasp* *Gasp* ... Houshou, do you have... some spare time?<br>
-<span style="color:#4eb24e;">{{AF|Houshou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 Amagi! What brought you here in such a hurry?<br>
 <br>
 Whether it was because she hadn't exercised without her rigging for so long or because she'd ran there in a hurry, Amagi seemed out of breath.<br>
@@ -394,18 +394,18 @@ After taking several deep breaths, Amagi clasped Houshou's shoulders.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 Houshou, as the first aircraft carrier of the Sakura Empire, I have a favor to ask of you...<br>
 Are you able to send your planes to search for Kaga in the Mirror Sea?<br>
-<span style="color:#4eb24e;">{{AF|Houshou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 Eh? Kaga? B-but I only learned how to use these planes recently... I don't have any real combat experience...<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 Please, I'm begging you, you only have to find Kaga. I'll handle the rest.<br>
-<span style="color:#4eb24e;">{{AF|Houshou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 I don't quite understand the situation, but for you to be this desperate... I'll see what I can do.<br>
 <br>
 As if embraced by the sea breeze, Houshou extended her hand towards the horizon like she was parting the clouds-<br>
 As her words vanished into the wind, over a dozen aircraft began to materialize from Houshou's flight deck, encircling the sky above her.<br>
 Amagi, Akagi, and the newly-arrived escort fleet could only watch in silence, mouths agape, as they witnessed the spectacle in front of them for the first time.<br>
 ...For a brief moment, they thought they could see the first rays of an era about to dawn.<br>
-<span style="color:#4eb24e;">{{AF|Houshou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 Please help search for Kaga in the dark clouds of the Mirror Seas~<br>
 And most importantly, everyone, please come back safely!<br>
 <br>
@@ -414,14 +414,14 @@ With Houshou's instructions, the aircraft fanned out in seven different directio
 Thank you so much for your assistance, Houshou. I'll definitely bring Kaga back. Also...<br>
 <br>
 Amagi drew close to Houshou, her lips brushing against her ear, whispering something before pulling away. With that, she took a deep bow of gratitude before leading the escort fleet away.<br>
-<span style="color:#4eb24e;">{{AF|Houshou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:89}：</span><br>
 I understand. May the Gods of Fortune be with you.<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 Sister, you're now going to search the Mirror Seas by staying in contact with those planes, right? I also-<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 See that, Akagi? Aren't those planes far more capable than you had first expected?<br>
 As for you, your new armaments are still not complete. There's no way we'd be able to risk you on the front lines. Be a good girl and wait back in port for your new equipment, all right?<br>
-<span style="color:#4eb24e;">{{AF|Akagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
 B-but... I can't help but have a bad feeling about this still...<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 Listen to your big sister. I swear to bring Kaga back safely.<br>
@@ -447,7 +447,7 @@ All ships, switch to high alert. Utilize your own best judgment in dealing with 
 BOOOOOOM!<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 ... Agh!<br>
-<span style="color:#4eb24e;">{{AF|Ashigara}}&{{AF|Naka}}：</span><br>
+<span style="color:#4eb24e;">{namecode:144}&{namecode:40}：</span><br>
 Amagi!<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 Don't worry about me, it's just a scratch. I just... did not expect these things to self-destruct. How negligent of me...<br>
@@ -694,7 +694,7 @@ Unlike me, who was born a weakling, you were born strong. And you are destined t
 For you and Akagi, your strength is both your birthright and your obligation.。<br>
 Therefore, remember me not as Amagi "the weak," but rather as Amagi "the strong." Pick up my mantle and become that strength that I could only represent.<br>
 Please, protect the Sakura Empire in my stead...<br>
-<span style="color:#4eb24e;">{{AF|Amagi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
 ... ... And please take care of my sister, Akagi...<br>
 {{折叠面板|内容结束}}
 

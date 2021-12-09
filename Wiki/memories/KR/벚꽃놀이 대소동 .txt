@@ -48,7 +48,7 @@
 <span style="color:#92fc63;">소류：</span><br>
 그럼, 내가 다들 한 번 불러볼게.<br>
 어라, 쇼카쿠랑 즈이카쿠잖아? 마침 잘 됐네.<br>
-<span style="color:#92fc63;">{{AF|쇼카쿠}}&{{AF|즈이카쿠}}：</span><br>
+<span style="color:#92fc63;">{namecode:95}&{namecode:96}：</span><br>
 음?<br>
 <span style="color:#92fc63;">쇼카쿠：</span><br>
 소류 선배구나……<br>
@@ -190,22 +190,22 @@
 벚꽃놀이 대소동<br>
 <br>
 제7장 - 둘만의 후야제<br>
-<span style="color:#92fc63;">{{AF|호쇼}}：</span><br>
+<span style="color:#92fc63;">{namecode:89}：</span><br>
 연회는 즐겁습니다만, 연회가 끝난 후의 이 조용함은 왠지 쓸쓸하네요……<br>
 어라? 지휘관님? 벌써 쉬러 가신 줄 알았는데…아직 깨어있으셨나 봐요?<br>
 이 호쇼와 함께 벚꽃을 보고 싶다…고요?<br>
 <br>
 (끄덕)<br>
-<span style="color:#92fc63;">{{AF|호쇼}}：</span><br>
+<span style="color:#92fc63;">{namecode:89}：</span><br>
 우후후…그러시다면, 잠시만 기다려주셔요. 지금 준비할게요.<br>
 "낭군님, 오늘밤 꽃구경은 제가 모시도록 하겠사옵니다."<br>
 <br>
 !!!<br>
-<span style="color:#92fc63;">{{AF|호쇼}}：</span><br>
+<span style="color:#92fc63;">{namecode:89}：</span><br>
 어떠세요? …두근두근하시나요? 지휘관님?<br>
 <br>
 !!<br>
-<span style="color:#92fc63;">{{AF|호쇼}}：</span><br>
+<span style="color:#92fc63;">{namecode:89}：</span><br>
 우후후, 지휘관님께 칭찬받다니…호쇼는 몸 둘 바를 모르겠사와요.<br>
 그럼, 계속해서 이 '월견주' 를…저 달과 밤 벚꽃을 바라보며 건배하실까요? 낭군님?<br>
 {{折叠面板|内容结束}}

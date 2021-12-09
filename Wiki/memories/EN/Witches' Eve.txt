@@ -5,45 +5,45 @@
 Witches' Eve I<br>
 <br>
  「Witches, Everlasting Innocence」<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 “Gift of an Everlasting Innocent Doll”? A present for me?<br>
 (Opening...)<br>
 Heehee... I really am beautiful!<br>
 But who’s this from? There's no name on the package...<br>
 Pumpkin congee... are we having pumpkin again for lunch? Yesterday was pumpkin stew, and pumpkin pie the day before... I'm so done with pumpkins!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 So am I, talk about a nutritional imbalance…<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-That's not the issue! Oh, by the way, {{AF|Ayanami}}, I just received a strange present.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+That's not the issue! Oh, by the way, {namecode:6}, I just received a strange present.<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 A present—— ?<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Heehee~ Doesn't this look good on me?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
-It really suits {{AF|Shouhou}}... What did your sisters say? Did they praise you?<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-Lately, they don't really hang out with me... and keep saying that, "{{AF|Shouhou}} should find friends similar in age." Seriously?! They are almost the same age as me! Well, let's head out this afternoon!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+It really suits {namecode:87}... What did your sisters say? Did they praise you?<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+Lately, they don't really hang out with me... and keep saying that, "{namecode:87} should find friends similar in age." Seriously?! They are almost the same age as me! Well, let's head out this afternoon!<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-I saw {{AF|Zuikaku}} storing up her food supplies a few days ago. I thought she was planning to cook tempura for me, but it turned out to be pumpkin again!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
-{{AF|Zuikaku}} won't miss any opportunity of having tempura, unless...<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-Speaking of {{AF|Zuikaku}}, recently she always looks at me in a strange way. Pumpkin... {{AF|Zuikaku}}... huh, let's dig into this!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+I saw {namecode:96} storing up her food supplies a few days ago. I thought she was planning to cook tempura for me, but it turned out to be pumpkin again!<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+{namecode:96} won't miss any opportunity of having tempura, unless...<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+Speaking of {namecode:96}, recently she always looks at me in a strange way. Pumpkin... {namecode:96}... huh, let's dig into this!<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Do I have to go with you?<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Of course! Stop losing yourself in combat and training, you deserve a break.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 What a pity, I’m not sure if I’ll go… you girls have fun~<br>
-<span style="color:#4eb24e;">{{AF|Akashi}}：</span><br>
-Pumpkins are delicious, nyaa~ and wasting food is a serious crime, nyaa~ {{AF|Shouhou}} eat a little more, nyaa~<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+Pumpkins are delicious, nyaa~ and wasting food is a serious crime, nyaa~ {namecode:87} eat a little more, nyaa~<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Tempura? No, there’s no more left! I wanted to store food for the coming winter!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 I still feel like… the atmosphere is very tense.<br>
-Although the most telling information is always hidden in unexpected places, {{AF|Ayanami}}, follow me!<br>
+Although the most telling information is always hidden in unexpected places, {namecode:6}, follow me!<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 How come my sister and I can’t attend this Halloween… Say! When the time comes...<br>
 {{折叠面板|内容结束}}
@@ -57,42 +57,42 @@ Witches' Eve II<br>
 Without even noticing, the “day of mischief” is fast approaching!<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
 Haha, you girls from the Sakura Empire are highly anticipating the day, aren’t you!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-The atmosphere seems to be more tense than last year... {{AF|Ayanami}}, what do you think?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+The atmosphere seems to be more tense than last year... {namecode:6}, what do you think?<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 It’s not like as if we’re going to start a battle with the Eagle Union...<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Ack——!<br>
 That’s right! Let’s start rationing supplies and practice our “pranks”, these are clear signs of war!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 If there is indeed a war coming, you girls aren’t hiding it from me, are you?<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 O that, that’s to prevent the intel from getting leaked… which reminds me, go find “her” to discuss about that thing.<br>
 He-le-na~~ I am comingggg~!<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 W-wait, waitt!! Don’t you all ought to knock on the door before entering!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 We’ve got vital intel to report—— we’re going to war!<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 What?!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Say… are pulling pranks and carving pumpkins both traditions of Halloween?<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-Other Halloween customs include giving out candies. Although, perhaps {{AF|Zuikaku}} should give out tempura instead, since she likes to eat tempura.<br>
+Other Halloween customs include giving out candies. Although, perhaps {namecode:96} should give out tempura instead, since she likes to eat tempura.<br>
 Cleveland, however, seems to be more focused on pumpkin pies!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Helena, what’s “that” in your hands?<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 ...One last tradition for Halloween is to dress up in costumes, such as ghosts. Therefore, I’ve been secretly sewing this Halloween costume for Cleveland. I want it to be a surprise!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Cleveland will also be joining us for “Trick or treat”?<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 Oh, of course, she will be!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 …Did you only make this one costume?<br>
 <span style="color:#4eb24e;">Helena：</span><br>
 Sorry, because I want it to be a surprise for Cleveland, so it won’t be ready until Halloween day. And I won't have time to prepare more for all of you....<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Actually, I’ve received a similar outfit in the mail a few days ago...<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 Hey, if I win the duel this time, then you gotta help me!<br>
@@ -103,49 +103,49 @@ Hey, if I win the duel this time, then you gotta help me!<br>
 Witches' Eve III<br>
 <br>
 「Late Night Pranks」<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 The pumpkin lights have all been prepared and placed all over the school courtyard.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Wow! It’s becoming more and more like a Halloween atmosphere!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Thanks to you, everyone must be highly anticipating Halloween now, huh~ I’ll also join your “Trick or treat”!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Hehehe, what a pity but you’re already an adult!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Well... you’re right. Did you know? Lately, I hear that the port area has ghosts lurking at night.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Ghosts?<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Well, all those floating pumpkin lanterns shimmering late at night looks a lot like “ghostly” pumpkin heads.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Ahhhh—— How come I haven’t seen any of those “ghosts”, I’m missing out on all the fun!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
-{{AF|Shouhou}}, lately a strange thing is happening.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
+{namecode:87}, lately a strange thing is happening.<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 A strange thing?!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 So… the other day when I returned to my dorm, I found a package sitting in front of the door. Inside there was—— this.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 This is——<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 So pretty—— I want one too...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
-So cute~ But there’s no name on the package, and my sister only saw a white figure placing it at the door. I want to thank that mystery figure in person. I heard {{AF|Shouhou}} also received a similar package, is there any meaning behind all of this?<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
+So cute~ But there’s no name on the package, and my sister only saw a white figure placing it at the door. I want to thank that mystery figure in person. I heard {namecode:87} also received a similar package, is there any meaning behind all of this?<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 I didn’t see anything...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 A white figure...<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 At last, it’s Halloween night! Hehe~ Do you like my costume? (Twirls)<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Actually—— I’ve also received a “gift”.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Huh, you got one as well? Did you find any clues to these mystery packages?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Yes, I saw something—— those packages were sent by ghosts.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-Haha~ {{AF|Ayanami}} is making a joke. Strange, {{AF|Kagerou}} still hasn’t arrived yet?<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+Haha~ {namecode:6} is making a joke. Strange, {namecode:19} still hasn’t arrived yet?<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Let’s go see if she’s in her dorm.<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 I didn’t expect sewing clothes to be this troublesome...<br>
@@ -156,64 +156,64 @@ I didn’t expect sewing clothes to be this troublesome...<br>
 Witches' Eve IV<br>
 <br>
 「The Missing Pumpkin Pie」<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Sorry, I’ve got an emergency—— Has anyone seen my pumpkin pie?<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 No I haven’t… what’s wrong?<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
-{{AF|Kagerou}}’s baked pumpkin pie has disappeared...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+{namecode:19}’s baked pumpkin pie has disappeared...<br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Argh… I’ve worked tirelessly for three weeks in order to make the tastiest pumpkin pies for my sisters, and now I’ve got nothing to show for it!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
-When the pies were baking, {{AF|Kagerou}} had gone to change her outfit. And I was blanking out at the front door—— then, the pies were gone...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+When the pies were baking, {namecode:19} had gone to change her outfit. And I was blanking out at the front door—— then, the pies were gone...<br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 After I changed my clothes, all those pies went missing——<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 Not entirely “all”, I tried one of the pies before they went missing, it was very delicious.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Really? You better not be lying to your sisters!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 When they went missing, was it just you two in the room?<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Hehe, actually I was also there at the time.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Cleveland?!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 This costume was given to me by Helena. I’m dressed as a reaper harvesting your “souls”. What do you think? Hehehe~<br>
-I happened to pass by {{AF|Kagerou}}’s dorm, during that time—— no one came in or out of the entrance.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+I happened to pass by {namecode:19}’s dorm, during that time—— no one came in or out of the entrance.<br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 You “passed by” for so long?<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Even though “time is money”, I do tend to wander around from time to time.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 —— (Stares)<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 It couldn’t have been Cleveland, she can’t hide so many pies by herself.<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Is there a problem?<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 A knight out at sea shouldn’t waste her precious time “wandering around” other people’s dorms.<br>
 We’ve fully prepared for Halloween, well, your absence will not affect the result, Shiranui...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
-Idiot {{AF|Shiranui}}, what do you mean “the result is not affected”! All those sisters were highly anticipating my pumpkin pies. Drat, I’ll start baking another batch right now...<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
+Idiot {namecode:20}, what do you mean “the result is not affected”! All those sisters were highly anticipating my pumpkin pies. Drat, I’ll start baking another batch right now...<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 Sunset is fast upon us, there’s not enough time. Everyone has already tried your pies before...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 But the missing ones are perfect this time!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 Halloween is not only about baking pies. Sister, they’re all waiting for you.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 I guess I’ll count this as bad luck… darn, I’ll definitely remember this!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
-{{AF|Shouhou}}, {{AF|Ayanami}}, Cleveland and that idiot sister of mine… I hope you all have fun tonight…<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+{namecode:87}, {namecode:6}, Cleveland and that idiot sister of mine… I hope you all have fun tonight…<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Hehe, you too, you’ve worked hard!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Cleveland, how come Helena did not come with you?<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Those Fletcher class sisters are already out asking for candy—— Even if their main target is not me, I’ve tried my best to avoid them...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
-So {{AF|Kagerou}} has been resting for awhile at her dorm?<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+So {namecode:19} has been resting for awhile at her dorm?<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Hehehe...<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -225,43 +225,43 @@ Excellent, we’re ready for Halloween! Yes… I don’t think we missed anythin
 Witches' Eve V<br>
 <br>
 「Trick or Treat!」<br>
-<span style="color:#ff0000;">{{AF|Shouhou}}&{{AF|Kagerou}}：</span><br>
+<span style="color:#ff0000;">{namecode:87}&{namecode:19}：</span><br>
 Trick or treat！<br>
-<span style="color:#ff0000;">{{AF|Ayanami}}&Cleveland：</span><br>
+<span style="color:#ff0000;">{namecode:6}&Cleveland：</span><br>
 Trick or treat！<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Here~ Have a taste of my freshly baked pumpkin pie.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 It tastes delicious, the sweetness of the pie is just perfect!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-I didn’t expect to taste such a delicious pie after recently being sick of eating them! Whichever way you slice it {{AF|Shoukaku}}, you are my role model!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+I didn’t expect to taste such a delicious pie after recently being sick of eating them! Whichever way you slice it {namecode:95}, you are my role model!<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Haha~ I am not perfect.<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Well… I’m more focused on what Helena is up to.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Let’s go!~<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Have a safe journey.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Hmm… ack——!!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 Hey look—— are those pumpkin lanterns floating in the sky? Is, is there ghosts——!<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Those pumpkin lanterns are coming straight at us——<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 I can’t see anything in front of me, it’s all just lanterns… is everyone OK? Drat, where are my guns?!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Wait——<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 It’s you—— ahhhh!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-{{AF|Shoukaku}}——!!!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
-Those pumpkin lanterns were all flying in the air… {{AF|Zuikaku}}, where is {{AF|Zuikaku}}!<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+{namecode:95}——!!!<br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
+Those pumpkin lanterns were all flying in the air… {namecode:96}, where is {namecode:96}!<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 Shou—— White, I wanted to sew something for you like this, but then I realized how hard it is to sew... so, please use this for now.<br>
-Did you girls forget to carve this pumpkin, I can’t see anything?! {{AF|Zuikaku}} and Enterprise, what exactly are you two up to?!<br>
+Did you girls forget to carve this pumpkin, I can’t see anything?! {namecode:96} and Enterprise, what exactly are you two up to?!<br>
 Cough, I am Gold, she is Grey. In short, we are no longer “adults” tonight but more like “adolescents” instead. It won’t be a problem to go wild during Halloween night!<br>
 I lost to Zui... Gold, therefore I’ve come to help her——<br>
 Hmm? Are you not convinced of your defeat!<br>
@@ -274,7 +274,7 @@ Hehe, after all “I” am younger than you by a lot, Grey.<br>
 Witches' Eve VI<br>
 <br>
 「Ghosts Revealed!」<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 The sound is coming from above...<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 They are floating on top of pumpkin lanterns...<br>
@@ -284,21 +284,21 @@ First, let’s decide on a prank to pull?<br>
 So, White, you always mentioned that you wanted to have fun on Halloween. So naturally, I thought you already decided on your prank...<br>
 <span style="color:#4eb24e;">White?：</span><br>
 I’m not Sara.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
-This sound—— It was you {{AF|Shoukaku}} after all!<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+This sound—— It was you {namecode:95} after all!<br>
 <span style="color:#4eb24e;">White?：</span><br>
 No, I am White!<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-You are {{AF|Shoukaku}}... right?<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+You are {namecode:95}... right?<br>
 <span style="color:#4eb24e;">White?：</span><br>
 No, I am White!!!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Fine, White, what are your plans?<br>
 <span style="color:#4eb24e;">White?：</span><br>
 Right… do you all like to pull pranks?<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Why are you asking those who were pranked if they like pulling pranks...<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 So were you the ones manipulating all those pumpkin lanterns? Using all those lanterns floating in the night sky to show a scary face must be fun! I secretly tried this but failed...<br>
 <span style="color:#4eb24e;">White?：</span><br>
 Sounds interesting~<br>
@@ -320,73 +320,73 @@ Witches' Eve VII<br>
 「Pumpkin Fleet, Anchors Away!」<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Faster, just a little faster! Wee~ this is so fun!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 The view up top while riding on these pumpkin lanterns is really something.<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
 I, I won’t fall off right?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Not to worry, Enterprise and I searched for a long time and found the most suitably shaped pumpkins.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
-{{AF|Shoukaku}}, thanks for the costume.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+{namecode:95}, thanks for the costume.<br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Wait, I need to thank you as well!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Haha~ I’ve been discovered. Only because there are all of you can Halloween be so festive~<br>
-<span style="color:#4eb24e;">{{AF|Shouhou}}：</span><br>
-Eeee, is that the costume made by {{AF|Shoukaku}}?<br>
+<span style="color:#4eb24e;">{namecode:87}：</span><br>
+Eeee, is that the costume made by {namecode:95}?<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Hehe, mine was made by Helena. I ought to properly thank her when I get back~<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 I made a lot of tempura, everyone feel free to enjoy them~<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
-Yep~ {{AF|Zuikaku}}, the tempura you made are truly amazing.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+Yep~ {namecode:96}, the tempura you made are truly amazing.<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Wow, you finally realized my talents!<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
 Does that include sewing clothes?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 —— Darn you, just you wait, one day——<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
 Fine fine fine, I will wait for that supposed day—— wait for the day you leave me speechless.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Loser, loser, what did you just say?!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Can I bring my sisters here?<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 No problem at all, there are still plenty of pumpkins~<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
-Can you lower the pumpkin a little bit more? Seems like the only person who is eating the pumpkin pies is {{AF|Shiranui}}.<br>
-Hey, that pumpkin pie actually seems to be—— {{AF|Shiranui}}!!!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
+Can you lower the pumpkin a little bit more? Seems like the only person who is eating the pumpkin pies is {namecode:20}.<br>
+Hey, that pumpkin pie actually seems to be—— {namecode:20}!!!<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 S-sis, sister?! Why are you flying?!!<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Idiot, I’m not flying, it’s the pumpkin that’s flying!<br>
 Are they my pumpkin pies?<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 ...Of course not.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Don’t lie to your sister! Honestly, they’ve all gone cold—— it’s salty! Could it be I’ve mistakenly added salt instead of sugar! Th-thank goodness they were away when I was baking—— Don't eat it!!!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
-As long as {{AF|Kagerou}} made these, then no matter how bad they taste...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+As long as {namecode:19} made these, then no matter how bad they taste...<br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 As such, I cannot allow my sisters to eat these failed pies!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 You idiot…..<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 You’re the idiot, just say it to me directly——<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 If that’s the case, I’ll skip the games at Halloween and go back home to bake a new batch.<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Idiot, as long as you can taste the most delicious pumpkin pies, then I don’t care about playing!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 So I’ll just….<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 … Don’t stand there in the corner eating that salty and cold pie!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 I just feel that it’ll be a waste to throw these… at the time when baking these, you must’ve thought that we’d finish them all——<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 …Idiot——<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Halloween night hasn’t ended yet, so let’s all go for a ride on those pumpkin lanterns. Quick, call those “kids” to return and let them know the Pumpkin Fleet is ready to sortie!<br>
 {{折叠面板|内容结束}}
 

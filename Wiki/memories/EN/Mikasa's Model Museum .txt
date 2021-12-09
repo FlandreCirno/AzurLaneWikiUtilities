@@ -52,9 +52,9 @@ Oh no. That sound... it's the self-destruct system?!<br>
 Wh-why does your collection have a self-destruct system?!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
 For... well... you need to be prepared, just in case...<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Look out, Mikasa!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Aaaagh!<br>
 <br>
 With another loud rumble, the entire collection room began to crumble.<br>
@@ -131,7 +131,7 @@ Candy! Candy! Everyone who helps gets a piece of Miss Mikasa's candy!<br>
 Wow~ Mutsuki actually shared her candy with us...<br>
 <span style="color:#4eb24e;">Mutsuki：</span><br>
 Let's do our best, everyone! We'll fix up the model museum as soon as we can!<br>
-<span style="color:#4eb24e;">{{AF|Minazuki}}&{{AF|Uzuki}}&{{AF|Kisaragi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:133}&{namecode:137}&{namecode:34}：</span><br>
 Okaaaay!<br>
 <br>
 And so began the Mutsukis' monumental task.<br>

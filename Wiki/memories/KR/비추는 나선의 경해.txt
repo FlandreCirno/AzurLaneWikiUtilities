@@ -341,25 +341,25 @@ AF가 사쿠라 엠파이어로 추정되는 함대의 습격을 받고 �
 {{折叠面板|标题=대리|选项=6|主框=1|样式=primary|展开=否}}
 <br>
 뉴저지 함대 몇 시간 후<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 뭐?!<br>
 지휘관도 연락 두절이라고?!!!!!!<br>
-<span style="color:#4eb24e;">{{AF|타이콘데로가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 음... 지휘관의 함대가 PH항을 떠난 이후 얼마 뒤에 연락이 두절되었다고 해.<br>
 우리도 PH항에도 함대의 어느 누구와 연락이 닿지 않고 있어.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 습격을 당한 건가! 다른 상황은 어때?<br>
-<span style="color:#4eb24e;">{{AF|타이콘데로가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 지금까지 들어온 보고는 없어.<br>
 실종된 해역에 해무가 짙게 껴있어서 정찰이 어려운 상황이야.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 지휘관 함대의 구성원은 어때?<br>
-<span style="color:#4eb24e;">{{AF|타이콘데로가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 샌프란시스코, 헬레나, 아처피시야.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 헬레나까지 포함되어 있다니... 잠시만, 예전에도 비슷한 습격을 당한 적 있지 않나...?<br>
 어디 보자. 헬레나... 해무... 연락 두절...<br>
-<span style="color:#4eb24e;">{{AF|타이콘데로가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 파나마 요새 지원 작전 때를 말하는 거지? 그때 헬레나도 한동안 실종되었던 볼티모어 함대에 속해 있었어.<br>
 후속 작전에는 심지어 엔터프라이즈 선배도 한동안 그 해무에 빠져서 고생을 했었지...<br>
 <span style="color:#4eb24e;">뉴저지：</span><br>
@@ -406,7 +406,7 @@ AF가 사쿠라 엠파이어로 추정되는 함대의 습격을 받고 �
 ...장식과 꽃무늬로 짐작하건대, 사쿠라 엠파이어의 지휘함인가?<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 …………zZ<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 ...계란에... 캐러멜... 거대한 푸딩이 온다... 더는 못 먹어... 에헤헤...<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 쿨... 다음번에는 무슨 장난을 칠까... 헤헤...<br>
@@ -421,7 +421,7 @@ AF가 사쿠라 엠파이어로 추정되는 함대의 습격을 받고 �
 <span style="color:#4eb24e;">아처피시：</span><br>
 이건 납치야, 지휘관! 납치라고!<br>
 으으으, 내가 너무 귀여워서 일을 저지른 거지! 무서워~!<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 풉... 그게 뭐야, 분위기 띄우기?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 서두른다고 해결될 일은 아니니까...<br>
@@ -435,7 +435,7 @@ AF가 사쿠라 엠파이어로 추정되는 함대의 습격을 받고 �
 파나마 요새 지원을 나갔던 그때?<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 잔불의 엔터프라이즈는 해무를... 극소층 혼합물이라고 불렀어.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 멋진 이름이다...! 아니, 이 해무가 전부 다 세이렌의 기관이라고?!<br>
 그건 큰일이잖아! 일단 도망가자!<br>
 주포—— 에?<br>
@@ -444,28 +444,28 @@ AF가 사쿠라 엠파이어로 추정되는 함대의 습격을 받고 �
 에?! 그럴 리가. 나도 해볼게... 진짜잖아! 어떻게 이럴 수가?!<br>
 <br>
 쾅쾅—— 쾅——!<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 안 돼, 문도 안 열려... 여기에 갇힌 건가?!<br>
 헬레나, 창문으로 바깥이 보여?<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 ...SG... SG를 사용할 수 없어... 대체 무슨 일이 벌어지려는 거지... (작은 소리)<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 헬레나...?!<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 아, 음. 창문 밖? ...해무 말고 다른 것은 보이지 않아.<br>
 하지만 계속 이동하고 있는 건 느껴져...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 그렇다는 것은 역시 나의... 응? 통신기가 어디로 갔지...<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 샌프란시스코, 바보! 장비가 없으면 통신기도 쓸 수 없는 게 당연하잖아!<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 아, 그렇네... 역시 방법은 이 문밖에 없는 건가.<br>
 단단한 물건이 어디 없을까...<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 으악, 무슨 생각이야. 함부로 행동하지 마?!<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 잠시만, 콘솔 위에 있는 통신기가 반짝거리는 것 같아...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 오! 바깥이랑 연락을 할 수 있을지도 몰라! 좋았어, 헬레나!<br>
 그럼————<br>
 <span style="color:#ffd000;">히류：</span><br>
@@ -477,11 +477,11 @@ AF가 사쿠라 엠파이어로 추정되는 함대의 습격을 받고 �
 제가 직접 지휘하는 작전인데 승리하는 것은 당연하답니다. 당신들은 뒤에서 승전보나 기다리도록 하세요. 후후후.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 ——이건 사쿠라 엠파이어의 통신? 맞아, 사쿠라 엠파이어의 통신이야!<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 통신기에서 사쿠라 엠파이어의 작전 통신이 들린다는 것은... 우리가 지금 사쿠라 엠파이어 함대의 중추에 들어와 있다는 건가?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 하지만 여기에는 우리 말고 아무도 없는걸?<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 후후후, 어떻게 된 것인지는 모르겠지만... 이건 하늘이 준 기회야! 아무도 없다면 우리가 뭘 해도 들키지 않겠지~<br>
 <br>
 움직이지 않는 문, 외부와 단절된 공간, 통신기에서 들려오는 연락. 어딘가 익숙한 느낌이 든다...<br>
@@ -648,21 +648,21 @@ AF 전투에서 이글 유니온 함대는 어려움 속에서도 세이�
 시간이 지났지만 여기서 떠날 방법을 찾지 못했다.<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 지휘관... 콘솔의 통신기로 통신을 보낼 수 없어. 또다시 외부와 연결이 될 때를 기다리는 수밖에...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 하아, 심심해—— 바깥은 지금 어떤 상황인 거지.<br>
 저기, 아처피시? 혼자서 뭐 하는 거야?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 쉿——! 바깥의 동정을 살피고 있어.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 에에? 뭔가 들렸어?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 별다른 건 없어... 쥐새끼 한 마리 안 지나가네.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 여기에 정말 우리만 있는 건 아니겠지. 양산형인 것 같은데... 자동 운행이 되는 모델인가...<br>
 으... 재미없어, 지루해, 심심해...<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 ...다들 잠시만, 통신기에 또 반응이 있어.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 오오, 그럼 내가——————!<br>
 <span style="color:#ffd000;">히류：</span><br>
 여기는 히류. AF를 노린 첫 번째 공습이 완료되었습니다. 효과는 매우 좋습니다.<br>
@@ -676,7 +676,7 @@ AF 전투에서 이글 유니온 함대는 어려움 속에서도 세이�
 지휘함, 통신기에서 들려오는 사쿠라 엠파이어의 연락. 이 모든 것은 세이렌이 일부러 만들어 낸 과거의 기록일 거야.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 그렇다는 건... 방금 전 통신은 예전 AF 작전 때의 통신 기록이라는 거야?<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 그럴 가능성이 크네! 그리고 우리는 세이렌이 복원한 기록 중에서도 당시 사쿠라 엠파이어 함대의 지휘함 위에 있는 거고?<br>
 이 안에 들어가다 못해 사쿠라 엠파이어의 시각으로 AF 전투에 관한 다큐멘터리를 보는 느낌이네...<br>
 진짜 신기한 경험이잖아~! 지휘관, 어떻게 생각해?<br>
@@ -693,24 +693,24 @@ AF 전투에서 이글 유니온 함대는 어려움 속에서도 세이�
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''세이렌도 그 작전에 참여했었어. 심지어 인간형 지휘자가 함대를 이끌고 공격해왔지.<br>
 '''''<span style="color:black;">（选择项2）</span>'''''그들의 발전한 전자 설비라면 전장의 통신을 중간에 엿듣는 것도 이상하지 않아. 여기는 그 정보를 기초로 복원된 곳이겠지...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 그렇구나... 그럼 세이렌은 이 정보를 우리에게 노출하기로 결정한 거네.<br>
 그들은 아마 우리와 사쿠라 엠파이어 사이의 관계를 잘 알고 있겠지?<br>
 세이렌이랑 사쿠라 엠파이어는 사이가 좋은 건지 나쁜 건지 모르겠어...<br>
 <br>
 만약 지금 눈앞에 펼쳐지는 것이 AF 작전의 기록이 맞다면... 그렇군, 그때는 정찰기가 고장 나서 매복해 있던 요크타운 함대를 발견하지 못했던 거야. 위험했네.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 음... 지휘관? 지금 혼자서 뭐라고 중얼거리는 거야?<br>
 <br>
 ...AF를 노린 첫 번째 공습이 끝났다면 요크타운의 반격이 곧 시작될 거야. 사쿠라 엠파이어 함대는 정찰을 하지 못했기 때문에 2차 공습을 감행했지. 그건 올바른 선택이 아니었어...<br>
 ...취약한 항공 함대에게 이런 모험을 시켜선 안 됐었지. 지금 해야 하는 것은 공습이 아니라 상대의 위치를 파악하고 안전을 확보하는 건데——————<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 저기요? 지——휘——관————!<br>
 정말이지, 조금만 신경을 안 쓰면 이런다니까...<br>
 우린 지금 사쿠라 엠파이어의 지휘함에 있다고. 이런 곳에서 뭘 그렇게 열심히 하는 거야?<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 지휘관, 새로운 통신이 들어왔어. 상대는 계속 공습 허가를 요구하고 있는데...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 헤헤헤~ 모처럼의 기회잖아? 지휘관의 뛰어난 결단력을 희생하자고.<br>
 헬레나, 2차 공습을 허가했으니 당장 진행하라고 전해줘~!<br>
 {{折叠面板|内容结束}}
@@ -825,83 +825,83 @@ AF 쪽에서 보낸 지원일까...? 확, 확인해 볼게!<br>
 ？？？·？？？<br>
 <span style="color:#ffd000;">히류：</span><br>
 전투기가 이글 유니온 항공함대의 공격을 제때 발견해서 처리한 덕에 피해를 입지 않았습니다.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 손해는 없는 모양이네... 아쉬워라.<br>
 <span style="color:#ffd000;">히류：</span><br>
 방금 뭐라고 하셨습니까...?<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 아니야, 아니야... 에헷~! 어쨌든 계속 보고해.<br>
 <span style="color:#ffd000;">히류：</span><br>
 네. 이글 유니온 항공모함의 위치를 대략적으로 파악했습니다. 후속 공격은 빠르게 진행할 수 있을 것 같습니다.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 그랬구나, 잠시도 지체할 수 없겠네~<br>
 <span style="color:#ffd000;">히류：</span><br>
 아카기님이 2차 공격을 취소하고 함재기의 폭탄을 어뢰로 변경해 이글 유니온 함대의 습격에 대비하려고 합니다.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 응응, 얼마든지. 아카기의 결정은 정확하니까. 그렇게 하도록 해. 바로 탄환을 준비하자고~!<br>
 <span style="color:#ffd000;">히류：</span><br>
 라져.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 너 대단하다...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 에헤헤! 그럴듯하지~<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 전혀 달라! 다음번에는 내가 할래. 나도 해보고 싶어.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 좋아, 좋아!<br>
 <span style="color:#ffd000;">통신기：</span><br>
 작전 지휘는 장난이 아니란다.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 에?!! 누구의 목소리지?<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 통신기에서 들려온 소리야... 하지만 켜져 있지 않은데...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 누구야? 숨지 말고 당장 나와!<br>
 <span style="color:#ffd000;">？？？：</span><br>
 오? 그대들의 반응은 조금 다르구나.<br>
 이글 유니온인가... 어디선가 만났던 인상이 있다만, 그대들은 기억하지 못하는가.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 나의 이름은 시나노, 꿈속을 떠도는 여행자일 뿐이지.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 (꿈이니 여행자니, 전혀 못 알아듣겠어...)<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 (나도... 이것도 세이렌의 시뮬레이션인가? 아니면 다른 뭔가... 다큐멘터리 중간 광고 같은 거야?)<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 (모르겠어...)<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 (저기... 지휘관, 이게 무슨 상황인지 알고 있어?)<br>
 <br>
 (시나노라는 이름을 들어본 적은 있어. 아마 사쿠라 엠파이어의 고위층 항공모함일 거야. 태어났을 때부터 깊은 잠에 빠져 있었는데, 얼마 전에 깨어났다고 들었어.)<br>
 (제일 중요한 것은, 시나노는 AF 작전에 참여하지 않았다는 건데... 왜 여기에 나타난 거지.)<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 사람을 앞에 두고 중얼거리는 것은 실례란다. 여기는 사쿠라 엠파이어의 지휘함인데, 그대들은 여기서 무엇을 하고 있는 것이지?<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 (이런... 들켰어. 이럴 때는 역시—— 기세에서 지면 안 돼!)<br>
 우리가 묻고 싶거든! 뭐 때문에 우리를 여기에 가둔 거야?!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 ...나 역시 방금 여기에 도착했기 때문에 자세한 것은 잘 모르겠구나.<br>
 그렇다는 것은, 그대들은 모종의 이유로 사쿠라 엠파이어 지휘함에 갇혀 지휘를 강요받고 있었다는 셈이지?<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 먼저 말해두자면, 네가 동료들을 위해서 우리를 붙잡으려고 한다면 오히려 큰 도움이 될걸? 우리는 문이 안 열려서 걱정하고 있었거든!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 이 꿈은 이런 설정인가... 기묘하구나.<br>
 그렇다면 신경 쓸 필요는 없단다. 나는 꿈의 흐름에 간섭하지 않으니까. 그대들이 이렇게 설정되어 있는 것은, 분명 논리와 이치가 있을 것이다.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 엑... 설정은... 또 뭐야?<br>
 지휘관, 시나노라는 저 사람은 대체 뭐야? 우리처럼 말려든 것 같지는 않은데, 아무것도 모르는 것 같아....<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 음? 방금... '지휘관'이라고 한 것인가?<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 망했다... 지휘관에게 손을 대려는 건 아니지!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 그럴 생각은 없단다. 지금까지 계속 그대와 대화를 나누고 싶었다만, 그게 오늘이 될 줄은 몰랐구나.<br>
 <br>
 우리 어디서 만난 적 있었나...?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 만난 적도 있었고, 만나지 않았던 적도 있었지. 그동안 그대가 진행한 훈련에서 아마기의 도움을 받지 않았다면 완전히 그대에게 빠질 뻔했단다. 참 대단해.<br>
 <br>
 훈련... 아마기...?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 눈 깜짝할 사이에 지나가는 꿈의 이야기란다. 내 혼잣말에 신경 쓸 필요는 없어.<br>
 그렇게 경계할 필요도 없단다. 우리는 맹우이기도, 적이기도 하고. 함께 싸웠기도 하고, 서로에게 무기를 겨누기도 했지. 삼라만상은 이미 충분히 보았단다.<br>
 음... 그래도 이번에는 시간이 꽤 넉넉한 모양이구나. 모처럼의 기회이니 대화를 나눠보지 않겠는가?<br>
@@ -912,28 +912,28 @@ AF 쪽에서 보낸 지원일까...? 확, 확인해 볼게!<br>
 시나노와의 대화를 통해서 그녀가 아무것도 모른 채 세이렌의 실험에 말려들었다는 것을 알 수 있었다.<br>
 그녀는 이것을 '꿈'이라고 칭하면서 자신의 논리를 펼쳤지만...<br>
 시나노 본인이 AF 근처에 나타날 수는 없다. 설마 불가사의한 힘을 가지고 있다는 소문이 진짜인가...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 에?! 사쿠라 엠파이어에도 야구가 유행하고 있어?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 내가 알기로는 인기가 아주 좋아서 경기도 자주 열린다고 하더구나.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 멋지다... 기회가 된다면 사쿠라 엠파이어에서 시합을 해보는 것도 좋겠어~!<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 그럼 시나노도 야구할 줄 알아?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 나라면... 신분 때문에 아직 해본 적은 없단다.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 신분이라니... 사쿠라 엠파이어는 이상한 것에 얽매인단 말이야... 스포츠는 신분이나 국경을 초월한다고!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 후후... 맞는 말이구나. 기회가 된다면 꼭 해볼 수 있으면 좋겠다.<br>
 그러고 보니 내가 잘못 보지 않았다면 너는... 아처피시겠지?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 정답~! 에? 우리 어디서 만난 적 있었나?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 비밀이란다.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 아까부터 느끼는 건데, 너랑 대화하는 거 조금 힘들어...<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 후후, 말로 할 수 없는 것이란다. 지금 이 순간이 가장 좋은 것이지.<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 ......오히려 더 심해졌어?!<br>
@@ -946,11 +946,11 @@ AF 쪽에서 보낸 지원일까...? 확, 확인해 볼게!<br>
 명령을 내려주십시오. 이 히류 혼자서 이글 유니온 함대에 반격을 하겠습니다!<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 큰일이다... 이렇게 되면 요크타운이...!<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 반격은 안 돼, 당장 물러나!<br>
 <span style="color:#ffd000;">히류：</span><br>
 대체 왜입니까?! 이해할 수 없습니다. 합리적인 이유를 설명해 주십시오.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 그, 그러니까... 윽... 지금 물러나야... 만... (지휘관, 도와줘 >_<!)<br>
 <br>
 히류, 냉정하게 상황을 돌아봐. 피해가 더 커지기 전에 퇴각해야만 해. 아직은 늦지 않았어.<br>
@@ -963,11 +963,11 @@ AF 쪽에서 보낸 지원일까...? 확, 확인해 볼게!<br>
 <span style="color:#ffd000;">히류：</span><br>
 지금 상태로 퇴각하는 것이야말로 돌이킬 수 없는 일입니다!<br>
 그렇다면... 사쿠라 엠파이어의 해군은 전 세계의 웃음거리가 됩니다!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 ...포기하도록 해. 그대의 노력은 헛수고가 될 것이다.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 왜?! 이럴 때야말로 과감하게 퇴각해서 힘을 보존하는 것이 최선의 선택이야. 설마 모르는 거야?!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 나의 생각은 중요하지 않단다.<br>
 물론 이대로 퇴각하면 1항전이 성역의 일에 말려들지 않겠지. 5항전과의 관계도 많이 나아질 것이다. 분명 많은 일이 변화할 거야.<br>
 하지만 원인이 있다면 결과도 있는 법. 이미 발생한 일은 발생한 결과를 가지고 오고, 발생하지 않은 일은 발생하지 않은 결과를 가지고 온단다. 무엇이 옳은지 그른지 어떻게 단정 지을 수 있단 말인가?<br>
@@ -975,7 +975,7 @@ AF 쪽에서 보낸 지원일까...? 확, 확인해 볼게!<br>
 만약 꿈이 아닌 현실이라면, 그대들이 정말로 그런 연기로 사쿠라 엠파이어 지휘 시스템에 섞여 들키지 않을 수 있다고 생각하는가?<br>
 <br>
 그렇다는 건 여기는 이미 결과가 정해진 체스판이라는 건가? 우리가 어떤 명령을 내리더라도 이미 결정된 일을 바꿀 수는 없다는 말인가?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 모든 것은 그대가 그 당시 보았던 것과 같단다.<br>
 <br>
 지휘관... 나도 AF 작전에 참가할 수 있게 해줘...!<br>
@@ -1154,37 +1154,37 @@ AF 남서쪽 해역 해무 속<br>
 ？？？·？？？<br>
 <span style="color:#ffd000;">진츠：</span><br>
 전선 상황을 보고드립니다. 히류의 반격이 성공해 이글 유니온의 요크타운이 대파되어 물러났습니다.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 그렇구나. 히류의 상황은?<br>
 <span style="color:#ffd000;">진츠：</span><br>
 낙관할 수는 없지만 동력을 유지할 수는 있습니다. 갑자기 나타난 세이렌 함대가 이글 유니온의 추격을 막은 틈을 노려 구조에 나섰습니다.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 세이렌 함대가 이글 유니온 함대의 행동을 막기만 한 것인가?<br>
 <span style="color:#ffd000;">진츠：</span><br>
 아니요... 세이렌이기 때문에 특별히 목표를 구분하지는 않았습니다. 세이렌의 선봉 함대가 때마침 이글 유니온과 가까워서 우리에게 시간을 벌어주었지요.<br>
 더 많은 세이렌 함대가 우리를 포위하고 있습니다. 퇴각 계획의 승인을 요청합니다.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 퇴각을 승인하지. 단 한 사람도 남기지 말고 돌아오도록 하려무나.<br>
 <span style="color:#ffd000;">진츠：</span><br>
 라져. 진츠, 통신 종료.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 ......정해진 내용이라고 했으면서 너야말로 왜 그렇게 진지하게 답해주는 거야...<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 정해진 기록의 내용이라고 하더라도 내가 알고 있는 정보는 아니란다.<br>
 결말은 정해졌지만 자세히 들어보면 뜻밖의 수확을 얻을 수 있지.<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 ......윽, 그래서 뭔가 얻은 게 있어?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 그대들은 사쿠라 엠파이어와 세이렌의 유착을 의심하지 않았나?<br>
 비록 조각이기 때문에 납득할 수 있는 증거는 되지 못하지만, 생각해 볼 여지는 충분하지 않은가.<br>
 <br>
 사쿠라 엠파이어와 세이렌의 관계가 생각보다 더 복잡하다는 말인가...<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 그래. 전선 함대가 퇴각한다면 이 지휘함도 예외는 아닐 텐데, 그대들은 도망치지 않아도 되는가?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 도망이라니, 말 참 예쁘게 하네...! 탈출이야, 탈출!<br>
 정말이지, 그걸 못해서 우리가 이렇게 난처한 거라고!<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 하지만 이상하구나... 단언하건대 이 꿈은 평범한 크기가 아닌 것 같다.<br>
 그대들을 가둔 것도... 어쩌면 보여서는 안 될 무언가가 바깥 공간에 숨겨져 있는 것일지도...<br>
 <span style="color:#ff9900;">？？？：</span><br>
@@ -1194,15 +1194,15 @@ AF 남서쪽 해역 해무 속<br>
 {{折叠面板|标题=신비한 아군|选项=21|主框=1|样式=primary|展开=否}}
 <span style="color:#ff9900;">？？？：</span><br>
 샌프란시스코, 아처피시, 헬레나, 지휘관. 그리고 시나노라니... 이상한 조합이네.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 그대는 나의 존재를 느낄 수 있는가?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 그럼, 아주 또렷하게 느낄 수 있지. 진짜 너는 멀지 않은 곳에 있구나, 이번에는.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 내 꿈에 대해서도 알고 있는 것인가?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 꿈이라면, 아니. 하지만 꿈을 꾸는 이유나 이곳의 상황에 대해서는 알고 있지.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 그렇구나.<br>
 <span style="color:#4eb24e;">샌프란시스코：</span><br>
 뭐가 그렇구나야...! 이봐, 시나노! 돌발 상황을 너무 쉽게 받아들이는 거 아니야?<br>
@@ -1361,7 +1361,7 @@ AF 남서쪽 해역 해무 속<br>
 ？？？·？？？<br>
 신비한 동료의 도움으로 지휘함의 봉쇄를 풀고 함대도 전력을 회복했다.<br>
 그렇게 해무 속을 한참 달리자, 불타는 전장이 눈에 들어왔다.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 해수면 위에서 움직일 수는 있지만, 그 밖의 것은 모두 정지된 상태인가.<br>
 잔해, 포탄, 그리고 화염과 연기까지... 마치 시간이 멈춘 듯하구나.<br>
 이렇게 기묘한 광경은 처음 본다.<br>
@@ -1399,17 +1399,17 @@ AF 남서쪽 해역 해무 속<br>
 <span style="color:#ff9900;">？？？：</span><br>
 오래 기다렸지, 처리할 일이 조금 있었어.<br>
 시간이 없어. 시나노, 대답해—— 넌 지휘관을 어떻게 생각해?<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 지휘관인가... 말이 통하고 재미있는 사람이란다.<br>
 <span style="color:#ff9900;">？？？：</span><br>
 깨어난 이후에도 오늘 일어났던 일을 잊지 마.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 이 꿈이 곧 끝날 때가 된 것인가...<br>
 <span style="color:#ff9900;">？？？：</span><br>
 응. 이제 이곳을 '개조'할 거야.<br>
 네 꿈의 구체적인 원리는 모르겠지만, '개조'로 인한 충격은 네 간섭을 무너뜨릴 거야.<br>
 그렇다면 꿈도 이어지지 않겠지.<br>
-<span style="color:#ffd000;">{{AF|시나노 }}：</span><br>
+<span style="color:#ffd000;">{namecode:182}：</span><br>
 나는 여기까지인 것 같구나. 아쉽군... 이 기묘한 여행의 끝이 궁금했는데...<br>
 <span style="color:#ff9900;">？？？：</span><br>
 미안.<br>
@@ -1424,26 +1424,26 @@ AF 남서쪽 해역 해무 속<br>
 펑————————!<br>
 거대한 굉음과 함께 해무에 덮인 앞쪽 공간에 지름 100M에 달하는 균열이 생겼다.<br>
 조용한 바깥과 달리 균열의 안쪽은 화염과 포연으로 이루어진 붉은 지옥이었다.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 열기와 포연의 기운이 느껴진다. 이건 환각이 아니야...<br>
 공... 공간을 거울처럼 부쉈어?!<br>
 게다가 방금 그건 폭격기잖아! 네가 왜 함재기를 가지고 있는 거야?<br>
-<span style="color:#4eb24e;">{{AF|타이콘데로가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 공간이 부서지는 것보다 그걸 더 신경 쓰는 거야...?<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 물론 부서진 공간도 마음에 걸리지만, 더 중요한 건 왜 경순양함이 저 공간에 함재기를 보낼 수 있냐는 거야!<br>
 <span style="color:#ff9900;">？？？：</span><br>
 경순양함이 폭격기를 가지고 있는 건 평범하지.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 전 혀 안 평 범 해 !<br>
 장비 구조부터 안 되는 일이라고! 격납고도 갑판도 없는데, 대체 그 함재기는 어디서 온 거야?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 비밀.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 그, 그럼 나도 함재기 모듈을 장착하면 되는 건가! 나도 함재기를 사용할 수 있다면 누구도 내 공세를 받아낼 수 없을 텐데!<br>
 <span style="color:#ff9900;">？？？：</span><br>
 안 돼.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 (한 방 먹었다...)<br>
 <span style="color:#ff9900;">？？？：</span><br>
 이 균열 속의 공간이 뭐라고 생각해?<br>
@@ -1648,7 +1648,7 @@ META를 겪은 뒤에 나타날 수 있는 결과라는 건가...?<br>
 <br>
 '''''<span style="color:black;">选择项1：…………</span>'''''<br>
 '''''<span style="color:black;">选择项2：시나노의 말투를 따라 하지 마—!</span>'''''<br>
-<span style="color:#ec5d53;">{{AF|소류}}·META：</span><br>
+<span style="color:#ec5d53;">{namecode:93}·META：</span><br>
 ——————！！！<br>
 <span style="color:#ff9900;">？？？：</span><br>
 이런... 잡담할 때가 아니네.<br>
@@ -1660,7 +1660,7 @@ META를 겪은 뒤에 나타날 수 있는 결과라는 건가...?<br>
 <span style="color:#4eb24e;">아처피시：</span><br>
 공, 공격을 하잖아——?!<br>
 <span style="color:#ff9900;">？？？：</span><br>
-{{AF|뉴저지}}。<br>
+{namecode:199}。<br>
 <span style="color:#4eb24e;">뉴저지：</span><br>
 맹수 같네~ 하지만 네 상대는 맹수보다 더 사나운! 이글 유니온의 블랙 드래곤이라고!<br>
 화기 시스템, 록 온. 감히 지휘관을 노리는 저 괴물에게 이글 유니온 최강 전함의 힘을 보여주지!<br>
@@ -1669,13 +1669,13 @@ META를 겪은 뒤에 나타날 수 있는 결과라는 건가...?<br>
 {{折叠面板|标题=함대 업그레이드|选项=30|主框=1|样式=primary|展开=否}}
 <br>
 펑————————!<br>
-<span style="color:#ec5d53;">{{AF|소류}}·META：</span><br>
+<span style="color:#ec5d53;">{namecode:93}·META：</span><br>
 ——————！！！<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 쯧... 내 포격을 맞고도 무사하다는 게 말이 돼?!<br>
 <span style="color:#ff9900;">？？？：</span><br>
 이런 방식의 작전이라지만 META는 결국 META인가.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 이봐——! 우리 레이더도 업그레이드 해줬는데, 주포나 화기를 업그레이드 해줄 방법은 없는 거야?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 조르지 마. 조정 중이야.<br>
@@ -1694,7 +1694,7 @@ META를 겪은 뒤에 나타날 수 있는 결과라는 건가...?<br>
 소류·META가 미친 듯이 공격을 해오고 있었지만,<br>
 타카오•META를 만났던 때처럼 승산이 없게 느껴지지 않았다.<br>
 신비한 아군의 도움을 받은 함대는 이미 승기를 잡아가고 있었다. 소류·META의 속도도, 공격의 강도도 약해지는 것이 눈에 보였다.<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 이제 최후의 일격이다——<br>
 받아라———— 블랙 드래곤 버스터!<br>
 으악! 엄청난 위력이다. 이게 정말 내 주포가 한 공격이라고?!<br>
@@ -1702,11 +1702,11 @@ META를 겪은 뒤에 나타날 수 있는 결과라는 건가...?<br>
 <span style="color:#ff9900;">？？？：</span><br>
 전부 다 너희의 힘으로 한 거야. 나는 그냥 약간의 도움만 줬을 뿐이라고.<br>
 너희의 진정한 힘은, 절대 그 정도가 아닐 테니까...<br>
-<span style="color:#4eb24e;">{{AF|샌프란시스코}}：</span><br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
 잠깐... 뉴저지! 방금 포격에 명중한 적의 잔해가 보이지 않아. 완전히 소실된 걸까?!<br>
-<span style="color:#4eb24e;">{{AF|뉴저지}}：</span><br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
 그럴 리가? 방금 그 공격은 절대로 명중했어! 그리고 부상을 입는 것도 눈으로 확인했는데?!<br>
-<span style="color:#4eb24e;">{{AF|타이콘데로가}}：</span><br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
 그렇다는 것은... 명중한 뒤 폭발로 인한 연기가 사라지는 사이에 무슨 일이 일어났다는 건가...?<br>
 <span style="color:#4eb24e;">헬레나：</span><br>
 설마... 세이렌의 기관이 또 있는 건가?<br>

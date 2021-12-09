@@ -85,15 +85,15 @@
 <br>
 3. 힘내서 가자! <br>
 어느 날·모항 식당<br>
-<span style="color:#4eb24e;">{{AF|쿠마노}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 하이, 마블헤드! 다 들었다구? 지휘관이랑 사진을 찍었다며~?<br>
 <span style="color:#4eb24e;">마블헤드 ：</span><br>
 네, 쿠마노도 관심 있나요? 사진이 잘 나왔는데 보여줄까요?<br>
-<span style="color:#4eb24e;">{{AF|쿠마노}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 어디 보자... 이상하네? 커플처럼 딱 붙어서 찍었을 줄 알았는데 그게 아니잖아~<br>
 <span style="color:#4eb24e;">마블헤드 ：</span><br>
 아무래도 제가 억지로 부탁한 거라서요. 너무 붙으면 좀 그렇잖아요?<br>
-<span style="color:#4eb24e;">{{AF|쿠마노}}：</span><br>
+<span style="color:#4eb24e;">{namecode:60}：</span><br>
 일상생활에서 흔히 있는 스킨십이잖아? 모처럼 찍은 사진인데, 조금 부족한 거 같아.<br>
 <span style="color:#4eb24e;">마블헤드 ：</span><br>
 그래요? 멤피스는요?<br>

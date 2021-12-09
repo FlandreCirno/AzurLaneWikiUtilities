@@ -55,7 +55,7 @@
 ……너희만으론 걱정되니까 따라와 준 거야.<br>
 <span style="color:#92fc63;">벨：</span><br>
 돌아갈 방법은 이스투아르가 조사 중이에요. 걱정 안 해도 된다는 것 같네요.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 마침 다른 정찰 임무 중 마주쳐서, 데려왔어요.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 고마워, 아야나미… 너희도 너희 가짜들이랑?<br>
@@ -63,20 +63,20 @@
 ……으응, 아야나미 일행의 협력으로 어떻게든 격퇴했지만……<br>
 <span style="color:#92fc63;">벨：</span><br>
 솔직히, 쉐어가 없어서 제 실력은 발휘하지 못했죠.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 그러고 보니…… 네푸네푸 일행의 일로, 아카시 씨를 불렀었어요.<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 이야기는 들었다냥. 여신 분들이 여기선 힘을 못 쓴다던데냥?<br>
 <span style="color:#92fc63;">Z23：</span><br>
 아카시 씨, 해결책은 찾았나요?<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 간단해냥, 로마에 가면 로마 법을 따르는 거다냥… 여신들의 전용 장비를 만들면 된다냥.<br>
 이걸로 모두와 함께 출격할 수 있을 거다냥.<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 오오옷! 설마 했던 신장비 떡상 가즈아!<br>
 <span style="color:#92fc63;">느와르：</span><br>
 그런 수가 있었을 줄은…… 아카시, 금방 만들 수 있는 거야?<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 후냥… 오늘은 이미 늦었으니까, 다들 쉬는 게 좋겠다냥.<br>
 아카시가 하룻밤 만에 만들어 보이겠다냥. 기대하고 있어라냥!<br>
 {{折叠面板|内容结束}}
@@ -84,19 +84,19 @@
 {{折叠面板|标题=이색 해역 GREEN|选项=3|主框=1|样式=primary|展开=否}}
 <br>
 이색 해역 GREEN<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 어제 말했던 대로 아카시가 하룻밤 만에 만들었다냥!<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 으으음… 이건 그냥 넘어갈 수 없겠군, 나도 기술 협력했는데……<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 우~와! 신장비다~! 그것도 우리 전용 장비~!<br>
 아카시, 유바리, 고마워! 소중히 다룰게!<br>
 오오~옷! 멋있어~! 이거 대포? 아, 어뢰도 쏠 수 있어?! 이걸로 빠샤빠샤빠샤~하고 날려버리면 된다는 거네!<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 냥냥냥! 사람한테 겨누면 안된다냥?!<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 미안 미안! 조심할게!<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 장비는 여러분이 생각하는 대로 컨트롤 할 수 있어… 그러니까, 부주의하게 발사되는 일은 없겠지만…… 아 이쪽 겨누지 말라니까!?<br>
 <span style="color:#92fc63;">느와르：</span><br>
 내 거는 넵튠과는 다르게 포탑이 메인이네. 그만큼 화력을 중시한다는 건가…… 컬러 매치도 딱 맞아, 좋네!<br>
@@ -105,13 +105,13 @@
 <span style="color:#92fc63;">벨：</span><br>
 제 건 함재기? 라는 건가요? 그걸 발사해서 싸우는 장비로군요…… 이 함재기들도 귀엽고, 저한테 딱 맞아요!<br>
 ……함재기를 귀여운 여자아이 모양으로 만든다든가 할 수 있을까요?<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 그런 건 별도 요금 되시겠다냥.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 ……벨, 여기 와서도 한결같네.<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 그럼 그럼, 내 어뢰도 귀여운 돌고래 같은 걸로 하고 싶어~<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 물자만 내준다면 장비 스킨도 준비할 수 있다냥. 가격은 한 요 정도로……<br>
 <span style="color:#92fc63;">느와르：</span><br>
 그건 나중에 해 나중에! 일단은 우리들의 가짜들을 상대하는 게 최우선이야!<br>
@@ -159,7 +159,7 @@
 아무튼 이쪽에서도 웜홀을 다시 열 수 있도록 전력을 다하겠습니다. 여러분도 아무쪼록 조심해주세요.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 통신은 저희한테도 들렸습니다…… 이걸로 적의 정체가 조금은 보이는 것 같네요.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 분명, 세이렌의 짓……입니다.<br>
 <span style="color:#92fc63;">재블린：</span><br>
 네푸네푸 일행의 데이터를 모아서, 그 가짜를 만든 걸까?<br>
@@ -169,7 +169,7 @@
 세이렌, 치트…… 항상 그래.<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 괜찮아! 우리들은 지지 않아! 반드시 이긴다니까!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 오오, 근거도 없는 굉장한 자신감……!<br>
 <span style="color:#92fc63;">블랑：</span><br>
 ……진지하게 받아들이지 않는 편이 좋아. 확증이 있는 게 아니니까.<br>
@@ -194,7 +194,7 @@
 쉽진 않다니……아직 뭔가 할 일이 더 남은 거야?<br>
 <span style="color:#92fc63;">Z23：</span><br>
 거울해역의 가짜들은, 저희와 넵튠 씨가 처리했다고요.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 아, 혹시…… 아직 부족해, 인가요?<br>
 <span style="color:#92fc63;">이스투아르：</span><br>
 네, 정답이에요. 데이터가 많이 부족합니다.<br>
@@ -212,7 +212,7 @@
 괜찮아 괜찮아, 저게 평소의 잇승이니까.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 중요한 것만 전달하고, "뒤는 맡길게~" 이러는 거 말이지.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 ……조금, 우리 지휘관과 닮았습니다.<br>
 <span style="color:#92fc63;">재블린：</span><br>
 맞아 맞아, 함대 편성하고 "다들 힘내~" 하고 배웅하는 그런 거 말이지?<br>
@@ -241,7 +241,7 @@
 얼른 쳐부숴 버리는 수밖에 없어…… 벨, 너도 전에 거울해역에서 네 가짜들을 철저히 다 쓰러뜨렸었잖아……<br>
 <span style="color:#92fc63;">벨：</span><br>
 역시 동족혐오라는 게 있으니까요… 들어가는 힘이 다르네요.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 그거…… 왠지 알 것 같아요.<br>
 <span style="color:#92fc63;">재블린：</span><br>
 이 거울해역에선, 우리도 자신과 똑같은 모습을 한 적과 싸우는 일이 있으니까…… 남 일 같지 않네.<br>
@@ -297,7 +297,7 @@
 아니, 거기는 지휘관의 편을 들어줘야죠…<br>
 <span style="color:#92fc63;">재블린：</span><br>
 아… 우리 지휘관은 그렇지 않지만…… 연료뿐만 아니라 피로도가 새빨개질 때까지 돌리는 지휘관도 있다는 걸……<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 보여요, 혹사당하는 미래가…… 추가 근무 수당, 청구하는 겁니다.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 어딜 가도 다 양심이 시커먼 놈들뿐이네, 정말이지……<br>
@@ -313,7 +313,7 @@
 그치만…… 이렇게 귀여운 아이들에게 둘러쌓인다니…… 여기는 제게 있어 더할 나위 없는 천국이랍니다~ (꼬옥)<br>
 <span style="color:#92fc63;">재블린：</span><br>
 와아아앗?! 벨 씨, 갑자기 끌어안다뇨?!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 오옷……항모 이상의 포용력… 입니다!<br>
 <span style="color:#92fc63;">느와르：</span><br>
 벨도 가만 보면 넵튠보다 더 평소랑 똑같네……<br>
@@ -347,7 +347,7 @@
 꽤 신선한 체험이었네요…… 하지만, 돌아가야 하는 건가요……<br>
 <span style="color:#92fc63;">라피：</span><br>
 네푸네푸…… 돌아가는 거야?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 그렇게 바로 돌아가지 않아도……조금만 더, 학원에 있어도 좋아, 에요.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 모두…… 미안해. 하지만 우리 4여신이 너무 오래 게임업계를 비우고 있을 순 없거든.<br>
@@ -389,7 +389,7 @@
 어머 어머, 그렇게 얘기해준다면…… 이 언니도 매일 와야겠네요!<br>
 <span style="color:#92fc63;">블랑：</span><br>
 ……벨은 진짜 들어앉을 테니까 못 오게 하는 편이 좋을걸.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 ……응, 모두가 오는 걸 기다리는 거에요.<br>
 <span style="color:#92fc63;">재블린：</span><br>
 그리고 가끔, 우리랑 같이 출격도 하자, 응?<br>

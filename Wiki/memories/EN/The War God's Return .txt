@@ -2,70 +2,70 @@
 {{折叠面板|开始}}
 {{折叠面板|标题=The War God's Return|选项=1|主框=1|样式=primary|展开=否}}
 <br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Shoot... Of course our instruments would stop working inside a Mirror Sea...<br>
 Now, what do we do, sis...<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 What happened to the boastful girl who said she'd "never get us lost" because she's "the auspicious crane, after all"?<br>
 *Sigh*...<br>
 I launched a few scout planes earlier in case something like this happened. We'll need intel on how to get out of here if we want to go home.<br>
 So, until my scout planes return, you'll stand here and reflect on your actions!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 My bad, my bad. I'm glad that you're so dependable though, sis.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 But, while we're stuck here... I just hope we're lucky enough to not run into any Sirens...<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Attention, please... Readings indicate several targets to our front. Identifying... It seems they're Sirens.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Welp, it looks like you jinxed it, sis, hahaha!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ......<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Oops, sorry! That just kinda slipped out of me... Anyway, uhh, all ships, prepare to engage!<br>
 <br>
-<span style="color:#4eb24e;">{{AF|Atago}}：</span><br>
+<span style="color:#4eb24e;">{namecode:67}：</span><br>
 Dear me, after all that talk about the Sirens possessing the power of Poseidon, this is all they amount to...<br>
-<span style="color:#4eb24e;">{{AF|Takao}}：</span><br>
+<span style="color:#4eb24e;">{namecode:66}：</span><br>
 A fitting end for these soulless husks...<br>
 The unrighteous shall not stand before my blade!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Phew... Thank goodness these were just mass-produced Pawns... I'd hate to come across one of their leaders.<br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Attention, detecting a large target to our front... Signal identified as... Tester-α.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Yeah, uh, sis... might be best if you'd keep quiet...<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 Well, well, it seems we have guests... I was expecting to see the Azur Lane, though.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Are you the "Creator" Akagi spoke of?!<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 Ahaha, I am no Creator. My kin and I are simply here to offer humanity, as well as your kind, a choice.<br>
 Either join us and sacrifice the present in the search for evolution, preventing a future of certain doom...<br>
 Or reject change and proceed down the path of annihilation, like you have before.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Sorry, we're not interested in cooperating with the likes of you. Go back to whatever abyss you crawled out of!<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 We learned much about you from your time in the Sanctuary. Indeed, we have already gathered a lot of fascinating data.<br>
 But unfortunately for you, your current selves have yet to exceed our Simulations' output.<br>
 Your cuboid souls were shaped by thousands upon thousands of simulations. That is the core of your existence...<br>
 Your steadfast "soul" brims with confidence, driving you to reject what you perceive as "evil." Yet you lack the capacity to understand your true nature...<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 All you do is spout a bunch of nonsense... If it's a fight you're looking for, then just say it! When I'm done with you, maybe you'll learn to stay home next time!<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 Ahaha... Well, we don't have guests here every day, so I suppose it's time we conduct another experiment.<br>
 Come! Show me what you're worth!<br>
 <br>
-<span style="color:#4eb24e;">{{AF|Ayanami}}：</span><br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
 Nnh... This isn't... looking good...<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 Have you had enough? This overwhelming power is the fruit that Evolution bears... Now surrender yourselves, so we can end this charade.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 Those unusual planes... They must be 10, no, 100 times stronger than ours...<br>
 What's more, nearly all our planes have been destroyed... We'll need the firepower of a battleship to penetrate this Siren's armor...<br>
 ... Zuikaku, turn your back and run. I'll keep the Siren occupied. At least one of us must make it out of here...<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Didn't you hear me when I said I'm not gonna abandon anybody?<br>
 I'll stay with you and fight to the very end...!<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -75,15 +75,15 @@ Well said! Never retreat, never surrender - that is the tenet of the Sakura Empi
 It warms my heart to hear those words in this day and age... I see that the fleet has been entrusted to capable hands!<br>
 We made it just in time. And we have Shoukaku's scout planes to thank for it.<br>
 "Scout planes" is what they call those mechanical birds in the sky? ... My word, how the times have changed, ahahaha!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 ... Isn't that...?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Wait, that flag...<br>
 Is that who I think it is?!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}&{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
 The former flagship of the Combined Fleet, the War God herself!<br>
 It's Mikasa!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Now, my juniors, show me the valor of the Sakura Empire! The true battle has only just begun!<br>
 Unto the righteous that pray, Heaven shall grant righteous aid!<br>
 Our actions here, guided by our beliefs and devotion, shall lead us into the future!<br>
@@ -96,7 +96,7 @@ Brace yourself, Siren!<br>
 *WARNING: DAMAGE LEVELS CRITICAL. CONTROL SYSTEMS DESTROYED.*<br>
 What...?! The Simulations said nothing of this!<br>
 How could an ancient, outdated battleship do this to me?!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 A cannon that lands its every shot fights on even ground against a hundred cannons that only land one-hundredths of theirs.<br>
 The difference in firepower between us is not the decisive factor!<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
@@ -104,9 +104,9 @@ Fascinating... A miscalculation has reared itself. I'll forgive you for now and 
 I've prepared an escape route for you.<br>
 If you hope to change history, then go ahead and try.<br>
 However, there is one thing you should remember: we are always watching you... Ahaha!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Wait! Get back here!<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 No, Zuikaku! There's no point in pursuing her!<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 Hahaha! You would do well to listen to her, unless you're that eager to throw away the life I just spared.<br>
@@ -120,154 +120,154 @@ If the Sakura Empire manages to get their hands on that power...<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Upheaval|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 L-listen, everyone! A person with an incredible air of grandeur has just shown up in the harbor!<br>
-<span style="color:#4eb24e;">{{AF|Shiratsuyu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 An air of grandeur...? Wh-what does that mean?<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 It means... Well, it basically means they're a grandiose person! She's a veteran from the war!<br>
-<span style="color:#4eb24e;">{{AF|Shiratsuyu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 Oooh! I don't really get the hype, but I know what grandiose means!<br>
-<span style="color:#4eb24e;">{{AF|Shigure}}：</span><br>
+<span style="color:#4eb24e;">{namecode:17}：</span><br>
 Old news! Ayanami told me about that ages ago!<br>
 I heard all the cruisers and battleships are already on their way to meet her, but... is she seriously that big of a deal?<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Of course she is! She was the Combined Fleet's flagship during the first war! She's amazing, and I want to take a photo with her!<br>
-<span style="color:#4eb24e;">{{AF|Shiranui}}：</span><br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
 Ehehe... This smells like a good business opportunity...<br>
-<span style="color:#4eb24e;">{{AF|Yuudachi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:16}：</span><br>
 Is she the reason why the canteen closed early?! That's animal cruelty! I'm starving here!<br>
-<span style="color:#4eb24e;">{{AF|Ikazuchi}}：</span><br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
 Hmm, I see! But I thought most who fought in the war went off somewhere, never to be seen again...<br>
-<span style="color:#4eb24e;">{{AF|Inazuma}}：</span><br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
 Don't you think it's strange that she's come here all of a sudden...?<br>
-<span style="color:#4eb24e;">{{AF|Shiratsuyu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:15}：</span><br>
 Zzzzzzz...<br>
-<span style="color:#4eb24e;">{{AF|Kagerou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:19}：</span><br>
 Well, if you're not coming with me, so be it! I'll head to the harbor on my own!<br>
 <br>
 Port - Docking Area<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Ohh! What magnificence!<br>
 Located in a strategic position, equipped with every facility one could desire, and stockpiled with supplies and items of all manner...<br>
 Mhm. It has everything a naval port should have.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 As a naval port, specifically?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Indeed. Back in my day, I made many visits to naval and civilian ports alike, you see... That aside, I must say, there are many things unfamiliar to me in this new age...<br>
 Especially these soaring... what did you call them, "ear-playings"?<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 You mean... airplanes, I believe?<br>
 Yes, compared to your time in service, airplanes are much more pivotal to controlling the flow of combat than cannons. Like in the battle the other day...<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Hah, you don't need to be so demure. I may be behind on the times, but there's no need to worry so much about me! Here, cheer up!<br>
 I'll admit, I could feel my age in our battle with that "Siren" individual.<br>
 But the thrill of battle hasn't changed after all this time.<br>
 The chills from your enemy's murderous intent, the smell of gunpowder, the heat of a salvo, the shriek of clashing metal...<br>
 All these things have stayed just the same.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 You really live up to your name as a veteran... I deeply admire you, Mikasa!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 N-now, now... There's no need for excessive praise. I, and all the others of my time, merely did what was necessary of us.<br>
 If anything, it is you young ones who deserve praise. Your valiant effort during that battle was truly astounding.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Um, I have a question, if you don't mind! I'd like to know how I can become as strong as you, Mikasa!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 You're quite the straightforward one... Very well. There is one critical thing that you are missing, that has nothing to do with your armaments.<br>
 Something indispensable to ultimately achieving victory.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 "Ultimate victory"...! You know of a secret, special training method? If it isn't about our equipment, then I assume it has to be something like-<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Nay. You may be ill-disposed to understand it, but, if you ask an old-timer battleship like me...<br>
 What truly determines who emerges victorious in a battle is not equipment, tactics, or logistics.<br>
 The thing that it ultimately comes down to... is the strength of your convictions.<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Celebratory Banquet|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Hiei}}：</span><br>
+<span style="color:#4eb24e;">{namecode:71}：</span><br>
 Sadly, Haruna wasn't able to help, but I'm pleased to present to you this banquet's buffet, made by yours truly. Everyone, please rest your weary bones from the battle and enjoy yourselves to your heart's content~<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 I thought you'd feel out of place in a party like this, Mikasa.<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Ahahah! I have no distaste for fine wine, gourmet food, and partying. The celebration after the Battle of Tsushima lasted 3 days and nights!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Maybe it's just me... but I'm struggling to imagine how you'd look when partying...<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Do you really take me for such a stuffy person? No matter... What do you think of Hiei's banquets, Zuikaku?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Of course I love them! If I didn't, then I wouldn't show up to training when- Oh, I'm referring to training in my free time, not regular training!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 So you train in your spare time... It's good to see how many hard workers there are here.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 It does. Although some of us work TOO hard... Still, with the Sirens as our enemy, we need to wager all we have!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Wager all you have... Zuikaku, what is the dearest, most important thing you want to protect at any cost?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 The most important thing to me? Umm... There are a lot of things... Like Shoukaku, my friends... or a victory against the Grey Ghost. It's hard to choose just one... I don't think I even can.<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Then let me rephrase my question. I don't doubt that you would wager everything to be victorious, but what is that "everything" to you?<br>
 In the moment you exclaim, "I will fight for this world," is there a force welling up from within your heart?<br>
 And when you feel hopeless or in despair, is your "everything" not "the fate of humanity and the world," but rather your friends, rivals, and celebratory moments like this banquet?<br>
 To discard that "everything" is to disavow yourself of your being. And those who reject their very being cannot hope to ever overcome their limits.<br>
-<span style="color:#4eb24e;">{{AF|Hiei}}：</span><br>
+<span style="color:#4eb24e;">{namecode:71}：</span><br>
 ... Not to interrupt your conversation, but the dance is starting soon.<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Ah, I lost track of time... Now, I need a dance partner... Zuikaku, would you oblige me?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 M-me?! B-but I'm not a good dancer...<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 You needn't be so coy! Come! I won't be angry at you even if you step on my toes during the more difficult parts.<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Conviction|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Mikasa, I wanted to thank you for yesterday. Admittedly, there were a few things you mentioned I didn't quite understand...<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 In that case, why don't we have a friendly duel?<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 A duel... with you?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 With whom else? Rigorous training builds character. You might even learn a thing or two.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Okay! I'll try not to hold myself back! Say, the exercise area is vacant right now, so how about we go there right now?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 We could just as well do it here... but very well. Let's head over then. Oh, Zuikaku, before I forget...<br>
 (She said dancing isn't her forte, but she didn't step on my toes at any point during the dance...)<br>
 <br>
 A short while later...<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Come on, Zuikaku! Where'd your vigor from the battle with the Siren go?<br>
 Your attacks are all too stilted! With but one glance, I can predict where you're aiming!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 So I really don't stand a chance against you after all...<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 What hogwash! You aren't fighting me earnestly!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ... There's nothing wrong with my equipment, so why... Why do I struggle against you?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Your wit still fails you, I see. Compared to when you fight the Sirens or Enterprise, there is a decisive difference in how you approach a battle with me.<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 ...?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 You are afraid to injure me, thus all your attacks are muddled by hesitation.<br>
 Some simply overthink war, and then there's the other side of the coin - you. Once on the battlefield, focus only on the battle!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 That's easier said than done...!<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 I understand your anxiety. However, if you cannot even choose your own path, then nobody else will be able to help you.<br>
 It is your decision if you wish to stay in my shadow. But if you pledge to "wager everything," then commit to seeing it through!<br>
-<span style="color:#4eb24e;">{{AF|Zuikaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
 Commit to it... I understand now. Mikasa, would you please have another duel with me someday?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Absolutely. My guidance shall serve as a stepping stone.<br>
 But, do not rely on me as a crutch. Afterwards, you must move forward through your own strength.<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 Phew... here we are.<br>
-<span style="color:#4eb24e;">{{AF|Shoukaku}}：</span><br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
 What is this flag for...?<br>
-<span style="color:#4eb24e;">{{AF|Mikasa}}：</span><br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
 This flag once led me to victory.<br>
 And with it, you too will surely find your own path to victory.<br>
 Dishearten the enemy with your dignity, bolster your shortcomings with your courage, and seize victory in the very end with your conviction and willpower.<br>

@@ -135,7 +135,7 @@
 네푸풋?! 뭐야, 이 이머~얼젼시한 경고음은?!<br>
 <span style="color:#92fc63;">Z23：</span><br>
 긴급출격? 설마…… 적의 습격?!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 다들, 여기 있었군요… 찾았어요.<br>
 본부로부터 긴급무전, 이에요. 학원 근해에 돌연, 거울해역이 발생…속히 정찰부대를 파견하라고 합니다. Z23, 부탁해요.<br>
 <span style="color:#92fc63;">Z23：</span><br>
@@ -167,13 +167,13 @@
 그럼, 네푸네푸로 하자. 듣기에도 귀엽잖아.<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 오옷, 좋은 센스네! 그래서 말이지, 우리들은 게임업계(界)라는 곳에서 왔어~ 플라네튠이란 나라의 여신이야!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 여신, 인가요? 전혀 그렇게는 안 보입니다…… 증거는 있나요?<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 증거? 정말이지, 별수 없구만~ 살짝만 보여줄게, 변~신!<br>
 <span style="color:#92fc63;">퍼플 하트：</span><br>
 ……후우, 역시 쉐어가 적으면 이 모습을 유지하는 것도 힘드네.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 오오! 진짜로 변신했다, 에요……!<br>
 <span style="color:#92fc63;">Z23：</span><br>
 그건 그렇고, 아까 거울해역에서 싸웠던 상대잖습니까?!<br>
@@ -191,13 +191,13 @@
 저희도 자기소개를…… 저는 Z23이라고 해요, 잘 부탁합니다.<br>
 <span style="color:#92fc63;">재블린：</span><br>
 재블린입니다~ 잘 부탁해♪<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 아야나미, 에요… 잘 부탁, 입니다.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 면목이 없네. 갑자기 폐를 끼쳐서…… 우리, 이쪽 세계에 막 온 참이라 뭐가 뭔지 하나도 모르다 보니……<br>
 <span style="color:#92fc63;">Z23：</span><br>
 아뇨, 신경쓰지 마세요. 곤란할 땐 서로 돕는 겁니다.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 다른 차원에서 왔다, 인가요…… 애니에서 자주 봤으니까 알고 있습니다.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 아야나미 씨, 그건 픽션아닌가요……?<br>
@@ -205,7 +205,7 @@
 넵튠하고 왠지 같은 냄새가 나는데…<br>
 그것보다… 여긴 대체 어떤 세계인 거야? 쉐어도 미약하게나마 존재하고 있고, 게임업계와 뭔가 관계가 있는 듯한 느낌이 들어.<br>
 우리들의 가짜가 나타난 거울해역이란 것도 수수께끼고…… 이 세계에 우리가 빨려들어 온 것과 관계가 있는 걸까나?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 ……가능하다면, 저희도, 이야기를 듣고 싶어요.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 우선, 학원 내 거주 및 체류에 관해서는, 제가 지휘관에게 신청했습니다. 방금 허가가 떨어졌으니 걱정 마세요.<br>
@@ -215,7 +215,7 @@
 낮잠은 필요 없잖아… 그래도, 덕분에 살았어. 고마워, Z23.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 아뇨, 별거 아닌 걸요. 그러고 보니 여러분, 배는 안 고프신가요?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 배가 고프면 싸울 수 없다, 에요. 식사가 준비되어 있어요.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 어머, 고마워. 이 세계에 오고 나서 아무것도 못 먹었거든. 잘 됐다!<br>
@@ -250,7 +250,7 @@
 이 세계와 게임업계와의 관계나, 웜홀에 관해서도 함께 자세히 조사하려고 하는 거죠.<br>
 <span style="color:#92fc63;">재블린：</span><br>
 어느샌가 여신님이 늘어났어!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 둘이나 넷이나 거기서 거기, 에요……<br>
 <span style="color:#92fc63;">Z23：</span><br>
 아하하하… 떠들썩해지겠네요.<br>
@@ -265,7 +265,7 @@
 자, 그럼 다 함께! 넵푸네푸하게 해줄게~♪<br>
 <span style="color:#92fc63;">라피 & 재블린：</span><br>
 넵푸네푸하게 해줄게~♪<br>
-<span style="color:#92fc63;">{{AF|이나즈마}}&{{AF|이카즈치}}：</span><br>
+<span style="color:#92fc63;">{namecode:14}&{namecode:13}：</span><br>
 넵푸네푸하게 해줄게~♪<br>
 <span style="color:#92fc63;">새러토가 & 샌디에이고：</span><br>
 넵푸네푸하게 해줄게~♪<br>
@@ -277,7 +277,7 @@
 이거 복제품이라 괜찮다니깐! 내가 작사 작곡 안무를 담당한, 오리지널 곡 ! 조금 보여줬더니, 구축함 사이에서 인기 폭발! 대히트 중~이라고!<br>
 <span style="color:#92fc63;">느와르：</span><br>
 그게 문제가 아니라고…… 나 원.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 항모나 경순양함도 자연스럽게 껴 있는 것 같은데……?<br>
 <span style="color:#92fc63;">Z23：</span><br>
 조만간, 전함이나 중순양함들 사이에서도 유행할 듯한 기세네요.<br>
@@ -299,9 +299,9 @@
 그, 그런 문제가 아니라고 생각하는데……<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 좋아~ 하자 하자♪ 그럼 처음엔 내가 술래 할게!<br>
-<span style="color:#92fc63;">{{AF|이카즈치}}：</span><br>
+<span style="color:#92fc63;">{namecode:13}：</span><br>
 그렇구나! 네푸네푸 상냥해~! 모두, '이스케이프' 하는 거야!<br>
-<span style="color:#92fc63;">{{AF|이나즈마}}：</span><br>
+<span style="color:#92fc63;">{namecode:14}：</span><br>
 ……저도 도망칠게요, '삼십육계줄행랑' 입니다……<br>
 <span style="color:#92fc63;">샌디에이고：</span><br>
 얏호! 익사이팅하게 숨자~!<br>
@@ -309,7 +309,7 @@
 도망쳐 도망쳐~! 퇴각전이다~!<br>
 <span style="color:#92fc63;">느와르：</span><br>
 하아… 완전히 넵튠의 페이스잖아. 주위 애들도 들떠있고…… 이 이상은 못 따라가겠어.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 하지만…… 모두 즐거워 보이고, 웃고 있어요.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 이런 것도 나쁘진 않다고, 전 생각합니다.<br>
@@ -320,26 +320,26 @@
 벨 씨와 블랑 씨 말입니까? 두 분이라면……<br>
 <span style="color:#92fc63;">벨：</span><br>
 여기는…… 혹시 천국이 아닐까요?<br>
-<span style="color:#92fc63;">{{AF|무츠키}}：</span><br>
+<span style="color:#92fc63;">{namecode:33}：</span><br>
 벨 언니, 사탕 더 쥬세여!<br>
-<span style="color:#92fc63;">{{AF|키사라기}}：</span><br>
+<span style="color:#92fc63;">{namecode:34}：</span><br>
 무츠키 혼자만… 치사해, 키사라기도 사탕, 주세요…<br>
-<span style="color:#92fc63;">{{AF|우즈키}}：</span><br>
+<span style="color:#92fc63;">{namecode:137}：</span><br>
 나도 나도! 언니들보다 커~다란 거!<br>
 <span style="color:#92fc63;">벨：</span><br>
 네 네, 사람 수만큼 다 있으니까요~♪ 캔디, 마시멜로, 초콜렛… 사탕 말고 다른 과자도 잔뜩 있답니다~♪<br>
-<span style="color:#92fc63;">{{AF|무츠키}}：</span><br>
+<span style="color:#92fc63;">{namecode:33}：</span><br>
 와~아! 먹어본 적 없는 사탕이 가득가득~!<br>
-<span style="color:#92fc63;">{{AF|키사라기}}：</span><br>
+<span style="color:#92fc63;">{namecode:34}：</span><br>
 초콜렛, 맛있어…<br>
-<span style="color:#92fc63;">{{AF|우즈키}}：</span><br>
+<span style="color:#92fc63;">{namecode:137}：</span><br>
 으~응, 마시멜로 폭신폭신~♪<br>
 <span style="color:#92fc63;">벨：</span><br>
 우후후… 어쩌다가 모아온 과자 세트가 도움이 될 줄이야…… 역시 세상 일은 알 수가 없네요. 자, 과자 먹고 싶은 귀여운 아이들은 여기로 오세요~♪<br>
 <span style="color:#92fc63;">아크 로열：</span><br>
 크으윽… 귀여운 여동생들을 과자로 꾀어내다니…… 부럽고 괘씸하도다!<br>
 ……다음엔, 나도 따라 해야지!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 ……라는 느낌으로, 어린아이들과 놀고 있는 거에요.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 뭔가 위험해 보이는 사람도 껴있지 않았어?<br>
@@ -351,7 +351,7 @@
 블랑 씨라면, 이 세계의 책에 흥미가 있다고 하셔서, 도서관의 위치를 알려주었습니다. 나중에, 저도 잠깐 들러볼 생각입니다.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 다들 제각기 이쪽 세계를 즐기고 있구나…… 그럼 나도, 학원을 좀 돌아다녀 보도록 할까.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 그럼, 아야나미가 안내해줄게, 에요.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 고마워, 아야나미. 그럼 부탁할게.<br>
@@ -366,12 +366,12 @@
 이 어쩜 이상적인… 게이머를 위한 공간이란 말인가요.<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 어서 오세요~ 게임 애호회에 잘 오셨습니다~<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 이곳은 게임을 사랑하고, 방탕을 사랑하고, 임무로부터 해방되는 순간 폐인으로서 살아가는 자들의 쉼터……환영한다!<br>
 <span style="color:#92fc63;">벨：</span><br>
 네, 그렇죠. 저희 게이머들에게 이런 장소는 필수불가결이죠…… 압니다, 알고 말고요……<br>
 게임을 하는 때엔, 누구에게도 방해받지 않는, 자유라고나 할까요…… 마음이 치유되는 것 같은 장소가 필요하죠. 혼자서, 조용하고, 풍족하게……<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 음음음, 이 얼마나 깊이가 있는 말이란 말인가…… 너, 프로구나?<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 아야나미에게 듣긴 했지만, 우리와 이렇게까지 얘기가 통하다니… 언니, 진짜 게이머구나!<br>
@@ -382,15 +382,15 @@
 ──타닥타닥타닥타닥타닥타닥……타앗!<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 괴, 굉장해……FPS에서 쏠 때마다 헤드샷! 단 한 발도 빗나가지 않다니?!<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 몬스터 헌팅 게임인데 빤스 차림에 솔플… 으으음, 심지어 노 대미지 클리어?!<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 시뮬레이션 게임에서도 무적이야! 압도적인 점수 차이로 랭킹 톱?!<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 육, 해, 공…… 모든 군사 시뮬레이션을 제패했어!<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 마, 말도 안 되는 플레이 스킬…! 게다가, 틈날 때마다 콜라도 마시면서……!<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 전광석화의 속도로 감자칩까지…… 전율할만한 플레이 스킬!<br>
 <br>
 ──타닥타닥타닥타닥타닥타닥……타탓!!<br>
@@ -398,7 +398,7 @@
 ……후우, 대략 이 정도로 하죠.<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 언니…… 그야말로 신! 게이머의 신이야, 굉장해……<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 유바리도 감복하였다! 너야말로… 이 세계에 강림한, 게이머의 신……!<br>
 <span style="color:#92fc63;">벨：</span><br>
 우후후, 과찬이세요… 저는 린 박스의 여신, 진짜 여신이랍니다~♪<br>
@@ -409,13 +409,13 @@
 뭐, 농담은 이쯤 하기로 하고… 모처럼만에 하는 게임이니, 이번엔 모두와 함께 즐길 수 있는 걸 하죠. 이 언니가 한수 알·려·줄·게·요♪<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 응, 하자 하자! 그럼 다인 플레이가 가능한 걸로 하자.<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 으으음, 그렇다면, 좀 더 참가자가 있었으면 좋겠는데……<br>
 <span style="color:#92fc63;">퀸 엘리자베스：</span><br>
 여기가 아랫것들이 모여 논다는 게임 동호회구나!<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 실례하지. 폐하가 한 번 견학을 하고 싶다 하셔서……<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 ……아, 참가자가 온 건가?<br>
 <span style="color:#92fc63;">퀸 엘리자베스：</span><br>
 여왕이 친히 와주었으니, 재미있는 게임이라도 내오너라! 될 수 있으면 내가 연전연승할 수 있고, 흥겹게 즐길 수 있는 놈으로!<br>
@@ -425,7 +425,7 @@
 그럼 그럼~! 모처럼만이니까 즐기자고. 다 함께 게임폐인이 되자~♪<br>
 <span style="color:#92fc63;">퀸 엘리자베스：</span><br>
 바라던 바다! 상대가 누구라 해도 여왕이 최강이란 걸 세상 사람들이 알게 해주지! 자, 무슨 게임이라도 좋으니 가져와 봐!<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 서로 다른 이야길 하는 거 같은데… 괜찮은 건가?<br>
 <span style="color:#92fc63;">벨：</span><br>
 어머어머이런이런…… 또 귀여운 어린아이가 두 명이나 와주다니…… 이 언니도 힘내볼까요～♪<br>
@@ -433,7 +433,7 @@
 누구더러 어린애라는 거야?!<br>
 <span style="color:#92fc63;">워스파이트：</span><br>
 어리다니, 그런 말은 그냥 듣고 넘길 수 없겠군……<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 아, 저 사람…… 아크 로열과 같은 냄새가 나!<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 뭐든 좋으니까 빨리하자~ 다 함께 시끌벅적해서 기대돼~<br>
@@ -512,7 +512,7 @@ Z, Z19?!<br>
 ……미안. 조금, 재밌어서.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 뭐랄까, 레인져 선생님의 의외의 모습을 본 것 같네요.<br>
-<span style="color:#92fc63;">{{AF|소류}}：</span><br>
+<span style="color:#92fc63;">{namecode:93}：</span><br>
 어머, 도서관인데 좀 시끄럽네…… 다들, 무슨 일이야?<br>
 <span style="color:#92fc63;">블랑：</span><br>
 ……잠깐, 레인져를 괴롭히며 놀고 있었어.<br>
@@ -520,13 +520,13 @@ Z, Z19?!<br>
 블랑, 이제 용서해줘……<br>
 <span style="color:#92fc63;">Z23：</span><br>
 소류 씨도 책을 빌리러 오신 건가요?<br>
-<span style="color:#92fc63;">{{AF|소류}}：</span><br>
+<span style="color:#92fc63;">{namecode:93}：</span><br>
 으응, 좀 공부할 필요가 있지 않을까 해서.<br>
 <span style="color:#92fc63;">Z19：</span><br>
  , , …… 선생님을 위한 참고서뿐이네요.<br>
 <span style="color:#92fc63;">레인저：</span><br>
 소류…… 선생님?<br>
-<span style="color:#92fc63;">{{AF|소류}}：</span><br>
+<span style="color:#92fc63;">{namecode:93}：</span><br>
 레인져 씨까지 다들 무슨 소릴 하는 거야… 하아, 나 정말 이대로 가다가 선생님 캐릭터가 굳어져 버리는 거 아닐까……?<br>
 <span style="color:#92fc63;">블랑：</span><br>
 ……이 학원, 선생님 좀 많은 거 같지 않아?<br>
@@ -546,9 +546,9 @@ Z, Z19?!<br>
 이로 인해 실현된 빅 이벤트! 오늘은 학원 전체가 오락실이 되어 있습니다! 자, 모두들! 마음껏 놀아요 마음껏~!!<br>
 <br>
 ──와아아아아아아아!! 둥둥! 팡팡!<br>
-<span style="color:#92fc63;">{{AF|아카시}}：</span><br>
+<span style="color:#92fc63;">{namecode:98}：</span><br>
 자재는 그냥 제공된 게 아니다냥. 이번 이벤트로 번 만큼, 확실히 회수할테다냥.<br>
-<span style="color:#92fc63;">{{AF|유바리}}：</span><br>
+<span style="color:#92fc63;">{namecode:37}：</span><br>
 으음, 다른 차원의 게임 기술……처음 느껴보는 데이터뿐이라 신선하구나! 이걸 참고로 새 장비를 만들 순 없겠나?<br>
 <span style="color:#92fc63;">느와르：</span><br>
 뭐…… 게임업계의 여신이라면, 게임 디스크 정도는 당연히 늘 갖고 다니지…… 아하하하하하. (우연치않게 갖고 있었다고 이제 와서 말할 순 없지……)<br>
@@ -560,9 +560,9 @@ Z, Z19?!<br>
 ──와아아아아아아아!! 둥둥! 팡팡!<br>
 <span style="color:#92fc63;">느와르：</span><br>
 에, 음, 그게… 에헤헤, 뭐, 이 정도는, 여신으로서 당연한 거지! 자, 오늘은 즐겨줘! 내가 대접할게!<br>
-<span style="color:#92fc63;">{{AF|이카즈치}}：</span><br>
+<span style="color:#92fc63;">{namecode:13}：</span><br>
 이렇게 큰 '이벤트' 를 개최할 수 있다니…… 그렇구나! 느와르 씨, 역시~! 이게 '매니지먼트' 라는 거구나!<br>
-<span style="color:#92fc63;">{{AF|이나즈마}}：</span><br>
+<span style="color:#92fc63;">{namecode:14}：</span><br>
 저도 감복했습니다… 클래스가 다른 '기획력' 과 '프로듀서력' 이에요…<br>
 <span style="color:#92fc63;">느와르：</span><br>
 뭐, 말을 꺼낸 건 넵튠이지만, 그 녀석 중간에 귀찮다고 전부 나한테 떠넘겼지. 정말, 내가 없었으면 어떻게 됐을지…<br>
@@ -587,11 +587,11 @@ Z, Z19?!<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 전투는 화력, 전투는 화력… 아앗, 탄약이 모자라!<br>
 아야나미~! 탄약 가져와 탄약~! 이대로 가면 지고 말 거야!<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 알아서 어떻게 좀 해보세요, 에요…… 여기도 지금 다 써버린 겁니다!<br>
 <span style="color:#92fc63;">벨：</span><br>
 우후후후…… 아직 멀었네요, 신병이라 그런 거겠죠? 전략 FPS에서 이 언니에게 이길 수 있을 거라 생각했나요?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 ……벨 언니, 역시 강해, 에요……!<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 2대 1이라 이쪽이 유리할텐데, 왜 지고 있는 거야~?<br>
@@ -601,11 +601,11 @@ Z, Z19?!<br>
 재블린도 몰래 들어와 있답니다~♪<br>
 <span style="color:#92fc63;">롱 아일랜드：</span><br>
 으엑?! 이러면 당연히 저쪽 병력이 더 많지~! 3대 2잖아?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 비겁해요! 벨 언니……!<br>
 <span style="color:#92fc63;">벨：</span><br>
 후후후…… 병불염사, 전쟁에선 속임수도 꺼리지 않는 법, 이것도 전략의 하나죠. 여러분, 공부가 되셨나요?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 그렇군, 이에요…… 그럼, 이쪽도 원군 요청입니다!<br>
 <span style="color:#92fc63;">Z23：</span><br>
 그러므로~ 견의불위무용야, 의를 보고도 행하지 않는 건 용기가 없는 것! 아야나미 씨 일행에 가담하겠습니다!<br>
@@ -620,9 +620,9 @@ Z, Z19?!<br>
 <span style="color:#92fc63;">벨：</span><br>
 어머어머, 눈 깜짝할 새 지게 생겼네요. 패색이 짙어졌어요.<br>
 하지만…… 역경에 처하고 이를 헤쳐나가는 걸 즐기는, 이런 플레이 방법도 있답니다.<br>
-<span style="color:#92fc63;">{{AF|이카즈치}}：</span><br>
+<span style="color:#92fc63;">{namecode:13}：</span><br>
 그렇구나! 이 코너에서 '사륜 드리프트' 야!<br>
-<span style="color:#92fc63;">{{AF|이나즈마}}：</span><br>
+<span style="color:#92fc63;">{namecode:14}：</span><br>
 이카즈치, 뭘 좀 아는군요. '스티어링' 이 좋은 차종을 고르다니.<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 뭐~라고~! 가장 빠른 차를 골랐는데, 왜 못 이기는 거야?!<br>
@@ -632,9 +632,9 @@ Z, Z19?!<br>
 넌, 액셀 밟고 무조건 들이대고 있잖아.<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 커브에선 잘 돌았는…… 네풋?! 또 부딪혔어?!<br>
-<span style="color:#92fc63;">{{AF|이카즈치}}：</span><br>
+<span style="color:#92fc63;">{namecode:13}：</span><br>
 네푸네푸가 허둥지둥하는 사이에 '고~올!' '위닝 런' 은 이이 이카즈치 님 거라고~!<br>
-<span style="color:#92fc63;">{{AF|이나즈마}}：</span><br>
+<span style="color:#92fc63;">{namecode:14}：</span><br>
 이카즈치, 훌륭합니다… 뒤이어 저도 '골'…자매가 1위 2위를 '독점' 했습니다. 이건 승리의 '샴페인' 을 터뜨려야겠군요……<br>
 <span style="color:#92fc63;">넵튠：</span><br>
 우으으으…… 한 판 더! 한 판 더 하자, 이카즈치, 이나즈마!<br>
@@ -699,7 +699,7 @@ Z, Z19?!<br>
 게임업계를 오래 비워두는 것도 좋지 않으니까요.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 그럼, 아쉽지만…… 가시는 거죠?<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 겨우 친해졌는데…… 유감이에요.<br>
 <span style="color:#92fc63;">느와르：</span><br>
 응, 나도. 하지만, 라스테이션의 일도 있으니… 나중에 또 만나러 올게.<br>
@@ -714,7 +714,7 @@ Z23, 아야나미, 정말 고마워. 너희와 만나서 다행이야.<br>
 아 그거…… 내 몫은 넵튠한테 줄게.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 역시 못 드시는 건가요…… 그건 저희 전용 음료니까요, 지휘관도 못 드시기도 하고 말이죠.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 ……네푸네푸, 꿀꺽꿀꺽 마셨어요. 우리랑 같은 입맛?<br>
 <span style="color:#92fc63;">이스투아르：</span><br>
 그럼 여러분, 슬슬 웜홀에 들어가주세요.<br>
@@ -724,15 +724,15 @@ Z23, 아야나미, 정말 고마워. 너희와 만나서 다행이야.<br>
 응, 알겠어…… 그럼 Z23, 아야나미, 고마워. 이런저런 일들일 있었지만, 나도 즐거웠어.<br>
 <span style="color:#92fc63;">Z23：</span><br>
 저야말로, 뭐라 감사의 말씀을 드려야할지… 감사합니다, 느와르 씨.<br>
-<span style="color:#92fc63;">{{AF|아야나미}}：</span><br>
+<span style="color:#92fc63;">{namecode:6}：</span><br>
 아야나미도 즐거웠어, 에요. 바이바이, 느와르.<br>
 <span style="color:#92fc63;">벨：</span><br>
 무츠키, 키사라기, 우즈키, 금방 또 놀러 올 테니까…… 이 언니가 다음엔 더 많~이, 사탕이랑 과자를 갖고 올게요!<br>
-<span style="color:#92fc63;">{{AF|무츠키}}：</span><br>
+<span style="color:#92fc63;">{namecode:33}：</span><br>
 응, 벨 언니, 사탕 약속 꼭꼭!<br>
-<span style="color:#92fc63;">{{AF|키사라기}}：</span><br>
+<span style="color:#92fc63;">{namecode:34}：</span><br>
 기다릴게…… 빠이빠이, 벨 언니.<br>
-<span style="color:#92fc63;">{{AF|우즈키}}：</span><br>
+<span style="color:#92fc63;">{namecode:137}：</span><br>
 빠이빠이~♪<br>
 <span style="color:#92fc63;">벨：</span><br>
 아아……어쩜 저리도 사랑스러울까! 역시 돌아가고 싶지 않네요!<br>

@@ -647,7 +647,7 @@ In the blink of an eye, the venue fell silent. The air became tense as the ships
 Everyone, please remain calm! Our flawless defenses will protect us!<br>
 Even if they should fail, we will keep you safe no matter what!<br>
 Suruga, Noshiro, it's time to sortie, immediately!<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}&{{AF|Suruga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}&{namecode:175}：</span><br>
 Understood!<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
 No Siren shall lay as much as a finger on our guests as long I stand!<br>
@@ -663,20 +663,20 @@ Suruga, are you hanging in there? This is your first battle with Sirens, isn't i
 Agh...! There's no end to them! We sink one, and two take its place!<br>
 <span style="color:#4eb24e;">Suruga：</span><br>
 (Just my luck! It's my first real battle, and I'm struggling to keep up! I should've never signed up for this thing!)<br>
-<span style="color:#4eb24e;">{{AF|Ryuuhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 The Sirens haven't attacked the main islands for a long time, so I haven't had much experience with them...<br>
 But now I know just how menacing they are...!<br>
 Everyone! We need to hold this position and fight with everything we have!<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Pawns|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">{{AF|Ryuuhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 Kasumi! Kinu! You've held out well! Now get over here and–<br>
-<span style="color:#4eb24e;">{{AF|Suruga}}：</span><br>
+<span style="color:#4eb24e;">{namecode:175}：</span><br>
 Ryuuhou! Look out!<br>
-<span style="color:#ec5d53;">{{AF|Kasumi}}？：</span><br>
+<span style="color:#ec5d53;">{namecode:180}？：</span><br>
 ......<br>
-<span style="color:#ec5d53;">{{AF|Kinu}}？：</span><br>
+<span style="color:#ec5d53;">{namecode:181}？：</span><br>
 ...<br>
 <span style="color:#4eb24e;">Noshiro：</span><br>
 What are you doing?! Stop the friendly fire!<br>
@@ -710,16 +710,16 @@ What's happening...?!<br>
 It's the Sirens' doing. We just got here from across the islands, and it seems this entire region has turned into a Mirror Sea.<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
 Kinu! Kasumi! Are you okay?!<br>
-<span style="color:#4eb24e;">{{AF|Kinu}}：</span><br>
+<span style="color:#4eb24e;">{namecode:181}：</span><br>
 I'm fine. We took care of all the mass-produced units in our sector, then rushed over here when we spotted your recon planes.<br>
 Abnormal weather phenomena, loss of communication with the outside... it's just like what the records said...<br>
 But there's one key difference. Previously, Mirror Seas were known to only occur over water. There have been no instances of them covering the land as well.<br>
 We may not be able to stop this Mirror Sea merely by defeating the Sirens this time. Ryuuhou, what should we do next?<br>
-<span style="color:#4eb24e;">{{AF|Ryuuhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 There's no time to think about that. The next wave of attacks is coming our way already.<br>
-<span style="color:#4eb24e;">{{AF|Noshiro}}：</span><br>
+<span style="color:#4eb24e;">{namecode:50}：</span><br>
 This area is surrounded by reefs... There's no way the Sirens should have been able to cross from underwater, so how did they...<br>
-<span style="color:#4eb24e;">{{AF|Ryuuhou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
 Kasumi, Suruga, come with me to assess the situation. The rest of you, establish a defensive line here!<br>
 <span style="color:#4eb24e;">Everyone：</span><br>
 Aye aye!<br>

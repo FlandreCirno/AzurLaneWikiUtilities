@@ -155,15 +155,15 @@ I doubt it'll be that easy... They're probably already working out a counter to 
 Hooyah!<br>
 <span style="color:#4eb24e;">Montpelier：</span><br>
 You're pretty tough after all... Guess that's why you're the flagship of Destroyer Division 3!<br>
-<span style="color:#4eb24e;">{{AF|Sendai}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 Not bad, you've managed to keep up with me... But this ain't gonna be a repeat of last time we met!<br>
 <span style="color:#4eb24e;">Denver：</span><br>
 I don't care if you're a heavy cruiser... I'm not gonna let you win!<br>
-<span style="color:#4eb24e;">{{AF|Myoukou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:63}：</span><br>
 Come at me! I've trained long and hard for this, and I'm not planning on losing to you lot!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 It's come down to a 1 on 1 for each of us...! They're using that strategy from way back then!<br>
-<span style="color:#4eb24e;">{{AF|Agano}}：</span><br>
+<span style="color:#4eb24e;">{namecode:49}：</span><br>
 Are you displeased with my choice of tactics? *Giggle*, then say it to my face~<br>
 <br>
 Cleveland's team was struggling with the strategy the opposing team was employing.<br>
@@ -196,9 +196,9 @@ C'mon! We're not out of the game yet! We'll show 'em what the Knights of The Sea
 Hooyah!<br>
 <span style="color:#4eb24e;">Columbia：</span><br>
 (Whispering) Thanks, Commander~<br>
-<span style="color:#4eb24e;">{{AF|Myoukou}}：</span><br>
+<span style="color:#4eb24e;">{namecode:63}：</span><br>
 They're going to break through! Stop them from passing the ball, no matter what!<br>
-<span style="color:#4eb24e;">{{AF|Sendai}}：</span><br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
 Crap! Now that they've formed up, our strategy ain't gonna work...!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
 For the team... and for the Commander... this victory is OOOOUUUURS!<br>
