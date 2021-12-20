@@ -23,6 +23,41 @@ Welp, it looks like you jinxed it, sis, hahaha!<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Oops, sorry! That just kinda slipped out of me... Anyway, uhh, all ships, prepare to engage!<br>
 <br>
+<span style="color:#4eb24e;">？？？：</span><br>
+It warms my heart to hear those words in this day and age... I see that the fleet has been entrusted to capable hands!<br>
+We made it just in time. And we have Shoukaku's scout planes to thank for it.<br>
+"Scout planes" is what they call those mechanical birds in the sky? ... My word, how the times have changed, ahahaha!<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+... Isn't that...?<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+Wait, that flag...<br>
+Is that who I think it is?!<br>
+<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
+The former flagship of the Combined Fleet, the War God herself!<br>
+It's Mikasa!<br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
+Now, my juniors, show me the valor of the Sakura Empire! The true battle has only just begun!<br>
+Unto the righteous that pray, Heaven shall grant righteous aid!<br>
+Our actions here, guided by our beliefs and devotion, shall lead us into the future!<br>
+My sistren! The fate of our nation depends on this battle!<br>
+The clear skies and roaring seas stretch as far as the eye can see...<br>
+I am Mikasa, the flagship of the Combined Fleet, forged anew!<br>
+Brace yourself, Siren!<br>
+<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+Nnh... This isn't... looking good...<br>
+<span style="color:#ff0000;">Tester-α：</span><br>
+Have you had enough? This overwhelming power is the fruit that Evolution bears... Now surrender yourselves, so we can end this charade.<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+Those unusual planes... They must be 10, no, 100 times stronger than ours...<br>
+What's more, nearly all our planes have been destroyed... We'll need the firepower of a battleship to penetrate this Siren's armor...<br>
+... Zuikaku, turn your back and run. I'll keep the Siren occupied. At least one of us must make it out of here...<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+Didn't you hear me when I said I'm not gonna abandon anybody?<br>
+I'll stay with you and fight to the very end...!<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+Well said! Never retreat, never surrender - that is the tenet of the Sakura Empire!<br>
+<br>
 <span style="color:#4eb24e;">{namecode:67}：</span><br>
 Dear me, after all that talk about the Sirens possessing the power of Poseidon, this is all they amount to...<br>
 <span style="color:#4eb24e;">{namecode:66}：</span><br>
@@ -57,40 +92,11 @@ All you do is spout a bunch of nonsense... If it's a fight you're looking for, t
 Ahaha... Well, we don't have guests here every day, so I suppose it's time we conduct another experiment.<br>
 Come! Show me what you're worth!<br>
 <br>
-<span style="color:#4eb24e;">{namecode:6}：</span><br>
-Nnh... This isn't... looking good...<br>
-<span style="color:#ff0000;">Tester-α：</span><br>
-Have you had enough? This overwhelming power is the fruit that Evolution bears... Now surrender yourselves, so we can end this charade.<br>
-<span style="color:#4eb24e;">{namecode:95}：</span><br>
-Those unusual planes... They must be 10, no, 100 times stronger than ours...<br>
-What's more, nearly all our planes have been destroyed... We'll need the firepower of a battleship to penetrate this Siren's armor...<br>
-... Zuikaku, turn your back and run. I'll keep the Siren occupied. At least one of us must make it out of here...<br>
-<span style="color:#4eb24e;">{namecode:96}：</span><br>
-Didn't you hear me when I said I'm not gonna abandon anybody?<br>
-I'll stay with you and fight to the very end...!<br>
 <span style="color:#4eb24e;">？？？：</span><br>
-Well said! Never retreat, never surrender - that is the tenet of the Sakura Empire!<br>
-<br>
-<span style="color:#4eb24e;">？？？：</span><br>
-It warms my heart to hear those words in this day and age... I see that the fleet has been entrusted to capable hands!<br>
-We made it just in time. And we have Shoukaku's scout planes to thank for it.<br>
-"Scout planes" is what they call those mechanical birds in the sky? ... My word, how the times have changed, ahahaha!<br>
-<span style="color:#4eb24e;">{namecode:95}：</span><br>
-... Isn't that...?<br>
-<span style="color:#4eb24e;">{namecode:96}：</span><br>
-Wait, that flag...<br>
-Is that who I think it is?!<br>
-<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
-The former flagship of the Combined Fleet, the War God herself!<br>
-It's Mikasa!<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-Now, my juniors, show me the valor of the Sakura Empire! The true battle has only just begun!<br>
-Unto the righteous that pray, Heaven shall grant righteous aid!<br>
-Our actions here, guided by our beliefs and devotion, shall lead us into the future!<br>
-My sistren! The fate of our nation depends on this battle!<br>
-The clear skies and roaring seas stretch as far as the eye can see...<br>
-I am Mikasa, the flagship of the Combined Fleet, forged anew!<br>
-Brace yourself, Siren!<br>
+So it seems our old friend has returned.<br>
+The... War God of the Combined Fleet? Her persistence knows no bounds.<br>
+But regardless... we can't allow them to have the Creator.<br>
+If the Sakura Empire manages to get their hands on that power...<br>
 <br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 *WARNING: DAMAGE LEVELS CRITICAL. CONTROL SYSTEMS DESTROYED.*<br>
@@ -111,12 +117,6 @@ No, Zuikaku! There's no point in pursuing her!<br>
 <span style="color:#ff0000;">Tester-α：</span><br>
 Hahaha! You would do well to listen to her, unless you're that eager to throw away the life I just spared.<br>
 Oh, and next time, make a reservation before coming here, will you? Bye-bye, little ones~<br>
-<br>
-<span style="color:#4eb24e;">？？？：</span><br>
-So it seems our old friend has returned.<br>
-The... War God of the Combined Fleet? Her persistence knows no bounds.<br>
-But regardless... we can't allow them to have the Creator.<br>
-If the Sakura Empire manages to get their hands on that power...<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=Upheaval|选项=2|主框=1|样式=primary|展开=否}}

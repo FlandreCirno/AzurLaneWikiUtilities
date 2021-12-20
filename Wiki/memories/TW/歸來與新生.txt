@@ -23,6 +23,41 @@
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 …我錯了…全，全軍準備迎敵！<br>
 <br>
+<span style="color:#4eb24e;">？？？：</span><br>
+沒想到在這個時代還能聽到如此振奮人心的發言，真是一群出色的後輩們呀！<br>
+看來是趕上了呢，多虧發現了{namecode:95}放出的偵察機~<br>
+就是那個會在天上飛的玩意嗎？…真是跟不上時代了呀哈哈哈<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+…這個聲音…<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+這個傳說中的旗幟…<br>
+難道真的是…<br>
+<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
+！！…重櫻聯合曾經的大旗艦——<br>
+{namecode:82}！！<br>
+<span style="color:#4eb24e;">{namecode:82}：</span><br>
+後輩們，拿出妳們的氣勢來！戰鬥才剛剛開始！！！<br>
+繩鋸木斷，滴水穿石，今日的努力將被未來銘記<br>
+而未來，將因妳們今日的努力改變<br>
+再次一起奮戰吧！<br>
+今日晴空萬里，波瀾壯闊——<br>
+新生重櫻聯合<br>
+——出擊！<br>
+<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+呃…情況不妙…<br>
+<span style="color:#ff0000;">測試者α：</span><br>
+感受到了嗎？這就是“進化”帶來的代差，快點投降結束這場鬧劇吧~<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+從來沒有見過的奇怪飛機…這壓倒性的性能差……<br>
+飛機已經被完全擊落了…哎…要是這個時候有巨炮在的話…<br>
+………{namecode:96}…妳快走吧，我會盡全力掩護妳的！至少…<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+上次不是才說過嗎，我怎麼可能就這樣丟下{namecode:95}姐和大家不管呢？<br>
+不管怎樣，我們都會戰鬥到最後一刻的！<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+說得好！豈能在此止步不前！！？<br>
+<br>
 <span style="color:#4eb24e;">{namecode:67}：</span><br>
 哎呀呀，就算是傳聞中擁有海神力量的塞壬也不過是如此程度嘛~<br>
 <span style="color:#4eb24e;">{namecode:66}：</span><br>
@@ -57,40 +92,11 @@
 既然難得有客人造訪，就讓身為主人的我們再來進行一次【測試】吧~<br>
 那麼，讓我看看妳們的全力吧！<br>
 <br>
-<span style="color:#4eb24e;">{namecode:6}：</span><br>
-呃…情況不妙…<br>
-<span style="color:#ff0000;">測試者α：</span><br>
-感受到了嗎？這就是“進化”帶來的代差，快點投降結束這場鬧劇吧~<br>
-<span style="color:#4eb24e;">{namecode:95}：</span><br>
-從來沒有見過的奇怪飛機…這壓倒性的性能差……<br>
-飛機已經被完全擊落了…哎…要是這個時候有巨炮在的話…<br>
-………{namecode:96}…妳快走吧，我會盡全力掩護妳的！至少…<br>
-<span style="color:#4eb24e;">{namecode:96}：</span><br>
-上次不是才說過嗎，我怎麼可能就這樣丟下{namecode:95}姐和大家不管呢？<br>
-不管怎樣，我們都會戰鬥到最後一刻的！<br>
 <span style="color:#4eb24e;">？？？：</span><br>
-說得好！豈能在此止步不前！！？<br>
-<br>
-<span style="color:#4eb24e;">？？？：</span><br>
-沒想到在這個時代還能聽到如此振奮人心的發言，真是一群出色的後輩們呀！<br>
-看來是趕上了呢，多虧發現了{namecode:95}放出的偵察機~<br>
-就是那個會在天上飛的玩意嗎？…真是跟不上時代了呀哈哈哈<br>
-<span style="color:#4eb24e;">{namecode:95}：</span><br>
-…這個聲音…<br>
-<span style="color:#4eb24e;">{namecode:96}：</span><br>
-這個傳說中的旗幟…<br>
-難道真的是…<br>
-<span style="color:#4eb24e;">{namecode:95}&{namecode:96}：</span><br>
-！！…重櫻聯合曾經的大旗艦——<br>
-{namecode:82}！！<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-後輩們，拿出妳們的氣勢來！戰鬥才剛剛開始！！！<br>
-繩鋸木斷，滴水穿石，今日的努力將被未來銘記<br>
-而未來，將因妳們今日的努力改變<br>
-再次一起奮戰吧！<br>
-今日晴空萬里，波瀾壯闊——<br>
-新生重櫻聯合<br>
-——出擊！<br>
+是嗎，那位前輩回來了嗎？…<br>
+新生重櫻聯合…？真是令人感到可靠的名頭呢<br>
+無論如何…不能把“那位大人”交到她的手上…<br>
+重櫻…只需要神明的力量…<br>
 <br>
 <span style="color:#ff0000;">測試者α：</span><br>
 （warning…warning…warning…受到傷害超出損害控制速度範圍）<br>
@@ -112,12 +118,6 @@
 呵呵呵，正確的判斷，恭喜妳們撿回了一次性命～<br>
 <span style="color:#ff0000;">测试者α：</span><br>
 下次來訪時，記得提前預約喲，回頭見了，小動物們～<br>
-<br>
-<span style="color:#4eb24e;">？？？：</span><br>
-是嗎，那位前輩回來了嗎？…<br>
-新生重櫻聯合…？真是令人感到可靠的名頭呢<br>
-無論如何…不能把“那位大人”交到她的手上…<br>
-重櫻…只需要神明的力量…<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
