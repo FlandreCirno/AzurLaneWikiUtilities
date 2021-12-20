@@ -33,16 +33,37 @@ def getStory(filename, type = 1):
         dungeon = Dungeons[int(filename)]
         storylist = []
         if 'beginStoy' in dungeon.keys():
-            storylist.append(dungeon['beginStoy'])
+            storylist.append((0, dungeon['beginStoy'], -1))
         stage = dungeon['stages']
         for wave in stage[0]['waves']:
+            if 'prewaves' in wave.keys():
+                prewaves = wave['prewaves']
+            else:
+                prewaves = []
             if wave['triggerType'] == 3:
-                storylist.append(wave['triggerParams']['id'])
+                insertWave(storylist, (wave['waveIndex'], wave['triggerParams']['id'], prewaves))
+            elif 'spawn' in wave.keys():
+                for spawn in wave['spawn']:
+                    if 'phase' in spawn.keys():
+                        for p in spawn['phase']:
+                            if 'story' in p.keys():
+                                insertWave(storylist, (wave['waveIndex'], p['story'], prewaves))
         output = []
         for story in storylist:
-            s = getStory(story.lower())
+            s = getStory(story[1].lower())
             output.append(s)
         return output
+
+def insertWave(wavelist, wave):
+    prewaves = wave[2].copy()
+    if len(prewaves) > 0:
+        for i in range(len(wavelist)):
+            if wavelist[i][0] in prewaves:
+                prewaves.remove(wavelist[i][0])
+                if len(prewaves) == 0:
+                    wavelist.insert(i, wave)
+                    return
+    wavelist.append(wave)
 
 def getShipGroup():
     return util.parseDataFile('ship_data_group')
