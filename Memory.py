@@ -36,8 +36,8 @@ def getStory(filename, type = 1):
             storylist.append((0, dungeon['beginStoy'], -1))
         stage = dungeon['stages']
         for wave in stage[0]['waves']:
-            if 'prewaves' in wave.keys():
-                prewaves = wave['prewaves']
+            if 'preWaves' in wave.keys():
+                prewaves = wave['preWaves']
             else:
                 prewaves = []
             if wave['triggerType'] == 3:
@@ -48,10 +48,13 @@ def getStory(filename, type = 1):
                         for p in spawn['phase']:
                             if 'story' in p.keys():
                                 insertWave(storylist, (wave['waveIndex'], p['story'], prewaves))
+            else:
+                insertWave(storylist, (wave['waveIndex'], None, prewaves))
         output = []
         for story in storylist:
-            s = getStory(story[1].lower())
-            output.append(s)
+            if story[1]:
+                s = getStory(story[1].lower())
+                output.append(s)
         return output
 
 def insertWave(wavelist, wave):
@@ -59,10 +62,12 @@ def insertWave(wavelist, wave):
     if len(prewaves) > 0:
         for i in range(len(wavelist)):
             if wavelist[i][0] in prewaves:
+                #print(f'{prewaves} {wavelist[i][0]} {i} {len(wavelist)}')
                 prewaves.remove(wavelist[i][0])
                 if len(prewaves) == 0:
                     wavelist.insert(i, wave)
                     return
+        #print(f'prewaves {wave[2]} did not resolve')
     wavelist.append(wave)
 
 def getShipGroup():
