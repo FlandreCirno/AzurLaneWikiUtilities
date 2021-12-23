@@ -85,7 +85,7 @@
 <span style="color:#4eb24e;">西雅图：</span><br>
 這…會不會太誇張了點？<br>
 <span style="color:#4eb24e;">{namecode:141}：</span><br>
-太誇張了啦…我都試吃過不知道多少次所謂”失敗品“了！雖然好吃是挺好吃的啦…<br>
+太誇張了啦…我都試吃過不知道多少次所謂“失敗品”了！雖然好吃是挺好吃的啦…<br>
 <span style="color:#4eb24e;">海王星：</span><br>
 哎呀，說要幫忙試吃的可是若葉妳自己吧？<br>
 <span style="color:#4eb24e;">{namecode:141}：</span><br>
@@ -99,7 +99,7 @@
 <span style="color:#4eb24e;">西雅图：</span><br>
 重要的是心意嗎…好像多少有點想法了！接下來…去看看重櫻的各位好了，她們現在應該在準備交換用的禮物吧——<br>
 <span style="color:#4eb24e;">{namecode:141}：</span><br>
-啊，西雅圖等等我，我也跟你一起去！<br>
+啊，西雅圖等等我，我也跟妳一起去！<br>
 <span style="color:#4eb24e;">海王星：</span><br>
 唔…算了，這邊也做的差不多了。晚上我們會和伊莉莎白陛下她們一起參加派對的，妳也要加油哦，西雅圖<br>
 {{折叠面板|内容结束}}
@@ -150,7 +150,7 @@
 <span style="color:#4eb24e;">西雅图：</span><br>
 嗯嗯，外形和味道的創新也是一個值得思考的方向呢——<br>
 <span style="color:#4eb24e;">{namecode:48}：</span><br>
-說到甜食的話，可以去問問白鷹的“她“吧…？<br>
+說到甜食的話，可以去問問白鷹的“她”吧…？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=甜食的俘虜|选项=4|主框=1|样式=primary|展开=否}}
@@ -228,7 +228,7 @@
 <span style="color:#4eb24e;">{namecode:141}：</span><br>
 薑、薑餅已經夠了…我、我要吃點鹹的東西！！<br>
 <span style="color:#4eb24e;">{namecode:48}：</span><br>
-啊，大家的禮物都放在聖誕樹旁邊了，沒有拿的小伙伴都可以拿一個哦~<br>
+啊，大家的禮物都放在聖誕樹旁邊了，沒有拿的小夥伴都可以拿一個哦~<br>
 <span style="color:#4eb24e;">{namecode:49}：</span><br>
 嘻嘻，不知道誰會拿到我準備的禮物呢，真讓人期待啊~<br>
 <span style="color:#4eb24e;">海王星：</span><br>
