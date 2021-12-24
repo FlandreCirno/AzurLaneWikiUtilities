@@ -8,6 +8,7 @@ WikiDirectory = 'Wiki'
 ForceShareCfg = [
     'ship_skin_template', 
     'activity_ins_npc_template',
+    'ship_data_statistics', 
 ]
 GameCfgList = ['dungeon', 'story', 'storyjp']
 
