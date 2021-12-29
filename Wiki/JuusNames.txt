@@ -52,6 +52,7 @@
 新泽西 BlackDragon
 马萨诸塞 2700P.Justice
 长岛 L.I.
+卡萨布兰卡 Casablanca
 萨拉托加 SisterSara
 约克城 YorkTown
 企业 Enterprise
@@ -87,7 +88,9 @@
 黑太子 White Princess
 格拉斯哥 Glasgow
 赫敏 Hermione
+佩内洛珀 Penelope
 肯特 Kent
+萨福克 Suffolk
 伊丽莎白女王 QueenEliz
 厌战 Warspite
 英王乔治五世 King.George.V
@@ -197,6 +200,7 @@
 出云 Izumo
 北风 Kitakaze
 吾妻 AzumaB65
+白龙 Hakuryū
 Z1 L.Maaß
 Z2 Zerstörer2
 Z23 Zerstörer.23
@@ -207,16 +211,20 @@ Z36 Zech✛3536
 Z46 viersech
 莱比锡 Leipzig 
 纽伦堡 Nürnberg
+马格德堡 Magdeburg
 希佩尔海军上将 R-Guitarist
 欧根亲王 P.Eugen
 德意志 SPEE_FIGHT
 斯佩伯爵海军上将 GRAFSPEE
 海因里希亲王 Eisen_Fight
+阿达尔伯特亲王 PrinzAdalbert
 沙恩霍斯特 Scharnhorst
 格奈森瑙 Gneisenau
 俾斯麦 Bismarck
 提尔比茨 Tirpitz
+乌尔里希·冯·胡滕  U.V.Hutten
 威悉 Weser
+易北 Elbe
 齐柏林伯爵 TrägerZeppelin
 彼得·史特拉塞 FlugzeugträgerB 
 U-81 U-81
@@ -225,7 +233,9 @@ U-556 U.B.556
 U-73 U-73
 U-522 U-522
 U-110 HAI_110 
+U-96 U.B.96
 U-37 UBoat37
+U-1206 U.B.1206
 罗恩 RoonDESU
 腓特烈大帝 SymphonicStigma
 美因茨 Mainz
