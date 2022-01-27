@@ -19,6 +19,7 @@
 库珀 BlackCat
 艾伦·萨姆纳 A.M.Sumner
 莫里森 Bear-MKII
+布里斯托尔 Bristol
 布鲁克林 Brooklyn
 菲尼克斯 PhoenixBurn
 海伦娜 HelenaSG
@@ -48,6 +49,8 @@
 巴尔的摩 Justice_B
 布莱默顿 Bremerton
 内华达 Nevada
+宾夕法尼亚 Pennsylvania
+亚利桑那 Arizona
 南达科他 SoDakX
 新泽西 BlackDragon
 马萨诸塞 2700P.Justice
@@ -89,6 +92,7 @@
 格拉斯哥 Glasgow
 赫敏 Hermione
 佩内洛珀 Penelope
+卡律布狄斯 Charybdis
 肯特 Kent
 萨福克 Suffolk
 伊丽莎白女王 QueenEliz
@@ -134,6 +138,7 @@
 山风 Yamakaze
 新月 Niizuki
 春月 HARUTSUKI
+宵月 Yoizuki
 朝潮 Asashio
 大潮 Ooshio
 满潮 Michishio 
@@ -141,6 +146,7 @@
 浦波 Uranami
 霞.改 fuwarin1118
 花月 FlowerMoon
+长波 Naganami
 凉月 Puuta
 夕张 Kagakubu.org
 长良 Nagara_CA
@@ -249,6 +255,9 @@ U-1206 U.B.1206
 平海 PINGHAI
 应瑞 Yingrui
 肇和 Zhaohe
+海天 HaiTien
+海圻 HaiChi
+镇海 ChenHai
 龙骑兵 S_Carabiniere
 文琴佐·焦贝蒂 G.B
 西北风 Maestrale
