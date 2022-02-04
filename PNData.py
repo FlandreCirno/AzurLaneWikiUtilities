@@ -64,7 +64,8 @@ def shipTransform(group, shipTrans, transformTemplate):
                 for e in data['gear_score']:
                     transList.append({'type': 'gearscore', 'amount': e})
                 if 'ship_id' in data.keys() and len(data['ship_id']) > 0:
-                    transShipID.append(data['ship_id'][0][1])
+                    if not data['ship_id'][0][1] in transShipID:
+                        transShipID.append(data['ship_id'][0][1])
         return (statusTransTotal(transList), transShipID)
     else:
         return None, None
