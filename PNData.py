@@ -54,7 +54,7 @@ def shipTransform(group, shipTrans, transformTemplate):
         trans = shipTrans[group]
         trans = trans['transform_list']
         transList = []
-        transShipID = None
+        transShipID = []
         for t1 in trans:
             for t2 in t1:
                 data = transformTemplate[t2[1]]
@@ -64,7 +64,7 @@ def shipTransform(group, shipTrans, transformTemplate):
                 for e in data['gear_score']:
                     transList.append({'type': 'gearscore', 'amount': e})
                 if 'ship_id' in data.keys() and len(data['ship_id']) > 0:
-                    transShipID = data['ship_id'][0][1]
+                    transShipID.append(data['ship_id'][0][1])
         return (statusTransTotal(transList), transShipID)
     else:
         return None, None
@@ -129,11 +129,29 @@ def getData(group, statistics, template, strengthen, shipTrans, transformTemplat
                 shipID[3 - (v['star_max'] - v['star'])] = {'id':tempID, 'oil_at_start':v['oil_at_start'], 
                 'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID': id, 'realID': realID, 'groupID': groupID}
         shipRemould, transShipID = shipTransform(groupID, shipTrans, transformTemplate)
-        if transShipID and transShipID in template.keys():
-            v = template[transShipID]
-            shipID[4] = {'id':transShipID, 'oil_at_start':v['oil_at_start'], 
-                'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
-        for breakout in range(5):
+        if transShipID:
+            if len(transShipID) == 1 and transShipID[0] in template.keys():
+                v = template[transShipID[0]]
+                shipID[4] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                    'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
+            elif len(transShipID) == 2 and transShipID[0] in template.keys() and transShipID[1] in template.keys():
+                v = template[transShipID[0]]
+                if v['type'] == 20:
+                    shipID[4] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                        'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
+                    v = template[transShipID[1]]
+                    shipID[5] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                        'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
+                else:
+                    v = template[transShipID[1]]
+                    shipID[4] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                        'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
+                    v = template[transShipID[0]]
+                    shipID[5] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                        'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
+                    
+                
+        for breakout in range(6):
             if breakout in shipID.keys():
                 v = shipID[breakout]
                 v['breakout'] = breakout
@@ -168,6 +186,8 @@ def formatData(ID, values, name, breakout):
     output = 'PN' + ID
     if breakout == 4:
         output += 'g3:['
+    elif breakout == 5:
+        output += 'g3m:['
     else:
         output += str(breakout) + ':['
     for v in values:
@@ -177,7 +197,7 @@ def formatData(ID, values, name, breakout):
         output += '3'
     else:
         output += str(breakout)
-    output += u'破'
+    output += '破'
     return output
 
 if __name__ == "__main__":
