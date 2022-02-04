@@ -141,11 +141,11 @@ def getData(group, statistics, template, strengthen, shipTrans, transformTemplat
                     shipID[4] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
                         'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
                     v = template[transShipID[1]]
-                    shipID[5] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                    shipID[5] = {'id':transShipID[1], 'oil_at_start':v['oil_at_start'], 
                         'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
                 else:
                     v = template[transShipID[1]]
-                    shipID[4] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
+                    shipID[4] = {'id':transShipID[1], 'oil_at_start':v['oil_at_start'], 
                         'oil_at_end':v['oil_at_end'], 'strengthen_id':v['strengthen_id'], 'wikiID':id, 'realID': realID, 'groupID': groupID}
                     v = template[transShipID[0]]
                     shipID[5] = {'id':transShipID[0], 'oil_at_start':v['oil_at_start'], 
@@ -194,7 +194,7 @@ def formatData(ID, values, name, breakout):
     for v in values:
         output += str(v) + ','
     output = output[:-1] + '],\t//' + name + '_'
-    if breakout == 4:
+    if breakout >= 4:
         output += '3'
     else:
         output += str(breakout)
