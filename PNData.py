@@ -184,13 +184,14 @@ def getData(group, statistics, template, strengthen, shipTrans, transformTemplat
 def formatData(ID, values, name, breakout):
     if ID in ['001', '002', '003']:
         breakout = 0
-    output = 'PN' + ID
+    key = 'PN' + ID
     if breakout == 4:
-        output += 'g3:['
+        key += 'g3'
     elif breakout == 5:
-        output += 'g3m:['
+        key += 'g3m'
     else:
-        output += str(breakout) + ':['
+        key += str(breakout)
+    output = key + ":["
     for v in values:
         output += str(v) + ','
     output = output[:-1] + '],\t//' + name + '_'
@@ -201,8 +202,101 @@ def formatData(ID, values, name, breakout):
     output += '破'
     return output
 
+def calculateStats(PN, strengthen=True, breakout="3", PNlevel=125, PNintimacy=1.06, remould=True, isMETA=False):
+    if remould and not isMETA:
+        PNdurabilityremould=PN[41]
+        PNcannonremould=PN[42]
+        PNtorpedoremould=PN[43]
+        PNantiaircraftremould=PN[44]
+        PNairremould=PN[45]
+        PNreloadremould=PN[46]
+        PNrangeremould=PN[47]
+        PNhitremould=PN[48]
+        PNdodgeremould=PN[49]
+        PNspeedremould=PN[50]
+        PNluckremould=PN[51]
+        PNantisubremould=PN[52]
+        PNsynthesizepowerremould=PN[53]
+    else:
+        PNdurabilityremould=0
+        PNcannonremould=0
+        PNtorpedoremould=0
+        PNantiaircraftremould=0
+        PNairremould=0
+        PNreloadremould=0
+        PNrangeremould=0
+        PNhitremould=0
+        PNdodgeremould=0
+        PNspeedremould=0
+        PNluckremould=0
+        PNantisubremould=0
+        PNsynthesizepowerremould=0
+    if strengthen:
+        if isMETA:
+            PNcannonstrengthen=PN[36]
+            PNtorpedostrengthen=PN[37]
+            PNantiaircraftstrengthen=PN[38]
+            PNairstrengthen=PN[39]
+            PNreloadstrengthen=PN[40]
+            PNdurabilityremould=PN[41]*PNintimacy
+            PNcannonremould=PN[42]*PNintimacy
+            PNtorpedoremould=PN[43]*PNintimacy
+            PNantiaircraftremould=PN[44]*PNintimacy
+            PNairremould=PN[45]*PNintimacy
+            PNreloadremould=PN[46]*PNintimacy
+            PNrangeremould=PN[47]*PNintimacy
+            PNhitremould=PN[48]*PNintimacy
+            PNdodgeremould=PN[49]*PNintimacy
+            PNspeedremould=PN[50]
+            PNluckremould=PN[51]
+            PNantisubremould=PN[52]*PNintimacy
+            PNsynthesizepowerremould=PN[53]
+        
+        else:
+            PNcannonstrengthen=int(PN[36]*(min(PNlevel,100)/100*0.7+0.3))
+            PNtorpedostrengthen=int(PN[37]*(min(PNlevel,100)/100*0.7+0.3))
+            PNantiaircraftstrengthen=int(PN[38]*(min(PNlevel,100)/100*0.7+0.3))
+            PNairstrengthen=int(PN[39]*(min(PNlevel,100)/100*0.7+0.3))
+            PNreloadstrengthen=int(PN[40]*(min(PNlevel,100)/100*0.7+0.3))
+        
+    
+    else:
+        PNcannonstrengthen=0
+        PNtorpedostrengthen=0
+        PNantiaircraftstrengthen=0
+        PNairstrengthen=0
+        PNreloadstrengthen=0
+        if isMETA:
+            PNdurabilityremould=0
+            PNcannonremould=0
+            PNtorpedoremould=0
+            PNantiaircraftremould=0
+            PNairremould=0
+            PNreloadremould=0
+            PNrangeremould=0
+            PNhitremould=0
+            PNdodgeremould=0
+            PNspeedremould=0
+            PNluckremould=0
+            PNantisubremould=0
+            PNsynthesizepowerremould=0
+    PNdurability=(PN[0]+PN[1]*(PNlevel-1)/1000+PN[2]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNdurabilityremould
+    PNcannon=(PN[3]+PN[4]*(PNlevel-1)/1000+PNcannonstrengthen+PN[5]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNcannonremould
+    PNtorpedo=(PN[6]+PN[7]*(PNlevel-1)/1000+PNtorpedostrengthen+PN[8]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNtorpedoremould
+    PNantiaircraft=(PN[9]+PN[10]*(PNlevel-1)/1000+PNantiaircraftstrengthen+PN[11]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNantiaircraftremould
+    PNair=(PN[12]+PN[13]*(PNlevel-1)/1000+PNairstrengthen+PN[14]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNairremould
+    PNreload=(PN[15]+PN[16]*(PNlevel-1)/1000+PNreloadstrengthen+PN[17]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNreloadremould
+    PNrange=PN[18]+PN[19]*(PNlevel-1)/1000+PN[20]*(max(PNlevel,100)-100)/1000+PNrangeremould
+    PNhit=(PN[21]+PN[22]*(PNlevel-1)/1000+PN[23]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNhitremould
+    PNdodge=(PN[24]+PN[25]*(PNlevel-1)/1000+PN[26]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNdodgeremould
+    PNspeed=PN[27]+PN[28]*(PNlevel-1)/1000+PN[29]*(max(PNlevel,100)-100)/1000+PNspeedremould
+    PNluck=PN[30]+PN[31]*(PNlevel-1)/1000+PN[32]*(max(PNlevel,100)-100)/1000+PNluckremould
+    PNantisub=(PN[33]+PN[34]*(PNlevel-1)/1000+PN[35]*(max(PNlevel,100)-100)/1000)*PNintimacy+PNantisubremould
+    PNoil=(PN[54]+PN[55]*(0.5+min(PNlevel,99)*0.005))
+    PNout = [PNdurability, PNcannon, PNtorpedo, PNantiaircraft, PNair, PNreload, PNrange, PNhit, PNdodge, PNspeed, PNluck, PNantisub, PNoil]
+    return PNout
+
 if __name__ == "__main__":
-    f = open(os.path.join(util.WikiDirectory, 'PN.txt'), 'w+', encoding = 'utf-8')
     group = getShipGroup()
     statistics = getShipStatistics()
     template = getShipTemplate()
@@ -220,7 +314,33 @@ if __name__ == "__main__":
     def func(ship):
         return ship['wikiID'] + str(ship['breakout'])
     data.sort(key = func)
+    f = open(os.path.join(util.WikiDirectory, 'PN.txt'), 'w+', encoding = 'utf-8')
+    f1 = open(os.path.join(util.WikiDirectory, 'ship120data.csv'), 'w+', encoding = 'gbk')
+    f2 = open(os.path.join(util.WikiDirectory, 'ship125data.csv'), 'w+', encoding = 'gbk')
+    f1.write("舰船,耐久,炮击,雷击,防空,航空,装填,射程,命中,机动,航速,幸运,反潜\n")
+    f2.write("舰船,耐久,炮击,雷击,防空,航空,装填,射程,命中,机动,航速,幸运,反潜\n")
     for ship in data:
+        if ship['breakout'] == 3:
+            if 'META' in ship['name']:
+                ship120 = calculateStats(ship['values'], isMETA = True, PNlevel=120, remould=False)
+                ship125 = calculateStats(ship['values'], isMETA = True, PNlevel=125, remould=False)
+            else:
+                ship120 = calculateStats(ship['values'], isMETA = False, PNlevel=120, remould=False)
+                ship125 = calculateStats(ship['values'], isMETA = False, PNlevel=125, remould=False)
+            f1.write(ship['name'] + ',' + str(ship120[0]) + ',' + str(ship120[1]) + ',' + str(ship120[2]) + ',' + str(ship120[3]) + ',' + str(ship120[4]) + ',' + str(ship120[5]) + ',' + str(ship120[6]) + ',' + str(ship120[7]) + ',' + str(ship120[8]) + ',' + str(ship120[9]) + ',' + str(ship120[10]) + ',' + str(ship120[11]) + '\n')
+            f2.write(ship['name'] + ',' + str(ship125[0]) + ',' + str(ship125[1]) + ',' + str(ship125[2]) + ',' + str(ship125[3]) + ',' + str(ship125[4]) + ',' + str(ship125[5]) + ',' + str(ship125[6]) + ',' + str(ship125[7]) + ',' + str(ship125[8]) + ',' + str(ship125[9]) + ',' + str(ship125[10]) + ',' + str(ship125[11]) + '\n')
+        elif ship['breakout'] == 4:
+            ship120 = calculateStats(ship['values'], isMETA = False, PNlevel=120, remould=True)
+            ship125 = calculateStats(ship['values'], isMETA = False, PNlevel=125, remould=True)
+            f1.write(ship['name'] + ',' + str(ship120[0]) + ',' + str(ship120[1]) + ',' + str(ship120[2]) + ',' + str(ship120[3]) + ',' + str(ship120[4]) + ',' + str(ship120[5]) + ',' + str(ship120[6]) + ',' + str(ship120[7]) + ',' + str(ship120[8]) + ',' + str(ship120[9]) + ',' + str(ship120[10]) + ',' + str(ship120[11]) + '\n')
+            f2.write(ship['name'] + ',' + str(ship125[0]) + ',' + str(ship125[1]) + ',' + str(ship125[2]) + ',' + str(ship125[3]) + ',' + str(ship125[4]) + ',' + str(ship125[5]) + ',' + str(ship125[6]) + ',' + str(ship125[7]) + ',' + str(ship125[8]) + ',' + str(ship125[9]) + ',' + str(ship125[10]) + ',' + str(ship125[11]) + '\n')
+        elif ship['breakout'] == 5:
+            ship120 = calculateStats(ship['values'], isMETA = False, PNlevel=120, remould=True)
+            ship125 = calculateStats(ship['values'], isMETA = False, PNlevel=125, remould=True)
+            f1.write(ship['name'] + '(主力),' + str(ship120[0]) + ',' + str(ship120[1]) + ',' + str(ship120[2]) + ',' + str(ship120[3]) + ',' + str(ship120[4]) + ',' + str(ship120[5]) + ',' + str(ship120[6]) + ',' + str(ship120[7]) + ',' + str(ship120[8]) + ',' + str(ship120[9]) + ',' + str(ship120[10]) + ',' + str(ship120[11]) + '\n')
+            f2.write(ship['name'] + '(主力),' + str(ship125[0]) + ',' + str(ship125[1]) + ',' + str(ship125[2]) + ',' + str(ship125[3]) + ',' + str(ship125[4]) + ',' + str(ship125[5]) + ',' + str(ship125[6]) + ',' + str(ship125[7]) + ',' + str(ship125[8]) + ',' + str(ship125[9]) + ',' + str(ship125[10]) + ',' + str(ship125[11]) + '\n')
         f.write(formatData(ship['wikiID'], ship['values'], ship['name'], ship['breakout']))
         f.write('\n')
     f.close()
+    f1.close()
+    f2.close()
