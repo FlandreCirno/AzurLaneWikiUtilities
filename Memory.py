@@ -213,7 +213,7 @@ def wikiPage(group):
     return output.replace('\\n', '\n')
     
 def wikiParagraph(memory, index):
-    output = '{{折叠面板|标题=' + memory['title'] + '|选项=' + str(index) + '|主框=1|样式=primary|展开=否}}\n'
+    output = '{{折叠面板|标题=' + memory['title'] + '|选项=' + str(index) + '|主框=1|样式=primary|展开=是}}\n'
     lastActor = None
     lastOption = None
     for slide in memory['memory']:
