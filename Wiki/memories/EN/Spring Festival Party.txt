@@ -1,6 +1,6 @@
 == Spring Festival Party ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Mother of All Firecrackers|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mother of All Firecrackers|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Spring Festival Party<br>
 <br>
@@ -61,7 +61,7 @@ That's why I hoped to see it go off. Speaking of which, isn't that the whole rea
 N-No! Why would I?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Redecorating the Office|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Redecorating the Office|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Spring Festival Party<br>
 <br>
@@ -109,7 +109,7 @@ Certainly. Proceed at your leisure.<br>
 Bit by bit, decoration by decoration, the port is getting ready for the Spring Festival.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Full Swing|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Full Swing|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Spring Festival Party<br>
 <br>
@@ -163,7 +163,7 @@ A tour of the Sakura Empire mainland, nya! Congratulations, nya!<br>
 WHAAAAAT?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Spring Festival Banquet|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Spring Festival Banquet|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Spring Festival Party<br>
 <br>

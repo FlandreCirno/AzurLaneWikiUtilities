@@ -1,6 +1,6 @@
 == 浮櫻影華 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=玉響|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=玉響|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 狂風暴雨，漫漫長夜<br>
 一葉孤舟，孤懸於海面之上<br>
@@ -78,7 +78,7 @@
                                  “暗流湧動，一切小心”<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=木偶|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=木偶|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 天岩島近海·日出<br>
 天岩島，由主島和六個與主島相連的小島構成<br>
@@ -126,7 +126,7 @@
 呵呵，自然是說笑而已~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=信仰|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=信仰|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:179}：</span><br>
 諸位，請留步。<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
@@ -142,7 +142,7 @@
 {namecode:179}號航空母艦，參上！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=洪流|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=洪流|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:179}：</span><br>
 不愧是身經百戰的一航戰前輩們…此戰是我輸了。<br>
 {namecode:91}大人，{namecode:92}大人，以及各位遠道而來的客人，歡迎來到天岩島！<br>
@@ -176,7 +176,7 @@
 {namecode:179}必日益精進武藝，不負囑託！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=另一種戰場|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=另一種戰場|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 天岩島近海·清晨<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -214,7 +214,7 @@
 嗯，{namecode:95}姐也明白了！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=戰場上學到的事|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=戰場上學到的事|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 我是{namecode:175}，負責在此接待各位遠道而來的客人，請多指教。<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
@@ -249,7 +249,7 @@
 向神明展現勇武，向神明納奉才智，向神明給予信仰！{namecode:80}級戰列艦，{namecode:175}，參上！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=來自空中|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=來自空中|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 轟炸機群？！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
@@ -261,7 +261,7 @@
 設備雖然是舊式的，但如果認為我的戰術也是舊式的，可就大錯特錯了哦！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=老驥伏櫪|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=老驥伏櫪|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 居…居然還有這種操作…？！<br>
 也是啊…大前輩也能調用{namecode:95}和{namecode:96}的艦載機進行航空戰…果然還是比不過大前輩，是我輸了…<br>
@@ -300,84 +300,84 @@
 （{namecode:91}，那孩子什麼時候才能想明白呢……）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=備用計劃|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=備用計劃|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 天岩島近海·正午<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 Z2，快一點，都快到午飯時間了啊。<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 是是是，再耐心點，馬上就要記錄完畢了。<br>
 把整個海域作為封閉空間，屏蔽來自外部的觀測，這就是“結界”…重櫻內部還真是充滿了超自然的存在啊……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 超自然的存在？呵，這些不過是我們需要理解但還沒有理解的科技而已~<br>
 這些先不說。彈藥準備如何？<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 彈藥充足。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 武器整備呢？<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 武器狀態良好。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 Z2真是可靠啊~撤退路線呢？<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 …………再怎麼說也不用準備到這個份上吧？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 咳，以防萬一，確認一下……<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 ……妳懷疑{namecode:91}的計劃不會順利進行？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 是那傢伙認為事有蹊蹺啦。臨行之前專門要我多留個心眼。<br>
 害得我連夜趕了一份從戰鬥到跑路的方案書給她，唉…<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 確實…這次{namecode:91}的計劃看起來是有點太小兒科了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 而且危險。塞壬可不是能任人擺佈的棋子哦？<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 如果她的目的只是像她說的為了動員重櫻參加作戰計劃倒還好，如果不是的話…？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 只要能把重櫻拖下水，只要重櫻還是作為我們的盟友，讓誰來領頭都一樣吧~<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 嗚哇，真差勁…<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呵呵，這可是那傢伙親自定下的方針，要我把妳剛說的話原樣上報嗎？<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 千萬別，我可吃不消…<br>
 完工。最後一處可疑坐標也探測完畢了<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 是時候登門拜訪了。就算是迷路的客人，讓主人等太久了可不好哦，呵呵呵…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=鐵血演武？|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=鐵血演武？|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 一路而來辛苦了，遠道而來的鐵血朋友們，歡迎蒞臨天岩島。<br>
 {namecode:49}級輕巡洋艦{namecode:50}，受{namecode:182}大人的委託，在此恭候各位多時了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 能做為赤色中軸的盟友受邀參與重櫻的重大祭典，對鐵血來講也是莫大的榮幸~<br>
 請代我們向{namecode:182}大人致以最誠摯的問候~<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 這是一定的。時間不早了，按照計劃各位客人請隨我直接前往內城…<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哎？之前我聽{namecode:91}介紹祭典流程的時候，對其中一個叫“演武”的環節還挺感興趣的呢…<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 啊，那個啊。演武是本次祭典中的重要組成部分，會場中的每一場演武都被視為一次對神明的供奉行為。<br>
 不過，演武只針對重櫻內的來訪成員，來自鐵血的諸位就不必辛苦進行戰鬥了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 那不是太可惜了嘛~入鄉隨俗，也讓我來感受一下重櫻的演武吧。<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 哎…？這……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 就當做是我的個人請求，拜託了~<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 唔…好吧。既然您堅持的話，作為接待人自然不能讓各位客人掃興…<br>
 …向神明展現勇武，向神明納奉才智，向神明給予信仰！<br>
 不才{namecode:50}，在鐵血諸位盟友面前，獻醜了！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呵呵呵，究竟是客套話還是真心話。重櫻新銳巡洋艦的實力，就讓我好好見識一下吧~<br>
 鐵血海軍，歐根親王號戰鬥準備完畢！<br>
 Eisen und Blut über alles！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=第一回合|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=第一回合|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">歐根親王：</span><br>
 怎麼了，重櫻新銳巡洋艦只有這點實力嗎？<br>
 看來妳剛才所說的獻醜不是在開玩笑啊~<br>
@@ -404,7 +404,7 @@ Eisen und Blut über alles！<br>
 讓我們開始愉快的第二回合吧~！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=第二回合|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=第二回合|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 轟------！<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
@@ -415,13 +415,13 @@ Eisen und Blut über alles！<br>
 {namecode:91}大人？！………是。<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 聽到這麼大的動靜，我還以為塞壬來攻城了。這是在做什麼，歐根？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 好險好險~本來只想體驗一下重櫻的演武，結果差點把自己搭進去。<br>
 不是妳及時趕到的話，恐怕我就要命喪這位小姑娘的刀法之下囉~<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 那真是不勝榮幸，能正面擊敗大名鼎鼎的歐根親王閣下。<br>
 ……要不是我及時攔下，妳不會真忍不住要下手了吧？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 怎麼可能~至少這次不會。畢竟是我的挑撥在先嘛~<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 {namecode:91}大人，剛才明明是我快要得手了！<br>
@@ -433,21 +433,21 @@ Eisen und Blut über alles！<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 {namecode:50}小姐不用太在意。歐根這個性格，挑撥起來就算她自家親姐姐都受不了。<br>
 妳剛剛的應對，已經能被寫進應對歐根親王的教科書了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呼呼，看到這種一本正經的性格，很難忍住不上去調戲一下嘛~<br>
 對不起了，{namecode:50}小姐。剛剛只是我一時起了玩心，說的話都不是真心的，請妳千萬不要在意~<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 ……在戰鬥中被挑釁是我經驗不足的表現，非常抱歉…<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 現在都正午了，比預定時間晚到了不少啊歐根，路上玩得開心嗎？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哪裡哪裡，妳們重櫻祕境，海域上結界重重。我們路上走了不少彎路，好不容易才找到正確航線嘛~<br>
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 （…哎？我明明一直按照約定等在結界入口迎接的…怎麼可能……）<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 呵呵，不愧是鐵血的外交使團，口才也是世界一流。<br>
 大家既然是通力合作的盟友，有什麼需要但說無妨，不用這麼客氣。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 既然直白說到這個份上，唉…我也只好吐露實情了。<br>
 其實………………<br>
 我已經快餓死了~！<br>
@@ -459,7 +459,7 @@ Eisen und Blut über alles！<br>
 隨我來吧，精彩的節目就要開始了……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=陰雲|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=陰雲|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 長夜仍在繼續<br>
 風暴仍未平息<br>
@@ -527,7 +527,7 @@ Surprise！好久不見，晚上好啊~<br>
 看來，又得繞一次遠路了啊<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=宴會|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=宴會|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 天岩島本島·日落<br>
 在太陽完全消失在地平線下之後，作為祭典前戲的酒宴也到達了高潮階段<br>
@@ -587,18 +587,18 @@ Surprise！好久不見，晚上好啊~<br>
 啊哈哈哈，對不住各位，也讓海外的友人們見笑了，我代{namecode:96}向大家道個不是<br>
 不過還真沒想到，居然會有盟友不遠千里來參加本次祭典，真是讓人倍感欣喜啊<br>
 不知道重櫻的美酒和食物還習慣麼，歐根親王？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 非常棒哦~特別是重櫻的酒，有種獨特的風味呢~<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 啊哈哈，這酒是由米、米麴和水為原料釀造而成的，在重櫻有著上千年的歷史了<br>
 也會在祭典上作為供奉神明之物而使用哦<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 用米釀造的嗎…原來如此，所以才和鐵血這邊的黑啤有著截然不同的味道啊<br>
 {namecode:82}大人如果有機會來到歐羅巴大陸的話，也請務必來品嚐下用烘焙麥芽釀造的鐵血黑啤呀~呵呵呵<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 歐羅巴大陸呀…這麼說來確實也許久未曾造訪了<br>
 突然又懷念起在皇家享受紅茶紅酒的日子了哈哈哈~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 在這裡就不提皇家那些虛偽的小人了~呵呵，就讓我們鐵血遵循客道，用心享受重櫻的美食吧~<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 歐根，這個“生魚片”很好吃，多嚐一嚐吧<br>
@@ -611,11 +611,11 @@ Surprise！好久不見，晚上好啊~<br>
 把這白色的魚肉全都沾滿綠色……<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 哈哈哈，妳一下也沾太多了<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 是嗎？我們還是不太懂吃法呢<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 讓我來教教各位吧！啊，Z2小姐，請先聽我說明啊！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 (她就是{namecode:80}級戰列艦{namecode:175}嗎。重櫻秘藏的精銳，意外的是個可愛的孩子呢，呵呵……）<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 歐根，這個串在一起的肉丸也很好吃，大家也多嚐一嘗吧<br>
@@ -625,7 +625,7 @@ Surprise！好久不見，晚上好啊~<br>
 呵呵呵呵，大家不用客氣，夜晚還很長哦~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=敵襲|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=敵襲|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 天岩島本島·深夜<br>
 熱鬧的宴會依然在進行中<br>
@@ -656,7 +656,7 @@ Surprise！好久不見，晚上好啊~<br>
 各位大人請放心，我們一定會負起責任，保護祭典順利舉行的！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=臨危受命|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=臨危受命|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 斬------！<br>
 漆黑的船殼，不祥的光芒，這就是塞壬……<br>
@@ -672,7 +672,7 @@ Surprise！好久不見，晚上好啊~<br>
 諸位，難得的實戰機會，盡情的展示所學，盡情的戰鬥吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=面對棋子|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=面對棋子|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:179}：</span><br>
 {namecode:180}，{namecode:181}？妳們那邊的敵人清理乾淨了嗎，來得正好——<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
@@ -692,7 +692,7 @@ Surprise！好久不見，晚上好啊~<br>
 大家不要動搖，牢記我們的使命。守護天岩島，消滅所有來犯之敵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=鏡面海域|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=鏡面海域|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:50}：</span><br>
 沒有靈魂的仿製品…不過如此，消失吧！<br>
 <span style="color:#4eb24e;">{namecode:179}：</span><br>
@@ -731,7 +731,7 @@ Surprise！好久不見，晚上好啊~<br>
 是！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=鋼鐵之花|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=鋼鐵之花|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 兩個嬌小的身影，伴隨著一連串爆炸聲，遊走在塞壬的大軍之中<br>
 <span style="color:#4eb24e;">{namecode:74}：</span><br>
@@ -822,7 +822,7 @@ Surprise！好久不見，晚上好啊~<br>
 放心交給我吧，{namecode:74}大人！{namecode:82}大人在島上等著您。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=重逢|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=重逢|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 這是…{namecode:96}大人，居然是您在此作戰？後面同行的是…<br>
 <span style="color:#4eb24e;">{namecode:179}：</span><br>
@@ -857,7 +857,7 @@ Surprise！好久不見，晚上好啊~<br>
 那麼，一切就拜託了！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=疑心暗鬼|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=疑心暗鬼|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 天岩島本島·子時<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
@@ -885,18 +885,18 @@ Surprise！好久不見，晚上好啊~<br>
 是、是！{namecode:91}大人<br>
 <br>
 說完…{namecode:12}便快速向內殿跑去<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 啊啦~終於可以看到傳說中的重櫻的護國寶器【海若】了嗎？~就是那個可以“嗖”地一下創造出本不該存在的“我們”的神器？<br>
 比如可以把“Z計劃”提前完成什麼的？~<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 歐根大人，您喝醉了<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哎呀呀，人家怎麼可能喝了這麼點淡水就醉了嘛哈哈，只不過舉個例子，舉個例子而已啦哈哈哈~<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 對不起諸位，歐根失態了…本人也沒見過她酒品這麼差的樣子<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 沒什麼，大家都是盟友~有什麼話擺明了說也挺好的，如果有我們可以幫上忙的地方直說就好<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 比如說把神石也借我們用用之類的？哈哈哈哈~說笑的說笑的<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 ……<br>
@@ -921,14 +921,14 @@ Surprise！好久不見，晚上好啊~<br>
 人都走了，妳也該起來了——<br>
 喂…喂歐根<br>
 ……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呼…呼…哈（歐根的臉上露出幸福的笑容<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 居然不是演技嗎？……這跟說好的劇本不一樣啊…真是的<br>
 重櫻的酒…真是可怕<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=【海若】|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=【海若】|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">？？？：</span><br>
 “第六戰隊、第三水雷戰隊！ ！從右翼包夾目標！ ！ ”<br>
 <br>
@@ -1025,7 +1025,7 @@ Surprise！好久不見，晚上好啊~<br>
 拜託妳們了！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=不速之客|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=不速之客|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 終於找到妳了，沒有收到邀請函卻不請自來的客人~<br>
 哦~~這可真是柄好刀啊，快轉過身來讓我看看妳究竟是什麼人？<br>
@@ -1054,7 +1054,7 @@ Surprise！好久不見，晚上好啊~<br>
 ——摧毀神石<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=另一個{namecode:66}|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=另一個{namecode:66}|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 哐！<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -1112,7 +1112,7 @@ Surprise！好久不見，晚上好啊~<br>
 但是，為了保護神石，只好上了！！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=強敵|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=強敵|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#FF5C5CFF;">？？？：</span><br>
 拖得太久了，不妙…時間就快到了<br>
 <br>
@@ -1135,7 +1135,7 @@ Surprise！好久不見，晚上好啊~<br>
 這就是…劍法的極意？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=浮櫻影華|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=浮櫻影華|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 祭典儀式廳·子時<br>
 <span style="color:#4eb24e;">{namecode:12}：</span><br>
@@ -1251,37 +1251,37 @@ Surprise！好久不見，晚上好啊~<br>
 ——這塊石頭，被掉包了<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=密談|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=密談|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 數日後·某處海域<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 結果最後，重櫻的祭典還是失敗了啊~<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 沒辦法的事吧…<br>
 到頭來真正的護國寶器也沒能看到真面目，而且據說連重櫻內部自己都不知道目前神石的下落<br>
 真是的，都怪歐根妳在宴會階段就醉倒了，儀式廳裡發生了什麼我們都沒看到<br>
 這樣情報不足的情況空手而歸，肯定要被腓特烈給責備的<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 （臉紅）我那哪是醉了，只是演技，演技而已！！<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 對的，妳的睡相演得可真好——<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 （臉紅）記得回去以後不許再討論這件事！<br>
 <span style="color:#4eb24e;">Z2：</span><br>
 是是是，歐根親王大人——<br>
 Z2瞄了一眼旁邊這艘拖著一船重櫻酒的鐵血新銳重巡洋艦，發出了一聲嘆息<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 不管怎樣，至少重櫻內部的派系、新銳戰艦的性能這些情報已經入手了<br>
 最重要的是，NA作戰的方案也已經傳遞到她們手中了，之後，就看她們自己的選擇了~<br>
 畢竟，這個世界，只有強者才能生存下去<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 歐根親王，請留步<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 啊啦，這不是{namecode:91}大人和{namecode:92}大人嗎？不需要這麼客氣送我們到這麼遠的~<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 有些事情在人多眼雜的時候不方便討論<br>
 我就直說了，我想要得到鐵血艦船和有關塞壬更多的資料<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哎呀，{namecode:91}大人這是開口吞象呀，就算我們是盟友關係，之前關於海軍的合作也就只有齊柏林伯爵的艦裝設計吧？<br>
 一下子這麼跳躍，是不是有點…嗯…就算作為一個交易，等價交換這個道理您也不會不懂吧？呵呵呵<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
@@ -1289,7 +1289,7 @@ Z2瞄了一眼旁邊這艘拖著一船重櫻酒的鐵血新銳重巡洋艦，發
 ——神石，鐵血難道不想稍稍借用一下嗎？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=儀式之後|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=儀式之後|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 數日後·天岩島<br>
 庭院中央，{namecode:96}、{namecode:158}、{namecode:50}、{namecode:181}正在互相交流劍法<br>

@@ -1,6 +1,6 @@
 == Visitors From Another Dimension: Mission Cutscenes  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Wormhole To Another Dimension|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Wormhole To Another Dimension|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 1 - A Wormhole To Another Dimension<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
@@ -156,7 +156,7 @@ Sure. I'd be bored out of my mind just standing here and waiting for them anyway
 I am fairly certain that as long as those two are involved, there will be breaks to catch for nobody.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=What You Need Is A CPU!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=What You Need Is A CPU!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 2 - What You Need Is A CPU!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -258,7 +258,7 @@ Ahahaha... I think things are going to get busy around here.<br>
 Yawn... You guys take over from here... I'm gonna rest... Zzzzz...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cross-Cultural Contact|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cross-Cultural Contact|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 3 - Cross-Cultural Contact<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
@@ -357,7 +357,7 @@ If so, I could be your guide, if you'd like.<br>
 Yes please, Ayanami. Well then, after you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Room, Two Gamers, And I|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Room, Two Gamers, And I|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 4 - A Room, Two Gamers, And I<br>
 <span style="color:#4eb24e;">Vert：</span><br>
@@ -441,7 +441,7 @@ Let's just move on to the games now~! I'm looking forward to having some multipl
 Indeed... As you said, you don't get a chance like this every day, so we should enjoy it to the fullest.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Keep Quiet In The Library|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Keep Quiet In The Library|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 5 - Keep Quiet In The Library<br>
 <span style="color:#4eb24e;">Blanc：</span><br>
@@ -534,7 +534,7 @@ What are you saying now, Ranger? ...Sigh, at this rate I'm actually going to bec
 You may be right... On that note, I too was once a teacher.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Game Night With The Girls!|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Game Night With The Girls!|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 6 - Game Night With The Girls!<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
@@ -666,7 +666,7 @@ Hahaha... This is my chance to show you the tricks I've learned at the Gamer Clu
 Your Majesty, those are not required in order to play video games...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Well Then, Buh-Bye!|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Well Then, Buh-Bye!|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Chapter 7 - Well Then, Buh-Bye!<br>
 <span style="color:#4eb24e;">Histoire：</span><br>

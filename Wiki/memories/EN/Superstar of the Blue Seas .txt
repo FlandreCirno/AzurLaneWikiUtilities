@@ -1,6 +1,6 @@
 == Superstar of the Blue Seas  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Marine Idol!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Marine Idol!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Superstar of the Blue Seas<br>
 <br>
@@ -51,7 +51,7 @@ If you have any aquatic inquiries, just ask, Commander! Professor Sara can teach
 And so we set out on a journey in search for the Mythical Seal.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Charity Race?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Charity Race?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Superstar of the Blue Seas<br>
 <br>
@@ -101,7 +101,7 @@ I'm picking up readings thataway!<br>
 Following the readings on the Seal radar, our little journey continued.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Protectors of the Seal|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Protectors of the Seal|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Superstar of the Blue Seas<br>
 <br>
@@ -161,7 +161,7 @@ Great to hear~! Thanks for covering for me~<br>
 Okay, Commander! Let's move on!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Seal Located!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Seal Located!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Superstar of the Blue Seas<br>
 <br>
@@ -204,7 +204,7 @@ And then, from the center of the stage, with lights shining down on it, emerged 
 The Mythical Seal!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mythical Seal|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mythical Seal|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Superstar of the Blue Seas<br>
 <br>

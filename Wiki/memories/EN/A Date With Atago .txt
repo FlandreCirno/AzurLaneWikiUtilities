@@ -1,6 +1,6 @@
 == A Date With Atago  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Date Invitation|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Date Invitation|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>
@@ -28,7 +28,7 @@ All right, let's go nice and early in the morning, so you should probably sleep 
 I'm looking forward to our little outing~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Let's Go!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Let's Go!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>
@@ -66,7 +66,7 @@ For some reason, Takao was beet red as if she was about to shoot steam from her 
 What in the world did Atago tell her...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shopping Situation|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shopping Situation|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>
@@ -110,7 +110,7 @@ Um, n-nothing at all! C'mon, Choukai, let's bounce!<br>
 The two of them hastily beat their retreat.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rest Break, and then...|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rest Break, and then...|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>
@@ -140,7 +140,7 @@ You don't have to be stubborn like Takao. If you have something to say, just let
 It might have just been my imagination, but Atago's smile looked really, really forced.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Engulfed by Darkness|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Engulfed by Darkness|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>
@@ -195,7 +195,7 @@ Atago seemed to slowly be returning to her usual self.<br>
 Commander, only you know about our little secret. Make sure to treasure it, okay? Hehe~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Evening Present|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Evening Present|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>
@@ -225,7 +225,7 @@ So, before that happens...<br>
 That's why I'd like a present... the thing that I want most.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Advance Bravely!|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Advance Bravely!|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 A Date With Atago<br>
 <br>

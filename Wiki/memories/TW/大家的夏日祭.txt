@@ -1,6 +1,6 @@
 == 大家的夏日祭 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=準備夏日祭典吧！|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=準備夏日祭典吧！|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 大家的夏日祭<br>
 <br>
@@ -16,15 +16,15 @@
 不過，我們有過每年辦祭典的習慣嗎…？<br>
 <span style="color:#4eb24e;">{namecode:13}：</span><br>
 唔…<br>
-<span style="color:#4eb24e;">苝：</span><br>
+<span style="color:#4eb24e;">{namecode:164}：</span><br>
 沒有的話，就從今年開始養成習慣吧！<br>
 <span style="color:#4eb24e;">{namecode:13}&{namecode:14}：</span><br>
 北風醬！<br>
-<span style="color:#4eb24e;">苝：</span><br>
+<span style="color:#4eb24e;">{namecode:164}：</span><br>
 呼呼，聽到了好事呢…說到重櫻、說到夏天！<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 自然少不了夏日祭了嘛~<br>
-<span style="color:#4eb24e;">苝：</span><br>
+<span style="color:#4eb24e;">{namecode:164}：</span><br>
 不愧是瑞鹤，跟北風想到一塊了！<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 啊哈哈，這麼誇我我會不好意思的啦~<br>
@@ -39,19 +39,19 @@
 …如此這般……我們來辦夏日祭典吧！指揮官！<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">苝：</span><br>
+<span style="color:#4eb24e;">{namecode:164}：</span><br>
 指、指揮官不會殘忍拒絕吧…？<br>
 <span style="color:#4eb24e;">{namecode:14}：</span><br>
 我們還找了其他夥伴來幫忙哦<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 {namecode:33}會加油的！嘿嘿嘿…祭典的糖果…（擦口水）<br>
-<span style="color:#4eb24e;">{namecode:155}：</span><br>
+<span style="color:#4eb24e;">伊26：</span><br>
 夏日祭典呀，一定會很有趣的指揮官！來辦嘛！<br>
 <br>
 …嗯，難得的夏天，聽起來似乎也不錯…<br>
 <br>
 '''''<span style="color:black;">选择项1：同意</span>'''''<br>
-<span style="color:#4eb24e;">苝：</span><br>
+<span style="color:#4eb24e;">{namecode:164}：</span><br>
 不愧是指揮官，通情達理…！<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 嗯！那就開始準備吧！也要喊上其他陣營的夥伴才行呢~<br>
@@ -62,18 +62,18 @@
 就這樣，經過了一番緊張而充實的準備。港區的夏日祭，開始了——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=享受夏日祭典吧~|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=享受夏日祭典吧~|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 大家的夏日祭<br>
 <br>
 二 享受夏日祭典吧~<br>
 <span style="color:#4eb24e;">天后：</span><br>
 哇…這就是重櫻的祭典，真熱鬧啊——<br>
-<span style="color:#4eb24e;">谢菲尔德：</span><br>
+<span style="color:#4eb24e;">謝菲爾德：</span><br>
 確實是…不錯。呼呼…竟然還有射擊攤子，我的槍已經在蠢蠢欲動了…！<br>
 <span style="color:#4eb24e;">天后：</span><br>
 射、射擊攤應該不能用自己的槍吧…<br>
-<span style="color:#4eb24e;">谢菲尔德：</span><br>
+<span style="color:#4eb24e;">謝菲爾德：</span><br>
 …開玩笑的<br>
 <span style="color:#4eb24e;">{namecode:13}：</span><br>
 鏘！<br>
@@ -83,7 +83,7 @@
 歡迎來到重櫻夏日祭！<br>
 <span style="color:#4eb24e;">天后：</span><br>
 哇，雷和電都好可愛呀，謝謝妳們的邀請呢~<br>
-<span style="color:#4eb24e;">谢菲尔德：</span><br>
+<span style="color:#4eb24e;">謝菲爾德：</span><br>
 嗯，我和吸血鬼也——嗯…？人呢？<br>
 <span style="color:#4eb24e;">天后：</span><br>
 吸血鬼的話在那邊的果汁攤——<br>
@@ -100,7 +100,7 @@
 呼欸？伊26呢？<br>
 <span style="color:#4eb24e;">{namecode:164}：</span><br>
 嗯？哦…她在撈金魚的攤子出不來了——<br>
-<span style="color:#4eb24e;">{namecode:155}：</span><br>
+<span style="color:#4eb24e;">伊26：</span><br>
 啊~破了…再、再來一次！請再給我新的網！<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 哦哦，都在享受著祭典啊~<br>
@@ -109,21 +109,21 @@
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 嘿嘿，祭典的成功舉辦是大家一起努力的成果啦，指揮官也要玩的開心哦~<br>
 嗯？那邊過來的是…白鷹的…？<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 (碎碎念)真是的…聖路易斯那傢伙，說什麼“穿這樣指揮官一定會被妳迷倒”…我、我才不期待這種事情呢！<br>
 雖、雖說這件…是叫“浴衣”嗎…？還是挺好看的就是了…<br>
 不過感覺…尤其是胸口這邊…還是有點緊啊……<br>
 <br>
 跟她打個招呼吧——<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 指指指指指指揮官！？<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 晚上好呀，火奴魯魯小姐~<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 是重櫻的瑞鶴啊…晚、晚上好<br>
 <br>
 '''''<span style="color:black;">选择项1：稱讚火奴魯魯</span>'''''<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 這、這麼穿很好看？真、真的嗎！？……謝、謝謝…<br>
 <br>
 今天意外地坦率呢…是受到祭典氣氛的影響嗎…<br>
@@ -131,7 +131,7 @@
 啊哈哈，既然都來了，就好好享受祭典吧！正好祭典的重頭戲之一也要開始了——<br>
 <br>
 砰！<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 哇！？這就是…重櫻的煙花嗎？<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 是呀，{namecode:98}特供祭典煙花~嘿嘿，要好好感謝下她才行呢~<br>
@@ -141,7 +141,7 @@
 tamaya~<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 啊哈哈哈~指揮官和火奴魯魯也一起來呀~tamaya~<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 這、這是重櫻的神秘儀式之一嗎…ta、tamaya…？<br>
 <br>
 雖然夏天終究會過去，祭典總會結束。未來還有許多挑戰在等待，不過至少現在——<br>

@@ -1,6 +1,6 @@
 == Lively Afternoon Tea Party ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Three O'Clock Ladies|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Three O'Clock Ladies|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party I<br>
 <br>
@@ -56,7 +56,7 @@ A note?<br>
 I won't attend this tea party without {namecode:12}!... {namecode:12}, just wait, I'll definitely come get you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Lonely Queen|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Lonely Queen|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party II<br>
 <br>
@@ -98,7 +98,7 @@ At the same time, {namecode:11}...<br>
 A single person alone can be a bit… but——Ninja {namecode:11} will never give up even if I'm facing danger alone! Here I come, Northern Parliament!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Morning Rays of Sun|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Morning Rays of Sun|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party III<br>
 <br>
@@ -160,7 +160,7 @@ At the same time, {namecode:11}...<br>
 Should the northern side of the Sakura Empire be this warm… might be caused by greenhouse effects, scary!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Belfast for Brunch?!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Belfast for Brunch?!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party IV<br>
 <br>
@@ -209,7 +209,7 @@ At the same time, {namecode:11}...<br>
 It's getting hotter and hotter, my clothes are all soaked... Must be because I ran too much! A route sign ahead, Honolulu? What does this mean? No matter, as long as I keep on moving forward!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Naptime Stalker|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Naptime Stalker|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party V<br>
 <br>
@@ -277,7 +277,7 @@ At the same time, {namecode:11}...<br>
 N-not there yet… I'm already so exhausted… {namecode:12} is constantly living in such harsh environments... {namecode:12}, I'll be there soon!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Feigned Grace|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Feigned Grace|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party VI<br>
 <br>
@@ -357,7 +357,7 @@ At the same time, {namecode:11}...<br>
 A continent covered in snow… The map is reliable as expected. This is the Northern Parliament! {namecode:12}, rest assured, I am here to get you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Electric Tea Party?!|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Electric Tea Party?!|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Lively Afternoon Tea Party VII<br>
 <br>

@@ -1,6 +1,6 @@
 == The War God's Return  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The War God's Return|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The War God's Return|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Shoot... Of course our instruments would stop working inside a Mirror Sea...<br>
@@ -119,7 +119,7 @@ Hahaha! You would do well to listen to her, unless you're that eager to throw aw
 Oh, and next time, make a reservation before coming here, will you? Bye-bye, little ones~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Upheaval|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Upheaval|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:19}：</span><br>
 L-listen, everyone! A person with an incredible air of grandeur has just shown up in the harbor!<br>
 <span style="color:#4eb24e;">{namecode:15}：</span><br>
@@ -183,7 +183,7 @@ What truly determines who emerges victorious in a battle is not equipment, tacti
 The thing that it ultimately comes down to... is the strength of your convictions.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Celebratory Banquet|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Celebratory Banquet|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:71}：</span><br>
 Sadly, Haruna wasn't able to help, but I'm pleased to present to you this banquet's buffet, made by yours truly. Everyone, please rest your weary bones from the battle and enjoy yourselves to your heart's content~<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -219,7 +219,7 @@ M-me?! B-but I'm not a good dancer...<br>
 You needn't be so coy! Come! I won't be angry at you even if you step on my toes during the more difficult parts.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Conviction|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Conviction|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Mikasa, I wanted to thank you for yesterday. Admittedly, there were a few things you mentioned I didn't quite understand...<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>

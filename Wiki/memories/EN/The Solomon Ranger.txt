@@ -1,6 +1,6 @@
 == The Solomon Ranger ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Carriers of the Eagle Union|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Carriers of the Eagle Union|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Enterprise, I'm sooo bored~ Why don't we go grab Minneapolis and then head to shore for a barbecue?<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -33,7 +33,7 @@ All righty, that decides it~! So, wanna grab barbecue?<br>
 Hah... I suppose I'll take you up on that offer.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Enemy Aircraft Sighted!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enemy Aircraft Sighted!|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Ah... looks like the barbecue's going to have to wait. We've found the enemy!<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -63,7 +63,7 @@ Good grief... forget it, I can't picture that happening at all.<br>
 Anyway, since the enemy has appeared, let's be sure to give them the old Union-style greeting. Prepare to sortie!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Versus the Fast Battleship Fleet|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Versus the Fast Battleship Fleet|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Portland：</span><br>
 Atlanta, I'm telling you, my cute little Indy-<br>
 <span style="color:#4eb24e;">Atlanta：</span><br>
@@ -84,7 +84,7 @@ Heh, it's nothing compared to my killing intent from being separated from Indy!<
 Then, let's break our way through here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Battle Analysis|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Battle Analysis|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 We've received warnings of incoming airstrikes from the air base. This must be Ryuujou's attack squadron. Sara, what should we do?<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -109,7 +109,7 @@ So they're here. Zuikaku and Shoukaku's air group...<br>
 We have no choice... let's get through this!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisterly Seminar|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisterly Seminar|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Portland：</span><br>
 Haah...<br>
 <span style="color:#4eb24e;">Atlanta：</span><br>
@@ -145,7 +145,7 @@ No, Saratoga said that she and Enterprise will be able to handle it, and that yo
 I see... got it. Let's move forward then!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Versus the Virtuous Sister!?|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Versus the Virtuous Sister!?|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Atlanta：</span><br>
 That girl is...<br>
 <span style="color:#4eb24e;">Mutsu：</span><br>
@@ -162,7 +162,7 @@ Don't worry! No matter how many cute and virtuous little sisters are out there, 
 Good grief...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Saratoga's Secret Stratagem|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Saratoga's Secret Stratagem|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Meanwhile, on the other front...<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -191,7 +191,7 @@ Every time you laugh like that, someone always finds themselves on the receiving
 Thaaat's right~ I'll make sure they regret picking a fight with Miss Sara!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisterly Seminar II|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisterly Seminar II|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Portland：</span><br>
 Haah... I wonder what Indy is doing right now~<br>
 I wonder if she's eating and sleeping well, and brushing her teeth on time every day~<br>
@@ -218,7 +218,7 @@ Hehehe, my love for Indy is boundless!<br>
 Yes, yes. Boundless indeed. Let's keep moving forward - we're already approaching our target.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Versus Light Carrier Ryuujou|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Versus Light Carrier Ryuujou|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ryuujou：</span><br>
 So, you've finally come.<br>
 <span style="color:#4eb24e;">Atlanta：</span><br>
@@ -245,7 +245,7 @@ You'll have to beat me first before you can call me a decoy!<br>
 Virtuous dragons, devour the enemies before us! Advance!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Raging Battle Ensues, and then...|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Raging Battle Ensues, and then...|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ryuujou：</span><br>
 Ugh... so this is... all I could do...<br>
 I suppose... even in defeat... I was able to be of some use to everyone...<br>
@@ -272,7 +272,7 @@ Shoukaku, wait! I've just been alerted that Jintsuu's division has been intercep
 What?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Onward to the Next Battle|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Onward to the Next Battle|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Hehehe~ too naive! Did you think we'd fall for your little decoy?<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>

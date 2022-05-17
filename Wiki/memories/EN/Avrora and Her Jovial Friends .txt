@@ -1,6 +1,6 @@
 == Avrora and Her Jovial Friends  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Dawn of Victory|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dawn of Victory|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>
@@ -47,7 +47,7 @@ After hearing Avrora's rousing words, her colleagues began to charge forward cou
 ...By the way, Akashi really did make a mistake in the settings.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Nostalgia|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Nostalgia|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>
@@ -97,7 +97,7 @@ Someday, I want to take you to the Northern Parliament with me, Commander.<br>
 Her words, tinged with nostalgia and longing, seemed as profound as her stomach.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Welcoming Party|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Welcoming Party|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>
@@ -149,7 +149,7 @@ Ah, since Commander is here, why don't we all have another toast?<br>
 γpa！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Old Soldiers|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Old Soldiers|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>
@@ -198,7 +198,7 @@ Ahh, but it's still too soon to retire. Hahaha!<br>
 And thus, the conversation of the venerable veterans continued.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Arresting Wire|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Arresting Wire|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>
@@ -246,7 +246,7 @@ Why don't we hold a mock battle at the next exercise?<br>
 Let's do it...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=True Power|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=True Power|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>
@@ -301,7 +301,7 @@ Behold! Sister Sara's Magic Cannon!<br>
 What...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Light of Dawn|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Light of Dawn|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Avrora and Her Jovial Friends<br>
 <br>

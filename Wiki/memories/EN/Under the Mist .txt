@@ -1,6 +1,6 @@
 == Under the Mist  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Redeployment|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Redeployment|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union Mainland - NY City (Post-Siren attack)<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -30,7 +30,7 @@ Roger that. Good luck, and give my regards to the Commander.<br>
 Will do~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mist|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mist|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Eastern Region<br>
 A dense mist enveloped the seas. All was painted white as far as the eye can see.<br>
@@ -66,7 +66,7 @@ I'll give it a shot... Oh, I think my message went through! It looks like our co
 Wait, seriously?! How in the world... Seems this Mirror Sea is different to what we've dealt with before...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Misdirection|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Misdirection|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Region unknown<br>
 (Beep... Beep... Beep...)<br>
@@ -119,7 +119,7 @@ Whichever it turns out to be, we have to exercise caution because of all this fo
 Everyone clear on what to do? Then let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lost at Sea|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lost at Sea|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Location unknown<br>
 <span style="color:#4eb24e;">Memphis：</span><br>

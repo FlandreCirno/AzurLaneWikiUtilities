@@ -1,6 +1,6 @@
 == Counterattack Within the Fjord  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Retreat|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Retreat|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z2：</span><br>
 What a pain. Those Royal Navy reinforcements may be a bit of a handful.<br>
 <span style="color:#ec5d53;">Z18：</span><br>
@@ -36,7 +36,7 @@ Okay, I'll psych myself up too.<br>
 Everyone, prepare to retreat.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Separation|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Separation|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z18：</span><br>
 Um... Z9 and Z11 have been following behind us. Z17 is here, and Z12 is over there... but Z19 is still missing.<br>
 <span style="color:#ec5d53;">Z2：</span><br>
@@ -48,7 +48,7 @@ If that's the case, then she has no idea we're retreating.<br>
 And we're almost out of ammunition. What a bother...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pursuit|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pursuit|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Hermann Künne (Z19)：</span><br>
 Everyone's going the wrong way.<br>
 And I never expected the Royal Navy would send such a strong fleet at us.<br>
@@ -66,7 +66,7 @@ So fast?!<br>
 I'm not letting you get away~ Tribal-class destroyer Eskimo, attack!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Escape|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Escape|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Eskimo ：</span><br>
 They got away in the end...<br>
 <span style="color:#4eb24e;">Foxhound：</span><br>
@@ -88,7 +88,7 @@ She told me to tell you: "Don't overdo it. Signal if in danger."<br>
 Alright! Let her know Eskimo said "aye aye!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Starry Fjord|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Starry Fjord|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Foxhound：</span><br>
 I'm back, Warspite.<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
@@ -100,7 +100,7 @@ Right. Leave the stranded destroyer to Eskimo while we proceed with the mission.
 In the name of the Queen, and for Hardy and Hunter, let no one escape!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reunion|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reunion|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z18：</span><br>
 Z19! There you are! What happened to you?<br>
 <span style="color:#ec5d53;">Hermann Künne (Z19)：</span><br>
@@ -121,7 +121,7 @@ Then I'll stay and fight with you. I'm not leaving you here!<br>
 ...Idiot.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Encounter|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Encounter|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Eskimo ：</span><br>
 Now I've got y- huh? There's so many of them!<br>
 <br>
@@ -131,7 +131,7 @@ Woah! Not even a warning!<br>
 F-fine! Lemme at 'em!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 BOOM!<br>
 <span style="color:#ec5d53;">Hermann Künne (Z19)：</span><br>
@@ -161,7 +161,7 @@ Of a f- few Iron Blood destroyers? Not even a little bit!<br>
 Well then, you're going to stay a while with me, until your reinforcements show up.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Onwards|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Onwards|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Warspite：</span><br>
 Z9, Z11... there should be six more Iron Blood destroyers.<br>
 <span style="color:#4eb24e;">Foxhound：</span><br>
@@ -186,7 +186,7 @@ Call Eskimo yourself. Get a status report.<br>
 Aye aye!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Strategy|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Strategy|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Foxhound：</span><br>
 We've made contact! Eskimo has encountered the main force of Iron Blood destroyers. She has engaged them and requests immediate support!<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
@@ -198,7 +198,7 @@ In Rombaksfjord.<br>
 Adjust course, full speed ahead!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Battle|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Battle|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 BOOM!<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
@@ -229,7 +229,7 @@ It is an honour to meet such proud warriors in battle.<br>
 Royal Navy, to arms!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z2：</span><br>
 Of course a destroyer can't challenge a battleship.<br>
 <span style="color:#ec5d53;">Z18：</span><br>
@@ -258,7 +258,7 @@ Call it a tribute to their bravery.<br>
 Roger. Adjusting course to pursue Iron Blood destroyers Z12 and Z17!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Epilogue|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Epilogue|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Eskimo ：</span><br>
 Hm... huh?<br>
 <span style="color:#4eb24e;">Warspite：</span><br>

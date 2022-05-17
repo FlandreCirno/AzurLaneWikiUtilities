@@ -1,6 +1,6 @@
 == The Flame-Touched Dagger  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Envoys of Atonement|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Envoys of Atonement|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 "When strife befalls our home, I shall hoist our proud flag high."<br>
 "The point of my sword shall lead me forward."<br>
@@ -77,7 +77,7 @@ If you like it so much, maybe I'll call you that instead of Foch from now on~<br
 Uhh, I think I'll pass on that!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cover of Darkness|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cover of Darkness|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 With the sun setting behind them, the fleet departed for their target.<br>
 <span style="color:#4eb24e;">Algérie：</span><br>
@@ -93,7 +93,7 @@ Of course, that won't be possible unless we get there unnoticed.<br>
 Until then, we'd better stay on our guards. Lead the way, Algérie!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ripples in The Night|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ripples in The Night|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Algérie：</span><br>
 Oh dear... Foch! Enemy fleet, incoming!<br>
 <span style="color:#4eb24e;">Foch：</span><br>
@@ -112,7 +112,7 @@ BOOOOOM!<br>
 My firepower may not be what it once was, but it's still capable of puncturing armor!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Approach|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Approach|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Trento：</span><br>
 Ugh...!<br>
 Even though I did everything I could...<br>
@@ -138,7 +138,7 @@ In other words, better exploit the fact they're asleep in their beds right now.<
 Well said. Onward we go.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Preemptive Strike|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preemptive Strike|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Algérie：</span><br>
 Foch, there's another fleet incoming.<br>
 <span style="color:#4eb24e;">Foch：</span><br>
@@ -160,7 +160,7 @@ If that's a no-go, our only other choice is to focus our offensive on that fleet
 Sound good? Great, then get ready to engage!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Wake-Up Shot|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Wake-Up Shot|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Zara：</span><br>
 *Yawn*... Why did Littorio make us sortie this late in the night... What a slavedriver...<br>
 Pola's going to kill me if this becomes a routine thing and I get baggy eyes because of it...<br>
@@ -173,7 +173,7 @@ Should've kept my mouth shut! Who's attacking?!<br>
 Well, they picked a bad day to mess with me... I'm coming for you, jerkwads!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breakthrough|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breakthrough|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 BOOOOOM!<br>
 <span style="color:#4eb24e;">Foch：</span><br>
@@ -202,7 +202,7 @@ Yeah. This is going to come down to a race against time more than a battle again
 All righty, let's get this job done quickly!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Flames|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Flames|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 A blaring alarm ripped through the night sky at the Sardegnian facility, now under a surprise attack.<br>
 The Vichya fleet rained destruction down upon the port, taking out facilities and defensive weapons.<br>
@@ -223,7 +223,7 @@ In any case, I think we did a good enough job here.<br>
 But now, we need to get out of here before Sardegna's main fleet arrives!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Hound|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Hound|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Algérie：</span><br>
 They're here. Sardegna's main fleet.<br>
 <span style="color:#4eb24e;">Foch：</span><br>
@@ -238,7 +238,7 @@ All right, let's have the fast ships put up a bit of a diversion to buy time for
 We'll regroup back at the Vichya base!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Hunter|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Hunter|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 The light from the flames of the burning port grew dimmer and dimmer as the Vichya ships made their retreat.<br>
 By the time the first rays of light illuminated the surrounding waters, the fleet had already vanished.<br>
@@ -283,7 +283,7 @@ Littorio, Vittorio Veneto-class battleship of Sardegna...<br>
 ...will now test your mettle, Templar Knights!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Hunted|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Hunted|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 The ships continued to exchange fire as the sun took its place in the morning sky.<br>
 <span style="color:#4eb24e;">Foch：</span><br>
@@ -330,7 +330,7 @@ Littorio has given us a bit of breathing room, but let's settle this situation a
 Let's offer up our mass-produced ships so we can get away!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Triumph|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Triumph|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Avoiding further direct confrontation, Algérie and Foch used their remaining mass-produced ships to create space for them to exit Littorio's firing range.<br>
 <span style="color:#ec5d53;">Littorio：</span><br>

@@ -1,6 +1,6 @@
 == Visitors From Another Dimension: Stage Cutscenes  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Odd-Colored Seas - BLACK|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Odd-Colored Seas - BLACK|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 "Odd-Colored Seas - BLACK"<br>
 <span style="color:#ff0000;">？？？：</span><br>
@@ -19,7 +19,7 @@ Ehehe... If I utilize the Mirror Seas, perhaps I can conduct a most interesting 
 Now, what kind of fruit shall this experiment bear? I shall wait and see.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Jet Black Finale|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Jet Black Finale|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Laffey：</span><br>
 Finally home... can't take it anymore... going to sleep...<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -81,7 +81,7 @@ Hmm... I don't think I can make it tonight. Why don't you all get some rest, nya
 Akashi will have it done by the morning. Look forward to it, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Odd-Colored Seas - GREEN|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Odd-Colored Seas - GREEN|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 "Odd-Colored Seas - GREEN"<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
@@ -124,7 +124,7 @@ Hehehe... Things have gotten more interesting than I originally imagined.<br>
 I want to further witness the possibilities these girls contain... Let us observe them a bit longer...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Verdant Green Finale|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Verdant Green Finale|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 ... Beep beep! Beep beep! Beep beep!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -181,7 +181,7 @@ Neptune really is quite the optimistic genius.<br>
 Eheh! Praise me more! Neppy here is a girl who grows with more praise!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Odd-Colored Seas - WHITE|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Odd-Colored Seas - WHITE|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 "Odd-Colored Seas - WHITE"<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
@@ -231,7 +231,7 @@ To think that they would be able to not only destroy the Firewall, but also inve
 Hehe... Well then, let us determine just who the superior one is...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pure White Finale|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pure White Finale|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Blanc：</span><br>
 Hell yeah! This should be the last of these idiots!<br>
 <span style="color:#4eb24e;">Vert：</span><br>
@@ -276,7 +276,7 @@ There are so many cute girls here... Aaahh, I wouldn't mind being stuck here for
 ... There it is again. You could call it Vert's mental illness... I don't even want to say anything.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Odd-Colored Seas - PURPLE|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Odd-Colored Seas - PURPLE|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 "Odd-Colored Seas - PURPLE"<br>
 <span style="color:#4eb24e;">Neptune：</span><br>
@@ -321,7 +321,7 @@ Vert, you're just like Neptune. Whether in war or peace, you two never change.<b
 Come on, everyone. Let's all strengthen our teamwork and head out to the new Mirror Sea!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Deep Purple Conclusion|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Deep Purple Conclusion|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Neptune：</span><br>
 Stage 4 cleared flawlessly! The Neptune Crew is invincible wherever we go!<br>
 <span style="color:#4eb24e;">Noire：</span><br>

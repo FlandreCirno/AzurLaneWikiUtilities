@@ -1,6 +1,6 @@
 == Mirror Involution  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Welcome Back, Commander|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Welcome Back, Commander|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Following my stay with the Northern Parliament and an expedition to a Siren research facility, I rejoined the Eagle Union's forces and prepared for our next move.<br>
 Despite our successful incursion into the NA Ocean, the Sirens had not been silent elsewhere. My days were quite busy as we focused on gathering information, fighting back the Sirens, and working with the Royal Navy.<br>
@@ -87,7 +87,7 @@ But that was fine... The girls had earned it.<br>
 "Is there yet another helix that lies beyond the Mirror?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Black Dragon Awakens|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Black Dragon Awakens|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 PH Harbor - Temporary Command Post<br>
 At the remote island base, a temporary office had been established for me to conduct my operations.<br>
@@ -170,7 +170,7 @@ You know, this desk isn't in the right spot after all. Would you mind giving us 
 Hehe, I'd appreciate it~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unforgettable|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unforgettable|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 PH Harbor - Temporary Office, Hours Later<br>
 <span style="color:#4eb24e;">San Francisco：</span><br>
@@ -252,7 +252,7 @@ When I woke up the next day...<br>
 I learned that we had lost contact with the AF base.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Enemy Intel|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enemy Intel|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The ships under my command had gathered in the temporary command post.<br>
 <span style="color:#4eb24e;">Helena：</span><br>
@@ -303,7 +303,7 @@ Hard to say. From everything we know about Pawns, they're pretty easy to defeat,
 "Everyone, set sail for AF Atoll!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reverse Course|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reverse Course|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Patrol Fleet<br>
 <span style="color:#4eb24e;">New Jersey：</span><br>
@@ -338,7 +338,7 @@ Understood.<br>
 That's the spirit! Reverse course, everyone! We're headed for AF Atoll!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Intelligence and Mobilization|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Intelligence and Mobilization|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 New Jersey Fleet - Hours Later<br>
 <span style="color:#4eb24e;">{namecode:199}：</span><br>
@@ -398,7 +398,7 @@ Well, I'm glad Saratoga is handling the complicated stuff. Let's just focus on d
 Commander's fleet should have no trouble fighting off some Sirens, but let's not waste any more time!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Trapped?|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Trapped?|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 ？？？·？？？<br>
 I was on the bridge of a ship, but it was no longer one that I recognized.<br>
@@ -488,7 +488,7 @@ I'm not sure what purpose that message serves, but it's our only clue on how to 
 Keep your eyes peeled and listen closely.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=AF Base|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=AF Base|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 New Jersey Fleet<br>
 <span style="color:#4eb24e;">New Jersey：</span><br>
@@ -543,7 +543,7 @@ Easy peasy!<br>
 (Commander, hold out a bit longer!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Morrison and Mr. Bear|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Morrison and Mr. Bear|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#4eb24e;">Boise：</span><br>
@@ -562,7 +562,7 @@ More planes? There's just no end to them!<br>
 That's why we need to hurry up and join with Ticonderoga!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reenactment|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reenactment|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ticonderoga：</span><br>
 Sorry to keep you waiting. You're all safe under my wing now.<br>
 <span style="color:#4eb24e;">Boise：</span><br>
@@ -595,7 +595,7 @@ I see. In that case, you shouldn't waste any more time here!<br>
 Mhm! I'll be counting on you, Ty!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Incomplete Reenactment|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Incomplete Reenactment|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ticonderoga：</span><br>
 Hmm... Now this is interesting.<br>
 <span style="color:#4eb24e;">New Jersey：</span><br>
@@ -642,7 +642,7 @@ Ahhh, all this thinking is making my head hurt after all. I wish the commander w
 (A reenactment of the AF campaign? Not on my watch. New Jersey isn't some pawn on anyone's chessboard!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Memories of AF|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Memories of AF|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 ？？？·？？？<br>
 Much time had passed, and we still had not found any way to leave the bridge. We did occasionally receive other new messages through the communicator, but...<br>
@@ -715,7 +715,7 @@ Wait, seriously? Since we're stuck in here anyway, why not try to mess around wi
 (The more I think about it though... What if we're meant to be key players in the Sirens' game, rather than mere pawns?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements?|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements?|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 New Jersey Fleet<br>
 <span style="color:#4eb24e;">Ticonderoga：</span><br>
@@ -747,7 +747,7 @@ Welp, change in plans then. Let's track those Eagle Union planes instead... and 
 Boise, Morrison, please continue to take up the vanguard. I have no idea what's going on right now, but we're gonna have to charge right into that sea fog!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Silver Wings|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Silver Wings|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM——!!<br>
 <span style="color:#4eb24e;">Ticonderoga：</span><br>
@@ -820,7 +820,7 @@ We still need to find the commander, and we'll beat it out of them if we have to
 If the Sirens think they can fool us with their petty tricks, they'll soon be answering to my Mk7's!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Visitor From a Distant Dream|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Visitor From a Distant Dream|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 ？？？·？？？<br>
 <span style="color:#ffd000;">Hiryuu：</span><br>
@@ -907,7 +907,7 @@ But I want you to know... You are not my enemy. Please understand that I wish to
 There are so many things I'd like to share with you... And time is so ephemeral...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fated Memories|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fated Memories|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 I learned from Shinano that she drifts between possible realities in the form of "dreams," and has a limited ability to "project" herself into reality.<br>
 Her words were certainly hard to believe, and her unique vocabulary only compounded that problem. With the help of Archerfish's "translations," however, I gradually started to make some sense of what she was saying.<br>
@@ -998,7 +998,7 @@ Indeed... It is the fate that has been inscribed within our hulls long ago...<br
 ………………<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Shadows in the Sea Fog|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shadows in the Sea Fog|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 Within the Mirror Sea...<br>
 <span style="color:#4eb24e;">Morrison：</span><br>
@@ -1031,7 +1031,7 @@ Get a hold of New Jersey! We're going to chase after it!<br>
 "Or to rewrite the rules of the system?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Silent Dolls|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Silent Dolls|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM——!!<br>
 <span style="color:#4eb24e;">Ticonderoga：</span><br>
@@ -1084,7 +1084,7 @@ Let's clean up the leftover Pawns and then chase after Hammann!<br>
 A solid plan. Boise, Morrison, please continue to scout ahead for us!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mindless|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mindless|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Communicator：</span><br>
 ―――！<br>
 <span style="color:#ec5d53;">Hornet?：</span><br>
@@ -1149,7 +1149,7 @@ Up to this point, I haven't seen any Siren command units either... Who knows, th
 Whatever the case might be, Commander, please hold out a bit longer...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cogs of Fate|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cogs of Fate|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 ？？·？？<br>
 <span style="color:#ffd000;">Jintsuu：</span><br>
@@ -1191,7 +1191,7 @@ The reason you were brought here, and why you have been trapped...<br>
 ...Yes, our meeting has been made possible by the power hidden here.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Helena's Shadow|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Helena's Shadow|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">？？？：</span><br>
 Archerfish, Shinano, Commander, and even "me."<br>
 <span style="color:#ffd000;">Shinano ：</span><br>
@@ -1254,7 +1254,7 @@ Mirror hacking protocol - spatial unlock.<br>
 You are now free to leave.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Combat|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Combat|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Mirror Sea - Pawn Rally Point<br>
 <span style="color:#4eb24e;">New Jersey：</span><br>
@@ -1275,7 +1275,7 @@ Don't worry, I got this!<br>
 (She's right though, I still need to conserve my strength for when we have to fight through the Sakura Empire Pawns as well...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Imperceptible|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Imperceptible|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">New Jersey：</span><br>
 Ty, we're getting close to the place where the Sakura Empire Pawns are gathering, right?<br>
 <span style="color:#4eb24e;">Ticonderoga：</span><br>
@@ -1357,7 +1357,7 @@ We will not be able to reach the commander's location with all these Sirens in t
 Three, two, one... Shutdown...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Clockwork World|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Clockwork World|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 ？？？·？？？<br>
 With the help of the mysterious girl, I was able to escape from the mass-produced ship along with my allies.<br>
@@ -1420,7 +1420,7 @@ Three, two, one...<br>
 ――――！！！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Through the Rift|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Through the Rift|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 ―――！！<br>
 With a wave of the mysterious girl's hands, an explosion suddenly engulfed the fog-smothered emptiness in front of them.<br>
@@ -1464,7 +1464,7 @@ The place where the commander is waiting for us—<br>
 No... Waiting... for you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reboot|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reboot|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Archerfish：</span><br>
 Wh-wh-what's going on?! An earthquake out at sea?!<br>
 <span style="color:#4eb24e;">San Francisco：</span><br>
@@ -1514,7 +1514,7 @@ From now on, Commander, the four ships of the New Jersey fleet are yours to lead
 Now, teach those Sirens why your name is to be feared!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Final Battle|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Final Battle|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">San Francisco：</span><br>
 Ahaha! It feels real good to take out the trash like this! Come at me, scumbags!<br>
 I was worried for a sec if we could fight all of the Sirens at once, but turns out they're no match for us~<br>
@@ -1552,7 +1552,7 @@ What?! I'm not seeing anything on my radar!<br>
 ―――！！！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=META|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=META|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">New Jersey：</span><br>
 The number of planes coming at us is unreal! Are all the carrier Pawns converging on us at once?!<br>
 None of our detection equipment is working again... Is the Siren stealth system back online?<br>
@@ -1607,7 +1607,7 @@ You'll be fighting with us, right? I'm looking forward to seeing how you stack u
 ...Very well.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Old Friend|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Old Friend|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">？？：</span><br>
 ……………<br>
 <span style="color:#4eb24e;">New Jersey：</span><br>
@@ -1667,7 +1667,7 @@ Well done, Archerfish. Now, it's my turn!<br>
 I am the indomitable Black Dragon of the Eagle Union! Don't ever forget the sound of my roaring cannons! All guns, FIIIIIRE!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Path to the Future|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Path to the Future|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 ―――！！<br>
 <span style="color:#ec5d53;">Souryuu META：</span><br>
@@ -1690,7 +1690,7 @@ All ships, full speed ahead! Hit her with everything we've got!<br>
 We'll blast open a path to the future!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Retreat|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Retreat|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 The Eagle Union ships, along with their mysterious helper, continued to tap into the powers of the Mirror Sea to whittle away at their fearsome enemy. Little by little, damage was starting to accumulate on her rigging.<br>
 Though the attacks were nowhere close to bringing the ashen ship to her knees, the movement of her aircraft became slower and more predictable.<br>
@@ -1767,7 +1767,7 @@ I bet you're thinking about how to befriend them, Commander~ Ahaha, that's total
 Since you seemed positively smitten with that girl, I'm sure you wouldn't mind handling the entire post-operation report all by yourself, right? Don't die of overwork, okay~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Investigation|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Investigation|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 Days Later - Unknown Eagle Union Facility<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -1796,7 +1796,7 @@ Hey, this isn't some kind of competition! Your rigging's too big for you to be a
 Anyway, let's take a look at the next investigation... "Operation Dawn?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rewritten Rules|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rewritten Rules|选项=33|主框=1|样式=primary|展开=是}}
 <br>
 ？？·？？<br>
 <span style="color:#ffa550;">Helena META：</span><br>

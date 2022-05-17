@@ -1,6 +1,6 @@
 == World-Spanning Arclight ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Classroom|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Classroom|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">??? (Edinburgh)：</span><br>
 Zzzzz...<br>
 Ugh... It's pitch dark... Did I fall asleep?<br>
@@ -64,7 +64,7 @@ Can't even remember a thing... But, whatever... Might as well go back to sleep..
 「……」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ThingsForgotten|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ThingsForgotten|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Ding–– Dong–– Ding–– Dong––<br>
 <span style="color:#4eb24e;">A Teacher?：</span><br>
@@ -122,7 +122,7 @@ Hey, it's not my fault that showing up to class drains my stamina! Not everyone 
 Yeah... Kicking back during break time definitely beats sitting in class...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ItCameFromtheSea|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ItCameFromtheSea|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Ding–– Dong–– Ding–– Dong––<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -189,7 +189,7 @@ Ugh... Fine, fine! Everyone, follow me in an orderly fashion and evacuate to the
 Rikka, Yume! Get back here! Don't go running off during an emergency!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ThoseWhoRiseUpAgainstKaiju|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ThoseWhoRiseUpAgainstKaiju|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The group hurried down the hallway toward the gym.<br>
 <span style="color:#4eb24e;">Yume Minami：</span><br>
@@ -250,7 +250,7 @@ You were already using your phone during class earlier! Why bother asking for pe
 You're right. Hold on for a second, let me call her—<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ready,Fire!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ready,Fire!|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Rikka Takarada：</span><br>
 Oh, it went through.<br>
 Hello? Akane? Where are you?<br>
@@ -291,7 +291,7 @@ Kay, well, I'm hanging up now. Hey, Roon! Can you do that one more time?<br>
 She hung up... I have no idea what's going on, but she seems to be doing... just fine?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ShipgirlsandtheCommander|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ShipgirlsandtheCommander|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 School — Schoolyard<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -347,7 +347,7 @@ Akane...? Is there something you haven't been telling us? What's going on?<br>
 I guess there is, but I've somewhat been duped myself. So, it all began when I got a proposal––<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=AMysteriousInvitation|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=AMysteriousInvitation|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akane Shinjo：</span><br>
 So it went like this... a few days ago while we were on break, I was sleeping at home. If I remember correctly, Rikka...<br>
 <span style="color:#4eb24e;">Rikka Takarada：</span><br>
@@ -411,7 +411,7 @@ While we're checking on Purifier, we should also find the other shipgirls around
 And our friends from another world as well~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ASecondMeeting|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ASecondMeeting|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 School—Clinic<br>
 <span style="color:#4eb24e;">Namiko：</span><br>
@@ -458,7 +458,7 @@ What?! You managed to capture a Siren?<br>
 It's a long story, but basically...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Archnemesis|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Archnemesis|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Clinic<br>
 <span style="color:#4eb24e;">Purity：</span><br>
@@ -514,7 +514,7 @@ Yeah. My guess is that she was roped into this situation, just like us.<br>
 There are probably more people who were roped into this situation. Let's hurry up and find them!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=SpecialRigging|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=SpecialRigging|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hass：</span><br>
 So laaaame. We're being left out of the fun.<br>
 <span style="color:#4eb24e;">Namiko：</span><br>
@@ -542,7 +542,7 @@ This way, we should be able to fight as well. Right~?<br>
 Show me what you can do with this special rigging, won't you? Miss Purity~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=What'stheMotif?|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=What'stheMotif?|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 School—Auditorium<br>
 <span style="color:#4eb24e;">Ryuujou：</span><br>
@@ -621,7 +621,7 @@ You will tell me, yes?<br>
 Y-yes...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=SearchingfortheOthers|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=SearchingfortheOthers|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Town - Northeast Sector<br>
 <span style="color:#4eb24e;">Akane Shinjo：</span><br>
@@ -660,7 +660,7 @@ You're welcome to take a nap on my rigging if you're tired~<br>
 That's alright... After all, today's gonna be the day I prove my worth to Bel!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=AFragmentofReality|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=AFragmentofReality|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 Town - East Sector<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -697,7 +697,7 @@ What if... Hey, Ryuujou, do you think you'd be able to give me a ride on one of 
 No way!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=AKaijuWithaHeart|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=AKaijuWithaHeart|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Town - Northwest Sector<br>
 <span style="color:#4eb24e;">Chise Asukagawa：</span><br>
@@ -747,7 +747,7 @@ He has a heart? I suppose that makes him different from the other kaiju...<br>
 Sorry, look at me getting all sentimental over here! Let's get back to searching for the others!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=So,What'stheSpecialMission?|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=So,What'stheSpecialMission?|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hass：</span><br>
 So laaaame. We're being left out of the fun.<br>
 <span style="color:#4eb24e;">Namiko：</span><br>
@@ -801,7 +801,7 @@ Look, something's coming! It's not a large kaiju this time, but some Sirens were
 Let Spee know so she can tell everyone else...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=SurpriseAttack|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=SurpriseAttack|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 Southwest Sector - Nearby Waters<br>
 <span style="color:#4eb24e;">Roon：</span><br>
@@ -830,7 +830,7 @@ Sounds like a plan~ I've been itching to test out Alexis Crisis's performance~<b
 Go get 'em, Alexis!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ForginganAlliance|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ForginganAlliance|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM––!!<br>
 <span style="color:#4eb24e;">Roon：</span><br>
@@ -875,7 +875,7 @@ There's a lot I can tell you. After all, we've been fighting them for a long, lo
 I see... Then let us work together.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=FormidableFoe|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=FormidableFoe|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 Nearby Waters<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
@@ -959,7 +959,7 @@ Edinburgh!!<br>
 Hurry, let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=PermissionsOverride?|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=PermissionsOverride?|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 Despite the kaiju's withering firepower, the party was able to retreat back to the school without any injuries.<br>
 The plan was to retreat further up into the mountains to buy more time, but the kaiju appeared to stop pursuing them.<br>
@@ -1050,7 +1050,7 @@ Sounds like a plan then... I'm glad the Royal Maids are a reliable bunch.<br>
 Now that you have your plan, let's get started! I'll tell you where this Mirror Sea's control device is, so let's begin our recapture strategy from there!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisters|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisters|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Town - Waters near East Sector<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
@@ -1083,7 +1083,7 @@ Thanks for the advice, Yume. I'll go talk to the others!<br>
 You're welcome. Do your best, and give your little sister another thing to be proud of!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Provocation|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Provocation|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Souryuu：</span><br>
 The Sirens have started to move. Guess they weren't going to wait around forever for us to make our move.<br>
 <span style="color:#4eb24e;">Hiryuu：</span><br>
@@ -1122,7 +1122,7 @@ As if! Even right now, I'm more than capable of going toe-to-toe with that fella
 But that doesn't mean that you should just take your sweet time either!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Worldofthe"Kaiju"|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Worldofthe"Kaiju"|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 The two massive figures could be seen approaching each other from a great distance, the very atmosphere tingling in anticipation of their imminent clash.<br>
 <span style="color:#ec5d53;">Enemy Kaiju：</span><br>
@@ -1157,7 +1157,7 @@ Ehehe, I'm flattered... All right then, let's finish mopping up these mass-produ
 Then... we'll help Purity defeat that giant kaiju!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Urgency?What'sThat?|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Urgency?What'sThat?|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 The battle rages on––<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
@@ -1186,7 +1186,7 @@ I heard that, you know!! Hurry up and give me more backup––!!<br>
 Alright, you heard her. Let's go take out that Siren trash!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=ThePowerofanEliteSiren|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=ThePowerofanEliteSiren|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Enemy Kaiju：</span><br>
 █▇▆▅▄▃▂▁█▇▆▅▄▃▂▁█▇▆▅▄▃▂▁█▇▆▅▄▃▂▁<br>
 <span style="color:#4eb24e;">Ryuujou：</span><br>
@@ -1228,7 +1228,7 @@ Pull out a Something Beam, anything! Hurry up, or that kaiju's going to get you!
 Let a girl enjoy her two seconds in the spotlight, jeez! Target, locked on! Whatchamacallit Something Beam... FIIIIIIIIIIIRE!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=WORLD.AZURLANE|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=WORLD.AZURLANE|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 Town - Waters near East Sector, after the battle<br>
 <span style="color:#4eb24e;">Ryuujou：</span><br>

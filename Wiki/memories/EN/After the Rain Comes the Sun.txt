@@ -1,6 +1,6 @@
 == After the Rain Comes the Sun ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Tomorrow's Weather is...|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tomorrow's Weather is...|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>
@@ -29,7 +29,7 @@ Yamashiro held her smartphone out towards me, showing me the screen.<br>
 Remember how you promised that you'd help me clean the shrine last time? Well, tomorrow's a holiday, so I'll be counting on your help!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=High Pressure? Low Pressure?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=High Pressure? Low Pressure?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>
@@ -67,7 +67,7 @@ Of course! Yamashiro and I are super tight-knit! She's my favorite!<br>
 Ehehe, Shigure... Oh, I really should be heading out to the shrine just about now. Let's hang out next time!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Light Breeze|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Light Breeze|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>
@@ -107,7 +107,7 @@ As the number of people from the Sakura Empire increased, we figured that if we 
 Easier said than done. An elaborate shrine like this must have been incredibly difficult to build...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Low Pressure Approaches|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Low Pressure Approaches|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>
@@ -137,7 +137,7 @@ Um... there's still something I want to do, so I'll head back later! Milord, can
 Yay! Milord, please wait a moment!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=After the Clouds Part|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=After the Clouds Part|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>
@@ -167,7 +167,7 @@ Grab Yamashiro and run inside<br>
 Milord? Ah... alright! Let's avoid getting soaked first!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rain Shower|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rain Shower|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>
@@ -200,7 +200,7 @@ So, we should work hard to become happy and fortunate, to repay all those people
 And with that, the rain began to pass.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Blue Skies|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Blue Skies|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 After the Rain Comes the Sun<br>
 <br>

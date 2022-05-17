@@ -1,6 +1,6 @@
 == Moonlit Overture  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Moonlit Overture|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Moonlit Overture|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chicago：</span><br>
 *Phew*... Looks like it's finally started to cool down a little bit tonight... It's way too humid and hot here, and the sun is oppressive as well. If not for this mission, I would have booked it long ago.<br>
 I sure envy Astoria. Her class consists of only sisters, but over here, we have "allies," not just sisters. Well, it's not like I have anything against them...<br>
@@ -20,7 +20,7 @@ Bagley, please come with me! We've got trouble!<br>
 (In the distance, the horizon glowed with the embers of battle, as if a gaping maw had opened up in the night.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Encounter|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Encounter|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Though the enemies were not numerous, Chicago and Bagley found themselves outnumbered as they pressed forward. By the time they reached the enemy's main force, they had already sustained many injuries.<br>
 <span style="color:#4eb24e;">Chicago：</span><br>
@@ -37,7 +37,7 @@ But there's no point babbling on. Prepare yourself!<br>
 You will face Kako and Kinugasa of the Sakura Empire's 6th Fleet!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Retreat|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Retreat|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 After a desperate defense, Chicago managed to buy time for Bagley to escape. However, she was incapacitated by the concentrated fire of the enemy cruisers and had to retreat. Bagley, alone, was powerless to stop the advance of the Sakura ships.<br>
 <span style="color:#4eb24e;">{namecode:56}：</span><br>
@@ -52,7 +52,7 @@ Yes, yes, I know. We should be concentrating our efforts on supporting Operation
 If you understand, then let's go moving. Choukai and the others have already begun to engage the enemies in the north, so we should join up as soon as possible.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisters|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisters|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Apart from Chicago's South Group, the three sisters Astoria, Quincy, and Vincennes were assigned to the Eagle Union's North Fleet.<br>
 <span style="color:#4eb24e;">Vincennes：</span><br>
@@ -97,7 +97,7 @@ Searchlights...? Or did someone behind us accidentally turn on the high beams...
 Wait, no! These are... enemies! Quincy, Vincennes, prepare for battle!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mayhem|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mayhem|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Astoria：</span><br>
 What the hell! The enemies came from the south, so why didn't Chicago tell us anything?!<br>
 <span style="color:#4eb24e;">Quincy：</span><br>
@@ -116,7 +116,7 @@ Quincy, Vincennes, stay on your guard!<br>
 Roger that!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Backup|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Backup|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:54}：</span><br>
 Choukai! We're here!<br>
 <span style="color:#4eb24e;">{namecode:56}：</span><br>
@@ -129,7 +129,7 @@ Great. Furutaka, Aoba, keep firing. We're going to rebuild our lines and seize v
 Understood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Struggle|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Struggle|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Astoria：</span><br>
 How come the enemy can get reinforcements before us? I thought we were supposed to be in control of these waters?!<br>
 <span style="color:#4eb24e;">Quincy：</span><br>
@@ -153,7 +153,7 @@ All right, let's do that then.<br>
 Let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Evenly Matched|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Evenly Matched|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Under the withering fire of the enemies, Astoria and her sisters were quickly becoming overwhelmed by their enemies' superior numbers...<br>
 <span style="color:#4eb24e;">Quincy：</span><br>
@@ -173,7 +173,7 @@ Mm... as long as we're all together, Vincennes will also...<br>
 All right, let's make our final counterattack!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Overture|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Overture|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:55}：</span><br>
 Phew, looks like it's over. As expected, there's no one who can match our expertise in night battles. Should we finish chasing down those transports?<br>
 <span style="color:#4eb24e;">{namecode:53}：</span><br>

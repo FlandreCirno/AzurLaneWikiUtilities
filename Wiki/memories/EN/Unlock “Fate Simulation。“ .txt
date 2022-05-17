@@ -1,6 +1,6 @@
 == Unlock "Fate Simulation."  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Neptune's New Journey|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Neptune's New Journey|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Neptune：</span><br>
 It looks like we've finally finished the first chapter of our journey. I'll be counting on you a lot more moving forward. All right, Commander?<br>
 Did you think it was already over? We are still just beginning our new journey~<br>
@@ -8,7 +8,7 @@ Hee hee. Does hearing that make you disappointed? Or maybe, excited?<br>
 By the way, I'm a bit excited too. So, let's write the next chapter of our story together~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Monarch's New Journey|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Monarch's New Journey|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Monarch：</span><br>
 Commander, I want to express my gratitude for the determination and dedication you've shown to me thus far.<br>
 Thinking back, I've realized that, all along, you were the person who offered me hope and gave meaning to my life.<br>
@@ -17,7 +17,7 @@ To summarize my thoughts... I will never forget all that you've done for me. I a
 The war still hasn't ended, though. Are you willing to accompany me once more into the unknown, Commander?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ibuki's New Journey|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ibuki's New Journey|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ibuki：</span><br>
 Milord, you've already done so much for me up to this point...<br>
 I've now become a worthy vessel who will not fall short of anyone else, but...<br>
@@ -26,7 +26,7 @@ If you can help me push beyond my current limits, I'll be sure to be of even gre
 Therefore, Milord, would you continue to support me?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Izumo's New Journey|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Izumo's New Journey|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Izumo：</span><br>
 Hmph, it just dawned on me that we've known each other for such a long time.<br>
 All the while, you've steadily gotten more reliable. And it's thanks to you that my blade is so mighty.<br>
@@ -34,7 +34,7 @@ However, there's power within both me and my blade which we've yet to unlock.<br
 Commander, won't you join me so we can explore our new limits?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Roon's New Journey|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Roon's New Journey|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Roon：</span><br>
 Commander, I must thank you for giving me the chance to see the many interesting sights of this world.<br>
 However... I still want more. There's something I've always been after... Something that can fill the void in my heart...<br>
@@ -42,7 +42,7 @@ The longer I go without it, the more things I must stuff inside the void to make
 Commander, could you help me to finally fill this void forever? You're not going to just decline, are you? <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Saint Louis' New Journey|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Saint Louis' New Journey|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saint Louis：</span><br>
 I thank you sincerely for your guidance, Commander. Because of you, I have gained the power to overcome any tribulation.<br>
 But even now, I feel that my path continues further onward, beckoning me to even greater power...<br>
@@ -51,7 +51,7 @@ If I could receive that blessing, then I would be able to serve you even better.
 Now, let us walk forward on this new path.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Kitakaze's New Journey |选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Kitakaze's New Journey |选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kitakaze：</span><br>
 Mmhmm, I've come a long way since our first meeting. I owe it all to you, Commander.<br>
 I can now easily handle any task given to me, whether battle or commission.<br>
@@ -60,7 +60,7 @@ That is a goal that I cannot achieve alone...<br>
 Commander... Will you continue to guide me as I embark upon this Fate Simulation?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gascogne's New Journey|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gascogne's New Journey|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gascogne：</span><br>
 Attention: parameters of Gascogne's current abilities have reached their maximum values. Emotion and combat capabilities have been fully unlocked.<br>
 Searching memory database for "gestures of appreciation" recorded among fellow fleet members.<br>
@@ -70,7 +70,7 @@ Attention: Gascogne's abilities can be further improved through the process of F
 Requesting Master's continued assistance in improvement of Gascogne's abilities.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Georgia's New Journey|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Georgia's New Journey|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Georgia：</span><br>
 Hahaha! I knew you could do it, Commander! Thanks to you, I'm stronger than I ever imagined I could be!<br>
 Let's split a cola to commemorate this moment!<br>
@@ -78,7 +78,7 @@ But it doesn't end here. We've got so much more to do, so much more to overcome.
 I'll keep using my huge guns to blow your enemies to pieces. Let's do it, you and me together, yeah?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Seattle's New Journey|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Seattle's New Journey|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Seattle：</span><br>
 Oh yeah, it's all coming together! Really feeling like I could take on the world right now! Thanks for everything, Commander!<br>
 Y'know, I've been thinkin' it's time to get everyone together and throw the most hype party ever!<br>
@@ -87,7 +87,7 @@ So let's put that party to end all parties on hold for now and just have ourselv
 I'll do the prep, and you go give that Fate Simulation thing a look, Commander!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cheshire's New Journey|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cheshire's New Journey|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cheshire：</span><br>
 Meeeooow! I'm so full of energy!<br>
 It's all thanks to our perfect and indestructible bond that we've come this far!<br>
@@ -95,7 +95,7 @@ There's still stuff we've gotta do, but whatever life throws at us, we'll overco
 No need to answer, I already know what you wanna say! Let's keep doing our best! Now come here, Owner! Glomp! Cuddle~♡<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Champagne's New Journey|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Champagne's New Journey|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Champagne：</span><br>
 The fruits have ripened, and the time has come. Yonder bird continues to soar higher and higher.<br>
 All this, the culmination of thy endeavors.<br>
@@ -104,7 +104,7 @@ The path ahead of Champagne and the Commander, stretches forth for eternity.<br>
 This, I swear upon my will... and my base desires.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Odin's New Journey|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Odin's New Journey|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Odin：</span><br>
 I see the plan came to fruition, step by step. Exactly as forethought.<br>
 However, our journey is long, and far from over. We must march onward.<br>
@@ -112,7 +112,7 @@ Do not be discouraged. I will continue my duties as your assistant.<br>
 You've given me new strength. I will use it to make your dream a reality.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mainz's New Journey|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mainz's New Journey|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Mainz：</span><br>
 All of the hard work you've put in merits praise. You've done well, Commander.<br>
 There's no need to be so flustered. If you've done something that's praiseworthy, it's only right that you're praised for it. Wouldn't you agree?<br>
@@ -120,7 +120,7 @@ There's no need to be so flustered. If you've done something that's praiseworthy
 Here. Have a cup of coffee, and let's keep up the good work. All of the praise and glory in the world await us.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Azuma's New Journey|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Azuma's New Journey|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Azuma：</span><br>
 Thank you, Commander. I owe you so much after all you've done for me.~<br>
 I'm both honored and delighted that you've been with me on every step of this journey.<br>

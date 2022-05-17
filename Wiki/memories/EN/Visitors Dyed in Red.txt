@@ -1,6 +1,6 @@
 == Visitors Dyed in Red ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Order|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Order|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 In an infinite cycle of rebirth, time has lost its meaning.<br>
 Where the probable and improbable collide,<br>
@@ -37,14 +37,14 @@ No, get it together! I finally made it, after all...<br>
 I made it here! To the Sanctuary!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Storm's End Pt. 1|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Storm's End Pt. 1|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 What a sight to behold... The sea is entirely encompassed by the storm...<br>
 This looks like a graveyard for those who sought out the Sanctuary... Had I not been so lucky, this would have been my final resting place, too...<br>
 ... Anyway, I need to establish radio contact with Shoukaku. This place is giving me the creeps...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Storm's End Pt. 2|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Storm's End Pt. 2|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 These damn mass-produced piles of junk just keep coming... Bring it on! I'll take you all down if I have to!<br>
 <span style="color:#ff0000;">？？？：</span><br>
@@ -65,7 +65,7 @@ It seems I was too late... Don't worry! I'll free you from this curse!<br>
 Rei planes, take off!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=In Between|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=In Between|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">？？？：</span><br>
 Hmph. So the 5th Carrier Division is on our tail.<br>
 That idiot has taken the bait. All systems normal.<br>
@@ -76,14 +76,14 @@ Let's give them a little surprise. This is a perfect opportunity to test the new
 Those who dare stand between the Creator and me must be punished...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Other Side of Distress Pt. 1|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Other Side of Distress Pt. 1|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Dammit, one imposter after the next... If only I hadn't lost so many planes to that storm...<br>
 Huh? Is that a distress signal...? It could be Shoukaku!<br>
 Wait for me, sis! I won't lose you again...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Other Side of Distress Pt. 2|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Other Side of Distress Pt. 2|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Ise... Hyuuga... So you two were the source of the signal, huh... Don't tell me you've...<br>
 Seems somebody's safe from being turned into a Pawn...<br>
@@ -95,7 +95,7 @@ Seems somebody's safe from being turned into a Pawn...<br>
 I figured as much... If it's a battle you want, then a battle you'll get!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Recall|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Recall|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Sis, check it out! This is the key to the Sanctuary!<br>
 <span style="color:#4eb24e;">{namecode:95}：</span><br>
@@ -110,7 +110,7 @@ Now that I think about it, maybe this trap was also part of their plan...<br>
 Damn...! They tricked us, again!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Holy Protectors Pt. 1|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Holy Protectors Pt. 1|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:132}：</span><br>
 I can't let you go any further, Zuikaku!<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -131,7 +131,7 @@ I have to warn you: when I was being retrofitted, they installed some weird equi
 They worked hard on it, and I'm really, really strong now! I can even launch aircr- Ow, that hurt! Please let me finish before you start attacking!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Holy Protectors Pt. 2|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Holy Protectors Pt. 2|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:132}：</span><br>
 I surrender, you win... Even with the power granted to me by the Creator, I couldn't defeat you... *Sob*...<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -151,7 +151,7 @@ Please... save our future... Those girls aren't all bad...<br>
 Okay, I will!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=In Between 2|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=In Between 2|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">？？？：</span><br>
 Our brave little bird seems to be heading to the Sculpture Room. How annoying...<br>
 How many times must they meddle in things that aren't their concern? Why do they not realize the magnificence of the Creator's plans?<br>
@@ -161,7 +161,7 @@ Then let's send out a rabbit to stall the little bird. She's been waiting for he
 Let's send that child over there to stall her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lucky Ship Pt. 1|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lucky Ship Pt. 1|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:24}：</span><br>
 The target seems... awfully strong... I thought they know I'm not the type to engage in face to face combat...<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -171,7 +171,7 @@ You're strong... but I'm also strong...<br>
 I've fought carriers before... I can do this... probably...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lucky Ship:Pt. 2|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lucky Ship:Pt. 2|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:24}：</span><br>
 Ouch... I'm not such a lucky ship... after all...<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -193,7 +193,7 @@ They gave us hope... Even if I'm going down the wrong path, I can't...<br>
 I see... Good luck, then.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sister's Chain's Pt. 1|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sister's Chain's Pt. 1|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 All planes, take off! Target the enemy carrier: Lexington!<br>
 <span style="color:#4eb24e;">{namecode:95}：</span><br>
@@ -215,7 +215,7 @@ I will always protect you. But next time, don't underestimate the enemy...<br>
 Shoukaku...! I'll never, ever let that happen to you again...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sister's Chain's Pt. 2|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sister's Chain's Pt. 2|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:95}：</span><br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
@@ -240,7 +240,7 @@ And by forcing my sister into your dirty little schemes, you've made me really, 
 We've already offered her soul to the Creator. And now we will turn you into an empty husk as well!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sister's Chain's Pt. 3|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sister's Chain's Pt. 3|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:92}：</span><br>
 Of course this is all a Pawn would be capable of... It's over. Come here!<br>
 Your soul is mine!<br>
@@ -284,7 +284,7 @@ Sis...<br>
 Now go, chase after Akagi and Kaga... We cannot let them sully the Sakura Empire's future...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Crimson Protectors Pt. 1|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Crimson Protectors Pt. 1|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 All logs have been submitted to the Creator. Now we wait for the arrival of our superiors.<br>
 <span style="color:#ff0000;">{namecode:92}：</span><br>
@@ -295,7 +295,7 @@ We were given orders, and we successfully carried them out. It won't hurt to pla
 I should've expected you to say that...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Crimson Protectors Pt. 2|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Crimson Protectors Pt. 2|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 I thought you already sank in Midway... Just what are you people?!<br>
 <span style="color:#ff0000;">{namecode:91}：</span><br>
@@ -314,7 +314,7 @@ Enough! It drives me crazy to hear that despicable name repeated! Over and over!
 Akagi! ... Words will not save you, Zuikaku! Fight, and prove whether you are weak or strong!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Crimson Protectors Pt. 3|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Crimson Protectors Pt. 3|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 Ahh... The glorious light born from clashing souls... O, Creator, please grace us with your attention... for this is the light of the Awakening you desire...<br>
 So beautiful, yet so frail... I can't help but want to crush it in my grasp... Ahahaha, ahahaha...<br>

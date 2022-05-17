@@ -1,6 +1,6 @@
 == A Beaming Smile!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Not Feeling So Well?|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Not Feeling So Well?|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>
@@ -42,7 +42,7 @@ Oops, I tripped again... Hehehe!<br>
 Come to think of it, you never see this girl *without* a smile on her face...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Makinami to the Rescue!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Makinami to the Rescue!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>
@@ -88,7 +88,7 @@ Yeah, I'm fine! I've gotten used to it! Hehehe~<br>
 Guess I'll let them make the home stretch on their own. They'll be fine.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Happy to Help!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Happy to Help!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>
@@ -138,7 +138,7 @@ That is all for now. Until next time.<br>
 Kongou's right. I can't just leave her feeling anxious all the time...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Smile Goes a Mile!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Smile Goes a Mile!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>
@@ -192,7 +192,7 @@ Maybe I tickled her *too* pink? Actually, no, it's fine.<br>
 The relieved look on her face convinces me it did the trick.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Time's The Charm!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Time's The Charm!|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>
@@ -240,7 +240,7 @@ Despite her failure to achieve what she set out to do, her expression is still b
 I'm not sure why, but it feels like seeing her smile makes some of my fatigue go away.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Come Play With Me!|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Come Play With Me!|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>
@@ -284,7 +284,7 @@ I feel at my happiest with a smile on my face, so... *yawn*, that's why I want y
 As she dozes off on my back, I imagine she has the sweetest, soundest expression in the world right now.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Now, Give Me a Smile!|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Now, Give Me a Smile!|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 A Beaming Smile!<br>
 <br>

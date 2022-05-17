@@ -1,6 +1,6 @@
 == Tales From the Count's Castle  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Castle's Beckoning|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Castle's Beckoning|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>
@@ -65,7 +65,7 @@ Best of luck to you, Commandant! I hope you'll have an enjoyable time!<br>
 Armed with information and a communicator, I began my foray into the castle...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Trial|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The First Trial|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>
@@ -107,7 +107,7 @@ Are you ready to begin, human?<br>
 If this was the only way out, so be it. I sat down and began the match.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Neverending Stalemate|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Neverending Stalemate|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>
@@ -170,7 +170,7 @@ Bad Ending – Emden's Eternal Vassal<br>
 '''''<span style="color:black;">（选择项2）</span>'''''The doors to my front gave way to a corridor. It seemed I'd passed the first trial.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Second Trial|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Second Trial|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>
@@ -205,7 +205,7 @@ For a hasty recovery, I require... a meal.<br>
 Food that can neutralize a curse... I decided to look around the hall for something that might fit that description.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Crossroads of Faith|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Crossroads of Faith|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>
@@ -268,7 +268,7 @@ Bad Ending – The Door to Darkness<br>
 '''''<span style="color:black;">（选择项2）</span>'''''(Whew... I hope everything from this point on will go smooth– Wait, I mean, terribly and end in failure for the Commander! Yeah, that should do it!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=You Never Expect Them|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=You Never Expect Them|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>
@@ -351,7 +351,7 @@ Whatever, we can just skedaddle outta here. Try to catch us if you can.<br>
 Exit's right over there. Come on, human... or should I say, my vassal! Better start running!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Escaping the Castle|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Escaping the Castle|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Tales From the Count's Castle<br>
 <br>

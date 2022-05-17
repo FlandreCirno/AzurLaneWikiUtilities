@@ -1,6 +1,6 @@
 == 峽灣間的反擊 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=撤離|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=撤離|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z2：</span><br>
 真是棘手…皇家的增援火力稍微有點超乎想像呢。<br>
 <span style="color:#ec5d53;">Z18：</span><br>
@@ -36,7 +36,7 @@ Z11，Z21，Z22兩天前就失去了戰鬥能力。<br>
 大家按照命令，準備撤退。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=失散|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=失散|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z18：</span><br>
 唔…Z9和Z11一直跟著我們後面，Z17來了，那邊的是Z12……Z19還是沒到。<br>
 <span style="color:#ec5d53;">Z2：</span><br>
@@ -48,7 +48,7 @@ Z11，Z21，Z22兩天前就失去了戰鬥能力。<br>
 我們的彈藥已經快要見底，這下麻煩了呢…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=迎敵|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=迎敵|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z19：</span><br>
 ……好像和大家走散了。<br>
 唉，沒想到皇家會派來這麼誇張的艦隊。<br>
@@ -58,49 +58,49 @@ Z11，Z21，Z22兩天前就失去了戰鬥能力。<br>
 <span style="color:#ec5d53;">Z19：</span><br>
 不會吧…通訊設備居然壞了嗎！<br>
 唔……我記得原本計劃是離開這個峽灣前往…<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 終於抓到妳了，鐵血的驅逐艦！<br>
 <span style="color:#ec5d53;">Z19：</span><br>
 追兵這麼快就到了嗎？！<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 不會讓妳逃跑喲~皇家所屬部族級驅逐艦，愛斯基摩，出擊！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=追擊|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+{{折叠面板|标题=追擊|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 結果還是讓她給跑了，嗚………<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 真是的，不要看到敵人就衝過去呀…妳沒事吧，愛斯基摩？<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 沒事沒事~對方好像彈藥不足，主要精力都放在逃跑上啦~<br>
 接下來怎麼辦，狐提要來和我一起追擊嗎？<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 我們的任務可是佔領納爾維克哦？<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 唔唔唔…那、那就…<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 噗，好啦，就知道會變成這樣。我還要返回厭戰那裡護航，不過她已經批准了妳的追擊行動了哦。<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 哎！？真的嗎！<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 “量力而行，遇到危險就發訊號”她讓我這麼轉告妳。<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 嘿嘿嘿，愛斯基摩收到~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=峽灣間的星辰|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=峽灣間的星辰|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">狐提：</span><br>
 我回來啦，厭戰。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 愛斯基摩沒事吧？<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 連點擦傷都沒有，現在又在精神飽滿的追擊鐵血驅逐艦去了。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯…落單的鐵血驅逐艦就交給愛斯基摩，我們繼續執行作戰吧。<br>
 以女王之名，為了勇敢和獵人…一艘敵人都不要放跑！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=匯合|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=匯合|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z18：</span><br>
 Z19！終於找到妳了……妳怎麼受了這麼重的傷！<br>
 <span style="color:#ec5d53;">Z19：</span><br>
@@ -121,136 +121,136 @@ Z19！終於找到妳了……妳怎麼受了這麼重的傷！<br>
 ……笨蛋。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=遭遇|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+{{折叠面板|标题=遭遇|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 鐵血的驅逐艦，追上了…哎？！數量變多了！<br>
 <br>
 轟-------------！<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 哇啊啊，一聲不吭的打過來了！<br>
 愛、愛斯基摩，準備進行戰鬥！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=增援|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=增援|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 轟-------------！<br>
 <span style="color:#ec5d53;">Z19：</span><br>
 皇家的增援來了嗎…！<br>
 <span style="color:#ec5d53;">Z18：</span><br>
 不對，好像是我們的增援，是Z2！<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 什、什麼？！<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 絕對不能拋棄同伴獨自撤退，雖然我很想說著這麼帥氣的話登場。<br>
 可是實際上，已經沒有任何一條能夠讓我們撤出峽灣的航道了呢…<br>
 <span style="color:#ec5d53;">Z19：</span><br>
 果然是這種結果嗎……<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 一、二、三……愛斯基摩陷入大危機…<br>
 得趕快聯繫厭戰才行！<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 忙完了嗎？我是Z2，對面的皇家驅逐艦，妳是誰？<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 皇家部族級驅逐艦愛斯基摩！<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 很響亮的回答。妳不害怕嗎？<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 區…區幾艘鐵血驅逐艦而已，我完全不害怕哦！<br>
 （得在厭戰趕來之前拖住她們…！）<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 嗯…多少也算是戰果。在妳們的增援趕來之前，稍微陪我一下吧。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=推進|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">厌战：</span><br>
+{{折叠面板|标题=推進|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">厭戰：</span><br>
 Z9、Z11…鐵血的驅逐艦還剩下6艘嗎。<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 剛剛收到消息，鐵血的所有岸防設施已經全部失去作戰能力。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯。<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 伊卡洛斯發來消息，在艦載機的輔助下，我方戰勝了敵方驅逐艦Z13！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 Z13嗎…鐵血驅逐艦還剩下5艘。<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 ……妳好像有什麼心事啊。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 看著Z驅戰鬥的身影，稍微想到了一些勇敢和獵人的事…<br>
 愛斯基摩還是沒有發來聯絡嗎？<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 嗯，在發來正在和伊卡洛斯共同追擊Z19的消息之後就沒有再聯絡了。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 伊卡洛斯不是在剛對付Z13嗎？我總有種不好的預感…<br>
 主動呼叫愛斯基摩，問問她那邊情況怎麼樣了。<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 是！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=策略|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=策略|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">狐提：</span><br>
 聯繫到她了！愛斯基摩遭遇了鐵血驅逐主力，現在正在戰鬥中，希望我們迅速支援！！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 鐵血驅逐主力？！難道說瞄準了落單的愛斯基摩去的嗎……<br>
 ……能夠確定方位嗎？<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 在羅姆巴斯科巴頓峽灣之中。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 調整航線，我們立刻出發！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=戰鬥|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=戰鬥|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 轟-------------！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 皇家海軍厭戰，參上！<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 嗚……厭戰…終於來了嗎…！（倒）<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 愛斯基摩、愛斯基摩妳沒事吧！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 …她怎麼樣？<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 剛剛昏迷過去了…艦裝多處受損，不過還在可控範圍<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 是嗎…太好了。<br>
 對面的鐵血驅逐艦，我代表皇家，現在給妳們一次投降的機會。<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 沒能來得及嗎…算了。<br>
 厭戰，鐵血海軍是不會向皇家投降的。<br>
 反正妳們也是為了勇敢和獵人的事專門來找我們的吧。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 …………妳們選擇戰鬥嗎？<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 嗯，鐵血海軍會戰鬥到底。<br>
 “惡人”就要有“惡人”的覺悟，我沒什麼要辯解的哦。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 有點小看妳們了……<br>
 很榮幸能遇到妳們這樣真正的戰士。<br>
 皇家艦隊，準備戰鬥！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=硝雲下的反擊|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=硝雲下的反擊|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z2：</span><br>
 果然驅逐艦想要挑戰戰列艦還是太勉強了嗎…<br>
 <span style="color:#ec5d53;">Z18：</span><br>
 Z2，我的彈藥已經打光了…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 到此為止了，鐵血的驅逐艦，妳們戰鬥得很英勇。<br>
 <br>
 轟-------------！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯？哪來的炮擊聲！<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 鐵血驅逐艦Z12和Z17正從側後方向我們發動攻擊。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 ……嗯。<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 Z2和Z18正在向峽灣的深處緩慢撤退，要追擊嗎？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 這條峽灣的盡頭，是死路吧。<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 是的…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 ……我們先去追擊Z12和Z17，不能讓她們跑了。<br>
 至於Z2和Z18…這點時間我們還是可以給的。<br>
 就當做是為勇敢獻上的敬意吧。<br>
@@ -258,35 +258,35 @@ Z2和Z18正在向峽灣的深處緩慢撤退，要追擊嗎？<br>
 我明白了…艦隊調整航向，準備追擊鐵血驅逐艦Z12和Z17的作戰！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=尾聲|选项=13|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+{{折叠面板|标题=尾聲|选项=13|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 唔…唔？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 終於醒過來了嗎，愛斯基摩！<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 哎？厭戰？戰鬥結束了嗎？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 還沒有，不過很快就要結束了哦。<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 這樣啊…Z2和Z18她們…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 …別想太多，妳先好好休息吧<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 這次我有好好努力哦…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯，我都看到了。知道妳這樣英勇戰鬥，女王陛下也會十分高興吧。<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 真的嗎？女王陛下的誇獎…嘿嘿嘿嘿…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 我們進行的每場戰鬥，都是為結束這場戰爭而做出的一小份貢獻。<br>
-<span style="color:#4eb24e;">爱斯基摩人：</span><br>
+<span style="color:#4eb24e;">愛斯基摩：</span><br>
 複雜的事我不懂啦…不過，既然是正確的事，就算有些感傷，我還是會堅持下去的<br>
 啊，感覺又有些睏了…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 安心睡吧。等妳再醒來的時候，我們就在回家的路上了哦<br>
 <span style="color:#4eb24e;">狐提：</span><br>
 厭戰，Z17正在向妳的方向高速衝過去了！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 收到。最大艦速前進，讓我們結束這場戰鬥吧！<br>
 {{折叠面板|内容结束}}
 

@@ -1,6 +1,6 @@
 == Enter: Akatsuki, The Ninja!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Bad Sense of Direction|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bad Sense of Direction|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>
@@ -40,7 +40,7 @@ Being a ninja with a bad sense of direction must be a daily struggle.<br>
 Next time I have the chance, I should take her along for a stroll around the port.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ninja Training|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ninja Training|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>
@@ -92,7 +92,7 @@ O-of course! Let us continue!<br>
 It appears the ninja and kunoichi get along really well.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Friendly Gathering (Part 1)|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Friendly Gathering (Part 1)|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>
@@ -142,7 +142,7 @@ Hiyah! Hooah! I'm feeling rather fired up! I'm ready to take on any task you hav
 Just like that, Akatsuki took her feelings of humility and turned them into determination.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Friendly Gathering (Part 2)|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Friendly Gathering (Part 2)|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>
@@ -190,7 +190,7 @@ It seems like Inazuma's attempt to reassure Akatsuki didn't have any effect.<br>
 That got me thinking... Maybe Hibiki is the reason why Akatsuki's been reading the patrol reports so thoroughly every day...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Sudden Darkness|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Sudden Darkness|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>
@@ -231,7 +231,7 @@ Ah...!<br>
 T-thank you...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=In The Dark|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=In The Dark|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>
@@ -276,7 +276,7 @@ In the end, it took a while for the lights (and Akatsuki) to return to normal.<b
 Apparently, the outage was caused by an experiment the research department was conducting... But that's a story for another time.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Promise and Hope|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Promise and Hope|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Enter: Akatsuki, The Ninja!<br>
 <br>

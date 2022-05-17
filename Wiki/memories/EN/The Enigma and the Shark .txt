@@ -1,6 +1,6 @@
 == The Enigma and the Shark  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Shark, Embark|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shark, Embark|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Southern coast of Greenland, near Cape Farewell<br>
 The silhouette of a little girl formed beneath the waves. She was sneakily swimming her way forwards, heading for a white leaf which had suddenly poked out from under the water.<br>
@@ -41,7 +41,7 @@ Anyway, let's go carry out our mission! An enemy's appeared somewhere nearby!<br
 Alrightyyyy. U-110, sharky shark, ready to embaaaark.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Enigma|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Enigma|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 Phew! We got them all! One step closer to that Knight's Cross!<br>
 <span style="color:#4eb24e;">U-110：</span><br>
@@ -63,7 +63,7 @@ What she doesn't know can't hurt her. Time to play, in seeeecret.<br>
 I love you, Enigma. My preeeecious~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Respected Job|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Respected Job|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amazon：</span><br>
 I'm not picking up anything on my sonar or radar...<br>
 <span style="color:#4eb24e;">Bulldog：</span><br>
@@ -118,7 +118,7 @@ Please, it's just a diversion, or your sonar is malfunc... Wait, there really IS
 I believe an Iron Blood submarine has fallen for our bait.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Predator's Jaws?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Predator's Jaws?|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-110：</span><br>
 That's my second cargo ship destroyed. U-110 is a shark. Raaaawr.<br>
 Off to find a new targeeeet...<br>
@@ -171,7 +171,7 @@ What? ... Oh, right, I remember!<br>
 Hah hah! It's time for an example of how anti-submarine warfare is really done!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Words Beat Swords?|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Words Beat Swords?|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">U-110：</span><br>
 So many depth charges... You island ape meanies...<br>
 <span style="color:#4eb24e;">Amazon：</span><br>
@@ -220,7 +220,7 @@ Why not?<br>
 Oh, for the love of... Do any of you have any sense of urgency?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=U-110, Prized|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=U-110, Prized|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-110：</span><br>
 Royal Navy, more like Royal Meanies.<br>
 <span style="color:#4eb24e;">Amazon：</span><br>
@@ -258,7 +258,7 @@ Amazon, I just detected another submarine.<br>
 Yup-yup. We doooo.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Counteroffensive?|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Counteroffensive?|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 U-110! Are you okay?<br>
 <span style="color:#4eb24e;">U-110：</span><br>
@@ -296,7 +296,7 @@ Yup-yup.<br>
 Be quiet already, U-110!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Surprising Spoils|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Surprising Spoils|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 Oww! Submarines really aren't meant for face-to-face combat...!<br>
 <span style="color:#4eb24e;">Amazon：</span><br>
@@ -344,7 +344,7 @@ With the Enigma machine and codebooks in their hands, the two destroyers headed 
 It's a secret.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Lost Treasure|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Lost Treasure|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 *Gasp*! I-I finally managed to throw them off...<br>
 <span style="color:#4eb24e;">U-110：</span><br>
@@ -380,7 +380,7 @@ OH!<br>
 Oh...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Enigma's New Owner|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Enigma's New Owner|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 A summary of the confrontation between Bulldog and U-110...<br>
 <span style="color:#4eb24e;">U-110：</span><br>

@@ -1,6 +1,6 @@
 == Pure-White Poem  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Birth|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Birth|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>
@@ -39,7 +39,7 @@ Now, my new master, take hold of this string. Please become my light, guide me d
 Even if you must call me by this name; show this Klarheit, me, colors of the world.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Trajectory|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Trajectory|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>
@@ -74,7 +74,7 @@ Before I could not even understand, what purpose this "praise" was possibly for.
 Perhaps, I should pay more heed to my heart<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interlude I|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interlude I|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>
@@ -118,7 +118,7 @@ Thank you very much, I'll do as you said.<br>
 For some reason, I found it difficult; to join their discussion, delicately.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Thought|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Thought|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>
@@ -157,7 +157,7 @@ Suddenly confronted with this question, I once again found myself without words.
 What... color am I?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interlude II|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interlude II|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>
@@ -198,7 +198,7 @@ Ah, of course.<br>
 I reached my spoon forth into Graf's lunchbox, and brought back her sauerkraut risotto. The food soon disappeared into my mouth.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fetters|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fetters|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>
@@ -231,7 +231,7 @@ Grant upon me, you who I love dearly, a name that calls me back home to your sid
 Please grant me my very own color.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pure White|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pure White|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 White Poem<br>
 <br>

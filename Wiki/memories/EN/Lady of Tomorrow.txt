@@ -1,6 +1,6 @@
 == Lady of Tomorrow ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Little Visitor|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Little Visitor|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The Miniature Head Maid<br>
 <br>
@@ -37,7 +37,7 @@ A-A-Akashi?! Explain yourself at once!<br>
 Well, er, okay, so it's like this, nya...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Accidents Have Consequences|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Accidents Have Consequences|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The Miniature Head Maid<br>
 <br>
@@ -91,7 +91,7 @@ One! Firing the Emitter!<br>
 ......<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisters?|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisters?|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The Miniature Head Maid<br>
 <br>
@@ -140,7 +140,7 @@ And it is my duty as your big sister to love you ever so dearly~<br>
 Big Sister Edinburgh...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Adorable New Cadet|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Adorable New Cadet|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Miniature Head Maid<br>
 <br>

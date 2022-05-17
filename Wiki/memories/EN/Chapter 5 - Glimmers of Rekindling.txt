@@ -1,6 +1,6 @@
 == Chapter 5 - Glimmers of Rekindling ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Bogged Down|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bogged Down|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The maritime outpost at the forefront of Operation Siren, a major counter-offensive to eliminate Siren activity in the NA Ocean, has been quiet lately.<br>
 Ten days have passed, but the next phase of the large-scale assault has not started yet.<br>
@@ -49,7 +49,7 @@ What's more, some are requesting our capital ships be withdrawn and reassigned t
 Either way, we have too little intel to determine our best course of action... Hopefully, tomorrow, we will.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Division|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Division|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 I see Memphis and Sheffield are here.<br>
 From what I've heard, Sheffield is joining us per secret orders from Queen Elizabeth herself.<br>
@@ -134,7 +134,7 @@ Indeed. To that end, I ask you to cooperate with us and play along, Master.<br>
 ...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Thunder|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Thunder|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union Outpost - The following day<br>
 Siren attacks have been getting more frequent with each passing day ever since they established their Core Sector stronghold.<br>
@@ -174,7 +174,7 @@ I knew we could count on you. All right, I'll see you down at the port.<br>
 It seems the solution to our stalemate was staring me in the face all along...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=My Hero|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=My Hero|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean - Core Sector<br>
 It feels like someone has been watching me ever since we set off...<br>
@@ -238,7 +238,7 @@ There's a good chance they're controlled from a remote command center, judging b
 You heard the Commander. I'll adjust our course to keep us some distance from the eye of the storm. Only engage the Sirens if you need to!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Coordinates|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Coordinates|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Message incoming from the forward base.<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -279,7 +279,7 @@ Orders received. Sending the message to forward base.<br>
 "All right. We'll set off once everyone's ready."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Deep Longing|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Deep Longing|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Birmingham：</span><br>
 There are Siren wrecks everywhere... This must be a whole fleet's worth.<br>
 <span style="color:#4eb24e;">Reno：</span><br>
@@ -349,7 +349,7 @@ Ah, you remind me of somebody I knew once... Now I understand why Enterprise is 
 Come! Show me what you're worth!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Phantom|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Phantom|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 She's staying just barely out of range of our cannons... While she's not charging at us, she's not letting up her assault either.<br>
 <span style="color:#4eb24e;">Birmingham：</span><br>
@@ -409,7 +409,7 @@ I'm confident they'll make the correct decision once they realize the entire ope
 "Exactly. But before we launch an all-out offensive, we should pay a visit to the Royal Navy's forward base."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=One's Resolution|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=One's Resolution|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Long Island：</span><br>
 Hey Commander, Long Island here, in charge of communications for the day. I've got some orders from Naval HQ for you~<br>
 Oh, have you already arrived at the Royal Navy's outpost?<br>
@@ -444,7 +444,7 @@ Phew... That was nerve-wracking...! Oh crap, the comms are still on!<br>
 That didn't quite make sense, but... Whatever, let's just get some rest while we can.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Teatime|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Teatime|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 *knock knock*<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
@@ -554,7 +554,7 @@ I believe that Her Majesty may have wanted you to mull over this during your mis
 Thank you for your time. Please enjoy your evening.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=All-Out Offensive|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=All-Out Offensive|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean - Core Sector<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -600,7 +600,7 @@ The operation is scheduled to begin now. All fleets are ready to sortie.<br>
 '''''<span style="color:black;">选择项1："All fleets! Commence the attack!"</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mighty KGV's|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mighty KGV's|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Warning: Large Siren defense structure detected ahead. Readings suggest it is a stronghold cannon.<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -621,7 +621,7 @@ Target acquired. King George V's, blow it to kingdom come!<br>
 Take aim! FIRE!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Guerrilla Tactics|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Guerrilla Tactics|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Analysis complete. The route through the area ahead is obstructed by a Siren blockade.<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -659,7 +659,7 @@ All we've got to do is smash it, and that'll get rid of the blockade, right?<br>
 Gotcha! The Iris Libre fleet is on the case!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Wings in the Sky|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Wings in the Sky|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hood：</span><br>
 Commander, we have successfully eliminated all Sirens in the area.<br>
 <span style="color:#4eb24e;">Formidable：</span><br>
@@ -684,7 +684,7 @@ In essence, due to the critical nature of this operation, their participation wi
 When we said we'd send everyone we could, we meant it. Now let us advance and purge this ocean of its Siren blight!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vessels|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vessels|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Hey, Commander... Don't these floating fortresses look familiar?<br>
 <br>
@@ -714,7 +714,7 @@ Seeing as these are watered-down Testers, safe to say they're sending the toughe
 Heh, fine by me. I've been aching for something resembling a real fight!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Torus|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Torus|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Scan complete. No Siren signals were detected in the area.<br>
 Initiating combat data analysis.<br>
@@ -743,7 +743,7 @@ Plus, there's no need for them to hide their strength after we've come this far.
 "Great points. We ought to keep our eyes peeled for any strange Siren deployments while continuing with our plan..."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Another Singularity|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Another Singularity|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Warning: Abnormal weather detected ahead. Maintaining distance from the anomaly is recommended.<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -798,7 +798,7 @@ Yeah, we can see that! Commander, get over here!<br>
 There's no escaping its pull...! Hang on to whatever you can!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Invitation|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Invitation|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Enterprise META：</span><br>
 Do you recognize me?<br>
 <span style="color:#ff9900;">????：</span><br>
@@ -850,7 +850,7 @@ I'm currently trying to contact them. I will report back to you when I am able t
 Heeding Belfast's suggestion, I closed my eyes and rested for a bit.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Respite and Repairs|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Respite and Repairs|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Essex：</span><br>
 Commander... and Enterprise!<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -887,7 +887,7 @@ While I may not be very useful in a battle, you can always trust me to repair an
 This place may be where the Sirens' fleet has been all along... We need to proceed with caution from here on out.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rejection|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rejection|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Enterprise META：</span><br>
 How are you feeling?<br>
 <span style="color:#ff9900;">Ark Royal META：</span><br>
@@ -942,7 +942,7 @@ If I had to describe this scene with just one word... it would be "graveyard."<b
 I solemnly ordered the fleet to keep advancing in formation, launch additional recon planes, and gather intel on the sector as quickly as possible.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Point of Convergence|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Point of Convergence|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Essex：</span><br>
 It's all so strange. The wrecks seem to have been floating around for wildly differing times, and there's no apparent explanation for where they came from...<br>
 I'm willing to believe they're all from Sirens in the NA Ocean, but that they had THIS many here? That just seems impossible.<br>
@@ -1005,7 +1005,7 @@ But to find it, we'll need to stop observing so much. As counterintuitive as it 
 '''''<span style="color:black;">（选择项2）</span>'''''That's fair. It's pretty complicated stuff. But don't worry, I'll get us out of here in no time!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Last Light |选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Last Light |选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Memphis：</span><br>
 Stop for a sec! I see people on the horizon!<br>
 Some of them definitely look like Sirens. The rest, though... I think they're Ashes.<br>
@@ -1340,7 +1340,7 @@ There's nothing to suggest the Arbiters are chasing us, but we're not out of the
 ...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Chapter |选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Chapter |选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Memphis：</span><br>
 Stop for a sec! I see people on the horizon!<br>
 Some of them definitely look like Sirens. The rest, though... I think they're Ashes.<br>

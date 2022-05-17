@@ -1,6 +1,6 @@
 == Sea Star on Shore ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Morning Incident|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Morning Incident|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>
@@ -30,7 +30,7 @@ B-But...where could my clothes have gone...?<br>
 Is there...a thief?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Missing Clues|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Missing Clues|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>
@@ -57,7 +57,7 @@ This...This place is...<br>
 Yep...The Royal Navy Dorm...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suspicion and Inquiry|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suspicion and Inquiry|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>
@@ -83,7 +83,7 @@ Hmm...I haven't seen that person, either...<br>
 I think I saw her go into her room, that one over there--<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Caught Red-Handed?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Caught Red-Handed?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>
@@ -111,7 +111,7 @@ Huh?!<br>
 WHA?!?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Justification|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Justification|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>
@@ -142,7 +142,7 @@ It's the truth! I was just about to start picking up the clothes on the floor--<
 Stare--<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Witness|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Witness|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>
@@ -180,7 +180,7 @@ Cygnet's clothes were blown away and landed perfectly in Ark Royal-san's room?<b
 Huh?!?!?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Case Closed|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Case Closed|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Sea Star on Shore<br>
 <br>

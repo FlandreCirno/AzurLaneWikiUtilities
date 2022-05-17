@@ -1,6 +1,6 @@
 == Skybound Oratorio  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Phantasmal Labyrinth|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Phantasmal Labyrinth|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Am I... dreaming?<br>
 Jean Bart：<br>
@@ -87,7 +87,7 @@ Cast your eyes skybound and gaze at your insignificance.<br>
 Alas, what sinful creations we are...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Dawn|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Dawn|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 In the seas surrounding an area near the Southern continent, untouched by the conflict with the Sirens...<br>
 Many cultures thrived in this vast continent, distanced from the large-scale conflict between the major maritime powers and the Sirens.<br>
@@ -122,7 +122,7 @@ Upon saying that, Richelieu briefly flashed a bitter smile.<br>
 Yes, just like back with the Azur Lane, when we didn't have to fight one another...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Information Exchange|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Information Exchange|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Granted that I am not fully informed about this matter, I still haven't been told why Iris Libre chose this place as the site of the operation.<br>
 Among the Vichya forces stationed here are mass-produced Iron Blood vessels and even Sirens...<br>
@@ -151,7 +151,7 @@ Yes, that's right. I'm sorry I didn't tell you when we first set out.<br>
 For the sake of both Iris Libre and the Vichya Dominion, please lend me your power once more.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Foes and Friends|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Foes and Friends|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Mozambique Strait - Siren-Contested Area<br>
 <span style="color:#4eb24e;">Jeanne d'Arc：</span><br>
@@ -187,7 +187,7 @@ No matter how difficult it may be, we must believe in the guidance of the Iris O
 ...Indeed. I'll be counting on you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Friends and Foes|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Friends and Foes|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Mozambique Strait - Siren-Contested Area<br>
 <span style="color:#4eb24e;">Le Téméraire：</span><br>
@@ -221,7 +221,7 @@ Yes, let's stick to that for now.<br>
 With me, Tem!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Secret Weapon|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Secret Weapon|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle<br>
 While the combined forces of the Royal Navy and Iris Libre were engaging the Sirens...<br>
@@ -276,7 +276,7 @@ We can't ask for too much when we don't even have the mass-production ships at o
 Now, allow me to explain our strategy...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hesitation|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hesitation|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle<br>
 <span style="color:#ffd000;">Vauquelin：</span><br>
@@ -332,7 +332,7 @@ The uncontrollable La Galissonnière, who would throw herself into battle "becau
 ...and the "secret weapon." There were simply too many things to be concerned about.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Autonomy|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Autonomy|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Surrounding Waters<br>
 <span style="color:#4eb24e;">Jeanne d'Arc：</span><br>
@@ -359,7 +359,7 @@ Miss Richelieu?<br>
 ...I believe I speak on behalf of the Royal Navy when I say that we would all want to see that day come.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Negotiation|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Negotiation|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Jeanne d'Arc：</span><br>
 How strange... We've advanced this far and nothing has shown up... Not even a mass-produced ship.<br>
 If Algérie is the one in command, then why would she...<br>
@@ -399,7 +399,7 @@ Richelieu, we await your orders.<br>
 ...All forces, advance carefully towards the Basilica. Destroy all production-type ships along the way.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Speculation|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Speculation|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Shortly before engagement with Richelieu's fleet<br>
 <span style="color:#ffd000;">Radio Message：</span><br>
@@ -420,7 +420,7 @@ As for me...<br>
 All production-type ships, forward! Intercept the enemy's fleet!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Chosen Road|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Chosen Road|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Surrounding Waters<br>
 Explosions tear through the waters as the battle rages on.<br>
@@ -499,7 +499,7 @@ I-I'm feeling a little weird...<br>
 Miss Richelieu...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=True Intentions?|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=True Intentions?|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Surrounding Waters<br>
 In the midst of battle...<br>
@@ -531,7 +531,7 @@ Based on the current situation, she'll probably make her appearance before long.
 That seems to be the case. My planes have detected a larger Vichya fleet approaching us from the direction of the mass-produced models, led by Algérie.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Cardinal and the Knight|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Cardinal and the Knight|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Illustrious：</span><br>
 Miss Richelieu, what would you like to do? Should we attack...?<br>
 Oh my... Miss Algérie has left the formation and is approaching us alone.<br>
@@ -598,7 +598,7 @@ The cardinal watched her leave in silence before also turning around.<br>
 I hope that one day, we'll be able to have another tea party...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Wave|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The First Wave|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">La Galissonnière：</span><br>
 Seems like someone let all the air out of you, huh?<br>
 <span style="color:#ec5d53;">Algérie：</span><br>
@@ -628,7 +628,7 @@ All right... I'll try to draw them in a bit more, so make sure everyone is in po
 Got it. Take care of yourself, Algérie. You hear me?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Momentary Victory?|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Momentary Victory?|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Surrounding Waters<br>
 *beep beep*！！！<br>
@@ -679,7 +679,7 @@ The vanguard fleet should not pursue the enemy, and instead retreat to rejoin th
 (If your goal is to protect the Basilica, then you can't ignore this move. It's your turn, Algérie.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Secrets|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Secrets|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 Casablanca Harbor - Past<br>
 <span style="color:#4eb24e;">Le Terrible：</span><br>
@@ -776,7 +776,7 @@ Algérie opened the box, revealing a device along with some notes.<br>
 What...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Doors of the Basilica|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Doors of the Basilica|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Near vicinity<br>
 The combined Iris-Royal fleet ignored the maneuvers of the Vichya ships and headed straight towards the Basilica.<br>
@@ -816,7 +816,7 @@ Richelieu, Illustrious, see you later!<br>
 Indeed. Please be careful.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Persuasion|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Persuasion|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Vauquelin：</span><br>
 Hahah! Behold the Vichya Dominion's enhanced, indestructible Mass-Production Corps, led by the unvanquished Vauquelin!<br>
 <span style="color:#4eb24e;">Jeanne d'Arc：</span><br>
@@ -847,7 +847,7 @@ If you don't want to duel me one-on-one, we'll just fight the usual way!<br>
 Ehhhhhh?! F-fine, let's do this!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Trusted Friends|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Trusted Friends|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Vauquelin：</span><br>
 What's wrong, Opie? Your magic seems to lack its usual kick today!<br>
 <span style="color:#4eb24e;">L'Opiniâtre：</span><br>
@@ -882,7 +882,7 @@ Sorry, Richelieu, but we're going to have to change our strategy! In addition to
 We can't let them keep targeting our Royal Navy allies...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fortune|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fortune|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Vauquelin：</span><br>
 Algérie, um... I don't think I can deal with their entire vanguard by myself...<br>
 <span style="color:#ec5d53;">Algérie：</span><br>
@@ -955,7 +955,7 @@ Jeanne... Thank you!<br>
 Since the Vichya fleet is retreating, Richelieu and the others should be getting back to us soon... Wait, what...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Skybound Wall|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Skybound Wall|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Near vicinity<br>
 <span style="color:#4eb24e;">Richelieu：</span><br>
@@ -1008,7 +1008,7 @@ God's light... shall return everything to the flames of Creation...? So in other
 Yes, we'll all be annihilated.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Search for Truth|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Search for Truth|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Béarn：</span><br>
 Richelieu, Algérie's fleet is approaching.<br>
 <span style="color:#4eb24e;">Richelieu：</span><br>
@@ -1031,7 +1031,7 @@ Béarn, just in case, I want you to shoot down some of the enemy planes into the
 As the whispers of ancient legends coalesced with a stream of cutting-edge intelligence and data, Richelieu drafted plans to counter every scenario she could think of.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Blinding Light|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Blinding Light|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Near vicinity<br>
 <span style="color:#4eb24e;">Béarn：</span><br>
@@ -1065,7 +1065,7 @@ Which, in other words, means I have free rein to take out your carriers!<br>
 So what do you say we... have some fuuunnn?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Onslaught|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Onslaught|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 La Galissonnière's sudden attack left the carrier fleet damaged with no way of maintaining air superiority.<br>
 Piece by piece, Algérie's plan was falling into place.<br>
@@ -1119,7 +1119,7 @@ As you wish.<br>
 Richelieu, you're a lot more compassionate and caring than you let on, aren't you... Hehe~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Retreat|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Retreat|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Near vicinity, not long after the CV fleet's battle<br>
 <span style="color:#ec5d53;">Algérie：</span><br>
@@ -1145,7 +1145,7 @@ Algérie...<br>
 I will bring all my forces in front of the Basilica. With God as our witness, we shall determine who is correct.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Decisive Battle|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Decisive Battle|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Iris Basilica<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
@@ -1236,7 +1236,7 @@ How distasteful... it wouldn't be fun at all to go down the same way Dunkerque d
 Well, if this is how things are going to end, I might as well give some holy "guidance" to as many Royal ships as I can... Hm?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prayer of Light|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prayer of Light|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Illustrious：</span><br>
 I know that my words mean very little to you, but please hear me out.<br>
 I need to apologize on behalf of Her Majesty... No, the entire Royal Navy.<br>
@@ -1308,7 +1308,7 @@ This time, a tide of black that swallows the light. Overrunning, coalescing, mud
 Against the backdrop of a black and purple cathedral, a Templar Knight became a King.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Under God's Banner|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Under God's Banner|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Algérie?：</span><br>
 "Lies, betrayal, and hypocrisy... are all cut from the same cloth..."<br>
 "Judgment for the non-believers. Condemnation for the unrighteous. All the unclean shall be purged by the fires of Heaven."<br>
@@ -1374,7 +1374,7 @@ Don't worry, Richelieu! I have nothing to fear, because the Lord is at my side!<
 Raising her standard high, the Iris knight charged forward into the darkness.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lever du jour|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lever du jour|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Jeanne d'Arc：</span><br>
 You must keep fighting, Algérie!<br>
 <span style="color:#ec5d53;">Algérie：</span><br>
@@ -1417,7 +1417,7 @@ Fourth ship of the Richelieu-class battleships, Gascogne, commencing combat supp
 Algérie, La Galissonnière, and Vauquelin are now fleeing towards the southwest. Gascogne will now assume command.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Machina|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Machina|选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Richelieu：</span><br>
 Fourth battleship... of the Richelieu class...?<br>
 <span style="color:#ec5d53;">Gascogne：</span><br>
@@ -1545,7 +1545,7 @@ I miss you... Jean Bart...<br>
 Richelieu... My sister...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Distant Gaze|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Distant Gaze|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 The Basilica Isle - Surrounding Waters<br>
 <span style="color:#4eb24e;">Le Téméraire：</span><br>
@@ -1593,7 +1593,7 @@ After all, the Azur Lane and the Crimson Axis are one and the same... *sigh*<br>
 Please take care of Richelieu...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Contract|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Contract|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
 I need to head back to the Royal Isles! This meeting is adjourned!<br>
 <span style="color:#4eb24e;">Kitakaze：</span><br>
@@ -1633,7 +1633,7 @@ W-well, in that case, I won't say it then! Ahem! Best of luck with our next join
 I'll be counting on you as well!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Another Plan|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Another Plan|选项=33|主框=1|样式=primary|展开=是}}
 <br>
 A few days after Operation Basilica...<br>
 <span style="color:#ec5d53;">I-26：</span><br>
@@ -1664,7 +1664,7 @@ I'm glad that we're on the same page. Oh, and could you relay another message to
 "Our tea is unclouded. I'm looking forward to having you at our party."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Skybound Fantaisie|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Skybound Fantaisie|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 Mediterranean Sea - Malta<br>
 <span style="color:#4eb24e;">Le Terrible：</span><br>

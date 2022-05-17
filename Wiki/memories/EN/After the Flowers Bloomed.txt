@@ -1,6 +1,6 @@
 == After the Flowers Bloomed ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Lost Purse|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Lost Purse|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>
@@ -32,7 +32,7 @@ I would be glad to show you around, should you wish me to.<br>
 After seeing her gentle smile, there was no way I'd be able to turn down her generous offer.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Shopping for Sweets|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shopping for Sweets|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>
@@ -69,7 +69,7 @@ I'd be glad to feed you~<br>
 I wasn't sure if Fusou was joking or not, but she was giggling lightheartedly.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Bad At Writing Mail?|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bad At Writing Mail?|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>
@@ -108,7 +108,7 @@ I left the office and followed Fusou, feeling both relieved and a bit silly at t
 For my sake, I really needed to teach her how to send e-mail.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Promise|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Promise|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>
@@ -170,7 +170,7 @@ With those words, Fusou passed through the torii gate with Ryuuhou.<br>
 I wanted the moment to last a bit longer, but all I could think about was getting to see her again tomorrow.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Smiling Faces|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Smiling Faces|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>
@@ -229,7 +229,7 @@ Just as Fusou opened her mouth, I heard the roar of thunder from the sky.<br>
 When I looked towards the sky, the sun was beginning to be covered with dark clouds.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rain of Disappointment|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rain of Disappointment|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>
@@ -279,7 +279,7 @@ Maybe I truly am blessed after all...<br>
 I thought I heard a quiver in her voice, but it might have just been the timbre of the rain coming down around us.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Small Blessing|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Small Blessing|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 After the Flowers Bloomed<br>
 <br>

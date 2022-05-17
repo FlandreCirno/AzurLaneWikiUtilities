@@ -1,6 +1,6 @@
 == "Virtual Connection Synchronicity" - Task ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Visitor From Virtual Space|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Visitor From Virtual Space|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Inside a virtual space...<br>
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
@@ -26,7 +26,7 @@ The intelligent super A.I., Kizuna AI, who found herself thrown into the middle 
 WHERE THE HECK AM I━━━━!!???<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Chance Meeting?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Chance Meeting?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 In a sea area close to Port...<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -179,7 +179,7 @@ I shall remain on guard here then. There's no saying if the enemy might appear o
 Mmhmm! Thanks, everyone. Let's set out then~! Hip, hip, hooray~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Forward, to the Virtual Mirror Sea!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Forward, to the Virtual Mirror Sea!|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 Ayanami here. We were able to enter the Virtual Mirror Sea without issues.<br>
 <span style="color:#4eb24e;">Inazuma：</span><br>
@@ -192,7 +192,7 @@ Huuh... I didn't see these in the patch notes. I guess it really must be a bug a
 I have no idea what's happening, but let's all stay alert! Let's proceed carefully!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lost Data?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lost Data?|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
 Hey hey, everyone, come take a look at this~<br>
 Tada! I've just installed this "Prototype Ship Rigging Construction Module" that Akashi-chan made for me! Now, I'll be able to fight alongside all of you~!<br>
@@ -245,7 +245,7 @@ Enemy attack from 6 o'clock!<br>
 I see, I see! So this is what you'd call a "tutorial boss!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hacking Battle!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hacking Battle!|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Kizuna AI clone：</span><br>
 ... ... ...<br>
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
@@ -276,7 +276,7 @@ I see, I see! So this is what it's like to practice combos on a copy of yourself
 Ahem! That's that! A clean finish to put an end to the hacking!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Data Recovery|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Data Recovery|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Javelin：</span><br>
 Phew, we managed to defeat it while the hacking was interrupted! I was worried for a second there~!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -312,7 +312,7 @@ By the looks of things, we’ll need to investigate over there as well. Let’s 
 *hums* Hehe~♪ All right, everyone! Full speed ahead~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=It's Showtime!|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=It's Showtime!|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Inazuma：</span><br>
 So this is the next Virtual Sea Area... it’s a bit noisier than the last one.<br>
 <span style="color:#ec5d53;">Kizuna AI clone：</span><br>
@@ -356,7 +356,7 @@ Stop standing there gawking at her, we need to go help out!!<br>
 Ugh... but from here, it’s hard to tell which is the real one...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Kizuna AI, Abducted!|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Kizuna AI, Abducted!|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Inazuma：</span><br>
 Let go of AI! Ikazuchi, we’re going!<br>
 <span style="color:#4eb24e;">Ikazuchi：</span><br>
@@ -381,7 +381,7 @@ Waaah... Sho... sorry...<br>
 There, there. Good girl, good girl~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Found: Kizuna AI Clone!|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Found: Kizuna AI Clone!|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Javelin：</span><br>
 You're through! Take this!<br>
 Kizuna AI：<br>
@@ -403,7 +403,7 @@ I-I won't do anything reckless like last time! I won't make the same mistake twi
 ...But it's probably ideal that we do this as a team. Everyone, let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Someday, a Real Concert|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Someday, a Real Concert|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
 Phew, we managed to make it through without taking much damage!<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
@@ -434,7 +434,7 @@ Now that everyone has had a chance to calm down, let's resupply and head towards
 Aye aye!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unaided Bungee Jumping!|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unaided Bungee Jumping!|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
 Everyone~! Look, look!<br>
 <span style="color:#4eb24e;">Ayanami：</span><br>
@@ -497,7 +497,7 @@ My super intelligent AI senses are telling me that we won't last anywhere near a
 Let's proceed carefully. Make sure you don't get caught inside the fog!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Caution: Highly Explosive!|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Caution: Highly Explosive!|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 There are some obstacles in our way, and we can't get to the other side. We'll have to figure out some way of clearing this stuff out...<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
@@ -534,7 +534,7 @@ I-I'm sorry! Please forgive me~!<br>
 It's okay, AI... it worked out...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Start Looting!|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Start Looting!|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
 Huh? I found a weird box!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -559,7 +559,7 @@ See, someone definitely dropped these supplies to help us out. Whoever you are, 
 I see, I see! Looks like the more we collect, the stronger we'll be! Let's keep our eyes peeled and grab as much loot as we can!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Watch Out!|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Watch Out!|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Javelin：</span><br>
 We've pretty much cleared out all the obstacles, so isn't it about time to head to the boss fight?<br>
 <span style="color:#4eb24e;">Ayanami：</span><br>
@@ -605,7 +605,7 @@ I see, I see! We were supposed to bring AP shells to do more DPS here!<br>
 The enemy's coming! Prepare to intercept them!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Bang! Victory!|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bang! Victory!|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kizuna AI：</span><br>
 Phew... haah... finally... we won...!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -643,7 +643,7 @@ Eh heh heh~ watch me closely, and I'll show you what being a capital ship is all
 (I feel like she's going to shoot herself in the foot... but I don't have the heart to say anything... Guess I'll see what happens...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Virus Infection?!|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Virus Infection?!|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 I don't see anything out of the ordinary here. Just where are the enemies hiding...?<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -709,7 +709,7 @@ I see, I see! If we cut off her power supply, she'll go into a Down Phase!<br>
 If we do that, then we can win. Wait for us, Kizuna AI.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Kizuna AI's Fleet|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Kizuna AI's Fleet|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz-chan：</span><br>
 This is as far as you go. We won't let you get any closer to Kizuna AI.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -770,7 +770,7 @@ No, our best bet is to fight them head on. If we take them out, there's nothing 
 So, is this one of those stages where we have multiple win conditions? We can either do the high-power strategy, or the low-cost strategy!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hear Our Voices!|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hear Our Voices!|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ikazuchi＆Inazuma：</span><br>
 Eat this!<br>
 <br>
@@ -800,7 +800,7 @@ Maybe... but, we have to carry on the will of the Kizuna AI Fleet, and do our be
 Let's put an end to all this! AI, we're coming to save you!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Power Outage!|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Power Outage!|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z23：</span><br>
 This is the last one!<br>
 <br>
@@ -823,7 +823,7 @@ Now's our chance, yes.<br>
 All righty! Everyone, let's end it here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Absolute Despair?!|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Absolute Despair?!|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Javelin：</span><br>
 AI, we're coming to take you home! Let's go together?<br>
 <span style="color:#ec5d53;">Kizuna AI Titan：</span><br>
@@ -886,7 +886,7 @@ That's because...<br>
 You're our precious friend, AI!!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Collapse|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Collapse|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z23：</span><br>
 Miss AI! Please remember who you are!<br>
 <span style="color:#ec5d53;">Kizuna AI Titan：</span><br>
@@ -970,7 +970,7 @@ After all, I am...<br>
 AIIIIIIIIIIIIII------!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Return from Virtual Space|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Return from Virtual Space|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Port - Main Area<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -1013,7 +1013,7 @@ Looks like we're getting a sequel! Everyone, let's do our best once more!<br>
 Well, things aren't quite done here but, I'm relieved...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sequel!|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sequel!|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Port - Near the Royal Dorms<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -1058,7 +1058,7 @@ To make a promise with those who were born onto a star streaked with lanes of az
                                                               -- "Synchronicity."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=What's this black screen...?|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=What's this black screen...?|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 Port - Dorms<br>
 <span style="color:#4eb24e;">Kizuna AI：</span><br>

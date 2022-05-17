@@ -1,6 +1,6 @@
 == Operation: Christmas!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Christmas Conundrum |选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Christmas Conundrum |选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>
@@ -29,7 +29,7 @@ Don't be like that. Two heads are always better than one. And with two heads, le
 Of course! ... Wait, we're leaving already?! I-I'll get my coat...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Gift for Everyone |选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Gift for Everyone |选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>
@@ -79,7 +79,7 @@ Ask someone else, eh? Well, we don't have any better ideas at the moment, so let
 You have one, too~ See ya 'round, Warspite~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shadow over Christmas, Pt. 1 |选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shadow over Christmas, Pt. 1 |选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>
@@ -118,7 +118,7 @@ Is it fine to just ask her directly like that...?<br>
 Of course! The Eagle Union is built on openness and freedom! Come on, follow me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shadow over Christmas, Pt. 2 |选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shadow over Christmas, Pt. 2 |选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>
@@ -162,7 +162,7 @@ Sorry, I didn't intend to show myself to you like this.<br>
 Not at all, you actually came at the perfect time! We need your help!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Warspite's Wish |选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Warspite's Wish |选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>
@@ -200,7 +200,7 @@ P-please, don't put it that way... You're making it sound weird...<br>
 The Royal Navy will surely have an interesting Christmas with Santa Clauspite around. Hahahah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Onwards, To Christmas Day! |选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Onwards, To Christmas Day! |选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>
@@ -235,7 +235,7 @@ You're lifesavers! Err, Christmas-savers, rather. You both have my gratitude!<br
 Thank you so much! Please take us to the Royal Navy dormitory!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Commence Operation: Christmas! |选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Commence Operation: Christmas! |选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Operation: Christmas!<br>
 <br>

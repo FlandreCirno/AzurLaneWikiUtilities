@@ -1,6 +1,6 @@
 == Tower of Transcendence ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Bifröst|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bifröst|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 –––– ??? ––––<br>
 In a space engulfed by darkness, Friedrich der Große – blueprint ship, and the executor of Bismarck's will – sat and quietly mulled over the reports of her peers.<br>
@@ -105,7 +105,7 @@ And above all else––<br>
 Their audacity to transcend God.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tower of Midgard|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tower of Midgard|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Operation Area - Morning<br>
 The sun rose over the horizon and cast its light on an enormous Iron Blood fleet.<br>
@@ -172,7 +172,7 @@ That about does it for the briefing. See you on the other side.<br>
 Sending you coordinates for the anchor point right now. Strasser out.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Preparations|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preparations|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Tower of Midgard - Pier<br>
 <span style="color:#4eb24e;">Elbe：</span><br>
@@ -259,7 +259,7 @@ You needn't worry about her. She will catch up with us soon enough.<br>
 Now, let us make way to the cafeteria. We can fetch some food for Heinrich too.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Splitting Up|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Splitting Up|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Tower of Midgard - Pier<br>
 Not long after the girls finished their meals, the ground began to rumble.<br>
@@ -315,7 +315,7 @@ Thanks, but I don't need luck! I've got a belly full of food and I'm ready to do
 Time to go! Let's get 'em, Eisen!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Peculiar Shape|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Peculiar Shape|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Tower of Midgard - Singularity Generator<br>
 <span style="color:#4eb24e;">U-1206：</span><br>
@@ -348,7 +348,7 @@ Besides, dispatching those Sirens should be a breeze for someone of Strasser's c
 Well... All right, if you say so!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Activation|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Activation|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
 This is Strasser. Sorry I took so long.<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -422,7 +422,7 @@ Finally, Elbe – the last member of the team – entered the Singularity, with 
 The girls cut off from their comrades, the operation had officially commenced.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Helheim's Breath|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Helheim's Breath|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The air was scorching, but the water was freezing – it was like being in two places at once.<br>
 An overpowering odor hung in the air, sapping the girls' strength. This place was unlike any Mirror Sea.<br>
@@ -507,7 +507,7 @@ Do not forget this operation is ultimately about gathering intel and negotiating
 (If we are to fight... It should be with a purpose.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Siren Shadows|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Siren Shadows|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Elbe：</span><br>
 I've spotted a humanoid Siren! It looks to be... a new model entirely.<br>
 <span style="color:#4eb24e;">Prinz Adalbert：</span><br>
@@ -542,7 +542,7 @@ Hold it. They could be stronger than we expect. That being the case...<br>
 Send in the mass-produced ships first. We will not waste precious ammunition on Sirens if we can help it.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Death from Above|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Death from Above|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity - Unknown Location<br>
 The Iron Blood's mass-produced ships moved in. Instantly, the Sirens hiding among the wrecks all emerged and opened fire.<br>
@@ -593,7 +593,7 @@ Whatever that was, it left their formation in ruins! Should we go in and start d
 Change course. We're finding out who fired those projectiles.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Strange Ally|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Strange Ally|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Magdeburg：</span><br>
 Woo! Yeah! Watch 'em drop like flies!<br>
 <span style="color:#4eb24e;">Elbe：</span><br>
@@ -702,7 +702,7 @@ They anchored their fleet of mass-produced ships and left them behind.<br>
 However, they were hardly prepared for what they would encounter ahead–<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chill of the Grave|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chill of the Grave|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity<br>
 <span style="color:#4eb24e;">Prinz Adalbert：</span><br>
@@ -748,7 +748,7 @@ Ugh, how ugly... Is this even a ship? It looks more like some sort of monster...
 Ulrich grimly continued her task of surveying the destruction around her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Operation Objective|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Operation Objective|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Elbe：</span><br>
 I, I found something!<br>
 There's probably still a battle going on around here! Just look at all the fresh wreckage!<br>
@@ -770,7 +770,7 @@ That can only mean one thing...<br>
 META is here...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gneisenau?|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gneisenau?|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 The Iron Blood fleet followed the trail of charred mass-produced Siren husks. Their broken forms were piled into something resembling a grotesque shrine of twisted metal.<br>
 It was clear that whoever did this... had done so recently.<br>
@@ -831,7 +831,7 @@ Now begone!<br>
 ...How about we cool it and talk things through.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Duel|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Duel|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 While avoiding the bombardment from the META ship, Gneisenau, Ulrich racked her brain for answers.<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -870,7 +870,7 @@ Leave the two of us alone... Just me and that META.<br>
 ...We've got a lot of things to talk about.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Decision|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Decision|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Gneisenau META：</span><br>
 What's the meaning of this?<br>
 <br>
@@ -978,7 +978,7 @@ Listen up, team! We're heading back, bringing with us a new ally and the path to
 The Iron Blood fleet set sail once again, this time for their point of origin – the Tower.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Way Home|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Way Home|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity<br>
 <span style="color:#4eb24e;">Magdeburg：</span><br>
@@ -1034,7 +1034,7 @@ Actually, does our world's Gneisenau even have a crippling weakness?<br>
 Welp, scratch that explanation then.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Another Visitor|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Another Visitor|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Gneisenau META：</span><br>
 Ulrich, I would advise you to stay on your toes.<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1090,7 +1090,7 @@ Well, whoever she is, she's headed this way!<br>
 If she's in the mood to talk, that works in our favor. Let's go meet her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Scharnhorst?|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Scharnhorst?|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 Another Scharnhorst emerged from the horizon, approaching the area the Iron Blood fleet was anchored.<br>
 As with Gneisenau, Ulrich once again ordered the rest of the fleet to stand guard from a safe distance, approaching the figure alone.<br>
@@ -1185,7 +1185,7 @@ Doesn't matter what the circumstances are. If the enemy is coming, we stand and 
 And we'll use whatever we have at our disposal. Friend, foe, or META.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Arbiter's Mark|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Arbiter's Mark|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM––––––!!<br>
 <span style="color:#ff9900;">Scharnhorst：</span><br>
@@ -1232,7 +1232,7 @@ Casting one last glance back at what she had lost, Gneisenau resumed her engines
 Scharnhorst's unmoving figure became fainter, dimmer... until it finally disappeared like a wisp beyond the horizon.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Threat From Below|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Threat From Below|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM–––––!!<br>
 <span style="color:#4eb24e;">Prinz Adalbert：</span><br>
@@ -1274,7 +1274,7 @@ They're really trying to pin us in from all directions!<br>
 They keep diving too whenever I try to dive to track them down! There's no way to tell exactly how many enemies we're dealing with!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Focused Attack|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Focused Attack|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Ulrich continued to lead the increasingly desperate defense against the Siren onslaught when suddenly, a barrage of cannonfire erupted from behind to pummel the advancing enemies.<br>
 <span style="color:#4eb24e;">Magdeburg：</span><br>
@@ -1317,7 +1317,7 @@ You two really know how to win hearts and minds... Both you, and the other Schar
 Only a few hours remain until the Singularity maintenance limit––<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reposition and Counterattack|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reposition and Counterattack|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Thanks to Scharnhorst's covering fire, the Iron Blood fleet managed to restore their formation and somehow hold back the Siren onslaught.<br>
 The combination of Iron Blood sensors and META firepower was able to sink Siren after Siren with remarkable efficiency.<br>
@@ -1417,7 +1417,7 @@ But don't push your luck. I've said all I'm going to.<br>
 Very well. I never expected you to divulge absolutely everything to begin with.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Ashes' Creed|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Ashes' Creed|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Scharnhorst：</span><br>
 ......<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1449,7 +1449,7 @@ We'll be fine. Worst-case scenario we can always just run away.<br>
 Run away, you say... Hmm...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=One's Own Volition|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=One's Own Volition|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 Scharnhorst META and the Iron Blood fleet were locked in a staredown, neither side uttering a word.<br>
 That is, until a call from one of Scharnhorst's allies broke the silence.<br>
@@ -1521,7 +1521,7 @@ I'm aware. In any case, we'll wait at the exit for as long as we can.<br>
 Very well. Then this is where we go our separate ways. Either we'll see each other again soon... or this is farewell forever.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Phantom|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Phantom|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity - Near the Tower<br>
 <span style="color:#4eb24e;">U-1206：</span><br>
@@ -1601,7 +1601,7 @@ All ships, refuel and turn course. We're heading out to look for the Ashes!<br>
 Only a few hours remain until the Singularity maintenance limit––<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Digging through Wreckage|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Digging through Wreckage|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity - Near the Tower<br>
 <span style="color:#4eb24e;">Magdeburg：</span><br>
@@ -1652,7 +1652,7 @@ If they're not attacking us, just ignore them. We need to save our strength for 
 (If Scharnhorst ended up encountering the Arbiter Vessel, I'm not sure that our forces are sufficient...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rescue|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rescue|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz Adalbert：</span><br>
 Heeey, look! Someone's over there!<br>
 <span style="color:#4eb24e;">U-1206：</span><br>
@@ -1690,7 +1690,7 @@ Don't pursue them if they run. Once we break through their line, we're heading s
 Siren bastards, this ammo is wasted on you lot...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Inescapable Love|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Inescapable Love|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Elbe：</span><br>
 There aren't any Sirens on our tail anymore! We lost them!<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1794,7 +1794,7 @@ Sis– I mean, Scharnhorst... Stay with us.<br>
 Only a few hours remain until the Singularity maintenance limit––<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Enforcer|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Enforcer|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Elbe：</span><br>
 Humanoid Sirens incoming! It's the Enforcer we fought earlier, and a model we haven't seen before!<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1811,7 +1811,7 @@ Most likely. Guess they're trying to turn this into a game of cat and mouse... Y
 Dammit... To hell with it! Full speed for the Tower!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rout the Enemy|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rout the Enemy|选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Elbe：</span><br>
 There are so many humanoid Sirens! I just can't stand these things!<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1821,7 +1821,7 @@ Gneisenau, Scharnhorst, let's hurry.<br>
 Yeah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Anti-Submarine Warfare|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Anti-Submarine Warfare|选项=31|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-1206：</span><br>
 There's a submarine type Siren over there! Be careful!<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1845,7 +1845,7 @@ I'll catch up with you guys later, rush over to the Tower!<br>
 ...Hurry! There's no time to waste!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Finishing Blow|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Finishing Blow|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Scharnhorst：</span><br>
 The only obstacles left in our way... are that Enforcer and its fleet.<br>
 <span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
@@ -1891,7 +1891,7 @@ They've all sustained heavy injuries from fighting against the Enforcers...<br>
 That's why we need to pool our efforts. Let's break through and make it to the tower! Everyone, we're at the last stretch!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Revenge on the Sirens|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Revenge on the Sirens|选项=33|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Elbe：</span><br>
 I can see the light emanating from the Tower, Ulrich!<br>
 <span style="color:#4eb24e;">Magdeburg：</span><br>
@@ -1958,7 +1958,7 @@ Of course, I know~ Hehe... Let's have some fun!<br>
 Battleship Ulrich von Hutten firmly grasped the massive scythe in her rigging, unleashing her full powers in a decisive stand against the Sirens.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Escape|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Escape|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM–––––––!!<br>
 The combined onslaught of the Iron Blood ships began to take a toll on the Arbiter Vessel.<br>
@@ -2037,7 +2037,7 @@ No, I'm fine... It's just that... I pushed myself a bit too hard at the end ther
 ...For the sake of our great victory, and the Iron Blood's bright future.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Eternal Holy See|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Eternal Holy See|选项=35|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Sardegna Empire<br>
 <span style="color:#4eb24e;">Conte di Cavour：</span><br>
@@ -2106,7 +2106,7 @@ The Eternal City christened with glory... a manifestation of divine majesty that
 Yes, it is time... to gain "God's" allegiance. Hehehe~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=From the Northern Parliament|选项=36|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=From the Northern Parliament|选项=36|主框=1|样式=primary|展开=是}}
 <br>
 PH Base<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -2149,7 +2149,7 @@ And looking at these contents... It'll be a huge issue if the Naval HQ and NY Ci
 —Sovetsky Soyuz<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Huffman Tree|选项=37|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Huffman Tree|选项=37|主框=1|样式=primary|展开=是}}
 <br>
 ??? - ???<br>
 <span style="color:#ec5d53;">Compiler ：</span><br>

@@ -1,6 +1,6 @@
 == Another Leader? ==
 {{折叠面板|开始}}
-{{折叠面板|标题=An Unexpected Savior|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Unexpected Savior|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>
@@ -49,7 +49,7 @@ Commander, hang on tight.<br>
 ... What a colorful way to start off the day.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Affable Personality...?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Affable Personality...?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>
@@ -102,7 +102,7 @@ For Duke of York, this is someone who she absolutely cannot handle.<br>
 ...For once, I seemed to understand what Prince of Wales was talking about.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Her Majesty|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Her Majesty|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>
@@ -147,7 +147,7 @@ Having that said though, even if we're just eating to survive, it can't hurt to 
 At that time, I swore I could almost see the warrior-chef's soul burning bright in her chest, full of loyalty for her Queen.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Knight Commander's Leadership|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Knight Commander's Leadership|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>
@@ -194,7 +194,7 @@ I see... That may not have been my intention at all, but if the Commander made t
 As she said this, she emerged from the kitchen with plates of freshly-prepared food in her hands.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=To be a Leader|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=To be a Leader|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>
@@ -242,7 +242,7 @@ Huh? King George V has a "soft side?"<br>
 Commander, why don't you try cooking for her?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tonight's Supper|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tonight's Supper|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>
@@ -283,7 +283,7 @@ I turned back towards the kitchen to continue my training.<br>
 One day, I would make something that she would acknowledge as truly delicious.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Heart's Desire|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Heart's Desire|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Another Leader?<br>
 <br>

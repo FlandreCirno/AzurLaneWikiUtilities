@@ -1,6 +1,6 @@
 == Looking Glass of Fact and Fiction ==
 {{折叠面板|开始}}
-{{折叠面板|标题=An Interdimensional Encounter|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Interdimensional Encounter|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ookami Mio：</span><br>
 All around me are those familiar walls, that familiar ceiling<br>
 Not long ago it was bustling in here, but now I am the only one here<br>
@@ -35,7 +35,7 @@ Dammit... If I only had my own fleet with me, this would be a piece of cake!<br>
 If only Kawakaze and Zuikaku were here...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Tale Begins|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Tale Begins|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The search for truth<br>
 The longing for the future<br>
@@ -74,7 +74,7 @@ Detecting numerous mass-produced Siren vessels heading in our direction.<br>
 Kawakaze, you watch the front. I'll scramble my planes in the meanwhile so we can take out the Sirens!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Dense Fog|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Dense Fog|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 After a few quick skirmishes, the Sirens' reinforcements ceased coming, and the sea turned still once more.<br>
 As the two searched for a way to exit the Mirror Sea, the fog before their eyes cleared up almost as quickly as when it formed.<br>
@@ -100,7 +100,7 @@ It's fine, we'll get outta here sooner or later. We don't achieve anything by wo
 And while we're here, might as well investigate to see what the Sirens are planning!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Call for Help|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Call for Help|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">？？？：</span><br>
 AAAAAHHH!<br>
 HELP! SOMEBODY HEEEEELP!<br>
@@ -111,7 +111,7 @@ Kawakaze, we're not the only ones trapped in here!<br>
 Understood! I'm counting on your aerial support while I go investigate!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fubuki and Kawakaze|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fubuki and Kawakaze|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ookami Mio：</span><br>
 *Pant*... *Pant*... Fubuki, just leave me... I can't take another step…<br>
 <span style="color:#4eb24e;">Shirakami Fubuki：</span><br>
@@ -134,7 +134,7 @@ Mio, I'm glad I at least get to spend my final moments with–<br>
 Nobody's dying on my watch! I'll take care of them, so just stay out of danger!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Visitors from Another World|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Visitors from Another World|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kawakaze：</span><br>
 Were either of you hurt?<br>
 <span style="color:#4eb24e;">Shirakami Fubuki：</span><br>
@@ -208,7 +208,7 @@ Safe house? What?<br>
 The place where we hid before we got taken here. Follow us and we'll take you there!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Guide|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Guide|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}&{namecode:158}：</span><br>
 The what? The "Hololive Resistance Base"?<br>
 <span style="color:#4eb24e;">Shirakami Fubuki：</span><br>
@@ -240,7 +240,7 @@ All right, Hololive Guide, lead the way. We can start hatching a plan once we've
 (Guide...? Excuse me?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vestiges of Battle|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vestiges of Battle|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kawakaze：</span><br>
 I see traces of a battle took that place in this area.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -253,7 +253,7 @@ Our goal is to get these Hololive girls to a safe place, though that would be ea
 Okay. We'll follow the tracks and investigate.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Natsuiro Matsuri, the Flirt|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Natsuiro Matsuri, the Flirt|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
 Hey, Javelin, let's go on a date once all the fighting is over!<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -276,7 +276,7 @@ Man, I don't get what goes through Fubuki's mind. Whatever, let's go help them o
 You got it! Come on, Kawakaze!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vestiges of Battle|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vestiges of Battle|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kawakaze：</span><br>
 How did you get here, Javelin?<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -315,7 +315,7 @@ She and Aqua stayed behind at the Resistance base to strengthen its defenses whi
 Matsuri's mostly right, but there's a bit more to it... We should probably go back to the base for now.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Resistance Base|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Resistance Base|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
 See that building over there made of sparkling obsidian? That's our base.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -330,7 +330,7 @@ I'm honestly amazed that Aqua's and Matsuri's base would come in handy one day. 
 Alright everyone, take a deep breath and follow me~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Purity?!|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Purity?!|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
 Captain, we're home~ How're things going?<br>
 <span style="color:#4eb24e;">Minato Aqua：</span><br>
@@ -404,7 +404,7 @@ Aww, you're so sweet, Javelin. You'll make a lovely wife one day...<br>
 (Once we're back home, I'd better get the rest of the gang to play AL. For now though, time to rest...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Matsuri, The Ordinary Girl|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Matsuri, The Ordinary Girl|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
 Wow, this rigging is amazing! I never expected weapons this powerful to be so easy to control!<br>
 With OP gear like this, even a pure and delicate girl like me can become a ganking queen at the drop of a hat!<br>
@@ -431,7 +431,7 @@ What a strange place you come from...<br>
 Aww, don't be like that! Experience is still experience!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=TNT?!|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=TNT?!|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
 That white building is the Holomart. We store all our tools and stuff in there, so it's the best place to start if we wanna get resources.<br>
 <span style="color:#4eb24e;">Kawakaze：</span><br>
@@ -462,7 +462,7 @@ But, if we're to collect this TNT as we supposedly should, we'll need to clear o
 That's easy peasy~ Let's rev up our engines and do it!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Request for Support|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Request for Support|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kawakaze：</span><br>
 Hold, Matsuri. I'm receiving a message from Zuikaku.<br>
 Siren aircraft are bombing "a giant wooden castle." Target is believed to be one of the Hololivers. Heading there to provide support.<br>
@@ -471,7 +471,7 @@ Siren aircraft are bombing "a giant wooden castle." Target is believed to be one
 Giant wooden castle...? Wait, that sounds like... Nakiri Castle! Ayame should be there! We'd better go help her!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Nakiri Castle|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Nakiri Castle|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 On the horizon – across the many islands scattered about the Mirror Sea – sits an isolated castle. Its structure wooden, its surroundings silent.<br>
 Its purpose, unclear. Perhaps to defend a strategic position, or symbolize its owner's control over the area.<br>
@@ -514,7 +514,7 @@ Dunno why, but they have a lot of carriers... That works in our favor.<br>
 Yes. If we can launch a surprise attack on them, it will be easy!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kawakaze：</span><br>
 Is that... Ayanami and Laffey?<br>
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
@@ -530,7 +530,7 @@ No matter, we must take care of them. Matsuri, I'll need your support.<br>
 You can count on me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Grouping Up|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Grouping Up|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Murasaki Shion：</span><br>
 Waaaaahhhh! Thank the sorcery gods you're here, Matsuri...<br>
 *Sob*... I was so scaaaaaaared!<br>
@@ -556,7 +556,7 @@ Don't be sad, Ayame! Once the fighting's over, we can build a new one, with blac
 We shall! And this time, Ay will make sure to build a hidden passage!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Plot Thickens|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Plot Thickens|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z23：</span><br>
 Why are you doing this?!<br>
 <span style="color:#ec5d53;">Minato Aqua(?)：</span><br>
@@ -571,7 +571,7 @@ We'll be surrounded before long! Sora, we should flee immediately!<br>
 (Javelin... Laffey... Ayanami... Wherever you are, I hope you're okay...!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Two Aquas?|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Two Aquas?|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Zuikaku：</span><br>
 ... It sounds like Kawakaze has managed to group up with Nakiri and Shion.<br>
 <span style="color:#4eb24e;">Minato Aqua：</span><br>
@@ -592,7 +592,7 @@ Apparently. At least someone who looks like you. There's someone else there with
 That has to be Sora! But why am I there? That's impossible!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Yamada Hermione|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Yamada Hermione|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Minato Aqua：</span><br>
 Hmm, isn't this Shirakami Shrine, a.k.a. Fubuki's place? Ah, there she is! I see her!<br>
 Sora, over here!<br>
@@ -639,7 +639,7 @@ I'm Aqua, too!!!<br>
 You're going DOWN! Let's beat the everliving crap out of this literal nobody!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Victory|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Victory|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 After eliminating the imposter spawned by the Mirror Sea, all the members of Hololive and Azur Lane safely managed to regroup.<br>
 They brought with them the supplies they had gathered to the Resistance hideout, and spent the rest of their day there.<br>
@@ -682,7 +682,7 @@ Then we'll find Tester– sorry, Tessy, and solve the mystery behind the Hololiv
 But that's for tomorrow! Right now, we need to all get some sleep.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=At Nighttime|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=At Nighttime|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Even knowing they're just copycats, fighting enemies that look like your allies takes its toll on you. I would know.<br>
 But for them, it's even worse. This place their home, and this base looks just like one they put so much effort into making.<br>
@@ -707,7 +707,7 @@ Will I... be able to do anything?<br>
 Miss Sora... You're so kind...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Forming the Team|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Forming the Team|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 The following day<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -774,7 +774,7 @@ All right, let's get to our respective tasks! We'll break free of this Mirror Se
 Yeeeeah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Chaotic Labyrinth|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Chaotic Labyrinth|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 Three hours later<br>
 <span style="color:#4eb24e;">Ookami Mio：</span><br>
@@ -798,7 +798,7 @@ You got it. I'm pumped up and ready to take on this chump of a pawn!<br>
 Don't tempt fate with one-liners like that, Mio...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Matryoshka|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Matryoshka|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Two hours later<br>
 <span style="color:#4eb24e;">Ookami Mio：</span><br>
@@ -813,7 +813,7 @@ Everything falls into place when I view it from the perspective of what my clone
 We'll get to the end of this maze in no time at this rate!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Game Characters|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Game Characters|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">???：</span><br>
 It's just as the cards said... They'll get here no matter what I do to try to stop them.<br>
 <span style="color:#ec5d53;">Miokawa Iiyo：</span><br>
@@ -887,7 +887,7 @@ Ay haven't the faintest idea what it is you're talking about, dear.<br>
 Tallyho, Iiyo. It is time to show them what we are made of.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Conquerors of the Labyrinth|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Conquerors of the Labyrinth|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Miokawa Iiyo：</span><br>
 Guess we never stood a chance...<br>
 <span style="color:#ec5d53;">Kakitsubata Nakiri：</span><br>
@@ -949,7 +949,7 @@ Say, if we can't go by air or by sea...<br>
 Then I might have a good solution to the problem...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Matsuri's Plan|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Matsuri's Plan|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 "... Molds." "... Emotions." "... Intimations."<br>
 And...<br>
@@ -1012,7 +1012,7 @@ I suppose this is the best bet we have right now. It's worth a try.<br>
 That settles it! Our objective is to get to Dark Hololive! Let's begin the operation!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dark Hololive|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dark Hololive|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 With everyone's hard work, the huge diamond cross marking the base's entrance was quickly located.<br>
 After much deliberation, Aqua and Shion remained inside the base while the others split up into a forward group and support group.<br>
@@ -1048,7 +1048,7 @@ Well, I was getting tired of sitting around crafting stuff anyway. If you're goi
 (This girl's such a simpleton...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Test of a Soul's Worth|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Test of a Soul's Worth|选项=31|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z23：</span><br>
 "Are you sure about this?" "I don't think you're going to make it." "Hell lies just ahead, all right?"<br>
 What's up with these signs...?<br>
@@ -1086,7 +1086,7 @@ Woah, I don't know what just happened, but she started pulling out inspirational
 Everyone, prepare for battle!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unusual Friendship|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unusual Friendship|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kawakaze：</span><br>
 Her firepower wasn't particularly strong, but...<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -1135,7 +1135,7 @@ Let's continue onward, everyone~ Lead the way, Matsuri. Matsuri?<br>
 The Matsuri over here turned into a statue as well...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Haunted Mansion|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Haunted Mansion|选项=33|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tester?：</span><br>
 Advisor, it seems that the Resistance has traversed the barrier using a different route.<br>
 Oh, and you don't need to bother teleporting these pawns back all the time. I'm the ruler of time and space; as long as I have direct control over the Mirror Sea, I don't need an army...<br>
@@ -1184,7 +1184,7 @@ I'm sorry! Deeply sorry!<br>
 We won't be able to move forward until everyone recovers... Ahahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lava Zone?!|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lava Zone?!|选项=34|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Tokino Sora：</span><br>
 The barrier above us seems to have disappeared.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -1214,7 +1214,7 @@ Well, I don't know how much farther we're going to be able to see...<br>
 But doing something is better than doing nothing.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Enemy Sora|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enemy Sora|选项=35|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Miss Sora?：</span><br>
 Welcome to the observation deck.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -1255,7 +1255,7 @@ It's really going to come down to this, huh? Fine then. Everyone, get ready for 
 Come at me with everything you have. I will not lose here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Combat Guidance?|选项=36|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Combat Guidance?|选项=36|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Miss Sora?：</span><br>
 Ayame, your main guns are far to inaccurate. When attacking, consider the overall balance of your equipment.<br>
 <span style="color:#4eb24e;">Nakiri Ayame：</span><br>
@@ -1328,7 +1328,7 @@ If large numbers of enemies are equipped with these things, we won't stand a cha
 Hmm... we won't have time to slowly look around then...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Roller Coaster|选项=37|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Roller Coaster|选项=37|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tester?：</span><br>
 It looks like the experimental device was a success.<br>
 <span style="color:#ec5d53;">Advisor?：</span><br>
@@ -1379,7 +1379,7 @@ Javelin, take this more seriously! ... The MioShio, huh? Where do I get on this 
 There should be an entrance near the observation deck! I'll go look for it!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Broken Entrance|选项=38|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Broken Entrance|选项=38|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Javelin：</span><br>
 This is the third entrance...<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
@@ -1404,7 +1404,7 @@ If it's not our Shion, then that should be our next hint.<br>
 A Shion clone, then...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Normal Shion?|选项=39|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Normal Shion?|选项=39|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Murasaki Shion：</span><br>
 That's the end of the line for you, imposter! How dare you blow up the roller coaster that I made!<br>
 <span style="color:#ec5d53;">Sh I On：</span><br>
@@ -1438,7 +1438,7 @@ I have something to prove after all! Matsuri, you're so cute! I love you! I love
 EX... PLOSION ! ! ! !<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=0 MP|选项=40|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=0 MP|选项=40|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Sh I On：</span><br>
 C'mon, pay attention when people are talking to you, you grade schooler baby!<br>
 <span style="color:#4eb24e;">Murasaki Shion：</span><br>
@@ -1484,7 +1484,7 @@ I think I can sense some hope now!<br>
 Yep yep, it's still waaay too early to be giving up. There are still other entrances, so let's search other places for them!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The MioShio Coaster|选项=41|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The MioShio Coaster|选项=41|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tester?：</span><br>
 It seems that Resistance brats have discovered an entrance that hasn't been destroyed yet. That's a huge failure, right, Advisor?<br>
 As far as I know, the damaged "pieces" that have taken damage during this time have yet to finish being repaired. What do you plan to do?<br>
@@ -1515,7 +1515,7 @@ THE ROLLER COASTER IS A MILLION TIMES COOLER THAN BEFORE IT BECAME BIGGERRRRRRRR
 (... Okay.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Disaster|选项=42|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Disaster|选项=42|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 We're almost at the last stop.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -1578,7 +1578,7 @@ I... eh, Matsuri?<br>
 Yeup, I think I might have an idea!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=It's Time to Duel!|选项=43|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=It's Time to Duel!|选项=43|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">???：</span><br>
 I'm terribly sorry for bothering you guys when you're all so pumped up, but...<br>
 <span style="color:#4eb24e;">Kawakaze：</span><br>
@@ -1619,7 +1619,7 @@ This is our only option... I'll accept your challenge, Master Detective!<br>
 It's time to duel!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Shadow Duel|选项=44|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shadow Duel|选项=44|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 I send Shion to the Resistance base, place a taunt counter on Purity, and end my turn.<br>
 <span style="color:#4eb24e;">Purity：</span><br>
@@ -1665,7 +1665,7 @@ The mysterious space has dissipated... W-We've won... right?<br>
 For some reason, I'm tired out... Let's hurry to the Hololive headquarters...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Holo Island|选项=45|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Holo Island|选项=45|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tester?：</span><br>
 Hmm, to think that even you would lose... It seems like there really is a limit to using "pieces."<br>
 <span style="color:#ec5d53;">Master Detective Fubuki?：</span><br>
@@ -1722,7 +1722,7 @@ I got it! In other words, this stage was distorted by the Sirens!<br>
 (That's fine too!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Bonds that Connect|选项=46|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Bonds that Connect|选项=46|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z23：</span><br>
 Come to think of it, that "Advisor" person said something about being "the ruler of time and space."<br>
 I thought that was Tester's deal, so why did she...<br>
@@ -1760,7 +1760,7 @@ Mhm! No matter how hard the battle gets, if you think about all your friends - n
 As long as the bond between all of us remains unbroken, we'll definitely find a way to win!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Shadow Eye Blizzard Fox|选项=47|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shadow Eye Blizzard Fox|选项=47|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">DARK FOX BIZZARD：</span><br>
 Hahahah... You're here at last, Resistance. I've been waiting for you. My name is Shadow Eye Blizzard Fox.<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -1829,7 +1829,7 @@ The parents that created us, the staff, and the support of the fans... Everyone 
 Nooooo...!! Curse you, Hololive Resistance...!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=End of Battle|选项=48|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=End of Battle|选项=48|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">DARK FOX BIZZARD：</span><br>
 A-Are you saying that I was mistaken...<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -1880,7 +1880,7 @@ Our path is something that we'll carve out with our own hands!<br>
 Hm~ Well that's fine. Aight, I'll help out a bit as well!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Blowing Up the Headquarters|选项=49|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Blowing Up the Headquarters|选项=49|主框=1|样式=primary|展开=是}}
 <br>
 Finally, the last moments have arrived.<br>
 <span style="color:#4eb24e;">Minato Aqua：</span><br>
@@ -1907,7 +1907,7 @@ Five, four, three, two, one...<br>
 Explosion!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Treating Oneself with Care|选项=50|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Treating Oneself with Care|选项=50|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Purity：</span><br>
 ......<br>
 The headquarters building has been completely blown up, it seems. Was that laugh Aqua's voice?<br>
@@ -1931,7 +1931,7 @@ Tester as well. Tessy? The ruler of time and space? Lame. It wasn't that Purifie
 It's a pain to think about... Sigh... I'm... tired...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Road Home|选项=51|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Road Home|选项=51|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 Purifier went and disappeared at some point.<br>
 <span style="color:#4eb24e;">Tokino Sora：</span><br>

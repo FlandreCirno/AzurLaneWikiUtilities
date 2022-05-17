@@ -1,6 +1,6 @@
 == Inverted Orthant  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Invitation|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Invitation|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Taranto Harbor<br>
 <span style="color:#4eb24e;">Littorio：</span><br>
@@ -45,7 +45,7 @@ Administrator rights have been reassigned.<br>
 Entering sleep mode until further instruction.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Floating Fortress|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Floating Fortress|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Iron Blood domain - Floating Fortress E2<br>
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
@@ -124,7 +124,7 @@ Oh crap! THAT training! Come here, Eisen, we need to hurry to the maintenance ar
 Remember, Platform B3! And don't be late.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Routine|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Routine|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - Platform B3<br>
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
@@ -173,7 +173,7 @@ Time to shine, Eisen! Let's show these Pawns what we're made of!<br>
 Always off before the starting shot, that girl.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Storming the Stronghold|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Storming the Stronghold|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
 Heinrich, do you copy?<br>
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
@@ -188,7 +188,7 @@ Hold. Before you enter battle, first check the Stronghold's Control status so yo
 Roger-dodger!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Conductor|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Conductor|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
 I've spotted the enemy's ambush fleet. It seems our primary target this time is the humanoid-type Conductor.<br>
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
@@ -214,7 +214,7 @@ NO, YOU HALFWIT. Mein Gott... I'm closing the comms channel.<br>
 No need to get angry at me! Geez... Come on, Eisen! Time to turn that Siren into seafood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Fruits of Training|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Fruits of Training|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - Platform B7, maintenance area<br>
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
@@ -248,7 +248,7 @@ I just realized something else! Them being Pawns explains why they fought so fie
 Exemplary observational skills, Watson. Another mystery solved.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Strasser's Whims|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Strasser's Whims|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - B7 to D11 defense line<br>
 <span style="color:#4eb24e;">Weser：</span><br>
@@ -267,7 +267,7 @@ Without her, our hold on the skies weakens too. Word of advice: try not to stray
 I know, I know! Come on, folks, let's keep moving!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mirror Sea|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mirror Sea|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - D11 defense line<br>
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
@@ -319,7 +319,7 @@ That means it's time for us to move to the next area, where Royal Navy Pawns are
 You're the boss! Let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Cause for Concern|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Cause for Concern|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#ec5d53;">King George V?：</span><br>
@@ -358,7 +358,7 @@ You won't ever catch a moment's rest if you worry all the time. I'll pursue some
 Thanks, Weser. I'll repay you later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sudden Visitors|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sudden Visitors|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Open ocean - Unknown coordinates<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
@@ -401,7 +401,7 @@ And like clockwork, here come the Sirens! It seems simply sailing out of here is
 That leaves us with little choice but to fight! Get ready, folks!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=On Guard|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=On Guard|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - Area between D11 and D12 defense lines<br>
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
@@ -443,7 +443,7 @@ Can you try not being hyperactive for once?<br>
 ...C'mon, we've wasted enough time here. Let's hurry it up!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Out of Control|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Out of Control|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
@@ -489,7 +489,7 @@ Understood. Ending communication.<br>
 Yo, Eisen! We're gonna have a real battle on our hands! You ready for this?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unexpected Retreat?|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unexpected Retreat?|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
 The Sakura aircraft broke formation and retreated. Did the routine module of the Pawn malfunction as well?<br>
 It's impossible to track down all of them. Weser, were you able to locate the carrier?<br>
@@ -508,7 +508,7 @@ Strasser, are you planning to...<br>
 Yes, you should already know. Hehehe... We'll see just who is the rightful owner of this research facility...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Takeover|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Takeover|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shoukaku：</span><br>
 Those Iron Blood planes are pretty persistent... Zuikaku, should I keep trying to disrupt their formation?<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -542,7 +542,7 @@ Understood! Just leave it to me!<br>
 I'm counting on you, Shoukaku! Everyone else, get in diamond formation!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sudden Visitors II|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sudden Visitors II|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Near the Iron Blood Floating Fortress<br>
 <span style="color:#4eb24e;">U-37：</span><br>
@@ -609,7 +609,7 @@ You got it! This base was made usin' the very islands in the ocean, and each ind
 But, can't talk too much right now! We'll be in big trouble if we trip the defense system. C'mon, on me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=According to Plan|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=According to Plan|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress C4<br>
 <span style="color:#4eb24e;">Carabiniere：</span><br>
@@ -664,7 +664,7 @@ The training should be wrapping up by now. Z24, Nürnberg, you'll come with me.<
 Now, let's see how high we can score on this training program they've got.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Equipment Issue|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Equipment Issue|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
 Iron Blood and Sardegnian mass-produced ships are coming our way. There'll be no end to them if we don't fix the malfunctioning equipment.<br>
 <span style="color:#4eb24e;">Weser：</span><br>
@@ -685,7 +685,7 @@ Correct. If we couldn't, then I would be ordering everyone to evacuate right now
 Now, to buy ourselves some time to take control back, we need to do a little bit of cleaning.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Going Back|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Going Back|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
 Strasser, do you read me? We're just about to arrive at the coordinates you sent!<br>
 <span style="color:#4eb24e;">Weser：</span><br>
@@ -709,7 +709,7 @@ Right, let's give 'em a call and see for ourselves...<br>
 No response. That about confirms that they're Pawns! Okey-dokey, let's go, Eisen!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Guidance|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Guidance|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#4eb24e;">Nürnberg：</span><br>
@@ -748,7 +748,7 @@ Just do as I say, okay? Focus on not getting hit.<br>
 Leipzig would've keeled over if she was in my shoes... Anyway, understood! We'll do our best!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Misunderstanding|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Misunderstanding|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
 For being Pawns, you sure are evasive... Eisen, fire another shot!<br>
 <span style="color:#4eb24e;">Z24：</span><br>
@@ -782,7 +782,7 @@ Well, we have a plan of our own. You don't need to call Strasser, we'll just tak
 However, you should get in touch with those Sakura Empire girls. Simply tell them we're not Pawns.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Some Adjustment|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Some Adjustment|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - D12 defense line<br>
 <span style="color:#4eb24e;">Weser：</span><br>
@@ -798,7 +798,7 @@ As in: lead the Pawns and mass-produced ships to the designated area, launch the
 Yes, the plan is still the same. This way, we'll see just what these airfield facilities is truly capable of. Hehehe...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Trap|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Trap|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Zuikaku：</span><br>
 Testing, testing. One, two, three... Eugen, do you copy?<br>
 <span style="color:#4eb24e;">Prinz Eugen：</span><br>
@@ -858,7 +858,7 @@ It's time to make them pay for the damage they did to us using that black Wisdom
 They've eluded punishment up to now... but that's about to change. Hehehe...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Wave After Wave|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Wave After Wave|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - D12 defense line<br>
 <span style="color:#4eb24e;">Peter Strasser：</span><br>
@@ -881,7 +881,7 @@ Target: the Pawns and mass-produced ships in D13 that have run amok!<br>
 Fly! Fly, and leave not a single atom of those malfunctioning machines!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Critical Moment|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Critical Moment|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz Eugen：</span><br>
 Well, well, there they are.<br>
 <br>
@@ -914,7 +914,7 @@ Well, if you're sure! Got it!<br>
 Go ahead, Sirens. Make your next move.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breach of Trust|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breach of Trust|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Compiler ：</span><br>
 ...What?!<br>
 The Mirror Sea generator has been destroyed?!<br>
@@ -939,7 +939,7 @@ I put myself at risk so I could come see you in person, and you repay me by tryi
 You're going nowhere.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Coming to Light|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Coming to Light|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - D12 defense line<br>
 <span style="color:#4eb24e;">Z46：</span><br>
@@ -991,7 +991,7 @@ To that end, we request the assistance of our allies... Scratch that, of all fel
 Stop and destroy the Siren mastermind – Compiler!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Warning|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Warning|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
 Eugen! Are you okay? Break any fingernails?<br>
 <span style="color:#4eb24e;">Prinz Eugen：</span><br>
@@ -1051,7 +1051,7 @@ I see... thanks! We owe you one!<br>
 It's none of my concern whether or not you listen to what I just told you, but I would prefer if you took that warning to heart.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Leading the Charge|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Leading the Charge|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
 I've spotted some kind of cockroach Siren! You're the one who ruined the research facility, aren't you!<br>
 <span style="color:#ec5d53;">Compiler ：</span><br>
@@ -1075,7 +1075,7 @@ Anchoring frame. Rebooting defense module. Calibrating output strength. Booting 
 If you're going to put up a fight, come at me! Eisen and I'll take you on any day!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Night Battle|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Night Battle|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 Though she had taken enough firepower to wipe out a fleet of regular mass-produced ships, Compiler's armor didn't have a single scratch on it.<br>
 Heinrich landed a solid coordinated attack with her rigging, but unfortunately... it wasn't enough to have any effect on the barrier produced by Compiler's defense module.<br>
@@ -1122,7 +1122,7 @@ Heinrich, we're here to help!<br>
 The barrier looks like it's about to crumble! Everyone, just a bit more!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cooperation|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cooperation|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#4eb24e;">Weser：</span><br>
@@ -1173,7 +1173,7 @@ U-37, looks like the rest is up to you. Do you think you can stop her in her tra
 I'm already in position! Heheh~ Time to show off what a deep-sea hunter is capable of!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breaking Through|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breaking Through|选项=31|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-37：</span><br>
 Stop right there, Compiler! It's time for a showdown, you and me!<br>
 <span style="color:#ec5d53;">Compiler ：</span><br>
@@ -1209,7 +1209,7 @@ But I didn't even get to land a single torpedo yet, damnit!<br>
 Daaaaamn it———!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Epilogue|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Epilogue|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress E2 - A few days later<br>
 <span style="color:#4eb24e;">Prinz Heinrich：</span><br>
@@ -1239,7 +1239,7 @@ I see. This must indeed be too easy for someone of your caliber. How about somet
 I don't even know what you're talking about anymore!!!!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Shaky Return|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shaky Return|选项=33|主框=1|样式=primary|展开=是}}
 <br>
 Taranto Harbor<br>
 <span style="color:#4eb24e;">Carabiniere：</span><br>
@@ -1267,7 +1267,7 @@ Understood.<br>
 (After all, today's a promising day. I'll have to greet the guest from far away properly.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=What Really Happened|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=What Really Happened|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 Floating Fortress - Day of the Siren attack <br>
 <span style="color:#4eb24e;">Shoukaku：</span><br>
@@ -1313,7 +1313,7 @@ Good. Thank you for your cooperation.<br>
 First, there's someone in the Sakura Empire who I'd like you to give this communicator to——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Inverted Orthant|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Inverted Orthant|选项=35|主框=1|样式=primary|展开=是}}
 <br>
 ???<br>
 <span style="color:#4eb24e;">Communicator：</span><br>

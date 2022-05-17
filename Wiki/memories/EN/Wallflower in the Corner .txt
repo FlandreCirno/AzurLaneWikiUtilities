@@ -1,6 +1,6 @@
 == Wallflower in the Corner  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Fateful Encounter|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fateful Encounter|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Wallflower in the Corner<br>
 <br>
@@ -63,7 +63,7 @@ Isn't it so... poetic?<br>
 Huh? I-56, what are you doing there?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Misunderstandings and Making Friends|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Misunderstandings and Making Friends|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Wallflower in the Corner<br>
 <br>
@@ -115,7 +115,7 @@ Cannonbaaall!<br>
 Eeeek!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Friend?|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Friend?|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Wallflower in the Corner<br>
 <br>
@@ -162,7 +162,7 @@ Crap, crap, crap! I'm going to be late!<br>
 Wh-who is it this time?!?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Let's Go!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Let's Go!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Wallflower in the Corner<br>
 <br>

@@ -1,6 +1,6 @@
 == Winter's Crown  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Opening|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Opening|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Belfast：</span><br>
 It is my pleasure to inform you that we've successfully completed the first part of Her Majesty's supply delivery.<br>
 The second convoy is expected to arrive later this day. Please make the necessary preparations for its arrival.<br>
@@ -31,7 +31,7 @@ Do you not agree that it is our duty as Royal Maids to have faith in Her Majesty
 ... Now, according to our intel, there is a chance that we will encounter moderate Siren opposition on our way home, therefore I urge everyone to remain vigilant! Now, let us set sail!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Home Voyage|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Home Voyage|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Belfast：</span><br>
 (My sister once sailed across this same ocean... It must have been just as freezing back then...)<br>
 <span style="color:#4eb24e;">Sheffield：</span><br>
@@ -46,7 +46,7 @@ All units, enter battle formations! Let us show our enemies the courage of the R
 ... Roger that!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Emergency|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Emergency|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Belfast：</span><br>
 Glory to the Royal Family, and demise to all those that opposite it. God Save the Queen!<br>
 <br>
@@ -63,7 +63,7 @@ Wait just a moment, please, Norfolk. I'm receiving an urgent message from headqu
 ... It seems we will have to take a detour.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hunting Grounds|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hunting Grounds|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Belfast：</span><br>
 We just received a message informing us that the second convoy has been attacked by Iron Blood forces.<br>
 We had already anticipated this, and it would seem that we have a shark on the hook.<br>
@@ -83,7 +83,7 @@ Of course!<br>
 Now then, ladies... It's time to reel in the catch!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interception|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interception|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Scharnhorst：</span><br>
 We meet again, my Royal adversaries. Or should I call you a royal pain in my ass?<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
@@ -96,7 +96,7 @@ Good timing, too! My cannons have been aching for some target practice to warm u
 En garde, you pompous, tea-swigging bastards!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Commence Pursuit|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Commence Pursuit|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 ...<br>
 <span style="color:#4eb24e;">Norfolk：</span><br>
@@ -117,7 +117,7 @@ A reasonable assumption. But if we can't repair quickly, you're intent upon goin
 Those sisters have caused the Royal Navy far too much trouble... We have been given a chance to make them pay, and I will not let it slip by!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Final Blow|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Final Blow|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Scharnhorst：</span><br>
 You saw through my trick, huh... What do you think you, a lone light cruiser, can do to a battleship like me?<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
@@ -128,7 +128,7 @@ I was wrong to call you pompous. If you're going all out, then I too will treat 
 Come at me! I hope you're prepared to be chewed into pieces!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 ...<br>
 <span style="color:#4eb24e;">Belfast：</span><br>
@@ -160,7 +160,7 @@ Warm regards from the fifth ship of the George V-class, Duke of York.<br>
 Fiiiiire!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Destruction|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Destruction|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 ...<br>
 <span style="color:#ff0000;">Scharnhorst：</span><br>
@@ -181,7 +181,7 @@ But that's what's so charming about you...<br>
 ... Auf Wiedersehen, servants of the Royal Family.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interlude|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interlude|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duke of York：</span><br>
 Though her struggle was futile from the beginning, she was a warrior who fought until the very end.<br>
 Sisters of the Royal Navy! The battle against Scharnhorst has ended in victory for us! However...<br>
@@ -210,7 +210,7 @@ And if "she" gets in the way... Ahaha, well, you already know what to do.<br>
 Of course! Oh, I'm going to have so much fun out there! Ahahahahahaha!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=To The North|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=To The North|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 Special Task Force One has arrived at the objective. Rendezvous complete.<br>
 Victorious of the Royal Navy has arrived!<br>
@@ -259,7 +259,7 @@ Target the Siren! Fire at will!<br>
 Hey! Didn't your momma teach you about listening to what people have to say? ...Fine, have it your way. Let's have some fun!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=No Line Through|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=No Line Through|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duke of York：</span><br>
 Report to Headquarters: "30 minutes ago, Special Task Force One encountered the Siren and an unidentified superweapon... Our formation was broken."<br>
 "Though we have managed to regroup, our fleet has already sustained over 40% damage. There is significant risk in continuing 'Operation Tungsten.'"<br>
@@ -281,7 +281,7 @@ Shame, I've always wanted to meet a Prototype, at least once~<br>
 Oh well. I'd better send a message to the Observer~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Operation Tungsten|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Operation Tungsten|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duke of York：</span><br>
 Attention, members of Special Task Force One. Though we may have suffered a setback and lost communication with headquarters...<br>
 The attack from the unidentified superweapon has parted the fog of war, the biggest uncertainty factor in our operation so far. Make use of this opportunity and attack!<br>
@@ -289,7 +289,7 @@ From here, we shall continue "Operation Tungsten!"<br>
 Mobilise all usable carrier-based aircraft, and prepare to launch in 20 minutes time!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Queen of The North|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Queen of The North|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 Why, hello! There you are, Tirpitz!<br>
 <span style="color:#ff0000;">Tirpitz：</span><br>
@@ -307,7 +307,7 @@ Have a look at this souvenir from the Eagle Union! It's a specially constructed 
 I've lost count of how many battles I've had like this... But I will still fight with everything I have!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Frustration|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Frustration|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 ……————<br>
 <span style="color:#ff0000;">Tirpitz：</span><br>
@@ -358,7 +358,7 @@ Message to flagship Duke of York...<br>
 I wonder how far your compassion will get you... I hope to one day find out...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Change Targets|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Change Targets|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duke of York：</span><br>
 Members of Special Task Force One, we have inflicted devastating damage upon Tirpitz. Our combat objectives have nearly been accomplished.<br>
 Due to the intervention of the Sirens, "Operation Tungsten" will conclude prematurely out of safety considerations. All members, prepare to return!<br>
@@ -387,7 +387,7 @@ The shape of that "singularity..."<br>
 Does it not resemble the shape of a Queen's crown?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Code G|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Code G|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Purifier：</span><br>
 Aha, I knew from the very beginning that this is where you'd be~!<br>
 You've caused a lot of trouble for us, you know~ What are even you hoping to achieve, Ms. Prototype? ...Or should I say "Code G"?<br>
@@ -445,7 +445,7 @@ To reward you, I'll beam you full of energy with my little toy here!<br>
 Those are... lasers?! Everyone, watch out!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Epilogue|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Epilogue|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Purifier：</span><br>
 Hahahahaha~! It's been ages since I've had this much fun! The sky really is the limit for the potential of your Wisdom Cubes!<br>
 Listen here! We, the Sirens, are your enemy! We are the big bad meanies who take your oceans as our own! We are the ones who cause all the wars in the world! And don't you forget it!<br>

@@ -1,6 +1,6 @@
 == 月刊漫畫Javelin ==
 {{折叠面板|开始}}
-{{折叠面板|标题=標槍，早安！|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=標槍，早安！|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 月刊漫畫Javelin<br>
 <br>
@@ -11,23 +11,23 @@
 Zzzzzzz……<br>
 <span style="color:#4eb24e;">朱諾：</span><br>
 標槍…標槍！<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 …………朱諾…？<br>
-<span style="color:#4eb24e;">朱诺：</span><br>
+<span style="color:#4eb24e;">朱諾：</span><br>
 快起床了！已經到了要去學校的時間了哦…？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 學校……啊哇哇哇！要遲到了！<br>
 （我的名字叫標槍，是一名在港區就任的再普通不過的J級驅逐艦！）<br>
 （將來的夢想是和指揮官……啊，暫時保密！）<br>
 好！標槍今天也要全力以……呀啊！？<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 「我正在尋找像妳這樣的女孩子喵」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 喵喵…說話了！？<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 「這是預言喵，標槍，妳將會——」<br>
 「在今天遇到命運之人！喵」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 ——！！！<br>
 （指揮喵應該是不會說話的吧？）<br>
 啊，大概是{namecode:98}又做了什麼奇怪的東西吧~<br>
@@ -37,12 +37,12 @@ Zzzzzzz……<br>
 「標槍的故事，仍在繼續——」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=抽屜裡的謎團|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=抽屜裡的謎團|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 月刊漫畫Javelin<br>
 <br>
 二　抽屜裡的謎團<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 對不起我遲到了——！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 標槍，好晚<br>
@@ -52,7 +52,7 @@ Zzzzzzz……<br>
 這是筆記，的說<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 這可不能作為遲到的理由呢……<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 我是說真的啦！遇到了一隻會說話的指揮喵，說著“會遇到命運之人”什麼的！<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 學園七大不可思議要增加到八個了，的說<br>
@@ -65,7 +65,7 @@ Zzzzzzz……<br>
 拉菲也會注意的，遇到了就抓住<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 讓妳們見識一下特型驅逐艦的速度、的說<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 真是的~大家都太較真了啦！<br>
 (奇怪？抽屜裡好像有什麼奇怪的東西……）<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -74,13 +74,13 @@ Zzzzzzz……<br>
 情書…？<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 真虧大家能注意到的說<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 這、這難道是——！<br>
 <br>
 「一封神秘的信件，送到了標槍面前——」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=……奇怪的信？|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=……奇怪的信？|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 月刊漫畫Javelin<br>
 <br>
@@ -93,7 +93,7 @@ Zzzzzzz……<br>
 「願妳得到世界的真實與愛——」<br>
 <br>
 「喵罐　好吃」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 ……這都是什麼？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 本來以為是皇家方舟，看起來似乎也不是<br>
@@ -101,23 +101,23 @@ Zzzzzzz……<br>
 看不出來是誰寫的<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 是封奇怪的匿名信呢……<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 不過，這究竟是什麼意思呢…巨大的鐘、盛放的花又是什麼…<br>
 <span style="color:#4eb24e;">拉菲&{namecode:6}：</span><br>
 問問其他人吧<br>
 問問其他人的說<br>
-<span style="color:#4eb24e;">独角兽：</span><br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
 獨角獸也不是很清楚……<br>
 類似的信…？從、從來沒有收到過哦！？<br>
-<span style="color:#4eb24e;">牙买加：</span><br>
+<span style="color:#4eb24e;">牙買加：</span><br>
 唔，世界的真實…難道寫信的人是“能力者”…！？<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 不可能的。從中感受不到人任何力量的波動！<br>
 <span style="color:#4eb24e;">Z35：</span><br>
 就算是Z36也不會寫這麼中二的文字啦——<br>
 <span style="color:#4eb24e;">Z46：</span><br>
 …確實不是很好理解，但並非無法解讀。<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 真的嘛！？Z46，幫大忙了！<br>
 <span style="color:#4eb24e;">Z46：</span><br>
 首先為了友人的名譽，我可以斷言這個不是齊柏林寫的。<br>
@@ -127,7 +127,7 @@ Zzzzzzz……<br>
 巨大的鐘指的的學院的鐘，盛放的花…考慮到現在的時間，應該可以認定是重櫻移栽過來來的櫻花。<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 意思是“下午4點到中庭的櫻花樹下來”的說？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 ……我、我知道了！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 標槍，fight<br>
@@ -135,7 +135,7 @@ Zzzzzzz……<br>
 「神秘的信，寫信者的真實身份究竟是——」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=標槍，趕赴最後之戰|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=標槍，趕赴最後之戰|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 月刊漫畫Javelin<br>
 <br>
@@ -144,16 +144,16 @@ Zzzzzzz……<br>
 「故事終於來到了最後的戰場——」<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 「終於來了標槍——別以為能從吾之引力之中逃脫喵」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 妳、妳是——！<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 「沒錯，我乃持有模擬再現經由{namecode:37}改造之心智魔方的意識傾向反映機能之力，由妳的心願具象化而生的存在——」<br>
 「指揮喵J是也！喵」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 那封信也是妳送來的吧！<br>
 <span style="color:#4eb24e;">指揮喵J：</span><br>
 「正是。我乃再現妳的內心的期望，將妳的命運之人、妳的思念和心願全部實現的存在！喵」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 呀啊——！<br>
 <span style="color:#ec5d53;">指揮喵J：</span><br>
 「哈哈哈哈哈！打敗我，超越自己吧！喵！否則的話妳的成長將永遠止步於此！」<br>
@@ -171,13 +171,13 @@ Zzzzzzz……<br>
 「怎、怎麼可能——！喵。{namecode:37}大人賦予的強大力量，竟然這麼輕易的就被壓制了——！喵。」<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 標槍，最後一擊！<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 好！——強襲模式展開，切換為最大出力！接招吧！<br>
 <span style="color:#ec5d53;">指揮喵J：</span><br>
 「喵啊啊啊啊啊啊啊啊啊！」<br>
 <span style="color:#4eb24e;">Z46：</span><br>
 …齊柏林，妳看到了嗎。<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 是啊…她們才是——大海之心。<br>
 <br>
 「就這樣，港區的和平被守住了」<br>
@@ -185,7 +185,7 @@ Zzzzzzz……<br>
 「作者：標槍(刪除線)、Z1、聖地牙哥等」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=這是什麼！|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=這是什麼！|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 月刊漫畫Javelin<br>
 <br>
@@ -196,13 +196,13 @@ Zzzzzzz……<br>
 到一半就開始變得亂七八糟了、的說。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 標槍、爛尾了…<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 在漫畫社體驗入社的時候畫了一半，最後部分是其他人完成的啦！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 啊，所以最後才有Z1和聖地牙哥的名字嗎…<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 沒畫完的原因，求詳細。<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 那、那是…因為畫到一半突然不知道要怎麼編下去了…後面就這樣把素描本忘在社團活動室了…<br>
 不知什麼時候就被大家各種補畫完了…<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
@@ -215,7 +215,7 @@ Zzzzzzz……<br>
 {namecode:6}也想要一起畫漫畫的說<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲也要幫忙<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 大家…嗯！下次再一起製作漫畫吧！<br>
 <span style="color:#4eb24e;">全員：</span><br>
 喔！<br>

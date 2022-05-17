@@ -1,6 +1,6 @@
 == Band of Bulins ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Band of Bulins|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Band of Bulins|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Band of Bulins<br>
 <br>
@@ -42,7 +42,7 @@ Today and onwards, the wrench, the drill, and the hammer will be as one – we s
 Then, they embarked on their quest to rid the world of evil. What dangers lay in wait for them? They would soon find out...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Showdown of a Lifetime|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Showdown of a Lifetime|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Finally, after enduring wave after wave of unrelenting attacks, Purifier showed an opening.<br>
 <span style="color:#4eb24e;">Prototype Bulin MKII：</span><br>

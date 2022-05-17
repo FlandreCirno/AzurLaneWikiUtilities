@@ -1,6 +1,6 @@
 == Universe in Unison  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 A light that illuminates the way from up above. A star.<br>
 Sometimes referred to as St. Elmo's fire, other times as Stella Maris, and even as an unnamed guiding light...<br>
@@ -11,7 +11,7 @@ Many stars besides Polaris shine brightly upon the sea. What kinds of hopes and 
 Listen closely, my child. For your story is about to unfold... <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Muse|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Muse|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Port - Exercise Area<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -81,7 +81,7 @@ That's right! Everyone, let's head over to the exercise area!<br>
 All right. Everyone, please follow me.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Brand New Form|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Brand New Form|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Port - Exercise Area<br>
 <span style="color:#4eb24e;">Dido µ：</span><br>
@@ -126,7 +126,7 @@ Of course I'm curious, but this isn't the time to be worrying about that stuff.<
 All right, I'm all ready, let's get started. Muse System exercise, begin!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Warship? Or Idol?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Warship? Or Idol?|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore μ：</span><br>
 Whew... So that's what it feels like.<br>
 <span style="color:#4eb24e;">Illustrious μ：</span><br>
@@ -183,7 +183,7 @@ That sounds like a good idea. We need to look for places we struggle, both in an
 Well, I guess we have a plan now. Let's practice, er... rehearse, some more！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lesson Goals|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lesson Goals|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Tashkent μ：</span><br>
 (I think I've figured it out. The problems each member has.)<br>
 (Baltimore worries that she's out of place, because she's not cute enough to be an idol.)<br>
@@ -224,7 +224,7 @@ I can help ask around with the Royal Navy girls as well.<br>
 Thanks, you'd both be doing us a huge service. All right, let's head out!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Survey on Idols|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Survey on Idols|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The girls have begun preparing for the competition, also called the Muse System joint exercise...<br>
 <span style="color:#4eb24e;">Baltimore μ：</span><br>
@@ -299,7 +299,7 @@ Miss Illustrious, could you be the center of our unit?<br>
 All right! Let's practice one more time.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Mystery|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Mystery|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Albacore μ：</span><br>
 Whewie... I never expected the choreography I came up with to be this tiring...<br>
 <span style="color:#4eb24e;">Dido µ：</span><br>
@@ -340,7 +340,7 @@ All we can do now is focus on the lesson at hand.<br>
 That's right. Come on everyone, once more!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Setting the Stage|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Setting the Stage|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Illustrious μ：</span><br>
 Become a star, and sing a song of love and peace~<br>
 <span style="color:#4eb24e;">Baltimore μ：</span><br>
@@ -373,7 +373,7 @@ And tomorrow... let's give it our all!<br>
 Yeah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mysterious Rivals|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mysterious Rivals|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 While Baltimore and the others were preparing for the competition...<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -405,7 +405,7 @@ Hmm...<br>
 Sister, please show everyone the majestic elegance of Iris.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Competition, Commence!|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Competition, Commence!|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 To think that it's already that time of year again! The long-awaited live competition, right here in our port! This is Akashi, and I'll be your host for tonight, nya!<br>
 This time, not only are new idol groups participating, but there will also be multiple units fitted with the Muse System, nya!<br>
@@ -469,7 +469,7 @@ Everyone, it's almost time to get ready.<br>
 Yeah. Let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Entrance of a Saint|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Entrance of a Saint|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Competition Area<br>
 <span style="color:#4eb24e;">Baltimore μ：</span><br>
@@ -507,7 +507,7 @@ Everyone, be careful. This Le Malin is different from usual...!<br>
 Understood...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tiebreaking Encore|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tiebreaking Encore|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 SHWIIING!<br>
 <span style="color:#4eb24e;">Tashkent μ：</span><br>
@@ -553,7 +553,7 @@ It seems we have no choice. We need to use our trump card already.<br>
 Malin! Just one more song, and you'll be done! We have a box of Dunkerque's pastries waiting for you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sentimental Power|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sentimental Power|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Le Malin μ：</span><br>
 *pant*... *pant*... I think... this is it for me... Oof!<br>
 <span style="color:#4eb24e;">Illustrious μ：</span><br>
@@ -586,7 +586,7 @@ Huh? Wait a minute, aren't you...?<br>
 (Yes, I am truly in a league of my own! Oh, my Commander, come my time to perform, I shall prove it to you!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Guidance from Polaris|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Guidance from Polaris|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Welcome back, nya! We now return to our Muse System test run and conveniently coinciding idol showdown, nya!<br>
 The crowd's excitement is through the roof after the dazzling show our participants have put on so far, nya! Let's have a closer look, nya!<br>
@@ -634,7 +634,7 @@ The latter: their unwavering will to fight for the one they love more than anyth
 What about you, Astrum? What passion drives you?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=That Which Connects Us|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=That Which Connects Us|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Emotion. The thread that creates a song sung for one's family. The bond between lifelong friends.<br>
 This thread does not need a weaver, for the heart produces it naturally, spool after spool, simply through contact with others.<br>
@@ -705,7 +705,7 @@ We're ready. Let's get this show on the road.<br>
 For Master, and my fellow troupe members, I shall perform with all my heart!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Emotions Unleashed|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Emotions Unleashed|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gascogne μ：</span><br>
 High Muse System power output confirmed. Advancing to next ordnance test phase.<br>
 <span style="color:#4eb24e;">Admiral Hipper μ：</span><br>
@@ -728,7 +728,7 @@ I will sing with as much feeling as possible! For Master's sake!<br>
 Now this is more like it! No holds barred, let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Towards the Crescendo|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Towards the Crescendo|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 Port - Among the crowd<br>
 <span style="color:#4eb24e;">Ping Hai：</span><br>
@@ -758,7 +758,7 @@ Or will it be Roon and Taihou, the Verheerender duo, who have already made it to
 Let us find out, nyaaaaaa!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Madly in Love|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Madly in Love|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 I am a warship, brought to life for the purpose of sinking those that stand in my way<br>
 A warship I am, brought into this world for the purpose of reaping my own kin<br>
@@ -807,7 +807,7 @@ Yes. Only one thing awaits whatever or whoever stands in our way...<br>
 DESTRUCTION!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Final Countdown?|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Final Countdown?|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 *knock knock*<br>
 Office - Some time prior to the second Muse System trial<br>
@@ -851,7 +851,7 @@ Sorry, Taihou, but we've got this in the bag! We can still team up after we beat
 No! Not now, not ever! Now onto the final stage!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Final Stage|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Final Stage|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Venue<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
@@ -915,7 +915,7 @@ Everyone together now! Let's sing for all the world to hear!<br>
 Let's do it!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Universe in Unison|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Universe in Unison|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Port - Academy<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -951,7 +951,7 @@ What do I propose? Well, something to do with music, stars, and everyone dancing
 Roon has a point. We should brainstorm a title with a nice ring to it.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Azure Legacy|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Azure Legacy|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Location unknown - Time unknown<br>
 <span style="color:#ec5d53;">Observer ：</span><br>

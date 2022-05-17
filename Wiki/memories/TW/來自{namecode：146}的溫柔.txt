@@ -1,6 +1,6 @@
 == 來自{namecode:146}的溫柔 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=秘書艦{namecode:146}|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=秘書艦{namecode:146}|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>
@@ -33,7 +33,7 @@
 那麼，從今天起，就要有好~多時間要在一起了哦！請多指教，指揮官~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=喜歡女孩子？|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=喜歡女孩子？|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>
@@ -62,7 +62,7 @@
 港區又度過了和平而充實的一天。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=奇妙的緣分|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=奇妙的緣分|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>
@@ -114,19 +114,19 @@
 真是的，請不要說這種會讓指揮官誤會的話啦！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=信賴的取材班|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=信賴的取材班|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>
 四　信賴的取材班<br>
 港區·港口<br>
 早晨，和秘書艦{namecode:146}來到街上進行巡視。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 唉，最近能報導的事件越來越少…記者的工作都要幹不下去了<br>
 哪裡都找不到新聞的感覺真的是糟透了……<br>
 <br>
 {namecode:55}痛苦的搖了搖頭。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 實在不行，只能靠我自己去搞個大新聞了！<br>
 <span style="color:#4eb24e;">{namecode:146}：</span><br>
 嗯？那不是{namecode:55}醬嘛？她好像有些煩惱呢，指揮官請等我一下，我跟她說點事情。<br>
@@ -134,17 +134,17 @@
 {namecode:146}快步走上前，向她打了招呼。<br>
 <span style="color:#4eb24e;">{namecode:146}：</span><br>
 {namecode:55}醬~看起來妳又缺乏靈感了呀？<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 是{namecode:146}啊，妳有好點子？難不成是連我都不知道的超級爆料嗎？<br>
 <span style="color:#4eb24e;">{namecode:146}：</span><br>
 嘿嘿嘿，其實嘛~如此如此……這般這般<br>
 <br>
 {namecode:146}跟{namecode:55}說起了悄悄話<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 哦哦哦哦哦！原來還可以這樣，{namecode:146}妳真是個天才！<br>
 <span style="color:#4eb24e;">{namecode:146}：</span><br>
 {namecode:55}醬，噓！要保密哦！<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 哦哦哦，原來指揮官在偷聽呀！了解了解！那麼，之後等指揮官不在的時候求詳細！哈哈哈。<br>
 說完，{namecode:55}便飛快的跑開了。<br>
 <br>
@@ -153,7 +153,7 @@
 嗯？我和{namecode:55}醬說了什麼？是可愛的女孩子之間的小秘密，不能告訴指揮官哦！哈哈~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=加班夜！|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=加班夜！|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>
@@ -194,7 +194,7 @@
 說到這，和{namecode:146}相視一笑，隨後，各自投入了緊張的工作之中。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=獸耳娘們的茶會|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=獸耳娘們的茶會|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>
@@ -243,7 +243,7 @@
 就這樣安靜地享受了一個美妙而治癒的下午<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=今後也請多多關照！|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=今後也請多多關照！|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 來自{namecode:146}的溫柔<br>
 <br>

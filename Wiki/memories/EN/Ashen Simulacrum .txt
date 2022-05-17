@@ -1,6 +1,6 @@
 == Ashen Simulacrum  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Arrival|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Arrival|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Faster...<br>
 Faster, faster, faster...<br>
@@ -74,7 +74,7 @@ If I have to sink, I want to be with the others... <br>
 Why... must war always be like this...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Counterattack|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Counterattack|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 What... just happened...? Baltimore? Victorious?<br>
 Apparently, Newport City was attacked by Sirens shortly after we arrived. I had lost consciousness during the turmoil...<br>
@@ -93,7 +93,7 @@ Besides, if they're going to attack us on our home soil, then we'll have to give
 That's all I have to say. Commander, please issue the orders for our counterattack!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rescue|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rescue|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 We've located Hornet and the Siren fleet!<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -104,7 +104,7 @@ I understand your burning desire to protect your country, but don't go leaving m
 Commander, we've got to hurry as well!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Engagement|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Engagement|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Not on my watch!<br>
 Return to the depths you crawled out of—!!!<br>
@@ -130,7 +130,7 @@ The fiercer the battle up here, the safer things are in the back. How could I re
 That decides it then. We'll make the Sirens atone for their sins in blood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Signal|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Signal|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 You're finished...!<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -163,7 +163,7 @@ Requesting immediate aid from any nearby fleets.<br>
 Repeat: requesting immediate——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Long Island Line - Part 1|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Long Island Line - Part 1|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union - NY City Coastal Waters<br>
 <span style="color:#4eb24e;">Juneau：</span><br>
@@ -205,7 +205,7 @@ C'mon, then. Since evacuations are already done, let's get to the front lines an
 Y-yes! Atlanta-class light cruiser, Juneau, sortieing!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Long Island Line - Part 2|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Long Island Line - Part 2|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Birmingham：</span><br>
 Something isn't right... That was too easy.<br>
 What were they thinking, sending such small numbers? This is still the headquarters' defensive line...<br>
@@ -225,7 +225,7 @@ Purifier...<br>
 Juneau, we need to retreat to the harbor! We cannot defeat this Siren on our own!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Burning of the Line|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Burning of the Line|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union - NY Harbor Combat Zone<br>
 NY Harbor is the largest naval base in the Eagle Union, complete with cutting-edge equipment and auxiliary facilities.<br>
@@ -246,7 +246,7 @@ How can this be... Commander, what should we do?<br>
 Bastards... Unforgivable...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Convergence|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Convergence|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Dewey：</span><br>
 Farragut-class destroyer, Dewey, reporting for duty!<br>
 <span style="color:#4eb24e;">Aylwin：</span><br>
@@ -277,7 +277,7 @@ V-Victorious! We received a transmission from Juneau and Birmingham, informing u
 Commander, we should go save them!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Delay|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Delay|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Birmingham：</span><br>
 Damn it... Is this really the end?<br>
 <span style="color:#4eb24e;">Juneau：</span><br>
@@ -310,7 +310,7 @@ Aha~ Bingo! You showed up right on schedule, just like Observer predicted~<br>
 The lead actors haven't assembled yet... but you chumps are going to get front row seats!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Purifier Defeated|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Purifier Defeated|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 Guh...! There's no armor that won't split open eventually! Let's see your insides!<br>
 <span style="color:#ec5d53;">Purifier：</span><br>
@@ -338,7 +338,7 @@ I felt confident leaving the cleanup work in the hands of Juneau and the others.
 However, Purifier's words weighed heavily upon my mind. What did she mean by "lead actors?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=NY HQ - Part 1|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=NY HQ - Part 1|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union - NY Harbor, at about the same time<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
@@ -373,7 +373,7 @@ We won't have as many escorts as we'd normally like, but where there's a will, t
 Let's get going! We'll show those Sirens what happens when you mess with the Eagle Union!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=NY HQ - Part 2|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=NY HQ - Part 2|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Phew... No more Siren signals on the radar. Sister Sara wins again~!<br>
 <span style="color:#4eb24e;">Langley：</span><br>
@@ -396,7 +396,7 @@ It's so close, but there's no reading from the radar?!<br>
 (... Enterprise?!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Test|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Test|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union - Outside NY Harbor, present<br>
 <span style="color:#4eb24e;">Victorious：</span><br>
@@ -425,7 +425,7 @@ Run your mouth all you want, but I have my convictions.<br>
 Justice is simple enough ⁠— it's about using your power to protect your loved ones!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Stage|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Stage|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 Gah...! My 8-inch guns aren't enough to penetrate her armor...!<br>
 <span style="color:#ec5d53;">Tester：</span><br>
@@ -528,7 +528,7 @@ But let me warn you, you must keep moving forward...<br>
 ... and never look back.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Assembly|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Assembly|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 <br>
 <br>
@@ -585,7 +585,7 @@ Everyone, I wish you the best of luck.<br>
 '''''<span style="color:black;">选择项1：Operation Somers shall now commence!</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Front Lines|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Front Lines|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 Six... Seven, no, even more Sirens are closing in on us!<br>
 <span style="color:#4eb24e;">North Carolina：</span><br>
@@ -599,7 +599,7 @@ Heh, doesn't matter who stands in my way, I'll blow 'em all away!<br>
 Heh! Sister Sara's ready to give 'em some hell too!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Puppet|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Puppet|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 There's a lot of them, but they're merely production-type models.<br>
 We haven't even seen a single humanoid-type Siren, let alone an elite...<br>
@@ -617,7 +617,7 @@ Victorious's strange obsession aside, it's always disconcerting to have to aim y
 The other fleets have been proceeding as planned. Let's not waste time here.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Song?|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Song?|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Baltimore?：</span><br>
 ……<br>
 <span style="color:#4eb24e;">Victorious：</span><br>
@@ -645,7 +645,7 @@ Ah, Commander, perhaps you've been bewitched by a Siren's song? In that case, Sa
 For their sake, I can endure much more than this.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Third Fleet - Part 1|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Third Fleet - Part 1|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Bermuda Triangle - Essex Fleet Combat Zone<br>
 <span style="color:#4eb24e;">Shangri-La：</span><br>
@@ -674,7 +674,7 @@ As an Essex-class, I can't afford to lose...<br>
 Especially not to you Sirens!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Third Fleet - Part 2|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Third Fleet - Part 2|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Essex：</span><br>
 All right, we're finally done here.<br>
 <span style="color:#4eb24e;">Shangri-La：</span><br>
@@ -696,7 +696,7 @@ Sirens... what in the world are they...?<br>
 But right now, we'll stick to the original plan and make our way towards the middle!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Clandestine Mission|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Clandestine Mission|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Bermuda Triangle - Combat Zone<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -727,7 +727,7 @@ I don't like the feeling of this... My skin's beginning to crawl...<br>
 The other fleets should be joining up with us shortly. Everyone, let's push forward carefully!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Enemy|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Enemy|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 Ugh... Just when I thought they couldn't get any more tasteless...<br>
 They're even sending a fake Hornet at us...<br>
@@ -746,7 +746,7 @@ And its only purpose is to bring harm to our loved ones. I won't hesitate for ev
 Enterprise, preparing for combat!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Déjà Vu|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Déjà Vu|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 It's over.<br>
 ... ... ...<br>
@@ -793,7 +793,7 @@ Ahead of us is the singularity, the point in the ocean where all the anomalous w
 We'll have our answers soon enough.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Fourth Fleet - Part 1|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Fourth Fleet - Part 1|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 Bermuda Triangle - Baltimore Fleet Combat Zone<br>
 <span style="color:#4eb24e;">Charles Ausburne：</span><br>
@@ -834,7 +834,7 @@ That's the spirit! Come, my partners of justice, and we'll take down the evil Si
 Justice always prevails!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Fourth Fleet - Part 2|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Fourth Fleet - Part 2|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 Take THIS, you dirty impostor!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
@@ -864,7 +864,7 @@ Indeed. We're about to break through into the objective area, so let's take a mo
 Destroyers, stay behind and be on alert. Everyone else will keep advancing!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Eye of the Storm|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Eye of the Storm|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">？？？：</span><br>
 This is not what was meant to happen! They are people with souls, just like us!<br>
 You see these monsters, one of which could singlehandedly annihilate the entire 2nd Fleet, as "people"?!<br>
@@ -890,7 +890,7 @@ They must be our unwelcome welcoming party...!<br>
 Everyone, prepare for combat! We're about to break through!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mysterious One|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mysterious One|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">？？？：</span><br>
 ... ... ...<br>
 Why did you come here?<br>
@@ -902,7 +902,7 @@ And now, following the Winter's Crown incident, you once again seem to be involv
 ... Just who are you, exactly?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ember|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ember|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Washington：</span><br>
 There you are! You beat my ass hard last time, but that ain't gonna happen again!<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -960,7 +960,7 @@ I am Ember. I am residue, born from an exhausted flame. But my resentment of hum
 Come! I shall appraise the strength of you beings from this timeline!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Triumph?|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Triumph?|选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 Sh-she's strong...!<br>
 <span style="color:#ec5d53;">？？？：</span><br>
@@ -1060,7 +1060,7 @@ I guess that means the operation was a success! C'mon, Commander! Let's get ever
 (That second ship doesn't look like she's from the Sakura Empire... but if she is...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Journey Home|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Journey Home|选项=31|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Sweet, finally! Time to go home!<br>
 <span style="color:#4eb24e;">Victorious：</span><br>
@@ -1111,7 +1111,7 @@ Commander... have you thought about what you'll do once this war is over?<br>
 '''''<span style="color:black;">选择项1："Of course. I would..."</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sandbox|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sandbox|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 Explosions echo across the ocean.<br>
 Traces of gunpowder, flames, wrecks, and destruction.<br>
@@ -1141,7 +1141,7 @@ You have neither the power nor the authority to stop me ever again.<br>
 Get lost.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题="Moby Dick"|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题="Moby Dick"|选项=33|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">？？？：</span><br>
 ... Out of the way, Zero.<br>
 <span style="color:#4eb24e;">Observer Zero：</span><br>

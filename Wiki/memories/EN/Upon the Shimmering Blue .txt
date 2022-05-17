@@ -1,6 +1,6 @@
 == Upon the Shimmering Blue  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Iron Blood's Invitation|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Iron Blood's Invitation|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Sakura Empire Encampment<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
@@ -68,7 +68,7 @@ Finally... It's time to spring the next step of the plan into action.<br>
 "I see. In that case, I'll take a short nap. Wake me when it's time..."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Directionally Challenged?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Directionally Challenged?|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Katsuragi：</span><br>
 My, Lady Shinano's estate is every bit as extravagant as you'd expect from someone of her standing! But I wonder... Is this really the right address?<br>
 <span style="color:#4eb24e;">Chikuma：</span><br>
@@ -192,7 +192,7 @@ Y-yes, she has... Err, out of sheer excitement to meet you, Lady Shinano! Anyway
 Very well... As it stands, I'm already quite... sleepy...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Palace on the Sea|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Palace on the Sea|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Sakura Empire Escort Fleet<br>
 In the shimmering sunlight, a petite girl dexterously darted across the cerulean hues of the water's surface, her bunny ears bouncing along with the waves.<br>
@@ -235,7 +235,7 @@ Shimakaze, go give it a quick look, would you? And don't get lost this time!<br>
 Wait, there is?! All right then! I'll be back before you know it!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Onset of Peril|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Onset of Peril|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 As the party approached the island, a huge building towered above the water.<br>
 In front of them was a lavish castle with pristine white walls, waterways flowing from a central spire like roads of cascading blue.<br>
@@ -271,7 +271,7 @@ Oh, don't be such a stick in the mud! This is your best shot to earn Lady Shinan
 ...You make a very strong case, Katsuragi! On second thought, I'm going with you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Glimpses into a Dream|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Glimpses into a Dream|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">???：</span><br>
 Um, Shinano, I have to ask you something first. What do you think of the commander?<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -335,7 +335,7 @@ If so... Then very well! Chikuma and I shall join up with the vanguard fleet!<br
 (Ugh... I've got SUCH a bad feeling about this...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sinking|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sinking|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Outer Ring<br>
 <span style="color:#4eb24e;">Umikaze：</span><br>
@@ -403,7 +403,7 @@ That would appear to be the case... Suruga, Yura, we'll have to enter this Drago
 (I knew it, I knew it! Why'd I even bother trying to fool myself into thinking that nothing would happen?!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Race to the Heart|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Race to the Heart|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Shortly afterwards...<br>
 <span style="color:#4eb24e;">Chikuma：</span><br>
@@ -470,7 +470,7 @@ Aye... aye?<br>
 Let's get moving, Team Chikuma.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mass-Production Machine|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mass-Production Machine|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Katsuragi：</span><br>
 My planes have already finished scouting out this area. Now onto this path!<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -507,7 +507,7 @@ Great! I appreciate it, Katsuragi!<br>
 All righty then, it's time to go fast!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Brave the Waves!|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Brave the Waves!|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Shimakaze darted between the enemy mass-produced ships, skillfully avoiding the increasingly tumultuous waves as she made her way to the Heart of the Dragon Palace.<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -528,7 +528,7 @@ Shimakaze, stand back! It's time for some aircraft-delivered fireworks!<br>
 Oh, of course. You're up, Katsuragi!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Seals of the Dragon palace|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Seals of the Dragon palace|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 The seal around the mechanism dissipated under a fiery onslaught from Katsuragi's planes.<br>
@@ -565,7 +565,7 @@ O-of course not! What's the point of asking? Let's hurry up and keep moving!<br>
 Otherwise, we're going to fall behind Team Chikuma! Shimakaze, I'll be counting on you to scout ahead!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Onward!|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Onward!|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Outer Ring<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -598,7 +598,7 @@ All right then, let's keep moving forward and keep our eyes peeled for any other
 (I don't want to do this, but I don't really have a choice...!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Defense System?|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Defense System?|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Yura：</span><br>
 You know, this place really does look just like the Dragon Palace from our legends...<br>
 <span style="color:#4eb24e;">Chikuma：</span><br>
@@ -618,7 +618,7 @@ But first, it seems like we've got company... Everyone, be careful!<br>
 Now then, let's get through this little puzzle~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Immovable Sentinels|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Immovable Sentinels|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#4eb24e;">Yura：</span><br>
@@ -647,7 +647,7 @@ If you want to try leading the team, I'd be glad to pass that role to you any ti
 I'm flattered, but err, I think things are better this way!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Getting Closer|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Getting Closer|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Suruga and her allies continued to press forward, neutralizing the mechanisms identified by Chikuma's "eyes" while fending off any enemies in the way.<br>
 Though they struggled to eliminate the extremely durable mass-produced ships, they continued to make progress, slow and steady.<br>
@@ -675,7 +675,7 @@ Let's bust our way out of here, finish our mission, and then go back home alread
 Gaaah! Forget it, let's just keep going.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Underwater Wonder|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Underwater Wonder|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Middle Ring<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -724,7 +724,7 @@ Ugh, I don't even want to think about it! Everyone, be very cautious when using 
 Actually, no firearms at all, zip, nada, zilch! We need to get out of here, fast!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sea of Flames|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sea of Flames|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Katsuragi：</span><br>
 You've gotta be kidding me... Darn it, darn it, darn it!!<br>
 <span style="color:#4eb24e;">Yamakaze：</span><br>
@@ -763,7 +763,7 @@ Do you have eyes?! Everything's still on fire!<br>
 Fiiiiine, if you say so...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Things of the Past|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Things of the Past|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 Sakura Empire<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
@@ -833,7 +833,7 @@ Last thing I heard, there was some battle against the Sirens shortly after comin
 Right. PH Harbor would probably be my best guess, along with that "Black Dragon."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Cry for Help|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Cry for Help|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Outer Ring<br>
 Suruga's group made their way to a building with a mechanism while avoiding the barrages of the mass-produced ships.<br>
@@ -861,7 +861,7 @@ Huh, I didn't expect other people to also get caught up in this mess.<br>
 Whoever it is, Suruga, let's go help them!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Another Victim|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Another Victim|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 After breaking the seal, the party blasted their way through the building's entrance.<br>
 Inside, they found...<br>
@@ -926,7 +926,7 @@ Woah! Yamakaze, don't just go running off on your own!<br>
 Ugh... Is anyone actually taking this seriously? Let's keep moving, I guess...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Straight Line|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Straight Line|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chikuma：</span><br>
 Based on what Shimakaze's told us, the only way to break these seals is to either destroy or solve the puzzle mechanisms.<br>
 And if you want to destroy the mechanisms, you'll have to get through these almost impenetrable enemies to get into the right position.<br>
@@ -957,7 +957,7 @@ Just give me a moment. Hmm... That should work, yes?<br>
 Hmm... I wonder if you guys should stand a bit farther back just in case~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rolling Thunder|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rolling Thunder|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Prinz Eugen：</span><br>
 Odin, are you done charging?<br>
 <span style="color:#ffd000;">Odin：</span><br>
@@ -994,7 +994,7 @@ That's only something we can do once, and it's only made possible by taking adva
 In other words, I've already played all my cards. You'd better hurry up, or that Shimakaze girl is going to leave you in the dust~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hidden Treasure|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hidden Treasure|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Outer Ring<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -1043,7 +1043,7 @@ Thanks for the backup, Prinz Eugen! With this barrier, we won't have any problem
 ...Owwie! But, my speed... knows no limits!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Crossfire|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Crossfire|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Middle Ring<br>
 <span style="color:#4eb24e;">Yamakaze：</span><br>
@@ -1097,7 +1097,7 @@ That's right, Suruga! I'm a fast learner, so I'm sure I'll get it if you show me
 Ahhhh! That's foul play! Fine, fine, I'll get going!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Inner Ring|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Inner Ring|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 Dragon Palace - Inner Ring<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -1112,7 +1112,7 @@ All right, but don't let your guard down, Katsuragi! The enemy is still here!<br
 Who are you accusing of letting her guard down? Hmph! Any enemies that dare get in the way of this full-fledged aircraft carrier are going to get blown away in a single shot!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Regeneration|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Regeneration|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chikuma：</span><br>
 Shimakaze, we're about to arrive at the Heart. How are you faring?<br>
 <span style="color:#4eb24e;">Shimakaze：</span><br>
@@ -1158,7 +1158,7 @@ Suruga, you and the others can stay here. I'll go bring back your cute little fr
 Yes, I'd appreciate the help, Miss Eugen! Thank you too, Suruga!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Into the Heart|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Into the Heart|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Prinz Eugen：</span><br>
 Shimakaze, did you already take care of the enemies?<br>
 <span style="color:#4eb24e;">Katsuragi：</span><br>
@@ -1185,7 +1185,7 @@ Maybe it's just a Siren noisemaker then? ...Hehe, you'd prefer that over some st
 All right then, let's group up in front of the gate and head into the Heart together.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hakuryuu's Descent|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hakuryuu's Descent|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 The surface of the water surrounding the Heart was as clear as a mirror, reflecting the figures of the Palace's guests.<br>
 It was calm. Too calm. The party was filled with suspense as it prepared for the decisive battle that was about to unfold.<br>
@@ -1292,7 +1292,7 @@ You tell her, Suruga! Show her who's boss!<br>
 If you think you can just cheer me on from the sidelines, think again! Get over here and help!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Activating the Mechanisms|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Activating the Mechanisms|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOOM!<br>
 <span style="color:#4eb24e;">Suruga：</span><br>
@@ -1319,7 +1319,7 @@ Get out of there at the first sign of danger! Got it?!<br>
 Got it!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Treasure of Verdant Gales |选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Treasure of Verdant Gales |选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:18}：</span><br>
 This looks like the pedestal of rejuvenation! We'll start off with this one!<br>
 What the... It's a lot harder to see once you get close to it...!<br>
@@ -1338,7 +1338,7 @@ Well... my friends! They're fighting for dear life right now, and I'm doing this
 I-is that all I had to do...? All right, thank you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Treasure of Azure Vortexes |选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Treasure of Azure Vortexes |选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:18}：</span><br>
 This pedestal's totally new... But it should work the same way as the rest...!<br>
 It HAS to work... Okay, this goes there... Now this...<br>
@@ -1358,7 +1358,7 @@ That's what I've always believed!<br>
 Thank you! We'll meet again at the next pedestal!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Treasure of Scarlet Flames |选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Treasure of Scarlet Flames |选项=31|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:18}：</span><br>
 Umm, Ms. Disembodied Voice? I'm ready for the next question!<br>
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
@@ -1372,7 +1372,7 @@ And to do this, I need the Palace's powers! Please, give me your strength!<br>
 "Very well. The treasure is yours. Please proceed to the next pedestal."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Treasure of White Waves |选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Treasure of White Waves |选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Mysterious Voice：</span><br>
 "Answer me this final question..."<br>
 "..."<br>
@@ -1400,7 +1400,7 @@ I-I'm all ears!<br>
 "Now go. Return to your friends and use the treasures' power to save them!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Upon the Shimmering Blue|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Upon the Shimmering Blue|选项=33|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chikuma：</span><br>
 What's this? ...My wounds are all healing up?<br>
 Is this the same mechanism that was causing Shimakaze's team so many problems earlier...?<br>
@@ -1530,7 +1530,7 @@ Suruga, we're making our stand here! Buy her as much time as possible!<br>
 If Shimakaze can activate that mechanism, we'll surely have an opening!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Companion|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Companion|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Sakura Empire...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
@@ -1576,7 +1576,7 @@ Indeed. I wish you the best of luck.<br>
 Thank you for everything you've done...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chaos|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chaos|选项=35|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Sakura Empire, months later...<br>
 <span style="color:#ffd000;">Prinz Eugen：</span><br>

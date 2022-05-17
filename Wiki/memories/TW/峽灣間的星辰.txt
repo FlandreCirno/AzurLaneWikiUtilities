@@ -1,6 +1,6 @@
 == 峽灣間的星辰 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=序·鐵血的行進|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=序·鐵血的行進|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z21：</span><br>
 為什麼我們非要來這種地方執行任務啊！<br>
 <span style="color:#4eb24e;">Z18：</span><br>
@@ -34,7 +34,7 @@ Z21，不要抱怨了，已經到了目標海域，妳是隊長，按照規定�
 別說傻話。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=序·鐵血的駐守|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=序·鐵血的駐守|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z18：</span><br>
 我回來了！<br>
 呼，真是累死我啦。峽灣的那一邊什麼都沒有哦……<br>
@@ -66,48 +66,48 @@ Z2還是老樣子冷淡欸，完成了任務應該開心點嘛。<br>
 是！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=皇家的入場|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">猎人：</span><br>
+{{折叠面板|标题=皇家的入場|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">獵人：</span><br>
 呼，不愧是北極圈，雪好大，白茫茫一片……<br>
 不過，在無邊的冰原上打獵，好像也挺有趣的。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 妳在說什麼傻話，獵人，我們可是身負任務而來的，可沒有時間讓妳去和北極熊做遊戲。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 勇敢，不要激動，這我還是知道的……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……唔，不好意思，我也稍微有些緊張，想到是H級的大家共同參與的作戰就……<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 嗯…勇敢妳總是把神經繃得太緊了。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 好吧…但是！我還是覺得在作戰時不集中精神是不好的。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 好吧……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 咳咳，總之，急性、浩劫、敵意也已經就位了，我在這邊複述一遍任務吧。<br>
 根據情報，鐵血已經先我們一步佔領了納爾維克，我們H級的任務是作為先頭部隊攻入港口，探明敵人配置情況，並儘可能對敵人造成打擊。<br>
 而各位也知道，前天，螢火蟲遭遇了鐵血的希佩爾將軍號，發現對方前往納爾維克的艦隊。昨天，我們也跟隨聲望小姐在納爾維克附近和沙恩姐妹交手……這可能會是一次艱鉅的任務。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 不會的。希佩爾將軍號被螢火蟲重創，沙恩姐妹和聲望小姐交手後逃離的方向也不是納爾維克方向……<br>
 鐵血的大型艦船有限，她們應該不會在這裡投入全部力量……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 妳是說，對手會是鐵血驅逐？<br>
 唔，確實……螢火蟲在和希佩爾將軍號交手前也是先和兩艘鐵血驅逐級交手過，我們要面對的，恐怕也是她們吧。不愧是獵人，這樣分析下來，感覺安心了很多呢！<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 只是獵人要對獵物有所了解而已……而且，我也不確定。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 沒事，這種程度的推斷已經足夠了。<br>
 不過…在和希佩爾將軍號作戰時，螢火蟲以自己重傷的代價換來了對方的撤退……<br>
 希望各位也能像她一樣，發揮我們皇家海軍的英勇傳統，無論面對什麼樣的敵人，都不要輕易退縮。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 螢火蟲啊…那個傢伙應該只是和往常一樣，沒想那麼多而已……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 但她這次的表現確實值得敬佩，不是嗎？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 嗯，回去後，慰問她一下。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 嗯，總之，該收起妳那副沒精打采的樣子了，獵人。<br>
 前面就是奧福特峽灣，鐵血也知道我們一定會來，不會不設防的。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 好吧。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 這才像樣。那麼，趁著天還沒亮，目標納爾維克，H級驅逐，出動！<br>
@@ -115,38 +115,38 @@ Z2還是老樣子冷淡欸，完成了任務應該開心點嘛。<br>
 是！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=戰前的“悠閒”|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=戰前的“悠閒”|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">勇敢：</span><br>
 幸好風雪夠大，順利躲過了對方那艘巡邏的驅逐級。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 有心算無心，也很正常。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 嗯……不過，這麼近的距離都有警戒，看來鐵血確實已經拿下納爾維克了……可惡。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 沒關係，近岸炮擊之後再找機會搶過來就好了。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……話說，獵人，雖然妳總說我容易激動，不過我覺得…妳也偶爾會很自然地說些突兀的話呢…<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 毅力和耐心，對狩獵來說是很重要的…<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 是、是嗎……<br>
 唔，總之，我們已經繞過警戒進入了峽灣，等於掌握了主動權，接下來，就開始偵查敵情吧。<br>
 <span style="color:#ec5d53;">？？？：</span><br>
 咦，Z2，是妳們嗎？下一輪的補給不是我和Z18嗎？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 ？！<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……沒辦法，先下手為強！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=初次交鋒|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=初次交鋒|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z19：</span><br>
 妳們是怎麼突破進來的？！<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 這個問題，去問妳們巡邏的人吧！<br>
 <span style="color:#ec5d53;">Z19：</span><br>
 站住！<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 勇敢，風雪變大了，趁這個機會……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 走！<br>
@@ -179,53 +179,53 @@ Z18，快，我們繼續追！<br>
 好啦，不要老是皺著眉頭，來，笑一笑~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=勇敢與獵人|选项=6|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">猎人：</span><br>
+{{折叠面板|标题=勇敢與獵人|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">獵人：</span><br>
 風雪真大，只能隱約看到海岸那邊有一些火光……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 嗯，我們已經突破第一道防線了，納爾維克港就在前面<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 對了，勇敢，妳知道嗎？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 知道什麼？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 納爾維克……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ？！難道有什麼重要的情報嗎！<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 據說在1月到3月的時候，可以看到極光。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 哈？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 但是現在已經是4月了，所以已經看不到了，遺憾……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 獵人……我們的前方可是敵人。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 只是正好想到……勇敢對極光沒有興趣嗎？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 我……不知道，我沒看過，妳看過嗎？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 我也沒有。但是我聽說極光很美，很夢幻，所以聽說要來北極執行任務，我其實還是有些期待的。<br>
 不過，能看到這麼大的雪，也挺好的……在我們的故鄉，可看不到這麼大的雪。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 是嗎？我只覺得這大雪很礙事。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 對於戰鬥……確實很礙事，但是如果在戰鬥之外，會很好看。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……搞不懂，妳的想法還真奇怪。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 我是“獵人”，所以平時會比較在意自然環境……<br>
 對了，勇敢，這次任務結束後，一起來看雪嗎？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 這可不是現在應有的想法，我們要進攻納爾維克，然後……<br>
 然後我們也應該沒有時間逗留，馬上會有下個任務在等著我們。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 就一會兒，不行嗎？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ………………先完成我們的任務再說吧。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=皇家的突進|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=皇家的突進|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z21：</span><br>
 為了保護補給船，不能隨便走掉，Z2她們出去巡邏又不知道什麼時候回來……<br>
 Z18和Z19還沒回來嗎……好想她們啊……<br>
@@ -235,81 +235,81 @@ Z18和Z19還沒回來嗎……好想她們啊……<br>
 ……倒不如說，不知什麼時候已經突破到我眼前了！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=目標變更|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=目標變更|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z21：</span><br>
 可惡，妳們等著，Z2她們會幫我報仇的！<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 昏過去了……<br>
 ……比之前的那兩位要棘手一點。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 不過，在同心協力H級的之前，還是差遠了呢<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 ……然後，怎麼辦？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……海岸的情況如何？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 岸防已經配置好了，單憑我們的火力，解決起來需要花很多時間……<br>
 而且，我們已經驚動了對方，增援應該也在趕來了。<br>
 要撤退嗎？這個天氣，我們的消耗也比平常要大。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……不，既然我們無法馬上佔領納爾維克，那麼至少，我們要搞清楚對方駐守部隊的規模。<br>
 而且，我們至少也要給鐵血造成一點損失，那邊的那些商船和貨船可不能放過。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 但這樣……很危險。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 我知道，所以妳們可以先回去，留我一個人就好。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 ……笨蛋。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 好痛，幹嘛忽然用魚雷管敲我。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 我們是團隊……而且，一個人的火力，比不過五個人。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……好吧，謝謝。<br>
 咳咳，那麼就開始盡可能地破壞吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=皇家的撤退|选项=9|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">猎人：</span><br>
+{{折叠面板|标题=皇家的撤退|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">獵人：</span><br>
 勇敢，剛才收到急性的報告，對方的增援出現了。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 來了嗎……真快啊。數量呢？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 風雪太大了，看不清楚。雷達也有些失靈，不過至少比我們小隊的數量多吧<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 雖然還想再給敵人多造成點損失，不過…看來也只能做到這一步了——<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 嗯，最好的情況是我們能夠順利撤退……<br>
 對方應該也已經察覺到我們的目的，會攔截我們的……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 這不是早就已經知道了的事嗎？<br>
 事到如今，就算獵人妳突然怕了，我也不會管妳哦？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 ……是呢。那就……出發吧？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 嗯，開始撤退吧。<br>
 ……對了，獵人，雪……真的很好看嗎？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 ……嗯，在無憂無慮的時候，會覺得……它很美麗。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……是嗎，在家鄉的時候，我也從沒去關注過這些東西……<br>
 那我就稍微期待一下，妳所說的雪景吧。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 ……嗯，就這麼約好了。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 好！那就出發吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=鐵血的追擊|选项=10|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">猎人：</span><br>
+{{折叠面板|标题=鐵血的追擊|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">獵人：</span><br>
 果然還是被追上了……<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 果然……嗎，妳們的膽子還真是大。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 膽子不大，抓不到大獵物。<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 但是膽子太大的話，可要小心反被獵物吃掉。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 不試試，誰知道呢……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 沒錯，光憑妳們，能不能勝過我們，還不知道呢！<br>
@@ -317,12 +317,12 @@ Z18和Z19還沒回來嗎……好想她們啊……<br>
 那麼，馬上就知道了。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=極北的星辰·上|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=極北的星辰·上|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">勇敢：</span><br>
 结束了！<br>
 <span style="color:#ec5d53;">Z2：</span><br>
 ……可惜。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 勇敢！<br>
 呀啊啊！<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
@@ -348,33 +348,33 @@ Z19，聽Z2的話，我們先去照顧Z21。<br>
 好吧……哼，等她們的下一波攻勢我再讓她們好看！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=極北的星辰·下|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">猎人：</span><br>
+{{折叠面板|标题=極北的星辰·下|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">獵人：</span><br>
 …這裡是？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 太好了，獵人，妳終於醒了！<br>
 這裡是奧福克峽灣外的海灘……我的燃料也耗盡了，只能把妳拖到這裡……<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 這樣啊。<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 抱歉，獵人，都是我不夠謹慎，才害妳為了保護我受了這麼重的傷……<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 沒事的……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 我已經向後方發送了求救訊號，她們馬上就會來救我們了，所以……<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 勇敢……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 怎、怎麼了？<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 看，雪……<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 雪……<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 妳覺得，漂亮嗎？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……我，不知道，但是……一片白茫茫的，什麼都沒有，總覺得，好像……平靜了下來。<br>
-<span style="color:#4eb24e;">猎人：</span><br>
+<span style="color:#4eb24e;">獵人：</span><br>
 對吧？以後，有機會的話，和大家一起來看極光吧？<br>
 <span style="color:#4eb24e;">勇敢：</span><br>
 ……嗯，那就約好了。<br>

@@ -1,6 +1,6 @@
 == Azur Anthem - Side Story ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Idols|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Idols|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Azur Anthem - Side Story<br>
 <br>
@@ -72,7 +72,7 @@ Chihaya, by the way, you've had a really stern face for quite some time now...<b
 (It seems sloppy and unprofessional at first, but this might actually be the next frontier of music. I'll have to look into this some more...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Port|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Port|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Azur Anthem - Side Story<br>
 <br>
@@ -155,7 +155,7 @@ I'm so glad I got to see all these amazing places around the port today!<br>
 All these familiar sights and sounds are finally letting me calm down... Hehe~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lessons|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lessons|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Azur Anthem - Side Story<br>
 <br>
@@ -237,7 +237,7 @@ Alright, Ritsuko, the next thing on the agenda is...<br>
 Like... I... Said!! Don't just go planning things without getting permission first!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fun and Games|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fun and Games|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Azur Anthem - Side Story<br>
 <br>

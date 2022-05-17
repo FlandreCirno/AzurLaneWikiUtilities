@@ -1,6 +1,6 @@
 == Denver's Quest! ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Quest Accepted!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Quest Accepted!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>
@@ -31,7 +31,7 @@ Now I'm feeling motivated! New goal: aim for the top of the leaderboard, like Cl
 Denver always strives to do the best she can, but on this day she sounded especially fired up.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Quest, First Party|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Quest, First Party|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>
@@ -76,7 +76,7 @@ Hell yeah! That's how we do it!<br>
 All right then, let's go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Knights Need Advice|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Knights Need Advice|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>
@@ -129,7 +129,7 @@ She looked at me with gleaming eyes and thanked me, then promptly picked the flo
 I didn't know it yet, but our knightly adventure had only just begun.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Knight's Sisters|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Knight's Sisters|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>
@@ -181,7 +181,7 @@ Denver sang Cleveland's praises, while Cleveland herself was left speechless. Bi
 Through Denver's enthusiasm, I got Birmingham to open up, if only a bit.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Rival's Quest|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Rival's Quest|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>
@@ -225,7 +225,7 @@ Yeah! Be our referee, Commander!<br>
 Sendai and Denver alike had fiery hot looks of determination in their eyes. One thing was for sure: an intense game of basketball was imminent.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Leveling Up!|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Leveling Up!|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>
@@ -287,7 +287,7 @@ Commander, Cleveland... I hope you're watching me. I'm gonna make you proud!<br>
 The tense match had reached its final stage, and victory seemed within grasp of either player's hands.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chivalric Oath|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chivalric Oath|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Denver's Quest!<br>
 <br>

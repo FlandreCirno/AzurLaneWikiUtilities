@@ -1,6 +1,6 @@
 == Khorovod of Dawn's Rime ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Arcana Sanctum|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Arcana Sanctum|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Northern Parliament - Conference Room<br>
 <span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
@@ -57,7 +57,7 @@ Don’t worry. It shall be done.<br>
 “Make sure they never meet one another.”<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Two-Pronged Operation|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Two-Pronged Operation|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Avrora：</span><br>
 Good morning, Comrade~ Have you been enjoying your time here with us, away from the front lines?<br>
 <br>
@@ -112,7 +112,7 @@ You too. Come back safely. We’ll handle whatever is inside that Sanctum.<br>
 Everyone, I wish for your success and safety in this operation.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=History|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=History|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
 Comrade, you’ve been unusually quiet this whole time. Is something troubling you?<br>
 <br>
@@ -154,7 +154,7 @@ If anything, I’m inclined to say that the two are unrelated. However, Wisdom C
 Who knew that such a shocking revelation would lie beneath something long-considered common sense? I’ll have to thoroughly comb through the files at the Naval HQ when I get back.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Guardian|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Guardian|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM————————!!<br>
 <span style="color:#4eb24e;">Gremyashchy：</span><br>
@@ -203,7 +203,7 @@ Gremyashchy：<br>
 '''''<span style="color:black;">（选择项2）</span>'''''…………<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cooperation|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cooperation|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament “Arcana Sanctum” - Offshore<br>
 <span style="color:#4eb24e;">Murmansk：</span><br>
@@ -235,7 +235,7 @@ So... Comrade, I hope you’ll be able to lend us your aid and protect the Sanct
 '''''<span style="color:black;">（选择项2）</span>'''''Ehehe~ Fortunately for you, the view inside the Sanctum is simply stunning. After we clear out the enemies, I’ll show you exactly what I mean~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Disguise|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Disguise|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Tashkent：</span><br>
 This is our regularly-scheduled transmission. Dear comrade, we’ve already reached our destination, and are now holding our positions.<br>
 I haven’t seen any higher-tier Sirens like Omitter yet, but I’m sure they’ll be forced to come out as long as we keep fighting.<br>
@@ -329,7 +329,7 @@ I see... I can only hope that the answers we seek lie behind the doors of the Ar
 (I can only pray... that the solution to our problems also lies behind those doors...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unexpected Results|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unexpected Results|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Tallinn：</span><br>
 That should wrap things up over here. I do believe this is my first time meeting you in person, Commander. I am the flagship of the Secret Room’s defense fleet, heavy cruiser Tallinn.<br>
 And I’m sure you already know Murmansk.<br>
@@ -374,7 +374,7 @@ CRAAAAAASH—————!!<br>
 What the hell is that?!  Is that...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Icebreaker Submarine|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Icebreaker Submarine|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
 Ahaha! A hail of cannonfire may not be enough to faze you, Comrade, but seeing this really caught you off guard, huh?<br>
 <br>
@@ -404,7 +404,7 @@ More or less. Belorussiya, Commander, please board the submarine so that we can 
 Let’s go, Comrade! You are able to see the reason why we have brought you here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Air Chamber|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Air Chamber|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kirov：</span><br>
 Comrade, we’ve arrived at our destination.<br>
 <br>
@@ -435,7 +435,7 @@ Comrade, we need to get moving. You’ll find even more wondrous things deeper i
 Take this submarine as your command ship. The rest of us will spread out and enter an escort formation as we head through the first Gate.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sanctuary|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sanctuary|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 ...The icebergs floating here must be hundreds of meters high...<br>
 <span style="color:#4eb24e;">Tallinn：</span><br>
@@ -484,7 +484,7 @@ We reached the same conclusion, but because we’ve never found a second Mirror 
 (I can’t help but feel that there’s more to this story that they’re not telling me...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Obsolete|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Obsolete|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gremyashchy：</span><br>
 Careful, a Siren guard fleet has appeared.<br>
 <span style="color:#4eb24e;">Murmansk：</span><br>
@@ -497,7 +497,7 @@ Back then, the Sirens that wrought such destruction and suffering upon humanity.
 But now, enemies like these are hardly worth our attention. Comrade, time is precious. Let’s end this quickly! Uraaa!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vortex|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vortex|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 The fleet made its way to a massive iceberg, easily dispatching the enemies in the way. It is said that this iceberg is the only facility here with an internal structure, and also houses the “Gate.”<br>
 <span style="color:#4eb24e;">Kirov：</span><br>
@@ -532,7 +532,7 @@ As for where the Sirens came from and what they’re actually after... Unfortuna
 We’ll reach it on the other side of this great hall. Let’s keep moving.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Control Room|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Control Room|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 So, the reason you need me is because you haven’t been able to open the Gate.<br>
 <span style="color:#4eb24e;">Kirov：</span><br>
@@ -605,7 +605,7 @@ The structure of the Wisdom Cube is reflected in the motes of light... as if the
 Yes! The Gate has also began to change shape! Now, show me what lies behind this wall of ice!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=City of Light|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=City of Light|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 The Gate gave way to a new path, but in a way nobody had expected.<br>
 The wall of ice became thin and translucent, as if turning into a gossamer membrane that could disappear at any time. And on the other side of the veil, a radiant city comprised entirely of light rose from the formerly empty Mirror Sea.<br>
@@ -633,7 +633,7 @@ Of course. I’m also searching for my own answers here.<br>
 Then, let us pass through the Gate and discover what awaits us in this city of light!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Strings I|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Strings I|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Loud alarms blaring through the air... the burning stench of gunpowder choking my lungs... waves of scorching heat flaying my skin... I’ve experienced this before.<br>
 This must be... the defensive line... at NY Harbor...?<br>
@@ -676,7 +676,7 @@ So...<br>
 '''''<span style="color:black;">选择项1：Let’s run away, together.</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Phase |选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Phase |选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
 Are you finally awake, Comrade?<br>
 <br>
@@ -719,7 +719,7 @@ Of course, before we get pulled in too deeply, we should at least find our way b
 Agreed. Unfortunately, we don’t have the luxury of aerial reconnaissance here, so we’ll have to gather whatever information we can while looking for a way back.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Swarms of Light|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Swarms of Light|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gromky：</span><br>
 Hum~ dee dum~♪<br>
 <br>
@@ -762,7 +762,7 @@ Hm... Weird stuff happened when we got across the Gate. Do you think we’ll be 
 We’ll never know until we try.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Strings II|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Strings II|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">？？？：</span><br>
 If we adopt this plan, there may be a chance of success.<br>
 However, we must ensure that the jamming device remains operational as long as possible. In the meantime, we’ll have to hold the line while evacuations are carried out.<br>
@@ -797,7 +797,7 @@ I’m sure they’ll need some time to accept it, but they will come to understa
 Yes, I’m sure of it...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Line of Sight|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Line of Sight|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gromky：</span><br>
 The whole atmosphere around us has changed!<br>
 <span style="color:#4eb24e;">Tallinn：</span><br>
@@ -869,7 +869,7 @@ That said, since several of you share this suspicion, I suppose we should procee
 Stay close, everyone. Nobody is to wander off on their own, lest we risk getting lost, or worse yet, walk into a trap.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Blueprint Ships|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Blueprint Ships|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 The fleet moved in a single group through the complex corridors. There was much ground to cover, but not infeasibly so, now that we got through some of the biggest rooms.<br>
 <span style="color:#4eb24e;">Gromky：</span><br>
@@ -922,7 +922,7 @@ These documents may not tell us all that much, but it's clear that the Sirens kn
 I'm certain that what we've learned so far is only the tip of the iceberg...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pick|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pick|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 We stepped into another room, this one even bigger than the command room we found earlier.<br>
 Hundreds of seats lined both sides of what appears to be an auditorium, its roof well over 20 or even 30 meters above the floor. At the far opposite end of the room, there was a podium.<br>
@@ -972,7 +972,7 @@ Interestingly, this chair also has something like that. I wonder if it works the
 .........<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Strings III|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Strings III|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Aoste ：</span><br>
 ...More electronic interference? How is that possible? We are deep below the surface and should be immune to any kind of jamming.<br>
 Zero, survey the surrounding waters and determine if there are hostiles approaching.<br>
@@ -994,7 +994,7 @@ With that behind us, let us continue where we left off. Standing with me today i
 This individual may have a solution to the issue of metamorphosis which plagues us so. Allow me to introduce–<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Alarm|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Alarm|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gremyashchy：</span><br>
 Hurry, Commander! We've gotten all the info we can, so it's time to get out of here!<br>
 <br>
@@ -1043,7 +1043,7 @@ That was when I realized that the button on the communicator was stuck, and no a
 It seemed almost as though... time had stopped.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vox ex Machina|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vox ex Machina|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 The auditorium's exit was not physically blocked, but I couldn't go beyond its open doors. It's as though there was an invisible barrier, locking me in here.<br>
 <span style="color:#ffd000;">Recorded Voice：</span><br>
@@ -1105,7 +1105,7 @@ There... isn't...?<br>
 <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Radiance|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Radiance|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOM!<br>
 <span style="color:#4eb24e;">Gromky：</span><br>
@@ -1134,7 +1134,7 @@ Will do! I was just starting to worry we'd never make it back!<br>
 Commander, this way!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Afterglow|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Afterglow|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOM!<br>
 <span style="color:#4eb24e;">Sovetskaya Belorussiya：</span><br>
@@ -1204,7 +1204,7 @@ The feeling is mutual, Comrade.<br>
 Now, fight with everything you have until this false light is extinguished! Go!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Project Dawn|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Project Dawn|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 .........<br>
 Where am I...? Back to the place where I first inserted the Wisdom Cube into the console...?<br>
@@ -1227,7 +1227,7 @@ Let's not worry about anything else right now.<br>
 I peered inside a box, and on the very top was a document with the words: "Project Dawn."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Exchange of Opinions|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Exchange of Opinions|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament “Arcana Sanctum” - Offshore<br>
 <span style="color:#4eb24e;">Gromky：</span><br>
@@ -1322,7 +1322,7 @@ Looking back upon their warm hospitality and the arduous battles we had overcome
 Commander, let's head back to port with the others!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Awakening|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Awakening|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">Aoste ：</span><br>
 I heard you've made a major breakthrough in your research, Dr. Anzeel.<br>
 <span style="color:#ffd000;">Anzeel ：</span><br>
@@ -1339,7 +1339,7 @@ I'm sure of it this time! *cough* *cough*...<br>
 If we can find a human with high enough attunement to the Wisdom Cubes... then I'm sure we'll be able to...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Priority|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Priority|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 <br>
 <span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
@@ -1371,7 +1371,7 @@ But that is something reserved for the future. For now, we must be practical and
 Study these materials well. Do not waste the light of dawn that the Commander has given us—<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Convergence|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Convergence|选项=31|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Observer zero：</span><br>
 And the conclusion...?<br>
 <span style="color:#ec5d53;">empress：</span><br>

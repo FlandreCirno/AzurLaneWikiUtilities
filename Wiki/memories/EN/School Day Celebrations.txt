@@ -1,6 +1,6 @@
 == School Day Celebrations ==
 {{折叠面板|开始}}
-{{折叠面板|标题=I'm Running Late!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=I'm Running Late!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The first autumn winds have come and gone, and a new school term has begun.<br>
 <br>
@@ -45,7 +45,7 @@ Ah, there’s no time left...A-anyways, let’s head to school first! We are lat
 Fine...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Playground Troublemakers|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Playground Troublemakers|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 School Day Celebrations<br>
 <br>
@@ -96,7 +96,7 @@ The three of you, follow me! Now! We are gonna have a talk!<br>
 Whining — —<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Secret Lunch|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Secret Lunch|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 School Day Celebrations<br>
 <br>
@@ -139,7 +139,7 @@ Let's share Helena's lunch bento — —<br>
 That was a fantastic lunch time with Honolulu...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Spirit in the Library|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Spirit in the Library|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 School Day Celebrations<br>
 <br>
@@ -190,7 +190,7 @@ Whines~~ Sorry...I just thought what I did  was funny...<br>
 Y-you want to tell Belfast? No, just leave it, please. Whines — —<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Magic in an Empty Classroom|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Magic in an Empty Classroom|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 School Day Celebrations<br>
 <br>
@@ -231,7 +231,7 @@ Commander, do you want to listen to music...with Eldridge?<br>
 Spent some healing time together with Eldridge and ...Meow Meow...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Special Afterschool Tutoring|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Special Afterschool Tutoring|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 School Day Celebrations<br>
 <br>
@@ -269,7 +269,7 @@ Best prepare yourself! Today's training class will be a long one!<br>
 No<nowiki>~~~~~~~</nowiki><br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New School Year|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New School Year|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 School Day Celebrations<br>
 <br>

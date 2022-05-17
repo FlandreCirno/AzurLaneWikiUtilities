@@ -1,6 +1,6 @@
 == “魔女”們的萬聖夜 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=魔女、永保純真|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=魔女、永保純真|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
@@ -48,14 +48,14 @@
 憑什麼我和姐姐參加不了萬聖夜……對了！乾脆到時候……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gold、開始行動|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gold、開始行動|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
 其二　Gold、開始行動<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 那還用說！那個“惡作劇之日”快到了呀！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 哈哈，重櫻的少女們啊，妳們就好好期待那天吧！<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 氣氛好像更緊張了……{namecode:6}，妳怎麼看？<br>
@@ -69,28 +69,28 @@
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 那、那是為了防止走漏風聲……對了，去找“她”商量一下吧<br>
 海~倫娜，吾來啦<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 等、等等——！！妳們就不懂得進門之前先敲門嗎！<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 吾們這次帶來了大情報——要開戰了！<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 啊！？<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 原來如此，惡作劇和南瓜燈都是萬聖節的習俗嗎……<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 其他的還有糖果之類的，{namecode:96}應該會用天婦羅代替糖果吧，她喜歡吃天婦羅<br>
 不過克里夫蘭倒是更中意南瓜派<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 海倫娜，妳手中的“那個”是？<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 ……萬聖節還有一項習俗是大家打扮成鬼怪的形象遊玩。我想給克里夫蘭一個驚喜，一直在偷偷縫製她的萬聖節服裝……這件事絕不要告訴她噢<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 克里夫蘭也能參加“Trick or treat！”？<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 欸，當然可以啊<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 ……妳只做了這一件衣服嗎？<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 抱歉，因為得瞞著克里夫蘭，這件衣服恐怕都得當天才能完成，實在沒有時間再為妳們……<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 實際上，吾前幾天收到了一件類似的服裝……<br>
@@ -98,7 +98,7 @@
 喂，這次決鬥如果我贏了，就幫我個忙！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=深夜的惡作劇|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=深夜的惡作劇|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
@@ -151,7 +151,7 @@
 沒想到縫製衣服會這麼麻煩……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=消失的南瓜派|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=消失的南瓜派|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
@@ -174,22 +174,22 @@
 真的嗎？妳可不要騙姐姐！<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 那時候這裡只有妳們兩個人？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嘿嘿，其實當時我也在<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 克里夫蘭！？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 這身衣服是海倫娜送給我的。我乃惡魔，收割靈魂。怎麼樣？嘿嘿~<br>
 我當時正巧路過{namecode:19}的宿舍，那段時間內——沒有人從玄關進出<br>
 <span style="color:#4eb24e;">{namecode:19}：</span><br>
 妳“路過”了那麼久嗎<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 時間雖然是金錢，但我偶爾也會揮霍一下啦<br>
 <span style="color:#4eb24e;">{namecode:19}：</span><br>
 ——（盯）<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 不會是克里夫蘭，她身上藏不了那麼多派<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 還有什麼問題嗎？<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 海上騎士的寶貴時間可不要總用在“路過”別人家上<br>
@@ -206,21 +206,21 @@
 只能自認倒楣了嗎……可惡，這番屈辱吾輩記住了！<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 {namecode:87}、{namecode:6}、克里夫蘭……笨蛋姐姐，今晚玩得開心……<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嘻嘻，妳也，辛苦啦！<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 克里夫蘭，海倫娜為什麼沒有跟妳一起來？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 佛萊契爾們已經開始四處討要糖果了——哪怕她們的主要目標不是我，我也拼盡全力才跑出來……<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 所以才會在{namecode:19}宿舍附近休息了好一會兒嗎？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嘿嘿……<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 很好，這樣就準備萬全了！嗯……應該沒有遺漏什麼吧<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Trick or treat！|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Trick or treat！|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
@@ -237,7 +237,7 @@ Trick or treat！<br>
 沒想到早已吃膩的南瓜，還能變得這麼美味！{namecode:95}無論哪方面都是吾學習的榜樣呢<br>
 <span style="color:#4eb24e;">{namecode:95}：</span><br>
 哈哈~我可不是完美無缺的喲<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嗯……我還是更中意海倫娜的<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 吾們走啦~<br>
@@ -251,7 +251,7 @@ Trick or treat！<br>
 南瓜燈對著我們衝了過來——<br>
 <span style="color:#4eb24e;">{namecode:19}：</span><br>
 眼前什麼都看不到，全是南瓜燈……妳們沒事吧，可惡，吾輩的連裝炮呢！？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 等等——<br>
 <span style="color:#4eb24e;">{namecode:95}：</span><br>
 妳是——呀呀呀呀！<br>
@@ -271,14 +271,14 @@ Trick or treat！<br>
 哼哼，畢竟“我”可比妳小不少，gray<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=顯露身形的幽靈|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=顯露身形的幽靈|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
 其六　顯露身形的幽靈<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 聲音是從上方傳來的……<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 它們在漂浮的南瓜燈上<br>
 <span style="color:#4eb24e;">White?：</span><br>
 首先，要做什麼惡作劇呢？<br>
@@ -294,7 +294,7 @@ Trick or treat！<br>
 妳是{namecode:95}……吧<br>
 <span style="color:#4eb24e;">White?：</span><br>
 不，我是White！！！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 好吧，White，妳們打算做什麼？<br>
 <span style="color:#4eb24e;">White?：</span><br>
 嗯……妳們喜歡什麼惡作劇？<br>
@@ -315,12 +315,12 @@ Gold，妳來負責左側<br>
 呵呵~對了！大家都站到南瓜燈上吧~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=南瓜艦隊，出擊！|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=南瓜艦隊，出擊！|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 “魔女們”的萬聖夜<br>
 <br>
 其七　南瓜艦隊，出擊！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 快點，再快一點！呼~真舒服<br>
 <span style="color:#4eb24e;">{namecode:19}：</span><br>
 騎在南瓜燈上視野也變開闊了<br>
@@ -336,19 +336,19 @@ Gold，妳來負責左側<br>
 哈哈~被猜到了呢，正因為有妳們，萬聖節才能這麼有氣氛~<br>
 <span style="color:#4eb24e;">{namecode:87}：</span><br>
 欸欸，衣服是{namecode:95}做的嗎？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嘿嘿，我的是海倫娜，回去後我也得好好向她道謝呢～<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 我還準備了很多天婦羅，大家請隨意吃~<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 嗯~{namecode:96}妳炸天婦羅確實很有一手<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 哼哼，妳終於認識到我無論哪方面都是最優秀的了嗎！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 也包括縫製衣服？<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 ——可惡，等著吧，早晚有一天——<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 好好好，我會一直在妳前方等著的——等妳心服口服的那天<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 手下敗將，妳在說什麼！？<br>

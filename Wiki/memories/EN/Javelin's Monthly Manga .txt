@@ -1,6 +1,6 @@
 == Javelin's Monthly Manga  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Good Morning, Javelin!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Good Morning, Javelin!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Javelin's Monthly Manga<br>
 <br>
@@ -37,7 +37,7 @@ Oh no, oh no! I have to report to Commander this afternoon, so I have to make su
 Javelin's story is only just beginning...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mystery Within the Drawer|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mystery Within the Drawer|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Javelin's Monthly Manga<br>
 <br>
@@ -80,7 +80,7 @@ D-don't tell me this is...!<br>
 "A mysterious love letter appeared before Javelin..."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Strange Letter...?|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Strange Letter...?|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Javelin's Monthly Manga<br>
 <br>
@@ -134,7 +134,7 @@ Javelin, fight on!<br>
 "Just what is the identity of the mysterious letter's sender...?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Javelin, to the Final Battle!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Javelin, to the Final Battle!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Javelin's Monthly Manga<br>
 <br>
@@ -184,7 +184,7 @@ Yes... Those girls are truly... the Heart of the Sea.<br>
 "Written By: Z1, San Diego, et. al"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=What the Heck is This...|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=What the Heck is This...|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Javelin's Monthly Manga<br>
 <br>

@@ -1,6 +1,6 @@
 == Ceremonial Gala  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Essex's Troubles|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Essex's Troubles|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Ceremonial Gala<br>
 <br>
@@ -61,7 +61,7 @@ You'll wanna read this part.<br>
 Well? What do you think? You in?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Albacore's Stroll|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Albacore's Stroll|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Ceremonial Gala<br>
 <br>
@@ -116,7 +116,7 @@ Ah, nothing beats a good prank! Now, what to do next... I guess I could go check
 Oh, I know! I'll see what Taihou's up to!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Taihou and Albacore|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Taihou and Albacore|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Ceremonial Gala<br>
 <br>
@@ -180,7 +180,7 @@ Oh... i-is that right? I might be able to stand going with you...<br>
 Yaaaaay~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Festival|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Festival|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Ceremonial Gala<br>
 <br>
@@ -236,7 +236,7 @@ Oww... Can you chill with the tuba, Fubuki? I couldn't even hear who won.<br>
 Wait... is that... Essex?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Essex and Enterprise|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Essex and Enterprise|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Ceremonial Gala<br>
 <br>

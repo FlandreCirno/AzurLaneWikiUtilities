@@ -1,6 +1,6 @@
 == Darkness Within Dawn  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Secret Mission |选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Secret Mission |选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Base, Location Unknown<br>
 <span style="color:#4eb24e;">Avrora：</span><br>
@@ -112,7 +112,7 @@ Oh, it's nothing. I was thinking the same thing as you.<br>
 (How long has it been since I last saw her make that expression? ...We'd better prepare for all contingencies.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Past|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Past|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Near the Siren Facility<br>
 <span style="color:#4eb24e;">Pamiat Merkuria：</span><br>
@@ -180,7 +180,7 @@ Sounds good to me! We need to find out what happened during that operation!<br>
 All right, Mikoyan, it's time to come home!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Failed Expedition|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Failed Expedition|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The icebreaker, escorted by Pamiat' Merkuria and Avrora, was safely brought back to one of the Northern Parliament's ports.<br>
 <span style="color:#4eb24e;">Avrora：</span><br>
@@ -239,7 +239,7 @@ Even if this is a trap, we must find out how it works in order to secure the saf
 (And in all likelihood, what Soyuz truly wants to know––)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Deal|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Deal|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Northern Parliament<br>
 Inside a dimly-lit room, Sovetsky Soyuz repeatedly looked over the report from Avrora and Pamiat'.<br>

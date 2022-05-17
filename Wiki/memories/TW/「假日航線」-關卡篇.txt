@@ -1,6 +1,6 @@
 == 「假日航線」-關卡篇 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=神秘的邀請函|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=神秘的邀請函|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 新的邂逅就在眼前<br>
 伴隨而來的將是新的競爭<br>
@@ -10,7 +10,7 @@
 期待吧，在即將出現的“度假之島”上<br>
 特別的《維納斯挑戰賽》即將開幕<br>
 某日，一封奇怪的信件被擺在了指揮室的辦公桌上。<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 啊哈哈，這還是真是…一頭霧水呢！<br>
 <br>
 沒錯，只能用“一頭霧水”來形容。<br>
@@ -22,7 +22,7 @@
 莫非只是單純的惡作劇信件？在這種不著邊際的事情上花費過多的心力似乎也有點——<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 指揮官，{namecode:98}讓{namecode:6}幾個帶來的報告，請閱讀…的說。<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 啊，對了！被指揮官這裡的奇怪信件吸引了注意力，差點忘了正事！<br>
 <br>
 '''''<span style="color:black;">选择项1：拆開並閱讀報告</span>'''''<br>
@@ -34,7 +34,7 @@
 即將出現的“度假之島”…的說？<br>
 <br>
 看來不是單純的惡作劇，也不是單純的巧合了……<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 光是在這猜也不是辦法呢…指揮官！讓我們幾個去實地考察一下吧！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 呣……？<br>
@@ -42,7 +42,7 @@
 正如標槍所言，在這盲猜也不是辦法。派遣靈活的驅逐執行偵察任務也算合情合理……<br>
 <br>
 '''''<span style="color:black;">选择项1：表示同意</span>'''''<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 太好啦~那我們就立馬準備出發吧！Z23、{namecode:6}、拉菲！<br>
 <span style="color:#4eb24e;">拉菲&{namecode:6}：</span><br>
 哦~！<br>
@@ -52,8 +52,8 @@
 維納斯挑戰賽…嗎，雖然不知道具體的內容，不過似乎又要掀起一番波瀾了啊。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=“預料之中”的相遇|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">标枪：</span><br>
+{{折叠面板|标题=“預料之中”的相遇|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">標槍：</span><br>
 …看到了！那就是{namecode:98}報告裡提到的新島了吧！<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 雖然確實只是個小島，不過…距離港區這麼近的海域，竟然有之前沒有發現的島嶼？也太奇怪了…<br>
@@ -61,7 +61,7 @@
 前方發現船影！是……橡皮艇的說？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 敵人…？先來兩發魚雷問候一下？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 好像沒看到武裝…啊，對面好像也發現我們了……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 看來不是要開戰的樣子，先了解下情況看看吧！<br>
@@ -73,7 +73,7 @@
 霞…小姐？我是Z23，這邊的分別是{namecode:6}、拉菲、標槍，我們是奉命前來進行海域調查的“艦船”…<br>
 <span style="color:#4eb24e;">霞：</span><br>
 艦…船？啊，這麼說起來，妳們好像直接在海上漂著呢…這難道是某種忍術…？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 “忍術”…哈哈哈，像是重櫻的小伙伴們會說的話呢！<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 {namecode:6}…可不會忍術的說。<br>
@@ -86,13 +86,13 @@
 啊，難道各位就是“綠色貓娘的愉快夥伴們”？<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 是在講…{namecode:98}的說？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 咦？霞認識{namecode:98}嗎？！<br>
 <span style="color:#4eb24e;">霞：</span><br>
 唔…還真的跟那東西上寫的一樣啊…總、總之，先請各位跟我到我的夥伴們那裡吧。具體的情況，之後慢慢再聊——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=穿越的女神(Venus)們|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=穿越的女神(Venus)們|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">霞：</span><br>
 我回來了~<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -100,7 +100,7 @@
 <span style="color:#4eb24e;">霞：</span><br>
 啊哈哈，我先介紹一下好了，這幾位是剛才我出去探索時遇到的，Z23、標槍、{namecode:6}，以及拉菲。<br>
 這邊就是和我一起被帶到這裡的幾位同伴——<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 我是瑪莉蘿絲，叫我瑪莉就可以了！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 初次見面，我是穗香，總之…請多指教！<br>
@@ -121,7 +121,7 @@
 而前不久收到了異常報告而奉“指揮官”之命前來調查，正好碰上了霞…是這樣吧。<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 霞小姐幾位原本正在參加一個名為“維納斯挑戰賽”的祭典活動，前兩天一睡醒便突然發現來到了這個島上…<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 沒錯，一開始還真是有點慌了呢！還好島上應有的設施和物資都很齊全…<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 甚至還有泳池、沙灘排球場什麼的…某種程度上跟維納斯群島還挺像的呢……<br>
@@ -135,7 +135,7 @@
 這是…通訊終端的說？<br>
 <span style="color:#4eb24e;">莫妮卡：</span><br>
 按照這上面的說法，應該是“指令終端”吧？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 哦哦！上面好像有文字呢……<br>
 <span style="color:#4eb24e;">終端：</span><br>
 「遠方的女神們，歡迎來到度假之島！」<br>
@@ -152,18 +152,18 @@
 嗯？似乎又有新的“指令”出現了…<br>
 <span style="color:#4eb24e;">終端：</span><br>
 「子指令：前往“港區”，自綠色貓娘處獲取“艦裝之力”」<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 啊哈哈…總覺得，是讓人感覺有些熟悉的展開呢…<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 總、總之就先請維納斯…？的諸位和我們一起回港區一趟吧！也得跟指揮官報告這邊的事情才行！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=特別的“力量”|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=特別的“力量”|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 數日後，度假之島近海。<br>
 <span style="color:#4eb24e;">霞：</span><br>
 這就是“艦裝”…感覺真是奇妙……<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 哇~瑪莉真的在海上漂著啊~真好玩~<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 哇哇~瑪莉小心~要是不小心摔到海裡就不妙了…<br>
@@ -183,7 +183,7 @@
 總之，這邊還要為“維納斯挑戰賽”做一些準備喵，妳們就趁這段時間熟悉下各自的艦裝喵！<br>
 <span style="color:#4eb24e;">霞：</span><br>
 沒想到真的會變成這種形式的“維納斯挑戰賽”呢……<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 我們回來啦，指揮官！還帶來了幾位“客人”哦！這幾位客人還有事要找妳哦，{namecode:98}！<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 呼喵？這幾位是島上的居民嗎？找{namecode:98}有事喵？<br>
@@ -212,7 +212,7 @@
 果然還是得說回正事才行…<br>
 <br>
 '''''<span style="color:black;">选择项1：討論“主指令”</span>'''''<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 唔~“碧波的少女”…指的難道是我們？我們也要一起參加嗎？<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 “符合這個世界的方式”…比拼誰更強大、更美麗的祭典…難道…<br>
@@ -242,7 +242,7 @@
 哦~！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=華麗的開幕|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=華麗的開幕|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 經過一番準備，萬眾期待的“祭典”終於要開始了——<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
@@ -275,7 +275,7 @@
 那就…比賽開始喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=刀劍共舞|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=刀劍共舞|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">霞：</span><br>
 不愧是歷戰的“艦船”…不過，我也不會輕易示弱！就是現在！看我的！<br>
 <span style="color:#4eb24e;">{namecode:66}：</span><br>
@@ -302,7 +302,7 @@
 咳咳，總而言之，第一場比賽到此結束喵！大家可以自由活動喵！無論要玩沙還是打排球都可以喵！讓我們第二場比賽再見喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幕間|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=幕間|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 指揮官！終端的進度更新了喵！<br>
 <br>
@@ -313,7 +313,7 @@
 唔，看來只能繼續觀察狀況了……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=各自的姐妹話題|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=各自的姐妹話題|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 讓各位久等了喵！第二戰馬上開始喵！<br>
 這次的主題是“姐妹VS姐妹”喵！雙方選手分別是女神姐妹花·海咲&凪咲，以及鐵血姐妹花·希佩爾&歐根喵！<br>
@@ -327,27 +327,27 @@
 話、話是這麼說，小心點總沒錯……<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 是~是~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 嚯~對面也是“姐妹”啊，真是緣分啊，不是嗎~？或者應該說，是指揮官安排得巧妙？呵呵~<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 玩笑話就適可而止吧，歐根。做好準備上了！可不要丟了派我們上場的指揮官的臉！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哎呀，別這麼緊繃嘛，難道是看到對手也是姐妹，再加上背負指揮官的期待，多少有些緊張了？“姐姐”~？<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 哈啊？緊張？妳在說誰呢？我怎麼可能因為這點小場面就緊張！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 拳頭，在微微顫抖哦？<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 這、這是重櫻經常說的“武者震”啦！！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 對面的“妹妹”，看起來不太好對付呢…<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 欸~是嗎？我倒覺得好像有不少話題可以跟她聊呢~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哎呀？真巧，我也有同感呢~之後找個時間，我們來好~好聊下吧~關於“姐姐”的話題~<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 一言為定~<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 所、所以說！把精神集中在比賽上啦！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 海咲，準備好了哦！<br>
@@ -355,14 +355,14 @@
 寒暄得差不多了喵？那麼，比賽現在開始喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=姐妹共鬥|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=姐妹共鬥|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">凪咲：</span><br>
 海咲，左手邊！<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 看到了！欸嘿！<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 休想得逞！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哎呀，謝謝妳，“姐姐”~試試這招如何？<br>
 <br>
 該說不愧是姐妹嗎，雙方都發揮了相當的默契，配合得幾乎天衣無縫。<br>
@@ -372,13 +372,13 @@
 呼…還算…可以吧……海咲，沒有受傷吧？<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 真是的，姐姐太愛擔心了啦，我能有什麼事嘛~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呼呼，我們彼此都有個不錯的姐姐呢<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 啊哈哈哈，好像是呢~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 要是能少點傲嬌，多點直率，就更好了~<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 哈啊？！妳說誰是金髮貧乳傲嬌！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 哈啊…果然是個不太好對付的妹妹呢…<br>
@@ -388,64 +388,64 @@
 嗯？海咲…妳是對誰有同感來著？<br>
 <br>
 就在台上演著令人不禁微笑的“姐妹喜劇”之時，一個“不速之客”突然闖了進來。<br>
-<span style="color:#4eb24e;">波特兰：</span><br>
+<span style="color:#4eb24e;">波特蘭：</span><br>
 同為姐姐，妳們一定更能明白妹妹的美好！！來！收下這些印第周邊，一起來感受妹(印)妹(第)的魅力吧！<br>
-<span style="color:#4eb24e;">印第安纳波利斯：</span><br>
+<span style="color:#4eb24e;">印第安納波利斯：</span><br>
 姐姐…都說了這樣很丟人，快停手了…對不起，姐姐給各位添麻煩了。<br>
-<span style="color:#4eb24e;">波特兰：</span><br>
+<span style="color:#4eb24e;">波特蘭：</span><br>
 等、等等…我還沒正式開始宣揚印第有多可愛呢！哎呀————<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 也、也是會有這樣的姐姐的呢……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 那樣也有那樣的樂趣，不是嗎~？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 第、第二場比賽告一段落喵！回到休息時間！敬請期待下一場精彩的比賽喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=“小大之辯”|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=“小大之辯”|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 是不是已經等不及了喵？第三場比賽這就開始了喵！<br>
 紅方，雖不是姐妹，但默契不輸姐妹！最佳組合·瑪莉蘿絲&穗香喵！<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 瑪莉和穗香的組合是絕對不會輸給任何人的！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 嘻嘻~好！一起加油吧，瑪莉！<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 藍方，在長久的共事中磨合出的默契！無需多餘的言語，也能知曉彼此心意！女王陛下的得力幹將·厭戰&貝爾法斯特喵！<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 讓對面見識下皇家女僕隊的優雅與幹練吧，貝法！<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 展現皇家的榮耀吧！厭戰！尤其是對面的粉毛！咕奴奴奴奴奴…那個大小是怎麼回事啊！！可惡！一定要讓她知道“品乳同盟”的厲害！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 欸、欸？！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 陛、陛下…請冷靜一些……<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 雖然不太清楚是怎麼回事，瑪莉也燃起來了！請多指教，女僕長大人！<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 呵呵，讓我們竭盡全力，為大家獻上一場精彩的比賽吧~<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 呣…{namecode:98}也忍不住想為厭戰加油了喵…咳、咳咳！{namecode:98}可是主持喵！才不會輕易偏頗喵！比賽開始喵！雙方都加油喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=巔峰一戰|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+{{折叠面板|标题=巔峰一戰|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 穗香，快躲開！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 好、好的！（晃動）<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 呼喵？！這、這是……<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 這一招妳躲得掉嗎！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 ……嘿！（晃動）<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 厲、厲害喵！<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 機會來了！穗香，一起進攻！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 來了！（晃動）<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 不會那麼簡單就讓妳們得逞的哦~<br>
 哎呀呀…從各種意義上來說，是不是都有些“太過刺激”了？<br>
 <br>
@@ -454,13 +454,13 @@
 比、比賽結束喵！真是一場令人嘆為觀止的對決喵…{namecode:98}，感覺有點失落喵……<br>
 <br>
 {namecode:98}小姐！？<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 呼…果然沒那麼容易從女僕長大人那取得優勢呢~<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 兩位不愧是最佳組合呢，配合得十分完美~<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 嘻嘻~因為穗香和瑪莉是最好的朋友嘛~兩位也好厲害！有種“長久合作才能養成的默契”的感覺~？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 雖、雖然好像有些意料之外的效果，不過還是一場十分盡興的比賽！謝謝妳們！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 欸嘿嘿~感覺都有點不好意思了~<br>
@@ -468,7 +468,7 @@
 呼喵！{namecode:98}振作起來了喵！專業的主持才不會讓自己失神太久喵！感謝雙方帶來的巔峰一戰喵！讓我們稍事休息，接下來就是萬眾矚目的最後一場比賽了喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=決戰前夕|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=決戰前夕|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 唔…雖然進度已經到達了85%…不過還是沒能追蹤到訊號的來源喵……<br>
 <br>
@@ -504,7 +504,7 @@
 後輩們…嗎……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=前輩的期冀|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=前輩的期冀|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 經歷了前面幾場激動人心的比賽，終於喵！我們終於迎來了最後的比賽喵！<br>
 就算是身為主持的{namecode:98}，也多少有些激動和不捨喵！<br>
@@ -534,7 +534,7 @@
 喵喵喵！比、比賽開始喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=不負所託|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=不負所託|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">女天狗：</span><br>
 呵呵呵~再來！還可以更盡興一些！<br>
 <span style="color:#4eb24e;">{namecode:95}：</span><br>
@@ -559,7 +559,7 @@
 本次的特別演習活動~維納斯挑戰賽到此就結束了喵！無論是維納斯的各位，還是港區的各位，都表現得非常棒喵！敬請期待下次的演習活動喵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=相連的世界|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=相連的世界|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 指揮官！終端有變化了喵！<br>
 <span style="color:#4eb24e;">終端：</span><br>
@@ -574,9 +574,9 @@
 「是否確定啟動傳送裝置？」<br>
 <br>
 看來，離別的時刻終於到來了。<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 嗚欸<nowiki>~~~</nowiki>！瑪莉妹妹~各位~我會想妳們的<nowiki>~~~</nowiki><br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 嗚…雖然時間不算很長，但是瑪莉在這邊度過了一段很快樂的時光！<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 瑪莉，告別的時候要笑著告別才行哦，雖然我也，我也……嗚嗚……<br>
@@ -619,7 +619,7 @@
 「備註：本終端已完成任務，即將停止機能。傳送裝置即將進入保守運行狀態。祝愿各位有一個美好的假日。」<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 啊…終端…停止運作了喵……<br>
-<span style="color:#4eb24e;">玛莉萝丝：</span><br>
+<span style="color:#4eb24e;">瑪莉蘿絲：</span><br>
 呼欸？這個意思是…瑪莉我們可以留在這邊再多玩一會了嗎？<br>
 <span style="color:#4eb24e;">穗香：</span><br>
 嗯！雖然也沒有那麼方便，但至少不是永遠的告別了呢！<br>
@@ -637,22 +637,22 @@
 與來自遠方的友人共度的假日，看來可以再持續一陣子了——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=觀察事故|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#ec5d53;">观察者：</span><br>
+{{折叠面板|标题=觀察事故|选项=16|主框=1|样式=primary|展开=是}}
+<span style="color:#ec5d53;">觀察者 ：</span><br>
 哼哼，姑且算是記錄到了不太一樣的數據吧。<br>
 <span style="color:#ec5d53;">測試者：</span><br>
 不過…通過像這樣“遊戲”一般的戰鬥，真的能得到什麼有意義的數據嗎？<br>
-<span style="color:#ec5d53;">观察者：</span><br>
+<span style="color:#ec5d53;">觀察者 ：</span><br>
 與“異類”的接觸，總歸是能帶來一些“變化”的，況且，“儀式化”的戰鬥，在某些情況下也許能帶來比一般戰鬥更特別的“結果”呢… <br>
-<span style="color:#ec5d53;">净化者：</span><br>
+<span style="color:#ec5d53;">淨化者 ：</span><br>
 啊啊~沒勁，沒有出擊的機會，只能默默等待數據的感覺真是太沒勁了~<br>
 <span style="color:#ec5d53;">測試者：</span><br>
 ……<br>
-<span style="color:#ec5d53;">净化者：</span><br>
+<span style="color:#ec5d53;">淨化者 ：</span><br>
 不過，沙灘排球…真的那麼有意思嗎？<br>
-<span style="color:#ec5d53;">观察者：</span><br>
+<span style="color:#ec5d53;">觀察者 ：</span><br>
 你想試試嗎？<br>
-<span style="color:#ec5d53;">净化者：</span><br>
+<span style="color:#ec5d53;">淨化者 ：</span><br>
 ……還是算了吧。<br>
 {{折叠面板|内容结束}}
 

@@ -1,6 +1,6 @@
 == Ashigara, Advance!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Ashigara, Fight!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, Fight!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>
@@ -37,7 +37,7 @@ However, I still have to do better next time...<br>
 (Indeed... I must aspire to become even stronger!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ashigara, Work!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, Work!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>
@@ -70,7 +70,7 @@ I'm so sorry.... because of my clumsiness, I delayed Commander's work... I promi
 Ashigara clenched her fist, filling herself with determination despite wanting to cry in frustration.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ashigara, Strike!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, Strike!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>
@@ -122,7 +122,7 @@ Myoukou, Nachi... I understand now! Because I also don't want to cause further t
 Though Ashigara's training regimen had just increased, she nevertheless had an expectant look on her face.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ashigara, Why do you Fight?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, Why do you Fight?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>
@@ -167,7 +167,7 @@ Duke of York and Prince of Wales leave the training area together.<br>
 (Do I really have something like that...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ashigara, Confused!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, Confused!|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>
@@ -214,7 +214,7 @@ Ho ho, you don't need to answer me. As long as you figure it out, that is all th
 (Could it be, I'm actually...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ashigara, (Love) Stricken!|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, (Love) Stricken!|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>
@@ -252,7 +252,7 @@ Huh? Kamikaze? W-wait, why are you leaving me here?!<br>
 Time seemed to stop.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ashigara, Go Out!|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ashigara, Go Out!|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Ashigara, Advance!<br>
 <br>

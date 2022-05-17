@@ -1,6 +1,6 @@
 == 皇家的騎士 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=起床了，女王陛下！|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=起床了，女王陛下！|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
@@ -8,51 +8,51 @@
 港區·皇家宿舍<br>
 <span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 呼…呼…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 唔…陛下還在睡夢中嗎<br>
 （按照陛下平時的作息規律應該是不會有這種情況的…）<br>
 (果然是昨晚睡晚了嗎？)<br>
 (今日還有一個重要的會議，還是趕緊把陛下叫起來吧——）<br>
 <span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 唔…厭戰…不要離開我……呼呼……<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 (…該怎麼辦呢)<br>
 <br>
 '''''<span style="color:black;">选择项1：溫柔地叫醒</span>'''''<br>
 '''''<span style="color:black;">选择项2：強硬地叫醒</span>'''''<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''陛下，該起床了。還有會議要等著妳主持呢，陛下——<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''唔唔……嗯……嗯？怎麼了，厭戰，妳就在旁邊嗎？太好了…啊——<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''(果然這個時候得採取些強硬的手段啊…床單是在這裡…陛下，請恕臣冒犯了。)<br>
 '''''<span style="color:black;">（选择项2）</span>'''''…喝！<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''嗚哇哇哇哇哇！！！<br>
 '''''<span style="color:black;">（选择项2）</span>'''''妳，妳在幹什麼啊厭戰！！欸，等等——<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 啊！！已經這個時間了嗎！？剛才的原來是夢啊……(小聲)<br>
 真、真是的，為什麼不早點把本王叫醒！這下會議都要遲到了啦！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 (預料之中的反應呢…不過這樣一來，會議應該是趕得上了吧)<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 咳咳！總之，我們皇家決定和白鷹進行第二次的大規模的聯合演習！<br>
 演習前的訓練任務就交由厭戰全部負責。希望在演習當天，皇家能交出一份能讓人滿意的成績。<br>
 厭戰，可不要讓本王失望！明白了嗎？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 是，陛下！<br>
 (沒有因為晚起而影響到會議的主持…嗯，畢竟是陛下，不會因為這點小事而失態)<br>
 接下來就是我的工作了，訓練嗎…呵呵<br>
 要成為一名合格的戰士可不是那麼容易的，做好心理準備吧，皇家的後輩們！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=艦隊的工作|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=艦隊的工作|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
 二 艦隊的工作<br>
 港區·指揮室<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 早上好，指揮官。<br>
 (雖然陛下交付了訓練任務，不過在那之前，本應負責的秘書艦工作也不能落下)<br>
 (不過，畢竟指揮官本身十分優秀，秘書艦的工作實際上也不算太難)<br>
@@ -69,7 +69,7 @@
 好，拿到了！——<br>
 <br>
 嘩啦啦啦啦啦——<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 糟了！！！<br>
 （嗚…失策，沒想到會把其他文件也碰下來了）<br>
 咳、咳咳，抱、抱歉，指揮官。想取文件的時候不小心碰到了<br>
@@ -78,13 +78,13 @@
 (是、是不是老老實實讓指揮官幫忙比較好呢……）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=“老女士”的速度|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=“老女士”的速度|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
 三 “老女士”的速度<br>
 港區·指揮室<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （因為早上的失誤，完成工作的時間比預想的要更晚…）<br>
 （現在的當務之急是將這份文件送到女王陛下手中，我得動作快點才行）<br>
 ……乾脆就跑過去吧<br>
@@ -92,122 +92,121 @@
 （還差一點點就到了……這樣一來的話剛好能夠趕上！）<br>
 （等等，這裡的地板怎麼這麼滑？拖地的時間明明不是現在啊？）<br>
 （硬著頭皮上吧，希望不會遇到誰——）<br>
-<span style="color:#4eb24e;">萨福克：</span><br>
+<span style="color:#4eb24e;">薩福克：</span><br>
 哼~哼哼~<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （原來是妳在拖地嗎！！不好，這個距離躲不開了，要撞上了！）<br>
 危險！快閃開！<br>
-<span style="color:#4eb24e;">萨福克：</span><br>
+<span style="color:#4eb24e;">薩福克：</span><br>
 欸——嗚哇！！<br>
 <br>
 砰咚<br>
-<span style="color:#4eb24e;">萨福克：</span><br>
+<span style="color:#4eb24e;">薩福克：</span><br>
 疼疼疼……厭，厭戰大人？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 對，對不起……<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 兩位沒事吧？發生什麼了？<br>
 ……薩福克，妳怎麼打掃到走廊裡來了。不是說只要把會議室打掃完就行了嗎<br>
-<span style="color:#4eb24e;">萨福克：</span><br>
+<span style="color:#4eb24e;">薩福克：</span><br>
 呼欸？原來已經打掃到走廊了嗎？<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 ……<br>
 非常抱歉，厭戰大人，給您添麻煩了。<br>
-<span style="color:#4eb24e;">萨福克：</span><br>
+<span style="color:#4eb24e;">薩福克：</span><br>
 非、非常抱歉嗚嗚<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 不，我也有責任，本來在這種地方奔跑也是我的不對……<br>
 不過…不知為何，時不時都會發生一次類似的碰撞事故……這難道是某種詛咒嗎…<br>
 （不是想這種事情的時候。總之先把這個文件送過去——啊，文件被水弄濕透了）<br>
 （唉…這下得重新回去拿一份了…陛下應該不會介意一點點的遲到吧？）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=演習過後……|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=演習過後……|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
 四 演習過後……<br>
 數日後·演習海域<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 咳咳，這次聯合演習的順利完成離不開大家這段時間的刻苦訓練，以及在演習中對戰術的徹底執行，還有各位自身在戰鬥時的隨機應變——<br>
 總而言之，我們的勝利並非偶然，是各位共同努力的結果<br>
 現在就好好休息一下，就盡情享受陛下賞賜的晚宴吧。<br>
 <span style="color:#4eb24e;">眾人：</span><br>
 哦哦哦！！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （稍微出來透透氣吧。）<br>
 （嗯？那個人是……）<br>
 企業？<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 是厭戰嗎，祝賀妳們，獲得了演習的勝利。<br>
 說實話，還是稍微有些不甘心呢。明明全程都放出艦載機盯著妳，結果還是沒能用演習彈把妳“擊沉”。<br>
 應該說，不愧是“不沉的傳奇”嗎<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （原來今天在我頭上一直盤旋著的飛機是妳的嗎！）<br>
 （演習過程裡全程疲於防空與躲避…狼狽的樣子還被觀戰的指揮官盡收眼底……）<br>
 哈，托妳的福，我今天可是吃盡了飛機的苦頭。<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 我也一樣呢。15吋炮彈落在身邊的水花可不怎麼讓人安心啊。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （…不過，以企業為目標發射了好幾輪主炮都沒能命中…該說…不愧是“Lucky E”嗎）<br>
 這次的演習也要感謝白鷹的各位，我們也從中吸取到了許多的經驗<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 要說感謝的話，白鷹這邊也是一樣哦。如果有機會的話，希望這樣的大型演習能夠長期舉辦下去呢<br>
 而且，我很期待能再和妳來一次對決哦！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 哈哈，關於這點彼此彼此吧。<br>
-<span style="color:#4eb24e;">罗德尼：</span><br>
+<span style="color:#4eb24e;">羅德尼：</span><br>
 厭戰前輩，陛下她似乎在找妳哦？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （陛下？那得趕緊回去才行。）<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 我就不多打擾了，下次見！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯，回見<br>
 （從今天起額外的訓練任務就告一段落了，我也稍微放鬆一下…先和後輩們一起享受晚宴吧）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=些許的煩惱|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=些許的煩惱|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
 五 些許的煩惱<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 好，今天也盡快把任務完成吧！辦公室在這邊——<br>
 嗯？辦公室裡面好像除了指揮官還有其他人……<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 呵呵，不客氣~以後還有需要的話，隨時找我就好了<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （這說話的聲音是……光輝？）<br>
 <span style="color:#4eb24e;">光輝：</span><br>
 那麼，我就先告辭了~<br>
-<span style="color:#4eb24e;">光辉：</span><br>
 哎呀，厭戰前輩，早上好。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 早，早上好……<br>
 ……<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 ……<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （這，這種撲面而來的挫敗感是怎麼回事……）<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 前輩，臉色好像不太好……是沒有休息好嗎？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 有，有點吧。不過不用擔心，一點點疲勞沒有影響的。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 那我就先告辭了。前輩的工作也要加油呢。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯，謝謝。<br>
 ……<br>
 委託報告是在這裡……<br>
 （仔細一想的話，我的後輩們……）<br>
-<span style="color:#4eb24e;">纳尔逊：</span><br>
+<span style="color:#4eb24e;">納爾遜：</span><br>
 ……<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 ……<br>
-<span style="color:#4eb24e;">小天鹅：</span><br>
+<span style="color:#4eb24e;">小天鵝：</span><br>
 ……<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （不行啊，感覺自己完全比不過）<br>
 啊？<br>
 呃…抱歉指揮官，發了會呆。<br>
@@ -218,25 +217,25 @@
 （啊哈，總覺得心情變得舒坦多了）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=女王陛下，您……？|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=女王陛下，您……？|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
 六 女王陛下，您……？<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 這是為兩位泡的紅茶，請慢用。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 嗯，辛苦了。<br>
 （現在是慣例的和女王陛下一起享茶的時間。不過參加的人還沒到齊，現在只有我和陛下兩個人……）<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 我說，厭戰啊<br>
 最近…妳在本王身邊的時間是不是有點…變少了？相比之下指揮官在一起的時間倒是越來越長…<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 ……有這樣的事情嗎？<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 也可能只是本王的錯覺而已<br>
 我我我我可沒有覺得寂寞啦嫉妒啦什麼的哦？只只只不過是一點小小的關心而已！<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 ……陛下<br>
 （仔細想想，這幾天除了秘書艦的工作之外，好像還和指揮官說了不少話。從皇家海軍史到艦隊戰術的商討，我們好像也聊了很多話題）<br>
 （和指揮官聊天的時候，總感覺心情很愉悅，平日裡承擔的壓力也消散了不少）<br>
@@ -246,28 +245,28 @@
 （……）<br>
 （不可能…吧）<br>
 ！！<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 怎、怎麼了，厭戰？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 沒，沒什麼，在想事情而已。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 …總之，厭戰妳有什麼想法的話，本王也不會去干涉的。畢竟自己的問題也要自己才能解決呢，咳咳……<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （陛下的表情，總覺得好像有些深層含義在裡面……）<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 打擾了。<br>
 非常抱歉，陛下。因為一些事情耽誤了時間，讓二位久等了。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （茶會就要正式開始了）<br>
 （不過，剛剛女王陛下說的話稍微讓我有些在意啊……）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=守護之劍|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=守護之劍|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 皇家的騎士<br>
 <br>
 七 守護之劍<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 啊！！<br>
 (將被吞入那暗藍深淵的無力感，即便自己被擊沉也要守護的夥伴們、陛下、還有……)<br>
 原來是惡夢嗎……我還以為自己真的要被擊沉了<br>
@@ -275,7 +274,7 @@
 ……稍微出去走走吧，得小心不要吵醒了陛下才行<br>
 <br>
 港區·指揮室附近<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 結果不知不覺就來到了這裡。難道我一直都在想著…指揮官？<br>
 嗯？都這個時間了，辦公室還是亮著的…？<br>
 ……稍微進去看看吧<br>
@@ -291,17 +290,17 @@
 （所以，現在就請先安心地睡吧）<br>
 （我也……）<br>
 唔唔…我這是…睡著了嗎<br>
-<span style="color:#4eb24e;">声望：</span><br>
+<span style="color:#4eb24e;">聲望：</span><br>
 真，真的嗎！那，那可是那個厭戰前輩啊！<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 是真的！本王親眼看到她在辦公室里和指揮官一起趴著！<br>
 雖然本王已經猜到了…但，但是沒有想到，事情會發展得如此之快…<br>
 明明是本王的貼身侍衛…等接下來本王見到了她，一定要問個明白！<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 呵呵…這可真是……<br>
-<span style="color:#4eb24e;">威尔士亲王：</span><br>
+<span style="color:#4eb24e;">威爾斯親王：</span><br>
 堅硬的戰士也有少女的一面嗎，哈哈<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 （唔，竟然變成這樣的傳聞了…得找個向女王陛下解釋的說法才行…）<br>
 （不過…我已經不會再動搖了）<br>
 （哼，我可是厭戰，我是不會讓任何人阻撓我和指揮官的事情的！）<br>

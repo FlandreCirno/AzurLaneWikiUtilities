@@ -1,6 +1,6 @@
 == Schmelzen  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Secretary Ship|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Secretary Ship|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>
@@ -33,7 +33,7 @@ As expected of the exemplar ship of the Iron Blood, there's really nothing to cr
 But... why do I somewhat feel like I'm being kept at an arm's distance...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mission|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mission|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>
@@ -81,7 +81,7 @@ I'm... a comrade... Alright, I get it.<br>
 Watching the Little Beavers until they disappeared, Tirpitz began walking.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Practice Exercise|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Practice Exercise|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>
@@ -126,7 +126,7 @@ Sorry. Without realizing it, I started to wonder if all sisters could become lik
 Tirpitz displayed a somewhat lonely expression.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sortie|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sortie|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>
@@ -170,7 +170,7 @@ Let's report this situation to the Commander.<br>
 (What... did I...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Everyone's Secretary Ship|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Everyone's Secretary Ship|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>
@@ -217,7 +217,7 @@ Tirpitz didn't seem to know that she was the reason why more people had been vis
 She didn't seem to realize that she was smiling radiantly in front of everyone.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Queen's Smile|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Queen's Smile|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>
@@ -253,7 +253,7 @@ Tirpitz smiled warmly.<br>
 As I thought, a smile fits her the best.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Warmth|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Warmth|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 「Schmelzen」<br>
 <br>

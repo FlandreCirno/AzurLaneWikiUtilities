@@ -1,6 +1,6 @@
 == Chapter 4 - Upon Crimson Winds ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Ocean Voyage|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ocean Voyage|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 East Méditerranée - International Canal<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
@@ -48,7 +48,7 @@ Outsiders are outsiders after all. Nobody else will fight for the future of the 
 I shall reveal the secrets of this ocean with my own two hands~ Ahahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sardegna|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sardegna|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Littorio：</span><br>
 Welcome to the Méditerranée, my lovely ladies. I am Littorio, from the Sardegna Empire. You must all be weary from your long journey~<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -87,7 +87,7 @@ Of course, there is little to be worried about. I have personally formed a fleet
 But let us tarry here no longer, my beautiful Signorinas. The fine wine and delicacies of Taranto await.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Taranto|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Taranto|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Littorio：</span><br>
 Behold, the wondrous port of Taranto. ...Ah, did the Royal Navy arrive before us?<br>
 My sincerest apologies for being absent to greet Her Majesty’s arrival.<br>
@@ -118,7 +118,7 @@ Now now, everyone, let’s calm down~ We’re all here for the sake of peace, so
 We’ll begin the negotiations when the Iron Blood arrives. Until then, please enjoy everything Taranto has to offer.~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Leaving Midway|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Leaving Midway|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kaga：</span><br>
 Sister, are you just going to leave Taranto like that?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -151,7 +151,7 @@ No, we need to make a visit to the Vichya Dominon’s port of Dakar first.<br>
 After all, I’m dying to find out about the “present” the Iron Blood prepared for us. Ahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dakar|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dakar|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kaga：</span><br>
 Is that Dakar up ahead? I heard that this one of the Vichya Dominion’s most important ports, but it looks rather deserted...<br>
 <span style="color:#4eb24e;">Jintsuu：</span><br>
@@ -179,7 +179,7 @@ You bet! I have plenty of ideas I’m dying to try out as soon as we get back!<b
 (Nay... If there’s something you want, you must seize it yourself...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Solo Operation|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Solo Operation|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akagi：</span><br>
 The Iron Blood doesn’t seem to be coming. Is this their idea of a joint operation?<br>
 <span style="color:#4eb24e;">Z2：</span><br>
@@ -217,7 +217,7 @@ Thank you very much.<br>
 No problem. Please follow me to the resupply and maintenance area.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Uncertainty|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Uncertainty|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 Look at how these enemies crumble before Yukikaze the Great!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -235,7 +235,7 @@ Indeed. Yuubari, collect a Siren sample to bring back home. Once we get back to 
 Make it quick though. There are greater rewards waiting for us ahead.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Incursion|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Incursion|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Jintsuu：</span><br>
 Akagi, don’t you think we’ve rushed in a bit too deep?<br>
 We haven’t encountered significant resistance from the Sirens yet, but the intensity of their counterattacks is gradually increasing.<br>
@@ -255,7 +255,7 @@ Very well, I’ll get in touch with them.<br>
 All units, stay in formation and advance!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Anomaly|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Anomaly|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 ...Eh? Where’d all this fog come from?<br>
 <span style="color:#4eb24e;">Jintsuu：</span><br>
@@ -285,7 +285,7 @@ Kaga? Jintsuu?! ...Yuubari! Yukikaze!<br>
 ...What in the world just happened...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Illusion|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Illusion|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akagi：</span><br>
 The smell of gunpowder in the air... I’ve been here before... Mid...way...?<br>
 Yes... Yes... It is! I remember, this is Operation AF! That Grey Ghost is here!<br>
@@ -314,7 +314,7 @@ The strong devour the weak... The fit survive... Such is the nature of... this..
 —————That voice... Shoukaku... Zuikaku...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Substitute|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Substitute|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kaga(BB)：</span><br>
 Akagi! Yuubari! Jintsuu! Yukikaze! Where are you?!<br>
 (Impossible... How did everyone just disappear? But, I should consider myself lucky for not getting attacked...)<br>
@@ -390,7 +390,7 @@ We haven’t been affected so far, but that’s not to say we won’t get attack
 Crap...! I just realized, what if the others are going through the same thing Kaga was? We have to find them quickly!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Warrior’s Awakening|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Warrior’s Awakening|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Yuubari：</span><br>
 Thanks for rescuing me... According to my research, this sea fog definitely has a hallucinogenic component, which is responsible for giving us illusions.<br>
 As for why it didn’t affect Yukikaze... Maybe she was lucky enough to get out of it before it could affect her. Or maybe she doesn’t have enough going on in her head for the Sirens to toy with...<br>
@@ -424,7 +424,7 @@ So everything that happened was an illusion after all... Ugh, my head hurts... W
 We’ve found everyone except Akagi! Let’s head back and look for her together!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Arbitrating Sage|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Arbitrating Sage|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Zuikaku：</span><br>
 That’s Akagi over there, isn’t it? I can’t see clearly from this ditance though...<br>
 <span style="color:#4eb24e;">Shoukaku：</span><br>
@@ -462,7 +462,7 @@ Are you fine with that, Kaga?<br>
 No objections. Prepare for combat - we have no room for error.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Escape|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Escape|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shoukaku：</span><br>
 I don’t think I’m landing a single hit... Zuikaku, what about you?<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>

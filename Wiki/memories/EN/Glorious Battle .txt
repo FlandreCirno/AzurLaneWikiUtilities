@@ -1,6 +1,6 @@
 == Glorious Battle  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ark Royal：</span><br>
 The first wave has arrived at the rendezvous point and the second is ready to depart. I'd say Operation Alphabet is progressing smoothly! Victory is just beyond the horizon now.<br>
 ... You did a great job accommodating those planes during the evacuation, Glorious. I'm granting you permission to proceed independently with your escorts. Oh, by the way? Next time, make sure there's fuel in those tanks.<br>
@@ -22,7 +22,7 @@ R-right, of course... In any event, I'd better be on my way now!<br>
 (She's like me, in a way...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ideas and Attacks Pt. 1|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ideas and Attacks Pt. 1|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Acasta：</span><br>
 *Yaaaawn*...<br>
 <span style="color:#4eb24e;">Ardent：</span><br>
@@ -46,7 +46,7 @@ I let my guard down, and we're not in combat formation... Ardent, count the numb
 Aye-aye, ma'am!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ideas and Attacks Pt. 2|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ideas and Attacks Pt. 2|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#D6341D;">Admiral Hipper：</span><br>
 Bah. I thought we had a big one on the hook; turns out it's just you twerps.<br>
 <span style="color:#4eb24e;">Glorious：</span><br>
@@ -58,7 +58,7 @@ Huh?! You've got a lot of nerve, saying that to my face... Just hold still and I
 Very well! Have at you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ideas and Attacks Pt. 3|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ideas and Attacks Pt. 3|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Glorious：</span><br>
 This should be enough for us to get away... Ardent, Acasta, change course and cover our escape! We're retreating!<br>
 <span style="color:#4eb24e;">Ardent & Acasta：</span><br>
@@ -69,7 +69,7 @@ Admittedly, I let my guard down, but that was a fine battle! Miss, uh... Admiral
 Y-you're running away?! Dammit, this means more chasing for me... This isn't over, you hear!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pursuit and Escape Pt. 1|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pursuit and Escape Pt. 1|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#D6341D;">Gneisenau：</span><br>
 Ah, you're back, Hipper. Did you manage to "single-handedly take down the Royal Navy twerps without breaking a sweat," like you said you would?<br>
 <span style="color:#D6341D;">Admiral Hipper：</span><br>
@@ -86,7 +86,7 @@ Believe me, I'm raring to go. I'll head wherever there's a fight to be had. C'mo
 "Avenge"? I'm not pushing up daisies over here, you know! Hey! Wait for me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pursuit and Escape Pt. 2|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pursuit and Escape Pt. 2|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Glorious：</span><br>
 I had a feeling I got away too easily... But if I must fight to survive, then I will...!<br>
 <span style="color:#D6341D;">Gneisenau：</span><br>
@@ -99,7 +99,7 @@ I'm honored that you know my name. And no, I can't simply let you be on your mer
 That leaves me with little choice but to fight you...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pursuit and Escape Pt. 3|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pursuit and Escape Pt. 3|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ardent & Acasta：</span><br>
 Glorious!<br>
 <span style="color:#4eb24e;">Glorious：</span><br>
@@ -111,7 +111,7 @@ I will be fine. I'm tougher than I look!<br>
 (It's true, I am... But if I'm forced into yet another battle, it may be my last...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ironblood Sisters|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ironblood Sisters|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#D6341D;">Scharnhorst：</span><br>
 So, how was she like?<br>
 <span style="color:#D6341D;">Gneisenau：</span><br>
@@ -126,7 +126,7 @@ Interesting. So she's worthy of my attention, then. Oh, how I long for a good fi
 Then let's continue with the operation. The enemy is injured; catching up to her won't be particularly difficult.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=War for Glory|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=War for Glory|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Glorious：</span><br>
 You're much faster than I imagined...! And now, with two of you, it seems fleeing is no longer an option for me...<br>
 <span style="color:#4eb24e;">Gneisenau：</span><br>
@@ -155,7 +155,7 @@ Save your analogies for later! Let's just take 'em out before it's too late!<br>
 I suppose we have no other choice...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Glory's Curtain Call|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Glory's Curtain Call|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Glorious：</span><br>
 (I bet Ark is going to be quite upset with me...)<br>
 (If only I'd stayed vigilant, this wouldn't have happened... No, this all happened because I asked for permission to proceed independently...)<br>

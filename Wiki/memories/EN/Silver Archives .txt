@@ -1,6 +1,6 @@
 == Silver Archives  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Archive Log I|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Archive Log I|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Access authentication in progress–––<br>
 Archived data from [CV-3 Saratoga] –– Access Level: II<br>
@@ -21,7 +21,7 @@ Understood. Deleting records of recording log.<br>
 Deletion complete. Continuing playback of recording log.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Archive Log II|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Archive Log II|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Access authentication in progress–––<br>
 Archived data from [CV-3 Saratoga] –– Access Level: II<br>
@@ -43,7 +43,7 @@ Understood. Ending playback of recording log.<br>
 Beginning search and analysis for the next recording log.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Archive Log III|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Archive Log III|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Access authentication in progress–––<br>
 Archived data from [CV-3 Saratoga] –– Access Level: II<br>
@@ -66,7 +66,7 @@ Understood. Ending playback of recording log.<br>
 Beginning search and analysis for the next recording log.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Silver Archives IV|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Silver Archives IV|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Access authentication in progress–––<br>
 Archived data from [CV-3 Saratoga] –– Access Level: II<br>

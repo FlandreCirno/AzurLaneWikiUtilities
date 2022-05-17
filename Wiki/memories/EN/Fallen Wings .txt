@@ -1,6 +1,6 @@
 == Fallen Wings  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 “...I thought... by defeating all of my enemies... I’d finally get some peace.”<br>
 “But it appears... the future has betrayed us.”<br>
@@ -26,7 +26,7 @@ No matter, whoever did this, they certainly saved us a lot of trouble. I really 
 Let’s explore the surroundings, see if we can collect any useful intel——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Inburst|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Inburst|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Helena：</span><br>
 There’s no match in our database for Sirens... could this be a new model?<br>
 <span style="color:#4eb24e;">Washington：</span><br>
@@ -35,7 +35,7 @@ Interesting, it appears everything’s been destroyed and turned into ruin... an
 In any case, we should take charge. Find out what is this Siren’s motives are and what she’s trying to do.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Preparation|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preparation|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Helena：</span><br>
 Attention! Unknown enemy unit ahead and fast approaching, all ships alert battlestations!<br>
 <span style="color:#4eb24e;">Washington：</span><br>
@@ -46,7 +46,7 @@ New type of Siren ship... it appears they’re constantly imitating our battle f
 Hmph! Perfect, then let's show them the real fighting style of the Eagle Union!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Scene I|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Scene I|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">？？？：</span><br>
 There are no special observations from “Key Point G”... and… Eagle Union’s special task force is intercepting the target.<br>
 It appears that “Key Point G” is secretly sending a signal which has attracted these wasps.<br>
@@ -58,7 +58,7 @@ Understood, starting to accordingly divert our resources immediately.<br>
 So… “Key Point G”… How can I seduce you again this time around? Hehehe...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Exploration|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Exploration|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Washington：</span><br>
 Hey, this group of playthings is so fragile, please tell me you have more powerful ships waiting for us?<br>
 <span style="color:#4eb24e;">North Carolina：</span><br>
@@ -74,7 +74,7 @@ Sigh, will we never get rid of these annoying pests?<br>
 Bring it on, let me use my 16-inch cannon to smash you into iron slags!!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Scene II|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Scene II|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Log_AtX15.00252.5.142——Start Recording<br>
 <span style="color:#D6341DFF;">Observer α：</span><br>
@@ -98,7 +98,7 @@ No matter how many times... My choice will always be the same...<br>
 Until... I find that person ——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Scene III|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Scene III|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 "Commander, there are so many stars tonight... could they all be different civilizations like you said?"<br>
 "Could they be just like us? Do they eat food, play, and chit chat like us?"<br>
@@ -121,7 +121,7 @@ The Memory module reader has been interrupted, trying to restart.<br>
 …<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Uncertainty|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Uncertainty|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Helena：</span><br>
 I just received a strange encrypted message... source unknown... trying to decrypt now...<br>
 <span style="color:#4eb24e;">North Carolina：</span><br>
@@ -142,7 +142,7 @@ Miss Helena, you’re as reliable as ever~<br>
 Now, let’s continue moving forward towards the source of that signal.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cutscene IV|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cutscene IV|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 ……————<br>
 Warning. Warning—— The 5th defense line has been broken—— Warning. Warning<br>
@@ -173,7 +173,7 @@ Mission accepted.<br>
 So, at least for the very end, we should have beautiful fireworks for our curtain call——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Crisis|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Crisis|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Helena：</span><br>
 The situation is not good... although we sink two new models... but there are still a lot of signals coming towards us.<br>
 ...We seem to be completely surrounded.<br>
@@ -255,7 +255,7 @@ No... you’re mistaken.<br>
 ... To help us correct the wrongdoings of the future?”<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Abyss|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Abyss|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#D6341DFF;">Observer α：</span><br>
 “Key Point G” has left the mirror sea area, tracking signal lost.<br>
 <span style="color:#ff0000;">Observer β：</span><br>
@@ -268,7 +268,7 @@ After all, what's that human saying?<br>
 Hehehe...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unknown Encounter |选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unknown Encounter |选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Helena：</span><br>
 The SG radar is picking up something, it located the unknown Siren ship model.<br>
 This is… a courier?<br>
@@ -289,7 +289,7 @@ Correct. We can use these mines to block our opponent’s escape route. This way
 Hehe, this is getting more and more interesting! Ok, let’s have ourselves a happy little chase!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=EXTRA|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=EXTRA|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Dearmweaver：</span><br>
 “The Creator said to them, I recently saw Calamity fall from the sky, like a flash of lightning.”<br>
 “All those who followed its rebellion turned into the ugliest of images, but they all still retained their glowing wings.”<br>

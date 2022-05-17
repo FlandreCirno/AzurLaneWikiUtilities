@@ -1,6 +1,6 @@
 == Angel or Devil in White?  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Resupply Surprise?|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Resupply Surprise?|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Angel or Devil in White?<br>
 <br>
@@ -50,7 +50,7 @@ A~ny~ways~! I'll be taking this nurse uniform off your paws!<br>
 Well, since it's just an outfit, we can just ask Commander to deduct it from her paycheck. Let's continue checking the supplies and worry about that later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vampire's Allure|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vampire's Allure|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Angel or Devil in White?<br>
 <br>
@@ -94,7 +94,7 @@ I never accused her of trying to seduce anyone...<br>
 But maybe I did go a bit overboard... Sorry, Your Excellency. I'll make sure to apologize to Vampire later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vampire, New Nurse?|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vampire, New Nurse?|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Angel or Devil in White?<br>
 <br>
@@ -132,7 +132,7 @@ Ah! So that big dummy is also having second thoughts about being so cold to poor
 *sigh*...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Emergency?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Emergency?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Angel or Devil in White?<br>
 <br>
@@ -169,7 +169,7 @@ Understood!<br>
 Let's go, Commander! We can't keep the patient waiting!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vampire, Pro Nurse!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vampire, Pro Nurse!|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Angel or Devil in White?<br>
 <br>

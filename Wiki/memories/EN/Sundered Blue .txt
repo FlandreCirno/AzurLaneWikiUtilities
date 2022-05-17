@@ -1,6 +1,6 @@
 == Sundered Blue  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Making an Entrance|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Making an Entrance|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 West of SP Island - Afternoon<br>
 <span style="color:#4eb24e;">Princeton ：</span><br>
@@ -62,7 +62,7 @@ Alright!<br>
 (Neutralizing the enemy's air forces... it's a small mission, but it's time to focus!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Minor Investigation|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Minor Investigation|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Princeton ：</span><br>
 A small number of Sakura Empire ships spotted up ahead. I wonder if they're the island's defense fleet.<br>
 <span style="color:#4eb24e;">Reno：</span><br>
@@ -75,7 +75,7 @@ Roger. Birmingham, ready for combat.<br>
 Alright, let's get to work!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Person I Admire - Pt. 1|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Person I Admire - Pt. 1|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Reno：</span><br>
 Princeton, you looked really cool out there!<br>
 <span style="color:#4eb24e;">Princeton ：</span><br>
@@ -113,7 +113,7 @@ Yeah, that really deep admiration of someone. Wait... I'm getting a message from
 ...Shoot! It's an enemy air raid! Everyone, prepare for combat!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sunder the Blue Skies|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sunder the Blue Skies|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 West of SP Island — Eagle Union's Main Fleet<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -131,7 +131,7 @@ I'm not planning on letting any through... But if any do make it past me, I'll l
 Sure thing! Hehe, let's take care of them in one fell swoop!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Intercepting the Enemy|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Intercepting the Enemy|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Princeton ：</span><br>
 I've wrapped things up here as well. We should head back and rejoin the main fleet...<br>
 Huh? What's this signal?!<br>
@@ -148,7 +148,7 @@ Princeton! Birmingham! They're coming!<br>
 Ahahaha... How shall I break you all...?.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tradeoffs|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tradeoffs|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Birmingham：</span><br>
 The enemy's attack force has retreated. Now leaving combat.<br>
 <span style="color:#4eb24e;">Reno：</span><br>
@@ -180,7 +180,7 @@ Hopefully, this will sow some chaos among the enemy fleet.<br>
 (Things don't seem to be going badly at all. Let's hurry and group up with the main fleet.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Person I Admire - Pt. 2|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Person I Admire - Pt. 2|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Shoukaku：</span><br>
 Zuikaku, Taihou seems to have been hit by a torpedo.<br>
 <span style="color:#ec5d53;">Zuikaku：</span><br>
@@ -214,7 +214,7 @@ Then, there's...<br>
 (Hehe, I might get along with her.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Second Strike|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Second Strike|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Princeton ：</span><br>
 We've spotted more squadrons of planes from the Sakura Empire. There are more this time around.<br>
 <span style="color:#4eb24e;">Reno：</span><br>
@@ -234,7 +234,7 @@ Leave it to me!<br>
 Roger.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Princeton ：</span><br>
 There's too many of them... At this rate, we're going to be in trouble!<br>
 <span style="color:#4eb24e;">Reno：</span><br>
@@ -265,7 +265,7 @@ That's why we've come here to help you out! Okay, let's go and wrap things up!<b
 Roger! Everyone, get in anti-air formation and repel the enemy!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Clear Skies|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Clear Skies|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Zuikaku：</span><br>
 Damnit, Enterprise! ...Ugh, is it impossible to take down the Eagle Union's Task Force?<br>
 <span style="color:#ec5d53;">Shoukaku：</span><br>

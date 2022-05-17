@@ -1,6 +1,6 @@
 == Saffron Travelogue  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Fond Memory|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fond Memory|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>
@@ -37,7 +37,7 @@ She really was like that when she first arrived at port. Whatever she was doing,
 I only learned about the other side of her a while after she'd gotten used to this place...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Concerns of a Friend|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Concerns of a Friend|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>
@@ -84,7 +84,7 @@ Ah, Commander, you could observe us if you'd like. This is nothing top-secret, s
 Since she offered me, I figured "why not?" and decided to come along.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Clash of Minds|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Clash of Minds|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>
@@ -138,7 +138,7 @@ Sounds like we have ourselves a battle, then!<br>
 And it sounded like I'd gotten dragged into being their referee...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Know Your Enemy|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Know Your Enemy|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>
@@ -175,7 +175,7 @@ Ahh... Achooo!<br>
 *sniff*... I've got a hunch like somebody's talking about me...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Enemy of My Enemy|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Enemy of My Enemy|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>
@@ -216,7 +216,7 @@ Holy cow, look! She's written down every single thing you said!<br>
 Their conversation, if one could call it that, carried on for a while.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Ace Up Her Sleeve|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Ace Up Her Sleeve|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>
@@ -274,7 +274,7 @@ They both achieved hits on each other at the same time.<br>
 So... it's a draw...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=After the Battle|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=After the Battle|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Saffron Travelogue<br>
 <br>

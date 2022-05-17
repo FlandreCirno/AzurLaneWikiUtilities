@@ -1,6 +1,6 @@
 == 萬能看板娘{namecode:20} ==
 {{折叠面板|开始}}
-{{折叠面板|标题=冷靜的{namecode:20}|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=冷靜的{namecode:20}|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>
@@ -31,22 +31,22 @@
 為了探明這兩個問題，稍微採取一些行動吧……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=看板娘的日常|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=看板娘的日常|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>
 二　看板娘的日常<br>
 港區·軍火商店<br>
 休息日，躲在商店外的灌木裡，悄悄觀察店內的情況。<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 {namecode:20}，拜託妳的那個到貨了嗎？<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 還沒有，到了的話我會親自給妳送過去的。<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 那就謝謝了，老樣子，不要讓大家知道哦？<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 我知道，雖然我覺得遲早……不，肯定已經有人發現妳的“秘密”了。<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 妳還真是一如既往地嘴上不饒人……算了，總之拜託妳了。<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 嗯。<br>
@@ -74,44 +74,44 @@
 ……從旁觀者的角度來看，{namecode:20}好像確實是個相當出色的老闆娘。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=看板娘與小夥伴們|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=看板娘與小夥伴們|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>
 三　看板娘與小夥伴們<br>
 港區·軍火商店<br>
 這個休息日，又躲在商店外的灌木裡，悄悄觀察店內的情況。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 拜託了，{namecode:20}，看在過去交情的份上，接受這次採訪吧！<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 我們之間也沒有熟到那份上吧。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 讓人難以接近又充滿神秘感，如同幽靈般的艦隊商店老闆娘，這個訪談一定會大賣的！<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 ……如果妳在報導中幫我宣傳店鋪的話，倒不是不能考慮。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 沒問題！那就讓我們馬上開始吧！<br>
 首先，頭上的耳朵果然是因為幽靈的原因故意這樣的嗎？<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 ……只是整理東西裡碰壞過幾次，覺得換掉比較浪費，就修補了一下。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 呃……那傳聞其實是幽靈體質是真的嗎？<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 妳是笨蛋嗎？<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 那身邊的鬼火呢？！<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 因為比較有趣，從{namecode:98}那裡拿來的飛行道具而已。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 欸欸欸……那、那能看到幽靈也是……？<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 那個倒是偶爾確實能看到呢。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 啊，果然也是編造的……<br>
 欸？？？是真的嗎？！<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 真的，比如現在趴在妳背上就有一隻……<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 哇啊啊啊啊啊！<br>
 <span style="color:#4eb24e;">{namecode:20}：</span><br>
 雖然是騙妳的就是了……<br>
@@ -121,7 +121,7 @@
 不過，總覺得她剛才瞟了一眼這邊，大概是錯覺……吧？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=店內交流？|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=店內交流？|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>
@@ -170,7 +170,7 @@
 似乎，又理解了一點{namecode:20}的樣子。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=看板娘的異狀|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=看板娘的異狀|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>
@@ -214,7 +214,7 @@
 去{namecode:98}那裡看看吧。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=看板娘的真心·上|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=看板娘的真心·上|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>
@@ -254,7 +254,7 @@
 哈……真是個笨蛋呢。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=看板娘的真心·下|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=看板娘的真心·下|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 萬能看板娘{namecode:20}<br>
 <br>

@@ -1,6 +1,6 @@
 == Microlayer Medley  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Bridge|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bridge|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Communication：</span><br>
 This is NY City. Requesting status report, over.<br>
 This is Baltimore. We are en route to the Canal Stronghold. We've sent you our coordinates, over.<br>
@@ -28,7 +28,7 @@ To rescue a fleet that has been swallowed by the dark mist...<br>
 The warriors of the Eagle Union must once again push forward into the destruction that awaits...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rescue Fleet|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rescue Fleet|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 A few days ago, a patrol fleet lead by Baltimore suddenly went missing in a mysterious fog en route to the Canal Stronghold.<br>
 A rescue fleet was immediately formed to locate the missing fleet, and to lend aid to the stronghold.<br>
@@ -63,7 +63,7 @@ However, given the present conditions, we don't have a lead as to where to start
 For the time being, let's head back and join up with the stronghold reinforcement fleet. We can organize our information and then draft a rescue plan.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Stronghold|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Stronghold|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Surrounding waters<br>
 <span style="color:#4eb24e;">Bunker Hill：</span><br>
@@ -116,7 +116,7 @@ It's no big deal. After this, let's all help search.<br>
 There's a lot of territory to cover just to the east of the canal. We're going to have our work cut out for us.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Deep in Thought|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Deep in Thought|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Eastern region<br>
 With the help of her allies, Enterprise launched a search in the waters to the east of the Canal Stronghold.<br>
@@ -141,7 +141,7 @@ So, the Sirens were behind this after all...<br>
 ………………………………<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Disappearance|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Disappearance|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold<br>
 <span style="color:#4eb24e;">Marblehead：</span><br>
@@ -179,7 +179,7 @@ No no, that's impossible. Enterprise isn't a scatterbrain like me...<br>
 Showing up now of all times?! So they were aiming for the stronghold after all...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ambush|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ambush|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Surrounding waters<br>
 <span style="color:#4eb24e;">Essex：</span><br>
@@ -211,7 +211,7 @@ Um, so the game plan is, take out the Siren's ringleader, and resume the search 
 Exactly! I'm sure Bunker Hill's fleet is thinking the same thing!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Creeping Mist|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Creeping Mist|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cooper：</span><br>
 One point to Cooper, zero to the Sirens!<br>
 <span style="color:#4eb24e;">Intrepid：</span><br>
@@ -231,7 +231,7 @@ Baltimore also went missing in a thick fog...<br>
 Huh? How'd the fog spread here so quickly?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fragments I|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fragments I|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 ??? ???<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -252,7 +252,7 @@ As if responding to Enterprise's words, the sound of engines whirring could be h
 Is someone else here...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Teamwork|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Teamwork|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold Bay<br>
 <span style="color:#4eb24e;">Bremerton：</span><br>
@@ -288,7 +288,7 @@ But, taking on the Sirens, huh? That's just the exercise I was itching for!<br>
 Heheh, let's dance until you can't move anymore!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mission|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mission|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Out at sea<br>
 <span style="color:#4eb24e;">Bunker Hill：</span><br>
@@ -329,7 +329,7 @@ As a member of the Baltimore class, there's no way I'd lose to some small fry he
 (Baltimore... please stay safe...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Duties|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Duties|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 <span style="color:#4eb24e;">Essex：</span><br>
@@ -363,7 +363,7 @@ Don't worry! Look, I do this all the time!<br>
 Destroyer Cooper, setting sail!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fragments II|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fragments II|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 ??? ???<br>
 ...A lone ship continued to sail through the fog.<br>
@@ -393,7 +393,7 @@ Was that... an illusion?<br>
 Sirens... what are you plotting...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Engagement|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Engagement|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 Intrepid, any good news from your recons?<br>
@@ -441,7 +441,7 @@ Intrepid, thanks a ton! You were a great help!<br>
 Huhhh?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Prize|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Prize|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Intrepid：</span><br>
 "Cooper here. I've detected a new type of mass-produced Siren ship that emits some purple glow while patrolling."<br>
 "It looks pretty tough, but I think my Cyclone Smasher works on it. Wish me luck!"<br>
@@ -457,7 +457,7 @@ All right. Let's go bail Cooper out, defeat the Sirens, and lift this mist.<br>
 Roger that!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pulled Under|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pulled Under|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Intrepid：</span><br>
 Push forward with everything you've got!<br>
 <span style="color:#4eb24e;">Marblehead：</span><br>
@@ -483,7 +483,7 @@ Marblehead, Cooper, I'm counting on you to locate the other enemies with your so
 That Siren over there is equipped with a cannon! Make sure to watch out for shelling!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Bluegill?!|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bluegill?!|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Intrepid：</span><br>
 Phew... looks like this is the last one. Anti-submarine warfare is no fun at all.<br>
 I'm glad everyone was prepared for this!<br>
@@ -528,7 +528,7 @@ Woahh, Intrepid, when did you get converted into a submarine?!<br>
 Woah woah, don't get mad at me! I'll carry you up right now!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Respite|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Respite|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Purifier：</span><br>
 Nnnnnnnnghh! I'm soooooo tiiiiired!<br>
 <span style="color:#ec5d53;">？？？：</span><br>
@@ -563,7 +563,7 @@ Sure, sure. I was on my way out anyway.<br>
 Resuming playback. The next "fragment" is...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fragments III|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fragments III|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 ??? ???<br>
 She followed the direction that the shadow was facing before it disappeared.<br>
@@ -597,7 +597,7 @@ Working with... the Sirens?! What are you plotting?<br>
 Once again, the shadows disappeared, leaving Enterprise alone in the still sea.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breakthrough|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breakthrough|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold - Bay<br>
 Under the cover of the mist, the Siren forces encroached upon the Canal Stronghold.<br>
@@ -645,7 +645,7 @@ The stronghold's firepower is overwhelming compared to what us ships can muster.
 We need to take the initiative, break their lines, and cut off their reinforcements...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Return|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Return|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 Right before Intrepid and the others arrived at the Canal Stronghold...<br>
@@ -683,7 +683,7 @@ Owwie... Huh? Where'd the Siren fleet go? Where am I...?<br>
 Wait... Is that Intrepid over there?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sidekick|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sidekick|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 <span style="color:#4eb24e;">Bremerton：</span><br>
@@ -713,7 +713,7 @@ Woah, that feels really heroic. Very cool, Bremerton!<br>
 Heh, another target's coming our way. Maybe this one's the flagship. Let's gooo!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Disaster|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Disaster|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 ――――<br>
 <span style="color:#4eb24e;">Bunker Hill：</span><br>
@@ -744,7 +744,7 @@ How does a huge wave like this appear out of nowhere?! Hang on, everyone!<br>
 The ships were desperately hanging on as a wall of water began to swallow the mass-produced Sirens.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fragments IV|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fragments IV|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Ark Royal：</span><br>
 They're here, Enterprise.<br>
 <br>
@@ -773,7 +773,7 @@ The shadows once again melted into the fog, none of them responding to Enterpris
 Fragment replay, complete.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rendezvous|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rendezvous|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 The waves dissolved and the sea became still as if nothing had happened... except the mist still lingered.<br>
@@ -836,7 +836,7 @@ That's true, but at least we're all together now, right? What we need to do now 
 Find the source of this mist!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Defense Mechanism|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Defense Mechanism|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Bluegill：</span><br>
 Oh, by the way, I found the enemy flagship!<br>
 I'm almost certain it's that really big ship that slipped into a swarm of submarines!<br>
@@ -865,7 +865,7 @@ Anyway, we've got to keep our eyes peeled from attacks from beneath!<br>
 I'll help out! This time, I'll make sure to land that Victory Snipe!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hero's Party|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hero's Party|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Reno：</span><br>
 The scattered heroes joined forces to face the supervillain...<br>
 A bit cliché, but it's still an exciting plot development!<br>
@@ -919,7 +919,7 @@ Reno, you'll be the hero who protects us from enemy planes!<br>
 Cooper, you'll be the hero who protects us from enemy subs! Right~?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sister Ships|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sister Ships|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 <span style="color:#4eb24e;">Casablanca：</span><br>
@@ -950,7 +950,7 @@ Let's both do our best then.<br>
 That's right. Let's make sure everyone gets home safely!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fragments V|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fragments V|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 ??? ???<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -1007,7 +1007,7 @@ I'm so glad everyone is safe! Right now...<br>
 Not here... the Commander...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Might of the Essex Class|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Might of the Essex Class|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 Canal Stronghold? - Out at sea?<br>
 As the mist began to recede, Intrepid could be seen fiercely fighting back wave after wave of Siren forces.<br>
@@ -1059,7 +1059,7 @@ Ehhhhh?!<br>
 All right, my recon planes! Take us to the enemy core flagship!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Compiler|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Compiler|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM!<br>
 The very land roars. The ocean waters rage and space itself seems to unravel as if split by an earthquake.<br>
@@ -1092,7 +1092,7 @@ Output: 70%.<br>
 She's starting her attack! Everyone, take cover!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Transformation|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Transformation|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 BOOOOM!<br>
 <span style="color:#4eb24e;">Casablanca：</span><br>
@@ -1117,7 +1117,7 @@ Got it! Just leave it to me!<br>
 You're the one who attacked the stronghold and abducted Enterprise... I won't let you get away!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mist Clears|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mist Clears|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 After receiving the focused fire from Intrepid and the others, the Siren was unable to complete her transformation and appeared heavily damaged.<br>
 <span style="color:#4eb24e;">Reno：</span><br>
@@ -1168,7 +1168,7 @@ C'mere, Enterprise, we need you too.<br>
 Indeed. Welcome back. I'm glad that you're all safe.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Party|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Party|选项=33|主框=1|样式=primary|展开=是}}
 <br>
 Bermuda Triangle - Mist<br>
 The Baltimore fleet was locked in combat with Purifier.<br>
@@ -1224,7 +1224,7 @@ Doesn't look like it will be possible as long as we're trapped in this mist. But
 Hmm... If I remember properly, the way it was made...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Stars in the Firmament|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Stars in the Firmament|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 A sea, dyed a dark red by flames and smoke. Tarnished by wanton violence and destruction.<br>
 Tattered flags floated in the water. Debris and bodies alike were strewn everywhere unceremoniously.<br>
@@ -1255,7 +1255,7 @@ Gaaaahhh?!<br>
 *gasp*... Was I dreaming...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Microlayer Medley|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Microlayer Medley|选项=35|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Compiler：</span><br>
 Even after the mist was superimposed upon the Mirror Sea, it collapsed after only one second.<br>
 Observer, the experiment has failed.<br>

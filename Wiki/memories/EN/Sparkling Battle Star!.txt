@@ -1,6 +1,6 @@
 == Sparkling Battle Star! ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Seed is Sown|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Seed is Sown|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Sparkling Battle Star!<br>
 <br>
@@ -41,7 +41,7 @@ Hmm... Retrofit, huh... I wanna know more...<br>
 And so, the small seed that is the concept of retrofitting had been planted in San Diego's mind. Perhaps one day, it will sprout and grow into a glorious tree. But that remains to be seen.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Quest for Knowledge|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Quest for Knowledge|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Sparkling Battle Star!<br>
 <br>
@@ -87,7 +87,7 @@ It certainly i– Wait, am I really the only one who worked so hard?!<br>
 And so, with the help of Z23 and company, San Diego had acquired a deeper understanding of the concept of retrofitting. Perhaps this knowledge would eventually lead to a retrofit of her own.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=When In Doubt, Ask a Friend|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=When In Doubt, Ask a Friend|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Sparkling Battle Star!<br>
 <br>
@@ -134,7 +134,7 @@ If that's all, then I'm going back to sleep now... Good night, or morning, or wh
 And so, San Diego felt like she had adopted the right mindset to receive a retrofit. Perhaps her goal was just within reach, and all she had to do was keep advancing.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=One Battle Star to Another|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=One Battle Star to Another|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Sparkling Battle Star!<br>
 <br>

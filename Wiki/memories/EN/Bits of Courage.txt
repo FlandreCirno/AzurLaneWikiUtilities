@@ -1,6 +1,6 @@
 == Bits of Courage ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Concert Ticket|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Concert Ticket|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>
@@ -23,7 +23,7 @@ Could this be... what Unicorn has been hearing about... a date?<br>
 Hehe... to go on a date with Onii-chan. Unicorn… can’t wait...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Four Parallel Worlds|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Four Parallel Worlds|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>
@@ -62,7 +62,7 @@ Even Unicorn… is touched...by this concert...<br>
 Unicorn also wants to... make Onii-chan happy...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unicorn's Annoyances|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unicorn's Annoyances|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>
@@ -79,14 +79,14 @@ Onii-chan once said… “Don’t be afraid to ask”?<br>
 Unicorn... wants to ask Lady Stardust...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Letter to Stardust|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Letter to Stardust|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>
 IV 「Letter to Stardust」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echo of Stardust|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echo of Stardust|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>
@@ -104,7 +104,7 @@ I will cheer for you!~<br>
 From the singer who supports you, Stardust.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Change In Courage|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Change In Courage|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>
@@ -118,7 +118,7 @@ Bits of Courage… is the greatest form of magic...<br>
 Yes, Unicorn will try her best!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Little Magic|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Little Magic|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Bits of Courage <br>
 <br>

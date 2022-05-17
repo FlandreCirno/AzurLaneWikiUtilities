@@ -1,6 +1,6 @@
 == Chapter 1 - Trails of Ashen Wings ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Operation Briefing|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Operation Briefing|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Establishing encrypted channel...<br>
 Greetings, Commander.<br>
@@ -20,7 +20,7 @@ Commander, your objective is to lead the fleet to recapture Siren-controlled wat
 This is the conclusion of TB’s strategy briefing. I wish you the best of luck.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prologue - Part I|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue - Part I|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Woah! Commander, hold it right there!<br>
 <br>
@@ -40,14 +40,14 @@ And I, Hornet, will be your opponent. How about it, Commander? Ready for some ac
 Orders received. Simply approach Hornet’s fleet to begin the exercise.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prologue - Part II|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue - Part II|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Woah~ You sure don't beat around the bush, Commander! But now, it’s my turn!<br>
 <span style="color:#4eb24e;">TB ：</span><br>
 Objective identified: repel Hornet in this exercise.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prologue - Part III|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue - Part III|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 I've confirmed that you've scored a direct hit on Hornet with a dummy round.<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -61,7 +61,7 @@ Warning: Based on an analysis of the incoming practice rounds, we are at a disad
 '''''<span style="color:black;">选择项1：....“All right, let’s stick to that plan and withdraw!”</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prologue - Part IV|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue - Part IV|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Orders received. Currently reassembling the fleet.<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -73,7 +73,7 @@ Naval exercise complete.<br>
 Course has been plotted to NY City. Please enter the port there and assemble your fleet.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Bugle Sounds|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Bugle Sounds|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 NY City / Fleet Rally Point<br>
 <span style="color:#4eb24e;">Hood：</span><br>
@@ -118,7 +118,7 @@ Actually, I think we could all use a crash course on commanding fleets during Op
 you're up, TB!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Once More, Into battle|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Once More, Into battle|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean NW Sector - Part one of Operation Siren has me deployed alongside one of the Eagle Union's fleets.<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -134,7 +134,7 @@ Perhaps that hunch of yours is the very reason why headquarters tasked us, and t
 In any case, we need to reclaim it sooner or later. We'll find out what’s really going on once it’s back in our hands.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Radar Module|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Radar Module|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Analysis complete. Multiple hostile signals have been detected to the front. Profile matches that of a Siren defense fleet.<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -147,7 +147,7 @@ That’s quite the handy auxiliary system They've created...<br>
 Let’s take TB’s analyses into account when planning from here on out.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Recollection|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Recollection|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Scan complete. Attention: detecting distant Siren signal. Proceed with caution.<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -173,7 +173,7 @@ Enterprise? Do you hear me? What’s wrong?<br>
 ...Oh, no, it’s nothing. Let’s keep moving. Be on your guard.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Traces|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Traces|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 What the... Siren wreckage? Is there another fleet besides us operating in this zone, or...?<br>
 <span style="color:#4eb24e;">TB ：</span><br>
@@ -196,7 +196,7 @@ Nope, not a single one! But these Sirens vanishing are the darndest thing I've e
 If it is one of them, we will need to reconsider our approach entirely. For now, we must proceed forward to see what we're dealing with.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mysterious Ship|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mysterious Ship|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 Is that... Hiryuu? No, something’s not right here...<br>
 <span style="color:#ff9900;">？？？：</span><br>
@@ -243,7 +243,7 @@ Yeah, but it’s not like they're unmatchable in strength, based on what the rep
 Hornet has a point; it’s worth trying, at least. That said, it won't be easy to find her if she’s invisible to radar... We need to find a way to track her position.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Enemy of My Enemy|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Enemy of My Enemy|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">North Carolina：</span><br>
 There were so many Sirens here before, and now they're all but gone... It’s so strange.<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -280,7 +280,7 @@ Attention: There is a high likelihood of bad weather within the next 6 hours. Re
 6 hours? That’s pretty specific... Anyway, We'll go ahead and let TB devise a plan for us to follow.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Search - Part I|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Search - Part I|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Analyzing... Complete. Large quantities of expired marine life has been detected. Proceed with caution.<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -291,7 +291,7 @@ If it was an oil spill, there’d be, well, oil everywhere. That’s one possibi
 Then maybe the salinity changed, or someone changed the water somehow... Our primary suspect thus far is the Sirens.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Search - Part II|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Search - Part II|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Hey, this isn't right! I know for a fact there was never an island here before!<br>
 And look at the peak of that mountain! There’s snow, that shouldn't even be possible!<br>
@@ -299,14 +299,14 @@ And look at the peak of that mountain! There’s snow, that shouldn't even be po
 Hornet is right. The climate out here Wouldn't possibly allow for snow to form. Something unusual is going on here...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Search - Part III|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Search - Part III|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Our fleet catches the sight of some strange black cloud of matter....？<br>
 Direct contact with it could prove a disastrous mistake. Instead, we keep our distance and safely collect a few samples of it.<br>
 Let’s have our analysts back at port take a look at it later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Securing the Zone|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Securing the Zone|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 Commander, we've managed to secure a route from the NY City port to the center of the Bermuda region. You should contact Saratoga for a follow-up plan.<br>
 <br>
@@ -336,7 +336,7 @@ Either way, there’s not much we can do but put our faith in Her Majesty’s ab
 Ideally, the Azur Lane and Crimson Axis will be able to work together. At least for this vitally important operation...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Securing the Zone|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Securing the Zone|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Baltimore：</span><br>
 There’s hardly any Sirens in this zone. Something fishy’s going on...<br>
 This is supposed to be a Corrosion level 6 zone, and all we've come across are small fry every now and then...<br>
@@ -360,7 +360,7 @@ Whatever happened, it’s worked out in our favor. Let’s not pass up this oppo
 Baltimore is right. This is the most favorable situation possible for us. Let’s use it to reclaim this sector!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Crimson Axis|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Crimson Axis|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Hold up a hot minute, y’all! One of my recon planes just spotted a ships, and it’s not allied nor Siren!<br>
 ........Wait... TIRPITZ?! What on earth is she doing out here?!<br>
@@ -398,7 +398,7 @@ Plotting course... Complete. Aircraft will proceed in airspace directly intersec
 All right, I've got this! Let’s give ‘em a pretty little flyby!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Communications|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Communications|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Transferring data...<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -434,7 +434,7 @@ And with heavy mass-produced unit backup... This is not good.<br>
 '''''<span style="color:black;">选择项1：Prepare to engage!</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Aviation Battle|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Aviation Battle|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Approaching non-allied aircraft have been detected. Profile matches that of Iron Blood manufacture.<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -446,7 +446,7 @@ Will do!<br>
 Fighter squadrons, prepare to intercept!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ceasefire...?|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ceasefire...?|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 I flew right over ‘em, aaand... nothing!<br>
 We've got word from Elizabeth! Friedrich finally managed to get the Iron Blood to agree to a ceasefire. That ought to smooth over talks with the Crimson Axis, too!<br>
@@ -501,7 +501,7 @@ All of you, Enterprise included, were quite careless. Do not let that happen a s
 Hood’s fleet, meanwhile, has been doing quite well. Do regroup with her at a later point to discuss strategies!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Necessary Preparations|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Necessary Preparations|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Orders received. A fleet has been deployed beyond the NA Ocean boundary.<br>
 Hostiles detected. All hostile presence in the sector must be eliminated to establish a forward base.<br>
@@ -509,7 +509,7 @@ Hostiles detected. All hostile presence in the sector must be eliminated to esta
 we're nearing the finale of the first part of Operation Siren. It’s time to wipe out all the hostiles and establish a forward base.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Preparations Complete|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preparations Complete|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Part one of Operation Siren has been completed. Forward base has been established.<br>
 <span style="color:#4eb24e;">Baltimore：</span><br>
@@ -533,7 +533,7 @@ Now that we're finished here, it’s time to set our eyes on the next sector. TB
 Was that... emotion in her voice just now?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=META Beacon|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=META Beacon|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 META coordinate tracking system initiated. Commencing tutorial.<br>
 It is hypothesized that META riggings are encased in a special material that renders them completely undetectable using conventional radars.<br>

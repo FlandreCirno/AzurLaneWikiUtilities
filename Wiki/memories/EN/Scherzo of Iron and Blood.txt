@@ -1,6 +1,6 @@
 == Scherzo of Iron and Blood ==
 {{折叠面板|开始}}
-{{折叠面板|标题=First Movement - Sunrise|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Movement - Sunrise|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 First Movement<br>
 <br>
@@ -22,7 +22,7 @@ VICTORY TO US!<br>
 LONG LIVE IRON BLOOD!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Second Movement - Backworldsmen|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Second Movement - Backworldsmen|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Second Movement<br>
 <br>
@@ -55,7 +55,7 @@ Is it not my duty to stop my leader from making reckless decisions?<br>
 Thanks, I suppose.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tailing|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tailing|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">Prinz Eugen：</span><br>
 Oh, what's this? Were you rats looking for cheese, but found us instead?<br>
 <span style="color:#4eb24e;">Norfolk：</span><br>
@@ -72,7 +72,7 @@ We must avoid spreading our forces too thin.<br>
 Heheheh, got it~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Race Against Time|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Race Against Time|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">Prinz Eugen：</span><br>
 I drove 'em off. They're not showing up on my radar, so they must've run off home to mama.<br>
 So, now what? Shouldn't we be coming across a Royal Navy main fleet any second now?<br>
@@ -110,7 +110,7 @@ Same to you. May the God of war be with you.<br>
 ... And long live Iron Blood.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Movement - Great Longing|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Movement - Great Longing|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Third Movement<br>
 <br>
@@ -163,7 +163,7 @@ Certainly. Permission granted. Show her the might of our aircraft carriers.<br>
 Understood! This is Victorious, commencing plane launch! God save the Queen!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cornered|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cornered|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">Bismarck：</span><br>
 Are these... aircraft?<br>
 If only Graf Zeppelin were here to... No, this is no time to grumble.<br>
@@ -172,7 +172,7 @@ Anti-air guns, focus fire on the enemy aircraft squadrons!<br>
 FEUER!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Battle Status|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Battle Status|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Victorious：</span><br>
 Direct hit on Bismarck confirmed! ... Hold on, it didn't have any effect on her speed!<br>
 Once I've recovered my aircraft, I'll prepare a second strike! Just you wait, Bismarck!<br>
@@ -188,7 +188,7 @@ So, all of the Royal Navy's most capable ships are in pursuit.<br>
 The Royal Family's honour hinges upon us. We shall sink Bismarck!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fourth Movement - Passion, Joy, and Suffering|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fourth Movement - Passion, Joy, and Suffering|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Fourth Movement<br>
 <br>
@@ -328,7 +328,7 @@ Let's do precisely what King George V said and slow her down!<br>
 Swordfishes, launch! Capture Bismarck!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Resolution|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Resolution|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">Bismarck：</span><br>
 It's time to put an end to this!<br>
 <span style="color:#4eb24e;">Ark Royal：</span><br>
@@ -355,7 +355,7 @@ I will fight to the last shell!<br>
 Long live Iron Blood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Elegy|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Elegy|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Fifth Movement<br>
 <br>
@@ -378,7 +378,7 @@ Ventis Secundis<br>
 「... God save the Queen.」<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Movement - Songs of the Grave|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Movement - Songs of the Grave|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 ————<br>
 <span style="color:#4eb24e;">King George V：</span><br>
@@ -405,7 +405,7 @@ All forces, open fire! For the glory of the Royal Navy!<br>
 Booomm————<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reinforcements|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reinforcements|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">King George V：</span><br>
 Quite impressive armor you have there... Even my 14-inch guns are having trouble breaking through.<br>
 <span style="color:#ffde38;">Bismarck：</span><br>
@@ -423,7 +423,7 @@ Fiiiiire!<br>
 ——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Foray|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Foray|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 Booomm————<br>
 <span style="color:#ffde38;">Bismarck：</span><br>
@@ -461,7 +461,7 @@ Sirens? Of course they'd show up at a crucial time like this...<br>
 Royal Fleet, get back into formation. Let's give the Sirens a warm welcome!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sixth Movement - Of Science and Learning|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sixth Movement - Of Science and Learning|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Sixth Movement<br>
 <br>
@@ -509,7 +509,7 @@ I've begun damage control. Battery A has been destroyed, but I'm still operation
 Excellent. We won't let our enemies get away from us, Siren or Iron Blood.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Awakening|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Awakening|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 ————<br>
 <span style="color:#4eb24e;">Renown：</span><br>
@@ -573,7 +573,7 @@ Bismarck, what have you done...<br>
 Stay alert, everyone!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Seventh Movement - The Convalescent|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Seventh Movement - The Convalescent|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 Seventh Movement<br>
 <br>
@@ -602,7 +602,7 @@ Whether you deem yourself to believe in God or the sun matters not to me.<br>
 All you need to know is that we will put an end to you and your plot.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Final Battle|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Final Battle|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">King George V：</span><br>
 I've finally managed to get in range.<br>
 So this is how you managed to defeat Hood from such a long range.<br>
@@ -620,7 +620,7 @@ Royal fleet, cover me! Don't let anything get in my way!<br>
 Booomm————<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Finale|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Finale|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Bismarck：</span><br>
 Aha... Haha... Ahahahahaha!!!<br>
 <br>
@@ -746,7 +746,7 @@ God save the Queen!<br>
 Well, everyone, let's go home! Make sure to inspect any damage thoroughly and get repairs as necessary.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Unfulfilled Promise|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Unfulfilled Promise|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">U-556：</span><br>
 I'm getting closer to the source of the signal... Could all this wreckage be...?<br>
 Gods preserve us! Lord Bismarck is in trouble!<br>
@@ -768,7 +768,7 @@ At the bottom, U-556 had made a drawing of herself towing her Lord Bismarck back
                                                          <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Eighth Movement - Song of Dance|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Eighth Movement - Song of Dance|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tirpitz：</span><br>
 Hey! You there! No horesplay in the port! State your name, rank, and affiliation!<br>
 <span style="color:#ec5d53;">U-556：</span><br>
@@ -794,7 +794,7 @@ Your little sister is so like you in so many ways, Lord Bismarck.）<br>
 The great Parzival of the Seas, U-556, is off once again to fulfill her knightly vows!）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？？？|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=？？？|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Observer：</span><br>
 They have once again failed to break the Awakening Protocol.~<br>
 <span style="color:#ec5d53;">Tester：</span><br>

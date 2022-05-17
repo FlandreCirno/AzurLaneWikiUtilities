@@ -1,6 +1,6 @@
 == An Shan's Coloring Book  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Treasure in the Old Warehouse|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Treasure in the Old Warehouse|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 An Shan's Coloring Book<br>
 <br>
@@ -41,7 +41,7 @@ Alright, then we'll go find some!<br>
 Just don't go causing trouble for people!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=One of the Base's 7 Wonders|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=One of the Base's 7 Wonders|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 An Shan's Coloring Book<br>
 <br>
@@ -80,7 +80,7 @@ I bet you just want to chase after the Bulins...<br>
 Nuh-uh, no way! I just happen to feel like running around a bit! I'll go find the Buli... I mean, some paint!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Time for a (Lunch) Break|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Time for a (Lunch) Break|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 An Shan's Coloring Book<br>
 <br>
@@ -119,7 +119,7 @@ Fu Shun said you guys are up to something fun, is that what...?<br>
 Oh, right! We were filling in this coloring book!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Drawing Together|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Drawing Together|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 An Shan's Coloring Book<br>
 <br>
@@ -149,7 +149,7 @@ Alright, I'll join in! Let me handle this part!<br>
 O-okay... I'll join in, too!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Shan's Drawing Book|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Shan's Drawing Book|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 An Shan's Coloring Book<br>
 <br>

@@ -1,6 +1,6 @@
 == Virtual Tower ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Sudden Discovery|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Sudden Discovery|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere At Sea<br>
 <span style="color:#4eb24e;">Trieste：</span><br>
@@ -80,7 +80,7 @@ Huh? Wh-why am I getting multiple confirmation replies...?<br>
 Carabiniere suddenly shuddered when she thought of a potential possibility––<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Fleet|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The First Fleet|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Abnormal Sea Area<br>
 <span style="color:#4eb24e;">Gloucester：</span><br>
@@ -114,7 +114,7 @@ In any case, the Commander ordered us to join up with the Sardegnan fleet and el
 There's a good chance that we'll run into a Mirror Sea, so we need to get moving.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Flying Fish|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Flying Fish|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Abnormal Sea Area - Near the Center<br>
 <span style="color:#4eb24e;">Impero：</span><br>
@@ -165,7 +165,7 @@ Albacore spaghetti... I'll have to borrow one from the Royal Navy carriers after
 What the... Ahem, Impero, let's worry about that later and meet up with their fleet first.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Second Fleet|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Second Fleet|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere, a bit earlier...<br>
 <span style="color:#4eb24e;">Admiral Hipper：</span><br>
@@ -194,7 +194,7 @@ We're turning around right now. We can't leave those Sardegna girls alone!<br>
 Hehe, as you say, princess~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Third Fleet|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Third Fleet|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Elsewhere...<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -215,7 +215,7 @@ We'll use this upcoming battle to decide the victor of this duel!<br>
 Sure. Let's see who has the best performance!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rendezvous|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rendezvous|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Zuikaku：</span><br>
 Heheh. Seems like I've sunk more enemies here. How'd you like THAT?<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -275,7 +275,7 @@ Hmph! It's only natural to take a backup request seriously. The more people who 
 Now, let's pick up the pace and meet up with them!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Conjecture|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Conjecture|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Abnormal Sea Area - Near the Center<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -321,7 +321,7 @@ I'm sure we're all equally interested in that strange-looking tower in the middl
 ...Let's get moving then! When we're done here, I'm going to give those Sardegna girls a good lecturing!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=To the Tower|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=To the Tower|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 Impero's supposed to have her own planes, but we haven't been able to get in contact yet...<br>
 Maybe finding their fleet isn't going to be as easy as we first expected.<br>
@@ -356,7 +356,7 @@ So stop messing around and help us reach the tower first!<br>
 You've been making fun of me this entire time, so I'll have you do your job properly!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Greatest Tea Party|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Greatest Tea Party|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Meanwhile, Illustrious and Impero are on the way to the tower in the middle of the unknown area.<br>
 <span style="color:#4eb24e;">Pompeo Magno：</span><br>
@@ -426,7 +426,7 @@ Where the heck is all this motivation coming from all of a sudden?!<br>
 Mm... Enemies who dare lay their hands on the brilliant Impero will be met with swift retribution!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Together|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Together|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Abnormal Sea Area - Center<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -497,7 +497,7 @@ There's no telling what dangers wait for us in that tower. We should survey the 
 Yup, I agree. We have complete air superiority here though, so we'll be able to sniff out if the Sirens are up to any mischief.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Indestructible Tower|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Indestructible Tower|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 After exploring the surrounding area, the group arrived at the base of a massive tower.<br>
 However, nothing sought to impede their progress as they approached closer and closer – no defensive installations, no fleets to intercept them.<br>

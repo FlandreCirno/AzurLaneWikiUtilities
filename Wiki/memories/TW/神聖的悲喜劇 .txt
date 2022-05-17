@@ -1,38 +1,38 @@
 == 神聖的悲喜劇  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=序|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=序|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 我們走過漫漫征程，本以為可見曙光<br>
 卻又步入一片幽暗的森林<br>
 啊！這森林是多麼荒蕪，多麼險惡，多令人舉步維艱！<br>
 而我們當時又是多麼懵懂無知 <br>
 以至於拋棄正路，不知何去何從——<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 不…這不可能<br>
 <br>
 燃燒、爆炸…硝煙將夜晚的塔蘭托港染成一片鮮紅<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 怎麼會這樣...！<br>
 <br>
 防空炮仍在嘶吼著，卻無法完全阻止劍魚們的突襲<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 居然能在夜晚利用艦載機發動空襲…<br>
 <br>
 這彷彿地獄般的光景，不 ，這裡就是地獄吧<br>
 三日前，——永恆之城<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 這裡可是陸間海，怎麼會有塞壬艦隊出沒…確認清楚了嗎？<br>
-<span style="color:#ffde38;">龙骑兵：</span><br>
+<span style="color:#ffde38;">龍騎兵：</span><br>
 已經再三確認過了，帝國海域南部，有大量塞壬正在集結！<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 竟然讓塞壬進入到這麼深入的位置…鐵血的傢伙究竟在做什麼？！<br>
 明明已經再三強調過了，一切合作的前提必須是保證陸間海的純淨<br>
 之前以掩護維希教廷為由引來塞壬的艦隊已是越界，如今竟然還敢…！<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 好了，維托里奧，歷史告訴過我們，一味地倚賴他人，終歸最後會自食苦果——<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 是妳啊，我的妹妹<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 抱怨是不能解決問題的，「總旗艦大人」<br>
 曾經的帝國海軍技不如人，屈居人下…<br>
 然而現在，我們擁有歐羅巴大陸最先進的武器以及陸間海最強的艦隊<br>
@@ -40,13 +40,13 @@
 這片孕育了生命、文化、藝術以及戰爭的永恆之地<br>
 如果想要真正奪回羅穆盧斯曾經的輝煌，我們必須將它完全奪回手中<br>
 ——真正意義上的奪回手中<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 可是…<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 下令吧，總旗艦。只要妳一聲令下，帝國艦隊將踏平一切陸間海來犯之敵<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 ……<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 我知道妳在擔心皇家艦隊的態度，之前的奧蘭港事件已經暴露了她們的野心<br>
 繼續坐以待斃的話，我們遲早也會和維希教廷的戰艦一樣成為皇家的俎上之肉<br>
 這次塞壬入侵，對我們來說既是威脅也是機遇<br>
@@ -56,36 +56,36 @@
 就讓我們一起來演一齣最擅長的戲劇吧？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=威脅|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#ffde38;">朱利奥·凯撒：</span><br>
+{{折叠面板|标题=威脅|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#ffde38;">朱利奧·凱撒：</span><br>
 這些塞壬到底是怎麼穿過皇家的封鎖線闖進來的啊<br>
-<span style="color:#ffde38;">加富尔伯爵：</span><br>
+<span style="color:#ffde38;">加富爾伯爵：</span><br>
 哼…如果塞壬的行動都能在預想之內，我們也不會被逼迫到如今的地步吧<br>
-<span style="color:#ffde38;">朱利奥·凯撒：</span><br>
+<span style="color:#ffde38;">朱利奧·凱撒：</span><br>
 啊啊，加富爾的消極發言又開始了！真是的，先把眼前的敵人消滅了，再來進行妳的哲學思考如何啊？<br>
-<span style="color:#ffde38;">加富尔伯爵：</span><br>
+<span style="color:#ffde38;">加富爾伯爵：</span><br>
 …我只是冷靜地分析了一下現狀而已，敵人…自然是要消滅的<br>
-<span style="color:#ffde38;">龙骑兵：</span><br>
+<span style="color:#ffde38;">龍騎兵：</span><br>
 兩位關係還是一如既往親密呢<br>
 <span style="color:#ffde38;">加富爾伯爵&朱利奧·凱撒：</span><br>
 哪裡看出來了！？ <br>
 妳從哪裡看出來了啊！<br>
-<span style="color:#ffde38;">龙骑兵：</span><br>
+<span style="color:#ffde38;">龍騎兵：</span><br>
 唔…閒話就先說到這裡，敵人接近了<br>
-<span style="color:#ffde38;">朱利奥·凯撒：</span><br>
+<span style="color:#ffde38;">朱利奧·凱撒：</span><br>
 全員，各自開火！將可惡的塞壬艦隊悉數消滅！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=喘息|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=喘息|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">維托里奧‧維內托：</span><br>
 戰況如何，塞壬艦隊都被消滅了嗎？<br>
-<span style="color:#ffde38;">朱利奥·凯撒：</span><br>
+<span style="color:#ffde38;">朱利奧·凱撒：</span><br>
 一群沒有理智的雜魚而已，根本沒有威脅。<br>
-<span style="color:#ffde38;">加富尔伯爵：</span><br>
+<span style="color:#ffde38;">加富爾伯爵：</span><br>
 敵人…並不強大，沒有遺漏。<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 一群讓人提不起勁的傢伙罷了，對吧，波拉<br>
-<span style="color:#ffde38;">波拉：</span><br>
+<span style="color:#ffde38;">祭典制霸！ ：</span><br>
 是的哦，扎拉姐。波拉這裡也全殲敵人了…<br>
 <span style="color:#ffde38;">維托里奧‧維內托：</span><br>
 好，大家都幹的漂亮，凱撒，妳帶大家返回拉斯佩齊亞港修整，我會聯繫港區後勤好好犒勞大家的。<br>
@@ -96,116 +96,116 @@
 ……<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 今天有聯繫帝國空軍支援嗎，總旗艦大人？<br>
-<span style="color:#ffde38;">加富尔伯爵：</span><br>
+<span style="color:#ffde38;">加富爾伯爵：</span><br>
 不…看機型應該是…皇家的偵查機！<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 全員對空準備！！<br>
-<span style="color:#ffde38;">波拉：</span><br>
+<span style="color:#ffde38;">祭典制霸！ ：</span><br>
 來不及了..敵人已經逃出射程之外了…<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 皇家這班鬼鬼祟祟的傢伙，就和蒼蠅一樣煩人！<br>
-<span style="color:#ffde38;">朱利奥·凯撒：</span><br>
+<span style="color:#ffde38;">朱利奧·凱撒：</span><br>
 好了，全艦隊繼續前行，目標——拉斯佩齊亞！<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 ……<br>
 （一切都和計劃的一樣，接下來，好戲就要開演了）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=懷疑|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=懷疑|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 皇家三島<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 帝國的艦隊，似乎開始蠢蠢欲動了<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 厭戰？又發生什麼事情了嗎？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 光輝小姐…來得正好。這是昨天偵察機發回的照片，能跟我一起分析下嗎？<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 這是…加富爾…凱撒…扎拉級重巡…帝國艦隊主力出動了？這照片的拍攝位置是……<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 …拉斯佩齊亞港外圍<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 拉斯佩齊亞是帝國最深處的軍港之一，難道是消滅塞壬艦隊之後跑去度假了？<br>
 不過，為什麼陸間海中會出現塞壬艦隊呢...<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 可能只是塞壬一次單純的隨機進攻，也可能是塞壬對陸間海發動大規模進攻的前兆，塞壬的行動模式誰也說不準。<br>
 不過這次帝國的行動倒是十分明了。只為清理些塞壬雜魚，就讓主力艦隊大規模出動，是一次與一貫「存在艦隊主義」相悖大張旗鼓的行動。 <br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 也就是說，是在展示武力呢....<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 頭疼…如今鳶尾已經不能再幫我們分擔壓力了，僅憑我們在陸間海的力量很難和帝國抗衡，萬一……<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 先別急，至少從照片上來看，她們只是在對抗塞壬艦隊，除此之外沒有任何出格舉動。不如先和帝國談談吧…？看看對方的態度再做決定也不遲<br>
 如果她們願意懸崖勒馬重回碧藍航線的話，陸間海的問題也就不是問題了…<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 嗯…看來也只能這麼辦了。我去向陛下報告<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 嗯哼，先交涉再做進一步的決策，妳們考慮得還算挺周到的，不錯！<br>
 那就辛苦厭戰了，不過一定要注意！不要失卻了皇家的立場，明白了嗎！<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 請陛下放心吧！<br>
 誰也不想再發生一次奧蘭港事件了，那次事件導致我們在碧藍航線內的立場也受到了影響——<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 “一個優秀的將帥，懂得贏得戰爭，一個優秀的領袖，懂得避免戰爭”<br>
 <br>
 貝爾法斯特一邊為女王沏茶一邊悠然的說到<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 陛下吩咐過我，如果厭戰大人提到維希教廷的話，就這麼回答她<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 陛下...那麼，我們即刻啟航，God bless the queen!<br>
 <br>
 厭戰朝貝爾法斯特點了個頭，拋了一個眼神便信步離開了<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 “陛下就拜託妳了”嗎？呵呵，真是<br>
 <br>
 「——如果一切都能順利就好了」，貝爾法斯特看著窗外說到<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=交涉|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=交涉|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">厭戰：</span><br>
 前方就是拉斯佩齊亞了——<br>
 這片海域果然有塞壬出沒…看來不可鬆懈呢<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 所以，皇家艦隊的使者遠道而來，就是希望我們重新回歸碧藍航線？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 是的，希望帝國能以大局為重，與我們一同對抗塞壬，維護陸間海的和平<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 陸間海的和平？別逗了，破壞和平的不正是妳們皇家嗎？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 皇家艦隊一直在致力於維護陸間海航線的安全與暢通，絕無破壞和平的半點想法。<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 從我們手裡騙走陸間海的控制權，逼迫鳶尾與帝國進行軍備競賽，最後又將曾經的盟友拋棄<br>
 現在還將塞壬放進陸間海，迫使帝國出動艦隊戰鬥，這就是妳們所謂的“維持和平”嗎？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 皇家的封鎖線一直非常牢固。塞壬本不可能進入陸間海的才對…<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 陸間海僅有的兩個出海口都在妳們皇家牢牢地掌控之下。難道這年頭塞壬的雜魚艦隊都能輕鬆出入皇家的封鎖線了？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 或者…這批塞壬艦隊根本沒有經過皇家的封鎖線，而是在陸間海的某個區域製造了據點<br>
 在從皇家三島來此的路上，我們分析過了沿途出現的塞壬和海流的關係，基本可以確認塞壬來自陸間海的東南部方向<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 ……指望我們相信這樣的說辭嗎？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 皇家艦隊接下來將會徹底搜索陸間海東南部，尋找並摧毀一切可能的塞壬據點，這一點請妳們放心。這也是皇家進行談判的誠意。<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 如果這樣的話，帝國艦隊希望加入這次作戰行動<br>
 陸間海作為薩丁帝國的生命之海，我們不會容忍任何污穢之物的存在<br>
 如果這次行動真是皇家的誠意的話，就以此為契機，用聯合作戰改善我們的關係吧。<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 ……<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 帝國艦隊在得到真正的信任之前是不會考慮回歸碧藍航線的<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 為了達成偉大的最終目標，互相信任確實是有必要的<br>
 那麼，在條件達成之前，皇家允許薩丁帝國的艦隊進行陸間海域搜索任務<br>
 ——但是<br>
 不允許動用戰列艦力量，否則將作為違反協議的表現，皇家艦隊將會作出相應措施<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 （哼…用了“允許”這個詞嗎，真是皇家一如既往強硬的語氣呢）<br>
 （遲早有一天…遲早！)<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 這麼說，協議談妥了？<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 是的，目前一切都按著計劃在行進著<br>
 為了取得陸間海的控制權，無論如何都要首先奪回馬爾他防線<br>
 從馬爾他起飛的偵察機無時無刻不在監視著我們的一舉一動<br>
@@ -214,50 +214,50 @@
 同時在夜晚避開偵察機將主力艦調至離馬爾他最近的塔蘭托港…<br>
 等到黎明時刻，兩線夾擊馬爾他防線！<br>
 就算皇家艦隊再強大，也不可能在這麼短的時間內做出反應，屆時馬爾他防線就是我們的了<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 確實是個妙計，可是…這麼做就意味著正式和皇家宣戰了<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 帝國總旗艦受萬眾矚目，率領著陸間海最強的海軍<br>
 維托里奧，身為總旗艦的妳怎麼可以如此躊躇？<br>
 要是這麼不自信的話，僅限本次行動，讓我來當代理總旗艦也可以哦~？<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 比起服役時間，妳才應該是我的姐姐啊~呵呵<br>
 利托里奧，每次在我猶豫不決的時候，總是妳能站出來幫我一把<br>
 我早就說過，其實這個總旗艦的位置應該…<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 停下，姐姐，這樣就好<br>
 帝國需要像妳這樣謹慎的領袖才能走得更遠，我只需要成為妳的矛，為妳打贏每場戰鬥便滿足了<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 ……<br>
-<span style="color:#ffde38;">利托里奥：</span><br>
+<span style="color:#ffde38;">利托里奧：</span><br>
 啊，不久之後就要開始行動了，趁著這個夜色<br>
 方便請您一起跳支舞嗎？——美麗的女士<br>
-<span style="color:#ffde38;">苝：</span><br>
+<span style="color:#ffde38;">{namecode:164}：</span><br>
 …呵呵呵，樂意之極~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=開戰|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=開戰|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 次日16:00:00  對塞壬聯合搜查艦隊C3<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 妳好啊~來自皇家的貴族小姐<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 漆黑的魔炮使向您送上午後的問候~就讓我們一同找出這片海域的「不協調之心(Inharmonious Heart)」吧！ <br>
-<span style="color:#ffde38;">波拉：</span><br>
+<span style="color:#ffde38;">祭典制霸！ ：</span><br>
 姐姐…這個人有點奇怪，盡說著一些聽不懂的東西<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 噓…可能，皇家那邊的艦船腦迴路都比較奇怪吧，不要大驚小怪，不然會被看不起的<br>
-<span style="color:#ffde38;">波拉：</span><br>
+<span style="color:#ffde38;">祭典制霸！ ：</span><br>
 唔…唔<br>
-<span style="color:#ffde38;">龙骑兵：</span><br>
+<span style="color:#ffde38;">龍騎兵：</span><br>
 繼續追隨著異常亂流前行，很近了。這片海域的「不協調之心(Inharmonious Heart)」大概就在東南方向80海里左右的區域<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 ？！不愧是帝國的御龍使，僅靠「西普斯能量流動」就能判斷出敵人的距離嗎！我的能力到了LV6都沒能感應到呢<br>
-<span style="color:#ffde38;">龙骑兵：</span><br>
+<span style="color:#ffde38;">龍騎兵：</span><br>
 很可惜，我是LV10的<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 喔喔喔——這就是帝國御龍使的實力嗎！<br>
-<span style="color:#ffde38;">波拉：</span><br>
+<span style="color:#ffde38;">祭典制霸！ ：</span><br>
 姐姐…龍騎兵為什麼能夠和她正常交流（小聲<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 ……<br>
@@ -265,30 +265,30 @@
 當做沒聽到！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=魔炮射手|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=魔炮射手|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 晚間19:30:00<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 怎..怎麼回事！？哪裡來的攻擊？！<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
 來自皇家的貴族小姐啊~妳可能還沒了解清楚目前的局面——<br>
 由於任務需要，能麻煩妳，在這裡被我們擊敗嗎？<br>
 <br>
 此時，約克等人才發現自己已被四面八方湧來的量產型帝國艦艇包圍了<br>
-<span style="color:#ec5d53;">波拉：</span><br>
+<span style="color:#ec5d53;">祭典制霸！ ：</span><br>
 對不起，真的是任務需要，所以…<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 ……<br>
 利用偵察任務，將皇家艦隊誘導至此嗎...！<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
 與此同時，其他搜查艦隊應該都被我們控制住了，妳們沒有機會發出無線電的<br>
 束手就擒吧<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 哼哼哼，愚蠢之人，讓妳們一窺「淨化之戰」的真實也無妨<br>
 按照計劃，第二兵裝展開，概念武器充能——<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
 ....欸？<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 “若薩丁帝國圖謀陸間海的霸權，推翻了與皇家共同作戰協議——”<br>
 屆時，就動用重型魔導巡洋艦真正的力量，將審判之箭投射至天際<br>
 漆黑的魔炮使，約克，概念武器充能完畢<br>
@@ -297,14 +297,14 @@
 隨著炮火聲，一朵紅色的巨大禮花彈在高空中綻放，發出的耀眼光芒照亮了數十海里的夜空<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
 什麼？！主炮裡居然裝填著禮花彈！<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 盡情震驚吧，綠色的魔王！妳們的詭計女王陛下已經全部預料到了<br>
 光輝大人，厭戰大人，作戰開始！<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 噴嚏——<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 紅色訊號嗎…真可惜，本以為還有機會能夠挽留一個盟友的——<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 唔....沒時間多愁善感了，快派支援艦隊和潛艇部隊去幫孩子們解圍吧<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 了解，非常感謝您能親自來前線支援，光輝女士<br>
@@ -312,106 +312,106 @@
 情況不妙，作戰計劃洩露了，必須立刻通知主力艦隊！<br>
 <br>
 轟---！<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 綠色艦隊的傢伙們喲，妳們可別就這樣把我給忘了<br>
 就讓妳們在此付出背叛盟約的代價吧。約克級重型魔導巡洋艦，約克參上！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=第二作戰|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=第二作戰|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 同日13:20:00<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 貴安，光輝女士，勞煩您遠道而來，厭戰號向您獻上最高的問候<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 貴安~聽聞到妳發來的電報，我便立刻從皇家三島啟航而來了<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 情況如您所知，我們正準備派遣巡洋艦隊同帝國共同執行搜索任務…<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 但是妳擔心其中有詐，對嗎<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 真是瞞不過光輝女士的眼睛…對方的理由是這樣的<br>
 “雖然非常不希望在夜晚執行搜索任務，但是塞壬的據點只有在夜間才會更為活躍”<br>
 馬爾他的偵察機無法在夜間工作。如果帝國藉著夜色圖謀不軌的話，我們將會陷入非常被動的局面。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 嗯，其中一定有陰謀<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 啊？光輝女士何以見得...<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 女人的直覺<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 女…女人的直覺嗎？！？<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 是的呢~有的時候，這個能力可比任何戰術頭腦都實用的哦~？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 是…是這樣的嗎？學，學習到了…<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 呵呵，這次來之前我和陛下都多少有些預感呢，因此特意做了些準備~比如一個能夠在夜晚發出指令，能讓艦載機在幾十里外的夜空中發現目標的裝備<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 照明彈？<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 正是如此~不過，現在尚缺一個能在緊急情況下發出正確指令的操作員呢…嗯，讓我想想<br>
 ……<br>
 <br>
 此時約克正搬著彈藥箱路過指揮點<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 就是妳了！<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 欸…欸？？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=準備|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=準備|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 同日13:50:00<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 綠色代表“行動成功”、藍色表示“塞壬強大，需要增援”、紅色表示“帝國叛變”嗎？<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 是的，正好一基炮台塞一發煙花彈，不影響另一根炮管使用呢，呵呵呵<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 不愧是光輝大人，這一下魔炮的實力又增強了——<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 好了，時間也差不多了，該去和帝國的艦隊接頭了，祝妳們好運~God bless the queen!<br>
-<span style="color:#4eb24e;">约克：</span><br>
+<span style="color:#4eb24e;">約克：</span><br>
 God bless the queen!<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 ……<br>
 如果，收到的是紅色信號的話，妳準備怎麼做呢<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 現在我還不太想考慮這些...<br>
 如果真的出現了紅色信號，那就只能按照陛下所言，進行「再現」了.......<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=神聖的喜劇|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=神聖的喜劇|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 轟----<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 加富爾！！<br>
-<span style="color:#ec5d53;">加富尔伯爵：</span><br>
+<span style="color:#ec5d53;">加富爾伯爵：</span><br>
 怎…怎麼會<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 不…這不可能<br>
 <br>
 燃燒、爆炸…硝煙將夜晚的塔蘭托港染成一片鮮紅<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 怎麼會這樣<br>
 <br>
 防空炮仍在嘶吼著，卻無法完全阻止劍魚們的突襲<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 居然能在夜晚利用艦載機發動空襲…<br>
 <br>
 這彷彿地獄般的光景，不 ，這裡就是地獄吧<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 …行動完全暴露了呢<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 這不可能，我們趁著夜色行進，沿途也沒有被偵察機發現<br>
 況且，敵機居然是在夜晚進行偷襲，這可從來沒有聽說過啊！！<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 收手吧，利托里奧，行動已經失敗了<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 不，我們還沒失敗，只要擊敗這個能夠在夜晚發動空襲的航母…我們還能夠在黎明前抵達馬爾他防線！<br>
 全體戰列艦，回到塔蘭托港尋找掩護！偵察部隊，立刻沿著敵機方位尋找敵方航母！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=夜幕的光輝|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=夜幕的光輝|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">光輝：</span><br>
 光輝號裝甲航空母艦向帝國的諸位獻上夜晚的問候~<br>
 <span style="color:#ec5d53;">利托里奧：</span><br>
@@ -422,53 +422,53 @@ God bless the queen!<br>
 這批襲擊了港口的劍魚也是妳的傑作嗎？<br>
 <span style="color:#4eb24e;">光輝：</span><br>
 是呢，雖然在夜晚起飛這麼多艦載機確實也是第一次進行<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 哈哈哈，真是不可思議的女人，如果妳是帝國的一員，想必我也會迷上妳的吧！<br>
 不過，此時此刻，我只能履行我作為帝國戰艦的職責！<br>
 薩丁帝國海軍，維內托級戰列艦——利托里奧號，參戰！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=為時已晚|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">光辉：</span><br>
+{{折叠面板|标题=為時已晚|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">光輝：</span><br>
 （機庫被打傷了，這個炮彈威力，居然比女王的火力還強？）<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 （被主炮打中了也沒有重創.....這就是裝甲航空母艦嗎？）<br>
 投降吧，光輝女士，雖然您成功阻止了我們的行動，但是也請為了您自身著想——不如…<br>
 嘖，這些亂飛的劍魚確實煩人。但是，它們對我來說並沒有什麼威脅<br>
 航空母艦這種花俏的玩意，是不可能擊沉擁有普列賽系統的維內托級戰艦的！！<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 （中了那麼多發魚雷還能行動，情況…不太妙啊）<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 這是，戰艦炮彈！！？<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 光輝、約克，準備撤退了！這裡不宜久留！又有一艘戰列艦朝這裡駛來了！<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 別想逃跑，就憑妳們的航速——<br>
 <br>
 咔——咔——<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 什麼，這個時候輪機損壞了？！<br>
 <br>
 被大量魚雷擊中的利托里奧，航速緩緩慢了下來<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 ……<br>
 <br>
 儘管沒有受到致命傷，但繼續追擊已經不可能了，利托里奧認識到了自己的敗局。<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 光輝女士！此戰是妳們的勝利，雖然不甘，但您的戰鬥之姿令人著迷！<br>
 您的美貌就像黎明的維納斯，照亮東方的海平線！<br>
 希望有朝一日，讓我們在不是戰場的某處相遇吧！<br>
 <br>
 隨著距離的逐漸拉遠，漸漸聽不清利托里奧後來還喊了些什麼話語…<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 居然戰鬥到這個程度還這麼活躍…這就是薩丁帝國的新型戰艦嗎…<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 光輝女士居然也遇到令人頭疼的對手了啊，這可真是少見<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 看來，回到皇家後有必要全面升級一下火力系統了呢~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=度假|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=度假|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 在那幽暗密林的出口，三頭野獸擋住了我的去路<br>
 豹子<br>
@@ -514,90 +514,90 @@ God bless the queen!<br>
 ——要不要一起去陸間海度個假？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=抉擇|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=抉擇|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 永恆之城<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 …<br>
 ……<br>
 那個，能停下來了嗎？<br>
 <br>
 看著在宮殿裡不斷來回踱步的利托里奧，維內托忍不住說到<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 嗯…嗯…<br>
 現在確實是一個得好好做出抉擇的時刻了<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 確實…據說皇家的艦隊增加了投放在陸間海的海軍力量…<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 那麼...究竟該穿比基尼還是連體式的泳裝會更適合呢？<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 …<br>
 ……欸？？？<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 聽說這次皇家巡遊，光輝三姐妹都要來到陸間海，這可是千載難逢的機會！<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 等等…我們在頭疼的是同一件事情嗎？<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 是的呀，議題不是“光輝級航空母艦攻略計劃”嗎<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 （扶額）<br>
 （自從塔蘭托之戰後，利托里奧就變得不太正常了…）<br>
 （究竟是受到了多大的心理創傷…可憐的孩子）<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 維內托，不瞞妳說，在此之前，我曾收到了光輝發來的密電<br>
 「“卡拉布里亞的寶石”璀璨迷人，女王仍期待放下成見，互通有無」<br>
 「P.S. 我帶上了兩個妹妹」<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 這是什麼意思？<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 自從塔蘭托之戰後，我意識到了，身為戰列艦是有極限的<br>
 不夠了解對手的話，是無法戰勝對手的<br>
 能在夜晚起飛的航母、不合理的厚重裝甲部…<br>
 這些都是我們目前還無法掌握的科技，如果能夠趁此機會做足功課…<br>
 重現羅穆盧斯的輝煌也就指日可待了！<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 …這麼一說似乎也頗有道理<br>
 唉，元老院至今都沒有就對待鐵血和皇家的關係達成統一意見<br>
 我們也只能就這樣繼續按兵不動<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 我知道妳在擔心什麼，鐵血在塔蘭托之後對我們的態度變得更加激進了<br>
 陸間海的塞壬數量也在不斷增長，它們是想監視我們的一舉一動<br>
 看來皇家之前沒有說謊，塞壬確實在陸間海內製造了據點<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 塔蘭托之戰時的光輝似乎刻意手下留情了<br>
 對加富爾、凱撒等戰艦的攻擊都避開了要害部位…<br>
 我覺得這一系列的表現，都是一種信號<br>
 不如就以此為契機，好好的做個測試<br>
 看清究竟誰是豺狼、誰又是雄獅吧<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 嗯…我也是這麼想的<br>
 那麼總旗艦大人<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 嗯？<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 該挑一挑妳的泳裝了！<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 啊，啊————！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=迎接|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=迎接|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">可畏：</span><br>
 這一路的“夾道歡迎”可真是熱鬧啊，帝國的軍艦們<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 維內托大人吩咐過了，要讓皇家的淑女們體驗到“不一樣的陸間海風情”<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 這“卡拉布里亞的寶石”還真是名副其實啊，搞了那麼大的陣仗…<br>
 嗚，實在是不想弄髒這套最喜歡的衣服呀——<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 那麼，尊貴的女士，得罪了！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=可畏|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=可畏|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">可畏：</span><br>
 …妳這樣竄來竄去的樣子可真煩人<br>
 <br>
 看著在眼前不斷進行高速規避移動，又時而進行砲擊的龍騎兵，可畏說到<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 哼哼，龍騎兵的名字本就源於數百年前帝國的高速機動部隊<br>
 用高速移動迷惑對手，伺機給予致命一擊是我們最擅長的作戰方式<br>
 就算是像妳這樣的鋼鐵巨獸也…<br>
@@ -610,26 +610,26 @@ God bless the queen!<br>
 妳說誰是笨重又死板的龐然大物啦！！？<br>
 <br>
 可畏一反平常穩重的表情，嘟起嘴生氣的說到，眼角似乎還泛出了淚光<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 啊，我…我沒…<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 ——【機關禁止】！！！<br>
 <br>
 隨著可畏揮起右手，周圍的海域瞬間被一股奇怪的氣場籠罩<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 這…這是？<br>
 <br>
 連同龍騎兵在內，周圍數艘驅逐艦的鍋爐同時出現了故障<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 可惡，無法保持航速了！<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 本來姐姐不允許我在實戰中使用這一手的…可是…<br>
 都怪妳說人家是醜陋又懶惰的肥恐龍啦！！<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 我才沒有說過啊！！<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 化為可畏的戰績吧！！青花魚，出擊！！<br>
-<span style="color:#ec5d53;">龙骑兵：</span><br>
+<span style="color:#ec5d53;">龍騎兵：</span><br>
 嗚，皇家的女孩子都是這樣的嗎（淚）————<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 ……<br>
@@ -648,7 +648,7 @@ God bless the queen!<br>
 沒，沒什麼，妳做得很好...我們繼續前進吧，目標——“卡拉布里亞的寶石”<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=競速|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=競速|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 我又回到那幽暗而低窪的森林<br>
 潮濕的泥土將我的雙腳掩埋<br>
@@ -663,7 +663,7 @@ God bless the queen!<br>
 轟-------！<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
 波拉！！<br>
-<span style="color:#ec5d53;">波拉：</span><br>
+<span style="color:#ec5d53;">祭典制霸！ ：</span><br>
 沒事，僅僅是擦傷了裝甲<br>
 擁有世界最強裝甲的札拉級重巡洋艦可不是那麼容易就會被擊敗的！<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
@@ -698,12 +698,12 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 沒什麼，來吧，用艦炮公平的對決吧！Belli dura despicio！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=極限|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=極限|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">扎拉：</span><br>
 嗚…明明只是艘老舊的船骨頭，居然還這麼難纏<br>
 <br>
 厭戰額頭的青筋蹦起了一下<br>
-<span style="color:#ec5d53;">波拉：</span><br>
+<span style="color:#ec5d53;">祭典制霸！ ：</span><br>
 為什麼妳能在這樣漆黑的夜晚還射得那麼準啊…<br>
 <span style="color:#ec5d53;">扎拉：</span><br>
 作弊，皇家的戰艦在決鬥中作弊啦！！<br>
@@ -726,7 +726,7 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 通知三妹四妹，有一艘航空母艦和一支輕巡部隊漏過了防守線，正在朝“卡拉布里亞的寶石”駛去<br>
 皇家的戰艦似乎裝備了新型的夜戰裝備，能夠在黑夜中精確射擊，請務必小心<br>
 我們正在全速前往攔截，希望能夠匯合擊破！<br>
-<span style="color:#ec5d53;">波拉：</span><br>
+<span style="color:#ec5d53;">祭典制霸！ ：</span><br>
 了解…電報發送中，嗶嗶嗶嗶——<br>
 <span style="color:#4eb24e;">厭戰：</span><br>
 呼呼，真是的…現在的孩子們速度一個比一個快，呼...已經完全跟不上了<br>
@@ -736,7 +736,7 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 如果....等這場戰鬥結束後，能進行一次徹底的現代化改裝就好了，嘿嘿嘿<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=神聖的悲劇|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=神聖的悲劇|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 你又為何返回這痛苦的深淵<br>
 為何不攀登那明媚的高山？<br>
@@ -748,33 +748,33 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 把我帶到你方才所說的地方，<br>
 讓我能親眼目睹聖彼得之門<br>
 看一看世間悲慘的靈魂——<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 最後還是沒有來嗎？<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 是的，從一開始交手的時候便通知了鐵血空軍和帝國空軍<br>
 但是他們都以夜間作戰充滿不確定因素等藉口推脫了<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 ……<br>
 看來我們這次也要變成棄子了，就同維希教廷的戰艦們一樣…<br>
 口口聲聲說著帝國的藝術、羅穆盧斯的希望<br>
 最後卻只能成為任人笑話的喜劇演員嗎？<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 馬上就到午夜12時了，我們也該出發了<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 是的，不論是喜劇還是悲劇，這齣戲都該謝幕了，以它應有的方式<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=卡拉布里亞的寶石|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=卡拉布里亞的寶石|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">可畏：</span><br>
 這就是“卡拉布里亞的寶石”嗎…果然是不虛此行呢~<br>
 <br>
 在月光的映照下，這片神奇的海面泛起了淡淡的熒光，與岸邊的歷史遺跡相互輝映<br>
 彷彿數千年的古代文明在這一刻被悄然喚醒<br>
-<span style="color:#ec5d53;">利托里奥：</span><br>
+<span style="color:#ec5d53;">利托里奧：</span><br>
 “神之海岸”——也被稱作“卡拉布里亞的寶石”，這就是我們帝國的寶藏<br>
 特別是在仲夏的午夜時分，寶石更是會閃耀出千年文明的輝光<br>
 是的，就和光輝級航空母艦一樣迷人，美麗的女士~<br>
-<span style="color:#ec5d53;">苝：</span><br>
+<span style="color:#ec5d53;">{namecode:164}：</span><br>
 啊啊…利托里奧真的沒救了（扶額<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 那麼，帝國是否願意與皇家一起守護這顆璀璨的寶石呢？<br>
@@ -816,7 +816,7 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 Lunga vita all'Impero！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=秘密茶會|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=秘密茶會|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 數日後，皇家三島<br>
 <span style="color:#4eb24e;">光輝：</span><br>
@@ -864,7 +864,7 @@ Lunga vita all'Impero！<br>
 一起來享用甜蜜而又和平的午後吧~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=剩餘價值|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=剩餘價值|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">沙恩霍斯特：</span><br>
 哼——果然帝國的那班戰艦到了關鍵時刻一點都靠不住<br>
 平時鼓吹的陸間海第一艦隊、歐羅巴最先進的海上力量，到了實戰中居然沒有一點反手之力<br>
@@ -888,7 +888,7 @@ Lunga vita all'Impero！<br>
 遵命，Eisen und Blut über alles！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=「結局」|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=「結局」|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">觀察者：</span><br>
 “在那幽暗密林的出口，三頭野獸擋住了我的去路”<br>
 “豹子、獅子以及母狼”<br>

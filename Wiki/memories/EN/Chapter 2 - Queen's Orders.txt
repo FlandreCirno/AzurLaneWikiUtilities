@@ -1,6 +1,6 @@
 == Chapter 2 - Queen's Orders ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Queen's Duty|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Queen's Duty|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Liverpool - Strategic Command Room<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -46,7 +46,7 @@ Anyway, we can worry about that later... Does anyone have any other issues?<br>
 If not, then our meeting is adjourned! Do your utmost to display the glory of the Royal Navy to the world. Good luck in Operation Siren!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Setting Sail|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Setting Sail|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Liverpool - Royal Navy Fleet Rally Point<br>
 <span style="color:#4eb24e;">Hood：</span><br>
@@ -82,7 +82,7 @@ Understood. Thank you for your assistance.<br>
 Now then, let’s formally begin Operation Siren. Please secure each zone one by one, according to our operation plan. Long live the Queen!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Side by Side|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Side by Side|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Grenville：</span><br>
 Hey there, are you two the reinforcements from the Iris Libre fleet? I'm Grenville, from the Royal Navy.<br>
 <span style="color:#4eb24e;">Le Téméraire：</span><br>
@@ -108,7 +108,7 @@ Tem, didn't you say you had to go to the supply point first?<br>
 Eh?! Uh, yeah! Ahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sector Sweep|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sector Sweep|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean NE Sector - Royal Navy Operation Zone<br>
 <span style="color:#4eb24e;">Kent：</span><br>
@@ -140,7 +140,7 @@ Heh, indeed. Keep up the good work as well, Edinburgh.<br>
 Got that, Kent? We can't afford to fall behind either!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Distress Signal|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Distress Signal|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean NE Sector - Royal Navy Main Fleet<br>
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
@@ -179,7 +179,7 @@ Thou wouldst be wise to exercise caution, Wales, for the Sirens’ treachery kno
 Heh, I'm glad you're worried about me. In any case, let’s get going.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Disaster Site|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Disaster Site|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean NE Sector - Incident Site<br>
 <span style="color:#4eb24e;">Grenville：</span><br>
@@ -192,7 +192,7 @@ Formidable and Prince of Wales are on their way to join us. We were told to keep
 Let’s circle around and take a look! All we have to do is keep our distance, right?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Desolation|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Desolation|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Le Téméraire：</span><br>
 You really can't see anything from this distance, huh... Can't even tell what kind of ship might’ve sent that signal.<br>
 <span style="color:#4eb24e;">Grenville：</span><br>
@@ -226,7 +226,7 @@ Or... it might be someone using Siren technology. In any case, it feels like we'
 The answer should lie at the coordinates we've been given. Everyone, stay alert as you move forward.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Devestation|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Devestation|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Formidable：</span><br>
 (...Wales, I think someone’s watching us.)<br>
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
@@ -244,7 +244,7 @@ But... Hmm...? Wait, is that... an Eagle Union fleet?!<br>
 There really was an Eagle Union fleet here? ...Thank goodness we made it in time then...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Special Mission|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Special Mission|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Bush：</span><br>
 Atlanta, look! The Royal Navy’s rescue fleet is here!<br>
 <span style="color:#4eb24e;">Atlanta：</span><br>
@@ -296,7 +296,7 @@ O-okay...<br>
 Good. Let’s all get back into formation then and prepare to head back. Remember, our mission’s not over until you get back to port safely.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Message from Her Majesty|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Message from Her Majesty|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean Core Sector Outskirts - Royal Navy Main Fleet<br>
 KABOOOOM!<br>
@@ -357,7 +357,7 @@ I'll look into it. Hood, please take command of the fleet.<br>
 It shall be done. Best of luck.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gravitational Anomaly|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gravitational Anomaly|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean Core Sector Outskirts - 2nd Outpost<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
@@ -389,7 +389,7 @@ But, don't worry. We have our enemy outgunned, and there’s another team observ
 Now then, everyone, let us prepare for battle!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Matter of Acclimation|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Matter of Acclimation|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Rodney：</span><br>
 Is anyone else getting nauseous from being inside this place...?<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
@@ -397,7 +397,7 @@ Mm, considering how erratically the gravity is shifting around, this would be di
 There are some mass-produced Siren stragglers just ahead of us. Let’s use them to calibrate our shots and to get as familiar with fighting under these conditions as possible.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Impenetrable|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Impenetrable|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kent：</span><br>
 Ughh... My head’s getting all spinny...<br>
 <span style="color:#4eb24e;">Norfolk：</span><br>
@@ -446,7 +446,7 @@ Warspite, something feels familiar about that Siren. I'm not quite sure what it 
 ...We don't have much of a choice right now. Everyone, We'll find out right here and now whether we can make that enemy bleed! Begin attacking!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Conclusion|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Conclusion|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suffolk：</span><br>
 Finally... the last enemy is down!<br>
 <span style="color:#4eb24e;">Kent：</span><br>

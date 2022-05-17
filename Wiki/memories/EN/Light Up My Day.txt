@@ -1,6 +1,6 @@
 == Light Up My Day ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Guess Who!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Guess Who!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>
@@ -34,7 +34,7 @@ C'mon. You won't get any work done by staying glued to your desk. A quick breath
 She was very insistent on this, so I yielded and agreed to go outside with her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Smile for the Camera|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Smile for the Camera|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>
@@ -79,7 +79,7 @@ Although, I suppose her dragging you out of the office did give you a warranted 
 Indeed it did. That day, Marblehead taught me the benefits of stopping to take a breather.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Girl Talk|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Girl Talk|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>
@@ -116,7 +116,7 @@ Still, I'll take all the positive energy I can get. Here's hoping I'll get the c
 I had overheard most of the girls' conversation from a few tables away. I wasn't sure what to make of it...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sweet Tooth|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sweet Tooth|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>
@@ -157,7 +157,7 @@ So like, please? Can we take a stroll together, then go on a little date?<br>
 She was being pushy again, but it didn't bother me much – it's fun hanging with her, so ultimately, I agreed to it.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Seashells by the Seashore|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Seashells by the Seashore|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>
@@ -193,7 +193,7 @@ Just kidding, obviously. Sorry if that was cringe, haha.<br>
 She laughed it off, dismissing it as a joke. Despite that, though, I felt she'd meant it.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sunlit Backstory|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sunlit Backstory|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>
@@ -223,7 +223,7 @@ Today was a boatload of fun! Let's do it again sometime! Now, if you don't mind,
 Looking forward to hanging out with you again soon, Commander! Buh-bye for now!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Toward a New Tomorrow|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Toward a New Tomorrow|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Light Up My Day<br>
 <br>

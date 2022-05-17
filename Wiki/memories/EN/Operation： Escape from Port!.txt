@@ -1,6 +1,6 @@
 == Operation: Escape from Port! ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Chapter 1 - Where Are We?|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1 - Where Are We?|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Escape from the Port?<br>
 <br>
@@ -37,7 +37,7 @@ Zeppy! Are you okay?<br>
 ... Looks like it will take a while to find our way...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 2 - Spy Operation!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 2 - Spy Operation!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Escape from the Port?<br>
 <br>
@@ -85,7 +85,7 @@ Do you require assistance?<br>
 You... you're...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 3 - An Angel's Aid?!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 3 - An Angel's Aid?!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Escape from the Port?<br>
 <br>
@@ -136,7 +136,7 @@ We just followed the same route as before and went in a big circle...<br>
 Hmm? Didn't your port visit start at the docks?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 4 - Final Destination!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 4 - Final Destination!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Escape from the Port?<br>
 <br>
@@ -184,7 +184,7 @@ That's right, nya! I couldn't find them by myself, nya!<br>
 Those people are...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 5 - Mission Failed...?|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 5 - Mission Failed...?|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Escape from the Port?<br>
 <br>

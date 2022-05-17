@@ -1,6 +1,6 @@
 == Enter the Meowfficers!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Enter the Meowfficers|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enter the Meowfficers|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 ————！<nowiki>~~~</nowiki><br>
 <span style="color:#4eb24e;">Akashi：</span><br>
@@ -12,19 +12,19 @@ They're called "Meowfficers," nya!<br>
 Allow me to introduce them to you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Meowfficer Introduction|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Meowfficer Introduction|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Meowfficers will accompany your ships into battle, providing various benefits to your fleet, nya!<br>
 You'll understand once you see for yourself, nya! First, you'll have to use a Cat Box to train a Meowfficer, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Meowfficer Training|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Meowfficer Training|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 These ordinary kitties normally require a bit of time before they can become qualifed Meowfficers, nya... But just this time, Akashi will carry out some special training, nya!<br>
 We're all done, nya! Get ready to meet your first Meowfficer friend, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Housing Situation...|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Housing Situation...|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 That's the gist of it, nya! Hm... our current production capacity is a bit limited, nya... Hold on, only the first Cat Box per day is free, nya. After that, there will be a charge, nya!<br>
 Heh... hehe... After all, nya~ Akashi and the Meowfficers will be working hard for your sake~<br>

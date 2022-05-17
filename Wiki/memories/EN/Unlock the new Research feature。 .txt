@@ -1,6 +1,6 @@
 == Unlock the new Research feature.  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Akashi Explains Things, Nya|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Akashi Explains Things, Nya|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Commander~ I've been looking for you, nya!<br>
 Hurry, hurry, come here, nya! I have something good to show you!<br>
@@ -17,7 +17,7 @@ Even if we don't understand it yet, as long as everyone works together, we will 
 ... Until then, Akashi expects your continued support and patronyage at her shop. It'll be a pleasure doing business with you, nya~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Akashi Explains Things, Nya (Part 2)|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Akashi Explains Things, Nya (Part 2)|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Commander, good work, nya!<br>
 After countless hours of development, we've finally been able to manifest our first new comrade, nya!<br>

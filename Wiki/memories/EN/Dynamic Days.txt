@@ -1,6 +1,6 @@
 == Dynamic Days ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Shopping Around|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shopping Around|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Dynamic Days<br>
 <br>
@@ -101,7 +101,7 @@ RIP me...<br>
 And so, after encountering some pleasant people and surprises, Rikka and Akane left the store with wares in hand.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=On-Location Shoot|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=On-Location Shoot|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Dynamic Days<br>
 <br>
@@ -182,7 +182,7 @@ Welp. That's a bummer, but if you say so...<br>
 This deleted footage ended up nearly being leaked to the public. How that happened, though, is a story for another time...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Joy Cruise|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Joy Cruise|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Dynamic Days<br>
 <br>
@@ -262,7 +262,7 @@ Nice! Let's see what stuff is out there.<br>
 Amid the gently washing waves and calm winds, one could hear their laughter for seemingly miles.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Band Together|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Band Together|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Dynamic Days<br>
 <br>

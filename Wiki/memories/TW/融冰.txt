@@ -1,6 +1,6 @@
 == 融冰 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=秘書艦|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=秘書艦|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
@@ -8,24 +8,24 @@
 <span style="color:#4eb24e;">俾斯麥：</span><br>
 妹妹……對不起……<br>
 請原諒，我所做的一切……<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 呼……又是這個夢嗎？這是第幾次了呢……<br>
 算了，現在不是把思緒停留在這種事情上的時候。<br>
 指揮官還沒來嗎？那我先處理一些能處理的工作吧。嗯……首先是這些委託報告……<br>
 <br>
 一早來到指揮室，擔當秘書艦的鐵必制已經開始工作了。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 啊，指揮官，你來了。<br>
 正好，這份是今天的工作安排，過目一下吧，有什麼問題我再調整。<br>
 <br>
 '''''<span style="color:black;">选择项1：接過資料</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 另外，昨天指揮官交付的艦隊事務，我試著處理了一些。<br>
 <br>
 桌面上整齊地疊放著一疊文件。<br>
 <br>
 '''''<span style="color:black;">选择项1：向鐵必制道謝</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 不用因為這點事情道謝，這不過是秘書艦的職責。<br>
 <br>
 鐵必制繼續利索地處理起公文來。<br>
@@ -33,56 +33,56 @@
 …但是，總覺得有層微妙的隔閡，是錯覺嗎<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=任務|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=任務|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
 二　任務<br>
 鐵必制正準備將一批舊裝備交給研發部門的{namecode:37}<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 數量稍微有點多啊……那就分幾批送過去吧。<br>
 <span style="color:#4eb24e;">???：</span><br>
 哦哦，看來是正義出場的時候了！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 ？？<br>
 <span style="color:#4eb24e;">???：</span><br>
 鐵必制小姐是要把這些東西送到科研部門嗎？<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 妳怎麼知道的？還有妳是……<br>
 <span style="color:#4eb24e;">???：</span><br>
 我是正義的夥伴，小海狸分隊的隊長，查爾斯·奧斯本！稍等一下，我這就把大家召集過來。<br>
-<span style="color:#4eb24e;">查尔斯·奥斯本：</span><br>
+<span style="color:#4eb24e;">查爾斯·奧斯本：</span><br>
 小海狸中隊的大家！集合囉！<br>
-<span style="color:#4eb24e;">奥利克：</span><br>
+<span style="color:#4eb24e;">奧利克：</span><br>
 哦哦，來了來了！<br>
 <span style="color:#4eb24e;">斯彭斯：</span><br>
 有，有什麼事情嗎……<br>
 <span style="color:#4eb24e;">富特：</span><br>
 啊，好麻煩。<br>
-<span style="color:#4eb24e;">查尔斯·奥斯本：</span><br>
+<span style="color:#4eb24e;">查爾斯·奧斯本：</span><br>
 大家來一起幫忙把這些東西送到科研部那裡去吧！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 等等，這是秘書艦的工作，我來就可以……<br>
 <br>
 沒等到鐵必制說完，小海狸們就開始了工作。<br>
 幾人有條不紊地把舊裝備分裝到專用的推車上，然後運送到了目的地。<br>
 跟在一旁的鐵必制露出了若有所思的表情<br>
 港區·科研部門<br>
-<span style="color:#4eb24e;">查尔斯·奥斯本：</span><br>
+<span style="color:#4eb24e;">查爾斯·奧斯本：</span><br>
 這樣就完成了呢！小海狸分隊，解散！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 謝謝妳們，我會將妳們的幫助向指揮官匯報的。<br>
-<span style="color:#4eb24e;">查尔斯·奥斯本：</span><br>
+<span style="color:#4eb24e;">查爾斯·奧斯本：</span><br>
 啊，那樣的事情就不用了啦！正義是不需要回報的呢！<br>
 而且，身為同伴，互相幫助不是理所當然的嘛。其他姐妹看到也一定會這麼做的<br>
 那我們先走啦！還有很多的正義等著我們去履行呢！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 同伴互相幫助是理所當然嗎…我知道了。<br>
 <br>
 目送小海狸們離開的鐵必制站在原地良久，才重新邁開腳步。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=演習|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=演習|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
@@ -92,42 +92,42 @@
 鐵必制精準地命中了蠻啾駕駛的目標艦。整個過程中，表情甚至沒有一絲變化。<br>
 <br>
 '''''<span style="color:black;">选择项1：漂亮！</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 謝謝。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 鐵必制真厲害啊。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 歐根嗎…這點程度沒什麼值得誇耀的，妳和希佩爾也做得很好不是嗎？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呵呵，鐵必制真是謙遜呢，希佩爾，妳看到了嗎，妳也要好好向人家學習哦。<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 哈？為什麼我要向鐵必制學習？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 因為妳看，鐵必制那~麼厲害，卻一點也不驕傲，跟某個只是完成任務就迫不及待地向指揮官邀功的金毛笨蛋完全不同呢。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 歐根，不要這麼說，希佩爾也有希佩爾的優點……<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 哈？！我的性格就是這樣還真是對不起啊！歐根我看妳今天是皮癢了……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 啊哈哈——<br>
 <br>
 '''''<span style="color:black;">选择项1：勸希佩爾消氣</span>'''''<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">希佩爾將軍：</span><br>
 指揮官你不要管，嘖，歐根，給我站住，不要跑！今天我就要讓妳明白我這個姐姐不是白當的！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 ………姐妹嗎<br>
 <br>
 鐵必制看向希佩爾和歐根離開的方向，露出若有所思的表情<br>
 <br>
 '''''<span style="color:black;">选择项1：鐵必制？</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 …………嗯？<br>
 沒什麼，我只是在想，姐妹之間，原來是這樣的感覺啊……<br>
 <br>
 鐵必制的臉上，浮現出了明顯的寂寞感。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=出擊|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=出擊|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
@@ -144,17 +144,17 @@
 但是，萬一的話……<br>
 <span style="color:#4eb24e;">Z20：</span><br>
 沒有什麼萬一的啦！哈啊……趕緊結束吧，我還要去長跑呢！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 我們差不多到達巡邏折返點了，做好返航的準備吧。<br>
 <span style="color:#4eb24e;">Z19&Z20&Z21：</span><br>
 遵命！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 （不過，這種不詳的預感究竟是……）<br>
 <span style="color:#4eb24e;">Z19：</span><br>
 雷達發現敵人！是塞壬的驅逐艦部隊！<br>
 <span style="color:#4eb24e;">Z20：</span><br>
 敵方數量很少，只要交給我們驅逐部隊就……<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 可惡！<br>
 <br>
 連續的猛烈炮擊從後方響起<br>
@@ -165,52 +165,52 @@
 <span style="color:#4eb24e;">Z21：</span><br>
 總，總之我們沒事了吧？<br>
 謝謝妳，鐵必制…<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 …不客氣<br>
 先向指揮部匯報這裡的情況吧。<br>
 （我這是怎麼了？）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=大家的秘書艦|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=大家的秘書艦|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
 五　大家的秘書艦<br>
 港區·指揮室<br>
 鐵必制正一如往常地高效地處理著秘書艦的工作。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 接下來把最近一段時間的海域觀測報告整合一下，更新一下塞壬出現的分佈圖……<br>
 <br>
 （敲門聲）<br>
-<span style="color:#4eb24e;">谢菲尔德：</span><br>
+<span style="color:#4eb24e;">謝菲爾德：</span><br>
 打擾了，這是妳和主人的紅茶，我放這裡了。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 辛苦妳了。<br>
-<span style="color:#4eb24e;">谢菲尔德：</span><br>
+<span style="color:#4eb24e;">謝菲爾德：</span><br>
 不用客氣，鐵必制平時也幫了大家很多忙…那我就先告退了。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 根據這份分佈圖，接下來的巡邏路線也要隨之進行調整……<br>
 <br>
 （敲門聲）<br>
 <span style="color:#4eb24e;">{namecode:37}：</span><br>
 打擾了。鐵必制，上次謝謝妳的幫忙了。<br>
 這是最新型的空氣淨化器，能提高工作效率，保持健康的那種。我就放這裡了。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 啊，謝謝了。<br>
 <span style="color:#4eb24e;">{namecode:37}：</span><br>
 科研部還有事情，那我先走了。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 巡邏路線安排好了，接下來是人選……<br>
 <br>
 （敲門聲）<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 啊，打擾了呢！之前聊天的時候鐵必制好像對盆栽有點興趣呢，所以我就帶了點東西過來~<br>
 這是我種的盆栽。累了的話看著它就不會犯睏了呢！放這裡可以嗎？<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 嗯，沒問題的，就放這裡吧。<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 那我就先走啦！<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 ……<br>
 最近來指揮室的人怎麼越來越多了？<br>
 <br>
@@ -218,31 +218,31 @@
 不僅如此，似乎她根本沒注意到——自己在回應大家的時候，一直是微笑著的。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=北方女王的笑容|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=北方女王的笑容|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
 六　北方女王的笑容<br>
 港區·指揮室<br>
 今天的工作比往常都要多，一直到晚上都沒有處理完。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 沒想到今天的任務有這麼多，昨天制定工作計劃的時候我應該考慮到這些的。<br>
 辛苦你了，指揮官。讓你一起陪我工作到這麼晚，實在是抱歉。<br>
 如果你感覺累了的話，就先去休息吧，剩下的工作交給我就行。<br>
 <br>
 '''''<span style="color:black;">选择项1：鐵必制，變了很多呢。</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 我？我變了什麼嗎？<br>
 “關心隊友？ ”那不過是作為旗艦的本職。<br>
 “關心指揮官？ ”這也是作為秘書艦的職責吧。<br>
 “經常和別人交流？ ”那是……<br>
 <br>
 '''''<span style="color:black;">选择项1：堅冰融化了呢</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 ！！<br>
 <br>
 鐵必制一瞬間露出了吃驚的表情<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 堅冰…融化了嗎<br>
 啊啊……<br>
 原來，我沒有忘記啊……<br>
@@ -254,7 +254,7 @@
 果然，還是笑容最適合女王呢。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=溫度|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=溫度|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 融冰<br>
 <br>
@@ -262,14 +262,14 @@
 在那之後，過去了一段時間。<br>
 港區·郊外<br>
 在鐵必制的邀約下，來到了港區附近的某處高台<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 百忙之中能抽身陪我，實在是榮幸。<br>
 對了，今天有個東西，想讓你陪我一起看。<br>
 <br>
 鐵必制用手指向了天空<br>
 <br>
 '''''<span style="color:black;">选择项1：北極星？</span>'''''<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 嗯，Polarstern。<br>
 每當看見這顆星星，我就會想起那個時候，作為“存在艦隊”而一直待在那個港口的自己。<br>
 寒冷，孤獨，這些我早已視為無物。<br>
@@ -283,7 +283,7 @@
 啊啊，我感覺有點累了。<br>
 <br>
 肩膀上傳來了重量<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 稍微……讓我依靠一下吧。<br>
 我還想感受多一點……指揮官的溫暖。<br>
 <br>

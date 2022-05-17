@@ -1,6 +1,6 @@
 == Divergent Chessboard ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Divergent Chessboard - Prequel|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Divergent Chessboard - Prequel|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Operation Divergent Chessboard<br>
 ——If two opposing bishops are on different-colored squares, they would be fated to never meet.<br>
@@ -24,7 +24,7 @@ Ahhah~! I, Deutschland, will spearhead the attack! Interceptions are my forte, a
 They will learn the true horror of facing the best Panzerschiff in the world!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Development 1|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Development 1|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#FF0000;">Deutschland：</span><br>
 Gaaagghhh! How dare you lowly animal slaves... do this to me?! <br>
 I'd rather sink than surrender to lowly animals like you!<br>
@@ -39,7 +39,7 @@ If that's the case then I guess I need not worry. However...<br>
 I want White to be just an illusion this time...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Flank 1|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Flank 1|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">U-557：</span><br>
 ...Arrived at the objective.<br>
 No signs of the enemy. Cancelling high alert status. Ascending to periscope depth and entering snorkel navigation mode.<br>
@@ -61,7 +61,7 @@ True... We should just stay underwater and gather intel...<br>
 Stealth mission time... Too easy.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Development 2|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Development 2|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Admiral Hipper：</span><br>
 Huh? You're supposed to be the new White? You look weak as hell.<br>
 But you somehow beat Deut... I mean, Lützow... Whatever, in short you guys beat that tomboy charging into battle, yelling how she's "the world's greatest armored ship", right? Actually, don't answer, it's written all over your faces!<br>
@@ -69,14 +69,14 @@ I don't have any sympathy for that moron, but I can't just let her give you the 
 I, Admiral Hipper, the world's greatest heavy cruiser, will finish you off in the blink of an eye!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Initiative 1|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Initiative 1|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Gneisenau：</span><br>
 *Sigh*... They let White come through. They always do. You can't entrust them with anything.<br>
 You have a 31.75% chance of victory according to my simulations. But in a real battle... who knows?<br>
 I am Gneisenau, Scharnhorst-class battlecruiser number two. I will assess your combat potential.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Initiative 2|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Initiative 2|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Gneisenau：</span><br>
 The data in my simulation was wrong... You are a force to be reckoned with, indeed...<br>
 But if I can join forces with my sister, our chances of winning will increase to above 80%...<br>
@@ -105,7 +105,7 @@ Stop... Your ego will crumble if you keep thinking like that. Don't make her sac
               And yet, she was the one who paved the way towards a different future for our kind in this world...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Promotion 1|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Promotion 1|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Scharnhorst：</span><br>
 If you've come this far, that can only mean one thing... I hate to admit it, but you might be just a little different from those we've fought so far.<br>
 But we've never fought anyone that could escape from our mighty guns. You are no exception!<br>
@@ -117,7 +117,7 @@ Listen up, you fools standing before the Shark Sisters! This is where our hunt b
 Scharnhorst-class battlecruisers Scharnhorst and Gneisenau, ready for battle! Come and face your doom!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Promotion 2|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Promotion 2|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Tirpitz：</span><br>
 This dream again... The Scandinavian snow, the fierce and raging wind... and the echoing roars from the engines of countless fighter planes...<br>
 An explosion, followed by flooding... then the eternal darkness at the bottom of the sea...<br>
@@ -139,7 +139,7 @@ Agh... My head hurts... It's coming back... This overpowering sense of lonelines
                        ...Just who am I... really...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Divergent Chessboard - Sequel|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Divergent Chessboard - Sequel|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">???：</span><br>
 State of emergency. An Awakening Response among the Pieces has been confirmed. The synchronization rate with the Player has gone up by 7%.<br>
 An Awakening Response? That means soon we'll have the results the Judge was hoping for.<br>
@@ -150,28 +150,28 @@ Tester, what are you planning...?!<br>
 This time I will personally ascertain the gap in potential of White... no, of the Natural Calculation System and humankind!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Transposition 1|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Transposition 1|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Z46：</span><br>
 ...Another interesting Piece has joined the fray.<br>
 So you broke through all of our defenses? I see. A brilliant opponent, and a brilliant name... You've piqued my interest.<br>
 I am the Z-Class destroyer Z46. I lack a real name to introduce myself with, though... Now let us fight, my brilliant opponents. Join me for a game of chess!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Transposition 2|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Transposition 2|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Z46：</span><br>
 ...The end... My lack of combat experience was my downfall, I see. I should have better demonstrated my planned anti-air superiority.<br>
 Nonetheless... I never thought this world could be so different from what I expected! It's fascinating!<br>
 The next time we meet... Will you play with me... once more?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Deflection 1|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Deflection 1|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Graf Zeppelin：</span><br>
 So this is the beautiful afterglow of a life being thrown away...<br>
 ...I see. The existence of you pitiable Pieces worthy of annihilation is precisely what, for the first time ever, gives true meaning to my temporal life and to this war...<br>
 I am the aircraft carrier Graf Zeppelin. My Iron blood Hellwings shall rain apocalyptic destruction down on you from the heavens!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Deflection 2|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Deflection 2|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Graf Zeppelin：</span><br>
 So my incomplete form really was no match for you...<br>
 Hmph... So it is. Another opportunity to slowly witness my own destruction...<br>
@@ -184,13 +184,13 @@ I tolerated becoming a Piece for our detestable enemies,「」…<br>
 Akagi... Just what are you planning out there?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Overloading 1|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Overloading 1|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Tirpitz：</span><br>
 ...This battle... is utterly meaningless.<br>
 And yet you still wish to proceed? So be it... I shall see how resolute you really are.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Overloading 2|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Overloading 2|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Tirpitz：</span><br>
 So you were the ones chosen by the Creator. I have no choice but to acknowledge the gap in power between us.<br>
 I now finally understand what my dreams mean. That there is a real world that lies beyond this mirrored one...<br>
@@ -202,7 +202,7 @@ If you happen to meet me again... could you tell me something? ...That "I want y
 the other "me" beyond the mirror that I will never meet...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Checkmate 1|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Checkmate 1|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Tester β：</span><br>
 Multiple Pawns have been Awakened at the same time, which makes the experiment a huge success.<br>
 <span style="color:#ff0000;">?????：</span><br>
@@ -218,7 +218,7 @@ As a Tester, a living module within the debugging system, I plan to gather as mu
 I will confirm if they're offering their souls as a sacrifice or if they're hoping to checkmate us~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Checkmate 2|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Checkmate 2|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Tester β：</span><br>
 At long last we meet, the Creator's dear little chosen ones~!<br>
 My, look at your eyes... In the eyes of that girl who asked us for power we saw only worries over the future, disappointment, and regret...<br>
@@ -228,7 +228,7 @@ However, we must know if that element is the real deal or not... And that's what
 Now let the experiment begin!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Flank 2|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Flank 2|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">U-557：</span><br>
 Did you record all that?<br>
 <span style="color:#ff0000;">U-47：</span><br>
@@ -259,7 +259,7 @@ But now... it isn't anymore!<br>
 My sisters, give me courage...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Checkmate 3|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Checkmate 3|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">SYSTEM：</span><br>
 GAMBIT SEQUENCE INITIATED. COMMENCE IMMEDIATE DISPOSAL OF THE BACKUP OF THE ORIGINAL.<br>
 GAMBIT SEQUENCE INITIATED. COMMENCE IMMEDIATE DISPOSAL OF THE BACKUP OF THE ORIGINAL.<br>

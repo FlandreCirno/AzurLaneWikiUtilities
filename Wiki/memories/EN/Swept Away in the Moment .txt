@@ -1,6 +1,6 @@
 == Swept Away in the Moment  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Ready, Ladies!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ready, Ladies!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Swept Away in the Moment<br>
 <br>
@@ -37,7 +37,7 @@ Ahh... destroyers in cute dresses... No, I can't let my mind wander! For now, I 
 A-anyway! Do enjoy yourselves at our party today!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prost!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prost!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Swept Away in the Moment<br>
 <br>
@@ -70,7 +70,7 @@ Oh, Tirpitz, what are you saying? Stop sweating the small stuff and just knock b
 Hm... You're right. I'll try not to think too much.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Other Ways to Have Fun|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Other Ways to Have Fun|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Swept Away in the Moment<br>
 <br>
@@ -112,7 +112,7 @@ So, like, don't overthink things and just do what you wanna do!<br>
 You're right, Seattle~ Everyone has their way of enjoying a party. Say, could I ask you to give me a tour around the venue to see what's here?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Classic Conclusion|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Classic Conclusion|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Swept Away in the Moment<br>
 <br>

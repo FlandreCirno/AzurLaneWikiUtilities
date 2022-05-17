@@ -1,6 +1,6 @@
 == Ink-Stained Steel Sakura  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Opening|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Opening|选项=1|主框=1|样式=primary|展开=是}}
 Mutsu：<br>
 Nagato! I just took a look outside and saw tons of people have gathered! You should see it, it's amazing!<br>
 Nagato：<br>
@@ -64,7 +64,7 @@ Yes... As you say, the Protector of the Sacred Sakura must be magnificent... I s
 Ink-Stained Steel Sakura<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Return|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Return|选项=2|主框=1|样式=primary|展开=是}}
 Zuikaku：<br>
 We're finally back here, after so long... Look, Shoukaku! This is the place where we used to train!<br>
 Shoukaku：<br>
@@ -95,7 +95,7 @@ Mikasa：<br>
 Our intel was right; the Sirens really were out here. All personnel! Prepare to strike back!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Objective|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Objective|选项=3|主框=1|样式=primary|展开=是}}
 Zuikaku：<br>
 No wonder nobody's come near this place for ages... It's because the Sirens invaded it...<br>
 Shoukaku, I'm just wondering: why are we here, again?<br>
@@ -123,7 +123,7 @@ The people's faith and her sacrifice is all just a part of the plan.<br>
 All we can do now is wait... We must wait until the one who can oppose the Sirens and change fate itself has arrived...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chance|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chance|选项=4|主框=1|样式=primary|展开=是}}
 Nagato：<br>
 Are you saying that, no matter what, it's inevitable?<br>
 Akagi：<br>
@@ -148,7 +148,7 @@ I hereby issue the following order to all personnel of the Sakura Empire's Combi
 Commence the attack... on Azur Lane!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisters|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisters|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Thou shalt not touch a human, for they would tarnish thy divinity.<br>
 Thou shalt not smile, for thou must maintain thy dignity.<br>
@@ -173,7 +173,7 @@ I'm sorry... I can't do it...<br>
 I seem to have forgotten how to smile...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Confinement|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Confinement|选项=6|主框=1|样式=primary|展开=是}}
 Nagato：<br>
 The Sacred Sakura is withering... And the people are losing faith...<br>
 Mutsu：<br>
@@ -216,7 +216,7 @@ Nagato：<br>
 Thank you for everything you've done, Mutsu.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Convoy|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Convoy|选项=7|主框=1|样式=primary|展开=是}}
 Kawakaze：<br>
 Halt! Who are you?!<br>
 Zuikaku：<br>
@@ -238,7 +238,7 @@ Kawakaze：<br>
 Relax. I will end this in an instant!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Boundary|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Boundary|选项=8|主框=1|样式=primary|展开=是}}
 Kawakaze：<br>
 You really are as strong as they say. I'm impressed.<br>
 Zuikaku：<br>
@@ -263,7 +263,7 @@ Mikasa：<br>
 That is our goal, too. Kawakaze, you have done well. We shall take care of the rest!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prayer|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prayer|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Thou shalt not touch a human, for they would tarnish thy divinity.<br>
 Thou shalt not smile, for thou must maintain thy dignity.<br>
@@ -302,7 +302,7 @@ Mutsu：<br>
 ... Of course!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Little Sister|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Little Sister|选项=10|主框=1|样式=primary|展开=是}}
 Zuikaku：<br>
 ... It's our duty and all, but finding a way to wake Nagato is easier said than done...<br>
 Ayanami：<br>
@@ -341,7 +341,7 @@ Zuikaku：<br>
 Wait, hold on! ... Dammit! She's totally stealing my spot in the limelight!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Waking Up|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Waking Up|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 BAAANG!<br>
 KABOOOM!<br>
@@ -379,7 +379,7 @@ Nagato：<br>
 I am Nagato. Protector of the Sakura Empire and flagship of her Combined Fleet!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Final Battle|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Final Battle|选项=12|主框=1|样式=primary|展开=是}}
 Zuikaku：<br>
 Okay, I'm really, really sorry for trying to rouse you from your slumber...!<br>
 <br>
@@ -453,7 +453,7 @@ Very well! Lacking in experience as I may be, I shall hold nothing back!<br>
 I am Nagato, Big Seven of the Sakura Empire! Prepare yourself!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Powerful Enemy|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Powerful Enemy|选项=13|主框=1|样式=primary|展开=是}}
 {namecode:74}&{namecode:75}：<br>
 Ugh, we lost... Even though we tried so hard...<br>
 Mikasa：<br>
@@ -484,7 +484,7 @@ Nagato：<br>
 Have you any more to say? If not... prepare to be engulfed by cannon fire!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Repelling Strike|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Repelling Strike|选项=14|主框=1|样式=primary|展开=是}}
 Purifier：<br>
 Aaagghhh! I just wanted to check out a tree, and now I'm being forced to make like one! Purifier's blasting off agaaaaaaaain!<br>
 <br>

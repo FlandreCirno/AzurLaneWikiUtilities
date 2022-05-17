@@ -1,6 +1,6 @@
 == Fu Shun's Great Adventure  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Old Warehouse Treasure Hunt|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Old Warehouse Treasure Hunt|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Fu Shun's Great Adventure<br>
 <br>
@@ -33,7 +33,7 @@ Oh, Tai Yuan! Come here! Look what I found!<br>
 I-isn't that a...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Can You Fix It?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Can You Fix It?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Fu Shun's Great Adventure<br>
 <br>
@@ -76,7 +76,7 @@ What?! You don't know what it is either?!<br>
 Sorry to say, but you'll need to call in a pro for this one...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Hero's Journey Begins|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Hero's Journey Begins|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Fu Shun's Great Adventure<br>
 <br>
@@ -116,7 +116,7 @@ Yep! I guess it's more immersive that way, you know?<br>
 Here we go! The hero, Fu Shun, has set off on her journey to save the world!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Then the World was at Peace...|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Then the World was at Peace...|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Fu Shun's Great Adventure<br>
 <br>

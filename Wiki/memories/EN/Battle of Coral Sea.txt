@@ -1,6 +1,6 @@
 == Battle of Coral Sea ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Chapter 2: The Coral Sea|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 2: The Coral Sea|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lexington：</span><br>
 Hold your positions! Don't fire unless fired upon!<br>
 But if they mean to have a war...<br>
@@ -13,7 +13,7 @@ Let it begin!<br>
 <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 2: Counterattack's Overture|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 2: Counterattack's Overture|选项=2|主框=1|样式=primary|展开=是}}
 <br>
           Not long ago, in a western sea... <br>
 <br>
@@ -41,7 +41,7 @@ For the Eagles! For freedom!<br>
 B-25 Doolittle Squadron, attack!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 2: The Next City|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 2: The Next City|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:87}：</span><br>
 I... I got overexcited... What a mistake...<br>
 {{折叠面板|内容结束}}

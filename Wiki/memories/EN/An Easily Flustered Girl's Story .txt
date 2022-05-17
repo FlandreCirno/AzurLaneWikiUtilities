@@ -1,6 +1,6 @@
 == An Easily Flustered Girl's Story  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=An Easily Flustered Girl's Day|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Easily Flustered Girl's Day|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>
@@ -34,7 +34,7 @@ If I had to guess, she's just not very good at communicating her feelings...<br>
 ... That actually made me a little curious about her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=She Doesn't Have Many Friends?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=She Doesn't Have Many Friends?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>
@@ -86,7 +86,7 @@ Their conversation, if one could call it that, went on for surprisingly long.<br
 I feel like I've come to understand Honolulu's character now.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=You've Got a Friend in Me!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=You've Got a Friend in Me!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>
@@ -138,7 +138,7 @@ Stupid jerk...<br>
 Honolulu averted her gaze from me again. This time she seemed embarrassed.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Honolulu's Concerned?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Honolulu's Concerned?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>
@@ -185,7 +185,7 @@ But... as strange as it is... you might be able to understand my situation...<br
 So... could you share some of your advice... with me?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Honolulu's Bothered|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Honolulu's Bothered|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>
@@ -223,7 +223,7 @@ S-sure... I-I guess we can do that.<br>
 And so, I got Honolulu to agree to a "date" with me.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Date With Honolulu (Part 1)|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Date With Honolulu (Part 1)|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>
@@ -257,7 +257,7 @@ Wait, you bought something, too...? Judging by the wrapping, it must be expensiv
 Mind if I ask... who it's for?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Date With Honolulu (Part 2)|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Date With Honolulu (Part 2)|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 An Easily Flustered Girl's Story<br>
 <br>

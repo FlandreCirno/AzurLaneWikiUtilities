@@ -1,6 +1,6 @@
 == Christmas Party!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=How to Craft a Cookie |选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=How to Craft a Cookie |选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Christmas Party!<br>
 <br>
@@ -50,7 +50,7 @@ Still, you might be onto something there! I'll start by asking around, but first
 I didn't catch any of that, but it sounds good!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Queen's Profile |选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Queen's Profile |选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Christmas Party！<br>
 <br>
@@ -105,7 +105,7 @@ Wait, Seattle! Let me help you with that!<br>
 Hmm? Never mind, we're about done over here anyway. I will accompany Her Majesty to the party later, so do continue the good work, Seattle.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Hearth's Warmth |选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Hearth's Warmth |选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Christmas Party!<br>
 <br>
@@ -154,7 +154,7 @@ Ah, I get what you mean. Basically, I have to mix up the flavor a bit?<br>
 Right. And isn't there just the girl who would know all about that?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Speaking of Sweets |选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Speaking of Sweets |选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Christmas Party!<br>
 <br>
@@ -196,7 +196,7 @@ All right, I'm gonna make the best cookie, and put on the best Christmas party e
 Um, I'll help as well...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Christmas Party |选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Christmas Party |选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Christmas Party!<br>
 <br>

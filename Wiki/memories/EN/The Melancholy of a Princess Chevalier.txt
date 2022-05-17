@@ -1,6 +1,6 @@
 == The Melancholy of a Princess Chevalier ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Teatime Visitor|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Teatime Visitor|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>
@@ -44,7 +44,7 @@ Le Triomphant's eyes seemed to swim with a mix of affection and loneliness.<br>
 Perhaps it would be nice to have a tea party with the Vichya girls as well.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Do Your Best, Le Triomphant!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Do Your Best, Le Triomphant!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>
@@ -90,7 +90,7 @@ Ahem! Nevermind! In any case, let's all review the results of today's joint exer
 Ahh, what an exemplary secretary ship.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Le Triomphant, Sortie!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Le Triomphant, Sortie!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>
@@ -119,7 +119,7 @@ So once again, good job on the operation, everyone. Commander, would you like to
 Ahh, what an exemplary secretary ship. Truly without equal.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cheer Up, Le Triomphant!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cheer Up, Le Triomphant!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>
@@ -181,7 +181,7 @@ C-Commander...<br>
 Le Triomphant smiled at me, but she somehow seemed distant and lonely.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Listen to Your Heart|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Listen to Your Heart|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>
@@ -212,7 +212,7 @@ Commander, can you tell me what I'm supposed to do?<br>
 Her sorrowful voice quivered with helplessness.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Feuding Sisters|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Feuding Sisters|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>
@@ -267,7 +267,7 @@ Miss Forbin, Miss Le Mars, thank you both for your advice. I think I understand 
 It seemed like Le Triomphant's heart was finally beginning to thaw.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Le Triomphant of Iris Libre|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Le Triomphant of Iris Libre|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The Melancholy of a Princess Chevalier<br>
 <br>

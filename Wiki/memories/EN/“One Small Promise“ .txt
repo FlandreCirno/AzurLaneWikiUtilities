@@ -1,6 +1,6 @@
 == "One Small Promise"  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Sortie Begins|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Sortie Begins|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 Hrmm... we've been out this long and still not a single target...<br>
 nothing but icebergs. Not even a whale. I'm guessing faulty intelligence?<br>
@@ -25,7 +25,7 @@ Shhhh! Quiet down... We need to dive before they see us.<br>
 (Whispering) Understood! Unterseeritter U-556, commencing operation.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=After the First Fight|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=After the First Fight|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 Ahahaha! Didn't even break a sweat!<br>
 <span style="color:#4eb24e;">U-557：</span><br>
@@ -48,7 +48,7 @@ No matter. It's time to prove the goddess of fortune stands with us!<br>
 Torpedo reserves still good. 557, let's continue our war patrol!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=When the Dust Settles|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=When the Dust Settles|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">U-556：</span><br>
 Phew... that sure was something. Ehehehe~<br>
 <span style="color:#4eb24e;">U-557：</span><br>

@@ -1,6 +1,6 @@
 == Enterprise Troubles ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Strict Secretary|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Strict Secretary|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>
@@ -26,7 +26,7 @@ There's a lot of stuff on the list, but just try to get through things one at a 
 Looks like my daily routine from now on will be quite... strict.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Gathering of Juniors|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Gathering of Juniors|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>
@@ -73,7 +73,7 @@ Anyway, I have to get going. See you later!<br>
 ... You should worry about getting through me first...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Enterprise|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enterprise|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>
@@ -115,7 +115,7 @@ Sorry, Commander, but can I ask you to help me train?<br>
 And with that, Essex's special training regimen began.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Essex Versus Enterprise|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Essex Versus Enterprise|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>
@@ -160,7 +160,7 @@ Sorry, I'm a bit worn out... I'm going to head back to rest first.<br>
 Essex seemed to be acting strangely.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Knots of the Heart, Pt 1|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Knots of the Heart, Pt 1|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>
@@ -198,7 +198,7 @@ You're wrong about that.<br>
 E-Enterprise?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Knots of the Heart, Pt 2|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Knots of the Heart, Pt 2|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>
@@ -248,7 +248,7 @@ Heh. I'll be looking forward to that day.<br>
 Essex's smile seemed gentler than usual. The knot in her heart seemed to finally be dissolving.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=When We're Together|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=When We're Together|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Enterprise Troubles<br>
 <br>

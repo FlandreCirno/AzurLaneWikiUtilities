@@ -1,6 +1,6 @@
 == Tonic and Tea ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Proposal|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Proposal|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -65,7 +65,7 @@ I'd better get going too. Looking forward to hearing your unbiased opinion on ou
 The battle of the shops has officially begun, and it's off to a fierce start, at that.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Impromptu Strategy Meeting|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Impromptu Strategy Meeting|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -114,7 +114,7 @@ Another thing we must decide on is the café's name. Any suggestions?<br>
 With Bismarck as the director, the planning phase for the Iron Blood's themed café went swimmingly.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Maid Crash Course|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Maid Crash Course|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -165,7 +165,7 @@ They are going to look splendid on you all. That much I can say with certainty.<
 Now, let us repeat the exercise from the top. This time, try to keep our core tenet – gracefulness – in mind.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Out of the Box|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Out of the Box|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -224,7 +224,7 @@ Teehee~ Well, I had my fun, so I'm off. Toodles~<br>
 As obvious as that is, she's right about one thing: it'll be hard choosing which to visit first...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Experimental Menu|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Experimental Menu|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -266,7 +266,7 @@ Dig in, Commander! You should start with the waffles before they get cold!<br>
 This is quite a bizarre dish, that much is obvious. Nevertheless, I can't say no...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Classy Establishment|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Classy Establishment|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -319,7 +319,7 @@ And I'd better get back to work. Breaktime is over. Please do enjoy the rest of 
 A short while later, Icarus returns with my order. I listen to the vibrant violin music while I savor my cup of tea.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Day Off|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Day Off|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -403,7 +403,7 @@ Understood?<br>
 Yes! Of course!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Word of Thanks|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Word of Thanks|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -468,7 +468,7 @@ Don't worry, I won't. Having overcome that initial hurdle, I'm actually having a
 Bismarck and I have a pleasant chat, killing a bit of time before formal opening hours.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Your Cup of Tea|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Your Cup of Tea|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -520,7 +520,7 @@ Right. Stay put and I'll bring you some cookies.<br>
 Correct! We're only getting started here, servant! Brace yourself for an evening of desserts and entertainment!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Emergency Escape|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Emergency Escape|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -572,7 +572,7 @@ Now I have an excuse to postpone my final answer for later. Time to leave, quick
 Wait! We're not finished here...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=After-Hours Visit|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=After-Hours Visit|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>
@@ -601,7 +601,7 @@ That's the idea. It'd be a shame for the food to go to waste, wouldn't it? Let's
 Right this way, Commander. We have the café reserved all to ourselves tonight.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Garden Tea Party|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Garden Tea Party|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Tonic and Tea<br>
 <br>

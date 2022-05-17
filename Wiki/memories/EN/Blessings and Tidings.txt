@@ -1,6 +1,6 @@
 == Blessings and Tidings ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Greetings and Meetings?|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Greetings and Meetings?|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Blessings and Tidings<br>
 <br>
@@ -42,7 +42,7 @@ Oh, Cleveland mentioned something about that and a sport called "hanetsuki," rig
 Hanetsuki sounds like f– I mean... Ahem! Perhaps if the opportunity arises...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sleepy Shougatsu|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sleepy Shougatsu|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Blessings and Tidings<br>
 <br>
@@ -77,7 +77,7 @@ Eating red bean soup inside a kotatsu...?<br>
 What happened to my tangerine...? Eh? Huh?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year's Challenge|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year's Challenge|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Blessings and Tidings<br>
 <br>
@@ -116,7 +116,7 @@ You're going to vandalize my face...?<br>
 Ahhhhh!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year's Training?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year's Training?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Blessings and Tidings<br>
 <br>
@@ -150,7 +150,7 @@ Now that I think about it, I haven't even done my hatsumode yet... All right, co
 (At least let me finish my daily swings first...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Happy New Year!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Happy New Year!|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Blessings and Tidings<br>
 <br>

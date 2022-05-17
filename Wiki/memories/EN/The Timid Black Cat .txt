@@ -1,6 +1,6 @@
 == The Timid Black Cat  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Nervous Black Cat|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Nervous Black Cat|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>
@@ -33,7 +33,7 @@ I'll have someone else check on the commission team later.<br>
 ... But right now, Hatsuharu is on my mind.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Advice From a Friend|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Advice From a Friend|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>
@@ -84,7 +84,7 @@ Whoa, Hatsuharu! You look pretty cool!<br>
 And so, Hiyou's plans of conquering the high seas never left the drawing board.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=You Can Do It, Hatsuharu!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=You Can Do It, Hatsuharu!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>
@@ -137,7 +137,7 @@ Don't say that. If you give up now, you'll never get over your social anxiety.<b
 You can do it, Hatsuharu!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hatsuharu, The Secretary!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hatsuharu, The Secretary!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>
@@ -194,7 +194,7 @@ I doubt Hatsuharu realizes she just managed to converse really well.<br>
 Now the question is: where do we start...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fruitless Efforts?|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fruitless Efforts?|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>
@@ -247,7 +247,7 @@ Because a certain someone was worried about you and went looking for you. Isn't 
 C-Commander?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hatsuharu's Determination|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hatsuharu's Determination|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>
@@ -289,7 +289,7 @@ Thank you so much... Hiyou, Hatsushimo, Wakaba, and you too, Commander... I'll k
 Hatsuharu's eyes were twinkling with determination.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Black Cat's Daily Life|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Black Cat's Daily Life|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The Timid Black Cat<br>
 <br>

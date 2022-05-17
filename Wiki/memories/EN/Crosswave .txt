@@ -1,6 +1,6 @@
 == Crosswave  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Suruga, Sally Forth!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suruga, Sally Forth!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Crosswave<br>
 <br>
@@ -42,7 +42,7 @@ R-right... I shall do everything that I can...<br>
 Sorry for putting you through all this trouble.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Lucky Ship's Initiative|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Lucky Ship's Initiative|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Crosswave<br>
 <br>
@@ -86,7 +86,7 @@ You can count on Yukikaze to get it done! Wa hah hah!<br>
 ... A-affirmative!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Leader's Prowess|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Leader's Prowess|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Crosswave<br>
 <br>
@@ -137,7 +137,7 @@ Appreciate it. I'll give you specific instructions later, so for now just try no
 Set sail!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Crossing New Waves|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Crossing New Waves|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Crosswave<br>
 <br>
@@ -178,7 +178,7 @@ Thank you for having faith in my command, Yukikaze, Taihou!<br>
 Now's the time! I'll show them what a Kii-class battleship is capable of! Chaaaaaarge!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suruga's Saga|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suruga's Saga|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Crosswave<br>
 <br>

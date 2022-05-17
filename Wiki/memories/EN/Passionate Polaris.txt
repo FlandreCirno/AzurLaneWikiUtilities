@@ -1,6 +1,6 @@
 == Passionate Polaris ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Lights|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lights|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Ancient legends spoke of sea monsters that sang enchanting songs to lure ships to their watery graves.<br>
 They were named "Sirens," and they threatened the safety of the seas by dragging people to their demise.<br>
@@ -57,7 +57,7 @@ W-well... None of us have done something like this before... Anyway, Gascogne, w
 Acknowledged. Operation, begin.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Test Begins!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Test Begins!|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Let's kick off the first day of Passion Fes, nya!<br>
 Um, while the main goal of this event is to benchmark the performance of the Muse System compared to the other factions...<br>
@@ -94,7 +94,7 @@ Fine, fine! In that case, I'll volunteer for it! Akashi, is that fine with you?<
 Anyone will do, nya! Anyway, let's begin testing the rigging's performance right meow!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Debut of the Dragon Sisters!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Debut of the Dragon Sisters!|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ning Hai：</span><br>
 It's finally time for us to make our grand debut! All right, slow and easy...<br>
 <span style="color:#4eb24e;">Ping Hai：</span><br>
@@ -118,7 +118,7 @@ Show us what you're made of, Dragon Sisters!<br>
 I'll show you what happens when you underestimate our power!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=120% Motivation!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=120% Motivation!|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Laffey：</span><br>
 Laffey... is shleepy... I wanna go home...<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -152,7 +152,7 @@ Polaris, let's dazzle the crowd!<br>
 All righty! Hehe, let's not hold anything back!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Polaris I|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Polaris I|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Meanwhile, in the stands...<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
@@ -204,7 +204,7 @@ Nothing in particular. Let's head to the next venue.<br>
 "Ideals"... Everyone's "emotions"...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Magical Girl Idol Arrives!|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Magical Girl Idol Arrives!|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Experimental Armament Testing Grounds<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
@@ -244,7 +244,7 @@ Sheffield pulled her microphone cable taut.<br>
 If you can't muster your own momentum, then you'll have to turn the enemy's against them.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Polaris II|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Polaris II|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Dewey：</span><br>
 Polaris, Saratoga, do your best!<br>
 <span style="color:#4eb24e;">Aylwin：</span><br>
@@ -282,7 +282,7 @@ That's right. Let's focus on finishing our test run first, shall we?<br>
 (That's right... This will determine whether or not the Muse System can be used on our ships...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Slightly Confused Rival?|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Slightly Confused Rival?|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z23：</span><br>
 Ayanami, we're over here!<br>
 <span style="color:#4eb24e;">Ayanami：</span><br>
@@ -321,7 +321,7 @@ Mhm! We'll do everything we can to ensure the trial run is as successful as poss
 Long Island and I didn't pull an all-nighter studying idol performances for nothing... I'll show you the fruits of our research!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Polaris III|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Polaris III|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ayanami：</span><br>
 We lost, but... it was still fun.<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -373,7 +373,7 @@ However, in the event that activation of Gascogne's emotion module is necessary 
 Please issue the command.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Girl Who Awakened Her Emotions|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Girl Who Awakened Her Emotions|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Experimental Armament Testing Grounds<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
@@ -396,7 +396,7 @@ What good does it do worrying about that? Come on, let's get going.<br>
 (It... it's probably that girl... Gah, I feel too ashamed to tell them though...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Polaris IV|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Polaris IV|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Z35：</span><br>
 Ehh?! Funf isn't allowed to participate?<br>
 <span style="color:#4eb24e;">Comet：</span><br>
@@ -443,7 +443,7 @@ I'll consider your offer.<br>
 Gascogne's... "daily thoughts..."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=World's♡Cutest|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=World's♡Cutest|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Deutschland：</span><br>
 Ahahahaha! Come forth, my sister! Bring the world to its knees with your transcendent cuteness!<br>
 <span style="color:#4eb24e;">Admiral Graf Spee：</span><br>
@@ -467,7 +467,7 @@ Who the hell could have a great time doing this crap?!<br>
 You know, it wouldn't hurt to be more honest with yourself... But anyhow, I'm your next opponent, right? Ready to do this?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Girl's Smile|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Girl's Smile|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Admiral Graf Spee：</span><br>
 Ahaha, turns out I'm no match for you...<br>
 <span style="color:#4eb24e;">Admiral Hipper μ：</span><br>
@@ -502,7 +502,7 @@ Did I hear something?<br>
 Ahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Emotion Module|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Emotion Module|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Rest Area<br>
 <span style="color:#4eb24e;">Le Téméraire：</span><br>
@@ -541,7 +541,7 @@ Cannot determine necessity of apology.<br>
 It's better to... enjoy myself...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Final Stretch?!|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Final Stretch?!|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Experimental Armament Testing Grounds<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
@@ -573,7 +573,7 @@ Hmph. That's exactly what we want!<br>
 Affirmative!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Polaris V|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Polaris V|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Bailey：</span><br>
 Eldridge's idol outfit... isn't bunny-like at all...<br>
 <span style="color:#4eb24e;">Benson：</span><br>
@@ -596,7 +596,7 @@ That's what... I have to also release my emotions, and enjoy myself with all my 
 Booyah! Let's keep smiling and laughing until the very end!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lightning and Ice!|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lightning and Ice!|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Fubuki：</span><br>
 Come on, Polaris! You're facing the Special-type Idol, Fubuki, and the Railgun Idol, Eldridge!<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
@@ -628,7 +628,7 @@ Come on, Polaris! You're facing the Special-type Idol, Fubuki, and the Kitty Ido
 Polaris, commencing testing protocol... Live battle, begin!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=MAXIMUM OUTPUT|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=MAXIMUM OUTPUT|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Fubuki：</span><br>
 You got me good...!<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
@@ -655,7 +655,7 @@ Looking at it from another angle, that must mean that our final opponent must be
 Yes, but we will see things through to the end. With our Muse System, as Polaris...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Final Battle|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Final Battle|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 The climactic finale that you've all been waiting for is finally here!!<br>
 That's right, the next battle will be a challenge to see if we can surpass the limitations of the Muse System. It'll be a performance you can't afford to miss, nya!<br>
@@ -667,7 +667,7 @@ Look sharp, Polaris, are you ready, nya?<br>
 Just how far can we push the Muse System? The battle to find out begins right meow!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Muse System|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Muse System|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akagi μ：</span><br>
 I think I understand the power behind this equipment.<br>
 <span style="color:#4eb24e;">Admiral Hipper μ：</span><br>
@@ -709,7 +709,7 @@ But as "people" who experience emotions, we should not leave behind any regrets.
 Therefore, let us fight with all our might, and have fun at the same time!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Make or Break|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Make or Break|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ning Hai：</span><br>
 The Dragon Sisters are back! After studying everyone's battles, we're no longer amateurs to the scene!<br>
 <span style="color:#4eb24e;">Ping Hai：</span><br>
@@ -746,7 +746,7 @@ Wow, this is really shaping up to be a proper final battle! Gascogne, are you re
 Directives confirmed! Optimizing singing output...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Passionate Encore|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Passionate Encore|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akagi μ：</span><br>
 Give me more! This can't be all that the Muse System is capable of!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -765,7 +765,7 @@ Laffey... is feeling a little more motivated...<br>
 I wouldn't have it any other way!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=fin|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=fin|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gascogne μ：</span><br>
 We've reached the Muse System's limit...! Singing protocol powering down...<br>
 <span style="color:#4eb24e;">Admiral Hipper μ：</span><br>
@@ -808,7 +808,7 @@ But, more importantly...<br>
 I had a good time, Polaris. Hehe~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Observation|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Observation|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">？？？：</span><br>
 "Orpheus played his lyre, and the Sirens were so engrossed with the beautiful melodies that they forgot to sing."<br>
 What a heartwarming tale.<br>

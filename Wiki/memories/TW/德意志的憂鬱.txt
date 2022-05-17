@@ -1,6 +1,6 @@
 == 德意志的憂鬱 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=開端|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=開端|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>
@@ -41,19 +41,19 @@
 不過或許她的性格方面應該想想辦法比較好……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=高貴|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=高貴|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>
 二　高貴<br>
 和德意志出外勤的時候，看到了這樣的一幕。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 貝爾法斯特，為什麼我身為女王也非得去演習不可。<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 那是因為您同時也是艦隊裡的一員，陛下。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 我不想去，交給厭戰去吧！<br>
-<span style="color:#4eb24e;">贝尔法斯特：</span><br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
 請不要任性，陛下。<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 哼，皇家的女王居然還會受僕人的意見左右，在我們鐵血，這種事是絕對不會發生的！<br>
@@ -79,28 +79,28 @@
 ……但是，這樣的情況，究竟能持續多久呢？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=不協調音|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=不協調音|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>
 三　不協調音<br>
-<span style="color:#4eb24e;">伦敦：</span><br>
+<span style="color:#4eb24e;">倫敦：</span><br>
 那麼現在公佈本次演習炮擊組的前二十名……<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 僕人，看著吧，我可是天下聞名的裝甲艦，一定會名列前茅的！<br>
-<span style="color:#4eb24e;">伦敦：</span><br>
+<span style="color:#4eb24e;">倫敦：</span><br>
 第五名，羅德尼……<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 ……哼，看起來今天的狀態不是很好，不過除了這些BIG7，我肯定不會輸給別的戰艦。<br>
-<span style="color:#4eb24e;">伦敦：</span><br>
+<span style="color:#4eb24e;">倫敦：</span><br>
 第十三名，伊莉莎白女王……<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 ……<br>
-<span style="color:#4eb24e;">伦敦：</span><br>
+<span style="color:#4eb24e;">倫敦：</span><br>
 第二十名，{namecode:66}，{namecode:66}小姐也是唯一上榜的重巡，很厲害。<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 等等，我呢？！<br>
-<span style="color:#4eb24e;">伦敦：</span><br>
+<span style="color:#4eb24e;">倫敦：</span><br>
 德意志小姐嗎……嗯……<br>
 雖然速度上接近一線水平，不過妳的火力還有精準度都差了其他人不少呢。<br>
 還要多多練習才行哦。<br>
@@ -124,7 +124,7 @@
 德意志像是沒有聽到一樣，有些失魂落魄地離開了。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=失落|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=失落|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>
@@ -158,7 +158,7 @@
 ……或許應該帶她去問一問她鐵血的同伴們，這其中一定有什麼原因。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=真相·上|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=真相·上|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>
@@ -177,7 +177,7 @@
 會議室<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 那麼，歐根，施佩，鐵必制，Z1，謝謝妳們抽空過來。<br>
-<span style="color:#4eb24e;">斯佩伯爵：</span><br>
+<span style="color:#4eb24e;">施佩伯爵將軍：</span><br>
 是因為德意志姐姐的那件事嗎？<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 是的，施佩妳可能不太清楚，我們曾經約定好，盡可能地遷就她的性格，讓她能夠繼續無憂無慮地生活下去。<br>
@@ -193,9 +193,9 @@
 <span style="color:#4eb24e;">德意志：</span><br>
 區區低等動物的僕人……<br>
 ……嗚<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 嗯？……呵呵，早就已經習慣了這樣的相處模式，都快要忘了以前做過這樣的約定呢。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 但是歸根結底，這只是權宜之計，而且也是我們欺騙了她。<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 是的，後果就是不僅對其他同僚造成了困擾，在她現在有些意識到這點後，也對她產生了傷害。<br>
@@ -206,12 +206,12 @@
 （小聲）僕人，我該怎麼辦啊……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=真相·下|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=真相·下|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>
 六　真相·下<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 “呂佐”……是因為這個名字。<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 是的。不知道是什麼原因，德意志她作為艦船的存在不光是鐵血的“德意志”還是北方聯合的“呂佐”呢。<br>
@@ -219,7 +219,7 @@
 ？！她們居然知道……<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 不是在那場戰鬥中努力的“呂措”，而是北方聯合的“呂佐”……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 她對自己作為艦船的經歷充滿了懊悔。所以為了讓自己成為鐵血的一員，拼命地表現的像一個鐵血的船呢。<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 ……現在說有什麼用……<br>
@@ -232,12 +232,12 @@
 鐵血的大家也為了不傷害到德意志而非常小心呢。<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 所以我們沒有告訴她真相，就這樣接受“現在的德意志”作為了我們的一員。<br>
-<span style="color:#4eb24e;">提尔比茨：</span><br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
 沒錯。她不管如何都是我們的夥伴。但是我們太過於謹慎反而傷到了她……真是事與願違呢。<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 我是覺得她現在這樣也很好啦…不過總是要多面對下自己才行呢。<br>
 可能暫時會讓她難受，不如我們就告訴她真相也好？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 同意。那個任性的德意志看不到了雖然會有點惋惜。不過她應該活的更自由一些的。<br>
 <span style="color:#4eb24e;">德意志：</span><br>
 什麼啊……結果還是要承認騙我嗎……<br>
@@ -247,15 +247,15 @@
 ……僕人。把我放下來。<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 結論是去告訴德意志真相呢。<br>
-<span style="color:#4eb24e;">斯佩伯爵：</span><br>
+<span style="color:#4eb24e;">施佩伯爵將軍：</span><br>
 但是到底要怎麼樣告訴她呢……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 沒這個必要呢……格奈森瑙，妳說對吧？<br>
 <br>
 鬆開抱著她的手。德意志打開門，出現在夥伴們的面前<br>
 <span style="color:#4eb24e;">格奈森瑙：</span><br>
 真是瞞不過歐根妳。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 當然啦。……於是妳要怎麼處罰我們呢。<br>
 <br>
 ——沉默片刻後，少女向夥伴們道出了心聲<br>
@@ -265,7 +265,7 @@
 讓我成為妳們的夥伴，真的謝謝大家——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=一如既往？|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=一如既往？|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 德意志的憂鬱<br>
 <br>

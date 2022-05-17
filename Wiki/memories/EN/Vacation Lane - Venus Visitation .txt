@@ -1,6 +1,6 @@
 == Vacation Lane - Venus Visitation  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Mysterious Invitation|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Mysterious Invitation|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 A fated new encounter<br>
 An unknown ordeal, on the horizon<br>
@@ -52,7 +52,7 @@ H-hold on a minute! This should be treated as the mission it is! We're not just 
 The Venus Festival... For some reason, I get the feeling that this is going to end up being a huge mess...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Preordained Encounter|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Preordained Encounter|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Javelin：</span><br>
 ...Target spotted! So that's the island that was mentioned in Akashi's report!<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -92,7 +92,7 @@ Eh? Are you acquainted with Akashi?<br>
 ...It really is just as was written in the letter... Um, won't you come over to where we've set up camp for now? Once there, I can explain a bit more.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Venuses' Visitation|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Venuses' Visitation|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kasumi ：</span><br>
 Thanks, Marie. I'm back, everyone.<br>
 <span style="color:#4eb24e;">？？？：</span><br>
@@ -158,7 +158,7 @@ I'm getting serious deja vu here...<br>
 F-for now... Denizens of the... Venus Islands? Please come to the port! We'll need to report the ongoing events to the Commander as well.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Special Power|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Special Power|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 A few days later, at a nearby ocean area...<br>
 <span style="color:#4eb24e;">Kasumi：</span><br>
@@ -242,7 +242,7 @@ I've placed the training ship in the ocean nearby, nya! Use that to practice aga
 Okay~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Grand Opening|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Grand Opening|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Now that the preparations are complete, the long-awaited festival finally begins.<br>
 <span style="color:#4eb24e;">Akashi：</span><br>
@@ -275,7 +275,7 @@ Indeed... May the best duelist win!<br>
 Well then... Begin, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dancing Blades|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dancing Blades|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kasumi：</span><br>
 I wasn't expecting an easy fight against a renowned shipgirl... but I refuse to lose! Now's my chance to deliver the decisive strike!<br>
 <span style="color:#4eb24e;">Takao：</span><br>
@@ -302,7 +302,7 @@ Sounds like a great idea~<br>
 That about does it for the first round, nya! Everyone, we're going into an intermission! I'll see you all for round two, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Intermission|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Intermission|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Commander, there's a change in the terminal, nya!<br>
 <br>
@@ -313,7 +313,7 @@ Who knows... I still haven't pinpointed the originator, nya...<br>
 It looks like we'll just have to keep an eye on it as we proceed.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Story of Several Sisters|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Story of Several Sisters|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Aaaand we're back, nya! The second battle will begin in just a moment, nya!<br>
 This time, it'll be a battle of sisters, nya! Representing the red team, we have Misaki and Nagisa, and fighting for the blue team, Admiral Hipper and Prinz Eugen, nya!<br>
@@ -355,7 +355,7 @@ Misaki, are you ready?<br>
 Are you done there yet, nya? Good! Then the second round staaaarts... now, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sisters in Battle|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sisters in Battle|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Nagisa：</span><br>
 Misaki, to your left!<br>
 <span style="color:#4eb24e;">Misaki：</span><br>
@@ -402,7 +402,7 @@ Think of them as flavors. There's one out there for everyone.<br>
 W-well then, the second round is finished! Once again, we'll go into an intermission! Look forward to the next round, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Matter of Size?|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Matter of Size?|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Tired of waiting, nya? It's time to commence the third round, nya!<br>
 Introducing: the red team, with a bond of friendship as strong as sisters, nya! It's Marie Rose and Honoka!<br>
@@ -428,7 +428,7 @@ Hehe, then I hope my sincerity will reach you as I battle to my utmost.<br>
 Somehow, I'm compelled to cheer for Warspite's side... Ahem! Anyway then, let the next round begin, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Featured Fight|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Featured Fight|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Marie Rose：</span><br>
 Honoka, look out!<br>
 <span style="color:#4eb24e;">Honoka：</span><br>
@@ -468,7 +468,7 @@ Geez, you're making me blush~<br>
 Get a hold of yourself, Akashi... A professional MC can't be shaken up this easily, nya! Okay, um, we'll continue with the final round after this short break!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Before the Decisive Battle|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Before the Decisive Battle|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Hmm... The progress is still listed at 85%, and I still can't trace the source of the signal, nya...<br>
 <br>
@@ -504,7 +504,7 @@ Some young'uns? I know not what you mean, but trifling beings as yourselves need
 The "young'uns," eh...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mikasa's Bright Stars|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mikasa's Bright Stars|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 We've had a wonderful show so far, haven't we, nya? Now it's time to close it off... with the final round, nya!<br>
 It's unfortunate that the show is almost over, but all good things must come to an end, nya...<br>
@@ -534,7 +534,7 @@ Let's go!<br>
 Oh boy... Um, final round, start, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Living Up to Expectations|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Living Up to Expectations|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Nyotengu：</span><br>
 Hehehe, that's not enough! That much won't do!<br>
 <span style="color:#4eb24e;">Shoukaku：</span><br>
@@ -559,7 +559,7 @@ Nyotengu appears content, and Shoukaku and Zuikaku seem to have learned somethin
 And that marks the end of our Special Venus Festival, nya! Everyone, great work, nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Linked Worlds|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Linked Worlds|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Akashi：</span><br>
 Commander! There's a new message on the terminal!<br>
 <span style="color:#4eb24e;">Terminal：</span><br>
@@ -637,7 +637,7 @@ Hehehe. It would seem we still have much fun ahead of us.<br>
 Through some stroke of luck, our vacation with our new friends just received a new lease on life.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=One-way Observation|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=One-way Observation|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Observer ：</span><br>
 Hahah, we've gotten the data we need for now.<br>
 <span style="color:#ec5d53;">Tester：</span><br>

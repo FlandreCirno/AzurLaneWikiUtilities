@@ -1,6 +1,6 @@
 == Looking Glass of Fact and Fiction - Funsies ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Same Face|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Same Face|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -77,7 +77,7 @@ It's true! Hold on, I'll go get them~<br>
 The same energy...? Crap, did she meet that girl...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Same Energy|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Same Energy|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -135,7 +135,7 @@ Oh no, not her "breathing" again!<br>
 For Matsuri, to breathe is to have an affair... I feel like Ooshio and Matsuri are two people who never should have met...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Similar Traits|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Similar Traits|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -197,7 +197,7 @@ Haah... a couple of magicians together are also precious~! Wait, wait, Shion~! T
 No... way! Blehhhh!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Peaceful World|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Peaceful World|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -270,7 +270,7 @@ Ah, but I already knew that because I gave Kawakaze a pledge ring a long time ag
 All that buildup was just for that...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Attitudes|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Attitudes|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -319,7 +319,7 @@ Know what...? In any case, I'm going to see that dumb Commander right now. Want 
 Ooh, this is my chance! I'd love to~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gaming|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gaming|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -394,7 +394,7 @@ Okay~!<br>
 *sigh*... Why are they treating me like their mom anyway~?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Kagura Dance|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Kagura Dance|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -471,7 +471,7 @@ Of course! That was absolutely amazing!<br>
 Then, let us continue to the next show.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sakura War Dance|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sakura War Dance|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -524,7 +524,7 @@ All right, all right, let Ayame rest first, and save the chatter for later.<br>
 I brought a thermos cup. Here, have some tea~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Great Castle|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Great Castle|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Looking Glass of Fact and Fiction - Funsies<br>
 <br>
@@ -607,7 +607,7 @@ The girls' joyful voices resounded from the building protected by the towering w
 ... Thanks to them, the castle was very lively today.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Beginning|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Beginning|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Natsuiro Matsuri：</span><br>
 Leader, this is the device! You should already know how to use it.<br>
 <span style="color:#4eb24e;">Minato Aqua：</span><br>

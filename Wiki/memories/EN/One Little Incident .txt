@@ -1,6 +1,6 @@
 == One Little Incident  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Her Wish|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Her Wish|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 I've always been alone.<br>
 Laughing alone. Crying alone.<br>
@@ -39,7 +39,7 @@ As of now... nothing in particular. As long as you let me stay here, I'm content
 "What I want to do"... What exactly could that mean?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Chance Encounter|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Chance Encounter|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 "Basically, just share your thoughts!"<br>
 "Talk about things you like, or things that worry you. Just let it all out."<br>
@@ -98,7 +98,7 @@ I wound up having to listen to Deutschland's complaints all the way back to the 
 I wonder if the kitty's okay...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Comrades in Arms|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Comrades in Arms|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 "If you had allies who'd sortie with you and watch your back..."<br>
 "If they'd make merry together with you at celebratory banquets after a victory..."<br>
@@ -149,7 +149,7 @@ Yeah... As long as I'm surrounded by people I know and not all alone, like back 
 Why did I end up remembering that time?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Allies|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Allies|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 "Someone who really understands you."<br>
 "And I don't just mean someone who listens to what you say."<br>
@@ -206,7 +206,7 @@ Don't worry too much. Everyone in the Iron Blood and even the Commander can prob
 Just like they did for me, once...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Loneliness|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Loneliness|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Those who stay by my side.<br>
 Those who fight together with me.<br>
@@ -252,7 +252,7 @@ For some reason, thinking that it might be a mission gets me all excited.<br>
 Maybe the battlefield is what suits me best...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Weight|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Weight|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 One Little Incident<br>
 <br>
@@ -309,7 +309,7 @@ Who was in their right to decide that?<br>
 With a loud clank, the equipment around my hands comes off.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Warmth|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Warmth|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 One Little Incident<br>
 <br>

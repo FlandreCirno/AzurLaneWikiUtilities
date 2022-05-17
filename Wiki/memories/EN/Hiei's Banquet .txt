@@ -1,6 +1,6 @@
 == Hiei's Banquet  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Spirited Secretary|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Spirited Secretary|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>
@@ -34,7 +34,7 @@ Hm? What's the matter, Commander? Oh my, is there something stuck on my cheek?<b
 For whatever reason, Hiei seemed to be in an especially good mood.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Formal Invitation|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Formal Invitation|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>
@@ -66,7 +66,7 @@ I do hope to see you there.<br>
 Sincerely, Hiei<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reasons|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reasons|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>
@@ -111,7 +111,7 @@ And I was looking forward to you helping me this time...<br>
 Sorry about that...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Preparations|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preparations|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>
@@ -153,7 +153,7 @@ Well, um... my bad, I guess. It's hard to say no when so many people are goading
 I wonder if everything is in order now... Thanks for helping with the preparations, Commander~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Different Strokes for Different Folks|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Different Strokes for Different Folks|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>
@@ -187,7 +187,7 @@ Hiei smiled gently as she surveyed the scene.<br>
 However, she was the only person who wasn't participating...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Table for Two|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Table for Two|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>
@@ -237,7 +237,7 @@ Well, since we don't get to spend time together like this very often...<br>
 Commander, would you do me the honor of accompanying me for this dance?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Moonlit Appassionata|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Moonlit Appassionata|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Hiei's Banquet<br>
 <br>

@@ -1,6 +1,6 @@
 == 從內到外魅力MAX！ ==
 {{折叠面板|开始}}
-{{折叠面板|标题=沒有艦歷的女孩|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=沒有艦歷的女孩|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
@@ -51,7 +51,7 @@
 她言出必行的氣勢已經感受到了。不過，總有種預感，恐怕之後和秘書艦駿河一起工作的日子裡會有不少波折……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=駿河的本意|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=駿河的本意|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
@@ -103,7 +103,7 @@
 看來在徹底了解駿河前，即使是善意的建議也不該輕率地說出“卸任”這樣的話……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=想要低調可不容易|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=想要低調可不容易|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
@@ -148,7 +148,7 @@
 今天她的演習對手好像是……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=紀伊型意味著什麼|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=紀伊型意味著什麼|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
@@ -163,11 +163,11 @@
 <br>
 邀請我來這裡的緣由，我也是十分清楚的。<br>
 來自重櫻的艦船們將在此處進行演習，而自己就是本次演習的裁判。<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 哼哼！駿河，來得好！我就先誇你沒有不戰而逃吧！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 {namecode:80}……<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 該不會這次贏的人還是我吧？<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 你就逞逞嘴上威風吧……！<br>
@@ -177,7 +177,7 @@
 差不多是時候了。主上，拜託您了。<br>
 <br>
 感受著會場觀眾的熱情，還有駿河和紀伊蓄勢待發的氣勢，宣布了演習的開始。<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 看我這招華麗的攻擊！！你能接下來麼！<br>
 <br>
 紀伊間不容髮地動身了。她邊接近駿河邊發出連射，打算一口氣打倒對方。<br>
@@ -185,7 +185,7 @@
 又是來這套……我已經看膩了！<br>
 <br>
 駿河發出了此前在相處中從未出現過的銳利聲音，同時巧妙地躲避著紀伊的猛攻。<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 怎麼會？！駿河，怎麼了！！這可不像你ー！！<br>
 <br>
 與面對超出預料狀況卻仍有餘力的紀伊形成鮮明對比，駿河正邊喘著氣邊嘗試著反擊。<br>
@@ -196,20 +196,20 @@
 儘管紀伊的氣勢很強，但駿河此時完全不輸於她，同樣地引人注目。<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 嘿呀啊啊啊！！<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 ……哼哼！<br>
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
 ——看來，這下要決出勝負了。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=保護自己的盾|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=保護自己的盾|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
 五　保護自己的盾<br>
 港區·演習海域<br>
 勝負已分——本次演習的獲勝者是紀伊。即使駿河現在是自己的秘書艦，也不能偏心啊……<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 啊哈哈，又是我贏啦！！<br>
 <br>
 紀伊在最後關頭發動佯攻，誘出駿河的攻擊，然後用極近距離的子彈命中了她。可以說優秀之處一目了然。<br>
@@ -218,17 +218,17 @@
 哈啊，結束了結束了——……<br>
 <br>
 意外地，她看起來十分平靜。就像是從麻煩事中脫身了一樣。<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 嗯？看上去這位也還有餘力的樣子呢！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 ……怎麼？<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 我說，駿河什麼時候才能拿出100％的全力跟我來一場比試呢？<br>
 如果能跟完全認真的駿河戰鬥一場，我覺得自己能把力量解放到120%呢！對了，剛才駿河也挺樂在其中的吧？不如我們再戰一場如何？<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 ……妳這人，真是……！<br>
 我現在還兼任秘書艦，明天也已經有其他的工作安排，麻煩的事還是算了吧。<br>
-<span style="color:#4eb24e;">{namecode:80}：</span><br>
+<span style="color:#4eb24e;">紀伊：</span><br>
 嗚哇—。又拿出這種棘手的正當理由了ー……！<br>
 <br>
 其實……明天並沒有什麼特別的工作安排。果然只是在找藉口……<br>
@@ -248,37 +248,45 @@ ponpokopoーーーーーーーーーーーーーーーn！<br>
 <br>
 突然，奇怪的聲音冒了出來……緊接著駿河的身上長出了尾巴，頭上的角也變成了毛絨絨的大耳朵……？！<br>
 就像是，狸貓……？<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 嗚，嗚哇？！駿河的偽裝暴露了！指揮官請跟我離開一下！！<br>
+<br>
 像是掐好了這個時機一般，突然出現的島風把我帶出了指揮室……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=無法袒露的弱點|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=無法袒露的弱點|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
 六　無法袒露的弱點<br>
 港區 傍晚時分<br>
 向島風詢問了駿河變成狸貓的原因。<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 剛才看到的事情，請一定保密哦。<br>
 駿河平時一直扮演著著“強大的自己”，為了不讓自己露出可愛的那一面，總是繃緊著精神。<br>
+<br>
 確實如此，平日裡也更多是被她展現出來的凜然所吸引……<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 島風妳看看這個角……還行吧？<br>
-<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 哇，好厲害——！<br>
 正因為知道本來耳朵是什麼樣子，所以怎麼說呢，感覺這個角看上去更厲害呢。<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 竟然會坦率的誇獎我嗎……！<br>
-<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 抱歉啦。放心，在島風眼裡看上去也是很帥氣的角哦！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 哼哼哼，這就對了！有這副新模樣，我終於可以充滿自信的行動了…！<br>
-<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 ………但是，駿河還是沒能拿到第一。<br>
+<br>
 時間長了，漸漸妥協的程度就越來越大，感覺第二也行，第三也沒什麼不好——<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 “因為平時不是會努力的類型啦，所以輸掉也正常”“因為沒有拿出真本事”之類的，自己也變得擅長找理由了……<br>
 紀伊閣下並沒有理解駿河的全部呢……<br>
+<br>
 都說到這裡了，接下來要做的事情自然只有一件。<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 指揮官，是打算去安慰駿河嗎？<br>
 <br>
 '''''<span style="color:black;">选择项1：對</span>'''''<br>
@@ -303,7 +311,7 @@ ponpokopoーーーーーーーーーーーーーーーn！<br>
 不過……嘛，做完工作之後應該可以就是……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=最強的盾|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=最強的盾|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 從內到外魅力MAX！<br>
 <br>
@@ -336,10 +344,11 @@ ponpokopoーーーーーーーーーーーーーーーn！<br>
 <br>
 ……外貌的事先姑且放在一邊。<br>
 主要還是因為，實在是不想再看到這樣一直輸給紀伊的駿河。<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 哦，正在練習呢！看你們好像都一幅很開心的樣子呢！ ♪<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 欸……島風？！妳怎麼…<br>
-<br>
+<span style="color:#4eb24e;">{namecode:18}：</span><br>
 欸？我只是做完任務回來，剛好路過而已哦！對吧，指揮官！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 （什麼…難道指揮官和島風是一夥的…？）<br>

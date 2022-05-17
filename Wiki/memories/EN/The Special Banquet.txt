@@ -1,6 +1,6 @@
 == The Special Banquet ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Preparations Done, Nya!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preparations Done, Nya!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The Special Banquet<br>
 <br>
@@ -70,7 +70,7 @@ I'm not a fan of crowded places, so I'll help out from here.<br>
 Hehe~ Your help is much appreciated~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Little Chat Outside the Office|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Little Chat Outside the Office|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The Special Banquet<br>
 <br>
@@ -140,7 +140,7 @@ Hehe. This stuff isn't very strong, so you should be fine...<br>
 Here, come sit next to me. Until Commander is finished with work, let's have some girl's talk.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cleveland Enters!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cleveland Enters!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The Special Banquet<br>
 <br>
@@ -204,7 +204,7 @@ Someone's calling for you. Anyway, I'll be taking my leave now.<br>
 Right. See you later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Queen at the Banquet|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Queen at the Banquet|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Special Banquet<br>
 <br>
@@ -273,7 +273,7 @@ Card game? Oh, that one called Yu-...<br>
 Oh my... is someone playing the piano?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Pianist of the Banquet Hall|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Pianist of the Banquet Hall|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 The Special Banquet<br>
 <br>
@@ -332,7 +332,7 @@ South Dakota drew a deep breath...<br>
 Now then... let's begin...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Anniversary Orchestra|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Anniversary Orchestra|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Special Banquet<br>
 <br>

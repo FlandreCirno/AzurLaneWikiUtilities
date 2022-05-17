@@ -1,19 +1,19 @@
 == 前進吧，{namecode:144}！ ==
 {{折叠面板|开始}}
-{{折叠面板|标题=戰鬥吧，{namecode:144}！|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=戰鬥吧，{namecode:144}！|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
 一 戰鬥吧，{namecode:144}！<br>
 某日·演習海域<br>
 重櫻的重巡們正在使用著演習海域。<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 身披艦裝的少女們在海域裡，賭上自己的一切，為著今天第一名的榮耀而奮鬥……啊啊，這標題實在是太棒了！<br>
-<span style="color:#4eb24e;">{namecode:56}：</span><br>
+<span style="color:#4eb24e;">衣笠：</span><br>
 別光顧著拍照啦，姐姐！妳也是演習的一員啊！<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 {namecode:64}也是！演習的時候稍微認真點啊！指揮官也在看著呢！<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 哎呀，放心吧，區區訓練演習，對我來說只是小事一樁~<br>
 比起這個，不關注一下正在場上的妹妹嗎？<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
@@ -37,7 +37,7 @@
 （我還要變得更強才行！）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=工作吧，{namecode:144}！|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=工作吧，{namecode:144}！|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
@@ -70,7 +70,7 @@
 {namecode:144}似乎默默下定了什麼決心的樣子<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=揮劍吧，{namecode:144}！|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=揮劍吧，{namecode:144}！|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
@@ -78,42 +78,42 @@
 某日，從學院準備返回指揮室時，聽到了{namecode:144}的聲音——<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 接招！<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 很好，氣勢不錯！<br>
 但是，還不夠！妳的能力應該還不止這些吧！<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 看這下如何！哈啊——！<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 可以啊，比剛剛更有威脅了啊……嗯？<br>
 有破綻！<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 糟了！<br>
 <br>
 啪——<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 今天的對練就到此為止吧。{namecode:144}，妳進步了許多呢<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 等等，{namecode:63}姐，我還可以繼續——<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 練習量已經到了，再勉強自己的話可是會起反效果的。好好休息吧。<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 唔……我知道了。<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 啊，對了，正好我這次調製了新的精力飲料——<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 兩位都辛苦啦~正好我帶了喝的過來了，不用客氣隨便享用吧。{namecode:63}的特製飲料還是留到下次吧。<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 {namecode:64}姐，謝謝了！<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 對了，{namecode:144}，我聽說妳前段時間給指揮官添了不少麻煩——<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 欸欸？妳，妳是怎麼知道的——<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 {namecode:144}遇到了什麼事情，心裡在想些什麼，好像都不怎麼願意和別人說呢。<br>
 但是這樣下去再給指揮官添麻煩的話，好像不太好吧？而且……{namecode:63}居然也沒注意到呢。<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 我看指揮官沒什麼表示，就以為工作進行得很順利……抱歉，是我疏忽了<br>
 放心吧，之後我會詳細教妳有關秘書艦的工作訣竅的。不過，要做好辛苦點的心理準備囉<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
@@ -122,7 +122,7 @@
 訓練內容又額外多了一項，然而{namecode:144}臉上卻帶著期待的神情<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题={namecode:144}，為何而戰？|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题={namecode:144}，為何而戰？|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
@@ -133,31 +133,31 @@
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 太客氣啦~要說感謝的話，這邊也一樣呢！通過這次的演習，我們也向皇家學習到了很多有意義的東西。<br>
 希望以後還能有這樣一起演練的機會！<br>
-<span style="color:#4eb24e;">约克公爵：</span><br>
+<span style="color:#4eb24e;">約克公爵：</span><br>
 余沒記錯的話，汝正是重櫻的{namecode:144}吧。<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 欸？啊，是、是的。<br>
 （這位好像是……皇家的戰列艦，約克公爵吧）<br>
-<span style="color:#4eb24e;">约克公爵：</span><br>
+<span style="color:#4eb24e;">約克公爵：</span><br>
 雖有早耳聞，汝今天光彩耀目，還是讓余覺得不可思議呢。<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 （這，這是在誇獎我吧？）<br>
 謝謝。<br>
-<span style="color:#4eb24e;">约克公爵：</span><br>
+<span style="color:#4eb24e;">約克公爵：</span><br>
 不過支撐著汝的是何物？余甚是好奇…獨自一人散發的光輝，不會有這般絢麗的色彩<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 （這，這是在說什麼？是問我有今天這樣表現的理由？）<br>
 唔…我覺得雖然是演習，但是自己畢竟代表著重櫻這一方……<br>
 “全力以赴，做到最好”，這樣對自己和大家都是一種負責——<br>
-<span style="color:#4eb24e;">约克公爵：</span><br>
+<span style="color:#4eb24e;">約克公爵：</span><br>
 對眾人負責嗎……哼，很正經的答案呢。但是，光是這樣的話就有些無趣了<br>
 究竟…汝心中的故鄉是何處呢？<br>
 <span style="color:#4eb24e;">{namecode:144}：</span><br>
 （沒，沒聽懂……）<br>
-<span style="color:#4eb24e;">威尔士亲王：</span><br>
+<span style="color:#4eb24e;">威爾斯親王：</span><br>
 好了，為難一個認真單純的女生可不是好的風度啊。<br>
 剛剛的話不必在意太多，她說話就是這樣子的。約克，走吧，一會還有事情呢。<br>
-<span style="color:#4eb24e;">约克公爵：</span><br>
+<span style="color:#4eb24e;">約克公爵：</span><br>
 嘖，威爾斯，汝真是無處不在。<br>
 <br>
 兩人離開了演習海域。<br>
@@ -167,7 +167,7 @@
 （我一直在意的東西，會是什麼呢）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=慌亂的{namecode:144}|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=慌亂的{namecode:144}|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
@@ -214,7 +214,7 @@
 （難道說，其實我……）<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=煩惱的{namecode:144}|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=煩惱的{namecode:144}|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
@@ -252,7 +252,7 @@
 時間像是凝滯了一般<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=約會吧，{namecode:144}！|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=約會吧，{namecode:144}！|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 前進吧，{namecode:144}！<br>
 <br>
@@ -293,11 +293,11 @@
 門突然被推開了，幾個身影擁擠著倒在了門前<br>
 <span style="color:#4eb24e;">{namecode:124}：</span><br>
 嘖，在這關鍵的時候……<br>
-<span style="color:#4eb24e;">{namecode:64}：</span><br>
+<span style="color:#4eb24e;">那智：</span><br>
 小{namecode:63}……妳這也太不解風情了吧？<br>
-<span style="color:#4eb24e;">{namecode:55}：</span><br>
+<span style="color:#4eb24e;">青葉：</span><br>
 差一點就到手的獨家新聞啊！<br>
-<span style="color:#4eb24e;">{namecode:63}：</span><br>
+<span style="color:#4eb24e;">妙高：</span><br>
 欸，我，我做錯了什麼嗎？還有這一地的紙鶴……這，這到底是怎麼回事？<br>
 <br>
 小小的鬧劇就這樣畫上了句號，接下來…要考慮約會的地點了呢<br>

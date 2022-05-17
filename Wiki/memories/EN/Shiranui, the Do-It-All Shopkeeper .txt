@@ -1,6 +1,6 @@
 == Shiranui, the Do-It-All Shopkeeper  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Ice-Cold Shiranui|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ice-Cold Shiranui|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>
@@ -31,7 +31,7 @@ And what's more, how did Shiranui manage to become the head of this store?<br>
 In order to solve these two mysteries, a little investigation is needed...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Daily Life of a Shopkeeper|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Daily Life of a Shopkeeper|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>
@@ -74,7 +74,7 @@ That's right, the new fabrics that Urakaze asked for should be here in about two
 ...From an observer's standpoint, one has to admit that Shiranui is a pretty diligent shopkeeper.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shopkeeper's Little Buddies|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shopkeeper's Little Buddies|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>
@@ -121,7 +121,7 @@ Today, I feel like I learned a bit more about another side of Shiranui.<br>
 However, I feel like she just shot a glance over here. It's just my imagination... right?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Encounter at the Store?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Encounter at the Store?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>
@@ -170,7 +170,7 @@ Despite her grumbling, Shiranui picked up the pen and started making corrections
 It seems that I've been able to learn a bit more about Shiranui.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shopkeeper's Abnormality|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shopkeeper's Abnormality|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>
@@ -214,7 +214,7 @@ Don't worry, I just got a little dizzy...<br>
 You should pay Akashi a visit anyway.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shopkeeper's True Feelings (Pt 1)|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shopkeeper's True Feelings (Pt 1)|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>
@@ -254,7 +254,7 @@ Eh? Even Akashi is opposed to that idea?<br>
 *sigh* ... This person sure is dense.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Shopkeeper's True Feelings (Pt 2)|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Shopkeeper's True Feelings (Pt 2)|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Shiranui, the Do-It-All Shopkeeper<br>
 <br>

@@ -1,6 +1,6 @@
 == An Exercise Gone Slightly Wrong ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Miscommunication|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Miscommunication|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 An Exercise Gone Slightly Wrong<br>
 <br>
@@ -81,7 +81,7 @@ Yes, of course! It all makes perfect sense!<br>
 All right, time to swooce!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Investigator Arrives|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Investigator Arrives|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 An Exercise Gone Slightly Wrong<br>
 <br>
@@ -160,7 +160,7 @@ She could've just said it if so... I'll go ask the Commander about that.<br>
 (Then I've gotta find her and make doubly sure she gets them this time!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Code Speak|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Code Speak|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 An Exercise Gone Slightly Wrong<br>
 <br>
@@ -213,7 +213,7 @@ Bristol took out her little notebook and began to write.<br>
 "I've been told to make my last stand at the old ruins... I pray my friends are okay."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Bristol with the Master Plan|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Bristol with the Master Plan|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 An Exercise Gone Slightly Wrong<br>
 <br>
@@ -270,7 +270,7 @@ I'm gonna go in and catch the troublemaker. Meanwhile, you should probably start
 It was this exact moment when Ingraham's brief period of R&R came to an end.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Clearing the Confusion|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Clearing the Confusion|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 An Exercise Gone Slightly Wrong<br>
 <br>

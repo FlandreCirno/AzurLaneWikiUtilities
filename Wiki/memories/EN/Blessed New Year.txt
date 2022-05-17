@@ -1,6 +1,6 @@
 == Blessed New Year ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Kitchen Commotion|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Kitchen Commotion|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>
@@ -53,7 +53,7 @@ It's okay nya! Everyone's so busy around this time of year that I appreciate alm
 Okay, then it's time for us to withdraw! We'll be back to help again when the zouni is ready!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year's Snow|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year's Snow|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>
@@ -120,7 +120,7 @@ At last it's time to show the fruits of my training. Come! Let us fight like it 
 Everyone gets so excited around New Year's... I just hope they don't make a mess... *Sigh*, my stomach's already starting to ache...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Great Snowball Brawl|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Great Snowball Brawl|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>
@@ -182,7 +182,7 @@ That was quite the engaging snowball fight. I swear we shall fight once more ano
 Preparations for New Year's, huh...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Sakura Empire's New Year|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Sakura Empire's New Year|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>
@@ -224,7 +224,7 @@ Whew~ My zouni is finally done nya! Who wants to be the first to...<br>
 Nya?! Where did everybody go?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Gift From Akashi|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Gift From Akashi|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>
@@ -272,7 +272,7 @@ Meh. I don't really think much of it.<br>
 H-has everyone gotten changed nya? Then come have your fill of New Year's food nya!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dinner Takes An Exciting Turn|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dinner Takes An Exciting Turn|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>
@@ -325,7 +325,7 @@ Hm? We can swap if you like mine more.<br>
 N-no, it's fine! T-this works too... (Blushes)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year's Blessings|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year's Blessings|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 New Year's Blessings<br>
 <br>

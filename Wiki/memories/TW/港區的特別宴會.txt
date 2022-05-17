@@ -1,6 +1,6 @@
 == 港區的特別宴會 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=準備完成喵！|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=準備完成喵！|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 港區的特別宴會<br>
 <br>
@@ -70,7 +70,7 @@
 呵呵，那就麻煩妳了~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=指揮室外的小小劇場|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=指揮室外的小小劇場|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 港區的特別宴會<br>
 <br>
@@ -139,13 +139,13 @@
 來吧，坐這裡。在指揮官大人完成工作前，我們再聊會天吧~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=克里夫蘭的入場|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=克里夫蘭的入場|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 港區的特別宴會<br>
 <br>
 三　克里夫蘭的入場<br>
 港區·大講堂<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 哈……到底要不要進去呢。<br>
 雖然之前被大家說服換上了男裝，真到了這裡又有點不敢進去了。<br>
 為什麼大家都穿著漂亮的裙子我卻要穿男裝嘛！<br>
@@ -160,242 +160,242 @@
 1，2，3！<br>
 ………………金碧輝煌啊。<br>
 雖然有預想過了，不過還是沒想到實際變成了這麼壯觀的場所…<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 勝利，那邊就拜託妳了——<br>
 克里夫蘭？果然和大家說的一樣，真是帥氣呢~<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 啊哈哈…光輝妳的禮服才是，就像妳的名字一樣，散發著光芒呢。<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 克里夫蘭，晚上好喵~<br>
-<span style="color:#4eb24e;">独角兽：</span><br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
 克里夫蘭，晚上好。<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 妳們兩個也晚上好。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 獨角獸，{namecode:71}把宴會拜託給我，所以我還要四處走走，妳一個人在這沒關係嗎？<br>
-<span style="color:#4eb24e;">独角兽：</span><br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
 嗯，獨角獸要在這裡等指揮官哥哥。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 呵呵，獨角獸還是一如既往地黏指揮官呢……<br>
 那…{namecode:98}，能麻煩妳照看一下獨角獸嗎？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 交給{namecode:98}喵！<br>
-<span style="color:#4eb24e;">独角兽：</span><br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
 嗯，光輝姐姐，克里夫蘭，拜拜。<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 咦，那不是企業嗎，看起來心情不錯啊，果然是因為艾塞克斯吧。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 是呀，她最近的心情看來都相當不錯的樣子～<br>
 嘻嘻，克里夫蘭對宴會感覺如何？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嗯…豪華到感覺自己都有些格格不入了。<br>
 不過看到都是熟悉的面孔就安心下來了。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 呵呵，習慣就好了。<br>
 現在先到處走走吧，等指揮官來了之後舞會就會開始，今晚的妳說不定會很忙呢～<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 啊哈哈，就別拿我開玩笑了，不過就我來說，果然還是想和指揮官跳一支舞吧。<br>
 <span style="color:#4eb24e;">蒙彼利埃：</span><br>
 啊，大姐頭！這邊這邊！<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 在叫妳呢，那我就不打擾妳們囉。<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嗯，回見。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=宴會上的女王殿下|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=宴會上的女王殿下|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 港區的特別宴會<br>
 <br>
 四　宴會上的女王殿下<br>
 港區·宴會會場<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 陛下，您在這裡做什麼呢。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 是光輝啊，我當然是在看這場宴會。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 呵呵，看來陛下對這場宴會十分滿意呢。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 那是當然，這場宴會，從建築風格到各種裝飾，從食材到食譜，全都是以我們皇家的標準來操辦的<br>
 雖然來到這裡後也基本習慣了沒有品味的建築和飲食……<br>
 但是果然還是要舉辦一次這樣的宴會讓所有人都知道，什麼叫做皇家的格調呢！<br>
 哇哈哈哈哈哈哈！！！<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 陛下開心就再好不過了，艦隊的各位看起來也相當滿足，這場宴會目前來說相當圓滿呢。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 哼，那是理所當然的事！<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 咦，貝爾法斯特和謝菲爾德沒有隨陛下前來嗎？<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 我派她們兩個去廚房了，既然要做，當然要做到最好！<br>
 反正這裡就像我的寢宮一樣安全，完全沒有擔心的必要！<br>
 ……嗯？妳突然笑什麼。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 呵呵，沒什麼……想到了一些高興的事而已。<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 高興的事，有什麼高興的事說來聽聽？<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 ——也沒什麼特別的，畢竟慶典本身就很開心了呢～<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 哼，不要掩飾了，光輝妳肯定是偷偷參加了那個什麼泳裝選美大賽還拿了第一吧！<br>
 妳這個巨乳，哼，長這麼大幹什麼，礙眼！<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 呀！陛、陛下，大家看著呢，不要突然戳過來……<br>
 而且我真的沒有去，還是…不太習慣那種場合呢…<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 喂，伊莉莎白~別在那欺負屬下了，要不要過來喝一杯？<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 說了多少次，重櫻的{namecode:82}，要叫我伊莉莎白女王！而且這才不是欺負，這叫教育！<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 啊哈哈…那就…尊敬的伊莉莎白女王陛下，可願意屈尊前來小酌一杯呢？<br>
-<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 哼，這還差不多。<br>
 光輝，不用陪著我了，妳做自己的事去吧。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 遵命，陛下。<br>
 ……不管怎麼說，陛下看起來也找到了自己的樂趣呢。<br>
 <span style="color:#4eb24e;">???：</span><br>
 嘻嘻，就算是“那樣”的殿下，畢竟還是想要交朋友的呢~<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 …阿賈克斯，對陛下要更尊敬一點哦。<br>
 陛下畢竟是陛下，稍微任性一些也是沒關係的。<br>
-<span style="color:#4eb24e;">阿贾克斯：</span><br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
 真不知道該說妳胸懷廣闊好還是太單純好……算了，反正我有我的小豬仔就夠了。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 真是符合阿賈克斯的風格呢…<br>
 那麼，慶典過得如何呢？<br>
-<span style="color:#4eb24e;">阿贾克斯：</span><br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
 雖然小豬仔在埋頭工作少了些樂趣，不過還算有趣。<br>
 競技神開發的卡牌遊戲意外還挺有意思，鑽研的時間正好夠我度過這個假期。<br>
-<span style="color:#4eb24e;">光辉：</span><br>
+<span style="color:#4eb24e;">光輝：</span><br>
 卡牌遊戲…嗎？似乎很有趣的樣子呢——<br>
 咦，這個聲音是……鋼琴？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=宴會的鋼琴師|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=宴會的鋼琴師|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 港區的特別宴會<br>
 <br>
 五　宴會的鋼琴師<br>
 港區·宴會會場<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 ……沒想到我也會有這麼一天。<br>
 穿上輕飄飄的衣服，坐在鋼琴面前，為這麼多人彈奏樂曲。<br>
 過去那個只知道戰鬥的我，一定想也不敢想這樣的事吧。<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 但是這樣的改變並不壞，不是嗎？<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 歐若拉，演奏的準備完成了嗎？<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 嗯，久等了。<br>
 不過也不急，先稍微聊聊天吧。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 也好，那稍微繼續一下剛才的話題吧…<br>
 我並不討厭只知道戰鬥的感覺，那樣可以讓我心無雜念。<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 但我們不只是為了戰鬥而生呢。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 是啊，我們也有自己的愛好可以選擇，也有自己的個性可以宣揚。<br>
 這是來到這支艦隊後，大家還有指揮官教給我的，最重要的事。<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 來到港區以後有所變化的，不只是妳，大家都是這樣的。<br>
 遇見了各種各樣的人，與各種各樣的想法碰撞，然後產生了變化……<br>
 南達科他也是，要我說的話，比以前要有人情味多了呢。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 ……我就當妳是在誇我了。<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 呵呵，不過妳會選擇鋼琴確實有些出人意料呢。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 是麻薩諸塞推薦的。原本我也覺得我和鋼琴這種高雅的東西差的未免太遠……<br>
 不過，實際嘗試後，我才明白，音樂能夠將所有的感情都表達出來……<br>
 喜悅，憤怒，悲傷，痛苦，等等等等……<br>
 對於不擅長表達感情的我來說，其實音樂反而是最適合我的愛好也說不定。<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 嗯，這麼說的話，說不定妳與鋼琴其實意外的合拍呢。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 誰知道呢……<br>
 不過，姑且不說鋼琴，那個…我穿這樣的禮服真的看起來不奇怪嗎？<br>
 穿習慣了便服後，這一身穿著總覺得哪裡不對……<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 ……南達科他，看起來妳還不知道妳的魅力有多大呢。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 啊？<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 呵，等指揮官過來的時候，妳親自去問合不合身就好了。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 哈……<br>
-<span style="color:#4eb24e;">欧若拉：</span><br>
+<span style="color:#4eb24e;">歐若拉：</span><br>
 比起這個，差不多開始演奏吧。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 也對。<br>
 ……呼……<br>
 那麼……開始吧——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=準備、奏樂！|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=準備、奏樂！|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 港區的特別宴會<br>
 <br>
 六　準備、奏樂！<br>
 港區·宴會會場<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 呼，看起來大家都在享受宴會，這幾天的努力準備沒有白費，真是太好了。<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 皇家的大家真是辛苦了耶，我只是在旁邊幫忙都覺得好厲害哦。<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 畢竟陛下難得很有幹勁呢，而且我們也想讓大家享受到最好的宴會，所以沒什麼辛苦的~<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 不過女將妳看起來好像不是很開心欸？<br>
 而且我們排練的管弦樂曲什麼時候才用呀？<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 被妳看出來了嗎……<br>
 哈……<br>
 那當然是因為，最重要的那個傢伙還沒有來啊，樂曲當然也是要等那傢伙來了再用。<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 欸？啊……確實，指揮官還沒有來呢。<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 真是的，這場宴會其實有一半是專門為那個笨蛋準備的，結果那個笨蛋卻到現在還沒現身……<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 咦，是這樣嗎？<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 是啊……雖然也不是特意這麼做的。<br>
 ……那個笨蛋雖然平時不那麼可靠，但能夠把艦隊運營到今天，大家嘴上不說，心裡都是清楚的。<br>
 付出了怎樣的努力，每天要處理多少的公務，還要分出時間來和我們相處。<br>
 如果沒有那個笨蛋的話，我們一定不會能夠像今天一樣舉辦慶典……<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 女將妳……其實非常關心指揮官的吧？<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 ……哼，才沒有，普通關心而已。<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 （沒有否認關心欸……女將不在指揮官面前就變得率直了不少呢~）<br>
 所以才專門為了這一天召集了大家排練管弦樂曲嗎？<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 嗯，要說慶典，果然還是少不了這種節目呢。<br>
 總之，這次慶典，是為我們自己舉辦的慶典沒錯。<br>
 我們的奮戰讓我們能夠在這幾天挺起胸膛犒勞自己。<br>
 但是我們也不能忘記，有一個比我們更加努力的人，在我們犒勞自己的時候，依然在努力工作。<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 所以至少今晚，想要讓指揮官能夠好好放鬆一下，是這樣吧？<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 沒錯……唉，那傢伙該不會在指揮室裡睡著了吧。<br>
 明明答應了今晚一定會出席的，還想弄個驚喜的……<br>
 再不來的話，乾脆直接去喊……<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 啊！！<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 嗚哇！！妳不要嚇人啊{namecode:2}，怎麼了？<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 我看到指揮官了，一起的還有{namecode:97}和{namecode:79}……<br>
 嗚哇，{namecode:79}的臉好紅哦！走路還搖搖晃晃的！<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 哈？總之往會場這邊來了對吧？<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 對！<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 好，{namecode:2}，妳去通知一下歐若拉和南達科他還有大家，讓她們做好準備後回歸隊列。<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 交給我吧！<br>
-<span style="color:#4eb24e;">女将：</span><br>
+<span style="color:#4eb24e;">女將：</span><br>
 聽好了，各位，我們要在指揮官踏進門的那一瞬間，做出最熱烈的歡迎……<br>
 那麼，各就各位，準備奏樂！<br>
 {{折叠面板|内容结束}}

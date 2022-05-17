@@ -1,6 +1,6 @@
 == Science Rules! ==
 {{折叠面板|开始}}
-{{折叠面板|标题=An Afternoon, One Day|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Afternoon, One Day|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Science Rules!<br>
 <br>
@@ -33,7 +33,7 @@ We'd better go check what it was!<br>
 Yeah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Big Experiment|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Big Experiment|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Science Rules!<br>
 <br>
@@ -71,7 +71,7 @@ On what, you say? Why, I'm glad you asked...<br>
 ... WHAAAAT!?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=I Dream Big!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=I Dream Big!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Science Rules!<br>
 <br>
@@ -100,7 +100,7 @@ Well? Don't you think it's a pretty wonderful dream to have? Come on, join me in
 What an admirable dream. Ohoho, consider your offer officially accepted.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Real Experiment?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Real Experiment?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Science Rules!<br>
 <br>
@@ -137,7 +137,7 @@ Come, I will show you what it means to conduct a real scientific experiment.<br>
 Heck yeah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Science Is Never Done|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Science Is Never Done|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Science Rules!<br>
 <br>

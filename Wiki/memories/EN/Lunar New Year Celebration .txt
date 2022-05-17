@@ -1,6 +1,6 @@
 == Lunar New Year Celebration  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Preparations for the Wonderful New Year!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Preparations for the Wonderful New Year!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>
@@ -40,7 +40,7 @@ Fine, nya...<br>
 Ah, shall I lend a hand as well?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Great Spring "Cleaning!"|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Great Spring "Cleaning!"|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>
@@ -91,7 +91,7 @@ Eh? Are you sure?<br>
 Hehe~ Let's just say I'm a bit intrigued by the your "New Year."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reach Toward the Unknown|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reach Toward the Unknown|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>
@@ -142,7 +142,7 @@ Everyone in this base is a friend, so anyone is welcome, nya~<br>
 Ehehe... I'm looking forward to it then... I hear Sakura's liquor is like ambrosia. <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Friendship, Hard Work, and Victory!|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Friendship, Hard Work, and Victory!|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>
@@ -230,7 +230,7 @@ Yes... but first, it's time to appreciate some good anime...<br>
 ……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year's Cards|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year's Cards|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>
@@ -315,7 +315,7 @@ Why is Kamikaze even here... Ah jeez, I suppose this isn't so bad...<br>
 All right, if you have any questions, please come up one at a time. First, I'll write "Happy New Year" on the board, so make sure to watch me carefully!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year's Banquet?|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year's Banquet?|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>
@@ -364,7 +364,7 @@ Li... quor? Is that edible...?<br>
 That would be the name of a miserable end for adults who have cast away too much. It's not something a good kid like you needs to know about, nya.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Year’s Wish|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Year’s Wish|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year Celebration<br>
 <br>

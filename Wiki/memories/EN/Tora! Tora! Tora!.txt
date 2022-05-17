@@ -1,6 +1,6 @@
 == Tora! Tora! Tora! ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Prologue: Hornet|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue: Hornet|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Hornet：</span><br>
 So you're the new Commander? I'm surprised that you were able to find my coordinates so fast!<br>
 But it would be a shame if this exercise had never started.<br>
@@ -10,7 +10,7 @@ Don't worry, I won't hurt you too badly!<br>
 Commander, air support preparation is underway. Buy us time and delay Hornet's attacks until its complete!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Prologue: Alert|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prologue: Alert|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Hornet：</span><br>
 Aya! A diversion. I was too careless! All these new Commanders are monsters!<br>
 <span style="color:#4eb24e;">Long Island：</span><br>
@@ -30,7 +30,7 @@ It's time that we part ways. Remember, we'll use live ammo next time! No more dr
 For the Eagles! For freedom!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: The Burning Sea|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: The Burning Sea|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Arizona：</span><br>
 Sister...<br>
 Sister… where are you?<br>
@@ -49,14 +49,14 @@ This damn war... has started again...<br>
 <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: Breaking the Blockade|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: Breaking the Blockade|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Signal：</span><br>
 Our telegraph just reported a bombardment in our port. Arizona, California, West Virginia and Oklahoma were heavily damaged...<br>
 Our headquarters has ordered us to hold the outer defense as long as possible, no enemy ship shall pass!<br>
 Commander, it is on you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: Attack|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: Attack|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Enemy flagship at starboard! Analyzing ship model... Unknown!<br>
 <span style="color:#ffffff;">？？？：</span><br>
@@ -65,27 +65,27 @@ Enemy flagship at starboard! Analyzing ship model... Unknown!<br>
 Enemy flagship has opened fire! Counterattack now!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: First Victory|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: First Victory|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Harbor perimeter defense established! It's a shame that they managed to escape...<br>
 From their gear, I'd wager that the warship was used as cover for their fleet. There may be an even bigger division assembling in the distance...<br>
 HQ has ordered us to give chase. Hopefully we have enough ammo... *cries*<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: Invasion|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: Invasion|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Invaders! You have intruded into our territory! State your identities and disarm!<br>
 <span style="color:#ffffff;">？？？：</span><br>
 Hehe, funny, funny! I won't let you get one step closer to master. All guns, fire!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: In-depth Investigation|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: In-depth Investigation|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Our reconnaissance planes have discovered the coordinates of the invading forces. HQ has ordered us to investigate immediately!<br>
 There's no time to waste. It'll get dark if we wait any longer, Commander!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter: Sakura Rising|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter: Sakura Rising|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Hostile enemy flagship ahead!<br>
 <span style="color:#ffffff;">？？？：</span><br>
@@ -100,7 +100,7 @@ Sakura First Carrier Division, Kaga!<br>
                                                                 Forward!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Chapter 1: Crimson Axis|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Chapter 1: Crimson Axis|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 Our objective has been completed. Call off the third wave of airstrikes. All ships, retreat!<br>
 <span style="color:#ff0000;">{namecode:92}：</span><br>

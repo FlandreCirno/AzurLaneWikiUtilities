@@ -1,6 +1,6 @@
 == 各自的新年 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=新年偶遇？|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年偶遇？|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 各自的新年<br>
 <br>
@@ -42,7 +42,7 @@
 哦哦…板羽球！我也…——啊，咳咳，希望妳們都能過一個有意思的新年<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新年懶洋洋？|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年懶洋洋？|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 各自的新年<br>
 <br>
@@ -77,22 +77,22 @@
 這樣組合不會吃壞肚子吧……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新年對決！|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年對決！|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 各自的新年<br>
 <br>
 三 新年對決！<br>
 <span style="color:#4eb24e;">Z35：</span><br>
 克里夫蘭加油啊~~！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 看我的黃金扣殺！嘿！<br>
 <span style="color:#4eb24e;">{namecode:12}：</span><br>
 哼哼~太天真了！看我的！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嗚哇？！<br>
 <span style="color:#4eb24e;">南安普頓：</span><br>
 哦哦…！響得分！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 啊哈哈~果然還要多加練習啊，板羽球什麼的…<br>
 <span style="color:#4eb24e;">{namecode:12}：</span><br>
 嘿嘿，這可是重櫻新年的傳統運動呢~而且一開始說“不要放水”的可是克里夫蘭那邊吧~<br>
@@ -100,7 +100,7 @@
 作戰失誤了呢，克里夫蘭<br>
 <span style="color:#4eb24e;">Z35：</span><br>
 嗚~本來對運動多少還有點自信的說~<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 板子也好，球也好，都不太習慣…不過還是挺有趣的~重櫻的活動，還真是都挺有意思的呢~<br>
 <span style="color:#4eb24e;">南安普頓：</span><br>
 下次和皇家的小夥伴們也玩玩好了~<br>
@@ -116,7 +116,7 @@ HOHOHO~當然說過啦~我早就準備好啦！做好心理準備吧！！<br>
 啊！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新年特訓？|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年特訓？|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 各自的新年<br>
 <br>
@@ -150,7 +150,7 @@ HOHOHO~當然說過啦~我早就準備好啦！做好心理準備吧！！<br>
 唔…新年的特訓……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新年快樂！|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年快樂！|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 各自的新年<br>
 <br>
@@ -176,12 +176,12 @@ HOHOHO~當然說過啦~我早就準備好啦！做好心理準備吧！！<br>
 咳咳…新年快樂，長門大人，龍鳳。<br>
 <span style="color:#4eb24e;">{namecode:74}：</span><br>
 嗯哼，新年快樂。真是奇妙的組合啊…嗯？克里夫蘭和Z35…妳們臉上怎麼紅紅的…？<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 啊哈哈哈…墨水意外地很難洗呢……<br>
 <span style="color:#4eb24e;">{namecode:73}：</span><br>
 新年快樂~啊哈哈，大家都來了~真是熱鬧啊~<br>
 對了，我剛才碰巧遇上了這孩子，正在幫她找人呢！妳們有誰看到皇家方舟了嗎？<br>
-<span style="color:#4eb24e;">独角兽：</span><br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
 嗚…原本是一起來神社的，一不小心就找不到皇家方舟了…<br>
 <span style="color:#4eb24e;">腓特烈大帝：</span><br>
 呵呵~方舟的話，看看“驅逐艦妹妹們”集中在哪裡，大概就能找到她了吧~？<br>
@@ -189,7 +189,7 @@ HOHOHO~當然說過啦~我早就準備好啦！做好心理準備吧！！<br>
 ……<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 咳咳…新年快樂，諸位<br>
-<span style="color:#4eb24e;">独角兽：</span><br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
 啊，皇家方舟…！<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 咳咳…我只是稍微為了驅逐——不對，為了大家的安全巡邏了一下而已<br>

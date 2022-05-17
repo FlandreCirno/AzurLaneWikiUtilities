@@ -1,6 +1,6 @@
 == Long Island's Inner Peace ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Vacation Encounter|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vacation Encounter|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>
@@ -13,7 +13,7 @@ Pretty please, I know my Commander won't refuse to help me...right?<br>
 Then I’ll leave it up to you Commander~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=No more sports!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=No more sports!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>
@@ -27,7 +27,7 @@ You want me to maintain my fitness? Umm...<br>
 You want me to start right now? Hey ~ let me go ~ I want to go back ---<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=No more exercise!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=No more exercise!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>
@@ -39,7 +39,7 @@ What? I’ll also need to do intensive training?<br>
 Nooo~ What about my coke.. chips... and also that soft bed and air conditioning... sigh---<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Perfect Vacation|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Perfect Vacation|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>
@@ -52,7 +52,7 @@ Ah, since the Commander is also here, then help me take care of these things---<
 Hehe, with the Commander's help, I don't need to go out, just as I planned~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Eat my ultimate skill!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Eat my ultimate skill!|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>
@@ -67,7 +67,7 @@ Emergency food shortage, I’m going into panic mode!<br>
 Commander (Stares Innocently) ---<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hard Defeat|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hard Defeat|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>
@@ -79,7 +79,7 @@ I-I said that if you won once then I’ll attend the daily exercises with you...
 No<nowiki>~~~~</nowiki>I don’t want to go out<nowiki>~~~</nowiki> I’m on vacation, ahhhhhh<nowiki>~~~~</nowiki><br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Dream Vacation|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Dream Vacation|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Long Island's Inner Peace<br>
 <br>

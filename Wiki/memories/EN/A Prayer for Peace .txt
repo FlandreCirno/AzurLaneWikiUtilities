@@ -1,6 +1,6 @@
 == A Prayer for Peace  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Invitation to the Banquet|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Invitation to the Banquet|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>
@@ -32,7 +32,7 @@ Things might get a bit ugly if you don't show up on time... or at all.<br>
 That's right... perhaps the real reason for tonight's banquet... was to celebrate "Her" return.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Toast to our Gathering|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Toast to our Gathering|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>
@@ -70,7 +70,7 @@ Thank you. In that case, I suppose I'll have the honors. Cheers!<br>
 Cheers!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=May I Have This Dance?|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=May I Have This Dance?|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>
@@ -100,7 +100,7 @@ Ah... of course! Hehe, it'd be my pleasure~<br>
 Um, in that case, make sure to escort my properly... my knight in shining armor~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Novel Anniversary|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Novel Anniversary|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>
@@ -125,7 +125,7 @@ Don't worry about it. You didn't get anything on my dress anyway. How about you,
 Um... y-yes... Actually...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=How to Enjoy a Banquet|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=How to Enjoy a Banquet|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>
@@ -165,7 +165,7 @@ Heheh! Don't mention it!<br>
 Woah, what's that sound?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Brief Interlude|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Brief Interlude|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>
@@ -195,7 +195,7 @@ Ah, um, thanks, I suppose... Huh? Who's that over there?<br>
 Akashi? Woah, she even prepared those?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fireworks|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fireworks|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 A Prayer for Peace<br>
 <br>

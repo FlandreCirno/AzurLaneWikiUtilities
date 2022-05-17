@@ -1,6 +1,6 @@
 == Empyreal Tragicomedy  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Vestibule of Hell|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vestibule of Hell|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 「On my path of conquest, having yet to witness the light of dawn that I seeked,<br>
 I found myself lost deep amidst the woodlands; dim, dark, and dreary were they<br>
@@ -57,7 +57,7 @@ So, what do you say? Shall we seize this opportunity to partake in an act on the
 ... and crush the Sirens in a show of Sardegna's might?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Menace|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Menace|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">Giulio Cesare：</span><br>
 These damned Sirens! How were they allowed to get this far?<br>
 <span style="color:#ffde38;">Conte di Cavour：</span><br>
@@ -76,7 +76,7 @@ I am very sorry for interrupting! ... But, enemy reinforcements are approaching!
 Open fire, everyone! Don't let those Siren bastards advance a step farther!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Brief Respite|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Brief Respite|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ffde38;">Vittorio Veneto：</span><br>
 Cesare, how did your battle with the Sirens go?<br>
 <span style="color:#ffde38;">Giulio Cesare：</span><br>
@@ -111,7 +111,7 @@ Right. Attention, everyone! As per Veneto's orders, we'll head for La Spezia!<br
 (Yes, everything is proceeding as planned. Soon, our play will begin...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Misgivings|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Misgivings|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Islands<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
@@ -161,7 +161,7 @@ Warspite bowed to Queen Elizabeth, then exited the throne room.<br>
 I certainly hope it doesn't come to that...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Negotiations|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Negotiations|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Warspite：</span><br>
 The Sardegna Empire's territory lies just ahead of us...<br>
 It seems there are still Sirens loitering in these parts... Let's stay alert and move forward.<br>
@@ -237,7 +237,7 @@ It would be such a tragedy for you spend this night alone, my beautiful signora.
 Why, I would love to~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Battle|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Battle|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The following day - Prior to Sardegna's plan<br>
 <span style="color:#ffde38;">Zara：</span><br>
@@ -266,7 +266,7 @@ Who knows?<br>
 Just pretend not to hear them...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Divine Cannons|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Divine Cannons|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Nighttime<br>
 <span style="color:#4eb24e;">York：</span><br>
@@ -316,7 +316,7 @@ Haha! Now it is my turn to Halt you!<br>
 Nothing personal, but I can't let you leave!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Second Operation|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Second Operation|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Prior to the Royal Navy's plan<br>
 <span style="color:#4eb24e;">Warspite：</span><br>
@@ -358,7 +358,7 @@ Yes, you're perfect!<br>
 Huh? Whaaaat?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Battle Preparations|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Battle Preparations|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Just prior to the Royal Navy embarking on the Siren hunt<br>
 <span style="color:#4eb24e;">York：</span><br>
@@ -379,7 +379,7 @@ I can only hope that it doesn't come to that...<br>
 But, if it does happen, we will simply have to spank some naughty children~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lacrimosa of the Sea|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lacrimosa of the Sea|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Littorio：</span><br>
 Cavour!<br>
 <span style="color:#ec5d53;">Conte di Cavour：</span><br>
@@ -408,7 +408,7 @@ No, Veneto, it's not over yet. If we can take out the enemy carrier, then we can
 Attention, all battleships! We are evacuating the harbor! Find and put an end to the carrier launching these planes!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Light of Night|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Light of Night|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Illustrious：</span><br>
 I've been waiting for you. I am Illustrious, the Illustrious-class armoured aircraft carrier.<br>
 <span style="color:#ec5d53;">Littorio：</span><br>
@@ -425,7 +425,7 @@ But after what you've done, I'm afraid I have to destroy you.<br>
 Remember this name - I am Littorio, Veneto-class battleship of the Sardegna Empire! En garde, signora!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Out of Time|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Out of Time|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Illustrious：</span><br>
 (My hangar has taken damage... Her firepower might even be greater than Her Majesty's...)<br>
 <span style="color:#ec5d53;">Littorio：</span><br>
@@ -465,7 +465,7 @@ It's not every day I see you having trouble with an opponent. Are you all right,
 Yes, somehow. But I feel like this isn't the last time that we'll meet...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Invitation|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Invitation|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 At the edge of that gloomy forest, three beasts blocked my path<br>
 There was the Leopard,<br>
@@ -511,7 +511,7 @@ Anyway, I did say it was an important matter, but...<br>
 Could I interest the two of you in a trip to the Mediterranean?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Choice|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Choice|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Città Eterna - Capital of the Sardegna Empire<br>
 <span style="color:#ec5d53;">Kitakaze：</span><br>
@@ -576,7 +576,7 @@ It is time to make your decision... on which swimsuit to wear!<br>
 Huh...?! Littorio, whyyyyyy...?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Imperial Welcome|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Imperial Welcome|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Formidable：</span><br>
 I didn't expect such an... extravagant welcome from the Sardegna Fleet...<br>
 <span style="color:#ec5d53;">Carabiniere：</span><br>
@@ -588,7 +588,7 @@ W-wait! You're going to get my new clothes dirty!<br>
 Please forgive me for my indiscretion!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Destination|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Destination|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Formidable：</span><br>
 ... Your scurrying back and forth is giving me a headache.<br>
 <br>
@@ -642,7 +642,7 @@ But don't worry, I made sure to not hit any vital areas. Just disable her, as Il
 Um... w-well done, I suppose. We should hurry and search for this "Jewel of Calabria" next.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Descent|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Descent|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 And thus the sun once again sinks into the desolate darkness, the hollow of despair where no prayer can reach<br>
 O those who were born into an era of false gods, wise is the teacher who guides the poet.<br>
@@ -692,7 +692,7 @@ A chill ran down Warspite's spine as she recalled the telegram.<br>
 No matter. Come then, bring your guns to bear and let us see who is the stronger! Belli dura despicio!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Passione|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Passione|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Zara：</span><br>
 How is this granny so hard to deal with... What was that attack...?<br>
 <br>
@@ -730,7 +730,7 @@ Warspite dragged her weighty hull slowly but surely through the night, trailing 
 It would be grand if Her Majesty would grant me a retrofit after this operation. Haha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lamentation's End|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lamentation's End|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 "But thou, why goest thou back to such annoyance?<br>
 Why climb'st thou not the Mount Delectable,<br>
@@ -758,7 +758,7 @@ It's almost time for the denouement, Veneto.<br>
 Indeed. This "Reenactment" is about to come to an end. The only thing left for us... is to decide whether it ends as a comedy or as a tragedy...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Jewel of Calabria|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Jewel of Calabria|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Formidable：</span><br>
 The Jewel of Calabria... is this beautiful sea itself?<br>
 <br>
@@ -810,7 +810,7 @@ Zara, Pola, and all members of the Sardegna Fleet. This is our time. Allow the l
 Lunga vita all'Impero！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Secret Tea Party|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Secret Tea Party|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Islands<br>
 <span style="color:#4eb24e;">Illustrious：</span><br>
@@ -858,7 +858,7 @@ As it happens, Your Majesty has excellent timing. The tea is just ready~ And may
 Won't you join us for sweets and a spot of scintillating conversation~?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Journey's End|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Journey's End|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Scharnhorst：</span><br>
 Hah. When it came down to it, those Sardegnian warships weren't worth a damn!<br>
 After all that talk about being the greatest fleet in the Mediterranean, in the end they couldn't even fight their way out of a wet paper bag.<br>
@@ -882,7 +882,7 @@ I want eyes on their fleet around the clock. Report any signs of treachery immed
 Affirmative! Long live Iron Blood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Denouement|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Denouement|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Observer：</span><br>
 "At the edge of that gloomy forest, three beasts blocked my path"<br>
 The Leopard, the Lion, and the She-Wolf.<br>

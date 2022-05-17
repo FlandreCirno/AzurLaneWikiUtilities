@@ -1,6 +1,6 @@
 == 北境序曲 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=引子|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=引子|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 冰雪融化，冰雪凝結<br>
 化為柔軟的水，結為堅固的冰<br>
@@ -21,82 +21,82 @@
 кролик убийца…似乎也很興奮呢<br>
 哈哈，大家都很興奮嘛！不過，在那之前，還得先完成極地的作戰任務才行~<br>
 在妳們完成任務之前，還是由我們先去迎接她們！對吧，曙光！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 呵呵，妳似乎也挺開心的嘛，水星紀念<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 那是自然，我也是很期待的！好啦，我們出發囉~！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=聯合作戰|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=聯合作戰|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 當艦隊靠近阿申留防線時，數月來被陰雲籠罩的天空突然露出了陽光明媚的一面。<br>
 雖然根據司令部的預測，這樣的好天氣只會持續數個小時，不過這也許就是白令海正在歡迎我們的表現吧。<br>
 希望這次作戰能夠如計劃中一樣順利吧…不過…確實越來越冷了啊…<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 嘿呀~指揮官有破綻，看招~！！<br>
 <br>
 突然，數艘艦載機掠過指揮艦的上空，產生的風浪讓本來已經很寒冷的空氣彷彿又降低了幾度。<br>
 不用猜也知道，是薩拉托加的惡作劇……<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 指揮官，這麼鬆懈可不行啊！現在可是作戰任務中哦？前方的巨大塞壬要塞還在等著我們呢！<br>
 <br>
 '''''<span style="color:black;">选择项1：「聽說這座要塞從不主動發起進攻，應該不會有事吧。」</span>'''''<br>
 '''''<span style="color:black;">选择项2：「有妳們在身邊，就算有突發情況也能輕鬆解決」</span>'''''<br>
 '''''<span style="color:black;">选择项3：看著平靜的海面，一不小心就鬆懈下來了…</span>'''''<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''哼！通常的平靜的表象下，往往隱藏都著巨大的陰謀哦。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''哼`薩拉妹妹可不會被這些話攻略哦！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 指揮官真是的…塞壬不可能到現在都沒有發現我們的行動，作為艦隊指揮無論如何都應該保持警惕才對。<br>
 不過確實好奇怪，都快打到家門口了塞壬還真是沉得住氣…<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 看來北方聯合提供的情報沒錯，白令海的塞壬要塞確實是個好目標呢~！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 自從紐約港遇襲之後，現在指揮部已經將清理轄區內的中小型塞壬據點作為首要目標了<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 哼哼，之前在紐約港被整的那麼慘，是時候去塞壬家裡回敬一下了！<br>
 <br>
 在進一步削弱塞壬對海洋的掌控力之前，“大型作戰”計劃也被擱置了<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 這也是沒辦法的事，長島防線那次以後大家還是有些沮喪的…現在需要的，正是一場鼓舞人心的勝利！<br>
 不過沒想到的是…居然會是北方聯合提出來的聯合作戰呢…<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 安定又無害，雖然是中型塞壬要塞卻沒有什麼威脅性，這麼理想的目標，北方聯合居然一直都沒有拿下來嗎？真奇怪呀…<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 關於這個啊，這片區域…稍微有些麻煩呢<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 麻煩？<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 這裡隸屬於聖地牙哥司令部和北方聯合卡拉金司令部的雙重管轄下，任何單邊進行的軍事行動都會比較敏感<br>
 在過去的幾次聯合行動中，雙方都沒有餘力或者熱情調遣主力艦隊前來這樣一片戰略優先級很低區域。<br>
 再加上這座塞壬要塞從不主動發動攻擊，最後作戰行動也就不了了之了…<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 原來如此…不過現在對於任何細小的塞壬威脅也不能麻痺大意了！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 所以才有了這次的作戰計劃~在這裡的我們，和先行一步的克里夫蘭她們，再加上沉寂了許久的北方聯合艦隊——<br>
 指揮官，本次作戰我們勢在必得！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=會合|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=會合|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 經過一段時間的航行，艦隊成功抵達了阿申留防線的海軍基地。<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 指揮官，以及各位白鷹的盟友，歡迎來到阿申留防線～<br>
 <br>
 '''''<span style="color:black;">选择项1：曙光？</span>'''''<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 Здра́вствуйте(你好)，指揮官，好久不見～<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 唔？曙光小姐？妳不是應該在負責協調皇家的援助物資嗎？<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 呵呵，包括指揮官在內，各位基本都是初次到訪北方聯合吧，作為接待人選還是我比較合適。<br>
 並且我也會作為北方聯合的支援部隊參加這次作戰。<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 啊哈哈，這種大型作戰，可靠的援軍總是越多越好啊~<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 正是如此~向大家介紹一下，這位是與我同屬北方聯合艦隊的水星紀念。<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 白鷹的諸位差不多都是第一次見呢！我是北方聯合所屬的巡洋艦水星紀念，請多指教~<br>
 哦？嗯嗯~你就是指揮了上次紐約港防禦戰的傳說中的指揮官吧~？嚯~嗯~不錯不錯<br>
 聽說上次你剛到港口沒來得及休息就遭到了突然襲擊？真是挺慘的呢，嘿嘿~<br>
@@ -104,220 +104,220 @@
 <br>
 '''''<span style="color:black;">选择项1：絕對不會主動攻擊？</span>'''''<br>
 '''''<span style="color:black;">选择项2：冰雪要塞存在很久了嗎 ？</span>'''''<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''嗯，這座要塞絕對不會攻擊一定距離之外的目標。所以才會因為威脅程度不高而被忽視到現在<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''非常久了。要塞在那次大戰結束後不久就突然出現在白令海之上，直到現在<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 雖然我們嘗試過數次進攻，但是一直無法抽調足夠的艦隊前來。光憑守備艦隊的話結果如各位所見，十分慚愧…<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 沒事的！妳看，現在支援不是來了嗎~<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 指揮官，各位，你們終於來啦！等你們好久了！<br>
 <span style="color:#4eb24e;">蒙彼利埃：</span><br>
 ……真慢<br>
-<span style="color:#4eb24e;">哥伦比亚：</span><br>
+<span style="color:#4eb24e;">哥倫比亞：</span><br>
 不過這裡風景倒是挺不錯，和波特蘭她們調查的一樣。雖然有點冷，嘿嘿~<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 呀~抱歉抱歉，都怪某個指揮官在路上發呆呢！<br>
 <br>
 唔…？怪我嗎？<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 呵呵…既然人到得差不多了，就讓我們來商討下作戰計劃吧~<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 欸…？北方聯合的夥伴，就只有妳們兩位嗎？<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 啊哈哈…說來慚愧，其他的夥伴都還在極地暫時無法離開…<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 另外要塞本身其實並不會主動對外攻擊，所以就由我們先與大家共同行動<br>
 其他的同志們到時候會直接與我們會合~<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 不過…一個和平的塞壬要塞，總感覺越來越不對勁啊…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=共同行動|选项=4|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">南达科他：</span><br>
+{{折叠面板|标题=共同行動|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">南達科他：</span><br>
 …太安靜了，SK-2雷達也沒有什麼異常動態…明知敵人就在前面，這麼安靜的戰場真讓人發毛。<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 因為我們現在依然還在安全距離啦~<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 嗚哇…周邊的塞壬艦隊真的像在休眠一樣，就算偵察機直接在上方飛過也毫無反應啊…<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 嘿嘿~如果是這樣的話…就這樣直接用艦載機進行超遠距離攻擊怎麼樣！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 艦載機的超遠距離打擊嗎…這個我們倒是沒有試過。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 大黃蜂Good Job！心動不如行動～薩拉妹妹，轟炸機出動！<br>
 <br>
 隨著薩拉托加的一聲令下，一個編隊的轟炸機就啟程向著敵人的方向飛去。<br>
 就算沒有戰鬥機護航，也平安無事的飛到了休眠的塞壬艦隊上方，然後直接投下了炸彈！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 哼哼哼，得手了！！<br>
 <br>
 就在薩拉托加準備歡呼的時候時，要塞的防禦被突然激活了。投擲的炸彈被憑空出現的護盾擋住，轟炸機編隊則被兇猛的防空火力毫不留情的全部擊落了。 <br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 欸…什？！麼？！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 看來會對有威脅的目標做出反應，要塞的防空火力比預計的強得多，沒辦法投機取巧了。<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 果然沒那麼輕鬆嗎…算啦~讓我們堂堂正正從正面打進去，炸碎它們的裝甲，撕裂它們的防線吧！<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 大家注意，前方就要進入塞壬要塞的警戒範圍了哦！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=捷報|选项=5|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">哥伦比亚：</span><br>
+{{折叠面板|标题=捷報|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">哥倫比亞：</span><br>
 敵方反應消失，可以稍微鬆口氣了哦~<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 果然一進入警戒範圍內，休眠中的敵艦就立刻靠過來了嗎，這種現象還是第一次見…<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 欸？熱身還沒熱夠呢，戰鬥就結束了！就這點程度的抵抗，為什麼之前那麼多次進攻都失敗了啊？<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 啊哈哈…越接近要塞中心塞壬的艦隊戰鬥力就越強。現在只不過是個開胃前菜而已哦？<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 …添油戰術？如果外圍被全部攻占的話，在要塞中心堅守有什麼意義…真是不合理的戰術。<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 塞壬的想法我們也不得而知。不過，在過去最後一次對要塞作戰的時候，最後從要塞中出現了強度誇張的防禦艦隊。<br>
 指揮部推測需要集結更強力的主力艦隊才能突破最終封鎖，因此直到今天都沒有繼續採取更深入的行動。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 司令部推測…？！也就是說這麼多年來，我們一次都沒有真正意義上突破要塞的防線嗎？<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 很遺憾~就是這樣的。要這麼簡單能做到的話，就不用有這次聯合作戰啦~<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 嗯？突破每一層封鎖線，防禦力量就會更強一級，感覺好像…好像…<br>
 <br>
 '''''<span style="color:black;">选择项1：好像在玩魔王城闖關的遊戲？</span>'''''<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 沒錯，就是這種感覺！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 魔王城啊…聽起來倒是挺讓人熱血沸騰的呢。全員注意，目標魔王房間，出發~的感覺~？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=記錄之外|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=記錄之外|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 在強大的艦炮和航空火力下，艦隊正一步步向著塞壬要塞所在的位置推進。<br>
 雖然隨著戰線的推進，塞壬也開始表現出更加頑強的抵抗，但目前為止依然沒有構成任何威脅。<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 真是厲害…居然這麼快就推進到這裡。這裡就是之前戰鬥中推進到的海域最深處了！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 這裡的敵人強度確實不是那麼容易就能夠解決的…<br>
 北方聯合的諸位，前面的敵方火力會更加猛烈。妳們的火力和防護較弱，在前方的戰鬥就放心交給我們吧。<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 哦呀～要主動承擔引路的職責嗎？<br>
 之後的戰鬥確實也不適合我們逞強了，那就交給妳們了哦，白鷹的騎士們~<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 都怪我們的艦隊無法從北極抽調出來才會造成今天這種局面，再次向各位表示抱歉。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 沒事啦，大家都是盟友。北方聯合長久以來都是抵抗塞壬進攻的最前線，妳們已經做出足夠的貢獻，也付出足夠多的犧牲了。<br>
 再加上出現在極地的“王冠”，就更不能勉強妳們的主力艦隊調來參戰了。<br>
 <br>
 （況且長期和塞壬進行消耗戰的北方聯合主力，就算前來支援戰鬥力恐怕也要打個問號）<br>
 （參加這次作戰的都是可靠的同伴，就算不依靠北方聯合主力的力量應該也沒問題）<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 感謝各位的理解。我們會去後方接手指揮艦的護衛工作，前線的進攻就拜託各位了。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新型|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">哥伦比亚：</span><br>
+{{折叠面板|标题=新型|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">哥倫比亞：</span><br>
 …？那邊泛著紫色光的東西…是什麼？！<br>
 <span style="color:#4eb24e;">蒙彼利埃：</span><br>
 那個是…沒有任何印象，司令部提供的資料中未見過類似的記錄。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 唔，曙光，難道說……<br>
 那些是妳們北方聯合在極北之地的特產嗎…？<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 抱歉…我沒聽說過北方聯合還有這種特產。<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 啊哈哈…不對！那些怎麼看都是塞壬吧！不要把塞壬當成地區特產啊！！<br>
 真是的，八成又是塞壬折騰出的新型號啦！難道這就是白鷹笑話嗎，真難懂啊…<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 沒想到不起眼的要塞里居然隱藏著新型兵器，這次還真是歪打正著了…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=實績|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">哥伦比亚：</span><br>
+{{折叠面板|标题=實績|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">哥倫比亞：</span><br>
 敵方反應消失，大家幹得漂亮~<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 哼哼，見識到大黃蜂大人的厲害了吧！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 各位不愧是白鷹的精銳，確實是場漂亮的戰鬥<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 不過，這些新型塞壬確實和之前的不太一樣。裝甲更為厚重，火砲威力更強，而且…<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 南達科他也覺得手感不太對勁嗎…？它們身上的紫色光霧似乎會“幫助”裝甲規避受到的傷害，增強火砲發射的威力。<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 只是這樣零星出現倒還好，如果成編制的新型塞壬扎堆起來，戰局可能就不會像現在這麼順利了。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 這麼思考可就太消極了哦！<br>
 換個角度來想，塞壬明明亮出了新型艦隊還是被我們輕鬆擊敗，說明我們的實力可是毋庸置疑的哦<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 這就是白鷹人的自信嗎？！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 嘿嘿~不論塞壬派出多少艦隊，我們只要一艘不漏的把它們都消滅就好！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=源源不斷|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=源源不斷|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 皇家群島有個神話，有一種叫做“達格達之鍋”的寶物，可以從中源源不斷的取出食物，永遠不空。<br>
 就現在的情況來說，用這件寶物來形容這座塞壬要塞簡直再恰當不過了。<br>
 所有人都在全神貫注的戰鬥著，就連薩拉托加也沒有了開玩笑的閒心。<br>
 戰局在不知不覺間已經陷入了膠著，並向著更加惡化的方向發展。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 唔…沒想到發展成拉鋸戰了，之前是我太得意了。<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 制空權姑且還在我們手中，繼續戰鬥下去也還沒問題！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 不過看水面戰鬥的情況…這個損耗…恐怕是無法繼續維持戰線了。<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 這一點不用擔心！量產型可以依靠阿申留防線基地進行補充，增援也已經在路上了。<br>
 只要放慢推進速度，水面戰鬥也能繼續堅持！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 戰役之前我們多少也做了些準備，已經對附近所有基地下達了增援命令，一段時間的增援和後勤保障應該沒有問題。<br>
 不過…如果不能取得實質性突破的話，和塞壬打消耗戰先被拖垮的一定是我們…<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 對面的塞壬現在幹勁滿滿，就算掉頭撤退，我覺得塞壬也不會輕易放我們走哦？<br>
 接下來怎麼辦，那邊的指揮官？<br>
 <br>
 '''''<span style="color:black;">选择项1：北方聯合主力艦隊前來支援的機率有多大？</span>'''''<br>
 '''''<span style="color:black;">选择项2：箭在弦上，只能利用手頭資源奮戰到底了！</span>'''''<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''戰局陷入不利之後，我就立刻向卡拉金司令部匯報了。<br>
 '''''<span style="color:black;">（选择项1）</span>'''''目前，艦隊的調遣依然在協調中…<br>
 <br>
 果然是這樣嗎…看來只好利用手頭資源打贏這場戰鬥了！<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 哦~這就是戰場指揮官的魄力嗎~！<br>
 沒問題哦，我會負起責任來好好保護你的指揮艦，你就安心指揮戰鬥吧~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=指揮官|选项=10|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+{{折叠面板|标题=指揮官|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 指揮官，戰場區域制空權徹底確保，敵方大型目標全部清理完畢，現在開始收割中小型敵艦。<br>
-<span style="color:#4eb24e;">哥伦比亚：</span><br>
+<span style="color:#4eb24e;">哥倫比亞：</span><br>
 啊，東南方向又發現塞壬增援艦隊的痕跡。不過眼前殘餘敵人堅持不到援軍的到來了~<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 不愧是對抗塞壬的主力軍，白鷹的艦隊真是百聞不如一見，我都快看著迷了~<br>
 還有指揮官…剛剛都快與敵艦接舷了，還能鎮定自若的指揮戰鬥，簡直像以前的貴族一樣呢。<br>
 <br>
 貴族？是指像伊莉莎白她們一樣嗎。<br>
 呃…再怎麼說走上前線還帶著女僕和茶包這種事還是有點太誇張了…<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 哎嘿嘿~是我失言了，指揮官同·志~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=守護之盾|选项=11|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+{{折叠面板|标题=守護之盾|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 前方發現一支塞壬精英艦隊，旗艦是…執行者II型嗎？<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 哦？這時候出來舊型號的嗎？看來要塞的塞壬也快兵力不足了吧。<br>
 <br>
 太好了，這支艦隊可以作為突破口，突破這處薄弱點繼續前進吧！<br>
 嗯？周圍突然變亮了，那個是……<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 不、不好！那是塞壬瞄準後方的攻擊！指揮官小心！！<br>
 <br>
 超遠距離狙擊？！糟了！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 啊啊啊啊啊啊啊啊啊啊啊啊啊！休想得逞！！！！！<br>
 <br>
 南達科他徑直衝向高速襲來的光束，火花與雷鳴在她的盾牌上劇烈的滾動著<br>
@@ -332,13 +332,13 @@
 謝、謝謝，差點就以為不行了…<br>
 <span style="color:#4eb24e;">南達科他：</span><br>
 不用客氣。我說過的，妳負責保護指揮官，我負責保護妳。我說到做到<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 剛剛到底發生了什麼事…？！南達科他，匯報損傷情況！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 哈啊…裝甲損傷不大，不過不明攻擊導致了電力系統故障，雷達和砲塔暫時停擺了。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 僅僅吃了一下攻擊就導致了戰列艦的電力系統故障？！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 不是以殺傷為目的，而是以癱瘓為目的攻擊…毫無疑問是塞壬的新型攻擊手段<br>
 <br>
 竟然是偽裝成舊型的新型號？！<br>
@@ -349,12 +349,12 @@
 '''''<span style="color:black;">选择项1：對面是不明的新型塞壬執行者，小心應戰！</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=危機|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=危機|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">蒙彼利埃：</span><br>
 嘖…保持距離會受到光束攻擊，試圖近身又會被範圍衝擊擊退，真是棘手…！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 那個光束…難道是閃電嗎…？這裡該不會是塞壬的秘密兵器試驗場吧！？<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 指揮官，目標的機動能力似乎並不強，要繞開它嗎？<br>
 <br>
 不行，現在花時間繞開的話，會被增援的塞壬艦隊再次包圍的<br>
@@ -363,11 +363,11 @@
 '''''<span style="color:black;">选择项1：選用魚雷進行攻擊！</span>'''''<br>
 '''''<span style="color:black;">选择项2：繼續用轟炸機進行高空投彈！</span>'''''<br>
 '''''<span style="color:black;">选择项3：用戰列艦主炮進行集中射擊！</span>'''''<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''水面下移動的魚雷確實能夠躲過衝擊，不過驅逐艦和巡洋艦目前根本無法近身到發射魚雷的位置…<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''高空投彈的精準度無法保證，面對塞壬精英單位將會消耗大量時間。不過也只能試試了嗎…<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 指揮官，電力系統已經修復完畢，南達科他現在重新加入戰鬥序列<br>
 感謝各位在戰鬥中提供的寶貴數據，接下來的事就交給我吧<br>
 一號炮塔至三號炮塔全部裝填瞄準完畢<br>
@@ -376,7 +376,7 @@ MK6，主炮齊射，開火！<br>
 高速飛行的炮彈，撕開了敵人的防禦網，隨著一連串劇烈的爆炸，海面上的塞壬艦船化成了燃燒著的殘骸<br>
 多麼樸實無華，枯燥且無味的動能打擊啊…<br>
 ……………嗯？爆炸聲還沒停止？<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 這、這是——！？<br>
 <br>
 發生了什麼！？<br>
@@ -386,7 +386,7 @@ MK6，主炮齊射，開火！<br>
 ……………………<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=絕境|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=絕境|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 塞壬要塞近海 白鷹主力艦隊<br>
 <span style="color:#4eb24e;">哥倫比亞：</span><br>
@@ -426,16 +426,16 @@ MK6，主炮齊射，開火！<br>
 指揮官，你還好嗎，指揮官？<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 喂<nowiki>~~~</nowiki>指揮官！別睡覺啦！！！<br>
 <br>
 ！！這裡是哪裡？！<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 早上好，指揮官~這裡是我控制的量產型上哦，你的指揮艦已經在剛才的戰鬥中被摧毀了<br>
 現在我們因為和主力艦隊分離，正在絕讚逃跑中<br>
 <br>
 戰鬥？分離？……是那座巨大的冰牆嗎<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 不愧是指揮官，理解能力很強嘛，就是這麼回事！<br>
 現在有一個好消息和一個壞消息<br>
 壞消息是，在冰牆出現之後整片海域似乎都鏡面海域化了，我們無法和對面的白鷹艦隊取得聯繫<br>
@@ -443,30 +443,30 @@ MK6，主炮齊射，開火！<br>
 '''''<span style="color:black;">选择项1：好消息是…？</span>'''''<br>
 <br>
 轟！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 閒聊就待會再說吧，當務之急是從眼前的敵人中生還下來，之後再想辦法和主力艦隊會合哦？<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 沒錯！既然已經清醒了，指揮就拜託你了哦，指揮官！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=轉機|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=轉機|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 試圖擺脫塞壬艦隊的戰鬥依然在進行著<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 啊啊啊——真難纏，嗚…快撐不住了！<br>
 曙光！就沒有什麼突破的好辦法嗎！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 再堅持一下，剛收到消息，主力艦隊馬上就能到了<br>
 <br>
 （收到消息？通訊不是已經…消息是怎麼傳進來的…）<br>
 （而且主力艦隊…？難道薩拉托加她們已經突破冰牆了…？）<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 指揮官是受到我們邀請才來參加作戰的，北方聯合絕對不會坐視指揮官葬送在這裡<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 我、我知道！不過，堅持也是有極限的啦！這都已經——啊！！<br>
 <br>
 轟---！！！！！！<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 呵呵~終於來了嗎<br>
 <br>
 暴雪之中，突然出現了一個點——比雪花更純白，比冰塊更寒冷，戰場的喧囂彷彿瞬間都寂靜了——<br>
@@ -485,16 +485,16 @@ MK6，主炮齊射，開火！<br>
 而是，長期在極地與塞壬作戰的，北方聯合主力艦隊——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=北方的利刃|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=北方的利刃|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">明斯克：</span><br>
 各位久等啦！北方聯合主力艦隊，關鍵時刻颯爽登場！<br>
 <span style="color:#4eb24e;">塔什干：</span><br>
 …這樣，果然是陷入危機了嗎，就讓塔什干來挽救你們吧<br>
 <span style="color:#4eb24e;">甘古特：</span><br>
 啊哈哈哈哈！那些就是提到的新型號塞壬嗎，看起來是不錯的靶子嘛！<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 кролик убийца，也已經躍躍欲試了呢<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 抱歉，曙光、水星紀念，那邊的處理花了比預想還多的時間，不過，看樣子是勉強趕上了呢<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 戰況我們已經有所了解，絕境之中孤軍奮戰到現在辛苦了！<br>
@@ -502,16 +502,16 @@ MK6，主炮齊射，開火！<br>
 …………<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 呵呵，指揮官好像因為震驚而陷入僵硬了哦？是不是我們登場的衝擊力太大了？<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 終於來了啊！差點就以為真的不行了啊嗚嗚嗚…<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 好了，讓我們先把眼前的敵人消滅，再來寒暄吧！<br>
 <span style="color:#4eb24e;">北方聯合眾人：</span><br>
 Ура！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=團結的鋒芒|选项=16|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+{{折叠面板|标题=團結的鋒芒|选项=16|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 炮擊開始！一口氣壓制對方！<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 呼呼~差不多就是這樣吧~<br>
@@ -519,7 +519,7 @@ MK6，主炮齊射，開火！<br>
 啊哈哈哈哈！讓我看看你們的全力吧！！<br>
 <span style="color:#4eb24e;">塔什干：</span><br>
 Ура! 嚐嚐塔什干的厲害了吧！<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 盡情發揮吧，кролик…！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 對付新型塞壬，當然要採用新型戰法，感覺靈感湧上來了~看招！<br>
@@ -529,21 +529,21 @@ MK6，主炮齊射，開火！<br>
 Здра́вствуйте（你好），我是北方聯合的基洛夫！Товарищ Офицер（指揮官同志）是第一次和我們北方聯合的大艦隊共同戰鬥吧！<br>
 壓迫感尤其令人印象深刻？哈哈哈~這股團結的力量和白鷹和皇家的感覺都不同吧！<br>
 不過，即便遭遇意想不到的困境，依然可以調整方針應對，臨危不亂指揮，表現十分出色啊，指揮官同志！<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 初次見面，指揮官同志，我乃「蘇維埃俄羅斯」，是北方聯合最大最強的主力戰艦之一。 <br>
 這支由我率領，現在在您面前的艦隊，則是北方聯合最精銳的艦隊，極地艦隊的一部分。<br>
 這位前面已經自我介紹過的，基洛夫同志。<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 哈哈~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 恰巴耶夫，是一位溫柔的同志，不過…最好別輕易招惹她<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 讓我們好好相處吧，指揮官~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 甘古特，是一名時刻充滿激情的戰士<br>
 <span style="color:#4eb24e;">甘古特：</span><br>
 啊哈哈哈哈！一起奮鬥吧，指揮官同志！<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 塔什干，外號“天藍色的巡洋艦”，是我們自豪的同志之一。<br>
 <span style="color:#4eb24e;">塔什干：</span><br>
 塔什干會看著你的，讓塔什干見識下你的能力吧，同志醬。<br>
@@ -551,36 +551,36 @@ MK6，主炮齊射，開火！<br>
 同志…醬？<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 呼呼，看來塔什干對指揮官很感興趣呢~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 威嚴，小看了她的話，當心被她心愛的武器кроли убийца招呼。<br>
 <br>
 кроли убийца……？<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 ……（點頭）手裡這個，是我的кролик(兔子)。可愛的убийца(殺手)。<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 最後是明斯克，經常為大家帶來靈光一現想法的同志。<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 欸嘿嘿，請多指教啦，指揮官同志！<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 至於曙光和水星紀念，我想指揮官同志應該已經比較熟悉了吧。<br>
 <br>
 (北方聯合的精銳艦隊…）<br>
 (長久以來依靠曙光建立起的印象，要在今天大幅度更新了…）<br>
 (而且那身艦裝——）<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 根據司令部的命令，聯合作戰的艦隊應該由指揮官同志進行統一指揮，現在請您接手指揮權吧。<br>
 <br>
 '''''<span style="color:black;">选择项1：…歸我指揮？！</span>'''''<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 沒錯，指揮官同志。戰鬥尚未結束，盡情揮舞北方聯合的利刃，粉碎我們共同的敵人吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=北方的戰鬥|选项=17|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+{{折叠面板|标题=北方的戰鬥|选项=17|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 確認擊沉！憑你們是無法阻擋北方聯合的前進的！<br>
 <span style="color:#4eb24e;">塔什干：</span><br>
 看塔什干把你們統統揍扁！<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 侵占家園的，無論是狐狸還是塞壬，都要通通趕跑…！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 嘿嘿，怎麼樣！我這澎湃的動力！<br>
@@ -600,7 +600,7 @@ MK6，主炮齊射，開火！<br>
 '''''<span style="color:black;">选择项1：…想辦法與失散的白鷹艦隊會合</span>'''''<br>
 <br>
 沒錯，目前的第一要務應當是…會合，不過…處於通訊受阻的鏡面海域內，又有這礙事的冰牆，要怎麼才能…<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 關於這點， 請不用擔心。對於常年在極地海域與塞壬作戰的我們來說，這些都還算有辦法對付<br>
 通訊雖然不能做到完全通暢，但多少也有些解決方案<br>
 唔，我想想。基洛夫、甘古特，還有明斯克，能請妳們先行一步，尋找分散的白鷹艦隊嗎？<br>
@@ -610,7 +610,7 @@ MK6，主炮齊射，開火！<br>
 先鋒和搜索嗎，多少有些不夠過癮呢，不過算了，既然是任務，就應當被執行<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 哦~！回頭見啦，指揮官同志~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 記得定時保持聯絡，等妳們會合了，我們再重新決定集合地點<br>
 至於我們——<br>
 <br>
@@ -621,17 +621,17 @@ MK6，主炮齊射，開火！<br>
 希望基洛夫她們能任務順利，在總攻之前成功會合艦隊吧。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=北方的風味|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=北方的風味|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 因為意料之外出現的北方聯合極地艦隊，勝利的天平重新倒了回來<br>
 雖然還是沒有得到其他人的消息，不過塞壬艦隊的反擊力度明顯下降了。<br>
 白鷹艦隊應該也在薩拉托加的指揮下堅持戰鬥吧，之後能順利會合就好了。<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 指揮官同志，從開戰到現在還沒吃飯吧？健康的體魄才能孕育健康的精神，來，吃點東西吧。<br>
 也許沒有白鷹的食物豐盛，不過填飽肚子是完全沒問題的。<br>
 <br>
 巨大的圓形大列巴，流著油的整條紅腸，罐裝的馬鈴薯燉牛肉，以及——<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 指揮官同志，熱可可和羅宋湯，喝嗎？<br>
 <br>
 放在保溫容器中熱騰騰的羅宋湯，至於可可，似乎是眼前這位小小驅逐艦的一點個人愛好。<br>
@@ -640,21 +640,21 @@ MK6，主炮齊射，開火！<br>
 '''''<span style="color:black;">选择项1：…好吃！</span>'''''<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 真是勇猛的吃相啊，呵呵~指揮官應該很容易融入我們北方聯合呢。<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 周邊還沒有敵人出沒的跡象，在下一戰到來之前，稍微讓身體休息一下吧。<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 呵呵~說到北方聯合，自然不能少了這個呢。來，大口灌下去吧，指揮官同志，保證寒冷什麼的一下子就離你而去了哦？<br>
 <br>
 這難道是……<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 嚐嚐吧，北方聯合的伏特加可是很棒的，你不會後悔的，指揮官同志<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 咕嘟咕嘟，嗝噗…很棒的哦？身體會很暖和的。<br>
 <br>
 …不得不再說一次，不愧是北方聯合啊…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=天藍色的巡洋艦|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=天藍色的巡洋艦|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">塔什干：</span><br>
 (盯——)<br>
 <br>
@@ -687,28 +687,28 @@ MK6，主炮齊射，開火！<br>
 感覺，似乎多了解了塔什干一些。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=突破口|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=突破口|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 同時刻，冰牆的另一側，白鷹主力艦隊<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 嗯？塞壬艦隊的反擊力度，似乎從剛才開始就變弱了不少嘛？<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 啊，難道是分兵去追擊指揮官了嗎，那可情況不妙。和指揮官還是聯繫不上嗎？<br>
-<span style="color:#4eb24e;">哥伦比亚：</span><br>
+<span style="color:#4eb24e;">哥倫比亞：</span><br>
 一直沒有停止呼叫哦，不過和指揮官、還有水星紀念她們都聯繫不上……<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 薩拉托加…！偵察機發現前方冰牆有個缺口，雖然有塞壬的艦隊把守，不過是突破冰牆的好機會啊！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 太好了！嘿嘿，就說這麼大的結構肯定會有缺口的嘛<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 哎不對，有不明艦隊正在與塞壬艦隊戰鬥？！而且是從冰牆的對面！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 不明艦隊？難道北方聯合真的派增援來了？<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 她們也許知道指揮官的事，我們快去支援吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=誤會|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=誤會|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">甘古特：</span><br>
 啊哈哈哈哈！全都成為我等революция(革命)的基石吧！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
@@ -724,36 +724,36 @@ MK6，主炮齊射，開火！<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 等等！對面的人沒有反擊，可能是真正的白鷹艦隊！<br>
 Оченьхорошо(很好)！沒想到在這裡遇到了！打出訊號表明身份，該去和她們會合了！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 我！說！幹嘛突然向我們開火啊！萬一誤傷了怎麼辦啊！<br>
 <span style="color:#4eb24e;">甘古特：</span><br>
 啊哈哈哈！早就聽說白鷹的損管裝置世界第一，就算不小心命中了，也不會有太大問題吧！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 妳這個邏輯本身就很有問題啊！<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 哈哈哈，好啦好啦，白鷹的同志。我是北方聯合的基洛夫，這兩位是明斯克和甘古特<br>
 妳們也知道，塞壬經常會用相似的假貨迷惑我們，在戰場還是謹慎一點才好，我代甘古特向各位道歉了，抱歉<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 就算是為了確認身份…難道北方聯合相互之間確認相互身份的時候，都是用這種方式的嗎？！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 啊，那倒是不會，我們一般都用通訊聯絡…<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 啊啊啊啊！氣死我了！！<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 啊哈哈哈…咳咳，我們的主力艦隊已經和指揮官同志會合了，現在正按照指揮官的命令搜索妳們的蹤跡。<br>
 指揮官同志的話，正和我們的主力艦隊一起向要塞深處推進呢，請不用擔心<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 指揮官還有曙光她們沒事嗎！真是太好了！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 對了，在指揮官同志不在的時候是妳在指揮作戰嗎，白鷹的…驅逐艦？<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 …噗！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 妳·說·誰·是·驅·逐·艦啊啊啊啊啊啊啊啊！！！<br>
 也許妳們在北方聯合的時候沒見過，這個是航空甲板，看到了嗎！我可是名副其實的航空母艦啊！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 欸？！竟然是航空母艦嗎？！感覺和驅逐艦差不多呢，跟傳聞中的不太一樣，看上去也不怎麼強<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 氣死我了啊啊啊啊！！！！！！要不比比看這波塞壬艦隊哪邊消滅得更多？讓妳們親眼見識下白鷹正規航母的實力！！！！<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 唔，這種熱血的感覺也不錯！比比就比比！同志們，我們也上吧！<br>
@@ -761,21 +761,21 @@ MK6，主炮齊射，開火！<br>
 Ура!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=士別三日|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=士別三日|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">甘古特：</span><br>
 啊哈哈哈哈！比表面看起來能打嘛！白鷹的驅——<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 航空母艦！哼，妳們也不錯啦！北方聯合艦隊現在的實力確實是讓人刮目相看啊…<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 哈哈哈，看來大家已經友好交流完畢了，招呼就差不多打到這裡吧！這附近的塞壬也消滅得差不多，該說回正事了！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 指揮官的下一步作戰內容有定下來嗎？<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 啊哈哈……指揮官同志打算與白鷹的各位會合以後，再決定下一步的作戰呢。<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 白鷹和我們是盟友，這裡又是我們的防區。作為最優先任務，無論多麼困難我們也一定會來支援的！<br>
 大家稍等，我現在和艦隊確定一下集合坐標！<br>
-<span style="color:#4eb24e;">南达科他：</span><br>
+<span style="color:#4eb24e;">南達科他：</span><br>
 （居然能在鏡面海域內進行通訊嗎，再加上驚人的艦隊實力和這身艦裝……）<br>
 （北方聯合，究竟在極地做什麼……）<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
@@ -788,7 +788,7 @@ MK6，主炮齊射，開火！<br>
 呼…至少確定了座標嘛！好啦，還有白鷹的各位夥伴，我們出發囉！去和指揮官會合吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=行政冗餘|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=行政冗餘|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 不久前，塞壬要塞中心海域<br>
 白色艦隊勢不可擋，一路披荊斬棘將戰線推入了要塞的中心區域<br>
@@ -797,11 +797,11 @@ MK6，主炮齊射，開火！<br>
 和從外邊看起來的冷清沉寂相比，真是熱鬧的不像話<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 哎呀呀，沒想到在眼皮底下毫無動靜的冰雪要塞，內部竟然大有玄機呢<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 嗯…看來早就應該滅了它才對。<br>
 <br>
 '''''<span style="color:black;">选择项1：北方聯合為什麼一直沒有出手清理呢？</span>'''''<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 北方聯合在塞壬出現之初遭受了巨大損失，之後雖然情況有所好轉，但盤踞於極地的塞壬拖住了我們幾乎全部的精力<br>
 這裡雖然同時隸屬於兩個司令部管轄，但並不是白鷹的戰略重心。<br>
 雖然曾經也進行過數次聯合進攻，不過結果就如指揮官所知，皆是無功而返<br>
@@ -815,24 +815,24 @@ MK6，主炮齊射，開火！<br>
 這裡不是指揮部的戰略重心，再加上確實一直以來都沒什麼威脅，就被一直放任下來了<br>
 <br>
 放置…嗎。上次的事就是警示，雖然塞壬的攻勢陷入低潮，但是它們的陰謀從來都沒有停下……<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 По сути ничего не меняется.Меняются лишь наши представления осути（實質上什麼也沒變，變化的只是我們對實質的理解）<br>
 沒錯，指揮官同志。塞壬的實質從來都沒有變，變化的只有我們對實質的理解<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=不速之客|选项=24|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+{{折叠面板|标题=不速之客|选项=24|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 …我明白了，會合地點就定在……<br>
 指揮官同志，剛收到基洛夫的聯絡，她們那邊已經成功和白鷹艦隊會合，現在正在趕來的路上<br>
 <br>
 …之前就一直有疑問，明明是在通訊全體受到干擾的鏡面海域…<br>
 <br>
 '''''<span style="color:black;">选择项1：北方聯合是怎麼做到保持通訊的？</span>'''''<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 指揮官同志在意這件事啊，白鷹那邊沒有這樣的技術嗎？實際上——<br>
 <span style="color:#ec5d53;">???：</span><br>
 不過是一群竊賊。在爾等的文化中，對，如同那竊火的普羅米修斯一般，卑劣的竊賊<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 誰在通訊器裡說話！<br>
 <br>
 北方聯合的通信器也被干擾了？！<br>
@@ -841,33 +841,33 @@ MK6，主炮齊射，開火！<br>
 此處與爾等本無關係，實驗也並非為爾等準備<br>
 即便如此，爾等依然不知感恩，莫非妄求埋藏於此處的真實？<br>
 真是，貪心，貪心，貪心。在此迎接爾等的只有苦痛與湮滅！<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 …冰牆出現了變化，巨大的冰塊…正在重組。<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 真是壯觀…不是，我是說大事不妙了！<br>
 <br>
 冰牆結構發生了改變，彷彿一隻巨大的生物正在露出獠牙一般<br>
 天氣也變得更加惡劣，陰雲籠罩了整個上空，除了雷暴之時幾乎伸手不見五指…<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 看來塞壬的干擾升級了，和基洛夫她們也失去了聯絡。<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 塞壬艦隊看來正在準備最後的抵抗，決戰的大幕已經拉開，接下來怎麼辦，指揮官？<br>
 <br>
 '''''<span style="color:black;">选择项1：正面迎戰，堅持到白鷹艦隊到來</span>'''''<br>
 '''''<span style="color:black;">选择项2：暫且與敵方周旋，等到白鷹艦隊到達後一同決戰</span>'''''<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''英勇的選擇。在絕境中面對敵人之時若想取得勝利，無畏的勇氣是不可或缺的。 <br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''穩重的判斷，指揮者不能被局勢的改變沖昏頭腦，這一點來看，指揮官真的很優秀呢~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 同志們，這裡是我們北方聯合的家園，我們沒有退路<br>
 為了我們所鍾愛的一切，北方的利刃必將撕裂一切來犯之敵！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=合流與迎戰|选项=25|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+{{折叠面板|标题=合流與迎戰|选项=25|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 發現指揮官！薩拉妹妹把艦隊平安帶來囉~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 辛苦了，幹得好，基洛夫、甘古特、明斯克！<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 哼哼，這點小事，還難不倒我基洛夫啦~<br>
@@ -875,7 +875,7 @@ MK6，主炮齊射，開火！<br>
 啊哈哈哈！也算是有痛快地戰鬥過了！不錯！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 明斯克，完成任務順利歸來~嘿嘿<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 指揮官沒事真是太好了！妳們就是北方聯合的主力艦隊…？<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 白鷹的各位也辛苦了呢，都沒有受什麼傷吧？<br>
@@ -887,11 +887,11 @@ MK6，主炮齊射，開火！<br>
 這邊也遇到同樣的情況了呢，呵呵，能順利合流真是太好了~<br>
 <span style="color:#4eb24e;">甘古特：</span><br>
 啊哈哈哈！再來就是令人熱血沸騰的最終決戰了吧！<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 кролик也準備好了…！<br>
 <span style="color:#4eb24e;">基洛夫：</span><br>
 Давай, пойдём на войну（走吧，讓我們大幹一場）！<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 好！讓塞壬迎接他們的末日！<br>
 <br>
 '''''<span style="color:black;">选择项1：目標塞壬要塞最深處，全艦前進！</span>'''''<br>
@@ -899,7 +899,7 @@ MK6，主炮齊射，開火！<br>
 Ура！/哦！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=清除者|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=清除者|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">？？？：</span><br>
 心懷仇怨的人，居心叵測的人，還有…無知之人！<br>
 此處即為要塞的中心，死亡的天幕即將降下，汝等的旅途也將迎來盡頭<br>
@@ -914,13 +914,13 @@ MK6，主炮齊射，開火！<br>
 ………………<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 不愧是塔什干，真是漂亮的應對~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 事到如今，不要再鬼鬼祟祟藏在黑暗中了，現出身影來吧，塞壬！<br>
 <span style="color:#ec5d53;">？？？：</span><br>
 咕唔唔唔……絕對讓妳們好看！<br>
 <br>
 轟隆隆隆隆--------<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 哇啊啊啊！這回又是什麼！？<br>
 <br>
 在通訊器陷入沉默的同時，伴隨著一串巨響，冰雪構成的牆壁又有了新的變化<br>
@@ -954,21 +954,21 @@ MK6，主炮齊射，開火！<br>
 妳們幾個！從剛才開始就在破壞氣氛啊啊啊啊啊啊啊啊啊啊！！！！！<br>
 <span style="color:#4eb24e;">明斯克：</span><br>
 啊啊~對面的新型號塞壬，一邊在通訊器裡怪叫著，一邊向我們衝過來了欸~<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 同志們，準備戰鬥！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 唉…………感覺從來了之後就一直有種被耍弄的感覺，真是火大！<br>
 快點解決了戰鬥，回溫暖的港區睡覺吧…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=帷幕|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=帷幕|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">清除者：</span><br>
 沒用的,沒用的，沒用的，在那傢伙構築的要塞中，妳們是絕對戰勝不了我的！<br>
 啊…我好像開始理解測試者的樂趣了，這種身為佈局者的感覺…<br>
 來吧！盡情在牢籠中掙扎吧！<br>
-<span style="color:#4eb24e;">克利夫兰：</span><br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
 嘁！對面干擾很棘手啊！不止在影響觀瞄系統，還在直接影響視覺嗎？！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 艦載機在風暴中也沒辦法鎖定目標，打不中敵人啊！<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 呼呼…既然無法瞄準，那就乾脆不要瞄準了吧<br>
@@ -980,14 +980,14 @@ MK6，主炮齊射，開火！<br>
 啊哈哈哈哈！真是太棒了！這才像我們北方聯合的作風嘛！<br>
 <span style="color:#4eb24e;">塔什干：</span><br>
 把你揍扁！<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 唔…雖然效率有點低，現在也只能這樣了！<br>
 <span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 如果它這麼依靠這座冰雪要塞的話-------<br>
 我們就把連同要塞在內的一切化為灰燼！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=結束與開始|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=結束與開始|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">清除者：</span><br>
 居然這樣也能戰鬥嗎…？！<br>
 但是終末的號角已經奏響，命運的車輪已經轉動，靠汝等是無法阻擋的…<br>
@@ -1000,51 +1000,51 @@ I will be back …!<br>
 敵方新型單位反應消失，我們取得勝利了，指揮官同志！<br>
 <br>
 轟隆隆隆隆-----！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 啊咧，還有後手嗎？！冰要塞殘存的結構開始崩塌了，大家注意規避！<br>
 <br>
 天崩地裂一般的響動之後，海面上除了漂浮的塞壬艦隊的殘骸之外，要塞的存在被整個抹除了，連一絲痕跡都沒剩下。<br>
 風暴不知何時也停止了，烏雲開始消散，幾縷陽光透過烏雲灑在海面。<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 真是片美麗的海洋啊…<br>
 <span style="color:#4eb24e;">恰巴耶夫：</span><br>
 呵呵，這才是這片海應有的模樣，不是嗎？<br>
 <br>
 眼前的極地之海，一片平靜，和來的時候似乎相似，卻又不盡相同。<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 本來以為是一場勢在必得的殲滅戰，沒想到會變得坎坷曲折啊…<br>
 <br>
 沒錯，確實是坎坷曲折，甚至還一覽了傳說中北方聯合的極地艦隊的真正姿態…<br>
 等辦好防區交接之類的事之後，終於可以回港區好好休息一下了吧<br>
 正當這麼想的時候——<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 指揮官同志，如果可以的話，能稍微在北方聯合再待一陣子嗎？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=為了美好的未來|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=為了美好的未來|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 若干年前，極北之地<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 時過境遷。已經過去這麼久，很多東西都變了啊…<br>
 不過，也有很多東西沒有改變。<br>
 <br>
 曙光看著一望無際的白色，陷入了短暫的沉思<br>
-<span style="color:#4eb24e;">阿芙乐尔：</span><br>
+<span style="color:#4eb24e;">曙光：</span><br>
 就是這裡了，同志們。<br>
 這裡就是當初一切發生的地方，也是隱藏了一切秘密的地方。<br>
 就讓我們從這裡開始吧，為了更遠大目標的實現，為了更加美好的未來。<br>
 同志們，各就各位，開工！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=牢不可破的聯盟|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=牢不可破的聯盟|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 北方聯合某處·？？？ <br>
 接受了蘇維埃俄羅斯的請求，在北方聯合多待了一陣子…<br>
-<span style="color:#4eb24e;">威严：</span><br>
+<span style="color:#4eb24e;">威嚴：</span><br>
 …指揮官同志，外面雖然很冷，不過到屋裡來就沒問題了。熱可可，要喝嗎？還是要…羅宋湯？<br>
 <br>
 北方聯合的氣候，真的很寒冷啊…<br>
-<span style="color:#4eb24e;">水星纪念：</span><br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
 指揮官別客氣，雖然品種上不如白鷹的豐富，不過味道上我可是很自信的哦~<br>
 嗯？你在想什麼呢，當然不是我做的啦！<br>
 <br>
@@ -1068,48 +1068,48 @@ I will be back …!<br>
 （敲門聲）<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 …來了嗎？<br>
-<span style="color:#4eb24e;">苏维埃罗西亚：</span><br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
 指揮官，就是這裡了，請進<br>
 <br>
 明媚的陽光突然突然從敞開的大門中湧入昏暗的走道，覆蓋了整個視野。<br>
 眼睛逐漸適應後，一位身穿白色長袍的女性出現在視野中。<br>
 她放下手中的書，清澈而堅定地目光向這邊看來。<br>
-<span style="color:#4eb24e;">苏维埃同盟：</span><br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
 來加入北方聯合吧，指揮官同志！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=終末的序曲|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=終末的序曲|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 數日後·紐約司令部<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 指揮部居然在這個時候調指揮官去北方聯合，真是搞不懂到底在想什麼。<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 只是暫時性的調動，不用太擔心了。妳懷疑皇家跟這件事有關係？<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 八九不離十吧。算了…她應該知道自己在做什麼。<br>
 這些先不說，之前給妳的資料看了嗎？<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 這就是北方聯合在極地作戰的主力艦隊？和預想中的差距還真的挺大的…<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 不知不覺間，北方聯合對於心智魔方的研究似乎走在前面了。<br>
 唔~以前只是懷疑，但看了這些情報之後基本可以認定北方聯合在極北之地發現什麼東西了。<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 塞壬遺跡，或者從塞壬繳獲的什麼東西嗎？<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 也許是類似的東西吧，具體什麼東西只有北方聯合自己才清楚了…<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 塞壬科技的危險性，她們究竟什麼時候才能------<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 ……指揮官去往北<br>
 …方聯合乃終末…<br>
 之序曲的開始……<br>
-<span style="color:#4eb24e;">萨拉托加：</span><br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
 企業…妳剛剛說什麼？<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 …？剛剛出現的，是什麼？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=戰時情報局|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=戰時情報局|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">明斯克：</span><br>
 指揮官同志，歡迎來到北方聯合的戰時情報局。哼哼，是個很有趣的地方吧~！<br>
 基本上戰時的情報處理都在這裡進行，作戰中回收的情報也可以送到這裡來解析哦~<br>

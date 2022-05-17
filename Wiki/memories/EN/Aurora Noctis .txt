@@ -1,6 +1,6 @@
 == Aurora Noctis  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=An Urgent Request|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Urgent Request|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Royal Islands -  Several days prior<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -67,7 +67,7 @@ To summarize Her Majesty's counsel, after delivering the Eagle Union's supplies 
 "......"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Fleet Embarks|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Fleet Embarks|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Upon receiving the relief supplies from the Eagle Union, the Royal Navy quickly assembled their transport and escort fleets.<br>
 Their mission was to pass through the Barents Sea's polar night - in other words, the extremely disadvantageous task of running a convoy through prolonged darkness. However, the Northern Parliament's request had to be prioritized.<br>
@@ -118,7 +118,7 @@ I will, Sheffy. Make sure you also stay safe.<br>
 ...Glory to the Queen.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Change in Plans|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Change in Plans|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Escort Fleet<br>
 <span style="color:#4eb24e;">Eagle ：</span><br>
@@ -157,7 +157,7 @@ Indeed. Oh, it's time to check in with the supporting fleet.<br>
 Appreciate it. ...To the Royal Navy HQ, the escort fleet is currently en route to the Northern Parliament as planned. No abnormalities detected in surrounding waters yet. Over.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Aurora|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Aurora|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 A colorful band of light shimmers across the night skies of the Barent Sea, illuminating the sea along with the stars.<br>
 <span style="color:#4eb24e;">Hermione ：</span><br>
@@ -188,7 +188,7 @@ Eagle, your hunch was right. However, we're not going to be able to change the w
 That's right. I'll suppress their air power, so stay vigilant of the enemy submarines and protect the transport fleet!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ambush|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ambush|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">U-73：</span><br>
 Lurk quietly... Approach quietly... and STRIKE QUIETLY...!<br>
 <span style="color:#4eb24e;">Hermione ：</span><br>
@@ -212,7 +212,7 @@ Let me guess, the next thing you're going to say is, "Come at me!" In that case.
 Hermione, commencing anti-submarine combat! For Her Majesty the Queen!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Analysis|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Analysis|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">U-73：</span><br>
 Crap, they're really getting serious, and I need to reload my torpedo tubes... We'll settle this later!<br>
 <br>
@@ -250,7 +250,7 @@ It's too early to say that. The Iron Blood shouldn't know that another fleet is 
 I'll send another recon out to re-assess the situation. Hermione, Jamaica, both of you stay vigilant.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Orders to Turn Back|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Orders to Turn Back|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hermione ：</span><br>
 We're receiving communications from the Naval HQ. It's from... Her Majesty?!<br>
 <span style="color:#4eb24e;">Queen Elizabeth？：</span><br>
@@ -284,7 +284,7 @@ If we wait a bit longer, maybe the escort fleet will decide to leave... Even if 
 Sure, sure. I've got time to kill anyway~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Operation Nordlicht|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Operation Nordlicht|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Unknown Location<br>
 <span style="color:#ec5d53;">Admiral Hipper：</span><br>
@@ -313,7 +313,7 @@ Now, show me how you dance, my little queen and your loyal followers~♪<br>
 Victory to the Iron Blood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Underneath the Aurora|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Underneath the Aurora|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Supporting Fleet<br>
 <span style="color:#4eb24e;">Perseus ：</span><br>
@@ -357,7 +357,7 @@ Vampire, don't you think it's a good idea to have your casket freshened up a lit
 ...Huh?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Leaked Information|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Leaked Information|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Perseus ：</span><br>
 According to the information we have, the Northern Parliament is in peril and even the commander is fighting on the front lines.<br>
 <span style="color:#4eb24e;">Sheffield：</span><br>
@@ -396,7 +396,7 @@ We've already been spotted, so I don't think running will do us any good at this
 As Her Majesty planned, I shall destroy the Iron Blood's main fleet!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Stratagem|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Stratagem|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z2：</span><br>
 The Northern Lights actually came out at a time like this...<br>
 The only one who could've devised this plan is Eugen... Nay, it must have been the "assistant," Friedrich der Große.<br>
@@ -421,7 +421,7 @@ The submarines are the "wedges" that will fracture the Reenactment. What matters
 And of course, we can't have our little support fleet here getting in the way, now can we?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Iron Blood Vanguard|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Iron Blood Vanguard|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Perseus ：</span><br>
 Admiral Hipper's group has broken off from the main fleet and is rapidly approaching us!<br>
 <span style="color:#4eb24e;">Vampire：</span><br>
@@ -433,7 +433,7 @@ Sheffield is right. I'll try to head toward Howe's position as I fight.<br>
 Hopefully that's the only trick they have up their sleeves... Phew...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Devil and the Vampire|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Devil and the Vampire|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z36：</span><br>
 My eye holds the forbidden power of bewitchment! The Devilish Idol shall teach you the true meaning of fear! Writhe in utter defeat!<br>
 <span style="color:#4eb24e;">Vampire：</span><br>
@@ -462,7 +462,7 @@ That would be strategically disadvantageous, so please forgive me for being unab
 Hey, get your frilly ass back here! Gaaah...! You're not getting away with this!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suspicion|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suspicion|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z36：</span><br>
 Sorry, Hipper, Vampire and the others got away...<br>
 <span style="color:#ec5d53;">Admiral Hipper：</span><br>
@@ -495,7 +495,7 @@ Gosh, we almost got tricked by their decoy.<br>
 It's only natural that we'd be wary of a main fleet.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=According to Plan?|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=According to Plan?|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Main Fleet<br>
 <span style="color:#4eb24e;">Icarus：</span><br>
@@ -541,7 +541,7 @@ Unless something drastic happens, I don't think the Northern Parliament will all
 (I shouldn't overthink things though... We still have to get there safely after all.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interception|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interception|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 It's a message! We've got a message from the support fleet!<br>
 <span style="color:#4eb24e;">Communicator：</span><br>
@@ -559,7 +559,7 @@ Valiant, let's hurry and back them up! It's time to drive the Iron Blood from th
 Exactly! Members of the Royal Navy Main Fleet, change course and advance towards the Iron Blood fleet!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Uninvited Guests|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Uninvited Guests|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 Whoosh————!<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
@@ -589,7 +589,7 @@ Great, the commander and the Eagle Union's intel gathering has pulled through fo
 Everyone, prepare to face the Sirens!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=All-Out Assault|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=All-Out Assault|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Icarus ：</span><br>
 Reloading complete! Icarus, commencing all-out assault!<br>
 <span style="color:#4eb24e;">Howe ：</span><br>
@@ -606,7 +606,7 @@ Your bravery is commendable, but there's really no benefit for you to...<br>
 But still, it'd be great to be able to overwhelm the enemy with great firepower...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Crucial Decision|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Crucial Decision|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Valiant ：</span><br>
 I thought I had a good grasp of the situation from looking over the data, but this new type of Siren... is far more troublesome than I anticipated!<br>
 <span style="color:#4eb24e;">Howe ：</span><br>
@@ -661,7 +661,7 @@ Agreed! That is the most sensible option at the moment.<br>
 There is no situation that I, Valiant, cannot resolve! First, let us put a halt to the Sirens' advance!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interlude|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interlude|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Omitter：</span><br>
 This new gear fits me like a glove! After getting authorization to convert to Type III, there's no way the motley crew of the Northern Parliament can stop me!<br>
 This aurora's pretty damn cool... Who knew Conductor's little toy could do this kind of trick?<br>
@@ -674,7 +674,7 @@ Eek...?! It always seems like someone's giving me the evil eye when that train o
 Very well, Royal Navy. Let us commence or festival of blood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Third Order|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Third Order|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Escort Fleet<br>
 <span style="color:#4eb24e;">Jamaica：</span><br>
@@ -713,7 +713,7 @@ Her Majesty would never order us to abandon the convoy. Everyone, let's continue
 All right!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Before the Raid|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Before the Raid|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">U-101：</span><br>
 "Oops, looks like the escort fleet is continuing to sail forward."<br>
 <span style="color:#ec5d53;">U-522：</span><br>
@@ -729,7 +729,7 @@ I'll get in touch with Prinz Eugen! I need to make sure we're still starting the
 "All right, let's start our mission."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Escort Fleet|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Escort Fleet|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Escort Fleet<br>
 <span style="color:#4eb24e;">Hermione：</span><br>
@@ -748,7 +748,7 @@ I'm glad we made the right decision. I'm going to need to have a talk to the hig
 Ah! ...We've found them! Everyone, stay calm and prepare for anti-submarine combat!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Wolfpack|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Wolfpack|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">U-73：</span><br>
 It seems that we meet again! Although I have no idea how you found me again...<br>
 <span style="color:#4eb24e;">Eagle ：</span><br>
@@ -766,7 +766,7 @@ There are a lot more of them waiting in the wings...! This is where we have to m
 Don't underestimate the anti-sub capabilities of the Royal Maid Team!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Threat Neutralized|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Threat Neutralized|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">U-101：</span><br>
 What?! Great Shark just took a direct hit from a depth charge?!<br>
 <span style="color:#ec5d53;">U-73：</span><br>
@@ -797,7 +797,7 @@ Nay... As a matter of fact, the support fleet and main fleet haven't been respon
 (I can't do anything about it though... so all I can do is continue to press forward!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Phantom Fleet|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Phantom Fleet|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Supporting Fleet<br>
 Sheffield, Perseus, and Vampire led the support fleet in the direction of the Iron Blood's "main fleet."<br>
@@ -849,7 +849,7 @@ Like rats coming out after a storm...<br>
 Err, I meant, I'll go contact the other fleets. Please mop up the stragglers here.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=According to Plan|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=According to Plan|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Prinz Eugen：</span><br>
 So that's how this device works. It doesn't just listen in on transmissions, it actually "catches" them. Unbelievable.<br>
 But, there are limitations to its usage. If we expand the frequency too much, it'll start interfering with our own fleets as well.<br>
@@ -873,7 +873,7 @@ Of course. You wouldn't want to leave poor Spee and Deutschland out there by the
 You're unbelievable... I'll go contact the ships.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Uninvited Guests II|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Uninvited Guests II|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Perseus ：</span><br>
 Don't underestimate me just because I'm a light carrier. Hmph!<br>
 ..And that's why.<br>
@@ -906,7 +906,7 @@ In other words, you want to team up with the Iron Blood to fight back the Sirens
 ...Maybe at one point. But long gone are the days when that would be possible.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Siren Outbreak|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Siren Outbreak|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Z2：</span><br>
 It seems that the Sirens have joined the fight and are assisting us in flanking the Royal Navy.<br>
 Our radio equipment is barely usable over extremely short distances, but otherwise this feels just like being in a Mirror Sea. Was this a part of your calculus as well?<br>
@@ -944,7 +944,7 @@ For the time being, let's leave the Iron Blood to their devices and focus on the
 Be careful, everyone, there's something different about these Sirens...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Set Sail Once More|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Set Sail Once More|选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Perseus ：</span><br>
 Finally... That was too close for comfort...<br>
 If this is what the Northern Parliament is dealing with, no wonder they're having problems. It's insane that those Sirens are so powerful without a humanoid leader.<br>
@@ -971,7 +971,7 @@ It's decided then. Sheffy, let's pick up the pace!<br>
 (Whatever the reason, I must warn Her Majesty as soon as possible...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Overwhelming Firepower|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Overwhelming Firepower|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 Barents Sea - Royal Navy Main Fleet<br>
 Gunfire dotted the skies beneath a luminous aurora. The Royal Navy fleet that had assembled to challenge the Iron Blood had now directed their attention towards the Sirens, cutting down even the improved models one after another.<br>
@@ -1005,7 +1005,7 @@ Damn it all! There's no way we'd let the Northern Parliament out-gun us!<br>
 You heard her! Everyone, commence all-out assault!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Omitter|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Omitter|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Icarus ：</span><br>
 All weapons reloaded! All-out assault, open fire!<br>
 <span style="color:#4eb24e;">Valiant ：</span><br>
@@ -1059,7 +1059,7 @@ Acting all high and mighty while blathering about nonsense like that... She's gi
 Everyone, we're going to go instruct her on etiquette! Violently!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Royal Etiquette|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Royal Etiquette|选项=33|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Omitter：</span><br>
 I've been waiting for you. Congratulations on breaking through those mass-produced ships.<br>
 And you've had to ship out resources just to fight the new Obstructor model. Must've given you quite a bit of trouble? Ahahaha!<br>
@@ -1097,7 +1097,7 @@ KABOOM—!!<br>
 She's coming! Everyone, combat formations! Glory to Her Majesty!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Countermeasures|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Countermeasures|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 The fierce confrontation against Omitter raged on. Her torpedoes, cannon barrages, and electronic interference were just as the report had described. However...<br>
 <span style="color:#4eb24e;">Howe ：</span><br>
@@ -1126,7 +1126,7 @@ Hear me, main fleet of the Royal Navy's convoy operation! Follow my lead!<br>
 Upon this sword I swear, glory to Her Majesty!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Once More|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Once More|选项=35|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Omitter：</span><br>
 Where'd all that bravado from earlier go? Are you rats only capable of scurrying around?! Ahahahaha!!<br>
 <br>
@@ -1179,7 +1179,7 @@ Her signal disappeared from the radar... There are only a few stragglers left!<b
 All right. Let's clean up the remaining enemies.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Iron Blood Intentions|选项=36|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Iron Blood Intentions|选项=36|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Icarus ：</span><br>
 Oh no, everyone! The aurora...<br>
 <span style="color:#4eb24e;">Howe ：</span><br>
@@ -1215,7 +1215,7 @@ If the escort fleet has already arrived safely, then there's no reason for us to
 (Please, Your Majesty, may we make it in time...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Northern Front|选项=37|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Northern Front|选项=37|主框=1|样式=primary|展开=是}}
 <br>
 Countless spears of ice reach up from the ocean as if lifted by an external force, forming a massive structure that claws at the clouds.<br>
 That is the "Crown" of the Northern Parliament, the singularity that serves as one of the largest Siren bases in the Arctic Circle.<br>
@@ -1239,7 +1239,7 @@ Then, as the person entrusted with leading them to victory, perhaps I...<br>
 γpa!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Scapa Flow|选项=38|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Scapa Flow|选项=38|主框=1|样式=primary|展开=是}}
 <br>
 Royal Islands<br>
 <span style="color:#4eb24e;">Queen Elizabeth：</span><br>
@@ -1287,7 +1287,7 @@ If you're not prepared to kneel in my presence, then get out of my sight!<br>
 Understood, Your Majesty.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Call to Arms|选项=39|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Call to Arms|选项=39|主框=1|样式=primary|展开=是}}
 <br>
 Malta Island - Banquet Venue<br>
 A certain ship was supposed to attend a joint banquet hosted by the Royal Navy and Iris Libre—<br>
@@ -1343,7 +1343,7 @@ That's way over Sister Sara's head...<br>
 For now, just stay alert. Contact all our ships, and be on the lookout for enemy attacks.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Phase|选项=40|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Phase|选项=40|主框=1|样式=primary|展开=是}}
 <br>
 At the Northern Parliament<br>
 <span style="color:#ffd000;">Sovetsky Soyuz：</span><br>

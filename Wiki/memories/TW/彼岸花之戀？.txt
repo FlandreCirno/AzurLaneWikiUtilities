@@ -1,6 +1,6 @@
 == 彼岸花之戀？ ==
 {{折叠面板|开始}}
-{{折叠面板|标题=真紅色的秘書艦|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=真紅色的秘書艦|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>
@@ -12,11 +12,11 @@
 …果然是怕{namecode:91}太累，在擔心我吧～{namecode:91}好感動～<br>
 <br>
 （敲門）<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 指揮官，之前演習的報告，我給你拿過來了<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 嗚…企、企業…<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 唔，{namecode:91}……<br>
 <br>
 {namecode:91}不經意地微微捏緊了拳頭。指揮室的氣氛突然凝重……<br>
@@ -25,13 +25,13 @@
 '''''<span style="color:black;">选择项2：總之先觀察一下{namecode:91}</span>'''''<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''指揮官大人…哼，我知道，現在我們並非敵人，而是同伴。算了，有什麼報告就快說吧。<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''不用妳說我也打算這麼做就是……<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''…………（咬牙切齒）<br>
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''有種不光是桌子，整間指揮室都在搖晃的感覺…<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 報告完畢…我也不打算在這裡久留，先告辭了。<br>
 <br>
 （關門）<br>
@@ -40,7 +40,7 @@
 沒錯！就算之後準備把害蟲都“打掃”乾淨，把指揮官變成{namecode:91}的…在工作時間還是…對吧？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=無雙的傳承|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=無雙的傳承|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>
@@ -73,7 +73,7 @@
 ……那麼指揮官，{namecode:91}就先回去共同訓練了哦。想參觀的話麻煩到那邊去看吧。呵呵♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=情敵與…例外？|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=情敵與…例外？|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>
@@ -110,7 +110,7 @@
 ……和{namecode:91}還有{namecode:92}相安無事（？）地享受了購物的樂趣<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=友軍與過去|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=友軍與過去|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>
@@ -118,35 +118,35 @@
 重櫻·鐵血交流會上<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 哎呀？妳是鐵血的……<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 我是齊柏林。真難得啊，妳竟會來參加這種活動<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 心血來潮而已…再說還得照顧年輕孩子們啊。妳不也一樣嗎？<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 …我不否定。是因為我是基於妳而被設計建造的嗎…不只是力量，連這種方面都這麼相似<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 下次就能一起並肩戰鬥了呢。想想身邊還有另一個自己就很安心啊。<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 ……話說回來，聽說妳沒有選擇妳所謂的“神”而是加入了我們的時候，我還是吃了一驚呢<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 確實，那時如果沒有遇到指揮官，我應該是會繼續追隨“神”的哦？<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 中途島…指揮官是在那片海域和妳進行著“那場大戰”的…對吧？<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 不斷持續的戰爭，不惜傷害同伴，為了得到可憎敵人的力量，一味地尋求著擁有“覺醒”可能的存在……<br>
 不，那個跟隨了“神明”的我……不管是不是真的——都不過是一種可能而已。<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 可能…？<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 同一面鏡子裡倒映出的不同姿態的我…基於同樣的信息而被雕刻出的，有著自我的存在都是“可能性”呦。<br>
 在某個時刻與妳們交戰的我，也不過是“可能性”的一種。在這裡和妳一起喝酒的我亦不過是…<br>
 因為遇到指揮官而從“塞壬”手中得到解救的一種“可能性”……<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 ……哼，聽妳這個口氣，指揮官還不知道吧。<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 總有一天他會明白的。<br>
 我們的存在、“聖域”、“靈魂”，還有“模具”…<br>
-<span style="color:#4eb24e;">齐柏林伯爵：</span><br>
+<span style="color:#4eb24e;">齊柏林伯爵：</span><br>
 哼…盡說些不知所謂的話<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 呵呵…看來我也有點喝醉了呢…<br>
@@ -156,7 +156,7 @@
 即使如此，我也相信指揮官會愛著我……呵呵呵……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=細小的傷痕|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=細小的傷痕|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>
@@ -190,7 +190,7 @@
 被巨大的尾巴籠罩著，關在了和{namecode:91}獨處的這個空間裡。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=黑暗之中的告白|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=黑暗之中的告白|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>
@@ -233,7 +233,7 @@
 被{namecode:91}緊緊抱住。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=命運之人|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=命運之人|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 彼岸花之戀？<br>
 <br>

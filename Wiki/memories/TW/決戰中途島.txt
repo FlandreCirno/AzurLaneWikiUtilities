@@ -1,24 +1,24 @@
 == 決戰中途島 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=三章-命運的五分鐘|选项=1|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">企业：</span><br>
+{{折叠面板|标题=三章-命運的五分鐘|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">企業：</span><br>
 “AF可能缺少淡水，攻擊部隊帶足淡水”？看來我們這次可是釣到大魚了<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 再狡猾的狐狸，到了關鍵時刻也是會露出尾巴的呀，哈哈哈<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 既然已經知道了AF指的就是中途島，那麼我們就該儘快動身了<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 可是姐姐妳之前受的傷…<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 不要緊，港區的維修員奇跡般的只用了三天，就讓我復原到了原來的狀態~ 他們真是太可靠了<br>
 倒是企業妳呀，要是再受了點什麼意外擦傷，讓女灶神小姐找上門告狀的話，我可就沒法交代了呵呵<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 唔…<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 這一次可是我們三姐妹難得的一起出擊，一定要讓大家看看我們約克鎮級的實力！<br>
 <span style="color:#4eb24e;">企業&大黃蜂：</span><br>
 好的！——為了碧藍色的自由意志，天佑白鷹！<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 白鷹第16、第17特遣艦隊，出擊！<br>
 <br>
           第三章   命運的五分鐘 Five minutes of fate <br>
@@ -28,7 +28,7 @@
 <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-遇敵|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-遇敵|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 啊啦啦，這是第幾波魚雷機了，她們就不懂得學好麼，這麼笨重的玩意怎麼可能會是“靈”式的對手？<br>
 看來AF上的敵人依然在做著沒用的負隅頑抗呀，立刻準備發動下一輪攻擊<br>
@@ -39,16 +39,16 @@
 畢竟，那位大人就在後方欣賞著我們的作戰呢呵呵呵呵<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-交戰|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-交戰|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:92}：</span><br>
 ！！！正上方，發現敵機，“靈”式編隊緊急升空！！<br>
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 所有轟炸機立刻停止作業，換裝魚雷對敵方航母編隊發動攻擊！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 太晚了！麥克拉斯基隊，俯衝！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-戰勝|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-戰勝|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:92}：</span><br>
 居然會和計算出現這麼大的偏差……無念<br>
 …{namecode:91}……<br>
@@ -61,13 +61,13 @@
 ——“命運的五分鐘”<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-敵機|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-敵機|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 可惡，{namecode:92}居然被妳們…<br>
 右滿舵，全力回避敵機俯衝，立即召回所有“靈”式攔截敵機！！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-宿命|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-宿命|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:91}：</span><br>
 浩瀚的大洋終究不過是一個龐大的賭局<br>
 這一回合，是妳們的勝利<br>
@@ -76,13 +76,13 @@
 啊啦，這也許就是無法改變的宿命吧~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-絕筆|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-絕筆|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:93}：</span><br>
 時也命也，此役竟為吾輩之絕筆，哀哉<br>
 {namecode:94}…接下來交給妳了…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-最後的反擊|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-最後的反擊|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:94}：</span><br>
 …<br>
 是麼，一航戰和{namecode:93}都已經…<br>
@@ -90,24 +90,24 @@
 讓妳們看看二航戰的底力，這是我們“最後的反擊”！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=三章-傳承的意志|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=三章-傳承的意志|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">{namecode:94}：</span><br>
 最後的機會了，貫徹吾輩畢生修行的一擊！！<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 啊！！<br>
 <span style="color:#4eb24e;">企業&大黃蜂：</span><br>
 姐姐！！<br>
 <span style="color:#ff0000;">{namecode:94}：</span><br>
 至少…為那位大人挽回了一點局面呢…<br>
 吾輩此生亦無憾矣<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 妳們都哭喪著個臉幹啥，我們可是打了個大勝戰哦<br>
 很快，妳們的名字就會響徹世界，成為後世所傳頌的傳奇軍艦<br>
 很快，戰爭就會結束，人類將會相互理解，重新攜手奪回這片大洋<br>
 而我們，本就是為了實現他們的理想而誕生的，這一切都是值得的<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 …不，我不能認同這些…<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 差不多到了該分別的時候了…<br>
 看著妳們從不懂事的孩子一直成長到現在的海軍王牌，一直是我最引以為傲的事<br>
 帶上他，“死神”以後就得靠妳來照顧了<br>

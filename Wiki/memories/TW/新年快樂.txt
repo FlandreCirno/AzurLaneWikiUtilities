@@ -1,6 +1,6 @@
 == 新年快樂 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=為將至的歡慶做好準備！|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=為將至的歡慶做好準備！|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
@@ -40,7 +40,7 @@
 啊，我也來幫忙——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=掃除與“掃除”|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=掃除與“掃除”|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
@@ -63,19 +63,19 @@
 我怎麼會給指揮官添亂呢～放心吧，只要沒有哪些需要被“掃除”的蟲子什麼的跑到指揮官身邊——<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 好像又聽到了什麼不得了的發言……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 誒……妳們好像在做什麼有趣的事情呢<br>
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 哦？是鐵血的……<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 啊，是歐根。妳好，我們在進行一年一度的大掃除喲<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 大掃除……嗎。這麼說來，剛才好像看到指揮官和哪個女孩子走在一起呢……<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 什、麼……看來指揮官身邊確實需要一番“掃除”了啊……呵呵呵，指揮官等著，{namecode:91}現在馬上就到您的身邊來——<br>
 <span style="color:#4eb24e;">{namecode:93}&{namecode:92}：</span><br>
 ……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 果然還是這樣的“大掃除”更有趣呢，呵呵<br>
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 謀而後動，成功調離了{namecode:91}，不愧是鐵血，果然不容小覷……<br>
@@ -83,87 +83,87 @@
 不不，單純只是{namecode:91}在這方面太好懂了吧……<br>
 <span style="color:#4eb24e;">{namecode:67}：</span><br>
 哎呀呀，還有好多地方要掃除呢，{namecode:91}怎麼就興沖沖的跑掉了呢<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 既然如此，就讓我來代替她幹活吧<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 咦，這樣真的好嗎？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 對於重櫻的“新年”，我也是頗有興趣的呢……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=向未知伸出雙手|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=向未知伸出雙手|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
 三  向未知伸出雙手<br>
 數日前<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 一年…又要結束了呢<br>
 新年啊…每年和同樣的面孔看一成不變的《一個人的晚餐》…確實是有點無趣呢……<br>
 嗯？那是……重櫻的……？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 喵！是歐根喵！看起來有點沒精神喵？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 是商店的{namecode:98}啊…看起來很忙的樣子呢？生意很好嘛？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 {namecode:98}和重櫻的小夥伴們在做新年的準備喵！可是有很多事情要忙的喵！生意都要落下了喵……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 哦～？重櫻的新年，有這麼多要準備的嗎？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 好多要準備的喵！對於重櫻的各位來說，新年可是很重要的節日喵！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 欸～好像挺有趣的嘛……<br>
 <br>
 時間回到現在……<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 既然如此，那就麻煩幫忙擺放一下裝飾品吧。這些都是正月要擺放的裝飾，今天之內要把它們擺好，這邊正愁人手不夠呢…<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呵呵…這個竹子一樣的是什麼？<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 這個叫門松，放在一起的是一對，一左一右擺門口就好，來由嘛，太複雜的說起來也麻煩，妳就當竹子象徵長壽吧。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 竹子象徵長壽嗎……那這個稻草做的掛飾一樣的東西呢？還挺好看的<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 啊，那個怎麼說呢，寓意上是有不讓進了家門的神明跑掉的意思在，所以麻煩妳把它掛在門口和窗口吧，廚房也可以擺一下。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 重櫻的講究還真多……掛好了<br>
 這個白白的餅呢，能吃嗎？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 那個叫做鏡餅喵。雖然確實是食物，不過現在還不能吃喵……要供奉好，等時間到了才能砸開吃掉喵<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 什麼，這個小小的白白的東西明明就在勾引我吃掉它，居然現在不能吃嗎……<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 忍耐喵！等到跨年會就可以大吃大喝了喵<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 重櫻的跨年會……嗎……我也能參加嗎？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 港區的大家都是夥伴喵，歡迎喵～<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 呵呵……那我就滿懷期待地等著了……聽說重櫻的酒非常好喝呢—— <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=友情、努力、勝利|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=友情、努力、勝利|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
 四  友情、努力、勝利<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 嗯？果然大家都來了嗎<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 是呀～收到{namecode:6}邀請的時候就在想著會不會遇到妳們了～<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 嗯……嗯……？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 哎呀，拉菲還是一臉沒睡醒的樣子呢～馬上就要新年了喲～新年～要有新年新氣象才對！來！打起精神來～<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 嗯…拉菲……精神飽滿……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 啊哈哈，兩位還是一如既往呢<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 不過真沒想到{namecode:6}會約我們來聚會呢～<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 {namecode:6}雖然話不多，但其實還是很喜歡大家的呢<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 是啊～真是可愛的性格呢～<br>
 （敲門）{namecode:6}～我們來了喲～<br>
 <span style="color:#4eb24e;">Z23：</span><br>
@@ -176,29 +176,29 @@
 我在……這裡<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 嗚哇哇！{namecode:6}、{namecode:6}？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 啊哈哈哈，剛才Z23的表情，啊哈哈哈哈哈哈<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 嗚…嗚嗚……為什麼{namecode:6}會從後面突然出現啦！<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 到{namecode:89}那邊取東西，花了一點時間……<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 原來如此，就是妳手上的這個嗎？<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 拜託{namecode:89}做的，想送給大家…不過今年時間不夠，只有…一套…<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 一套呀……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 一套啊……<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 {namecode:6}，這個圓圓的造型獨特的食物是什麼——…嗯？<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 就決定是妳了，拉菲！Z23、{namecode:6}，抓住拉菲～<br>
 <span style="color:#4eb24e;">{namecode:6} & Z23：</span><br>
 喔！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 誒……？啊……等——<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 嘿嘿嘿，妳喊破了喉嚨也沒用的，我脫！<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 拉菲的皮膚…又白又滑——<br>
@@ -206,7 +206,7 @@
 好冷…好癢——<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 總覺得有哪裡不對…算了——<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 嘿嘿，換裝完成～拉菲，感覺如何～？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 怪怪的……束腰有點高……還有點緊……袖子漏風，涼颼颼……<br>
@@ -214,7 +214,7 @@
 但是，很可愛<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 是啊，拉菲穿起來很合適呢～我都有點嫉妒了（小聲），咳哼，沒什麼<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 啊啊～真好啊真好啊～拉菲有這麼可愛的衣服～<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 下次，要準備大家的份<br>
@@ -222,7 +222,7 @@
 嗯……大家…一起……<br>
 <span style="color:#4eb24e;">Z23：</span><br>
 嗯！我會期待著的！<br>
-<span style="color:#4eb24e;">标枪：</span><br>
+<span style="color:#4eb24e;">標槍：</span><br>
 好啦～衣服也換好了，人也到齊了～開始今天的聚會吧～<br>
 <span style="color:#4eb24e;">{namecode:6}：</span><br>
 那就從動畫鑒賞會開始——	<br>
@@ -230,7 +230,7 @@
 ……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=賀年卡|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=賀年卡|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
@@ -315,7 +315,7 @@
 好了，有問題一個一個來，我先把“新年快樂”四個字重新寫一遍，大家看清楚我的筆劃——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新年的狂宴|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年的狂宴|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
@@ -344,7 +344,7 @@
 這就是愛的重量吧……難得的新年，放縱一些又有何妨？<br>
 <span style="color:#4eb24e;">{namecode:67}：</span><br>
 這邊倒是有兩個稍微放縱過頭了一點的孩子呢……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 重櫻的酒…還真是美味啊……<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲……還要再來一杯……<br>
@@ -364,7 +364,7 @@ lianyu…？那是什麼？能吃嗎？<br>
 那是放縱過頭的大人們悲慘的陌路喵…好孩子就當作不知道就好了喵……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新年的祈願|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新年的祈願|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 新年快樂<br>
 <br>
@@ -375,11 +375,11 @@ lianyu…？那是什麼？能吃嗎？<br>
 呵呵呵，當然。要祈禱指揮官來年也能平安健康，不被害蟲們荼毒呢～<br>
 <span style="color:#4eb24e;">{namecode:67}：</span><br>
 不愧是{namecode:91}呢……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 嗚嗚……感覺像是100個人同時在腦袋裡面敲鐘一樣……<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 頭……好疼……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 為什麼{namecode:92}能跟什麼事都沒發生過一樣……<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 重櫻的戰鬥力…不容小覷……<br>
@@ -391,7 +391,7 @@ lianyu…？那是什麼？能吃嗎？<br>
 {namecode:34}有點困……<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 昨晚還是玩鬧得太晚了呢……尤其是這幾位開酒宴的……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 這就是所謂的神社？感覺……氣氛很不錯嘛。<br>
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 畢竟是神聖的場所，{namecode:78}和{namecode:79}能在這麼短的時間裡布好這裡，也真是辛苦她們了<br>
@@ -407,7 +407,7 @@ lianyu…？那是什麼？能吃嗎？<br>
 <span style="color:#4eb24e;">{namecode:78}：</span><br>
 要是能起效就再好不過了~好了，大家過來參拜吧，歐根…還有拉菲也在嗎？那我就稍微講解一下好了～<br>
 先來這邊洗一下手，接著到神像前搖一下鈴鐺，然後以“二拜二拍手再一拜”的作法來進行就可以了哦。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 好吧……<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 嗯……<br>
@@ -445,7 +445,7 @@ lianyu…？那是什麼？能吃嗎？<br>
 願望說出來就不靈了啦！而且妳這個也算不上願望吧！<br>
 <br>
 鈴……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">歐根親王：</span><br>
 （願望啊，我的願望嗎……希望來年能和這個艦隊的人一起遇到更有趣的事吧~）<br>
 <br>
 鈴……<br>

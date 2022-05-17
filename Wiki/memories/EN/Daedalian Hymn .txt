@@ -1,6 +1,6 @@
 == Daedalian Hymn  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Maestrale's Report|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Maestrale's Report|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Sardegna Empire - Taranto Conference Hall<br>
 <span style="color:#4eb24e;">Libeccio：</span><br>
@@ -65,7 +65,7 @@ Ahem! Anyway, this is Maestrale, destroyer from the Sardegna Empire, now beginni
 "Now we await your orders, Lady Vittorio Veneto, Eternal Flagship of Sardegna—"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Littorio's Departure|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Littorio's Departure|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Sardegna Empire - Taranto Conference Hall<br>
 <span style="color:#4eb24e;">Littorio：</span><br>
@@ -126,7 +126,7 @@ Well said. We know these waters well, and we shall make the Sirens regret encroa
 Naturally, I look forward to witnessing what kind of fleet you'll be able to muster. Hahaha!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Strolling Through the Garden|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Strolling Through the Garden|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Near the Aegean Sea<br>
 <span style="color:#4eb24e;">Littorio：</span><br>
@@ -191,7 +191,7 @@ W-well... Guess I'll go scout around...<br>
 Huh? Where'd Torricelli go...?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=History Lesson|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=History Lesson|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Nicoloso da Recco：</span><br>
 Littorio, I heard that these pieces of art came from a place called "Constantinople." What kind of place is that? I don't know of any place called that...<br>
 <span style="color:#4eb24e;">Littorio：</span><br>
@@ -254,7 +254,7 @@ Hey! Come back here! Why are you diving again?<br>
 Heheh... Hehehehe......<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Paltry Invasion|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Paltry Invasion|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Nicoloso da Recco：</span><br>
 The communication device is reacting to something! It's a stray Siren!<br>
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
@@ -270,7 +270,7 @@ Okay, got it...<br>
 Hahaha! Fellow defenders of Sardegna, form battle lines and prepare to intercept the enemy!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mysterious Island|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mysterious Island|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM————————!!<br>
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
@@ -306,7 +306,7 @@ Everyone, look over there!<br>
 Is that... a sea mirage?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Aquila Takes Wing|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Aquila Takes Wing|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Sardegna Empire - Taranto<br>
 <span style="color:#4eb24e;">Aquila：</span><br>
@@ -356,7 +356,7 @@ The coordinates at which the signal disappeared was... right here, yeah! Maestra
 Excellent work! Lady Veneto, let's not tarry here any longer!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Veneto's Stratagem|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Veneto's Stratagem|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Maestrale：</span><br>
 Lady Veneto, we are approaching the waters surrounding the island of Crete.<br>
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
@@ -394,7 +394,7 @@ As you wish~♪<br>
 Let's move forward carefully while monitoring the status of our communications equipment.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mirror Sea of the Mediterranean|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mirror Sea of the Mediterranean|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Aquila：</span><br>
 I'm sorry, Lady Veneto, I was unable to locate Littorio's fleet. Furthermore, I seem to have lost a few recon planes as well...<br>
 I'm sorry I fell short of your expectations...<br>
@@ -411,7 +411,7 @@ Assuming Littorio stuck to the plan we prepared beforehand, she should be waitin
 Otherwise... the situation might be a lot more complicated.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Great Labyrinth Appears|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Great Labyrinth Appears|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Aquila：</span><br>
 Lady Veneto, look over there!<br>
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
@@ -432,7 +432,7 @@ Everyone, continue to monitor the condition of your communications equipment.<br
 Understood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rhythm of Trust|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rhythm of Trust|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Aquila：</span><br>
 Ugh... It's no good! There seems to be some kind of "wall" stopping my aircraft...<br>
 My planes are just coming to a halt... They're not getting damaged, but there doesn't seem to be any way past the wall!<br>
@@ -448,7 +448,7 @@ It's alright, Maestrale. Trap or not, there is nothing that we cannot overcome.<
 O Eternal Glory of Sardegna, guide our path—<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Torricelli's Guidance |选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Torricelli's Guidance |选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Torricelli：</span><br>
 Lady Veneto... I've found you... Hehehe...<br>
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
@@ -469,7 +469,7 @@ I suppose she is rather... unique.<br>
 Yes, unique... Anyway, she is waiting at the entrance of the Labyrinth... Follow me...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tea Party in the Labyrinth|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Tea Party in the Labyrinth|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Torricelli：</span><br>
 Hehe, hehehe... Here we are...<br>
 <span style="color:#4eb24e;">Libeccio：</span><br>
@@ -508,7 +508,7 @@ Fine, fine. We'll get going after we wrap things up here.<br>
 Good. Everyone, rest up while you still can.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Field Report|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Field Report|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Littorio：</span><br>
 Are Maestrale and Aquila back yet?<br>
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
@@ -543,7 +543,7 @@ We have Aquila surveying the situation from the air, Torricelli's field intel, a
 We fear no Siren or Minotaur, and this Labyrinth shall be ours!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Origin Myths |选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Origin Myths |选项=15|主框=1|样式=primary|展开=是}}
 <br>
 "Sardegna's splendor is more than just power."<br>
 "It is our magnificent culture, history, and arts. It is the embodiment of the Mediterranean's civilization."<br>
@@ -606,7 +606,7 @@ Granted, a Mirror Sea's a lot more dangerous than how the sirens were described 
 Huh... Come to think of it, doesn't that sound a bit more like a natural disaster than the doing of some monster? Hmmm...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Colors of the Empire |选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Colors of the Empire |选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Nicoloso da Recco：</span><br>
 Full turn to port at the next crossing! Aquila, send out your planes and do your thing!<br>
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
@@ -647,7 +647,7 @@ And to make them so obvious that Aquila could spot them far ahead of time with h
 Perhaps we need to reevaluate the way we paint our own ships...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Imitations |选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Imitations |选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
 It's as Torricelli said. Just a fresh coat of paint.<br>
 What were they hoping to achieve by changing their coloration? It will do nothing to impede our fleet, accompanied by the Eternal Flagship herself–<br>
@@ -682,7 +682,7 @@ Torricelli, attract the attention of those carriers! Make it as easy as possible
 Everyone else, prepare to engage! Let us show these masquerading Sirens the splendor of Sardegna!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Shifting Labyrinth |选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Shifting Labyrinth |选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
 Confirming all Pawns have been eliminated. What's our damage?<br>
 <span style="color:#4eb24e;">Maestrale：</span><br>
@@ -725,7 +725,7 @@ So! Aquila, keep on doing your thing with the recon!<br>
 Understood! I can confirm that the labyrinth's structure has changed, but our location has remained the same, as has the path back to the entrance! Rest assured, we are at no risk of getting trapped!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Twists and Turns |选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Twists and Turns |选项=19|主框=1|样式=primary|展开=是}}
 <br>
 "Our objectives are twofold – retrieve the stolen artwork, and rescue Gioberti."<br>
 "As the Eternal Flagship and leader of this fleet, I must bear both of these in mind at once."<br>
@@ -757,7 +757,7 @@ Take the Iron Blood one that Carabiniere went to... That one was for testing the
 Hehe, hehehe... M-makes me curious... what the purpose of this one is...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suspicions and Exchanges |选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suspicions and Exchanges |选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
 What did Friedrich and I discuss at the last faction summit? Why do you ask, Littorio? I thought you weren't interested in politics.<br>
 <span style="color:#4eb24e;">Littorio：</span><br>
@@ -801,7 +801,7 @@ More than ever, we understand the importance of shattering this Siren Labyrinth 
 No matter how many obstacles lie in our path, we will never lose sight of our goal!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Song of the Pawns |选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Song of the Pawns |选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Aquila：</span><br>
 More Royal Navy pawns spotted to our front! Their numbers and formation are the exact same as the last one!<br>
 <span style="color:#4eb24e;">Nicoloso da Recco：</span><br>
@@ -826,7 +826,7 @@ They are already trying to make a mockery of us with this labyrinth. Let us not 
 Uh-huh! Let's get real and show these Sirens who's boss!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Bad Premonition |选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Bad Premonition |选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
 That's the end of them.<br>
 <span style="color:#4eb24e;">Littorio：</span><br>
@@ -860,7 +860,7 @@ All you need do, my dear Eternal Flagship, is continue calmly issuing orders lik
 The Sardegnian fleet's venture into the labyrinth continued...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dangerous Allure |选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dangerous Allure |选项=23|主框=1|样式=primary|展开=是}}
 <br>
 On and on the Sardegnian fleet progressed through the Mirror Sea labyrinth in the Aegean Sea.<br>
 Quite some time had passed since they entered. By now, they had fought and destroyed many fleets comprised of Pawns.<br>
@@ -885,7 +885,7 @@ L-like I said, I might be overthinking it... But it's something...<br>
 (It's possible... that it was a mistake to enter the labyrinth. But, we still have to keep going...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Littorio and Veneto |选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Littorio and Veneto |选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
 Lady Veneto, Littorio has already taken out the last of the enemies.<br>
 <span style="color:#4eb24e;">Aquila：</span><br>
@@ -947,7 +947,7 @@ Have we all managed to take a step back? We can still get through this, but we'l
 Littorio, I'm ready to lead once more – Everyone, get ready to set sail!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reset |选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reset |选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Aquila：</span><br>
 More Siren Pawns are starting to show up again!<br>
 <span style="color:#4eb24e;">Nicoloso da Recco：</span><br>
@@ -967,7 +967,7 @@ No! Come back, Libeccio...!<br>
 Wait, they're seriously not attacking her...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Daedalus |选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Daedalus |选项=26|主框=1|样式=primary|展开=是}}
 <br>
 "Hey, Veneto, do you consider yourself an art aficionado?"<br>
 "Who knows~ There's a lot in Sardegna that I love even more."<br>
@@ -1049,7 +1049,7 @@ Hehehe... I can obviously just go right underneath them... Submarine supremacy a
 Trying to dive with all this rigging stuck to us seems even harder than trying to stand on an airplane... Anyway, let's give this a try.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Path Forward |选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Path Forward |选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Libeccio：</span><br>
 Ow! Maestrale, you just smacked my head with your rigging!<br>
 <span style="color:#4eb24e;">Maestrale：</span><br>
@@ -1062,7 +1062,7 @@ At least the labyrinth hasn't been shifting, which is a good sign.<br>
 Now that we've figured that out, let's make our way to the center, pronto!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Visitors |选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Visitors |选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Aquila：</span><br>
 I see something! There's no mistake about it, that's one of the Senate's transport ships!<br>
 <span style="color:#4eb24e;">Duca degli Abruzzi：</span><br>
@@ -1084,7 +1084,7 @@ Yes. Let's get in there before something bad happens.<br>
 Anyone cowards that dare to steal the treasures of the Sardegna Empire will be taught a harsh lesson!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Minotauros |选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Minotauros |选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Vittorio Veneto：</span><br>
 So this is your doing, Tester...<br>
 You're the one who attacked Sardegna's transport ships and abducted our escorts.<br>
@@ -1125,7 +1125,7 @@ I guess we have to fight after all... Hehehe...<br>
 If you're going to be the first to draw, we won't hold back! Everyone, ready your guns! Defeat that high-level Siren!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unity Amidst Chaos |选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unity Amidst Chaos |选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Libeccio：</span><br>
 Ehhh...?! All the electronic devices on my rigging started going haywire!<br>
 <span style="color:#4eb24e;">Maestrale：</span><br>
@@ -1163,7 +1163,7 @@ Besides, I owe you for coming to our aid!<br>
 So let me join you, and I'll show those big bad Sirens why they should fear my name!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Leading the Way |选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Leading the Way |选项=31|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM–––––––!<br>
 <span style="color:#ec5d53;">?????：</span><br>
@@ -1203,7 +1203,7 @@ Follow her lead! Continue to lay down your fire! Don't let Tester escape!<br>
 You shall learn what happens when you attempt to defile the splendor of Sardegna, Siren scum!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Triumph? |选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Triumph? |选项=32|主框=1|样式=primary|展开=是}}
 <br>
 It was unclear whether Aquila's devastating bombardment was able to destroy Tester's experimental EM weapon, but it was certain that the Siren had been pushed back.<br>
 With Tester's retreat, the Mirror Sea that threatened the Aegean began to fade, along with the giant labyrinth sitting atop the ocean.<br>
@@ -1246,7 +1246,7 @@ Do you think this is a side-effect from the EMP attacks we suffered in the Mirro
 Exactly. Now's the time to enjoy the company of friends. By the way, do you still happen to have some of Her Majesty's tea?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Stremitelny's Departure |选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Stremitelny's Departure |选项=33|主框=1|样式=primary|展开=是}}
 <br>
 A few days before the Battle of the Labyrinth...<br>
 <span style="color:#4eb24e;">Pamiat Merkuria：</span><br>
@@ -1272,7 +1272,7 @@ It's nothing complicated though~ I just have to deliver the documents in this br
 But man am I beat! Maybe I'll take a little nap... after checking on any new releases...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Vacation in Roma |选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Vacation in Roma |选项=34|主框=1|样式=primary|展开=是}}
 <br>
 KABOOM–––––––!!<br>
 <span style="color:#4eb24e;">Giulio Cesare：</span><br>
@@ -1309,7 +1309,7 @@ I do hope you will allow me to compose the next movement of your symphony...<br>
 Ahahahaha!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Letter |选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Letter |选项=35|主框=1|样式=primary|展开=是}}
 <br>
 Royal Navy - Naval Base<br>
 Illustrious, one of the Royal Navy's aircraft carriers, opened an invitation.<br>

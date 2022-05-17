@@ -1,6 +1,6 @@
 == 康克德與甜食 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=甜系女孩？|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=甜系女孩？|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
@@ -40,7 +40,7 @@
 肩膀被輕飄飄地揉著。也許這就是康克德的風格吧……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Let's buffet！|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Let's buffet！|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
@@ -49,45 +49,45 @@
 受邀和奧馬哈級的三人去甜品店。<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 喂~快點，甜品店就在前面！<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 喔！一看到甜品店的招牌，就充滿了鬥志呢！甜品也是零食的一部分！<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 一說到有吃的就情緒高漲…真是的……<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 放心吧~小羅利吃不下的部分，就由我來幫妳品嘗~<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 說了很多次了，我可是姐姐！CALL ME SISTER！<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 進去再說進去再說嘛~<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 這邊品種可不少哦~果然首先還得品嘗草莓聖代——<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 姑且……姑且選點精緻的馬卡龍好了。<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 哦~有拿破崙蛋糕，我也不客氣了！<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 姐姐，妳不是說要減肥麼…一來就拿了五人份的蛋糕——<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 哈哈，甜品也是零食的一部分！為了好吃的零食，減肥這種話題就讓它消失吧！<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 話說回來，康克德妳不也拿了很多甜品了嘛。<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 康克德的面前已經不知不覺堆上了大大小小的碟子。就像是被甜品和糖分包圍了一樣。<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 真是的，像這樣不知節制的吃零食，也不怕以後衣服都穿不上…<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 嘁、嘁、嘁，補充糖分可是我的日常義務！<br>
 糖分和其他零食是有區別的啦~<br>
 所以就放開吃吧~嘻嘻~<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 嗯嗯~做什麼事都需要毅力，康克德補充糖分的毅力真讓人感動！<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 我說妳們啊……<br>
 <br>
 在康克德的帶動下，今天也補充了很多糖分。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=演唱會|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=演唱會|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
@@ -127,7 +127,7 @@ HI~HI~HI~☆ 持續~應援中~<br>
 似乎看到了康克德和平常不太相同的一面<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=糖分互助聯盟?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=糖分互助聯盟?|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
@@ -138,11 +138,11 @@ HI~HI~HI~☆ 持續~應援中~<br>
 桌子上的糖果也很好吃！<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 哇！總算來啦，好次的點心出爐啦~<br>
-<span style="color:#4eb24e;">敦刻尔克：</span><br>
+<span style="color:#4eb24e;">敦克爾克：</span><br>
 讓大家久等了，充滿獨特風格的甜點上桌了。<br>
 <br>
 喜歡甜品的大家都聚在了一起。<br>
-<span style="color:#4eb24e;">敦刻尔克：</span><br>
+<span style="color:#4eb24e;">敦克爾克：</span><br>
 今天的甜點味道如何呢？希望能夠合各位的口味。<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 好次！{namecode:33}能多吃一些嗎？<br>
@@ -164,7 +164,7 @@ HI~HI~HI~☆ 持續~應援中~<br>
 不過面對這麼多美味的甜品，康克德居然不為所動，這是怎麼了……？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=決心|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=決心|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
@@ -186,16 +186,16 @@ HI~HI~HI~☆ 持續~應援中~<br>
 要不然，讓我也試試做甜點～然後指揮官來試吃吧！<br>
 <br>
 在康克德的注視下順勢就答應了……<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 哦哦，看到康克德這麼有幹勁，姐姐也很欣慰哦！<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 但是康克德，妳從來沒做過甜點吧？<br>
 可別像以前一樣，過幾天就膩了~<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 都說了，這次我超認真的！<br>
-<span style="color:#4eb24e;">罗利：</span><br>
+<span style="color:#4eb24e;">羅利：</span><br>
 哦？那我拭目以待。<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 姐姐我也會給妳加油鼓勁的！要是好吃的話，以後一年份的零食就換成康克德的甜點了<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 哼哼~一定要想辦法征服姐姐們。<br>
@@ -203,7 +203,7 @@ HI~HI~HI~☆ 持續~應援中~<br>
 康克德發光的眼眸裡，散發著灼熱的光芒。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=甜品試吃專員？|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=甜品試吃專員？|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
@@ -242,23 +242,23 @@ HI~HI~HI~☆ 持續~應援中~<br>
 嘻嘻，那麼指揮官，說定了~下一次也要當我的第一試吃專員哦~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=來自康克德的糖分|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=來自康克德的糖分|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 康克德與甜食<br>
 <br>
 七　來自康克德的糖分<br>
 糖分互助聯盟的又一次聚會——<br>
-<span style="color:#4eb24e;">敦刻尔克：</span><br>
+<span style="color:#4eb24e;">敦克爾克：</span><br>
 久等了，今天的第一道甜品是鬆餅。<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 是糖分充足的松餅！<br>
-<span style="color:#4eb24e;">奥马哈：</span><br>
+<span style="color:#4eb24e;">奧馬哈：</span><br>
 哇啊啊——的確能夠激起食欲！<br>
 <span style="color:#4eb24e;">康克德：</span><br>
 嗯~嗯……（微笑）<br>
 <br>
 就像上次的聚會那樣，康克德的話很少。<br>
-<span style="color:#4eb24e;">敦刻尔克：</span><br>
+<span style="color:#4eb24e;">敦克爾克：</span><br>
 這是今天我做的最後一道甜品咯，呵呵，大家盡情享用吧！<br>
 <span style="color:#4eb24e;">拉德福特：</span><br>
 哦哦——！<br>

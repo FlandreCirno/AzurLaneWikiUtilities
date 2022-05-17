@@ -1,6 +1,6 @@
 == Rondo at Rainbow's End  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Situation Report|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Situation Report|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Control Center - Commanding Vessel<br>
 Only a few days have passed since I returned from the Sea of Stars... but I am still reeling from what I experienced there over those short few hours.<br>
@@ -130,7 +130,7 @@ Listen well to the rondo that is about to be played––<br>
 For true peace... can perhaps only be found at the rainbow's end.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Iron Invitation|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Iron Invitation|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean - Southeast Sector E<br>
 A Sakura Empire fleet advanced cautiously under the cover of night.<br>
@@ -193,7 +193,7 @@ Then, we shall wait and see.<br>
 What kind of performance will the Iron Blood put on for us this time? Ahahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Royal Anchorage|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Royal Anchorage|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Just on the horizon, the first vestiges of the anchorage became visible to the Sakura fleet.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -258,7 +258,7 @@ Guided by the Iron Blood ships, Akagi and her fleet made their way deeper into t
 Right this way. Friedrich has been waiting for you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Iridescent Gate|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Iridescent Gate|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Scapa Flow Anchorage<br>
 <span style="color:#4eb24e;">Friedrich der Große：</span><br>
@@ -351,7 +351,7 @@ Allow me to welcome you once more, esteemed guests from the Sakura Empire.<br>
 Harken to the coming of the final movement!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Singularity|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Singularity|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Under the instructions of Queen Elizabeth, a new Singularity rose above the waters of Scapa Flow.<br>
 A steady stream of energy seeped from the ring of light surrounding the gate, evaporating the surrounding seawater into a fine mist.<br>
@@ -409,7 +409,7 @@ Akagi and Zuikaku disappeared into the Singularity as well, with Friedrich der G
 At long last, our rondo finally begins.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Entr'acte|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Entr'acte|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean - East Continental Shelf Sector C<br>
 <span style="color:#4eb24e;">August von Parseval：</span><br>
@@ -458,7 +458,7 @@ Soon enough. Don't engage until I arrive.<br>
 I'll make full use of this opportunity!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Light of Creation|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Light of Creation|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity...<br>
 The other side of the gateway appeared to be the same place that the group had just come from, except...<br>
@@ -577,7 +577,7 @@ The birth of a shipgirl.<br>
 Welcome to our world, battlecruiser Seydlitz.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rebirth|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rebirth|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 The light continued to pulse several more times until finally, Friedrich lowered her arms.<br>
 The newly born shipgirls began to gather around her.<br>
@@ -731,7 +731,7 @@ Indeed. Now, my friends from the High Sea Fleet... I have a question for all of 
 What exactly happened at Scapa Flow?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Memory Lane|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Memory Lane|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lützow：</span><br>
 Oh boy. I was half-expecting this question. *yaaawn*...<br>
 <span style="color:#4eb24e;">Friedrich der Große：</span><br>
@@ -879,7 +879,7 @@ Did she just fall asleep mid-sentence?<br>
 I sincerely apologize for her discourtesy, Your Majesty! Allow me to continue where she left off!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Truth Behind Scapa Flow|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Truth Behind Scapa Flow|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Seydlitz：</span><br>
 Because of the approaching Sirens, we promptly petitioned a ceasefire agreement to the Royal Navy fleet.<br>
 They swiftly accepted and joined up with us. Dispatching the Sirens became the top priority for both our fleets.<br>
@@ -1038,7 +1038,7 @@ However, you as shipgirls have a duty to fulfill – to defeat the Sirens and de
 Heehee... How exciting it is to be fighting once again.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gearing Up for Battle|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gearing Up for Battle|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Outside the Singularity - NA Ocean<br>
 <span style="color:#4eb24e;">Z2：</span><br>
@@ -1090,7 +1090,7 @@ As I tend to do... If we must fight, so be it, but please try not to aggravate t
 Don't worry, I can't even if I wanted to. It's my job to keep adjusting the frequency on this little jammer.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New and Old|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New and Old|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Inside the Singularity - Mirror Sea<br>
 The Iron Blood ships were the backbone of this new combined fleet. Led by Zuikaku's planes, they set out to sea in search of Sirens.<br>
@@ -1139,7 +1139,7 @@ Listen! These Sirens are pushovers for shipgirls like us! They don't stand a cha
 So go and give 'em hell!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Learning the Ropes|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Learning the Ropes|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOM!<br>
 <span style="color:#4eb24e;">Lützow：</span><br>
@@ -1206,7 +1206,7 @@ If you have something you wish to say, speak up and look us in the eye.<br>
 "And if you've the time for that, use it on fighting instead. Emden will not tolerate any laziness."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suspicions|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suspicions|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 A group of shipgirls watched from afar as the reborn warships practiced with their riggings.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -1256,7 +1256,7 @@ You and I are both spectators here. I cannot speculate on what Friedrich's grand
 (I can only hope the Commander knows what that is... But if not...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Differences and Commonalities|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Differences and Commonalities|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 KABOOOM!<br>
 <span style="color:#4eb24e;">Thüringen：</span><br>
@@ -1310,7 +1310,7 @@ The former warships that were hunted down at Scapa Flow had now become the hunte
 I wish to see this Commander – my darling human – for myself. Heehee...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Beginning of the End|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Beginning of the End|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 The group's search for leads on the Siren superweapon had been fruitless. Worse yet, the gate to the Singularity would not last much longer.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -1352,7 +1352,7 @@ The finale is yet to come, Akagi.<br>
 And I promise, it will not disappoint you, or Her Majesty, or the people outside the Singularity... or my child.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Contact|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Contact|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Georgia：</span><br>
 All right, Commander. It's time for a mission briefing.<br>
 Almost all our fleets across this entire ocean sector are engaging the Iron Blood.<br>
@@ -1396,7 +1396,7 @@ I picked up the communicator, which made the screen before me flash with the cal
 "It's... Soyuz?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Spy versus Spy|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Spy versus Spy|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean<br>
 As Kronshtadt was leading the Northern Parliament's fleet forward, a familiar figure approached her from over the horizon.<br>
@@ -1449,7 +1449,7 @@ Very well. Energy levels at maximum...<br>
 This is the end for you! Herteitr's Rolling Thunder!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=New Blood|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=New Blood|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 Scapa Flow - Harbor<br>
 <span style="color:#4eb24e;">Jintsuu：</span><br>
@@ -1507,7 +1507,7 @@ No. They are ordinary shipgirls like us.<br>
 Friedrich needed more cards in her hand to accomplish the true goal of this operation. Now she has them.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Diversions|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Diversions|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Control Center - Commanding Vessel<br>
 <span style="color:#4eb24e;">Georgia：</span><br>
@@ -1557,7 +1557,7 @@ We've identified the majority of the blips on the map by now, and if Friedrich's
 '''''<span style="color:black;">（选择项3）</span>'''''Hahahah! I'll treat myself to a whole case of 'em after we get home.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Tailwind Shifts|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Tailwind Shifts|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Scapa Flow - Harbor<br>
 <span style="color:#4eb24e;">Yorck：</span><br>
@@ -1688,7 +1688,7 @@ Don't walk out during the intermission, Akagi.<br>
 Everyone here shall witness this performance until its very end.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Changing Tides|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Changing Tides|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 Flagship Briefing Room - Near Scapa Flow<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
@@ -1725,7 +1725,7 @@ Saratoga's reserve fleet had linked up with ours. I now commanded a very respect
 I had all the right cards in my hand. All I had to do was lay them on the table.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suspicions|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suspicions|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Scapa Flow - Nearby Waters<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -1821,7 +1821,7 @@ I assembled a coalition, and even tapped into the Sea of Stars.<br>
 But with the wild card of Friedrich der Große thrown in, it seems that my preparations were not thorough enough...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Moment of Truth|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Moment of Truth|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Eldridge：</span><br>
 Commander... the communicator...<br>
 <br>
@@ -1979,7 +1979,7 @@ How I've wished to witness your leadership with my own two eyes, my child, Comma
 But there is something I must attend to first. Best of luck to you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Free Will|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Free Will|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 Scapa Flow - Nearby Waters<br>
 <span style="color:#ec5d53;">Akagi：</span><br>
@@ -2042,7 +2042,7 @@ That goes especially for you, Zuikaku.<br>
 H-hey, what's that supposed to mean...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Counterattack|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Counterattack|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 By the time I led my forces to Compiler's location, Friedrich's fleet was already engaged in combat with the high-ranking Siren.<br>
 <span style="color:#ffd000;">Friedrich der Große：</span><br>
@@ -2136,7 +2136,7 @@ Hmm... Well, we should still have more than enough firepower to take down Compil
 "Everyone, our target is Compiler. Bring her down!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breakthrough|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breakthrough|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 Equipped with heavy armor, layers of defensive barriers, and powerful regeneration abilities, Compiler is one of the most durable high-ranking Sirens.<br>
 However, that only means anything against a normal-sized fleet.<br>
@@ -2204,7 +2204,7 @@ Quite literally. We will stretch the very fabric of the Mirror Sea and bring Com
 Now... Your attention, please. It is time to play the final movement.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mainframe|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mainframe|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 A massive burst of energy shot forth from the gateway at Scapa Flow.<br>
 The entrance through the Mirror Sea expanded, turning into a huge glowing archway that reached into the skies.<br>
@@ -2293,7 +2293,7 @@ Oh, nobody in particular. Just reminiscing for old times' sake.<br>
 Oookay then... Anyway, we'd better hurry. Even if I'm not going to do much fighting myself, I don't want to miss a moment of this huge showdown with the Sirens!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Core Data Tower|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Core Data Tower|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 Mirror Sea - Siren Facility<br>
 <span style="color:#4eb24e;">Enterprise：</span><br>
@@ -2364,7 +2364,7 @@ Heh, we're working together pretty well considering we've never done any joint e
 "The way to the core tower is clear... Now all that's left is to destroy it!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ghosts of Another Past|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ghosts of Another Past|选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Compiler ：</span><br>
 <br>
 <br>
@@ -2737,7 +2737,7 @@ Later that day, the Azur Lane and the Crimson Axis, both ostensibly still at war
 Before both sides sailed home, they exchanged brief pleasantries – and a promise. A promise to never forget this day that they fought side by side.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Journey|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Journey|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 Scapa Flow - Harbor<br>
 <span style="color:#ff9900;">Scharnhorst META：</span><br>
@@ -2777,7 +2777,7 @@ Great. Please lead the way, Scharnhorst.<br>
 I'm dying to see the Ashes' base and hear their orchestra. What instruments will they play, I wonder?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Everlasting Tower|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Everlasting Tower|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 Unknown Location<br>
 <span style="color:#ec5d53;">Compiler ：</span><br>
@@ -2843,7 +2843,7 @@ That's not something you need to know. Sleep now, forevermore.<br>
 54 68 65 74 6F 77 65 72 65 78 69 73 74 73 66 6F 72 65 76 65 72 2E<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Heart of the Iris|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Heart of the Iris|选项=33|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Mediterranée...<br>
 <span style="color:#4eb24e;">Le Terrible：</span><br>
@@ -2917,7 +2917,7 @@ You need power because you want to do the right thing.<br>
 And I, Le Terrible of the Le Fantasque-class, will show you the way to obtain that power.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Burning Ambition|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Burning Ambition|选项=34|主框=1|样式=primary|展开=是}}
 <br>
 Capital of Sardegna<br>
 <span style="color:#4eb24e;">Marco Polo：</span><br>

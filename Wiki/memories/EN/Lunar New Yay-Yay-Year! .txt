@@ -1,6 +1,6 @@
 == Lunar New Yay-Yay-Year!  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Start of a New Adventure!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Start of a New Adventure!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>
@@ -51,7 +51,7 @@ What's a Lunar New Year without firecrackers? Come on, do as your big sister say
 But... Umm, please let go of my hand, Fu Shun... At least let me walk on my own...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Old Warehouse, New Discovery|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Old Warehouse, New Discovery|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>
@@ -123,7 +123,7 @@ Wow, that's cool.<br>
 W-wait, what about my idea...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An Explosive New Year!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An Explosive New Year!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>
@@ -179,7 +179,7 @@ Uh, I don't think it warrants an apology. But... I'm curious what your cuisine i
 I wouldn't mind either. We've never tried your cuisine before, so if anything you'll have to pardon us if we unknowingly do anything impolite.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Peaceful Game|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Peaceful Game|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>
@@ -231,7 +231,7 @@ Ahahah, I'll come with you. I was just thinking of having a nice chat with some 
 ...What a truly fascinating holiday the Lunar New Year is.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Celebrating Together (Part 1)|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Celebrating Together (Part 1)|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>
@@ -286,7 +286,7 @@ An Shaaaan! Yat Sen's asking for help bringing out the food!<br>
 I can help with that too!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Celebrating Together (Part 2)|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Celebrating Together (Part 2)|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>
@@ -343,7 +343,7 @@ Is that... the Nian Shou...?<br>
 No, that can't be, it's just a myth...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Lively, Happy New Year|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Lively, Happy New Year|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Lunar New Year!<br>
 <br>

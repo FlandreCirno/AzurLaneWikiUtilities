@@ -1,6 +1,6 @@
 == Prologue ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Enemies and Popsicles|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enemies and Popsicles|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#fff157;">Suffolk：</span><br>
 Intelligence reports that the Iron blood's newest battleships are set to sail through this area. If we surprise them here, the Queen will surely reward us upon our return!<br>
 <span style="color:#4eb24e;">Norfolk：</span><br>
@@ -23,7 +23,7 @@ We've got to hold off their squadron. It's just a few production-type destroyers
 Are... are we going to fight? *Sobs* I knew this would happen...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Encounter|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Encounter|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Norfolk：</span><br>
 Wow, Suffolk! We're so strong! We defeated so many enemies at the same time!<br>
 <span style="color:#4eb24e;">Suffolk：</span><br>
@@ -40,7 +40,7 @@ Haha~! Two puny cruisers? Getting ready to attack? Hah! I suppose I'll try to en
 Not just two cruisers! Hood and Prince of Wales from the Royal Navy, here for backup! Let's have a showdown, shall we?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Royal Navy's Glory|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Royal Navy's Glory|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suffolk：</span><br>
 Big sister! You're finally here!<br>
 <span style="color:#4eb24e;">Hood：</span><br>
@@ -49,12 +49,12 @@ You've done well. It's time for us to give the Iron blood a taste of their own m
 “'The Glory of the Royal Navy'? This should be fun. I wonder if you're actually strong enough to satisfy me.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Conflict|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Conflict|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Bismarck??：</span><br>
 You've got quite the firepower, but it's useless against me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rhine Drill|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rhine Drill|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
 All ships, focus fire on the ship hiding in the back. That's Bismarck, our target!<br>
 <span style="color:#ff0000;">Prinz Eugen：</span><br>
@@ -67,7 +67,7 @@ Who cares, all you sisters look the same to me. Let's see what you've got!<br>
 Well, it seems like a fight is inevitable. Jot Dora!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=An End and a Beginning|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=An End and a Beginning|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
 Hood!!!<br>
 <span style="color:#4eb24e;">Hood：</span><br>

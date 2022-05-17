@@ -1,6 +1,6 @@
 == Swirling Cherry Blossoms ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Sound of Sapphires|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Sound of Sapphires|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The storm rages across the waters, through a night that knows no end.<br>
 Within the tempest lingers one lonesome vessel.<br>
@@ -78,7 +78,7 @@ The venue bursts with activity as everyone begins getting into the positions the
                                  The Sakura Empire's oceans are enveloped in the zeal to carry out the ritual.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Undercurrent|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Undercurrent|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Sakura Empire - Diadem of Light<br>
 The Sakura Empire. It consists of many numerous islands and is a superpower with a distinctive culture.<br>
@@ -126,7 +126,7 @@ I'm sorry for butting in, but... I'm not entirely sure what you're talking about
 Heehee, it was nothing more than a joke. Don't worry.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Host|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The First Host|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
 We welcome you to the Diadem of Light. I am Ryuuhou, and I will serve as your guide.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -142,7 +142,7 @@ Indeed. All I do is for the Sakura Empire's future!<br>
 Now then, let us begin!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Advancing Waves|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Advancing Waves|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
 As expected of the esteemed original First Carrier Division... I've been bested.<br>
 Allow me once more to welcome you to the Diadem of Light. We are honored to have guests visiting us from afar.<br>
@@ -176,7 +176,7 @@ Never mind that. Good luck in your further pursuits, Ryuuhou.<br>
 Thank you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Another Battlefield|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Another Battlefield|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light - Surrounding Waters<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -214,7 +214,7 @@ Indeed. We may have to improvise.<br>
 The ritual host should be be here soon, so let's get ready to do this!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Second Host|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Second Host|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suruga：</span><br>
 I am Suruga, the host of the ritual. It must've been a long journey for you all. Thank you for coming, Mikasa, Shoukaku, and Zuikaku.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
@@ -249,7 +249,7 @@ That's the spirit. Show us what you're capable of!<br>
 Let us begin! Raise your weapons!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suruga's Tactics|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suruga's Tactics|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Mikasa：</span><br>
 Are these... bombers?<br>
 <span style="color:#4eb24e;">Suruga：</span><br>
@@ -260,7 +260,7 @@ You used yourself as a distraction to keep the carriers safe while they launch t
 Unfortunately, you made a fatal mistake! You assumed my tactics are as outdated as my rigging!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Joint Operation|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Joint Operation|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suruga：</span><br>
 Oh, riiiight, joke's on me...<br>
 Your "we" and "us" were of course referring to Zuikaku's and Shoukaku's support... *Sigh*, I never stood a chance against you, did I? I admit defeat.<br>
@@ -298,7 +298,7 @@ Ahahaha! Okay, Zuikaku, Shoukaku. It's time to head onto the main islands!<br>
 (Akagi, how long will it take you to understand...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Plan B|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Plan B|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light - Surrounding Waters<br>
 <span style="color:#4eb24e;">Prinz Eugen：</span><br>
@@ -345,7 +345,7 @@ Okay, I made a final sweep and saved our coordinates.<br>
 Good. Now then, let's stop pretending like we're lost and head over to them. We don't want to make them wait around too long~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Third Host|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Third Host|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Noshiro：</span><br>
 Visitors from Iron Blood, I bid you welcome to the Diadem of Light.<br>
 I am Noshiro, Agano-class light cruiser. I've been waiting for your arrival.<br>
@@ -374,7 +374,7 @@ In either case, I'm curious to see what you're made of, Noshiro...<br>
 Long live Iron Blood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Inciters|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Inciters|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Prinz Eugen：</span><br>
 Come on. I thought you were a cutting-edge cruiser, but this is all you have?<br>
 Perhaps you weren't being as humble as I thought when you said you were rusty.<br>
@@ -401,7 +401,7 @@ Ah, are you finally going to get serious? Good! I thought you never would!<br>
 Now, give me the fight I came here for!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Trickery|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Trickery|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 BOOOOOM!<br>
 <span style="color:#4eb24e;">Noshiro：</span><br>
@@ -456,7 +456,7 @@ Understandable. We can't let our dear guests go hungry. Noshiro, would you pleas
 After all, we wouldn't want them to miss the ritual...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dark Clouds|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dark Clouds|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 "Never lose faith." ...That is what Great Veteran Mikasa told me.<br>
 I chose to have faith in my comrades. In Akagi, and in Kaga.<br>
@@ -524,7 +524,7 @@ Wait, come back!<br>
 Once again, it seems like I must walk the tortuous path...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Banquet|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Banquet|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light - Sunset<br>
 On the eve of the ceremony's commencement, a large banquet was held across the islands.<br>
@@ -622,7 +622,7 @@ Suruga dragged Z2 off somewhere, but it didn't take long for her to sneak away. 
 Please, enjoy the banquet to your heart's content. The night is still young~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Enemy Attack|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enemy Attack|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light - Banquet Venue<br>
 As the night continued, everyone continued to enjoy the banquet until...<br>
@@ -653,7 +653,7 @@ Understood!<br>
 No Siren shall lay as much as a finger on our guests as long I stand!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Siren Menace|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Siren Menace|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Noshiro：</span><br>
 Take THIS!<br>
 Suruga, are you hanging in there? This is your first battle with Sirens, isn't it?<br>
@@ -669,7 +669,7 @@ But now I know just how menacing they are...!<br>
 Everyone! We need to hold this position and fight with everything we have!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Pawns|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Pawns|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:179}：</span><br>
 Kasumi! Kinu! You've held out well! Now get over here and–<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
@@ -689,7 +689,7 @@ Of course... The Sirens always play dirty!<br>
 Don't let their appearances fool you, everyone! Protect the islands from these impostors!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mirror Sea|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Mirror Sea|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Noshiro：</span><br>
 Soulless puppets! Begone!<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
@@ -725,7 +725,7 @@ Kasumi, Suruga, come with me to assess the situation. The rest of you, establish
 Aye aye!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Great Fox|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Great Fox|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 In a sea surrounded by darkness, two girls were trying to make their escape.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
@@ -816,7 +816,7 @@ Zuikaku, can I leave Kawakaze with you? She needs to rest.<br>
 Of course! Lady Nagato, Mikasa is waiting for you on the island!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reunion|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reunion|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suruga：</span><br>
 Zuikaku?! It's not safe over there! Hurry up and get over here... huh?<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
@@ -851,7 +851,7 @@ Leave this to us. Lady Nagato, please head to the island now.<br>
 Very well. I'm counting on you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Encroaching Suspicions|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Encroaching Suspicions|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -922,7 +922,7 @@ Did you really get yourself drunk? I suppose we'll have to leave empty-handed...
 What a terrifying bunch these Sakura Empire folks are...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Watatsumi|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Watatsumi|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">？？？：</span><br>
 “They're wrapping around us! Hold them off at all costs!”<br>
 <br>
@@ -1019,7 +1019,7 @@ Stay here and protect Nagato and Watatsumi. Shoukaku and I will go intercept the
 Leave it to me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ember's Assault|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ember's Assault|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Zuikaku：</span><br>
 That "Ember" person was the one who destroyed our ceremonial hall?<br>
 ...that katana looked just like the ones we make in the Sakura Empire! Show yourself!<br>
@@ -1048,7 +1048,7 @@ Yes... that damn stone...<br>
 Watatsumi... I shall destroy it.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Showdown|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Showdown|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 ……<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
@@ -1106,7 +1106,7 @@ Hah... it won't be a fair fight with all of you here, but...<br>
 ...the most important thing right now is protecting Watatsumi!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cut Time|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Cut Time|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#FF5C5CFF;">？？？：</span><br>
 Not bad...! But I don't have any more time to waste here...<br>
 <br>
@@ -1129,7 +1129,7 @@ I, I'm fine, but... what just happened...?!<br>
 (Am I... scared of her...?!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Flash of Shadow|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Flash of Shadow|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light - Ceremonial Hall<br>
 <span style="color:#4eb24e;">Hibiki：</span><br>
@@ -1243,7 +1243,7 @@ A regular stone coated luminescent paint, tinkered with some Siren technology, a
 Hmph... Looks like I've wasted my time here.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ending|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ending|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 A few days later<br>
 <span style="color:#4eb24e;">Prinz Eugen：</span><br>
@@ -1281,7 +1281,7 @@ Well, let's talk about that request you made at the banquet.<br>
 ...Watatsumi. You said you wanted to see what you could do with it, right?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ceremony's Dusk|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ceremony's Dusk|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light - A few days later<br>
 After the conclusion of the ceremony, a special gathering was held for those who fought bravely against the Sirens.<br>

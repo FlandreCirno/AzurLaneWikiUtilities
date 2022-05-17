@@ -1,6 +1,6 @@
 == The Great Lunar New Year Photoshoot ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Dragon Empery Estate|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Dragon Empery Estate|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>
@@ -71,7 +71,7 @@ I'll be glad to tell you, if you don't mind running a little errand for me~<br>
 Ooh, pick me! What do you need me to do?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Chemical Concoction?|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Chemical Concoction?|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>
@@ -111,7 +111,7 @@ Miss U-73, we're done setting up the equipment! Ready whenever you are!<br>
 I'll be done in a sec! Now then, let's do that photoshoot~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Flying General Approaches!|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Flying General Approaches!|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>
@@ -156,7 +156,7 @@ Wait... Akashi... did all that for free?<br>
 That must be a saga for the ages. You must tell me more about it later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Wandering Beyond the Boundaries|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Wandering Beyond the Boundaries|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>
@@ -226,7 +226,7 @@ You can come back to reality now, Miss Bristol. Our time's almost up~<br>
 And thus, another photoshoot was completed successfully.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Poetry in the Park|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Poetry in the Park|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>
@@ -301,7 +301,7 @@ Hehe, and that's another wonderful picture taken!<br>
 Though it's not very nice to do take pictures of someone without their permission, the scenery here is simply so splendid that I'll have to ask for forgiveness later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=At Home?|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=At Home?|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>
@@ -341,7 +341,7 @@ That's fine by me.<br>
 Thank you very much! If you don't need anything else from me, I shall take my leave~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Gathering of Guests|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Gathering of Guests|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The Great Lunar New Year Photoshoot<br>
 <br>

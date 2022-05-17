@@ -1,6 +1,6 @@
 == Abyssal Refrain ==
 {{折叠面板|开始}}
-{{折叠面板|标题=The Assembly|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Assembly|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Base - Location Unknown<br>
 <span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
@@ -122,7 +122,7 @@ Unknownst to that expedition team, what they had uncovered<br>
 was one piece of the truth behind the Sirens.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Journey's Outset|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Journey's Outset|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament - Unknown Location<br>
 Ice crackled beneath the tires of a speeding convoy, bearing the insignias of the Classified Operations Unit.<br>
@@ -202,7 +202,7 @@ Mhm! Early to bed, early to rise, like well-behaved children do!<br>
 Fine, fine!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Experimental Submarine|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Experimental Submarine|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The following day...<br>
 A small, isolated train station came into view among all the snow, and the convoy finally came to a stop.<br>
@@ -315,7 +315,7 @@ It reflects her purpose – to record data, analyze technology, and discover the
 A nice name, wouldn't you agree?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Ice-Free Port|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Ice-Free Port|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Polar Region - Northern Parliament Waters<br>
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
@@ -379,7 +379,7 @@ I wonder what we should expect to find inside the research base... Do you know a
 What I do know is hard to explain... Don't worry though, you'll soon see for yourself.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Research Base|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Research Base|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Polar Region - Northern Parliament Research Base<br>
 The girls sailed onward, using the moored icebreaker as a landmark. Not long after, an enormous structure reared its peak over the horizon.<br>
@@ -422,7 +422,7 @@ I can see the base's pier! Initiating docking sequence!<br>
 Perfect. Time to get cracking, team!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Discussion|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Discussion|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Research Base - Submarine Anchorage Point<br>
 <span style="color:#4eb24e;">Volga：</span><br>
@@ -481,7 +481,7 @@ I've no reason to think you WOULD leak this information. I trust you, but you mu
 ...Why the weird look? Are you not taking me seriously?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Northern Lights|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Northern Lights|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The sudden blaring of sirens interrupted the banter between the two ships.<br>
 <span style="color:#4eb24e;">Kronshtadt：</span><br>
@@ -530,7 +530,7 @@ Volga put her hands together and whispered a wish to the sky.<br>
 At that exact moment, the Suliko's sensors picked up a distress signal from an unknown source...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Distress Signal|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Distress Signal|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Research Base - Nearby Waters<br>
 <span style="color:#4eb24e;">Kiev：</span><br>
@@ -575,7 +575,7 @@ True, and we have to test her diving performance anyway! Let's get ready to go d
 Hold on tight, everyone! Initiating diving sequence!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Objective|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Objective|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Investigation Site - Depth: 200 Meters<br>
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
@@ -695,7 +695,7 @@ Obviously not. We're going to use the specialized equipment we retrieved at the 
 Speaking of which, that equipment is all 100 percent Siren tech. Handle it with caution.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Arrival|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Arrival|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
 Good day my fellow crewmates, this is Captain Soobrazitelny speaking. We're now at a depth of 500 meters and will arrive at the objective shortly!<br>
 <span style="color:#4eb24e;">Arkhangelsk：</span><br>
@@ -762,7 +762,7 @@ Did you hit yourself on the head? Heck no, we're not doing that.<br>
 Hey, I'm just messing with you! I'm not dumb! Anyway, let's get this mission back on track!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Into the Abyss|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Into the Abyss|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
 There it is! Picking up a reading! Patching up errant data... Aaand done! I've located a meteorite fragment, everyone!<br>
 <span style="color:#4eb24e;">Kronshtadt：</span><br>
@@ -817,7 +817,7 @@ Yup. Let me do one final check. Artifact is in place... Computer systems online.
 All right. Initiating in 3... 2... 1... Now!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Holiday Getaway|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Holiday Getaway|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Kronshtadt's mind floated through a pure white void.<br>
 Moments ago she lay in an uncomfortable chair inside a dreary room. Now it was as though she'd left her own body and soared through the sky.<br>
@@ -893,7 +893,7 @@ At any rate, we won't learn anything by standing around. Let's start by heading 
 (This whole place feels fishy. Rather than put my suspicions to rest, this tropical setting only raises them...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Richard, the One and Only|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Richard, the One and Only|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#ffd000;">???：</span><br>
 Hey, you there! That area's off-limits!<br>
 <br>
@@ -1018,7 +1018,7 @@ So, I say we go to the exercise area where we can fully leverage our abilities!<
 You have a point... Riggings were built for use on the open sea, not inside a building on land. Exercise area it is.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Washed Away|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Washed Away|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Communicator：</span><br>
 BEEP BEEP––!! BEEP BEEP––!!<br>
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
@@ -1085,7 +1085,7 @@ Urgh... Aghh...! AGH! So this is it...<br>
 The crushing impact of the water sent Kronshtadt reeling. Not long after, she blacked out.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Into the Abyss II|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Into the Abyss II|选项=15|主框=1|样式=primary|展开=是}}
 <br>
 FATAL ERROR.<br>
 ██████ PROGRESS: 22.8%<br>
@@ -1146,7 +1146,7 @@ Don't blink! 3, 2, 1!<br>
 Was that–?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reboot|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reboot|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 Near the Research Base<br>
 Several mass-produced icebreakers worked tirelessly to push through the thick ice, a small search fleet behind them.<br>
@@ -1177,7 +1177,7 @@ I couldn't do anything for you back then...<br>
 But please hang in there... We're coming to bring you home...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Holiday Getaway II|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Holiday Getaway II|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 Kronshtadt's mind floated through a pure white void.<br>
 Moments ago she lay in an uncomfortable chair inside a dreary room. Now it was as though she'd left her own body and soared through the sky.<br>
@@ -1234,7 +1234,7 @@ Well, since the briefing simply said to gather data, that island is a good place
 My gut tells me it's connected to the meteorite somehow. Let's see if I'm right.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reunion with Richard|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reunion with Richard|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 Over on the island, the girls followed the tourist road until they came across a place with a thicket.<br>
 <span style="color:#4eb24e;">Kronshtadt：</span><br>
@@ -1373,7 +1373,7 @@ Sure thing. Ready whenever you are.<br>
 Let's make good use of our time. Get going, everyone!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=No Response|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=No Response|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 Tracing a course plotted by Kronshtadt, the girls advanced towards the exercise area located in the seas of Bermuda.<br>
 <span style="color:#4eb24e;">Kronshtadt：</span><br>
@@ -1400,7 +1400,7 @@ She tried again and again with many different channels, but not a single one ans
 (That leaves us with little choice but to try with that "Revolutionary Front" faction... Hopefully they'll receive us more kindly than Federation did.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Washed Away II|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Washed Away II|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Communicator：</span><br>
 BEEP BEEP––!! BEEP BEEP––!!<br>
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
@@ -1474,7 +1474,7 @@ You... You're the one responsible for this...!<br>
 Kronshtadt etched that thought into her mind just before her consciousness was once again wrenched away from her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Into the Abyss III|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Into the Abyss III|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 FATAL ERROR.<br>
 ██████ PROGRESS: 37.1%<br>
@@ -1596,7 +1596,7 @@ Of course. I can't lounge around too long or I get restless.<br>
 Let's do this. Take me to dreamland once more.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Holiday Getaway III|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Holiday Getaway III|选项=22|主框=1|样式=primary|展开=是}}
 <br>
 After being blinded by a bright white light, the girls awaken once again, having been transported to the seas of Bermuda.<br>
 <span style="color:#4eb24e;">Kronshtadt：</span><br>
@@ -1667,7 +1667,7 @@ Once the waves have subsided, we can take our sweet time exploring this place.<b
 Ahh-ha-ha-haah! A genius always makes genius suggestions! Now, let us set off!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Off Script|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Off Script|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Taking a different approach to the last two loops, this time the girls sailed away from the exercise area and towards the Eagle Union's east coast.<br>
 <span style="color:#4eb24e;">Kronshtadt：</span><br>
@@ -1733,7 +1733,7 @@ Why are you here?<br>
 Hey, that's what I'm wondering. Why are YOU people here?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Washed Away III|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Washed Away III|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 The outline of Bon Homme Richard was clearly visible even through the fog.<br>
 Though she was equipped with her rigging, she showed no signs of hostility, her demeanor disarming as always.<br>
@@ -1875,7 +1875,7 @@ Run... Run... away...!<br>
 Kronshtadt could only squeeze a few words out with the last bit of her strength before her consciousness was once again swallowed by darkness.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Into the Abyss IIII|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Into the Abyss IIII|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 FATAL ERROR.<br>
 ██████ PROGRESS: 89.9%<br>
@@ -1922,7 +1922,7 @@ The only thing worse than dying in that dream...<br>
 Is to do at the bottom of this abyss all alone!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rescue|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rescue|选项=26|主框=1|样式=primary|展开=是}}
 <br>
 Suliko Interior - Bridge<br>
 <span style="color:#4eb24e;">Soobrazitelny：</span><br>
@@ -2057,7 +2057,7 @@ After confirming that all preparations were complete, Volga resumed the boot seq
 See you on the other side, my friends!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Annihilation Program|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Annihilation Program|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 An alien scenery spread out before Kronshtadt's eyes.<br>
 <span style="color:#ff9900;">Kronshtadt：</span><br>
@@ -2117,7 +2117,7 @@ If you still won't admit it, then show me that power.<br>
 Defeat me! Destroy me! ERASE MY EXISTENCE!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Critical Mass|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Critical Mass|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 Kronshtadt pumped shell after shell into the black tornado, resuming the symphony of destruction with a new movement.<br>
 <span style="color:#ff9900;">Kronshtadt：</span><br>
@@ -2156,7 +2156,7 @@ Despite her rejection, she could not stop firing. The world turned pitch black, 
 But then... a ray of light shone through to Kronshtadt.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Abyssal Refrain|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Abyssal Refrain|选项=29|主框=1|样式=primary|展开=是}}
 <span style="color:#ff9900;">Kronshtadt：</span><br>
 (..................)<br>
 (Huh...?)<br>
@@ -2361,7 +2361,7 @@ Their search continued for any lead that might lead them to the girls' whereabou
 Beneath the endless ice, an echo continued to emanate from the depths, an abyssal refrain waiting to be heard.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Return|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Return|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 Northern Parliament Research Base - Nearby Waters<br>
 The Northern Parliament's submarine followed the signal into the depths of the ocean.<br>
@@ -2390,7 +2390,7 @@ Look, there it is! Kronshtadt's submarine!<br>
 Prepare to approach the Suliko, Belorussiya! Let us go greet the heroes of the Northern Parliament!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Survival|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Survival|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 Back at the Northern Parliament<br>
 Sovetsky Soyuz reunited with Kronshtadt at a grand parade celebrating the return of the long-lost heroes.<br>
@@ -2427,7 +2427,7 @@ Welcome home, Kronshtadt.<br>
 ...Sorry to have kept you waiting!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lost Child|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Lost Child|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 Royal Isles - Queen's Palace<br>
 Suffolk was running through the palace's corridors, a stack of documents in her arms.<br>
@@ -2480,7 +2480,7 @@ Her Majesty said that this area is to be kept secret. Speak not a single word of
 Got it! Anyway, let's get those documents to Her Majesty before she gets angry! Let's pick up the pace, Sheffy!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题="Sea of Stars"|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题="Sea of Stars"|选项=33|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union - NY City<br>
 After receiving the Naval HQ's response regarding the "Reenactment," Saratoga locked herself in a conference room, thinking hard about the next step.<br>

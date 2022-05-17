@@ -1,6 +1,6 @@
 == Fight On, Royal Maids!(part 2) ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Begin the Operation!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Begin the Operation!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Fight On, Royal Maids!<br>
 <br>
@@ -44,7 +44,7 @@ Indeed. I suppose we'll be taking a back seat this time.<br>
 ...The Master's fleet will be arriving soon. Everyone, prepare for battle.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Secret Stratagem|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Secret Stratagem|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Fight On, Royal Maids!<br>
 <br>
@@ -79,7 +79,7 @@ Ah, Master, my beloved Master...<br>
 Ahem. It doesn't make sense for us to tarry longer here. Let's move to the next defensive line.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Sororal Defensive Line|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sororal Defensive Line|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Fight On, Royal Maids!<br>
 <br>
@@ -108,7 +108,7 @@ She's even... placed her trust in me...!<br>
 ...But still, I'm not...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Instructor's Tactics|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Instructor's Tactics|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 Fight On, Royal Maids!<br>
 <br>
@@ -141,7 +141,7 @@ Dido, nameship of the Dido-class light cruisers...<br>
 Will fight with everything she has, for Master's sake!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Her Reward|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Her Reward|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Fight On, Royal Maids!<br>
 <br>

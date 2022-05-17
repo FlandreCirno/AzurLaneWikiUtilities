@@ -1,6 +1,6 @@
 == Approaching Storm  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Departure|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Departure|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Langley：</span><br>
 Sunny weather, gentle winds, and excellent visibility. Perfect weather for setting sail.<br>
 <span style="color:#4eb24e;">Ark Royal：</span><br>
@@ -23,7 +23,7 @@ Absolutely. It's over here.<br>
 Have a safe trip home, everyone~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Joint Exercise|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Joint Exercise|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Have a safe trip home, everyone~!<br>
 <span style="color:#4eb24e;">Prince of Wales：</span><br>
@@ -64,7 +64,7 @@ Likewise. May Lady Luck smile upon the Eagle Union.<br>
 Attention, everyone! We must head home and report to Her Majesty immediately!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Convoy|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Convoy|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union coastal waters <br>
 	Siren Threat Assessment Rating: 0<br>
@@ -87,7 +87,7 @@ You'll learn a lotta stuff if you pay close attention, and not just in combat. Y
 Whoops! Aye-aye, ma'am!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Mission|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Mission|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Denver：</span><br>
 Phew... We all made it in one piece...<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -131,7 +131,7 @@ There's that gift shop we went by earlier. Might be worth a look...<br>
 Heh heh heh... Let's hope you have a "pleasant" voyage...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Advance|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Advance|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union coastal waters <br>
 	Siren Threat Assessment Rating: 1<br>
@@ -145,7 +145,7 @@ Don't underestimate the enemy. You never know what'll happen when Sirens are inv
 All units, prepare to engage! Don't get cocky!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Grouping Up|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Grouping Up|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 This is Enterprise. Fleet has arrived safely at the rendezvous point. Good work, everyone.<br>
 <span style="color:#4eb24e;">Denver：</span><br>
@@ -168,7 +168,7 @@ All right, let's do this! With the combined power of Enterprise and the Knights 
 Hooyah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Area Sweep|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Area Sweep|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union coastal waters <br>
 	Siren Threat Assessment Rating: 3<br>
@@ -191,7 +191,7 @@ No, it's not. The more territory we control, the more thinly spread out our defe
 This mission is partly about uncovering what the Sirens are up to. All ships, keep your guards up as we advance.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interference|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interference|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Hostile territory perimeter <br>
 	Siren Threat Assessment Rating: 4<br>
@@ -219,7 +219,7 @@ Enterprise, what do we do? Do we keep going, or pull out?<br>
 All ships, 180-degree turn! We're heading back to NY City!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Withdrawing|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Withdrawing|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Eagle Union coastal waters <br>
 	Siren Threat Assessment Rating: 0<br>
@@ -248,7 +248,7 @@ Everyone, turn around and maintain your distance to each other! We'll trace our 
 You heard the lady! Follow her and be careful, guys!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Contact Reestablished|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Contact Reestablished|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Enterprise：</span><br>
 We somehow made it out unscathed...<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>

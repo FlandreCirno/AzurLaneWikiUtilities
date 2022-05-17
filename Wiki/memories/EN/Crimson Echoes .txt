@@ -1,6 +1,6 @@
 == Crimson Echoes  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Sequence |选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Sequence |选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hiryuu：</span><br>
 Are we ready yet?! The enemy's counterattack is incoming!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
@@ -70,7 +70,7 @@ Aww! But you're my big sister, so why can't I call you "Sis"?<br>
 *Sigh*... That aside, we have our exercise tomorrow... I hope that will go well...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence I|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence I|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Nagato：</span><br>
 I am Nagato, the flagship of the Combined Fleet! I will be the referee for this year's Naval Exercises!<br>
 ...In these turbulent times, we face threats on all sides, not only from the chaos the Sirens are causing, but also from other forces around the world. And so...<br>
@@ -95,7 +95,7 @@ I want everyone to bear this fact in mind. I want you to demonstrate what you ar
 ...Now, let the Combined Fleet's wargames begin!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence II|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence II|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Hatakaze：</span><br>
 Why, I didn't expect Team Red's flagship herself to appear right before me.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
@@ -112,7 +112,7 @@ If you wish to pass, you must first defeat me!<br>
 Then let us have a fight in good spirit. *Giggle*...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence III|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence III|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Hatakaze：</span><br>
 It's over. There's nothing one can do when facing superior firepower.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
@@ -152,7 +152,7 @@ This is what happens when I don't exercise for so long... *Cough, cough*... I fe
 I need to hold on... just a little longer... <br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence IV|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence IV|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 Ahahah... So you're leading the attack unit, Naka?<br>
 <span style="color:#ff0000;">Naka：</span><br>
@@ -169,7 +169,7 @@ Of course not! Just because you're my superior doesn't mean I'll step to the sid
 Then let us see what you're capable of.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence V|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence V|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Naka：</span><br>
 You win after all, Amagi-san! You've defeated me!<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
@@ -210,7 +210,7 @@ I... I will! Take care of yourself, Amagi-san!<br>
 But who knows for how long I will actually be here to watch over you, Akagi...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence VI|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence VI|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 Everybody seems to be in quite a rush... Did something happen earlier this morning?<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
@@ -275,7 +275,7 @@ The crowd of onlookers who had gathered around began to disperse as well. And th
 The only person left was Amagi who stood there in silence, lost in her own thoughts.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminscence VII|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminscence VII|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">Kaga(BB)：</span><br>
 At last we meet on the battlefield, Amagi!<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
@@ -291,7 +291,7 @@ But if I win, you will become the most powerful weapon in my arsenal, and you wi
 The title of next flagship belongs to me. Now brace yourself!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminscence VIII|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminscence VIII|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 The King draws closer as if engulfing you... You cannot escape.<br>
 <span style="color:#ff0000;">Kaga(BB)：</span><br>
@@ -313,7 +313,7 @@ One thing has been on my mind. Your strategies involve throwing caution to the w
 Then what if today had not been a wargame, but a real battle...? Could you have actually...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminescence IX|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminescence IX|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 ......<br>
 The Sakura Empire Combined Fleet's Naval Exercises were about to conclude with Nagato's congratulatory speech.<br>
@@ -347,7 +347,7 @@ And any ship that did not meet the Treaty's terms must be...<br>
 ...scrapped.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes I|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes I|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Now, I understand.<br>
 One must evolve in order to survive.<br>
@@ -430,7 +430,7 @@ Amagi smiled warmly in an attempt to console her little sister before turning to
 But she could not hide the unease and anxiety seeping out from her smile, not even from herself.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes II|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes II|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 So this is what has become of the areas occupied by the Sirens... I passed through here scarcely half a month ago, and now...<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
@@ -442,7 +442,7 @@ Great news. Though I'm not sold on their combat ability, at least these little f
 All ships, switch to high alert. Utilize your own best judgment in dealing with incoming Sirens.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes III|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes III|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 BOOOOOOM!<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
@@ -468,7 +468,7 @@ To make it this deep into enemy territory by herself... she is stronger than I g
 ... What a fool...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes IV|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes IV|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Ashigara：</span><br>
 Something's wrong... we've lost contact with the aircraft conducting recon at 9 o'clock.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
@@ -491,7 +491,7 @@ Yes, proceed forward in an S-formation with your secondary weapons raised to max
 Y-yes ma'am! I will do my best!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes V|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes V|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 Kaga!!<br>
 <span style="color:#4eb24e;">Kaga(BB)：</span><br>
@@ -528,7 +528,7 @@ Do not lose hope! Our recon planes have already located the Siren carrier's loca
 Everyone, prepare for anti-air combat! We have but one target - the Siren carrier!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes VI|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes VI|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 With the defeat of the Siren carrier, the enemy planes soon fell into disarray without their mastermind and became fodder for the heavy anti-air fire.<br>
 However, the surviving planes began to ascend out of reach of the anti-air guns, as if waiting for an opportunity to counterattack.<br>
@@ -600,7 +600,7 @@ I'll do as you said. I'll return to port and become the strongest sword of the S
 So, just hold on a bit longer! Everyone, we're going home!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes VII|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes VII|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kaga(BB)：</span><br>
 How's the situation looking?<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
@@ -645,7 +645,7 @@ By my decree, the island defense wargame shall now commence!<br>
 (Amagi... is this what you wanted...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes VIII|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes VIII|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kaga(BB)：</span><br>
 Amagi, what's the meaning of this? Why are you at this exercise?<br>
 <span style="color:#ff0000;">Amagi：</span><br>
@@ -669,7 +669,7 @@ To have an opponent like you who can be true to herself until the very end, Amag
 Come!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes IX|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes IX|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 You've become stronger. I won't be able to use the same old tricks on you... *chuckles*<br>
 <span style="color:#4eb24e;">Kaga(BB)：</span><br>
@@ -698,7 +698,7 @@ Please, protect the Sakura Empire in my stead...<br>
 ... ... And please take care of my sister, Akagi...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Present|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Present|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 ... ... ...<br>
 <span style="color:#ff0000;">Kaga：</span><br>
@@ -725,7 +725,7 @@ Of course, my "plans" are proceeding smoothly. Just a little more...<br>
 Soon, we will be able to meet "her." Ahaha...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes X|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes X|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 Nagato, I hope you've been well.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
@@ -764,7 +764,7 @@ I shall pray for your safe return. <br>
 Thank you very much. I am sorry for troubling you.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Echoes XI|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Echoes XI|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Amagi：</span><br>
 Kaga, this jade brooch is for you. Wear it, and it shall keep you safe.<br>
 Actually, I also have another one for Akagi. The one I'm giving you is pair- I mean, a spare.<br>

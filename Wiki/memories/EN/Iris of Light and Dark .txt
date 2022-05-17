@@ -1,6 +1,6 @@
 == Iris of Light and Dark  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=To the Light and Dark Sea|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=To the Light and Dark Sea|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Every Light Must Cast a Shadow<br>
 In the thousands of years in which our civilization has blossomed and wilted, within the light of every Golden Age has lurked the shadow of war.<br>
@@ -42,7 +42,7 @@ Hood：<br>
 All members of the H Fleet, attention! Be on alert, and prepare for battle! Siren fleet detected at 12 o'clock!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breakthrough|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breakthrough|选项=2|主框=1|样式=primary|展开=是}}
 Ark Royal：<br>
 According to the scouting report, there are four battleships, one light carrier, and six destroyers stationed at port, but none of them seem to be operational.<br>
 However, it appears that the Siren forces are blockading them. If we are to enter the port, we have to break through their lines first.<br>
@@ -56,7 +56,7 @@ The purpose of our operation today is to issue a warning, and to perhaps convinc
 But let's set that aside for later... Now, let's break through the Siren blockade!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Operation Catapult|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Operation Catapult|选项=3|主框=1|样式=primary|展开=是}}
 Dunkerque：<br>
 I've been expecting you, dear guests from the Royal Navy.<br>
 Hood：<br>
@@ -111,7 +111,7 @@ Is that so...<br>
 It's about to rain...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Resurrection|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Resurrection|选项=4|主框=1|样式=primary|展开=是}}
 Arethusa：<br>
 Confirming combat results... Dunkerque - heavily damaged. Provence - heavily damaged. Bretagne - sunk...<br>
 Hood：<br>
@@ -176,7 +176,7 @@ Ark Royal：<br>
 Yes... I fear that the storm will grow even more.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reminiscence|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reminiscence|选项=5|主框=1|样式=primary|展开=是}}
 ???：<br>
 So, you're saying that humanity created us in order to counter the Veneto-class?<br>
 Hm? Well, that's certainly true on paper.<br>
@@ -200,7 +200,7 @@ So what if the strongest battleship on the seas, the loftiest Templar Knight, ha
 ... And just what exactly is wrong with that? Foolish sister...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rendezvous|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rendezvous|选项=6|主框=1|样式=primary|展开=是}}
 Renown：<br>
 Greetings, Allied Fleet. I'm Renown, from the Royal Navy. I've come to join you.<br>
 Ranger：<br>
@@ -234,7 +234,7 @@ Here is a summary of the operation. We will commence in 60 minutes, but...<br>
 Before that, we'll have to take out the Sirens that are approaching us!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dark Scarlet Knights|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dark Scarlet Knights|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 WARNING: Large numbers of enemy hostiles detected. All hands prepare for combat.<br>
 WARNING: Large numbers of enemy hostiles detected. All hands prepare for combat.<br>
@@ -280,7 +280,7 @@ Wichita：<br>
 Don't let your guard down! I'll leave the air defense here to you! I'm going to find that Siren carrier and smash it to pieces!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Operation Torch|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Operation Torch|选项=8|主框=1|样式=primary|展开=是}}
 Massachusetts：<br>
 These... err, zealots... have a pretty extreme fighting style...<br>
 This shell... was fired from a large-caliber cannon. Is it her?<br>
@@ -306,7 +306,7 @@ Ahh, jeez... why does nobody bother thinking before they act?!<br>
 Air squadrons, provide support for our forces!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Clash of Swords|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Clash of Swords|选项=9|主框=1|样式=primary|展开=是}}
 Jean Bart：<br>
 So you've finally returned, invaders!<br>
 Cleveland：<br>
@@ -334,7 +334,7 @@ Massachusetts：<br>
 Show me what you've got, "the Ocean's strongest battleship!"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Light and Dark|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Light and Dark|选项=10|主框=1|样式=primary|展开=是}}
 Ranger：<br>
 Dauntless, press the attack!<br>
 Massachusetts：<br>
@@ -448,7 +448,7 @@ Richelieu：<br>
 Remember, don't do anything that will tarnish your noble name...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Saint's Declaration|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Saint's Declaration|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 The tragedy of Casablanca and Touraine has passed... In order to carry out their beliefs, the Templar Knights chose to sacrifice themselves.<br>
 Great were their sacrifices, and great was their freedom.<br>

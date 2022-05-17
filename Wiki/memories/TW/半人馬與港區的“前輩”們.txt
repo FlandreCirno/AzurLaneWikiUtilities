@@ -1,12 +1,12 @@
 == 半人馬與港區的“前輩”們 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=尊敬的前輩|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=尊敬的前輩|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
 一　尊敬的前輩<br>
 港區·港口<br>
-<span style="color:#4eb24e;">竞技神：</span><br>
+<span style="color:#4eb24e;">競技神：</span><br>
 今天就來對著海浪進行抽卡練習吧——<br>
 我的回合，抽卡！<br>
 <br>
@@ -14,40 +14,40 @@
 ……那邊牆後面似乎有人在探頭探腦的樣子。<br>
 <br>
 '''''<span style="color:black;">选择项1：過去看看</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，指、指揮官，你好！<br>
 那個，我沒在做什麼可疑的事哦！只是……<br>
 <br>
 半人馬的視線飄向不遠處的競技神。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 我有個妹妹也叫競技神，就是繼承自這位所有航母的大前輩，所以我一直很想見一見。<br>
 不過實際見到本人就不知道該怎麼上去搭話了，只好縮在這裡觀察。<br>
 指揮官能幫我……<br>
 <br>
 '''''<span style="color:black;">选择项1：競技神，過來這邊一下！</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 欸欸欸！！！<br>
-<span style="color:#4eb24e;">竞技神：</span><br>
+<span style="color:#4eb24e;">競技神：</span><br>
 怎麼了指揮官，想要來一場激動人心的決鬥嗎？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 那個，競技神大前輩……<br>
-<span style="color:#4eb24e;">竞技神：</span><br>
+<span style="color:#4eb24e;">競技神：</span><br>
 妳是……我記得是新加入的半人馬吧，聽說妳有個妹妹也叫競技神是嗎？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是、是的！<br>
 <br>
 半人馬稍微鬆了一口氣的樣子。<br>
-<span style="color:#4eb24e;">竞技神：</span><br>
+<span style="color:#4eb24e;">競技神：</span><br>
 好吧，那就讓我用決鬥來試試妳靈魂的熱度！<br>
 指揮官，這孩子我借走了。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 欸，欸，欸？<br>
 <br>
 半人馬被競技神拖走了。<br>
 她會慢慢習慣這位大前輩的風格吧，大概。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=過於認真的半人馬|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=過於認真的半人馬|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
@@ -56,16 +56,16 @@
 和擔任秘書艦的半人馬在港區巡邏中。<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 指揮官，和半人馬在巡邏嗎？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 胡德前輩，您好！是的，我們正在巡邏途中。<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 真是個懂禮貌的後輩啊，不過也不用太拘謹，在這裡的都是同伴呢。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 我知道的，但是，艦隊的各位對我來說…果然都是值得尊敬的前輩呢。<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 呵呵，既然妳都這麼說了，那就依妳的吧。<br>
 明天的茶會，不要忘記參加哦？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 好的，胡德前輩！我一定準時參加！<br>
 <br>
 半人馬看起來和皇家的前輩們相處得不錯。<br>
@@ -73,7 +73,7 @@
 指揮官，還有，那個，唔……給你們糖~<br>
 <span style="color:#4eb24e;">{namecode:34}：</span><br>
 {namecode:33}，是剛加入艦隊的半人馬啦。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是的，{namecode:33}前輩，{namecode:34}前輩，我是皇家的半人馬。<br>
 <br>
 半人馬非常標準地向兩人鞠了個躬。<br>
@@ -81,7 +81,7 @@
 '''''<span style="color:black;">选择项1：……？！</span>'''''<br>
 <span style="color:#4eb24e;">{namecode:34}：</span><br>
 欸欸欸，前、前輩嗎……<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是的，對我來說，兩位也是值得尊敬的前輩呢。<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 哇，還沒有人叫過{namecode:33}前輩呢！<br>
@@ -89,7 +89,7 @@
 {namecode:33}，這樣不太好啦……被航母叫前輩，總覺得怪怪的……<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 嗯哼，這種時候就要抬頭挺胸把稱呼接下來啊{namecode:34}！<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是的，請不用太在意。<br>
 <span style="color:#4eb24e;">{namecode:34}：</span><br>
 嗚，但還是覺得怪怪的啦……<br>
@@ -97,14 +97,14 @@
 ……似乎半人馬對誰都會敬稱為“前輩”的樣子。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=何為尊敬|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=何為尊敬|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
 三　何為尊敬<br>
 港區·指揮室<br>
 半人馬對艦隊中所有人都稱呼前輩的事，逐漸成為了話題。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嗯…？為什麼對所有人都用“前輩”稱呼嗎？…指揮官，你知道我是戰後出生的對吧。<br>
 當時，因為戰爭結束的關係，我們這一級面臨著被取消的風險。<br>
 後來幾經坎坷，我們才終於得以降生。<br>
@@ -112,7 +112,7 @@
 如果說不嚮往，那我一定是在否定自己的價值。<br>
 <br>
 半人馬淡淡地訴說著。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 不過，不只是這樣的。<br>
 指揮官，我的生涯是在和平之中度過的，我沒有體會過戰爭的傷痛。<br>
 但我在了解前輩們事蹟的同時，也明白了戰爭是什麼樣的東西。<br>
@@ -121,14 +121,14 @@
 說實在的，光是“前輩”兩個字，完全無法表達我對各位的敬意呢。<br>
 <br>
 半人馬看來也是自己深思熟慮過的。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 不過，確實，要是我的堅持給各位添麻煩了那就本末倒置了。<br>
 我會和大家商量的，如果有前輩覺得困擾，那我就克服一下，從行動上體現我對大家的尊敬好了~<br>
 <br>
 看起來，半人馬在這方面完全不需要人去操心呢。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=意外的發展|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=意外的發展|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
@@ -138,25 +138,25 @@
 半人馬，來玩扮家家酒吧！{namecode:34}也想和妳一起玩呢！<br>
 <span style="color:#4eb24e;">{namecode:34}：</span><br>
 嗯，雖然我不喜歡飛機，但我喜歡半人馬……來一起玩吧。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，兩位前輩，當然沒問題~<br>
 <span style="color:#4eb24e;">西姆斯：</span><br>
 半人馬，沒忘了和我們約好玩捉迷藏吧？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 當然沒有，西姆斯前輩，我也很期待呢。<br>
 <span style="color:#4eb24e;">西姆斯：</span><br>
 快點快點，沒看到妳來哈曼正在發脾氣呢。<br>
-<span style="color:#4eb24e;">小天鹅：</span><br>
+<span style="color:#4eb24e;">小天鵝：</span><br>
 那、那個，指揮官，我是來找半人馬一起排練live的……<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嗯，小天鵝前輩，妳先過去吧，我等會兒就到。<br>
-<span style="color:#4eb24e;">小天鹅：</span><br>
+<span style="color:#4eb24e;">小天鵝：</span><br>
 嗯，有半人馬在感覺大家都有自信了很多，妳一定要來哦？<br>
 <br>
 ……不知為何，上次的談話過後，半人馬反而在驅逐艦之間獲得了巨大的人氣。<br>
 <br>
 '''''<span style="color:black;">选择项1：好奇</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 我只是和驅逐前輩們說明了我對大家的想法，然後被大家接納了而已。<br>
 驅逐前輩們都是很好的人呢。<br>
 <span style="color:#4eb24e;">???：</span><br>
@@ -164,83 +164,83 @@
 <br>
 不知道什麼地方傳來了充滿怨念與不甘的聲音。<br>
 …不過和驅逐有關的話，也只有那個人了<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，皇家方舟前輩，妳好~<br>
 <br>
 對，只有那個人了。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幻想的半人馬|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=幻想的半人馬|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
 五　幻想的半人馬<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 妳已經得到了本人夢寐以求的東西，真是何等令人羨慕的後輩……<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 欸，是、是這樣嗎？<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 嫉妒後輩可不是前輩所為呢，皇家方舟。<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 但是，那可是本人夢寐以求的東西啊！<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，勝利前輩，妳好。<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 嗯，妳也好。指揮官，這是任務報告，請過目一下。<br>
 <br>
 '''''<span style="color:black;">选择项1：確認任務書</span>'''''<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 唔，仔細一看，不知道為什麼，感覺半人馬妳身上有一種親近感呢…感覺好像換個衣服，就能扮演我了呢——<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 咦，勝利妳也這麼想嗎，本人也有這種感覺……<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 恢復得好快！……不過妳確定不是妳羨慕人家而產生的心理作用？<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 不是，本人是覺得半人馬有親近感才會接近她的，結果就看到了令人羨慕的一幕……<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 嗯，哦。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，這個的話，我也對兩位前輩有這種感覺呢。<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 嗯哼，這個笨蛋姑且不論，說不定我們挺合得來呢，稍微來聊聊天吧。<br>
 指揮官，借用一下你的秘書艦哦？<br>
 <br>
 '''''<span style="color:black;">选择项1：點頭</span>'''''<br>
 <br>
 三個人於是坐下聊起了天。<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 不過，半人馬妳的長相還真是獨特呢，這對耳朵，和約克公爵一樣是真的？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是的，其實一開始發現我和前輩們長相都不一樣，我也有些驚訝呢。<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 確實，和重櫻那種獸耳也不一樣，本人也有些好奇。<br>
 指揮官有什麼頭緒嗎？<br>
 <br>
 '''''<span style="color:black;">选择项1：搖頭</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 雖然我自己也不是很清楚，不過…有時候會隱約有種想法呢…<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 哦？說來聽聽。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 會不會是因為我的名字是神話中的生物，而且和森林也有著挺深的關係。<br>
 所以在認知上就容易讓人聯想到同為森林中的幻想種族“精靈”了呢…？<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 認知嗎…感覺會是{namecode:37}或是{namecode:98}喜歡的話題呢。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 {namecode:37}前輩和{namecode:98}前輩嗎…下次遇到的時候也和她們聊聊吧~<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 結果和約克公爵一樣不明不白的嘛…不過不得不說，這種幻想風的服裝很合我心意呢，之後給我參考一下，讓我也做一套吧。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 沒問題~<br>
-<span style="color:#4eb24e;">胜利：</span><br>
+<span style="color:#4eb24e;">勝利：</span><br>
 那麼我就回去繼續執行任務了。——指揮官，你的秘書艦就還你啦~<br>
 <span style="color:#4eb24e;">皇家方舟：</span><br>
 那本人也該回去了。半人馬，下次和驅逐艦們一起玩的時候能不能那個，呃，就是，叫一下本人？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 好的~兩位前輩回見。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=大家的後輩|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=大家的後輩|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
@@ -251,33 +251,33 @@
 不過，被半人馬說坐太久對身體不好，於是還是一起出來了<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 咦，半人馬，在和指揮官一起巡邏嗎？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，是的。妳好，胡德前輩。<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 呵呵，還是老樣子，是個懂禮貌的好孩子呢。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嘻嘻，沒有啦，您過獎了~<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 之前送妳的茶葉，試過了嗎？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嗯！雖然我對茶懂得不多，不過很好喝呢。<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 妳喜歡就好，對茶葉還感興趣的話，隨時來找我哦？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嗯~<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 啊，是半人馬！<br>
 <span style="color:#4eb24e;">{namecode:34}：</span><br>
 半人馬，在工作嗎？<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是的，兩位前輩還是一樣精神很好呢！<br>
 <span style="color:#4eb24e;">{namecode:34}：</span><br>
 工作，加油哦…！<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 謝謝~<br>
 <span style="color:#4eb24e;">{namecode:33}：</span><br>
 半人馬，給妳糖，記得來找我們玩哦！<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 好的~我晚點再去找妳們~<br>
 <br>
 '''''<span style="color:black;">选择项1：向{namecode:33}要糖</span>'''''<br>
@@ -288,40 +288,40 @@
 雖然還在使用“前輩”的稱呼，但是半人馬和大家的交流已經自然了許多了<br>
 <br>
 '''''<span style="color:black;">选择项1：詢問為什麼還要使用“前輩”的稱呼</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，這個的話，因為“前輩”兩個字對現在的我來說，有了新的含義呢~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=真正的同伴|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=真正的同伴|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 半人馬與港區的“前輩”們<br>
 <br>
 七　真正的同伴<br>
 半人馬說起了有關“前輩”的新含義。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 自從加入艦隊到現在，已經過了有一段時間呢。<br>
 在這段時間裡，我近距離接觸了許多前輩，知道了許多前輩們在戰場之外的另一面。<br>
 大家都和我一樣是普通的人，會高興，會難過，會有喜歡的和討厭的東西。<br>
 就算是指揮官，也會有喊著不想工作和打瞌睡的時候。<br>
 <br>
 '''''<span style="color:black;">选择项1：表示這很正常</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 是的，這樣才正常，雖然大家有各自的想法，偶爾也會有些爭執……<br>
 但是為了實現共同的目標，大家一定會互相扶持，互相幫助，這樣才是我所憧憬的艦隊。<br>
 而現在的我也是這支艦隊的一員，所以我不再只是尊敬大家，更是喜歡上了大家。<br>
 <br>
 '''''<span style="color:black;">选择项1：也包含指揮官嗎？</span>'''''<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 指揮官，不要突然問這種問題啦……我當然也喜歡指揮官啦~<br>
 <br>
 半人馬的臉紅了一下。<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 總之呢，一開始的我，是因為尊敬經歷過大戰的各位而稱呼大家為前輩。<br>
 現在的我，則是因為喜歡為了和平而戰的同伴們，而稱呼大家為前輩。<br>
 啊哈哈，雖然說起來有點不好意思，其實主要原因還是我已經叫習慣了呢~<br>
 <br>
 還真是說複雜也複雜，說簡單也簡單啊…<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 說了這麼多我的事，也該輪到指揮官了呢。<br>
 雖然擔任了這麼久的秘書艦，我已經相當了解指揮官了。<br>
 不過果然還是想聽指揮官親口和我說說自己的事呢…一些小秘密，或者沒有對人說過的想法什麼的。<br>

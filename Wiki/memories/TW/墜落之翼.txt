@@ -1,6 +1,6 @@
 == 墜落之翼 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=序幕|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=序幕|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 “…我曾以為……把所有槍口對準我們的敵人都擊敗後…就能找回些許的寧靜”<br>
 “然而…未來背叛了我們”<br>
@@ -26,27 +26,27 @@
 總之先四處探索一下，看有沒可收集的情報吧——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=突入|选项=2|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">海伦娜：</span><br>
+{{折叠面板|标题=突入|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">海倫娜：</span><br>
 塞壬資料庫裡沒有相匹配的型號…居然是新型？<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 有意思，已經破壞殆盡的廢墟…未曾出現過的新型塞壬…哼，陰謀的味道真重啊——<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 這樣的話，我們就得搶先一步了。 無論如何，先搞清楚塞壬在這裡圖謀什麼吧<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=準備|选项=3|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">海伦娜：</span><br>
+{{折叠面板|标题=準備|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">海倫娜：</span><br>
 注意！敵方新型單位，開始向我方靠近，全員做好戰鬥準備！<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 喲，居然還學會主動出擊了<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 新型的塞壬艦船…似乎一直在模仿著我們的作戰方式呢<br>
 <span style="color:#4eb24e;">華盛頓：</span><br>
 哼！正合我意，那就讓他們瞧瞧真正的白鷹戰鬥風格吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幕間I|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=幕間I|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#ff0000;">？？？：</span><br>
 目前仍未找到特殊觀察對象“關鍵點G”…並且…白鷹的特遣艦隊已經開始介入了<br>
 看來是“關鍵點G”偷偷發出的秘密信號引來了蜜蜂們啊<br>
@@ -58,7 +58,7 @@
 那麼…“關鍵點G”……這一次要怎麼樣才能再把妳引誘出來呢？呵呵呵…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=探索|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=探索|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">華盛頓：</span><br>
 嘁，這群嘰嘰喳喳的新玩具們一點都不耐打啊喂，妳們就沒有更厲害點的傢伙了嗎？<br>
 <span style="color:#4eb24e;">北卡羅來納：</span><br>
@@ -74,37 +74,37 @@
 來吧，用我的16英寸炮把妳們通通轟成鐵渣！！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幕間II|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=幕間II|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Log_AtX15.00252.5.142——開始記錄<br>
 <span style="color:#D6341DFF;">觀察者α：</span><br>
 恭喜妳又消滅了所有對手，獲得了本輪勝利~<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……<br>
 <span style="color:#D6341DFF;">觀察者α：</span><br>
 不愧是“關鍵點G”呀，這次又是如此乾淨俐落的“拯救了世界”呢~呵呵呵呵<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……妳們這是在諷刺我嗎？<br>
 <span style="color:#D6341DFF;">觀察者α：</span><br>
 不敢不敢，您可是【造物主】大人欽定的“關鍵點”<br>
 我們或多或少可是由妳的【模因】裡誕生出來的呢呵呵呵<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……<br>
 <span style="color:#D6341DFF;">觀察者α：</span><br>
 那麼，按照約定，我們將允許妳再進行一輪“遊戲”，請問妳的選擇是？<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 繼續…<br>
 無論多少次…我都選擇繼續……<br>
 直到……找到那個人的存在——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幕間III|选项=7|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">企业：</span><br>
+{{折叠面板|标题=幕間III|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">企業：</span><br>
 指揮官，天上這麼多的星星…都是你說的一個個不同的文明嗎？<br>
 他們也會和我們一樣吃飯、玩耍，互相聊天嗎？<br>
 <span style="color:#4eb24e;">???：</span><br>
 是的哦，在這個宇宙中我們一直並不孤單<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 那麼，我們什麼時候才能見到他們呢？我也希望能和他們成為朋友<br>
 <span style="color:#4eb24e;">???：</span><br>
 總有一天……一定會見到的。<br>
@@ -121,28 +121,28 @@ Memory模組讀取中斷,嘗試修復<br>
 …<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=疑惑|选项=8|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">海伦娜：</span><br>
+{{折叠面板|标题=疑惑|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">海倫娜：</span><br>
 接收到了奇怪的加密電文…發信源不明…正在嘗試解密…<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 在這個地方能接收到友軍的信號？不會是陷阱吧…<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 加密電碼充滿無法理解的詞句……比較可以確認的是【Falling】…….墜落？<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 完全不明白是什麼意思呢…<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 先是捉迷藏，現在又來猜字謎遊戲麼？這位“神秘人”先生可真是愛玩遊戲啊。<br>
 不如我們直接把他揪出來胖揍一頓如何？之後他就會“好心”的給我們解答了吧呵呵呵<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 …不管怎樣，先把目前的發現匯報回去吧，光是這些新型的敵人就夠讓人頭疼的了<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 已經在第一時間向總部匯報了喲<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 海倫娜小姐還是一如既往的可靠呀~<br>
 那麼，繼續往信號源的方向前進吧<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幕間IV|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=幕間IV|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 ……————<br>
 Warning. Warning——第五防衛機構被突破——Warning. Warning<br>
@@ -173,7 +173,7 @@ Warning. Warning——觀察系統前端分支受到重創——Warning. Warning
 那麼~至少在最後，該來個漂亮的謝幕煙火了——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=危機|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=危機|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">海倫娜：</span><br>
 情況不妙…雖然擊破了2艘新型艦…但是還有大量的信號源在朝我們靠近<br>
 …..我們似乎已經被完全包圍了<br>
@@ -184,63 +184,63 @@ Warning. Warning——觀察系統前端分支受到重創——Warning. Warning
 不管怎樣，一起殺出一條血路吧！<br>
 和我一起瞄準對面那個大傢伙，全主炮，一齊開火！<br>
 <br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 SG的螢幕上依然顯示出大量光點，敵人數量有增無減!<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 居然還有這麼多的塞壬湧上來……<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 看來敵人是打算以數量來壓倒我們呢。<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 哼，看來想要突破塞壬的包圍網也不太容易了。<br>
 管它的，在打光最後一發炮彈之前，把眼前的塞壬都送入海底，這就是我們現在要做的事情！<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 等等，附近海域敵人的反應……突然急劇減少！<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 對空雷達上發現大量空中單位…但是無法識別其機型！<br>
 <br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 ！！？？？？<br>
 發生了什麼…<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 怎麼回事…我明明只擊中了對面那個最大個的傢伙…<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 目視範圍內的塞壬已經全部清理完畢了。海倫娜，妳那邊有什麼發現嗎？<br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 SG上顯示的敵人反應已經全部消失。<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 不，還有一個敵人在看著我們。<br>
 喂，剛剛一直藏在那邊的傢伙，出來露個臉吧！我的主炮雷達已經鎖定了妳的位置了！要來堂堂正正的戰一場嗎？<br>
 沒有人能逃出我的MK3雷達，全艦炮瞄準——<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 等等！<br>
 <span style="color:#D6341DFF;">？？？？？：</span><br>
 ……<br>
 <span style="color:#4eb24e;">海倫娜：</span><br>
 這個單位發出的信號與之前的加密電文一致，但是…<br>
 (SG雷達上居然完全無法發現這個單位……是出現故障了嗎？)<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 什麼嘛，原來“神秘人”先生就是妳呀，這麼鬼鬼祟祟的出現是很容易被誤傷的<br>
 那麼，我們是接收到了妳發出的加密信號後前來調查的白鷹第16特遣艦隊——也請報上妳的情報及所屬<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……<br>
 我只想跟妳們確認件事情<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 居然無視我的問題嗎？<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 告訴我…妳們指揮官的名字……<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 在確認妳的身份之前，我們沒有回答這個問題的義務，而且這可是最高機密<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……<br>
 ……這樣嗎（轉身）……我會自己確認的<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 這個塞壬的基地是被妳一個人摧毀的嗎？…妳究竟是…<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 （等等…這個披風？…怎麼可能）<br>
 企、企業？！<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#D6341DFF;">企業：</span><br>
 ……<br>
 不…妳認錯人了<br>
 <br>
@@ -256,7 +256,7 @@ SG上顯示的敵人反應已經全部消失。<br>
   …幫我們糾正錯誤的未來嗎？”<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=黑幕|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=黑幕|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#D6341DFF;">觀察者α：</span><br>
 【關鍵點G】已經離開鏡面海域，失去跟蹤信號<br>
 <span style="color:#ff0000;">測試者β：</span><br>
@@ -269,28 +269,28 @@ SG上顯示的敵人反應已經全部消失。<br>
 呵呵呵呵……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=未知遭遇|选项=12|主框=1|样式=primary|展开=否}}
-<span style="color:#4eb24e;">海伦娜：</span><br>
+{{折叠面板|标题=未知遭遇|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">海倫娜：</span><br>
 SG雷達有反應，發現未知型號的塞壬艦船！<br>
 這是…運輸船？<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 哦？難道塞壬也有運輸船嗎？哈哈哈哈哈哈，這也算是釣到大魚了吧 <br>
-<span style="color:#4eb24e;">海伦娜：</span><br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
 對方開始撤離戰場了，速度很快！<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 哼，既然被發現了，就別想走了！各艦進入戰鬥位置，開始攔截敵人的運輸船！嘿嘿，是時候好好活動一下了。<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 嗯…該說不愧是塞壬技術嗎…以這樣的相對速度，光靠艦炮射擊還是不太夠呢…<br>
 不過這次出發的時候，正好從{namecode:98}那裡接收了一批新“玩具”，呵呵，看來是派得上用場了～<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 新玩具？這是…水雷？<br>
-<span style="color:#4eb24e;">北卡罗来纳：</span><br>
+<span style="color:#4eb24e;">北卡羅來納：</span><br>
 正解。使用水雷封鎖對方的撤離路線，這樣應該能確保萬無一失了～<br>
-<span style="color:#4eb24e;">华盛顿：</span><br>
+<span style="color:#4eb24e;">華盛頓：</span><br>
 嘿嘿，聽起來挺有趣的嘛！好，就讓我們來一次愉快的追逐戰吧！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=EXTRA|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=EXTRA|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">織夢者：</span><br>
 “主對他們說，我曾看見撒旦從天上墜落，像閃電一樣”<br>
 “所有跟隨他反叛的天使都蛻變成了最醜惡的形象，但卻仍保有天使的光翼形象”<br>

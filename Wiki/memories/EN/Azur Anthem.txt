@@ -1,6 +1,6 @@
 == Azur Anthem ==
 {{折叠面板|开始}}
-{{折叠面板|标题=A Bridge to an Ocean-Colored Destination|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A Bridge to an Ocean-Colored Destination|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 This is the story of an ocean in which battles come again and again.<br>
 Of a cerulean stage upon which steel-clad girls dance.<br>
@@ -86,7 +86,7 @@ Oh, it's my dear sister~<br>
 They've sure made a mess out of this "Concert Sea Area."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=For Real...?!|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=For Real...?!|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area<br>
 <span style="color:#4eb24e;">Cleveland μ：</span><br>
@@ -128,7 +128,7 @@ I know. Sheffield, please let us know if you find out anything new.<br>
 Naturally. I shall have things squared away by the time my Master returns.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Encroaching Mirror Sea|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Encroaching Mirror Sea|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area<br>
 <span style="color:#4eb24e;">Gascogne μ：</span><br>
@@ -162,7 +162,7 @@ In other words, instead of using conventional warfare, we fight by seeing who ca
 Woah, hold on, our opponents have already begun their performance! Hold tight for a hot second, I'm going to go and gather some more info!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Danger|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Danger|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 ―――！！<br>
 <span style="color:#4eb24e;">Sheffield μ：</span><br>
@@ -259,7 +259,7 @@ Miss Ritsuko? Did you need something?<br>
 Actually, I was a bit concerned about the rigging that the fake Iori was wearing...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Exercises, Lessons, and Smiles!|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Exercises, Lessons, and Smiles!|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 Port - Temporary Office<br>
 <span style="color:#4eb24e;">Azusa Miura：</span><br>
@@ -326,7 +326,7 @@ Sorry to keep you waiting—<br>
 It's time to head down to the venue!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ready to Go!|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ready to Go!|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area<br>
 <span style="color:#4eb24e;">Admiral Graf Spee：</span><br>
@@ -383,7 +383,7 @@ M-mass produced ships are swarming us all of a sudden?!<br>
 Protect our guests at all costs! Everyone, prepare for battle!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Illusory Enemy|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Illusory Enemy|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 ——!<br>
 <span style="color:#4eb24e;">Haruka Amami：</span><br>
@@ -425,7 +425,7 @@ Any of you girls not in possession of the Muse rigging, evacuate according to my
 Got it! Understood, yes!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Moving Forward!|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Moving Forward!|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
@@ -484,7 +484,7 @@ And in case things go south, just remember that I've got your back!<br>
 All right then, let's finish scouting out the venue before we head back!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ongoing Journey|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ongoing Journey|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Port - Temporary Office<br>
 <span style="color:#4eb24e;">Chihaya Kisaragi：</span><br>
@@ -546,7 +546,7 @@ We're going to have our hands full, aren't we~?<br>
 Hehe... Now this gets my blood pumping~♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Skies, Seas, and Songs|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Skies, Seas, and Songs|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Port - Wharf<br>
 <span style="color:#4eb24e;">Ritsuko Akizuki：</span><br>
@@ -624,7 +624,7 @@ Woah... Summer festivals are a thing in this world too? Sounds awesome~♪ Can I
 Of course! We'd love to have all of you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Illuminate the Star of Bravery!|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Illuminate the Star of Bravery!|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area<br>
 <span style="color:#4eb24e;">Akagi μ：</span><br>
@@ -660,7 +660,7 @@ Sigh...<br>
 Haha... Well, it is true that it takes passion to become a true idol.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Step Towards Fate|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The First Step Towards Fate|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area Center Stage<br>
 <span style="color:#4eb24e;">Azusa Miura：</span><br>
@@ -705,7 +705,7 @@ Ships that aren't equipped with the Muse System can't provide you with any assis
 That's why when it's your time to shine, you've gotta give it your all!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=To A Miraculous Concert|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=To A Miraculous Concert|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 Port - Concert Sea Area Center Stage<br>
 <span style="color:#4eb24e;">Ami Futami：</span><br>
@@ -798,7 +798,7 @@ That's why... we're going to put on the best show ever, together!<br>
 This is the last performance we're putting on in this world, so shine like you've never shone before!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=United Hearts|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=United Hearts|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 This is the story of a rainbow-colored ocean in which battles come again and again.<br>
 Of a stage that shines brilliantly to protect the world's peace.<br>
@@ -827,7 +827,7 @@ S-seriously, nya?! Are we really going to go kaboom, nya?!<br>
 If nothing changes, that actually might happen. Now, how are we going to get out of this mess...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Our Path, Our Song|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Our Path, Our Song|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chihaya Kisaragi：</span><br>
 It might have just been because our opponents were too strong, but the act of singing itself is not enough to convey the feelings that can move one's heart.<br>
 <span style="color:#4eb24e;">Ritsuko Akizuki：</span><br>
@@ -869,7 +869,7 @@ You bet!<br>
 All right! Let's give it our all, until the curtains fall!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Our Conviction, Our Hope|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Our Conviction, Our Hope|选项=16|主框=1|样式=primary|展开=是}}
 <br>
 The Muse System is a weapon that is able to bring out the power within feelings and songs.<br>
 A third concert festival was to be held at the port to further tap into its potential.<br>

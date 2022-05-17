@@ -1,6 +1,6 @@
 == 前輩與心結 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=嚴格的秘書艦|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=嚴格的秘書艦|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
@@ -10,7 +10,7 @@
 到達指揮室的時候，秘書艦已經在處理工作了<br>
 <br>
 '''''<span style="color:black;">选择项1：打招呼</span>'''''<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 …啊，指揮官？早上好<br>
 今天你遲到了一會呢，發生什麼事情了嗎？<br>
 ……………………<br>
@@ -26,86 +26,86 @@
 有種往後的日子會不太好過的預感…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=“後輩”們的偶遇|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=“後輩”們的偶遇|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
 二　“後輩”們的偶遇<br>
 按照定好的行程，和艾塞克斯開始了港區的日常巡邏<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 這個區域也…沒有異常，好，下一個區域是——<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 啊，是指揮官還有…艾塞克斯前輩！你們好~<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 前、“前輩”！？妳是皇家的…半人馬嗎<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嗯！艾塞克斯前輩你們是在巡邏港區嗎？真是辛苦了呢~<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 是、是啊。這不過是身為港區管理者和秘書艦應該做的事情，沒什麼辛苦的<br>
-<span style="color:#4eb24e;">半人马：</span><br>
+<span style="color:#4eb24e;">半人馬：</span><br>
 嘻嘻，艾塞克斯前輩真是認真呢，那我就不打擾你們了~<br>
 <br>
 半人馬打完招呼就離開了<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 那就是傳說中把大家都喊作“前輩”的…<br>
 不過，對我來說的“前輩”只有…（小聲）<br>
 <br>
 港區·重櫻生活區<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 重櫻嗎…換句話說“那傢伙”也在這裡——<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 呀吼~指揮官，在巡邏嗎？啊，艾塞克斯也在，秘書艦的工作辛苦啦~<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 …果然出現了！<br>
 咳、咳咳，重櫻的瑞鶴嗎，妳好<br>
 （這就是被當作企業前輩“勁敵”的那個——“幸運之鶴”！）<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 嗯？欸？怎麼一直盯著我？我的臉上沾了什麼東西嗎？！<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 沒什麼…<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 啊對了，艾塞克斯是灰、咳咳，是企業的後輩呢！<br>
 哼哼，正好！遇到企業的話，幫我告訴她，就說瑞鶴明天下午在演習海域等著她<br>
 “這次一定會戰勝妳的！ ”這麼轉告她就行了，嘿嘿！<br>
 嗯哼，那我就不打擾啦，拜拜~<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 …瑞鶴，一直想要贏過前輩的那個人<br>
 不過在那之前，要贏過前輩的人…是我才對——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=前輩|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=前輩|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
 三　前輩<br>
 港區·指揮室<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 好，今天的工作事項也處理得差不多了！指揮官，請確認下這些報告，確認完今天就——<br>
 <br>
 （敲門聲）<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 打擾了<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 哎？前、前輩！？我、我先去倒杯水！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 艾塞克斯嗎，現在是妳擔任秘書艦嗎，辛苦了。啊，水就不用了<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 那、那茶呢，前輩要喝茶嗎？！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 冷靜下來，我只是有事過來通報一下而已<br>
 是這樣的，白鷹打算組織一場針對航母的個人演習<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 個人演習？<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 對了，妳還不清楚規則吧。簡單來說就是這樣的……<br>
 大概就是這樣，怎麼樣，艾塞克斯妳也要參加嗎？<br>
 讓大家也見識一下新型航母的實力<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 （也就是說，這樣的話，我就有機會和前輩直接對決了。）<br>
 請務必讓我參加！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 不錯的氣勢，我很期待和妳的對決哦<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 我也一樣，不會輕易輸給前輩的！<br>
 雖然在前輩面前這麼說了，但畢竟對手是那個企業前輩…<br>
 不好好準備的話，是沒辦法戰勝的呢<br>
@@ -115,52 +115,52 @@
 於是，和艾塞克斯開始了針對演習的特別訓練——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Essex vs Enterprise|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Essex vs Enterprise|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
 四　Essex vs Enterprise<br>
 演習海域<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 這就是最後的勝負了，能一路贏過來，不愧是我引以為傲的後輩！<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 前輩才是，總是游刃有餘的樣子…<br>
 這次不會再那麼輕鬆了！艾塞克斯現在的實力，前輩就好好看看吧！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 無論何時我都會全力以赴的，來吧！<br>
 <span style="color:#4eb24e;">艾塞克斯&企業：</span><br>
 哈啊啊啊啊啊！！！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 哦哦…燃起來了~<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 偶爾這樣也不錯呢，呵呵<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 看招！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 不錯！但還是太嫩了！<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 前輩的攻擊我已經預料到了！接下來是我的反擊時間！<br>
 <br>
 ——！！<br>
-<span style="color:#4eb24e;">约克城：</span><br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
 勝負已分！<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
 唔，這是…雙方同時被“擊沉”了<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 平局…嗎，這樣的結果究竟算是好還是不好呢…<br>
 不過，妳的實力我確實看到了。呵呵，艾塞克斯，確實變強了呢<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 ……<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 艾塞克斯？<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 這樣的結果，不是我想要的…（小聲）<br>
 對不起，我有點累了，先回去休息了<br>
 <br>
 艾塞克斯的樣子似乎有點奇怪…<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=心結·上|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=心結·上|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
@@ -168,21 +168,21 @@
 港區·指揮室<br>
 從上次演習以來，艾塞克斯的樣子都有些怪怪的<br>
 是時候約她出來聊聊了……<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 欸？作為平時的感謝，假日一起去哪裡逛逛？<br>
 只是秘書艦份內的事情，沒有什麼值得道謝的地方…<br>
 <br>
 '''''<span style="color:black;">选择项1：強烈請求</span>'''''<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 既、既然指揮官都說到這份上了…<br>
 <br>
 假日，和艾塞克斯來到港區周邊閒逛<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 感覺除了地點不一樣以外，和平時的巡邏差不多呢…<br>
 嗯？指揮官有話要說嗎？<br>
 <br>
 '''''<span style="color:black;">选择项1：詢問對企業的看法。</span>'''''<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 企業前輩嗎……<br>
 前輩是白鷹的傳奇和英雄，一直是大家尊敬和憧憬的對象。也是我努力的目標<br>
 雖然我們這一級自誕生起就備受期待，但…果然還是比不上經歷過無數戰役的前輩<br>
@@ -192,105 +192,105 @@
 我還是不夠強大，不足以得到前輩的認可……<br>
 嗯！決定了呢！接下來也要加緊訓練！<br>
 總有一天，我會超過前輩，得到前輩…不，得到所有人的認可的——<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 不是那樣的<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 欸？前、前輩？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=心結·下|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=心結·下|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
 六　心結·下<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 當妳抱著這種想法的時候，就已經偏離自己的道路了啊。<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 為、為什麼企業前輩會在這裡啊！<br>
 難道是…指揮官？！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 嗯，指揮官告訴我艾塞克斯的情況不大對勁，於是我也一起來了<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 嗚……<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 無論是演習還是實戰，我都會竭盡全力，那樣才是對對手的尊重<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 前輩……<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 妳的進步大家有目共睹，這次的平局也算是預料之中<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 可、可是…<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 難道妳要用“前輩沒有盡全力”來否定掉自己一直以來努力訓練的成果嗎？<br>
 妳那股一心求勝的執著，也要隨著這個平局一併消逝了嗎？<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 才、才沒有！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 嗯。而且，真正的強大，不是為了誰的認同，也不是為了超過誰，而是為了自己。<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 為了自己？<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 艾塞克斯，妳是我引以為傲的後輩，也是我認可的對手之一<br>
 妳的頂點不會是我，也不會是別人，而是妳自己。<br>
 對自己更有信心一點，妳的實力遠不止於此<br>
 指揮官，你覺得呢？<br>
 <br>
 '''''<span style="color:black;">选择项1：肯定艾塞克斯的表現</span>'''''<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 指揮官…<br>
 我明白了。謝謝妳，企業前輩，如果沒有前輩的一番話，我現在恐怕還會處在迷茫之中吧<br>
 也、也謝謝你，指揮官<br>
 不、不過，和前輩的勝負，我是不會輕易放棄的！<br>
 下次一定會戰勝前輩的，比那個“幸運之鶴”更早！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 哈哈，我很期待哦<br>
 <br>
 艾塞克斯露出了比以往更加柔和的笑容，看來心結已經解開了——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=與你一起的日常|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=與你一起的日常|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 前輩與心結<br>
 <br>
 七　與你一起的日常<br>
 港區·指揮室<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 指揮官，傢俱進貨單已經確認無誤了，只要蓋個章就好了。<br>
 科研費用清單整理好了？正好和那邊的清單核對一下……<br>
 <br>
 艦隊的事情雖然紛繁複雜，但在和艾塞克斯兩人的配合下，許多事情都變得簡單起來。<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 嗯！今天也是狀態絕佳！<br>
 ……有人敲門嗎？請進！<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 打擾了。<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 啊，前輩！有什麼事情嗎？<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 我想拿一份昨天的委託單，有些東西想確認一下。<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 請稍等…指揮官，委託單好像在你手旁的那堆文件裡。<br>
 <br>
 '''''<span style="color:black;">选择项1：將委託單遞給企業</span>'''''<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 謝謝。<br>
 …呵呵，艾塞克斯有點變了呢，和指揮官之間的默契也越來越好了<br>
 那我先走啦。<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 我的變化嗎？<br>
 也許是和指揮官待在一起久了吧。從成為秘書艦起，無論是訓練還是和其他人的交流，指揮官都幫了我很多呢…<br>
 <br>
 '''''<span style="color:black;">选择项1：從艾塞克斯那裡也得到了許多幫助</span>'''''<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 我也和指揮官，變得越來越親密了呢……<br>
 ……<br>
 指揮官，其實我——<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 （推門）那個，還有件事忘了說——<br>
-<span style="color:#4eb24e;">埃塞克斯：</span><br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
 ……<br>
 艾塞克斯的表情，不知為何看起來有些可怕。還保持著推門動作的企業則顯得有些尷尬。<br>
-<span style="color:#4eb24e;">企业：</span><br>
+<span style="color:#4eb24e;">企業：</span><br>
 啊，啊哈哈，抱歉，打擾了呢。<br>
 <br>
 怎麼說呢，日常總是會有點小插曲的…吧？<br>

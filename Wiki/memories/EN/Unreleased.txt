@@ -1,6 +1,6 @@
 == Unreleased ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Classified Intel|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Classified Intel|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Analyzer：</span><br>
 Analyzing data logs...<br>
 Analysis complete.<br>

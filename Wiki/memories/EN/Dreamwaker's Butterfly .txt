@@ -1,6 +1,6 @@
 == Dreamwaker's Butterfly  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Dreams of the Beginning - Ephemeral Butterfly|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreams of the Beginning - Ephemeral Butterfly|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 「The dreamwaker sees the light of the Dawning Ceremony...」<br>
 「...Crimson-dyed intrigue. Otherworldly explosions. The house of faith, sundered by a charred blade.」<br>
@@ -21,7 +21,7 @@ No matter how small, how ephemeral, this fleeting sliver of a dream may be...<br
 If they are slowly pieced together, then surely...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Transient Reality - I|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Transient Reality - I|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Diadem of Light<br>
 <span style="color:#4eb24e;">Noshiro：</span><br>
@@ -63,7 +63,7 @@ Ryuuhou, Noshiro, Suruga, let us prepare to set sail...<br>
 Understood!。<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Transient Reality - II|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Transient Reality - II|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suzutsuki ：</span><br>
 Just like the sun's rays, there are several islands surrounding the main island... This must be the Diadem of Light!<br>
 <span style="color:#4eb24e;">Kii：</span><br>
@@ -98,7 +98,7 @@ You have a point... In any case, I'm sure she has her reasons.<br>
 All right, let's not keep them waiting. Everyone, let's pick up our pace!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Transient Reality - III|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Transient Reality - III|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 After joining up with Shinano, Kii's fleet left the Diadem of Light, making its way back towards the Sakura Empire's main island.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -141,7 +141,7 @@ Lady Shinano, should you have no objections, I would recommend you rest upon one
 Of course, if anyone seeks to block our way, I shall see to it that they do not live to tell the tale.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Transformation - I|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Transformation - I|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:182}：</span><br>
 (Did I... fall asleep...?) "Others... approach..."<br>
 <span style="color:#4eb24e;">{namecode:80}：</span><br>
@@ -205,7 +205,7 @@ In any case, Lady Shinano, we won't delay you any further. It is an honor to mee
 Mm... May the gods watch over you and ferry you safely to your destination.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Transformation - II|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Transformation - II|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kii：</span><br>
 ...Watch out, everyone. I see enemies!<br>
 <span style="color:#4eb24e;">Noshiro：</span><br>
@@ -224,7 +224,7 @@ Those bastards! They're trying to take advantage of Lady Shinano when she's most
 Don't let their little plan succeed. Enter battle formation around Lady Shinano and prepare to engage!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Transformation - III|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Transformation - III|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Suzutsuki ：</span><br>
 Be careful! A huge enemy fleet is appearing in front of us!<br>
 <span style="color:#4eb24e;">Kumano ：</span><br>
@@ -237,7 +237,7 @@ But damn... we're not exactly in the best condition to take a head-on fight agai
 First and foremost, defend Lady Shinano with your life, and try to find a way out of here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Transformation - IV|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Transformation - IV|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Noshiro：</span><br>
 Things aren't looking good...! Kii, let me break out of the Mirror Sea alone. Chitose's fleet can't have gone far! I'll find them and have them turn back!<br>
 We're also not far from the Diadem of Light. If you can send out an SOS signal, the fleet there can also come to our aid!<br>
@@ -264,7 +264,7 @@ Wait, but, Lady Shinano... Your powers haven't come back yet...<br>
 ...I understand. Fight to your heart's content then, Lady Shinano. We shall clear the way forward for you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=First Transformation - V|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=First Transformation - V|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "Why... This body should be capable of so much more...!"<br>
 <span style="color:#ec5d53;">Tester：</span><br>
@@ -299,7 +299,7 @@ Reenactment concluded. I'm glad you came here, Shinano, but know this. Your acti
 (This fate... is too cruel.........)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Second Transformation - I|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Second Transformation - I|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Her eyes opened, and a familiar scenery spread out before her. Upon the ceremonial site of the Diadem of Light she stood.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -330,7 +330,7 @@ But... Lady Akagi and Mikasa should have taken care of all the enemies, so... wh
 It's still too dangerous to go outside, though. Foo said that it's better to wait here until we can get a battle report... Um, Lady Shinano?!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Second Transformation - II|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Second Transformation - II|选项=11|主框=1|样式=primary|展开=是}}
 <br>
 In the night, gossamer sheets of blue silk fluttered towards the flames burning upon the ocean's surface.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -367,7 +367,7 @@ Hehe, now we'll be able to turn the tides! Lady Shinano, show our enemies the po
 "...Very well."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Second Transformation - III|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Second Transformation - III|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kinu：</span><br>
 Damn it... Is this the best we can do...?!<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
@@ -396,7 +396,7 @@ Behold, ye cruel gods... this is the power of my love! I shall bring ruin to eve
 Akagi! Watch out!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Second Transformation - IV|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Second Transformation - IV|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 Immense powers collided, and the resultant burst of light engulfed both assailant and protector alike.<br>
 Despite the assailant's tremendous power, she fell to her knees, and the battle was decided.<br>
@@ -422,7 +422,7 @@ Even should this body sink to the bottom of the seas... or be forever wreathed i
 I won't permit... anyone... to get in the way of my love!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Second Transformation - V|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Second Transformation - V|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:182}：</span><br>
 (...Akagi...)<br>
 (That black light... that black box...... Is calamity itself...)<br>
@@ -447,7 +447,7 @@ Ahahaha!! ...Even you're trying to lecture me? You've been hiding away all this 
 (...from the dream of ruination that I saw—)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Transformation - I|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Transformation - I|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:182}：</span><br>
 (I can hear the sound of the waves... But the ocean...)<br>
 (...stings with the stench of rust, and the frigid wind bites at my skin... This nightmare...)<br>
@@ -482,7 +482,7 @@ I've given it some elbow grease, but I'll just have to make do.<br>
 (...Their rigging is worn, weathered. As if they haven't been repaired for ages... Just what is going on...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Transformation - II|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Transformation - II|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chiyoda：</span><br>
 Chitose!!<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
@@ -540,7 +540,7 @@ Ready to assist at any time.<br>
 Good. Sakura Empire fleet, the operation begins now! Set sail!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Transformation - III|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Transformation - III|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kumano ：</span><br>
 We haven't encountered a whole lot of enemies so far.<br>
 <span style="color:#4eb24e;">Kii：</span><br>
@@ -567,7 +567,7 @@ I've lost contact with several of the Eagle Union fleets. Trying to confirm the 
 Stay alert, and don't let your guard down.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Transformation - IV|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Transformation - IV|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kii：</span><br>
 Do you feel that? It's giving me the chills... The enemy's main fleet will be coming soon.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -611,7 +611,7 @@ Lady Shinano, I'm entrusting you with activating our "trump card" when the time 
 "......Very well."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Transformation - V|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Transformation - V|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 The enemy swelled like the tide itself.<br>
 <span style="color:#4eb24e;">{namecode:182}：</span><br>
@@ -641,7 +641,7 @@ They're aiming for Watatsumi! Lady Shinano, prepare yourself...!<br>
 (I shall fight... Until my soul is spent...!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Third Transformation - VI|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Third Transformation - VI|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 ————<br>
 Pummelled by a hail of cannonfire, the steel colossus finally reels, staggered for the first time.<br>
@@ -668,7 +668,7 @@ But the flames of resistance flickered in the storm and sputtered out. Be it aft
 (Where is the missing fragment...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fourth Transformation - I|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fourth Transformation - I|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:182}：</span><br>
 (...Where am I...? Is this the ocean... of yet another dream...?)<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -679,7 +679,7 @@ But the flames of resistance flickered in the storm and sputtered out. Be it aft
 (The fate that called this "Shinano" into existence...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fourth Transformation - II|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fourth Transformation - II|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:128}：</span><br>
 Lady Shinano... Lady Shinano? What a sleepyhead you are~<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -703,7 +703,7 @@ The Eagle Union will be in for a shock when they see you!<br>
 (Alas... this is but another dream...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fourth Transformation - III|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fourth Transformation - III|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (This world is also different from any other that I have known...)<br>
 (There is no Watatsumi. No ritual. Yet I exist, though I cannot tell whether I am a ship... or a human...)<br>
@@ -754,7 +754,7 @@ Lady Shinano?<br>
 "You'll get ambushed by a wolfpack... Hurry... Avoid them..."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fourth Transformation - IV|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fourth Transformation - IV|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Yukikaze：</span><br>
 There's no way the enemy subs can keep up with Yukikaze the Great's speed! As long as we keep this up, we'll be done here in no time!<br>
 <span style="color:#4eb24e;">Isokaze：</span><br>
@@ -782,7 +782,7 @@ Let's see... Actually, I can't even tell. We might already be surrounded...<br>
 (Is that not the voice I heard in the previous dream? What is going on...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fourth Transformation - V|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fourth Transformation - V|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 "I'm flooding... Even with the defenses of an armored carrier... How could this be..."<br>
 <br>
@@ -798,7 +798,7 @@ KABOOM——!!<br>
 (What must I do... so that I may change this future...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - I|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - I|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{namecode:182}：</span><br>
 (The warm sunlight... The sound of birds chirping... The gentle aroma of the free-flowing wind...)<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -827,7 +827,7 @@ I still need to call the others... so I'll be off now...<br>
 (A dream where the Eagle Union and the Sakura Empire are friends? ...What am I seeing...?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - II|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - II|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (Over there... is that...)<br>
 <span style="color:#4eb24e;">Kii：</span><br>
@@ -866,7 +866,7 @@ What's the big deal? We've got plenty of time.<br>
 "Ah, yes... I did have something to attend to... My apologies..."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - III|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - III|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (I almost got swept up by the craziness... but at least I managed to make it out...)<br>
 (There is a warmth to this world... that I have never experienced before... Why...)<br>
@@ -908,7 +908,7 @@ Makes sense, right? Besides, you look like you hit your head on the way here, so
 (I understand... nothing at all...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - IV|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - IV|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 Shinano arrived at a building that appeared to be a workshop.<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
@@ -952,7 +952,7 @@ By the way, were you about to go see the Commander, nya? You see, I have this br
 Huh? Did Shinano just disappear into thin air, nya??<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - V|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - V|选项=30|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 (No titanic enemies... No threats... No conflicts...)<br>
 (...and no Crimson Axis... Nay, this is a peaceful world in which even Azur Lane is rendered unnecessary...)<br>
@@ -1004,7 +1004,7 @@ You look a bit worried. Hehe~<br>
 Come with me then. Surely what you're looking for lies ahead.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - VI|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - VI|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 Outside Port - Exercise Area<br>
 <span style="color:#4eb24e;">Kii：</span><br>
@@ -1019,7 +1019,7 @@ Just remember, we can never underestimate the commander's fleet.<br>
 Lady Shinano! The fleet awaits your command!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - VII|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - VII|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 (Yes, Isokaze, go...)<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -1034,7 +1034,7 @@ That may be the case, but letting our general draw all the fire is a risky strat
 Sure thing. I can't let Suruga have a better record than me!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - VIII|选项=33|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - VIII|选项=33|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Laffey：</span><br>
 Shinano, over here...<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -1067,7 +1067,7 @@ Of course. Allow me to demonstrate...<br>
 ...what it means to exist. In this port. No, in this world itself—<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Fifth Transformation - IX|选项=34|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Fifth Transformation - IX|选项=34|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chiyoda：</span><br>
 A submarine fleet is approaching us from the east! They're sending planes at us too!<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
@@ -1095,7 +1095,7 @@ And please take good care of Akagi and Kaga.<br>
 (...will be more than just a dream...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dreamwaker's Opus - I|选项=35|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreamwaker's Opus - I|选项=35|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kii：</span><br>
 Shinano, are you awake?<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -1148,7 +1148,7 @@ Fates converge, and journeys end. Let us return home at last...<br>
 Huh? Oh, yeah!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dreamwaker's Opus - II|选项=36|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreamwaker's Opus - II|选项=36|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Chitose：</span><br>
 I'm honored to have accompanied you on your voyage, Lady Shinano.<br>
 <span style="color:#4eb24e;">Chiyoda：</span><br>
@@ -1196,7 +1196,7 @@ I'm not the type to act on a whim, but we can never be too careful when it comes
 (...Give me the power to change this dream... Nay, this "Reenactment!")<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dreamwaker's Opus - III|选项=37|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreamwaker's Opus - III|选项=37|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Kumano ：</span><br>
 Woahhh... Not only did she predict that a Mirror Sea would appear here, she even knows where all the enemies are coming from...!<br>
 <span style="color:#4eb24e;">Suzutsuki ：</span><br>
@@ -1219,7 +1219,7 @@ Soon... Tester's fleet will arrive.<br>
 If we can take out her command module...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dreamwaker's Opus - IV|选项=38|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreamwaker's Opus - IV|选项=38|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tester：</span><br>
 Converted Yamato-class hull, armored aircraft carrier Shinano. You were built to represent the hope of the Sakura Empire, but your actual performance... is hardly worthy of even being considered data.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
@@ -1241,7 +1241,7 @@ I won't retreat if it's a fight you want. After all—For the sake of my friends
 I shall fight until my soul's duty is fulfilled...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dreamwaker's Opus - V|选项=39|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreamwaker's Opus - V|选项=39|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
 Suzutsuki, Hanazuki, watch out for the subs—<br>
 <span style="color:#4eb24e;">{namecode:27}&{namecode:29}：</span><br>
@@ -1262,7 +1262,7 @@ Got it! Heh, being able to hunt down a strong enemy like this really feels aweso
 Everyone, lend me your powers once more...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Dreamwaker's Opus - VI|选项=40|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Dreamwaker's Opus - VI|选项=40|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Tester：</span><br>
 Armor damaged, energy supply damaged. Critical error in the young program—<br>
 Transmitting test data to the intermediate program. A phenomenon similar to but independent from Cognitive Awakening has been observed. Noting possibility of errors within the computation system.<br>
@@ -1302,7 +1302,7 @@ Let us hear your words! Bring us home, haha!<br>
 ...Let us return home at last, to the Sakura Empire—<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Divine Relic|选项=41|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Divine Relic|选项=41|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Sakura Empire's main island...<br>
 <span style="color:#ec5d53;">Akagi：</span><br>
@@ -1331,7 +1331,7 @@ In any case, I'll leave that child alone. Consider what happened with Tester... 
 Don't expect this arrangement to last long... Once my plans come to fruition...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Descent|选项=42|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Descent|选项=42|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Purifier：</span><br>
 Took you long enough, Observer. What's the matter, run into trouble~?<br>
 <span style="color:#ec5d53;">Observer：</span><br>

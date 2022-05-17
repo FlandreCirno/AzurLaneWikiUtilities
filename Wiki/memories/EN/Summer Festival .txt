@@ -1,6 +1,6 @@
 == Summer Festival  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Prepare for the Festival! |选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Prepare for the Festival! |选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Summer Festival<br>
 <br>
@@ -62,7 +62,7 @@ Yeah!<br>
 And so it was, that after a period of intense, grueling preparation, the port was at last ready for its annual summer festival.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Enjoy for the Festival! |选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Enjoy for the Festival! |选项=2|主框=1|样式=primary|展开=是}}
 <br>
 Summer Festival<br>
 <br>

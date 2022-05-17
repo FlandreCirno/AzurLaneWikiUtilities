@@ -1,6 +1,6 @@
 == Northern Overture  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Overture|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Overture|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 Don't you think snow is such a strange thing?<br>
 The snow may melt, and it may freeze. It may become soft, like flowing water, or hard, like adamant ice.<br>
@@ -27,7 +27,7 @@ Haha, you're in a pretty good mood too, Pamiat.<br>
 Of course I am! I'm all fired up too! Anyway, let's get going~!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Joint Operation|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Joint Operation|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 As the fleet approached the Aleutian defense line, the clouds which had blocked the skies for months suddenly parted, the water shimmering under the sun's bright glow.<br>
 According to the Naval Headquarters, the clement weather would only last for a few short hours, but from our perspective, it was as if the Bering Sea was welcoming us.<br>
@@ -78,7 +78,7 @@ That's why we're here right now~ Well, us, and a few others. Cleveland's group l
 Commander, we must seize victory here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gathering|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Gathering|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 After sailing a bit further, the fleet reached the naval base at the Aleutian defense line.<br>
 <span style="color:#4eb24e;">Avrora：</span><br>
@@ -135,7 +135,7 @@ Our other comrades will link up with us after they get here.<br>
 You know... nothing creeps me out more than when the Sirens are sitting there *not* doing anything...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Surveillance|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Surveillance|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">South Dakota：</span><br>
 ...It's too quiet. There's nothing wrong with my SK-2 radar... but undeniably, the enemy stronghold is right in front of us. Seeing a battlefield this calm is giving me goosebumps...<br>
 <span style="color:#4eb24e;">Pamiat Merkuria：</span><br>
@@ -165,7 +165,7 @@ Good, I was afraid things would be too boring! Let's kick down their front door,
 Be careful, everyone! We're about to enter their defensive perimeter!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Perimeter Sweep|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Perimeter Sweep|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Columbia：</span><br>
 The enemy's response has stopped for now, so we can catch our breath now~<br>
 <span style="color:#4eb24e;">South Dakota：</span><br>
@@ -193,7 +193,7 @@ Now that's what I want to hear!<br>
 Let's do this! No matter how strong their defenses are, all we have to do is keep beating them back!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Incursion|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Incursion|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Eagle Union task force is steadily making its way towards the Siren stronghold.<br>
 Though the Sirens' counterattacks slowly grow stronger, they still pose no actual threat to the Eagle Union's ships.<br>
@@ -217,7 +217,7 @@ They may have experience, but their supplies are dwindling, and apparently they 
 Now if you don't mind, I shall join the Commander's convoy. Vanguard fleet, please be on your guards.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A New Foe|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=A New Foe|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Columbia：</span><br>
 Hey, you know what that thing is? The purple glowing one?<br>
 <span style="color:#4eb24e;">Montpelier：</span><br>
@@ -234,7 +234,7 @@ Did you forget your glasses at home? That's obviously a Siren!<br>
 The Sirens must've kept this secret weapon in their stronghold... Be careful, everyone! We don't know what to expect!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breakthrough|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breakthrough|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Columbia：</span><br>
 That looks like the last of them. Good job, folks!<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -256,7 +256,7 @@ What she said. I mean, you've not had any trouble fighting what we've seen so fa
 Ain't that right! We can always fall back later if they turn out to be too much!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Ad Infinitum|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Ad Infinitum|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Be it the Royal Navy's tale of Dagda's inexhaustible cauldron or the Sakura Empire's legend of the Dragon King's bottomless rice bag, from all around the world there are stories of objects which produce endless quantities of things.<br>
 Similarly, one could describe the number of Sirens emerging from within and around the stronghold as endless.<br>
@@ -290,7 +290,7 @@ Well look at you, aren't you a real strategizer!<br>
 Guess I'll rev up the ol' engine and help too. I can't promise you I'll kick much Siren butt at all, but it's better than me doing nothing, right?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Leadership|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Leadership|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Hornet：</span><br>
 All right, we should be safe here. Just gotta deal with the ones that're coming after us!<br>
 <span style="color:#4eb24e;">Columbia：</span><br>
@@ -305,7 +305,7 @@ I could've sworn I just heard someone talking about me...<br>
 Oh, um, ahaha! Just thinking out loud!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Aegis|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Aegis|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cleveland：</span><br>
 A humanoid Siren is coming our way!<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -349,7 +349,7 @@ This about confirms that the Sirens in the Bering Sea are not like what we've fo
 '''''<span style="color:black;">选择项1：Everyone, steer clear of this new weapon at all costs!</span>'''''<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Countermeasures|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Countermeasures|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Montpelier：</span><br>
 Son of a... Now we've also gotta keep an eye out for that new weapon they have.<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -385,7 +385,7 @@ Rapidly... until everything goes black...<br>
 ...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Isolated by Ice|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Isolated by Ice|选项=13|主框=1|样式=primary|展开=是}}
 <br>
 Waters around Siren stronghold - Eagle Union Task Force<br>
 <span style="color:#4eb24e;">Columbia：</span><br>
@@ -447,7 +447,7 @@ The good news will have to wait, it seems. First we must get out of harm's way o
 We need someone to command us, so... Do your thing!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Arctic Fleet|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Arctic Fleet|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 Our battle with the Sirens continues...<br>
 <span style="color:#4eb24e;">Pamiat Merkuria：</span><br>
@@ -481,7 +481,7 @@ What I saw was not reinforcements from the Eagle Union...<br>
 But rather the full might of the Northern Parliament which had long been locked in conflict with the Sirens.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Waves of Cold Steel|选项=15|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Waves of Cold Steel|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Minsk：</span><br>
 How's that for a timely entrance!<br>
 <span style="color:#4eb24e;">Tashkent：</span><br>
@@ -506,7 +506,7 @@ Leave it to us... Comrades of the Northern Parliament, break their ranks!!<br>
 Ура！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Storm of the Revolution|选项=16|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Storm of the Revolution|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
 Press forward! Beat them back!<br>
 <span style="color:#4eb24e;">Chapayev：</span><br>
@@ -571,7 +571,7 @@ Under the provisions of our joint operation, the fleet of the Northern Parliamen
 That's correct, comrade. This operation is not over yet. I hope you will wield our power effectively.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Northern Battle|选项=17|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Northern Battle|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
 Kill confirmed! None may stand before the might of the Northern Parliament!<br>
 <span style="color:#4eb24e;">Tashkent：</span><br>
@@ -617,7 +617,7 @@ It's decided then. I'll be counting on you~<br>
 Let's trust our friends' judgment.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Taste of the North|选项=18|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Taste of the North|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 Perhaps because of the efforts lead by Saratoga's group, fewer Sirens were coming at us than expected.<br>
 Ideally, we'd be able to join forces before launching our main offensive against the Siren stronghold...<br>
@@ -650,7 +650,7 @@ It's a classic. Nothing beats vodka for staving off the cold. Of course, you're 
 ...What an eccentric bunch.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Hot and Cold|选项=19|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Hot and Cold|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Tashkent：</span><br>
 (Staaaaare...)<br>
 <br>
@@ -683,7 +683,7 @@ You see, everyone treats me pretty well, but I don't really have anyone to talk 
 ...Then, come talk to me next time.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Breach|选项=20|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Breach|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Near the Siren stronghold - Eagle Union fleet<br>
 <span style="color:#4eb24e;">Hornet：</span><br>
@@ -704,7 +704,7 @@ I agree. How about you, Saratoga?<br>
 We don't have any other choice... Let's hurry up and get going!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Reunion|选项=21|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Reunion|选项=21|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gangut：</span><br>
 Ahahaha! Behold the glory of our revolyutsiya!<br>
 <span style="color:#4eb24e;">Minsk：</span><br>
@@ -755,7 +755,7 @@ Why are you saying that like you're proud of it?!<br>
 Seriously, I'm sorry!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Coordinates Confirmed|选项=22|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Coordinates Confirmed|选项=22|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gangut：</span><br>
 Ahahaha! That's the spirit, Eagle Union carrier! Today's a fine day for getting a good workout!<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -782,7 +782,7 @@ The Sirens found out about our anti-jamming and is intensifying their disruption
 Here you go! As long as we have the coordinates, we'll still be able to join up with the rest of our comrades!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Stronghold Siege|选项=23|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Stronghold Siege|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 Later, at the Siren stronghold<br>
 Little could impede the progress of the Northern Parliament's fleet as it plunged deeper into the Siren stronghold.<br>
@@ -814,7 +814,7 @@ Right, our objective is still the same. We just have to take down this stronghol
 We are under your command, comrade.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Spawn of Evil|选项=24|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Spawn of Evil|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
 ...Understood. Our rendezvous coordinates are...<br>
 There's a message from Kirov. She's successfully joined up with the Eagle Union fleet and is making her way here.<br>
@@ -858,7 +858,7 @@ All the Siren forces are congregating around us! Commander, at this rate...<br>
 Our lives are in your hands, Commander!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Interception|选项=25|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Interception|选项=25|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Commander spotted! Saratoga's making her grand entrance!<br>
 <span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
@@ -893,7 +893,7 @@ Northern Parliament Combined Fleet, prepare for battle! Give these Sirens a tast
 Let's go!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Omitter|选项=26|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Omitter|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">？？？：</span><br>
 The enemies have come to challenge me... and these insects have embraced evil... How ignorant, how foolish!<br>
 What they shall find at the core, Deus ex Machina, shall put an end to their journey!<br>
@@ -952,7 +952,7 @@ She's coming at us!<br>
 Everyone, be on your guard!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Full Assault|选项=27|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Full Assault|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Omitter：</span><br>
 Futile, futile, futile! I built this stronghold, and I won't let you beat me in my own castle!<br>
 Ahahaha! That's it, that's it! I feel like my potential is limitless! Is this the excitement that Tester is so drawn to?!<br>
@@ -977,7 +977,7 @@ In other words, quantity over quality! That's fine by me, I have all the ammunit
 That's right! Keep pummeling away at this stronghold!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Collapse|选项=28|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Collapse|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Omitter：</span><br>
 They're still fighting back...?!<br>
 However, the horn of the apocalypse has sounded, and the wheel of fate continues to turn...<br>
@@ -1011,7 +1011,7 @@ At least, that's what I thought...<br>
 Comrade, could I ask you to stay with the Northern Parliament for a bit longer?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=For a Brighter Future|选项=29|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=For a Brighter Future|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 Years ago, in the Northern Parliament...<br>
 <span style="color:#4eb24e;">Avrora：</span><br>
@@ -1026,7 +1026,7 @@ Here is the "cube" that is capable of storing human emotion...<br>
 ...Let's begin, for the future of the Northern Parliament.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Unbreakable Bonds|选项=30|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Unbreakable Bonds|选项=30|主框=1|样式=primary|展开=是}}
 <br>
 Somewhere in the Northern Parliament... <br>
 <span style="color:#4eb24e;">Sovetskaya Rossiya：</span><br>
@@ -1069,7 +1069,7 @@ The deliberate and dignified words she spoke seemed to echo directly into my min
 "Commander, would you join the Northern Parliament?"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Final Overture|选项=31|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Final Overture|选项=31|主框=1|样式=primary|展开=是}}
 <br>
 Days later, NY City<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
@@ -1100,7 +1100,7 @@ Enterprise, did you say something?<br>
 No... (What was that... just now?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Decryption|选项=32|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Decryption|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Minsk：</span><br>
 Comrade, welcome to the Intelligence Division of the Northern Parliament! Hehe, it's a super fun place to be!<br>
 Actually, this is where we decrypt all the intel you've collected. We send the results straight to the top brass.<br>

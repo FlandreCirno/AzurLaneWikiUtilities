@@ -1,6 +1,6 @@
 == Chapter 3 - Labyrinthine Sea ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Detached Force|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Detached Force|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean - Sector under Eagle Union jurisdiction<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -31,7 +31,7 @@ Well, investigate as much as we can. Our primary goal is to secure this zone.<br
 We'll find the Iron Blood fleet sooner or later, and when we do, we can ask them what their intentions are.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=TB Systems Test|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=TB Systems Test|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Communications request from Saratoga received. An encrypted channel is ready to be established. What do you wish to do?<br>
 <span style="color:#4eb24e;">Intrepid：</span><br>
@@ -63,7 +63,7 @@ Hmm... I still have my doubts about whether TB truly is an AI or not, but I can 
 We can speculate more on that later. For now, let's focus on wiping out these low-level Sirens. We can't let Enterprise put our task force to shame!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Iron Blood's Movements|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Iron Blood's Movements|选项=3|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Intrepid：</span><br>
 Hmm... I can't complain about being served an easy victory on a silver platter, but... it feels TOO easy.<br>
 You'd think we'd have run into a new Siren this deep into their territory, or at least come across a force that poses some semblence of a threat.<br>
@@ -98,7 +98,7 @@ You gotta hand it to TB though. It's incredible how much data she can fetch and 
 It is my duty to provide analysis and facilitate communication upon a user's request. I am glad to be of assistance.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Allied Activity?|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Allied Activity?|选项=4|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Scan complete. An allied signal has been detected. Profile matches that of Ark Royal of the Royal Navy.<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -111,7 +111,7 @@ Scanning... Complete. No other signals have been detected. Only the signal match
 So it's only her... Something's not right here. Let's send out a few recon planes to keep an eye on her.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Jamming|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Jamming|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Scan complete. Unit identified as Ark Royal is being pursued by a large number of hostiles.<br>
 Warning: Connection to mainframe has been lost. Resuming in offline mode.<br>
@@ -136,7 +136,7 @@ In that sense, yeah. When things work TOO smoothly, you get complacent, and that
 Yeah, let's go! We can catch up with Cleveland's fleet later; Ark Royal needs help, and quick!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Relief|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Relief|选项=6|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cooper：</span><br>
 Hey, Cleveland! There's even more Siren wrecks here!<br>
 <span style="color:#4eb24e;">Cleveland：</span><br>
@@ -149,7 +149,7 @@ True that... What's even weirder is, she's not showing up on radar.<br>
 Let's look around a little more, maybe we'll find some answers! Be on your guards, guys!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Suspicions|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Suspicions|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cleveland：</span><br>
 Yikes, looks like someone had a real beef with this Siren device.<br>
 <span style="color:#4eb24e;">Montpelier：</span><br>
@@ -201,7 +201,7 @@ While we're at, we should ask for new orders. We're kinda just speculating right
 Everyone ready? Let's go find the Commander!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Weather Task Force|选项=8|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Weather Task Force|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Intrepid：</span><br>
 ...What? Investigating the weather, of all things?<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
@@ -225,7 +225,7 @@ System rebooting... Complete. Jamming has ceased. Wide-area scan revealed no abn
 Look at that, TB is back online! All right, let's continue with securing this zone so we can come to Cleveland's aid at any time.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Phantoms|选项=9|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Phantoms|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Numerous hostiles have been detected. Proceed with caution.<br>
 <span style="color:#4eb24e;">Intrepid：</span><br>
@@ -256,7 +256,7 @@ Don't get me wrong, it's better than the alternative, but I'm worried that they 
 ...Anyway, let's get back to our objective: reclaiming the zone, then searching around for the source of this jamming.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Arbiter|选项=10|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Arbiter|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB ：</span><br>
 Communications request received. Its sender could not be identified.<br>
 <span style="color:#4eb24e;">Essex：</span><br>
@@ -324,7 +324,7 @@ It's not your fault, TB. Besides, it's not the first time we've been in this sor
 We'll be fine, don't worry. Now let's show these Sirens what we're really made of!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Backup|选项=11|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Backup|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Intrepid：</span><br>
 A new type of Siren...!<br>
 <span style="color:#4eb24e;">Shangri-La：</span><br>
@@ -358,7 +358,7 @@ We'll draw their fire. Carriers, fall back and try to provide support with your 
 Got it! We're counting on you!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Precise Measurements|选项=12|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Precise Measurements|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#ec5d53;">Arbiter: Temperance XIV：</span><br>
 It seems a lone Enforcer will not suffice. Then let us add another...<br>
 <span style="color:#ec5d53;">？？？：</span><br>
@@ -391,7 +391,7 @@ Either way, we can't get careless. South Dakota, follow us to the planned spot f
 Once we establish an Outpost and gain a foothold in this zone, we'll be able to repair our electronics. We just have to keep going until then.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Focused Offensive|选项=13|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Focused Offensive|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Essex：</span><br>
 Here it is, the place we're going to build the Outpost. We're getting pretty near the center of the NA Ocean now.<br>
 If we can also set up a supply base here, it should make it a lot easier to sustain an offensive on the Sirens' stronghold.<br>
@@ -425,7 +425,7 @@ I'm not sure which of those two is more accurate, but maybe the latter. The Sire
 Speculate in your spare time, you two! Focus! We still need to clear this zone of Sirens and establish the Outpost!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Rest|选项=14|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Rest|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 NA Ocean SW Sector - Outpost construction site<br>
 <span style="color:#4eb24e;">Memphis：</span><br>

@@ -1,6 +1,6 @@
 == The Royal Knight  ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Wake Up, Your Majesty!|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Wake Up, Your Majesty!|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>
@@ -46,7 +46,7 @@ Right then, I shall gladly take on the training of the Royal Navy!<br>
 Becoming a proper warrior is no easy task. Steel yourselves, girls!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Secretary Ship's Work|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Secretary Ship's Work|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>
@@ -77,7 +77,7 @@ I can't believe I've made such a base mistake! I'll get to cleaning this up stra
 (M-maybe I should have just asked the Commander for help in the first place.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Speed of the Grand Old Lady|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Speed of the Grand Old Lady|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>
@@ -121,7 +121,7 @@ No, it was my fault as well. I shouldn't have been running down the corridor.<br
 (Aie...! I'd better go get another copy... Her Majesty won't mind if I'm a bit late...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=After the Exercise...|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=After the Exercise...|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>
@@ -166,7 +166,7 @@ Indeed. Farewell.<br>
 (And with that, my training assignment has come to an end, giving me a chance to rest a bit... I'll have to go enjoy the banquet with the girls. After I find out what Her Majesty wants, of course.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Small Things|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Small Things|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>
@@ -216,7 +216,7 @@ Now then, let's start with my commissioning. I was first assigned to the Second 
 (I suddenly find myself feeling quite cheerful..)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Her Majesty's Attentions|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=Her Majesty's Attentions|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>
@@ -260,7 +260,7 @@ Forgive my tardiness, Your Majesty. I was delayed by some affairs beyond my cont
 (And yet, Her Majesty's words continue to weigh upon me...)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The Guardian Sword|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=The Guardian Sword|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 The Royal Knight<br>
 <br>

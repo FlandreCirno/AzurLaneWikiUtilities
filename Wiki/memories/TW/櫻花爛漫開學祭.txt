@@ -1,6 +1,6 @@
 == 櫻花爛漫開學祭 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=「遲到了遲到了！」|选项=1|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=「遲到了遲到了！」|选项=1|主框=1|样式=primary|展开=是}}
 <br>
 新一年的春風造訪了港區，昭示著「新學期」的開始<br>
 <br>
@@ -45,7 +45,7 @@
 是……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=操場上的問題兒童們|选项=2|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=操場上的問題兒童們|选项=2|主框=1|样式=primary|展开=是}}
 <br>
 櫻花爛漫開學祭<br>
 <br>
@@ -96,13 +96,13 @@ Z～～1～～前～～輩！<br>
 嗚——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=秘密的午餐時光|选项=3|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=秘密的午餐時光|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 櫻花爛漫開學祭<br>
 <br>
 三 秘密的午餐時光<br>
 午餐時間，學院廣場的某個角落<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 呼…總算可以放鬆一下了…<br>
 嗚…肩膀酸痛…<br>
 小熊小熊，妳看～<br>
@@ -112,7 +112,7 @@ Z～～1～～前～～輩！<br>
 <br>
 '''''<span style="color:black;">选择项1：打聲招呼</span>'''''<br>
 '''''<span style="color:black;">选择项2：在一旁微笑守候</span>'''''<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 一起享受美好的午餐時刻吧，小熊。我開動了——<br>
 嗚哇！<br>
 指、指揮官？！什、什麼時候開始在那裡的！？<br>
@@ -120,26 +120,26 @@ Z～～1～～前～～輩！<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项3：和小熊說話的時候</span>'''''<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 哇哇哇哇！你、你一定是聽錯了！我、我才沒有和小熊說話…<br>
 嗚嗚…只是在教室感覺大家都會不自覺的注意到那裡…<br>
 說到“肩膀酸痛”什麼的又會遭遇微妙的目光…特別是驅逐們…<br>
 我也不是自己想要這麼大的啊！<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 要自信一點？這是我的優點？<br>
 也、也就指揮官會這麼說了…<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">火奴鲁鲁：</span><br>
+<span style="color:#4eb24e;">火奴魯魯：</span><br>
 一起吃午飯？既、既然你這麼誠心誠意的請求了…<br>
 我就勉為其難跟你分享一下海倫娜的便當好了——<br>
 <br>
 和火奴魯魯一起度過了一段愉快的午餐時光……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=圖書室的妖精|选项=4|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=圖書室的妖精|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 櫻花爛漫開學祭<br>
 <br>
@@ -170,27 +170,27 @@ Z～～1～～前～～輩！<br>
 <br>
 '''''<span style="color:black;">选择项2：順著聲音悄悄靠近</span>'''''<br>
 '''''<span style="color:black;">选择项1：順著聲音狂奔過去</span>'''''<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''哇！哇哇！！<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''貝法那傢伙…明明我才是姐姐…<br>
 '''''<span style="color:black;">（选择项2）</span>'''''話說今天愛看書的驅逐們怎麼還沒來呢——<br>
 '''''<span style="color:black;">（选择项2）</span>'''''哇！哇哇！！<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 原來是指揮官啊…不要嚇我啦……啊糟了——<br>
 <span style="color:#4eb24e;">克雷文：</span><br>
 原來妖精是愛丁堡呀~<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 太、太好了…不是什麼可怕的東西…<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 嗚嗚對不起…我只是一時覺得有趣…<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">爱丁堡：</span><br>
+<span style="color:#4eb24e;">愛丁堡：</span><br>
 要、要跟貝法報告？唯有這點請放過我嗚嗚——<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=空教室的不可思議|选项=5|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=空教室的不可思議|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 櫻花爛漫開學祭<br>
 <br>
@@ -204,11 +204,11 @@ Z～～1～～前～～輩！<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：推開教室的門</span>'''''<br>
-<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+<span style="color:#4eb24e;">埃爾德里奇：</span><br>
 嗯…？指揮…官？<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+<span style="color:#4eb24e;">埃爾德里奇：</span><br>
 埃爾德里奇…沒有搗亂……<br>
 只是喜歡在沒人的教室…待著…<br>
 但是喵喵…經常把書本弄得好亂…指揮官？<br>
@@ -216,13 +216,13 @@ Z～～1～～前～～輩！<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：幫忙收拾書本</span>'''''<br>
-<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+<span style="color:#4eb24e;">埃爾德里奇：</span><br>
 謝謝指揮官…喵喵…也要道謝哦<br>
 <br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：學校有趣嗎？</span>'''''<br>
-<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+<span style="color:#4eb24e;">埃爾德里奇：</span><br>
 在學校，沒有在指揮官身邊，有趣…<br>
 不過學校裡，大家都喜歡看埃爾德里奇放電……埃爾德里奇，很高興！<br>
 指揮官，要和埃爾德里奇…一起聽歌嗎？<br>
@@ -231,7 +231,7 @@ Z～～1～～前～～輩！<br>
 和埃爾德里奇還有喵喵一起度過了一段療癒的時間……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=放學後的特別輔導|选项=6|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=放學後的特別輔導|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 櫻花爛漫開學祭<br>
 <br>
@@ -269,7 +269,7 @@ Z～～1～～前～～輩！<br>
 欸<nowiki>~~~~~~~</nowiki><br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=新學年的開始|选项=7|主框=1|样式=primary|展开=否}}
+{{折叠面板|标题=新學年的開始|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 櫻花爛漫開學祭<br>
 <br>
