@@ -1,0 +1,1849 @@
+== 鏡位螺旋  ==
+{{折叠面板|开始}}
+{{折叠面板|标题=歸途|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+以中心區域的攻略成功為標誌，大型作戰的進攻階段終於告一段落。<br>
+雖然風暴沒有完全消散，但塞壬再也沒能組織起成規模的有效反擊。<br>
+與仲裁機關交戰的詳細紀錄已經送至了指揮部，距離完成分析還需要一段時間吧…<br>
+雖然很想就這樣直接放個長假，不過在NA海域之外多處海域的塞壬都趁機擴張了控制範圍。<br>
+在事態進一步惡化之前，還是儘早消除隱患比較好…<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，艦隊正在接近PH港，周邊情況一切正常。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+水下也沒有異常情況哦~<br>
+等入港之後我要大吃好幾頓然後再大睡好幾天，以彌補我這一路上疲憊的身體與心靈！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+這次真是一次遙遠的旅程啊，指揮官。<br>
+<br>
+是啊…從NA海域到PH港，真是一場漫長的旅途。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+是什麼是啊！我們這次可是大戰之後的凱旋而歸，本來不用那麼著急吧！<br>
+比如好好休息一段時間，或者在沿途旅旅遊什麼的…<br>
+可是某個工作狂…居然就這麼毫不停歇的筆直返回了PH港！真是難以置信…<br>
+<br>
+'''''<span style="color:black;">选择项1：辛苦了！回到港區之後請妳吃大餐！</span>'''''<br>
+'''''<span style="color:black;">选择项2：現在各地局勢都不穩固，我們不能因為一場戰鬥的勝利就…</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''真的嗎？吃什麼都可以？指揮官全部報銷？！<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''全部報銷！<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''海倫娜妳聽到了嗎，指揮官說回去可以讓我們隨便吃大餐而且全部報銷哎！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸…我，我們嗎？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''對呀，我們哦~回去不用客氣，叫上所有姐妹們一起吃吧！<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''呃————<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''指揮官，您這次急於返回PH港是為了盡快投入新的工作中吧。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我們都理解哦，所以一路上就算再辛苦也毫無怨言的跟您一起完成了任務。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這麼認真帥氣又負責的指揮官，我們姐妹們都超尊敬您的！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''所以——如此令人尊敬的人，自己說出口的話可不會突然反悔吧~？<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一言為定…<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嘿嘿，好耶~！<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯嗯嗯，我懂！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''指揮官，您這次急於返回PH港是為了盡快投入新的工作中吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我們都理解哦，所以一路上就算再辛苦也毫無怨言的跟您一起完成了任務。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''這麼認真帥氣又負責的指揮官，我們姐妹們都超尊敬您的！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''只是…疲勞如果積累下去的話也會影響工作效率的嘛~<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''有道理…回去之後請大家好好吃一頓好了。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''真的嗎？！吃什麼都可以？！指揮官全部報銷？！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''全部報銷！<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''海倫娜妳聽到了嗎，指揮官說回去可以讓我們隨便吃大餐而且全部報銷哎！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎…我，我們嗎？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''對呀，我們哦~回去不用客氣，叫上所有姐妹們一起吃吧！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''呃————<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯？如此令人尊敬的指揮官，自己說出口的話可不會突然反悔吧~？<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''一言為定…<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘿嘿，好耶~！<br>
+<br>
+回到PH港之後，無論如何也要大出血了啊…<br>
+當然，這都是她們應得的。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+識別編號認證完畢，前方海域將為您開啟。<br>
+軍港重地，請沿著指定航道前行，切勿偏航與停留。<br>
+歡迎回家，指揮官。<br>
+<br>
+「螺旋，由自然選擇中誕生的穩定結構」<br>
+「捲曲與延伸構成了無限」<br>
+「變化與接納構成了可能性」<br>
+「無限與可能性構成了希望」 <br>
+「希望孕育了悲傷」<br>
+「在悲傷的盡頭，期望的結果終將到來嗎？」<br>
+「螺旋，真的只有一條嗎？」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=交接|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+PH港·指揮室<br>
+雖然有段時間沒有回來，但指揮室依舊被打掃得如往日般乾淨。<br>
+傢俱與佈置沒有改變，不過在裝飾細節上卻平添了許多變化——彰顯著這段時間內房間新主人的身份與喜好。<br>
+這一個是…紐澤西號的戰列艦模型嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+沒錯哦，很霸氣吧~！<br>
+這個模型是我以前無聊的時候做的，就當做臨別禮物留給你好了。<br>
+畢竟現在的我手下可是有一整支正品的量產型艦隊呢~<br>
+<br>
+咦，紐澤西？妳在啊。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+當然在啊，直到交接之前這裡還是我的房間呢！<br>
+咳…真是有段時間沒見了啊，指揮官。<br>
+<br>
+自從出發前的工作交接之後就沒再見了吧……真沒想到一下子離開了這麼久。 <br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+要是從並肩作戰的時間來算的話就更久了哦。<br>
+<br>
+'''''<span style="color:black;">选择项1：咦，我們有並肩作戰過嗎…？</span>'''''<br>
+'''''<span style="color:black;">选择项2：AF作戰中妳在後方為集結支援艦隊提供了很大幫助吧。</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''好過分啊，AF作戰那次我也出力了吧！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你想想，薩拉托加增援艦隊的調動，聖地牙哥司令部的支援！<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊，好像當時在聖地牙哥司令部坐鎮的就是紐澤西。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+唉…如果當時MK7完工的話我肯定直接衝到前線好好打一場了！<br>
+算啦~這種事硬要說成並肩作戰確實有點勉強，有機會的話真正合作一次吧~<br>
+<br>
+需要讓我們兩個戰區指揮合作才能解決的問題…必須是性質相當嚴重的情況啊。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+比如整個太平洋的塞壬發動全線進攻之類的？<br>
+<br>
+可千萬別…好不容易才暫時解決了NA海域的問題，如果現在來一波同等規模的戰役整個局面就難說了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+開玩笑啦~開玩笑！不過心情上是認真的！<br>
+…大型作戰的時候也沒叫上我，我也想去NA海域大鬧一場啊！<br>
+<br>
+嗯…？妳這次的調動不是前往NA海域接替我的工作嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+目前還未定，總之我要先返回NY司令部一趟。返回時間就定在今天交接完成之後。<br>
+對了，你剛才見到我一臉驚訝是什麼意思？！<br>
+<br>
+因為進來的時候沒看到人，所以…妳是從哪兒出來的？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+桌子下面。<br>
+<br>
+原來如此，是從桌子…下面？！<br>
+妳在桌子下面做什麼…？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+找東西…<br>
+<br>
+找………………什麼？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+交接紀錄本…（小聲）<br>
+<br>
+沒聽清是什麼…不過我也來幫妳一起找吧。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不用不用不用！就不用您費心了！您就去外面稍等一會兒，等我找到了就叫你！<br>
+<br>
+嗯，那我先出去等妳——<br>
+算了…來都來了，要不我們先在這裡做好交接吧？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+啊啊啊…（怎麼辦怎麼辦…）<br>
+<br>
+敲門聲——<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+打擾了。呵呵，雖然有段時間沒見，兩位的關係還是那麼要好呢。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+啊！提康妳來的正好！我跟妳說——<br>
+<br>
+紐澤西突然把提康德羅加拽到角落手舞足蹈的說了些什麼…真是的，性格還是這樣。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+原來如此。指揮官，接下來的交接儀式我已經安排在會議室了，請先和我一起過去吧，<br>
+紐澤西還有一些最後的收尾工作要處理，她隨後就到。<br>
+<br>
+沒問題。最後的工作啊…很認真呢。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嘿嘿，那麼一會兒會議室見囉~！指揮官~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=異常調動|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+PH港·指揮室 七小時後<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+像一陣旋風一樣離開了呢，紐澤西。<br>
+<br>
+從今天到達PH港到紐澤西離開，感覺像過了五天那麼漫長，又像轉瞬之間。<br>
+你看這些報告，別看她是那種性格，工作做得還是很細緻哦。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+這些真的不是提康德羅加幫她整理的嘛~<br>
+<br>
+不、不會吧…還是老樣子嗎？<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+哼哼，指揮官缺乏觀察力了吧。但是名偵探舊金山已經注意到了，筆記上的兩種不同字體就是毋庸置疑的事實！<br>
+<br>
+還真是一點都沒變…………<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+指揮官和紐澤西認識很久了嗎？<br>
+<br>
+最早是在通過心智魔方適應性測驗調入指揮部的特別軍事學院期間認識的，算起來確實有段時間了…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+同期生？<br>
+<br>
+同期倒也算不上…那座軍事學院也不是面向艦船的，充其量只能算是來相互交流的？<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+那就是訪問留學生了！？<br>
+<br>
+硬要說的話，也可以這麼算…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+真棒啊~青春美妙的學院生活，我也好想體驗一下啊~！<br>
+<br>
+當時的局面還沒有這麼緊張，紐澤西也在等待艦裝的全部完工，現在的妳肯定沒機會了。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+真遺憾啊~我們還要像這樣和重櫻對峙多久？指揮部有什麼方針嗎？<br>
+<br>
+現有的停火協議並沒有把太平洋納入其中，雖然指揮部有將區域停火協議轉變為停戰協議的意圖…<br>
+不過在這一意圖達成之前我們這裡還是與重櫻交戰的前線，不可掉以輕心。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+話雖如此，太平洋內的塞壬在那次襲擊之後就牢牢控制了大片水域。重櫻想過來恐怕也很困難吧~<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，深夜打擾了。收到了來自NY司令部的緊急通訊聯絡。<br>
+<br>
+NY司令部的…？轉過來吧。<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+咦，指揮官？你不是今天才趕回PH港嗎，怎麼立刻就開始熬夜工作了啊？！<br>
+<br>
+離開這裡太久，很多情況都發生了變化，現在需要盡快重新掌握局勢才行…而且妳不也還沒休息嗎？<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+呃…我其實是已經睡了的…只不過被緊急情報吵醒了！<br>
+我長話短說了。指揮官，情報部門發現了重櫻艦隊正在進行一場大規模艦隊調動。<br>
+雖然艦隊成員情況不明，但絕對是包含重要人物在內的大型艦隊哦。 <br>
+艦隊在完成集結後很快就消失在太平洋中，尚不清楚是大規模軍事演習還是一次作戰行動…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+這麼氣勢洶洶的艦隊調動——不像是能夠突然決定的行動呢…<br>
+因為在NA海域中沒能成功進入中心區域，所以憤怒的重櫻打算從太平洋方向進行一場打擊行動？<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+不能排除這個可能。我們也會進一步收集訊息，指揮官你們一定要小心哦！<br>
+如果發生交火的話，你們那裡就是戰鬥最前線了！<br>
+<br>
+明白，我會注意的。<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+那就這樣，薩拉托加通訊結束。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+一回來就碰到不得了的大事件了啊~<br>
+<br>
+…確實值得在意的調動。最新的海域布防情況圖在…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+今天時間已經很晚了，指揮官，先睡覺！剩下的事明天再說嘛~<br>
+重櫻艦隊就算真有什麼打算，以那個航速過來還要好久好久呢。<br>
+<br>
+'''''<span style="color:black;">选择项1：再看一份報告！</span>'''''<br>
+'''''<span style="color:black;">选择项2：說的也是，今天先休息吧…</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不行~！既然現在我是秘書艦，就有維護指揮官健康的義務！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''您還是放棄抵抗，乖乖跟我去休息吧！<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''指揮官這邊請~您的床鋪可是我親自舖的，滿意請給五星好評哦！<br>
+<br>
+然後翌日——<br>
+AF基地與PH港區失去了聯繫。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=敵情|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+前往指揮室時，情況已經亂成了一團。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+依然無法與AF取得聯絡嗎？保持現在的頻率繼續呼叫…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+派出偵察機！對，派出偵察機前往AF的方向進行搜索！<br>
+什麼？派出的偵察機都沒有回來的？繼續派遣！<br>
+<br>
+'''''<span style="color:black;">选择项1：現在情況怎麼樣？</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+大事不妙了啊，指揮官！<br>
+AF依然沒有回應我們的任何聯絡，派出的偵察機也都陸續失去了聯繫！<br>
+<br>
+…怎麼會發生這種事，能判斷出聯絡中斷的具體時間嗎？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+確實有一條AF在深夜發出來的聯絡消息，但不知道出了什麼問題，這條消息延遲了幾個小時我們才收到…<br>
+<br>
+消息說了什麼？！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+數據出現了損壞…但是技術部門正在努力！相信很快就能解決問題。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+指揮官，修復結束了哦！現在開始播放消息！<br>
+<span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
+—滋—遭到了重櫻艦隊的—滋—情況超不妙—滋—<br>
+—滋—受損嚴重—滋—請求支援—滋—<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+抱歉…修復到這種程度的就是技術部門的極限了。<br>
+<br>
+…………<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+沒…沒聽錯的話，是遭受了重櫻艦隊的襲擊吧？<br>
+遭受了重櫻艦隊的襲擊…所以AF與外界失去了聯繫！情況超不妙啊，得去緊急支援才行！<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+等等，有點奇怪吧。<br>
+昨天深夜才收到重櫻艦隊從本島出發的消息，這支艦隊怎麼可能在幾個小時後就對AF發動了攻擊？<br>
+<br>
+…時間對不上。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+那會不會是艾倫·M·桑拿沒分清塞壬棋子艦隊和重櫻艦隊的區別？<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+那個艾倫…也不是不可能。不過只是棋子艦隊的話，駐紮在AF的艦隊應該能夠輕鬆應對才吧！<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+唔，說的也是啊。那難道是餘燼嗎？！之前也遇到過使用重櫻艦載機的餘燼吧！<br>
+<br>
+（是指餘燼的飛龍嗎？可是為什麼…）<br>
+不論如何AF失去聯絡是事實。不管那裡遭遇了誰的攻擊，我們都不能坐視不管。<br>
+沒有返航的偵察機恐怕已經在AF周邊空域遭遇了攔截，我們不能一直等下去了。<br>
+艦隊準備，立刻增援AF！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=迴轉|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+紐澤西艦隊 返航途中<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+AF遭受了疑似重櫻艦隊的襲擊而失去聯絡…？<br>
+怎麼我一走就出這種事啊！指揮官的應對呢？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+在多次聯絡無果之後，指揮官已經在帶領艦隊前往AF增援的路上了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+又是親自去前線？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+聽起來像是這樣的。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+唉…不論職位如何變動，這方面的風格還是一點沒變。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+紐澤西，妳覺得我們應該怎麼辦？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+是呢，調動過程中居然發生了這種事…<br>
+緊急軍情。和司令部打個招呼之後我們也返航。<br>
+居然敢襲擊AF，已經不是一般敵人了…我們必須給予有力的回擊才行！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+呵呵，剛才還在說指揮官呢。妳這風格不也一樣嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+我可是白鷹最大最強的戰列艦，在戰場中衝鋒在前是理所當然吧！<br>
+別說是敵人，就算是風暴也能衝給妳看哦！<br>
+現在發布艦隊指令。<br>
+各艦隊，情況簡報妳們已經收到了吧。我們現在要去執行緊急作戰任務囉！<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+波夕收到…護衛艦隊正在重新排列隊形。<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+莫里森收到，前鋒艦隊現在開始掉頭，稍後與妳們匯合哦。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+很好！紐澤西艦隊，向著AF——出航~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=代理|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+紐澤西艦隊 數小時後<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+欸？！<br>
+指揮官也失聯了？！！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+嗯…指揮官的艦隊在離開PH港後不久就徹底失去了聯絡。<br>
+不論是我們還是PH港，都無法與艦隊中的任何一艘船隻取得聯繫。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+是遭遇襲擊了嗎！還是什麼別的情況？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+目前還沒有得到任何相關報告。<br>
+失聯海域貌似被大量海霧所覆蓋，給偵察帶來了很大困難。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+指揮官艦隊的成員名單呢？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+舊金山、海倫娜、射水魚。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+海倫娜也是在失蹤名單裡嗎…等等，之前她是不是遭遇過類似的情況…！<br>
+讓我想想。海倫娜…海霧…失聯…<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+是增援巴拿馬要塞的那次吧？當時海倫娜就在失聯數日的巴爾的摩艦隊中。<br>
+在後續的作戰中，就連企業前輩也一度在詭異的海霧中迷航了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+原來是那件事啊……那不就破案了嘛！這次事件是由塞壬引起的！<br>
+提康，把現在的情況火速發給企業和巴爾的摩，看看她們有什麼好的應對方案！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+沒問題。不過關於接下來的行動部署…<br>
+雖然不是很想說這種事，不過在這種混亂的局面下，作戰還是有一個最高指揮者比較好哦。<br>
+不論是為了應對未知的威脅，還是展開對於失聯指揮官艦隊的搜救…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+我懂妳的意思。不過正式交接已經完成，我沒有權限直接接手太平洋內的事務…<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+沒問題，情況我們已經了解了。<br>
+鑑於當前局勢，NY司令部決定中止妳的調動命令。紐澤西，在指揮官歸位前暫時代理太平洋防務工作吧。<br>
+查明未知的威脅，保衛我們的基地，然後將指揮官和失蹤的同伴們救回來！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+很好……這樣一來就能名正言順的大幹一場了！沒問題，放心包在我身上————<br>
+不對！薩拉托加？！妳的通訊怎麼插入的這麼巧？妳在監聽我的通訊嗎…！<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+哈？怎麼可能！是提康德羅加主動匯報過來，然後讓我們“加急評估”的啊…<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+咳…我覺得這樣是最有效率的做法。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+原來如此，提康…不愧是我的智囊！有妳在真是太省心了！<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+由於我現在無法趕來，所以這次只能盡力提供情報支援了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+和當年的情況正好相反啊…體會到當時我無法前往前線的焦急了吧！<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+妳那次是MK7沒完工沒辦法吧，我可是留在NY司令部處理NA海域的事務哦！客觀條件完全不一樣！<br>
+不過完全相反啊…難道是這樣？！<br>
+抱歉，我突然想起了一些要調查的事，先掛斷了！祝妳們好運哦！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哎？！等等…啊，神神秘秘的掛掉了。<br>
+算了算了，複雜的事就交給薩拉托加好了，我們首先要應對眼前的局面才行。<br>
+指揮官身邊的艦隊應對常規塞壬沒問題，短時間內應該不用擔心…首先前往失蹤海域調查一下吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=潛入|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+這裡是艦橋，但是，不是我所熟悉的艦橋。<br>
+並非白鷹、不屬於皇家、也不是北方聯合…<br>
+…從裝飾和花紋來判斷，難道這裡是重櫻的指揮艦？！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……zZ<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+…雞蛋的…焦糖的…巨大的布丁撲過來了…已經吃不下了，嘿嘿嘿…<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+呼…下次要做點什麼惡作劇好呢…呼呼…<br>
+<br>
+舊金山、海倫娜與射水魚也在身邊，看起只是在熟睡而已。<br>
+沒有人受傷，不過艦裝都處於解除狀態，總之先把大家叫醒好了——<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+…有印象的最後一件事？<br>
+唔…我只記得我們在前往AF調查的路上，然後就是在這裡醒來了。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+我也一樣……<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+毫無疑問是誘拐啊，指揮官！是誘拐！<br>
+嗚嗚嗚，惡魔盯上可愛的我了，魔爪要伸過來了！好可怕啊~！<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+噗…這算什麼，活躍氣氛嗎？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+單純著急也解決不了問題嘛…<br>
+<br>
+確實如此…總之先冷靜下來思考現狀。<br>
+誘拐…如果是這樣的話究竟是怎麼做到的？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+海霧…我們在來到這裡之前首先進入了海霧之中。<br>
+剛剛的海霧給我一種熟悉的感覺，就像我之前遇到的那次一樣…<br>
+<br>
+增援巴拿馬要塞的那一次嗎？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+微層化混合物…那個餘燼的企業好像是這麼叫那些海霧的。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+好酷的名字…！不對，這麼說這些海霧都是塞壬的機關了！？<br>
+那不是超不妙嗎！總之先逃吧！<br>
+主炮——哎？<br>
+艦裝，無法使用？！<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+欸！？不會吧，我試試看…真的哎！怎麼會這樣！<br>
+<br>
+蹬蹬——蹬——！<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+奇怪了，門也打不開了…我們被困在這裡了？！<br>
+海倫娜，從窗戶能看到外面的情況嗎？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+…SG…SG無法使用了…接下來會發生什麼事呢…（小聲）<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+海倫娜…？！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+啊，嗯——窗外嗎？ …只有海霧而已，其他什麼都看不到。<br>
+不過能感覺到船是在海中移動的…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+這樣一來的話，就只能依靠我的……咦？我的通訊器去哪了……<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+笨蛋舊金山…沒有艦裝，自然也就用不了通訊設備了吧！<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+啊，說的也是…果然還是要對這扇門想想辦法。<br>
+有沒有什麼硬硬的東西……<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+哇啊，妳想做什麼，妳不要亂來啊？！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+等等，控制台上的通訊器，似乎在閃哦…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+欸！說不定能用這個對外界聯絡了！ Nice海倫娜！<br>
+我戳——<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+……終於接通了！現在開始匯報前線戰況。<br>
+航空打擊已經開始，目前沒有遭到任何攔截。<br>
+偵察機也沒有發現白鷹艦隊。不過，筑摩的偵察機出現了些問題，尚有一塊區域無法確定情況…<br>
+<span style="color:#ffd000;">{namecode:91}：</span><br>
+不用太在意吧？白鷹艦隊要嘛沒有意識到我們的作戰意圖，要嘛早就被我們的艦隊嚇跑了。<br>
+既然是由我親自指揮的作戰，那麼勝利勢在必得。妳們就在後面等著好消息吧，呵呵呵~<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+—重櫻通訊？我剛才沒聽錯，是重櫻通訊吧！<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+通訊器裡能聽到重櫻的作戰通訊就意味著…我們現在位於重櫻艦隊的指揮樞紐裡？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+可是這裡除了我們之外什麼人都沒有啊？<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+哼哼哼，雖然搞不懂…但這可是天賜良機啊！沒人的話，我們做點什麼也不會被發現吧~<br>
+<br>
+紋絲不動的大門，與外界隔絕的空間，通訊器中傳來的聯絡，一切都有一種熟悉的感覺…<br>
+總之先收集更多的情報吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=損傷鑑定|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+PH港 近海<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+這裡就是指揮官艦隊失蹤的位置嗎？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+嗯，根據艦隊的航線和失去聯絡的時間推算，大致就是這片海域。<br>
+這裡雖然一度也被霧氣覆蓋，不過現在霧氣已經散開了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+距離PH港這麼近的也不可能遭到敵人的襲擊。果真是悄無聲息的消失在海霧中嗎…<br>
+<span style="color:#4eb24e;">巴爾的摩：</span><br>
+和我們那次的情況很像呢，曼非斯妳怎麼看？<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+確實有相似之處…不過海霧已經消散了，沒辦法下確切的定論呢。<br>
+不過…如果真陷入塞壬的海霧之中就糟糕了。<br>
+那裡是被塞壬完全掌控的空間，連時間感和距離感都會被模糊…妳們一定要救出指揮官哦！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+這是肯定的！不過，塞壬的真實意圖也很令人在意呢……<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+這裡是波夕，AF的偵察已完成…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+趕路辛苦了！因為時間緊急，只好讓妳們急行軍一次啦。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+沒事…能幫上忙我很開心。<br>
+AF確實遭到了身份不明的飛機襲擊，島上設施受到了一定程度的損毀。<br>
+艾倫·M·桑拿也在襲擊中受傷，幸好沒有大礙…<br>
+<span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
+海霧是昨天傍晚十分出現的，緊接著就是藉助迷霧的掩護髮動突襲的不明重櫻機群！<br>
+完全被打了個措手不及，抱歉…！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+也就是說，昨天的求救聯絡確實是妳發的沒錯吧？<br>
+<span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
+沒錯，就是不知道為什麼妳們到了第二天才收到…<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+如果霧氣濃厚的話，妳是怎麼判斷出發動襲擊的是重櫻的飛機？<br>
+<span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
+我們擊落了一些飛機哦！根據殘骸判斷，確認是重櫻的艦載機無誤！<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+嗯,我也看到了…確實是那些傢伙的標誌。<br>
+我讓小熊拍攝了一些殘骸…等匯合後就把照片帶回去。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+現在AF周圍的迷霧也開始消散了，不過AF西北方的海面上依然被大量濃霧覆蓋。<br>
+也許接下來去那裡探索比較好…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嗯！妳們的調查相當出色。<br>
+艾倫，AF的防禦和善後工作還是交給妳，這次一定要守住哦？<br>
+<span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
+放心，這次不會再失手了！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+波夕和莫里森也不用返航了，就這樣帶領艦隊直接去我新發過去的集結點。<br>
+僅憑現在的情報來斷定發動襲擊的是真正的重櫻艦隊雖然為時尚早…<br>
+但是毫無疑問，在遠方的海霧中正有一隻充滿敵意的艦隊正在虎視眈眈的注視著我們。<br>
+我的作戰計劃很簡單——衝進去，救出指揮官，順便消滅所有敵人！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=小熊|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+轟———————！<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+敵、敵襲？！多謝…<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+我也嚇了一跳…有設定小熊的自動反擊功能真是太好…<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+總感覺小熊是不是比之前變得更厲害了…<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+欸…我也有一直在做升級嘛。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+小心，更多的敵機來了。<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+那些…好像真的是重櫻的飛機？到底是怎麼在這麼短的時間裡跑過來的…<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+已向主力艦隊發出了增援請求…這裡就先靠我們先應付一下吧…！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=重演|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+艾塞克斯級航空母艦提康德羅加前來參戰，大家久等了~<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+得…得救了。<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+還以為要交代在這裡了…<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+有這麼誇張嗎？我覺得戰鬥起來很輕鬆哦，妳們也打下來不少吧？<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+咦、說…說起來好像是這樣，這些飛機雖然聲勢很大，戰鬥力好弱…<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+真的哎…我還有小熊都沒受傷…？！<br>
+抱歉，看到滿天的重櫻飛機，心裡不自覺就慌亂起來了……<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+如果是真正的重櫻航母在操縱的話，這麼大規模的機群確實能帶來極其恐怖的破壞力呢。<br>
+不過從剛才的戰鬥強度上來看，充其量也就是略強一點的棋子水準哦。<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+說的也是，真正的重櫻艦隊果然不可能來的這麼快…<br>
+太好了！既然只是塞壬的棋子艦隊的話，我們趕緊解決剩下的敵人吧…！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+等等，不要全部消滅敵人。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+欸？為什麼…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+棋子艦隊的作戰模式單一。妳們看，投彈完畢的艦載機已經準備返航了。<br>
+既然有艦載機的話，那就一定有一支棋子航空艦隊在前方等著我們吧~<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+原來如此，妳想利用它們鎖定敵方艦隊的位置嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+沒錯！很方便吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不完全重現|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+紐澤西，猜猜看我發現了什麼？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+敵人…？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+再具體一點呢？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+能夠消滅的敵人…！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+還不夠~再具體一點呢？<br>
+提示，我發現的是能夠引導我方發現敵方艦隊的必要因素之一。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+原來如此…我知道了！妳發現的是能夠引導我方發現敵方艦隊的必要因素之一，的敵人！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+……哈啊…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+欸~~別賣關子啦，妳知道我不擅長推理這些的！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+是嵐哦。在一片海霧之中，唯獨有一塊霧氣消散的地方。<br>
+艦載機飛過去後很輕鬆就發現了一艘正在孤獨行駛的驅逐艦——嵐。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+妳覺得是真貨嗎？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+既然航空編隊是假的，單獨的驅逐艦就更不可能是真的了。我認為依然是棋子。<br>
+問題在於，為什麼這顆單獨行動的棋子恰好是嵐呢？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+原來如此…怪不得薩拉托加談到AF的事之後就神神秘秘的跑路了！<br>
+如果說之前只是隱約有些懷疑的話，看到這個橋段之後我就確信了。<br>
+AF戰役的重演。塞壬這次的計劃大概是這樣的吧？<br>
+首先用重櫻棋子襲擊AF，然後誘導我們消滅棋子重櫻機動艦隊。<br>
+如果還原的再細緻一些的話，接著還會有大量塞壬艦隊趕過來湊熱鬧…<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+妳已經完全熟悉“劇本”了嘛~<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+畢竟那次我可是全程在後方密切關注著啊…不過目的呢？<br>
+況且還把最關鍵的指揮官從棋盤上拿掉了…要還原那場戰役的話，指揮官是必不可缺的吧？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+這個恐怕只有塞壬自己清楚了~我們目前能做的也只有推測而已。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+如果指揮官在就好了啊…分析這種事我可完全不在行。<br>
+不過當然，突破敵人陷阱救回指揮官的事我還是很有自信的哦！<br>
+在曾經的AF戰役中，白鷹艦隊即便在精疲力竭之時依然打退了塞壬的進攻。<br>
+擁有比當時更加先進裝備和更加強大火力的我們沒理由做不到！<br>
+塞壬想要還原AF戰役？偏不！我紐澤西才不要當塞壬棋盤上的棋子！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=AF記錄|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+一段時間過去了，依然沒有找到任何離開的方法。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+操作台上的通訊器無法主動發送訊息，看來只能等到下次主動接收到外界聯絡的時候了。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+哈啊，好無聊——也不知道外面現在什麼情況了。<br>
+喂，射水魚妳一個人偷偷摸摸的在幹嘛呢？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+噓——！我在聽外面的動靜。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+聽到什麼了麼？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+沒什麼特殊的…連老鼠的跑動聲都沒有。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+這艘船上不會真的只有我們吧。看起來像是量產型…自動駕駛的類型嗎…<br>
+唔……好無聊，好無聊，好無聊…………<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+大家注意，通訊器又有反應了。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+哎嘿，我戳——————！<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+這裡是飛龍。針對AF的第一輪轟炸已經完成，效果非常出色。<br>
+但，仍有部分重要目標未被摧毀，需要進行第二輪轟炸，申請批准。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+通訊自動結束了…看來只是一次匯報聯絡而已。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+剛剛的通訊裡提到針對AF的轟炸了吧？！可惡，之前的襲擊居然真的是重櫻艦隊幹的嘛！<br>
+<br>
+不對。我們被困是因為塞壬的機關，這片特殊空間也是塞壬生成的可能性很高。<br>
+指揮艦、通訊器中發來的重櫻聯絡等，這一切應該都是塞壬故意設置的過去的紀錄。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+紀錄片嗎…那剛才的通訊難道是曾經AF作戰期間的紀錄？<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+可能性很高！而我們在這場塞壬的還原紀錄中正好位於當時重櫻艦隊的指揮艦上？ <br>
+不過一個不但能夠深入其中，甚至還能互動參與的重櫻視角AF紀錄片啊……<br>
+這種感覺倒是很新鮮~！指揮官你怎麼看？<br>
+<br>
+這樣的經歷對於了解重櫻的指揮系統很有幫助。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+我有疑問！塞壬為什麼會知道當時重櫻艦隊的指揮細節，甚至能做成這樣完整的紀錄呢？！<br>
+<br>
+'''''<span style="color:black;">选择项1：重櫻和塞壬關係非凡…</span>'''''<br>
+'''''<span style="color:black;">选择项2：塞壬的情報工作出色…</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''它們一直以來的行動都有某種說不上來的默契。在AF作戰後期，遭受打擊的重櫻艦隊也是因為反常的塞壬進攻而得以成功撤退。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''如果塞壬擁有當時重櫻指揮系統的詳細紀錄，只能說明塞壬在比我們想像的更早時間，以更深的程度介入了這場戰爭之中…<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''塞壬畢竟也參與了那次作戰，甚至派出了人型指揮者。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''它們的電子設備很先進，想截獲戰場上的通訊聯絡並不困難。這裡也許是以那些情報為基礎進行的還原吧…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+原來如此…然後，塞壬現在選擇將這些情報洩露給我們。<br>
+它們應該很清楚我們和重櫻之間的關係吧？<br>
+真是搞不清楚塞壬和重櫻之間究竟是關係好還是關係差了…<br>
+<br>
+如果現在呈現的確實是AF作戰的紀錄的話…原來如此，當時是因為偵察機故障所以沒能發現約克鎮的伏擊艦隊嗎，真是好險。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+呃…指揮官…？你在自言自語說什麼呢？<br>
+<br>
+…針對AF的第一輪轟炸結束，約克鎮的反擊已經在路上了。重櫻艦隊此時缺乏偵察，繼續進行第二輪轟炸並不是明智的選擇…<br>
+…不能讓缺乏保護的航空艦隊做這樣的冒險。現在應該做的不是對島轟炸，而是首先確認對手的位置，只有確保了安全——————<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+鏘鏘鏘！指——揮——官————！<br>
+真是的，一不留神你就進入狀態了…<br>
+我們現在是在重櫻的指揮艦上吧，這種場合下你認真個什麼勁啊！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，又有新的匯報通訊來了，對方依舊在請求轟炸的許可…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+嘿嘿嘿~機會難得，這時候就犧牲一下指揮官的英明決斷吧~<br>
+海倫娜，回復她們，許可進行第二輪轟炸，立刻執行~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=友軍|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+AF 西南方海域<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+呵呵，既然明白了原理，那就無需偵查，徑直朝向曾經的座標飛去就是~<br>
+哦？因為飛的太快，反而撞上了正在預警的重櫻機群嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不用在意，一鼓作氣正面突破~！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+沒問題—咦？！<br>
+重櫻戰鬥機群從其它方向遭到了攻擊？！發動襲擊的是…我們的艦載機？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哈啊？！怎麼會有這種事，目前艦隊裡不是只有妳一艘航空母艦嗎。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+AF派來的支援嗎…？我、這就確認一下！<br>
+<span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
+呃，空中支援…？我什麼都沒做哦。<br>
+島上機場受損嚴重，為數不多的航空力量正在專注於島嶼防衛，並沒有派出任何打擊群。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+那就奇怪了…這些飛機是從哪兒冒出來的。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+確認完畢，這些飛機的型號與我們的艦載機一致。<br>
+在擊破了重櫻的攔截後，這支機群正在與我一起飛向重櫻航空編隊的位置！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+等等等等，所以說事情很奇怪啊！我們不可能有友軍艦載機的增援啊？！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+這個妳問我也…它們剛剛消滅了重櫻棋子艦載機可是事實哦。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+難道真有什麼我不清楚的調動存在嗎…提康，總之妳先把飛機調到後方位置，讓這支機群飛在前面開路。<br>
+波夕和莫里森，妳們帶領一部分艦隊搜索一下，看看海霧之中是否真的存在我們尚不得知的友方艦隊！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=銀翼|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+轟————————！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+嘖，變得難纏起來了。<br>
+紐澤西，機群又一次遭到重櫻艦載機的攔截，而且火力密集，一時間無法突破…！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+無法突破？對面不都只是些量產型嗎？！到底怎麼回事？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+我也不清楚…！但這一波敵機相比之前戰鬥力提升了好幾個檔次，簡直就像…真正的重櫻艦隊一樣。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不可能！重櫻艦隊絕對不可能趕到這裡來的。如果真是重櫻的話，從一開始就會全力進攻，根本沒理由白白送掉那幾波飛機！<br>
+伴隨飛行的不明友方機群呢？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+全部被擊落…這些機群的行動方式單一，倒反更有種棋子的感覺…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+我有點暈了…塞壬用棋子幫助我們對抗它們生成的另一批更強的棋子？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+看起來確實是這樣的，這也是塞壬進行AF重演的一環嗎……？<br>
+不過既然兩邊棋子齊全，我們究竟代表著什麼，又為什麼一定要讓指揮官離開“棋盤”呢……<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+紐澤西…！那個…通訊頻道…有消息！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+啊，我在聽，妳說？<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+不…不是我這個，是舊頻道，就是我們以前用過的那個…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+咦？舊頻道是嗎，好的，我調整一下！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滋—滋——<br>
+<span style="color:#ffd000;">大黃蜂：</span><br>
+可惡…！目標上空存在大量戰鬥機護航，魚雷機無法造成有效損傷！明明已經近在咫尺了……！<br>
+<span style="color:#ffd000;">企業：</span><br>
+我這裡也是，魚雷機無一命中目標，抱歉…<br>
+根據她們艦載機的調動方式看來，我們的位置也很可能暴露了。<br>
+<span style="color:#ffd000;">約克鎮：</span><br>
+別灰心！重櫻艦載機從出發到完成襲擊還有不少時間，我們依然保有主動權！<br>
+這一次由我帶頭，大家一起使用戰鬥機和轟炸機進行正面突破吧！<br>
+大家都打起精神來！進攻從現在才算正式開始哦！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+大黃蜂…企業和約克鎮？<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+這是我用小熊全頻道搜索友軍訊號的時候發現的…真、真是太不可思議了。<br>
+真沒想到增援我們的居然會是她們三位…！<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+原來約克鎮小姐已經康復了啊，真是太好了…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不對不對，這怎麼可能啊！大黃蜂現在還在NA海域，企業在NY司令部，約克鎮也還…<br>
+咳。總之，她們三人絕對不可能在此時同時出現在這片海域參加本次行動的！<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+那剛剛收到的通訊是怎麼回事……？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嗯————我不知道！提康，妳怎麼看？！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+既然塞壬正在進行某種程度上的AF戰役重演，那剛才通訊也是當時戰場通訊的可能性非常高。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+難道那場作戰中，塞壬全程都在截獲我們的聯絡嗎…………？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+以塞壬的技術水準來說，倒也不是不可能…<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+按照剛才前來支援的艦載機是塞壬用來模擬我方行動的棋子的思路來思考的話……<br>
+這麼說來…塞壬總是在進行的數據收集可能就是為了這樣的模擬實驗做準備的。<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+數據收集的越多…依據這些數據製造的棋子戰鬥力也會變得更高…？<br>
+也許剛才那些突然變強的敵人就是塞壬正在實驗的新型棋子…？！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+這可不好！如果那種戰鬥力的棋子被大規模量產的話今後的麻煩可就大了！<br>
+不論如何必須破壞這裡的實驗。提康，將艦載機撤回來，優先保證艦隊上方的制空。<br>
+不管棋子航空隊的戰鬥力再強，只要能接近到MK7的射程之內，一切就都結束了！<br>
+{namecode:198}和{namecode:197}請繼續尋找周邊海域，看來我們附近還存在一支棋子白鷹艦隊。<br>
+看來我們附近還存在一支棋子白鷹艦隊。雖然還沒有展現出敵意，但終究是塞壬控制的棋子，我需要掌握它們的動向和規模。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=境界交匯|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+戰鬥機群及時發現並擊退了白鷹航空隊的攻擊，航空艦隊沒有受到任何損傷。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+沒有任何損傷啊…真遺憾。<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+您剛剛說什麼…？<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+沒什麼沒什麼…哎嘿~！總之繼續匯報吧~<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+嗯。我們已經基本確定了白鷹航母艦隊的位置，其後續攻擊波應該很快就會到達。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+原來如此，真是刻不容緩的局面呢~<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+赤城大人計劃取消第二次進攻，將艦載機上的炸彈更換成魚雷以應對白鷹艦隊的襲擊。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+嗯嗯，沒問題哦，赤城的決定完全正確，就這麼做吧。立刻進行換彈準備吧~<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+遵命。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+妳可真行啊…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+哎嘿嘿！我裝的還挺像吧~<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+完全不像！下次換我來，讓我也玩玩嘛~<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+沒問題，沒問題！<br>
+<span style="color:#ffd000;">通訊器：</span><br>
+作戰指揮，並非兒戲。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+咦？！！哪兒傳來的聲音？！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+聲音是從通訊器那邊傳來的…但是機器並沒有啟動啊…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+是誰在說話！？別藏了，快出來！<br>
+<span style="color:#ffd000;">？？？：</span><br>
+汝等的反應與他人不同啊。<br>
+汝等應為白鷹的人吧。嗯…雖然妾身有在某處偶然與諸位交談的印象，看來汝等並沒有呢。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+初次見面，妾身名為信濃，此刻只是一名游離在夢境之中的旅者罷了。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+（什麼夢境，旅者，完、完全聽不懂……）<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+（我也…這也是塞壬模擬的一部分嗎？還是那種什麼…電影放到一半突然插入的外部干擾…？）<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+（我也完全……）<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+（那個…指揮官，你知不知道這個是什麼情況？）<br>
+<br>
+（信濃這個名字我有印象，似乎是在重櫻地位很高的航空母艦。自誕生之初就一直陷入沉睡之中，其甦醒應該是最近數月的事。）<br>
+（不過更重要的是，信濃當年根本就沒有參加過AF作戰啊…）<br>
+<span style="color:#ffd000;">信濃：</span><br>
+他人面前竊竊私語，可是有失禮儀的行為哦。這裡是重櫻艦隊的指揮艦，汝等在這裡做什麼？<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+（糟糕…要被發現了，這種時候就應該——氣勢上不能輸！）<br>
+我們還想問呢！妳們把我們關在這裡究竟有什麼企圖？！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+…妾身只是剛剛抵達此處，並不清楚此前發生之事。<br>
+也就是說，汝等因為某種原因被困在了重櫻指揮艦上，被迫進行艦隊的指揮？<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+先說好，如果妳打算通知妳們的人把我們拿下的話，反而就幫了大忙哦！我們正愁打不開門呢！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+此處的夢境是如此設定嗎…奇哉怪也。<br>
+既然如此，便無需在意。妾身無意干涉夢境的走向。既然汝等被設定在此，一定有其內在的邏輯與道理。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+呃…設定…又是什麼？<br>
+指揮官，這個叫信濃的人是什麼情況？不會和我們一樣也是被捲進來的吧，感覺她什麼都不清楚的樣子…<br>
+<span style="color:#ffd000;">信濃：</span><br>
+嗯？妳剛剛說…“指揮官”？<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+不好…妳不會想趁機對指揮官下手吧！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+並無此意。妾身自那天以來，一直想找一個同汝交談的機會，不料竟是今日。<br>
+<br>
+我們曾經有見過面嗎…？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+見過，也未見過。此前在汝所安排的演習中，妾身若非有天城相助，恐怕就要完全進入汝之圈套了，相當精彩。<br>
+<br>
+演習…天城…？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+只是在轉瞬即逝的夢境中，妾身的一些自說自話罷了，汝不用在意。<br>
+汝亦無需如此警惕。盟友，亦或敵人。並肩戰鬥，亦或相互廝殺。森羅萬象之景妾身已經見得足夠多了。<br>
+看來此次妾身的時間頗為寬裕，機會難得，不如來聊聊天吧？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=檔案|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+通過和信濃的交談，可以認定她也是在毫不知情的情況下被捲入了這場塞壬的實驗。<br>
+雖然她本人堅持稱這是一場“夢”，並有一套自己的解釋邏輯…<br>
+不過信濃本人似乎的確不可能出現在AF附近，難道她擁有不可思議力量的傳聞是真的…<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+哎？！在重櫻那裡棒球也很流行嗎？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+據妾身所知，人氣異常，賽事也數量繁多。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+太酷了…有機會的話去重櫻打一圈比賽也不錯啊~！<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+那信濃妳也會去打棒球嗎？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+妾身的話…因為身份所限，還未嘗試過呢。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+身份…妳們重櫻竟在奇怪的地方糾結…運動可是能夠超越國界和身份的哦！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+呵呵…說的也是呢。有機會的話，妾身也試一試好了。<br>
+說起來，如果妾身沒認錯的話，汝應該是…射水魚？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+回答正確~咦？我們在哪裡見過妳？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+秘密。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+從剛才開始就感覺和妳這個人說話真是難受哎……<br>
+<span style="color:#ffd000;">信濃：</span><br>
+呼呼~道可道非常道。此時此刻，如此便好。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+……反而變本加厲了！？！<br>
+<br>
+這般友好交流的景象…彷彿令人回到了曾經各陣營同在碧藍航線的旗幟下並肩作戰的時光。<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+…抱歉，聯絡遲了。<br>
+換彈工作，沒有來得及完成……航空艦隊在更換工作進行中遭到了白鷹艦隊的俯衝轟炸。<br>
+赤城大人，加賀大人以及蒼龍均出現損傷，但是我依然可以全力戰鬥！<br>
+我在此申請攻擊命令，飛龍將會獨自對白鷹航空編隊發起反擊！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+不好…這樣發展下去的話約克鎮就會…！<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+不要發動反擊，立刻撤退！<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+為什麼？！我不能理解，請解釋一下這條命令的合理性。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+因、因為…呃……只有現在撤退才…能…（指揮官快救我>_<！）<br>
+<br>
+飛龍，冷靜下來觀察局勢。只要在損傷進一步擴大之前讓艦隊撤離戰場，一切還來得及。<br>
+立刻將全部戰鬥機升空，掩護航空編隊撤離。<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+…是要我們承認作戰失敗然後逃跑的意思嗎？！<br>
+白鷹的艦載機也在撕扯中損失慘重！只要趁現在發動襲擊，一定能取得有效戰果的！<br>
+<br>
+但是代價呢？整個航空編隊會因此錯過最佳撤退時機，從而落到無可挽回的局面。<br>
+<span style="color:#ffd000;">{namecode:94}：</span><br>
+如果保持現在的狀態撤退才是真正無可挽回的局面！<br>
+這樣下去重櫻海軍只會淪為世間的笑柄！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+……放棄吧，汝等的努力皆為徒勞。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+為什麼？！這種時候果斷撤退保存實力才是最好的選擇吧，妳難道看不出來嗎？！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+妾身的看法無關緊要。<br>
+誠然，倘若就此撤退，一航戰便不會捲入聖域之事，與五航戰的關係也能緩和許多，很多事情也許就會改變了吧。<br>
+但有因即有果。已發生之因引來已發生之果。未發生之因引來未發生之果。孰優孰劣豈可臆斷？<br>
+況且…此處僅為鏡中花、水中月。對於身為過客的吾等來說，一切皆已注定。<br>
+如若並非夢境，而是現實之中的話，汝等真以為能僅憑此等蹩腳演技混在重櫻指揮系統之中不被揭穿嗎？<br>
+<br>
+妳的意思是指…這裡只是設定好內容的棋盤…無論我們發出什麼命令都不會改變事件的預設走向嗎？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+一切均會與汝等當年所見之景相同。<br>
+<br>
+指揮官…AF作戰也請讓我參加吧…！<br>
+重櫻一定堅信我們只有兩艘航空母艦能夠投入作戰，如果我能參加的話…<br>
+呼呼，一點小傷而已…指揮官不用擔心。<br>
+如果這次作戰失敗，就沒什麼後方可言了哦。<br>
+……三天，只要三天我就能恢復到正常作戰的狀態。<br>
+…指揮官，珊瑚海是一次精彩的戰鬥，相信列星頓小姐也是這麼認為的。<br>
+…所以，你不打起精神來可不行啊，接下來的戰鬥大家還要依靠你呢。<br>
+…嗯？指揮官還有什麼事嗎？<br>
+一路上緊急維修都沒有停止，我現在真的已經完全沒有問題了。<br>
+比起我，你還有更需要擔心的事吧。<br>
+哎~就算職務提升了，風格還是沒有變嘛。<br>
+今後像這樣無法親臨戰鬥前線的時候會越來越多，還是儘早習慣比較好哦~<br>
+艦載機隊正在做最後的起飛準備，即將出發搜尋重櫻航空編隊的位置。<br>
+重櫻會有多吃驚我才不在乎，我在乎的只有取得勝利而已！<br>
+哼哼~這是一場屬於空中的對決，可能等不到進行炮擊戰的時候戰鬥就結束了哦~<br>
+雖然尚未發現重櫻主力艦隊，不過總之，這支航空編隊就由我們約克鎮級三姐妹收下了~<br>
+指揮官就在遠方靜靜等待我們勝利的消息吧~！<br>
+………………<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=往昔幻影|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+AF西南方海域 海霧中<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+是這個方向…吧？…但是雷達上，沒有訊號呢……<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+雷達也沒有被干擾的跡象，棋子不可能躲過我們的搜索才對…<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+方向不對嗎，還是需要再接近一些…<br>
+小熊，繼續搜索頻道訊息…<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+妳說，如果真的找到了一支沒有敵意的棋子艦隊，我們應該怎麼辦…？<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+不知道呢…從來沒發生過這種事。應該…先向紐澤西匯報，然後等她的命令吧…<br>
+等等…！雷達上剛剛是不是閃過一個紅點？<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+居……居然真的有其他人……！ <br>
+<span style="color:#ffd000;">哈曼？：</span><br>
+…………………………<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+哈、哈曼，妳怎麼會在這裡？！<br>
+喂，別跑啊，哈曼？！<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+…我們追！<br>
+<br>
+「亦或因循守舊，亦或隨波逐流」<br>
+「兩條聯繫千絲萬縷，卻絕不交彙的螺旋線」<br>
+「縱使如此」 <br>
+「倘若撕裂鏡面，扭曲軌跡，結果將會如何？」<br>
+「現行系統無力之事，索性將其更換如何？」<br>
+「遊戲規則，該升級了哦」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=無言|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+轟————————！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+這批棋子果然和以往遇到的那些都不一樣。不但作戰性能大幅增強，戰術決策上也有著天壤之別…<br>
+是因為採用了完全不同的指揮模組嗎…如果真的大規模普及的話…………<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不用擔心不用擔心~既然還是些實驗階段的東西，那隻要我們徹底摧毀這片塞壬實驗場就可以了吧？<br>
+如果要從獲勝方式裡選一個的話，果然殲滅戰來得痛快啊~！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滋———滋——————<br>
+<span style="color:#ffd000;">企業：</span><br>
+重櫻航空艦隊已經失去戰鬥能力，戰鬥預計很快就會徹底結束！<br>
+只是……約克鎮姐被飛龍的艦載機隊命中，受傷。<br>
+<span style="color:#ffd000;">約克鎮：</span><br>
+只是小傷而已，妳們都反應過度了……<br>
+咳…<br>
+<span style="color:#ffd000;">大黃蜂：</span><br>
+這可不是什麼小傷啊！約克鎮姐，妳振作點，姐姐——！<br>
+<span style="color:#ffd000;">企業：</span><br>
+哈曼…！<br>
+<span style="color:#ffd000;">哈曼：</span><br>
+嗚嗚嗚…哈曼明白！我絕對會平安送約克鎮回家的！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滋———滋——————<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+……剛剛…頻道裡的聲音，妳們聽到了嗎…？<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+約克鎮她…遭到了襲擊，情況危急…需要趕快救援才行…！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+等等！妳們剛才在迷霧中看到的“哈曼”怎麼樣了？<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+哈曼嗎…？只是一瞬間出現了一下，然後就消失在迷霧中了…沒能追上她。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+那個擦肩而過的哈曼，跟妳們說什麼了嗎？<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+沒有…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+無言從海霧中來，然後無言消失在海霧之中，簡直就像塞壬特意放出來的誘餌棋子一樣。<br>
+約克鎮在那次受傷之後一直在後方靜養，絕對不可能出現在這裡。<br>
+剛才收到的通訊不過是塞壬干擾我們的把戲，大家不要動搖！<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+嗚……明明已經知道是棋子艦隊了，可是聽到約克鎮受傷的通訊還是忍不住……<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+我能理解，這次塞壬的棋子戰術確實與以往不同。<br>
+為同伴擔心是優秀的品德，錯的不是妳們，而是利用這種善良的情感布下陷阱的塞壬！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+白鷹棋子艦隊看起來也是完全按照曾經的紀錄開展行動的啊…<br>
+如果是這樣的話…紐澤西，我覺得沒有必要讓波夕她們繼續搜尋了，反正敵人的位置和規模我們都有數，對吧？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嗯，如果是那樣的話…波夕，莫里森立刻返航，我有新的作戰計劃了！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=規律測試|选项=19|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">通訊器：</span><br>
+滋———滋——————<br>
+<span style="color:#ec5d53;">大黃蜂？：</span><br>
+塞壬正在全線出擊，我們的艦載機消耗殆盡，已經無法繼續戰鬥了！<br>
+增援艦隊，妳們現在的位置在哪裡？！<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+通訊器中……又出現聲音了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+根據內容來看，剛剛的通訊應該是我們因為塞壬進攻而被迫撤退時的情景吧。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+也就是說……在前方等著我們的還會有大量塞壬艦隊啊。<br>
+呵呵，也好。相比打棋子，直接打製造棋子的塞壬更出氣一些~<br>
+無視通訊繼續前進吧。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+等等~機會難得，我們來做個測試吧。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+…測試？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+測試一下塞壬的這個紀錄通訊究竟能擬真到什麼程度，妳對這點也很在意吧？<br>
+喂喂餵，這裡是紐澤西艦隊，大黃蜂，能聽到嗎？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+（喂—！）<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+（噓—沒事沒事~反正都是些錄音而已吧。）<br>
+<span style="color:#ec5d53;">大黃蜂？：</span><br>
+哦~！是紐澤西啊，來得正好，妳的艦隊在什麼位置？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+（回答接上了…？！）<br>
+我們——不，先匯報一下妳們的情況吧。<br>
+<span style="color:#ec5d53;">大黃蜂？：</span><br>
+我的艦載機損失嚴重，企業姐的情況也差不多，妳帶來了多少增援？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+（唔…那，如果這樣呢！）<br>
+我們——不，還是先匯報一下妳們的情況吧~<br>
+<span style="color:#ec5d53;">大黃蜂？：</span><br>
+我們的艦載機損失嚴重，已經無力維持制空權了，妳帶來了多少增援？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+對方沒有察覺出來對話重複了…？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+大黃蜂，今天的晚飯妳覺得吃什麼比較好？我推薦牛排哦。<br>
+<span style="color:#ec5d53;">大黃蜂？：</span><br>
+現在情況緊急，塞壬艦隊距離我們的位置很近了，我們缺乏掩護，請火速前來支援！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+妳喜歡幾成熟的牛排？瓷盤還是鐵盤？搭配什麼醬汁？<br>
+<span style="color:#ec5d53;">大黃蜂？：</span><br>
+紐澤西，現在情況緊急，塞壬艦隊距離我們的位置很近了，請火速前來支援！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+這都什麼跟什麼啊…完全構不成對話。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哼哼，果然是這樣，我好像已經明白了。<br>
+這些偽裝通訊並不是機械的錄音播放，而是會根據收到的回覆在一定範圍內更改表達方法來使對話成立。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+事先準備好了大量回復，然後根據我們回答中出現的訊息而選擇性的播放嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+沒錯~比如當我詢問現狀的時候，通訊器那邊就能進行一定程度的解答。<br>
+而當我發起完全無關的話題時，對面就只能自說自話囉~<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+原來如此…畢竟一般人也不會在這種場合詢問晚餐吃什麼這種奇怪的話題啊。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+呵…一瞬間還真以為塞壬做出了什麼不得了的東西，到頭來還是在玩弄雕蟲小技。<br>
+…………<br>
+真是太好了……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=補充情報|选项=20|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+<span style="color:#ffd000;">{namecode:39}：</span><br>
+現在匯報前線消息，白鷹的約克鎮已在陷入大破狀態後退出了戰鬥。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+這樣啊。飛龍的情況呢？<br>
+<span style="color:#ffd000;">{namecode:39}：</span><br>
+不容樂觀，但是依然能維持航行動力。突然出現的塞壬艦隊阻止了白鷹的進一步追擊，我們正在趁機展開營救。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+塞壬艦隊僅是阻止了白鷹艦隊的行動而已嗎？<br>
+<span style="color:#ffd000;">{namecode:39}：</span><br>
+不…畢竟是塞壬，它們並沒有特別區分打擊目標。只是塞壬的前鋒艦隊恰好距離白鷹近一些。<br>
+現在更多的塞壬艦隊已經向我們包圍過來了，批准執行撤退計劃。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+撤退行動批准。請不要落下任何一個人，回來吧。<br>
+<span style="color:#ffd000;">{namecode:39}：</span><br>
+是，神通通訊結束。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+……不是說都是些固定好的內容嗎，妳還這麼一本正經的回覆幹嘛啊…<br>
+<span style="color:#ffd000;">信濃：</span><br>
+縱使是固定紀錄中的內容，卻未必是妾身已然知曉的情報。<br>
+結局雖以注定，但只需細處留心，仔細傾聽，依然可以有所收穫。<br>
+<span style="color:#4eb24e;">舊金山：</span><br>
+……呃，那妳有發現什麼值得注意的情報嗎？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+汝等一向懷疑重櫻與塞壬有所勾連吧？<br>
+僅憑此等破碎片段，雖不能作為令人信服的證據，但不妨作為值得思考的可能性吧？<br>
+<br>
+重櫻和塞壬的關係比想像中要更為複雜嗎…<br>
+<span style="color:#ffd000;">信濃：</span><br>
+言歸正傳。前線艦隊即將撤退，這艘指揮艦也會不例外——汝等不趕快逃離嗎？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+什麼叫逃離啊，說法真不好聽……！脫身呀，脫身！<br>
+真是的，就是因為做不到這件事所以我們剛才才那麼困擾啊！<br>
+<span style="color:#ffd000;">信濃：</span><br>
+卻有古怪…妾身可斷言，此處夢境絕非僅有此般大小。<br>
+既困汝等與此…或許，有何不可示人之物正隱藏在船外的空間中……<br>
+<span style="color:#ff9900;">？？？：</span><br>
+沒錯，這裡可隱藏了些相當不得了的東西哦。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=神秘友軍|选项=21|主框=1|样式=primary|展开=是}}
+<span style="color:#ff9900;">？？？：</span><br>
+舊金山、射水魚、海倫娜、指揮官還有信濃，真是奇怪的組合。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+汝也能感受到妾身的存在嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+感受的很清晰哦。畢竟這次，真正的妳就在不遠處呢。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+妳居然對妾身的夢有所了解嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+夢境的話，沒有哦。不過做夢的原因，以及這裡的情況我倒是知道一些。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+原來如此。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+什麼原來如此啊…！喂，信濃！妳這個人接受突發狀況也太快了吧？！<br>
+突然插入通訊的這位，妳是誰啊？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+妳覺得我是誰呢？<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+哈…？沒人告訴過妳不要用疑問句來回答疑問句嗎？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+猜猜看呢。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+那就——謎語人！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+很遺憾，猜錯了。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+能憑空猜對才很奇怪吧？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+真的是這樣嗎，那邊的指揮官也許能猜出答案哦？<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+哎？！真的嗎指揮官！在這麼莫名其妙的狀況下你居然能猜出她的名字嗎？！<br>
+<br>
+雖然不能十分肯定，不過從裝束和感覺上判斷，也許是——————<br>
+<br>
+'''''<span style="color:black;">选择项1：海倫娜·META</span>'''''<br>
+'''''<span style="color:black;">选择项2：海倫娜·BLACK</span>'''''<br>
+'''''<span style="color:black;">选择项3：海倫娜·ALTER</span>'''''<br>
+<span style="color:#ff9900;">？？？：</span><br>
+噓—這件事請暫時當成我們之間的秘密，等到合適的時機再公佈。<br>
+這裡不是能夠悠閒回答問題的場合，你也不想讓事態進一步複雜化吧。<br>
+<br>
+說的也有道理…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+切…神神秘秘的。既然指揮官認可了的話我也沒什麼好說的，不過我還有最後一個問題！<br>
+妳是同伴還是敵人？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+我是指揮官的友軍哦。<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+那就OK~那接下來的行動就讓我看看妳的能耐吧！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+海倫娜，妳也沒有問題吧？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+欸、我嗎…？沒有問題…<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+啊啊…說話累死人的人數又要增加了…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+事不宜遲，妳打算怎麼幫我們？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+侵入開始，空間鎖定破解中——完成。<br>
+好了，你們現在可以出去了哦。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=直線作戰|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+AF西南方海域 海霧中<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哼哼哼~我的作戰如何？！爽快又瀟灑的解決了戰鬥吧！<br>
+<span style="color:#4eb24e;">{namecode:198}：</span><br>
+真是…非常精彩的…戰鬥，就是稍微有些累…（癱）<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+我也有點…請允許我休息一會兒…（癱）<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+一瞬間還以為妳想出了什麼計劃了呢…果然就是按照兩點之間直線最短的方針衝過去了啊！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不然呢~？既然知道目標的確切位置和海域中所有敵人的位置分佈，也就不需要再做多餘的警戒與偵察吧。<br>
+作為白鷹最大最強的Black Dragon，面對這種程度的對手還要畏畏縮縮未免太沒有氣勢了~<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+說的也是啦…結果上來說，不論是棋子艦隊還是塞壬艦隊都被輕而易舉地解決了呢。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+結果好一切就好嘛~<br>
+接下來還會有塞壬的大規模進攻，大家不要掉以輕心哦！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不可見|选项=23|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+……提康，我們在那之後行駛多久了？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+三個小時。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+整整三個小時過去了啊！紀錄中塞壬的大規模進攻早就應該開始了吧？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+確實很奇怪呢…生產源源不斷的雜魚是塞壬的拿手好戲，理論上我們應該早就處敵人的包圍之中了。<br>
+可是卻什麼都沒發生…沒有敵人，沒有找到指揮官，海霧也沒有消散的跡象。<br>
+簡直就像…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+簡直就像在對局中被唐突按下了暫停鍵一樣對吧！<br>
+我也有同感。怎麼說呢…沒有作戰已經結束的感覺，也沒有作戰仍在進行的感覺…<br>
+<span style="color:#ff9900;">？？？：</span><br>
+因為，“棋盤”確實被暫停了哦。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+哎…？你是——<br>
+<br>
+轟————————！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嘖…躲開了嗎。波夕和莫里森！從兩側夾擊拖住它！<br>
+提康，妳立刻拉開距離！這傢伙很危險！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+反射神經很出色。不過盲目的發動攻擊可是會擊中友軍的哦？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+利用塞壬設下的迷霧悄無聲息的貼近到身邊的人不可能是友軍吧！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+妳不喜歡像這樣出現在生活中的意外之喜嗎？<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+紐澤西…雷達上…什麼都看不見…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+呵…並非塞壬，雷達上又無法捕捉其訊號的存在—妳是餘燼吧。<br>
+我可不記得什麼時候我們和餘燼成為友軍了！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+我也不記得有這件事呢。不過我是指揮官的友軍哦。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+什麼…妳知道指揮官的事嗎？！指揮官現在怎麼樣？！如果妳敢對指揮官下手的話——————<br>
+<span style="color:#ff9900;">？？？：</span><br>
+停。<br>
+指揮官現在很好，指揮官失蹤的事與我無關，我會幫助妳們與指揮官匯合。<br>
+這種程度的說明妳覺得可以嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+…提康，妳怎麼看？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+無法全信，不過也沒必要完全不信…如果她抱有敵意的話，早就選擇用炮火代替溝通了吧。<br>
+而且指揮官似乎…似乎一直是傾向於使用對話而不是武力與餘燼溝通的一派。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+唔…有道理啊。雖然我還是沒辦法相信妳，不過我相信指揮官的處理方針。<br>
+妳真的會幫我們營救指揮官嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+會。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+那我們就在這件事上達成立場統一了。<br>
+時間拖得越久指揮官的處境就會越危險，但是我們完全找不到指揮官的位置…妳有什麼辦法嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+妳們察覺到此處塞壬佈置在“棋盤”上的意圖了呢。<br>
+不過，這些只是表象而已哦。<br>
+雙眼獲取的訊息有限，因而誕生出能夠拓展雙眼的雷達。<br>
+正如雙眼能被濃霧所蔽一樣，也不要太相信雷達比較好哦。<br>
+比如，妳們在雷達上就看不到我吧？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+…看不到的原因不是因為妳故意躲開了我們的雷達追蹤嗎？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+我能做到的事，塞壬沒理由做不到。<br>
+它們之所以能被妳們追蹤到，只是因為它們想這麼做罷了。<br>
+侵入開始，正在修改參數設定————————<br>
+現在請看雷達。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+空無一物的海域內出現了大量敵方訊號？！<br>
+究竟是怎麼回事…妳在一瞬間製造出大量偽裝訊號欺騙了我們的雷達嗎？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+是讓它們暫時變得更靈敏而已哦。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+等等…類似的幽靈訊號艾塞克斯也在之前的作戰中遇到過…難道當時——<br>
+<span style="color:#ff9900;">？？？：</span><br>
+噓——接下來的過程必須非常精密才行。<br>
+三、二、一——————<br>
+Boom<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=錄像帶|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+在神秘同伴的幫助下，指揮艦的封鎖解除，艦隊也恢復了戰鬥力。<br>
+就這樣在海霧中行駛了一段時間後，一片燃燒的戰場映入眼簾。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+水面雖然能承載汝等之行，但除此之外皆為靜止之態。<br>
+殘片、子彈、甚至連烈焰與濃煙都……宛如時間停滯一般。<br>
+如此奇妙的景象妾身也是第一次見。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+簡直就像來到了被按下暫停鍵的錄影帶裡一樣…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+這也太厲害了吧…！我還以為塞壬只是在通訊器上做了點手腳，居然重現出了這麼逼真的場景啊！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+這片戰場，是棋子與棋子相互廝殺形成的…塞壬在背地裡一直用棋子做這種事嗎…<br>
+<br>
+戰場…靜止的…紀錄空間……<br>
+果然在密室中的事不單純是夢那麼簡單…<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+舊金山，這種情況可不常見！走吧走吧，我們貼過去看看！<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+嘿嘿嘿，這個是重櫻飛龍的棋子吧~真的完全靜止了哎，見到我也一點反應都沒有。<br>
+旁邊的那些船是——<br>
+<br>
+蒼龍，以及隸屬於重櫻救援艦隊的其他人。<br>
+這些對她們來說也許有些陌生的艦隊構成，對我來說卻再熟悉不過了。<br>
+此處是AF戰場，而且是我從未親眼所見的，屬於重櫻的AF戰場。<br>
+彼時，正是因為突然出現的塞壬艦隊，重櫻才得以獲得了像這樣開展營救的機會。<br>
+而周圍的場景，就恰好定格在了那營救之時…<br>
+不過，只有蒼龍和飛龍？赤城加賀去哪兒了…？<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+指揮官指揮官，我還從來沒有這麼近距離觀察過重櫻的航空母艦呢！<br>
+她們的艦載機收放用到的技術跟我們不太一樣哎！簡直和電影裡的符咒變化一樣！<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+哇哦！真的哎！ …而且有些艦載機在符咒狀態下就被靜止了…<br>
+嘿嘿，要不要拿一架回去當紀念品呢—<br>
+……啊，紋絲不動！<br>
+<br>
+重櫻的艦載機啊。在甲板上的…加上在空中盤旋的……<br>
+嗯…？重櫻在當時還剩下了這麼多完整的艦載機編隊嗎……？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+剛才去處理了點事，久等了。<br>
+時間緊迫。信濃，請回答我的問題——妳覺得指揮官怎麼樣？<br>
+<span style="color:#ffd000;">信濃：</span><br>
+指揮官嗎…一位能夠對話的，有趣的人。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+醒來之後也不要忘記今天發生的事哦。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+此處夢境，即將迎來結束之時了麼…<br>
+<span style="color:#ff9900;">？？？：</span><br>
+嗯，接下來我要對這裡做一些“改造”。<br>
+雖然不清楚妳夢境的具體原理，但是“改造”引發的衝擊會將摧毀妳所引發的脆弱干涉。<br>
+妳的夢境也就無法繼續了。<br>
+<span style="color:#ffd000;">信濃：</span><br>
+看來妾身就要到此為止了嗎，真遺憾…真想將這趟奇妙旅程繼續下去啊…<br>
+<span style="color:#ff9900;">？？？：</span><br>
+抱歉啦。<br>
+其餘諸位，妳們現在的位置……嗯，已經確認了，就這樣各自站在原位千萬別動哦。<br>
+三、二、一——————<br>
+<br>
+轟———————！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=破碎口|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+轟———————！<br>
+伴隨著巨大的轟鳴聲，前方被海霧籠罩的空間中憑空出現了一個直徑近百米的裂口。<br>
+與寧靜的外部不同，裂口內部是一片由火焰與硝煙構成的赤色煉獄。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+能感受到熱浪和硝煙的氣息，那個裂口不是幻覺…<br>
+妳…妳把空間像鏡子一樣打碎了？！<br>
+而且剛剛的是轟炸機吧！為什麼妳會有艦載機啊！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+相比空間破碎，最在意的事居然是那個嗎……<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+碎掉的空間雖然也很令人在意，但更重要的是，為什麼輕巡洋艦能放出轟碎空間的艦載機啊！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+作為輕巡洋艦，有轟炸機也很正常吧。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+完 全 不 正 常！<br>
+歸根結底，艦裝結構根本不允許吧！妳的艦裝上明顯沒有機庫和航空甲板，那些艦載機哪裡放出來的啊！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+秘密。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+那，我也能直接安裝上艦載機模組嗎！如果我也能使用艦載機的話，就再也沒人能抵擋住我的攻勢了吧！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不行呢。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+（被打擊…）<br>
+<span style="color:#ff9900;">？？？：</span><br>
+裂口內的空間，妳們覺得是什麼？<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+如果說是地獄，應該不夠嚴謹…但這個赤紅色裂口的存在也是無可辯駁的事實……<br>
+妳該不會真的在現實世界中炸出了一個連接到異次元的入口吧？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+很遺憾，我還做不到這麼誇張的事。<br>
+塞壬可是最擅長隱藏的存在了。<br>
+縱使近在眼前，它們也有無數種方法隱匿自己的蹤跡。<br>
+裂口之中，是由微層混合物和鏡面海域一同構建的特殊空間。<br>
+其中的場景有時美好有時殘酷，沉淪進去的話，再也無法脫身的可能性也是有的哦。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+看裡面這副鬼樣子…這次遇到的肯定不是什麼美好的空間！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+走吧，指揮官就在前方等著我們…不。<br>
+指揮官就在前方等著妳們呢。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=重逢|选项=26|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+發生什麼事了…海底地震？！<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+不對，是空間本身發出的震動！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+雷達上，出現了一支新的艦隊哦…<br>
+<br>
+在神秘同伴的倒數計時結束後，海域中傳來了一聲彷彿撕裂空間的巨響，緊接著是劇烈的震動。<br>
+在震動和巨響都結束後，一個無比熟悉的聲音出現在通訊器中。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+喲~大家久等了！<br>
+<br>
+沒想到來的人會是紐澤西啊…妳不是已經調走了嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+人家走出去沒多遠就聽到“指揮官失蹤啦！”這種震撼人心的消息，只能折回來組織救援了吧~<br>
+並肩作戰的機會說到就到，老實說還讓我大吃了一驚呢。<br>
+真是的，沒想到身經百戰的指揮官也沒能逃過塞壬的暗算啊~<br>
+<br>
+原本是前去救援的艦隊，結果反過來成為了要被救援的對象，真是慚愧…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哼哼~順帶一提，增援艦隊我也帶過來了哦。<br>
+<br>
+提康德羅加、波夕、莫里森…還有一位是…？<br>
+嗯，妳就是一直在幫助我們的“神秘友軍”吧，非常感謝妳提供的幫助。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不用客氣。我說過，我是指揮官的友軍哦。<br>
+鏡面既已破碎，計劃遭到破壞的塞壬應該會認定實驗無法繼續進行下去而露出獠牙吧。<br>
+空間被爆破後處於高度不穩定狀態，我這邊的拖延也已經差不多到極限了。<br>
+<br>
+拖延…？難道空間中這些停滯的景像都是妳做的嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+沒錯。妳知道這裡呈現的是什麼場景嗎？<br>
+<br>
+曾經的AF戰役現場。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+構成這一場景的要素呢？<br>
+<br>
+白鷹棋子、重櫻棋子、塞壬艦隊，以及發生在它們之間的戰鬥…<br>
+<span style="color:#ff9900;">？？？：</span><br>
+如果因為計劃變動，後面的場景不需要被繼續演繹下去的話，妳覺得會發生什麼事呢？<br>
+<br>
+……會停止相互對抗的演戲，然後從四面八方一起包圍過來？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+正是。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+指揮官，我作為代理指揮官的時間直到與您匯合為止，現在將艦隊指揮權交還。<br>
+既然危機還沒有結束，就請您帶領我們贏得最後的勝利吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=彼時此刻|选项=27|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+海域清理完畢，重櫻棋子、白鷹棋子與塞壬艦隊全部消滅完畢~<br>
+突然一下子全圍上來的時候確實聲勢浩大，結果還真是不堪一擊！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+塞壬棋子的戰鬥力…恢復到正常水準了。<br>
+<br>
+恢復到正常水準是什麼意思…？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+是這樣的，指揮官。在趕來這裡的途中，我們遇到了一批作戰性能和戰術應變力遠超常規棋子的重櫻棋子。<br>
+我和提康懷疑塞壬可能在做什麼特殊實驗，不過在剛剛的戰鬥中那些奇怪的現象消失了。<br>
+<br>
+暫時爆發出奇怪戰鬥力的棋子艦隊嗎…等回去之後仔細調查一下吧。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+指揮官，你已經將這裡全部觀察過了吧。發現什麼異常之處了嗎？<br>
+<br>
+所見的場景基本和了解到的情報相同。受損的重櫻航空艦隊因為塞壬的突然襲擊而獲得了喘息和撤退的機會。<br>
+不過…處於撤退階段的重櫻艦隊的艦載機數量似乎比預想中多了不少。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不是錯覺哦，天空中的艦載機確實多了。<br>
+有一些彼時並非重櫻航空隊的艦載機混入了重櫻最後的攻擊波中。<br>
+<br>
+誰的…？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+怪物的。<br>
+雖然只是些棋子而已，但那個怪物應該已經沒有辨別能力了。<br>
+指揮官，既然您剛剛親自指揮艦隊摧毀了“飛龍”，就請再次準備迎接怪物的憤怒吧。<br>
+就像曾經的AF戰場中那樣。<br>
+<br>
+……像曾經的AF戰場中那樣？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+敵人正在接近中，諸艦做好應急準備。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+迎擊…？周圍已經沒有任何敵人了，究竟要————<br>
+<br>
+轟———————！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=META分類|选项=28|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+大家小心！鋪天蓋地的艦載機攻過來了！這次的規模和威力可不是開玩笑的！<br>
+究竟是從什麼地方冒出來的…我這就開始索敵！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不需要，我有更簡單的方法哦。<br>
+侵入開始，模組性能調整中—完成。<br>
+怎麼樣，看到了嗎？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+噢噢，看到了！現在螢幕上出現了一個超清晰的強敵訊號！妳又幫我們升級了次雷達麼！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+只是暫時性的而已哦。<br>
+<br>
+在剛才的攻擊中有一絲熟悉的感覺…<br>
+類重櫻艦載機、誇張的襲擊規模、無法被捕捉的行蹤…<br>
+…本次在幕後行動的果真是餘燼的飛龍嗎？可是為什麼…<br>
+<span style="color:#ff9900;">？？？：</span><br>
+META。<br>
+並非餘燼，更並非飛龍，發動襲擊的只是單純的META。<br>
+<br>
+META和餘燼…並不是一個概念嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+餘燼是組織，META是本質。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+…這麼說來，妳也可以被歸類為META？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+是。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+……這就有趣了。<br>
+META能夠輕鬆的躲避我們的追蹤，卻能輕易被妳的雷達發現。<br>
+不僅如此，妳甚至能通過某種方式使得與你同隊的我們也暫時獲得了對META的追蹤能力。<br>
+簡直就像對META作戰的熟練專家一樣啊~明明妳也是META？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+……………………<br>
+…這個問題現在不重要吧？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+那要取決於妳對重要的定義了~<br>
+不過至少META並不是鐵板一塊，而妳是站在我們這邊的，我這麼理解可以嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+META是本質，並非組織。我是指揮官的友軍…這一點我可以向妳們保證。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+那進入最後一個問題——為什麼我們已經能夠追蹤META的雷達上還是看不到妳啊？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不要問蠢話。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嘿嘿嘿，知道妳想保持神秘感啦！<br>
+強敵正在高速逼近。既然妳是站在我們這邊的，妳也會同我們一起迎擊的吧？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+當然，這正是我此行的目的。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+妳們的強大我早有耳聞…此次能與妳並肩戰鬥是我的榮幸！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不…能再次與你並肩戰鬥是我的榮幸，紐澤西。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=似是故人|选项=29|主框=1|样式=primary|展开=是}}
+<span style="color:#ec5d53;">？ ？：</span><br>
+……………<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+終於現身了啊，隱藏在幕後的敵人，製造了這一系列襲擊的元兇！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+那個樣子看起來好像——<br>
+<span style="color:#ff9900;">？？？：</span><br>
+蒼龍，或者說蒼龍·META。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嘖…全身充斥著憤怒與瘋狂的感覺，感覺她的眼神裡我沒有看到任何一絲知性的光輝。<br>
+餘燼裡也有這樣的成員嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+所以說…是META！並非餘燼。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+好…！M E T A！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+這是在META之中，因過度META化而誕生的怪物。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+呃…我不是很明白。<br>
+<br>
+是指經過META化之後，誕生的一種可能結果嗎…?<br>
+<span style="color:#ff9900;">？？？：</span><br>
+也可以這麼理解。<br>
+雖然看起來是蒼龍的樣子，但是這個怪物與妳所知悉的餘燼飛龍是完全不同的存在，彼此之間也沒有任何關係。<br>
+餘燼，尤其不會和這樣的怪物共存…還是不要把她們聯想到一起比較好哦。<br>
+<br>
+……為什麼會誕生這樣的存在呢？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+「微光計劃」是一切的起因，而將其發揚光大的…應該是「審判者計劃」吧。<br>
+<br>
+微光計劃和…審判者計劃？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+看來妳真的什麼都不知道啊…這種熟悉的陌生感，真是奇妙的感覺。<br>
+我好像知道企業猶豫不決的理由了。<br>
+<br>
+不好意思，我們其實在哪裡見過嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+誰知道呢，也許在夢裡吧~<br>
+<br>
+'''''<span style="color:black;">选择项1：…………</span>'''''<br>
+'''''<span style="color:black;">选择项2：不要學習信濃的話術啊—！</span>'''''<br>
+<span style="color:#ec5d53;">{namecode:93}·META：</span><br>
+——————！！！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不好…現在不是閒聊的時候。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+嗚哇！嚇，嚇死我了…這個人突然間是怎麼回事啊！<br>
+喂！有事說話，妳突然叫那麼大聲幹嘛啦！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+放棄吧，怪物是無法交流的。<br>
+<span style="color:#4eb24e;">{namecode:196}：</span><br>
+真、真的直接打過來了——？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+{namecode:199}。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+簡直像猛獸一樣嘛~不過，她要面對的可是比猛獸還要兇猛的“Black Dragon”！<br>
+火控系統瞄準目標，讓這個敢於襲擊指揮官的怪物見識一下白鷹最大最強戰列艦的厲害吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=艦隊升級|选项=30|主框=1|样式=primary|展开=是}}
+<br>
+轟————————！<br>
+<span style="color:#ec5d53;">{namecode:93}·META：</span><br>
+——————！！！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嘖…被我的炮擊準確命中後不可能像這樣安然無事才對啊？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+就算是這種方式作戰，META終究還是META嗎。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+喂—！既然妳有辦法升級我們的雷達，有沒有辦法連主炮和火控也一起升級了啊！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+不要急，我正在進行調整。<br>
+雖然時間有些緊張，不過我也算有一些秘密的技術儲備。<br>
+侵入開始——完成。<br>
+指揮官，現在命令艦隊向怪物再次發動攻擊。<br>
+所有參數都交給我來修正，妳們只需要盡情傾瀉火力就好。<br>
+讓我見證一下妳們的實力吧。<br>
+<br>
+水面、空中、水下，各艦火力全開！<br>
+在紐澤西進行炮火壓制的時候，對敵人發動全方位攻擊！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=千層套路|选项=31|主框=1|样式=primary|展开=是}}
+<br>
+儘管蒼龍·META如同瘋狂的猛獸一般，不懼損傷地進攻著。<br>
+但是，她並沒有像此前遇到的餘燼高雄一般不可戰勝。<br>
+在神秘友軍的協助下，艦隊已經完全壓制住了其行動。她的動作已經明顯遲緩下來，攻擊也在不斷地變弱。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+接下來就是最後一擊了——<br>
+接招吧————Black Dragon Buster！<br>
+唔啊！好驚人的威力，這真的是從我的主炮裡打出去的炮彈嗎？！<br>
+…妳究竟做了什麼？！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+這些都是依靠妳們自身的力量做到的哦，我只是提供了一些微不足道的幫助而已。<br>
+妳們真正的力量，絕對不止於此…<br>
+<span style="color:#4eb24e;">{namecode:195}：</span><br>
+等下……紐澤西！在剛剛炮擊命中的地方沒有看到殘骸，敵人在被擊中之後完全消失了？！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+這怎麼可能？剛才那一擊我絕對命中了！而且我親眼看到了損傷的發生啊？！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+那也就是說…在命中之後的，爆炸產生的煙霧消散前的一瞬間中發生了什麼事…？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+難道…這裡還有塞壬的機關！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+大家小心，又有一支艦載機隊出現了？！趁機拉開距離再次發動攻擊了嗎！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+等等，提康，不要攔截！那批艦載機是…<br>
+嗯，那批也是我的艦載機。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+…哈？<br>
+<br>
+轟———————！<br>
+突然出現的艦載機群向著沒有任何敵人的海面發動猛烈攻擊。<br>
+然後…和之前相似的空間震動再次出現了。<br>
+僅一瞬之間，宛如鏡面翻轉一般，充斥著紅色的戰場消失了，取而代之的是平日裡再熟悉不過的藍天與碧海。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+居然…還有一層。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+…妳幹嘛這麼吃驚啊…剛剛破壞塞壬機關的攻擊不就是妳發動的嗎？<br>
+<span style="color:#ff9900;">？？？：</span><br>
+嗯，沒錯，是我。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+唉…敵人是利用這一層空間製造的空隙逃跑的吧，現在追已經來不及了。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+真沒想到塞壬和META之間居然存在合作關係…<br>
+<span style="color:#ff9900;">？？？：</span><br>
+這件事也是我正在調查的事項之一。本來我只是有所懷疑，現在看來或許…<br>
+不過在它那種狀態下，能不能理解“合作”這個詞的含義還很難說呢。<br>
+看來我來幫忙確實是正確的選擇，只有敵人力量單方面的強大未免太不公平了吧~<br>
+<br>
+'''''<span style="color:black;">选择项1：關於餘燼——</span>'''''<br>
+'''''<span style="color:black;">选择项2：關於妳——</span>'''''<br>
+<span style="color:#ff9900;">？？？：</span><br>
+我知道妳有很多問題，但是指揮官，現在還不到回答的時候。<br>
+今天就到此為止吧。<br>
+<br>
+既然妳不想說的話——嗯，就到此為止吧。<br>
+再次感謝您在本次行動中提供的幫助。<br>
+<span style="color:#ff9900;">？？？：</span><br>
+海倫娜，要跟在指揮官身邊，好好的戰鬥，好好的生活哦。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+哎…？嗯…！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+那麼諸位，我該回去了。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+後會有期哦，神秘的友軍~！以後再一起戰鬥吧！<br>
+<span style="color:#ff9900;">？？？：</span><br>
+如果，有機會的話…<br>
+<br>
+在留下這句話後，海倫娜·META與身邊的艦載機群一起高速駛向了還未完全散去的海霧深處。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+我說啊，她的身份那麼明顯…不知道她究竟想隱藏什麼啊？<br>
+<br>
+也許這是屬於她自己的某種堅持吧……<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哼哼哼~從這次針對AF的襲擊事件開始到剛剛我們徹底脫困為止，之後要寫的報告恐怕要如高山一樣吧！<br>
+我還有調動命令要執行，這些事就全部拜託你了哦，指揮官~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=新的調查|选项=32|主框=1|样式=primary|展开=是}}
+<br>
+數日後 白鷹某設施內<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+果然，沒有猜錯…除了餘燼之外真的還有隸屬於其他陣營的META的存在！<br>
+多謝妳帶來詳細報告了~<br>
+餘燼，至少META不是同伴…關於這一點的最初判斷是正確的。<br>
+蒼龍·META，或者更多的其他什麼人可能早就在戰鬥中與我們交過手了…<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+妳認為列星頓身上的傷也與這些事情有關嗎…？<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+…………<br>
+繼續接觸META是有風險的。<br>
+META與我們相似，卻又不完全相同。<br>
+META彼此之間也差異巨大…作為一個陣營，餘燼內部居然對於指揮官的態度都沒能達成統一…<br>
+北方聯合也是，為了探尋自己無法破解的秘密，居然不惜讓指揮官暴露在極度危險之中。<br>
+如果不是我們及時將指揮官接了回來，天知道北方聯合還會繼續做什麼瘋狂的事…<br>
+真是的，所有人都在試圖從指揮官的身上得到什麼，但不是所有人都真正在乎指揮官這個人…<br>
+不論異常心智魔方適應性的來源如何，效果如何。<br>
+僅憑指揮官親身戰鬥在最前線保護著世界的安全這一點，就值得所有人發自內心的尊重了吧？<br>
+…不但是為了我自己，還是為了妳，為了姐姐，為了指揮官，為了無數在這場戰爭中受到傷害的人…<br>
+我們都必須要儘早查明塞壬所引發的一系列事件背後的真正原因才行。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+我明白。而且…我已經得到大姐的支持了，接下來的調查會更加順利的哦~<br>
+<span style="color:#4eb24e;">薩拉托加：</span><br>
+真的嗎？！太好了！<br>
+哼哼~微光計劃和審判者計劃是嗎…聽起來像是兩個不錯的調查切入點啊~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=規則升級|选项=33|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+果然出現了，而且與塞壬之間有著不清不楚的關係哦。<br>
+妳是怎麼發現塞壬在那之下還有一層鏡面的？<br>
+<span style="color:#a020f0;">？？？：</span><br>
+因為曾經，見過類似的情況而已…<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+原來如此，妳們那裡進行過這樣的實驗啊。<br>
+<span style="color:#a020f0;">？？？：</span><br>
+海倫娜，妳為什麼要從餘燼那邊過來？<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+嗯？我有說過我加入過餘燼嗎。<br>
+<span style="color:#a020f0;">？？？：</span><br>
+只是猜想而已…妳們身上有種相似的氣質，知道的情報很多，而且都一樣喜歡說謎語……<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+…抱歉，有些事我還不想說。<br>
+<span style="color:#a020f0;">？？？：</span><br>
+不用在意，彼此之間不討論過去的事也是我們之間的默契。<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+畢竟對於我們來說，過去，基本等於悲傷的同義詞。<br>
+在撤離後與塞壬一同行動，然後分道揚鑣，在無數實驗場中壯大力量的餘燼。<br>
+從撤離之日時就開始，日復一日，兢兢業業執行審判者計劃的塞壬。<br>
+<span style="color:#a020f0;">？？？：</span><br>
+還有知曉了這一切，卻選擇從遠處凝望著的我們…<br>
+我們還真是站在復雜的螺旋之中啊…<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+不過，至少我們是指揮官的友軍不是嗎？<br>
+<span style="color:#a020f0;">？？？：</span><br>
+是哦。我們是，而且只是指揮官的友軍。<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+在我離開的這段時間，奇怪的閃回還在繼續嗎？<br>
+<span style="color:#a020f0;">？？？：</span><br>
+嗯…而且在來到這裡之後更加頻繁了。<br>
+她的情況已經很嚴重了，如果得不到幫助的話，可能很快…<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+…這樣啊。<br>
+<span style="color:#a020f0;">？？？：</span><br>
+海倫娜，妳真的沒有出現那些閃回嗎？這次妳甚至當面見到了吧。<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+我…<br>
+沒有，我什麼都沒感覺到。<br>
+企業的行蹤如何？<br>
+<span style="color:#a020f0;">？？？：</span><br>
+她的行動很奇怪…這麼拖沓完全不像她的做事風格…<br>
+不過也多虧她們鬧出來的動靜，仲裁機關應該一時半會發現不了我們的存在…<br>
+<span style="color:#ffa550;">海倫娜·META：</span><br>
+走吧，接下來要做的事可是如繁星一樣多呢…<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
