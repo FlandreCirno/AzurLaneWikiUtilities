@@ -150,7 +150,7 @@
 {namecode:197}今天的心情好像很不錯。<br>
 <span style="color:#4eb24e;">{namecode:197}：</span><br>
 指揮官需要上一次演習的報告嗎？我這就拿過來……<br>
-（指揮官果然完全不在意麵具的事情……很好。）<br>
+（指揮官果然完全不在意面具的事情……很好。）<br>
 （這樣下去的話，和路易斯的賭約就能贏下來了……）<br>
 <span style="color:#4eb24e;">庫珀：</span><br>
 指揮官！我來給你送文件來了！<br>
@@ -186,7 +186,7 @@
 <span style="color:#4eb24e;">{namecode:197}：</span><br>
 戴上面具的話會嚇到大家，但是不戴的話……<br>
 <br>
-{namecode:197}的情緒好像有些變化，果然是在在意麵具的事。<br>
+{namecode:197}的情緒好像有些變化，果然是在在意面具的事。<br>
 <br>
 '''''<span style="color:black;">选择项1：提議明天一起去散心</span>'''''<br>
 <span style="color:#4eb24e;">{namecode:197}：</span><br>
