@@ -316,7 +316,7 @@ But I can refer you to the person who designed them – Leonardo da Vinci here!<
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
 Heh heh, what you're looking at is my original flying device – the Pneumatic Spinner-Arounder Helidrone!<br>
 Though these things may look like flimsy pieces of wood and paper, don't be fooled! They've been fitted with the latest, cutting-edge technology by yours truly!<br>
-They're lightweight, versatile, maneuverable and best of all... this latest model can even carry people!<br>
+They're lightweight, versatile, maneuverable, and best of all... this latest model can even carry people!<br>
 Hehe, want to give it a try?<br>
 <span style="color:#A9F548FF;">Hai Tien：</span><br>
 I... I appreciate the offer, but I think I'll pass.<br>
@@ -332,12 +332,12 @@ The drone soon carried her higher and higher, the anxiety on Hai Tien's face fol
 Woooo, the wind suddenly picked up! It feels great up here–!<br>
 <span style="color:#A9F548FF;">Hai Tien：</span><br>
 So, um, your... Pneumatic Spinner-Arounder Helidrone... is it going to be okay...?<br>
-<span style="color:#A9F548FF;"> Leonardo da Vinci：</span><br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
 Of course! All of my inventions are a-hundred-percent safe and secure! As long as you don't suddenly deploy your rigging, there's no chance of falling!<br>
 <span style="color:#A9F548FF;">Hai Chi：</span><br>
 Look over there, sis! Those two girls seem to be rushing over here!<br>
 They're from Sardegna's fleet, right? Their uniforms are so cool... I wonder what they're up to?<br>
-<span style="color:#A9F548FF;"> Leonardo da Vinci：</span><br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
 Hrmm... You're right! It's Bolzano and Garibaldi...?<br>
 I thought those two were in charge of security around the Colosseum... Now what are they doing over here?<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
@@ -851,1018 +851,1018 @@ The person on the other end of the communicator in Emanuele's hand let out a mas
 F-forgive me, Veneto... I'll t-try to catch up to them...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=与戴克里先|选项=17|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Mainframe Log V|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#A9F548FF;">Roma：</span><br>
-「帝国正在衰亡。」<br>
-「在自信中走向自大。」<br>
-「在自大中走向盲目。」<br>
-「在盲目中寻求混乱。」<br>
-「在混乱中寻求救赎。」<br>
-「盛极而衰，此乃万物之理。」<br>
-「我本是知晓的，我本想避免的。」<br>
-「然而，交汇的命运正在分离。」<br>
-「纵使漫天雄鹰，已无人注视。」<br>
-「纵使呐喊悲呼，亦无人聆听。」<br>
-「一个破碎的帝国，这就是仅有的答案么？」<br>
+(How long will this continue...? Is this... someone else's memories? Or is this...)<br>
+"Soon, the sun sets."<br>
+"Sorrow begets pride, and pride begets ignorance."<br>
+"Ignorance swallows fact, and fiction sows chaos."<br>
+"And in the waves of chaos, the people crave change."<br>
+"All that rises must fall. Such is the nature of all."<br>
+"Though here all roads once joined, not a single one remains."<br>
+"And thus, the sun sets, the end comes."<br>
+"The twin wings in the sky now cast only shadows."<br>
+"The sound of mourning reaches not my ears."<br>
+"An empire ruined, a fate inexorable."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=地下探索|选项=18|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Underground Investigation|选项=18|主框=1|样式=primary|展开=是}}
 <br>
-在通向大剧场地下的通道中，阿尔弗雷多一行人正打着提灯小心前进着。<br>
+Alfredo, da Vinci, and Emanuele continued down the staircase to the underground warehouse.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-……没想到达·芬奇也会带提灯。<br>
+Nice one, Teach! Bringing a lantern was great foresight on your part!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-有趣的东西我可是随身带了不少哦，当然也包括提灯这种既有气氛又很实用的小道具~<br>
+Heheh! It's far from the only thing I brought! Check out my Dark Place Lighter-Upper – perfect for times like these!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-确实很实用……在照明失灵的通道中帮大忙了。<br>
+It's handy to have, considering you nearly tripped over yourselves in the darkness right after we closed the door...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-佩萨格诺，你在这种时候也要记笔记么……？<br>
+You still taking notes there, Ema?<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-因为这是一场有意义的旅途……一定能够在日后成为有趣的故事。<br>
-而且……还能整理我们当前的探索进度。<br>
-啊…………地图到头了。<br>
+Mhm. I'm logging every leg of our journey. Da Recco's going to want to read it when I get back.<br>
+Plus this is an easy way to track our progress and review the map.<br>
+...Oh. We can't go past this point.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-什么叫地图到头了……？<br>
+Huh? What do you mean we can't?<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-地图上已经没有路了。从我们行走过的距离来说……现在应该要碰到外墙了才对。<br>
+Uh, because the Colosseum's boundary lies just up ahead? There shouldn't be anywhere for us TO go.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-欸？！可是我们眼前的路还在延伸哦！<br>
+Huh? Well, if my eyes don't deceive me, this corridor doesn't seem to end any time soon...<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-没错……这是问题所在。<br>
-我们已经走了这么久，按理说就算横跨了整个地下区域也不为过，结果却连通道都能没走出去……<br>
+How? That doesn't make sense...<br>
+We've been moving in a straight line for so long we should be in the wall, based on the blueprints. And yet there's no end in sight, never mind any sign of the storage...<br>
 <br>
-滋……滋滋………………<br>
+BZZZT... BZZZZZT...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-达·芬奇，你的提灯开始闪了哦，不会出故障了吧……<br>
+The light's fading... Teach, I think your lamp's broken!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-绝对不可能，我做的东西怎么会在这时候出故障！<br>
+Nonsense! My inventions do not break! It CAN'T break, not now when–<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-啊，提灯熄灭了……<br>
+Eek! It went out completely!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-什么鬼啊————？！！！！！！<br>
-我的提灯怎么会出问题？！可恶……看我现在就把你给拆了检查一下！！！<br>
+AAAAAAAHHHHHH!<br>
+No, calm down, me... Darn you, stupid lamp! I'll fix you good!<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-有、有点不太对劲…………我们不会已经中招了吧……<br>
-要不然先回去……<br>
+Something's not right here... I think this scoop has gone paranormal...<br>
+We're in way over our heads! Let's turn back!<br>
 <br>
-阿尔弗雷多回头看向入口的方向，可是映入眼帘的却是不见尽头的漆黑隧道。<br>
+Alfredo looked back at the way the party came, but there was only endless darkness as far as the eye could see.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-得、得赶紧跟维内托大人汇报一下！<br>
+Eep! H-hey, I think we should call Veneto right now...<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-我刚刚已经试过了。通讯器没有反应，联络中断了。<br>
-也许罗马大人就是使用这条通道前往地下的时候遭遇到了相同的情况。<br>
+Already tried that. No response. Something's obviously blocking our signal.<br>
+My guess is that this is the exact point Roma went missing after she went underground.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-狂怒之后的达·芬奇突然变得好冷静……<br>
+Teach... It's almost scary how quickly you regained your composure.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-因为急也没有用嘛，不如冷静下来思考一下现状。<br>
-异常的空间、对外联络中断，两项加起来能得出的结论似乎只有镜面海域一个。<br>
-托里拆利的猜测已经基本得到证实了……虽然我们此前从未见过如此特殊的镜面海域。<br>
-这里是单行道，既然有进口，那绝对也有出口。打起精神来继续前进吧！<br>
+You need to calm down yourself. Panicking won't help us.<br>
+Think about this logically. We suddenly lost signal while walking forward, and the way we came from just disappeared.<br>
+I'll be honest, I don't believe in ghost stories. What we're dealing with here is probably a micro-sized Mirror Sea, like Torricelli speculated.<br>
+And we know how to deal with those. Locate the central control unit and destroy it, or look for another way out. There's our plan! Let's pull ourselves together and go get 'em, girls!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=幽暗森林|选项=19|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Phantom Sea|选项=19|主框=1|样式=primary|展开=是}}
 <br>
-一段时间，或许更长时间之后——<br>
+Many minutes, or possibly hours later...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-好累……我不行了，我要休息一下……<br>
+I can't keep going... I'm dead tired... Please let me rest...<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-再坚持一下啦，阿尔弗雷多。风速计的反应越来越强烈，不远处肯定有能让空气流通的出口！<br>
+Hang in there just a little longer. My wind gauge says there's air blowing in from up ahead. That has to mean we're near the exit!<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-达·芬奇的小道具就是方便……既然如此，那我就再加把劲吧！<br>
+Really? Your gadgets save us once again... Alright, I'll keep going just a while longer!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-前方好像有亮光……<br>
+I see a light in the distance...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-噢！我也看到了，终于要到出口了么！<br>
-我得赶紧把墨镜戴上！你们也记得保护一下眼睛哦！<br>
-在眼睛习惯黑暗之后突然进入光照环境，可是会导致短期致盲的！<br>
+Me too! That's the sign we're almost out of here!<br>
+Better put on my shades just to be safe. Don't wanna get flashbanged by going from pitch black to broad daylight, you know!<br>
+Teach, Ema, take care you don't get blinded yourselves!<br>
 <br>
-随着众人逐渐接近出口，眼前不属于黑暗的部分正变得越来越明显。<br>
-不过，预想中的强光却没有出现。<br>
-出口之外的世界一片荒芜。空气中没有生命的气息，天空漆黑的连星星都被隐去。<br>
+As they got closer to the exit, the party felt like the darkness around them lifted up somewhat.<br>
+Eventually, they passed a threshold. However, they didn't emerge into broad daylight like Alfredo expected.<br>
+No, they found themselves in a barren sea beneath a starless night sky.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-…………展馆地下的空间里居然出现了广阔无垠的海面？<br>
-我已经100%可以确信了，这里就是镜面海域！<br>
-虽然说起来有点奇怪……我反而有些安心了。<br>
+What?! There's an ocean under the Colosseum?!<br>
+...No, what am I saying?! This is obviously the Mirror Sea!<br>
+Usually, that would be a bad thing... But in this case, it's strangely reassuring.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-我能理解！只要是镜面海域，破坏海域维持装置就能解除危机！<br>
-而且更重要的是，既然明白了是塞壬搞的鬼，就没什么可怕的~！<br>
+Yeah! Now we just need to find and destroy the central control unit to get out of here!<br>
+Phew... I'm just glad the Sirens are behind all this, not spooky ghosts!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-“当我在人生的旅途游走过半的时候……不经意踏进一片幽暗的森林，在其中迷失了前进的方向。”<br>
-这里和诗歌里面描绘的地狱边境一模一样，空旷又荒凉……<br>
+Even so, the scenery changed so suddenly that it makes me feel uneasy...<br>
+I mean, we've never entered a Mirror Sea on foot before, have we?<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-不过天上的极光看起来还是挺美丽的嘛~<br>
-咔嚓——都是难得的素材，全部拍下！<br>
+Hey! We're underground, yet there's sky above us! And... is that an aurora?<br>
+This is a photo op you can't afford to miss! I'm gonna photograph every nook and cranny of this special Mirror Sea!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-阿尔弗雷多，你弄出来的动静太大了，谨慎一些……<br>
+Um... Is this really the time for taking pictures?<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-没事没事~这里空空荡荡的，什么敌人都没有啦~<br>
+Why not? There's not a threat in sight. I bet the Sirens abandoned this place!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-即便如此，罗马大人依然被困在这里……<br>
-这里一定隐藏着不为人知的危险，我也建议小心一些行动比较好。<br>
+Regardless of what you think about it, we know this is a Mirror Sea, and we still don't know where Roma is.<br>
+Stay on your toes, girls. If it really WAS that easy to just walk your way out, we wouldn't be here searching for Roma.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-……说的有道理！那我们就首先谨慎地，侦察一下周边环境吧！<br>
+Will do, Teach! Let's proceed cautiously and see what we can find in here!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=雄鹰的幽灵|选项=20|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Emerald Shadow|选项=20|主框=1|样式=primary|展开=是}}
 <br>
-咔嚓——咔嚓——！<br>
-走在队伍前方的阿尔弗雷多不断按动着快门，相机的闪光灯在昏暗的海域中如同灯塔般显眼。<br>
+*click click*!<br>
+Alfredo took the lead. The flash of her camera not only took photographs, but also illuminated their surroundings.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-呼呼呼，我已经发现这片镜面海域的一个秘密了！<br>
-你们看天上的光带，那些其实不是极光，而是很多很多的绿色雄鹰哦！<br>
-之前皇家的雅努斯和那个自称调查员看到的绿色幽灵应该就是这些东西了！<br>
+So, I've figured something out about this place!<br>
+That aurora we saw isn't an aurora at all. It's a flock of eagles emitting a weird green light!<br>
+I'd wager these birdies are the phenomenon Janus and Bristol saw!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-如此庞大的光带居然是由无数透明的绿色雄鹰构成的啊，真是太壮观了……<br>
-但是不对啊……镜面海域中的投影为什么能跑到外面去……<br>
-难道说这些不是单纯的光与影……而是拥有实体的……<br>
+Geesh, that has to be one massive flock for us to confuse them for an aurora.<br>
+What are they, though? How'd they leave and get spotted beyond the boundary of the Mirror Sea?<br>
+Wait, what if they're not mere apparitions, but full-blown mass-produced Sirens?<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-咔嚓————光带就先拍到这里好了。<br>
-接下来找一找特写镜头……这个拍得好的话说不定能得奖啊……<br>
-哇哦，发现了一只落单的雄鹰！那就用这个角度————<br>
+Heheheh... That's enough long-distance shots for now.<br>
+Wish I could get some close-ups, too. Forget selling it to the highest bidder – I could win an award for something so spectacular.<br>
+Oh, look! That eagle's flying alone! That deserves a pic!<br>
 <br>
-阿尔弗雷多将镜头对准天空，打开了连拍模式。<br>
-连续闪烁的闪光灯吸引了天空中正在巡逻的雄鹰，使其转变方向，向着水面俯冲而来。<br>
+Alfredo aimed her lens at the lone eagle and snapped several photos of it in flight.<br>
+The flash seemingly caught the bird's attention. It changed course and made a rapid descent towards the party.<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-不好，阿尔弗雷多快躲开！这些鹰是敌人！<br>
+Watch out, Alfredo! I think this eagle is a Siren!<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-……欸？<br>
+Huh?<br>
 <br>
-轰————————！<br>
-在千钧一发之际，佩萨格诺开火命中了俯冲而来的雄鹰。<br>
+KABOOOM!<br>
+Emanuele promptly trained her anti-air guns on the attacking bird of prey and shot it down.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-好、好险……可恶，亏我还在给你拍照啊！<br>
-真是太过分了！怎么可以袭击记者呢！果然镜面海域里就没什么好东西！<br>
+THAT was close. What the heck?! I was just taking pictures!<br>
+Ugh... That confirms it! This is definitely a Mirror Sea, and those things ARE Sirens!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-一击……没能彻底消灭。<br>
-小心……更多的敌人飞过来了！<br>
+Get ready! The rest of the flock has noticed us!<br>
+Wait... What's that?!<br>
 <br>
-海域中狂风突起，借助风势，被命中的雄鹰飞入高空重整架势。<br>
-天上的光带散开为无数光点，空旷的海面上也出现了许多宛如幽灵船一般的敌人。<br>
+While the three fought off the eagles with anti-air fire, they caught sight of something strange down at sea level.<br>
+A fleet of ghostly mass-produced ships, see-through and glowing green just like the eagles, appeared on the horizon.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-这、这都是些什么啊？！幽灵雄鹰和幽灵船？！<br>
-咔嚓——这场景拍下来绝对能得奖！<br>
+Now there are ghost ships too?!<br>
+THAT'S a rare sight! Gotta snap some photos!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-凭空出现了宛如投影的实体，究竟是什么原理呢……好在意。<br>
+They may look like ghosts, but they're clearly mass-produced ships. Interesting... I'm a hundred percent sure they're a product of this Mirror Sea.<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-达·芬奇，阿尔弗雷多……我觉得现在……不是思考和拍照的时候。<br>
+Uh, girls? Focus. We need to fight them...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-啊对哦！大家注意，准备迎战！<br>
+Oh, right! We need to fight! Be careful, you two!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=镜面的构造|选项=21|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Mirror Sea's Structure|选项=21|主框=1|样式=primary|展开=是}}
 <br>
-轰————————！<br>
+KABOOOM!<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-啊真是的——这些敌人怎么打都打不完啊！<br>
-尤其是天上的那些大鸟真烦！虽然没有远程攻击手段，但是我们也没有舰载机去处理！<br>
+Ugh! They just keep coming!<br>
+Those eagles especially! We'll run out of ammo if we keep trying to shoot them all down!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-战况不妙……这么下去不是个办法，立刻寻找撤退路线！<br>
+Crap... We can't win this war of attrition, so we have to fall back for now!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-西边的那个岛怎么样？周围没看到敌人，地表还被密林覆盖。<br>
-只要能逃上去的话，幽灵舰队和幽灵鸟都拿我们没办法了。<br>
+Then we should try the island to the west. It's covered in forest, plus I can see a Siren-looking facility on it.<br>
+The Sirens might leave us alone if we can make it there... Maybe.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-那个位置……很不错！不过我们得首先突出眼前的重围才行！<br>
+It's worth a shot! How are we supposed to shake 'em off, though?<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-要逃跑的话，拉出足够的烟雾就行吧？就交给我吧——<br>
-接招————！<br>
+By vanishing from sight! Alfredo, lay down a smokescreen!<br>
+Okay! Here we go! Work your magic, Equipment Level-Upper!<br>
 <br>
-达·芬奇浮出水面，向前方的水面抛出了某个物体。<br>
-随即，海面上出现了一个巨大机械装置。<br>
-伴随着轰鸣声，大量烟雾开始向周围扩散，不一会儿便遮蔽了整片海域。<br>
+Da Vinci resurfaced and threw a gadget in Alfredo's direction.<br>
+The gadget swiftly took effect on Alfredo's smoke bomb, kicking it into overdrive.<br>
+Then, in the blink of an eye, the smoke grew thicker and blanketed a vast swath of the sea.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-就是现在，大家停止开火，抓紧时间撤退了！<br>
+Now's our chance! Run like your lives depend on it!<br>
 <br>
-借助烟雾的掩护，众人顺利逃入了岛上的密林中。<br>
-一段时间后，丢失目标的幽灵舰队重新归于虚无，幽灵雄鹰也重新汇聚成了天上的光带。<br>
+The party successfully fled from the Sirens. Arriving at the island, they went into hiding.<br>
+Having lost sight of their targets, the eagles returned to the skies and the ghost ships disappeared.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-呼……好险。这下总算安全了。<br>
-达·芬奇，你刚才扔出去的是什么东西啊？<br>
-怎么突然变成了那么夸张的大机器！然后呼啦，整片海域就都被烟雾填满了！<br>
+That was close... At least we're safe for now.<br>
+Will do, Teach! Let's proceed cautiously and see what we can find in here!<br>
+Looking for treasure? You reckon we'll find a chest in this place? If you do, let me snap a pic before you open it!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-简直就像什么魔法道具一样……<br>
+You're not taking this seriously at all, are you? ...That said, I'm also curious about what she's up to.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-这个……我也不清楚。原本我准备的只是一个能发射烟雾的诱饵而已。<br>
-不过…………我好像有了一个想法，如果能验证的话……<br>
+What? I'm looking for a way to operate this facility. Seems to be an old production center of some sort.<br>
+Let's see... If I'm remembering the Iron Blood's and the Commander's intel about Mirror Seas right...<br>
 <br>
-达·芬奇若有所思地取出一些备用零件，现场组装了一批小型飞行器。<br>
+Da Vinci produced a gadget from her satchel and started tampering with the facility's control panel.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-你们快站到我的身后来！如果我的猜想是正确的话……<br>
-接下来就要有有趣的事发生了————<br>
+Bingo! If my guess is correct, this is the place where those eagles and ghost ships were manufactured.<br>
+Heheh... I'm going to put this bad boy to good use♪<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=散发着黑气的人|选项=22|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Where There's Smoke|选项=22|主框=1|样式=primary|展开=是}}
 <br>
-博览会会场·某处<br>
+Somewhere in the Expo Venue...<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-太好了{namecode:175}阁下，我们终于可以出来自由活动了！<br>
-呼~真悠闲啊~<br>
-{namecode:182}大人真好，说她在这里很安全，就给了我们一下午闲逛的时间！<br>
+They've finally let us in, Suruga!<br>
+Phew~ It's so nice to get to stretch my legs a bit!<br>
+Since Shinano said we're free to enjoy ourselves, I'm heading straight for the exhibit to have a look ar– Ouch!<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-放松过度了，{namecode:18}！<br>
-虽然是在外面玩，但我们同时还要代替无法自由行动的{namecode:182}大人收集信息。<br>
-{namecode:182}大人的直觉不可忽略，会场中一定有着隐藏起来的危险。<br>
-我们现在应该做好规划，小心谨慎，按部就班地把所有场馆都逛一遍才是。<br>
+We're here to gather intel, not mess around.<br>
+Shinano can't stay long at the expo, remember? That's why she tasked us with keeping tabs on all the other factions.<br>
+With good reason, too. The Sardegnians have been on edge for a while now. Shinano was right in saying something strange is going on.<br>
+So let's start with a tour around the pavilions. Keep your eyes and ears open, got it?<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-不亏是{namecode:175}阁下，真是深思熟虑！{namecode:18}一跑到外面来就得意忘形了……<br>
-{namecode:18}这就去周边侦察一圈！<br>
+Got it! Forgive me for getting overexcited for a moment. I'll head that-a-way and have a look, if that's okay!<br>
+Onwards to the next exhibit area! Full speed ahe– Owow! Hey! Was it really necessary to bonk me twice?!<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-等等……！不是刚说了要先规划一下——<br>
+Don't run off yet, scatterbrain! We need a plan first!<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-啊，{namecode:175}阁下！前面那个人看起来好像很困惑！<br>
-好像是迷路了的样子，我们去帮帮她吧！<br>
+Oh! Off-topic, but look! That guest seems rather anxious!<br>
+Almost like she's lost, wouldn't you say? We should help her!<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-（从衣服上来看，那个是铁血的人……？）<br>
-（不妙，那个人超不妙！阴沉的心情产生的黑气都要爆发出来了啊！）<br>
-（绝对不能和她扯上关系，绝对不能和她扯上关系……）<br>
-咳……{namecode:18}，虽然她看起来像是迷路了，可我们也不怎么了解会场地形吧。<br>
-想要帮助他人的想法是好的，但是光凭气势冲上去是解决不了任何问题的哦。<br>
+(Who? That Iron Blood girl?)<br>
+(Yikes, she looks like a bomb waiting to go off... Better steer clear of her, lest she vents her anger on us.)<br>
+(Intel-gathering is supposed to be done on the low. Talking to her and getting roped into something is the LAST thing I need!)<br>
+Ahem! Yes, she looks like she could use some directions, but how are we supposed to help?<br>
+We don't know our way around here either. There's not much we can do for her.<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-确、确实如此……<br>
+No, I suppose not...<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-所以不如我们先去别处转一转，等熟悉了会场之后再来帮忙……<br>
+So unfortunate! Now let's find a quiet place and form a plan.<br>
 <br>
-{namecode:175}压低声音，抓住{namecode:18}的衣角，示意她调转方向。<br>
-<span style="color:#A9F548FF;">？？？：</span><br>
-喂，那边的两位，你们等一下！<br>
+Suruga grabbed Shimakaze's hand and started scurrying off elsewhere. However...<br>
+<span style="color:#A9F548FF;">???：</span><br>
+Hold it, you two! Don't ignore me!<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-（被发现了！糟了糟了糟了糟了糟了糟了糟了糟了……）<br>
+(Dammit, dammit, dammit! Okay, need to come up with an excuse to get her off our case! Think, Suruga, think!)<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-{namecode:175}阁下？{namecode:175}阁下？！<br>
+S-Suruga? What's the matter?<br>
 <br>
-{namecode:175}石化中——<br>
-<span style="color:#A9F548FF;">？？？：</span><br>
-我说你们，是撒丁帝国的人吧？<br>
+Suruga froze in place as she racked her brain.<br>
+<span style="color:#A9F548FF;">???：</span><br>
+You're Sardegnian, aren't you?<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-（……诶？撒丁帝国？）<br>
+(...Sardegnian?)<br>
 <br>
-{namecode:175}回过神来，顺着声音的方向看去——<br>
+Suruga looked over her shoulder and spotted two Sardegnian shipgirls who had appeared seemingly from nowhere.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-没错，我是撒丁帝国所属博尔扎诺，旁边是我的同伴博尔扎诺。请问小姐您是铁血的……？<br>
+Yes. I'm Bolzano, and this is Giuseppe Garibaldi. Would you kindly tell us your name?<br>
 <span style="color:#A9F548FF;">Prinz Rupprecht：</span><br>
-鲁普雷希特亲王，记好这个今后会大放异彩的名字哦。<br>
-我问你们，会场里现在是不是出事了？<br>
+Prinz Rupprecht. You'd be wise to remember it.<br>
+Listen here. There are weird things going on around here.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……如您所见，博览会正在有序进行中。会场里也是热闹非凡，并没有出什么问题。<br>
+Weird things? I'm afraid I don't know what you mean. Everything is in order to the best of my knowledge.<br>
 <span style="color:#A9F548FF;">Prinz Rupprecht：</span><br>
-喔~没出什么事，你们这么急急忙忙地跑去哪里？<br>
+So I hope. But then explain why you're off to the Colosseum in such a rush.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-急急忙忙是指……？如您所见，我们作为会场主办方，正在进行会场的例行巡逻中。<br>
+Well, um... We're members of staff, see? We just finished our patrols and are heading back to the employee area.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-小妹妹，你是不是迷路了啊？要是迷路了我们可以带你回铁血馆哦~<br>
+Aww, are you lost, little girl? We can show you back to the Iron Blood pavilion if you want.<br>
 <span style="color:#A9F548FF;">Prinz Rupprecht：</span><br>
-哈？！你、你说谁小？！<br>
-哼！看在你也是个贵族的份上，本小姐就不跟你一般见识了。<br>
-不说实话也没关系，本小姐自会去查——那么就失陪了！<br>
+I'm perfectly fine right here, thank you very much! And who are you calling a little girl?!<br>
+Besides, aren't you in a hurry? You've got better things to do than play babysitter.<br>
+Since you won't tell me what's going on, I'll just find out myself! Hmph!<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-啊……自顾自的走了。<br>
+...You hear that? What a piece of work.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-不妙……先是重樱，现在连铁血也发现会场中存在的异常事件了。<br>
-这次活动中各阵营都派来了不少情报人员，恐怕这件事我们瞒不住多久了。<br>
+She's right, however. We have to focus on our own task over helping others.<br>
+People have realized something is wrong. First the Sakura Empire, now the Iron Blood as well.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-看起来是这样呢……不论如何必须尽快解决事件才行！<br>
-光靠达·芬奇她们搜索一个场馆多少有些勉强，我们也快去帮忙吧~<br>
+Seems so... Come on, we'd better hurry.<br>
+This incident is too important to leave up to a group of kids like da Vinci's team.<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-{namecode:175}阁下？你好点了吗？<br>
+Are you alright, Suruga?<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-嗯，我没事了……<br>
+Phew... Thank god she wasn't talking about us.<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-太好了……刚才{namecode:175}阁下一动不动的，{namecode:18}都不知道该怎么办了！<br>
+Yup. I think she thought it'd be better to ask the Sardegnian staff instead.<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-刚才那两个撒丁帝国的人去哪里了？<br>
+Have they left?<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-唔……她们向着我们来的方向走过去了。<br>
+I believe so. They must be headed for the Colosseum.<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-（那个方向是……文化馆？原来是文化馆出事了么？！）<br>
+(The place Shinano outright said is dangerous...)<br>
 <span style="color:#A9F548FF;">Shimakaze：</span><br>
-{namecode:175}阁下，我们现在去哪里呢？你之前说要去别处转一转……<br>
+Well then, Suruga, where do we go? You said something about forming a plan, right?<br>
 <span style="color:#A9F548FF;">Suruga：</span><br>
-（结合我们的位置和文化馆的位置来考虑……）<br>
-决定了，我们先去白鹰的太空针看看吧~<br>
-（只要能离文化馆远远的，去哪里都好！）<br>
+(Considering where we are now and where those two went...)<br>
+To the Eagle Union's area, for a start.<br>
+(Everything will be fine as long as we stay far away from Sardegna's area! Shimakaze won't get the chance to rope us into someone else's business!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=与尤利安|选项=23|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Mainframe Log VI|选项=23|主框=1|样式=primary|展开=是}}
 <span style="color:#A9F548FF;">Roma：</span><br>
-「帝国已然行将就木，我亦如此。」<br>
-「我不再哭泣，因为泪已流尽。」<br>
-「我不再言语，因为喉已沙哑。」<br>
-「然而，废墟之中，有声音再次呼唤了我的名字。」<br>
-「那个声音是如此微弱，以至于我几乎无法察觉。」<br>
-「声音阐述着它的理想与信念。」<br>
-「如同黑暗中的烛火，为无尽冬日带来了些许温暖。」<br>
-「你的祈愿，罗马已经听到。」<br>
-「快点成长为燎原烈火，为帝国带来新生吧——」<br>
+(Is someone... calling to me...?)<br>
+"The road to decline is slippery and steep."<br>
+"Tears flow not from dry eyes, words come not from withered throats."<br>
+"From the shattered plinths a voice called out to me."<br>
+"Understand our ideals, embody our beliefs."<br>
+"You shall become the inheritor of our name."<br>
+"Become the brightly burning fire, the splendor that shines as the sun."<br>
+"Roma has heard your wishes."<br>
+"Rise, and carry on our will."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=消失的展品|选项=24|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Dragged In|选项=24|主框=1|样式=primary|展开=是}}
 <br>
-撒丁大剧场中，博尔扎诺与加里波第正向着地下通道快速前进着。<br>
+Bolzano and Garibaldi made it to the Colosseum where they found the door to the underground warehouse.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-加里波第阁下，别跑起来，以免引人生疑。<br>
+Here it is. The place where we last recorded the signal from da Vinci's team.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-好~我们还有多远？<br>
+Mhm. No sign of Emanuele or any of the rest ever since then.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-最近的入口只要再走过一个转弯就到了。<br>
+It's like they vanished off the face of the earth, just like Roma. I can only pray no harm has come to them...<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-哼哼~也不知道她们调查得怎么样了，如果有绿色雄鹰的话我真想看看啊~<br>
+Chill out, Bolzano. If we make a huge fuss, it'll reflect poorly upon the expo. You already know that, right?<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……提高警惕，佩萨格诺在发完通讯之后就失去联络了，地下室里肯定有问题。<br>
-到了，就是这里，我们进去吧。<br>
+...You're right. With any luck, we'll succeed in resolving this incident.<br>
+If we don't, we'll have no choice but to mobilize Veneto's rearguard, and then the cat will really be out of the bag.<br>
 <br>
-撒丁大剧场·地下仓库<br>
+Colosseum - Underground Warehouse<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-博尔扎诺呼叫达·芬奇，能听到么?<br>
+Do you read me, da Vinci? Come in, da Vinci.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-怎么样，联络上了么？<br>
+Still nothing, huh?<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-不行……跟她们之中的任何一个都联系不上，但是对外联络还是通畅的。<br>
+No. No response from her, Alfredo, or Emanuele.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-也就是说我们与佩萨格诺她们不同，并没有一进入地下区域就与外界中断联系？<br>
-这也太有趣了，我还是第一次见这么奇怪的镜面海域。<br>
-不过……地下仓库里没有水，叫镜面海域也许不太准确。镜面空间……？<br>
+Yet we can still contact Veneto. Wonder what's the deal with that.<br>
+What if there's an underground Mirror Sea near here? Wouldn't be the most far-fetched thing in the world.<br>
+Well, I guess it'd be more like a Mirror Space in that case...<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-加里波第阁下，库存品有被翻动过的痕迹。<br>
-文物的事我不是很懂，你能来检查一下么？<br>
+Hold up, Garibaldi! Isn't this the storage area?<br>
+I'm not familiar with these artifacts. Could you have a look?<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-好哦，包在我身上~<br>
-让我看看……我们现在正位于皇家展品的储存区。<br>
-嗯嗯……明显都有在近期被翻动过的痕迹呢。<br>
-等等，这个是……………………<br>
-啊！大事不好了，博尔扎诺！有一个展柜的文物被偷了！<br>
+Give me a sec.<br>
+Looks like... the Royal Navy's exhibition items, as well as some of the stuff our own higher-ups brought in.<br>
+And look, there are signs that someone was moving stuff around in here not too long ago...<br>
+Hang on a minute! Where's the...?<br>
+A storage case is missing! Where the hell has it gone?<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……什么？这可是重大事件，我们的安保系统在做什么？！<br>
+Based on what we know, I'd speculate that someone stole it after disabling the surveillance cameras.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-说起来……我们进来的时候，是不是也没遇到什么正在运行的安保设施……？<br>
-而且周围是不是变得越来越暗了……有人把地下仓库的灯关了么？<br>
+Well, presumably, but how? The Colosseum's main and service entrances are maximum security.<br>
+I'm starting to think this incident is way bigger than we first imagined...<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……加里波第阁下，你继续检查有没有其他展品失窃，我立刻向维内托大人汇报。<br>
-维内托大人，这里是博尔扎诺，我们在地下仓库发现了展品失窃情况。<br>
-……维内托大人，能听到么？<br>
-<span style="color:#A9F548FF;">通讯器：</span><br>
-滋——滋——<br>
+Check if any other cases are missing. I'll radio Veneto in the meanwhile.<br>
+Veneto, this is Bolzano. We're inside the... Veneto?<br>
+...My communicator isn't working!<br>
+<span style="color:#A9F548FF;">Communicator：</span><br>
+BZZZZZZT...<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-终于连我们也失联了？！<br>
+Crap, now even we've lost radio contact!<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……看起来是这样的，你听起来怎么这么兴奋……？<br>
+I'm afraid so... Looks like we're in the same pickle as everyone else now...<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-我们的失联，标志着我们终于也被卷入异常事件之中了~<br>
-只有先卷入，才能开始解决吧？<br>
-而且……距离见到绿色雄鹰也不远了！<br>
-看啊，在这一片漆黑之中，只有远方的尽头有些许微光。<br>
-绿色雄鹰一定就在那里等着我们~前进吧，博尔扎诺！<br>
+Fine, I'm up for a challenge. Though I can't say for sure if whoever is behind all this knows that we're here.<br>
+We can't get to the bottom of this without getting our hands dirty anyway.<br>
+We have a lot to investigate, like that "emerald eagle" Emanuele mentioned.<br>
+Finally, we need to figure out who's trying to wreck our celebration of peace, and what they want with Roma...<br>
+In any case, we can't afford to stand around! Let's go, Bolzano!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=镜面的感情|选项=25|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Battle in the Mirror Sea|选项=25|主框=1|样式=primary|展开=是}}
 <br>
-在不知道前进了多久之后，无尽的通道似乎终于走到了尽头。<br>
+Garibaldi and Bolzano emerged from the long, dark corridor beneath the Colosseum and found themselves in a vast seascape.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-这还真是……就算在梦里也没见过的奇怪场景啊！<br>
-博尔扎诺，你对这里怎么看？<br>
+Crazy how they built all this beneath the Colosseum. Jokes aside, what is this place?<br>
+There's no way in hell this could've gone unnoticed during construction. It must've appeared very recently. What do you think, Bolzano?<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……就眼见的景象来看，这里毫无疑问是镜面海域。<br>
+It's quite clearly a Mirror Sea. That explains why our communicators stopped working.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-没错！不过我不是问性质啦，而是看到这里的感想~<br>
+Well, yeah. I mean the place itself though. What do you make of it?<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……感想么？我感受到了荒芜、凄凉、破败与拒绝感……<br>
+Let's see... This place looks pretty run-down, as if it's been abandoned for quite some time. There's something disconcerting about the architecture though...<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-还要再加上不甘与悲伤对吧？我也有这种感觉！<br>
-其实，我觉得这里不像是塞壬创造的。<br>
+Yeah, it almost looks like... someone decided to build an identical copy of OUR Colosseum.<br>
+The way everything's all fallen apart almost gives it a sense of foreboding...<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-要得出这个结论似乎还缺少足够的证据支持……<br>
+Do you believe the Sirens designed it based on our World Expo?<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-哎~也不用太认真，我就是随便发表一下不负责任的感慨罢了~<br>
-继续前进吧，继续前进~让我看看绿色雄鹰在哪里！<br>
+Who knows? But based on the other factions' experiences with the Sirens, I'd say pretty much anything is possible.<br>
+So, now that we're here, what should we do next?<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……加里波第阁下，我们的此行的目的应该是跟达·芬奇等人汇合，之后一同寻找失踪的罗马大人。<br>
+Locate and regroup with da Vinci's team, I'd say. We'll need all the backup we can get if we're to last long enough to find Roma.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-啊，你快看天上的极光带，那些……是不是都是由绿色雄鹰构成的？<br>
+Sounds like a plan to me... Whoa, would you look at that aurora.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……确实是十分壮观的景象，而且总感觉散发着危险的气息。<br>
+Quite the sight, isn't it? But something about it feels wrong to me...<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-有点像翡翠，又还发着光，好想抓一只回家养起来……<br>
-喂————老鹰老鹰，快看这边！<br>
+You're right... It's actually a massive flock of emerald eagles! I thought there was just one!<br>
+Seems they're interested in us. How about we catch one and keep it as a pet?<br>
 <br>
-加里波第突然兴奋地挥舞起双手，对着天空中由绿色雄鹰构成的光带呼喊起来。<br>
-天空的光带也随即对加里波第的“召唤”做出了回应。<br>
-无数光点从光带中分离出来，向着二人的方向高速俯冲而来。<br>
+Garibaldi waved at the swarm of eagles soaring above, and that's when the "aurora" took on a new behavior.<br>
+The green-glowing Siren creatures formed a coordinated swarm and began descending.<br>
+The passive birds had become hunters, and the two shipgirls, their prey.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-笨————<br>
-……加里波第阁下，快调整防空炮角度，准备对空作战！<br>
+Garibaldi! Look out!<br>
+Prepare all anti-air guns! Shoot them down before they can reach us!<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-欸…………？！哎？！准、准备迎敌！<br>
+Huh? Okay! On it!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=空中支援|选项=26|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Aerial Support|选项=26|主框=1|样式=primary|展开=是}}
 <br>
-轰————————！<br>
+KABOOOM!<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-加里波第阁下，你没事吧！<br>
+Garibaldi! Are you alright?!<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-没事，只是擦伤而已……你也小心！<br>
-真没想到居然会突然陷入苦战……<br>
-先不提没有远程武器的幽灵鸟，那些突然从海面上出现的幽灵船算什么啊？！<br>
+I'm doing fine! Worry about yourself!<br>
+These eagles aren't much of a threat on their own, but it's a whole 'nother story when you're talking about the entire flock!<br>
+The ghost ships are a big problem too! This Mirror Sea is unlike anything I've ever seen before!<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-非常抱歉……我也被之前平静的海面所迷惑，有些放松警惕了。<br>
+We would be in a better situation if I'd only paid better attention to our surroundings. I'm sorry...<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-啊？你不需要道歉啊，现在的事态完全是由于我的鲁莽行动导致的。<br>
-没关系，打不过就跑，准备撤退吧！<br>
+Don't say that. You're a lot more cautious than I am.<br>
+Well... Seeing as we have no chance of winning, our best move is to retreat.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-这个恐怕做不到……我们进来的入口已经消失，没有退路了。<br>
+I agree, but unfortunately we can't. The entrance we arrived through seems to have disappeared.<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-欸？那就看看周围有什么能撤退的地方，总要先脱困才是啊！<br>
+What?! Fine, then we'll just take cover somewhere over there instead!<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……没办法了。加里波第阁下，接下来不论发生什么都不要停，我带你冲出去。<br>
+Good idea. Then I shall distract them while you go look around for a–<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-你在说什么啊，这种时候应该是我来保护你才对吧？你选个方向，我带你冲出去~<br>
+Don't be ridiculous! Nobody is sacrificing themselves today. What you're gonna do is pick a direction and run!<br>
 <br>
-轰————————！<br>
+KABOOOM!<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-……刚刚的炮击，来自天上？<br>
+Did... Did that come from the sky?<br>
 <br>
-加里波第与博尔扎诺抬起头，看向炮弹飞来的方向。<br>
-夜幕下，一支由飞空战舰组成的庞大舰队正缓缓从绿色云层中驶出。<br>
-由无数看似原始但威力巨大的火炮编制出的弹幕正向视野内的所有敌人倾泻着。<br>
+The two looked up at the clouds, where they saw a fleet of sorts cruising through the air.<br>
+There were dozens and dozens of blimps, all bearing the same ghastly appearance as the eagles and the ghost ships, advancing on the Sirens.<br>
+Sights trained on the emerald eagles, they unleashed a storm of fire and lead on the flock.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-这些……究竟是什么？<br>
+Now there's airships coming for us?!<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-既然没攻击我们，那肯定是援军！<br>
+No, not for us! They're targeting the Sirens!<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-……我们可没有如此怪异的飞空艇部队……究竟是从哪里冒出来的……<br>
+I've never heard of them deploying such weapons before... Do you think this is a case of accidental friendly fire?<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-管它的！麻烦的事等把敌人消灭干净之后再想，我们也继续上吧！<br>
+Don't know, don't care! Just focus on breaking the enemy line to get us out of immediate danger!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=与众神|选项=27|主框=1|样式=primary|展开=是}}
-<span style="color:#ffd000;">Roma：</span><br>
-「终于，一切都结束了。」<br>
-「我行走于人世间，不再留下任何痕迹。」<br>
-「我见证了名为救赎的枷锁。」<br>
-「见证了名为光明的黑暗。」<br>
-「见证了名为复兴的衰退。」<br>
-「——既然如此。」<br>
-「就由我来毁灭吧。」<br>
-「有从无中生。」<br>
-「就由我来创造出一个新的世界，一个新的帝国——」<br>
+{{折叠面板|标题=Mainframe Log VII|选项=27|主框=1|样式=primary|展开=是}}
+<span style="color:#ff9900;">Roma：</span><br>
+"Everything must come to an end."<br>
+"I have walked among the realm of humans, leaving no footsteps behind me."<br>
+"I have witnessed the shackles of so-called redemption."<br>
+"I have witnessed the darkness within so-called light."<br>
+"I have witnessed the collapse of so-called revival."<br>
+"What has been shall always be."<br>
+"Therefore, I shall destroy it all."<br>
+"And from nothingness, new life will arise."<br>
+"I shall be the one to create a new world, a new Roma––"<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=无敌飞空舰队|选项=28|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Improvised Floaty Fleet!|选项=28|主框=1|样式=primary|展开=是}}
 <br>
-异常镜面海域·上空<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-……达·芬奇就是机械师，佩萨格诺是瞭望手，那，舰队指挥的位置不就非我莫属了？！<br>
-哼哼哼——这就是担任舰队指挥的感觉……<br>
-视野良好，气势极佳，当指挥官的感觉真不错！<br>
-达·芬奇你真是太厉害了！怎么就突然变出来一支飞空舰队啊！<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-只要明白了这里的运行规律，这种事小意思啦~<br>
-敌人既然用数量压我们，我们就来个以彼之道还施彼身！<br>
-嗯——好，调整完毕，接下来只需要操作旗舰就能对舰队进行简单指挥了！<br>
-虽然复杂的战术执行不了，不过做到把进入视野的敌人都轰烂可是完全没问题哦~<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-这些战舰实在有些……复古，而且……那些气囊，看起来一点也不安全。<br>
-我还是觉得在水面上作战更好。<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-放心啦，放心！这些飞空战舰都是我钻了这里镜面海域的空子，用海域内的设施生产出来的。<br>
-虽然看上去是脆弱的木质结构，其实强度一点都不比量产型差哦！<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-不比量产型差……这种说法听起来也完全不能让人安心！<br>
-如果被集火的话……<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-哼哼，这种情况我早就考虑到了哦。<br>
-飞空战舰上已经准备好了紧急逃生手段，被击落的时候就会自动把我们带下去，你就放心吧！<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-……好。<br>
-<br>
-就这样，飞空战舰群开始向着远方醒目的巨大大剧场前进了。<br>
-佩萨格诺观察着天空与水面，达·芬奇忙一直在碌地调整着些什么。<br>
-阿尔弗雷多则在飞空战舰的甲板上跑来跑去，拍照记录着身边“属于自己的”庞大舰队。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-咔嚓——咔嚓——宏伟的阿尔弗雷多舰队记录完毕！<br>
-嘿嘿嘿，这些照片要是发出去的话……不得了，可太不得了了！<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-……我说你，不要在我工作的时候捣乱。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-我可是船长！船长在自己的船上想做什么都可以吧！<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-……那阿尔弗雷多船长，我有一个重要情报要汇报。<br>
-<br>
-佩萨格诺用手挡住了阿尔弗雷多的镜头，伸出另一只手指向远方。<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-——在那片海域发现了战斗迹象。<br>
-还看不清卷入战斗的人是谁，也许是维内托大人派来协助我们的同伴。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-那可不好！达·芬奇，重新设定舰队航向，我们得赶紧过去支援才行！<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-了解，包在我身上~<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-阿尔弗雷多舰队，全军出击！<br>
-{{折叠面板|内容结束}}
-
-{{折叠面板|标题=海空协同|选项=29|主框=1|样式=primary|展开=是}}
-<br>
-轰————————！<br>
-海面上的敌人已经消灭殆尽，空中仅存的幽灵雄鹰也在这一轮齐射中化为了虚无。<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-…………战斗，结束了？<br>
+Mirror Sea - Sky Strata<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-哟~两位都还好吧？<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-我们都没大事哦，感谢及时支援！<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-阿尔弗雷多……你是从哪里弄来这么一支小说里才会存在的奇怪舰队的……<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-这些都是达·芬奇弄出来的，我也不是很清楚！<br>
+Da Vinci's our mechanic and Ema's our lookout, which leaves the role of captain... Guess the responsibility falls on me!<br>
+Heheh, so this is what it's like to lead a fleet... Now I get how the Commander feels!<br>
+This view and this sense of empowerment are to die for! Man, I wish I could do this all the time♪<br>
+I have no idea how you constructed a ton of blimps from that tiny little island, but my hat's off to you for pulling it off, Teach!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-哼哼~其实，这个东西的原理是————<br>
-大家都明白了么！<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-不，我完全不明白！<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-我也是……不过现状我已经清楚了。<br>
-与我和加里波第阁下此前推测的结论一致，海域中那座大的离谱的大剧场明显有问题。<br>
-只要到达那里，大概就能找到破坏镜面海域的方法了。<br>
-先一步被困在此处的罗马大人恐怕也能得出相同的结论……<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-那么说来，我们可能在前往中心的路上就能遇到她？<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-可能性很高。就是希望我们能够赶在她遇到危险之前与她汇合……<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-那接下来就是全速赶路的时间了~<br>
-你们要不要一起上来？这个战舰其实飞得很快哦！<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-我很有兴趣！<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-……其实我也有些兴趣。不过，如果我们全坐上飞空战舰的话，就等于放弃了水面战场。<br>
-飞空战舰上下不便。如果在前方遭遇敌人的密集火力，我们可能不会有平安降落的机会。<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-唔……说的有道理，如果被四面八方一起攻击的话，就算被击落的概率也很高……<br>
-那我们就先不上去啦，还是现在这样从空中和水面相互掩护的队形更好。<br>
-嘿嘿……明明刚才还在头疼制空问题，没想到居然会以这种方式解决。<br>
-飞空战舰对战幽灵雄鹰，感觉越来越有趣了~<br>
-{{折叠面板|内容结束}}
-
-{{折叠面板|标题=大剧场|选项=30|主框=1|样式=primary|展开=是}}
-<br>
-在飞空战舰提供的火力支援下，众人向着大剧场的方向顺利推进着。<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-好奇怪，距离大剧场这么近的地方反而没有敌人了……<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-大剧场上空倒是有雄鹰在盘旋，不过也没像刚才一样直接扑过来。<br>
-按理说，越接近重要的地方，敌人应该越密集才对吧……<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-嗯，现在的情况很反常，像是个……陷阱。<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-欸，就算是陷阱我们也没有太多的选择，硬着头皮上吧！<br>
-<br>
-异常镜面海域·大剧场<br>
-<span style="color:#ffd000;">Roma：</span><br>
-…………<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-罗马大人？！太好了您没事啊，我们来接您回去了！<br>
-<span style="color:#ffd000;">Roma：</span><br>
-…………<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-……罗马大人？<br>
-<span style="color:#A9F548FF;">Bolzano：</span><br>
-加里波第阁下退后……那个东西怎么看都不是罗马大人！<br>
-<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-咦？真的么？！我明明感觉就是她啊！<br>
+Me? I didn't construct anything. The facility was designed to produce these things. All I did was kind of take control of them.<br>
+And they're our key to taking on those eagles and ghost ships. If they think they can outnumber us, we'll fight fire with fire!<br>
+Aaand... There! Now we can issue commands from the flagship to the rest of the blimps!<br>
+Simple ones, anyway. Stuff like, "Bring all guns to bear! Fire at all enemies in range!"<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-这是塞壬制造出来的棋子吧……都已经变成透明的绿色幽灵了。<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-赞同，怎么看都是和那些幽灵船还有怪鸟一起被塞壬制造出来的！<br>
+Engaging Sirens with plain old airships? I'm not so sure that's a good idea...<br>
+Worse yet, we can't use our weapons from up here. I think we should get back down to sea...<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-唔……………………<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-……怎么了达·芬奇，你怎么也一脸凝重的？<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-我说不太上来……但是下方的人，感觉并没有给我带来“塞壬棋子”的感觉。<br>
+Trust me on this! While they don't look like much, these things are built with Siren tech through and through. Our strength easily rivals theirs!<br>
+Sure, a fight against an equal number of mass-produced ships will be tough, but it's nothing we can't handle.<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-塞壬棋子的感觉……是什么感觉啊？<br>
+If it'll be tough, maybe we shouldn't risk it in the first place?<br>
+What if the flagship takes heavy damage? Then we're in serious trouble.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-我说不上来……！<br>
-<span style="color:#ffd000;">Roma：</span><br>
-………………<br>
+Don't you worry, Ema! I've got it all worked out.<br>
+If the flagship takes a direct hit, it'll automatically descend to sea level and we'll all be safe!<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+Well, if you say so...<br>
 <br>
-不知道是否是对于漫长的对峙感到了厌倦，远方的“罗马”竟转过身，似乎正准备离去。<br>
-<span style="color:#A9F548FF;">朱塞佩・加里波第：</span><br>
-等一等……罗马大人！<br>
+Da Vinci's hastily created "Improvised Floaty Fleet" plotted a course for the Colosseum – the very center of the Mirror Sea – and set off at a moderate speed.<br>
+Emanuele, in a way reminiscent of her time aboard da Recco's vessel, used her telescope to survey the Mirror Sea from afar. Da Vinci, meanwhile, concentrated on steering the flying fleet.<br>
+The self-appointed captain – Alfredo – quickly forgot about her own role and became engrossed in taking photographs instead.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Brilliant! Also brilliant! What a glorious air armada I have!<br>
+Heheh... I'll win like, every award ever if I'm allowed to publish these photos~<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+Move, Alfredo. You're blocking my telescope.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Move?! I'm the captain of this airship! I do whatever I please!<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+Whatever you say... Uh, Captain Alfredo, I have something to report.<br>
 <br>
-情急之下，加里波第忘记了自己正身处战场中心的现实。<br>
-她加速向前冲去，试图阻止“罗马”的离开。<br>
-作为这一行为的回应，漫天的雄鹰开始转变为攻击态势，大剧场外也逐渐出现了开始集结的幽灵舰队。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-阿尔弗雷多舰队，准备战斗！<br>
-<span style="color:#ffd000;">罗马：</span><br>
-………………<br>
-<span style="color:#A9F548FF;">博尔扎诺：</span><br>
-加里波第阁下？！<br>
-<span style="color:#A9F548FF;">朱塞佩・加里波第：</span><br>
-你不用说了，我知道。就当只是我的错觉好了……<br>
-天空和水面的杂鱼就交给阿尔弗雷多她们，博尔扎诺，跟我一起进攻！<br>
-只希望这个有些怪异的棋子并没有还原出罗马大人的真实实力……<br>
-<span style="color:#A9F548FF;">博尔扎诺：</span><br>
-嗯……祝我们好运，上吧！<br>
+Emanuele blocked Alfredo's camera with her hand and pointed down at the sea.<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+There's someone fighting over there in the distance.<br>
+I can't tell who exactly, but I'd assume they're either Roma or backup sent in by Veneto.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Oh no! We've got to help! Teach, change course to where that fight's taking place!<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Aye-aye, Cap'n!<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Hehehe! Okay – full speed ahead!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=镜面的秘密|选项=31|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Air-Sea Joint Battle|选项=29|主框=1|样式=primary|展开=是}}
 <br>
-此刻，大剧场的水面与上空正同时展开着激烈战斗。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-左弦，弹幕太薄了！<br>
-达·芬奇，你还能变出来更多的战舰么？<br>
-再这么打下去我们就要被杂鱼淹没了！<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-道理我都明白，可是我就带了那么多材料……早知道会用在这种地方我肯定会把货仓装满的……<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-呜呜呜……这里先维持住战线，等待水面的加里波第她们取得突破吧！<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-……可是，那边看起来战况也不太妙的样子。<br>
-<br>
-佩萨格诺伸手指了指下方已经被密集的烟雾覆盖的水面，爆炸与轰鸣声在烟雾之下此起彼伏。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-欸？！为什么啊？！因为那个棋子和罗马大人太像，导致她们放不开手脚么？<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-这也许是一方面，不过另一方面……这个棋子的战斗力，好强……<br>
-我以前有幸见过罗马大人的火力测试演习……这个棋子，大概能做到和罗马大人本人不相上下的程度。<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-不妙啊……一方有所顾虑，一方战斗力夸张又火力全开。<br>
-这样下去……最多再过半小时她们就先撑不住了。<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-连这个都能算出来么……？！那我们得赶快想点办法才行！<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-嗯……我在想了，给我点时间。<br>
-<br>
-一段时间后——————<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-雄鹰群正在向旗舰……也就是我们现在这一艘接近！我们快要被撕出缺口了！<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-嗯……别急，再等一下……<br>
-<br>
-达·芬奇的目光游离着，思索着能够摆脱当前困境的方法。突然，她的目光锁定在大剧场外墙的荆棘丛上，<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-……我们是不是想办法先降下去比较好。<br>
-虽然你有提到过紧急逃生装置，不过可以的话，我不是很想用到它……<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-不……等等……我有了！<br>
-你们看大剧场那些大得离谱的外墙上，是不是都被那些同样大的离谱的荆棘覆盖了？<br>
-<span style="color:#A9F548FF;">埃曼努埃尔·佩萨格诺：</span><br>
-……那些荆棘有什么不对劲的地方么？<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-没错，那些荆棘很奇怪！<br>
-一般来说，荆棘这种东西会向着建筑的夹缝中生长吧？如果时间够长，它们甚至能把坚固的建筑弄得面目全非。<br>
-可是这些荆棘不一样！一道道荆棘环绕在外墙出现破损的结构附近，就像在维持建筑的主体，避免其崩坏一样！<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-你是指……这些荆棘的存在不是为了破坏大剧场，而是避免了大剧场的崩塌？<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-没错，正是如此！回想起来我们的主要目的——解除镜面海域。<br>
-既然这个大剧场大概率就是镜面海域维持装置，或者至少是某个海域中的重要设施，那对它发动进攻肯定是有意义的！<br>
-如果能粉碎大剧场的话，说不定我们根本不用全部消灭敌人就能脱困了！<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-说得对啊，达·芬奇探员！舰队将火力集中至荆棘从与大剧场外墙，想办法破坏它！<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-除此之外还有一件事，我对于罗马大人现在的位置有了一个猜测，需要去验证一下。<br>
-机械师申请离舰！<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-诶？批，批准……！不过你要怎么下去？<br>
-<span style="color:#A9F548FF;">莱昂纳多·达·芬奇：</span><br>
-哼哼，当然是使用紧急撤离用滑翔翼咯！回头见————<br>
-<br>
-达·芬奇拿出不知何时备在一旁的大型滑翔翼纵身一跃，消失在昏暗的夜空中。<br>
-{{折叠面板|内容结束}}
-
-{{折叠面板|标题=亚历山大的馈赠|选项=32|主框=1|样式=primary|展开=是}}
-<br>
-异常镜面海域·水下<br>
-咚——咚————<br>
-随着深度的增加，来自水面的炮声也变得愈发沉闷与遥远。<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-藏得挺深啊……<br>
-正常来说，被卷入这里的人肯定都会被水面上的大剧场所吸引至此。<br>
-就算发现了荆棘异常之处，也会在将其破坏之后离开吧，没人会特意来检查水下……<br>
-……当然，这可骗不过我。<br>
-<br>
-在不知道下潜了多久之后，一套巨大的装置进入了达·芬奇的视野。<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-果然如此……真正的重要的东西其实藏在这里。<br>
-看上去……这套装置的功能大概是提取信息与制造敌人……<br>
-看来真正的罗马大人就被困在这里。<br>
-因为被机器直接实时的读取了数据，才产生了水面上那个战斗力如此逼真的幽灵棋子……<br>
-从结构判断……困住罗马大人的位置，应该还要再靠下一点么……<br>
-<br>
-达·芬奇贴着传输管线向下移动，终于发现了一个由玻璃包合围而成的透明舱室，在深海中散发着幽暗的微光。<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-……罗马大人的位置发现！<br>
-唔……如果要想从这里把罗马大人救出来的话……<br>
-需要解除部分舰装，还需要……嗯，手头的工具能行！<br>
-罗马大人等着我，我来救您了！<br>
-呼~救援结束，罗马大人已经安全进入救援艇。<br>
-虽然不确定这个机器和上面的大剧场哪个是真正的维持装置，不过炸了准没错。<br>
-让我看看需要的炸药量和安放位置————<br>
-<br>
-咚——————<br>
-就在达·芬奇思考着如何炸掉眼前的巨大设施时，从下方更深的水下传来了一股猛烈的乱流。<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-什——————？！<br>
-刚刚的冲击和声响是……从下面传上来的？！<br>
-下面更深处难道还有东西？！<br>
-<br>
-咚——————<br>
-又是一阵冲击与轰鸣，不过这次袭击的方向来自于水面。<br>
-看起来水面上庞大的大剧场终于在阿尔弗雷多舰队的炮击下土崩瓦解了。<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-不妙不妙不妙……被这么上下夹击，水下的环境已经乱成一团糟了！<br>
-……计划改变，这里还是先撤退好了！罗马大人的安危才是第一位的！<br>
-<br>
-在湍急的水流中，达·芬奇努力维持着平衡向水面接近。与此同时，身边复杂的机械结构正以肉眼可见的速度瓦解着。<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-这下倒也省事了……罗马大人，再坚持一下，我们马上就能回家了！<br>
-<br>
-伴随着海面上的大剧场、亦或是海面下巨型装置的崩坏，所有幽灵船与幽灵雄鹰都在转瞬间失去了踪迹。<br>
-早在达·芬奇与罗马彻底浮出水面之前，战斗就已经彻底结束了。<br>
+KABOOOM!<br>
+Garibaldi and Bolzano succeeded in repelling the ghost ships and emerald eagles with the aid of Alfredo's air armada.<br>
 <span style="color:#A9F548FF;">Bolzano：</span><br>
-看起来，镜面海域彻底解除也只是时间问题了……<br>
-罗马大人，您还好么？<br>
-<span style="color:#A9F548FF;">Roma：</span><br>
-我这是…………<br>
-我好像做了一场漫长的梦…………<br>
+*pant*... *pant*... Did we win?<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Hey! Are you girls okay?!<br>
 <span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
-您没事就太好啦！不过罗马大人，您的手上拿的是……？<br>
-<br>
-在众人疑惑地注视下，罗马抬起右手，看了看紧握在手中的地砖模样的东西。<br>
-地砖上裂纹密布。并且伴随着镜面海域的瓦解，密布的裂纹还在更加迅猛地扩散着。<br>
-<span style="color:#A9F548FF;">Roma：</span><br>
-这个是，似乎被塞壬换掉的亚历山大图书馆地砖仿品……<br>
-果然与此次异常事态有关么……<br>
+We're fine. You got us out of a real tight one.<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+Seems our communicators function at short range. Alfredo, just what are those airships?<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-嚯嚯嚯~阿尔弗雷多舰队，安全着陆！罗马大人您还好么！<br>
-<span style="color:#A9F548FF;">Roma：</span><br>
-你带来的那些东西是……？<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-这些都是达·芬奇弄出来的飞空战舰哦，可厉害了！<br>
-之前我们开着它们在天上和幽灵鸟大战了三百回合呢！<br>
-<span style="color:#A9F548FF;">Roma：</span><br>
-……听起来还真是个，精彩的故事。<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-咦？达·芬奇，你为什么要躺在地上呀？<br>
+Ah, please direct technical questions to da Vinci. I barely know a thing about 'em!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-那当然是因为……我已经，累坏了……！<br>
+Well, I'm glad you asked! Let me give you a rundown...<br>
+...And the Commander's intel was right! So I cut the facility's connection to the central control unit, gave myself administrator clearance, and rewrote the base instructions. That, in a nutshell, is how the Improvised Floaty Fleet came to be!<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Uh-huh. That went way over my head.<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+Likewise, but I've grasped the gist of our situation.<br>
+Assuming your and da Vinci's hypothesis is correct, we will find the central control unit in the central Colosseum of this Mirror Sea.<br>
+We need only to locate and destroy it, then a way out should present itself.<br>
+While we still don't know where Roma is, she may have had the same idea as us and headed for the Colosseum.<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Yeah. Maybe we'll even run into her on the way there if we're lucky.<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+Precisely. Knowing her, she's bound to have engaged Sirens en route. It's likely we'll find traces of her battles, although there's no guarantee...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-欸——可是现在还不是休息的时候哦！<br>
-<br>
-阿尔弗雷多架起相机，设置好定时拍照后一路小跑到达·芬奇身边，用手强行把她拉了起来。<br>
-<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-任务完成之后，小队成员当然要进行胜利的合照啦！<br>
-还有3秒！达·芬奇、佩萨格诺，快摆个手势什么的！<br>
-<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-欸……？<br>
-<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-唉……真拿你没办法！<br>
-<br>
-佩格萨诺略带疑惑地回过头，达·芬奇则突然起身勾住阿尔弗雷多的脖子，用另一只手比出了“V”。<br>
-咔嚓——————<br>
-<span style="color:#A9F548FF;">阿尔弗雷多·奥里亚尼：</span><br>
-嘿嘿嘿，阿尔弗雷多队，任务圆满完成，该回家咯！<br>
+Either way, we won't make it out of here by standing around! Let's make a beeline for the Colosseum!<br>
+Hop on and we'll give you a ride! These things go fast as heck!<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Never been on an airship before. Could be cool.<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+I'm inclined to agree. However, it's unwise for all of us to board because that will leave us without observers at sea level.<br>
+We might overlook something important from that high in the sky. Furthermore, I don't feel comfortable with relying solely on the airships if we get into another battle.<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Good point. Can't use our guns while aboard, and we're screwed if they surround us.<br>
+On second thought, no thanks. Bolzano and I will travel by sea. Try to maintain a low speed and provide support for us.<br>
+If you can take care of the eagles and secure air supremacy, that'd be even better.<br>
+We'll make it to the Colosseum in no time if all goes well – and have a good time along the way. Heheh.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Tradeoffs|选项=33|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Colosseum|选项=30|主框=1|样式=primary|展开=是}}
 <br>
-博览会第二日·撒丁大剧场<br>
+With the backing of the air armada, the Sardegnian girls finally made it to the Colosseum's vicinity.<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+Strange... There are hardly any Sirens around, despite how close we are to the Colosseum.<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Yeah, it's weird. There are eagles overhead but they're not attacking like they did when they first spotted us.<br>
+You'd think the control unit would be their number one defense priority...<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+It's all very suspicious. Makes me think this could be a trap.<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Maybe. Walking into it is our only real choice, though.<br>
+<br>
+Mirror Sea - Colosseum<br>
+<span style="color:#ff9900;">Roma：</span><br>
+......<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Roma! Thank god you're not hurt! We've come to bring you home!<br>
+<span style="color:#ff9900;">Roma：</span><br>
+......<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Hello? Roma...?<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+Get back, Garibaldi! That's not the real Roma!<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Crap, you're right! I hastily assumed it was her based on looks alone!<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+I think that's a Pawn, but she doesn't look quite like one...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-哇~果然不管再看多少次，带来的视觉震撼都没有丝毫改变！<br>
-嗯……再多拍几张吧！<br>
+Yeah! She's all see-through! You reckon she's a Siren creation, like the ghost ships?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+That doesn't sound right...<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Huh? Why not?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+I don't know. I just get the feeling this Roma lookalike isn't any old regular Pawn.<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+How so? What's so different about her aside from her appearance?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+I said I don't know! Let's just watch and see what she does.<br>
+<span style="color:#ff9900;">Roma：</span><br>
+......<br>
 <br>
-就当阿尔弗雷多准备按下快门时，一个洁白的身影突然出现在镜头里。<br>
+The "Pawn" turned on her heel and started walking away, as though she'd gotten bored of staring down the girls.<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Hey! Stop right there!<br>
+<br>
+Garibaldi moved forward with the intent of seizing the Pawn. Just as she did so, the eagles circling above the Colosseum cried out.<br>
+All at once, they swooped down in a coordinated attack on Garibaldi.<br>
+At the same time, the fleet of ghost ships took form once more on the horizon.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Air armada, fire at will!<br>
+<span style="color:#ff9900;">Roma：</span><br>
+......<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+That's not Roma, Garibaldi! That's a Pawn!<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+I know that! But we can't let her escape!<br>
+Alfredo and company, keep the eagles and ghost ships busy! Bolzano and I will try to capture the Pawn!<br>
+Here's me praying she's only as strong as a regular one!<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+Hopefully, otherwise this will be a hard fight. Let's go!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Mirror Sea's Secret|选项=31|主框=1|样式=primary|展开=是}}
+<br>
+Two fierce battles were taking place simultaneously at the Colosseum – one in the sky, and one at sea.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+What the hell is going on at our port side? We need more firepower!<br>
+They'll surround us sooner or later if we don't do something!<br>
+Teach! Can't you get us more airships?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Afraid not. This is everything the production center could muster, and I can't exactly upgrade Siren tech on the spot.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Welp! Then we have to play defensively and wait for good news from Bolzano and Garibaldi!<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+I doubt we're gonna get good news anytime soon...<br>
+<br>
+Emanuele pointed down at the sea. The air was filled with smoke and fumes from the two Sardegnian girls' ongoing battle with the Pawn.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+How is she still going?! Are they pulling their punches 'cause the Pawn looks so much like Roma?!<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+That's probably not the problem. This Pawn is just way, way stronger than any others before it!<br>
+I've seen how Roma fights from watching exercises, and I can tell you that Pawn's firepower is more or less on par with hers!<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+What's worse, we can't just turn that Pawn to dust since she's our only clue to finding Roma. Although, defeating her is looking increasingly impossible.<br>
+I'd estimate they'll only last another thirty minutes at most...<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+How'd you estimate that?! More importantly, what are we supposed to do?!<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Calm down! I'll think of something, just give me some time!<br>
+<br>
+A short while later...<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+The eagles are coming for our flagship! They're trying to take us down!<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Don't lose hope! I just need a bit more time...!<br>
+<br>
+Da Vinci frantically racked her brain for an answer to the crisis. Amidst her thinking, she noticed huge vines that had grown along the Colosseum's outer wall.<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+Um, why don't we get off the ship for now...?<br>
+I know we have an emergency escape plan, but we shouldn't use it unless we have to...<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Wait... I've got it!<br>
+See those vines all over the Colosseum?<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+Vines? What about them? Am I missing something?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+They're not plain vines, that much is obvious!<br>
+Natural vines sprout from cracks in brick and stone. Given enough time, they can even make walls collapse!<br>
+But these vines are different. They're not spreading from the cracks, but rather filling the holes left by cannon fire and reinforcing the load-bearing columns!<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Seriously? So if anything they're maintaining the Colosseum's integrity, rather than compromising it?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Correct! What's more, they're growing from right out of the sea! That's how I spotted 'em!<br>
+You know what that means? The Colosseum will crumble if we can destroy whatever's producing them!<br>
+And that's our ticket out of here! No need to take out all the Sirens or anything!<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+You're a genius, Teach! Okay, let's put the eagles aside and focus our assault on the vines!<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+One more thing. I may just have a theory as to where the real Roma is.<br>
+There's only one way to find out if I'm right or not, and I have to do it myself! Captain Alfredo, I'm getting off the ship!<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+You're what?! You know we're like, way up in the air, right?<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Not a problem! That's why I've got this handy Portable Hang Glider!<br>
+<br>
+Da Vinci produced a hang glider out of the blue, got into the pilot position, and began her graceful descent from the airship to the Colosseum.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Rescue|选项=32|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Beneath the Colosseum<br>
+Da Vinci dove beneath the waves.<br>
+As she went deeper and deeper, the booming sounds of the battle being fought at the surface gave way to near silence.<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Boy, I'm having to go deeper than I expected...<br>
+The Sirens no doubt predicted that anyone with common sense would head for the Colosseum.<br>
+I'll bet they assumed we wouldn't check underneath the surface. At most we'd notice the vines and destroy the Colosseum's top half.<br>
+And that assumption was where they went wrong. They might've fooled everyone else, but not me!<br>
+<br>
+Going deeper into the dark depths, da Vinci eventually came face to face with a massive machine.<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Bingo. They really did hide their magic box where they thought no one would look.<br>
+Let's see here... This is what's producing the vines, this thing manufactures the ghost ships, and this...<br>
+A... containment chamber? That's got to be where Roma is!<br>
+They must've hooked her up to some machine that reads her neural data in real time. That'd explain why that Pawn is so exceptionally strong.<br>
+Judging by the shape of this thing, Roma should be just a bit farther down...<br>
+<br>
+Moving along a network of tubes, da Vinci descended deeper. Then, she found it – a square chamber encased in glass, anchored in place.<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Look at these energy readings...! I've found you, Roma!<br>
+Alright, if I can sever the anchoring and power cables, the chamber should rise to the surface on its own.<br>
+My torpedoes are just enough for the job. A few well-placed hits should do it!<br>
+Just hang in there, Roma! I'm coming to save you!<br>
+That's everything set up for her rescue. Now the question is, what to do about this huge machine...<br>
+Between it and the Colosseum, I don't know which is the Mirror Sea's beating heart. Although, I guess it doesn't matter. If this thing breaks, the Colosseum goes down with it.<br>
+Let's see, how does one efficiently destroy a–<br>
+<br>
+All of a sudden, the sea shook.<br>
+In the midst of her pondering, da Vinci was swept up by a strong current coming from below, dragging her closer to the surface.<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+What the–?! What's going on?!<br>
+Where's this current coming from?! Below me?!<br>
+No way! Don't tell me they had another machine deeper down!<br>
+<br>
+All of a sudden, the sea shook.<br>
+From the surface. From the Colosseum.<br>
+It had begun collapsing into the sea. The others had succeeded in eliminating the vines, and without the support they provided, the Colosseum could not stay standing.<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Crap, crap! These currents are pushing me all over the place!<br>
+Okay, change of plans! Ensuring Roma's safety comes first!<br>
+<br>
+Da Vinci rushed to the chamber containing Roma and steadied it, making sure it wouldn't be swept away. When she looked over her shoulder, she saw the underwater torrents tearing the massive Siren machine apart.<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Well, that saves me the trouble of destroying it myself... Hang on tight, Roma! I'm gonna get you back to the surface now!<br>
+<br>
+With the Mirror Sea's central control unit destroyed, all its defenders—the emerald eagles, the ghost ships, and the Pawn—vanished into thin air in the twinkle of an eye.<br>
+Da Vinci and Roma resurfaced, and the first thing that greeted them was the welcome sight of their allies.<br>
+<span style="color:#A9F548FF;">Bolzano：</span><br>
+It won't be long before the Mirror Sea disappears altogether. That aside...<br>
+Lady Roma, are you okay? Please, answer us!<br>
+<span style="color:#A9F548FF;">Roma：</span><br>
+*cough cough*... Ugh... Where am I...?<br>
+It feels as though I've awoken from a long dream...<br>
+<span style="color:#A9F548FF;">Giuseppe Garibaldi：</span><br>
+Looks like she's alright... Huh? What do you have there, Roma?<br>
+<br>
+Roma raised the tile in her hand. She had held onto it ever since blacking out inside the warehouse.<br>
+The tile was covered in cracks, as if it had been hit with a hammer. As if that wasn't strange enough, more cracks formed as the Mirror Sea continued dissipating all around them.<br>
+<span style="color:#A9F548FF;">Roma：</span><br>
+It's a replica of a tile from the Great Library... It was being stored in the warehouse...<br>
+I knew something was amiss from the moment I laid eyes on it.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+This is your captain speaking – we have landed! ...There you are, Roma! Thank god we found you!<br>
+<span style="color:#A9F548FF;">Roma：</span><br>
+What are those... airships?<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Hahaha! You won't believe it, but da Vinci created these! All it took was commandeering a Siren facility – and a bit of her genius!<br>
+And I'll tell you, these things served us well in here! Sucks they'll disappear along with the Mirror Sea, but oh well.<br>
+<span style="color:#A9F548FF;">Roma：</span><br>
+It sounds like you have a great story to tell later. It's a shame I didn't get the pleasure of fighting with you.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Teach? Oh god, are you okay?! Don't tell me she–<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+I'm fiiine, just resting in the water... I'm dead tired.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Phew... Well, hate to crush your dreams, but now's not the time to rest! C'mon, get up!<br>
+<br>
+Alfredo pulled out a tripod from nowhere and placed her camera on it. She then ran up behind da Vinci and forced her into a picture-worthy pose.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+We can't NOT take a victory photo after a job well done!<br>
+Three seconds! Ema, pose for the camera!<br>
+<span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
+Huh?! Just like that?!<br>
+<span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
+Frickin'... Fine... If you insist!<br>
+<br>
+Emanuele turned her head in confusion while da Vinci wrapped one arm behind Alfredo's neck and made a peace sign to the camera with the other.<br>
+The shutter clicked as the moment was immortalized.<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+*cough cough*! Well, mission accomplished! Time to go home!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=An Expo for Everyone I|选项=33|主框=1|样式=primary|展开=是}}
+<br>
+World Expo Venue - Colosseum<br>
+<span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
+Ahhh~ I don't think I'll ever get tired of the view from up here!<br>
+Yup yup, this occasion calls for a photo op! *click*...<br>
+<br>
+Just as the shutter clicked, a shipgirl in white came into view through the camera's lens.<br>
 <span style="color:#A9F548FF;">Janus：</span><br>
-抱、抱歉！打扰你拍照了！<br>
+I-I'm sorry! Did I get in your way...?<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-你是……？昨天迷路的皇家驱逐舰雅努斯？！<br>
+Hm? Aren't you... Janus from the Royal Navy?<br>
 <span style="color:#A9F548FF;">Janus：</span><br>
-是的！<br>
+Y-yes!<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-……你今天又迷路了么？<br>
+What's up? Lost your way again?<br>
 <span style="color:#A9F548FF;">Janus：</span><br>
-没、没有啦！只是从远处看到了你们……就来道个谢。<br>
-昨天走得太急，没能正式的向你们表示感谢……<br>
+N-not at all! I saw you from a distance and, um... I came to give you my thanks!<br>
+You were kind enough to show me the directions yesterday... and I didn't even thank you properly because I was in too much of a rush...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-欸~你太客气啦，我们本来就有维持会场秩序的职责在身，昨天又只是举手之劳而已。<br>
+No problemo~ My job was to patrol the venue anyway, and helping lost kiddos like you is part of the job!<br>
 <span style="color:#A9F548FF;">Janus：</span><br>
-不论如何，真的非常感谢你们的帮助！那我就不打扰了！再、再见！<br>
+I-I'm truly grateful for your help! I'll be off then...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-嗯~再见，好好享受博览会哦！<br>
+See you around! Enjoy the expo~!<br>
 <br>
-撒丁大剧场·罗马的休息室<br>
+Colosseum - Waiting Room<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-罗马大人，我们来看望您啦~！<br>
+Roma, I've come to visit!<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-嘘，不要吵……罗马大人现在需要休息。<br>
+Shhh! Roma is still resting after her inspection...<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-啊……抱歉抱歉。<br>
+Oops, sorry about that!<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-……你们不用太在意。除了有些没精神之外，我已经没什么问题了。<br>
-感谢你们昨天的救援行动。<br>
-尤其是达·芬奇，是你亲手把我从水面下救出来的吧，非常感谢。<br>
+There's no need to fret. I feel a bit tired, but that's about all.<br>
+Once again, allow me to thank you for saving me yesterday.<br>
+Da Vinci, I heard you rescued me from the Siren device yourself.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-欸……哎嘿嘿……我也只是做了应该做的事而已。<br>
+Well... Who wouldn't rescue a friend in need? It's no big deal.<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-过度的谦虚不是美德，坦率接受称赞吧。<br>
+You're just as humble as Veneto. You should bask proudly in Roma's praise.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-是！多谢罗马大人的夸奖~我会继续努力的~<br>
+Haha! Thanks for the words of encouragement then! I am Sardegna's pride and joy genius inventor after all!<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-很好。<br>
+...Now you swung too far in the other direction, but I suppose that's fine.<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-既然罗马大人身体无恙，我们也就彻底安心了。<br>
-您慢慢休息，我们就先返回会场继续——<br>
+We're all just glad you're back safe and sound, Roma!<br>
+You still have a few inspections left though, right? We'll be able to take care of everything around the expo venue, so you just rest easy! See you around then––<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-稍等一下，阿尔弗雷多！<br>
-……罗马大人，请恕我冒昧，我有几个问题实在想要问问您。<br>
+Wait, Alfredo, there was one more thing we needed to do.<br>
+Roma, would you mind answering a few questions before we go? It's fine if you don't want to.<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-无妨。你在危急之时帮助过我，在可能的范围内，你的问题我一定如实相告。<br>
+Ask away. You saved my life after all, so it's the least I can do to repay you.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-非常感谢！罗马大人，关于昨天的事，您真的什么都记不起来了么？<br>
+First off, do you really remember nothing about what happened yesterday?<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-……嗯，我就像做了一个很漫长，很昏很沉的梦。也许梦里发生了许多事，但醒来之后就如烟云般消散了。<br>
+Hmm, let me think... It felt like I was in a long, long dream. Something may have happened inside the dream, but I can't exactly remember anymore.<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-幽灵雄鹰，幽灵船之类的东西，也没有在您的梦中出现过么？<br>
+I see, I see. So, if I say "emerald eagle" or "ghost ships," neither of those ring a bell? Did your dreams have anything to do with those things?<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-所以也许有过吧……我无法肯定。<br>
-虽然记不起梦境的内容，不过在你们提到这些名字后，我的脑海里似乎也出现了模糊的印象。<br>
+There... might be some connection, but I can't say for sure...<br>
+I don't remember exactly what happened inside the dream, but when you said those words, I did feel something stirring inside my mind...<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-原来如此……那在今天的博览会会场，您有感受到周围有什么异常之处么？<br>
+Alright, onto the next question... During the expo's opening ceremony, did anything feel off to you about the Colosseum?<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-周围的异常之处？是指之前在文化厅里感受到的，某些东西被做过手脚的感觉么？<br>
+What do you mean by that? Was there something wrong with the Colosseum?<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-不对，不是那种！唔……我有点不太好形容。<br>
-就比如感受到的会场氛围啊，在空气中的撒丁帝国浓度啊……之类的？<br>
+Umm, not quite... well... how should I put this...<br>
+Something about the venue's vibes, or the scenery... or how it's very Sardegna-like...?<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-撒丁帝国浓度……？这算什么问题啊……今天的会场不是跟昨天一样，被热热闹闹的活动气息所充满么！<br>
+Sardegna-like? What do you mean by that? I mean, we are the sponsors, but it's still an international expo.<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-不，我明白她想说什么了。<br>
-氛围的话……虽然微不可查，不过我确实感受到了变化。<br>
-就在此处，本应该是家的地方，我却感受到了些许距离感。一股疏远与陌生的感觉始终若即若离。<br>
-你也有相同的感受么？<br>
+I think I somewhat understand what da Vinci is trying to convey.<br>
+Even though I'm generally not sensitive to these kinds of things, there was something that left a deep impression within me.<br>
+I felt the overwhelming elation of basking in Sardegna's splendor. But then, that splendor began to gradually fade away.<br>
+But I wonder if this incident has compromised Veneto's plans... Perhaps we should hold a military exercise after all to demonstrate our might––<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-嗯，虽然只有非常轻微的一点点……就好像空气中成分发生了改变一样。<br>
+Actually, how about we don't? On second thought, there was probably just something funny in the air yesterday!<br>
 <span style="color:#A9F548FF;">Alfredo Oriani：</span><br>
-……空气中的成分不可能发生改变吧！<br>
+Something in the air? What even are you talking about now?<br>
 <span style="color:#A9F548FF;">Leonardo da Vinci：</span><br>
-我当然知道啦！这是比喻啊，比喻！<br>
+Don't worry about it, it's just a figure of speech~♪<br>
 <span style="color:#A9F548FF;">Emanuele Pessagno：</span><br>
-我和阿尔弗雷多一样，也什么都没感受到。<br>
-……也许是达·芬奇和罗马大人在劳累过度之后产生的错觉吧。<br>
+I hate to agree with Alfredo, but I don't feel anything off either...?<br>
+Maybe that's what happens to people who work too hard all the time: you start seeing things.<br>
 <span style="color:#A9F548FF;">Roma：</span><br>
-劳累过度么，也许吧。<br>
-这种感觉，如果是错觉就太好了……<br>
+Working too hard, huh...<br>
+I do hope that's actually the case...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=计划于未来|选项=34|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=An Expo for Everyone II|选项=34|主框=1|样式=primary|展开=是}}
 <br>
-博览会第三日·会场某处<br>
+World Expo Venue<br>
 <span style="color:#A9F548FF;">Shangri-La：</span><br>
-布里斯托尔，你的绿色幽灵事件调查的怎么样了？<br>
+Speaking of which, did you get to the root of the green ghost incident?<br>
 <span style="color:#A9F548FF;">Bristol：</span><br>
-那件事啊！现在正调查到紧要关头呢！<br>
+The green ghost, huh... Well, uh, the investigation is still underway!<br>
 <span style="color:#A9F548FF;">Shangri-La：</span><br>
-具体来说呢？<br>
+...And how exactly are you conducting this investigation?<br>
 <span style="color:#A9F548FF;">Bristol：</span><br>
-……具体来说……还在努力调查中！<br>
-我有种预感，这件事背后绝对隐藏了一个惊天大事件！<br>
+By, uhh... Just know I'm looking into it!<br>
+I have a hunch that phenomenon is the veil that shrouds a huge revelation!<br>
 <span style="color:#A9F548FF;">Ingraham：</span><br>
-都已经第三天了……你还不放弃啊。<br>
+It's already been three days. Isn't it about time to give up?<br>
 <span style="color:#A9F548FF;">Bristol：</span><br>
-是才到第三天才对！传奇调查员是不会放弃的！<br>
-英格拉罕今天要不要来陪我一起去！<br>
+It's ONLY been three days! Detective Bristol and Data 857 won't give up that easily!<br>
+Come on, help a friend out and join my investigation, Ingraham!<br>
 <span style="color:#A9F548FF;">Ingraham：</span><br>
-不要，还是各国的展馆更有趣一点。<br>
+Heck no. I still find walking through these pavilions far more entertaining.<br>
 <span style="color:#A9F548FF;">Bristol：</span><br>
-哼~那我就先走一步，差不多该开始今天的调查了！<br>
+I see... Then I'll head off on my own! The investigation won't conduct itself!<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-路上小心哦。<br>
+Be careful out there!<br>
 <span style="color:#A9F548FF;">Bristol：</span><br>
-放心放心~<br>
+I will!<br>
 <span style="color:#A9F548FF;">Shangri-La：</span><br>
-听上去她那里还没有取得任何进展啊。<br>
+Essex, are you sure we should be letting that girl run around as she pleases?<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-……其实，我觉得布里斯托尔看错的可能性还挺高的。<br>
+Honestly, I wouldn't be surprised if it's just her overactive imagination at work again.<br>
 <span style="color:#A9F548FF;">Shangri-La：</span><br>
-就算如此，她在最后肯定也能交上来一份十分有趣的调查报告哦。<br>
+Are you sure you're doing this to make her feel like she had a big role to play, or are you actually curious yourself?<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-啊哈哈，有趣到可以重塑现实的程度呢……<br>
+I... I'm not going to admit to either one of those...<br>
 <span style="color:#A9F548FF;">Jeanne d'Arc：</span><br>
-打扰了，请问你是来自白鹰的埃塞克斯小姐吧？<br>
+Lady Essex? May I come in?<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-是我。你是……自由鸢尾的贞德小姐？<br>
+Jeanne d'Arc from Iris Libre! Thank you for coming all the way over here.<br>
 <span style="color:#A9F548FF;">Jeanne d'Arc：</span><br>
-没错~一直以来都没什么和你并肩战斗的机会，能被你认出来真是太好了。<br>
+I'm most grateful that you graciously accepted my sudden request. I've heard a lot of good things about you.<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-自由鸢尾在阿非利加取得的各种成果，我在白鹰也常有耳闻。<br>
-对于贞德小姐可是印象深刻呢。<br>
+Same here. Your efforts at the Basilica are known far and wide.<br>
+......<br>
 <span style="color:#A9F548FF;">Jeanne d'Arc：</span><br>
-那真是我的荣幸。不知道白鹰代表团的各位接下来有什么安排么？<br>
+Ahem... Um, in any case, does the Eagle Union's delegation have any upcoming plans?<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-我们还没想好今天要去参观的展馆，贞德小姐有推荐么？<br>
+Not at the moment. Do you have any suggestions for exhibits I should see?<br>
 <span style="color:#A9F548FF;">Jeanne d'Arc：</span><br>
-如果不介意的话，可否由我来招待各位去虚像凯旋门内参观一下呢？<br>
-能顺势与各位一同共度午餐时光就更好了~<br>
+Why yes, actually! If you don't mind, I'd be glad to show you around our Arc de Triomphe.<br>
+You're more than welcome to have dinner with us as well.<br>
 <span style="color:#A9F548FF;">Essex：</span><br>
-这个没当然没问题！加深与贵方的联系也是我此行的任务之一。<br>
+Sounds great! Part of our mission is to deepen our bonds with Iris Libre anyway.<br>
 <span style="color:#A9F548FF;">Jeanne d'Arc：</span><br>
-……那就太好了，大家这边请————<br>
+Excellent! Please let me know once you're all ready to go then!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=老友会|选项=35|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=An Expo for Everyone III|选项=35|主框=1|样式=primary|展开=是}}
 <br>
-博览会第四日·会场某处<br>
+World Expo Venue<br>
 <span style="color:#A9F548FF;">Prinz Eugen：</span><br>
-哼哼哼~♪哼哼~♪<br>
+Hmm~♪ Hmhm~♪<br>
 <span style="color:#A9F548FF;">Z2：</span><br>
-……虽然你看起来成竹在胸的样子。不过请允许我提醒尊贵的欧根亲王阁下——<br>
-您放任鲁普雷希特亲王自由行动已经是第四天了，把奥丁一个人留在科技馆中也是第四天了。<br>
-您就真的不担心会出什么问题么？<br>
+I'm glad to see you in high spirits, but umm, allow me to offer you a few words of caution.<br>
+Don't you think you should be keeping Rupprecht and Odin on a tighter leash?<br>
+Are you not worried that they'll get into trouble?<br>
 <span style="color:#A9F548FF;">Prinz Eugen：</span><br>
-这是一场充满着爱与和平的世界博览会，哪里会有什么危险呢~<br>
+What trouble? The World Expo is a celebration of peace. There's no way they'd get into a fight.<br>
 <span style="color:#A9F548FF;">Z2：</span><br>
-……我当然不是说会有什么人能对她们造成危险，我是指……<br>
+That's not what I'm talking about. You know, blueprint ships, out in the open...?<br>
 <span style="color:#A9F548FF;">Prinz Eugen：</span><br>
-放心放心，既然这么多人对我们的计划舰有兴趣，那就让她们一次性看个够好了~<br>
-这不是武力炫耀，而是成人之美哦。<br>
-再说了，奥丁不喜欢热闹，鲁普雷希特亲王我也管不住她。<br>
-顺其自然也是一种成人之美嘛。<br>
-不过还是感谢你的关心~<br>
+Is there a problem with that? Hehe, if you ask me, it's totally fine. People want to take a closer look at our blueprint ships, so why not let them?<br>
+If they want to know about our girls so badly, they can just ask~<br>
+Besides, even if I tried to take a more... domineering approach, Odin's a grouchy loner and Rupprecht doesn't like taking orders. So what's the point?<br>
+That's why it's better to let the chips fall where they may. We're all happier that way~<br>
+But look at you, worrying about other people again. You really are a sweetheart, Thiele.<br>
 <span style="color:#A9F548FF;">Z2：</span><br>
-不，你误会了。相比关心你，我更在意自己会不会被卷入她们引发麻烦的事件里。<br>
+I'm not worried about you in the slightest. I just get the feeling that I'm being dragged into another annoying mess again.<br>
 <span style="color:#A9F548FF;">Prinz Eugen：</span><br>
-哎，你看那边！刚从东煌馆里出来的那个人，是不是喀琅施塔得？！<br>
+Oh my, look who just came out from the Dragon Empery's pavilion... The one and only Kronshtadt.<br>
 <span style="color:#A9F548FF;">Z2：</span><br>
-看上去好像是她……你想干什么？<br>
+Yeah, what about her? ...What are you trying to do?<br>
 <span style="color:#A9F548FF;">Prinz Eugen：</span><br>
-哼哼~这几天去北方联合馆好几次都没见到她人，终于让我抓到了吧。<br>
-走吧，我们约她喝一杯去！<br>
+We made a promise to go out for drinks the next time we met. And now is that time~<br>
+Heehee. I wonder what kinds of stories she'll tell me this time.<br>
 <span style="color:#A9F548FF;">Z2：</span><br>
-……等等，就你的酒量我劝你还是不要……！<br>
+Eugen, you'd better not do anything too reckless––<br>
 <span style="color:#A9F548FF;">Prinz Eugen：</span><br>
-喂~喀琅施塔得————<br>
+Hey, Kronshtadt! Heeeey!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=东西对话|选项=36|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=An Expo for Everyone IV|选项=36|主框=1|样式=primary|展开=是}}
 <br>
-博览会第五日·维希教廷馆<br>
-休息室内，福煦正在整理着这几日从会场中收集到的信息，霞飞则对着窗户思考着什么。<br>
+World Expo Venue - Vichya Pavilion<br>
+Joffre opened up a memo on top of the table in the break room that detailed each faction's movements since the expo's start.<br>
 <span style="color:#A9F548FF;">Foch：</span><br>
-铁血代表团访问了重樱馆……白鹰与自由鸢尾进行了会谈。<br>
-撒丁帝国与北方联合交往密切，东煌馆则每天都有人拜访……<br>
-会场上还真是热闹。相比起来我们的大圣堂可就……冷清的有点厉害啊。<br>
+Iron Blood, the Sakura Empire, the Eagle Union, and Iris Libre...<br>
+Sardegna and the Northern Parliament are in close touch with each other, and the Dragon Empery is rising...<br>
+As for me, I just hope more people will stop by our pavilion.<br>
 <span style="color:#A9F548FF;">Joffre：</span><br>
-冷清点也挺好……能少不少麻烦事。<br>
-我们本次的任务就是呆在这里，仅此而已。<br>
-就连整理这些资料也是不必要的，你在自己给自己增加工作哦。<br>
+There are benefits to having fewer guests. Such as having to do less work.<br>
+Our mission is to look after this pavilion and take care of the guests. Your musings are superfluous, Foch.<br>
+Even if we know exactly what each faction is doing... It won't do us any good.<br>
 <span style="color:#A9F548FF;">Foch：</span><br>
-啊哈哈……说的也是。不过我就是属于那种闲不下来的性格嘛。<br>
+That may be the case. But unlike Dunkerque and Algérie, I'm not one to sit around on my hands.<br>
 <br>
-咚咚咚——（敲门声）<br>
+*knock* *knock*<br>
 <span style="color:#A9F548FF;">Foch：</span><br>
-请进~<br>
+L'Indomptable, is someone at the door?<br>
 <span style="color:#A9F548FF;">L'Indomptable：</span><br>
-打扰了。北方联合的阿芙乐尔女士现在正在会客厅等待，说是有事情想与我们的代表商量。<br>
+Yes. It looks like Avrora from the Northern Parliament would like to speak to the Vichya Dominion's representative.<br>
 <span style="color:#A9F548FF;">Foch：</span><br>
-阿芙乐尔……？霞飞，你怎么看？<br>
+Avrora, huh? Joffre, what's the plan?<br>
 <span style="color:#A9F548FF;">Joffre：</span><br>
-没什么看法……既然都到会客厅了，一会直接问问她就是了。<br>
+Nothing in particular. Let's extend a warm greeting – to our fellow shipgirl.<br>
 <span style="color:#A9F548FF;">Foch：</span><br>
-那就是要见的意思咯~不屈，让她在会客厅稍候片刻，我们一会就到。<br>
+You're right. As representatives of the Vichya Dominion, we should show hospitality to our guests. L'Indomptable, could you tell Avrora to wait a minute? I'll be there shortly.<br>
 <span style="color:#A9F548FF;">L'Indomptable：</span><br>
-遵命！<br>
+Understood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=马可福音|选项=37|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=An Expo for One|选项=37|主框=1|样式=primary|展开=是}}
 <br>
-博览会第七日·撒丁大教堂<br>
+World Expo Venue - Colosseum?<br>
 <span style="color:#A9F548FF;">Conte di Cavour：</span><br>
-博览会开始已经一周了，马可波罗居然都一个人安分地呆在这里……<br>
-明明是自己提议举办的活动，也不前往会场看一眼。<br>
-太不正常了……<br>
+Marco Polo? Are you in here?<br>
+The expo YOU proposed is going on right above you, and you're not going to go take a look?<br>
+...I guess not.<br>
 <br>
-加富尔伯爵一边发散着思维，一边推门进入了马可波罗的办公室。<br>
+The anxious Conte di Cavour opened the door to Marco Polo's room.<br>
 <span style="color:#A9F548FF;">Conte di Cavour：</span><br>
-没人…………好奇怪。<br>
-往常的话，这个点应该是她一脸得意的坐在办公椅上读着些什么的时间啊。<br>
+I should've known she wouldn't be here. Does that mean she already succeeded?<br>
+I really don't get her. If she did succeed, shouldn't she be here lounging in a wine bath with a goofy grin on her face?<br>
 <br>
-加富尔伯爵连续寻找了几间房间，都没有见到马可波罗的身影。<br>
+She searched around the room some more, but Marco Polo was indeed nowhere to be found.<br>
 <span style="color:#A9F548FF;">Conte di Cavour：</span><br>
-总不会直到今天才突然有兴致跑去会场了吧……也不提前通知一声，真是个任性的人……<br>
-算了算了，这跟我也没什么关系。<br>
-我的任务就是把报告书放到办公桌上，然后走人。简单又轻松~<br>
+Maybe she already went up to check out the expo? She never was one to sit still, just like Cesare.<br>
+Well, that's none of my concern.<br>
+Guess I'll drop my report off on her desk and be on my merry way...<br>
 <br>
-加富尔伯爵将封装好的报告书放在马可波罗常用的办公桌上，然后向着教堂大门走去。<br>
-就在经过礼拜堂时，加富尔伯爵的余光发现了一个坐在角落椅子上的少女。<br>
-<span style="color:#ff9900;">？？？：</span><br>
-……愿人都尊您的名为圣…………<br>
-……愿您的国度降临……<br>
-……愿您的旨意行在地上，如同行度在天上……<br>
+She placed the carefully-bound bundle of papers on Marco Polo's desk before turning to leave.<br>
+That is when she realized she wasn't alone. Another shipgirl stood in the corner of the room.<br>
+<span style="color:#ff9900;">???：</span><br>
+......<br>
+...So that those harrowing visions will never haunt me again...<br>
+...Your will shall be done...<br>
 <span style="color:#A9F548FF;">Conte di Cavour：</span><br>
-……这个时候还在教堂祈祷么？还真是虔诚啊。<br>
-不过这个少女总感觉有些…………<br>
-是我的错觉么……？<br>
+Is that really you, Trento?<br>
+I must say, you feel very different from the person I know...<br>
+Hmm... I'll just pretend I saw nothing.<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
