@@ -149,7 +149,7 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
             else:
                 actor = None
             if 'nameColor' in script.keys():
-                color = script['nameColor']
+                color = script['nameColor'][:7].lower()
             else:
                 color = None
             if 'options' in script.keys():
