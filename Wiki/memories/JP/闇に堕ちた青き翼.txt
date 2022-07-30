@@ -77,22 +77,22 @@
 {{折叠面板|标题=幕間Ⅱ|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Log_AtX15.00252.5.142——ログ記録開始<br>
-<span style="color:#D6341DFF;">オブザーバー：</span><br>
+<span style="color:#d6341d;">オブザーバー：</span><br>
 おめでとう～すべての敵をやっつけられたのね。今回の勝者は貴女よ<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 …………<br>
-<span style="color:#D6341DFF;">オブザーバー：</span><br>
+<span style="color:#d6341d;">オブザーバー：</span><br>
 さすが「コードG」ね。今回も綺麗さっぱりに「世界」を救ってくれたわ。ふふふふ<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 私を侮辱するつもりか<br>
-<span style="color:#D6341DFF;">オブザーバー：</span><br>
+<span style="color:#d6341d;">オブザーバー：</span><br>
 そんなことするわけないじゃない。あなたは【創造主】さまが定義付けた歴史の「楔」への「接続端子ユニット」――<br>
 あなたの「因子」から、私たちが作られたんだもの。プロトタイプであるあなたを無下には扱えないわ<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 …………<br>
-<span style="color:#D6341DFF;">オブザーバー：</span><br>
+<span style="color:#d6341d;">オブザーバー：</span><br>
 では約束通り、この「テスト」をリセットして、永遠に続けられるようにするわ。貴女はどうする？<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 ……続けろ<br>
 私は探し続ける……何度でも……<br>
 あの人を見つけるまでは――<br>
@@ -213,7 +213,7 @@ SGレーダーに反応多数！敵の数が中々減らないわ！<br>
 このアタシの後ろを簡単に取れると思うんじゃないわよ！主砲――<br>
 <span style="color:#4eb24e;">ノースカロライナ：</span><br>
 ワシントン！待ちなさい！<br>
-<span style="color:#D6341DFF;">？？？？？：</span><br>
+<span style="color:#d6341d;">？？？？？：</span><br>
 ……<br>
 <span style="color:#4eb24e;">ヘレナ：</span><br>
 これは…本部に打電された謎の暗号通信と一致している、けど……<br>
@@ -221,26 +221,26 @@ SGレーダーに反応多数！敵の数が中々減らないわ！<br>
 <span style="color:#4eb24e;">ワシントン：</span><br>
 ……セイレーンを潰したのはお前か。ふぅ……ずいぶんといい趣味しているじゃないか<br>
 アタシらはお前の暗号通信を受けて調査しに来たユニオンタスクフォース16だ。――お前の所属と情報を教えろ<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 ……<br>
 一つだけ教えてくれ<br>
 <span style="color:#4eb24e;">ワシントン：</span><br>
 こちらの質問を無視する気か？<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 お前たちの「指揮官」――その名前を教えてくれ<br>
 <span style="color:#4eb24e;">ノースカロライナ：</span><br>
 悪いけど、貴方の身柄を確認するまでこちらも答える義務はないわ。最高機密なので<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 ……<br>
 ……今回もそうか。……自分で確認する<br>
 <span style="color:#4eb24e;">ノースカロライナ：</span><br>
 あなた、一体…<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 ……<br>
 <span style="color:#4eb24e;">ノースカロライナ：</span><br>
 （このマント、どこかで……まさか）<br>
 エンタープライズ！？<br>
-<span style="color:#D6341DFF;">エンタープライズ：</span><br>
+<span style="color:#d6341d;">エンタープライズ：</span><br>
 ……人違いだ<br>
 <br>
  <br>
@@ -255,12 +255,12 @@ SGレーダーに反応多数！敵の数が中々減らないわ！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=黒幕|选项=11|主框=1|样式=primary|展开=是}}
-<span style="color:#D6341DFF;">オブザーバー：</span><br>
+<span style="color:#d6341d;">オブザーバー：</span><br>
 「コードG」が鏡面海域を離脱したようね。反応が消えたわ<br>
 <span style="color:#ff0000;">テスター：</span><br>
 困ったバグね…行動原理が全くわからないわ<br>
 しかも私たちと同じこの時空間に来るとは……<br>
-<span style="color:#D6341DFF;">オブザーバー：</span><br>
+<span style="color:#d6341d;">オブザーバー：</span><br>
 同じ「因子」を持っているゆえでしょう。彼女はいずれまた私たちに会いに来るわ<br>
 たしか、人間のことわざでは――<br>
 「強者は常に孤独である」とあるわね……<br>

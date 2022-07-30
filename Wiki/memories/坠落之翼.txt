@@ -77,22 +77,22 @@
 {{折叠面板|标题=幕间II|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 Log_AtX15.00252.5.142——开始记录<br>
-<span style="color:#D6341DFF;">观察者α：</span><br>
+<span style="color:#d6341d;">观察者α：</span><br>
 恭喜你又消灭了所有对手，获得了本轮胜利~<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……<br>
-<span style="color:#D6341DFF;">观察者α：</span><br>
+<span style="color:#d6341d;">观察者α：</span><br>
 不愧是“关键点G”呀，这次又是如此干净利落的“拯救了世界”呢~呵呵呵呵<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……你们这是在讽刺我吗？<br>
-<span style="color:#D6341DFF;">观察者α：</span><br>
+<span style="color:#d6341d;">观察者α：</span><br>
 不敢不敢，您可是【造物主】大人钦定的“关键点”<br>
 我们或多或少可是由你的【模因】里诞生出来的呢呵呵呵<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……<br>
-<span style="color:#D6341DFF;">观察者α：</span><br>
+<span style="color:#d6341d;">观察者α：</span><br>
 那么，按照约定，我们将允许你再进行一轮“游戏”，请问你的选择是？<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 继续…<br>
 无论多少次…我都选择继续……<br>
 直到……找到那个人的存在——<br>
@@ -213,7 +213,7 @@ SG上显示的敌人反应已经全部消失。<br>
 没有人能逃出我的MK3雷达，全舰炮瞄准——<br>
 <span style="color:#4eb24e;">北卡罗来纳：</span><br>
 等等！<br>
-<span style="color:#D6341DFF;">？？？？？：</span><br>
+<span style="color:#d6341d;">？？？？？：</span><br>
 ……<br>
 <span style="color:#4eb24e;">海伦娜：</span><br>
 这个单位发出的信号与之前的加密电文一致，但是…<br>
@@ -221,26 +221,26 @@ SG上显示的敌人反应已经全部消失。<br>
 <span style="color:#4eb24e;">华盛顿：</span><br>
 什么嘛，原来“神秘人”先生就是你呀，这么鬼鬼祟祟的出现是很容易被误伤的<br>
 那么，我们是接收到了你发出的加密信号后前来调查的白鹰第16特遣舰队——也请报上你的情报及所属<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……<br>
 我只想跟你们确认件事情<br>
 <span style="color:#4eb24e;">华盛顿：</span><br>
 居然无视我的问题吗？<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 告诉我…你们指挥官的名字……<br>
 <span style="color:#4eb24e;">北卡罗来纳：</span><br>
 在确认你的身份之前，我们没有回答这个问题的义务，而且这可是最高机密<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……<br>
 ……又是这样吗（转身）……我会自己确认的<br>
 <span style="color:#4eb24e;">北卡罗来纳：</span><br>
 这个塞壬的基地是被你一个人摧毁的吗？…你究竟是…<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……<br>
 <span style="color:#4eb24e;">北卡罗来纳：</span><br>
 （等等…这个披风？…怎么可能）<br>
 企、企业？！<br>
-<span style="color:#D6341DFF;">企业：</span><br>
+<span style="color:#d6341d;">企业：</span><br>
 ……<br>
 不…你认错人了<br>
 <br>
@@ -258,12 +258,12 @@ SG上显示的敌人反应已经全部消失。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=黑幕|选项=11|主框=1|样式=primary|展开=是}}
-<span style="color:#D6341DFF;">观察者α：</span><br>
+<span style="color:#d6341d;">观察者α：</span><br>
 【关键点G】已经离开镜面海域，失去跟踪信号<br>
 <span style="color:#ff0000;">测试者β：</span><br>
 真是一个麻烦的BUG啊，完全无法理解她的行为模式…<br>
 而且居然偏偏选择了这个时间奇点<br>
-<span style="color:#D6341DFF;">观察者α：</span><br>
+<span style="color:#d6341d;">观察者α：</span><br>
 也许这就是所谓的【模因】在作祟吧，不管怎样，最后的她还是会和以前一样选择我们的<br>
 毕竟，人类有句话怎么说的来着？<br>
 ——“强者永远都是孤独的”<br>
