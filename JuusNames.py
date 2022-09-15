@@ -25,7 +25,8 @@ def createJuusNameList():
     with open(os.path.join(util.WikiDirectory, 'JuusNames.txt'), 'w+', encoding='utf-8') as f:
         for k, v in JuusNameTemplate.items():
             name = getShipName(v['ship_group'], shipStatistics, shipTemplate)
-            f.write(name + ' ' + v['name'] + '\n')
+            if name:
+                f.write(name + ' ' + v['name'] + '\n')
 
 if __name__ == "__main__":
     createJuusNameList()
