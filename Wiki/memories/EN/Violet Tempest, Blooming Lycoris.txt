@@ -1206,1164 +1206,1164 @@ Make your move, Mikasa. There are those who believe in you, and in the victory t
 Don't keep them waiting too long, Great Veteran.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=百韵连歌|选项=19|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Will to Protect|选项=19|主框=1|样式=primary|展开=是}}
 <br>
-不知不觉间日色已然西斜，对局也来到了焦灼的中盘——第六回合的结束之时。<br>
-第五回合中，{namecode:74}准备的事件卡「天宇启户祭」有如一盆冷水，让场上不断升温的局势暂时得到缓和——<br>
-而第六回合触发的事件卡「静海惊雷」则彻底搅乱了战局，突然出现的多处雷击预警区让各方势力都进行了阵型的紧急调整。<br>
+As the vermillion light of the setting sun began to filter through the pagoda's windows, both the state of the game and the situation on the battlefield had reached a tense stalemate.<br>
+Through the fifth and sixth turns, the participants continued to jockey for an advantage, but nobody emerged as a clear favorite.<br>
+Fatigue began to set in, and this began to reflect across the board. Enemies that were previously easy to deal with appeared larger and more fearsome as they ramped up their attacks on the various shipgirls.<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-{namecode:84}大人，你准备的这张事件卡真的十分厉害啊……<br>
-虽然没能直接造成伤害，但却如高悬的利剑一般搅乱了所有人的部署。<br>
+What's going on here, Musashi? We're getting completely pushed back by the game itself...<br>
+The enemies may not be particularly strong, but everyone's forces have been deployed in ways that would never be considered in an actual naval engagement.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-这话可不严谨，是几乎所有人的部署才对。<br>
-{namecode:91}大人就无视了这个在结算时才会造成伤害的事件，坚定地完成了拿下你与{namecode:74}大人之间连接据点的目标哦。<br>
+This has caused disarray to spread. While some have been able to accomplish their objectives...<br>
+With the amount of damage that's been piling up, I wouldn't be surprised if we start seeing people retire from the game soon.<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-但是作为代价，停留在雷击区中的{namecode:39}就要退场了。<br>
-比起部署被打乱，侍从数量的减少才更得不偿失吧？<br>
+Is Jintsuu about to be the first to go? What a pity...<br>
+I suppose the one upside is, we didn't inflict this upon each other.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-这就取决于为将者对于价值的判断了，有得必有失嘛。<br>
+Everyone has their hands full just dealing with the mass-produced enemies.<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-那，我觉得这个判断尚有待商榷。毕竟，这就是她这次突击行动的仅有战果了。<br>
-待到下回合封锁解除，我会拿下另一处边界据点，她将我与{namecode:74}分开的战略意图也就无法实现了。<br>
+I do wonder about that. If the balance of power is broken, the game may well be blown wide open.<br>
+I assumed that as long as you remained on Akagi's side, the stalement would inevitably continue. But, unexpected things can happen.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-但是如此一来，你们二人的侍从就都来到了距离中心区域相当遥远的位置。<br>
-这场棋局，终究还是以占领据点为评判标准的积分制哦。<br>
+Akagi's forces have traveled a long way.<br>
+But now, they've already converged upon the central tower.<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-现在谈论中心区域还有些为时尚早吧，{namecode:84}大人。<br>
-从场面上来看，我与{namecode:74}大人虽处于不利位置，但是侍从们的状态良好。<br>
-反观你与{namecode:91}大人。虽然占据地利，但是已经受到了不少消耗。量产型舰队基本消耗一空，侍从也有不同程度的损伤。<br>
-你们已经是强弩之末，而我们正要进入锐不可当之时呢。<br>
+Surely that isn't your idea of a victory, is it?<br>
+The two of you, especially Akagi, put your forces through too much punishment just to reach the central tower. You've also lost a bulk of your mass-produced ships because they weren't able to keep up.<br>
+On the other hand, Nagato and I have sustained very little damage and can operate at pretty much full capacity.<br>
+Your failure to consider this has left you wide open. Hah hah!<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-倘若你与{namecode:74}大人的联军能完全按照你的策略来执行的话，确实是这样。<br>
-可是如果{namecode:74}大人继续选择固守战略，最后的结果就很难说了哦。<br>
-信念要靠实力守护，究竟是过于天真还是坚定不移……就让我试探一下吧。<br>
-接下来，我要使用的指挥卡名为「百韵连歌」。<br>
-选择一个场上的目标，若其在本行动轮内被消灭，则所有对其造成伤害的己方侍从都将获得一次伤害减半的额外进攻行动。<br>
-我指定的目标为你位于的E4的{namecode:65}，然后让{namecode:226}、{namecode:27}、{namecode:103}、{namecode:104}依次对其发动攻击。<br>
-在消灭了{namecode:65}之后，其「黑之羽」的援护效果就会消失，继而刚攻略了区域据点正在G4休整的{namecode:157}就会变为无保护状态。<br>
-虽然第二次进攻造成的伤害减半，不过用于消灭{namecode:157}还是绰绰有余了。<br>
-如此一来，{namecode:74}的信念也要被击碎了吧。<br>
-原本依靠她所拥有的力量是能够阻止这件事发生的，可惜她早早将力量用了出去。<br>
-真是令人遗憾，除非——你能阻止这件事的发生。<br>
+And what have you earned for yourself? A slight land advantage? While we occupy our position, you will not be able to assault the tower...<br>
+Especially if Nagato insists on clinging to her idealism.<br>
+I am quite interested in seeing what matters most to her: adhering to her own path, or seizing the victory she needs.<br>
+To those ends, I have a test for you.<br>
+I will turn all my ships around and attack Haguro, who is monitoring my fleet's movements and closest to Nagato's forces.<br>
+Sakawa, Suzutsuki, Chitose, and then Chiyoda will attack her in turn, and at this distance, Nagato will not able to lend aid even if she wants to.<br>
+While it pains me to resort to such tactics, this stalemate must be broken.<br>
+After Haguro is defeated, Nagato's forces will also be exposed as well.<br>
+There was one way she could have stopped this outcome, but she unfortunately wasted it earlier.<br>
+No matter how strong your will is, this domain will not respond to the same mental imagery twice.<br>
+But if that will is shared by another individual...<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-{namecode:84}，你好像在巧妙地逼我下场哦。<br>
+...Then they must fight for those ideals. Say no more. I will uphold Nagato's vision.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-怎么可能呢~现在只剩你一个人还在这里陪我聊天了，你也下去了我岂不是要一个人下闷棋？<br>
-汝也可以选择不下场，毕竟汝也不完全支持{namecode:74}的战略吧。<br>
+Excellent. My only regret is, it'll be quite lonely here with nobody left to chat with.<br>
+Just to confirm one last time: Is this what you truly want, Great Veteran?<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-这个嘛，一码归一码。<br>
-虽然在这里聊天对弈很开心，不过守护后辈成长也是前辈应该做的事啊。<br>
+I decided a long time ago that I would stand by her side until the very end. I won't turn back now.<br>
+There might be advantages to managing everything from up here, but I have friends who are counting on me to do the right thing.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-盾能守护，剑亦能守护。<br>
-{namecode:74}选择了盾，{namecode:91}选择了剑，你呢？<br>
+Nagato would sacrifice herself to protect her friends, and there is nothing Akagi will not sacrifice to protect what she desires.<br>
+Now then, Mikasa, will you take up the sword, or the shield?<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-这个问题，我想首先听一下您的答案呢？<br>
+My answer should already be clear. But what about you?<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-如果汝能取胜的话，就告诉汝吾的答案。<br>
+If you and Nagato can emerge victorious, I shall give you my answer.<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-有了这句话，我就更要打起精神来认真对局了。<br>
-那么{namecode:84}大人，我在此先走一步。如果一个人在房间里无聊的话，也请尽快下来哦。<br>
+Hah. If you're going to say that, you'd better not expect me to go easy on you.<br>
+I'll be going then, Musashi. Oh, and if you get too lonely, you're always welcome to join the rest of us. Hahaha!<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-呵呵，走好~<br>
+Hehe. We will see about that.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=止戈|选项=20|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=To Stop a Spear|选项=20|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·控制区交界处 稍早之前——<br>
+Exercise Area - Turn 6 (Musashi's Action)<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-{namecode:84}大人的侍从{namecode:226}参上~{namecode:65}，接下来就让我们较量一番吧！<br>
+No hard feelings, Haguro, but the boss lady wants you outta here. Are you ready?<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-呜啊……好突然，而且好麻烦……<br>
-居然奔袭到{namecode:74}大人的控制区来打我，我有这么大的吸引力么……？<br>
+Ugh... I knew this was gonna turn into a pain in the ass sooner or later...<br>
+I've been milling around over here for a while now, so why'd I become so important all of a sudden?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-嘿嘿，其实{namecode:84}大人的目标是{namecode:157}，不过不先解决掉为她提供护卫的你，我们就没法安心进攻嘛。<br>
+Jintsuu's pretty much done for, right? So we've gotta even things up a bit. You're actually not even Musashi's main target - that would be poor little Harutsuki.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-原来如此……呼呼呼，那你就尽管来试试吧。<br>
-不过我的反击可是对周围所有目标生效的，你要是攻击我的话，旁边的{namecode:5}也会卷进来。<br>
+Alright, guess we're doing this... Come at me, then.<br>
+But just a word of warning - be careful where you aim your attacks. Otherwise, you might end up taking Miyuki out.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-欸？！是这样么？！好犯规的技能！<br>
+Huh? I thought we were gonna have a fair fight! Why are you dragging Miyuki into this?<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-这可是名副其实的「黑之羽」，如果想让场面变混乱的话……就尽管攻过来吧，<br>
+So, what's the plan? I'm good at fighting with my back to the wall, so don't blame me if Miyuki gets caught in the crossfire.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-我可不会因此犹豫哦！抱歉了{namecode:5}，但是{namecode:84}大人的命令不得不从！<br>
-如果{namecode:65}趁机欺负你，下回合我会配合你一起打回去的！<br>
+Why you...! Ugh, I can't just turn around and leave though! I have orders from Musashi!<br>
+Miyuki, don't let Haguro bully you! Let's team up and take her out this turn!<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-嗯……我知道了！不用担心{namecode:5}……你尽管执行命令吧。<br>
+O-okay! I'll do my best!<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-切……挑拨失败。那就放马过来吧——<br>
+Tch, guess my bluff didn't work out the way I wanted it to... Well, that sucks.<br>
 <br>
-就在{namecode:65}、{namecode:226}、{namecode:157}三人各自做好准备，迎接即将到来的剑与炮火之时——<br>
+After her attempt to use the possibility of friendly fire to deter Sakawa failed, Haguro braced herself for a lopsided two-versus-one, when suddenly–<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-三位，到此为止了——<br>
+Stop right there!<br>
 <br>
-伴随着远方出现的洪亮声音，三人身边各自出现了一个旋转着的红色圆环。<br>
+A voice boomed from the sky, and the three shipgirls about to clash all stopped in their tracks.<br>
 <span style="color:#4eb24e;">{namecode:226}：</span><br>
-欸……主炮启动失败…………？关键时刻出现故障了么！<br>
+Huuh? What's happening to my rigging? It feels a bit wonky...<br>
 <span style="color:#4eb24e;">{namecode:65}：</span><br>
-我的剑也拔不出来了……<br>
+I was able to move perfectly fine until a moment ago... Is this someone's special command at work?<br>
 <span style="color:#4eb24e;">{namecode:5}：</span><br>
-{namecode:5}也一样……这个红色圆环上有一圈禁止图案，说不定就是它让我们的武器都失效了……<br>
+I, I can't move my rigging either... Um, does it have to do with this ring of light that just appeared around us?<br>
 <span style="color:#4eb24e;">{namecode:65}：</span><br>
-说起来，刚刚听到的声音好像是……大前辈？<br>
+That must be it... Is that you, Mikasa?<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
-呵呵，大家好啊。<br>
+Hahaha, you guessed it!<br>
 <br>
-{namecode:65}与{namecode:5}转头看向声音的方向，不远处，{namecode:82}正在水面上缓缓驶来。<br>
+As the three turned towards the source of the voice, Mikasa's figure slowly appeared from the distance.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-如你们所见，接下来两回合内，这片区域中的侍从之间已经无法相互战斗了。<br>
+Sorry if I sound like a broken record, but Nagato doesn't want us fighting, and I don't either.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-呼……得救了……这个是大前辈的入场效果么？<br>
+Phew, that wouldn't have ended well for me... Was that Nagato's doing just now?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-没错，其名为「止戈」。中心据点还未被击破，相互争斗可不好哦。<br>
+No, that was my command. I also share the same vision as her - one in which we no longer fight amongst ourselves.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-不仅是战斗取消……刚刚决定执行的所有攻击指令会视为已执行，{namecode:84}大人的侍从们本回合已经无法继续战斗了……<br>
+Does that mean... You're overriding Musashi's orders?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-说的不错，规则了解得很细致啊，{namecode:5}。<br>
+I guess so. Aren't you glad you don't have to fight anymore?<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-多谢大前辈夸奖…！{namecode:5}为了能帮上{namecode:91}大人的忙，在来之前拼命研究过规则了！<br>
+Y-yeah... I was just capturing this base on Akagi's orders...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-呵呵，眼见为实，这个棋盘果然厉害……不单是把文字具现化，更奇妙的是把我设计之时心中所想的画面也具现化了。<br>
+What's wrong, Sakawa? Are you going to insist on fighting?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-这就是大前辈的实力么……（轻声）居然轻松就化解了{namecode:84}大人的攻势……<br>
+Ahaha, no, no! I was just, uh... getting a sense of deja vu, that's all!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-哎呀，你有所不满意么？<br>
+I don't have anything against us sparring during a normal exercise, but it makes no sense to fight each other when the central tower is still standing.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-不不不，我觉得很激动！对局就是要有这样的千变万化才有乐趣嘛~<br>
+Haha, I don't mind, really. As long as this game has exciting twists and turns, I'm perfectly content to sit back and watch things unfold!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-眼前的危机成功化解，剩下的就只等回合结束时的落雷结算了。<br>
-没想到第一个退场的会是你啊，{namecode:39}。<br>
+I'm glad you understand. However, the same can't be said for the mindless mass-produced ships headed this way.<br>
+But, they seem to be firing indiscriminately at everything in their path... Does Musashi not care about the safety of her peers, or...<br>
 <br>
-{namecode:82}转过身看向自己的相邻格，伴随着{namecode:84}回合结束的提示，一束闪电从空中劈下，将本就状态不佳的{namecode:39}砸了个结实。<br>
+As Musashi's command dissipated, the mass-produced ships also began to fall silent again. However, Jintsuu, who had already been heavily damaged, sustained enough damage to render her incapacitated.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-直面雷电的威光，真是有勇气。<br>
+These were unfortunate circumstances, Jintsuu.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-呜哇……落雷好可怕……{namecode:39}……你没事吧？<br>
+I'm so sorry, Jintsuu... I should've turned back to help you...<br>
 <span style="color:#4eb24e;">Jintsuu：</span><br>
-大前辈过奖了，虽说看上去雷霆震天，不过却没有真正落雷的威能呢。<br>
-不用担心哦{namecode:5}，毕竟只是虚拟之雷，我只有些酥酥麻麻的感觉而已。<br>
+Don't worry about it, it's just a simulated exercise anyway. I'm not actually hurt, just... a little numb?<br>
+I have to say, the technology here is pretty lifelike. But I'm sure I'll be fine as soon as I leave the exercise area.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-{namecode:39}，直到退场都没有见你使用过为自己设置的技能，方便在最后满足一下我的好奇心么？<br>
+You don't necessarily have to leave just because you've been determined to be incapacitated, right?<br>
 <span style="color:#4eb24e;">Jintsuu：</span><br>
-抱歉，大前辈，既然没用上，也就没必要说了。<br>
-看来这次我发挥的空间仅限于此……那么我就先在此退场，各位继续享受——<br>
+That's alright. I'd just get in the way of everyone else if I lingered around without a particularly strong motive in mind.<br>
+Honestly, Sendai probably would've been better-suited for this exercise than me. I guess I'll see you folks later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=技术革新|选项=21|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Path to Victory|选项=21|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:91}控制区 第七回合<br>
+Exercise Area - Turn 7 (Akagi's Action)<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-太好了，{namecode:91}前辈准备的事件「技术革新」终于触发了！本回合，拥有最多舰载机武器的我们将处于巨大的优势中。<br>
-不过{namecode:5}那边就……因为{namecode:82}大前辈的效果，似乎两回合内都那边都没法进行战斗了，转而去进攻{namecode:74}大人么？<br>
+The most recent report from my recons looks good. We've managed to control this area for several turns now, and we have a clear picture as to how the other fleets are deployed.<br>
+Miyuki is pretty much surrounded, and we just lost Jintsuu. Mikasa entered the battlefield and is sealing off all shipgirls from fighting around her territory.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-不，那边打到这个程度就行了。<br>
-{namecode:79}后退至E6，把{namecode:82}进攻中心据点的通道留出来。<br>
+Now that the Great Veteran has thrown her hat into the ring, we won't be able to avoid a direct confrontation.<br>
+Yamashiro, Ryuuhou, I want the two of you to back off and give Mikasa a clear avenue to attack the central tower.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-欸~~救命呀<nowiki>~~~</nowiki>我已经在中间吃了好几轮伤害了，快不行了！<br>
+Phew... It was getting harder and harder to fight off the mass-produced Sirens...<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-别以为我看不到你的状态栏，技能一个没用过，损伤也还不到三成，给我老实呆在里面。<br>
+In spite of that, you still have most of your ammo and barely took any damage. Do a quick resupply, and I expect you to come back ready to go.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-是————<br>
+Y-yes ma'am!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-{namecode:5}的话，很不幸，你的所有撤离通道都被封死了，暂时先呆在原地，等待后续指令。<br>
+Miyuki, just stay where you are. Give us an update on Nagato and Mikasa's movements later.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-遵命……{namecode:91}大人！<br>
+G-got it!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-{namecode:179}、{namecode:92}还有到位之后的{namecode:79}随我一起进攻。<br>
-呵呵，总之，中心据点的战斗就由我们先打响吧~<br>
+Kaga, Ryuuhou, I want you two to launch a large-scale recon effort on the central tower.<br>
+We need to find out what Musashi is trying to hide from us within that tower.<br>
 <br>
-大棋盘·{namecode:82}控制区 第七回合<br>
+Exercise Area - Turn 7 (Mikasa's Action)<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-{namecode:82}前辈，{namecode:91}开始进攻中心据点了，我们是不是跟上？<br>
+Look, those are Sakura Empire recon aircraft... Akagi must be getting ready to attack the central tower! Mikasa, should we make our move as well?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-{namecode:70}，你觉得{namecode:91}为什么要让{namecode:79}撤退，把E5这个接触点留空给我们？<br>
+Hmm... Have we finally broken through to Akagi? She seems to be leaving a path for us straight to the central tower.<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-也许是因为我们彻底控制了边界，她害怕过于冒进致使{namecode:79}也像{namecode:39}{namecode:5}那样陷入死地？<br>
+Does that mean... She's given up on trying to fight us, and is telling us to focus on the central base first?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-有这种可能性。不过在我看来，这更像是{namecode:91}对我们发起的进攻中心据点的邀请。<br>
+That is one possibility, but she also might've found something there that requires us to be there.<br>
 <span style="color:#4eb24e;">Kinu：</span><br>
-{namecode:91}怎么会突然这么好心……？<br>
+So that's why she pulled back her forces?<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-也许是在等我们出力之后，再在关键时刻用出其不意的手段抢下来哦。<br>
+She might be planning to use us as cannon fodder to find out exactly what's in that tower, no?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-如果她是这样盘算的话，我也有相应的反制手段。这里先就接受邀请，看看{namecode:91}接下来的企图吧。<br>
-{namecode:73}进入E5保持与中心据点的接触，之后与{namecode:70}一同对位于中心区域的塔进行一轮试探性进攻。<br>
-{namecode:65}原地不动保持对{namecode:5}的封锁，{namecode:181}{namecode:140}与我一同进攻边界据点EF12。<br>
+Knowing Akagi, she wouldn't do anything unless she seeks to gain an advantage from it, but we can't afford to sit around idly either.<br>
+Kirishima, Kongou, can I trouble you two to get visuals on the tower itself? We need to know what we're up against.<br>
+Haguro, continue to monitor Akagi's and Musashi's movements. Let me know if they show any signs of trying to attack us again.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-欸？我不参与吗？大前辈，这个边界据点只靠你们打不掉啊……？<br>
+So, how about you and Kinu? What are you two going to do?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-这正是关键。在我们结束之后，边界据点就能让{namecode:74}用最小的代价将其收下。<br>
-既然{namecode:74}选择靠据点的积分来取胜，我就来帮一帮她好了~<br>
+I'm going to meet up with Nagato. Even without the central tower, Nagato can still win if she captures all the bases along the perimeter.<br>
+More importantly, I need to tie up a few loose ends before this game is finished.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=春意盎然|选项=22|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Compassionate Heart|选项=22|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:74}控制区 第七回合<br>
+Exercise Area - Turn 7 (Nagato's Action)<br>
 <span style="color:#4eb24e;">Kawakaze：</span><br>
-{namecode:74}大人，大前辈居然刚刚没有打掉那个据点？！是计算失误了么……<br>
+Lady Nagato, why did Mikasa leave that base before clearing out all the enemies? Is this some sort of miscalculation?<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-非也，那里是故意而为之……<br>
+No, she most likely did that on purpose.<br>
 <br>
-{namecode:74}看向{namecode:82}的方向，有些犹豫地打开了通讯器。<br>
+After defeating the rest of the enemies occupying the base node, Nagato looked into the distance towards Mikasa and opened a communication channel.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:82}，那个据点是汝故意留给吾的吧。<br>
+Did you leave that base for me on purpose, Mikasa?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-正是。<br>
+That's right.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-非常感谢……<br>
-刚刚汝入场，虽然保护的是{namecode:65}，但{namecode:65}是因为保护了{namecode:157}才会被攻击的……再次感谢。<br>
+Th-thank you...<br>
+You protected Harutsuki until you yourself joined the battlefield... I, I cannot thank you enough.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-无妨，反正在里面坐的时间也够长了。<br>
-如此美妙的棋盘，不亲自进来体验一下也太可惜了，不是么？<br>
+Don't worry about it. The tea party up there was making me sleepy, so I needed a change in scenery.<br>
+Since we don't get an opportunity to experience a place like this every day, I figured it'd be nice to take advantage of the front-row seats.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-最后……抱歉。<br>
+Regardless, I must thank you again...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-呵呵，你怎么突然跟我客气起来了。<br>
-有什么事等赢了之后再说。现在还在战场之上，大将犹豫不定成何体统？贯彻你的路线坚定行动吧。<br>
+What's wrong? You sound like you're about to cry.<br>
+Remember what Musashi said? This domain reflects your mental imagery and your convictions. If you don't keep your will strong, you'll be put on the back foot.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-好，那吾就不客气了。<br>
+I just need to believe in my ideals... and capture this base without hesitation.<br>
 <br>
-通讯结束，{namecode:74}深吁了一口气，原先的犹豫逐渐褪去，变成了一副坚毅的神色。<br>
+Nagato ended the communication, repeating Mikasa's words in her head again and again, a slight sigh escaping from her lips.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-呼…………{namecode:158}前往F2，配合{namecode:95}拿下边界据点EF12。<br>
-{namecode:72}移动至G4，{namecode:71}移动至H5，与吾一起维持住对{namecode:84}的防御阵型。<br>
-{namecode:157}就地展开回复结界，让所有人都休息一下。<br>
+Alright... Kawakaze, Shoukaku, let's move on to the next base. We can't wait for Mikasa to serve everything to us on a silver platter.<br>
+Haruna, Hiei, the two of you should make preparations to attack the central base.<br>
+Harutsuki, the two of us will go check on Sakawa and Miyuki. If you have any emergency repair supplies left, we'll give those to them.<br>
 <span style="color:#4eb24e;">Harutsuki：</span><br>
-{namecode:74}大人，{namecode:5}和{namecode:226}也在{namecode:157}的恢复范围内哦……？<br>
+Understood!<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-无妨，去做吧。<br>
+Focus on healing anyone who needs it. We do not make foes amongst ourselves in the Sakura Empire.<br>
 <span style="color:#4eb24e;">Harutsuki：</span><br>
-是————接下来是来自{namecode:157}的结界「春意盎然」，大家都好好休息一下吧~<br>
+Are these the rest of your emergency repair supplies? Thank you, Lady Nagato! I'll be sure to put them to good use!<br>
 <br>
-{namecode:157}轻轻舞动起手中的神乐杖，如同{namecode:139}一般的绿色雨点从天空落下，将周围的所有人都笼罩其中。<br>
+Harutsuki waved her gohei around and offered an earnest prayer. Miraculously, some of the signs of damage on Miyuki's and Sakawa's riggings seemed to recede.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-呼啊~身上有种暖洋洋的感觉……谢谢{namecode:157}~<br>
+Woah... What a warm sensation... Th-thank you very much...<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-{namecode:74}大人，你为什么要给我们提供回复呢，我们正处于对抗状态吧？<br>
+I can feel Harutsuki's prayers healing me up! Ahh, even after everything I've done, you're still so kind to me, Lady Nagato!<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-吾认为，相互战斗没有益处，吾想寻找一条不相互争斗也能取胜的道路，仅此而已。<br>
+Sakawa, I know why Musashi sent you over and over. But no matter how many times she tries, she will not shake my resolve.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-如此胸襟，不愧是{namecode:74}大人……不过，如果{namecode:84}大人有命令的话，我还是不会手下留情哦。<br>
+Look, I really appreciate you giving me the benefit of the doubt... But if Musashi orders it, I'm going to have to attack you again.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-不用介意，到时候汝尽管出招即可，不过，现在就在此处享受片刻的安宁吧。<br>
+We'll cross that bridge when we get there. But nothing changes the fact that you're also a member of the Sakura Empire and one of our friends.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-哎嘿嘿……那我就不客气了。<br>
-刚刚{namecode:157}发动的结界名字是叫春意盎然对么？如同令人置身于翠绿色的春雨之中一般……真可惜{namecode:206}没过来看看！<br>
+Ahh, you're so pure-hearted it hurts to look at you! Buuut, you'd better be careful not to let others take advantage of that~<br>
+Musashi was right about one thing - this place definitely HAS been quite the experience. Too bad my sisters aren't here to witness it as well.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-{namecode:226}，你知道{namecode:206}去哪儿了么？<br>
+Speaking of your sisters... I haven't seen Yura in a while. Do you know where she is?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-不知道诶……她之前被{namecode:84}大人派出去执行任务就没回来，我也不知道去哪儿了。<br>
-大前辈找她有事么？<br>
+Hmm... I heard Musashi gave her some top-secret mission not too long ago, but I obviously don't know the details beyond that...<br>
+Why, did you need her for something?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-没事，只是随口问问而已。<br>
+No, I was just curious.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-……如此一来，吾的行动也结束了。<br>
-{namecode:84}，接下来汝要如何出招呢？<br>
+Phew... That concludes my turn.<br>
+I can only hope Musashi comes to understand my intentions.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=如梦似幻|选项=23|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Tower|选项=23|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:84}控制区 第七回合<br>
-{namecode:74}的选择让剑拔弩张的气氛得到了缓解，不过随着{namecode:84}行动的开始，{namecode:226}的身边突然出现了众多飞舞的紫色蝴蝶。<br>
+Exercise Area - Turn 7 (Musashi's Action)<br>
+When Musashi's turn rolled around, Sakawa, who was still with Nagato's fleet, suddenly found herself surrounded by purple butterflies.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-这个是……{namecode:84}大人的指挥卡么？<br>
+What is she planning to do this time...?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-没错哦，其名为——指挥卡「如梦似幻」！在本次行动轮中，所有己方侍从对于据点的伤害提高50%。<br>
-所以不用紧张，我们之间暂时不用战斗了。<br>
-既然{namecode:91}大人和{namecode:82}大前辈都对中心据点发动了进攻，{namecode:84}大人也不能落后啊~<br>
+I suppose I'll be heading towards the tower now. These butterflies seem to be patching me up and making me stronger.<br>
+Lady Nagato, I think you've gotten your point across! Hopefully we won't have to fight anymore!<br>
+I was just wondering why we had to jump through so many hoops in the first place. I thought there'd be a lot more competition over the big 10-point base in the middle!<br>
 <br>
-{namecode:226}看向屹立在海域中心的黑色高塔。即使历经了之前的猛烈战斗，那座高塔似乎依然没什么破损的迹象。<br>
-而在高塔之下，{namecode:27}和{namecode:104}已经就位了。<br>
+Sakawa looked towards the imposing tower in the middle of the exercise area. Akagi had tried to scout it out earlier, but waves of Siren enemies made any movement around the area difficult.<br>
+One after another, ships from the four fleets began to arrive around the tower.<br>
 <span style="color:#4eb24e;">Suzutsuki ：</span><br>
-比起远望时的压迫感，近距离下观察这个塔，感觉……简直就像某种拥有心脏的活物一样……<br>
+That ominous red aura was spooky enough from a distance, but up close, the thing looks like it might even be alive!<br>
 <span style="color:#4eb24e;">Chiyoda：</span><br>
-不要用这么恐怖的形容词啊……这不只是一座机械塔而已么。<br>
+Ugh, please don't say that. The way the light is flickering makes it seem like it's breathing...<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-说起来……为什么四个区域据点里是人型塞壬精英，到了中心据点却只有一座塔呢？<br>
+The other four facilities here were some of the Sakura Empire's most sacred sites... So why would this Siren facility be sitting in the middle of this whole place?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-听说之前打倒构建者的时候，{namecode:91}大人一行人也破坏了一座塔。<br>
-也许这个塔，代表的是某种塞壬的高级形式吧？<br>
+Do you remember hearing from Akagi and the Commander that they also had to destroy some kind of tower during the Iron Blood rebellion?<br>
+Do you think this tower represents some higher form of Siren?<br>
 <span style="color:#4eb24e;">Chiyoda：</span><br>
-塞壬的高级形式……？看起来也没什么了不起的，{namecode:103}姐，我们一起上吧。<br>
+How much "higher" can it be if it lost the ability to move around? Chitose, let's go smash that thing up, just the two of us!<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-嗯，让中心据点见识一下我们连携技的威力——<br>
+O-okay...! Um, also, I've decided on a name for our combo attack... F-Featherstorm!<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-哇哦~哼哼哼，{namecode:84}大人让我使用技能的指令终于下来了！<br>
-是时候让大家，还有我自己见识一下，我所设定技能的恐怖威力了！看招，「{namecode:226}鬼神斩」——————！<br>
+Is everyone showing off the special techniques they've developed here? I guess I have no choice but to join in on the fun myself––<br>
+Ahem! ...I am the piercer of the blue waves, inheritor of the Rakshasa's blade! True Demon Slash!<br>
 <br>
-{namecode:226}身后突然出现了一个逐渐凝聚为实体的巨大的影子，挥舞着近百米的长刀，对水面发出了猛烈一击。<br>
-产生的剑气劈开海水，向着塔身冲去。不过比剑气更先到的是舰载机的机炮与炸弹，猛烈的攻击让塔身逐渐出现了裂缝。<br>
-紧接着，数道细小的冲击波凭空出现，对水面上的{namecode:27}等人发动了反击。<br>
+Sakawa and Wakatsuki both unleashed a blade of light from their riggings, the rippling bolts of energy expanding to several times their original size as they hurtled towards the tower.<br>
+Chitose and Chiyoda's combination attack also landed a direct hit on the base of the tower, a plume of flame and smoke quickly rising in the aftermath.<br>
+But in a heartbeat, the tower released a nigh-intangible shockwave back at the shipgirls.<br>
 <span style="color:#4eb24e;">Kirishima：</span><br>
-嗯……跟我们之前进攻的结果一样，被攻击次数增多，反击次数也变多了。不过伤害就……<br>
+It absorbed our attacks, just like before... Except this time, the shockwaves seem to be stronger corresponding to the strength of the attacks.<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-作为中心据点，单次反击的伤害居然还不如区域据点高，这太反常了。<br>
+That's not much of a "counterattack" though - it's barely enough to rock the waters. That can't be all there is to this tower.<br>
 <span style="color:#4eb24e;">Kinu：</span><br>
-我注意到了一件事……你们仔细看塔的状态栏，有人能看清它的具体状态么？<br>
+Wait, there's something different about the tower now. Do you see any differences in the pattern of light coming from it?<br>
 <span style="color:#4eb24e;">Kirishima：</span><br>
-唔……嗯？模块的数量在不停变化……？<br>
+You're right, it's not the same as before. Do you think it's reacting to the attacks we just threw at it?<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-有猫腻。它不想让我们看清自己的状态，说明这座塔正在刻意隐藏着什么。<br>
+It's too early to say... But if it's like the tower the Commander encountered during that battle, there might be something nasty sleeping inside.<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-确实，感觉值得再观望一下……<br>
+Those weak shockwaves won't even leave a scratch on us!<br>
 <br>
-在众人的观察中，{namecode:84}结束了回合。不过第八回合没有开始，而是进入了结算阶段。<br>
+However, the moment Musashi's fleet stopped attacking, a blinding flash radiated out from the tip of the tower, tearing violently through the entire domain.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-结算阶段……？哎？这回合没什么要结算的啊。<br>
+Wh-what in the world was that?! The tower's counterattacking for real now?<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-这个光芒是…………大家小心，有什么事要发生了！<br>
+Damnit, I spoke too soon... Watch out, everyone! Something's totally different about that tower!<br>
 <br>
-无声的光芒散去之后，原本位于中心据点周边的{namecode:73}、{namecode:27}、{namecode:104}和{namecode:79}都消失了，一个新的身影出现在水面上。<br>
+When the shipgirls gathered their senses from the previous shockwave, they quickly noticed that Kirishima, Suzutsuki, Chiyoda, and Yamashiro were no longer present. Instead, they had been replaced by Sirens.<br>
 <span style="color:#ec5d53;">Arbiter: The Hermit IX：</span><br>
-…………<br>
+.........<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-开玩笑吧……满状态的{namecode:73}，被直接消灭了？！<br>
+Kirishima... got taken out in one blow?!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-难道塔是把本回合受到的所有伤害全部释放给了周围的人么……<br>
-大意了，没想到还有这种机制，应该再观察一个回合的……！<br>
+I guess the first pulse was just a warning shot... This tower seems to throw back all the energy we pump into it, several times over...<br>
+Did the Commander also have to fight against an enemy like this, or...<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-……真是惨状。可是令人不解啊……这是{namecode:84}设计的棋局她应该对规则心知肚明吧？<br>
-为什么明知会发生这种事，还要把自己的两个人送进去？她这么做的目的究竟是……<br>
+Three of Musashi's retainers were taken out in a single blow... They aren't even present in the domain anymore.<br>
+If Musashi designed this place, shouldn't she have been aware of exactly what she's up against? Why did she waste her own troops like this then?<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-……大前辈，中间出现的人型，是塞壬么？<br>
+G-Great Veteran, look over there at that Siren...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-不知道，看起来是塞壬人形的风格，但是我没见过它。<br>
+The Arbiter that appeared in the NA Ocean...<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-吾也没见过。<br>
+It must be a vessel...<br>
 <span style="color:#4eb24e;">Shoukaku：</span><br>
-{namecode:74}大人，我感觉她有点眼熟，我好像之前见过这个塞壬。<br>
+I see. I've heard all about the Commander's exploits in the NA Ocean, but it seems these towers are guarded by Arbiters...<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-呵呵呵，这就是你所准备的惊喜么，{namecode:84}？<br>
-真是连我也大吃一惊啊，不是说好的观察者，而是这个塞壬的仲裁机关，仲裁者·赫米忒·IX。<br>
-{namecode:95}，你的记忆力没错。你与我都见过它，之前在NA海域中心就是她让我们吃了个大亏，还记得么？<br>
-当时具有腐蚀性的海雾就是这东西使出来的伎俩，我绝对不会忘记这家伙的样子的。<br>
-呵，如此近距离一看做的真是逼真又还原啊，一下子消灭了三个人么……<br>
-呵呵呵，这才是与演出高潮相匹配的战斗力！就让我来华丽地，把你消灭掉吧！<br>
+Is this the surprise you prepared for us, Musashi?<br>
+I'll admit, I'm impressed. How did you manage to procure data on an Arbiter and even manufacture a vessel for it?<br>
+Shoukaku, you remember this Siren too, don't you? We encountered it briefly in the heart of the NA Ocean.<br>
+I won't forgive it for what it did... Making such a vile imitation of Amagi...<br>
+Hahaha... Hahahahaha... Even if you're nothing more than a vessel, I'll make you pay!<br>
+If this is what I was invited here to do, then I will entertain you, Musashi!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=杜鹃不啼|选项=24|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Love for the Weak|选项=24|主框=1|样式=primary|展开=是}}
 <br>
-稍早前的会客室中——<br>
+Sanctuary Pagoda - Reception Room<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-{namecode:82}……你居然想把第一送给{namecode:74}啊。<br>
+There's nothing wrong with letting someone else win. But do you know what it means to entrust your will to someone else?<br>
 <br>
-桌面上的三杯清茶余温未尽，但会客室内已冷清无比。<br>
+Musashi now sat alone at the board, quietly overlooking the situation in the exercise area.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-原本以为你更有格局一些呢……<br>
+Unlike Nagato and Akagi, you already have true strength. It is unsurprising that we would not be able to see eye-to-eye.<br>
 <br>
-在{namecode:84}眉头微皱之时，一阵熟悉的鸟鸣声由远及近，最后轻巧地落在了{namecode:84}的肩头。<br>
+Just as Musashi furrowed her brow in discontent, a familiar chirping sound came from the window. A small bird gently landed atop Musashi's shoulder.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-又是你这个小家伙，不是让你找个别的地方去避雨么。<br>
-风暴已如此接近，你却还在此处踟蹰……也罢，想留就留吧。<br>
+So you came again. Did I not say that this pagoda would not shelter you from the elements?<br>
+But if you insist on being my companion... I can at least keep you safe through the coming storm.<br>
 <br>
-燕子轻轻叫了几声，似乎对于这个回答格外满意。<br>
+As if buoyed by Musashi's words, the fledgling swallow chirped a few times.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-你这小家伙真是有趣……既然这样，燕子啊燕子，我考考你。<br>
-你说，这棋盘之上，何人会输，何人会赢呢？<br>
+What an interesting one you are... Now, I have a little question for you.<br>
+Who do you think will be the winner of this "exercise?"<br>
 <br>
-燕子似乎听懂了一般，歪头盯着桌子看了看，然后摇了摇头，继续梳理羽毛去了。<br>
+Musashi gestured to the holographic display in front of her, and the swallow fluttered its wings a few times as if to respond.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-汝看不懂是么……呵呵，也是啊，有些难为你了。<br>
-<span style="color:#4eb24e;">通讯器：</span><br>
-滴——滴——滴————<br>
+Haha, that question may indeed be too difficult for you... just as it is for me.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP! BEEP! BEEP!<br>
 <br>
-{namecode:84}身边的通讯器突然响了三声，然后沉寂下来。<br>
+The communicator next to her beeped three times in warning before falling silent again. Musashi returned her gaze back to the board.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-第七回合还没结束，有些人就已经等不急了么……<br>
-呵呵，也罢。那就让本日的重头戏开始吧<br>
-吾会如约让汝在今日登上华丽舞台的正中央，成为整个重樱内当之无愧的焦点。<br>
-……毕竟这舞台，本就是为你量身定制的啊，呵呵呵……<br>
+Now that everyone has gathered around the tower... Let us put an end to this game.<br>
+I have assembled the pieces for you. I have brought you before the power you seek.<br>
+But I can do no more than to set the stage for you. Whether you can become the star of this show... now depends on the strength of your will.<br>
+Make the most of this performance, o feeble child.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=天晴浪高|选项=25|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Retreat and Regroup|选项=25|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:91}控制区 第八回合<br>
+Exercise Area - Turn 8 (Akagi's Action)<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-唔啊啊啊啊啊阿，要被击沉了要被击沉了要被击沉了！<br>
+Woaaaah... I could've sworn I was going to sink! My head's still spinning...<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-冷静点{namecode:79}……已经没事了。<br>
+Y-Yamashiro... Are you still able to stand...?<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-倒不如说你居然能没事啊……<br>
+What incredible tenacity. Is that the strength of your determination to overcome bad luck?<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-还好我的保命技能「神乐舞」可以锁血啊！不然就要瞬间下场了呀！<br>
-刚刚那是什么情况啊，怎么一下子退场了三个人？！<br>
+Ehehe... I'm not sure what happened, but, I kept thinking about how I didn't want to let everyone down! And then, it didn't hurt anymore!<br>
+Wait, huh? Are we missing some people? Where did Chiyoda and Suzutsuki go? And is Kirishima gone too?!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-这就是危机四伏的战争哦。局势瞬息万变，稍有不慎便会粉身碎骨。<br>
-大前辈是真敢应邀，但我的策略可不是随便观察几下就能理解的。<br>
-不清楚情况就盲目跟在我后面想要反制我，结果呢？呵呵呵~<br>
+That tower almost took all four of you down in a single blow. I always had a feeling you couldn't just march right up and capture it, but I never expected something like this.<br>
+Musashi aside, I can see Nagato and Mikasa preparing to attack this tower as well.<br>
+Do they think we can still work together? Or are they trying to seize victory away from me at the last moment? Not that it matters in the end.<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-{namecode:91}前辈，新的回合开始了。<br>
-本回合的事件卡是「天晴浪高」，按效果所说，在本回合内所有战列舰得到强化的同时，所有驱逐舰会获得减益。<br>
+Akagi, it's your turn again.<br>
+After the tower's last attack, the turbulence in these waters has made it harder for certain ships to operate.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-啧……是大前辈准备的战列舰特化卡啊。<br>
-真是个喜欢沉湎于过去的人……也不看看现在是什么时代了。<br>
+I see... Meanwhile, battleships have greater stability under these conditions, giving them a significant advantage.<br>
+But we're hardly old-fashioned ships prone to being battered around by the waves. This won't affect how we proceed.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-{namecode:91}，接下来要继续进攻中心据点么？<br>
+Akagi, should we continue attacking the tower?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-不，中心据点接下来会有点麻烦，现在还不是时候。<br>
-首先把阵型收回来，观察一下局势再做决定。{namecode:5}，你的情况如何？<br>
+No, we need to regroup and investigate the tower more thoroughly. It's clear that it cannot be captured through conventional means.<br>
+Everyone, get back into formation first. Miyuki, how's the situation over there?<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-{namecode:91}大人，非常抱歉……周围都是其他侍从的控制区，{namecode:5}还是没法回来。<br>
+I, I'm seeing increased activity from mass-produced ships! Should I continue observing them and alert you if they're headed your way?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-嗯……看来她们铁了心是要卡住你了。你先安心呆在那里，等到{namecode:82}的止戈效果结束后我另有安排。<br>
+Very well. You'll have safety in numbers around Mikasa's forces. I'll be in touch with you later, Miyuki.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-遵命。<br>
+Understood!<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-只是收回阵型……这回合不进攻其他据点么？<br>
+Um... Is there anything I can do?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-也不是不能打，就是打的话，又要麻烦你去当先锋吸引火力了哦？<br>
+You don't look like you're in any condition to fight, so you might as well head back and try to capture some of the perimeter bases we skipped over, and see if you can find any emergency repairs.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-不不不不不了不了，大家还是花时间恢复一下，恢复好了再打嘛！<br>
+O-okay, thank you very much! But wow, that attack from the tower was something else!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-呵呵呵，这件事就交给你了哦，{namecode:179}。<br>
+Ryuuhou, go with Yamashiro and cover her until she can patch herself up.<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-嗯，尽管放心包在我身上！团队回复的事就交给我的「樱绽凤华」吧~<br>
+Yes ma'am! I haven't seen much action for a while, so it'll be a nice change of pace to go back and capture some bases.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=威压|选项=26|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Final Stretch|选项=26|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:82}控制区 第八回合<br>
-{namecode:82}队的行动轮已经开始，但众人都还没有从{namecode:73}被赫米忒横扫的震惊中回过神来。<br>
+Exercise Area - Turn 8 (Mikasa's Action)<br>
+After Kirishima was knocked out by the tower's sudden counterattack, Mikasa's fleet followed Akagi's example and retreated out of range.<br>
 <span style="color:#4eb24e;">Kinu：</span><br>
-没想到{namecode:73}居然就这么退场了……<br>
+I can't believe we lost Kirishima just like that... Haguro, what happened?<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-只有最先进去的{namecode:91}大人保住了{namecode:79}，其他人都退场了……果然是陷阱。<br>
+Out of the four ships who were too close to the tower, only Yamashiro managed to withstand that shockwave... Damn that Akagi, she left a path to the tower open on purpose knowing exactly what it does!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-不要慌张，现在我们与{namecode:91}不过是回到同一起跑线了而已。<br>
-既然她已出招，我们也必须还击才是，大家打起精神来！<br>
+I wouldn't jump to conclusions so soon. We just have to go back to taking a wait-and-see approach again.<br>
+For now, let's also regroup and reorganize. We're getting to the most pivotal part of the match, so stay focused!<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-没错，战局正要进入白热化的阶段呢。前辈，我们接下来怎么办？<br>
+Well spoken, Great Veteran! Lead us onward to victory!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-中心据点价值10分，占领它就基本意味着胜利。<br>
-{namecode:91}似乎回去休整了，但本回合的事件卡「天晴浪高」对于我们有优势，不能因为畏惧危险而停止前进。<br>
+This game may well be settled by whoever captures that tower, but it's clear that none of us have the capability to do so just yet.<br>
+Akagi has obviously realized this as well. That is why she has also fallen back and is turning around to pick up the bases she left previously.<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-大前辈，让我去中心吧，虽然驱逐舰进攻要塞能力比较弱，但是规避能力好，应该能多撑一会给主力争取时间。<br>
+Mikasa, I don't think I'll be of much use right now due to the weather conditions, but I can continue to perform recon around the tower while taking advantage of my speed and maneuverability.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-没问题，在你进入中心后，我与{namecode:70}会和你一同进攻。不过硬拼不是上策，我也有其他安排。<br>
-你们已经见识过我的入场技能了，但应该还不知道我的另一个技能「威压」——一回合内能够让敌人的反击能力彻底消失。<br>
-这样在本回合中不用担心因为反击而受到的损伤，尽情战斗了。<br>
+That's fine. Kongou and I will support you so you won't be threatened by mass-produced Sirens, but make sure not to wander too close or you'll draw the attention of the Arbiter's patrol fleets.<br>
+One last thing - we need to keep a close eye on Musashi's every move. Now that Nagato, Akagi, and I have all entered the battle, she is the only one who remains completely inscrutable to us.<br>
+If she does decide to enter the battle herself, someone will have to stop her.<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-噢~能够白打的话真是再好不过了~<br>
+Acknowledged.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-大前辈，那我呢？<br>
+So, uh, is there anything you need me to do?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-你跟{namecode:181}前去清理据点CD12，依旧是和之前一样，在压制的差不多之后交给{namecode:74}解决。<br>
+Just stay with Kinu and join up with Nagato's fleet. Help her capture as many bases as possible.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-……又要白送给{namecode:74}大人么？<br>
+Got it. Nagato can win as long as she gets enough of the remaining bases, right?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-没错，现在我与{namecode:84}{namecode:91}三人都将都目光着眼于中心据点，无法分神。<br>
-现在，{namecode:74}手中已经有9分，而{namecode:91}和{namecode:84}则是7分与6分，继续这样积累下去，也许能积少而成多哦。<br>
+That's right. The central tower may be worth ten points, but there are ways of making up that difference.<br>
+Nagato is currently in the lead with nine points, so we need to make sure there aren't enough points left to overtake her.<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-双管齐下之策。<br>
+In the event that nobody can take the central base at all, Nagato will win by default as long as she can maintain the lead.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-我明白了……真是万无一失的考虑，不愧是{namecode:82}大前辈……！<br>
+Alrighty then. Let's get this show on the road...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-{namecode:74}大人，这样没问题吧？<br>
+Nagato, are these arrangements fine for you?<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-嗯，正合吾意。<br>
+They're quite beneficial, thank you.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-呵呵，就让我们两队通力合作，一起沿着胜利的道路前进吧~<br>
+Good. Let's focus on improving our combat capabilities, then come back for that tower later.<br>
 <br>
-大棋盘·{namecode:74}控制区 第八回合<br>
+Exercise Area - Turn 8 (Nagato's Action)<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-诸位，接下来，吾将与{namecode:82}全力配合。为了取胜，吾等会同时执行不同的策略。<br>
-中心区域的争夺与对{namecode:91}{namecode:84}的牵制就交给{namecode:82}的队伍。<br>
-在此期间，吾的队伍必须尽全力攻略一切未被占领的小据点。<br>
-既然选择了不进行相互战斗的道路，那就让吾等坚定不移地走到底吧。<br>
+Everyone, we will be fully cooperating with Mikasa to seize victory from now on.<br>
+We will have a small group capture as many bases as possible, while the rest of us prepare to take the central tower.<br>
+Once all the bases have been taken, we can throw everything we have at that tower.<br>
+As fellow members of the Sakura Empire, we must never turn our weapons upon each other... That is not a compromise I will ever make.<br>
 <span style="color:#4eb24e;">Shoukaku：</span><br>
-{namecode:74}大人，我们现在有9分，加上控制区内那个没处理的据点，以及{namecode:82}大人那里的3个，也就只能再拿4分。<br>
-13分虽然不少，但还不足以取胜吧……<br>
+Nagato, even after taking Mikasa's bases, you won't have enough points to win without entering Musashi's territory. Isn't some sort of confrontation with her forces inevitable?<br>
+What happens if Musashi actually plans to fight you off from being able to take those bases?<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-自然，所以吾等还要把目光着眼于{namecode:84}的控制区，那里还有3个据点。<br>
-现在命令，{namecode:157}进入{namecode:82}的控制区，移动至D2，拿下只剩一点耐久值的据点CD12。<br>
-{namecode:95}{namecode:72}{namecode:71}，配合吾拿下吾等控制区内最后一个据点GH12，之后向着{namecode:84}的控制区移动。<br>
-吾与{namecode:158}就守在这里，防止{namecode:84}和{namecode:91}乘虚而入，这里离中心也近，可以在关键时刻给{namecode:82}提供支援。<br>
-诸位开始行动吧，只要团结一心，胜利必将属于吾等！<br>
+Musashi is not able to win even if she takes the central tower. We will have to hope that she prioritizes helping Akagi over getting in our way.<br>
+With Haguro's help, we won't need to commit a great deal of resources to finish capturing the rest of Mikasa's bases.<br>
+Shoukaku, Haruna, and Hiei – I want the three of you to start moving towards Musashi's territory.<br>
+Kawakaze and I will join up with Mikasa and thin out any enemy forces that emerge from the tower.<br>
+If we work together, victory will be ours! Everyone, prepare to move out!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=见机行事|选项=27|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Betrayal|选项=27|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:84}控制区 第八回合<br>
+Exercise Area - Turn 8 (Musashi's Action)<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-大前辈在见到那种攻击之后完全没动摇啊，明明已经损失了{namecode:73}了……<br>
-连{namecode:91}大人都已经退出去休整了，她居然还在继续进攻。<br>
+Looks like everyone's scrambling to snag up the rest of the bases before fighting over the central tower~<br>
+On top of that, Nagato and Mikasa seem to be posturing to stonewall us from any attempts to take the tower before they can gather their forces.<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-就损失而言我们才是最大的一方哦……{namecode:27}和{namecode:104}都退场了，我的「千之羽」也没法使用了。<br>
+I, I can't believe Chiyoda is gone just like that... Are we going to be alright?<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-没错……更糟糕的是{namecode:74}大人似乎想对我们的后方乘虚而入，局势非常不妙。<br>
-不知道{namecode:84}大人是怎么考虑的……{namecode:226}，你觉得{namecode:84}大人会下来帮我们么？<br>
+I just saw Nagato moving her forces north of us! She's going to try to cross into our territory and capture the bases we left behind!<br>
+But even if we defend those bases, I don't think we can win anymore... Do you think Musashi is going to come help us?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-会的，而且肯定是关键时刻登场，然后逆转局势！<br>
-{namecode:74}大人登场的时候带来了樱花雨构成的结界，{namecode:91}大人登场的时候散发着燃烧的彼岸花。<br>
-大前辈登场的时候则是创造了一道无法攻击的屏障，不知道{namecode:84}大人登场时会是什么样子呢……<br>
-啊，{namecode:84}大人的命令到了。首先使用的指挥卡是……「见机行事」？<br>
+I'm sure of it! She's probably just waiting for the perfect moment to make a grand entrance!<br>
+Nagato, who descended with the dignity of cherry blossoms dancing in the wind, and Akagi, who rained down like fire from the skies!<br>
+Mikasa wasn't as flashy, but she did prevent us from moving for a while... I'm sure Musashi's going to turn the tides of battle with a bang!<br>
+Oh, Musashi's orders are coming in... Let's see... Wait, huh? What's the meaning of this?<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-效果有些复杂……好像本回合进行的操作会影响到下次行动，攻击或移动会在下回合收获不同的收益……<br>
+We're... not being ordered to attack the central tower like everyone else?<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-{namecode:226}、{namecode:103}，我这边收到了进攻据点IJ78的命令，就先走一步啦~<br>
+I'm... being ordered to defend our bases... Does this mean I'll have to square off against Nagato's forces again?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-我这边的命令…………稍微有些看不懂啊。<br>
+My orders... don't make any sense at all! Why?!<br>
 …………{namecode:5}。<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-嗯，有什么事么？<br>
+Y-yes...?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-两回合的止戈状态已经消除，这片区域又可以相互战斗了。<br>
+I'm really sorry about this.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-好像是这样呢……<br>
+Wait... What are you doing?<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-对不住啦，{namecode:84}大人有令，命令我跟{namecode:103}对你展开攻击。<br>
+Musashi ordered... for me and Chitose to take you out.<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-欸……？我们不是盟友么？<br>
+Huh...? Why? I thought, I thought Musashi and Akagi were working together... I thought we're on the same side...<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-我也不太清楚{namecode:84}大人的想法，但是没办法，命令就是命令！<br>
-作为交换，我会堂堂正正吃下你的反击的！<br>
+I... don't know. I can't ask Musashi what's going on since she's still on the other side...<br>
+I won't try to dodge if you fight back, so... Please don't hold it against me when we see each other later! Okay?<br>
 <span style="color:#4eb24e;">Miyuki：</span><br>
-这样啊……我明白了。{namecode:5}会作为{namecode:91}大人的侍从全力以赴的，尽管攻过来吧！<br>
+I, I'm still one of Akagi's retainers... so I'm still going to do my best...!<br>
 <br>
-轰——————————！<br>
-爆炸声过后，一直被困在{namecode:74}与{namecode:82}队伍之间的{namecode:5}因为耐久归零消失在棋盘上。<br>
+KABOOM––!!<br>
+Shortly afterwards, in Mikasa's territory...<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-什么？！{namecode:84}大人的侍从居然攻击了{namecode:91}大人的侍从？！<br>
-她们不是一家的么……不行，我已经完全搞不清状况了。<br>
+What?! Musashi launched an attack on Akagi??<br>
+Aren't those two supposed to be working together? What the hell is going on?<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-我也……有些看不懂了，{namecode:82}前辈，{namecode:84}大人的行动究竟是什么意思？<br>
+I don't have a clue either. What do you think, Mikasa?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-唔…………我也没想到会发生如此出人预料的事态……<br>
-（{namecode:84}与{namecode:91}之间产生不和了？）<br>
-（不，不可能。只是一盘棋而已，{namecode:84}在这时候与{namecode:91}产生不和的概率无限接近于零。）<br>
-（所以……这项特殊的举动肯定也是二人商量过的结果。）<br>
-（以此可以反推，这项举动所带来的结果就是二人这么做的目的。）<br>
-（结果上来说，{namecode:226}受伤，{namecode:5}退场……侍从数减少……也就是说减少侍从就是这么做的目的。）<br>
-不好，{namecode:84}正在协助{namecode:91}减少场上的侍从人数！<br>
+Sorry to disappoint, but I'm just as confused as the rest of you.<br>
+(Are those two on bad terms now? No, that doesn't make any sense... Akagi left the room even before I did...)<br>
+(And why wait until now? If this is another way of testing Nagato...?)<br>
+(If those two have been working together since the very beginning, there's a possibility this was planned.)<br>
+(Now, Miyuki's been removed from the battle, and Sakawa is heavily damaged as well... Think, is there any benefit to purposefully thinning out your own forces?)<br>
+(Akagi mentioned something about the Sirens being increasingly vigilant since the Iron Blood rebellion... Does that have something to do with it?)<br>
+There has to be something we're overlooking here...<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-欸？{namecode:84}大人为什么要这么做啊？！<br>
+What do you mean? What reason could Musashi possibly have for attacking Miyuki?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-恐怕，{namecode:91}{namecode:92}一直没有使用过的技能就与此有关，她们的技能肯定能从中获得增益！<br>
+I can't exactly put my finger on it, but I have a bad feeling this feeds into Akagi's goal...<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-原来如此……如果这样的话上回合{namecode:84}极其不合理的行动也能解释的通了……<br>
+If you're suggesting that Akagi WANTED to thin out everyone's ranks from the very beginning, then drawing us in to that earlier "attack" on the tower makes sense now.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-真没想到，{namecode:74}的战术居然歪打正着对{namecode:91}产生了反制作用啊……<br>
+I'm not sure that theory holds up, since she could've ignored the bases altogether and attacked us from the very beginning. But it does explain why Musashi barely took any bases and kept poking and prodding at us with Sakawa and Wakatsuki...<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-……通过减少人数才能发动的技能么，听起来好危险。<br>
+Maybe she needs to whittle down the number of participants left to fulfill some condition? In that sense, Nagato's tactics have been inadvertently countering hers this whole time.<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-根据规则书的感觉来看，设定通过减少人数作为发动前提的技能，一定拥有很强力的效果……<br>
+Musashi said at the very beginning that this game would be a battle of wills and ideals. By extension, this means...<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-靠牺牲同伴获得收益的设计思路，本身就很恐怖吧！<br>
+That she would readily sacrifice her friends to accomplish her goals...<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-确实是有些恐怖的设计思路，但是很有{namecode:91}的特色哦。<br>
+That's one possibility, but she might also be testing Akagi, just like she did with Nagato.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-不过让{namecode:225}转头进攻小据点的理由我也暂时没想明白，靠{namecode:225}自己是阻止不了{namecode:74}那边得分的……得观察一下后续情况。<br>
+So that's why she's sending Wakatsuki to defend against Nagato alone. It's a win for her if she either gets Nagato to abandon her ideals, or if she can prevent Nagato from taking any more bases.<br>
 <span style="color:#4eb24e;">Kinu：</span><br>
-大前辈，{namecode:84}大人结束了回合，要进入第九回合了。<br>
+Damn it... Does that woman believe in anything, or is she just playing devil's advocate?!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-嗯，这回合正常结束，中心再没出现奇怪的机制。<br>
-本来以为{namecode:84}会借助这回合「天晴浪高」的效果入场做点事呢……<br>
-没想到在她打出那张「见机行事」之后，就进行了一些我都没能完全看懂的部署。<br>
-有趣啊……有趣。<br>
+That's what we're all trying to find out... All we can do is wait to see what happens next.<br>
+(It's too late now, but I fear that none of us should've ever agreed to this "exercise.")<br>
+(Had I become aware of the Sanctuary earlier, I might've been able to... No, because of this, Nagato has found her own vision for our future, and I've resolved myself to fight for her ideals.)<br>
+(I see... I shouldn't have any doubts at this point. As long as Nagato can win, nothing else matters!)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=神木之风|选项=28|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Ripple Effect|选项=28|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:91}控制区 第九回合<br>
-伴随着回合开始的提示，和煦的微风拂过了棋盘的每一个角落，也拂过了{namecode:91}队的各位侍从。<br>
-触发的事件卡名为「神木之风」，在每一名侍从开始行动和结束时，会分别获得一次恢复效果。<br>
+Exercise Area - Turn 9 (Akagi's Action)<br>
+As more ships began to drop out of the game from the intensifying battles, the waters continued to become more turbulent as if reflecting the participants' anxiousness.<br>
+Everyone waited with bated breaths for the next command to be issued, each move feeling less and less like a game.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-一看就是{namecode:74}大人准备的事件卡……这是要当乌龟当到底啊。<br>
+So that's what you've been after all along, Musashi... Whittling our numbers down.<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-可惜{namecode:5}没机会体验了……我还是不明白，{namecode:91}大人，{namecode:84}大人刚刚为什么会突然对{namecode:5}发动攻击啊？<br>
+Musashi's turn has ended, but I still can't figure out why she'd attack Miyuki like that.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-不用担心，都是计划内的一环。<br>
+It's all a part of her plan, isn't it?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-嗯。既然，{namecode:74}和{namecode:82}铁了心要把她卡住，那除此之外就没有其他办法了。<br>
+I'd imagine so. Miyuki was cut off from the rest of us anyway, so Musashi likely saw her as a liability.<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-……这样啊。那我们本回合怎么办？大前辈又继续开始对中心区域的攻略了，我们要跟上么？<br>
+So what do we do now? Without her to keep track of Nagato's and Mikasa's forces, we'll have a harder time controlling the central tower.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-呵呵，把{namecode:140}消灭掉确实也是可选项之一。<br>
-我还挺想看看如果{namecode:140}退场了，大前辈接下来要再选谁进去顶着呢~<br>
-{namecode:179}，{namecode:92}跟我一起对{namecode:140}发动攻击。<br>
+We'll consolidate our forces and prepare to attack the tower as before. However, I do have a special task for you.<br>
+Now that Musashi's tipped her hand, two can play at her game.<br>
+Ryuuhou, Kaga, I want the two of you to launch a long-ranged bombing attack on the tower.<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-前辈，舰载机飞过中心区域时会遭受干扰，{namecode:140}现在的状态还很好，我们不一定能将她一举拿下。<br>
+Wait, if we do that, it'll trigger another shockwave... Isn't Hatakaze still in range of the tower?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-无妨，反正大前辈也差不多能猜到我想做什么了，意思到了就行。<br>
+Precisely. If we don't engage in combat with another shipgirl, we can do some damage while bypassing Mikasa and Nagato's pesky defenses.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-那我呢？我不进入中心区域就攻击不到{namecode:140}哦——当然我不会进去就是了！<br>
+Why are we still trying to attack our own friends? I thought we were going to work together to knock down that tower!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-你的话，这回合干脆利用一下事件卡的效果，向着周围随便走走好了。<br>
+I never said anything to the contrary. Just focus on taking this time to get patched up. I'll need you again later.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-真的吗？太好了……这么下去{namecode:79}很快就能满血复活了！<br>
+O-okay! I'll stay put over here and let the repairs continue to run then!<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-嗯，加油哦，{namecode:79}，之后中心据点的攻略还需要你呢！<br>
+That's right, I still need you to soak up damage for me later, so don't get yourself knocked out!<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-欸<nowiki>~~~~~~~~~</nowiki><br>
+Ahaha... I'm not sure if that's supposed to be a compliment, but I'll do my best!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-呵呵，我们就充分利用一下{namecode:74}大人准备的事件卡，先让大前辈先在中间努力吧~<br>
+(Neither Nagato nor Mikasa will let you get your way easily, Musashi... Now, what will you do?)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=联合行动|选项=29|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Joint Effort|选项=29|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:82}控制区 第九回合<br>
+Exercise Area - Turn 9 (Mikasa's Action)<br>
 <span style="color:#4eb24e;">Hatakaze：</span><br>
-呼呼呼，果然对我发动攻击了，还好吾的机动护卫能连自己也护卫上。<br>
-这下大前辈你的猜测就完全证实了呢。<br>
+Damnit... I can't move my rigging anymore after taking that shockwave head-on... I think I'm done for...<br>
+But... this proves that Mikasa's intuition was right. Akagi's trying to thin out our ranks.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-嗯，果然如此……既然已经证实了猜测，就必须要针对一下了。<br>
-暂停对中心的攻略，{namecode:140}你撤出来吧，前往据点CD34内休整。只要我们控制住侍从退场的数量，就能遏制住{namecode:91}的战略。<br>
-现在临近终盘，如果她再不行动进攻中心据点的话，按照目前的积分，胜利的就是{namecode:74}的了。<br>
-{namecode:91}才是着急的那一边，我们以不变应万变，等待她的下一步行动。<br>
-{namecode:181}{namecode:65}继续进攻据点AB12，帮助{namecode:74}大人占领这个据点。<br>
+We'll have to respond accordingly. We can't let her get away with this.<br>
+Hatakaze, retreat while you still can. I don't know how much time we have, but we need to stall as long as possible while there's still no clear route to capturing the tower.<br>
+If we can hold out until time runs out, Nagato will be the winner.<br>
+Musashi... No, her and Akagi too, are both on a timer. We just need to keep things under control.<br>
+Haguro, Kinu, can the two of you take the rest of the mass-produced ships to help Nagato take the remaining bases?<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-了解……包在我们身上。<br>
+Understood. Safety in numbers, right?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-接下来的唯一变数就是{namecode:84}……不过她只有一架航母，不论如何也不可能越过中心区消灭刚刚进行过两次恢复的{namecode:140}。<br>
-嗯……{namecode:70}前往E4，我亲自看住D5，这样就万无一失了。<br>
+Precisely. The biggest toss-up is what Musashi plans to do, but if we can get Hatakaze patched up this turn, Musashi will have to decide if it's worth for her to finish the job.<br>
+Kongou, move north to make sure Musashi can't attack without crossing through the Siren-controlled central area first.<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-遵命，这样一来，{namecode:84}大人就是想闯过中心区域强攻也不可能了呢。<br>
+Leave it to me.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-没错。我已经做了所有能做的准备，接下来就让局势自然发展吧。<br>
+(This is my test to the two of you, Musashi and Akagi. You thought Hatakaze would be easy pickings, but let's see what you're willing to do to thin out our numbers.)<br>
 <br>
-大棋盘·{namecode:74}控制区 第九回合<br>
+Exercise Area - Turn 9 (Nagato's Action)<br>
 <span style="color:#4eb24e;">Harutsuki：</span><br>
-{namecode:74}大人，针对据点AB12的攻击结束了，我们又拿下了一分。<br>
+Lady Nagato, we've finished capturing this point as well! That's one closer to victory!<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-吾知道了，非常感谢二位的协助。<br>
+Thank you for your efforts. That goes for Hiei and Haruna as well.<br>
 <span style="color:#4eb24e;">Hiei：</span><br>
-{namecode:74}大人，我们这边也结束了，我们成功赶在{namecode:84}大人前面抢下了据点IJ78。<br>
+We were able to impede Wakatsuki long enough to capture the base without having to engage in direct combat.<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-{namecode:74}大人，您能够抓住机会进行如此果断的行动，令我十分佩服……<br>
+As expected... Nagato isn't going to take the bait, and I can't get through those battleships...<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-吾是不会攻击汝的，但是视线所能及的一切据点，吾都要收下。<br>
+Once a base has been captured, it cannot be taken away by someone else.<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-如果{namecode:84}大人不命令我阻止您的话……{namecode:225}只能祝您一切顺利。<br>
+If not for these orders... I would be wishing for your success, Lady Nagato...<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-吾的行动结束，{namecode:84}，{namecode:91}，出招吧。<br>
+...Thank you. That concludes my turn.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=公方之刃|选项=30|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=True Intentions|选项=30|主框=1|样式=primary|展开=是}}
 <br>
-与此同时的会客室中——<br>
-雷声轰隆，暴雨倾盆。<br>
-{namecode:84}没有点灯，只是静静坐在愈发昏暗的会客室中注视着棋盘。<br>
+Sanctuary Pagoda - Reception Room<br>
+Lightning flashed, thunder roared. A storm had begun raging outside the pagoda.<br>
+Musashi continued to sit alone in the dark room, lit only by the holographic board to which her eyes were fixed.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-凭借你的智慧，应该已经猜到{namecode:91}的意图了吧……<br>
-呵呵，没错，退场的人越多，{namecode:91}就越强。<br>
-现在已经退场了5人，再这么继续下去，可能会发生非常恐怖的事哦。<br>
-当然，我会全力帮助{namecode:91}实现这一意图就是了。<br>
-{namecode:82}，虽然你有意保护{namecode:140}，但是……能撑得住吾这一轮攻势么？<br>
+Until now, there was nothing I could do for you. But now, I shall grant your wish.<br>
+Yes, Akagi... Your audience still awaits.<br>
+Your tenacity, your willpower. The path of thorns you've chosen to tread that earns you nothing but scorn and distrust.<br>
+To unleash that passion bordering on madness, you need to sever all your ties.<br>
+For your weak self to finally become strong... I shall give you the final push you need.<br>
 <br>
-{namecode:84}打出的指挥卡在小棋盘上化为一把利刃，笔直地插在了{namecode:140}所在的位置。<br>
-紧接着，{namecode:103}的位置上出现了一队舰载机，对{namecode:140}进行了一轮猛烈轰炸。<br>
-闪光过后，{namecode:140}从棋盘上消失了。<br>
+An order was given. Rings of light appeared beneath Chitose and her mass-produced ships.<br>
+Wave after wave of planes began to pour out from them, the humming of engines filling the sky as the metallic flock descended upon the still-injured Hatakaze.<br>
+Musashi knew that Mikasa lacked the ability to ward off a large-scale aerial assault.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-这样一来就是6人退场。很遗憾，看来汝没挡住呢……<br>
-那就再进一步，让{namecode:226}{namecode:103}一起进入中心据点的控制区好了。<br>
-然后是{namecode:74}那边……吾又让{namecode:225}进攻了一个小据点。<br>
-{namecode:74}应该也差不多看懂吾的意图了……当然，就算没明白也肯定会紧追而上。<br>
-既然下决心想要用积分取胜，那每一分就无比关键……<br>
-只是，不论汝现在分数如何领先，只要{namecode:91}攻破中心据点的话，就是她的完美逆转。<br>
-呵呵，两边我都在推波助澜，{namecode:82}，你打算如何应对呢？<br>
+Join forces all you'd like. But alliances that fail to produce results are worthless, nothing more than vacuous words on a page.<br>
+In order for the Sakura Empire to move forward, our convictions must all be subject to a trial by fire, where every benefit and every flaw is brought before the light.<br>
+Are those ideals strong enough to bear the burden of our future, or are they nothing more than self-serving whims?<br>
+I may not agree with Akagi's ideals in their entirety, but I believe she does deserve the opportunity to fight for them.<br>
+Similarly, Nagato must get the opportunity to show that her will to protect is not pacifism or isolationism, but rather a way of seizing victory.<br>
+The question of our future has never been mine to decide, nor is it even a matter of who holds on the most points on this board.<br>
+Now show me, my friends. Let your hearts sing, and let your wills be heard.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=日蚀|选项=31|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Darkness Falls|选项=31|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:91}控制区 第十回合<br>
-第十回合，以渐暗的天空为标志，事件卡「日蚀」生效了。<br>
-上回合事件卡所带来温暖煦风，转眼就被笼罩了整片海域的昏暗与烦闷所取代。<br>
+Exercise Area - Turn 10 (Akagi's Action)<br>
+Losses continued to pile up, and the false sky in the exercise area became dimmer and more ominous.<br>
+The air itself seemed to become thick and oppressive, as if signalling some great catastrophe that would put an end to the game sooner rather than later.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-第十回合……本回合就是最后一张事件卡了。<br>
-日蚀……姐姐。你觉得{namecode:84}做这张卡想表达什么呢？<br>
+It's just as you predicted, Akagi. Musashi prioritized finishing off Hatakaze.<br>
+I still don't see any rhyme or reason to Musashi's actions... but she must know something about this domain that we don't.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-谁知道呢，我不在乎也不关心，不过这气氛倒是塑造得不错，正适合给这盘棋收尾。<br>
+This originally began as a little board game, but it's starting to feel more and more like a real battle.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-是啊……有种阴森恐怖的气氛，令人毛骨悚然。<br>
+Ugh... This atmosphere's giving me the creeps. It's like something terrible is about to happen...<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-刚刚那把从天而降的刀是{namecode:84}大人的指挥卡吧?没想到一整局打法都十分委婉的{namecode:84}大人也准备了那么直接的卡。<br>
+Now that I think about it, Musashi is the only one who's barely been playing by the rules of her own game. Since the beginning, she's been more interested in attacking us. She even used a special command to launch a long-range attack on Hatakaze...<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-那张指挥卡的名字叫做「公方之刃」，顾名思义，是专门用来消灭不听话之人的雷霆手段哦。<br>
-大前辈以为躲过了我这边就一切安全了么，呵呵。<br>
-{namecode:79}，休息得差不多了吧？你现在去E6，为我们铺平进攻的道路。<br>
+Regardless, we can still take advantage of the chaos created by this situation.<br>
+Mikasa might think stalling for time is her best shot at victory, but we shall see about that.<br>
+Yamashiro, prepare to move all your forces towards the central tower.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-欸？！E6，那不是中心据点的控制区吗？我现在技能都没好，耐久也只恢复了一半，大前辈那边也肯定会一起打过来……<br>
-然后我就要退场了……不妥不妥，要不咱们再等一回合吧，诶嘿嘿~<br>
+Huh? But aren't we at a disadvantage now without Miyuki? Plus, I'm still not fully healed up yet...<br>
+The only frontline we can muster would be... me and the mass-produced ships. Isn't that a bit unreasonable?<br>
 <span style="color:#4eb24e;">Ryuuhou：</span><br>
-{namecode:91}前辈，{namecode:79}目前的状态确实不适合继续作战，还是让我去吧。<br>
-反正也不是非要{namecode:79}才行，只要有一个人进入据点控制区，我们所有人就都能攻击中心据点了。<br>
+Akagi, Yamashiro still hasn't regained her full strength. If your goal is to keep the Arbiter's forces from overrunning us, I can handle that alone.<br>
+If it's not a direct engagement, I still have plenty of supplies and endurance to work with. As long as someone can clear the path to the central tower, the rest of us will have a better shot.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-…………这个倒确实是谁都可以。<br>
+...As long as someone does it, huh.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-姐姐，还是让我去吧。<br>
+I'll go, Akagi.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-……{namecode:92}？你确定么。<br>
+Kaga?<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-嗯，我计算过了，没问题，不需要让{namecode:179}去冒险。<br>
+I'm more durable than Ryuuhou in case something goes wrong. We ought to minimize the number of risks we take.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-……你的意思我明白。也罢，你去吧。<br>
-其余人，在{namecode:92}到位之后随我一起对赫米忒发动攻击。<br>
-呵呵，万事已经具备，让我们进入最后的总攻时刻吧~<br>
+...Fine. Go, then.<br>
+When Kaga manages to draw the Arbiter's attention, the rest of us will move in.<br>
+The endgame begins here. I'll settle this on my next turn.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=滴水穿石|选项=32|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Last Turn, First Step|选项=32|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:82}&{namecode:74}控制区 第十回合<br>
+Exercise Area<br>
 <span style="color:#4eb24e;">Kinu：</span><br>
-天……暗下来了。在结界里连天象变化都做得出来啊。<br>
+It's gone pitch-dark... Man, the weather here is as erratic as you'd expect out of any Mirror Sea.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-{namecode:84}大人引发的的日蚀……有点不祥的感觉。<br>
+But it's also an impressive view to behold... almost like a total eclipse.<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-是啊，古时候都是这么认为的呢。不过随着时代的发展，大家都知道这只是普通的天文现象了。<br>
-虽然看上去确实有点渗人……<br>
+What a strange place. The weather conditions here all look and feel real.<br>
+And if they were generated by our mental imagery, what does that say about how everyone here feels right now?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-也不要把古人想的太愚昧了，其实当时的人自然也知道这是天文现象的。<br>
-所谓日蚀象征灾祸，多数还是用于劝谏之时的借口。<br>
-具体到{namecode:84}这次的用意上来……<br>
-“麒麟斗而日月蚀，鲸鲵死而彗星出，河变应于千年，山崩由于朽壤。”<br>
-恐怕其意为此吧。<br>
+Now that you mention it, I was so caught up trying to figure out Musashi's motives I completely overlooked that fact.<br>
+(Total eclipses have long been symbols of superstition, fear, and great turmoil.)<br>
+(Considering Musashi's actions as well as the ominous nature of the tower, it didn't occur to me that we've been caught up by everything that's been happening around us.)<br>
+(...How could I forget? Musashi said this exercise area is a modified Mirror Sea, right?)<br>
+Everyone, try to calm down. We can't let ourselves get overwhelmed with fear and anxiety.<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-有点复杂……<br>
+You're right, things have gotten way too tense over the last few turns.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-呵呵，等对局结束之后带着问题去问{namecode:140}吧，我就先卖个关子。<br>
+I suppose we'll have to go see Musashi in person afterwards and thank her for putting on a convincing show. Hahaha!<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-{namecode:82}前辈，日蚀的效果与海雾不同，日蚀之下所有人的攻击距离都会受到影响，这回合不用太担心空袭的问题了吧。<br>
+Now that the visibility is poor, I can't easily tell if there are enemy planes coming at us. Do you think we're safe at this distance?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-嗯，{namecode:91}已经开始进攻中心据点了，光凭{namecode:103}一个人就算打过来也没什么意义。<br>
-只是{namecode:84}那边……唉，她是每回合行动的最后一人还真是不方便进行判断……<br>
+That is an important thing to consider. However, Chitose's offensive capabilities have been largely curbed with Chiyoda's loss, and Akagi seems to be trying to capture the central tower again.<br>
+The fact that Musashi has the last move is proving to be quite troublesome... We still don't have any idea of what she's after.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:82}，汝来决定战略，吾一定全力配合。<br>
+What do you plan to do next, Mikasa?<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-好，那我就来说一下我的分析与计划吧。<br>
-现在是第十回合中盘，棋局将在十二回合结束，{namecode:91}既然选择开始进攻中心据点，就不太可能再来与我们相互争斗。<br>
-因此我打算亲自前往四个接触点中仅存的E5处站住。<br>
-如果{namecode:91}受到我的挑衅全力打我，那她们就不太可能在十二回合全部结束前占领中心据点了。<br>
-只要{namecode:91}得不到这十分，最后根据积分结算，获胜的一定是积分最高的{namecode:74}。<br>
-{namecode:91}若坚定自己的计划不受挑衅，那也没有大碍。{namecode:91}与{namecode:92}的技能虽然没有公开，但毫无疑问会用在中心据点的攻略上。<br>
-我们只要规划好自己的行动，就不用太在意她们的动作。<br>
-目前最大的变数就是{namecode:84}，她还有一张指挥卡没有用，本人也没有入场。<br>
-{namecode:84}不入场，我们就没机会弄清楚她的战略究竟是什么。<br>
-因此我打算彻底屏蔽掉她的操作空间。{namecode:74}，这方面就需要你的配合了。<br>
+I'm still regrouping after the last attack, so let's go over our options.<br>
+First of all, I expected to have a bit more time. Now that Akagi has committed all her forces to taking the tower, it's unlikely to see any attacks from her end.<br>
+Musashi can no longer overtake Nagato even if she captures the tower, meaning that only Akagi remains in contention.<br>
+It makes sense that she would commit all her resources to capturing the tower at all costs.<br>
+However, by doing so, Nagato and I are freed up to do whatever we want.<br>
+If I can create enough of an impediment to stop Akagi from capturing the tower, Nagato's victory is assured.<br>
+As always, what Musashi decides to do will be the most important wildcard.<br>
+She still has not entered the battlefield herself even at the eleventh hour, and none of us are able to question her about her motivations anymore.<br>
+The fact of the matter is, every ally that we lose makes it harder for anyone to capture the central tower, unless there's another factor at play that I don't know about.<br>
+Whatever she's planning, Nagato, we need to make sure we're in a position to reduce the number of moves she can make.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-汝尽管说。<br>
+Mm. That would be sensible.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-{namecode:181}与{namecode:65}进攻据点AB34，之后{namecode:157}将其拿下。<br>
-现在继续防守{namecode:84}入侵已经没有意义了，因此让{namecode:158}也去参与争夺据点。<br>
-这样的话，{namecode:95}{namecode:158}就能和之前一样抢下被{namecode:225}进攻过的据点IJ910。<br>
-{namecode:72}和{namecode:71}去进攻最后一个可进攻的据点GH910。<br>
-虽然本回合全员的攻击射程被缩减，但她们二人的技能组合可以相互配合进行一轮爆发式打击。<br>
+Kinu and Haguro, take the mass-produced ships with you and capture the last free base.<br>
+Kawakaze, Shoukaku, keep doing what you were doing before. I want us to be as strong as possible before we move towards the central tower again.<br>
+Things never should've gone this way. I would've liked Musashi to lend her forces in assisting a joint attack on the tower.<br>
+But, that's no longer possible. We need to deploy our ships in a way that prevents her from interfering in the final battle.<br>
+Haruna, Hiei, I want you two to wrap around into Musashi's territory so we can have the most angles of attack possible.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:71}的技能是「威光的御召舰」，可以让所有人无视射程限制进攻自己攻击过的目标。<br>
-{namecode:72}的则是「烈光的武勋舰」，本回合所有属性翻倍，但是下回合无法进行任何移动。<br>
-确实是完美的配合啊……<br>
+Kirishima was taken out in a single shockwave from that tower. We need to give ourselves as much space as possible to back up.<br>
+The three Kongou sisters remaining are still healthy, and if we combine everything we know about that tower into concrete mental imagery...<br>
+We might be able to outrange the tower's counterattack range with the full extent of our firepower.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-呵呵，之前仔细设计了那么久，就是考虑到也许会有这种情况。<br>
-总之，现在已经不用考虑下回合的事了，这回合就把火力全部倾泻掉，拿掉所有能拿的积分。<br>
-这样{namecode:84}除了进攻中心据点之外，就没有任何得分的方式了。<br>
-在上述攻略结束之后，你拥有的积分就是16分，我7分，{namecode:91}8分，{namecode:84}6分。<br>
-中心据点价值10分。落入你我手中自不必说，就算落入{namecode:84}手中那她也只有16分，是平局。<br>
-而这一部署可以在{namecode:84}行动之前完成，接下来不论她留的指挥卡是什么，是否入场，都已经没意义了。<br>
+I agree. Kongou and her sisters have had consistently good performance through the shifting conditions here.<br>
+Now the last thing we need to account for is, how do we deal with Musashi when she enters the battlefield?<br>
+To be honest, I don't think any of us other than Nagato have a chance of landing a clean hit on her. We might have our hands full just trying to evade her attacks.<br>
+The one other countermeasure we have is to take out all her retainers before she has the ability to enter the fight.<br>
+That would mean Musashi is immediately eliminated.<br>
+I know you won't agree with that method, Nagato, but it's the surest way to victory.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-吾的胜机，终于要出现了啊……<br>
+Mm. I already said, I will not point my guns at my fellow shipgirls.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-正是如此。不积跬步，无以至千里。不积小流，无以成江海。<br>
-{namecode:74}，你从头到尾坚持贯彻自己的理念，终于要迎来开花结果的时候了。<br>
-不过，在真正胜利之前我们不能放松警惕。<br>
-作为第二手准备，请你绕过EF12据点向我所在的E5接近，这是我们两家唯一能进入中心据点的位置。<br>
-不论{namecode:91}{namecode:92}下回合想做什么，凭借她们现在的战斗力，想一回合消灭中心据点还是太异想天开了。<br>
-剩下的就是我们的机会。如果下回合我这边没能拿下中心据点的话，我会退出E5，之后你带人进去，全力输出将其拿下。<br>
-只要你我接力进攻，收下胜利绝非妄谈！<br>
+A journey of a thousand miles begins with a single step. All the water in the ocean must flow from somewhere...<br>
+Nagato, you've held firm to your beliefs this entire time, and we are about to witness the fruit borne by your convictions.<br>
+The tower's counterattacks may be troublesome, but we still have enough strength left, as well as mass-produced ships we can use to soak up some of the damage.<br>
+Ideally, we can destroy the tower in one turn. But if that isn't possible, we are still poised to strike again the turn after that.<br>
+While we control the surrounding waters, Akagi only has a single access point, and her planes will not be as effective as our shelling against land targets.<br>
+I will pour everything into my next attack. It's up to you to capture the base itself, Nagato.<br>
+Let us show Akagi that the future of the Sakura Empire is one in which all shipgirls work together towards a common goal!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=苍蓝之约|选项=33|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Nine-Tailed Fox|选项=33|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·{namecode:84}控制区 第十回合<br>
-在这个无比关键的回合，{namecode:84}没有打出自己的最后一张指挥卡。<br>
+Exercise Area<br>
+While Mikasa and Nagato were finalizing their plans to capture the central tower...<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-{namecode:84}大人是放弃了么……？<br>
+Musashi still hasn't done anything yet... Has she given up on commanding altogether?<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-那可是{namecode:84}大人，不会这么轻易放弃的。她一定是有什么其他安排，我有种不太好的预感……<br>
+That's impossible – this is Musashi we're talking about here. There's no way she doesn't have her own plans and ambitions.<br>
 <span style="color:#4eb24e;">Harutsuki：</span><br>
-大家快看，{namecode:84}大人的侍从开始行动了！<br>
+Wait, Musashi's fleet is starting to move... towards the central tower?<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-{namecode:84}大人的命令确认，即将对中心区域的仲裁者·赫忒米·IX展开攻击。<br>
+We have orders from Musashi: we'll start attacking the Arbiter vessel at the central tower.<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-{namecode:103}，我来支援你了哦。<br>
+I'll back you up, Chitose!<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-……{namecode:225}，你之前一直在进攻据点，都没有休整过吧。<br>
+Did you get the same order, Wakatsuki?<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-是的，{namecode:103}不也一样？<br>
+Sure did! But to be honest, I've taken a lot of damage already, so I don't know how much I'll be able to do. How are you holding up?<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-以我们现在的状态，恐怕受到进攻的反击之后就要双双退场了……<br>
+I lost a lot of planes in the last attack... I'm not sure I'll be able to do much to the Arbiter with what I have left...<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-恐怕是的……没能在场内见证棋盘的结局确实有些遗憾，不过既然是{namecode:84}大人的命令，我心中便没有丝毫犹豫。<br>
+I guess this will be our last command, then... There's one last thing I wanted to do here, and I might just get the opportunity to do it!<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-说的也是……已经在棋盘中待了这么久，乐趣也享受的差不多了。<br>
-接下来就去休息室里和{namecode:104}一起边吃好吃的，边等待最终结果好了~<br>
+Mm, yeah... I had a lot of fun too... I'm just glad I'll get to see Chiyoda soon...<br>
+Maybe we can grab some sweets once we're back... and see how this game finishes...<br>
 <span style="color:#4eb24e;">Wakatsuki：</span><br>
-其实……我昨天在休息室内藏了一大盒点心哦，想着给先进入休息室内的同伴们留点惊喜。<br>
-如果还没有被人发现的话，我们就先偷偷吃掉一部分，再跟大家分掉吧~<br>
+If you're looking for sweets, Musashi has a whole big stash of 'em in the lounge! I was thinking, if I got taken out first, I'd go and prepare refreshments for everyone.<br>
+After all, sweets are best enjoyed with friends! Oh, I just hope Pooky didn't pilfer them all first!<br>
 <span style="color:#4eb24e;">Chitose：</span><br>
-好主意！那事不宜迟，就让我们开始最后的进攻吧！<br>
+Then, um... Let's get back to the lounge as quickly as possible!<br>
 <span style="color:#ec5d53;">Arbiter: The Hermit IX：</span><br>
-………………<br>
+......<br>
 <br>
-轰——————————！<br>
-就这样，{namecode:225}与{namecode:103}退场了。<br>
-与此同时——————<br>
+KABOOM––––!!<br>
+And thus, Wakatsuki and Chitose disappeared without a trace.<br>
+At the same time...<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-{namecode:92}大人，得罪了，这也是{namecode:84}大人的命令。<br>
+Sorry, Kaga. Looks like I'll be playing the villain through-and-through today.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-如果想来进攻我，也要做好被反噬的觉悟哦。<br>
+Do what you must. Akagi must've seen this coming as well.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-{namecode:92}大人难道有什么危险的技能么？<br>
+Huh? You're not going to try to run?<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-呵呵，这个你很快就能知道了，尽管攻过来吧。<br>
+Akagi already got Mikasa to take the "opening" she left for her. Now, the only thing left to do is––<br>
 <br>
-轰——————————！<br>
-光芒闪过，{namecode:92}化为了发光的碎片。<br>
-但是，与此前退场的人不同，碎片并没有消散，而是化为了一只巨大的妖狐<br>
-妖狐向着{namecode:226}扑去，{namecode:226}立刻被蓝色的烈焰所覆盖。<br>
+KABOOM––––!!<br>
+Sakawa unloaded her cannon at Kaga, who didn't move a muscle. Suddenly, her rigging erupted in a pale blue flame.<br>
+Kaga continued standing there, letting attacks from the Arbiter's forces as well as Sakawa pour into her body. Then, she slowly raised her flame-wreathed hand.<br>
+The ghostly, dancing flames started to congeal into a giant, otherworldly fox spirit.<br>
 <span style="color:#4eb24e;">Sakawa：</span><br>
-哎…………欸？！这是什么情况！要烧起来了欸！！<br>
+Huh? Whaaaaaat?! K-Kaga, what the heck is that?!<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-信条……「弱肉强食」。你就与我一同随着苍蓝的火焰消散吧。<br>
+My shikigami, the Nine-Tailed Fox. It was originally a technique I was developing against the Grey Ghost, but I seem to be able to manifest it already thanks to the effects of this domain.<br>
 <br>
-伴随着{namecode:92}与{namecode:226}的退场，原本处于{namecode:84}控制的所有据点上空也出现了猛烈的白光。<br>
+The unsealed shikigami roared, Kaga's figure disappearing into its core as it smothered the entire area with blue flames.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-刚刚发生了……什么？<br>
+Sakawa was taken out? And those blue flames... Was that Kaga's doing?!<br>
 <span style="color:#4eb24e;">Kongou：</span><br>
-{namecode:84}大人直到侍从全灭都没有进场……换言之，现在棋盘上没有任何属于{namecode:84}大人的棋子。<br>
-从规则上来看，{namecode:84}大人已经输了。因此……所有原本由{namecode:84}大人控制的据点也会变为无人所属状态。<br>
+That appears to be the case. With Sakawa's defeat, the rest of Musashi's forces have been eliminated.<br>
+With her elimination, the points she occupied also have become neutral once again. If Akagi captures them, she'll match your score even without the central tower.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:84}！汝见到没有取胜机会之后，就用这种方式放弃了么！<br>
+Ugh... But, that doesn't change our strategy. If Akagi captures the central tower, we'd lose either way. All this means is, trying to run the clock out is no longer an option!<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-不……是见到自己没有取胜机会后，就果断用最后的全部力量为{namecode:91}的胜利做铺垫了……<br>
+Musashi won't be able to intervene on Akagi's behalf anymore. In other words, Akagi doesn't have anything left to spare.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:82}，吾等还有机会。如果吾先一步接收了{namecode:84}的领地，那么吾就拥有了22分。而{namecode:91}的得分极限是21分。<br>
-不……不用这么长时间，只要吾能拿下{namecode:84}的那一个小据点，吾就会变为17分。{namecode:91}就算之后再拿下中心据点也没用。<br>
-时间已经不允许她多线作战了！<br>
+That's right. She won't be able to capture the bases left behind by Musashi without abandoning the central tower. But, we can't afford to let up the pressure.<br>
+If Akagi takes the central tower while we're busy trying to capture Musashi's bases, our forces will be spread thin and prone to being picked off.<br>
+We'll have to wager everything on whether or not we can capture the tower on our next attack!<br>
 <span style="color:#4eb24e;">Haguro：</span><br>
-{namecode:74}大人，大前辈你们看……那只狐狸还停留在场上，与{namecode:91}停在同一格了。<br>
+Yeah. Besides, even if we tried to go around, we'd just run into Kaga. And I do NOT want to deal with whatever that pet of hers is.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-果然还有后手……<br>
+That fox caught me completely off-guard as well.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-{namecode:82}前辈，对于我与姐姐一直隐藏的技能，你应该有了不少猜测吧。<br>
+That is the manifestation of my will... I would gladly burn away my own life to clear the path for my sister.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-……从你退场之后还能以这样的形式留在场上的情况来看，说明我的猜测基本正确啊。<br>
+So even though Kaga has been rendered incapacitated, her shikigami still remains on the battlefield?<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-在谜底揭晓之前，不妨前辈先来说说推论吧？<br>
+Yes... And now, the closer Akagi is to being alone once again, the closer she is to being able to make her true feelings heard.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-刚刚一次性退场了4人，目前现阶段合计退场了9人。<br>
-{namecode:91}一直在等待着场上侍从退场，说明她的另一个技能应该是退场的侍从越多，自身的的战斗力就越强。<br>
-因为在战斗过程中没看到她的战斗力出现明显变化，说明这应该是一个可以自由选择时机进行激活的主动技能。<br>
-而你虽然退场了，却依旧以这样的形式停留在{namecode:91}的格子里，说明你的另一个技能可以在退场之后给予{namecode:91}某些帮助。<br>
-我猜的不错吧？<br>
+The closer she is to being alone? So there was some purpose behind Musashi's actions after all...<br>
+Wait, is this Akagi's way of saying, "don't get anyone else involved?" The fewer allies she has left, the more she is able to demonstrate her true powers...<br>
+It's true that this domain has restricted the functionality of our riggings.<br>
+You never cared about cooperating with Nagato and me to take down the central tower...<br>
+Akagi, you have some trump card to take that tower by yourself, don't you?<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-（鼓掌声）不愧是{namecode:82}大前辈，猜的完全正确哦。<br>
-看你的部署，你应该还盘算着等到下回合，我的进攻失败后，与{namecode:74}接力抢下中心据点吧。<br>
-或者因为{namecode:84}退场，领地空出，你们想重新把她的领地占领回来依靠积分取胜？<br>
-哈哈哈哈，我怎么可能留出这种机会给你们？<br>
+You've finally figured it out, Great Veteran.<br>
+Now I see, Musashi's intentions were clear from the very beginning. Sometimes, things are exactly as they appear.<br>
+I chose to attack the central tower from the very beginning as a statement of my own intentions - if we have a common enemy, working together is not an impossibility for me.<br>
+However, if you were waiting for my attack to fail so you could swoop in afterwards, do not think I am so soft as to leave victory for someone else.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:91}……现在日蚀尚在，依然还是第十回合，汝为何可以行动？<br>
+How do you plan on taking down an Arbiter all by yourself? Don't tell me you...<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-{namecode:74}大人，你的问题应该是，为什么{namecode:84}已经退场了，新的回合却还没有开始呢？<br>
+Keep your eyes peeled, and watch me. I have waited a long time for this.<br>
 <span style="color:#4eb24e;">Kaga：</span><br>
-现在谜底揭晓。{namecode:82}前辈，我在自己退场时，可以赋予姐姐一次移动和与本回合退场人数相同的额外攻击次数。<br>
-本回合退场的侍从数量是4，也就是说，姐姐接下来可以进行四次战斗。<br>
-而姐姐的技能就如同你猜测的那样，我就不在此赘述了。<br>
+Convictions are worthless without the strength to back them up. The powerless will know nothing but defeat, their dreams ground to dust.<br>
+My sister's wish is also my wish... And this power is the power with which she will break open the future!<br>
+If you seek to defeat her, you will have to get past my shikigami first!<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-{namecode:91}，汝就为了这个，就让一半人退场了么？！<br>
+Akagi... Is there anything, or anyone, you won't sacrifice for the sake of power?!<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-是啊，不然呢？而且，我就要因此而取得胜利了哦？<br>
-失败者就请在一旁看好，接下来，是属于胜利者的表演时间了——<br>
-呵呵呵呵，哈哈哈哈哈哈哈————<br>
+Hahaha... You know nothing of the world, child. With this, my victory is assured!<br>
+Now, bear witness to my convictions, the path that I've chosen! The winds that shall carry us to our future!<br>
+Heehee... Ahahahahaha!!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=月下彼岸花|选项=34|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Lycoris Beneath the Weeping Moon|选项=34|主框=1|样式=primary|展开=是}}
 <br>
-——此处乃重樱圣地，尊贵之人所处的居所。<br>
-宏伟城池的天守阁中，黑发的丽人静静凝视着前方。<br>
-电光划破阴云落在她的身上，于木质地板上落下若隐若现的淡影。<br>
+In the Sakura Empire's Sanctuary, an heir to great power sat amidst comfort and luxury.<br>
+In a pagoda that rose above the clouds, a black-haired woman kept her eyes on a modified Go board.<br>
+Unobstructed by dark clouds, flashes of lightning left slender, fleeting shadows across the wooden floorboards.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-如此一来，胜负已定……<br>
+Win or lose, this game ends here...<br>
 <br>
-窗外，呼啸而过的风雨正猎猎作响，屋内，燕子已经不见踪影了。<br>
-也许是找到了更好的避雨之处，也许是被眼前突变的景象吓到了。<br>
+A terrible, howling wind clawed at the window, a small lost swallow shuddering fearfully in Musashi's palm.<br>
+The pagoda would give it no refuge... But it had found someone who would.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-「月下彼岸花」，{namecode:91}为自己的表演准备了一个哀伤又浪漫的名字哦。<br>
-{namecode:82}，汝是想要下回合与{namecode:74}一起从{namecode:91}手中抢下胜利吧。<br>
-只可惜，日蚀之下，一切战斗结果都是确定的……<br>
-中心据点将会陷落，对局也将迎来终结。很遗憾，汝输了。<br>
-汝过于在意吾的行动，因而丧失了时机。<br>
-此番棋局，吾只是为了享受乐趣罢了。<br>
-可是汝又如何？明知目标在于{namecode:91}，却没有集中力量应对她。<br>
-既已意识到危险，就应该干净利落地将其排除……<br>
-可惜，汝听不到吾的答案了。<br>
-实在是，可惜……<br>
-这场棋盘为舞台的剧目，终于到了属于谢幕之时。<br>
-该去迎接胜利者归来了————<br>
+This is the storm within my mind, a vision that would engulf the Sakura Empire... No, the entire world, in turmoil.<br>
+Nagato, Mikasa. There is nothing wrong with adhering to your ideals. But you were too overcome with paranoia to see the opportunity in front of you.<br>
+You missed the opportunity to speak with me, and the victory I could have handed you.<br>
+But alas, this is nothing more than a single game. Alone, how could it possibly determine the Sakura Empire's future?<br>
+Have you heard the unspoken words of each others' hearts?<br>
+Have you found the power you wish to show to your people?<br>
+Great power always comes at a great price, and you understand this better than anyone else.<br>
+But if you can press forward despite knowing that, the love you hold must be deep and profound, and the price you pay well worth it.<br>
+Tell me, Akagi, what awaits at the end of the future you strive for?<br>
+How much of yourself are you willing to give to make that reality happen?<br>
+Our paths may diverge time and time again, but each step we take will forever be etched within our hearts.<br>
+And one day... those paths will converge once more.<br>
 <br>
-中心区域此刻正笼罩在一片赤红之中。<br>
-高塔已经破碎，不受控的能量肆意向周边扩散着，诉说着这里发生战斗的惨状。<br>
+The lightless moon gave way, shedding a silent tear that illuminated the entire sea with a bright-red flame.<br>
+The tower in the center of the exercise area shuddered and convulsed, a sea of burning flowers uprooting its dark tendrils. The energy accumulated in the tower spewed out from the top, turning into rings of light that scattered and dissipated in every direction.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-呵呵，真想不到，我们会在这种场合下见面，{namecode:84}还真是给了我一个惊喜。<br>
-我可是等这一刻很久了哟，赫米忒。<br>
-如何？冒犯我的代价，不好受吧？<br>
+Hahaha... Wonderful, Musashi left us a nice surprise at the end after all. I'll enjoy bringing this little souvenir back home.<br>
+You have no idea how long I've waited for this, Hermit.<br>
+Poisoning our land. Deceiving our people. And... pretending to be Amagi...<br>
 <br>
-不久前还不可一世的仲裁者·赫米忒·IX，此刻正如同垃圾一般倒在水面上。<br>
+The wreckage of the Arbiter's vessel crumpled pathetically before Akagi's feet.<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
-当然，我知道你不过是被创造出来的和本体毫无关系的量产机罢了。<br>
-但是又有什么关系呢？这次我打倒了你的象征，下次我就能打倒你的本体。<br>
-你觉得我说得对不对啊，赫米忒？<br>
+This is the price you pay for crossing me.<br>
+You may be nothing more than a vessel, but I know how to defeat you now. And mark my words - I am coming for your mainframe.<br>
+Watch your step, or you'll become just like this lifeless vessel over here...<br>
 <br>
-{namecode:91}慢慢走近倒下的赫米忒，扯下了仲裁者舰装上的提灯。<br>
-提灯之上已经没有了此前战斗时萦绕周边的危险光芒，留下的仅仅是一个完好无损的废弃品。<br>
+Akagi ripped a dimly-glowing lantern from the Siren vessel's rigging.<br>
+She turned the curious object around in her hands, noting how it had remained undamaged throughout the rain of destruction she had inflicted.<br>
 <span style="color:#ff9900;">{namecode:91}：</span><br>
-呵呵呵呵，你也就这般本事啊。<br>
-没错，像废品一样堆在垃圾堆里才是你们这群自诩为塞壬的机器人的最终命运。<br>
-想要来操纵我？就凭你们还差的远呢~哈哈哈哈哈~<br>
-大前辈和{namecode:74}到现在还被蒙在鼓里吧。<br>
-就算见到了由中心装置释放出的如此规模的能量冲击，恐怕也只会当成什么结界里设定的余兴节目吧。<br>
-呵呵呵呵呵，连这场实验的目的都没看出来……真是愚昧，愚不可及啊……！<br>
-就凭你们也想来阻止我么？<br>
-就凭你们也想掌控重樱的命运么？<br>
-狂妄！自大！能够掌控重樱命运的人在很久以前就不存在了！<br>
-为什么从来就没人认识到这一点呢？！<br>
-……我并不适合领导重樱前进？你们以为这种事我本人心里不清楚吗？！<br>
-…………我是迫不得已啊，除此之外已经没有别的办法了！<br>
-必须由我来负担重樱的命运，必须由我来决定重樱的道路才行！<br>
-姐姐没有做到的事，必须由我这个妹妹来做！<br>
-只有我才有资格，亲手把重樱的命运交还给她！<br>
-你们明白么？！除了我之外，交给你们任何人都不行！<br>
-啊，跟你这个垃圾说你也听不明白吧……<br>
-不过算了，我现在心情好，允许你在消失之前当个安安静静的旁听者。<br>
+It's over, Siren.<br>
+Just stay here like the pile of refuse that you are. It suits you better.<br>
+From now on, I will outwit you at every turn. All your calculations, all your "Reenactments." I will crush them all.<br>
+Neither Nagato nor Mikasa ever need to find out about what happened here, because this is my battle, and my battle alone.<br>
+Thanks to Musashi and Kaga, nobody else will find out about this manifestation of power.<br>
+And even if they see it, they will never know if the power is "mine," or simply a product of this domain.<br>
+There's nothing you can do to stop me.<br>
+The future of the Sakura Empire is no longer yours to play with.<br>
+...Nagato. The future is not something that can be built from empty ideals alone. That is the difference between you and me.<br>
+You have not seen the oblivion of the future you would have us embrace.<br>
+I am not qualified to be the leader of the Sakura Empire. Nobody understands that better than myself.<br>
+But I AM the only person who can save our land and our people.<br>
+Without power, the Sakura Empire can never become strong. Without power, I... will never be able to save anyone.<br>
+I must do what Amagi could not...<br>
+...So that I will never lose her again. So that I can meet her again... together with all our friends in the Sakura Empire––<br>
+That is my path, the future I would give anything for.<br>
+...The death throes of the tower should be stopping soon.<br>
+There's just one last thing to do before this "domain"... or rather, this Mirror Sea, becomes worthless to me.<br>
 <br>
-{namecode:91}举起提灯对准塔的方向，不再关注一旁尚未完全终止活动的仲裁者<br>
-透过水晶面，塔肆意而出的能量仿佛呈现出五彩斑斓的虹光。<br>
+Akagi lifted the Arbiter vessel's lantern and pointed its light towards the tower.<br>
+The patterns of light on the fading tower shifted once more. The moon in the sky, along with all the surrounding clouds around it, flickered like a broken display, crystalline and iridescent.<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
-……呵呵呵呵，俾斯麦也不过是懦夫而已。<br>
-你不敢做的事，就由我来做。你不敢接受的力量，就由我来接受。<br>
-我会收下这股力量，引领重樱继续前进，直到把重樱交付到正确的人手中为止。<br>
-为此，我不在乎牺牲，也不在乎代价……<br>
-就算将重樱燃烧殆尽，就算将我自身燃烧殆尽，就算将世界燃烧殆尽——<br>
-————又有何妨呢？<br>
+Bismarck, you foolishly rejected this gift.<br>
+But, I am not like you. I am not afraid to wield this great power.<br>
+And with this power, I will continue to guide the Sakura Empire towards its true future, until this power can be passed over to righteous hands.<br>
+To those ends, there is no sacrifice I will not make.<br>
+Even if I am rejected, spurned, and burned at the stake... Not only by the Sakura Empire, but by the whole world...<br>
+I... will transcend "God."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=空山新雨后|选项=35|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=After the Storm Passes|选项=35|主框=1|样式=primary|展开=是}}
 <br>
-翌日，万里晴空。天气晴朗到好像昨日的怪异天气完全不曾存在过。<br>
+The day after the exercise, the seas and skies were serene as could be, as if the prior storm had been nothing but an illusion.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-唔啊……天变的好快。<br>
-昨天一片漆黑雷雨大作，从棋盘里出来之后我都没太分清楚是不是真的出来了……<br>
+*yaaawn*... Ahh, the weather's so beautiful today~<br>
+When we left the exercise area yesterday, there was a huge storm raging outside. I could've fooled myself into thinking I was still back inside that Go board!<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-这里的天气有时候就是会这样呢，不过本日是晴空万里就好，各位回去路上也能顺顺利利了。<br>
+The weather around the Sanctuary can be a bit chaotic. I pray that your trip home is as pleasant as this clement weather.<br>
 <span style="color:#4eb24e;">Yamashiro：</span><br>
-是啊，真是天公作美~那么大前辈，{namecode:74}大人，还有{namecode:84}大人，我们就先告辞了。<br>
+Thanks for all your hospitality, Musashi! The game was a blast too! Now then, everyone, I'll be off now!<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-嗯，有空常来玩哦。<br>
+It was nice having you over. Do remember to come visit every now and then.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-{namecode:84}大人，怎么本日告别的时候没见到{namecode:91}和{namecode:92}啊，取得了胜利之后这么低调可不像她们的风格。<br>
+Hmm? I just realized, I didn't see Akagi or Kaga all day. It's not very polite to sneak off without saying goodbye first.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-关于这件事……好像昨夜出现了什么突发情况，她们两位收到消息后就连夜离开了。<br>
+Ah, about that... I received an urgent call from the main island last night, and those two had to head back immediately.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-居然冒着大雨连夜离开……？希望没出什么大事才好。<br>
+And you let them sail back through the storm? I hope nothing happened to them...<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-是啊……可惜{namecode:91}大人走得十分匆忙，我也不清楚具体发生了什么情况。<br>
-{namecode:82}大人和{namecode:74}大人要在我这里住一阵么？<br>
-除了棋盘之外，我这里还有不少有趣的游戏哦。<br>
+I, of course, implored them to stay. But, you know how stubborn Akagi can be.<br>
+So, would you or Nagato care for another round of Go? Just the normal variety this time.<br>
+Speaking of which, I have a few other things here other than that board that you might be interested in.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-多谢您的好意，不过您事务繁忙，我们就不便继续打扰了。<br>
+Haha... I really appreciate your kindness, but I have business to attend to as well. That was quite an interesting game though. I wouldn't mind playing with you again some other time.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-这样啊……哦对了，{namecode:74}大人，之前说的量产型性能测试一事，等我准备好了之后会再联系你的。<br>
+What about you, Guardian Fox? I promised to show you the capabilities of a Siren-reinforced mass-produced ship yesterday, didn't I?<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-汝居然还记得啊……嗯，那就静候汝的联络了。<br>
-告辞了，{namecode:84}。<br>
-抱歉……{namecode:82}，没有按照你在来之前准备好的计划行动。<br>
+I would take you up on that offer, but our game yesterday dragged on for a bit too long. I apologize, but we'll have to find some other time for that.<br>
+If you need to contact me, just send a message to Yamakaze. Now, if you'll excuse me...<br>
+I'm sorry, Mikasa... If I ordered an attack on Kaga back then, we...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-没想到{namecode:74}大人也对于一盘棋的结果念念不忘啊？<br>
+Don't worry about it, Nagato. It's just a game.<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-不是赢了之后{namecode:84}就会回答汝的问题么，要是吾早些知道——<br>
+Musashi told me herself. Had I won, she would've answered any question I had for her.<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-——打住，不要为没发生的事苦恼了。答案只是“可能”会有而已。<br>
-我有种预感，只有首先回答出她提出来的问题，之后才能得到她真正的答案。<br>
-{namecode:84}提到的剧本，海若的下落，御神木如今的用途……<br>
-不首先把这些都搞清楚，我们可回答不出她提出的问题啊。<br>
+What a convoluted way of having a discussion. We could've just sat around tea and pastries instead...<br>
+But, I suppose there's one thing she was right about. If we were in the dark about everything, how could we possibly have gotten any useful answers out of her?<br>
+The connection between Shinano's dreams and the "Reenactments." The whereabouts of the real Watatsumi. The barrier around the Sacred Sakura...<br>
+There are still too many things to be investigated. The only answer we got was Akagi's "true feelings."<br>
 <span style="color:#4eb24e;">Nagato：</span><br>
-虽败，但是收获颇丰，可以这么看么？<br>
+Considering we lost, I suppose that's a good enough consolation prize...<br>
 <span style="color:#4eb24e;">Mikasa：</span><br>
-嗯~走吧，我们也该回去筹备下一步的行动计划了————<br>
+All right, enough moping around. Let's head home and think about what we're going to do next.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=第二阶段|选项=36|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Floating Fortress|选项=36|主框=1|样式=primary|展开=是}}
 <br>
-帕克菲克洋·铁血浮岛要塞<br>
+Iron Blood Floating Fortress<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-呼……就是这里了吧。之前那次镜面海域生成设施不是被破坏了么，没想到又重新修好了啊……不愧是铁血。<br>
-<span style="color:#4eb24e;">通讯器：</span><br>
-请出示身份证明————<br>
+Phew, I really need to ask for overtime pay when I get back... Anyway, I heard this place was attacked by a real Siren and almost blew up after their last experiment, but everything seems back to normal now.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+Please state your identity and security code.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-重樱航空母舰{namecode:96}，前来进行外交访问。验证编码为————<br>
+I'm Zuikaku, aircraft carrier from the Sakura Empire. I was sent here on a special mission by Musashi, and my code is, uh... Hold on a sec...<br>
 <br>
-{namecode:96}面对空无一物的水面，对着突然从通讯器中响起的声音报上了身份与识别码。<br>
-<span style="color:#4eb24e;">通讯器：</span><br>
-身份已验证成功，欢迎您的来访，{namecode:96}小姐。<br>
+Facing the vast blue expanse in front of her, Zuikaku announced her identification and code into the communicator that had been prepared in advance.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+Authorization complete. Welcome to the floating fortress.<br>
 <br>
-在验明身份获得进入许可后，巨大的铁血浮岛要塞随即出现在眼前。<br>
+Almost as soon as she completed the authorization process, Zuikaku was sucked into a Mirror Sea, the clear blue skies outside replaced with an ominous darkness.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-…………这也是某种全新设计……？此前的镜面海域并没有这种东西啊……<br>
-只要知道具体位置不论什么人都能进来……镜面海域不就是这种东西么？<br>
-没想到设计了某种进入认证，是为了防止再被塞壬渗透进来么……<br>
+Huh, this security check wasn't here before. Did they just put it in?<br>
+Usually, you can tell you're in a Mirror Sea because of some strange storm or sea fog... But I guess the verbal prompt made it seem a lot more inviting.<br>
+Having a bit more security isn't a bad thing though, since there was that Siren breach last time...<br>
 <br>
-{namecode:96}一边思考着，一边穿梭在要塞巨大的构件之中。<br>
-虽是故地重游，但她还是惊讶地发现，映入眼中的风景相比于上次到访已经发生了翻天覆地的变化。<br>
-一路上，除了各处或是宣示警戒或是协助导航的语音，{namecode:96}没有碰到任何一个人。<br>
-所见之处只有在自动化运行的各类工厂设施，以及在设备间穿梭的，不知由何人操控的量产型。<br>
+Zuikaku looked around at the grotesque facilities around her as she went deeper into the floating fortress.<br>
+Almost everything had changed since her last visit, from the layout of the facilities to the position of the islands. Zuikaku chuckled wryly to herself when she noticed some out-of-place map displays that made the place seem like a theme park.<br>
+Nobody was there in the Mirror Sea to greet her. Only the mechanical rumbling and grinding of Siren factories and test sites reached her ears.<br>
+For a brief moment, she felt as if she was the sole audience member in a grand symphony.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-有种好奇怪的感觉……上次来的时候这里还是训练场，现在已经变成某种巨型生产基地了么……<br>
-而且……怎么会一个人都没有。<br>
-铁血要塞虽然历来都有种阴森的气氛，但是今天这个……格外阴森啊。<br>
-…………如果不是身负{namecode:84}大人的正式命令，我真想掉头回去…………<br>
+Well, that's odd. I could've sworn this place was an empty test site before. And now, there's an entire factory sitting here.<br>
+And this is all running without anyone attending it? That's pretty spooky.<br>
+I guess this really goes to show, you can't renovate the Siren out of Siren tech. I won't ever NOT get goosebumps from being in a Mirror Sea...<br>
+This isn't exactly my prime choice for a vacation spot either. Had Musashi not sent me, I...<br>
 <br>
-跟随着通讯器中没有任何感情的机械音，{namecode:96}最终来到了一处高塔前，这里似乎是铁血要塞的核心位置。<br>
-而在高塔之前，{namecode:96}在一个如同入口雕塑的设施上发现了一个似曾相识的“物件”。<br>
+Zuikaku followed the instructions from the voice that occasionally piped up through the communicator, eventually making her way to a tower that served as the Mirror Sea's control facility.<br>
+As she made her way through the entrance, she noticed a certain familiar object placed on a plinth near the door.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-镶嵌在其中的……难道是“海若”？<br>
-不对不对……海若不是早就跟随{namecode:182}大人的舰队返回本土了么，大前辈也是这么说的肯定错不了。<br>
-那这个究竟是什么东西……？<br>
+Is that... the Watatsumi?!<br>
+Wait, hold on, there's no way that's possible. Watatsumi should've already been brought back home. At least, that's what Mikasa told me...<br>
+Then, what the heck is this?<br>
 <br>
-{namecode:96}走到近处，仔细观察着面前被镶嵌入机械结构的“神石”状物体。<br>
+When Zuikaku approached the plinth, she could clearly see that a machine was hooked up to the Watatsumi-like object at its base.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-尺寸不对，颜色不对形状也不对……好奇怪，刚刚我为什么第一眼会把它当成海若呢？<br>
+Wait, now that I'm seeing it up close, it looks nothing like the Watatsumi. Why did I think they were the same thing in the first place?<br>
 <span style="color:#4eb24e;">Bismarck：</span><br>
-欢迎你的到来，{namecode:96}小姐。<br>
+Welcome back to the floating fortress, Zuikaku.<br>
 <br>
-一旁突然出现在空气中的影像打断了{namecode:96}的沉思。<br>
+Zuikaku's thoughts were quickly pushed out of her head when a floating screen next to her suddenly came on.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-您是……铁血的俾斯麦？！<br>
-之前在对战构建者的决战时，从广播中听闻您的身体已经康复的消息，真是令人无比振奋。<br>
-不过据我所知，在腓特烈大帝走后您现在应该接过了铁血的领导权，应该位于铁血本土才对……<br>
-为什么您现在会出现在这里？！<br>
-而且……我面前这个镶嵌在装置中的物体究竟是？<br>
-它和我们的神石海若之间有什么关系么？<br>
+Woah, is that Bismarck?!<br>
+Man, was I surprised to hear your voice during that fight against Compiler. I'm glad you're doing well!<br>
+But, aren't you supposed to be back home after Friedrich departed?<br>
+How'd you know I was here?<br>
+Oh, and what's the stone over there with the machine hooked up to it?<br>
+Does it have anything to do with our Watatsumi?<br>
 <span style="color:#4eb24e;">Bismarck：</span><br>
-呵呵，你一次问的问题太多了，{namecode:96}小姐。<br>
+Calm down, Zuikaku. I won't be able to answer your questions if you keep firing them out one after another.<br>
 <span style="color:#4eb24e;">Zuikaku：</span><br>
-啊……非常抱歉，一下子稍微有点震惊就……<br>
+Oh, my bad... There are just too many thoughts going through my head right now!<br>
 <span style="color:#4eb24e;">Bismarck：</span><br>
-没关系，总之进来聊吧。<br>
-我相信你有很多问题，而在你完成任务返回重樱之前，我有很长时间可以替你解答呢————<br>
+Don't worry about it. Come in first, there's a lot I'd like to show you.<br>
+I know you have a lot of questions for me, and I intend to answer as many of them as I can before you return to the Sakura Empire.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=紫炎的哀叹|选项=37|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=An Anguished Cry|选项=37|主框=1|样式=primary|展开=是}}
 <br>
-大棋盘·中心区域<br>
+Exercise Area - Central Sector<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-{namecode:39}，观测的结果如何？<br>
+What are the results of your observation?<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-很顺利。从数据上来看，海若的表现很稳定……<br>
-其已经成功将元魔方以{namecode:91}希望的某种方式进行重塑了。<br>
-现在她可以自由地以自己的意志使用元魔方，而不用担心步俾斯麦的后尘。<br>
+Watatsumi's output was stable.<br>
+It was able to successfully reconstruct the Origin Cube, changing its structure and shape in accordance to Akagi's "mental image."<br>
+Though there are some restrictions, Akagi is able to safely draw energy from this cube.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-看起来是成功了……不过这种事真的就能这么顺利么？<br>
+That's a relief... Assuming that IS the end of the story.<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-曾经我们做过类似的实验，这一次不过是再次实践罢了。<br>
+This isn't anything new. We've already conducted experiments like this before.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-但是经过处理的只有元魔方……承受着如此强烈的能量流动，构成{namecode:91}「基础」的魔方会怎么样？<br>
+But this is an Origin Cube we're talking about... How will this "power" reshape the Cube that serves as the basis for Akagi's foundation?<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-会不可避免的受到影响，然后逐渐崩坏解体……至于时间就因人而异了。<br>
-当然，这个过程比直接用元魔方照一下要好得多，及时停手的话也能有救。<br>
-不过其实，你也不怎么在乎{namecode:91}的事吧……<br>
+In theory, the Origin Cube eats away at the user's hull, eventually erasing them from existence. But, the speed at which this occurs differs from person to person.<br>
+Of course, this method is much more preferable than directly tapping into the Origin Cube and disappearing like a flash in the pan. We might even be able to halt the METAmorphosis process if we cut off the flow of energy early enough.<br>
+I must say though, Musashi, you seem to have an abundance of concern for Akagi.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-也就是说这项技术的本质，并不是将META化变的无害，而只是尽可能延长META化舰船的使用期限罢了……<br>
+In other words, this isn't a cure. It's just a stopgap measure that drags out the time you have before you lose yourself.<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-因为这只是一个中间过程，但只要以海若为核心的决战兵器能够成功制作出来，彻底可控又稳定的META化就不再是问题了。<br>
+Well, this was just a byproduct of our research. If we can remake our ultimate weapon using Watatsumi as its core, that would solve all of our problems.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-你自己是如何META化的？<br>
+Were you a sacrifice to that research as well?<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-你不是已经靠自己推理出答案了么……咳咳咳……<br>
+You can figure that out yourself, can't you? ...*cough* *cough*<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-你这么差的身体也和这个“中间过程”有关？<br>
+The way you are now... Does that not speak volumes about the risks of using this technology?<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-那倒不是，我在使用的时候这项技术已经很成熟了。我的身体问题源于某个更加悲惨的事件，我不是很想回忆。<br>
-况且尽管如此，我也有理智有力量地活着，这还不够么？<br>
+You misunderstand. This technology was incredibly robust by the time I utilized it. As for why my body is in this condition... that stems from a tragedy I'd rather not talk about.<br>
+Besides, if my own METAmorphosis was progressing poorly, the two of us wouldn't be talking right now.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-你一直都在强调决战兵器的用处。<br>
-可是之前你们有决战兵器，为什么也打输了？<br>
+An "ultimate weapon" using Watatsumi, huh...<br>
+If you had something so powerful, how did you still lose to "them?"<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-……那是因为，决战兵器没有被投入战场，有一个过于谨慎的人一直在阻止这件事。<br>
-而且很遗憾，那个人在最后成功了。<br>
-所以我们这次一定不能重蹈覆辙，你明白么？<br>
+Because we never got to use that weapon. Someone was trying to stop us from doing so at all costs.<br>
+...And unfortunately, they managed to succeed in the end.<br>
+But let's not talk about that any more. The only thing that matters is that we don't repeat the mistakes of the past.<br>
 <span style="color:#4eb24e;">Musashi：</span><br>
-……你的话语中有一种令人熟悉又让人安心的气息。<br>
-这实在是太危险了。你的目的究竟是什么，为什么要来帮我？<br>
+So you've pinned your hopes on us? Or rather, on this branch? I feel like I've heard those reassuring words before, but that makes me even less inclined to trust you.<br>
+What do you really want from us, and from Akagi?<br>
 <span style="color:#a020f0;">Jintsuu META：</span><br>
-我已经时日无多，只是想在倒下之前，弥补过去记忆中的些许遗憾罢了……<br>
-今天的成功只是万里之路的第一步，{namecode:84}大人，让我们抓紧时间吧……<br>
+My time is already short. I only wish to rid myself of a few lingering regrets before I fall into the abyss.<br>
+A journey of a thousand miles begins with a single step, after all. You've taken the first step towards saving your world - but don't take too long, lest you also run out of time.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=第五块拼图|选项=38|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Pictures at an Exhibition|选项=38|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Shinano ：</span><br>
-{namecode:84}，妾身发现了一系列比较在意的事，因此发来了这封联络。<br>
-博览会举行首日，妾身在会场中发现了不寻常的气息。<br>
-在妾身第一时间提醒了维内托之后，问题似乎被撒丁帝国在暗中解决了。<br>
-不过，在那之后妾身依然隐约有些不协调感，而且异样感一直没有消失。<br>
-这件事妾身还在调查之中，也许只是错觉吧。<br>
-之后的几日，会场中十分和平。各大阵营都严格遵守了停火协议，没有发生冲突。<br>
-塞壬也没有来捣乱，听撒丁帝国说，整片陆间海都没有出现塞壬袭击。<br>
-然而在第六日，塞壬似乎对皇家群岛发动了一次规模介于试探与进攻之间的不大不小的突袭。<br>
-最合理的猜测是，这是塞壬对于此前皇家在NA海域中行动的报复。<br>
-不过这次事件的异常之处有三点——<br>
-其一，皇家舰队根本就没有参与针对构建者主机的作战行动。<br>
-其二，NA海域在构建者的主机被消灭后，塞壬的控制力已经大幅减弱，此等规模的舰队究竟是如何被组织起来的令人生疑。<br>
-其三，这次袭击似乎也在皇家的预料之中，因为伊丽莎白女王早就部署了大量舰队因此没有受到太大的损失。<br>
-也许其中另有隐情，妾身也在调查之中。<br>
-但，倘若真是塞壬的报复行为，那吾等一定要小心。<br>
-请一定要提高警惕。<br>
-{namecode:182}敬上。<br>
+"From Aircraft Carrier Shinano, to Musashi"<br>
+"...I apologize for contacting you so suddenly, but something happened at the Expo that must be reported on."<br>
+"Sardegna managed to resolve the underground warehouse incident involving the Mirror Sea."<br>
+"But my sense of restlessness, as well as the dream that I've been having, have not gone away."<br>
+"This may be due to other factors, and I plan to follow up at a later date."<br>
+"During the World Expo itself, all the factions seem to be on cordial terms with one another. There is nothing out of the ordinary to report in that regard."<br>
+"While the Sirens have remained silent in the Mediteranée, I was notified of a situation that developed around the Royal Islands."<br>
+"Sources from the Naval HQ claimed that the Sirens launched an attack on the Royal Navy as an act of retaliation for the Iron Blood rebellion."<br>
+"The attack was said to have been medium-scale, with the objective of probing the Royal Navy's capabilities."<br>
+"However, there are a number of incongruities with this account that I will record thusly."<br>
+"First: the Royal Navy was absent from combat operations against Compiler."<br>
+"Second: there were no signs of a breach, and there were no reports of the Royal Navy having located an incoming Siren fleet."<br>
+"Third: despite the second point, the Queen already had forces ready to intercept the attackers, as if she had prepared for them in advance."<br>
+"I will continue to investigate this matter while continuing my activities at the World Expo."<br>
+"If the threat of Siren retaliation is indeed imminent, the Sakura Empire must be vigilant as well."<br>
+"I cannot stress this enough - do not let the Watatsumi fall into the wrong hands. This, I beseech of you."<br>
+"...This concludes my report."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=全知之眼|选项=39|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Omnipresent Eye|选项=39|主框=1|样式=primary|展开=是}}
 <br>
-那是一夜的噩梦——<br>
-梦中，总有一个模糊的身影在注视着我。<br>
-每当意识到它的存在，它就会消失于无形。<br>
-而在意识放松之时，它又会出现在那里。<br>
-不发出声音，也不会做出行动，宛如一尊雕塑，又如一个鬼影。<br>
-周边传来的是……警报音，基地出现异常情况了么？！<br>
-不对……此处仍为梦境，但是……那个身影不见了。<br>
-嗯，没错……那个带来噩梦的身影在这里消失了。<br>
-梦魇终于消散了么…………<br>
-纵使身边警铃大作，我却依然感受到发自内心的放松。<br>
+I had a nightmare.<br>
+I could feel myself being watched by a blurry figure.<br>
+As soon as I tried to focus my attention on it, it would disappear.<br>
+But the moment my concentration lapsed in the slightest, it would reappear.<br>
+It just stood there like a ghastly sculpture, not moving, not making a sound.<br>
+An alarm...? Did something happen in the Sea of Stars?<br>
+No... I'm still dreaming... But it's not the same dream as before.<br>
+I tried directing my consciousness around. Whatever it was that had been watching me before is no longer present.<br>
+A wave of relief washed over me, as the nightmare's icy grip receded.<br>
+Alarms continue to ring in my ears, but it doesn't matter anymore––<br>
 <span style="color:#ff9900;">Helena META：</span><br>
-指挥官，现在放下心来还太早了。<br>
-现在不是睡觉的时候，危险正在接近。<br>
-快醒醒，指挥官，快醒来————<br>
+You're not safe yet, Commander.<br>
+Don't fall asleep here. The enemy is coming.<br>
+Wake up, Commander. Wake up––<br>
 <br>
-唔………………<br>
+*gasp*... *gasp*...<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-指挥官……太好了，你终于醒了。<br>
-刚刚怎么叫你都一直没有回应，我都打算去喊医务人员了……<br>
+Thank goodness... You finally woke up, Commander...<br>
+You kept tossing and turning with a terrified look on your face... I was just about to call Memphis over...<br>
 <br>
-我好像做了一个漫长的噩梦……<br>
-海伦娜，现在几点了？<br>
+After last night's experiment, I collapsed into bed and fell right to sleep... But what just happened?<br>
+"Helena, what time is it?"<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-……时钟上显示的时间是16点16分。<br>
+Um, well, the clock says 1616.<br>
 <br>
-下午四点……？这不可能啊，再怎么说也不至于一觉睡到这个时间……<br>
+"Four in the afternoon?! How long did I stay asleep for...?"<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-嗯，确实不应该是这样的。从时间感上进行估算，现在应该是凌晨的三点到四点左右。<br>
-但是不知道为什么，基地中的所有计时工具的数字都变成了16点16分，并停在了这一刻。<br>
-而且领航员小姐发现，有一个来源不明的巨型物体正在向我们的方向接近。<br>
+Um... That seems unusual to me as well. Based on my subjective sense of time, it should be no later than three or four in the morning.<br>
+But, all the clocks in the Sea of Stars seem to say that it, in fact, is 1616.<br>
+TB has also informed us that a large, unidentified object is making its way towards us.<br>
 <br>
-来源不明的巨型物体……在向我们的方向接进？我们现在可是在「星海」之中啊？<br>
+"A large object...? I thought the Sea of Stars' location was strictly confidential."<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-……没错，星海现在已经处于红色警戒状态了。<br>
-半小时之后星海就会彻底封闭并进入隐匿状态，届时将无法保证仍位于其中的人员安全。<br>
-还好倒计时工具没有受到影响……指挥官，只剩下不到二十五分钟了，快跟我走吧。<br>
+Yes, the entire base has been elevated to red alert.<br>
+In half an hour, we'll seal the entrance and "cloak" the entire facility, but we can't guarantee the safety of everyone inside.<br>
+Fortunately, we still have twenty-five more minutes. Commander, let's leave together?<br>
 <br>
-我明白了，其他人呢？<br>
+"What about the other shipgirls?"<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-外围部门已经撤离了，核心部门在完成必要的工作后也会撤离。<br>
+Everyone around the perimeter has already evacuated. Those deeper inside the facility will evacuate after finishing their necessary work.<br>
 <br>
-TB呢？<br>
+"So, what do we do about TB?"<br>
 <span style="color:#4eb24e;">Helena：</span><br>
-领航员小姐会留在这里————毕竟这里就是她的主机所在位置啊。<br>
-好了指挥官，时间紧急，我们路上再聊吧————<br>
+Unfortunately, TB will not be able to leave... because this place is her mainframe...<br>
+We're running out of time, Commander. Let's get out of here, okay?<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
