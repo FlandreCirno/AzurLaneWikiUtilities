@@ -75,7 +75,7 @@
 <span style="color:#4eb24e;">나가토 ：</span><br>
 …오래 기다리게 해서 미안하네, 무사시.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-괜찮아. 계속 아카기님과 이야기 나누느라 시간이 가는 줄도 몰랐거든.<br>
+괜찮아. 계속 아카기와 이야기 나누느라 시간이 가는 줄도 몰랐거든.<br>
 게다가 시간으로 보면 모두 약속한 시간보다 훨씬 일찍 온 거 잖아? 걱정 말고 어서 자리에 앉아.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
 그렇담 다행이군….<br>
@@ -88,7 +88,7 @@
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 하하, 이건 내가 하나즈키한테 부탁한 거야. 물론, 나도 좀 배워봤지만 말이지. 꽃차 만드는 일이 생각보다 재밌더라구?<br>
 <span style="color:#4eb24e;">미카사：</span><br>
-그럼 우리가 마시고 있는 이 꽃차에도 무사시님이 직접 만든 꽃잎이 들어있을지 궁금한걸?<br>
+그럼 우리가 마시고 있는 이 꽃차에도 무사시가 직접 만든 꽃잎이 들어있을지 궁금한걸?<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 있을 수도 있고, 없을 지도? 다 만들고나서 한데 섞이면 쉽게 구분할 수 없거든.<br>
 맛이 좋으면 하나즈키가 만든 거고, 맛이 없으면 내가 만들 걸지도 모르겠네~<br>
@@ -96,90 +96,90 @@
 어렵군…. 맛이 좋은 것만 알지 그런 미세한 차이는 구분할줄 몰라서.<br>
 <br>
 모두가 차를 마시고 있을 때, 테이블 위 허공에서 갑자기 환영으로 만들어진 장기판이 나타났다.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 드디어 본론으로 들어가네요.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 이게 오늘 진행될 게임의 장기판인 건가? 이렇게 하늘 위에 떠있는 별처럼 빛나는 모습이라니….<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 정교하고 복잡해보이는군…. 무사시, 이건 더 복잡한 결계 내부의 모습을 축소시킨 거, 맞는가?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 역시 나가토님이야. 한눈에 판의 본질을 간파하다니.<br>
 맞아, 모두 여기로 오는 길에 이미 느꼈을 거라고 생각해.<br>
 결계를 이용해 장기판 위에 표시된 풍경인 광활한 바다, 즉 오늘 경기의 진짜 경기장을 이곳에 숨겨놓았거든.<br>
 여러분이 이곳에 함께 데리고 온 선수들은 이미 사카와의 안내에 따라 모두 경기장 안으로 들어간 상태니 곧 각자 제자리에 위치할 거야.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-오는 길에 무사시님이 대체 어떤 판을 준비했길래 5명의 함선이 필요할까 생각했어.<br>
+<span style="color:#4eb24e;">미카사：</span><br>
+오는 길에 무사시가 대체 어떤 판을 준비했길래 5명의 함선이 필요할까 생각했어.<br>
 이런 건 예상치 못했지만 말이야….<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 내가 분명 초대장에 기대해달라고 적지 않았나? 하하, 정성스럽게 준비한 오늘의 경기는 절대 지루하지 않을 거야.<br>
 두 분이 준비한 사건 카드도 전부 가지고 왔겠지?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 응, 가지고 왔다. 그냥 단순히 정보를 기록하는 것도 평범한 종이가 아닌 특수 제작된 금속판이라니... 이것 역시 특별한 무언가가 있는 거겠지?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 당연하지. 어떤 장면이든 규칙 안에서 설계된 사건이라면 결계 안 경기장에 완벽하게 구현될 거야.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 신목의 바람, 하늘 기원제, 변화의 길, 하늘과 파도라….<br>
 나가토님은 회복을 중점으로 준비하셨고, 대선배님은 나름대로 공평하게 준비해온 것 같지만 실제론 전함의 버프 위주로 준비해오셨네요.<br>
 그러고보니 대선배님이 이번에 데려온 선수 중 상당수가 전함이지 않나요?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 오랫동안 전장을 벗어난 탓에 옛 친구들을 부르다보니 그렇게 되긴 했지만 전함은 나 뿐만 아니라 나머지 세분에게도 있으니 꼭 나한테만 유리하다고 볼 순 없는 것 같은데?<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 나도 준비한 것들을 볼 수 있을까?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 물론이지. 대국이 시작되기 전에 사건 카드는 반드시 서로에게 공개해야해. 자, 여기.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 고맙군. 흐흠… 기술 혁신, 걷히는 해무… 정해경뢰… 마지막으로 일식이라니.<br>
 대부분이 자연재해로군…? 만약 이것들이 발동된다면 신중하게 대처해야겠어.<br>
 하지만 이 기술 혁신 카드로 항공모함 함선은 추가적인 전투력을 얻을 수 있겠네.<br>
 아카기도 항공모함에 매우 유리한 버프를 준비했네?<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 이 점은 저도 선배님과 같은 생각이랍니다. 항공모함 역시 모두 가지고 있는 함선이니 매우 공평하다고 볼 수 있죠.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 그쪽엔 카가, 류호, 치토세, 치요다가 있지만, 우린 쇼카쿠밖에 없다만.<br>
 즈이카쿠를 데려올 수만 있었다면——<br>
 <span style="color:#4eb24e;">통신기：</span><br>
 띠딕———<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 사카와, 준비는 다 끝났어?<br>
-<span style="color:#4eb24e;">{namecode:226}：</span><br>
+<span style="color:#4eb24e;">사카와：</span><br>
 네, 무사시님. 모두 각자 준비 구역에서 다음 지시를 기다리고 있습니다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 좋아, 그럼 모두 주목——<br>
 <br>
 무사시가 장기판에 가볍게 손을 대자, 총 네 개의 팀에 속한 20명의 '선수'와 20개의 '양산형 함선'이 장기판 경기장 모서리에서 나타났다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 본격적으로 시작하기에 앞서 각자 앞에 있는 준비 구역에서 마지막 포지션 조정을 할 수 있어.<br>
 여러분 앞에 있는 작은 장기판에서 진행되는 모든 조작은 장기판 경기장에 있는 해당 선수에게 전송되지.<br>
 물론 직접 통신기를 통해 명령을 전달해도 되지만 경기 도중 선수들은 우리쪽 통신을 들을 수 있는 반면 선수들은 통신을 전달할 수 없기 때문에 교신이 불가능해.<br>
 나가토님, 빛나는 부분에 사건 카드를 올려줘.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 응. 그럼 우리가 준비한 지휘 카드는 어떻게 사용하는 거지?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 아, 그건 가지고 있다가 사용하고 싶을 때 바로 장기판에 밀어 넣으면 돼.<br>
 하하, 지휘 카드의 내용과 모든 '선수'의 기술은 공개될 때까지 서로 비밀로 진행하고.<br>
 언제 어디서 어떤 스킬을 쓰느냐도 장군으로서 필요한 전략이니까. 당연히 4명 '장군'의 스킬 역시 비밀이야.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 이해했어. 자세한 설명 고맙네.<br>
 무사시… 전투적인 부분이 조금 걱정이군. 평범한 장기판이면 몰라도….<br>
 오늘의 경기장은 실제 해역이잖아. 만약 우리의 조작이 모두 장기판 경기장에 적용된다면 선수의 전투와 퇴장은… 어떻게 진행되는 건가?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 다른 팀의 선수를 제거해도 점수로 계산되지 않는다면 서로 간의 전투는 무의미하기 때문에 불필요한 전투도 많이 없을 거야.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 역시 미카사 대선배님 이해가 빠르시네요. 다른 팀의 선수를 제거한다고 점수를 얻을 순 없지만 길을 막은 순 있잖아요. 계속 걸리적 거린다면 제거할 수밖에 없겠죠?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 하하, 선수 간의 전투든 거점에 있는 적과의 전투든 모두 전략적인 선택의 일부일 뿐이야.<br>
 전투에 관한 건 걱정할 필요 없어. 장기판 경기장 안에 있는 선수들이 느낄 수 있는 전투의 짜릿함, 연기와 불길 모두 리얼하게 구현될 테니까.<br>
 하지만 게임은 게임일뿐, 훈련과 마찬가지로 전투와 퇴장은 모두 장기판의 설정일 뿐이야.<br>
 결계가 여러분들의 선수를 안전하게 지켜줄 것이지. 지금 앉아있는 여러분과 선수 모두 실제로 대미지를 입진 않아.<br>
 퇴장도 마찬가지. 퇴장이 결정된 선수는 그 즉시 결계를 떠나 편안한 휴식 공간에서 게임이 끝날 때까지 기다리고 있으면 그만이거든.<br>
 걱정할 필요 없어. 모두 눈 앞에 있는 장기판에만 집중해줘.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 …한번도 본 적 없는 기술이 사용되다니 신기하군. 좋아, 다른 궁금한 점은 없네.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 무사시님, 그럼 이제 게임을 시작해도 되지 않을까요?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 모두 준비가 된 것 같으니 더 이상 긴말하지 않을게. 더 많은 즐거움은 장기판이 제공해줄 테니까.<br>
-아카기님이 첫 번째 라운드의 시작을 알려줘————<br>
+아카기가 첫 번째 라운드의 시작을 알려줘————<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=번개 작전|选项=3|主框=1|样式=primary|展开=是}}
@@ -445,55 +445,55 @@
 {{折叠面板|标题=탐색|选项=7|主框=1|样式=primary|展开=是}}
 <br>
 조금 전, 응접실——<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 작은 거점부터 시작하지 않고, 바로 진영 거점을 공격하다니, 패기 넘치네.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 우선 중요한 거점을 손에 넣어야 게임을 진행하는 게 수월하지 않겠어, 미카사님?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 그렇긴한데, 중심 구역은 함부로 공격할 수 있는 지역이 아니니까. 2-3 라운드가 아니면 점령하기 힘들 것 같은데.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그건 이번 라운드 내 전략에 따라 달라지겠지?<br>
 운이 좋으면 다음 라운드에서 바로 점령할 수도 있을 것 같은데…. 아직 나가토님쪽에서 우릴 공격할 생각도 없는 것 같으니?<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 그대들이 공격해오지 않았으니, 나 역시 먼저 공격할 생각은 없지.<br>
 오히려 무사시, 이번 장기판에 준비해온 양산형 말이야…. 이전에 하늘 기원제에서 아카기가 선보였던 그 아이 아닌가?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 맞아. 그때 이 양산형의 전투 결과가 매우 좋았으니까.<br>
 나와 아카기가 프로토타입을 가지고 차세대 양산형을 개발해봤는데, 나쁘지 않지?<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 흐흠… 이곳의 특별한 룰 제한 때문에 실제 성능을 평가하긴 어렵네.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그렇긴해. 그럼 다음에 시간 날 때, 나가토님이 나와 함께 실탄 사격을 참관하시는 건 어때?<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 그대가 괜찮다면 난 좋다네.<br>
 흐음… 작은 장기판에도 모든 조작들이 일제히 적용되었군. 보아하니 그대의 선수가 장기판 경기장에서 열심히 전투 중인 모양이야.<br>
 하지만 이번 공격의 효과가 생각보다 좋은 것 같진 않다만.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그런 것 같네…. 뭐, 괜찮아. 운도 실력이니까. 공격이 제대로 먹히지 않는 것도 어쩔 수 없는 상황이지.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-라운드가 진행될수록 변수도 많은 법. 안정을 추구한다고 해서 꼭 안정을 가져오는 건 아니니까, 무사시님.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
+라운드가 진행될수록 변수도 많은 법. 안정을 추구한다고 해서 꼭 안정을 가져오는 건 아니니까, 무사시.<br>
+<span style="color:#4eb24e;">무사시：</span><br>
 맞아. 이런 예상치 못한 상황을 처리하고 있을 때 공격해오지만 않는다면 좋겠는데?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 글쎄, 이건 상황을 좀 더 지켜봐야할 것 같군.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 하하, 의미심장한데요? 대선배님. 그리고 나가토님 명령을 내리시려면 조금 전 저처럼 그냥 앞에 놓인 장기판을 움직이시면 된답니다.<br>
 장군이 투입되기 전까진 장내의 말들은 전부 당신의 지시에 따라야 하니 굳이 통신기를 사용하지 않아도 돼요.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 알고있지만 그런 차가운 방식은 싫어서 말이지.<br>
 비록 장기 한 판이라고 해도, 동료에겐 역시 직접 명령을 전달하는 편이 좋을 것 같다고 생각하네.<br>
 어차피 그대들은 내가 말하는 걸 들을 수 있고, 나 역시 그대들의 명령을 볼 수 있으니, 딱히 룰을 어기는 건 아니겠지?<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 당연하죠. 직접 조작을 하든 통신기를 사용해 지시를 내리든 모두 허용됩니다.<br>
 하지만 나가토님, 장기판에서 이렇게 사소한 부분까지 신경쓰신다면 중요한 순간에 심각한 결과를 초래할 수도 있어요.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 그댄… 역시 전투를 원하고 있군.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 만약 꼭 필요하다면요. 형식이 어떻든, 과정이 어떻든 제가 바라는 건 오로지 승리뿐이니까요.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 …이해했다네.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
-여러분, 내 차례는 끝났어. 아카기님, 먼저 다시 새로운 라운드의 시작을 알려볼까?<br>
+<span style="color:#4eb24e;">무사시：</span><br>
+여러분, 내 차례는 끝났어. 아카기, 먼저 다시 새로운 라운드의 시작을 알려볼까?<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=소원성취|选项=8|主框=1|样式=primary|展开=是}}
@@ -689,56 +689,56 @@
 {{折叠面板|标题=바람을 따라서|选项=12|主框=1|样式=primary|展开=是}}
 <br>
 조금 전, 응접실-<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 전투가 끝나면 IJ12가 내 것이 되겠군.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 바다 안개의 방해를 받긴 했지만, 곧바로 전략을 변경해 작은 거점 하나를 손에 넣다니… 좋은 순발력이야, 나가토님.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 피해를 최소화했을 뿐이야. 무사시, 점수는 똑같은데 왜 경계선의 위치한 거점의 난이도가 작은 거점보다 더 높은 거지?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 전략적 중요성이 다르기 때문이야.<br>
 만약 나가토님이 양 쪽에 있는 두 경계선의 거점을 모두 손에 넣었다면, 내가 당신의 통제 구역으로 들어가기 위해 반드시 중심 구역을 통과해야 하거든.<br>
 하지만 바다 안개한테 고마워해야겠네. 이 경계선의 거점은 그럼 내가 가져가도록 하지.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 비록 그대의 항공모함 수가 나보다 많다고 해도, 바다 안개의 영향을 무시할 순 없을 터.<br>
 그대의 주력함들은 아직 진영 거점에서 고전 중인데, 이제와서 공격 방향을 바꾼다면 성공을 눈앞에 두고 포기하는 셈 아닌가?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그렇긴 하네. 다음 행동을 시작하기 전에, 우선 눈앞의 닥친 일을 먼저 마무리 지어야겠어.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-무사시님, 당신이 꾸린 팀은 기동성과 화력 모두 좋지만 반대로 방어력이 약한 탓에 거점을 향한 강한 공격은 적합하지 않아.<br>
+<span style="color:#4eb24e;">미카사：</span><br>
+무사시, 당신이 꾸린 팀은 기동성과 화력 모두 좋지만 반대로 방어력이 약한 탓에 거점을 향한 강한 공격은 적합하지 않아.<br>
 경계선의 거점은 일부러 아카기에게 남겨준 거지? 하지만 그녀가 더 이상 협조하지 않을 듯 보이네.<br>
-만약 시나노님과 손을 잡은 상황이라면 무사시님은 이미 벌써 1등을 했을지도 모르겠는데?<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+만약 시나노와 손을 잡은 상황이라면 무사시는 이미 벌써 1등을 했을지도 모르겠는데?<br>
+<span style="color:#4eb24e;">아카기：</span><br>
 대선배님, 이 말은 그냥 듣고만 있을 순 없겠네요.<br>
 전 무사시쪽 경계선 거점을 두곳 점령했고, 대선배님은 제쪽 경계선 거점 두곳을 가져가셨어요.<br>
 그냥 제가 대선배님에게 남겨준 걸로 하죠. 그럼 저와 손을 잡으시겠어요?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 이 대답은 아카기가 다음에 어떻게 하느냐에 따라 다를 것 같네. 하지만 지금 상황으론 바다 안개가 자욱한 탓에 아무 것도 보이지 않아서 말이지.<br>
 잘 안보이는 상황에선 동맹을 맺는 것도 불가능하니까.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 대선배님이 너무 오랜 시간 전장을 비운 탓에 시력이 떨어진 건 아닌지….<br>
 제가 원하는 건 간단해요…. 승리하는 것, 그뿐이죠.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
-하하, 미카사님, 그것 봐. 패기만 봐도 시나노와 아카기님은 큰 차이가 있다고.<br>
-이런 패기라면, 누군가의 도움 없이도 아카기님은 분명 혼자서도 큰 일을 해낼 수 있을 거야.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
+하하, 미카사님, 그것 봐. 패기만 봐도 시나노와 아카기는 큰 차이가 있다고.<br>
+이런 패기라면, 누군가의 도움 없이도 아카기는 분명 혼자서도 큰 일을 해낼 수 있을 거야.<br>
+<span style="color:#4eb24e;">나가토：</span><br>
 무사시, 내 차례가 끝났으니, 이제 그대 차례군.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 응… 여기선 우선 '바람을 따라서' 지휘 카드를 사용하겠어. 진영 거점을 공격한 선수는 모두 추가로 행동을 한번 더 진행할 수 있게 돼.<br>
-이번 라운드에서 진영 거점을 쟁취하는 건 필수적이야. 그뒤엔... 아카기님 쪽이 막혔다면 나가토님 쪽으로 갈 수밖에 없겠네.<br>
+이번 라운드에서 진영 거점을 쟁취하는 건 필수적이야. 그뒤엔... 아카기 쪽이 막혔다면 나가토님 쪽으로 갈 수밖에 없겠네.<br>
 더 이상 경계선의 거점을 공격할 여력이 없지만 조금의 방해는 아직 할 수 있으니까.<br>
 <br>
 진영 거점 CH78 점령에 따라 무사시의 점수가 5점으로 올라 현재 1위를 차지했다.<br>
 이와 동시에 무사시 팀에 속한 사카와와 와카츠키는 모든 사람들이 지켜보는 가운데 아직 아무도 점령하지 않은 경계선의 거점을 지나치고 곧장 나가토 함대의 진영으로 돌진했다.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 뭐야... 사카와를 G5로, 와카츠키를 H5로 이동시킨다고?!<br>
 이렇게 되면 하루츠키와 사카와가 만나게 되고, 카와카제와 와카츠기가 만나게 될 텐데….<br>
 바다 안개의 효과를 잊었군…. 아니, 설마 바다 안개의 효과를 이용하려는 건가!?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 맞아. 비록 이번 라운드에 내 선수들은 공격할 수 없지만, 바다 안개 효과에 따라 라운드 종료 시 두 팀 이상의 선수가 한 곳에 있다면 강제 전투가 벌이지게 되지.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 결산 순서는 나중에 도착한 사람부터… 맞지?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 내 차례는 끝이야. 하핫, 나가토님, 조심해. 공격 들어가니까——<br>
 {{折叠面板|内容结束}}
 
@@ -805,7 +805,7 @@
 그런 효과라니…. 하지만, 전투에선 우리 쪽이 유리하다고 말했거늘!<br>
 검술 '호위검법'. 하루츠키를 공격하고 싶거든 내 검을 먼저 막아라!<br>
 <br>
-나가토가 자세를 취하자 검기가 그녀 곁을 에워쌓았다. 앞에 있는 적이 나서기 전에 예리한 칼날이 적의 침범을 막을 것이다.<br>
+카와카제가 자세를 취하자 검기가 그녀 곁을 에워쌓았다. 앞에 있는 적이 나서기 전에 예리한 칼날이 적의 침범을 막을 것이다.<br>
 <span style="color:#4eb24e;">사카와：</span><br>
 다른 사람을 호위하기 위한 검법이라니, 재밌네요! 그럼 어디 한번 놀아볼까요~<br>
 <span style="color:#4eb24e;">와카츠키：</span><br>
@@ -815,13 +815,13 @@
 ———그대들, 멈추거라.<br>
 주황색 섬광이 전장 한복판에 나타나고 흩날리는 벚꽃 비 속에 나가토가 수면 위로 나타났다.<br>
 분홍색 벚꽃으로 만들어진 장벽 하나가 하루츠키와 포탄 사이를 가로막았고, 돌격 준비를 하고 있던 카와카제까지 덮치자 사카와 역시 제자리에 멈춰섰다.<br>
-<span style="color:#4eb24e;">{namecode:157}：</span><br>
+<span style="color:#4eb24e;">하루츠키：</span><br>
 으아악… 에…? 포탄이 날아오지 않았다는 건 나가토님께서 직접 포탄을 막아주신 건가요!<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 그래, 안심해라. 하루츠키, 이제 괜찮다.<br>
-<span style="color:#4eb24e;">{namecode:158}：</span><br>
+<span style="color:#4eb24e;">카와카제：</span><br>
 나가토님…? 전투가 일어나도 저희쪽이 우세한 상황이였어. 나가토님이 이렇게 직접 나설 필요는 없었어.<br>
-<span style="color:#4eb24e;">{namecode:74}：</span><br>
+<span style="color:#4eb24e;">나가토：</span><br>
 응, 안다. 하지만 생각해보니 아무리 장기판 경기라고 해도 내 앞에서 전투가 일어나는 걸 보고 싶진 않아서 말이지.<br>
 그래서 직접 중단하기로 마음 먹었다.<br>
 <span style="color:#4eb24e;">사카와：</span><br>
@@ -854,37 +854,37 @@
 {{折叠面板|标题=변혁의 길|选项=14|主框=1|样式=primary|展开=是}}
 <br>
 조금 전, 응접실——<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 단 한 번의 도발로 나가토님이 경기장 안으로 들어갔네….<br>
 전혀 예상치 못한 결과야…. 지금은 아직 입장하기 가장 좋은 타이밍은 아니지 않나?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 …보아하니, 나가토가 자신이 가고 싶은 길을 정한 것 같네.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 한 사람이 화를 당하면, 온 집안이 난장판이 된다는 말처럼요?<br>
 약자를 보호하기 위해 큰 그림을 포기하다니, 재미 없네요….<br>
 무사시, 모든 결산이 끝난 건가요?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 응. 나가토님의 벚꽃 결계로 모든 전투가 사라졌거든. 정말 아무도 다친 사람이 없게 됐어.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 흐응… 그럼 이렇게 하죠. 대선배님, '변혁의 길' 사건 카드는 대선배님이 준비한 거죠?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 맞아. 교착 상태가 있을 때 오직 변화만이 곤경에서 새로운 길을 찾을 수 있지.<br>
 경기장 내 효과로는 모든 선수들이 거점에 대미지를 입히고 나면 이동력 버프 효과가 발동돼. 모두 더 많은 거점을 점령하고, 최대한 전투는 피하길 바라는 마음에서.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 저도 변화가 필요하다는 대선배님 말에 동의해요. 변화가 필요한 것들은 이것말고도 많이 있죠.<br>
 그렇지만 변화를 위해선 먼저 어떤 길을 선택해야할지 결정해야 하고 또 대체 어떤 길이 맞는 길일까요.<br>
 이 문제를 대답하려면 대선배님의 추측에만 의존할 게 아니라 역시 실전에서 답을 찾아야할지도 모르겠네요.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 이번 유럽 여행이 이미 어느 정도 설명해줬다고 생각하는데.<br>
 유럽 국가들은 제각각 흩어져 있고, 오직 메탈 블러드만이 하나로 단결된 상태지.<br>
 지도층의 엄청난 변화에도 불구하고, 메탈 블러드는 빠르게 실력을 키우면서 엄청난 결과를 얻어냈어.<br>
 내부적으론 하나로 뭉치고 외부적으론 독립적이고, 전략적으론 적과 아군을 확실히 구분하고 전술 상으론 신중하지.<br>
 이런 국가만이 성공할 수 있어.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 대선배님, 세이렌의 머리를 공격하기 위해선 먼저 그 안으로 잠입해야한다는 소린가요?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 그런 뜻도 있을까?<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 제 말은, 세이렌은 앞으로 이런 일을 특별히 더 조심할 것 같다는 뜻이에요.<br>
 …분위기가 너무 무거운 것 같으니 저 역시 나가토님을 따라가는 것이 좋을 것 같네요. 먼저 경기장 안으로 들어가서 여러분을 기다리고 있겠습니다.<br>
 <br>
@@ -894,7 +894,7 @@
 또 나가토처럼 과감하게 사라져버렸군.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 갑작스러워 보이는 행동이지만, 좋은 타이밍이였다고 생각해.<br>
-봐. 아카기님은 먼저 '진홍의 맹세' 지휘 카드를 사용한 뒤에 자신의 등장 효과인 '붉은 피어남'을 발동해 높은 대미지를 입혔어.<br>
+봐. 아카기는 먼저 '진홍의 맹세' 지휘 카드를 사용한 뒤에 자신의 등장 효과인 '붉은 피어남'을 발동해 높은 대미지를 입혔어.<br>
 2라운드만에 진영 거점을 확보했어.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 '붉은 피어남'….그녀가 자신에게도 이렇게 공격적인 스킬을 설정했을 거라곤 생각 못했어.<br>
@@ -918,14 +918,14 @@
 하하, 미카사님의 말이 맞아. 아카기가 세이렌과 일할 때 내게 거울 해역을 선물해줬거든.<br>
 특별히 실험할 것도 없어서 차라리 장기판 경기장으로 개조하는 것이 더 좋겠다고 생각했어.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
-무사시님은 역시 멋지군.<br>
+무사시는 역시 멋지군.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 어떻게 설명해야 할지 모르겠네~ 어때, 맘에 들어?<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 만족스러우면서도 놀라워. 이 장기판을 조금만 개조한다면 아주 좋은 전투 시뮬레이션 시설로 사용할 수 있겠어.<br>
 게다가 안전하기까지. 실제 동료들을 데리고 실험을 하는 사람과는 전혀 달라.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-아카기님도 그때 이후로 신경을 많이 썼어. 한번의 실수 때문에 계속해서 뭐라고 하는 건 좀 그렇지 않을까?<br>
+아카기도 그때 이후로 신경을 많이 썼어. 한번의 실수 때문에 계속해서 뭐라고 하는 건 좀 그렇지 않을까?<br>
 난 미카사님과 나가토님 사이의 응어리가 풀어졌으면 좋겠어. 모두 사쿠라 엠파이어를 위한 마음이라면 더더욱 힘을 합쳐야하니까.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 그건 당연하지. 지금 난 아카기에 대한 내 생각을 바꾸기 위해 아카기의 모든 행동을 주의 깊게 관찰하고 있어.<br>
@@ -946,7 +946,7 @@
 하하, 맞는 말이야.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 아하하, 그럼 난 아무래도 이곳에 최대한 오래 있어야 할 것 같군.<br>
-흐음? 장기판의 색이 변했어. 그럼 이제 내 차례 맞지? 무사시님.<br>
+흐음? 장기판의 색이 변했어. 그럼 이제 내 차례 맞지? 무사시.<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=진홍의 맹세|选项=15|主框=1|样式=primary|展开=是}}
@@ -957,7 +957,7 @@
 히잉… 또 하나의 양산형 함대가 제거됐어요. 이렇게 가다간 선수들이 반격을 받게 될지도 모르겠어요….<br>
 그럼 큰일인데… 중갑 방어 전함은 저 하나뿐이잖아요! 만약 한 명이 가서 막아야 한다면 분명 나일 텐데!<br>
 <span style="color:#4eb24e;">진츠：</span><br>
-야마시로… 진정해. 거점은 이미 아카기가 해결했어.<br>
+야마시로… 진정하세요. 거점은 이미 아카기가 해결했어요.<br>
 <span style="color:#4eb24e;">야마시로：</span><br>
 에… 농담이죠? ...무슨 상황이에요?<br>
 <br>
@@ -993,7 +993,7 @@
 후후, 몸풀기는 여기서 끝내는 게 좋겠어요.<br>
 대선배는 우리가 거점을 공격한 틈을 타 우리의 경계선쪽을 봉쇄한 것 같군요. 그럼 이젠 우리가 그녀를 좀 괴롭히러 가볼까요.<br>
 미유키, 진츠. 중심 구역을 지나쳐서 나가토님과 대선배 사이에 있는 경계선 거점으로 돌진하세요. 이 틈에 두 팀을 끊어버리죠.<br>
-<span style="color:#4eb24e;">{namecode:39}&{namecode:5}：</span><br>
+<span style="color:#4eb24e;">진츠&미유키：</span><br>
 알겠습니다. 네, 아카기님!<br>
 <span style="color:#4eb24e;">아카기：</span><br>
 야마시로는 대선배가 중심 구역으로 전진하는 걸 막아야하는 중대한 임무를 맡아야 하니 지금 바로 중심 구역으로 가서 대기하고 있어주세요.<br>
@@ -1064,7 +1064,7 @@
 <span style="color:#4eb24e;">하루나 ：</span><br>
 굉장하네요. 대선배님과 아카기 모두 2라운드만에 진영 거점을 손에 넣었어요.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
-나 혼자 독단적인 행동을 해도, 미카사쪽은 조금의 동요도 없다라….<br>
+나 혼자 독단적인 행동을 해도, 미카사님쪽은 조금의 동요도 없다라….<br>
 <span style="color:#4eb24e;">하루나 ：</span><br>
 나가토님, 뭐라고 하셨어요?<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
@@ -1090,115 +1090,115 @@
 {{折叠面板|标题=「그대의 힘은 어디에?」|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 이 시각 응접실——<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 나가토님의 플레이가 안전을 추구하는 쪽으로 변했네.<br>
 조금 전 진영에서 어떤 선수도 잃기 싫다는 기세가 느껴졌어.<br>
 이렇게 사소한 것까지 신경쓰다니. 장기판에선 좋은 선택은 아닌데, 대선배님의 이전 계획과도 다르지?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 하… 언제나 변수로 인해 계획은 틀어지니까. 이미 벌어졌으니 받아들이는 수밖에. 이젠 다음 대책을 고민할 차례겠군.<br>
-하지만 무사시님. 내가 나가토를 도와준 건 그녀와의 협력 관계 때문만은 아니야. 더 중요한 건 사실 내가 그녀를 돕고 싶었기 때문이지.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+하지만 무사시. 내가 나가토를 도와준 건 그녀와의 협력 관계 때문만은 아니야. 더 중요한 건 사실 내가 그녀를 돕고 싶었기 때문이지.<br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그렇군, 그럼 나가토님께서 노리고 있던 경계선 거점은 내가 가져가도 될까?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-무사시님은 정말 무자비하다니까.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
+무사시는 정말 무자비하다니까.<br>
+<span style="color:#4eb24e;">무사시：</span><br>
 장기판도 전쟁터와 같아. 지나친 친절은 독이 되지.<br>
-이부분은 나가토님과 다르네. 오히려 나와 닮은 것 같은데? 아카기님을 대할 때 대선배님 역시 자비 따윈 보이지 않으니까.<br>
+이부분은 나가토님과 다르네. 오히려 나와 닮은 것 같은데? 아카기를 대할 때 대선배님 역시 자비 따윈 보이지 않으니까.<br>
 지금 미카사님이 아카기를 중심 구역에 둔건 그녀가 어떻게 할지 지켜보려는 거지?<br>
 손해를 감수하고 중앙 거점을 공격할 것인지 아니면 공격을 포기하고 철수할 건지——<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 보수적인 전략이라고 표현하고 싶네. 어쨌든 선택권은 아카기 손에 있으니까.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 자진해서 주도권을 포기하는 사람은 절대 우위를 점할 수 없을 텐데, 걱정되지 않아?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 아카기의 공격은 날카롭지만, 성급해. 이렇게 가다간 분명 혼선이 생길 거고 난 그때가 올 때까지 기다리고 있는 중이야.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 아카기 주변에도 훌륭한 인재들이 그를 보필하고 있는걸? 만약 그 기회가 계속 안온다면?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 훌륭한 인재 중에 당신도 포함되어 있나?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 지금 상황으로 봤을 땐, 어떤 것 같아?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 …적어도 지금 상황으로 볼 땐 아직은 기다릴 수 있어.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 하핫, 한번 떠본 건데 그대의 마음이 복잡해진 것 같네.<br>
 물어봐. 미카사, 궁금한 게 있어서 이곳에 온 거잖아.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-무사시님은 속일 수가 없다니까. 사실 몇 가지 이해되지 않는 사건들이 있어.<br>
+<span style="color:#4eb24e;">미카사：</span><br>
+무사시는 속일 수가 없다니까. 사실 몇 가지 이해되지 않는 사건들이 있어.<br>
 왜 시나노를 유럽으로 보내 박람회를 준비하게 하고, 또 즈이카쿠를 메탈 블러드에 방문하게 한 거지?<br>
 두 행동 모두 너무 급하게 움직인 느낌이 들거든.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 미카사님이 보시기엔 전부 두 사람을 사쿠라 엠파이어 본토에서 멀어지게 하기 위해 특별히 준비한 거라고 생각하는 거야?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 그럼 무슨 다른 이유라도 있는 건가?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 시나노의 신분은 사쿠라 엠파이어 본토를 벗어나 사쿠라 엠파이어를 대표해 활동하기 적합하고, 즈이카쿠는 이전에 한번 그곳을 가본적이 있어서, 지리도 사람도 잘알고 있기 때문이야.<br>
 유감스럽게도 이 두 가지 일 모두 단순히 그 두 사람이 가장 적합했을 뿐.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 그럼 당연히 시나노와 함께 천암도로 돌아왔어야할 해약은? 해약을 나르던 수송대가 당신의 명령이 있은 후 행방불명이 되었어.<br>
 신석은 지금 어디로 보내졌지?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 모두가 아는 하늘 기원제에서 있었던 일 때문에 해약은 더 안전한 장소로 보내진 뒤 보관되고 있어.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 …그럼 신석의 본질이 뭔지 알고 있나? 내가 조사한 바에 따르면 신석에 관한 기록은 대부분 변조된 흔적이 있었어.<br>
 신석의 존재는 갑자기 나타난 수많은 '성역'과 같이 세이렌에 의해 만들어지고 남겨진 일종의 위험한 물건이 아닐까 생각해.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 매우 흥미로운 추측이네…. 하지만 유감스럽게도 이 부분은 나 역시 아는 게 없어.<br>
 세이렌과 협력하는 일은 줄곧 아카기가 책임져왔고 난 그녀가 필요할 때 전적으로 지지해왔을 뿐이니까.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-무사시님, 아카기가 진짜 하고 싶은게 뭔지 알고 있어?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
+무사시, 아카기가 진짜 하고 싶은게 뭔지 알고 있어?<br>
+<span style="color:#4eb24e;">무사시：</span><br>
 이 일에 대한 대답은 미카사님도 대충 알고 있을거라 생각하는데.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 …이 일 때문에 사쿠라 엠파이어 전체를 맹렬한 불처럼 태워버릴 작정인 건가? 난 절대 그런 일이 일어나도록 가만히 있지 않을 거야!<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 대체 무슨 근거로 '가만히 있지 않겠다'는 거야?<br>
 아카기는 세이렌과의 협력을 통해 사쿠라 엠파이어에 번영과 권력을 가져다 주었고, 그 결과 그녀는 지금 나를 포함한 사쿠라 엠파이어 고위층의 전폭적인 지지를 받고 있어.<br>
 당신은?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 프리드리히와의 전투에 참여한 뒤 아카기는 세이렌을 화나게 만들었을 테고 앞으론 더 이상 협력할 수 없겠지.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그런가? 그렇다면 세이렌은 왜 지금까지도 보복을 하지 않고 있는 걸까?<br>
 아카기가 이런 권력을 갖게 된 이유가 뭐라고 생각해? 아마기와의 관계 때문에? 아니면 그녀가 가져온 세이렌의 기술 덕분에?<br>
 아니면 사쿠라 엠파이어 고위층의 모두가 아카기에게 속은 걸까?<br>
 전부 아니야. 프리드리히가 메탈 블러드의 운명의 궤적을 바꾼 것처럼 그녀 역시 사쿠라 엠파이어에 운명의 변화를 가져온 거지.<br>
 덕분에 그녀에게 앞으로 사쿠라 엠파이어를 이끌 권력이 주어진 거구.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 운명의 변화…?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 미카사, 내일 당신과 당신의 가족, 동료들이 모두 생을 마감하게 된다면 당신은 어떻게 할 건가?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 …하루라도 빨리 알면 하루라도 빨리 준비할 수 있겠지. 나라면 최선을 다해 이러한 내일과 싸울 거다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 아카기 역시 지금 미카사가 대답한 것처럼 최선을 다해 싸우고 있는 거야.<br>
 만약 당신이 그녀를 바로잡고 싶다면, 반드시 그녀가 이 모든 일을 한 이유를 먼저 이해해야해.<br>
 세이렌이 가지고 있는 '정해진 각본'을 알고 있어?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 정해진 각본…?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 즈이카쿠가 이전에 컴파일러쪽에서 봤던 '환상'에 대해 얘기한 적 있지?<br>
 …그것들은, 단순한 환상이 아니었어. 컴파일러는 그것들을 기록이라고 부르고 사실 실제로 존재하는 것들이지.<br>
 카가가 엔터프라이즈 손에 죽고, 아카기는 엔터프라이즈가 중상을 입은 뒤 스스로 침몰을 선택하고 시나노는 아처피시 손에 죽게 되지.<br>
 나와 야마토는 에식스급 함재기의 바다에 잠기고, 나가토는 프린츠 오이겐과 이글 유니온의 새러토가에 의해 즈이카쿠가 봤다는 하얀 빛 아래에서 사라지게 돼.<br>
-마카사는 이런 결말을 맞이하고 싶은 거야?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+미카사는 이런 결말을 맞이하고 싶은 거야?<br>
+<span style="color:#4eb24e;">미카사：</span><br>
 당연히 아니지!<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 아카기도 싫은 거야. 비록 그녀의 주된 목표는 아니었지만, 그녀 역시 그 기록들이 우리에게 아무런 의미가 없는 그저 환상에 불과하게 만들고 싶은 거라구.<br>
 그럼 또 다른 기록을 말해주지.<br>
 이 기록에서 아카기와 카가는 동료를 보호하기 위해 희생됐고, 나와 야마토가 뒤 따라갔어.<br>
 그대는 지원군을 위해 돌아가는 길에 죽게 되고, 시나노는 자신의 곁에서 마지막 동료까지 쓰러지는 걸 지켜보다 결국 끝없는 조수에 스스로 침몰하는 걸 선택해.<br>
 이 버전의 기록은 좀 더 나아진 것 같아?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 아니. 이것도 싫어.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 나도 그래. 그래서 나 역시 이 기록들이 우리에게 아무런 의미가 없는 그저 환상에 불과하게 만들고 싶어!<br>
 미카사, 당신의 목표는 고귀하고 행동은 올곧지.<br>
 하지만 정의로운 자는 쉽게 가시덤불에 걸리는 법이야. 무거운 짐을 지고 천리를 여행하는 것과 같다구. 만약 힘이 없다면 한 발자국도 앞으로 나아가지 못할 거야.<br>
 그대가 더 잘할 수 있다는 걸 어떻게 우리가 믿게 만들 거지?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-무사시님….<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
+무사시….<br>
+<span style="color:#4eb24e;">무사시：</span><br>
 …이건 우리가 당신에게 묻고 싶은 질문이야.<br>
 하지만 오늘 당신이 이 자리에서 답변할 필요는 없는 질문이고.<br>
 오늘 만남의 목적은 장기를 두는 것이니 오늘은 장기판에만 집중하는 걸로 하지.<br>
@@ -1210,29 +1210,29 @@
 어느덧 해가 저물었고 장기판 경기도 중반 6라운드가 끝나는 시점에 다다렀다.<br>
 5라운드에서 나가토가 준비한 사건 카드 '하늘 기원제'는 뜨겁게 달아오른 상황에 냉수를 끼얹었다.<br>
 6라운드의 사건 카드인 '하늘 기원제'는 전세를 완전히 혼란에 빠뜨렸고, 갑자기 여러곳에서 나타난 벼락 경보 구역은 각 세력들이 비상 대형으로 조정하게 만들었다.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-무사시님, 당신이 준비한 이 사건 카드, 정말 대단해….<br>
+<span style="color:#4eb24e;">미카사：</span><br>
+무사시, 당신이 준비한 이 사건 카드, 정말 대단해….<br>
 직접적인 피해를 주진 않지만 드높게 하늘 위로 치켜든 칼처럼 모든 팀을 뒤죽박죽으로 만들어 놓았어.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 말이 정확하지 않은 것 같은데? 더 확실하게 말하면 대부분이라고 표현하는 것이 맞을 것 같아.<br>
-아카기님은 결산 시에만 대미지를 줄수 있는 이 사건을 무시하고, 꿋꿋히 나가토님과의 경계선에 위치한 거점을 손에 넣는 목적을 달성했으니까.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+아카기는 결산 시에만 대미지를 줄수 있는 이 사건을 무시하고, 꿋꿋히 나가토님과의 경계선에 위치한 거점을 손에 넣는 목적을 달성했으니까.<br>
+<span style="color:#4eb24e;">미카사：</span><br>
 하지만 그 결과 벼락 구역에 있었던 진츠는 퇴장하게 됐지.<br>
 계획이 흐트러지는 것보다 선수를 포기하는 쪽이라면 득보다 실이 더 많은 거 아닌가?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 이건 장군의 판단에 따라 다르겠지. 득이 있으면 실도 있는 법이니까.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 그럼 이 판단은 좀 더 지켜봐야 할 것 같군. 어쨌든 이것이 그녀의 이번 돌격 작전의 유일한 성과네.<br>
 다음 라운드에서 봉쇄가 풀린다면 난 반대쪽 경계 거점을 손에 넣을 거야. 그렇게 되면 나와 나가토님을 떨어트려놓겠다는 그녀의 목적은 실현되지 않게 되는 거지.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그치만 지금 두 사람의 선수들은 모두 중심 구역과 굉장히 먼 곳에 와있는데?<br>
 이번 장기판 경기는 결국 승점에 따라 승패가 갈리게 돼.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
-아직 중심 구역에 대해 논하는 건 이른 감이 없지 않네, 무사시님.<br>
+<span style="color:#4eb24e;">미카사：</span><br>
+아직 중심 구역에 대해 논하는 건 이른 감이 없지 않네, 무사시.<br>
 나와 나가토님은 불리한 위치에 있긴 하지만 선수들의 상태는 아주 양호해.<br>
-반대로 당신과 아카기님의 위치는 좋지만 이미 체력을 꽤 많이 소비한 상태지. 양산형 함대는 대부분 고갈되고, 선수들은 크고 작은 피해를 입은 상태야.<br>
+반대로 당신과 아카기의 위치는 좋지만 이미 체력을 꽤 많이 소비한 상태지. 양산형 함대는 대부분 고갈되고, 선수들은 크고 작은 피해를 입은 상태야.<br>
 아무리 강한 전력이라도 결국엔 힘이 고갈되는 법. 반대로 우린 이제 제대로 전투를 시작할 생각이거든.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 만약 당신과 나가토님의 연합이 당신의 계획대로 움직일 수만 있다면 그렇겠지만.<br>
 나가토님이 계속 이런 전략을 고수한다면 결과는 말하기 어렵지 않을까?<br>
 신념은 실력으로 지켜내야 한다고. 순진한 건지 아니면 믿음이 확고한 건지… 어느 쪽이 맞는지 그럼 한번 확인해볼까.<br>
@@ -1244,25 +1244,25 @@
 이렇게 되면 나가토의 신념도 깨지게 되겠지.<br>
 원래 같았으면 그녀는 충분히 이걸 막을 수 있었겠지만 압타깝게도 그녀는 아까 이미 힘을 모두 다 사용해버렸어.<br>
 정말 아쉽게 됐네. 당신이 이 일을 막지 않는다면 방법이 없겠어.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 무사시, 이런 교묘한 방법으로 내가 경기장 안으로 들어갈 수밖에 없게 만드는군.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 그럴 리가~ 내 말동무는 이제 당신뿐인걸? 당신까지 내려가게 된다면 난 혼자 말도 못한 채 그저 묵묵히 장기를 둬야 한다고?<br>
 경기장 안으로 들어가지 않아도 돼. 당신도 결국 나가토의 전략에 완전히 동의하진 않잖아.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 글쎄, 그거랑은 다른 얘기라서.<br>
 여기서 대화를 나누면서 장기판 두는 건 굉장히 즐거운 일이지만 후배를 지켜주고 성장하게 만들어주는 것도 선배가 응당 해야할 일.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 방패는 수비에 용이하지만 검 또한 수비가 가능하지.<br>
 나가토는 방패를 선택하고, 아카기는 검을 선택했는데, 당신은 어떻게 할 거야?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 이 질문은 먼저 당신의 대답을 듣고 싶은데?<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 만약 그대가 이긴다면, 내 대답을 알려줄게.<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 이 말을 들은 이상, 더더욱 정신 차려야겠는걸? 보다 더 진지하게 경기에 임해야겠군.<br>
-그럼 난 먼저 가볼게. 혼자 심심하다면 무사시님도 빨리 내려오도록 하라고.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+그럼 난 먼저 가볼게. 혼자 심심하다면 무사시도 빨리 내려오도록 하라고.<br>
+<span style="color:#4eb24e;">무사시：</span><br>
 하핫, 조심해~<br>
 {{折叠面板|内容结束}}
 
@@ -1292,19 +1292,19 @@
 쳇… 도발 실패. 그럼 어서 덤벼보시지 말임다——<br>
 <br>
 하구로, 사카와, 미유키 세 사람이 준비를 마치고 자신을 향해 다가오는 칼과 포화를 겸허히 받아드리려는 그때——<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 그만, 여기까지——<br>
 <br>
 멀리서 들려오는 우렁찬 목소리와 함께 세 사람 주위로 붉은색 고리 모양이 나타났다.<br>
-<span style="color:#4eb24e;">{namecode:226}：</span><br>
+<span style="color:#4eb24e;">사카와：</span><br>
 에… 주포 작동 실패잖아…? 이렇게 중요한 순간에 고장이 난 건가!?<br>
-<span style="color:#4eb24e;">{namecode:65}：</span><br>
+<span style="color:#4eb24e;">하구로：</span><br>
 난 검도 아직 못 뽑았단 말임다….<br>
-<span style="color:#4eb24e;">{namecode:5}：</span><br>
+<span style="color:#4eb24e;">미유키：</span><br>
 미유키도 마찬가지야…. 이 붉은색 고리에 금지 표시가 떠있어. 어쩌면 이게 우리의 무기를 무력화시킨 걸지도….<br>
-<span style="color:#4eb24e;">{namecode:65}：</span><br>
+<span style="color:#4eb24e;">하구로：</span><br>
 그러고보니 방금 그 목소린… 설마 대선배님임까?<br>
-<span style="color:#4eb24e;">{namecode:82}：</span><br>
+<span style="color:#4eb24e;">미카사：</span><br>
 하하, 여러분 안녕.<br>
 <br>
 하구로와 미유키가 소리가 나는 쪽을 돌아보자 멀지 않은 곳에서 미카사가 수면 위로 천천히 달려오고 있다.<br>
@@ -1404,7 +1404,7 @@
 <br>
 나가토가 미카사의 방향을 바라본 뒤 다소 머뭇거리며 통신기를 켰다.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
-미카사, 저 거점은 그대가 일부러 내게 남겨준 건가?<br>
+미카사님, 저 거점은 그대가 일부러 내게 남겨준 건가?<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 맞아.<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
@@ -1539,34 +1539,34 @@
 후후후, 이래야 클라이막스에 걸맞는 전투죠! 그럼 제가 화려하게 당신을 파괴해주도록 하겠습니다!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=뻐꾸기는 노래하지 않는다.|选项=24|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=뻐꾸기는 노래하지 않는다|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 조금 전 응접실——<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 미카사… 나가토에게 1위 자리를 내주려고 하다니.<br>
 <br>
 테이블 위에 세 잔의 차는 여전히 따뜻했지만 응접실은 한산하기 그지없었다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 좀 더 대단한 포부를 보여줄거라고 예상했는데….<br>
 <br>
 무사시가 눈살을 살짝 찌푸린다. 멀리서 들려오던 익숙한 새소리가 점점 가까워지더니 무사시의 어깨에 가볍게 내려앉았다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 또 네 녀석인 거니? 다른 곳에 가서 비를 피하라고 했거늘.<br>
 폭풍이 이렇게 가까워졌는데도 아직도 이 근처를 서성이고 있다니… 그래, 이곳에 남고 싶으면 그렇게 하렴.<br>
 <br>
 제비가 마치 매우 만족스러운 대답이라는 듯 몇 번 가볍게 소리를 냈다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 너 이 녀석, 정말 재밌구나…. 그럼 제비야, 제비야. 널 한번 시험해 봐도 되겠니?<br>
 너가 보기엔 이번 장기판 경기에서 누가 이기고, 누가 질 것 같니?<br>
 <br>
 제비는 마치 알아들은 것 마냥 고개를 기울인 채 테이블을 응시했다. 그리곤 고개를 저으며 계속해서 깃털을 정리했다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 역시… 하하, 그렇지, 내가 너무 어려운 질문을 했구나.<br>
 <span style="color:#4eb24e;">통신기：</span><br>
 띠—— 띠—— 띠———<br>
 <br>
 무사시 옆에 있는 통신기가 갑자기 세 번 울리더니 다시 조용해졌다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 7라운드가 아직 끝나지도 않았는데, 기다리기 힘든 사람이 있나보군.<br>
 하하, 좋아. 그럼 이제부터 오늘의 하이라이트를 시작해볼까.<br>
 약속대로 오늘 화려한 무대 정중앙에 널 서게 해줄게. 사쿠라 엠파이어의 모든 스포트라이트는 너의 몫이니까.<br>
@@ -1664,7 +1664,7 @@
 <br>
 장기판 경기장·나가토 통제 구역 8라운드<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
-이제부터 우린 미카사와 협력한다. 승리를 위해 동시에 다른 전략을 실행하는 걸로 결정했다.<br>
+이제부터 우린 미카사님과 협력한다. 승리를 위해 동시에 다른 전략을 실행하는 걸로 결정했다.<br>
 중심 구역의 쟁탈과 아카기, 무사시를 향한 견제는 미카사 팀에 맡기고,<br>
 그 동안 우린 전력을 다해 아직 점령되지 않은 작은 거점을 공략한다.<br>
 서로 싸우지 않는 길을 선택한 이상, 끝까지 흔들리지 않고 걸어갈 생각이야.<br>
@@ -1698,10 +1698,10 @@
 <span style="color:#4eb24e;">{namecode:103}：</span><br>
 효과가 좀 복잡해…. 이번 라운드의 조작이 다음 턴에 영향을 주는 것 같아. 공격 혹은 이동 시 다음 라운드에서 각각 다른 효과를 얻을 수 있대….<br>
 <span style="color:#4eb24e;">와카츠키：</span><br>
-사카와, 치요세. 제겐 거점 IJ7을 공격하라는 명령이 들어왔어요. 그럼 전 먼저 가보겠습니다~<br>
+사카와, 치토세. 제겐 거점 IJ7을 공격하라는 명령이 들어왔어요. 그럼 전 먼저 가보겠습니다~<br>
 <span style="color:#4eb24e;">사카와：</span><br>
 제가 받은 지령은… 좀 이해가 안되는데.<br>
-…………{namecode:5}。<br>
+…미유키.<br>
 <span style="color:#4eb24e;">미유키：</span><br>
 응, 왜?<br>
 <span style="color:#4eb24e;">사카와：</span><br>
@@ -1709,7 +1709,7 @@
 <span style="color:#4eb24e;">미유키：</span><br>
 아무래도 그런 것 같네….<br>
 <span style="color:#4eb24e;">사카와：</span><br>
-미안해요. 무사시님의 명령이에요. 치요세와 함께 당신을 공격하라는 명령이 떨어졌어요.<br>
+미안해요. 무사시님의 명령이에요. 치토세와 함께 당신을 공격하라는 명령이 떨어졌어요.<br>
 <span style="color:#4eb24e;">미유키：</span><br>
 에…? 우리 서로 연합 관계였던 거 아녔어!?<br>
 <span style="color:#4eb24e;">사카와：</span><br>
@@ -1841,7 +1841,7 @@
 그 시각, 응접실——<br>
 천둥이 치고 폭우가 쏟아지고 있다.<br>
 무사시는 불을 켜지 않은 채 그저 조용히 점점 더 어두워지는 응접실에 앉아 장기판을 주시하고 있다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 당신의 지혜로 이미 아카기의 의도를 눈치챘을 테죠….<br>
 하하, 맞아. 퇴장하는 선수가 많아질수록 아카기는 더욱 강해지지.<br>
 지금 벌써 5명이 퇴장 당했는데, 계속 이렇게 가다간 아주 끔찍한 일이 일어날 수도 있다구.<br>
@@ -1851,7 +1851,7 @@
 무사시가 던진 지휘 카드는 장기판 경기장에서 날카로운 칼로 변하고 카와카제가 있는 곳을 향해 내리꽂아졌다.<br>
 곧이어 치토세의 위치에서 함재기 한 대가 나타나더니 카와카제를 향해 맹렬한 폭격을 퍼부었다.<br>
 섬광이 지나간 후 카와카제가 장기판에서 사라졌다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 이렇게 6명이 퇴장하고 말았네. 아쉽게도, 그대는 막지 못했어….<br>
 그럼 이제 사카와를 중앙 거점 통제 구역으로 보내볼까.<br>
 다음은 나가토 쪽… 와카츠키가 작은 거점을 한번 더 공격하게 명령했지.<br>
@@ -1899,7 +1899,7 @@
 후후, 모든 준비는 끝났으니 이제 마지막 총공격으로 넘어가볼까요~<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=낙숫물이 댓돌을 뚫는다.|选项=32|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=낙숫물이 댓돌을 뚫는다|选项=32|主框=1|样式=primary|展开=是}}
 <br>
 장기판 경기장·미카사&나가토 통제 구역 제10 라운드<br>
 <span style="color:#4eb24e;">키누：</span><br>
@@ -1925,7 +1925,7 @@
 응, 아카기는 이미 중앙 거점을 공격하기 시작했으니 치토세 혼자 싸우는 건 의미 없어.<br>
 단지 무사시쪽이… 하, 항상 마지막 차례라 판단하기 어렵네….<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
-미카사, 그대가 계획을 세우면, 난 최선을 다해 협력할 거야.<br>
+미카사님, 그대가 계획을 세우면, 난 최선을 다해 협력할 거야.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 좋아. 그럼 내 분석과 계획에 대해 이야기 해볼게.<br>
 지금은 10라운드 중반까지 온 상태야. 장기판 경기는 12라운드에서 종료될 거고 아카기가 중앙 거점을 공격하기 시작한 이상 다시 우리와 싸우러 오지 않을 거야.<br>
@@ -2033,7 +2033,7 @@
 <span style="color:#4eb24e;">미카사：</span><br>
 아니. 자신이 이길 수 없다는 걸 깨닫고는 최후의 힘을 다해 아카기가 이길 수 있는 기회를 만들어 놓고 떠난 거야….<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
-미카사, 우리에겐 아직 기회가 있다. 만약 내가 먼저 무사시의 거점을 점령한다면 22점이 되고, 아카기가 획득할 수 있는 최대 점수는 21점이지.<br>
+미카사님, 우리에겐 아직 기회가 있어. 만약 내가 먼저 무사시의 거점을 점령한다면 22점이 되고, 아카기가 획득할 수 있는 최대 점수는 21점이지.<br>
 아니… 그렇게 오래 걸리지 않을 거다. 만약 내가 무사시의 작은 거점을 손에 넣을수 있다면 17점이 될 테고 그 후엔 아카기가 중앙 거점을 손에 넣는다고 해도 소용 없어져.<br>
 남은 시간이 얼마 없으니 그녀 역시 지금은 동시에 여러곳에서 움직일 수 없을 터!<br>
 <span style="color:#4eb24e;">하구로：</span><br>
@@ -2078,12 +2078,12 @@
 이곳은 사쿠라 엠파이어의 성지이자 존귀한 사람의 거처이다.<br>
 웅장한 성의 천수각에는 흑발의 미녀가 홀로 먼 곳을 바라보고 있다.<br>
 번갯불이 먹구름을 가르며 그녀를 비추고 나무 바닥에 가느다란 옅은 그림자가 드리운다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 승부가 결정난 것 같네….<br>
 <br>
 창밖에는 비바람이 요란한 소리를 내고 집 안에 있던 제비는 자취를 감춘 후였다.<br>
 비를 피할 더 좋은 곳을 찾았을 수도, 눈앞의 갑작스러운 변화에 겁을 먹었는지도 모른다.<br>
-<span style="color:#4eb24e;">{namecode:84}：</span><br>
+<span style="color:#4eb24e;">무사시：</span><br>
 '달 저편의 꽃', 아카기는 자신의 퍼포먼스를 위해 슬프고 로맨틱한 이름을 준비했구나.<br>
 미카사, 다음 라운드에서 나가토와 함께 아카기에게서 승리를 빼앗고 싶겠지?<br>
 하지만 아쉽게도 일식은 행운을 사라지게 만들지. 무기는 먹통일 테고, 폭격은 일어나지 않을 거야. 결과는 이미 정해졌어.<br>
@@ -2112,7 +2112,7 @@
 <br>
 아카기는 쓰러진 허밋을 향해 천천히 다가가 아비터 함장의 제등을 제거했다.<br>
 제등 위론 이전 전투에서 주변을 맴돌던 위험한 빛이 사라진 상태였고, 남아있는 건 고철 더미뿐이었다.<br>
-<span style="color:#ff9900;">{namecode:91}：</span><br>
+<span style="color:#ff9900;">아카기：</span><br>
 후후후후, 결국 당신도 이 정도 밖에 안되네요.<br>
 맞아요. 쓰레기 더미 속에 폐기물처럼 쌓여 있는 거야말로 세이렌에게 가장 잘 어울리는 결말이니까요.<br>
 날 조종하려고 하다니, 이정도 실력 가지곤 택도 없답니다~ 하하하하하~<br>
@@ -2134,7 +2134,7 @@
 <br>
 아카기가 탑을 향해 제등을 들어올린다. 완전히 종료되지 않은 채 옆에 쓰러져있는 아비터는 더 이상 쳐다보지 않았다.<br>
 탑에서 뿜어져나오는 에너지는 크리스탈 표면에 의해 오색찬란한 무지개 빛을 만들어냈다.<br>
-<span style="color:#4eb24e;">{namecode:91}：</span><br>
+<span style="color:#4eb24e;">아카기：</span><br>
 …후후후후, 비스마르크도 겁쟁이에 불과하다니까요.<br>
 당신이 하지 못한 일을 제가 해줄게요. 당신이 받아들이지 못한 힘은, 제가 받아들이겠어요.<br>
 전 이 힘을 받아들이고 사쿠라 엠파이어가 올바른 자의 손에 전달될 때까지 계속해서 사쿠라 엠파이어를 이끌고 전진할 거예요.<br>
@@ -2156,13 +2156,13 @@
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 응, 시간 있으면 자주 놀러오렴.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
-무사시님, 어째서 오늘 작별 인사에는 아카기와 카가가 오지 않은 거야? 승리한 뒤에 이렇게 조용하다니 평소의 그들 답지 않은데.<br>
+무사시, 어째서 오늘 작별 인사에는 아카기와 카가가 오지 않은 거야? 승리한 뒤에 이렇게 조용하다니 평소의 그들 답지 않은데.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 그게… 어젯밤 무슨 일이 생긴 것 같아. 연락을 받은 두 사람이 밤 늦게 급히 떠났거든.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 폭우를 뚫고 바로 떠났다고…? 별일 없었으면 좋겠네.<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-그러게…. 아쉽게도 아카기님이 너무 급히 떠나는 바람에 무슨 일이 일어난 건지 물어보지도 못했어.<br>
+그러게…. 아쉽게도 아카기가 너무 급히 떠나는 바람에 무슨 일이 일어난 건지 물어보지도 못했어.<br>
 미카사님과 나가토님은 며칠 더 머물다 갈래?<br>
 장기판 경기장 외에도 재미난 놀이가 많은데.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
@@ -2172,7 +2172,7 @@
 <span style="color:#4eb24e;">나가토 ：</span><br>
 아직도 기억하고 있었군…. 그럼 그대의 연락을 기다리고 있지.<br>
 무사시, 그럼 이만.<br>
-미안…. 미카사, 이전에 당신과 얘기했던 계획대로 행동하지 않았다.<br>
+미안…. 미카사님, 이전에 당신과 얘기했던 계획대로 행동하지 않았어.<br>
 <span style="color:#4eb24e;">미카사：</span><br>
 나가토님 같은 분도 장기판 경기 한판에 이렇게 연연한 줄은 몰랐는데?<br>
 <span style="color:#4eb24e;">나가토 ：</span><br>
