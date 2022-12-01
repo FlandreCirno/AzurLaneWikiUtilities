@@ -46,7 +46,7 @@
 <span style="color:#4eb24e;">卡菈·伊迪亞斯：</span><br>
 嗯，那吾就換個問題吧。汝剛才提到的“妳們”，除了妾身之外 ，還有誰之後會被捲進來嗎？<br>
 <span style="color:#4eb24e;">淨化親：</span><br>
-唔……我記得之前看數據庫的時候，除了你之外還有五個人！萊莎、科洛蒂亞、派翠夏、莉拉、賽莉……嗯，沒記錯！<br>
+唔……我記得之前看數據庫的時候，除了妳之外還有五個人！萊莎、科洛蒂亞、派翠夏、莉拉、賽莉……嗯，沒記錯！<br>
 <span style="color:#4eb24e;">卡菈·伊迪亞斯：</span><br>
 ……什麼？！居然是萊莎她們……呵呵，這還真是，估計她們做夢也不會想到會以這種形式捲入冒險之中吧。<br>
 <span style="color:#4eb24e;">淨化親：</span><br>
@@ -96,14 +96,14 @@
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 哇哦……原來如此，真是一段充滿傳奇色彩的經歷呢！<br>
 我從其中感受到了新聞的氣息……調查員布里斯托爾，妳怎麼看？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 順著熟悉的航線出海，但是越走越遠，直到來到了陌生的地方……毫無疑問，這是一場異常迷航事件！<br>
 而這一切的罪魁禍首……雖然我沒有經過調查無法得出結論，不過恐怕其名為——<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 嗯嗯，罪魁禍首的名字其實是————<br>
 <span style="color:#4eb24e;">阿爾弗雷多&布里斯托爾：</span><br>
 是塞壬吧！ 克塔亞特！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 欸，阿爾弗雷多太沒有想像力了！如果是塞壬做的未免也太普通了，一點都沒有那種驚悚的氛圍……<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 不不不……新聞記者是要對報導的真實性負責的！<br>
@@ -119,13 +119,13 @@
 鍊金術？那不是小說裡才存在的魔法嗎，而且塞壬也不是可可愛愛的鍊金人偶，而是帶著巨炮和魚雷的海洋殺手哦。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 ……原來如此，不過鍊金術是存在的哦，我萊莎琳·斯托特就是一名如假包換的鍊金術士！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 哎！？！真的嗎！妳真的是鍊金術士嗎？！妳能點石成金嗎，能創造出賢者之石嗎？！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 ……點石成金？賢者之石？<br>
 如果是指改變金屬的材質來創造出新的金屬這樣的事情，是能做到的哦！<br>
 雖然不太清楚妳說的賢者之石和我知道的是不是一樣的啦，如果是一樣的話，大概也能用鍊金術製作出來？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 太……太厲害了。阿爾弗雷多妳聽到了嗎，我們遇到了貨真價實的鍊金術士欸！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 嗯…………如果萊莎說的話是真的的話，恐怕石碑上「遠方而來的旅人」就是字面意思……我們又遭遇到異世界的訪客了。<br>
@@ -153,7 +153,7 @@
 不用客氣，大家都是受到塞壬波及而被困在這裡的，理應相互幫助才是~<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 沒想到已經有人比我先到了啊。諸位貴安，我也帶著一位迷失在這裡的小姐回來了哦。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 初次見面，我的名字叫派翠夏·阿貝爾海姆，是一名王都的貴族……萊莎和科洛蒂亞小姐！？妳們兩人也來這裡了嗎！？<br>
 對、對不起、我稍微有點驚訝過度了……真的非常感謝大家出手相助。<br>
 <span style="color:#4eb24e;">可畏：</span><br>
@@ -162,22 +162,22 @@
 真沒想到，帕蒂也被捲進來了啊……<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 來的路上沒受傷吧，派翠夏小姐？<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 沒事沒事，我是在毫無察覺的情況下不知怎麼就從自己的房間來到這片海灘的，然後剛好遇到了正在海邊搜尋的可畏小姐。<br>
 兩位也是一樣的嗎？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 是的，我也是在跟妳差不多的狀態下來到這裡的……噗，總感覺剛剛才對科洛蒂亞說過相同的話。<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 沒想到在王都的分別之後，我們會這麼快以這種方式再次見面呢。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 是啊……令人激動又……有些困惑。歸根究底，這裡究竟是什麼地方呀？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 聽碧藍航線的同伴們說，這裡好像是異世界哦，我們是被一種名為“塞壬”的機械生命體出於某些未知的原因帶過來的。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 ……異世界？塞壬？機械生命體……？稍等一下萊莎……我需要消化吸收一下這些情報……<br>
 <br>
 轟—————————！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 ……剛剛好像是爆炸的聲音……有人在附近使用炸藥？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 或者在用炸彈進行戰鬥……！難道說還有其他人也被捲進來了嗎？！<br>
@@ -185,7 +185,7 @@
 不對不對，那個不是炸藥也不是炸彈，是駿河閣下主炮開火的聲音！傳來的方向也是駿河閣下去調查的位置！<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 ……也許是遭受到塞壬的伏擊了，布里斯托爾留在這裡保護客人們，阿爾弗雷多、島風和我一起去支援駿河。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 了解，大家請跟我來去更安全的地方吧~<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 如果可以的話，請讓我們也一起去參與支援吧！<br>
@@ -196,7 +196,7 @@
 應該沒問題！畢竟我們經歷過好幾個了不起的大冒險，也打倒過“蝕之女王”這樣厲害的魔物哦！<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 在和萊莎一起經歷了許多冒險之後我也成長了很多，一定能幫上各位的忙的！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 援護同伴，義不容辭。<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 ……這件事確實也不算與妳們毫無關係。既然如此，布里斯托爾，用妳的量產型帶著萊莎她們，其他人隨我出發！<br>
@@ -233,7 +233,7 @@
 轟—————————！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 剛剛被消滅的就是最後一個敵人了，兩位都沒受傷吧？<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 沒問題，多謝關心。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 嗯，沒問題。雖然我也有過與巨大敵人戰鬥的經歷，但是像這樣自由馳騁在海面之上……駿河小姐無疑一名十分頂尖的戰士啊。<br>
@@ -245,15 +245,15 @@
 莉拉小姐和賽莉小姐！沒想到妳們也被捲進來了！<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 好久不見了，莉拉小姐，賽莉小姐。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 貴安，莉拉小姐，賽莉小姐。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 萊莎、科洛蒂亞、派翠夏，我們在奇怪的地方相遇了呢。<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 ……好久不見。萊莎，這裡是某個異世界吧。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 好像是這樣的……賽莉小姐已經理解現狀了嗎？！<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 還沒有……我只是從空氣中感受到了完全不同的氣息而已。<br>
 看來這個判斷不錯呢。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
@@ -261,12 +261,12 @@
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 碧藍航線，艦船，鏡面海域，塞壬……都是些沒有聽說過的詞彙啊。<br>
 不過這樣一來，我也就大概理解我們現在面臨的處境了。<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
-……如果這裡是異世界的話，可畏，你們要小心，從剛才的敵人中我感受到了菲爾弗薩的氣息。<br>
-也許它們也用和我們相似的方法來到你們的世界了。<br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
+……如果這裡是異世界的話，可畏，妳們要小心，從剛才的敵人中我感受到了菲爾弗薩的氣息。<br>
+也許它們也用和我們相似的方法來到妳們的世界了。<br>
 <span style="color:#4eb24e;">可畏：</span><br>
-菲爾弗薩……是指在原本的世界裡與你們一直戰鬥的敵人嗎？<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+菲爾弗薩……是指在原本的世界裡與妳們一直戰鬥的敵人嗎？<br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 一直戰鬥這個描述不太精確，不過簡略來說的話，意思也不錯。<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 那些菲爾弗薩是生物，而不是機器對吧？<br>
@@ -276,7 +276,7 @@
 關於這一點的話，在剛剛各位聊天的時候我去檢查了一下敵人的殘骸。<br>
 那些應該是塞壬在獲取了妳們世界的菲爾弗薩的情報之後，以此為基礎生產出來的特殊量產型。<br>
 是機器，而不是生物。菲爾弗薩這一生物本身應該並沒有被塞壬一同帶來。<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 如果是這樣的話……很好。<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 抱歉打斷一下諸位的聊天，請聽我說~！現在天色漸暗，周圍又是一片廢墟，實在不是久留的好選擇。<br>
@@ -286,7 +286,7 @@
 島風十分贊成阿爾弗雷多閣下的提議，其實島風的肚子已經要餓扁了……<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 享用異世界的美食嗎？！聽起來真不錯欸……那就出發吧~我也有些餓了，而且也還有好多問題要問呢！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 哼哼，我已經把筆記本準備好了，讓我們在宴會中破解這個巨大的謎團吧！<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 既然如此，那阿爾弗雷多就請帶路吧。<br>
@@ -346,19 +346,19 @@
 <br>
 獲得道具：「遺跡之鑰·起始之地」<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
-不過可畏，妳的偵察確定沒錯嗎？萊莎剛說石碑上寫了有五個島，你只看到了四個島哦。<br>
+不過可畏，妳的偵察確定沒錯嗎？萊莎剛說石碑上寫了有五個島，妳只看到了四個島哦。<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 這一點確實很奇怪，但是偵察的結果絕對沒錯，也許塞壬在海域裡還有什麼機關吧。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 嗯嗯嗯……這樣也和“失落之都”的描述對上了。而且從碑文上來看，這個失落之都裡可是隱藏著寶藏哦！<br>
 我已經忍不住要開始遺跡探險了！讓我們先去尋找這個失落之都吧！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 等等！我對於那個“爭鬥之城”很有興趣，裡面隱藏著往昔的殘酷真相哦，妳們難道不好奇嗎！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 當然是寶藏的部分最令人在意！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 不，真相的部分才最令人在意！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 大家好像對於探索的方向產生分歧了呢……<br>
 <span style="color:#4eb24e;">島風：</span><br>
 不對不對，布里斯托爾閣下，阿爾弗雷多閣下，鍊金術的部分才最讓人在意吧！<br>
@@ -385,7 +385,7 @@
 <br>
 遺跡群島·起始之地<br>
 <span style="color:#4eb24e;">可畏：</span><br>
-萊莎小姐，妳在看什麼呢？找到什麼有趣的東西了麼？<br>
+萊莎小姐，妳在看什麼呢？找到什麼有趣的東西了嗎？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 唔…………這株植物，妳覺得怎麼樣？<br>
 <span style="color:#4eb24e;">可畏：</span><br>
@@ -397,13 +397,13 @@
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 哇哦！難道是遺跡柱嘛？看我用手杖把它們全部打碎掉！<br>
 還有那邊的碎石也是，能拜託布里斯托爾幫我收集一下嗎，我想都是之後要用到的素材哦~<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 這些石頭……難道蘊含有什麼奇特的魔力嗎？！莫非是什麼超稀有的礦石？！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 不……那些只是普通的石頭而已。<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
-哼哼哼，我已經完全理解了！看啊看啊，我剛剛抓到的這只蜘蛛也是素材吧！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+哼哼哼，我已經完全理解了！看啊看啊，我剛剛抓到的這隻蜘蛛也是素材吧！<br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 蟲、蟲子……？請不要拿著它靠近我，謝謝！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 啊哈哈……帕蒂還是一樣不擅長應對蟲子呢。<br>
@@ -419,7 +419,7 @@
 不過這樣一來補充淡水就很方便了！不但能解決喝水的問題，而且水是素材！<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 連水也是鍊金素材嗎……？<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 沒錯哦，似乎還是一種用途很廣泛的素材。<br>
 雖然我一直堅持水這種素材可以直接從店裡買而不是從野外千里迢迢收集回去就是了……<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
@@ -435,14 +435,14 @@
 獲得道具：「中和劑·紅」<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 ……這就是鍊金術。明明投入的是完全不相干的材料，為什麼能變成這種東西呢？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 毫無疑問……這是真正的未知，是跨越次元而來的奇蹟之術！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 不光是奇怪的液體……就連外面的玻璃瓶也一同作為整體誕生了……這可真是，令人震驚！<br>
 咔嚓——咔嚓——珍貴照片“正在進行鍊金操作的鍊金術師”拍攝完畢！回頭一定要讓達文西和托里切利也看一看！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 說起來 ，剛才科洛蒂亞找到的“艦裝設計配方”……<br>
-這大概就是石碑裡說的新的力量了吧……等到完成之後，也許我們就能和你們一樣在海面上戰鬥了！<br>
+這大概就是石碑裡說的新的力量了吧……等到完成之後，也許我們就能和妳們一樣在海面上戰鬥了！<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 真的嗎！？我能派上用場真是太好了！<br>
 <span style="color:#4eb24e;">島風：</span><br>
@@ -461,7 +461,7 @@
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 不不不……說明它們肯定有陰謀吧……！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
-居然會是這樣嗎？！可是駿河小姐你看，艦裝的調和已經完成了哦……對不起！<br>
+居然會是這樣嗎？！可是駿河小姐妳看，艦裝的調和已經完成了哦……對不起！<br>
 <br>
 伴隨著調和的完成，鍊金鍋中出現了一陣耀眼的光芒。光芒散去後，一身鍊金術士風格的艦裝出現在了萊莎身上。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
@@ -512,7 +512,7 @@
 遺跡群島·起始之地<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 艦裝實驗完畢，大量炸彈製作完畢！終於到開始正式探險的時間啦~！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 那麼問題又回來了……接下來去哪個地方呢？<br>
 <span style="color:#4eb24e;">島風：</span><br>
 如果難以抉擇的話，分頭行動怎麼樣？<br>
@@ -537,7 +537,7 @@
 沒想到，居然是以這種方式再次跟萊莎一起冒險了呢~<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 是啊，還遇到了新的冒險夥伴。雖說這次異界之旅與探索秘密相比更像是一場自我救援啦……<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 哼哼，沒有秘密的遺跡是不存在的！旅途的結果雖然重要，過程也不容忽視~<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 沒錯沒錯，就是這樣~<br>
@@ -557,16 +557,16 @@
 其實，莉拉小姐和賽莉小姐的故鄉——歐蘭族的故鄉，也就是我們稱之為異界的地方，在遙遠的過去可是一片山清水秀風景如畫的地方。<br>
 但是在很久很久以前，一些很壞的鍊金術士找到了前往異界的方法，然後開始掠奪異界貴重的資源。<br>
 這樣無休止掠奪資源的行為最後引來了名叫菲爾弗薩的魔物，在它們的侵略之下，異界最終荒廢了。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 將別人的家園破壞成這個樣子，真是太壞了！ ！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 被鍊金術士毀滅了……？欸，這樣的話歐蘭族應該相當恨鍊金術師吧，那萊莎小姐……<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 我知道妳想說什麼。人有好有壞，鍊金術師也一樣。技術，終究取決於使用的人。<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 ……萊莎和那些人不一樣，是一個好人。幫助過我們，也願意用鍊金術去做正確的事。<br>
 因此，我願意相信她。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 簡直就像冒險故事的主人公一樣……好厲害啊，萊莎小姐！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 哎嘿嘿……我不過是把鍊金術用在我覺得好的地方啦。<br>
@@ -576,7 +576,7 @@
 ……發生什麼事了？！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 小心，有敵人在接近。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 是和之前那些像菲爾弗薩一樣的名為量產型的軍艦敵人嗎？<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 不僅如此……除了它們，還有新的敵人出現了！準備戰鬥！<br>
@@ -587,17 +587,17 @@
 轟————————！<br>
 <span style="color:#4eb24e;">島風：</span><br>
 島風，完成了最後一擊！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 好厲害……雖然身材和我相仿，但是居然有這等技藝…看來我還有很多需要學習的地方呢。<br>
 <span style="color:#4eb24e;">島風：</span><br>
 嘿嘿，派翠夏閣下要是想要切磋的話隨時奉陪哦。<br>
 不過能夠如此在水上移動，艦裝的功勞也不可小覷。等找到圖紙之後，派翠夏小姐說不定也能有一套呢哦。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 我也能有一套……就像萊莎那樣嗎？那還真是……很令人期待呢！<br>
 對了島風小姐，如果不介意的話，叫我帕蒂就好。<br>
 <span style="color:#4eb24e;">島風：</span><br>
 哦哦——帕蒂閣下嗎，我明白了~<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 ……帕蒂就可以了哦。<br>
 <span style="color:#4eb24e;">島風：</span><br>
 欸欸欸——是！<br>
@@ -616,7 +616,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 ……原來如此。和菲爾弗薩一樣，塞壬也根據在群體中的功能將個體劃分入不同的系統啊。<br>
 而且和菲爾弗薩一樣，被打倒了將軍後會戰鬥力就會削弱，被打倒了女王之後軍隊就會瓦解。<br>
 妳們這邊的塞壬就是在發現了這種相似性之後，才進行這種融合實驗嗎？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 是一個值得記錄的推測，背後也許會牽扯出一個驚人的塞壬陰謀呢！得記入筆記，等空下來之後好好調查一番才行~<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 ……還是先著眼於眼前的事吧，布里斯托爾。<br>
@@ -628,7 +628,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 遺跡群島·異界之森<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 賽莉小姐，妳在草地上發現什麼了嗎？<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 我在檢查森林中的植物。<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 檢查植物……？<br>
@@ -639,7 +639,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 嗯……倒也不是那麼具體的東西啦，怎麼說呢……<br>
 比如賽莉小姐一直在找具有淨化功能的植物。怎麼樣，賽莉小姐，有什麼發現嗎？<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 ……實際看了之後，我確信了。<br>
 這些植物只是徒有其表的仿製品而已，什麼也感覺不到。其實沒有生命，也不會生長。究竟能不能算植物還不好說，<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
@@ -649,7 +649,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 這種感覺……嗯，這些植物可以當成素材使用！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 欸？！！要把這些假植物扔到大鍋裡去嗎？！<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 呵呵……<br>
 萊莎就連塞壬製作出來的異世界素材也能用在鍊金術裡呢。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
@@ -706,7 +706,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 遺跡群島·起始之地 萊莎的臨時鍊金工房<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 這樣一來，新獲得的配方就全部調和完畢了……感覺怎麼樣，賽莉小姐，莉拉小姐？<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 ……對於戰鬥十分有幫助。既然是萊莎的好意，我就收下了。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 有點像盔甲與武器的結合體，但是沒有沉重感或者異物的感覺，就像身體的一部分一樣。<br>
@@ -726,11 +726,11 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 呼呼呼，正如碑文所言「東方為爭鬥之城，埋葬往昔殘酷的真相」。<br>
 埋葬的真相就由我調查出來！我有種預感，接下來會是阿爾弗雷多的主場了！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 不不不，調查真相是調查員的職責吧，接下來是我的主場才對！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 哦？那要來比比看嗎，是我這個記者厲害，還是妳這個調查員厲害！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 比就比！就比看誰最先調查出真相好了！<br>
 <span style="color:#4eb24e;">島風：</span><br>
 布里斯托爾閣下，阿爾弗雷多閣下，島風也想加入比賽！<br>
@@ -745,7 +745,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 等等~如果要論從遺跡之中調查失落的真相，我也是不會輸的哦！<br>
 所以這場競賽也讓我參加一下吧！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 哼哼哼，經驗豐富的鍊金術士也要加入比賽嗎！事情變得越來越有趣了！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 那就讓我們一起向著爭鬥之城出發吧！第一輪比賽，先到的人勝！<br>
@@ -763,16 +763,16 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <br>
 遺跡群島·爭鬥之城 一段時間後<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
-妳們發現了妳，天空的顏色改變了哦。<br>
+妳們發現了嗎，天空的顏色改變了哦。<br>
 剛剛還是一望無際的藍天，轉眼間就變成了灰濛濛的顏色。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 真的哎，就連水面的顏色也變得灰濛濛起來了。<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 這個景象，我總感覺像是加了一層濾鏡的鏡頭一樣。讓我後退回去看看——<br>
 哇哦，只要向後走，天空和水面的顏色就變回去了！<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 真的嗎？我也試試看！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 我也……（後退，後退）<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 真的欸……好像這座橋就是分界線，一邊是藍天白雲，一邊卻是昏沉的霧靄。<br>
@@ -785,7 +785,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 其實是需要更謹慎的……算了。<br>
 妳們不是還要比賽嗎？快點找到需要的東西，然後早點離開這片危險的地方吧。<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 這片土地，和之前遇到的森林不一樣……<br>
 殘骸已經有些年頭了，也許和海域本身一樣久遠。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
@@ -799,7 +799,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 嗯，這就是一直以來我們與塞壬的戰鬥。<br>
 不過大多數時候相比我們受到損失，把塞壬打成殘骸的情況更多就是啦，就跟現在這種情況一樣~<br>
 說來也奇怪，這裡明顯不是被我們的艦隊摧毀的，而且也只能看到塞壬的殘骸。究竟是誰做的呢……<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 啊！難道這背後隱藏的秘密，就是碑文裡所說的「往昔殘酷的真相」？<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 調查方向有了……接下來就是第二輪，分頭調查比賽，看看誰先得出結論！<br>
@@ -822,7 +822,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">島風：</span><br>
 沒事沒事，只是多了一層灰而已！<br>
 這些箱子怎麼回事啊，原本以為會有寶藏的，結果都是機關和陷阱！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 作為遺跡來說也算正常啦。畢竟談到遺跡，除了財寶之外，第二個想到的就是危險的機關嘛~<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 一般來說探索遺跡這種事情還是慢慢來比較好，但是這裡的寶箱數量未免也太多了……<br>
@@ -841,12 +841,12 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 但鑰匙不是就藏在這些箱子裡嗎，如果不全部打開的話恐怕沒辦法找出來吧……？<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 唔……確實是個問題，如果時間充足的話還好，不過現在的話……<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 哼哼哼，看來阿爾弗雷多記者，島風偵探和鍊金術士萊莎都束手無策了呢。<br>
 果然這種時刻還是應該讓專業調查員布里斯托爾來！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 妳有辦法？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 呼呼呼~我的機械助手，調查的好夥伴DATA-857就是最好的解決方案！<br>
 只要讓它去掃描每個箱子，有陷阱還是有寶物一看就知道！<br>
 放心，這個可是英格拉罕幫我做的，已經陪我執行過無數次任務了，絕對厲害！<br>
@@ -864,26 +864,26 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 …這樣啊。說的也對。嗯，我知道了。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 我和賽莉去附近放哨，大家放心在這裡休息吧。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 嗯，雖然有了全新的力量，但是敵人也變強了……莉拉小姐和賽莉小姐也要小心一點哦！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=布里斯托爾假說|选项=13|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 鏘鏘鏘~我的DATA-857已經成功完成任務了，第三把鑰匙找到了哦！<br>
 <br>
 獲得道具：「遺跡之鑰·異界森林」<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 哇哦……不愧是英格拉罕，不容小覷啊！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 喂！這時候應該誇獎的是我布里斯托爾吧！<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 我們這裡也有收穫哦。給，萊莎。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 這個是新的艦裝的鍊金配方？看上去……好像是帕蒂的欸！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 欸？居然真的連我的也有嗎……會做成什麼款式，稍微有些令人期待呢。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 咦，莉拉小姐和賽莉小姐是從哪裡找到這份配方的？我的DATA-857在掃描的時候居然沒有發現！<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 其實，在來到這裡之後總感覺有些同胞的氣息。剛才順著這股氣息搜尋的時候就找到了這個配方。<br>
@@ -899,34 +899,34 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 感覺謎團又多了一分呢……<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 啊哈哈……遺跡中的故事，也不是每次都一定能得到答案的呢。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 不，這就是最後一片拼圖！結合現有的資訊，偉大的調查員布里斯托爾已經得出結論了！<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 ……欸？好厲害，靠這些零散的資訊就能得出結論嗎？！<br>
 <span style="color:#4eb24e;">島風：</span><br>
 妳究竟發現了什麼，布里斯托爾閣下！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 哼哼哼，這件事就要從很久很久之前說起了~<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 嗯嗯……<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 在很久很久以前，塞壬佔據了這片海域，並在其基礎上建造了自己的鏡面海域與基地。<br>
 它們一直在這裡進行著自己陰暗的計劃，直到有一天，從天上落下了一顆隕石！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 ……隕石？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 沒錯！一顆巨大的隕石從天而降，只用了一瞬間就摧毀了塞壬精心佈置的基地！<br>
 塞壬就這樣，在沒有防備的時候一下子全部被摧毀了，也就是我們只見到了大量塞壬殘骸的原因！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 但如果真的是隕石所致的話，附近應該會有隕石坑才對，隕石坑又在哪裡呢？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 碑文上提到南方為失落之都！也就是說南方原本也是有一座小島的，但是為什麼我們什麼都沒看到？<br>
 因為那座小島已經因為受到隕石的直接撞擊而沉入大海了！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 ……雖然聽起來有些不可思議，但是邏輯上居然能夠自洽。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 歐蘭族和這件事又有什麼關係呢？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 這裡是我覺得最有趣的部分~<br>
 巨大隕石的撞擊干擾了塞壬正在進行的實驗，龐大的能量從被破壞的裝置中洩露出來，生成了一道連通不同世界的門。<br>
 而歐蘭族的人就是這麼被捲進來的！<br>
@@ -935,17 +935,17 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 這就是過去發生的真相！<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 這部分好像有點勉強……就算是歐蘭族，應該也沒那麼容易能夠輕易戰勝武裝到牙齒的塞壬艦隊。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 碑文和鍊金配方的事好像也不太合理。如果說歐蘭族扔下了鍊金配方，那鍊金配方原本是誰準備的呢？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 唔……看來這個假說還有不少需要完善的地方，等我再仔細思考一下哦~畢竟假說就是要等人去完善的嘛！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 我有一個建議，在這片不知道什麼時候就會發生爆炸的戰場廢墟上停留實在是太危險了……我們還是先回起始之地怎麼樣？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 嗯，說得對，先回去好好休息，吃飽了肚子才有精力繼續想~<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 那就準備晚飯吧。之前作為鍊金素材釣上來的魚還有很多呢，要煮還是要烤隨妳們哦！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 好欸！烤魚，烤魚————<br>
 {{折叠面板|内容结束}}
 
@@ -978,7 +978,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 我覺得也沒必要石碑說什麼我們就聽什麼吧？<br>
 "打開障壁”的意思應該是說要打開什麼門吧……我們現在的鑰匙已經能夠打開四個門裡的三個了，那就剩下最後一個！<br>
 說到底這裡也不過是一處塞壬的鏡面海域，就算還有一道門沒有鑰匙，靠我們的火力打過去不就行了？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 真是個……不錯的的建議啊！也許最開始的時候火力是差了一點。但是現在萊莎、派翠夏、賽莉、莉拉都有了艦裝。<br>
 我們的戰鬥力已經大幅提高，肯定夠給這裡的塞壬一點教訓了！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
@@ -987,7 +987,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 萊莎，沒問題嗎？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 沒關係，科洛蒂亞~如果出現強敵的話，大家齊心協力將其打倒就好！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 嗯，我也想檢驗一下新獲得的力量，一場與強敵的對決再合適不過了。<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 贊同，不能一直被塞壬耍得團團轉，是時候由我們主動出擊正面迎敵了。<br>
@@ -1028,9 +1028,9 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 突襲開始已經過了一段時間，可是眾人幾乎沒有取得進展。<br>
 現在的位置距離核心區的中心建築並不遠，但每推進一分，火力網彷彿就密集了一倍。<br>
 其展現出的威脅程度遠不是此前其他區域能比的。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 這裡是怎麼回事啊！我在調查員的生涯中從來沒見過這麼誇張的陣地啊！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 可畏小姐，萊莎小姐，先撤退吧！不能硬撐下去了！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 贊同，實力差距過大，再戰鬥下去要出現傷亡了。<br>
@@ -1109,11 +1109,11 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 別急別急，我的艦裝可比潛航艦高級多了，一會帶妳來個水下衝浪也是可以的哦——<br>
 <br>
 遺跡群島·起始之地 萊莎的臨時鍊金工房<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 能聽到嗎？這裡是正在南方水面執行搜索任務的調查員布里斯托爾，現在向指揮部進行匯報！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 嗯！聽得很清楚，調查員布里斯托爾。妳發現了什麼？<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 一艘看起來還算完好的無人潛航艦正漂浮在水面上，我打算靠近查看一下<br>
 也許它就是我們探索南方水下區域的關鍵道具！<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
@@ -1123,12 +1123,12 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 檢查結束，這艘潛航艦看上去保存狀態良好，各系統均無異常。<br>
 而且還從紀錄中發現了水下的海況圖，圖中顯示就在水面下方，有一處規模龐大的遺跡。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 我作為調查員的直覺果然沒錯，南方的遺跡真的是在水下！<br>
 隕石呢，有發現隕石的撞擊坑嗎？<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 不，完全沒發現……似乎遺跡一開始就是在水面下創建出來的。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 唔……謎團又深了一分……<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 布里斯托爾，我覺得你差不多也該換一個新的假說了……<br>
@@ -1155,7 +1155,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 這麼大的遺跡群，居然從海水的侵蝕中保存下來了……<br>
 明明從外面看上去就是個普通的遺跡……塞壬要是不當反派了，去投身建築行業，說不定能獲得大成功呢。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 確實……能做出這樣精密細緻建築的施工隊，各地都會搶著要吧。<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 對吧~我們商隊都想請她們過來了。<br>
@@ -1173,7 +1173,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 ……不行了，這份地圖完全不起作用啊。<br>
 明明畫得那麼精緻，看起來那麼有效……結果居然，一點忙都幫不上。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 嗚嗚嗚……這座遺跡的迷宮是立體的，而在地圖上根本看不出立體感啊！<br>
 看上去相連的道路，明明都走到跟前了，才發現根本不在同一水平面上，不知道還要繞多遠！<br>
 <span style="color:#4eb24e;">島風：</span><br>
@@ -1207,7 +1207,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 繩子做好了哦，用這個繩子的話，就算掛在艦載機上進行空中移動應該也沒問題！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 好欸，我已經準備好了進行空中飛行了！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 我也想掛上去玩！<br>
 <span style="color:#4eb24e;">島風：</span><br>
 還有島風，島風也想！<br>
@@ -1215,7 +1215,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 島風，等等！ ……呃，這會不會有點太亂來了，安全性真的沒問題吧？<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 我覺得沒問題，不過當然，還要實際試過才知道啦。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 ……我就算了。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 同意。這種事讓想做的人來做就好。<br>
@@ -1231,7 +1231,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 我的話……啊哈哈，還是讓最有興趣的阿爾弗雷多和布里斯托爾先玩吧。<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 好耶——可畏小姐，請帶我們出發吧！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 可以從空中開始立體探索囉~<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 ……我會把速度放慢的，但還是千萬注意，不要做出在空中開炮這種胡來的事哦！<br>
@@ -1243,7 +1243,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 獲得道具：「遺跡之鑰·失落之都」<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 第四把鑰匙，科洛蒂亞的艦裝配方，還有大量各種各樣的素材，真是大豐收~<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 有種決戰前突然獲得了大量補給品的感覺呢。<br>
 <span style="color:#4eb24e;">島風：</span><br>
 獲得這麼慷慨的收穫，總感覺之後會有一場硬仗啊……<br>
@@ -1260,7 +1260,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 好哦~那我們就先去休息一下，順便準備晚餐！<br>
 <span style="color:#4eb24e;">島風：</span><br>
 呼呼呼，今晚就吃駿河閣下的儲備好了，大家一起來一頓重櫻風的料理！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 萊莎小姐也辛苦了，不知道科洛蒂亞小姐的艦裝在完成後會是什麼樣子，真令人期待呢。<br>
 <span style="color:#4eb24e;">萊莎琳·斯托特：</span><br>
 嗯~我馬上就去做哦~<br>
@@ -1387,11 +1387,11 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 呼……成功進入，看來到目前為止一切順利。<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 不要大意。只是解除了強得離譜的防禦系統而已，區域內肯定還會有別的敵人。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 嗯。恐怕過不了多久敵人就會發現我們的入侵了。這種時候就應該快人一步，搶先行動！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 沒錯，盡快找到控制裝置，解除鏡面海域吧。<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 不不不，應該是搶在敵人反應之前尋找到隱藏的寶藏！<br>
 這就是塞壬修建的核心區，相當於整片遺跡的最重要的部分吧？<br>
 一般在這種大家都急著前進的時候，要特別注意仔細觀察隱藏的岔路才行！不為人知的寶藏也許就藏在裡面！<br>
@@ -1415,7 +1415,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 可惡，難道所有的寶箱都被堆到之前的爭鬥之城了嗎……<br>
 這裡看上去那麼複雜精美，實際上只是個空洞無趣的半成品嘛！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 明明已經是後期地圖了哎……只能靠無意義堆砌怪物來拉長冒險時間可不是好文明！<br>
 <span style="color:#4eb24e;">{namecode:175}：</span><br>
 （有沒有可能，這裡是塞壬的鏡面海域核心區，周圍都是生產工廠和設備間，原本就不是用來給妳們冒險的……）<br>
@@ -1425,11 +1425,11 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 小心，有一個巨大的空中目標正在快速接近我們的位置！<br>
 <span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
 又是敵人嗎，差不多要厭煩了啊……<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 不，這次這個和之前的不一樣。<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 這個身影……白色的盔甲和翅膀，難道是古代菲爾弗薩女王？！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 不對，還安裝了帶有大炮的艦裝和巨大的爪子，比以前遇到的還要誇張！<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 這麼說來，這個應該是塞壬在讀取了菲爾弗薩女王的數據之後設計出來的新型戰鬥精英呢。<br>
@@ -1446,9 +1446,9 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 {{折叠面板|标题=冒險的繼續|选项=25|主框=1|样式=primary|展开=是}}
 <br>
 轟—————————！<br>
-<span style="color:#4eb24e;">布里斯托：</span><br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
 戰鬥勝利——！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 呼……沒想到中間還會變身……真是難纏的對手。<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 堪稱在這片遺跡群島中我們遇到的最強敵人了，不過我們還是取勝了。<br>
@@ -1466,7 +1466,7 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 旁邊還貼心地放著操作說明哎，我現在就啟動——<br>
 ……欸，沒反應？<br>
 再次啟動——！<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 什麼反應都沒發生…………難道這扇門壞了嗎？<br>
 <span style="color:#4eb24e;">島風：</span><br>
 欸？！！！如果壞了的話不是大事不妙了！？<br>
@@ -1491,9 +1491,9 @@ III型……執行者？這些是剛才那些人型機器的名字嗎？<br>
 ——大家覺得這件事怎麼樣呢？<br>
 <span style="color:#4eb24e;">莉拉·德西亞斯：</span><br>
 事情至此，看來也是有些原因的。暫時在這裡停留一段時間也不壞。<br>
-<span style="color:#4eb24e;">派翠夏‧阿貝爾海姆：</span><br>
+<span style="color:#4eb24e;">派翠夏·阿貝爾海姆：</span><br>
 這樣也是為了能夠回到我們的家做出的最合理決定，我沒意見。<br>
-<span style="color:#4eb24e;">賽莉‧古勞斯：</span><br>
+<span style="color:#4eb24e;">賽莉·古勞斯：</span><br>
 如果能觸碰到港區的植物的話，也許還能有一些線索也說不定……<br>
 <span style="color:#4eb24e;">科洛蒂婭·巴蘭茨：</span><br>
 看來暫時不用想道別的話語了呢。<br>
