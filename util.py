@@ -26,24 +26,32 @@ def loadJsonFile(fileName):
                     content = json.load(f)
                     if 'all' in content.keys():
                         del content['all']
+                    if 'get_id_list_by_group_type' in content.keys():
+                        del content['get_id_list_by_group_type']
                     return parseJson(content)
             else:
                 with open(fileNameData, 'r+', encoding='utf-8') as f:
                     content = json.load(f)
                     if 'all' in content.keys():
                         del content['all']
+                    if 'get_id_list_by_group_type' in content.keys():
+                        del content['get_id_list_by_group_type']
                     return parseJson(content)
     elif fileName in GameCfgList:
         with open(fileNameGame, 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
                 del content['all']
+            if 'get_id_list_by_group_type' in content.keys():
+                del content['get_id_list_by_group_type']
             return parseJson(content)
     else:
         with open(fileNameShare, 'r+', encoding='utf-8') as f:
             content = json.load(f)
             if 'all' in content.keys():
                 del content['all']
+            if 'get_id_list_by_group_type' in content.keys():
+                del content['get_id_list_by_group_type']
             return parseJson(content)
 
 def parseJson(data):
