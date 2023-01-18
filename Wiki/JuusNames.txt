@@ -128,6 +128,7 @@
 半人马 CenAlpha
 英仙座 Per
 阿尔比恩 Albion
+忒修斯 Theseus
 鹰 Eagle
 皇家方舟 ArkRoyal_Defense
 光辉 Illustrious
@@ -142,6 +143,7 @@
 君主 Monarch
 柴郡 CaitSith
 德雷克 Drake
+普利茅斯 Plymouth
 吹雪 bukkitoku1
 白雪 Shirayuki 
 深雪 Miyuki 
@@ -288,6 +290,7 @@ U-1206 U.B.1206
 奥丁 Odin
 埃吉尔 Aegir
 奥古斯特·冯·帕塞瓦尔 August.V.Parseval
+鲁普雷希特亲王 Prinz Rupprecht
 鞍山 Anshan1
 抚顺 Fushun2
 长春 ChangChun
@@ -300,6 +303,9 @@ U-1206 U.B.1206
 海天 HaiTien
 海圻 HaiChi
 镇海 ChenHai
+华甲 Hwah Jah
+定安 Ting An
+哈尔滨 Harbin
 龙骑兵 S_Carabiniere
 文琴佐·焦贝蒂 G.B
 西北风 Maestrale
@@ -334,6 +340,7 @@ U-1206 U.B.1206
 水星纪念 Pamiat' Merkuria
 恰巴耶夫 Chapaev
 基洛夫 Киров
+古比雪夫 Kuybyshev
 摩尔曼斯克 Мурманск
 塔林 Tallinn
 甘古特 Gangut
@@ -342,6 +349,7 @@ U-1206 U.B.1206
 阿尔汉格尔斯克 Архангельск
 伏尔加 Волга
 喀琅施塔得 Кронштадт
+契卡洛夫 Chkalov
 凯旋 Le.Triomphant
 福尔班 Forbin 
 鲁莽 L.Téméraire
@@ -355,6 +363,7 @@ U-1206 U.B.1206
 絮库夫 P.P.O
 路易九世 S.Louis
 香槟 Champagne
+布雷斯特 Brest
 勒马尔 LeMars 
 塔尔图 Tartu
 沃克兰 Vauquelin
