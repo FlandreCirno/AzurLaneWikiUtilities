@@ -62,6 +62,7 @@
 新泽西 BlackDragon
 马萨诸塞 2700P.Justice
 长岛 L.I.
+博格 Bogue
 卡萨布兰卡 Casablanca
 兰利 Langley
 萨拉托加 SisterSara
@@ -84,6 +85,7 @@
 命运女神 Fortune
 格伦维尔 Grenville
 萤火虫 Glowworm@Attack
+勇敢 Hardy
 标枪 Javelin☆
 天后 Juno
 吸血鬼 Vampire 
@@ -92,6 +94,7 @@
 伊卡洛斯 Icarus_Wing
 贾维斯 Jervis
 雅努斯 Janus
+英雄 Hero
 黛朵 Dido_Doll
 南安普顿 MINAMIpton
 谢菲尔德 ShiningS
@@ -111,6 +114,7 @@
 卡律布狄斯 Charybdis
 司战女神 Bellona
 进取 RoyalMaid.E
+斯库拉 Scylla
 肯特 Kent
 萨福克 Suffolk
 胡德 Mighty_Hood
@@ -123,7 +127,9 @@
 英勇 Cmdr_Valiant
 复仇 Revenge
 前卫 Vanguard
+皇家橡树 RoyalOak
 竞技神 Hermes@Dual
+百眼巨人 Argus
 独角兽 UnicornI72
 半人马 CenAlpha
 英仙座 Per
@@ -135,6 +141,7 @@
 胜利 Victorious
 可畏 Formidable
 光荣 Glorius
+怨仇 Implacable
 不挠 Indomitable
 黑暗界 Erebus
 恐怖 Terror
@@ -245,6 +252,7 @@
 白龙 Hakuryū
 Z1 L.Maaß
 Z2 Zerstörer2
+Z16 F.Eckoldt
 Z23 Zerstörer.23
 Z24 GreatDevil24
 Z28 Zerstörer28
