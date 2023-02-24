@@ -255,7 +255,7 @@
 凯尔盖朗群岛·周边海域<br>
 <span style="color:#4eb24e;">英雄：</span><br>
 增援舰队呼叫凯尔盖朗接管分队，有没有人听到啊~<br>
-<span style="color:#4eb24e;">通讯器：</span><br>
+<span style="color:#4eb24e;">通信器：</span><br>
 ………………<br>
 <span style="color:#4eb24e;">英雄：</span><br>
 重复一遍，这里是皇家海军英雄号！<br>
@@ -331,13 +331,13 @@
 英雄这里也有重大发现哦！<br>
 <span style="color:#4eb24e;">怨仇：</span><br>
 先别急，首先来听听我这个。<br>
-<span style="color:#4eb24e;">通讯器：</span><br>
+<span style="color:#4eb24e;">通信器：</span><br>
 「凯尔盖朗圣堂分队呼叫安塔迪卡洋舰队司令部」<br>
 「我们遭遇到海量来源不明的敌人进攻」<br>
 「情况危急，请求立刻派遣支援」<br>
 「重复，凯尔盖朗圣堂分队呼叫——」<br>
 <span style="color:#4eb24e;">斯库拉：</span><br>
-这是……通讯器播放的求援信号？<br>
+这是……通信器播放的求援信号？<br>
 <span style="color:#4eb24e;">怨仇：</span><br>
 没错，就是从我们所在的控制室发出的，而且现在依然在循环播放。<br>
 <span style="color:#4eb24e;">斯库拉：</span><br>
@@ -1575,7 +1575,7 @@ META也能做到这种事……META信标监测仪有什么发现么？<br>
 但终究比之前看得要远了，不是么？<br>
 <span style="color:#4eb24e;">皇家橡树：</span><br>
 没错！<br>
-<span style="color:#4eb24e;">通讯器：</span><br>
+<span style="color:#4eb24e;">通信器：</span><br>
 滴————<br>
 <span style="color:#4eb24e;">贝亚恩：</span><br>
 这里是贝亚恩，皇家舰队的诸位，能听到么？<br>
@@ -2183,14 +2183,14 @@ META也能做到这种事……META信标监测仪有什么发现么？<br>
 <span style="color:#ff9900;">{{AF|新泽西}}：</span><br>
 …………我之前说要利用支配消灭战争并不是这个意思。<br>
 不过你的思路也挺有趣的，作为支配象征的弓啊……也许真能起到些作用。<br>
-<span style="color:#ff9900;">黎塞留：</span><br>
+<span style="color:#4eb24e;">黎塞留：</span><br>
 但是利用支配的力量本身也很危险……<br>
 怨仇女士，不能让你为了鸢尾教国的错误冒这么大风险，还是让我来吧。<br>
 <span style="color:#4eb24e;">怨仇：</span><br>
 不不不，你不行。这座圣堂跟信仰不同的我不对付，所以我受到的正面影响和负面影响都要小，必须得是我来才行。<br>
 放心吧，陛下的荣光护佑着我呢。<br>
 再说要真出问题，你就像之前一样，再拉我一把就不就行了？<br>
-<span style="color:#ff9900;">黎塞留：</span><br>
+<span style="color:#4eb24e;">黎塞留：</span><br>
 可是……<br>
 <span style="color:#4eb24e;">怨仇：</span><br>
 没有可是，就这么决定了！<br>
@@ -2456,12 +2456,12 @@ META也能做到这种事……META信标监测仪有什么发现么？<br>
 <span style="color:#4eb24e;">怨仇：</span><br>
 我有点……跟不上您的思路。<br>
 我这是在做梦么？<br>
-<span style="color:#ff9900;">？？？？：</span><br>
+<span style="color:#ff9900;">伊丽莎白女王·META：</span><br>
 对于你来说，是。<br>
 梦该醒了，这里不是你该来的地方，回去吧。<br>
 <span style="color:#4eb24e;">怨仇：</span><br>
 可是我还有问题————<br>
-<span style="color:#ff9900;">？？？？：</span><br>
+<span style="color:#ff9900;">伊丽莎白女王·META：</span><br>
 本王又没在征求你的意见。<br>
 「回去」<br>
 {{折叠面板|内容结束}}
