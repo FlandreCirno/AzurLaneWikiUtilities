@@ -271,7 +271,7 @@ def replaceColor(color):
         return color
 
 def sanitizeFileName(fileName):
-    charSet = [[':', '：'], ['?', '？'], ['"', '“'], ['.', '。']]
+    charSet = [[':', '：'], ['?', '？'], ['"', '“'], ['.', '。'], ['<', '《'], ['>', '》']]
     for c in charSet:
         fileName = fileName.replace(c[0], c[1])
     return fileName
