@@ -303,47 +303,47 @@
 {{折叠面板|标题=备用计划|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 天岩岛近海·正午<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
-Z2，快一点，都快到午饭时间了啊。<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
+{{AF|Z2}}，快一点，都快到午饭时间了啊。<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 是是是，再耐心点，马上就要记录完毕了。<br>
 把整个海域作为封闭空间，屏蔽来自外部的观测，这就是“结界”…重樱内部还真是充满了超自然的存在啊……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 超自然的存在？呵，这些不过是我们需要理解但还没有理解的科技而已~<br>
 这些先不说。弹药准备如何？<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 弹药充足。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 武器整备呢？<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 武器状态良好。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
-Z2真是可靠啊~撤退路线呢？<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
+{{AF|Z2}}真是可靠啊~撤退路线呢？<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 …………再怎么说也不用准备到这个份上吧？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 咳，以防万一，确认一下……<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 ……你怀疑{{AF|赤城}}的计划不会顺利进行？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 是那家伙认为事有蹊跷啦。临行之前专门要我多留个心眼。<br>
 害得我连夜赶了一份从战斗到跑路的方案书给她，唉…<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 确实…这次{{AF|赤城}}的计划看起来是有点太小儿科了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 而且危险。塞壬可不是能任人摆布的棋子哦？<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 如果她的目的只是像她说的为了动员重樱参加作战计划倒还好，如果不是的话…？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 只要能把重樱拖下水，只要重樱还是作为我们的盟友，让谁来领头都一样吧~<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 呜哇，真差劲…<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 呵呵，这可是那家伙亲自定下的方针，要我把你刚说的话原样上报么？<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 千万别，我可吃不消…<br>
 完工。最后一处可疑坐标也探测完毕了<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 是时候登门拜访了。就算是迷路的客人，让主人等太久了可不好哦，呵呵呵…<br>
 {{折叠面板|内容结束}}
 
@@ -351,55 +351,55 @@ Z2真是可靠啊~撤退路线呢？<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 一路而来辛苦了，远道而来的铁血朋友们，欢迎莅临天岩岛。<br>
 {{AF|阿贺野}}级轻巡洋舰{{AF|能代}}，受{{AF|信浓}}大人的委托，在此恭候各位多时了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 能做为赤色中轴的盟友受邀参与重樱的重大祭典，对铁血来讲也是莫大的荣幸~<br>
 请代我们向{{AF|信浓}}大人致以最诚挚的问候~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 这是一定的。时间不早了，按照计划各位客人请随我直接前往内城…<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 哎？之前我听{{AF|赤城}}介绍祭典流程的时候，对其中一个叫“演武”的环节还挺感兴趣的呢…<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 啊，那个啊。演武是本次祭典中的重要组成部分，会场中的每一场演武都被视为一次对神明的供奉行为。<br>
 不过，演武只针对重樱内的来访成员，来自铁血的诸位就不必辛苦进行战斗了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 那不是太可惜了嘛~入乡随俗，也让我来感受一下重樱的演武吧。<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 哎…？这……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 就当做是我的个人请求，拜托了~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 唔…好吧。既然您坚持的话，作为接待人自然不能让各位客人扫兴…<br>
 向神明展现勇武，向神明纳奉才智，向神明给予信仰——<br>
 不才{{AF|能代}}，在铁血诸位盟友面前，献丑了！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 呵呵呵，究竟是客套话还是真心话。重樱新锐巡洋舰的实力，就让我好好见识一下吧~<br>
-铁血海军，欧根亲王号战斗准备完毕！<br>
+铁血海军，{{AF|欧根亲王}}号战斗准备完毕！<br>
 Eisen und Blut über alles！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=第一回合|选项=11|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 怎么了，重樱新锐巡洋舰只有这点实力么？<br>
 看来你刚才所说的献丑不是在开玩笑啊~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
-（肆意释放的力量，毫不掩饰的杀意…欧根亲王这家伙来真的？！）<br>
+（肆意释放的力量，毫不掩饰的杀意…{{AF|欧根亲王}}这家伙来真的？！）<br>
 （毕竟是客人，冷静…不争一时之强，这里就让一下…）<br>
 ……实在是漂亮的战术，不愧是拥有丰富经验的历战之舰。<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 战术？经验？呵，力量不足就会死，这么单纯的道理，重樱的新锐巡洋舰都看不明白么？<br>
 至于其他的，对付刚刚的你还用不上那些复杂的东西。<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 （…得寸进尺！但是，冷静下来…想想招待客人的礼仪………）<br>
 请您理解，重樱的演武，并不是上升到实战程度的厮杀…<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 哎呀，真是失望。作为吾之铁血的盟友，重樱的新锐巡洋舰居然孱弱到如此地步~<br>
 明明是，重樱的新锐巡洋舰~真是太令人失望了~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 （…………啊啊啊啊，不管了。这种状态下动真格，想必{{AF|信浓}}大人也不会怪罪吧！）<br>
-不要太过分了，欧根亲王！<br>
+不要太过分了，{{AF|欧根亲王}}！<br>
 虽然是预定之外的事，既然你这么念念不忘，就切身体会一下重樱新锐巡洋舰的威力吧。<br>
 我的事怎么都好，侮辱重樱的事，可不能就这么算了！<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 呵呵呵呵，终于要动真格了么。这才对，这种表情才对哦！<br>
 让我们开始愉快的第二回合吧~！<br>
 {{折叠面板|内容结束}}
@@ -414,45 +414,45 @@ Eisen und Blut über alles！<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 {{AF|赤城}}大人？！………是。<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-听到这么大的动静，我还以为塞壬来攻城了。这是在做什么，欧根？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+听到这么大的动静，我还以为塞壬来攻城了。这是在做什么，{{AF|欧根}}？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 好险好险~本来只想体验一下重樱的演武，结果差点把自己搭进去。<br>
 不是你及时赶到的话，恐怕我就要命丧这位小姑娘的刀法之下咯~<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-那真是不胜荣幸，能正面击败大名鼎鼎的欧根亲王阁下。<br>
+那真是不胜荣幸，能正面击败大名鼎鼎的{{AF|欧根亲王}}阁下。<br>
 ……要不是我及时拦下，你不会真忍不住要下手了吧？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 怎么可能~至少这次不会。毕竟是我的挑拨在先嘛~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 {{AF|赤城}}大人，刚才明明是我快要得手了！<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-在你那一招命中之前，欧根一轮齐射就能送你回去大修了。<br>
+在你那一招命中之前，{{AF|欧根}}一轮齐射就能送你回去大修了。<br>
 那个破绽，是她为了引诱你到射击位置上故意暴露给你的。<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 什么？！对不起{{AF|赤城}}大人，是我经验不足，失去冷静了……<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-{{AF|能代}}小姐不用太在意。欧根这个性格，挑拨起来就算她自家亲姐姐都受不了。<br>
-你刚刚的应对，已经能被写进应对欧根亲王的教科书了。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+{{AF|能代}}小姐不用太在意。{{AF|欧根}}这个性格，挑拨起来就算她自家亲姐姐都受不了。<br>
+你刚刚的应对，已经能被写进应对{{AF|欧根亲王}}的教科书了。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 呼呼，看到这种一本正经的性格，很难忍住不上去调戏一下嘛~<br>
 对不起了，{{AF|能代}}小姐。刚刚只是我一时起了玩心，说的话都不是真心的，请你千万不要在意~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 ……在战斗中被挑衅是我经验不足的表现，非常抱歉…<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-现在都正午了，比预定时间晚到了不少啊欧根，路上玩得开心么？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+现在都正午了，比预定时间晚到了不少啊{{AF|欧根}}，路上玩得开心么？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 哪里哪里，你们重樱秘境，海域上结界重重。我们路上走了不少弯路，好不容易才找到正确航线嘛~<br>
 <span style="color:#4eb24e;">{{AF|能代}}：</span><br>
 （…哎？我明明一直按照约定等在结界入口迎接的…怎么可能……）<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
 呵呵，不愧是铁血的外交使团，口才也是世界一流。<br>
 大家既然是通力合作的盟友，有什么需要但说无妨，不用这么客气。<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 既然直白说到这个份上，唉…我也只好吐露实情了。<br>
 其实………………<br>
 我已经快饿死了~！<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-附议…被欧根亲王呼来唤去折腾了一路，我也快饿扁了。<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+附议…被{{AF|欧根亲王}}呼来唤去折腾了一路，我也快饿扁了。<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
 啧………<br>
 特意，专门给你们留好了上等席，以及丰盛的午餐！<br>
@@ -586,41 +586,41 @@ Surprise！好久不见，晚上好啊~<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 啊哈哈哈，对不住各位，也让海外的友人们见笑了，我代{{AF|瑞鹤}}向大家道个不是<br>
 不过还真没想到，居然会有盟友不远千里来参加本次祭典，真是让人倍感欣喜啊<br>
-不知道重樱的美酒和食物还习惯么，欧根亲王？<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+不知道重樱的美酒和食物还习惯么，{{AF|欧根亲王}}？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 非常棒哦~特别是重樱的酒，有种独特的风味呢~<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 啊哈哈，这酒是由米、米曲和水为原料酿造而成的，在重樱有着上千年的历史了<br>
 也会在祭典上作为供奉神明之物而使用哦<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 用米酿造的吗…原来如此，所以才和铁血这边的黑啤有着截然不同的味道啊<br>
 {{AF|三笠}}大人如果有机会来到欧罗巴大陆的话，也请务必来品尝下用烘焙麦芽酿造的铁血黑啤呀~呵呵呵<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 欧罗巴大陆呀…这么说来确实也许久未曾造访了<br>
 突然又怀念起在皇家享受红茶红酒的日子了哈哈哈~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 在这里就不提皇家那些虚伪的小人了~呵呵，就让我们铁血遵循客道，用心享受重樱的美食吧~<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-欧根，这个“生鱼片”很好吃，多尝一尝吧<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+{{AF|欧根}}，这个“生鱼片”很好吃，多尝一尝吧<br>
 <br>
-作为辅佐的Z2把食物放到了欧根亲王的盘中<br>
+作为辅佐的{{AF|Z2}}把食物放到了{{AF|欧根亲王}}的盘中<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 哦？这个啊……<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 听说要搭配这个绿色的“芥末”才好吃——<br>
 把这白色的鱼肉全都沾满绿色……<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 哈哈哈，你一下也沾太多了<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 是吗？我们还是不太懂吃法呢<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
-让我来教教各位吧！啊，Z2小姐，请先听我说明啊！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+让我来教教各位吧！啊，{{AF|Z2}}小姐，请先听我说明啊！<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 (她就是{{AF|纪伊}}级战列舰{{AF|骏河}}吗。重樱秘藏的精锐，意外的是个可爱的孩子呢，呵呵……）<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-欧根，这个串在一起的肉丸也很好吃，大家也多尝一尝吧<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+{{AF|欧根}}，这个串在一起的肉丸也很好吃，大家也多尝一尝吧<br>
 <br>
-刚才还被{{AF|骏河}}缠着的Z2，不知什么时候又拿来了新的食物<br>
+刚才还被{{AF|骏河}}缠着的{{AF|Z2}}，不知什么时候又拿来了新的食物<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
 呵呵呵呵，大家不用客气，夜晚还很长哦~<br>
 {{折叠面板|内容结束}}
@@ -885,18 +885,18 @@ Surprise！好久不见，晚上好啊~<br>
 是、是！{{AF|赤城}}大人<br>
 <br>
 说完…{{AF|响}}便快速向内殿跑去<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 啊啦~终于可以看到传说中的重樱的护国宝器【海若】了吗？~就是那个可以“嗖”地一下创造出本不该存在的“我们”的神器？<br>
 比如可以把“Z计划”提前完成什么的？~<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-欧根大人，您喝醉了<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+{{AF|欧根}}大人，您喝醉了<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 哎呀呀，人家怎么可能喝了这么点淡水就醉了嘛哈哈，只不过举个例子，举个例子而已啦哈哈哈~<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-对不起诸位，欧根失态了…本人也没见过她酒品这么差的样子<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+对不起诸位，{{AF|欧根}}失态了…本人也没见过她酒品这么差的样子<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
 没什么，大家都是盟友~有什么话摆明了说也挺好的，如果有我们可以帮上忙的地方直说就好<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 比如说把神石也借我们用用之类的？哈哈哈哈~说笑的说笑的<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 ……<br>
@@ -911,19 +911,19 @@ Surprise！好久不见，晚上好啊~<br>
 <span style="color:#4eb24e;">{{AF|响}}：</span><br>
 诸位大人~我已经将护国宝器【海若】护送就位了！还有劳大家起身前往仪式厅进行祈愿仪式~<br>
 <br>
-说完，众人从坐席上站了起来，只剩欧根亲王一人在酒桌旁睡了过去，脸上还带着幸福的红晕<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-诸位还请自便，欧根大人由我照顾即可<br>
+说完，众人从坐席上站了起来，只剩{{AF|欧根亲王}}一人在酒桌旁睡了过去，脸上还带着幸福的红晕<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+诸位还请自便，{{AF|欧根}}大人由我照顾即可<br>
 <br>
-说完，众人便进入了仪式厅，留下躺在Z2膝枕上呼呼大睡的欧根亲王<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+说完，众人便进入了仪式厅，留下躺在{{AF|Z2}}膝枕上呼呼大睡的{{AF|欧根亲王}}<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 ……<br>
 人都走了，你也该起来了——<br>
-喂…喂欧根<br>
+喂…喂{{AF|欧根}}<br>
 ……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
-呼…呼…哈（欧根的脸上露出幸福的笑容<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
+呼…呼…哈（{{AF|欧根}}的脸上露出幸福的笑容<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 居然不是演技吗？……这跟说好的剧本不一样啊…真是的<br>
 重樱的酒…真是可怕<br>
 {{折叠面板|内容结束}}
@@ -1254,35 +1254,35 @@ Surprise！好久不见，晚上好啊~<br>
 {{折叠面板|标题=密谈|选项=27|主框=1|样式=primary|展开=是}}
 <br>
 数日后·某处海域<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 结果最后，重樱的祭典还是失败了啊~<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 没办法的事吧…<br>
 到头来真正的护国宝器也没能看到真面目，而且据说连重樱内部自己都不知道目前神石的下落<br>
-真是的，都怪欧根你在宴会阶段就醉倒了，仪式厅里发生了什么我们都没看到<br>
-这样情报不足的情况空手而归，肯定要被腓特烈给责备的<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+真是的，都怪{{AF|欧根}}你在宴会阶段就醉倒了，仪式厅里发生了什么我们都没看到<br>
+这样情报不足的情况空手而归，肯定要被{{AF|腓特烈}}给责备的<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 （脸红）我那哪是醉了，只是演技，演技而已！！<br>
-<span style="color:#4eb24e;">Z2：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 对的，你的睡像演得可真好——<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 （脸红）记得回去以后不许再讨论这件事！<br>
-<span style="color:#4eb24e;">Z2：</span><br>
-是是是，欧根亲王大人——<br>
-Z2瞄了一眼旁边这艘拖着一船重樱酒的铁血新锐重巡洋舰，发出了一声叹息<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+是是是，{{AF|欧根亲王}}大人——<br>
+{{AF|Z2}}瞄了一眼旁边这艘拖着一船重樱酒的铁血新锐重巡洋舰，发出了一声叹息<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 不管怎样，至少重樱内部的派系、新锐战舰的性能这些情报已经入手了<br>
 最重要的是，NA作战的方案也已经传递到她们手中了，之后，就看她们自己的选择了~<br>
 毕竟，这个世界，只有强者才能生存下去<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
-欧根亲王，请留步<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+{{AF|欧根亲王}}，请留步<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 啊啦，这不是{{AF|赤城}}大人和{{AF|加贺}}大人吗？不需要这么客气送我们到这么远的~<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
 有些事情在人多眼杂的时候不方便讨论<br>
 我就直说了，我想要得到铁血舰船和有关塞壬更多的资料<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
-哎呀，{{AF|赤城}}大人这是开口吞象呀，就算我们是盟友关系，之前关于海军的合作也就只有齐柏林伯爵的舰装设计吧？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
+哎呀，{{AF|赤城}}大人这是开口吞象呀，就算我们是盟友关系，之前关于海军的合作也就只有{{AF|齐柏林伯爵}}的舰装设计吧？<br>
 一下子这么跳跃，是不是有点…嗯…就算作为一个交易，等价交换这个道理您也不会不懂吧？呵呵呵<br>
 <span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
 嗯，还记得你在酒会时说的事情吗？<br>

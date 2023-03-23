@@ -189,21 +189,21 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=伏击|选项=5|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 悄悄地潜伏，悄悄地接近，然后悄悄地偷袭------<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 发现你了，铁血的潜艇！<br>
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 哎~？还是被发现了么~<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 这里是皇家海军极地船团护航舰队，铁血潜艇，我们不会让你们伤到运输队一丝一毫的。<br>
 <span style="color:#4eb24e;">牙买加：</span><br>
 居然敢来袭击由我亲自护航的船团，勇气可嘉啊。<br>
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 哼哼，那我建议你们看看天空哦~航空队增援已经到了，很快主力舰队也会赶来，你们一个跑不掉了~<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 听起来像是虚张声势啊...你们那些被封锁在北海的主力舰队，要怎么才能不被发现的绕过封锁线进入巴伦支海呢？<br>
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 可惜，看来你们还什么都不知道哎~<br>
 没办法了，来打一架吧~我可不打算轻易放过这批战果哦！<br>
 <span style="color:#4eb24e;">牙买加：</span><br>
@@ -213,10 +213,10 @@
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=分析|选项=6|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 啧，对面战意高昂啊...正好鱼雷也需要重新装填...先告辞咯~！<br>
 <br>
-U-73打出最后几发鱼雷干扰了航线，抓住空隙下潜到水面下头也不回的撤退了。<br>
+{{AF|U-73}}打出最后几发鱼雷干扰了航线，抓住空隙下潜到水面下头也不回的撤退了。<br>
 <span style="color:#4eb24e;">牙买加：</span><br>
 就这？刚刚的话说的很满，实际打起来只有这种程度么，真令人失望。<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
@@ -254,7 +254,7 @@ U-73打出最后几发鱼雷干扰了航线，抓住空隙下潜到水面下头�
 <span style="color:#4eb24e;">赫敏：</span><br>
 ...司令部首先发来联络了，发信人是…伊丽莎白女王陛下？！<br>
 <span style="color:#4eb24e;">伊丽莎白？：</span><br>
-电告，包括战列舰提尔比茨号、沙恩霍斯特号、格奈森瑙号、德意志号、斯佩伯爵号在内的铁血主力舰队已经完成集结，现在正在向巴伦支海的方向逼近。<br>
+电告，包括战列舰{{AF|提尔比茨}}号、{{AF|沙恩霍斯特}}号、{{AF|格奈森瑙}}号、{{AF|德意志}}号、{{AF|斯佩伯爵}}号在内的铁血主力舰队已经完成集结，现在正在向巴伦支海的方向逼近。<br>
 所有舰船立刻掉头向西方前进，准备迎击铁血主力舰队。<br>
 <span style="color:#4eb24e;">鹰：</span><br>
 三艘战列舰两艘袖珍战列舰，铁血主力舰队果然上钩了！<br>
@@ -271,42 +271,42 @@ U-73打出最后几发鱼雷干扰了航线，抓住空隙下潜到水面下头�
 也许真的发生了情报泄露，也许局势发生了某些预料之外的变化…立刻向司令部回复核实刚刚的命令！<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 是！<br>
-<span style="color:#ec5d53;">U-101：</span><br>
-U-73按照计划撤退了，天上的飞机也返航了，这下皇家的运输舰队就暂时安全了哦~<br>
-<span style="color:#ec5d53;">U-81：</span><br>
-接下来就是等欧根所说的时机出现么......<br>
-<span style="color:#ec5d53;">U-522：</span><br>
-目前我可没看到有什么变化啊~护航编队怎么可能作出抛弃运输船队独自返航的事，欧根今天又在说什么梦话...<br>
-<span style="color:#ec5d53;">U-81：</span><br>
-随她去吧...既然欧根特意这么说了，我们就先耐心等等。<br>
+<span style="color:#ec5d53;">{{AF|U-101}}：</span><br>
+{{AF|U-73}}按照计划撤退了，天上的飞机也返航了，这下皇家的运输舰队就暂时安全了哦~<br>
+<span style="color:#ec5d53;">{{AF|U-81}}：</span><br>
+接下来就是等{{AF|欧根}}所说的时机出现么......<br>
+<span style="color:#ec5d53;">{{AF|U-522}}：</span><br>
+目前我可没看到有什么变化啊~护航编队怎么可能作出抛弃运输船队独自返航的事，{{AF|欧根}}今天又在说什么梦话...<br>
+<span style="color:#ec5d53;">{{AF|U-81}}：</span><br>
+随她去吧...既然{{AF|欧根}}特意这么说了，我们就先耐心等等。<br>
 原本也是临时改变的部署，如果护航编队没有变化的话，我们再按最开始定好的计划展开围猎就行。<br>
-<span style="color:#ec5d53;">U-522：</span><br>
+<span style="color:#ec5d53;">{{AF|U-522}}：</span><br>
 好嘛好嘛~作为潜艇，最不缺的可就是耐心了哦，嘻嘻~<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=「幻光」行动|选项=8|主框=1|样式=primary|展开=是}}
 <br>
 ？？？·？？？<br>
-<span style="color:#ec5d53;">希佩尔：</span><br>
-欧根，差不多到时间出发了吧，磨磨蹭蹭的在做什么呢？<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
-别急嘛希佩尔，这么火急火燎可是会生出皱纹的，那就太可惜了~<br>
-<span style="color:#ec5d53;">希佩尔：</span><br>
+<span style="color:#ec5d53;">{{AF|希佩尔}}：</span><br>
+{{AF|欧根}}，差不多到时间出发了吧，磨磨蹭蹭的在做什么呢？<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
+别急嘛{{AF|希佩尔}}，这么火急火燎可是会生出皱纹的，那就太可惜了~<br>
+<span style="color:#ec5d53;">{{AF|希佩尔}}：</span><br>
 哈？！「幻光」行动，这么重要的作战居然找你当旗舰指挥，我怎么可能不着急啊！<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
-嘘。这次的旗舰明明是我们北方的女王，提尔比茨哦。<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
+嘘。这次的旗舰明明是我们北方的女王，{{AF|提尔比茨}}哦。<br>
 先这样...然后这样...呵呵，准备工作终于全部完成了。<br>
-<span style="color:#ec5d53;">德意志：</span><br>
-终于可以起航了么...太慢了，欧根！我已经等的不耐烦啦！<br>
-<span style="color:#ec5d53;">格奈森瑙：</span><br>
+<span style="color:#ec5d53;">{{AF|德意志}}：</span><br>
+终于可以起航了么...太慢了，{{AF|欧根}}！我已经等的不耐烦啦！<br>
+<span style="color:#ec5d53;">{{AF|格奈森瑙}}：</span><br>
 她们自以为计划天衣无缝，殊不知早已漏洞百出......<br>
-<span style="color:#ec5d53;">沙恩霍斯特：</span><br>
+<span style="color:#ec5d53;">{{AF|沙恩霍斯特}}：</span><br>
 今天是时候就让皇家为它在平日里的傲慢付出代价了！<br>
-<span style="color:#ec5d53;">斯佩伯爵：</span><br>
+<span style="color:#ec5d53;">{{AF|斯佩伯爵}}：</span><br>
 总是一个人孤独地航行、孤独地战斗，没想到这样的我也能迎来同大家并肩战斗的机会...<br>
-<span style="color:#ec5d53;">提尔比茨：</span><br>
-斯佩，我同你一样深知寒冷与孤独的滋味...珍惜这次难得的作战机会，并肩战斗，然后为铁血带来胜利吧！<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|提尔比茨}}：</span><br>
+{{AF|斯佩}}，我同你一样深知寒冷与孤独的滋味...珍惜这次难得的作战机会，并肩战斗，然后为铁血带来胜利吧！<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 呵呵...没错，让我们如同飘忽不定的极光一般游弋在大洋之上，为铁血带来荣耀与胜利吧~<br>
 既然这么想用围歼我们的主力舰队，那就真的出动主力舰队给你们看看......<br>
 可别被自己用鱼饵钓出来的鱼吓到了哦，呵呵呵呵~<br>
@@ -377,8 +377,8 @@ Eisen und Blut über alles<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 …积木？<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
-仅算主力舰就有五艘......提尔比茨、沙恩霍斯特、格奈森瑙，德意志以及斯佩伯海军上将。<br>
-还有重巡洋舰欧根亲王、希佩尔以及大量轻巡洋舰和驱逐舰......<br>
+仅算主力舰就有五艘......{{AF|提尔比茨}}、{{AF|沙恩霍斯特}}、{{AF|格奈森瑙}}、{{AF|德意志}}以及{{AF|斯佩伯爵海军上将}}。<br>
+还有重巡洋舰{{AF|欧根亲王}}、{{AF|希佩尔}}以及大量轻巡洋舰和驱逐舰......<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 这还...真是钓上来群大鱼啊！光是出动的军舰数量已经比船团里所有运输船加起来还要多了！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
@@ -397,33 +397,33 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=计谋|选项=11|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 「幻光」，也就是飘忽不定的极光...没想到真的在行动中能赶上极光出现……<br>
-欧根，这次的行动名是你定的，还是腓特烈大帝？<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+{{AF|欧根}}，这次的行动名是你定的，还是{{AF|腓特烈大帝}}？<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 当然是她定的咯，不过没想到居然连这种莫名其妙的地方都这么严谨啊，真恐怖…<br>
 唔嗯？刚刚那是…皇家的舰载机…？看来我们的行踪已经按照计划“暴露”了呢~<br>
 接下来就应该是...<br>
-<span style="color:#ec5d53;">Z2：</span><br>
-欧根，那边奇怪的指示灯开始乱闪起来了。<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
-真的成功拦截到了么！腓特烈还真是给了我们一个好玩具啊…！<br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
+{{AF|欧根}}，那边奇怪的指示灯开始乱闪起来了。<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
+真的成功拦截到了么！{{AF|腓特烈}}还真是给了我们一个好玩具啊…！<br>
 ......接下来...用谁的名义发出去比较好呢，呵呵呵呵，就用她们尊敬的女王陛下吧~<br>
-<span style="color:#ec5d53;">Z2：</span><br>
-欧根，笑得好恶心。<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
+{{AF|欧根}}，笑得好恶心。<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 哼哼哼，这是少女因为计划进展的过于顺利而露出的会心一笑啊~<br>
 好了，快去给“狼群”发报。就说计划顺利，让她们在静待护卫舰队撤离之后再发动总攻。<br>
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 好好好...不过我觉得皇家不会蠢到被这种计划骗到就是了。<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 重要的不是结果，而是出现在过程之中的“要素”。反正狼群还准备了一套自己的袭击计划吧，如果护卫舰队没被骗就随她们去打好咯~<br>
 然后...把皇家的支援舰队孤独的晾在那里也不好，我们也派出前锋舰队和她们好好玩玩吧~<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=铁血先锋|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">英仙座：</span><br>
-这是…一支由巡洋舰和驱逐舰组成的前锋舰队，正在希佩尔的带领下脱离铁血主力舰队向我们高速驶来…！<br>
+这是…一支由巡洋舰和驱逐舰组成的前锋舰队，正在{{AF|希佩尔}}的带领下脱离铁血主力舰队向我们高速驶来…！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 啧，这下我们的速度优势也没了，看来不打算这么轻易地放我们走啊…<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
@@ -434,55 +434,55 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=「恶魔」与「吸血鬼」|选项=13|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">Z36：</span><br>
+<span style="color:#ec5d53;">{{AF|Z36}}：</span><br>
 呵呵呵，感受到这来自魔眼中深邃的黑暗了么！很快你就将成为恶魔的祭品，准备感受真正的恐惧吧！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 很遗憾，人家可是吸血鬼，才不怕什么恶魔呢！乖乖臣服在我的裙下吧~<br>
-<span style="color:#ec5d53;">Z36：</span><br>
+<span style="color:#ec5d53;">{{AF|Z36}}：</span><br>
 啊！这股力量…难道是真祖之力？！<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 居然…能对上频道啊…<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
-哈啊…这是我想说的话才对！居然能和这种状态下的Z36正常交流…<br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
+哈啊…这是我想说的话才对！居然能和这种状态下的{{AF|Z36}}正常交流…<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
-...你就是希佩尔吧。初次见面...我是皇家所属航空母舰英仙座。铁血舰队，如果你们能放下----<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+...你就是{{AF|希佩尔}}吧。初次见面...我是皇家所属航空母舰英仙座。铁血舰队，如果你们能放下----<br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 哈？！现在才说这个...？这都已经打起来了吧......！<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 刚刚有点走神，现在补上…<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 ……例行流程就免了，大家立场不同，为各自阵营作战到最后一刻吧！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 ——有破绽！<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 有个鬼啦！区区轻巡洋舰而已嚣张什么！真正的攻击，应该是这样的！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 切。<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 嘁，别乱跑啊！哼哼…今天铁血主力全部出马，你们一·个·都·跑·不·掉！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=疑惑|选项=14|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">Z36：</span><br>
-呃…希佩尔,被她们给跑了…<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|Z36}}：</span><br>
+呃…{{AF|希佩尔}},被她们给跑了…<br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 啊啊啊啊！这些舰载机太烦人了！<br>
 气死我了，看来这些皇家舰队也不是只知道逃跑嘛，很好，这样才有作为猎物的价值！<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
-呼~动力受损的希佩尔应该一段时间动弹不得了，暂时脱离险境~<br>
+呼~动力受损的{{AF|希佩尔}}应该一段时间动弹不得了，暂时脱离险境~<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
-…有点奇怪。铁血主力舰队前进的速度好快，已经快要和希佩尔汇合了...<br>
+…有点奇怪。铁血主力舰队前进的速度好快，已经快要和{{AF|希佩尔}}汇合了...<br>
 <span style="color:#4eb24e;">吸血鬼：</span><br>
 什么！？战列舰编队怎么可能跑得这么快...？！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
-英仙座，侦查准确无误么？确定提尔比茨等铁血主力舰都在跟随舰队移动？<br>
+英仙座，侦查准确无误么？确定{{AF|提尔比茨}}等铁血主力舰都在跟随舰队移动？<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 嗯，绝对没错。<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 使用侦察机对她们进行攻击看看？只要试探性攻击一下就好。<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 …我觉得几艘侦察机不可能对主力舰造成有效的损害。不过既然你这么说的话，稍等一下——<br>
-唔…？提尔比茨对于侦察机的攻击没有任何回应，位于两侧的沙恩霍斯特和格奈森瑙也是一样。<br>
+唔…？{{AF|提尔比茨}}对于侦察机的攻击没有任何回应，位于两侧的{{AF|沙恩霍斯特}}和{{AF|格奈森瑙}}也是一样。<br>
 判断侦察机没有任何威胁能力所以直接无视了…么？真是自信呢。<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 对于攻击没有回应、高速的移动的主力舰队……难道说…！<br>
@@ -517,8 +517,8 @@ Eisen und Blut über alles<br>
 <span style="color:#4eb24e;">英勇：</span><br>
 我知道嘛…就是觉得缺少了些挑战性...还是包围消灭铁血主力舰队的选项更有意思些！<br>
 <span style="color:#4eb24e;">豪：</span><br>
-铁血主力舰队啊......俾斯麦已经销声匿迹很久了，听说铁血现在前的所有舰队都由腓特烈大帝控制。<br>
-沙恩霍斯特、格奈森瑙、提尔比茨、斯佩伯爵…都在之前的打击行动里先后受到了不同程度的损伤，也有一段时间没有在海面上看到了吧。<br>
+铁血主力舰队啊......{{AF|俾斯麦}}已经销声匿迹很久了，听说铁血现在前的所有舰队都由{{AF|腓特烈大帝}}控制。<br>
+{{AF|沙恩霍斯特}}、{{AF|格奈森瑙}}、{{AF|提尔比茨}}、{{AF|斯佩伯爵}}…都在之前的打击行动里先后受到了不同程度的损伤，也有一段时间没有在海面上看到了吧。<br>
 <span style="color:#4eb24e;">伊卡洛斯：</span><br>
 经历了这么长时间的失败，铁血舰队就算还有能用的船，真的还有主动挑战我们的勇气么…？<br>
 <span style="color:#4eb24e;">英勇：</span><br>
@@ -545,12 +545,12 @@ Eisen und Blut über alles<br>
 <span style="color:#4eb24e;">爱丁堡：</span><br>
 通讯器有反应了…是支援舰队发来的联络！<br>
 <span style="color:#4eb24e;">通讯器：</span><br>
-电告，包括战列舰提尔比茨号、沙恩霍斯特号、格奈森瑙号、德意志号、斯佩伯爵号在内的铁血主力舰队已经完成集结，现在正在向巴伦支海的方向逼近。<br>
+电告，包括战列舰{{AF|提尔比茨}}号、{{AF|沙恩霍斯特}}号、{{AF|格奈森瑙}}号、{{AF|德意志}}号、{{AF|斯佩伯爵}}号在内的铁血主力舰队已经完成集结，现在正在向巴伦支海的方向逼近。<br>
 主力舰队请按照预定计划所有舰船立刻掉头向西方前进，准备迎击铁血主力舰队。<br>
 <span style="color:#4eb24e;">豪：</span><br>
 铁血终于还是对运输船团动心了么…让我们等的好久啊！<br>
 <span style="color:#4eb24e;">英勇：</span><br>
-呵，居然连提尔比茨都出动了？真亏铁血这么快就把主力舰都修好了。<br>
+呵，居然连{{AF|提尔比茨}}都出动了？真亏铁血这么快就把主力舰都修好了。<br>
 <span style="color:#4eb24e;">伊卡洛斯：</span><br>
 除了规模上有点超出预期之外，一切都如陛下所料呢。<br>
 <span style="color:#4eb24e;">豪：</span><br>
@@ -714,18 +714,18 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=袭击准备|选项=22|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">U-101：</span><br>
+<span style="color:#ec5d53;">{{AF|U-101}}：</span><br>
 皇家护卫舰的阵型稍微混乱了一下，紧接着又恢复队形继续前进了哦。<br>
-<span style="color:#ec5d53;">U-522：</span><br>
-什么嘛，结果和欧根说的完全不一样......我就说怎么会出现护航编队抛弃运输船撤离的好事。<br>
-<span style="color:#ec5d53;">U-81：</span><br>
-发消息给欧根，告诉她计划失败了，狼群还是会按照预定方案对船团进行袭击。<br>
-<span style="color:#ec5d53;">U-101：</span><br>
-真可惜~如果欧根的计划能成功，我们就能一举干掉所有的运输船了！<br>
-<span style="color:#ec5d53;">U-522：</span><br>
+<span style="color:#ec5d53;">{{AF|U-522}}：</span><br>
+什么嘛，结果和{{AF|欧根}}说的完全不一样......我就说怎么会出现护航编队抛弃运输船撤离的好事。<br>
+<span style="color:#ec5d53;">{{AF|U-81}}：</span><br>
+发消息给{{AF|欧根}}，告诉她计划失败了，狼群还是会按照预定方案对船团进行袭击。<br>
+<span style="color:#ec5d53;">{{AF|U-101}}：</span><br>
+真可惜~如果{{AF|欧根}}的计划能成功，我们就能一举干掉所有的运输船了！<br>
+<span style="color:#ec5d53;">{{AF|U-522}}：</span><br>
 期待会有这种好事，还不如期待一会儿鱼雷打的准一点。<br>
 面对这种规模的护航舰队，我们能取得的战果恐怕会很有限吧...<br>
-<span style="color:#ec5d53;">U-81：</span><br>
+<span style="color:#ec5d53;">{{AF|U-81}}：</span><br>
 能解决一艘是一艘，让狼群开始狩猎吧~！<br>
 {{折叠面板|内容结束}}
 
@@ -749,17 +749,17 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=狼群袭击|选项=24|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 嗨，我们又见面了，皇家的护航舰船们~<br>
 <span style="color:#4eb24e;">鹰：</span><br>
 明明刚刚才吃了败仗，真是不长记性啊…<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 铁血的各位，就算再纠缠下去，也不会给你们靠近运输船队的机会的哦？<br>
-<span style="color:#ec5d53;">U-522：</span><br>
+<span style="color:#ec5d53;">{{AF|U-522}}：</span><br>
 哼哼~能不能做到就要看你的本事了哦，皇家的女仆小姐~<br>
-<span style="color:#ec5d53;">U-101：</span><br>
+<span style="color:#ec5d53;">{{AF|U-101}}：</span><br>
 破交战可是我们的拿手好戏，没有船团能从铁血狼群的袭击下完好无损的逃生！<br>
-<span style="color:#ec5d53;">U-81：</span><br>
+<span style="color:#ec5d53;">{{AF|U-81}}：</span><br>
 嘻嘻，漂浮在海面上的运输舰残骸，将会是铁血送给你们自大的女王最好的礼物。<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 这句话我可不能当做没听见。将你们变成护航行动中的战绩，才是送给陛下最好的礼物！<br>
@@ -767,13 +767,13 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=威胁解除|选项=25|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">U-101：</span><br>
-呜…U-81，我的大鱼刚刚被深水炸弹击中了！<br>
-<span style="color:#ec5d53;">U-73：</span><br>
+<span style="color:#ec5d53;">{{AF|U-101}}：</span><br>
+呜…{{AF|U-81}}，我的大鱼刚刚被深水炸弹击中了！<br>
+<span style="color:#ec5d53;">{{AF|U-73}}：</span><br>
 鱼雷也都打光了…对面的护航阵型密不透风呀…<br>
-<span style="color:#ec5d53;">U-522：</span><br>
+<span style="color:#ec5d53;">{{AF|U-522}}：</span><br>
 唔...量产型舰队也快顶不住了，差不多该考虑撤退了吧？<br>
-<span style="color:#ec5d53;">U-81：</span><br>
+<span style="color:#ec5d53;">{{AF|U-81}}：</span><br>
 最终战果只有4艘么…算了~见好就收，大家分散撤退，注意安全！<br>
 <span style="color:#4eb24e;">赫敏：</span><br>
 攻击减弱了，潜艇装载的鱼雷有限，打光了开始撤退了么…<br>
@@ -803,27 +803,27 @@ Eisen und Blut über alles<br>
 谢菲尔德在海面上一面灵巧地规避着炮火，一面向铁血主力舰队方的向疾驰着。<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 不太对劲，袭来的火力密度太小了…<br>
-<span style="color:#ec5d53;">德意志：</span><br>
+<span style="color:#ec5d53;">{{AF|德意志}}：</span><br>
 到此为止了，给我停下！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
-德意志！？<br>
-<span style="color:#ec5d53;">德意志：</span><br>
+{{AF|德意志}}！？<br>
+<span style="color:#ec5d53;">{{AF|德意志}}：</span><br>
 首先夸奖一下你的勇气吧，区区一艘轻巡洋舰就敢正面迎击我们的主力舰队！<br>
-不过，如果让你靠过去对提尔比茨放鱼雷就麻烦了，就给我留在这里吧！<br>
+不过，如果让你靠过去对{{AF|提尔比茨}}放鱼雷就麻烦了，就给我留在这里吧！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 啧，碍事！<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 终于追上你了…！没事吧，谢菲尔德？<br>
 <br>
-英仙座适时赶来支援，然而舰载机投下的炸弹却穿过了德意志的身体，仅在空旷水面上激起空虚的浪花。<br>
+英仙座适时赶来支援，然而舰载机投下的炸弹却穿过了{{AF|德意志}}的身体，仅在空旷水面上激起空虚的浪花。<br>
 <span style="color:#4eb24e;">谢菲尔德&英仙座：</span><br>
 什么……？！<br>
-<span style="color:#ec5d53;">德意志：</span><br>
+<span style="color:#ec5d53;">{{AF|德意志}}：</span><br>
 呵呵呵呵呵......哈哈哈哈哈哈哈哈哈哈哈！<br>
 震惊吧，低等动物！我们铁血的科技可是世界第一！<br>
 <br>
-伴随着一连串嚣张的笑声，德意志的身体逐渐变的透明，最后完全消失了。<br>
-几乎是在同一时间内，提尔比茨、沙恩霍斯特、格奈森瑙、斯佩伯爵......其余的铁血主力也如同幻影一般随着德意志一起消失了。<br>
+伴随着一连串嚣张的笑声，{{AF|德意志}}的身体逐渐变的透明，最后完全消失了。<br>
+几乎是在同一时间内，{{AF|提尔比茨}}、{{AF|沙恩霍斯特}}、{{AF|格奈森瑙}}、{{AF|斯佩伯爵}}......其余的铁血主力也如同幻影一般随着{{AF|德意志}}一起消失了。<br>
 原本庞大的铁血主力舰队，最后只剩零星的巡洋舰和驱逐舰孤零零地行驶在空旷的海面上——<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 铁血主力舰队…消失了？<br>
@@ -850,26 +850,26 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=揭晓|选项=27|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 呵呵呵呵，果然很震惊啊~！最开始见到的时候我也被吓了一跳哦。<br>
 啊，等等，之前的消息是故意放过去的，接下来也该让你们体会一下通信受阻的感觉了~<br>
-<span style="color:#ec5d53;">Z2：</span><br>
-欧根，狼群发来消息，皇家的护航舰艇根本没有脱离运输船队。她们即将展开强攻，你的计划失败了。<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
-失败了么...算啦~腓特烈只是让我做这件事，又不是让我做成这件事。我的任务已经完成，剩下的随狼群她们打吧~<br>
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
+{{AF|欧根}}，狼群发来消息，皇家的护航舰艇根本没有脱离运输船队。她们即将展开强攻，你的计划失败了。<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
+失败了么...算啦~{{AF|腓特烈}}只是让我做这件事，又不是让我做成这件事。我的任务已经完成，剩下的随狼群她们打吧~<br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 “做”和“做成”...我还是不太明白这个行动的意义......<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 呼呼呼，有些事情还是不要知道会比较轻松哦~<br>
-<span style="color:#ec5d53;">Z2：</span><br>
-哦。那么就请全知全能的欧根大人告诉无知的我，现在主力舰队的伪装已经被识破了，接下来应该怎么办呢？<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
+哦。那么就请全知全能的{{AF|欧根}}大人告诉无知的我，现在主力舰队的伪装已经被识破了，接下来应该怎么办呢？<br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 唔........总而言之先和她们打一场？<br>
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 按照你手里那份无知的我并不知道的神秘作战计划，其实我们现在已经可以撤了对吧.......<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 别这么没干劲嘛。我们吓唬了她们那么久，如果不真刀真枪的打一打，她们怎么肯乖乖放我们撤回去~<br>
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 真是歪理......我知道了，现在对舰队下达作战指令。各舰就位，准备战斗。<br>
 {{折叠面板|内容结束}}
 
@@ -907,32 +907,32 @@ Eisen und Blut über alles<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=计划之外|选项=29|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 发现塞壬舰队出现在皇家舰队的东北方，与我们一同对皇家舰队构成了夹击之势。<br>
 以及，我们的通讯器也突然瘫痪了，这些也都是计划的一环么？<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 ......计划里可没有这些哦。<br>
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 那就是说，就算是我们的通讯系统也还是扛不住塞壬的干扰么......<br>
 接下来怎么办，和塞壬稍微“配合”一下？<br>
-<span style="color:#ec5d53;">欧根亲王：</span><br>
+<span style="color:#ec5d53;">{{AF|欧根亲王}}：</span><br>
 ........................<br>
 呵，感觉心情突然变差了。任务已经完成了，我们撤退吧。<br>
-<span style="color:#ec5d53;">Z36：</span><br>
-希佩尔，天上有大量皇家的舰载机朝你飞过来了哦。<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|Z36}}：</span><br>
+{{AF|希佩尔}}，天上有大量皇家的舰载机朝你飞过来了哦。<br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 哈？！为什么都突然朝我飞过来了啊！<br>
-<span style="color:#ec5d53;">Z36：</span><br>
-因为你是希佩尔级的首舰，对面把你当成我们的舰队旗舰了吧...<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|Z36}}：</span><br>
+因为你是{{AF|希佩尔}}级的首舰，对面把你当成我们的舰队旗舰了吧...<br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 哈啊...那还真是多谢！不就是多几架飞机么，有什么好神气的！让舰队摆开防空队形，把它们全打下来！<br>
-<span style="color:#ec5d53;">Z2：</span><br>
-不需要了哦。希佩尔、Z36，我们的作战行动结束，准备撤退。<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
+不需要了哦。{{AF|希佩尔}}、{{AF|Z36}}，我们的作战行动结束，准备撤退。<br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 ...哎？战斗开始到现在，我们还任何战果都没取得啊！<br>
-<span style="color:#ec5d53;">Z2：</span><br>
+<span style="color:#ec5d53;">{{AF|Z2}}：</span><br>
 计划之外的塞壬舰队要过来搅局了，我们见好就收。<br>
-<span style="color:#ec5d53;">希佩尔海军上将：</span><br>
+<span style="color:#ec5d53;">{{AF|希佩尔海军上将}}：</span><br>
 ......我明白了。哼，这次算是便宜她们了，我们撤！<br>
 <span style="color:#4eb24e;">谢菲尔德：</span><br>
 铁血舰队开始撤退了，果然是不想再承担大型舰损伤的风险了吗…<br>
@@ -1261,9 +1261,9 @@ Eisen und Blut über alles<br>
 我明白了。<br>
 <span style="color:#4eb24e;">伊丽莎白女王：</span><br>
 “留存于水面下的往昔，浮现在假设中的虚妄”，啧，铁血已经成功了一半了么…<br>
-看来这边也得加快速度了…啊啊啊！真是的，那个腓特烈大帝究竟是怎么回事啊！<br>
-早在心智魔方出现之前，腓特烈大帝号的船体就已经随着与塞壬对抗的“第十一节”行动，伴随着无数铁血军舰和皇家军舰一起沉没在斯卡帕湾水底了才对。<br>
-难道说是塞壬亲自…呵，这么想下来。现在的腓特烈大帝究竟算“水下的往昔”还是“假设的虚妄”呢…<br>
+看来这边也得加快速度了…啊啊啊！真是的，那个{{AF|腓特烈大帝}}究竟是怎么回事啊！<br>
+早在心智魔方出现之前，{{AF|腓特烈大帝}}号的船体就已经随着与塞壬对抗的“第十一节”行动，伴随着无数铁血军舰和皇家军舰一起沉没在斯卡帕湾水底了才对。<br>
+难道说是塞壬亲自…呵，这么想下来。现在的{{AF|腓特烈大帝}}究竟算“水下的往昔”还是“假设的虚妄”呢…<br>
 <br>
 轰---------！<br>
 <span style="color:#4eb24e;">贝尔法斯特：</span><br>
@@ -1272,14 +1272,14 @@ Eisen und Blut über alles<br>
 铁血的大量军舰…？她们不是正往巴伦支海去么，怎么会突然出现在这里！<br>
 <span style="color:#4eb24e;">贝尔法斯特：</span><br>
 看来…铁血不知道通过什么方式欺骗了我们的侦察机。陛下，请您尽快撤离。<br>
-<span style="color:#ec5d53;">德意志：</span><br>
+<span style="color:#ec5d53;">{{AF|德意志}}：</span><br>
 给我等一下！皇家的伊丽莎白女王，没想到能在这里遇到你啊，哈哈哈哈哈哈！<br>
 真是出乎意料的惊喜！你们用斯卡帕湾封锁了铁血这么久，今天终于被我们抓到机会了吧！<br>
 反正这片可恶的斯卡帕湾锚地是肯定要被彻底摧毁了，既然在这里碰上了，就让你们也留在这里一起陪葬吧！<br>
 <span style="color:#4eb24e;">伊丽莎白女王：</span><br>
 贝法，敌人的规模清楚了么。<br>
 <span style="color:#4eb24e;">贝尔法斯特：</span><br>
-十分抱歉，陛下，事发突然…还未完全摸清敌方舰队的规模，不过除了德意志之外，至少还有两艘以上铁血战列舰正在对锚地进行轰击。<br>
+十分抱歉，陛下，事发突然…还未完全摸清敌方舰队的规模，不过除了{{AF|德意志}}之外，至少还有两艘以上铁血战列舰正在对锚地进行轰击。<br>
 <span style="color:#4eb24e;">伊丽莎白女王：</span><br>
 果真是铁血的主力舰队么…百密一疏…唉，果然还是没法事事尽如人意啊。<br>
 哼，区区铁血的袖珍战列舰，不要在本王面前太嚣张了！<br>
@@ -1327,7 +1327,7 @@ Salute（干杯）~黎塞留，鸢尾教国也算在你的带领下走向了一�
 <span style="color:#4eb24e;">黎塞留：</span><br>
 怎么可能！……伊丽莎白居然被摆了一道么？<br>
 <span style="color:#ffd000;">利托里奥：</span><br>
-有一手啊，铁血的腓特烈大帝……看样子接下来的局势又要大变了啊…<br>
+有一手啊，铁血的{{AF|腓特烈大帝}}……看样子接下来的局势又要大变了啊…<br>
 <br>
 白鹰·NY司令部 同一时刻<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>

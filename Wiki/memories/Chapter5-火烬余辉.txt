@@ -1123,11 +1123,11 @@ NA海域中的风暴才出现了数月时间，怎么会积累这么庞大的残
 碧蓝航线的舰队……水下受到的干扰很小，也许从这里打击会有效。<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>
 你是……铁血的潜艇？！<br>
-<span style="color:#ffd000;">U-47：</span><br>
-是。铁血VIIB型潜艇，U-47。<br>
+<span style="color:#ffd000;">{{AF|U-47}}：</span><br>
+是。铁血VIIB型潜艇，{{AF|U-47}}。<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>
 铁血的潜艇怎么会出现在这里？<br>
-<span style="color:#ffd000;">U-47：</span><br>
+<span style="color:#ffd000;">{{AF|U-47}}：</span><br>
 在执行侦察任务途中，我被突然出现的不明冲击卷来了这里。<br>
 在做出了如果不解决敌人我也无法离开的判断之后，决定主动向你们发起联络……<br>
 <span style="color:#4eb24e;">孟菲斯：</span><br>
@@ -1137,7 +1137,7 @@ NA海域中的风暴才出现了数月时间，怎么会积累这么庞大的残
 '''''<span style="color:black;">选择项1：有疑点，但是——</span>'''''<br>
 <br>
 签订停火协议的目的就是为了应对塞壬的威胁，相信铁血不会在这种时候违约。<br>
-<span style="color:#ffd000;">U-47：</span><br>
+<span style="color:#ffd000;">{{AF|U-47}}：</span><br>
 理性的选择，指挥官。<br>
 全弹发射准备。仲裁机关，Auf wiedersehen……<br>
 <br>
@@ -1458,11 +1458,11 @@ XIV立刻压制实验品的后勤舰队。VIII阵型变换。不要给余烬喘�
 碧蓝航线的舰队……水下受到的干扰很小，也许从这里打击会有效。<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>
 你是……铁血的潜艇？！<br>
-<span style="color:#ffd000;">U-47：</span><br>
-是。铁血VIIB型潜艇，U-47。<br>
+<span style="color:#ffd000;">{{AF|U-47}}：</span><br>
+是。铁血VIIB型潜艇，{{AF|U-47}}。<br>
 <span style="color:#4eb24e;">萨拉托加：</span><br>
 铁血的潜艇怎么会出现在这里？<br>
-<span style="color:#ffd000;">U-47：</span><br>
+<span style="color:#ffd000;">{{AF|U-47}}：</span><br>
 在执行侦察任务途中，我被突然出现的不明冲击卷来了这里。<br>
 在做出了如果不解决敌人我也无法离开的判断之后，决定主动向你们发起联络……<br>
 <span style="color:#4eb24e;">孟菲斯：</span><br>
@@ -1472,7 +1472,7 @@ XIV立刻压制实验品的后勤舰队。VIII阵型变换。不要给余烬喘�
 '''''<span style="color:black;">选择项1：有疑点，但是——</span>'''''<br>
 <br>
 签订停火协议的目的就是为了应对塞壬的威胁，相信铁血不会在这种时候违约。<br>
-<span style="color:#ffd000;">U-47：</span><br>
+<span style="color:#ffd000;">{{AF|U-47}}：</span><br>
 理性的选择，指挥官。<br>
 全弹发射准备。仲裁机关，Auf wiedersehen……<br>
 <br>

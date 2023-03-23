@@ -25,7 +25,7 @@
 回来了……累了，睡一会…<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 拉菲酱先别睡，侦查任务在回到港区前都不算完啦！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 本来就是被派去镜面海域侦查，没想到被敌人发现打了一场……累了也是可以理解的呢<br>
 <span style="color:#4eb24e;">涅普顿：</span><br>
 啊ーー…不行了！没想到和使出全力的女神形态战斗是有这么累啊…<br>
@@ -68,7 +68,7 @@
 说起来…{{AF|明石}}她正在找涅普涅普你们呢<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 大致情况了解了喵。各位女神，在这个世界似乎没法施展全力喵？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 {{AF|明石}}知道该怎么办吗？<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 很简单喵，入乡随俗――制作女神们专用的舰装就好了喵<br>
@@ -128,7 +128,7 @@
 {{折叠面板|标题=深绿的终局|选项=4|主框=1|样式=primary|展开=是}}
 <br>
 ーー哔哔...哔哔...哔哔...<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 在我们未知的频段中接收到了通讯信号，这个是......？<br>
 <span style="color:#4eb24e;">伊斯特瓦尔：</span><br>
 啊ー，喂喂ー大家好，听的见吗ー？<br>
@@ -158,7 +158,7 @@
 看来是这样呢<br>
 <span style="color:#4eb24e;">伊斯特瓦尔：</span><br>
 总之，这边会尽全力让虫洞再次开启。大家也一定要小心<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 刚才的通信我们这边也听到了......这回事件的黑幕开始明朗起来了呢<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 一定，是塞壬...搞的鬼<br>
@@ -193,7 +193,7 @@
 涅噗！？是伊森的声音！<br>
 <span style="color:#4eb24e;">诺瓦露：</span><br>
 果然……还要做什么吗？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 镜面海域的冒牌货已经被我和涅普一起解决了啊？<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 啊，莫非是……打倒的冒牌货还不够多？<br>
@@ -246,7 +246,7 @@
 嗯……确实能理解。<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 我们也在镜面海域打过和自己一模一样的敌人呢……感觉这个东西不是外人的事呢<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 关于镜面海域我们了解的也很少……<br>
 <span style="color:#4eb24e;">布兰：</span><br>
 ……事件似乎没那么容易解决<br>
@@ -269,7 +269,7 @@
 额…我觉得不那么急着回去也没关系吧？（抱）<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 ……嗯？贝露，为什么要抱着拉菲……？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 那，那个，贝露小姐，这是……？<br>
 <span style="color:#4eb24e;">贝露：</span><br>
 这个世界有这么多可爱的小妹妹……我想就是永远住在这边也好啊！<br>
@@ -283,7 +283,7 @@
 <span style="color:#4eb24e;">涅普顿：</span><br>
 ……刚才说到布兰她们昨天又被伊森扔了一个难题<br>
 然后今天镜面海域就出现了！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 连续两天出现……很少见的情况。<br>
 大概是第一次吧？<br>
 <span style="color:#4eb24e;">涅普顿：</span><br>
@@ -294,7 +294,7 @@
 诺瓦露我知道啦～♪但是这里的指挥官也肯定刷镜面海域刷到燃料用光的！对吧拉菲酱？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 ……嗯……是吗……？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 这时候应该为指挥官说话才对吧？<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 啊—我家指挥官倒不是这样的……但是也有不光燃料，连疲劳度都刷成红脸的指挥官呢……<br>
@@ -356,7 +356,7 @@
 哇啊！不要不要不要！不要回去啦！我还想在这个世界和大家玩啦！改天再回去啦！比如三个月后！<br>
 <span style="color:#4eb24e;">布兰：</span><br>
 哪能呆那么长时间啊！说回去就回去啦！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 大家回到原来的世界的话，我们也有点寂寞呢<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 这样吧！至少再在这边休息2、3天！<br>
@@ -384,10 +384,10 @@
 嗯嗯！我每天都回来找大家玩！记得准备我的酸素可乐！<br>
 <span style="color:#4eb24e;">诺瓦露：</span><br>
 喂！不要太厚脸皮给这个世界的大家添麻烦啊！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 不会不会，大家不用客气随时来就好。我们会欢迎的。<br>
 <span style="color:#4eb24e;">贝露：</span><br>
-真是的，Z23这么说的话……姐姐真的每天都会来哦！<br>
+真是的，{{AF|Z23}}这么说的话……姐姐真的每天都会来哦！<br>
 <span style="color:#4eb24e;">布兰：</span><br>
 ……贝露她真的会陷在这里的还是别对她太客气比较好。<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>

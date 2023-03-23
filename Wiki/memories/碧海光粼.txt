@@ -821,7 +821,7 @@
 况且那位指挥官之前也有在军事学院学习的经历——<br>
 <span style="color:#4eb24e;">{{AF|霞}}：</span><br>
 {{AF|信浓}}大人，非常抱歉打扰您……<br>
-铁血浮岛要塞负责人彼得·史特拉塞大人发来了联络，她想和您确认一下舰队对接的细节。<br>
+铁血浮岛要塞负责人{{AF|彼得·史特拉塞}}大人发来了联络，她想和您确认一下舰队对接的细节。<br>
 <span style="color:#4eb24e;">{{AF|信浓}}：</span><br>
 知道了。<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
@@ -866,8 +866,8 @@
 两轮齐射后，建筑的结界被打破了。看来这里的封印并没有比量产型上的坚固多少。<br>
 烟雾落下，出现在众人面前的身影居然是————<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
-你是……铁血的欧根亲王？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+你是……铁血的{{AF|欧根亲王}}？<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 哟~重樱的各位盟友们，没想到能在这样的场合下相遇啊。<br>
 各位的营救真是太及时了，我还以为要被困死在那个奇怪的房间里了。<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
@@ -875,21 +875,21 @@
 您身后的那位小姐是？<br>
 <span style="color:#ffd000;">？？？：</span><br>
 ………………<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
-她的名字叫奥丁。你们不用在意她，就当她是我的侍从就好。<br>
-<span style="color:#ffd000;">奥丁：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
+她的名字叫{{AF|奥丁}}。你们不用在意她，就当她是我的侍从就好。<br>
+<span style="color:#ffd000;">{{AF|奥丁}}：</span><br>
 ………………<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
-奥丁小姐，真是一个沉默寡言的人啊……哈哈。<br>
+{{AF|奥丁}}小姐，真是一个沉默寡言的人啊……哈哈。<br>
 两位是怎么被困在这里的呢？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 好问题，我们是怎么被困在这里的呢……<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 （自己的事不要出来反问别人啊……！）<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 {{AF|筑摩}}阁下、{{AF|骏河}}阁下！我们遇到新的机关了————咦？？<br>
-这不是欧根亲王阁下么！你也是被龙宫城美丽的风景吸引进来之后受困于此的么？！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+这不是{{AF|欧根亲王}}阁下么！你也是被龙宫城美丽的风景吸引进来之后受困于此的么？！<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 啊……我想起来了，没错，就是这么回事。<br>
 原本我们是为了迎接诸位的到来而先期出发的引航舰队，在离开基地不久后就发现了这座奇怪的浮岛建筑群。<br>
 本来想着稍微做些侦查，多少能够排除一点安全隐患，没想到就被困在机关中了。<br>
@@ -899,12 +899,12 @@
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 真是的！如果不是碰巧我们也被困进来，你们的处境就危险了！<br>
 不过现在已经没问题了哦~不用担心，可靠的{{AF|筑摩}}阁下和{{AF|骏河}}阁下一定能带我们脱离困境的！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 那可真是个好消息。被关了这么久，感觉都要出现幽闭恐惧症了……<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
-欧根亲王，既然你们是先于我们被困在这里的。那就证明龙宫城至少出水入水了两次。<br>
+{{AF|欧根亲王}}，既然你们是先于我们被困在这里的。那就证明龙宫城至少出水入水了两次。<br>
 在这期间你们有收集到关于龙宫城的情报么，任何内容都好。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 作为结论来说，我十分确定这里是塞壬的机关。<br>
 除了一路上看到的塞壬舰队，这个庞大的浮岛要塞存在的本身就是证据。<br>
 铁血也在做浮岛要塞的研究所以我能格外明白，现在没有任何一个阵营具有制作出此等规模浮岛的能力。<br>
@@ -913,11 +913,11 @@
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 之前进来的时候有一个谜之音也说过类似的话！说中间有敌人宝藏还有回家的路之类的！<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
-我有个疑问……算上欧根亲王，现在合计三支舰队陆续在海域中失联。<br>
+我有个疑问……算上{{AF|欧根亲王}}，现在合计三支舰队陆续在海域中失联。<br>
 铁血和重樱两边肯定都已经在布置搜索行动了，我们就在这里等待支援不是更稳妥么？<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 可是她们没有我们已经随龙宫城进入水下的情报……单纯从海面上找应该很难发现我们的位置。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 没错~如果不由我们从内部破解机关让龙宫城浮上去的话，我们可能一生都要被困在这里了哦。<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 {{AF|骏河}}阁下！眼前的困境只能通过我们自己的努力克服啊！<br>
@@ -931,67 +931,67 @@
 根据{{AF|岛风}}提供的情报，只要破坏位于前方的封印海域中的机关就会被解除。<br>
 可是若想破坏机关，就必须解决掉堵塞航道的坚硬的敌人。而不解决坚硬的敌人，又无法破坏位于后方的机关。<br>
 我们只能依靠集中火力逐个消灭敌人，艰难向前推进。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 原来如此……这个效率可够低的。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
-那请问欧根亲王阁下有什么更高效率的方法么？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+那请问{{AF|欧根亲王}}阁下有什么更高效率的方法么？<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 也不能说没有吧~其实我在被困的时候一直在为打破屏障做准备。<br>
 既然被你们救了，积攒的力量不如就为突破眼前的困境做点贡献好了。<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 你居然真的有突破死循环的方案么？请务必详细说明。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 与其花时间说明，还是由我来向大家直接展示吧~<br>
-请大家向着两侧散开，为奥丁的开火留出条通道来。<br>
+请大家向着两侧散开，为{{AF|奥丁}}的开火留出条通道来。<br>
 ……还不够，再散开一点，散开一点~<br>
 <span style="color:#4eb24e;">{{AF|由良}}：</span><br>
 这样的距离够了么……？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 还是稍微再远点吧，比如像{{AF|骏河}}那样，她选的距离就不错嘛。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 （只不过和你拉开的距离保持一致而已……！）<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 留出这么宽敞的空间，你究竟打算做什么……？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 不要心急，{{AF|筑摩}}小姐，你马上就能知道了。<br>
 唔……以防万一，大家还是再向外散开一圈吧！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=冈格尼尔|选项=21|主框=1|样式=primary|展开=是}}
-<span style="color:#ffd000;">欧根亲王：</span><br>
-奥丁，准备好了么？<br>
-<span style="color:#ffd000;">奥丁：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
+{{AF|奥丁}}，准备好了么？<br>
+<span style="color:#ffd000;">{{AF|奥丁}}：</span><br>
 决战武装——主神之枪充能完毕。<br>
 刺穿吧————————冈格尼尔！<br>
 <br>
-一道粗大光束毫无征兆出现在奥丁正前方，然后紧贴水面向远方的敌人直射而去。<br>
+一道粗大光束毫无征兆出现在{{AF|奥丁}}正前方，然后紧贴水面向远方的敌人直射而去。<br>
 光束的炫目仿佛刺破了眼皮，将耀眼的白光强行投射在眼球之上。<br>
 由攻击引发的冲击则掀起巨浪，使人几乎难以维持平衡。<br>
 在双眼终于从致盲中恢复后，不久前还占据着水道的庞大敌方舰队已经荡然无存了。<br>
-<span style="color:#ffd000;">奥丁：</span><br>
-攻击结束，欧根亲王，请确认战斗结果。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
-战斗结果已确认，辛苦了，奥丁。<br>
+<span style="color:#ffd000;">{{AF|奥丁}}：</span><br>
+攻击结束，{{AF|欧根亲王}}，请确认战斗结果。<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
+战斗结果已确认，辛苦了，{{AF|奥丁}}。<br>
 好啦~现在前方畅通无阻，大家继续前进吧。<br>
 ……额，你们怎么了……？<br>
 <span style="color:#4eb24e;">{{AF|由良}}：</span><br>
 简直像是大天狗的龙卷一样…………<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 刚刚的攻击是什么……？那个夸张的冲击波是从舰装上发射出来的？？<br>
-奥丁小姐真和我们一样同为「舰船」么？！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
-虽然细节上有些区别，不过我觉得奥丁和我们一样都是「舰船」哦。<br>
+{{AF|奥丁}}小姐真和我们一样同为「舰船」么？！<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
+虽然细节上有些区别，不过我觉得{{AF|奥丁}}和我们一样都是「舰船」哦。<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 「计划舰」……没错吧？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
-情报收集很充分嘛~没错，奥丁就是被称为计划舰的舰船。<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
+情报收集很充分嘛~没错，{{AF|奥丁}}就是被称为计划舰的舰船。<br>
 既然已经知道的话，也不用这么惊讶吧。<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 原本只是作为情报了解过的程度而已，实际见到还是第一次…………<br>
 那些情报从阿非利加飘过来的时候我还在怀疑有夸大的成分……现在看来那些情报最大的问题是描述不足啊！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 好啦好啦~敌人虽然清理掉了，机关还在运作着呢。如果放着不管的话，说不定敌人还会冒出来哦。<br>
-奥丁已经没法再次开火了，我们还是先去解决掉机关的问题吧~<br>
+{{AF|奥丁}}已经没法再次开火了，我们还是先去解决掉机关的问题吧~<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=秘宝|选项=22|主框=1|样式=primary|展开=是}}
@@ -1007,19 +1007,19 @@
 这种类型的结界是不是这样处理最好呀？<br>
 <span style="color:#4eb24e;">{{AF|由良}}：</span><br>
 唔嗯……如果是你所说的那种类型的话，不过实际上我也没见到结界没法判断……<br>
-保护在外围的封印已经在奥丁小姐的一击中灰飞烟灭了……<br>
-不过机关本身还完整，我打算仔细检查一下……那个，欧根亲王阁下……?<br>
+保护在外围的封印已经在{{AF|奥丁}}小姐的一击中灰飞烟灭了……<br>
+不过机关本身还完整，我打算仔细检查一下……那个，{{AF|欧根亲王}}阁下……?<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
-啊，那边的欧根亲王！不要趁机乱动操作台啊，很危险吧！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+啊，那边的{{AF|欧根亲王}}！不要趁机乱动操作台啊，很危险吧！<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 不危险~不危险~操作塞壬装置我早就已经轻车熟路了。<br>
 会发生事故的概率连五成都不到哦。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 不要给五成成功率换个好听的说法啊！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 先这样……再这样……最后这样————完成！<br>
 <br>
-随着欧根亲王的操作结束，控制台发出了一阵机械启动的震动声，相同的谜之音也再次出现了。<br>
+随着{{AF|欧根亲王}}的操作结束，控制台发出了一阵机械启动的震动声，相同的谜之音也再次出现了。<br>
 <span style="color:#ffd000;">谜之音：</span><br>
 「龙宫城中的秘宝，在此向勇者献上」<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
@@ -1028,18 +1028,18 @@
 {{AF|筑摩}}阁下！{{AF|骏河}}阁下！！你们刚才说的出现在敌人身上的护盾，也出现在我们身上了哎！<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 难道龙宫城中各个机关区域之间是有关联的……？只要夺下来就能为我们所用。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 果然是这样的设计，跟我预想的一样。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 在你预想中不是只有五成成功率么……如果运气不好失败了呢？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 大概是机关重新启动，然后我们重新被大量敌人包围……？<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 （不行，太累了……跟这个危险分子完全合不来。）<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 不要一副垂头丧气的样子嘛。只要结果好，一切都好~<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
-非常感谢，欧根亲王阁下！有了这些护盾，火海就无法阻挡我们的前进了！<br>
+非常感谢，{{AF|欧根亲王}}阁下！有了这些护盾，火海就无法阻挡我们的前进了！<br>
 大家跟紧我，向着机关的方向，冲锋~！<br>
 {{折叠面板|内容结束}}
 
@@ -1081,13 +1081,13 @@
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 {{AF|筑摩}}阁下，{{AF|岛风}}队现在进展顺利，已经到达控制台的前方~<br>
 不过这个控制台好复杂，{{AF|岛风}}完全搞不懂要怎么弄……<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 这个很简单。我教你啊~首先这样……然后这样……最后这样……<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 原来如此！好像明白了，又好像没明白！<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 我说…现在还没到需要这个机关的时候，万一{{AF|岛风}}弄错了会很麻烦吧？<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 不会不会，我的说明简单易懂，只要再讲一遍就算{{AF|岛风}}也能明白。<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 嗯！只要{{AF|岛风}}再听一遍 ，大概也许可能就明白了！<br>
@@ -1150,22 +1150,22 @@
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 你的意思是同时启动怒涛和火海的机关，一次性大面积摧毁敌人？<br>
 听起来好像可行，不过应该派谁去操作机关呢。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 不用担心，合适的人不是就在这里嘛。<br>
-我一路打下来早就已经精疲力尽了，奥丁也没办法持续作战。<br>
+我一路打下来早就已经精疲力尽了，{{AF|奥丁}}也没办法持续作战。<br>
 现在可以绕过中心区域前往{{AF|岛风}}的那一侧。你们留在这里侦察，开机关的事就交给我们两个闲人吧。<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
-欧根阁下真是大好人！还有奥丁阁下也是，就拜托你们了！<br>
+{{AF|欧根}}阁下真是大好人！还有{{AF|奥丁}}阁下也是，就拜托你们了！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=向中心进发|选项=26|主框=1|样式=primary|展开=是}}
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 全部搞定，你们那边应该热闹起来了吧？<br>
 <span style="color:#4eb24e;">{{AF|葛城}}：</span><br>
 简直比烟火大会还热闹！巨浪卷着火焰把敌人全都烧光了哦！<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 连同机关上的封印也被一起破坏了，敌人的增援也停止了！<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 那还真是壮观，没能亲眼看到有些遗憾呢。<br>
 <span style="color:#ffd000;">谜之音：</span><br>
 「外围试炼结束，中心区域即将开启」<br>
@@ -1177,7 +1177,7 @@
 听得很清楚哦。跟之前推测的相同，中心区域有强敌存在。要突破看来需要费一番功夫了。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 额…相比前方存在的强敌，我觉得这个全程监控我们的谜之音更加令人不安……<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 说不定只是塞壬制作的贴心导航呢。已经到这一步了，我觉得还是干脆接受这个设定比较好哦。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 （不安的感觉加倍了！）<br>
@@ -1309,10 +1309,10 @@
 时间紧迫，只有{{AF|岛风}}的速度能在最短时间内开启四处机关，这次任务请务必让我来做。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 可是……<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 要给同伴多一些信任哦，{{AF|骏河}}。{{AF|岛风}}你过来我再跟你说一遍，如此如此……这般这般……<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
-感谢欧根亲王阁下……我完全明白了！大家请放心，机关的事就交给我吧！<br>
+感谢{{AF|欧根亲王}}阁下……我完全明白了！大家请放心，机关的事就交给我吧！<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 好吧，快去快回，一定要注意安全。<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
@@ -1323,7 +1323,7 @@
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
 这就是控制敌人无限出现的控制台，不知道开启后会发生什么呢……<br>
 呜……近距离仔细一看果然好复杂啊！<br>
-记得欧根亲王阁下给的操作方法是，唔唔唔……首先摁下这个，然后————<br>
+记得{{AF|欧根亲王}}阁下给的操作方法是，唔唔唔……首先摁下这个，然后————<br>
 <span style="color:#ffd000;">谜之音：</span><br>
 「提问——」<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
@@ -1388,9 +1388,9 @@
 这是什么会引起困扰的事情么…？<br>
 <span style="color:#ffd000;">谜之音：</span><br>
 「……这次真是来了个好目标」<br>
-「算了，我的任务完成，接下来是欧根去要去头疼的问题了」<br>
+「算了，我的任务完成，接下来是{{AF|欧根}}去要去头疼的问题了」<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
-哎？谜之音小姐你说什么，欧根亲王阁下要有什么困扰了么？！<br>
+哎？谜之音小姐你说什么，{{AF|欧根亲王}}阁下要有什么困扰了么？！<br>
 <span style="color:#ffd000;">谜之音：</span><br>
 「（糟了……）咳、{{AF|岛风}}哟！」<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
@@ -1476,7 +1476,7 @@
 <span style="color:#ec5d53;">{{AF|白龙}}：</span><br>
 好像确实有这件事，唉……大意了。<br>
 行吧，我{{AF|白龙}}说话算话，你们看上什么直接拿走就是了。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 哎哟，可以趁机好好大捞一笔了~<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 （不妙，这个人真的超恶劣……）<br>
@@ -1516,14 +1516,14 @@
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 不要勉强，{{AF|葛城}}！敌人不是你单枪匹马就能对付的。<br>
 <span style="color:#4eb24e;">{{AF|海风}}：</span><br>
-那个……非常感谢你，欧根亲王小姐。从战斗开始后就一直在保护我和{{AF|山风}}……<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+那个……非常感谢你，{{AF|欧根亲王}}小姐。从战斗开始后就一直在保护我和{{AF|山风}}……<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 小事一桩，我可不忍心看到你们这样可爱的女孩子受伤啊。<br>
 虽然精疲力尽的我在战斗上已经没什么用处了，不过防御上还是可以再努努力的！<br>
 姑且也算生死攸关的局面，我怎么说也得再加把劲才是。<br>
 <span style="color:#4eb24e;">{{AF|骏河}}：</span><br>
 （什么再加把劲……当时在天宇启户祭上你对{{AF|能代}}可不是这么打的！）<br>
-（……那个奥丁更是连主炮都没有再发射过一次，这些铁血的人是怎么回事啊，一点紧张感都没有么！）<br>
+（……那个{{AF|奥丁}}更是连主炮都没有再发射过一次，这些铁血的人是怎么回事啊，一点紧张感都没有么！）<br>
 （等等，这么说作为唯一的战列舰，战斗的火力不是只能靠我了么！）<br>
 <span style="color:#4eb24e;">{{AF|筑摩}}：</span><br>
 大家注意防空，不要急于取胜。<br>
@@ -1579,35 +1579,35 @@
 {{折叠面板|标题=纷乱|选项=35|主框=1|样式=primary|展开=是}}
 <br>
 重樱近海某处 数月前 <br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 哼哼哼哼♪~<br>
-<span style="color:#ffd000;">Z2：</span><br>
-心情很好啊，欧根。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|Z2}}：</span><br>
+心情很好啊，{{AF|欧根}}。<br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 没想到{{AF|赤城}}那么慷慨，真是得到了意料之外的收获啊~<br>
-<span style="color:#ffd000;">Z2：</span><br>
+<span style="color:#ffd000;">{{AF|Z2}}：</span><br>
 就算你再怎么开心，也不能这么走走停停吧。<br>
 我们现在的航行速度也太慢了些，放松请等到归国之后。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 我们又不是做了坏事的贼，没必要那么着急嘛~<br>
-<span style="color:#ffd000;">Z2：</span><br>
+<span style="color:#ffd000;">{{AF|Z2}}：</span><br>
 不不不……再怎么说{{AF|赤城}}她们做的也太明显了点，如果重樱的人反应过来怎么办。<br>
 你也看到了吧，重樱内部还挺复杂的，{{AF|赤城}}也没有完全掌握局势。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 结果上来说，我们的行动不是间接保护了神石的安全么？她们的大人物们就算反应过来了也不至于太生气吧。<br>
 结果好，一切就好嘛~<br>
-<span style="color:#ffd000;">Z2：</span><br>
+<span style="color:#ffd000;">{{AF|Z2}}：</span><br>
 希望拦在我们前方的舰队也能像你一样豁达……<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 ……哎？<br>
 <span style="color:#4eb24e;">{{AF|土佐}}：</span><br>
 铁血的诸位客人请留步。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 呃……你是{{AF|天城}}级的，不对，{{AF|加贺}}级的……<br>
 啊~{{AF|赤城}}大人是还有什么事要嘱咐么？难道是忘了使用说明？<br>
 <span style="color:#4eb24e;">{{AF|土佐}}：</span><br>
 不、我是来转达某位大人给予各位的提案的。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 某位大人…？你究竟是重樱哪一派的。<br>
 <span style="color:#4eb24e;">{{AF|雷}}：</span><br>
 请您不要紧张。{{AF|赤城}}大人所做之事，那位大人已经知晓了。<br>
@@ -1615,13 +1615,13 @@
 {{AF|大和}}级最了解{{AF|大和}}级。{{AF|赤城}}大人参加祭典和请你们来的目的，很容易被猜出来。<br>
 <span style="color:#4eb24e;">{{AF|雷}}：</span><br>
 在此基础上，她想要和你们谈一谈——关于铁血和重樱的未来。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 看来我们没有拒绝的选项吧？<br>
 <span style="color:#4eb24e;">{{AF|电}}：</span><br>
 为了诸位在重樱控制区内的旅途平安，我建议还是谈一谈比较好哦。<br>
 <span style="color:#4eb24e;">{{AF|土佐}}：</span><br>
 请，那位大人正在频道上等您。<br>
-<span style="color:#ffd000;">欧根亲王：</span><br>
+<span style="color:#ffd000;">{{AF|欧根亲王}}：</span><br>
 感觉事情好像变得更加有趣了……没问题，就让我们谈谈吧~<br>
 {{折叠面板|内容结束}}
 

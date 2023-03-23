@@ -88,7 +88,7 @@
 <span style="color:#ffde38;">波拉：</span><br>
 是的哦，扎拉姐。波拉这里也全歼敌人了…<br>
 <span style="color:#ffde38;">维托里奥.维内托：</span><br>
-好，大家都干的漂亮，凯撒，你带大家返回拉斯佩齐亚港修整，我会联系港区后勤好好犒劳大家的。<br>
+好，大家都干的漂亮，凯撒，你带大家返回拉{{AF|斯佩}}齐亚港修整，我会联系港区后勤好好犒劳大家的。<br>
 <span style="color:#ffde38;">扎拉：</span><br>
 庆功宴吗，真是值得期待呀~哈哈<br>
 等等…那是？<br>
@@ -105,7 +105,7 @@
 <span style="color:#ffde38;">扎拉：</span><br>
 皇家这班鬼鬼祟祟的家伙，就和苍蝇一样烦人！<br>
 <span style="color:#ffde38;">朱利奥·凯撒：</span><br>
-好了，全舰队继续前行，目标——拉斯佩齐亚！<br>
+好了，全舰队继续前行，目标——拉{{AF|斯佩}}齐亚！<br>
 <span style="color:#ffde38;">利托里奥：</span><br>
 ……<br>
 （一切都和计划的一样，接下来，好戏就要开演了）<br>
@@ -123,9 +123,9 @@
 <span style="color:#4eb24e;">光辉：</span><br>
 这是…加富尔…凯撒…扎拉级重巡…帝国舰队主力出动了？这照片的拍摄位置是……<br>
 <span style="color:#4eb24e;">厌战：</span><br>
-…拉斯佩齐亚港外围<br>
+…拉{{AF|斯佩}}齐亚港外围<br>
 <span style="color:#4eb24e;">光辉：</span><br>
-拉斯佩齐亚是帝国最深处的军港之一，难道是消灭塞壬舰队之后跑去度假了？<br>
+拉{{AF|斯佩}}齐亚是帝国最深处的军港之一，难道是消灭塞壬舰队之后跑去度假了？<br>
 不过，为什么陆间海中会出现塞壬舰队呢...<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 可能只是塞壬一次单纯的随机进攻，也可能是塞壬对陆间海发动大规模进攻的前兆，塞壬的行动模式谁也说不准。<br>
@@ -163,7 +163,7 @@
 
 {{折叠面板|标题=交涉|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">厌战：</span><br>
-前方就是拉斯佩齐亚了——<br>
+前方就是拉{{AF|斯佩}}齐亚了——<br>
 这片海域果然有塞壬出没…看来不可松懈呢<br>
 <span style="color:#ffde38;">利托里奥：</span><br>
 所以，皇家舰队的使者远道而来，就是希望我们重新回归碧蓝航线？<br>
@@ -746,7 +746,7 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 以你不曾见识的圣主之名义，<br>
 帮我逃出这是非和受苦之地，<br>
 把我带到你方才所说的地方，<br>
-让我能亲眼目睹圣彼得之门<br>
+让我能亲眼目睹圣{{AF|彼得}}之门<br>
 看一看世间悲惨的灵魂——<br>
 <span style="color:#ec5d53;">苝：</span><br>
 最后还是没有来吗？<br>
@@ -865,26 +865,26 @@ Lunga vita all'Impero！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=剩余价值|选项=22|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">沙恩霍斯特：</span><br>
+<span style="color:#ec5d53;">{{AF|沙恩霍斯特}}：</span><br>
 哼——果然帝国的那班战舰到了关键时刻一点都靠不住<br>
 平时鼓吹的陆间海第一舰队、欧罗巴最先进的海上力量，到了实战中居然没有一点反手之力<br>
 之前承诺把陆间海交给她们掌控就是一个错误的决定！<br>
-<span style="color:#ec5d53;">格奈森瑙：</span><br>
+<span style="color:#ec5d53;">{{AF|格奈森瑙}}：</span><br>
 皇家不但首次在夜战中出动了航空母舰，夜战雷达也使她们的战舰炮击命中率大幅提高<br>
 部分观测数据已经通过塞壬的数据网络传递回开发部了，希望能对新兵器的研发有所帮助<br>
-<span style="color:#ec5d53;">沙恩霍斯特：</span><br>
+<span style="color:#ec5d53;">{{AF|沙恩霍斯特}}：</span><br>
 曾经不可一世的帝国海军，最后的价值也就只有这点了…吗，呵呵呵<br>
-<span style="color:#ec5d53;">格奈森瑙：</span><br>
-另外，俾斯麦级战列舰的服役测试已经通过了最终阶段，预计再过1个月就可以正式服役<br>
-等到俾斯麦服役，“欧罗巴大陆第一战舰”的名号就会回到我们手上了<br>
-<span style="color:#ec5d53;">沙恩霍斯特：</span><br>
+<span style="color:#ec5d53;">{{AF|格奈森瑙}}：</span><br>
+另外，{{AF|俾斯麦}}级战列舰的服役测试已经通过了最终阶段，预计再过1个月就可以正式服役<br>
+等到{{AF|俾斯麦}}服役，“欧罗巴大陆第一战舰”的名号就会回到我们手上了<br>
+<span style="color:#ec5d53;">{{AF|沙恩霍斯特}}：</span><br>
 哼，敢于和狼群为敌的愚昧之徒，最终都将受到铁与血的制裁<br>
-格奈森瑙！<br>
-<span style="color:#ec5d53;">格奈森瑙：</span><br>
+{{AF|格奈森瑙}}！<br>
+<span style="color:#ec5d53;">{{AF|格奈森瑙}}：</span><br>
 在<br>
-<span style="color:#ec5d53;">沙恩霍斯特：</span><br>
+<span style="color:#ec5d53;">{{AF|沙恩霍斯特}}：</span><br>
 严格监视帝国舰队日后的行动，一旦出现可能的叛逃行为，立刻向司令部汇报！<br>
-<span style="color:#ec5d53;">格奈森瑙：</span><br>
+<span style="color:#ec5d53;">{{AF|格奈森瑙}}：</span><br>
 遵命，Eisen und Blut über alles！<br>
 {{折叠面板|内容结束}}
 

@@ -16,7 +16,7 @@
 没错，只能用“一头雾水”来形容。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 犯罪预告…？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 不不，也没有说明要犯什么罪吧？署名什么的也没有……看起来更像是…节目预告？<br>
 <br>
 莫非只是单纯的恶作剧信件？在这种不着边际的事情上花费过多的心力似乎也有点——<br>
@@ -28,7 +28,7 @@
 '''''<span style="color:black;">选择项1：拆开并阅读报告</span>'''''<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 欸，在港区周边海域突然观测到了新的岛屿！？<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 即将出现的“度假之岛”…的说？<br>
@@ -43,10 +43,10 @@
 <br>
 '''''<span style="color:black;">选择项1：表示同意</span>'''''<br>
 <span style="color:#4eb24e;">标枪：</span><br>
-太好啦~那我们就立马准备出发吧！Z23、{{AF|绫波}}、拉菲！<br>
+太好啦~那我们就立马准备出发吧！{{AF|Z23}}、{{AF|绫波}}、拉菲！<br>
 <span style="color:#4eb24e;">拉菲&{{AF|绫波}}：</span><br>
 哦~！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 等、等等！这可是正经的调查任务！可不是去玩的啊！<br>
 <br>
 维纳斯挑战赛…吗，虽然不知道具体的内容，不过似乎又要掀起一番波澜了啊。<br>
@@ -55,7 +55,7 @@
 {{折叠面板|标题=“预料之中”的相遇|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">标枪：</span><br>
 …看到了！那就是{{AF|明石}}报告里提到的新岛了吧！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 虽然确实只是个小岛，不过…距离港区这么近的海域，竟然有之前没有发现的岛屿？也太奇怪了…<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 前方发现船影！是……皮筏艇的说？<br>
@@ -63,14 +63,14 @@
 敌人…？先来两发鱼雷问候一下？<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 好像没看到武装…啊，对面好像也发现我们了……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 看来不是要开战的样子，先了解下情况看看吧！<br>
 <br>
 ……<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 太好了，总算遇到其他人了！我叫做霞，请问…你们是附近的居民吗？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
-霞…小姐？我是Z23，这边的分别是{{AF|绫波}}、拉菲、标枪，我们是奉命前来进行海域调查的“舰船”…<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+霞…小姐？我是{{AF|Z23}}，这边的分别是{{AF|绫波}}、拉菲、标枪，我们是奉命前来进行海域调查的“舰船”…<br>
 <span style="color:#4eb24e;">霞：</span><br>
 舰…船？啊，这么说起来，你们好像直接在海上漂着呢…这难道是某种忍术…？<br>
 <span style="color:#4eb24e;">标枪：</span><br>
@@ -79,7 +79,7 @@
 {{AF|绫波}}…可不会忍术的说。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 不知道舰船…莫非……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 看来这就是谜之信里说的“新的邂逅”了…那个，霞小姐，你是从那个岛出来的吗？<br>
 <span style="color:#4eb24e;">霞：</span><br>
 是的，具体的情况有些一言难尽…总之就是在不明所以的情况下，我和几位同伴突然被带到了这里…<br>
@@ -98,7 +98,7 @@
 <span style="color:#4eb24e;">？？？：</span><br>
 嗯？人好像变多了…？<br>
 <span style="color:#4eb24e;">霞：</span><br>
-啊哈哈，我先介绍一下好了，这几位是刚才我出去探索时遇到的，Z23、标枪、{{AF|绫波}}，以及拉菲。<br>
+啊哈哈，我先介绍一下好了，这几位是刚才我出去探索时遇到的，{{AF|Z23}}、标枪、{{AF|绫波}}，以及拉菲。<br>
 这边就是和我一起被带到这里的几位同伴——<br>
 <span style="color:#4eb24e;">玛莉萝丝：</span><br>
 我是玛莉萝丝，叫我玛莉就可以了！<br>
@@ -119,7 +119,7 @@
 原来如此，汝等是为了对抗未知的敌人“塞壬”而生的“舰船”，汝等身上这些有趣的小玩意儿叫做“舰装”，是对抗塞壬的杀手锏么。<br>
 <span style="color:#4eb24e;">莫妮卡：</span><br>
 而前不久收到了异常报告而奉“指挥官”之命前来调查，正好碰上了霞…是这样吧。<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 霞小姐几位原本正在参加一个名为“维纳斯挑战赛”的祭典活动，前两天一睡醒便突然发现来到了这个岛上…<br>
 <span style="color:#4eb24e;">玛莉萝丝：</span><br>
 没错，一开始还真是有点慌了呢！还好岛上应有的设施和物资都很齐全…<br>
@@ -144,7 +144,7 @@
 「子指令：(已完成)寻找绿色猫娘的愉快伙伴们」<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 愉快…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 哈啊…总有种被耍了的感觉……<br>
 <span style="color:#4eb24e;">霞：</span><br>
 啊哈哈…正好岛上有小艇，我就准备在岛附近转转看看情况，然后就遇到了你们。<br>
@@ -154,7 +154,7 @@
 「子指令：前往“港区”，自绿色猫娘处获取“舰装之力”」<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 啊哈哈…总觉得，是让人感觉有些熟悉的展开呢…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 总、总之就先请维纳斯…？的诸位和我们一起回港区一趟吧！也得跟指挥官报告这边的事情才行！<br>
 {{折叠面板|内容结束}}
 
@@ -191,7 +191,7 @@
 你好，指挥官？以及绿色猫…咳咳，{{AF|明石}}小姐。我是霞，这几位是和我一起的同伴，我们原本是在维纳斯群岛……<br>
 <br>
 ……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 …如此这般，我们便带着霞小姐一行回来了。<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 呼喵…这就是那个“指令终端”喵？让{{AF|明石}}看看喵……绿色猫娘，真是让人火大的称呼喵…<br>
@@ -214,7 +214,7 @@
 '''''<span style="color:black;">选择项1：讨论“主指令”</span>'''''<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 唔~“碧波的少女”…指的难道是我们？我们也要一起参加吗？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 “符合这个世界的方式”…比拼谁更强大、更美丽的祭典…难道…<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 要战斗…的说？<br>
@@ -316,7 +316,7 @@
 {{折叠面板|标题=各自的姐妹话题|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 让各位久等了喵！第二战马上开始喵！<br>
-这次的主题是“姐妹VS姐妹”喵！双方选手分别是女神姐妹花·海咲&凪咲，以及铁血姐妹花·希佩尔&欧根喵！<br>
+这次的主题是“姐妹VS姐妹”喵！双方选手分别是女神姐妹花·海咲&凪咲，以及铁血姐妹花·{{AF|希佩尔}}&{{AF|欧根}}喵！<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 以这样的方式和姐姐“并肩作战”啊，还真有点不知道怎么办呢…总之一起加油吧，姐姐！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
@@ -327,27 +327,27 @@
 话、话是这么说，小心点总没错……<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 是~是~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 嚯~对面也是“姐妹”啊，真是缘分啊，不是吗~？或者应该说，是指挥官安排得巧妙？呵呵~<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
-玩笑话就适可而止吧，欧根。做好准备上了！可不要丢了派我们上场的指挥官的脸！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将}}：</span><br>
+玩笑话就适可而止吧，{{AF|欧根}}。做好准备上了！可不要丢了派我们上场的指挥官的脸！<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 哎呀，别这么紧绷嘛，难道是看到对手也是姐妹，再加上背负指挥官的期待，多少有些紧张了？“姐姐”~？<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将}}：</span><br>
 哈啊？紧张？你在说谁呢？我怎么可能因为这点小场面就紧张！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 拳头，在微微颤抖哦？<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将}}：</span><br>
 这、这是重樱经常说的“武者震”啦！！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 对面的“妹妹”，看起来不太好对付呢…<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 欸~是吗？我倒觉得好像有不少话题可以跟她聊呢~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 哎呀？真巧，我也有同感呢~之后找个时间，我们来好~好聊下吧~关于“姐姐”的话题~<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 一言为定~<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将}}：</span><br>
 所、所以说！把精神集中在比赛上啦！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 海咲，准备好了哦！<br>
@@ -360,9 +360,9 @@
 海咲，左手边！<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 看到了！欸嘿！<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将}}：</span><br>
 休想得逞！<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 哎呀，谢谢你，“姐姐”~试试这招如何？<br>
 <br>
 该说不愧是姐妹吗，双方都发挥了相当的默契，配合得几乎天衣无缝。<br>
@@ -372,13 +372,13 @@
 呼…还算…可以吧……海咲，没有受伤吧？<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 真是的，姐姐太爱担心了啦，我能有什么事嘛~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 呼呼，我们彼此都有个不错的姐姐呢<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 啊哈哈哈，好像是呢~<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 要是能少点傲娇，多点直率，就更好了~<br>
-<span style="color:#4eb24e;">希佩尔海军上将：</span><br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将}}：</span><br>
 哈啊？！你说谁是金发贫乳傲娇！<br>
 <span style="color:#4eb24e;">凪咲：</span><br>
 哈啊…果然是个不太好对付的妹妹呢…<br>
@@ -396,7 +396,7 @@
 等、等等…我还没正式开始宣扬印第有多可爱呢！哎呀————<br>
 <span style="color:#4eb24e;">海咲：</span><br>
 也、也是会有这样的姐姐的呢……<br>
-<span style="color:#4eb24e;">欧根亲王：</span><br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 那样也有那样的乐趣，不是吗~？<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 第、第二场比赛告一段落喵！回到休息时间！敬请期待下一场精彩的比赛喵！<br>

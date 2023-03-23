@@ -44,26 +44,26 @@
 <span style="color:#4eb24e;">萨福克：</span><br>
 大姐头！你们终于来了<br>
 <span style="color:#4eb24e;">胡德：</span><br>
-你们做的很好，接下来一起给铁血点颜色瞧瞧！目标，敌方舰队首舰俾斯麦，一齐射击！<br>
-<span style="color:#ff0000;">俾斯麦 ??：</span><br>
+你们做的很好，接下来一起给铁血点颜色瞧瞧！目标，敌方舰队首舰{{AF|俾斯麦}}，一齐射击！<br>
+<span style="color:#ff0000;">{{AF|俾斯麦}} ??：</span><br>
 “皇家舰队的荣耀”…吗？这样才有意思嘛~倒要看看你们的实力能够满足得了我吗？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=冲突|选项=4|主框=1|样式=primary|展开=是}}
-<span style="color:#ff0000;">俾斯麦 ??：</span><br>
+<span style="color:#ff0000;">{{AF|俾斯麦}} ??：</span><br>
 火力挺猛的嘛，可是…这对我可没什么用！！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=「莱茵演习」|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">威尔士亲王：</span><br>
-全舰立刻将目标切换至尾舰，尾舰才是俾斯麦！<br>
-<span style="color:#ff0000;">欧根亲王：</span><br>
+全舰立刻将目标切换至尾舰，尾舰才是{{AF|俾斯麦}}！<br>
+<span style="color:#ff0000;">{{AF|欧根亲王}}：</span><br>
 哎呀哎呀，被发现了=w=不愧是英王乔治五世呢<br>
 <span style="color:#4eb24e;">威尔士亲王：</span><br>
 对不起，我是威尔士亲王号，你们可是也认错人了哦<br>
-<span style="color:#ff0000;">欧根亲王：</span><br>
+<span style="color:#ff0000;">{{AF|欧根亲王}}：</span><br>
 哎呀呀不管啦，波斯猫酱，人家都替你抗了那么久了，你也该发挥一下实力了吧！<br>
-<span style="color:#ff0000;">俾斯麦：</span><br>
+<span style="color:#ff0000;">{{AF|俾斯麦}}：</span><br>
 辛苦你了，看来这场战斗已经是没法避免了，Jot Dora！<br>
 {{折叠面板|内容结束}}
 
@@ -72,17 +72,17 @@
 胡德！！！<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 啊———这股不寻常的力量是…果然你们也染指了……<br>
-<span style="color:#ff0000;">俾斯麦：</span><br>
-被发现了吗…欧根，立刻脱离这片海域<br>
-<span style="color:#ff0000;">欧根亲王：</span><br>
+<span style="color:#ff0000;">{{AF|俾斯麦}}：</span><br>
+被发现了吗…{{AF|欧根}}，立刻脱离这片海域<br>
+<span style="color:#ff0000;">{{AF|欧根亲王}}：</span><br>
 诶？~战况这么有利，为什么不继续玩下去呢<br>
-<span style="color:#ff0000;">俾斯麦：</span><br>
+<span style="color:#ff0000;">{{AF|俾斯麦}}：</span><br>
 秘密武器被发现了，再拖下去局势会对我方不利，服从命令，立刻撤退！<br>
-<span style="color:#ff0000;">欧根亲王：</span><br>
+<span style="color:#ff0000;">{{AF|欧根亲王}}：</span><br>
 哎呀——真是没办法，对面的小绵羊们~我们以后再见咯<br>
 <span style="color:#4eb24e;">胡德：</span><br>
 …为什么…你们要选择背叛同盟…背叛碧蓝航线…<br>
-<span style="color:#ff0000;">俾斯麦：</span><br>
+<span style="color:#ff0000;">{{AF|俾斯麦}}：</span><br>
 吾之荣誉即忠诚——唯有强大的力量，才能拯救更多的人类，我们…只不过是选择了一条不同的道路罢了。<br>
 不指望能被你们所理解，然而这一切是非，未来终有人可鉴。<br>
 吾之宿敌哟，愿我们将来能在瓦尔哈拉相见…<br>

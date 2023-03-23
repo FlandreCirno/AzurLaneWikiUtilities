@@ -546,7 +546,7 @@ TNT的事解释起来稍微有些复杂。总之在这里，TNT是最常用的�
 <span style="color:#4eb24e;">夏色祭：</span><br>
 这样一来，我们之中走散的人就只剩下空前辈了<br>
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
-嗯，我们这边也只剩下Z23了，但愿能像{{AF|绫波}}拉菲她们一样顺利汇合。<br>
+嗯，我们这边也只剩下{{AF|Z23}}了，但愿能像{{AF|绫波}}拉菲她们一样顺利汇合。<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 但愿如此……<br>
 <span style="color:#4eb24e;">百鬼绫目：</span><br>
@@ -558,16 +558,16 @@ TNT的事解释起来稍微有些复杂。总之在这里，TNT是最常用的�
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=三角|选项=19|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 为什么会这样……<br>
 <span style="color:#ec5d53;">湊阿库娅（？）：</span><br>
-很遗憾，碧蓝航线的Z23，你将葬身于此。<br>
+很遗憾，碧蓝航线的{{AF|Z23}}，你将葬身于此。<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 等一下，阿库娅，不用做到这一步吧？<br>
 而且，你背后的这些塞壬，我记得吹雪说过，是这个世界的敌人……<br>
 <span style="color:#ec5d53;">湊阿库娅（？）：</span><br>
 空前辈，请不要慌张，等解决了这个碧蓝航线的敌人，我会向你解释。<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 ……糟了，这样下去要被围攻了，我要找个突破口。<br>
 哎，要是这个时候她们三个在就好了…<br>
 {{折叠面板|内容结束}}
@@ -584,7 +584,7 @@ TNT的事解释起来稍微有些复杂。总之在这里，TNT是最常用的�
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 就像{{AF|翔鹤}}姐一样吧！………啊，不对，{{AF|翔鹤}}姐偶尔比较毒舌呢。<br>
 嗯？侦察机显示那边有交战反应，交战双方是……<br>
-Z23和你？！<br>
+{{AF|Z23}}和你？！<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 我？<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
@@ -599,7 +599,7 @@ Z23和你？！<br>
 空前辈！<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 咦，阿库娅？这边的也是阿库娅，那边的也是阿库娅……这是怎么回事？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 当心，那边的女仆是塞壬的人！<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 那边那个是假的，空前辈，我才是真货啦！！！！<br>
@@ -612,7 +612,7 @@ Z23和你？！<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 解释起来很麻烦，而且我也根本不懂…不过镜面海域名称的来源，就是因为进入海域的人会遇到自己相似的复制品，就像镜子一样。<br>
 不过，不论外表如何相似，终究是塞壬制造出的假货，一般见到直接消灭掉就好了。<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 有点奇怪，那边那个女仆，好像和通常的“棋子”不太一样<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 哎？<br>
@@ -712,13 +712,13 @@ zZZZZZ<br>
 {{折叠面板|标题=分头行动|选项=24|主框=1|样式=primary|展开=是}}
 <br>
 次日<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 那么，全员到齐了，接下来开始作战会议。<br>
 <span style="color:#4eb24e;">万组：</span><br>
-是，Z23老师！<br>
+是，{{AF|Z23}}老师！<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
-是，Z23老师！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+是，{{AF|Z23}}老师！<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 怎么感觉多了一个起哄的家伙……算了，那么，首先是请净化…咳，净化亲发言。<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 来啦，虽然我也不是很确定，不过海域的核心控制装置通常位于整片海域概念上最重要的位置，而不是物理意义上的海域中心。<br>
@@ -726,32 +726,32 @@ zZZZZZ<br>
 一上来就是这种发言…你这家伙，真的失忆了吗……！<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 真的失忆啦！！不过，只有对镜像海域的知识比较完整地保留了下来，我也不太清楚怎么回事<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 也就是，只要前往概念上作为holo服务器中心的地方，就能找到将镜面海域复原的方法？<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 holo服务器概念上的中心……难道是指hololive本社大楼么？！毕竟我们所有人都属于hololive呀<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 确实是一种可能性。不过目前侦察机已经搜索了大片区域。目前还没有发现类似的建筑…<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 不过前方的海域倒是找到了一座明明昨天还没有出现的大迷宫，也许隐藏了什么东西也说不定。<br>
 <span style="color:#4eb24e;">大神澪：</span><br>
 巨大的迷宫……难道是咱的波乱万丈迷宫？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 我也认为在那里隐藏了某些东西。因此，我有一个方案，根据现有的兵力和舰种，我们兵分三路。<br>
 白上吹雪、大神澪、百鬼绫目、时乃空为A组，夏色祭、湊阿库娅、{{AF|绫波}}、紫咲诗音和标枪为B组，我、{{AF|瑞鹤}}、拉菲和{{AF|江风}}为C组。<br>
 由A组负责保障大本营反抗军基地的安全，B组负责维持前线与基地的联络通畅，同时作为后备增援舰队<br>
 C组为先头部队，前往迷宫海域内进行探索...<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
-虽然很感谢Z23你的好意，但是，请让我也去前线吧。<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+虽然很感谢{{AF|Z23}}你的好意，但是，请让我也去前线吧。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 哎？被发现了么...<br>
 <span style="color:#4eb24e;">大神澪：</span><br>
 咱、咱也要和吹雪一起去！咱是迷宫的建造者，对里面每一处机关都了如指掌，带路包在我身上吧！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 ……好吧，既然你们都这么说了，那就A组也一起去吧。<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 那——<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 B组必须留下，要有人保护基地，还有许多塞壬残留在这片海域里。<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 呜呜，我还想赌上反抗军队长的尊严，最先找到本社大楼的位置呢…<br>
@@ -763,11 +763,11 @@ B组必须留下，要有人保护基地，还有许多塞壬残留在这片海�
 明白<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 （期待的目光）<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 至于净化亲你……你还是在家留守吧，我暂时也不知道该怎么安排你比较好。<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 欸欸欸？！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 那么，所有人出发，目标，突破这片镜面海域！<br>
 <span style="color:#4eb24e;">所有人：</span><br>
 噢！<br>
@@ -806,7 +806,7 @@ B组必须留下，要有人保护基地，还有许多塞壬残留在这片海�
 <span style="color:#4eb24e;">拉菲：</span><br>
 一路畅通…好厉害。<br>
 <span style="color:#4eb24e;">大神澪：</span><br>
-嘿嘿，多亏了Z23的建议呢，“如果是在自己修改迷宫的话，要会在哪些地方做手脚来误导自己”！<br>
+嘿嘿，多亏了{{AF|Z23}}的建议呢，“如果是在自己修改迷宫的话，要会在哪些地方做手脚来误导自己”！<br>
 顺着这个思路想的话，正确的道路自然而然就推导出来了呢。<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 就按照这个气势，一鼓作气的突破迷宫吧！<br>
@@ -893,14 +893,14 @@ B组必须留下，要有人保护基地，还有许多塞壬残留在这片海�
 到此为止了么…<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 又是和之前一样的传送指令把她们传送走了！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 在最后极限时刻才触发...是某种服务器的保护特性么<br>
 <span style="color:#4eb24e;">大神澪：</span><br>
 呼…虽说知道是塞壬制造出的战斗兵器，不过就这么真的将其破坏心理压力还是挺大的<br>
 要是都像这么在最后一丝血被传送走，也算能放下心里负担全力战斗了~果然真品是不可能输给赝品的！<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 唉…还好这里不是剧场版，也不是EX关……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 无法彻底击败敌人，就意味着现在击败的敌人迟早会卷土重来，战况一旦拖延久就危险了哎<br>
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
 最初就没有考虑过持久战。<br>
@@ -910,7 +910,7 @@ B组必须留下，要有人保护基地，还有许多塞壬残留在这片海�
 我已经不会再犹豫了，只有阻止塞壬的计划，才能真正结束这一切<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 拉菲也不想总和长得一样的对手战斗了……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 是啊，面对这些和同伴长得一样的复制品，又有谁赢了之后会觉得好受呢。<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 归根结底，都是塞壬的错！嗯…回去之后去揍净化亲消消气好了！<br>
@@ -921,8 +921,8 @@ B组必须留下，要有人保护基地，还有许多塞壬残留在这片海�
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 哎？！怎么偏偏在这时候发来联络了…<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
-Z23，你们那边做了什么吗？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+{{AF|Z23}}，你们那边做了什么吗？<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 我们刚刚解决掉了塞壬伏兵正准备继续前进，基地出现什么问题了么？<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 倒不是基地的事…<br>
@@ -982,7 +982,7 @@ Z23，你们那边做了什么吗？<br>
 恐怕屏障已经一直延伸到海床了哦<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 嗯…所以说也许可以尝试从地下，而不是水下绕过去<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 这是什么意思，祭？<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 等等，难道说……不会吧……<br>
@@ -998,7 +998,7 @@ Z23，你们那边做了什么吗？<br>
 明明是恐怖屋吧！！！！！！！！！！！！！！！！！！！！！！！！！！！！！<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 （无视）<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 唔…按照现在收集的情报来看，整个服务器应该是在变成镜面海域的时候整体巨大化了<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 没错~天空变得更高，大地变得更宽阔，同时出现了大片的海洋<br>
@@ -1023,11 +1023,11 @@ hololive之暗下行水道<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 唯独才不想被趴在我舰装上的你说这种话！<br>
 本来还想着做好舰装之后，继续留在基地稳固防御就好了！为什么我这次也要一起来啊！！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 托您的福，现在基地周边已经固若金汤到一只鸟也飞不过去了…你这么急着回去做什么？<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 攻击诱导的稻草人，密置陷阱的迷宫，再加上几台苦力怕大炮…构建防御设施的工作意外的有趣啊！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 ……看来带过来是正确的选择<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 祭认为，她到现在还没对秘密基地本身出手已经很克制了…<br>
@@ -1048,7 +1048,7 @@ hololive之暗下行水道<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=灵魂提问|选项=31|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 「真的好吗？」「已经来不及了哦」「前方可是地狱」一路上的这些牌子……<br>
 这些牌子究竟是什么意思…？<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
@@ -1072,7 +1072,7 @@ hololive之暗下行水道<br>
 哼哼哼，想要尽快解决战斗回到大家的身边，而不是在这里回答问题，这就是祭的答案！<br>
 <span style="color:#ec5d53;">夏 色 祭：</span><br>
 什么？！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 这一炮漂亮！<br>
 <span style="color:#ec5d53;">夏 色 祭：</span><br>
 居然没有被这个问题干扰，怎么可能……<br>
@@ -1080,7 +1080,7 @@ hololive之暗下行水道<br>
 无论是“我全都喜欢”，还是“我选不出来”…区区语言，怎么有陪在对方的身边有说服力！<br>
 祭已经不想思考为什么要在这里给镜像的名字加空格了…<br>
 打败造成这次事故的罪魁祸首，然后回到hololive的大家身边！阻拦祭的，都是敌人！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 内容姑且不论，好像说了很帅气的话啊…<br>
 咳咳…全员注意，准备战斗！<br>
 {{折叠面板|内容结束}}
@@ -1088,7 +1088,7 @@ hololive之暗下行水道<br>
 {{折叠面板|标题=不一般的友情|选项=32|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
 好弱…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 但是好顽强…不论打倒多少次，还是会精神饱满的贴上来！<br>
 <span style="color:#ec5d53;">夏 色 祭：</span><br>
 斯哈…斯哈…斯哈（战术换气）<br>
@@ -1120,17 +1120,17 @@ FUBUKI↓FUBUKI↑FUBUKI↑FUBUKI!!!!!啊啊，啊啊啊啊！<br>
 ！！！！<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 敌人…石化了<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 有破绽，就是现在！<br>
 <br>
 趁着敌方行动停止的间隙，{{AF|江风}}干净利落的一击解决了战斗<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 果然还是和之前一样…敌方反应在白光中消失了。<br>
 <span style="color:#4eb24e;">百鬼绫目：</span><br>
 周边无其他敌方信号反应，雷达，是这么看的吧…<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 大家继续前进吧~带路就麻烦祭了哦…祭酱？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 这边的祭也石化了啊……<br>
 {{折叠面板|内容结束}}
 
@@ -1175,7 +1175,7 @@ FUBUKI↓FUBUKI↑FUBUKI↑FUBUKI!!!!!啊啊，啊啊啊啊！<br>
 呜呜呜…祭这个大白痴！！<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 我好像看到了毕业的先代阿库娅们在天上招手…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 这样吓唬同伴们可不好哦<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 真的！！非常！！抱歉！！！（土下座）<br>
@@ -1186,7 +1186,7 @@ FUBUKI↓FUBUKI↑FUBUKI↑FUBUKI!!!!!啊啊，啊啊啊啊！<br>
 {{折叠面板|标题=岩浆？！|选项=34|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">时乃空：</span><br>
 天空中的屏障，消失了哎<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 既然已经被我们突破过来，测试怪人判断没有必要继续浪费能量维持了吧<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 太…太好了，不用再走下面回去了！！<br>
@@ -1198,14 +1198,14 @@ FUBUKI↓FUBUKI↑FUBUKI↑FUBUKI!!!!!啊啊，啊啊啊啊！<br>
 这片区域中舰载机好像只能贴着近海飞行…不妙，这样下去会迷路的<br>
 <span style="color:#4eb24e;">百鬼绫目：</span><br>
 大家快看海面，那些是…黑曜石和…岩浆？！！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 岩浆出现在水面上？！在镜面海域里，这种离谱的事也能做出来么！<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 就算在原本世界的服务器里，也做不到像这样直接在水面中生成流动的岩浆啊！<br>
 塞壬在这里花大力气无视自然法则的目的究竟是…<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 …前面的那座很高的塔形建筑物，该不会是，祭做的展望台吧？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 展望台，可以展望这片海域的全貌吗？<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 可以哦！不过，不知道现在服务器变大之后还能看多远。<br>
@@ -1230,7 +1230,7 @@ FUBUKI↓FUBUKI↑FUBUKI↑FUBUKI!!!!!啊啊，啊啊啊啊！<br>
 被盾牌挡下来了么<br>
 <span style="color:#ec5d53;">时乃空？：</span><br>
 这个盾牌还有鮟鱇肝在上面哦，很可爱吧~！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 气氛太过自然了，完全没有感受到敌意！<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 你是…被塞壬制造出的“镜像”么？<br>
@@ -1240,7 +1240,7 @@ FUBUKI↓FUBUKI↑FUBUKI↑FUBUKI!!!!!啊啊，啊啊啊啊！<br>
 我也在努力改正了嘛！<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 那边的…空前辈？你会阻拦我们继续前进么<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 “棋子”不可能违抗塞壬的命令吧…<br>
 <span style="color:#ec5d53;">时乃空？：</span><br>
 嗯，会阻止你们哦。<br>
@@ -1263,7 +1263,7 @@ Leader！<br>
 诗音，不要将注意力全都集中在舰载机上，仔细观察一下周围环境<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 是！多谢空前辈！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 周围的那些炸弹就是对面的空扔的吧！<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 完全陷入对面空前辈的节奏中了哎…<br>
@@ -1297,7 +1297,7 @@ Leader！<br>
 战斗能力和之前的“棋子”完全不在一个级别上！<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 唔…这么强的力量，肯定不是这个机体本身提供的，从外部获取能源供给了么<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 能源供给？！可…可是周边完全没看到类似电缆或者类似连接线的存在哎<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 舰装正在闪红光，很可疑<br>
@@ -1346,7 +1346,7 @@ Leader！<br>
 阿库娅小姐完全恢复精神了呢<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 本社大楼的位置，还有好远…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 海面上出现岩浆的部分越来越多了，毫无疑问是继防护壁之后的塞壬新型防御装置啊<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 难道塞壬想把整个海面都变成岩浆？！<br>
@@ -1361,8 +1361,8 @@ Leader！<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 咦？以前这里有这么多东西吗……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
-Z23，怎么了，一副愁眉苦脸的样子。<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+{{AF|Z23}}，怎么了，一副愁眉苦脸的样子。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 没什么……我只是在想，现在万事俱备，我们只需要找一条能够穿越岩浆的安全航线……<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 我从刚才起就有点在意，在天空中云层里，若隐若现的那几条黑线是什么呀？<br>
@@ -1372,7 +1372,7 @@ Z23，怎么了，一副愁眉苦脸的样子。<br>
 余和其它伙伴也参与过改造工程，在天气好的时候乘坐的话，可以浏览hololive全景哦~<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 哎？！这么大规模的过山车，哎嘿嘿，好想和指挥官坐一次看看啊~<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 标枪，认真一点…如果能从空中移动的话，确实可以绕过海面上的岩浆和敌人…<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 应该在展望台附近就有轨道入口，诗音去找一下哦！<br>
@@ -1397,7 +1397,7 @@ Z23，怎么了，一副愁眉苦脸的样子。<br>
 诗音…过山车原来是被你摧毁的么？！<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 当然不是啊！！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 这一区域塞壬派来阻碍我们的人很明显了呢<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 诗音的镜像…<br>
@@ -1419,7 +1419,7 @@ Z23，怎么了，一副愁眉苦脸的样子。<br>
 噢？！这次是一般友情小诗音么！真可爱呐~<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 没想到诗音小姐，也有性格这么热烈的一面啊…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 哎？！这是诗音酱原本也存在这种个性么，我还以为测试者的装置终于出问题了<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 那个只是一时兴起的黑历史，才不是本性啦啊啊啊啊阿！！！<br>
@@ -1448,7 +1448,7 @@ EX--------------Plosion！！！！！！！！！！！！！！！！！！！
 你在感动什么！扁你哦！<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 这就算…打倒了么？意外的没什么挑战性啊<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 从战斗力上来说，应该算迄今为止遇到的所有“棋子”中最弱的了<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 比最开始见到的假阿库娅酱还要弱呢…<br>
@@ -1460,7 +1460,7 @@ EX--------------Plosion！！！！！！！！！！！！！！！！！！！
 啊哈哈，毕竟都是我们真实在直播中展现过的一面呢。<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 到现在为止都没出现我的镜像，究竟会遇到什么个性呢，老实说我都稍微有些害怕了……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 虽然作为同一战线的我也不好说什么，但这方面说实话，也有点自作自受的成分在里面……<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 唔……难道我的性格也是净化者真实存在的一部分？<br>
@@ -1473,7 +1473,7 @@ EX--------------Plosion！！！！！！！！！！！！！！！！！！！
 好好好~不过现在这种情况下，和你们发展出热血的友情，这种展开是完全可能的咯~？<br>
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
 梦话就去梦里说。<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 总而言之从这个假诗音的战斗力上来看，应该是一直在避免与我们的正面交战<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 也就是在这里会遇到她只是偶然，有可能还存在尚未被破坏的入口？<br>
@@ -1503,8 +1503,8 @@ MIOSHIO-COASTER之上<br>
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
 漂浮在空中的过山车…奇妙的感觉。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
-{{AF|江风}}平时都不来玩，明明游乐园也有的，对吧，Z23？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+{{AF|江风}}平时都不来玩，明明游乐园也有的，对吧，{{AF|Z23}}？<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 拜托你不要提那个，上次坐那个之后我一天都吃不下东西……<br>
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
 ……我不适合这种东西。<br>
@@ -1517,7 +1517,7 @@ MIOSHIO-COASTER之上<br>
 {{折叠面板|标题=落难|选项=42|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 祭，前面没路了<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 轨道的终点建筑是一个…饭团？<br>
 <span style="color:#4eb24e;">湊阿库娅：</span><br>
 饭团…？！！！不妙，不妙，不妙，不妙！那个不是饭团而是岩浆湖啊！！！！！！！！！！！<br>
@@ -1541,7 +1541,7 @@ MIOSHIO-COASTER之上<br>
 净化亲，了不起<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 哼哼哼，再多夸夸我也不要紧哦~<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 居然被塞壬给救了…这下回去要怎么写报告才好啊…<br>
 <span style="color:#4eb24e;">{{AF|江风}}：</span><br>
 空中移动，过于危险…大家都没事吧？<br>
@@ -1555,7 +1555,7 @@ MIOSHIO-COASTER之上<br>
 图案变成了穿戴舰装的空前辈？！<br>
 <span style="color:#4eb24e;">夏色祭：</span><br>
 塞壬那边的“祭”，在这方面的细节上很讲究呢<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 果然，和迄今为止我们遭遇过的“棋子”都不一样<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 把她们当成单纯的兵器果然还是很微妙啊…<br>
@@ -1591,7 +1591,7 @@ MIOSHIO-COASTER之上<br>
 名侦探吹雪…你就是一路上一直在阻碍我们的人么？！<br>
 <span style="color:#ec5d53;">名侦探吹雪：</span><br>
 差不多就是这回事吧~<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 出现的屏障，假地图，岩浆陷阱，全部都是你做的手脚？<br>
 <span style="color:#ec5d53;">名侦探吹雪：</span><br>
 差不多是这样吧，虽然有些我只是提供了建议而已。<br>
@@ -1660,7 +1660,7 @@ Duel！<br>
 怎…怎么可能…这张卡怎么会在你的手上！？（倒<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 {{AF|江风}}在游戏结束的同时直接把敌人打倒了？！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 敌人在白光中消失了。这样就算是…赢了…对吧？<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 总感觉，心好累啊…就这样乘胜追击，向着本社大楼进军吧…<br>
@@ -1694,12 +1694,12 @@ hololive本社大楼近海<br>
 从岛屿和舞台散发出五颜六色的光束交织在天空与海面上，空中还回荡着若有若无的音乐声<br>
 整片区域仿佛异世界一般，散发出一种不属于这个时代的纷乱美感<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
-Z23，要在这里看Live么？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+{{AF|Z23}}，要在这里看Live么？<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 我才不要在这么奇怪的地方看演出啊！!<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 咦，你们也会开Live吗？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 ……呃，偶尔吧，嗯，偶尔。<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 上面写着holo…live，这里就是你们世界里进行偶像活动的…舞台区？<br>
@@ -1707,7 +1707,7 @@ Z23，要在这里看Live么？<br>
 这个是吹雪做的新holo岛舞台哦！镜面海域化之后完全变成地狱绘卷了啊…<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 哇啊啊啊啊啊啊！这个怎么说呢…只是一时兴起的恶作剧…偶像活动什么的绝对和这里无关啦！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 （太好了，只差一点，我对偶像的定义也要崩坏了）<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 不过之前也有和大家在这里跳过舞哦，五颜六色的舞台还挺可爱的~<br>
@@ -1724,12 +1724,12 @@ Z23，要在这里看Live么？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=连接起来的羁绊|选项=46|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 之前的战斗里，对面的军师提到了一个我很在意的东西呢<br>
 时间与空间的支配者…最初以为是测试怪人给自己起的名字，现在看来是那个…<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 DARK FOX BIZZARD！时间与空间的支配者那个帅气的DARK FOX BIZZARD的称号呢！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 对…就是这个，之前也有过几次来自时间与空间的支配者的传话吧。<br>
 <span style="color:#4eb24e;">紫咲诗音：</span><br>
 难道说……不，不可能吧，那种东西，怎么可能造的出来。<br>
@@ -1772,7 +1772,7 @@ DARK FOX BIZZARD…Boss出现了！<br>
 不对！装在上甲板两侧的是…测试者的主炮？！<br>
 <span style="color:#ec5d53;">DARK FOX BIZZARD：</span><br>
 好眼力，不愧是{{AF|江风}}大人。测试怪人不过是我计划中的一个棋子，完成了任务之后因为太碍事，就被我处理掉了<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 塞壬居然被自己生产的“棋子”解决了…？！<br>
 <span style="color:#4eb24e;">净化亲：</span><br>
 哈哈哈，活该测试怪人！这么说只要把你打败了，战斗就结束了吧！<br>
@@ -1787,7 +1787,7 @@ DARK FOX BIZZARD…Boss出现了！<br>
 “棋子”可是很棒哦，不但可以分担工作，还能更长时间的陪伴观众。况且只要人数增加的话，快乐也会增加吧。<br>
 与此同时，利用不同属性的“棋子”满足不同属性的观众，抢占了市场份额，收益化自不用说，预算也是想要多少就有多少了！科学的力量真棒啊~<br>
 能想出这些的我简直是天才啊，啊哈哈哈哈哈<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 难道是想要自己独占镜面海域……！？<br>
 <span style="color:#ec5d53;">DARK FOX BIZZARD：</span><br>
 才不只是这些。“棋子”的生产，气象的控制，平行世界的观测以及未来的演算——只要这个镜面海域能维持……不，能够扩大到覆盖整个世界的话，我就能够支配所有人了！<br>
@@ -1860,16 +1860,16 @@ DARK FOX BIZZARD，现在你明白了吧！<br>
 （……而且最后在棋子里也没有看到那个名侦探吹雪）<br>
 （唔……但愿只是我想太多了吧……）<br>
 啊，我也来帮忙搬TNT！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 吹雪小姐，真的没关系吗？那个大楼里说不定是有回到原来的世界的方法的吧…？<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 嗯，有这个可能。不过这个镜面海域一直存在下去的话，会给这个世界的大家带来麻烦的吧？<br>
 而且大家都懂。这种时候是欲速则不达，回去的方法慢慢来找就好啦！<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 是、是这样的吗…?<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 谢谢大家为这个世界想了这么多……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 {{AF|瑞鹤}}小姐，我们也去帮忙吧！<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 好啦~大家打起精神来把TNT放在大楼旁边！最后让阿库娅来引爆就好~<br>
@@ -1890,7 +1890,7 @@ DARK FOX BIZZARD，现在你明白了吧！<br>
 在这美好的一天里，仿佛能感受到春日来临的脚步，<br>
 我，湊阿库娅，今天也顺利地迎来了毕业典礼<br>
 从进入碧蓝航线世界开始，就一直陪伴在我身边的吹雪，祭，澪，绫目，诗音，空前辈<br>
-一直以来并肩战斗的{{AF|江风}}，{{AF|瑞鹤}}，拉菲，{{AF|绫波}}，标枪，Z23，净化亲<br>
+一直以来并肩战斗的{{AF|江风}}，{{AF|瑞鹤}}，拉菲，{{AF|绫波}}，标枪，{{AF|Z23}}，净化亲<br>
 以及，山田·赫敏、澪川依代、燕子花奈切、夏 色 祭、诗 音、抖S空前辈、名侦探吹雪<br>
 、DARK FOX BIZZARD<br>
 还有从头到尾都没有露过一次面的测试怪人…<br>
@@ -1939,7 +1939,7 @@ DARK FOX BIZZARD，现在你明白了吧！<br>
 净化亲，消失了……<br>
 <span style="color:#4eb24e;">时乃空：</span><br>
 这次是真正的，彻底结束了么…<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 虽然是异常化的塞壬，终究还是一个了解敌人的好机会。早知道之前多陪她打打游戏就好了…<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 净化亲不在，反而稍微有点不习惯了…要是塞壬都像她一样的话，就不需要战斗了呢<br>
@@ -1948,7 +1948,7 @@ DARK FOX BIZZARD，现在你明白了吧！<br>
 <span style="color:#4eb24e;">白上吹雪：</span><br>
 …………<br>
 等离开这片海域之后，我们之后也要开始寻找回家的方法了呢<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 关于这一点，我想过了。指挥官和{{AF|明石}}都有处理过类似事件的经验，一定能帮到你们的！<br>
 <br>
 滴滴滴…滴滴滴…<br>
@@ -1964,7 +1964,7 @@ DARK FOX BIZZARD，现在你明白了吧！<br>
 {{AF|翔鹤}}姐！…几周没见想死我了！！！<br>
 <span style="color:#4eb24e;">{{AF|翔鹤}}：</span><br>
 几周？你在说什么事？<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 我们和{{AF|瑞鹤}}{{AF|江风}}的舰队均在最后一次任务的返航途中迷航，被困在了塞壬的镜面海域内。<br>
 经过几周的战斗，刚刚破坏海域中的核心装置，解除了海域封锁，这才能收到你们的联络。<br>
 <span style="color:#4eb24e;">{{AF|翔鹤}}：</span><br>
@@ -1975,7 +1975,7 @@ DARK FOX BIZZARD，现在你明白了吧！<br>
 这种现象难道说…那片镜面海域中的时间流逝速度和其他地方不一样么？！<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 这种现象从原理上来说也不是完全不可能的喵~<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 {{AF|明石}}！在这种情况下看到你真是太令人安心了…<br>
 <span style="color:#4eb24e;">{{AF|翔鹤}}：</span><br>
 说起来，旁边的几位是…？<br>
