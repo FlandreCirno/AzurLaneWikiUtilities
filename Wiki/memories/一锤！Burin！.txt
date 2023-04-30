@@ -1,0 +1,156 @@
+== 一锤！Burin！ ==
+{{折叠面板|开始}}
+{{折叠面板|标题=那个古老的传说|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+一锤！Burin！<br>
+<br>
+一　那个古老的传说<br>
+传说，在遥远的远方，有能实现任何愿望的神明。<br>
+但那毕竟是许久、许久以前的传说了——<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+能实现任何愿望buli？<br>
+不可能的buli，布里的扳手也做不到实现所有愿望buli！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+而且，那肯定是很远的地方purin！<br>
+就算是用突破天际的钻头，也到达不了的地方purin！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+才不是呢burin！<br>
+我的好运告诉我，传说一定是存在的burin！<br>
+我肯定会证明给你们看的burin！<br>
+<br>
+*特装型布里MKIII离开了*<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+buli！妹妹好像很生气的样子buli！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+也许应该支持她purin！要让她带上这里最好的锤子，再去冒险purin！<br>
+我知道有一件能够敲碎任何东西的锤子purin！我们现在就去找它吧purin！<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+buli！现在就出发吧buli！<br>
+人家挖宝藏可是很厉害的buli！<br>
+<span style="color:#4eb24e;">泛用型布里&试作型布里MKII：</span><br>
+一定要找到那个锤子buli<br>
+一定要找到那个锤子purin！<br>
+<br>
+于是，布里三姐妹踏上了殊途同归的道路。<br>
+时间，就这样飞速流逝着——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=刻苦的回报|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+一锤！Burin！<br>
+<br>
+二　刻苦的回报<br>
+自那之后，特装型布里MKIII一直在为了能追逐传说而刻苦训练。<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+看招，“超级喵喵1号”burin！<br>
+成功啦！果然我是最强的burin！<br>
+每天跑步十公里，一百下伏地挺身，一百下仰卧起坐再加上一百下深蹲，我已经练成啦burin！<br>
+但是“超级喵喵1号”已经到极限了burin，必须要找到能承受我power的兵装才行burin！<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+让我们来帮你buli！我们已经找到了传闻中的“超级彩虹锤1号”的线索buli！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+只要装备了它，你就是最强的purin！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+真的吗burin！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+嗯！它就在试炼之地purin！只要通过试炼，就能得到它了purin！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+小菜一碟burin！见证我的训练成果吧burin！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=试炼之地|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+一锤！Burin！<br>
+<br>
+三　试炼之地<br>
+在布里姐妹的通力合作下，试炼中的关卡都有惊无险地化解了。<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+最后一个试炼解决buli！得到试炼钥匙buli！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+宝箱就在前方，快打开它吧purin！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+上啦burin！开启宝藏！<br>
+<br>
+在宝箱打开的瞬间，强烈的虹光冲天而起，甚至贯穿了上方的石壁。<br>
+*获得道具「超级彩虹锤1号」*<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+好强的光芒burin！感受到了巨大的力量burin！<br>
+“超级彩虹锤1号”入手burin！<br>
+<br>
+就在布里姐妹们欢呼时，破碎的石壁口却跳进来了不速之客——<br>
+<span style="color:#ec5d53;">恐怖大魔王？：</span><br>
+何方宵小，竟敢闯到这里来捣乱？<br>
+嚯~原来又是为了“超级彩虹锤1号”而来的冒险者。<br>
+真不巧，想要带走这里的宝物，还要过我这一关才行！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+魔王出现了purin！它要抢走试炼宝物purin！<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+绝对不能允许这件事发生buli！快对魔王使用“超级彩虹锤1号”buli！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+看招，“超级彩虹锤1号”burin！<br>
+怎么回事burin！“超级彩虹锤1号”没有反应burin！<br>
+<span style="color:#ec5d53;">恐怖大魔王？：</span><br>
+哼哼，真遗憾，“超级彩虹锤1号”可是要充能后才能使用的武器哦~<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+原来如此purin！这里就由姐姐们先顶住purin！你来为“超级彩虹锤1号”充能purin！<br>
+<span style="color:#4eb24e;">泛用型布里&试作型布里MKII：</span><br>
+要上咯buli！<br>
+要上咯purin！<br>
+<br>
+<br>
+布里们竭力与魔王战斗着，但是却渐渐落了下风。<br>
+<span style="color:#ec5d53;">恐怖大魔王？：</span><br>
+没用没用没用——哈哈哈哈！<br>
+能激活“超级彩虹锤1号”power的家伙，现在还没诞生呢！<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+才不是呢buli！妹妹是最强的buli！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+本大人是不会放你过去的purin！<br>
+<span style="color:#ec5d53;">恐怖大魔王？：</span><br>
+你们尽管试吧！努力吧！然后绝望吧！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+你错了！我的回合了burin！吃我一锤，Full Charge！<br>
+<span style="color:#ec5d53;">恐怖大魔王？：</span><br>
+什么？！居然？！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+做的好purin！锤到让魔王哭着跪下！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+跟着我，无敌布里战队，上啦burin！<br>
+<br>
+<br>
+在“超级彩虹锤1号”的攻击面前，魔王很快萌生了退意——<br>
+<span style="color:#ec5d53;">恐怖大魔王？：</span><br>
+这不公平！我要撤退了！<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+她露出破绽了buli！<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+好机会purin，大家一起上呀purin！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+让魔王见识一下彩虹之力burin！！！<br>
+<span style="color:#4eb24e;">布里三姐妹：</span><br>
+这一击，砸穿大地呀buli！<br>
+这一击，突破天际呀purin！<br>
+这一击，击坠星辰呀burin！<br>
+<br>
+以“超级彩虹锤1号”的七彩虹光为引导，布里姐妹的力量汇聚到了一起，化为了点亮星辰的白色光芒。<br>
+——轰！！！<br>
+………………<br>
+………………………………<br>
+<span style="color:#4eb24e;">试作型布里MKII：</span><br>
+魔王消失了，我们赢啦purin！<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+burin？“超级彩虹锤1号”好像完全不亮了burin！<br>
+<span style="color:#4eb24e;">泛用型布里：</span><br>
+坏、坏了buli…………<br>
+<span style="color:#4eb24e;">特装型布里MKIII ：</span><br>
+唔~没关系，当做纪念品就好burin！刚刚感觉到，好像我们在一起的力量比“超级彩虹锤1号”还强burin！<br>
+还是庆祝胜利更重要，我们去吃烤肉吧burin！<br>
+<span style="color:#4eb24e;">泛用型布里&试作型布里MKII：</span><br>
+好耶buli！<br>
+好耶purin！<br>
+<br>
+就这样，布里姐妹们享受了一顿完美的烤肉大餐。<br>
+至于那传说本身，也许还会继续是个传说吧——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
