@@ -80,6 +80,7 @@
 射水鱼 CharmArcher
 女灶神 Vestal
 佐治亚 GA@ColaLove
+安克雷奇 Anchorage
 女将 ThornyA
 小天鹅 Cygnet
 命运女神 Fortune
@@ -167,6 +168,7 @@
 不知火 KoubaiStaff_unofficial
 若叶 NutLove
 黑潮 Nin_Kuroshio
+亲潮 Oyashio
 岛风 Hayaizo
 睦月 Mutsuki
 如月 Kisaragi
@@ -325,6 +327,7 @@ U-1206 U.B.1206
 庞培·马格诺 PompeyTheGreat
 阿尔弗雷多·奥里亚尼 Alfredo 
 埃曼努埃尔·佩萨格诺 Emanuele 
+阿蒂利奥·雷戈洛 Attilio
 阿布鲁齐公爵 C_Abruzzi
 朱塞佩·加里波第 Giuseppe 
 特伦托 Da Trento
@@ -332,9 +335,11 @@ U-1206 U.B.1206
 波拉 Pola
 的里雅斯特 Trieste
 博尔扎诺 Bolzano 
+戈里齐亚 Gorizia
 维托里奥·维内托 VV_Veneto
 利托里奥 VV_Littorio
 罗马 Roma 
+安德烈亚·多利亚 Andrea
 天鹰 Aquila
 帝国 orepmI
 托里拆利  Torricelli
