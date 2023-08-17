@@ -262,7 +262,7 @@
 <span style="color:#4eb24e;">{{AF|酒匂}}：</span><br>
 遵命，{{AF|武藏}}大人！<br>
 <br>
-'''''<span style="color:black;">选择项1：遵命，武藏大人！</span>'''''<br>
+'''''<span style="color:black;">选择项1：遵命，{{AF|武藏}}大人！</span>'''''<br>
 '''''<span style="color:black;">选择项2：真是冷静的处理。</span>'''''<br>
 <span style="color:#4eb24e;">{{AF|武藏}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''呵呵~指挥官就不要跟着起哄了。<br>
@@ -735,7 +735,7 @@
 鸢尾芳馨弥漫时<br>
 <br>
 好孩子的奖励<br>
-在武藏的邀请下，来到城堡附近的湖面泛舟。<br>
+在{{AF|武藏}}的邀请下，来到城堡附近的湖面泛舟。<br>
 <span style="color:#4eb24e;">{{AF|武藏}}：</span><br>
 怎么了？指挥官，你的表情~<br>
 呵呵……难道是我这身衣装很奇怪吗？<br>
