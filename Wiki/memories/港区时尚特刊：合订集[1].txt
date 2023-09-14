@@ -86,7 +86,7 @@
 <span style="color:#4eb24e;">{{AF|尾张}}：</span><br>
 指挥官，你看到了吗！你觉得我这特意为你准备的“惊喜”怎么样？<br>
 <br>
-'''''<span style="color:black;">选择项1：“惊喜”，是指穿泳装的尾张么？</span>'''''<br>
+'''''<span style="color:black;">选择项1：“惊喜”，是指穿泳装的{{AF|尾张}}么？</span>'''''<br>
 '''''<span style="color:black;">选择项2：“惊喜”，是指这张水床么？</span>'''''<br>
 <span style="color:#4eb24e;">{{AF|尾张}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''才不是啦，不过……嘿嘿，原来指挥官是这样看我的，感觉超棒！<br>
@@ -206,17 +206,14 @@
 莫非……<br>
 <br>
 '''''<span style="color:black;">选择项1：藏在乐器里？</span>'''''<br>
-<span style="color:#4eb24e;">{{AF|白龙}}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''重樱的剑客里似乎确实有人做出过把武器藏在乐器中的事。<br>
-<span style="color:#4eb24e;">{{AF|白龙}}：</span><br>
-噢！确实有可能！<br>
-我、我找找看哦……！<br>
-{{AF|白龙}}仔细抚摸着乐器，似乎是在感受着什么。<br>
-指挥官也来帮一下忙吧……像这里、还有这里……<br>
-<br>
 '''''<span style="color:black;">选择项2：藏在衣服里？</span>'''''<br>
 <span style="color:#4eb24e;">{{AF|白龙}}：</span><br>
-嗯？好像……有了！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''重樱的剑客里似乎确实有人做出过把武器藏在乐器中的事。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''噢！确实有可能！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我、我找找看哦……！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''{{AF|白龙}}仔细抚摸着乐器，似乎是在感受着什么。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''指挥官也来帮一下忙吧……像这里、还有这里……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯？好像……有了！<br>
 <span style="color:#4eb24e;">{{AF|白龙}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''或许今天的刀是一把短刀，这样没准就可以藏在——<br>
 '''''<span style="color:black;">（选择项2）</span>'''''哇哇哇！？指挥官要做什么！？<br>
