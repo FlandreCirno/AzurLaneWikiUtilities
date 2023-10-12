@@ -279,37 +279,37 @@
 <br>
 躲避于角落之中<br>
 宴会还未正式开始，稍微留意下会场内外吧。<br>
-那是让·巴尔？她正在大厅的一角，似乎在思考什么。<br>
+那是{{AF|让·巴尔}}？她正在大厅的一角，似乎在思考什么。<br>
 她好像注意到我了？<br>
 ……嗯？为什么立刻扭头过去，眼神还在闪躲。<br>
 稍微有些放心不下，还是去看一下吧。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 啧，还是被发现了……<br>
 <br>
 你……在躲着我？<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 抱歉了啊，指挥官。我并没有刻意躲着你……<br>
 只是希望我能不被别人注意到。<br>
 毕竟……指挥官是很容易聚焦他人目光的类型呢。<br>
 总而言之，来特意找我这个躲在角落里的人有什么事么？<br>
 <br>
-回忆起刚才让·巴尔闪躲的目光——<br>
+回忆起刚才{{AF|让·巴尔}}闪躲的目光——<br>
 <br>
 '''''<span style="color:black;">选择项1：感觉有些担心</span>'''''<br>
 '''''<span style="color:black;">选择项2：感觉有些可疑</span>'''''<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''那还真是……多谢。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''哈啊？！今天是鸢尾主办的宴会，在会场里最不可疑的就是我了吧！<br>
 '''''<span style="color:black;">（选择项2）</span>'''''大概……<br>
 <br>
 还有，礼服，很适合你。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 ……连你也这么说。<br>
 姐姐也说了一样的话，看来不只是单纯的恭维呢。<br>
 <br>
-……感觉让·巴尔似乎非常不开心。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+……感觉{{AF|让·巴尔}}似乎非常不开心。<br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 不……鸢尾为今天这场庆典准备了许久，我可是真心为这场宴会感到开心的。<br>
 我只是单纯感到十分郁闷。<br>
 我怎么想都没想到，姐姐居然要我——<br>
@@ -317,28 +317,28 @@
 指挥官，打扰了……<br>
 请问，有看到埃塞克斯么？<br>
 我跟她一起来的，然后……走散了。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 ……！！<br>
 <span style="color:#4eb24e;">马萨诸塞：</span><br>
-啊……让·巴尔，好久不见。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+啊……{{AF|让·巴尔}}，好久不见。<br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 马萨诸塞……<br>
 <span style="color:#4eb24e;">马萨诸塞：</span><br>
 哇，你的礼服，很适合你呢。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 ……<br>
 <span style="color:#4eb24e;">马萨诸塞：</span><br>
-我今天……也穿了礼服哦……让·巴尔觉得怎么样呢？<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+我今天……也穿了礼服哦……{{AF|让·巴尔}}觉得怎么样呢？<br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 什么……怎么样？<br>
 <span style="color:#4eb24e;">马萨诸塞：</span><br>
 感想……？<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 ……<br>
 <br>
-等等！让·巴尔……？！<br>
+等等！{{AF|让·巴尔}}……？！<br>
 <span style="color:#4eb24e;">马萨诸塞：</span><br>
-啊……让·巴尔，逃走了……<br>
+啊……{{AF|让·巴尔}}，逃走了……<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=盛情难却|选项=6|主框=1|样式=primary|展开=是}}
@@ -610,7 +610,7 @@
 <span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
 指挥官，你能感受到今天会场热烈的氛围吗？<br>
 我很享受这种氛围，希望你也一样。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 今天若招待不周，还请多多包涵。呃——<br>
 不像是能从我嘴里说出来的话……不过……<br>
 今天能招待你，我真的很开心，请好好享受接下来的庆典。<br>
@@ -782,27 +782,27 @@
 鸢尾芳馨弥漫时<br>
 <br>
 消除恐惧的方法<br>
-被让·巴尔裹挟着来到了城堡中的某处。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+被{{AF|让·巴尔}}裹挟着来到了城堡中的某处。<br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 呼——到这里的话，应该就安全了……<br>
 <br>
 …………<br>
 <br>
 '''''<span style="color:black;">选择项1：为什么突然逃走？</span>'''''<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 因为被发现了。<br>
 <br>
 为什么被发现了……就要逃走？<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 不然呢？<br>
 <br>
 '''''<span style="color:black;">选择项1：不擅长应对马萨诸塞？</span>'''''<br>
 '''''<span style="color:black;">选择项2：下次跑之前说一声！</span>'''''<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''算是吧……不过不是主要原因。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''哦，好。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 唉……接待贵宾、宴会致辞这些工作听上去哪一个和我沾边了？<br>
 虚伪的笑，繁文缛节，再加上像个花瓶一样让人参观……<br>
 都跟她说做不来这些了……还是一股脑全推过来，这跟让我出丑有什么区别。<br>
@@ -812,33 +812,33 @@
 <br>
 黎塞留肯定也知道这一点，不过她还是选择了你。<br>
 你觉得她是想看你出丑么，还是？<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 还是她打算扔过来更多工作的预兆，还是因为想让我习惯这种场合。<br>
-还是因为我是她的妹妹……黎塞留级战列舰二号舰，让·巴尔。<br>
+还是因为我是她的妹妹……黎塞留级战列舰二号舰，{{AF|让·巴尔}}。<br>
 <br>
 看来你都明白。<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 明白归明白，但是……<br>
 <br>
 这样好了，我去跟黎塞留说你身体不适，让她把这件工作交给马赛曲或者圣女贞德——<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 等等——！<br>
 我又没说不干……而且鸢尾骑士岂能出尔反尔临阵退缩……<br>
 <br>
 但是你现在的状态……<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 嗯……我明白了。<br>
 宴会的工作……虽然很让人头疼，但不能让鸢尾蒙羞。<br>
 <br>
 消除恐惧的最好方法就是面对恐惧。<br>
-加油——让·巴尔！<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+加油——{{AF|让·巴尔}}！<br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 哼……不愧是指挥官，还是那么能说会道。<br>
 呼——我们回会场去吧，指挥官。<br>
 刚刚突然从马萨诸塞面前跑开，此等失礼行为，首先需要对她有个解释才行。<br>
 <br>
 一上来就是这么高难度的目标？<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 不是你说的么，消除恐惧的最好方法就是面对恐惧。<br>
 宴会正在进行中，没有时间让我慢慢习惯了。<br>
 嗯，决定了，第一个要接待的客人就是她了。<br>
@@ -1058,7 +1058,7 @@
 {{AF|武藏}}大人，{{AF|俾斯麦}}大人向您表示敬意。如果不介意的话，来尝尝我们铁血的啤酒如何？<br>
 <span style="color:#4eb24e;">黎塞留：</span><br>
 呼——终于稍微闲下来一些了……<br>
-<span style="color:#4eb24e;">让·巴尔：</span><br>
+<span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 姐姐……要……一起来一杯吗。<br>
 <span style="color:#4eb24e;">黎塞留：</span><br>
 ……当然，我的妹妹，我非常乐意。<br>

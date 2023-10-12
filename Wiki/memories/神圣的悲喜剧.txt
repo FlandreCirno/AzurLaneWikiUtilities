@@ -83,26 +83,26 @@
 一群没有理智的杂鱼而已，根本没有威胁。<br>
 <span style="color:#ffde38;">加富尔伯爵：</span><br>
 敌人…并不强大，没有遗漏。<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 一群让人提不起劲的家伙罢了，对吧，波拉<br>
 <span style="color:#ffde38;">波拉：</span><br>
-是的哦，扎拉姐。波拉这里也全歼敌人了…<br>
+是的哦，{{AF|扎拉}}姐。波拉这里也全歼敌人了…<br>
 <span style="color:#ffde38;">维托里奥.维内托：</span><br>
 好，大家都干的漂亮，凯撒，你带大家返回拉{{AF|斯佩}}齐亚港修整，我会联系港区后勤好好犒劳大家的。<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 庆功宴吗，真是值得期待呀~哈哈<br>
 等等…那是？<br>
 <br>
 ……<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 今天有联系帝国空军支援吗，总旗舰大人？<br>
 <span style="color:#ffde38;">加富尔伯爵：</span><br>
 不…看机型应该是…皇家的侦查机！<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 全员对空准备！！<br>
 <span style="color:#ffde38;">波拉：</span><br>
 来不及了..敌人已经逃出射程之外了…<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 皇家这班鬼鬼祟祟的家伙，就和苍蝇一样烦人！<br>
 <span style="color:#ffde38;">朱利奥·凯撒：</span><br>
 好了，全舰队继续前行，目标——拉{{AF|斯佩}}齐亚！<br>
@@ -121,7 +121,7 @@
 <span style="color:#4eb24e;">厌战：</span><br>
 光辉小姐…来得正好。这是昨天侦察机发回的照片，能跟我一起分析下吗？<br>
 <span style="color:#4eb24e;">光辉：</span><br>
-这是…加富尔…凯撒…扎拉级重巡…帝国舰队主力出动了？这照片的拍摄位置是……<br>
+这是…加富尔…凯撒…{{AF|扎拉}}级重巡…帝国舰队主力出动了？这照片的拍摄位置是……<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 …拉{{AF|斯佩}}齐亚港外围<br>
 <span style="color:#4eb24e;">光辉：</span><br>
@@ -239,13 +239,13 @@
 {{折叠面板|标题=开战|选项=6|主框=1|样式=primary|展开=是}}
 <br>
 次日16:00:00  对塞壬联合搜查舰队C3<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 你好啊~来自皇家的贵族小姐<br>
 <span style="color:#4eb24e;">约克：</span><br>
 漆黑的魔炮使向您送上午后的问候~就让我们一同找出这片海域的「不协调之心(Inharmonious Heart)」吧！<br>
 <span style="color:#ffde38;">波拉：</span><br>
 姐姐…这个人有点奇怪，尽说着一些听不懂的东西<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 嘘…可能，皇家那边的舰船脑回路都比较奇怪吧，不要大惊小怪，不然会被看不起的<br>
 <span style="color:#ffde38;">波拉：</span><br>
 唔…唔<br>
@@ -259,7 +259,7 @@
 噢噢噢——这就是帝国御龙使的实力么！<br>
 <span style="color:#ffde38;">波拉：</span><br>
 姐姐…龙骑兵为什么能够和她正常交流（小声<br>
-<span style="color:#ffde38;">扎拉：</span><br>
+<span style="color:#ffde38;">{{AF|扎拉}}：</span><br>
 ……<br>
 当做没听到就好了，知道吗<br>
 当做没听到！<br>
@@ -270,7 +270,7 @@
 晚间19:30:00<br>
 <span style="color:#4eb24e;">约克：</span><br>
 怎..怎么回事！？哪里来的攻击？！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 来自皇家的贵族小姐啊~你可能还没了解清楚目前的局面——<br>
 由于任务需要，能麻烦你，在这里被我们击败吗？<br>
 <br>
@@ -280,13 +280,13 @@
 <span style="color:#4eb24e;">约克：</span><br>
 ……<br>
 利用侦察任务，将皇家舰队诱导至此么...！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 与此同时，其他搜查舰队应该都被我们控制住了，你们没有机会发出无线电的<br>
 束手就擒吧<br>
 <span style="color:#4eb24e;">约克：</span><br>
 哼哼哼，愚蠢之人，让你们一窥「净化之战」的真实也无妨<br>
 按照计划，第二兵装展开，概念武器充能——<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 ....诶？<br>
 <span style="color:#4eb24e;">约克：</span><br>
 “若撒丁帝国图谋陆间海的霸权，推翻了与皇家共同作战协议——”<br>
@@ -295,7 +295,7 @@
 去吧，魔炮弹——Bethlehem！<br>
 <br>
 随着炮火声，一朵红色的巨大礼花弹在高空中绽放，发出的耀眼光芒照亮了数十海里的夜空<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 什么？！主炮里居然装填着礼花弹！<br>
 <span style="color:#4eb24e;">约克：</span><br>
 尽情震惊吧，绿色的魔王！你们的诡计女王陛下已经全部预料到了<br>
@@ -308,7 +308,7 @@
 唔....没时间多愁善感了，快派支援舰队和潜艇部队去帮孩子们解围吧<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 了解，非常感谢您能亲自来前线支援，光辉女士<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 情况不妙，作战计划泄露了，必须立刻通知主力舰队！<br>
 <br>
 轰---！<br>
@@ -661,12 +661,12 @@ God bless the queen!<br>
 永恒之邦的向导<br>
 维吉尔<br>
 轰-------！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 波拉！！<br>
 <span style="color:#ec5d53;">波拉：</span><br>
 没事，仅仅是擦伤了装甲<br>
-拥有世界最强装甲的扎拉级重巡洋舰可不是那么容易就会被击败的！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+拥有世界最强装甲的{{AF|扎拉}}级重巡洋舰可不是那么容易就会被击败的！<br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 Tenacemente！不愧是我可靠的妹妹~<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 帝国的战舰…果然和姐姐说的一样硬邦邦的，不喜欢<br>
@@ -678,17 +678,17 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 事不宜迟，快和猎户座出发吧，你们的航速比我快，不要迟到了<br>
 <span style="color:#4eb24e;">可畏：</span><br>
 了解~那么可畏这就先出发了！祝您好运，God bless the queen！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 想逃跑！开火——<br>
 <br>
 厌战英勇的冲上前替可畏挡下了一轮炮击<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 你们的对手是我，别想动可畏一根指头！！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 这一出是英雄救美吗~不错，很有战士应有的气魄<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 不…只是，如果可畏生起气的话我也要遭殃的<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 啊？？<br>
 <br>
 「旗舰大人，我的妹妹就拜托你照顾了，这是她的初阵，要是有什么意外情况请多多担待哦~」<br>
@@ -699,30 +699,30 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=极限|选项=18|主框=1|样式=primary|展开=是}}
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 呜…明明只是艘老旧的船骨头，居然还这么难缠<br>
 <br>
 厌战额头的青筋蹦起了一下<br>
 <span style="color:#ec5d53;">波拉：</span><br>
 为什么你能在这样漆黑的夜晚还射得那么准啊…<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 作弊，皇家的战舰在决斗中作弊啦！！<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 胜负已分，两位女士就请不要再阻拦在下去路了<br>
-扎拉女士、波拉女士，在我多年的征战生涯里发现，战舰的性能并不是决定胜负的关键…<br>
+{{AF|扎拉}}女士、波拉女士，在我多年的征战生涯里发现，战舰的性能并不是决定胜负的关键…<br>
 还是要拥有一颗正直勇敢的心灵以及多年的经验积累<br>
 作为一个长者，我就要告诉你们……<br>
 ……<br>
 诶，人呢？！<br>
 <br>
-厌战猛一抬头才发现两艘扎拉级巡洋舰已经飞速驶离了射击范围<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+厌战猛一抬头才发现两艘{{AF|扎拉}}级巡洋舰已经飞速驶离了射击范围<br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 我们才不要听你长话连篇呢，哔哔——<br>
 <br>
-扎拉朝愣在原地的厌战摆了个鬼脸<br>
+{{AF|扎拉}}朝愣在原地的厌战摆了个鬼脸<br>
 <span style="color:#4eb24e;">厌战：</span><br>
 啊…等，等等！！<br>
-<span style="color:#ec5d53;">扎拉：</span><br>
+<span style="color:#ec5d53;">{{AF|扎拉}}：</span><br>
 通知三妹四妹，有一艘航空母舰和一支轻巡部队漏过了防守线，正在朝“卡拉布里亚的宝石”驶去<br>
 皇家的战舰似乎装备了新型的夜战装备，能够在黑夜中精确射击，请务必小心<br>
 我们正在全速前往拦截，希望能够汇合击破！<br>
@@ -812,7 +812,7 @@ Tenacemente！不愧是我可靠的妹妹~<br>
 啊——太可惜了，还以为这次能同时见到皇家三大女神的泳装形态呢~<br>
 <span style="color:#ec5d53;">维托里奥·维内托：</span><br>
 咳…咳<br>
-扎拉、波拉以及所有帝国军舰听令，以罗穆路斯之名，展现帝国的战斗艺术吧！<br>
+{{AF|扎拉}}、波拉以及所有帝国军舰听令，以罗穆路斯之名，展现帝国的战斗艺术吧！<br>
 Lunga vita all'Impero！<br>
 {{折叠面板|内容结束}}
 
