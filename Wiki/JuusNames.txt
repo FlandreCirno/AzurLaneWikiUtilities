@@ -1,4 +1,5 @@
 杜威 Dewey
+卡辛 Cassin
 格里德利 GL_SaraNo1
 莫里 Maury
 弗莱彻 Fletcher
@@ -69,6 +70,7 @@
 约克城 YorkTown
 企业 Enterprise
 大黄蜂 CarVesGAL6
+胡蜂 Wasp
 埃塞克斯 EssexG1
 无畏 The_Fighting_I
 提康德罗加 Ticonderoga
@@ -118,6 +120,7 @@
 斯库拉 Scylla
 肯特 Kent
 萨福克 Suffolk
+反击 Repulse
 胡德 Mighty_Hood
 伊丽莎白女王 QueenEliz
 厌战 Warspite
@@ -174,11 +177,13 @@
 睦月 Mutsuki
 如月 Kisaragi
 卯月 Uduki
+水无月 Minazuki
 海风 Umikaze
 山风 Yamakaze
 新月 Niizuki
 春月 HARUTSUKI
 宵月 Yoizuki
+矶风 Isokaze
 朝潮 Asashio
 大潮 Ooshio
 满潮 Michishio 
@@ -409,6 +414,12 @@ U-1206 U.B.1206
 克莱蒙梭 Clemenceau
 霞飞 Joffre
 加斯科涅 GascogneT8
+皇家财富号 Royal Fortune
+圣马丁号 São Martinho
+金鹿号 Golden Hind
+玛丽·西莱斯特号 Mary Celeste
+维达号 Whydah
+加里冒险号 Adventure Galley
 玛莉萝丝 Marie
 穗香 Honoka
 霞 Kasumi
