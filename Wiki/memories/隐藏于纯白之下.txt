@@ -12,7 +12,7 @@
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 指挥官，这些文件您已经看了相当长一段时间了。这让我不禁怀疑起自己处理文件的方式是否有问题……<br>
 或者是有什么地方您无法理解，需要我为您做一番解释和说明？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 那倒不用。只是你做得实在是远超我的预期……所以有些震惊。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 呵呵~那我就当做指挥官是在称赞我吧。<br>
@@ -29,11 +29,13 @@
 <br>
 黎塞留离开指挥室后，克莱蒙梭便回到了自己的座位上继续处理文件。<br>
 但是她上扬的嘴角和她时不时轻哼出的曲调，都让人有点在意。<br>
+<span class="shikikanname">指挥官：</span><br>
 （嗯……看上去似乎心情很好的样子？）<br>
+<br>
 咚咚咚——（敲门声）<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 我可以进来么，指挥官？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 请进。<br>
 早上好，{{AF|让·巴尔}}。有什么事需要帮忙吗？<br>
 <span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
@@ -45,17 +47,17 @@
 <span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 不，不是！是敦刻尔克做了很多甜点……姐姐让我送来一些。<br>
 等到午休时间，你和指挥官可以把这些甜点当做餐后甜品享用……<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （……姐姐？可是黎塞留刚从指挥室离开，理论上她过来距离也更近些，为什么要{{AF|让·巴尔}}再特地跑一趟？）<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 原来是这样啊。我知道了，午休时我和指挥官会好好品尝敦刻尔克的心意的。<br>
 <span style="color:#4eb24e;">{{AF|让·巴尔}}：</span><br>
 嗯……那、那我先走了。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （……总觉得今天的{{AF|让·巴尔}}感觉不太对劲？）<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 ♪~<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （……克莱蒙梭也不太对劲。）<br>
 （明明今早刚来的时候还只是一副公事公办的平淡模样。）<br>
 （好像……从黎塞留和{{AF|让·巴尔}}来过之后就变得心情很好……）<br>
@@ -68,7 +70,7 @@
 或许正是这一份特别的淡雅，才让人尝过一次就难以忘怀。<br>
 反倒是传统甜点的砂糖加得太多太过直接，过于甜腻的口感总让人觉得相当无趣呢。<br>
 指挥官不这么认为吗？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （克莱蒙梭不仅转移了话题，而且总感觉话里有话……）<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 啊~指挥官，请容许我提醒一下，我们似乎已经耽误了不少时间。<br>
@@ -130,16 +132,16 @@
 不过，如果是工作时间之外的话……<br>
 呵呵~玩笑话罢了~这些不过是些举手之劳，不会影响工作的。<br>
 而且能帮大家解决一些可爱的小烦恼也是我的荣幸。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 可爱的小烦恼？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 与晚餐会准备工作有关的琐事，为了甜品、茶饮，以及要表演的节目而产生的烦恼，指挥官不觉得很可爱吗？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 这么说的话，倒确实……<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 而且过几天有一场重要的演习。如果让大家带着烦恼上场，万一因为分心而发挥失常就不好了。<br>
 我还是有所期待的。——对于鸢尾能否拿到优胜这件事。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 ……没想到克莱蒙梭会在这方面有胜负心。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 只是一点小小的期待罢了~<br>
@@ -155,11 +157,13 @@
 本次举办的跨阵营联合演习，旨在增加各阵营间合作的深度与广度。<br>
 希望大家在大赛中模拟出真实的战场并全力以赴。这样在比赛时记录下的数据也能对未来提供很多帮助。<br>
 那么，指挥官还有什么要补充的发言吗？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 克莱蒙梭已经说得很全面了，希望各位能在今天的演习赛事中全力以赴。<br>
 接下来，就期待大家的精彩表现了。<br>
+<br>
 演习在黄昏时分落下了帷幕。<br>
 在指挥室中，收到了克莱蒙梭整理的演习报告。<br>
+<span class="shikikanname">指挥官：</span><br>
 已经整理好报告了么……不愧是克莱蒙梭。<br>
 （嗯……演习看来是很成功的，各方成员都尽了全力。）<br>
 （不过……咦，克莱蒙梭还写了不少调整方案。）<br>
@@ -172,20 +176,21 @@
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 没有哦。<br>
 我在意的并不是演习的结果，而是……她们使用的战术。实在太天真了。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 嗯……能看出来是因为演习所以手下留情了。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 正是如此。但如果，这是真实的战场呢？<br>
 转瞬即逝的机会不仅仅意味着能否通过它取得胜利，更意味着生还的希望。<br>
 如果连演习的时候都不能认真对待，到了真实的战场上，岂不是更加危险？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 的确如此。不过让这些问题暴露出来，正是演习存在的意义，不是么？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 你说的没错，只是……<br>
 嗯……果然还是应该让审判庭的人参加这次演习的！<br>
 大家的训练还是有些松懈了，得和黎塞留商量重新制定一份训练计划……<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （……果然还是在超在意胜负！）<br>
+<br>
 咚咚咚——（敲门声）<br>
 <span style="color:#4eb24e;">倔强：</span><br>
 克莱蒙梭大人，晚餐会已经准备好了，请问您和指挥官会来参加么？<br>
@@ -262,7 +267,7 @@
 聚会的场面稍微有点混乱，但是到处充满了欢笑，每个人都享受着这轻松的氛围。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 指挥官阁下看上去有些诧异呢，是吃到奇怪的东西了么？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 没有，食物非常美味。只是……<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 只是对于晚餐会的氛围有些意外？<br>
@@ -282,7 +287,7 @@
 嗯…………<br>
 …………嗯？<br>
 …………<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 克莱蒙梭？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 啊，原来是指挥官。抱歉，刚才有点看入迷了。<br>
@@ -291,25 +296,26 @@
 没想到克莱蒙梭还对戏剧创作有兴趣，有些意外。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 哦~？这是在说我看上去不像是喜欢这种高雅艺术的人吗？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 怎么会呢——<br>
 只是觉得你平时应该不太有时间去看话剧或者音乐剧之类的。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 嗯……平日的工作确实不少，不过既然我要求鸢尾的孩子们劳逸结合。<br>
 那我自然也会做些表率。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 所以，你真的会在空闲的时候去看戏剧？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 偶尔吧~指挥官如果还没看过的话，下次和我一起去吧。<br>
 不过以后的事以后再说。展望未来的同时，也要享受当下才是。<br>
 <br>
 克莱蒙梭笑着，晃了晃手中新拿起的书本——似乎，她找到了新的阅读目标。<br>
+<span class="shikikanname">指挥官：</span><br>
 侦探小说……？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 不错。挑选一部侦探小说，只看一半，然后做一下分析报告和人物解析图，推断出凶手和作案动机。<br>
 最后回去把小说看完，看看自己的推理有没有出错。<br>
 这也是我在休息时会进行的放松游戏哦。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 真是非同一般的“放松”方式，不过我很好奇——<br>
 <br>
 '''''<span style="color:black;">选择项1：如果推理对了呢？</span>'''''<br>
@@ -323,18 +329,19 @@
 其实戏剧也好，推理也罢，都只是一个载体。<br>
 我真正喜欢的是大脑在新情报的刺激下，变得活跃起来的感觉。<br>
 不但十分有趣，偶尔也会带来意想不到的启发。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 ……启发？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 嗯~不过再往下说就复杂了，还是先完成本日的目标。<br>
 ……就选这本书好了。指挥官，你选好了么？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （糟糕……光顾着和克莱蒙梭聊天，完全没有把心思放在选书上。）<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 呵呵~看来指挥官还在犹豫呢。<br>
 这样的话，由我来冒昧给您推荐一本如何？<br>
 <br>
 克莱蒙梭笑着，再次晃了晃不知何时新拿起的书本——<br>
+<span class="shikikanname">指挥官：</span><br>
 （《尼罗河上的惨案》……好像是本很有名的侦探小说。）<br>
 （原来如此，克莱蒙梭是想让我试着用类似的方法“放松”一下么。）<br>
 那就试试看好了！<br>
@@ -383,18 +390,19 @@
 ……难得，什么？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 咳……指挥官是来散步的么？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 只是随便走走，你们这是在……玩什么惩罚游戏么？<br>
+<br>
 无论怎么看，这都像是游戏结束后的惩罚环节，毕竟{{AF|让·巴尔}}并不擅长应对猫这样的动物。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 怎么会呢~只是黎塞留说想帮忙找回昨天从猫咖中意外跑丢的猫。<br>
 所以我就建议{{AF|让·巴尔}}来一起帮忙了。<br>
 托她的福，走失的猫找到了，黎塞留姐姐也度过了一段开心的时光。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 原来如此。利用{{AF|让·巴尔}}来吸引走失的猫……真是聪明的作战。<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 多谢指挥官阁下的夸奖~<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 不过既然猫已经找到了，是不是尽快解救一下{{AF|让·巴尔}}比较好？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 嗯……我觉得她可以再坚持坚持，让黎塞留姐姐再多开心一会儿吧~<br>
@@ -407,10 +415,11 @@
 七　纯白之网<br>
 最后，看到黎塞留尽情享受后，克莱蒙梭仅用了一根逗猫棒就将{{AF|让·巴尔}}解救了出来。<br>
 {{AF|让·巴尔}}逃回了宿舍，黎塞留带着猫返回猫咖，克莱蒙梭则与我一同随便闲逛着。<br>
+<span class="shikikanname">指挥官：</span><br>
 看你应付猫很有一套，你也喜欢猫？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 谈不上喜欢还是不喜欢，而且，我可能不适合养宠物哦~<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 有什么原因么？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 嗯～因为不喜欢重要的东西被分享的感觉？<br>
@@ -420,12 +429,12 @@
 （不过，如果对象是指挥官的话，确实不能由我来独占呢……）<br>
 好啦好啦，宠物的话题就先到这里。<br>
 已经接近晚饭时间了，接下来去吃晚餐吧~<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 如果克莱蒙梭接下来的日程允许的话？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 当然允许啦。就算有冲突也会特意为你腾出来就是了。<br>
 走吧，我可是订了一家最近备受好评的店，想和你一起去试试呢。<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 ……嗯？什么时候订好的？<br>
 <span style="color:#4eb24e;">克莱蒙梭：</span><br>
 秘密~<br>

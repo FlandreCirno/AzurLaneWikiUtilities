@@ -13,7 +13,7 @@
 她见微知著、八面玲珑，工作效率高，沟通起来也很自然。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 嗯？指挥官你要出门吗？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 需要出去处理一点事情。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 我明白了，我会在办公室处理完剩下的工作，请指挥官放心外出。<br>
@@ -27,7 +27,7 @@
 一直保持端庄优雅的样子真是累死了……<br>
 平常这个时候，我都还躺在床上懒得起来呢。<br>
 得趁指挥官不在好好眯一会才行，不然下午肯定撑不下去了……<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 咳咳……<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 ……咦？指、指挥官？！<br>
@@ -47,12 +47,12 @@
 平时端庄优雅的样子，那都是我的演技。<br>
 感到失望了？<br>
 不用说出来我也明白，一直信任的同伴居然有不为人知的另一面什么的……<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 那今后安排给你的工作就减少一点好了。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 ……诶？<br>
 指挥官，我骗了你，你不生气吗？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 每个人都有不愿在他人面前展露出的一面。<br>
 想要向他人展现出美好的一面并不是一件需要道歉的事。<br>
 如果真要道歉的话，也是偶然间看到这些场景的我才是？<br>
@@ -101,6 +101,7 @@
 做不到~就是做不到~~<br>
 <br>
 恶毒突然……在沙发上打起滚来。<br>
+<span class="shikikanname">指挥官：</span><br>
 （如果……要点在于奖励的话。）<br>
 <br>
 '''''<span style="color:black;">选择项1：提议用敦刻尔克的点心作为奖励。</span>'''''<br>
@@ -167,7 +168,7 @@
 ……看来还是得回到房间才能放松休息。<br>
 可双腿还是很累，要是勉强自己走回去，明天起床肯定会酸痛的吧。<br>
 该怎么办呢？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 （恶毒看上去有些困扰，还是过去看看吧。）<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 指挥官？真巧啊，你也是走累了想要休息么？<br>
@@ -175,6 +176,7 @@
 面对乐于助人的指挥官，我就不客气了。<br>
 <br>
 恶毒自然地张开了双臂。<br>
+<span class="shikikanname">指挥官：</span><br>
 （这时候应该……）<br>
 <br>
 '''''<span style="color:black;">选择项1：给医务室打电话</span>'''''<br>
@@ -196,7 +198,7 @@
 不对……等等等等。<br>
 就算是背着，被人看到也相当不妙。<br>
 需要一个合理的借口才行……<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 恶毒在远征回来后，因为腿部受伤所以要被人背着去医务室，这样如何？<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 指挥官，真的是天才啊！<br>
@@ -222,18 +224,19 @@
 这办公室……太寡淡了！<br>
 <br>
 某天，恶毒突然在指挥室里郑重其事地做出了如此宣言。<br>
+<span class="shikikanname">指挥官：</span><br>
 太寡淡是指……？<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 整个室内的办公环境，都太寡淡了——<br>
 没有薯片，没有可乐，没有游戏机，没有漫画小说，没有舒服的床和枕头，诸如此类的！<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 因为……这里是指挥室。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 可是这样的话，即使提前完成了工作，我也没法好好享受呀~<br>
 总之，这是一间很寡淡的办公室！<br>
 让我改造一下吧，指挥官！<br>
 好不好嘛~好不好嘛~<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 话都说到这个份上了……反正也没什么坏处。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 好耶——！我会把这里改造成偷懒圣地的！<br>
@@ -258,7 +261,7 @@
 说实话，在这里工作了这么多天，我就没见过这大屏幕开过。<br>
 为了更好发挥出它存在的价值，我已经把它和游戏机接在一起了。<br>
 耳听为虚，眼见为实，我们马上体验一番吧~<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 可，现在已经是工作时间了。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 呃，还以为能趁着气势糊弄过去，果然还是失败了……<br>
@@ -314,6 +317,7 @@
 ……zzzZZZ。<br>
 <br>
 按了不到三分钟，恶毒就进入了甜美的梦乡。<br>
+<span class="shikikanname">指挥官：</span><br>
 …………<br>
 该开始处理剩下的工作了（叹气）。<br>
 {{折叠面板|内容结束}}
@@ -350,6 +354,7 @@
 指挥官，我亲自泡的红茶，请你品尝。<br>
 <br>
 恶毒一口气完成了额外的工作后，还主动泡了红茶。<br>
+<span class="shikikanname">指挥官：</span><br>
 嗯……味道确实不错。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 嘿嘿，第一次泡就能泡得这么好喝，我还真是厉害。<br>
@@ -369,7 +374,7 @@
 才按摩了不到十分钟，恶毒就累得坚持不下去了。<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 原来报恩要这么累啊……<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 报恩？<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 我不小心睡到下班的那天……你不是把我的那一份工作全都做完了嘛。<br>
@@ -409,7 +414,7 @@
 <span style="color:#4eb24e;">恶毒：</span><br>
 嗯？指挥官，桌子上的这两张游乐园门票……<br>
 是今天早上{{AF|明石}}做推销的时候塞过来的？<br>
-<br>
+<span class="shikikanname">指挥官：</span><br>
 是啊……你对游乐园有兴趣么？<br>
 <span style="color:#4eb24e;">恶毒：</span><br>
 我才不想去那种地方呢。<br>
