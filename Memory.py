@@ -248,7 +248,7 @@ def wikiSlide(slide, lastActor, lastOption):
         name = slide['name']
     if name != None:
         if name == "指挥官":
-            output +='<span class="shikikanname">指挥官</span>：'
+            output +='<span style="color:#3498DB;" class="shikikanname">指挥官</span>：'
         elif len(name) > 0:
             if slide['color']:
                 output += '<span style="color:' + replaceColor(slide['color']) + ';">' + name + '：</span>'
