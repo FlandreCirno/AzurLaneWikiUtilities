@@ -177,7 +177,7 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
                 except:
                     name = str(actor)
                     print(f'未找到actor{actor}名称')
-            elif actor and actor == 0:
+            elif actor == 0:
                 name = "指挥官"
             else:
                 name = ''
