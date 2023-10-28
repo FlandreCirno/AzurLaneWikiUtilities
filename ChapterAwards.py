@@ -74,8 +74,8 @@ def getChapterAward():
             filename += '普通'
         elif m['type'] == 5:
             filename += '困难'
-        filename += '.txt'
         filename = util.sanitizeFileName(filename)
+        filename += '.txt'
         filePath = os.path.join(util.WikiDirectory, 'chapterAwards', m['category'], filename)
         if os.path.isfile(filePath):
             raise Exception(f'File: {filename} already exists!')
