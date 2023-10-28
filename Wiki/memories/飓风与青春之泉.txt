@@ -52,7 +52,7 @@
 '''''<span style="color:black;">选择项2：试图解释——</span>'''''<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 我不听我不听！！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （完全说不通……）<br>
 （没办法，只能先摆平她——）<br>
 （结束了……）<br>
@@ -122,7 +122,7 @@
 <br>
 顺着皇家财富指出的方向看去，果然看到了一艘在阴影中停泊的快船。<br>
 它看起来是一艘护卫舰，但火力配置却有点超出标准。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （为什么要将它停泊在所有人视线之外……）<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 好极了，就它啦！<br>
@@ -132,7 +132,7 @@
 '''''<span style="color:black;">选择项1：要怎么做？</span>'''''<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 当然是偷偷溜上去，找到舵轮的位置就可以了啊。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 就我们两个？<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 对啊……？<br>
@@ -161,12 +161,12 @@
 这座城邦正在被攻击……不对劲，这也太胆大包天了。<br>
 你望远镜借我，这时候教堂上会挂对应的标志才对……<br>
 喔！挂信号旗了！……残响舰队袭击？！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 「残响舰队」？<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 一些集群游荡的机械战舰，它们会攻击航路上的船只，但却从不劫掠。<br>
 贤者们认为那是上古纪元的造物……但它们到底是什么来历，没人说得准。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （这听起来怎么像是……）<br>
 <br>
 '''''<span style="color:black;">选择项1：你们听说过塞壬么？</span>'''''<br>
@@ -182,21 +182,21 @@
 <br>
 快船缓缓地开出了阴影，绕行到了港口的侧面。<br>
 燃烧的火焰让我们的心情也跟着摇曳不定。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 看起来港口里的舰队完全没有得到预警。<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 毕竟残响舰队以前从来不袭击城邦……<br>
 这样下去的话，城邦的舰队会被堵在港口里歼灭的……<br>
 唔，但帮忙的话……唔……想不出来……<br>
 喂，你也出个主意嘛！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……我记得你是海盗吧？<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 帮忙的事不一样啦！此一时彼一时嘛！<br>
 而、而且……！大、大家都会有潦倒的时候哦！！<br>
 我……我有个朋友，还吃过教会的救济粮呢！<br>
 ……你笑什么？！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……没事。<br>
 接下来听我指挥，我们朝着敌人的阵线中央冲过去。<br>
 这是对付没有高级指挥节点的塞……残响舰队最好的方法。<br>
@@ -226,11 +226,11 @@
 轰——！<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 左舷中弹啦！快做点什么！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 不要急，差不多是时候了。<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 ……欸？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 永远记住，我们不是孤军奋战。<br>
 <br>
 就在这时，远方传来了嘹亮的响哨。<br>
@@ -246,7 +246,7 @@
 <br>
 战斗结束之后——<br>
 在城邦收拾烂摊子的同时，一位不速之客也登上了战舰。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （原来也不全都是皇家财富这种风格的啊……）<br>
 <br>
 似乎是察觉到了我的视线，金鹿微微躬身，行了个提裙礼。<br>
@@ -256,7 +256,7 @@
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 哇哇哇……<br>
 这个不是那位么……？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 怎么回事？<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 这是个超有名的家伙啦！在城邦世界和新世界都吃得开——<br>
@@ -265,7 +265,7 @@
 请问，你们谁是船长？<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 我旁边这个！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …………？<br>
 你就是刚刚城邦舰队的指挥者？<br>
 <span style="color:#4eb24e;">金鹿号：</span><br>
@@ -331,7 +331,7 @@
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 欸？雇佣？<br>
 但这也太多了，完全没有道理，金鹿。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……我能听听理由么？<br>
 <span style="color:#4eb24e;">金鹿号：</span><br>
 与残响舰队袭击这个城邦的原因有关哦。<br>
@@ -365,7 +365,7 @@
 难道是为了青春之泉的传说？但这也说不通啊，总不能那些钢铁机械也想长生不老……<br>
 <br>
 看起来，皇家财富陷入了自己完全不擅长的领域——<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （信息量不足，无法得到答案么……）<br>
 （那就先转移一下话题——）<br>
 <br>
@@ -437,7 +437,7 @@
 真有意思。<br>
 你们之间的信任有着令人羡慕的真实。<br>
 明明你们才刚认识不久才对……指挥官，你知道么？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …………？<br>
 <span style="color:#4eb24e;">金鹿号：</span><br>
 教会中一直流传着这样的一个故事。<br>
@@ -488,7 +488,7 @@
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''喂，你想到哪去了……<br>
 '''''<span style="color:black;">（选择项2）</span>'''''比起我，你才是那个需要帮忙的吧？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……有这么明显？<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 哼哼，传奇冒险家的直觉告诉我，你在苦恼~<br>
@@ -504,12 +504,12 @@
 不过那么一大笔雇佣费都收了，我也没什么立场去质疑她的决定。<br>
 而且能在海洋上自由的驰骋，我的梦想就已经实现了。<br>
 再说，赌一赌，舢板变战舰嘛~说不定我们运气特别好，直接成为大赢家呢！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 赌桌上没有真正的赢家与输家，输赢只关乎数学计算的结果，更别说“运气”本来就不可靠了。<br>
 这些你应该比我更清楚才对。<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 你说的确实也对……<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 你那是什么眼神？我可没有亏到只能吃救济粮哦！<br>
@@ -608,7 +608,7 @@
 圣马丁愣了一下，但最后还是没有离开。<br>
 ……<br>
 尽管，自然的伟力从不在乎凡尘生灵的抉择——<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （糟了……！）<br>
 <br>
 '''''<span style="color:black;">选择项1：皇家财富，掌舵！</span>'''''<br>
@@ -617,7 +617,7 @@
 能力不足啊喂！<br>
 <br>
 虽然说着这样的话，但皇家财富还是用力地扳住了舵轮。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 金鹿，过来帮我一下！<br>
 ……圣马丁！快过来！<br>
 ……抓紧我……！<br>
@@ -627,7 +627,7 @@
 ………………！<br>
 <span style="color:#4eb24e;">金鹿号：</span><br>
 小心！浪头过来了！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 抓稳扶好！<br>
 <br>
 '''''<span style="color:black;">选择项1：攥住圣马丁的手腕。</span>'''''<br>
@@ -687,7 +687,7 @@
 谢·谢·你·啊——<br>
 <br>
 皇家财富猛地坐下，拉住了我的另一只手。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 你先别急，我有话想问。<br>
 圣马丁怎么样了？<br>
 <span style="color:#4eb24e;">？？？？：</span><br>
@@ -719,7 +719,7 @@
 作为幽灵船，行走于风暴之中本就是烙印在我头脑中的本能。<br>
 像您这样的勇敢者应当完成您的征程……对您的救援，我只是做了些力所能及的事罢了。<br>
 风暴几个小时后就会散去，到时候您就可以继续前行了。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 你不打算与我们同行么？<br>
 <span style="color:#4eb24e;">玛丽·西莱斯特号：</span><br>
 欸……？<br>
@@ -835,7 +835,7 @@
 <span style="color:#4eb24e;">金鹿号：</span><br>
 那么除了航道之外，它们现在已经将城邦都列入袭击名单了。<br>
 虽然不知道它们在寻找什么……但先前城邦遇袭绝非偶然。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （……这就有意思了。）<br>
 （对于塞壬而言，掌握天气的力量并非空谈……）<br>
 （但如果残响舰队是塞壬的话，它们过去肯定处于自律行动的状态。）<br>
@@ -1062,7 +1062,7 @@
 是一本能召唤旧文明魔法的神奇魔导书哦！<br>
 <br>
 维达递过来了一个黑色的金属板。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （这是……终端机……？）<br>
 <br>
 看到了一个眼到不能再眼熟的科技造物。<br>
@@ -1163,7 +1163,7 @@
 向你问好，指挥官。<br>
 <br>
 在驾轻就熟地抬起羽翼，挡去众人玩闹时溅起的水花后，圣马丁在一旁坐了下来。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 感谢遮挡。<br>
 <span style="color:#4eb24e;">圣马丁号：</span><br>
 ……举手之劳。<br>
@@ -1483,7 +1483,7 @@
 <br>
 乌云在静谧的沉没之地凝聚起来，渐渐地，一道奇妙的门出现在了水面之上。<br>
 但还没等众人感叹，不速之客就从“门的另一边”闯了过来。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （塞壬…测试者……？！）<br>
 <span style="color:#4eb24e;">测试者？：</span><br>
 哈哈哈哈哈——！<br>
@@ -1512,7 +1512,7 @@
 看到此情此景，我更加确信这一点了！<br>
 想不到“苍狼团”的旗号与无聊的传说，竟能吸引你这样的人出现！<br>
 这正是命运给我的指示！哈哈哈哈！！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 你就是苍狼团的领袖？<br>
 <span style="color:#4eb24e;">提斯塔：</span><br>
 嗬嗬嗬嗬……正是！<br>
@@ -1521,7 +1521,7 @@
 而你，正是伟大计划最后的一块拼图——！<br>
 虽然不知道为什么，但有了你，我就能聆听到命运给予的智慧了！<br>
 现在，我就是这个世界的造物主，这个世界的神明！<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （原来如此，所以她甚至在苏醒之前，就与主机断开连接了么……）<br>
 （……难怪说话风格这么独特，真是难为她了。）<br>
 （这样的话……）<br>
@@ -1537,7 +1537,7 @@
 <br>
 ——轰！<br>
 一同被卷过来的玛丽·西莱斯特正在奋力朝着这边前进。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 原来如此，只有能在风暴中穿梭的玛丽过来了。<br>
 所以你之前才袭击她……你需要风暴作为行动的掩护，所以忌惮她的力量。<br>
 <span style="color:#4eb24e;">提斯塔：</span><br>
@@ -1548,7 +1548,7 @@
 好好听着吧，战争机器重新开动的声音。<br>
 我会让计划回归正轨！<br>
 ……你笑什么？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 作为初学者而言，你做得还算不错。<br>
 <span style="color:#4eb24e;">提斯塔：</span><br>
 ……没有意义的嘲讽。你很快就笑不出来了，“指挥官”。<br>
@@ -1794,18 +1794,18 @@
 哈哈，也是呢。<br>
 也是呢…………<br>
 ……真的要走么？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 已经麻烦玛丽准备了这么久的风暴奇点，不离开就对不起玛丽小姐的辛苦劳动了。<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 ……唔，好吧。<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 再说，晚风是最适合送行的风，选择这个时候正好。<br>
 这个给你。<br>
 <br>
 '''''<span style="color:black;">选择项1：把罗盘交给皇家财富。</span>'''''<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>
 就、就这么留给我真的好么？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 它对你会有用的。<br>
 我该走了。<br>
 <span style="color:#4eb24e;">皇家财富号：</span><br>

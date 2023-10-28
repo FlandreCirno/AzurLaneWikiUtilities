@@ -6,7 +6,7 @@
 <br>
 一  {{AF|瑞鹤}}的早晨<br>
 往常的这个时间，作为秘书舰的{{AF|瑞鹤}}应该已经前来进行早晨的报告了。不过今天…似乎还没来的样子<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：去重樱空母宿舍看看</span>'''''<br>
@@ -90,7 +90,7 @@
 <span style="color:#4eb24e;">{{AF|加贺}}：</span><br>
 姐…咳咳、{{AF|赤城}}，别给指挥官添太多麻烦<br>
 {{AF|瑞鹤}}你也是，要好好尽到秘书舰的职责…好了，{{AF|赤城}}，你先走吧<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 指挥官，{{AF|赤城}}前辈已经走了哦<br>
@@ -136,7 +136,7 @@
 不只是超越灰色幽灵这件事，对{{AF|翔鹤}}和重樱的同胞、港区的同伴们、人类的世界、甚至还有指挥官你——都想要独自背负<br>
 指挥官，作为那孩子的前辈…我有个请求，不是作为您的部下，仅仅是个人的请求<br>
 如果有一天，那孩子被责任所压垮，撑不住了的话……希望指挥官能在她身边，与她一起支撑下去<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
 ……呵呵，你的回答，我会记着的。{{AF|瑞鹤}}就拜托你了啊<br>
@@ -161,7 +161,7 @@
 鸡块旁边偷偷放着的天妇罗莫非是隐藏的小菜？<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 怎么样？<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：很好吃</span>'''''<br>
@@ -216,7 +216,7 @@
 指挥室·深夜<br>
 <span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
 指挥官果然…还是选了{{AF|翔鹤}}姐准备的……<br>
-<span class="shikikanname">指挥官</span>：<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：叫住{{AF|瑞鹤}}</span>'''''<br>
