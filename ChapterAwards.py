@@ -3,7 +3,7 @@ import re, os
 import util
 
 shipType = ['驱逐', '轻巡', '重巡', '战巡', '战列', '轻母', '航母', '潜艇', '航巡', '航战', '雷巡', '维修', '重炮', '占位', '占位', '占位', '潜母', '超巡', '运输', '导驱', '导驱', '风帆', '风帆', '风帆']
-shipAwardList = ['驱逐', '轻巡', '重巡', '战巡', '战列', '航母', '轻母', '重炮', '维修', '潜艇']
+shipAwardList = ['驱逐', '轻巡', '重巡', '战巡', '战列', '航母', '轻母', '重炮', '维修', '潜艇', '风帆']
 
 def getShipTemplate():
     return util.parseDataFile('ship_data_template')
