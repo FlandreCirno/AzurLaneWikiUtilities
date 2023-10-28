@@ -169,12 +169,6 @@ def getNameCode():
     for i in content:
         output[i['id']] = i['name']
     return output
-
-def sanitizeFileName(fileName):
-    charSet = [[':', '：'], ['?', '？'], ['"', '“'], ['.', '。'], ['<', '《'], ['>', '》']]
-    for c in charSet:
-        fileName = fileName.replace(c[0], c[1])
-    return fileName
         
 if __name__ == "__main__":
     pass
