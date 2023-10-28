@@ -270,12 +270,6 @@ def replaceColor(color):
     else:
         return color
 
-def sanitizeFileName(fileName):
-    charSet = [[':', '：'], ['?', '？'], ['"', '“'], ['.', '。'], ['<', '《'], ['>', '》']]
-    for c in charSet:
-        fileName = fileName.replace(c[0], c[1])
-    return fileName
-
 def wikiGenerate():
     nameCode = getNameCode()
     memoryGroup = getMemoryGroup()
@@ -296,7 +290,7 @@ def wikiGenerate():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', util.sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
             
 def MemoryJP():
@@ -321,7 +315,7 @@ def MemoryJP():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', 'JP', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'JP', util.sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
     
 def MemoryEN():
@@ -346,7 +340,7 @@ def MemoryEN():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', 'EN', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'EN', util.sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
             
 def MemoryKR():
@@ -371,7 +365,7 @@ def MemoryKR():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', 'KR', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'KR', util.sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
             
 def MemoryTW():
@@ -396,7 +390,7 @@ def MemoryTW():
     for v in groups:
         groupsbuilt.append(buildGroup(v, skinTemplate, shipStatistics, shipTemplate, memoryTemplate, nameCode))
     for group in groupsbuilt:
-        with open(os.path.join(util.WikiDirectory, 'memories', 'TW', sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
+        with open(os.path.join(util.WikiDirectory, 'memories', 'TW', util.sanitizeFileName(group['title']) + '.txt'), 'w+', encoding='utf-8') as f:
             f.write(wikiPage(group))
 
 if __name__ == "__main__":

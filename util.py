@@ -160,7 +160,7 @@ def parseNameCode(text, nameCode, AF = False):
         else:
             return matchobj.group(0)
     return re.sub(r'\{namecode\:(\d+)\}', parsefunc, text)
-    
+
 def getNameCode():
     content = parseDataFile('name_code')
     if isinstance(content, dict):
@@ -169,6 +169,11 @@ def getNameCode():
     for i in content:
         output[i['id']] = i['name']
     return output
+def sanitizeFileName(fileName):
+    charSet = [[':', '：'], ['?', '？'], ['"', '“'], ['.', '。'], ['<', '《'], ['>', '》']]
+    for c in charSet:
+        fileName = fileName.replace(c[0], c[1])
+    return fileName
         
 if __name__ == "__main__":
     pass
