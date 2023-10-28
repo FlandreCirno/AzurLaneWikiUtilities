@@ -177,6 +177,8 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
                 except:
                     name = str(actor)
                     print(f'未找到actor{actor}名称')
+            elif actor and actor == 0:
+                name = "指挥官"
             else:
                 name = ''
             type = 'say'
@@ -245,7 +247,9 @@ def wikiSlide(slide, lastActor, lastOption):
     else:
         name = slide['name']
     if name != None:
-        if len(name) > 0:
+        if name == "指挥官":
+            output +='<span class="shikikanname">指挥官：</span>'
+        elif len(name) > 0:
             if slide['color']:
                 output += '<span style="color:' + replaceColor(slide['color']) + ';">' + name + '：</span>'
             else:
