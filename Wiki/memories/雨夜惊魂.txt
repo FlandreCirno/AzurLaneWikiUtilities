@@ -1,0 +1,2288 @@
+== 雨夜惊魂 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=熟悉的配方不同的味道|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+唔……嗯？<br>
+这里是……<br>
+<br>
+视线所及之处是陌生的房间。<br>
+复古的装修风格、昏暗的灯光、有些老旧的家具……不过茶几上的黑色小盒子倒是有些眼熟。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+现在的状况难道是……<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+咳咳咳……测试测试~hello指挥官~能听到我的声音吗？<br>
+<br>
+茶几上的黑色小盒子里突然传来了布里斯托尔的声音。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……布里斯托尔？<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+哇哦，看来通讯状况良好~指挥官，欢迎来到莱顿古堡！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……莱顿古堡？<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+没错。这一切，都还要从十二年前的那个雨夜说起——<br>
+<br>
+布里斯托尔突然讲起了故事……虽然很有趣，不过对于厘清现状毫无帮助。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+咳……简而言之，这里是融合了跑团形式的真人逃脱剧本。<br>
+相比之前，这一次的剧本有了极大的提升，各种机关也做了改进，所以才想找指挥官来体验一下。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+难道，昨天晚上阿芙乐尔来找我喝酒就是为了这个？<br>
+如果可以，倒是希望你们用普通一点的方式来邀请我。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+欸嘿嘿~这样子比较符合剧本嘛。主打一个沉浸式体验！<br>
+话说回来，我刚才的故事讲到哪里了来着……<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+简·而·言·之！您将要扮演一名调查员，在这座位于阿卡姆小镇郊区的一座古老城堡中调查一场离奇事件。<br>
+在调查的过程中，身为调查员的您将会遇到各种各样的突发事件。<br>
+需要调查员运用自身的能力将其一一化解。<br>
+不过，由于调查员在进入古堡后，因不明原因昏倒，所以在清醒后暂时失去了大部分记忆。<br>
+因此，调查员对自己的实际拥有的能力一无所知，您必须要在调查的过程中慢慢找回丢失的记忆才能发挥它们。<br>
+当调查员遇到随机事件时，将由系统根据您的能力值掷骰子来判定事件处理的成功与否。<br>
+不过当然，因为失忆的原因，您对于自身的能力值也并不清楚。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+现状我理解了，也就是说我对于自己的角色卡一无所知么……<br>
+失忆忘记技能还能理解，连基础能力值也忘记，是不是有些牵强……？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+我也觉得是这样！不过这个设定和您的角色卡一样，都是我们用投掷骰子的方式决定下来的。<br>
+所以……嗯，请不用在意细节！<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+基础说明就到这里吧，剩下的可以请指挥官……不，请调查员在古堡中身临其境的体会。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+需要过检定的时候，记得找{namecode:22:雪风}大人扔骰子哦~<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+不对吧！我们明明说好根据实际情况交替来掷骰的！<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+没错。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+所以说为什么呀！{namecode:22:雪风}大人的运气那么好，最适合来扔骰子吧！<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+这就是，不能让你多扔骰子的原因。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+1、2、3、4、5、6、7……还真是豪华的幕后团队。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+其实{namecode:428:欧根}和皇家财富小姐也参与了剧本设计。<br>
+只不过她们现在……不提也罢。{namecode:428:欧根}发消息来催了，差不多该开场了。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+等、等等！我还有最后一句补充说明！<br>
+在调查过程中一定记着把对讲机带着！<br>
+这次对讲机可是关键道具！还可以防止危险情况的发生哦！<br>
+那么新人调查员，祝你好运————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，你说的危险是什么？<br>
+……布里斯托尔？<br>
+<br>
+黑色的对讲机没有再传出任何声音，整个房间陷入了一片死寂。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=引导-其一|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+大失败……这可不太妙啊。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+我记得这一幕的设计是……嗯，确实不太妙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+掷骰失败，会发生什么事么……？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+这一点的话……稍后您就知道了。那么，让我们继续吧——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=引导-其二|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">代理KP：</span><br>
+啊……插播一段关于成功与失败判定的补充规则。<br>
+一次投掷会投出两个十面骰。其中一个代表最终结果的十位，一个代表最终结果的个位。<br>
+当投掷出0-0时，会被认定为100。<br>
+投掷结果为51-100时，会被判定为失败。投掷结果为1-50时，会被判定为成功。<br>
+在本次逃脱剧本中，为了保证指挥官的游戏体验，因此对于规则进行了简化。<br>
+当投掷结果为失败时，不论如何选择，都只会通向BE的结局。<br>
+不过，当投掷结果为成功时，将会同时开放通向BE的路线和能够成功存活到下一幕的路线，指挥官可以自由选择。<br>
+而且，当一次投掷结果为失败后，下一次投掷必定为成功。<br>
+因此，请指挥官不用担心错过内容，尽情体验所有的死亡结局吧——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=序幕-山中古堡|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-0-山中古堡<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+一阵“吱呀”的开门声后，调查员发现有人推开房门走了进来。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+咦？调查员？您怎么会在佣人休息室里？<br>
+噢~我明白了，您已经开始进行调查了啊，真不愧是业内一流的调查员呢。<br>
+欸？只是迷路走错房间了？<br>
+唔，城堡内的通道错综复杂，如果不是常年生活在这里的话确实容易迷路。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+你看着眼前这个陌生的女仆，脑海里调动不出任何与之有关的记忆。<br>
+但是从她的话语间，你了解到自己是一名优秀的调查员。<br>
+<br>
+对讲机里再次传来了布里斯托尔的声音。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原来如此，刚才说的关键道具是这个意思……通过对讲机来履行KP的职责么。）<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+嗯……调查员，您为什么总是盯着我看？<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+你发现自己总是不由自主地打量周围的环境以及身边的人，这样的行为似乎有些异常。<br>
+突然间，你的脑海中闪过一些片段。（d100=31）嗯……成功。<br>
+你想起自己为了成为一名出色的调查员，曾刻苦锻炼过自己的侦察术。<br>
+长久的训练使你的观察力远超常人。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+恭喜，你已回忆起技能：观察力。熟练程度：精通。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+哇哦……这个是企业前辈设计的技能呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原来这就是在探索中通过找回记忆取回能力的意思啊。）<br>
+（企业设计的观察力，熟练程度还是精通，感觉对于调查会有帮助……）<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+调查员？您身体不舒服吗？我带您去接待室休息吧？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=序幕-BE|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+调查员？您身体不舒服吗？我带您去接待室休息吧？<br>
+<br>
+'''''<span style="color:black;">选择项1：不碍事。</span>'''''<br>
+'''''<span style="color:black;">选择项2：不用了。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''只是有点走神而已。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是不是因为刚才淋了雨感冒了？还请随我去接待室吧，那里有壁炉，能暖暖身子。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（宾客接待室？这该不会是陷阱吧？）<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''您的脸色看起来不太好，是不是感冒了？还请随我去接待室吧，那里有壁炉，能暖暖身子。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+不然主人会以为我们怠慢了客人。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来去接待室是剧情的固定发展。虽然很好奇去了接待室会发生什么，但是这样时间就……）<br>
+（如果在这里不顺应剧情的话，也许会有什么别的有趣的发展。）<br>
+（而且，大多数游戏都有快速通关的办法……试试看吧。）<br>
+不用麻烦，我想自己在城堡里逛逛。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+可是……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？这个花纹是……？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+面前的这扇黑色木质雕花房门上的花纹有些奇特，看起来像是从点衍生出的一些扭曲的线条。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……而且看起来有点像布里斯托尔之前推荐的小说封面上出现过的花纹。）<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+呼呼~你觉得房门上的雕花似乎别有深意，像是某种信仰相关的印记，但又无法完全确定。<br>
+你不断检索自己的大脑。突然有那么一瞬间，似乎有什么画面在你的眼前闪过！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（哦？看起来这个大门也是线索之一了？）<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+（d100=42）——成功，你抓住了那个差点一闪而过的画面！<br>
+丢失的记忆碎片开始回笼，拼成一幅幅连续的画面。<br>
+你记起自己作为一个神秘学爱好者，研究过世界各地的神话与传说——<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+恭喜，你已回忆起技能：民俗研究，熟练度，普通。<br>
+你曾在一个有关神话的研究文献中见过相同的印记，似乎是某个神明的图腾，但除此之外再也想不起其它的了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+民俗研究……这个大概是布里斯托尔设计的技能吧。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+那是当然啦！说到调查员，那民俗研究不就是必备技能吗！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……基于刻板印象的设计呢，那熟练度为什么只有普通？<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+……骰运不济！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+咳……调查员试图打开这扇黑色的木质雕花房门。<br>
+可是在刚刚搭上门把手的时候，女仆长神色慌张地走了过来。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+调查员，您要是不想去接待室，也可以在这里休息。大厅目前正在打扫，暂时不便待客。<br>
+<br>
+'''''<span style="color:black;">选择项1：好可疑！</span>'''''<br>
+'''''<span style="color:black;">选择项2：我只是去看看。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（这其中必定有诈！）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+放心，我会注意不会干扰你们的清扫工作的。<br>
+也请女仆小姐不要打扰我的工作。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+没有理会对方的劝阻，你直接转动把手，打开了门。<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+然后——你进入了大厅。<br>
+大厅里黑漆漆的一片，完全不像是女仆小姐所说的“正在进行清扫工作”。<br>
+只有伸手不见五指的黑暗包裹着安静得过头了的房间。<br>
+呼——强烈的不安感在这寂静的黑暗中缓缓爬上了你的脊背。<br>
+“嘭！”——大门在此时紧紧关闭。<br>
+在身后光线彻底消失前的那一刻，你看到好像有什么东西“咻”地一下快速闪过——<br>
+然后，你失去了全部知觉——<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-01-好奇心害死猫<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……所以我这是……<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+这么快就打出了第一个BE，不愧是你，指挥官。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+没想到只是去了大厅就会导致死亡，果然还是要跟着剧情走么……<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+明明我都暗示了这边有危险呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原来刚才那个是暗示吗？那调查员的死亡原因是什么？<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+哼哼，这个结局可是{namecode:22:雪风}大人设计的！其实，死亡原因是——<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+死因是未知哦~我们也不知道呢~<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+其实是知道啦……但是现在就说明就太无趣了，还请指挥官在接下去的试玩中自行推导哦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=序幕-NEXT|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+调查员？您身体不舒服吗？我带您去接待室休息吧？<br>
+<br>
+'''''<span style="color:black;">选择项1：那就麻烦你了！</span>'''''<br>
+'''''<span style="color:black;">选择项2：（尝试跟踪女仆）</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（看来这次的剧本设计与以往大不相同，这里还是先顺应剧情的走向静观其变吧。）<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（就是那个判定方式……稍微有点在意。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不用了，我想自己先逛一会。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（然后等她出门后，我再偷偷跟上。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（这种时候只要跟踪NPC角色，或许能有意外收获。）<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好的，那我就先不打扰您工作了。一会请您自行移步到会客厅，管家会在那里与您商谈后续事宜。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不过，正如我刚才所说。城堡内的通道有些复杂，还请您不要乱走，小心迷路。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''女仆长没有再多说什么，很干脆地离开了，似乎并不想在这个房间内过多停留。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（明明这里是佣人休息室……好可疑。为了避免暴露，稍等片刻再跟过去看看吧。）<br>
+<br>
+一段时间后——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+糟糕、跟丢了。而且……好像真的迷路了……<br>
+这里究竟是哪里……长廊怎么像没有尽头一样？<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+嗯？调查员？您怎么会在这里？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+不知道从哪儿突然冒出来的女仆小姐笑得一脸温柔。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+是迷路了吗？需要我带您去接待室吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+此刻，调查员似乎从女仆小姐嘴角勾起的弧度中看出了些许嘲讽。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+麻烦你了……<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+当然~请随我来。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+于是，你在女仆长的的带领下穿过了通往宾客接待室的大门，来到了一个装饰华丽的房间。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+真材实料的装潢……谢菲尔德的皇家顾问原来指的是这个意思。<br>
+这个布景真是投入惊人……<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+看来您在来之前，没有对您的雇主做过详细的调查呢。<br>
+如果我家主人只是一位普通的慈善家，自然承担不起这座古堡的运作。<br>
+当然，也就付不起您高昂的调查费用，毕竟您可是业内鼎鼎有名的一流调查员呢。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女仆长的脸上虽然挂着异常亲切的笑容，但是她的言语间却带着尖刺。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……看来女仆小姐好像对我很不满？也许和调查费……或者我的名声有关？）<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+如今，因为城堡里频发的失踪案，其他仆人都已经辞职离开了。<br>
+剩下的佣人只有管家、我与厨师长。希望您真的能查出真相，而不是像之前的那些骗子一……咳……<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+似乎是意识到了自己的失言，女仆小姐有些不自然地停下了这个话题。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+……管家手头的工作还未结束，稍后会来见您，请您先在这里休息一下。<br>
+我先告退了。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女仆长离开了。你在接待室豪华的沙发上一边休息，一边等待着管家的到来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……趁机先整理下已知的线索吧。）<br>
+（古堡的主人是慈善家，或许还是一位富商或者贵族。）<br>
+（而我是一位业界知名的调查员，受雇来调查古堡中频发的……频发的失踪事件？）<br>
+（同时还知道古堡内目前有女仆长、管家和厨师长三名佣人，不确定还有没有其他人。）<br>
+（能力值和技能则只回忆起了熟练的观察力……作为开局来说，真是不容乐观。）<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+安静的环境，让你有些昏昏欲睡。为了转移注意力，你开始观察起这个房间。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+观察房间……？说起来，我确实拥有观察这个技能呢。<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+可能是由于长久以来的职业习惯，你开始不由自主地观察起这个房间。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原来如此，只要说出与技能相关的话，或者做出与之对应的行动就会开始触发技能判定。<br>
+……她们到底在房间里装了多少监控探头啊。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+（d100=1）——大成功哦！你成功发现隐藏在房间装潢中的秘密！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{namecode:22:雪风}的运势真是名不虚传！<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+呼呼呼~再多夸夸{namecode:22:雪风}大人也是可以的哦！<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+在这里大成功了啊……唔……<br>
+咳咳……就在这时，一些零碎的文字闯进了你的脑海中。<br>
+“布莱克勋爵继承了家族企业庞大的财富，其家族在买下了位于阿卡姆郊外的莱顿城堡后，便常住于此。”<br>
+“善良的勋爵夫人因病早逝，在熬过了丧妻之痛后，勋爵大人便投身于慈善与医疗事业。“<br>
+“立志救助那些被疾病缠身的可怜人。”<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（这次是有关雇主的信息情报啊……）<br>
+（嗯……有钱的贵族，丧偶。投身慈善与医疗事业……或许表示他有爱心，可能还有深情设定？）<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+正当你沉浸于这些只言片语的信息时，突然间，有一种极为强烈的不安感从你的心底往上翻涌。<br>
+一道从不知何处射来的视线凝聚在你身上，让你动弹不得。<br>
+房间中所有的灯光在转瞬间全部熄灭，就连壁炉里燃烧着的木柴也在眨眼间只剩惨白的余灰，一切归于黑暗。<br>
+你感觉到，有某种存在正在从门外悄然接近着————<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第一幕-雨夜新娘|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-1-雨夜新娘<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+哒——哒——哒——<br>
+无边的黑暗中，似乎有高跟鞋敲击地面的声音在房间里回荡。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+嘶￥%#%嘶@@#￥——<br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+差不多就行了。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+…………咳。<br>
+模糊却又清晰的声音正在低喃着混乱无序的陌生语言，它像是从遥远的地方传来，又似乎近在咫尺……<br>
+你感觉到，有某种存在正在从门外悄然接近着————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……好逼真的压迫感，究竟是用什么道具做到的……？）<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+不久后，那虚幻的呓语消失了。<br>
+然后在同一个瞬间，光明再次回到了房间里，仿佛刚才的一切只是幻觉。<br>
+不过————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不过……距离沙发不远处的地板上，凭空出现了一面破碎的镜子……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你被突然出现在面前的镜子吓了一跳，同时直觉告诉你房间里似乎发生了某种诡异的变化。<br>
+你开始观察周围，（d100=51）……很可惜，判定失败，你什么都没发现，这或许只是你的错觉。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……等等，桌上和地板上那么明显的水渍我还是能看见的啊？！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+唔……<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+你觉得那些只是普通的水渍，并没有理会。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不……我觉得很可疑。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+你再次进行了观察，不过依然认为那些只是普通的水渍，然后打消了心中的疑虑。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……好好好。那么接下来会发生什么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+镜子里映出了一个人影。<br>
+长长的头纱垂到了地上，一袭曳地婚纱衬托出了对方窈窕的身姿。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……婚纱？）<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+抱歉，刚才吓着您了吗？城堡里的电路老化，一遇上雨天就会出问题，时好时坏的。<br>
+今天的暴雨又正好下个不停……对了，您就是父亲找来的调查员吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是的。您刚说父亲……所以您是布莱克勋爵的女儿？<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+大女儿。看来父亲没向您提起过我。也是，像我这种给家族……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来这位勋爵的家庭关系有着不为人知的一面……）<br>
+（而且除了三位佣人之外，还有其他人住在这个城堡里。）<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+听说您在业内被称为“神秘学大师”，也曾配合警方侦破过一些神秘案件。<br>
+我最近……正好在读一些相关内容的书籍，对这些很感兴趣。<br>
+所以，能给我讲讲您那些神奇的经历吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（其实，我也想知道那些设定里神奇的经历是什么……）<br>
+<br>
+'''''<span style="color:black;">选择项1：随便说些什么转移话题</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''大小姐谬赞了。相比起我那些不值一提的故事，我觉得城堡里发生的故事更值得了解……<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''由于失去了记忆，你无法讲述那些经历，于是试图转移话题。（d100=72）可惜，你的企图落空了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''面前的大小姐姿态虽然依旧得体，但你看出她的眼里闪过了一丝不快。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哦~您是想了解最近发生的失踪案吧？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我其实不太清楚，毕竟家里的佣人这么多，我也不是每一个人都认识。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''还是让我们聊聊您的经历吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来没有办法了，随便编一些故事吧）<br>
+难得会有女孩子喜欢听这些，让我想想……<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你开始绞尽脑汁组织语言，企图编造一些虚幻的离奇事件。<br>
+就在这时，你的大脑灵光一闪……（d100=42）成功，一些有关神秘学的通俗知识出现在了脑海里。<br>
+你自然而然地和她分享了一些“神奇的经历”。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来不用真的现场编故事了……没想到技能的设定还可以这么用。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+哼哼~民俗研究可是调查员的必备技能哦！<br>
+就算熟练程度只有普通，但是拿来应付这种古堡里的贵族大小姐也是绰绰有余了哦~<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+虽然我很喜欢您刚才说的那些，但我还是想知道一些更深入的……<br>
+……唔，比如说您在那些地方见过的具体画面，或者其它的一些不为外界所知的秘密……<br>
+啊~我知道了。很多民间研究者都相当珍视自己的研究，一定是我的诚意还不够吧？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+正说着，这位大小姐露出了略带歉意的笑容，然后不知从何处“变”出了一个小雕像。<br>
+这个雕像有些像人，却又有几分像章鱼，雕像上类似触手的部分栩栩如生，仿佛正在虚空中不停扭动。<br>
+光是看着，你就感受到一种不可名状的压迫感，你感觉到有什么阴暗和幽深的东西将你紧紧包裹。<br>
+似乎是这个小雕像勾起了你心底里最为恐怖的记忆。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（自然而然拿出这种造型怪异的雕像……确实令人有种不好的预感……）<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+这股压迫感开始让你逐渐呼吸困难，你开始努力尝试进行抵抗——<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=11），判定成功。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+虽然莫名的恐惧令你大脑空白，但是凭借多年调查员所积累的经验，这种怪异的感觉被你成功压了下去。<br>
+你看着这座雕像，突然觉得有些眼熟，似乎有什么东西正在填补你缺失的记忆。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+（d100=1）——大成功哦！你抓住了浮现在脑海中的全部记忆片段，也想起了很多事！<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+你讨厌教条式的学校，中学毕业后没有继续升学，而是凭着超群的智力和出色的观察力成为了一位调查员的助理。<br>
+随着时间推移，如今的你已在这一行里混出了名声。<br>
+你对于民俗传说有着丰富的研究，曾配合警方多次侦破几件与神秘学有关的大案。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+恭喜，你已回忆起技能：民俗研究。熟练程度：普通。智力：90，教育：30。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………智力超群却只有中学学历，依靠神秘学破获了多起大案但熟练程度只有普通？<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+……骰运不济啊，骰运不济！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+突然回归的记忆让你陷入了短暂的迷茫，然而那位大小姐还在等待你的回答。<br>
+随着你沉默的时间越来越长，那位大小姐似乎有些不耐烦了。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+调查员，您……该不会是对我的神像有什么意见吧？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+大小姐的笑容越来越深，可笑意却不达眼底。<br>
+你的第六感在疯狂拉响警报，直觉告诉你，大事不妙。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+那个混乱无序的声音再次出现了。<br>
+与此同时，地板上的水渍似乎也开始逐渐蔓延，如同某种生物移动过后留下的痕迹一般——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第一幕-BE|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+那个混乱无序的声音再次出现了。<br>
+与此同时，地板上的水渍似乎也开始逐渐蔓延，如同某种生物移动过后留下的痕迹一般——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+必须要尽快找出对策——<br>
+<br>
+'''''<span style="color:black;">选择项1：尝试用超群的智力寻找办法</span>'''''<br>
+'''''<span style="color:black;">选择项2：夸奖大小姐身上的华丽婚纱</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（d100=23）……判定成功。你灵光一闪，决定夸奖大小姐穿在身上的华丽婚纱。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（就说被婚纱吸引了注意力好了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你的这身婚纱真漂亮，近期是要举行婚礼了吗？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你的眼神相当真诚，可是对面的大小姐却愣住了。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+这身婚纱……真的美吗？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+她看着你，目光缥缈，仿佛在透过你看一些很遥远的东西。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+……调查员，有人说过，你长得很好看么？<br>
+<br>
+'''''<span style="color:black;">选择项1：没有。</span>'''''<br>
+'''''<span style="color:black;">选择项2：有！</span>'''''<br>
+'''''<span style="color:black;">选择项3：……啊？</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+听到这话，你愣了一下。好像有记忆的碎片正在缓慢回归……<br>
+（d100=48）……判定成功~<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+你想起了自己曾不止一次听到过相似的评论，你的外貌能被绝大多数人所认可。<br>
+恭喜，你已成功回忆起基础属性：外貌：85。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……原来这个问题是用来交代角色设定的啊。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+和那个人一样……（小声）<br>
+……这身婚纱是我的婚约者给我挑选的。只是今天有些怀念，所以穿出来看看。<br>
+您还没回答我刚才的问题呢……您看到了我的神像，那么，我可以知道您的秘密了么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来躲不过去了……反正编了那么多，再编一些好了。）<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+尽管你只是一个普普通通的神秘学爱好者，但为了给雇主的女儿留下一个良好的映像，你决定随意编造一些事迹。<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+（d100=16）……啧，判定成功。得益于你聪明的大脑，你编造出了好几段离奇的神秘经历。<br>
+大小姐聚精会神地听着你诉说的故事，她显然相信了你的鬼话，那双美丽的眼睛越来越亮……<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+终于！我终于遇见了知音！<br>
+亲爱的调查员，您真无愧于“神秘学大师”的称号！您的见识之广和学识之深让我深感佩服！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（算是蒙混过关了吧……不过这个称号又是什么设定？算了，还是别深究了……）<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+调查员，我这里还有样东西想给您看看……或许，它和城堡里的事件有着什么联系也不一定呢？<br>
+请随我移步至中庭吧。<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+进入中庭后，只一眼，你就看到了画在地上的黄色魔法阵，以及魔法阵后方那一座难以形容外貌的巨大石像。<br>
+你注意到石像兜帽下那扭曲的触手正在向你伸来，翻滚的长袍仿佛要将你吞噬进去。<br>
+你动弹不得，冷汗顺着脊背往下流，你无法抑制地开始打颤……你尝试恢复理智……<br>
+（d100=78）……你失败了，光是这么看上一眼，你就陷入了无尽的恐惧与混乱中……<br>
+<span style="color:#ff9b93;">古堡大小姐：</span><br>
+终于找到了……令我主满意的祭品……<br>
+亲爱的……我终于能把你带回来了……我们…再也不会分开……<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+陷入昏迷的你被送上了祭坛，然后……<br>
+很遗憾。调查员，冰冷的死亡已然将你带走！<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-02-美丽的婚纱<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……所以，大小姐其实是邪教徒，而我是被献祭了？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+哼哼，没错哦~指挥官在行动前应该再谨慎一些才是。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我还以为跟大小姐走能获得什么新线索呢。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+喂……下雨天穿着婚纱在阴森古堡里晃悠的大小姐，就连{namecode:22:雪风}大人都能感觉到不对劲哦！<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+对啊对啊，我都设计的那么明显了！<br>
+之前的小雕像，还有她一直问有关神秘学的事情其实也都是提示哦！<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+顺带一提，最后调查员是被血祭的，也就是放干了所有的……血。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………真恐怖。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+调查之路才进入了第一幕，继续加油吧，指挥官~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第一幕-NEXT|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+那个混乱无序的声音再次出现了。<br>
+与此同时，地板上的水渍似乎也开始逐渐蔓延，如同某种生物移动过后留下的痕迹一般——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+必须要尽快找出对策，但，首先要先冷静下来——<br>
+<br>
+'''''<span style="color:black;">选择项1：仔细观察</span>'''''<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+观察检定，（d100=26），成功。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你注意到，穿着婚纱的大小姐背在身后的那只手中似乎拿着什么东西。<br>
+从餐盘的反光中，你看到了一道冷冽的寒光——斧头。<br>
+与此同时，得益于你敏锐的观察力，你又注意到了大小姐头上的一个发饰。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=31），民俗研究检定成功。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你发现发饰的形状看起来似乎与某个神秘教派有关，你曾在配合警方调查案件时见到过很多次同样形状的图腾。<br>
+那些教徒们沉迷于教会“活动”的疯狂举动让你记忆犹新。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……这位大小姐该不会也是其中一员吧。）<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+不好的预感正在涌上你的心头。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（不行，得找个借口赶紧结束这场对话。）<br>
+对了……我的民俗研究水平只有普通程度，如果实话实说的话，也许就能摆脱危机了。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+一番权衡之下，你决定把真相告诉给雇主的女儿。<br>
+尽管这个举动可能会给你的声誉带来一定的影响，但是你的直觉告诉你，还是实话实说比较好。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+欸……？原来，是这样啊……<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+大小姐听了之后微微一愣，脸上流露出明显的失望。<br>
+她一定觉得你是个徒有虚名的骗子，她的父亲花了一大笔金币却只请来一个三流货色。<br>
+你开始祈祷自己不会被扫地出门，毕竟你记得工作室里还有一大堆账单等着你去支付。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（………………真是做了很多“丰富”的设定啊。）<br>
+真相就是这样。时间宝贵，我现在想把精力优先放在您父亲的委托上。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你能感受到眼前的大小姐并不想就此结束对话。<br>
+不过在听到“父亲”二字时，这名少女明显愣了神。<br>
+<br>
+咚咚——（敲门声）<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+也就在这时，女仆长走了进来。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+大小姐，管家正在会客室等待调查员。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+……看来这次交流只能先到这里了，还是调查失踪案的真相更重要。<br>
+我会恭候您的好消息，亲爱的调查员。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+夜已深，大小姐也请回房间好好休息吧。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女仆长对着她的大小姐微微欠身，然后便利落地转身离开。<br>
+而你也趁此机会，跟着女仆长一起离开了接待室。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第二幕-枪与管家|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-2-枪与管家<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+在进入会客厅后，最先映入眼帘的依旧是那堪称奢华的装潢。<br>
+出于职业习惯，你又开始打量整个房间的布局和装修。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=37），检定成功。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你注意到房间里除了有不少动物标本作为装饰品之外，还摆放着许多猎枪。<br>
+其中，一把闪烁寒光的手枪引起了你的注意。<br>
+你隐约记起自己似乎是在某处报道中看到过，打猎是布莱克勋爵的诸多兴趣之一。不过，这手枪却略显格格不入。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+这些标本都是勋爵大人打猎时的战利品，至于那些猎枪，则是他的小爱好。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+突然响起的声音让你一惊，一位女性悄无声息的出现在视野余光中。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+我吓到您了？刚才我在隔壁自己的房间里整理仪容，如果吓到您了，我为此向您道歉，调查员。<br>
+哦~自我介绍一下，我是布莱克府邸的管家。<br>
+至于这把枪……是主人送我的好伙伴之一。<br>
+最近城堡里不怎么太平，为了保护两位小姐的安全，每个房间都做了类似的设置。<br>
+不过，既然主人已经聘请了您来调查这次的事件。我相信我们应该很快就可以回到平静的生活了吧？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女管家犀利的目光正上下打量着你，而她的语气似乎并不像她所说的那样信任你。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+那么，对于这座城堡的事情，你想了解什么呢？<br>
+<br>
+'''''<span style="color:black;">选择项1：您似乎并不相信我？</span>'''''<br>
+'''''<span style="color:black;">选择项2：您对我似乎有些看法？</span>'''''<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+嗯……虽然这么说有些以貌取人。<br>
+但是您这……俊美的面庞让我很难将您跟“优秀的调查员”划上等号。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……俊美的面庞？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+突如其来赞美让你微微一愣，好像有记忆的碎片正在缓慢回归……<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+（d100=30），判定成功。你成功回想起，的确有许多人在第一次见到你时都会对你的能力产生质疑。<br>
+这些质疑除了来源于你不高的学历之外，还有相当一部分来源于你的外表。<br>
+有时候，拥有一副完美的外表能带来相当大的便利，但有时候，它也会成为一种变相的负担。<br>
+你已成功回忆起基础属性：外貌：85。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……原来是用来交代角色设定的啊，嗯……也行吧……）<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+而且，在您之前主人也已经请过几次所谓的“调查员”，不过最后么……<br>
+基本都是骗子，甚至还有人想来城堡里“浑水摸鱼”的。当然，那些人最后都受到了惩罚。<br>
+要我说，这次的失踪案非常简单——单纯是有心人刻意营造出的“神秘事件”的假象。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+“刻意”？<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+最开始失踪的动物被找到后确实只剩下了尸体，可是之后失踪的仆人却什么东西都没留下——<br>
+就像一开始就不曾存在过一样，我可不认为这是什么正经的失踪案。<br>
+不过是几个没有感恩心的家伙，因为经常偷懒被惩罚而怀恨在心，所以在辞职之后蓄意散布谣言进行报复罢了。<br>
+<br>
+'''''<span style="color:black;">选择项1：偷懒？</span>'''''<br>
+'''''<span style="color:black;">选择项2：蓄意报复?</span>'''''<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+调查员，想必您也听说过。我家的主人是个难得的大善人，自夫人去世后他更是彻底投身于慈善事业。<br>
+因为心善，所以有时候就过于包容——包括一些行为“不检点”的仆人。<br>
+那些人“神秘失踪”之后弄得城堡里人心惶惶，其他仆人纷纷辞职，如今就只剩下了我、女仆长和厨师长。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+您和另外两位从没想过离开？<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+为什么要离开呢？<br>
+我们服务于布莱克家已经很多年了，女仆长和厨师长几乎可以说是在这个城堡里跟着小姐们一起长大的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+小姐们……？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+观察检定，（d100=6），成功。你注意到在桌子的一角摆放着一张家庭合照。<br>
+合照之中共有四人。除了被人为涂抹掉面庞的布莱克勋爵夫妇之外，还有两名少女。<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+除此之外，你再次注意到了那把闪烁着寒光的手枪。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+………………<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+你的目光被那把美丽的手枪所吸引，不自觉地向手枪的位置迈出了脚步。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……行。管家小姐，请问我可以去看一下那把枪么？<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+调查员原来对枪也有兴趣啊，请便。<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+你将那把闪烁着寒光的手枪拿在手中，观察着枪身的每一个细节。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+等等，别忘了这里要过一个检定哦！<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+{namecode:22:雪风}，你来投。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+很好。调查员注意到，这是一支采用了红木握把并雕刻了精致花纹的柯尔特M1873单动式转轮手枪。<br>
+柯尔特公司在1873年设计制造出了这款M1873单动式左轮枪。<br>
+这把枪曾经缔造了无数传奇故事，在电影和游戏作品中也时常有着它的身影存在。<br>
+可以说，所有选择了这把枪的人都有着极其出色的品味。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………多谢夸奖。<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+不客气。<br>
+你抚摸着银色的枪支，看着枪管折射出的寒光，曾经在靶场中每一分每一秒的回忆，再次流回了你的心田。<br>
+出于职业的需要，你曾刻苦训练过自己的射击技术。<br>
+有品味的调查员，你已回忆起个人技能：射击，熟练程度：入门。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+我曾听主人提过，您的枪法不错，如果有机会的话倒是想向您讨教一二。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……枪法不错，但是熟练度只有入门……？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+虽然你确实训练得非常刻苦，但是百分百的汗水并不能换来百分百的成果。<br>
+至少现在的你已经能顺利开枪，并且不会走火。<br>
+好好运用的话，或许会在意想不到的地方起到扭转乾坤的作用哦~<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+咳……调查员还有工作，我就不在枪的问题上多打扰你了。<br>
+总之，既然是主人的吩咐，我们自然会配合您的调查工作。<br>
+不过，城堡之中容易迷路，还请您小心些。<br>
+同时，如果是卧室一类的非公共区域，请务必在征得房间主人的同意后才能进入。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+虽然管家表面上答应得很干脆，但是你对于她是否真的会配合这一点保持怀疑。<br>
+接下来，你决定————<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第二幕-BE|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+虽然管家表面上答应得很干脆，但是你对于她是否真的会配合这一点保持怀疑。<br>
+接下来，你决定————<br>
+<br>
+'''''<span style="color:black;">选择项1：去管家房里调查</span>'''''<br>
+'''''<span style="color:black;">选择项2：偷偷潜入管家的房间</span>'''''<br>
+<span style="color:#4eb24e;">调查员：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''卧室一类的房间要征得房间主人的同意……那么我想先去您的房间看看。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''这恐怕有些不太方便。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''大小姐刚才说有事找我，让我在接待结束后去找她。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''而且，我的房间目前有些凌乱……您可以先调查其它公共区域，稍后再来我的房间吧。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那么我就先离开了，您请便。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（总觉得管家有点可疑……偷偷去她房间里调查一下吧。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（所谓的调查，就是要出其不意，这样才能离真相越来越近。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我明白了，那么我先去一些公共区域看看，至于房间……等明早再说吧。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''没问题，公共区域基本都集中在一楼，比如餐厅厨房和后花园。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……二楼虽然有收藏室和图书馆，不过门都是锁上的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那么二楼的公共区域也等明天早上吧。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好的，您请便。那么，大小姐还有事找我，我就先离开了。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+管家的身影很快就消失在了房间里。<br>
+<span style="color:#4eb24e;">调查员：</span><br>
+记得刚才她说她的房间就在隔壁，那么应该是从这扇门出去后……<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你整理好了思绪，并且决定了前进的方向。<br>
+至于管家刚才提及的规定已经完全被你抛之脑后——<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+在打开房门的一刹那，映入眼帘的景象使你产生了仿佛置身在博物馆中的错觉。<br>
+你看到房间里摆放着琳琅满目的珍品——<br>
+数不清的枪支被挂在墙上、放在展示柜里亦或是支在五斗柜和梳妆台上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这个数量也……太夸张了。如果要从这里调查线索的话，需要小心前进才是……<br>
+<br>
+咔哒——（机关声）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……我好像……踩到了什么东西？<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+随着你向前迈开的脚步一同落下的，还有一声清脆的卡扣声。<br>
+紧接着，神奇的一幕发生了。<br>
+目光所及之处的所有枪支全都指向了你。<br>
+或银或黑的枪管泛着凌厉光芒，仿佛在宣告着你可悲的未来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……就算如此，只要速度够快——<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+虽然结局已近在眼前，但你的意志并没有认输。<br>
+<span style="color:#ff9b93;">传奇调查员KP（自称）：</span><br>
+（d100=17），检定成功。你成功想起了自己身轻如燕的步伐。<br>
+调查员，你已成功回忆起基础属性：敏捷，数值：70。请问这里要进行一个敏捷判定么？<br>
+如果是大成功的话，就可以安然通过哦！<br>
+<br>
+'''''<span style="color:black;">选择项1：我点名让{namecode:22:雪风}来投！</span>'''''<br>
+<span style="color:#ff9b93;">运势高涨的KP大人：</span><br>
+{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来我命不该绝！3、2、1——跑！<br>
+<span style="color:#ff9b93;">皇家顾问KP：</span><br>
+在你弹跳起来准备直冲房门的那一刻，“嗙嗙嗙嗙嗙”的响声不绝于耳。<br>
+硝烟过后，每一支枪都完成了自己的使命——在你身上留下了“浓墨重彩”的一击。<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+你的视野渐渐陷入黑暗。在意识消失前的最后一刻，你成功想起来了自己的体型。<br>
+很明显，你魁梧的体型在这个狭小的空间中根本避无可避。<br>
+你已成功回忆起基础属性：体型：80。<br>
+然后毫无悬念的，你的调查之旅终结于此——<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-03-高大威猛<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+指挥官，未经允许擅闯少女的闺房是不可以的哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……为什么会有人在自己房间里设置这种死亡机关？<br>
+她自己不需要出入房间么……？<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+管家的体型可没有80之巨哦。顺带一提，房间中的枪可是有148把之多呢。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+也就是说，在踩到机关的那一刻，指挥官就无路可逃了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这个结局……看上去怎么充满了有明确指向性的偏好？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+哼哼~谁知道呢~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第二幕-NEXT|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+虽然管家表面上答应得很干脆，但是你对于她是否真的会配合这一点保持怀疑。<br>
+接下来，你决定————<br>
+<br>
+'''''<span style="color:black;">选择项1：这里要谨慎一些，继续收集更多信息</span>'''''<br>
+'''''<span style="color:black;">选择项2：问她要城堡的地图吧</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（嗯，已知信息还是太少了……再多收集一些情报吧。）<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我明白了。那么，我想了解下城堡里房间的分布情况，这样也好方便后续的调查。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（嗯……管家和女仆长都提到过会迷路……不知道会不会是在暗示要根据地图的指示前进？）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（试试看能不能拿到地图吧。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我明白了。那么，为了了解城堡里房间的分布情况，希望你能给我提供一份地图。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这样也好方便后续的调查，同时避免闯进不该进入的区域。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+管家没有回答，她看着你，那双犀利的眼睛里似乎闪烁着某种光芒。<br>
+<br>
+'''''<span style="color:black;">选择项1：说服她</span>'''''<br>
+'''''<span style="color:black;">选择项2：用勋爵大人的名号压她一头</span>'''''<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+（d100=17）成功。在游说的过程中，你游刃有余且越发自信。<br>
+你相信管家无论如何也不可能拒绝你的提议。然后，你猛然想起了自己的自信源自何处。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+——是你俊美的外貌和绝佳的口才。在成长的过程中，你深刻地认识到自己的外貌极其出色。<br>
+虽然它给你带来了一些困扰，但如果善加利用就会带来意想不到的惊喜。<br>
+你成功回忆起技能：魅惑术，熟练程度：精通。<br>
+<br>
+'''''<span style="color:black;">选择项1：……啊？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……什么术？</span>'''''<br>
+'''''<span style="color:black;">选择项3：这谁设计的！</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你没听错，魅惑术。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''魅惑术哦。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''让我做她的代理，自己跑去机关室玩的那个人。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+在魅惑术的帮助下，你的社交技巧也有了很大的提升。<br>
+这让你在工作中获益匪浅，每次收集线索都能从相关人员口中获得重要线索。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+最终，管家成功被你说服了。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+在餐厅那里有城堡的简易地图，有需要的话您可以自取。<br>
+餐厅的位置在走廊的另一边，原本可以从中庭直接穿过去，不过现在中庭正在翻修，得绕一下。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+管家一边说着，一边用手在空中比划着路线，金色的袖扣在灯光下折射出幽暗的光。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+您很在意这枚袖扣么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，真是一枚漂亮的袖扣。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+谢谢。这是大小姐送我礼物……<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+敏锐的观察力让你注意到了一些容易被人忽视的细节，那枚金属袖扣的图案似乎在哪里见过。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=31），成功。你知道这惊人的熟悉感究竟从何而来，这个图案和大小姐的发饰形状如出一辙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（相同的教派标记……）<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+我还是得再提醒您一下，城堡内部很大，晚上行动的话会有迷路风险，还请小心。<br>
+同时，请原谅我再强调一下，卧室一类的非公共区域，请务必在征得房间主人的同意后才能进入。<br>
+那么，大小姐还在等我，您请自便。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+说完，管家向你微微鞠躬，离开了会客厅。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第三幕-恰似故人|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-3-恰似故人<br>
+<span style="color:#4eb24e;">一本正经的kp：</span><br>
+走进餐厅后，你依旧习惯性地开始观察起四周的环境。<br>
+在奢华的装修下，每一张桌椅每一个装饰品都安安静静地待在原有的位置。<br>
+你暂时没有发现什么特别之处。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+装修风格还是一如既往的奢华，不过地图在哪里呢……<br>
+<span style="color:#4eb24e;">一本正经的kp：</span><br>
+观察检定，（d100=70），失败。<br>
+很遗憾，你环顾餐厅，在任何可见位置上都没有看到地图的影子。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+居然在这种时候失败了……没办法，只好一点一点单独寻找了。<br>
+<span style="color:#4eb24e;">一本正经的kp：</span><br>
+你又找了很久，可是依旧什么都没有发现。<br>
+此刻，除了几个带锁的柜子之外，餐厅中的其它区域都已经被你搜寻过一遍了。<br>
+你看着这些带锁的柜子面露难色，在寻找的过程中你也并未发现任何钥匙的踪影。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来如何打开这些柜子，就是下一步行动的关键了。<br>
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+你的大脑飞速运转，突然，过去的回忆从你眼前闪过……<br>
+（d100=37），检定成功。你已回忆起个人技能：开锁，熟练程度：精通。<br>
+凭借你的技能，只要利用回形针就可以轻而易举地打开面前的锁。<br>
+毕竟，你曾只用一根小小的铁丝，就从一场调查中获得了相当可观的收益。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这个开锁，它正经么？<br>
+<span style="color:#4eb24e;">传奇调查员kp（自称）：</span><br>
+咳……作为一名专业的调查员，你总是有些迫不得已的理由要打开一些上锁的门和柜子。<br>
+但是，一切都是为了调查，对吧！<br>
+<br>
+'''''<span style="color:black;">选择项1：使用回形针进行开锁判定</span>'''''<br>
+'''''<span style="color:black;">选择项2：使用手枪进行射击判定</span>'''''<br>
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''使用手枪？既然有了优雅的开锁方式，为什么要使用暴力的手枪呢。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你被一瞬间出现在脑海中的可怕想法所震惊，然后摇了摇头，选择了回形针。<br>
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+（d100=19）判定成功，你打开了带锁的柜子，然后从柜子不起眼的角落里找到了城堡的简易地图。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……根据地图来说，餐厅的两侧是宴会厅和厨房。<br>
+从走廊过来的时候依稀看到了厨房的入口，但宴会厅的入口究竟在哪里……<br>
+而且，现在餐厅看起来明显比设计图中要小很多……<br>
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+你的直觉和这份地图都在告诉你，这个房间似乎有什么蹊跷。<br>
+<br>
+吱呀——（开门声）<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+……咦？抱歉，吓到你了么，我没想到这么晚了还有客人在餐厅里……<br>
+<span style="color:#4eb24e;">代理kp：</span><br>
+正当你打算继续探索的时候，餐厅的大门突然打开了，一名少女推着手推车走了进来。<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+等等、？摩根……阁下？<br>
+摩根大人，您、您终于……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……？摩根大人，一个新的人名。可是这座古堡的主人不是叫布莱克勋爵么？）<br>
+<br>
+'''''<span style="color:black;">选择项1：“布莱克·摩根”？</span>'''''<br>
+'''''<span style="color:black;">选择项2：“摩根·黑手”？</span>'''''<br>
+'''''<span style="color:black;">选择项3：“摩根勒菲”？</span>'''''<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+不、不对……勋爵大人？您回来了？<br>
+也不是主人……啊~你就是管家刚才提到的调查员吧？<br>
+最近我忙昏了头，总是认错人，真是抱歉。<br>
+我是布莱克家的女仆……不对，现在是厨师长。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（连续两次把人认错，是忙昏了头么……也是，偌大的城堡里只有她们三个仆人。）<br>
+（光是要完成日常工作，就要拼尽全力了吧……）<br>
+这么晚还在工作真是辛苦了！<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+唉……最近城堡里仆人的人数锐减，但是工作反而变多了。<br>
+我、我在这儿收拾的话会影响你的工作吗？要是会影响到你的话，我过一会再来收拾好了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+没关系，正好我也有点事情想要咨询一下。<br>
+<br>
+'''''<span style="color:black;">选择项1：关于管家的事</span>'''''<br>
+'''''<span style="color:black;">选择项2：关于宴会厅的事</span>'''''<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸？是想问有关管家的事情？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''厨师长面露难色，似乎很是犹豫……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（d100=68），检定失败。仅仅是那么一小会，厨师长脸色就恢复了正常。<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''关于管家，我知道的也不多，恐怕没办法给您提供帮助。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（……果然没这么容易打听到管家的秘密。还是先问问宴会厅的事情吧。）<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+宴会厅？就在餐厅的隔壁哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+从地图上看宴会厅和餐厅确实是连在一起的，可是现在……<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+啊，原本确实是相连的一个房间，但是在没有宾客的时候就会像现在这样将房间隔成两半。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+隔开？<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+唔，夫人……已经过世的勋爵夫人喜欢热闹，总是说在太大的餐厅用餐没有家的感觉。<br>
+于是勋爵大人就请人将这个房间重新装修了一下，那堵墙其实是用可拆卸的木板拼接组成的。<br>
+用钥匙开锁的话就可以把木板拆卸下来。<br>
+如果，您能征得管家大人的同意的话，我可以将钥匙给您……<br>
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+在说话的间隙，你总觉得有一道强烈的视线打在你的身上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……请问我脸上是有沾到什么吗？<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+啊、啊，不、不是的、我、我只是觉得……调查员您和大小姐的婚约者……过去的摩根阁下一样。<br>
+……都那么好看（小声）。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+面对这种情景，调查员决定——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第三幕-BE|选项=14|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+在说话的间隙，你总觉得有一道强烈的视线打在你的身上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……请问我脸上是有沾到什么吗？<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+啊、啊，不、不是的、我、我只是觉得……调查员您和大小姐的婚约者……过去的摩根阁下一样。<br>
+……都那么好看（小声）。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+面对这种情景，调查员决定——<br>
+<br>
+'''''<span style="color:black;">选择项1：用魅惑术拿到钥匙！</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+既然有这个技能，那就要用！<br>
+<span style="color:#4eb24e;">代理kp：</span><br>
+（d100=4）……居然大成功？<br>
+啧……你回忆着魅惑术的内容，虽然那些知识让你的良心隐隐作痛，但是只要能达成最终目的，你并不在意方法。<br>
+很快，厨师长就迷倒在你出色的容貌和高超的魅惑术之下。<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+调查员……虽然这么说有些唐突，但是！但是我觉得我、我已经不可自拔地爱上了你！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+太好了，继续乘胜追击！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你请求她帮助你直接打开餐厅与宴会厅的隔间，厨师在听到这个小小的要求时愣了一下。<br>
+似乎，对于管家的敬重在和魅惑术的力量相抗衡，但很快，她似乎想通了什么。<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+我明白了，亲爱的调查员。您随我来。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+厨师对你的绵绵爱意全都化作了疯狂的冲动，那一见倾心的热情让她在瞬间就做出了一个大胆的决定。<br>
+她牵上了你的手，带着你往厨房的方向走去。<br>
+也就是在这一瞬间，有一种怪异的感觉爬上你的脊背……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？……等等！她头上发饰的图案难道是……！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你注意到厨师发饰上的图案似乎有点与众不同，那个标记好像在什么地方……<br>
+（d100=69）失败。很可惜，在你成功想起来什么之前，那只柔软的手夺走了你所有的注意力。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等……等等，我想起来了啊——<br>
+<span style="color:#ff9b93;">一本正经的后辈kp：</span><br>
+你发现自己来到了厨房。<br>
+昏暗的炉火是这个房间里唯一的光源，只能勉强看清一些东西摆放的大体位置。<br>
+<span style="color:#ff9b93;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#ff9b93;">一本正经的后辈KP：</span><br>
+那个低沉的声音又出现了，无序和混乱的呓语飘荡在整个房间里。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（又是这个声音！不好，得尽快脱身才行……）<br>
+<span style="color:#ff9b93;">一本正经的后辈KP：</span><br>
+你敏锐地察觉到了隐藏在这个房间里的危险，正当你转身想要快速离开的时候……<br>
+突然间一股强大的力量拉住了你的手臂。<br>
+<span style="color:#ff9b93;">古堡厨师长：</span><br>
+亲·爱·的~你要去哪里呀？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我……<br>
+<span style="color:#ff9b93;">运势高涨的KP大人：</span><br>
+调查员似乎想要用力甩开这只拉住你的手呢~<br>
+如此紧急的时刻，要申请过力量检定吗？{namecode:22:雪风}大人可以来给你再投一次哦~<br>
+<br>
+'''''<span style="color:black;">选择项1：请务必！</span>'''''<br>
+'''''<span style="color:black;">选择项2：投投投！</span>'''''<br>
+<span style="color:#ff9b93;">运势高涨的KP大人：</span><br>
+{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+太好了！<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+你用尽了全力，依然没有甩开厨师小姐拉着你的手。<br>
+泛黄的记忆再次回到了你的脑海，你突然想起来了一件事。<br>
+你的力气和普通人相比要弱小得多。往往别人轻易可以举起的东西，对你来说却相当沉重。<br>
+你成功回忆起了自己的基础属性：力量：25。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………只有25？但是这个检定可是大成功！<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+嗯……没错。是这样，虽然你没能成功甩开厨师小姐的手。<br>
+但是你试图挣脱的行为明显激怒了她，她主动松开了你的手，然后拿起了菜刀。<br>
+<span style="color:#ff9b93;">古堡厨师长：</span><br>
+啊~调查员、我亲爱的……我爱您……这次……我不会再将您让给她了……<br>
+可是祭品……大小姐的希望……<br>
+没关系~嘻嘻嘻嘻~祭品什么的总能找到更合适的~<br>
+就让我们永远都在一起吧~<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+那绵绵不绝的爱意最后全都化作了疯狂，为了和你永远在一起，厨师决定将你做成一桌绝世盛宴。<br>
+这样，你就永远都属于她了。<br>
+你感觉到后颈传来一阵剧烈的疼痛，然后眼前就陷入了无边的黑暗，再无知觉——<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-04-饕餮盛宴<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以……最后我是从字面意义上被厨师长享用掉了？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+嘿嘿，没错哦~<br>
+当初设计的时候，{namecode:428:欧根}小姐说这个结局代表了疯狂、沉重且专一的爱，{namecode:401:Z2}小姐也表示认同。<br>
+所以最后就这么定下来了哦~<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+不……与我无关。主要还是{namecode:428:欧根}那么兴致勃勃……<br>
+<br>
+'''''<span style="color:black;">选择项1：好恐怖，下次能不能全年龄一些！</span>'''''<br>
+'''''<span style="color:black;">选择项2：好刺激的结局，请来更多！</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+那就要看指挥官的运气了哦~<br>
+那么——欲知后事如何，请听下回分解！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这个“分解”也是字面意义么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+呼呼~谁知道呢~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第三幕-NEXT|选项=15|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈kp：</span><br>
+在说话的间隙，你总觉得有一道强烈的视线打在你的身上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……请问我脸上是有沾到什么吗？<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+啊、啊，不、不是的、我、我只是觉得……调查员您和大小姐的婚约者……过去的摩根阁下一样。<br>
+……都那么好看（小声）。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+面对这种情景，调查员决定——<br>
+<br>
+'''''<span style="color:black;">选择项1：询问有关摩根的事情</span>'''''<br>
+'''''<span style="color:black;">选择项2：尝试其它方式拿到钥匙</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''摩根阁下？也是常住在城堡里的人吗？<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊、那、那是……<br>
+<span style="color:#4eb24e;">本正经的后辈KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''厨师小姐对于你的提问陷入了慌乱，这个人名似乎是一种禁忌般的存在，让她有点不知所措……<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''我、嗯、那个，我不能随意妄论主人家的事情。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''是我失言了，我先不打扰您工作了，等您结束后我再来收拾餐厅。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（虽然有魅惑术，但{namecode:428:欧根}设计了技能，又设计了剧本，总有种不好的预感……）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（高达90的智力应该也能想到拿到钥匙的方法。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我申请进行智力检定，寻找除了魅惑术之外，其它拿到钥匙的办法！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（d100=99）……噗，惨无人道的大失败。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''等等，稍等一下我想想……噗哈哈……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''经过我，不对，经过你的仔细思考，突然间，你想到了一句来自东煌的古话“大道至简”。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''因此你决定放弃一切拐弯抹角，用最直接的话语来打动面前的美丽女士。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''——“我要宴会厅的钥匙，给我。”<br>
+'''''<span style="color:black;">（选择项2）</span>'''''说完这句话后，你满意地点了点头，然后伸出了手。<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……？抱歉，没有管家大人的允许，我不能把钥匙给你。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯、那个，我先不打扰您工作了，等您结束后我再来收拾餐厅。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''很遗憾，你没有等到想要的回应，你的手中空空如也，美丽的小姐也离开了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''………………<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+厨师长慌慌张张地推着手推车离开了餐厅。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+又有新的人物线索出现了。摩根阁下……设定里是大小姐的婚约者么……<br>
+……算了，先专注于解开眼前的这道墙壁吧。<br>
+不知道开锁技能能不能用……嗯？这就是锁孔吗？<br>
+<span style="color:#4eb24e;">代理kp：</span><br>
+你走到这堵特制的“门”前，认真地研究了起来。在你为数不多的记忆里，似乎……<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+（d100=22）成功。这个锁孔的形状让你感到很熟悉，拥有极为丰富开锁经验的你似乎曾碰到过相同的锁。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（哦？那试试看把铁丝插进去……）<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你按照记忆里的方式将铁丝插了进去……<br>
+<br>
+咔哒——<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+随着一声清脆的卡扣声响起，你缓缓移动了这堵墙，露出了它背后的宴会厅——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第四幕-秘密谈话|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-4-秘密谈话<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+虽然只是木板做成的墙壁，但是依然很重。<br>
+勉强推开了一块隔板之后，其背后的宴会厅缓缓露出了它的真面目。<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+你注意到，房间里堆满了桌椅、成箱的餐具，还有礼炮、烟花、纸巾等杂物……<br>
+扑面而来的满满的灰尘让你本能地捂住了口鼻。<br>
+但从古老又奢华的装修就能看出主人家的富有程度和这座城堡曾经的辉煌。<br>
+巨大的玻璃落地窗连通了外面的观景台，所有人都会被窗外的美景所折服。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+确实很美。不过，为什么在一楼会有观景台？<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+你看着窗外一望无际的美丽夜景，突然想起，这是一座建在山顶上的古堡。<br>
+既然是建在山顶之上，那么在一楼设置观景台也是合情合理的。<br>
+你不禁为自己刚才在脑海中产生的肤浅想法而懊恼，现在难道不应该将全部精力放在调查工作上么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……真想知道她们为了这次活动准备了多厚的剧本。<br>
+好吧好吧，在宴会厅中搜寻一番线索吧。<br>
+<br>
+一段时间后————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+竟然真的什么线索都没有……不对，一定有什么地方被遗漏了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你看着这个不肯向你透露一丝秘密的房间，难得地陷入了烦躁的情绪。<br>
+正当你对前进方向感到迷茫的时候，似乎听到了什么微弱的动静……<br>
+（d100=14）成功。你隐隐约约听到墙壁外有对话的声音，于是你屏住呼吸，全神贯注聆听起墙外的动静。<br>
+<span style="color:#4eb24e;">古堡女管家：</span><br>
+对……都在收藏室……<br>
+<span style="color:#4eb24e;">古堡厨师长：</span><br>
+二小姐……房间锁上了……<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+……不能被发现……妹妹……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+虽然隔着墙壁，但你灵敏的耳朵还是捕捉到了一些有用的讯息。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+二小姐与收藏室……？<br>
+记得收藏室位于古堡的二楼，看来下一步应该前往二楼区域进行调查了。<br>
+不过，现在她们都在走廊上，直接上二楼一定会被阻止。首先得想个办法才行——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第四幕-BE|选项=17|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+二小姐与收藏室……？<br>
+记得收藏室位于古堡的二楼，看来下一步应该前往二楼区域进行调查了。<br>
+不过，现在她们都在走廊上，直接上二楼一定会被阻止。首先得想个办法才行——<br>
+<br>
+'''''<span style="color:black;">选择项1：我有枪！</span>'''''<br>
+'''''<span style="color:black;">选择项2：制作吸引注意力的道具。</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''没错，你有枪。但是你想通过将人引开的方式消除目击者，而不是通过字面意义上消除目击者的方式消除目击者。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''因此，仅仅有枪还不够，你还需要某些能够吸引注意力的其它道具。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你下定了决心，开始在房间的杂物里寻找着能用得上的材料。<br>
+眼前数目众多的杂物让你陷入了沉思，你的大脑开始飞速运转……<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=43）成功。你顺利抓住了差点一闪而过的灵光，记忆的拼图再次显现了一块新的区域。<br>
+身为一名优秀的调查员，为了能够顺利地在案件中生存下来，你曾经无师自通了一门神奇的技能——陷阱制作。<br>
+你已回忆起技能：陷阱制作，熟练程度，入门。<br>
+<br>
+'''''<span style="color:black;">选择项1：为什么是陷阱制作？</span>'''''<br>
+'''''<span style="color:black;">选择项2：又不是野外求生！</span>'''''<br>
+'''''<span style="color:black;">选择项3：这又谁设计的？</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''某个可爱又迷人的反派角色。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+咳……陷阱的用途多种多样，只要发挥适当的想象力，就能起到意想不到的效果！<br>
+任何能够有助于脱身的技能，对于调查员来说都是十分宝贵的哦！更何况陷阱还带点破坏力呢！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+布里斯托尔说的有道理。现在大厅中有桌椅、木板，以及礼炮、烟花、纸巾……<br>
+感觉，足够做出一个能够引发巨大动静的炸弹了……！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你开始着手制作陷阱，虽然你的手艺还不够熟练，但是你完全相信这个多次救你于水火的技能。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+（d100=1）——{namecode:22:雪风}大人的投掷结果，依然是大成功哦！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+……好可怕！咳咳……这一次，你所拥有的技能依旧没有辜负你的期待。<br>
+你成功做出了一枚银光闪闪的炸弹，但是具体威力如何目前不得而知。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+炸弹加上枪，对于一次只为吸引注意力的行动来说足够了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你露出了满意的微笑，并开始了自己的计划——<br>
+<br>
+一段时间后————<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你的计划很简单，只要炸弹爆炸，就能弄出足够大的动静吸引所有人的注意力。<br>
+在此期间你就可以趁机溜上二楼完成调查。<br>
+在完成了炸弹引线的设置后，你回到了观景台，静静等待着。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+（d100=71），判定失败。不论你怎么等待，炸弹都没有爆炸。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……难道是，引线的设置出问题了。不过没关系，我有枪！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+在察觉到问题后，你在观景台上找到了一个角度绝佳的位置，然后瞄准炸弹，开枪射击——<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+（d100=98），射击大失败。由于技艺不精，子弹打中了相隔甚远的罗马柱，年久失修的柱体因此损坏了很大一部分。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+不仅如此~太过强大的后坐力还将羸弱的你推倒在地，一阵刺痛从尾椎骨蔓延开来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这时候枪里还有子弹么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+还有两发。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那我申请再进行一次射击检定。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+（d100=53），失败。由于技艺不精，第二颗子弹依旧没射中原定目标，不过它射穿了壁炉的挡板。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……还有最后一发子弹，再进行一次射击检定！我申请让{namecode:22:雪风}KP来投！<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+噢~看在你连续两次失败的份上，接下来就包在{namecode:22:雪风}大人身上吧~<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+等等……如果让{namecode:22:雪风}来投的话，岂不就会……<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！子弹成功命中了炸弹并引发了爆炸！<br>
+<br>
+'''''<span style="color:black;">选择项1：太好了！</span>'''''<br>
+'''''<span style="color:black;">选择项2：不愧是{namecode:22:雪风}大人！</span>'''''<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+哼哼，接下来要进行爆炸的威力判定。<br>
+{namecode:22:雪风}大人的投掷结果是——（d100=1），依然是大成功！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+哇……这样岂不是就达成了？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……达成了？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+…………继，继续吧。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+咳咳~炸弹爆炸的威力显然超出了你的想象，而经过破坏的柱子与壁炉更是加剧了这一爆炸带来的结果。<br>
+Boom！震耳欲聋的爆炸声响彻城堡，可怜的城堡仿佛一只在地震中瑟瑟发抖的小猫。<br>
+你听到了木头断裂的声音，石块崩塌的声音，地动山摇的声音——<br>
+咯啦——噼——咯啦——<br>
+你的视野陷入了黑暗——<br>
+现在，为各位播报新闻一则。<br>
+本日凌晨1时，位于阿卡姆北郊外的莱顿古堡内发生了一起爆炸事故。<br>
+警方与救援人员已在第一时间赶往现场，目前已经发现死者6名。<br>
+其中包括了布莱克勋爵的两名女儿，以及城堡内的管家、女仆和厨师三人。<br>
+同时警方在坍塌处发现了人造爆炸物的痕迹，这或许是城堡发生爆炸事故的主要原因。<br>
+而另一名死者身份未知，警方表示，这位身份不明的死者很有可能就是造成这起悲剧的真凶——<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-05-今夜，无人生还<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………没想到这样都能触发死亡结局。<br>
+所以埃塞克斯……你是从中途就发现不妙了么。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+嗯……从你让{namecode:22:雪风}投骰开始。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+真不愧是指挥官啊，这个结局超难触发的！<br>
+首先，这个结局必须要成功制作出威力最大的炸弹，然后还要想到用枪去引爆炸弹！<br>
+之后要连续失败两次，其中还要有一次大失败破坏石柱！<br>
+第三次必须要成功引爆炸弹，且大成功，否则无法做到与前面的布局形成连锁反应！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是说，必须按照大成功-失败-大失败-失败-大成功-大成功的顺序，才能触发这个结局？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+是……一般人……通常达不成这种苛刻的条件吧？<br>
+我本来以为这是个绝对不可能触发的结局……真不知道指挥官算是幸运还是不幸呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……不愧是你，埃塞克斯！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第四幕-NEXT|选项=18|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+二小姐与收藏室……？<br>
+记得收藏室位于古堡的二楼，看来下一步应该前往二楼区域进行调查了。<br>
+不过，现在她们都在走廊上，直接上二楼一定会被阻止。首先得想个办法才行——<br>
+<br>
+'''''<span style="color:black;">选择项1：我有枪！</span>'''''<br>
+'''''<span style="color:black;">选择项2：原地等待一会</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''没错，你有枪，然后呢？你要用枪去威胁古堡中柔弱可怜的少女们么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……还是先在原地等待一会吧。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+只经过了片刻等待，从墙外传来的声音就彻底消失了。<br>
+<br>
+'''''<span style="color:black;">选择项1：出发！</span>'''''<br>
+'''''<span style="color:black;">选择项2：再等一会。</span>'''''<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+又经过了一段时间后，依然没有传来任何声音。你现在可以确信，走廊外已经没有任何人了。<br>
+你穿过走廊，回到了一楼大厅。<br>
+城堡的楼梯很长，你总觉得自己走了很久很久……<br>
+终于，你顺利到达了二楼，没有任何人发现你的踪迹。<br>
+你突然觉得很累，开始觉得有些头晕乏力，一些模糊的画面突然闪过你眼前……<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+（d100=15）——成功！你终于想起了一件极其重要的事情！从小，你的身体就不是特别好。<br>
+恭喜，你已经回忆起了自己的能力值：体质，15。<br>
+别看你身形高大、体态匀称、还有着不少肌肉的样子，实际上这不过是徒有其表的躯壳罢了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……多少？<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+只有15点哦！骰运不济啊~<br>
+虽然成年后你已经不用担心一场小小的感冒就会夺走你的生命。但每当过度劳累后，你都会陷入一段时间的头晕目眩。<br>
+在这期间，你什么都做不了，只能等待身体慢慢恢复。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……看来只能稍微休息一下，再继续前进了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第五幕-勋爵之女|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-5-勋爵之女<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+经过短暂的休息后，你恢复了体力，可以继续向前探索了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+根据刚才听到的情报，接下去要检查应该是二小姐的房间和收藏室。<br>
+从地图上来看，两个房间都在同一侧……反正是顺路，先在门口观察一下吧。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你蹑手蹑脚地在两个房间之间徘徊，虽然走廊的灯光昏暗，但是经过多次观察和对比……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+（d100=31）——成功。你观察到了一些细微的区别——<br>
+收藏室的大门上有着奇异的雕花纹样，就连门把手上都有着金属浮雕，那个花纹你看着极其眼熟——<br>
+（d100=52）……判定失败。你暂时没能想起曾在什么地方看过同样的花纹。<br>
+但是在看到的那一瞬间，一股抑制不住的寒意掠过你的身体，你搓了搓手臂上蔓延起来的颤栗，选择忽略了这种不适。<br>
+至于二小姐的房门口……你没有看出任何问题。<br>
+接下去，你决定——<br>
+<br>
+'''''<span style="color:black;">选择项1：打开收藏室的门</span>'''''<br>
+'''''<span style="color:black;">选择项2：敲响二小姐的房门</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你扣下把手，期望着眼前的门会打开，但结局令人失望——门上锁了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……嗯，上锁了。一点都不意外呢。那么试试开锁技能吧。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（d100=89）……判定失败。你试着用自己娴熟的开锁技能去打开它，但是很可惜你失败了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……看来，只能先去看看二小姐的房间了。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你回忆起管家再三强调的注意事项，决定先通过敲门的方式向房间的主人征求进入许可。<br>
+“咚咚咚”，你敲响了二小姐的房门——<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+姐姐…………都这么晚了，你可别又是想忽悠我加……你谁啊？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+门打开了，穿着可爱服饰的二小姐揉着头发站在你的面前。<br>
+她上下打量着你，对于你这个突然出现的陌生人表现出了疑惑和强烈的防备。<br>
+不过很快，她对你露出了微笑。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+哦……我知道了。你就是父亲说的那个调查员吧？<br>
+……进来说话吧。这样站着挺累的。<br>
+放心吧……我这里没有态度差劲的管家也没有磨着柴刀的厨师，她们不会到这个房间来的。<br>
+相信我，这个房间才是整个莱顿古堡最安全的地方。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+在你进入房间后，二小姐飞快地将门关闭并反锁。<br>
+你观察着房间，房间中既没有奇怪的装饰也没有奇怪的雕像。<br>
+有的只是简单的公主床，可爱的玩偶，软乎乎的地毯，凌乱的写字台和梳妆台，甚至还有一台连着电视的游戏机。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……还有地上的游戏卡带和可乐薯片……？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+当然，还有地上的游戏卡带和可乐薯片。<br>
+虽然乱了一些，但是正如二小姐所说，这大概是整个城堡里看起来最安全的一个房间了。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+想吃就吃吧。想来管家和女仆应该也什么吃的都没给你送。<br>
+那么先自我介绍下，我是布莱克勋爵的小女儿，你应该已经见过我姐姐了吧。<br>
+你来敲我的门，想要从我这边了解些什么？<br>
+或者说，我父亲又和你说过些什么呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……其实，我也想知道布莱克勋爵到底跟我说了什么。）<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+让我猜猜……他一定告诉了你，家里的失踪案可能和他的两个女儿有关吧？<br>
+他是不是说过“我的两个女儿都受到了邪祟的影响，变得和以前完全不一样了”……之类的话？<br>
+算了……怎么都好了，我要打游戏了，你自便。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+眼前的少女耸耸肩，又继续坐在毛茸茸的地毯上打游戏，她似乎完全不把你的存在当一回事。<br>
+房间之中的超大书柜、琳琅满目的奖杯与那些散落在地上游戏卡带给人一种强烈的割裂感。<br>
+突然，你注意到，五斗柜的上面摆放着一排相框与几封拆开的信件。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+和之前见到的不同，这次的照片上没有任何损毁的痕迹。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=33）……嗯，判定成功。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你注意到，相框里有好几张照片上，都是不同年龄阶段的四个女孩。<br>
+其中有几张照片上还出现了一名有着温柔笑容的美丽女士。<br>
+从那几张熟悉的面孔上不难看出，这便是布莱克姐妹以及厨师长和女仆长年幼时候的样子。<br>
+至于那名女士……从相似的面容中你推测出，这或许就是已故的勋爵夫人。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这个“勋爵夫人”，怎么看都是{namecode:199:新泽西}扮演的吧！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+嗯……因为那天我们商量剧本的时候被她听到了，然后她无论如何也想来一起玩。<br>
+咳，不过这不重要。你注意到照片中的几名少女举止亲密，这一点让你产生了微妙的违和感。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+确实如此……从二小姐刚刚对于厨师长的形容来看，怎么都不像关系很好的样子。<br>
+还有这些信……<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+在好奇心的驱使下，你开始阅读起少女房间中的私人信件，试图从中寻找到能够帮助自己调查的蛛丝马迹。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……这是一封大小姐寄给妹妹的信，收件地址是……密斯卡托尼克大学法律学院学生宿舍？<br>
+怪不得房间里有这么多奖杯和超大的书架，原来二小姐是个高材生。<br>
+至于其中的内容就……<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+至今，我依旧无法相信摩根已经去世。每到深夜，那道温柔的嗓音还会在我耳边回荡，熟悉的面容也会浮现眼前。<br>
+……父亲无视我的拒绝开始帮我寻觅新的婚约者了，一切都是为了更大的利益……亲爱的妹妹，我该怎么办？<br>
+多想再回到小时候，如果妈妈还在的话……<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+那些照片，有这么好看吗？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+正当你沉浸在文字中时，少女略带不满的声音在背后响了起来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+抱歉，稍微想了下事情。厨师长和女仆长是与你们一起长大的？<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+厨师长原本是姐姐的贴身侍女，之前还是女仆长……不过她的厨艺很不错，当厨师长倒也合适。<br>
+现在的女仆长原本是我的贴身侍女……虽然对她来说是升职了，对我来说却有点不方便。<br>
+但……随便吧。反正我也不需要像以前那样精心照顾……每天在家吃喝打游戏也挺快乐的。<br>
+只要给我提供薯片和可乐就行……啧！怎么又死了？！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+电视机上出现了Game Over的提示，接着你看见少女略微暴躁地摔了一下手柄。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+我就不信了……就算只有一个人，我也一定能通关的！<br>
+<br>
+'''''<span style="color:black;">选择项1：询问二小姐的过去</span>'''''<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+哦……你看到我的证书了是吧……早就休学了哦。<br>
+怎么，你来之前他没告诉过你么？也是，这么丢脸的事他怎么可能承认。<br>
+大女儿因为失去了婚约者而沉迷奇怪的黑魔法，小女儿半途休学在家颓废度日。<br>
+从原本有着两个优秀女儿的贵族变成了家门不幸的失败家长，他一定无法接受吧。<br>
+他让你来调查只是因为担心家里的传闻影响他做生意而已……至于他自己，现在还不知道躲在哪个国家呢。<br>
+呼……说了这么多话，真累。<br>
+调查员，我劝你还是不要管我家这一摊子破事了。<br>
+我父亲许诺给你的报酬虽然丰厚，但是你有没有命拿到还是个问题呢。<br>
+如果我没猜错，你应该已经被当成祭品的候选了哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……祭品？！这么说来那些失踪案难道是？<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+是啊，还能有别的解释么。快跑吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+既然这个家这么危险，你为什么不跑？<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+……这是我家，我为什么要跑。<br>
+而且……我……不能把姐姐一个人留在这里。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+在少女愣神的刹那，电视画面里的角色再次被章鱼状怪物击败，Game Over的几个大字又一次出现了。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+啧，又死了。果然没有姐姐就不行吗……（小声）。<br>
+调查员，如果你执意要掺和这件事的话，现在就从我眼前消失吧。你要自寻死路，那就别弄脏了我的房间。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+听了少女的话，你准备————<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第五幕-BE|选项=20|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+啧，又死了。果然没有姐姐就不行吗……（小声）。<br>
+调查员，如果你执意要掺和这件事的话，现在就从我眼前消失吧。你要自寻死路，那就别弄脏了我的房间。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+听了少女的话，你准备————<br>
+<br>
+'''''<span style="color:black;">选择项1：继续询问收藏室的事</span>'''''<br>
+'''''<span style="color:black;">选择项2：继续寻找收藏室的钥匙</span>'''''<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+你就是不知道放弃是吧……那里面都是我父亲的一些收藏，平时一直锁着，我们都不会去。<br>
+……嗯？能不能给你钥匙？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+少女看着你，表情非常复杂。<br>
+（d100=99）非常可惜，判定大失败！你显然低估了布莱克姐妹俩的感情，二小姐露出一个不屑的笑容。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+你怎么觉得我会帮你拿钥匙呢？对你态度好只是为了劝你离开，别以为我会帮你。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来只能顺着{namecode:428:欧根}的恶趣味……试试用魅惑术进行交涉了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+于是，调查员使用魅惑术成功进入了收藏室。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……嗯？这就结束了么，中间过程呢？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+因为是全年龄向剧本，所以中间的过程就直接跳过了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……在加了那么多死亡BE之后，现在自称是全年龄向剧本？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+具体问题具体分析嘛~总而言之，你现在成功进入了收藏室。<br>
+而二小姐已经疯狂地爱上了你~为了你，无论做什么她都愿意！<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+Honey~你随便看随便找~我的东西就是你的东西~不要客气哦~<br>
+<br>
+'''''<span style="color:black;">选择项1：谢谢！</span>'''''<br>
+'''''<span style="color:black;">选择项2：……这一句是新泽西写的？</span>'''''<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yes。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+唔……我记得小时候姐姐和我说过，城堡里有一个密室。<br>
+如果要隐藏什么东西的话，有可能就藏在那里哟。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……密室？按照传统套路，机关一般会隐藏在油画下面。检查一下吧。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你快速走到一幅油画面前，盯着它仔细查看——<br>
+（d100=22），鉴定成功。你发现，这幅油画下没有机关。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那就使用观察力，寻找整个收藏室的可疑之处。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+（d100=56），判定失败。你没有从收藏室中找到任何可疑之处。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+很可惜，看来想找到密室的机关，你需要对里面的每一件工艺品进行单独检定了。<br>
+顺带一提，这里一共准备了一千四百五十三件工艺品。<br>
+<br>
+'''''<span style="color:black;">选择项1：这么多？！</span>'''''<br>
+'''''<span style="color:black;">选择项2：谁准备的？</span>'''''<br>
+'''''<span style="color:black;">选择项3：精罗落泪！</span>'''''<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''已经删减过很多了，如果按照陛下原先的意思……不提也罢。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''自然是皇家的伊丽莎白小姐嘛~不过我也做了点微小的贡献哦。<br>
+<span style="color:#4eb24e;">利托里奥：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呜呜呜！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''……你是从哪儿来的？<br>
+<span style="color:#4eb24e;">利托里奥：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''啊……路过路过，指挥官你们继续玩……继续玩~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来一件一件找是不可能了……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+就在你有些沮丧的时候，一阵突如其来的寒意爬上了你的后背。<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+亲爱的调查员，您刚才……对我妹妹做了什么？<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+姐姐姐姐~我和你说哦~我已经找到了想要相守一生的人了呢~就是我亲爱的Honey哦~<br>
+<span style="color:#4eb24e;">古堡大小姐：</span><br>
+是这样啊~那就让我们好好聊聊这件事吧~<br>
+本来我是想把你做成祭品的。可是妹妹说她喜欢你，要和你相守一生……<br>
+我知道那种被迫与挚爱分离的痛苦……既然这样，就请调查员永远陪着我可爱的妹妹吧~<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+在昏迷的时候，你感觉自己被塞进了什么东西里。<br>
+如今，你的意识和灵魂全都是清醒的，但是你的四肢僵硬无法移动分毫。<br>
+<span style="color:#ff9b93;">古堡二小姐：</span><br>
+虽然只是人偶的身体，但是这样我们就能永远在一起了，Honey~<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-06-来自姐姐的礼物<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+恭喜指挥官，再次解锁了一个BE！<br>
+魅惑术，还是不要乱用比较好哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我……被做成人偶了？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+哼哼~应该说是漂亮的收藏品才是~<br>
+疯狂的爱和永恒的囚禁~多么具有艺术气息啊~这个结局你喜欢吗，指挥官？<br>
+<br>
+'''''<span style="color:black;">选择项1：喜欢！</span>'''''<br>
+'''''<span style="color:black;">选择项2：不喜欢！</span>'''''<br>
+'''''<span style="color:black;">选择项3：谁设计的？！</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''某个可爱又迷人的反派角色哦。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+那么指挥官，请重新来过吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第五幕-NEXT|选项=21|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+啧，又死了。果然没有姐姐就不行吗……（小声）。<br>
+调查员，如果你执意要掺和这件事的话，现在就从我眼前消失吧。你要自寻死路，那就别弄脏了我的房间。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+听了少女的话，你准备————<br>
+<br>
+'''''<span style="color:black;">选择项1：着眼于身边的问题</span>'''''<br>
+'''''<span style="color:black;">选择项2：拉近两人之间的关系</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我是个有职业操守的侦探，既然已经接下这个案子，自然没有半途而废的道理。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''这就和打游戏一样，如果通不了关，只会让我越战越勇。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''在自寻死路之前，至少让我帮你把这个游戏一起通关了吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我们都不喜欢半途而废，不是么？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你坐在少女的身边，拿起了另一个手柄，在开始界面上选择了双人合作模式。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+真是个……多管闲事的人。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+一个人怎么都做不到的事，往往借助于外力就能轻松解决。<br>
+游戏通关了，电视画面上的小人此刻正在举臂欢呼。<br>
+<span style="color:#4eb24e;">古堡二小姐：</span><br>
+居然真的……通关了。<br>
+我一直以为……没有姐姐的话，我永远都没办法通关……<br>
+我小时候很喜欢玩游戏，但我总是玩不好。也许在学习方面我是一把好手，但是游戏……<br>
+姐姐和摩根会陪我一起玩，还有另外两个人……<br>
+看在你帮我通关的份上，给你一些提示好了。<br>
+收藏室里什么都没有，不用去。<br>
+如果你还想收集什么线索的话……可以去书房看看，这是钥匙。<br>
+希望明天早上我还能见到你，可别死了哦~调查员。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+得到钥匙后，你和少女道了别，离开了这个房间————<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第六幕-迷雾回廊|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-6-迷雾回廊<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+昏暗的走廊上，你摸索着墙壁缓慢前进着。<br>
+你觉得自己好像走了很久很久，似乎是迷失在了这座古老的城堡里。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……感觉有些不太对，申请对走廊进行一个观察检定。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=27）观察成功，你发现了走廊里的异样之处。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你的脚下飘荡着白纱般的迷雾，它们似乎正一点一点地沿着你的脚往上爬。<br>
+而那个陌生的声音，再次出现在了你的耳边。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+混乱的呓语似乎正影响着你的意志，你感觉精神正在变得游离。<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+恍惚中，你回忆起了基础属性：意志，45。<br>
+很可惜，这个数值低于正常人的平均水平。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=73）意志抵抗失败，你突然觉得手脚冰凉，无数恐怖的念头正在你的脑海中叫嚣着。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#没完成的委托嘶嘶嘶@#工作室的债务嘶嘶嘶@#被用掉的假期&…………嘶——！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………不得不说，确实挺恐怖的。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+就在恐怖的念头即将吞噬你之际，你的口袋中传来阵阵暖流。暖流驱散了冰冷，也驱散了无序的呢喃。<br>
+理性回归后，你注意到暖流源自二小姐所给的书房钥匙。<br>
+原本被你以为只是普通装饰链的部分，其实是一枚正发着点点微光的护身符。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=26），民俗研究检定成功，你成功辨认出了这枚护身符的来源。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你回忆起在某本神秘学研究著作上看到的护身符介绍，据说它非常稀有，拥有能够帮助人抵抗神明的力量。<br>
+而其中的一枚，理论上正被收藏于密斯卡托尼克大学博物馆之中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+二小姐在辍学的时候……将这枚护符偷了回来？倒是帮上大忙了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你将护符小心收好，向着书房的方向迈开脚步。<br>
+可是意外再次出现了，只听见“啪”的一声，世界陷入了黑暗之中，你再次失去了方向。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+还真是意外频出的状况，护符这次有反应么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+没有，护符只是静静躺在你的口袋里。在一片漆黑之中，你听到了从背后传来的脚步声。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+哒哒哒——哒哒哒——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+用观察力进行检定，尝试辨认出接近的人！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+（d100=48），检定成功。虽然在黑暗中，你的观察力没能帮你辨认出从背后接近的人。<br>
+不过你成功注意到，就在你手边不远处有一扇不知通往什么房间的门。<br>
+脚步声正变得越来越清晰，接下来你打算——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第六幕-BE|选项=23|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+虽然黑暗之中，你的观察力没能帮你辨认出从背后接近的人。<br>
+不过你成功注意到，就在手边不远处有一扇不知通往什么房间的门。<br>
+脚步声正变得越来越清晰，接下来你打算——<br>
+<br>
+'''''<span style="color:black;">选择项1：尝试躲进不远处的房间！</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+虽然贸然进入陌生的房间有些风险，不过危机已经迫在眉睫了！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你快速来到房间门口，充满希望地推了推门。不出意外的，门死死地锁着。<br>
+<br>
+'''''<span style="color:black;">选择项1：我有钥匙！</span>'''''<br>
+'''''<span style="color:black;">选择项2：我有枪！</span>'''''<br>
+'''''<span style="color:black;">选择项3：我有回形针！</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你想起来了正躺在口袋中的书房钥匙，虽然你心里很清楚，面前的房间并不是书房。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''但是万一呢？或许只要你坚定地认为它是书房，你就能用书房钥匙打开它。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''怀揣着这样的想法，你将书房钥匙伸入了锁孔，轻轻转动。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''很遗憾，你的精神败给了物理宇宙的法则，这个房间没有变成书房，你也没能用书房钥匙打开它。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''还是换一个方案吧……<br>
+<span style="color:#4eb24e;">皇家顾问KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''没错，你想起来了你有一把枪。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''而且还是一把一支采用了红木握把并雕刻了精致花纹的柯尔特M1873单动式转轮手枪。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这样一把优秀的手枪完全可以替你打开眼前的门锁，让你进入房间。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''但与此同时，悦耳的枪声也会让古堡中的所有人知道你现在的位置，你确定要用这个方案么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''还是换一个方案吧……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+在这万分紧要的危急关头，你想起了口袋中的好帮手，回形针。<br>
+它曾经无数次助你化险为夷，你相信这一次它也不会让你失望。<br>
+（d100=42），开锁检定成功！你娴熟的开锁技巧令你再一次化险为夷，大概。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……大概？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+咳咳——随着熟悉的“咔哒”声响起，大门被你轻轻推开，你一个闪身，踏入了未知的房间。<br>
+在确认将房门锁上后，你转过身来，开始观察起这个被你选为“避难所”的房间。<br>
+不知何时，暴雨已经停歇，月亮终于从乌云的桎梏中得到解放。<br>
+得益于月光的帮助，你发现这是一个相当奢华的卧室。<br>
+虽然之前你在进入大多数房间的时候，都用了“相当奢华”这个形容词。<br>
+但是眼前的房间，无疑是相当奢华之中的相当奢华。<br>
+屋主似乎想把所有最好的、最贵的东西都搬进这个房间。<br>
+其中，一幅抵靠在落地窗边的、巨大的单人画像吸引了你的注意力。<br>
+虽然无法看清画中的人脸，但画中人身上那条以零碎钻石作为装饰点缀的婚纱却让你留下了深刻的印象。<br>
+更仔细地观察，你发现所谓的婚纱，其实是由大量扭曲交缠的白色触手组成的。<br>
+每一条触手上的每一个吸盘都在月光下闪着细碎的银光。<br>
+在意识到这一点时，你感受到了一股难以名状的恐惧。<br>
+<span style="color:#ff9b93;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+那无法辨明的声音又开始在你耳边低语，你头晕目眩，浑身颤抖。<br>
+你的意志告诉你，你应该抵抗！你不能认输！<br>
+<br>
+'''''<span style="color:black;">选择项1：进行意志检定！</span>'''''<br>
+'''''<span style="color:black;">选择项2：我偏要认输！</span>'''''<br>
+<span style="color:#ff9b93;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（d100=91），失败。很遗憾，虽然你的意志想要抵抗，但是它太弱了。<br>
+<span style="color:#ff9b93;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''出于某种，或许可以被定义为逆反心理的原因，你无视了自己的意志，选择了直接向恐惧屈服。<br>
+<span style="color:#ff9b93;">传奇调查员KP（自称）：</span><br>
+嘶嘶嘶@#￥%……&…………嘶——！！<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+你被恐惧所笼罩，在重压之下尖叫了出来。<br>
+护符再次发出了光芒，但是这一次，它仅仅能使你维持最后的一丝意识。<br>
+<span style="color:#ff9b93;">传奇调查员KP（自称）：</span><br>
+咔嚓——咔嚓——<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+你注意到，房门被打开了，有人走了进来。<br>
+<span style="color:#ff9b93;">古堡女管家：</span><br>
+我记得我之前和您强调过，未经允许不得擅闯卧房。<br>
+您在我家主人的房间里做什么呢，调查员？<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+管家一步步靠近，巨型镰刀拖在地上，发出了刺耳的噪音。<br>
+<span style="color:#ff9b93;">传奇调查员KP（自称）：</span><br>
+嚓啦啦——嚓啦啦——<br>
+<span style="color:#ff9b93;">古堡女管家：</span><br>
+没有礼貌的客人可是不受欢迎的哟～<br>
+就让我来给您好好上一堂礼仪课吧，亲·爱·的·调查员～<br>
+<span style="color:#ff9b93;">文学少女KP：</span><br>
+不知是幸运还是不幸，在感受到镰刃的触感之前，你就已经陷入了无边的混乱之中，再也没有任何知觉。<br>
+<br>
+古堡调查实录<br>
+<br>
+BE-07-非请莫入<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+管家之前就提醒过，在调查卧室一类的非公共区域前，一定要征得房间主人的同意后再进入。<br>
+指挥官这次因为接近的脚步声而忽视了管家的警告，进而酿成了此次惨剧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+确实如此……如果严格听从提示的话，就可以规避此次危机了。<br>
+这个结局设计确实很有企业的风格。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+这一次是倒数第二幕，指挥官倒在了黎明前的黑暗中呢！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+城堡的主人也是邪教徒么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+虽然现在还不方便剧透，不过把自己的卧室装饰成那样的人，肯定也脱不开关系吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那从身后传来的脚步声是谁的？<br>
+如果不进入房间，而是等待脚步声的话会发生什么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+要想知道这些，就请指挥官在接下来的游玩中一步一步探索啦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=第六幕-NEXT|选项=24|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+虽然黑暗之中，你的观察力没能帮你辨认出从背后接近的人。<br>
+不过你成功注意到，就在手边不远处有一扇不知通往什么房间的门。<br>
+脚步声正变得越来越清晰，接下来你打算——<br>
+<br>
+'''''<span style="color:black;">选择项1：潜伏于黑暗之中！</span>'''''<br>
+'''''<span style="color:black;">选择项2：躲在柱子之后！</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你看着自己尚未回忆起的几个技能，一个想法从脑海中冒了出来——“难道说，我其实是潜伏大师？”<br>
+'''''<span style="color:black;">（选择项1）</span>'''''可惜，你在等待了片刻后，什么事都没有发生。遁入黑暗的技能并不属于你。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……还是躲去柱子后面吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''根据地图来说，前面的房间并不是书房。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''在这座古堡中如果随便闯入陌生的房间不知道会发生什么事。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''还是躲到柱子后静观其变吧。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你回忆起了管家的警告，没有贸然进入未知的房间，而是选择躲藏在石柱的阴影后。<br>
+脚步声越来越近，很快就要到达你的身边。<br>
+而且更糟糕的是，一道光芒伴随着脚步声一同接近着。<br>
+不管接近的人是谁，她似乎都选择一个了更加稳妥的走夜路方式——拿提灯。<br>
+<br>
+'''''<span style="color:black;">选择项1：我有枪！</span>'''''<br>
+'''''<span style="color:black;">选择项2：静观其变</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''终于，是时候展现真正的技术了！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你怀着这样的想法，掏出枪，一个箭步主动冲到了光芒之中。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''即便危机已迫在眉睫，你依然选择以不变应万变。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''光芒越来越近，然后不出意外，你被发现了。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+……调查员，您这是在玩什么呢？<br>
+二小姐担心您找不到书房的位置，所以让我带您前往。<br>
+不过我刚才担心短路的问题，回去拿了一盏灯，所以浪费了些时间。<br>
+现在看来，我的担心是对的。请随我来吧，书房就在前面不远的地方了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（总觉得女仆长的态度似乎和善了不少。）<br>
+（这么说来，记得现在的女仆长原本是二小姐的贴身侍女……所以说，她们两位其实是同一阵线的？）<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+……请问我身上是沾到什么了吗？您似乎一直在盯着我看？<br>
+……嗯？我的态度有点变了？<br>
+咳……我本以为您和之前来的那些人一样，不过是徒有虚名的骗子。<br>
+不过刚才……我从二小姐那边听说了一些事。<br>
+这并非是说我认可您了，但既然二小姐相信您，那么我便也相信您。<br>
+二小姐是那么聪明的人，我永远相信她的选择。请您……一定救救她们。<br>
+<br>
+'''''<span style="color:black;">选择项1：那是自然！</span>'''''<br>
+'''''<span style="color:black;">选择项2：尽力而为！</span>'''''<br>
+'''''<span style="color:black;">选择项3：要加钱！</span>'''''<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那就拜托您了……<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呵呵，差点忘了您是个生意人了。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''请放心，既然是原本工作之外的内容，那自然会支付给您额外报酬的。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+哒哒哒——哒哒哒——<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+说话的间隙，不远处再次传来脚步声。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+不好……我们快走。这次应该是大小姐她们，如果遇上的话我们的麻烦就大了！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+女仆长熄了灯，你们一同在黑暗中快速前行。<br>
+你们的速度非常快，几乎是小跑着前进，可是身后的脚步声却越来越近。<br>
+在这万分危急的时刻，你准备——<br>
+<br>
+'''''<span style="color:black;">选择项1：我有枪！</span>'''''<br>
+'''''<span style="color:black;">选择项2：寻找其它阻止方法！</span>'''''<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''等等，调查员！再怎么说那也是大小姐，请您别开枪！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你注意到，在女仆长诚恳的语气之下隐藏着一丝杀意。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……还是寻找其它阻止追兵的方法吧。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+脚步声越来越清晰，如果不立刻做点什么的话，恐怕将会有相当恐怖的事发生。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+此时立刻能做的事么……有了！用投掷障碍物的方式阻止追兵前进好了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+在调查员触摸到木箱的那一刻，往日的记忆涌入了脑海！<br>
+你回忆起了自己曾经最擅长的技能：投掷，熟练程度：精通。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+哇哦……终于解锁{namecode:22:雪风}大人设计的技能了。<br>
+（d100=1）——投掷判定大成功！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你抓住手边的木箱，向后用力扔去。一片黑暗之中，你的木箱并没有直接命中追击而来的人，而是命中了一旁的杂物山。<br>
+被命中的杂物山发生了崩塌，无数杂物彻底堵塞了你身后的走廊。至少很长一段时间之内，追兵都过不来了。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+就是现在，我们快走！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+趁着地动山摇之际，女仆长拉着你快速逃离了这里——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=终幕-雾月星光|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+雨夜惊魂<br>
+<br>
+Chapter-7-雾月星光<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+终于，你和女仆长进入了书房。你们关上了书房门，也将危险关在了外面。<br>
+书房之中灯火通明。环顾四周后，你发现这里与其说是书房，不如称之为图书馆更为恰当。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+已故的夫人还有二小姐都很喜欢看书，所以主人当年就打造了这样一个堪比图书馆的书房呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+藏木于林……如果要隐藏情报的话，确实没有比图书馆更好的地方了。<br>
+不过这个数量，究竟有多少呢……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+三万册，这里一共运来了大约三万册书籍哦。<br>
+顺带一提，考虑到KP与你的身心健康，本场景中不提供将三万册书一本一本逐次排查完的选择！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……本来也没这个打算！这可是三万本啊……必须先缩小一下范围才行。<br>
+既然大小姐身上的秘密最重，就先从大小姐喜欢看的书入手好了。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+大小姐喜欢的书么……嗯，那些书基本都集中一个书架上，应该……是这个。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+女仆小姐用手指向了一个靠近落地窗的书架。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一口气将范围缩小到了一个书架么，虽然数量还是不少，但总算是有头绪了。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+那么调查员，就让我们分开调查吧。一人一半，如何？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，那就拜托了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+就这样，你来到了书架前。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯…………<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+调查员就这样呆住了，凝视着书架，似乎在等待什么。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……虽然不允许三万册书的逐次检查，但是一个书架上的书还是要一本本看的意思么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你看着书架上的这些书，内心有一种很想翻阅它们的冲动，就像是有什么正在吸引着你一样……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这根本就是在催促……没办法了，试试看吧。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你随意拿起了一本书翻阅了起来————<br>
+（d100=19），检定成功。你吃惊的发现，即便你只是看似随意地翻动书页，书页中的信息依然可以顺利进入你的脑海。<br>
+只用了大约十秒时间，你就完全明白了这本书的全部内容。<br>
+恭喜，你已回忆起技能：快速阅读，熟练程度：入门。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+还有这个技能……为什么之前读信的时候没有触发？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+唔……因为你当时阅读的速度不够快！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……勉强算你圆上了。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+咳咳、虽然熟练程度只有入门，但是应付一个书架的书籍还是绰绰有余的哦。<br>
+如果配合观察力的话，更进一步缩小范围也是有可能的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+申请进行观察检定！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+（d100=33）成功，你在书架上成功发现了一本…………等等，那本书怎么会在这里？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……那本书，是指我手边这本么？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+是……不对，不是！那本书里什么都没有，不要拿那本书！<br>
+<br>
+'''''<span style="color:black;">选择项1：坚持要拿！</span>'''''<br>
+'''''<span style="color:black;">选择项2：那就算了。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''海天的语气听上去很急迫，好可疑……还是拿起来看看吧。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''“她牵起了指挥官的手，然后将自己的脸贴上那略感粗糙的掌心……”<br>
+'''''<span style="color:black;">（选择项1）</span>'''''“从初遇开始，白衣少女便对那温柔的人一见倾心。只是她不敢将心意流于表面……”<br>
+'''''<span style="color:black;">（选择项1）</span>'''''“……少女的心事就如同春日里的落花，唯美又浪漫，像是不切实际的幻想，又像是……”<br>
+'''''<span style="color:black;">（选择项1）</span>'''''“……海天。她听见那人温柔又深情的低喃，像是一阵春风拂过，吹红了她的左耳……”<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……你把自己写的书混在道具里送过来了？<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哇哦……感觉写的好浪漫。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哇啊啊啊！！！你、你敏锐地注意到了女仆长停下了她手头的工作，似乎发现了什么线索！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''于是你坚决果断地放下了手中的书！决定跑过去一探究竟！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呼……你经过观察后，在自己负责的区域内没有发现任何可疑的书。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''就在此时，你敏锐地注意到了女仆长那边停下了手头的工作，似乎发现了什么线索。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你走到女仆长的身边，你发现她正对着一本书发呆。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+调查员？您那边已经结束了？有什么发现吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+没有，我以为你有什么发现，所以过来看看。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+我……刚才把几本主人和大小姐曾翻阅过的书挑了出来，结果看到相册，回想起了小时候的一些事。<br>
+以前……夫人还在的时候，这座城堡并不像现在这样……冰冷。<br>
+夫人她是一位善良又温暖的人，很活泼、很热情，像是一个太阳，照耀着我们所有人。<br>
+于是，这个家也总是热热闹闹，充满了欢笑。可惜……她去世得太早了，疾病早早地带走了她。<br>
+然后……主人就开始热衷于慈善与医疗事业，对小姐们也不再如从前那样关心……<br>
+所幸，两位小姐互相扶持，再加上管家代替了一部分母亲的职责，也算是平安长大了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那照片上被涂成黑色的人是？<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+那是大小姐的婚约者，摩根阁下，也是小姐们的青梅竹马。大小姐与摩根大人的感情很好，原本马上就要成婚了。<br>
+可是……摩根阁下突然离世，这件事给她带来很大的打击。此后大小姐长期陷在抑郁情绪中，又让主人对她产生了一些不满。<br>
+后来，大小姐转而投入了……某个教派，以寻求内心的安宁。<br>
+但是那个教派怎么说呢……可疑的部分实在太多了。就连一同加入的管家和厨师长都变得很奇怪。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+哐！哐！哐！——哐！哐！哐！<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+就在你努力收集更多信息的时候，书房外突然传来了奇怪的巨响。<br>
+<span style="color:#4eb24e;">古堡女仆长：</span><br>
+糟了，大小姐和管家她们还是赶过来了……<br>
+调查员，二小姐……还有其他人，就拜托给您了。<br>
+虽然还不能完全信任你，但是除您之外，我也没有别的选择。<br>
+这盏灯是二小姐以前给我的，让我一定好好保存……也留给您吧，希望对您有所帮助。<br>
+我会帮您争取一些时间。凭着多年的情谊，我想应该不至于对我下死手。<br>
+还请您一定……一定要救救她们。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女仆长带着决绝的背影离开了。门外嘈杂的响声更盛，但是你很清楚她拖延不了多久。<br>
+你看着她留下的提灯以及几本没来得及检查完毕的书，你决定——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=终幕-TE|选项=26|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女仆长带着决绝的背影离开了。门外嘈杂的响声更盛，但是你很清楚她拖延不了多久。<br>
+你看着她留下的提灯以及几本没来得及检查完毕的书，你决定——<br>
+<br>
+'''''<span style="color:black;">选择项1：立刻撤离</span>'''''<br>
+'''''<span style="color:black;">选择项2：从窗户逃出去</span>'''''<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''时间紧迫，你当机立断决定离开这个房间躲避危险。你伸手握上了门把，但你的大脑突然警铃大作。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''很显然，直接从大门逃出去的办法并不明智，或许你该找找其它出口。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''房间只有一个出口，但是你很确定一旦你选择开门就会被守在外面的敌人捕获。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+如果不能从正门走的话……那就只能走窗户了。<br>
+或许可以制作出逃生用的道具？<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+你环顾四周，将目光锁定到了厚实的窗帘上，这或许可以帮得上忙，你打算尝试一下。<br>
+<span style="color:#4eb24e;">一本正经的KP：</span><br>
+（d100=2），大成功！你成功回忆起了技能：陷阱制作，熟练度：入门。并且成功制作了一根牢固的绳索。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+很好，撤离工具和撤离路线都确保了。至于那个提灯……女仆特意提到是二小姐留下来的，仔细检查一下吧。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+（d100=47），民俗研究检定成功。<br>
+你很确定曾经在密斯卡托尼克大学博物馆藏品介绍手册上看到过它，并且确信它和此前的护符有着同样的力量。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+果然是好东西……看来二小姐在休学回家的时候收获颇丰啊。<br>
+虽然还有些细节不清楚，不过根据目前掌握到的信息，已经能够确信这座城堡的大小姐正在举行某个邪恶仪式。<br>
+管家和厨师长都是她的同谋，目的是为了复活其多年前去世的婚约者。<br>
+那些失踪的仆人应该都已经成为了仪式的祭品，而现在她们还想抓我去献祭……<br>
+真是一伙危险的人……还是先逃出城堡，之后再带领警方一起回来救人吧。<br>
+<br>
+一段时间后——<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+依靠绳索，你顺利从书房逃了出来。<br>
+然而落地之后，突然出现的茫茫白雾让你迷失了方向。<br>
+原本你想凭借记忆找到下山的路，却不知不觉来到了一片花园之中。<br>
+（d100=36），观察检定成功。花园之中的迷雾慢慢散去，一个巨大的魔法阵出现在你的眼前。<br>
+法阵闪烁着幽暗的光芒，扭曲了空间，让你无法看清隐藏在魔法阵后的石像。<br>
+不过你能感觉到一股邪恶又冰冷的力量飘散在空中。<br>
+（d100=36）民俗研究判定成功。你认出了这个邪神雕像正是大小姐所信奉的教派所崇拜之神，而仪式，也已经启动了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……才出虎口又入狼穴。没想到误打误撞来到了举行仪式的现场。<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+冰冷的视线骤然打在你的身上，模糊的幻影在幽蓝中显现。<br>
+祂注意到了你的存在，祂正等待着你的奉献。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+￥#@%#@嘶——嘶——<br>
+<span style="color:#ff9b93;">古老神祇之影：</span><br>
+最后的祭品，是汝？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+每一个音节都如同尖锐的利刃刺向你的精神，你的理性正在飓风中飘摇。<br>
+不过，你携带在身上的护符与提灯似乎形成了某种共鸣，柔和的光芒笼罩着你。<br>
+片刻后，不适的感觉消失了。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+￥#@%#@嘶——嘶——<br>
+<span style="color:#ff9b93;">古老神祇之影：</span><br>
+有趣。准备了这些东西，看来汝是来谈判的？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+甜美的声音直接从你的脑海中涌现，诱惑着你的精神，动摇着你的意志。<br>
+然而，作为优秀的调查员，你深知与邪神做交易的危险。况且你清楚，二小姐准备这些也绝不是为了所谓的“谈判”。<br>
+<br>
+'''''<span style="color:black;">选择项1：消灭祂！</span>'''''<br>
+'''''<span style="color:black;">选择项2：为了二小姐！</span>'''''<br>
+'''''<span style="color:black;">选择项3：为了委托费！</span>'''''<br>
+'''''<span style="color:black;">选择项4：为了爱与正义！</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+下定决心后，你决定主动驱逐这个还未成型的恐怖实体，完成对于二小姐和女仆长的承诺，结束古堡中发生的一切。<br>
+你将提灯的亮度开到最大，然后用尽全力将护符扔了出去。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+（d100=1）投掷检定大成功！指挥官，借助{namecode:22:雪风}大人的好运消灭祂吧——！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+护符在接触到邪神的幻影后迸发出猛烈的爆炸，你手中的提灯也在此刻爆发出刺眼的金色光芒。<br>
+你同时感受到了难以言说的痛苦、绝望、死亡、不安与……一抹嘲弄。<br>
+邪神在耀眼的光芒下化作黑烟，消失了。<br>
+天亮了，雨停了。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+那天清晨，你驱赶了那不可名状之神的化身，然后迅速离开了莱顿城堡。<br>
+回到阿卡姆小镇后，你亲自去警局报警。多亏了你多年来在警局的良好信誉，他们相信了你。<br>
+这不是他们处理的第一起神秘案件，也不会是最后一起。<br>
+后来，管家替大小姐和厨师抗下了所有罪责，被警察带走。<br>
+虽然你知道真相，但是想到在相册里露出微笑的每一个人，最后你还是选择了闭口不谈。<br>
+再之后，你与二小姐成为了笔友。她写信告诉你，女仆小姐在当日只受到了轻伤，大小姐等人还是念及旧情没有下死手。<br>
+你又解决了一次神秘事件，并且获得了相当丰厚的报酬，但是回到了工作室后却没有一身轻松的感觉。<br>
+你总是心里隐隐觉得有些不对劲。你开始强迫自己转移注意力，很快，你将这次的事件埋藏进了心底。<br>
+几个月后，你在报纸头条中看到了阿卡姆郊外的莱顿城堡发生大火的消息。城堡内的所有人无一幸免。<br>
+又过了一段时间，你受邀参加了一场盛大的婚礼。<br>
+你的前雇主布莱克勋爵在挺过了巨大的悲痛后，终于重新振作开启了新生活。<br>
+这本该是一件好事，然而……你总觉得那名身着婚纱的新娘似乎在哪里看到过。<br>
+究竟，是在哪里呢————<br>
+<br>
+古堡调查实录<br>
+<br>
+TE-真爱永恒<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=终幕-HE|选项=27|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+女仆长带着决绝的背影离开了。门外嘈杂的响声更盛，但是你很清楚她拖延不了多久。<br>
+你看着她留下的提灯以及几本没来得及检查完毕的书，你决定——<br>
+<br>
+'''''<span style="color:black;">选择项1：先冷静下来。</span>'''''<br>
+'''''<span style="color:black;">选择项2：还有几本书没检查！</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+女仆小姐最后留下的那几本书，一定不是没有意义的。<br>
+现在手中的线索虽然足够推测出大小姐正在城堡中举行某个邪恶仪式。<br>
+管家和厨师长都是她的同谋，目的是为了复活其多年前去世的婚约者。<br>
+而且那些失踪的仆人都已经成为了仪式的祭品……<br>
+但是总感觉有些疑点还没查清……<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你拿起第一本书。（d100=26）快速阅读成功。你了解到这是一本古堡近一年来的账本。<br>
+对于只有四个人生活的古堡来说，这些开销明显过于庞大了。<br>
+<br>
+'''''<span style="color:black;">选择项1：继续调查。</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你拿起第二本书。（d100=22）快速阅读成功。你了解到这是一本古堡近一年来的采购清单。<br>
+除了日常用品之外，还有大量工艺品被陆续送入了古堡——以布莱克勋爵的名义。<br>
+时间在一分一秒的过去，你意识到，门外战斗的声音似乎消失了。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+咚咚咚咚咚咚咚咚咚咚咚咚咚咚咚咚咚咚！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+突然，外面传来了猛烈的撞门声。看来女仆小姐的拖延到了极限，你只剩下阅读最后一本书的时间。<br>
+<br>
+'''''<span style="color:black;">选择项1：继续调查。</span>'''''<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+你拿起第三本书。（d100=8）快速阅读成功。你了解到这是一本布莱克勋爵的日记。<br>
+日记中的一些内容，深深印入了你的脑海。<br>
+“……阳光消失后的三年，我买下了一家医院，还成立了慈善机构……以后，就不怕没有足够的生命了。”<br>
+“……我的秘密似乎被摩根发现了。如果……不，我们的女儿那么喜欢这个孩子……我不能……”<br>
+“……我把摩根送进了书房那幅油画后的密室……神会替我做出正确的选择……”<br>
+“……为什么？！为什么还是失败了？！不！我不会放弃的！对了，祭品！我需要更多的祭品！”<br>
+“……管家和大的那个成为了吾主的信徒……用信徒作为祭品岂不更好……”<br>
+“……对了，还得找个替罪羔羊……”<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………原来如此，布莱克勋爵才是安排了一切的幕后真凶。<br>
+然后他杀害了自己大女儿的婚约者，把她拉入邪教，为的是让她成为更合格的祭品以及……替罪羊。<br>
+雇佣我来进行调查，也是为了让他的替罪羊计划更完美。<br>
+其最终目的，应该是复活他死去的妻子吧……真是个扭曲的人。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+这一刻，调查员明白了一切。日记之中提到的那个由布莱克勋爵亲手设下的祭坛，才是城堡之中一切异状的元凶。<br>
+此刻，书房的大门已经岌岌可危，调查员必须立刻做出下一步决定。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+接下来要做的事已经很明显了，前往密室，消灭一切的祸根。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+依靠日记中的线索，你很轻松地找到了隐藏在密室入口前的油画。此刻，密道的入口近在眼前。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，我还要拿上女仆小姐留下的提灯，同时进行一个观察检定。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+（d100=47），民俗研究检定成功。<br>
+你很确定曾经在密斯卡托尼克大学博物馆藏品介绍手册上看到过它，并且确信它和此前的护符有着同样的力量。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+果然是好东西……看来二小姐在休学回家的时候收获颇丰啊。<br>
+<span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
+要办的事都已经办完了。在书房大门即将破碎的前一刻，你进入了密道之中。<br>
+身后的光芒缓缓消失。你手持提灯，毫不犹豫地向前方的黑暗中走去——<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+提灯在黑暗中发出微弱的光芒，不知走了多久，你终于到达了一个石室，一个闪烁着幽光的魔法阵出现在你的眼前。<br>
+法阵闪烁着幽暗的光芒，扭曲了空间，让你无法看清隐藏在魔法阵后的石像。<br>
+不过你能感觉到一股邪恶又冰冷的力量飘散在空中。<br>
+（d100=42）民俗研究判定成功。你认出了这个邪神雕像正是勋爵所信奉的教派所崇拜之神，而仪式，从未停止过。<br>
+冰冷的视线骤然打在你的身上，模糊的幻影在幽蓝中显现。<br>
+祂注意到了你的存在，祂正等待着你的奉献。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+￥#@%#@嘶——嘶——<br>
+<span style="color:#ff9b93;">古老神祇之影：</span><br>
+最后的祭品，是汝？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+每一个音节都如同尖锐的利刃刺向你的精神，你的理性正在飓风中飘摇。<br>
+不过，你携带在身上的护符与提灯似乎形成了某种共鸣，柔和的光芒笼罩着你。<br>
+片刻后，不适的感觉消失了。<br>
+<span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
+￥#@%#@嘶——嘶——<br>
+<span style="color:#ff9b93;">古老神祇之影：</span><br>
+有趣。准备了这些东西，看来汝是来谈判的？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+甜美的声音直接从你的脑海中涌现，诱惑着你的精神，动摇着你的意志。<br>
+然而，作为优秀的调查员，你深知与邪神做交易的危险。况且你清楚，二小姐准备这些也绝不是为了所谓“谈判”的。<br>
+<br>
+'''''<span style="color:black;">选择项1：消灭祂！</span>'''''<br>
+'''''<span style="color:black;">选择项2：为了二小姐！</span>'''''<br>
+'''''<span style="color:black;">选择项3：为了委托费！</span>'''''<br>
+'''''<span style="color:black;">选择项4：为了爱与正义！</span>'''''<br>
+<span style="color:#4eb24e;">代理KP：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''在喊出这句口号的下个瞬间，你的内心突然浮现出了一丝悲凉。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''既然布莱克勋爵才是一系列事件的元凶，那事件结束后还能否成功拿到委托费？你为此深感忧虑。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''不过，这点小事，并不会动摇你钢铁般的意志，对吧？<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+下定决心后，你决定主动驱逐这个还未成型的恐怖实体，完成对于二小姐和女仆长的承诺，结束古堡中发生的一切。<br>
+你将提灯的亮度开到最大，然后用尽全力将护符扔了出去。<br>
+<span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
+（d100=1）投掷检定大成功！指挥官，借助{namecode:22:雪风}大人的好运消灭祂吧——！<br>
+<span style="color:#4eb24e;">文学少女KP：</span><br>
+护符在接触到邪神的幻影后迸发出猛烈的爆炸，你手中的提灯也在此刻爆发出刺眼的金色光芒。<br>
+你同时感受到了难以言说的痛苦，绝望，死亡，不安与……一丝欣慰。<br>
+邪神在耀眼的光芒下化作黑烟，消失了。<br>
+天亮了，雨停了。<br>
+最后，你找到了密室里的出口，离开了莱顿城堡。<br>
+回到阿卡姆小镇后，你立马报警。多亏了你多年来在警局的良好信誉，他们相信了你。<br>
+尽管你描述的经历听起来惊悚又奇异，不过鉴于这里是人杰地灵的阿卡姆小镇，倒也不算太夸张。<br>
+该事件不会是小镇的第一期神秘案件，也不会是最后一起。<br>
+你联合警方欺骗了勋爵，宣称这一晚城堡里无一幸免于难。<br>
+自以为计划得逞的勋爵当即指控你谋杀了他的女儿和佣人，并决定回国与你对簿公堂。<br>
+在他下飞机的那一刻，警察们一拥而上将他捕获，最终为其自己的罪行付出了应有的代价。<br>
+之后，你与警方在莱顿城堡中进行了地毯式搜索，摧毁了位于后花园中的另一处祭坛，事件完美地落下了帷幕。<br>
+再之后，你与二小姐成为了笔友。她写信告诉你，女仆小姐在当日只受到了轻伤，大小姐等人还是念及旧情没有下死手。<br>
+目前，管家、大小姐与厨师长正在医疗设施中接受治疗，她们所受到的精神影响正在缓慢消除。<br>
+唯一令她感到不满的是，作为布莱克勋爵的女儿，她必须在姐姐康复之前承担起管理公司的重任。<br>
+甜美的居家生活迎来了终幕。<br>
+虽然嘴上说着麻烦死了，不过她依旧将公司打理得井井有条，女仆小姐也一直陪伴在她左右。<br>
+姐妹俩人此刻的生活宛如发生了对调一般，但是她们对此也并没有产生什么抱怨。<br>
+从今往后，她们一定能跨越伤痛，坚定而幸福的走向美好的未来吧——<br>
+<br>
+古堡调查实录<br>
+<br>
+HE-晴空之下<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=后日谈|选项=28|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">海天：</span><br>
+呼呼呼，完结撒花~！<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+……居然真的，完整体验了所有的BE。<br>
+<span style="color:#4eb24e;">皇家财富号：</span><br>
+指挥官，你都不知道一边看见你骰运不济，一边憋笑，然后还要一本正经演出有多困难。<br>
+<span style="color:#4eb24e;">维达号：</span><br>
+我也忍得很辛苦。<br>
+<span style="color:#4eb24e;">金鹿号：</span><br>
+我也是~<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
+我在机关室也笑得很厉害哦，花时间设计这个剧本也算物有所值了。<br>
+<span style="color:#4eb24e;">{{AF|雪风}}：</span><br>
+所以说，都让{namecode:22:雪风}大人来扔骰子就好啦！<br>
+<span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
+不行，那样会破坏游戏平衡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以，最后的TE结局里，布莱克勋爵的结婚对象难道是……<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+没错，当然是复活的妻子啦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+还有一个疑问，关于二小姐。她到底从校博物馆顺回了多少道具？<br>
+感觉她好像早就洞察了所有真相？<br>
+<span style="color:#4eb24e;">埃塞克斯：</span><br>
+关于这点，我只能说女仆长没有受到影响就是因为二小姐的缘故。<br>
+至于其它的细节，还是留给指挥官自己回味好啦。<br>
+一千个人心中有一千个哈姆雷特，就算是设计剧本的我们，也不能剥夺您回味剧本的乐趣。<br>
+<span style="color:#4eb24e;">企业：</span><br>
+关于剧情的讨论就先到这里吧？既然指挥官已经体验了全部内容，有什么想反馈的么？<br>
+<br>
+'''''<span style="color:black;">选择项1：有！</span>'''''<br>
+'''''<span style="color:black;">选择项2：恐怖要素太多了！</span>'''''<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+唔……毕竟是为了契合主题嘛！<br>
+<span style="color:#4eb24e;">玛丽·西莱斯特号：</span><br>
+顺带一提，剧中很多逼真的效果是我用阿尔戈做出来的哦。<br>
+<span style="color:#4eb24e;">企业：</span><br>
+不过这么一想……港区中胆小的同伴也有不少。<br>
+感觉确实有一定的改进空间。<br>
+<br>
+'''''<span style="color:black;">选择项1：增加全年龄模式！</span>'''''<br>
+'''''<span style="color:black;">选择项2：提供多人探索模式！</span>'''''<br>
+<span style="color:#4eb24e;">企业：</span><br>
+原来如此……这确实是个可行的方案。<br>
+<span style="color:#4eb24e;">维达号：</span><br>
+不管怎么改剧本，还请继续让二小姐留在房间里被游戏和可乐薯片包围！<br>
+————非常感谢！<br>
+<br>
+雨夜惊魂<br>
+<br>
+END<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
