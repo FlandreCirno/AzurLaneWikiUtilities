@@ -23,6 +23,7 @@
 莫里森 Bear-MKII
 英格拉罕 Ingraham
 布里斯托尔 Bristol
+拉菲II Laffey II
 布鲁克林 Brooklyn
 菲尼克斯 PhoenixBurn
 海伦娜 HelenaSG
@@ -43,6 +44,7 @@
 里诺 HerosAides
 马布尔黑德 Marblehead
 博伊西 USSBOISE
+休斯敦II Houston II
 北安普敦 Northampton
 波特兰 INDI_LOVE
 印第安纳波利斯 Indianapolis
@@ -54,6 +56,8 @@
 旧金山 HappyEveryDay!
 巴尔的摩 Justice_B
 布莱默顿 Bremerton
+路易斯维尔 Louisville
+星座 Constellation
 内华达 Nevada
 俄克拉荷马 Oklahoma
 宾夕法尼亚 Pennsylvania
@@ -66,6 +70,7 @@
 博格 Bogue
 卡萨布兰卡 Casablanca
 兰利 Langley
+列克星敦 Lexington
 萨拉托加 SisterSara
 约克城 YorkTown
 企业 Enterprise
@@ -76,11 +81,14 @@
 提康德罗加 Ticonderoga
 独立 Independence
 普林斯顿 Princeton
+圣哈辛托 San Jacinto
 香格里拉 Shangri-La
 大青花鱼 G_Albacore
 棘鳍 Cavalla
 射水鱼 CharmArcher
+松鲷 Flasher
 女灶神 Vestal
+关岛 Guam
 佐治亚 GA@ColaLove
 安克雷奇 Anchorage
 女将 ThornyA
@@ -98,6 +106,7 @@
 贾维斯 Jervis
 雅努斯 Janus
 英雄 Hero
+阿贾克斯 Ajax
 黛朵 Dido_Doll
 南安普顿 MINAMIpton
 谢菲尔德 ShiningS
