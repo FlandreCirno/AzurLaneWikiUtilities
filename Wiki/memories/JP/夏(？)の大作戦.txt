@@ -101,20 +101,20 @@
 その五 お誘い<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 と、殿様！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …？<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 す、水泳大会に行きませんか！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……！？<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 実は……<br>
 だから…気合の鍛錬のために、一緒に参加してほしいです！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 だ、だめですか…せっかく殿様が贈ってくれた水着まで用意したのに……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （ぺこり）<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 いいんですか？！えへへ…じゃあ、あとで日向さんたちの所に行きましょう！<br>
@@ -133,13 +133,13 @@
 うおおおおおお！サラトガ殿！こここ、今度こそ絶対に負けないぞ！<br>
 <span style="color:#4eb24e;">サラトガ：</span><br>
 は、はくしょん！！なな、なんでサラトガちゃんがこんな罰ゲームみたいな大会に参加しなきゃならないのー！！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 ……<br>
 寒そう…ですね…<br>
 や、やっぱり別の運動にしませんか…？あまり健康にはよくなさそうですぅ…殿様？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （ぺこり）<br>
 {{折叠面板|内容结束}}
 
@@ -151,18 +151,18 @@
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 ふは～生き返りました～<br>
 えへへ、やっぱり冬は温泉ですね～<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 た、鍛錬は……また夏になるまで……<br>
 もしかして…殿様は山城と一緒に温泉に入りたくなかったですか？？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！（ぶんぶん）<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 えへへ…殿様が贈ってくれた水着、ずっと大切にしていますよ？<br>
 ここに来るまで、辛いことや悩んじゃったことも、たくさんあったけど…<br>
 みんなと、殿様と一緒なら…きっと大丈夫です！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 …これからもよろしくお願いします♪　と・の・さ・ま♪<br>

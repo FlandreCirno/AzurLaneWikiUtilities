@@ -49,20 +49,20 @@
 <span style="color:#4eb24e;">一本正经的KP：</span><br>
 基础说明就到这里吧，剩下的可以请指挥官……不，请调查员在古堡中身临其境的体会。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-需要过检定的时候，记得找{namecode:22:雪风}大人扔骰子哦~<br>
+需要过检定的时候，记得找{{AF|雪风}}大人扔骰子哦~<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 不对吧！我们明明说好根据实际情况交替来掷骰的！<br>
 <span style="color:#4eb24e;">皇家顾问KP：</span><br>
 没错。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-所以说为什么呀！{namecode:22:雪风}大人的运气那么好，最适合来扔骰子吧！<br>
+所以说为什么呀！{{AF|雪风}}大人的运气那么好，最适合来扔骰子吧！<br>
 <span style="color:#4eb24e;">代理KP：</span><br>
 这就是，不能让你多扔骰子的原因。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 1、2、3、4、5、6、7……还真是豪华的幕后团队。<br>
 <span style="color:#4eb24e;">代理KP：</span><br>
-其实{namecode:428:欧根}和皇家财富小姐也参与了剧本设计。<br>
-只不过她们现在……不提也罢。{namecode:428:欧根}发消息来催了，差不多该开场了。<br>
+其实{{AF|欧根}}和皇家财富小姐也参与了剧本设计。<br>
+只不过她们现在……不提也罢。{{AF|欧根}}发消息来催了，差不多该开场了。<br>
 <span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
 等、等等！我还有最后一句补充说明！<br>
 在调查过程中一定记着把对讲机带着！<br>
@@ -223,7 +223,7 @@ BE-01-好奇心害死猫<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 原来刚才那个是暗示吗？那调查员的死亡原因是什么？<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-哼哼，这个结局可是{namecode:22:雪风}大人设计的！其实，死亡原因是——<br>
+哼哼，这个结局可是{{AF|雪风}}大人设计的！其实，死亡原因是——<br>
 <span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
 死因是未知哦~我们也不知道呢~<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
@@ -310,9 +310,9 @@ BE-01-好奇心害死猫<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
 （d100=1）——大成功哦！你成功发现隐藏在房间装潢中的秘密！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-{namecode:22:雪风}的运势真是名不虚传！<br>
+{{AF|雪风}}的运势真是名不虚传！<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-呼呼呼~再多夸夸{namecode:22:雪风}大人也是可以的哦！<br>
+呼呼呼~再多夸夸{{AF|雪风}}大人也是可以的哦！<br>
 <span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
 在这里大成功了啊……唔……<br>
 咳咳……就在这时，一些零碎的文字闯进了你的脑海中。<br>
@@ -536,7 +536,7 @@ BE-02-美丽的婚纱<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 我还以为跟大小姐走能获得什么新线索呢。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-喂……下雨天穿着婚纱在阴森古堡里晃悠的大小姐，就连{namecode:22:雪风}大人都能感觉到不对劲哦！<br>
+喂……下雨天穿着婚纱在阴森古堡里晃悠的大小姐，就连{{AF|雪风}}大人都能感觉到不对劲哦！<br>
 <span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
 对啊对啊，我都设计的那么明显了！<br>
 之前的小雕像，还有她一直问有关神秘学的事情其实也都是提示哦！<br>
@@ -694,9 +694,9 @@ Chapter-2-枪与管家<br>
 <span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
 等等，别忘了这里要过一个检定哦！<br>
 <span style="color:#4eb24e;">皇家顾问KP：</span><br>
-{namecode:22:雪风}，你来投。<br>
+{{AF|雪风}}，你来投。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！<br>
+{{AF|雪风}}大人的投掷结果是——（d100=1）大成功！<br>
 <span style="color:#4eb24e;">皇家顾问KP：</span><br>
 很好。调查员注意到，这是一支采用了红木握把并雕刻了精致花纹的柯尔特M1873单动式转轮手枪。<br>
 柯尔特公司在1873年设计制造出了这款M1873单动式左轮枪。<br>
@@ -783,9 +783,9 @@ Chapter-2-枪与管家<br>
 调查员，你已成功回忆起基础属性：敏捷，数值：70。请问这里要进行一个敏捷判定么？<br>
 如果是大成功的话，就可以安然通过哦！<br>
 <br>
-'''''<span style="color:black;">选择项1：我点名让{namecode:22:雪风}来投！</span>'''''<br>
+'''''<span style="color:black;">选择项1：我点名让{{AF|雪风}}来投！</span>'''''<br>
 <span style="color:#ff9b93;">运势高涨的KP大人：</span><br>
-{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！<br>
+{{AF|雪风}}大人的投掷结果是——（d100=1）大成功！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 看来我命不该绝！3、2、1——跑！<br>
 <span style="color:#ff9b93;">皇家顾问KP：</span><br>
@@ -1051,12 +1051,12 @@ Chapter-3-恰似故人<br>
 我……<br>
 <span style="color:#ff9b93;">运势高涨的KP大人：</span><br>
 调查员似乎想要用力甩开这只拉住你的手呢~<br>
-如此紧急的时刻，要申请过力量检定吗？{namecode:22:雪风}大人可以来给你再投一次哦~<br>
+如此紧急的时刻，要申请过力量检定吗？{{AF|雪风}}大人可以来给你再投一次哦~<br>
 <br>
 '''''<span style="color:black;">选择项1：请务必！</span>'''''<br>
 '''''<span style="color:black;">选择项2：投投投！</span>'''''<br>
 <span style="color:#ff9b93;">运势高涨的KP大人：</span><br>
-{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！<br>
+{{AF|雪风}}大人的投掷结果是——（d100=1）大成功！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 太好了！<br>
 <span style="color:#ff9b93;">文学少女KP：</span><br>
@@ -1086,10 +1086,10 @@ BE-04-饕餮盛宴<br>
 所以……最后我是从字面意义上被厨师长享用掉了？<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 嘿嘿，没错哦~<br>
-当初设计的时候，{namecode:428:欧根}小姐说这个结局代表了疯狂、沉重且专一的爱，{namecode:401:Z2}小姐也表示认同。<br>
+当初设计的时候，{{AF|欧根}}小姐也表示认同。<br>
 所以最后就这么定下来了哦~<br>
 <span style="color:#4eb24e;">代理KP：</span><br>
-不……与我无关。主要还是{namecode:428:欧根}那么兴致勃勃……<br>
+不……与我无关。主要还是{{AF|欧根}}那么兴致勃勃……<br>
 <br>
 '''''<span style="color:black;">选择项1：好恐怖，下次能不能全年龄一些！</span>'''''<br>
 '''''<span style="color:black;">选择项2：好刺激的结局，请来更多！</span>'''''<br>
@@ -1125,7 +1125,7 @@ BE-04-饕餮盛宴<br>
 '''''<span style="color:black;">（选择项1）</span>'''''我、嗯、那个，我不能随意妄论主人家的事情。<br>
 '''''<span style="color:black;">（选择项1）</span>'''''是我失言了，我先不打扰您工作了，等您结束后我再来收拾餐厅。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项2）</span>'''''（虽然有魅惑术，但{namecode:428:欧根}设计了技能，又设计了剧本，总有种不好的预感……）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（虽然有魅惑术，但{{AF|欧根}}设计了技能，又设计了剧本，总有种不好的预感……）<br>
 '''''<span style="color:black;">（选择项2）</span>'''''（高达90的智力应该也能想到拿到钥匙的方法。）<br>
 '''''<span style="color:black;">（选择项2）</span>'''''我申请进行智力检定，寻找除了魅惑术之外，其它拿到钥匙的办法！<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
@@ -1239,7 +1239,7 @@ Chapter-4-秘密谈话<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 你开始着手制作陷阱，虽然你的手艺还不够熟练，但是你完全相信这个多次救你于水火的技能。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-（d100=1）——{namecode:22:雪风}大人的投掷结果，依然是大成功哦！<br>
+（d100=1）——{{AF|雪风}}大人的投掷结果，依然是大成功哦！<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 ……好可怕！咳咳……这一次，你所拥有的技能依旧没有辜负你的期待。<br>
 你成功做出了一枚银光闪闪的炸弹，但是具体威力如何目前不得而知。<br>
@@ -1272,19 +1272,19 @@ Chapter-4-秘密谈话<br>
 <span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
 （d100=53），失败。由于技艺不精，第二颗子弹依旧没射中原定目标，不过它射穿了壁炉的挡板。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-……还有最后一发子弹，再进行一次射击检定！我申请让{namecode:22:雪风}KP来投！<br>
+……还有最后一发子弹，再进行一次射击检定！我申请让{{AF|雪风}}KP来投！<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-噢~看在你连续两次失败的份上，接下来就包在{namecode:22:雪风}大人身上吧~<br>
+噢~看在你连续两次失败的份上，接下来就包在{{AF|雪风}}大人身上吧~<br>
 <span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
-等等……如果让{namecode:22:雪风}来投的话，岂不就会……<br>
+等等……如果让{{AF|雪风}}来投的话，岂不就会……<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-{namecode:22:雪风}大人的投掷结果是——（d100=1）大成功！子弹成功命中了炸弹并引发了爆炸！<br>
+{{AF|雪风}}大人的投掷结果是——（d100=1）大成功！子弹成功命中了炸弹并引发了爆炸！<br>
 <br>
 '''''<span style="color:black;">选择项1：太好了！</span>'''''<br>
-'''''<span style="color:black;">选择项2：不愧是{namecode:22:雪风}大人！</span>'''''<br>
+'''''<span style="color:black;">选择项2：不愧是{{AF|雪风}}大人！</span>'''''<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
 哼哼，接下来要进行爆炸的威力判定。<br>
-{namecode:22:雪风}大人的投掷结果是——（d100=1），依然是大成功！<br>
+{{AF|雪风}}大人的投掷结果是——（d100=1），依然是大成功！<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 哇……这样岂不是就达成了？！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -1311,7 +1311,7 @@ BE-05-今夜，无人生还<br>
 …………没想到这样都能触发死亡结局。<br>
 所以埃塞克斯……你是从中途就发现不妙了么。<br>
 <span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
-嗯……从你让{namecode:22:雪风}投骰开始。<br>
+嗯……从你让{{AF|雪风}}投骰开始。<br>
 <span style="color:#4eb24e;">传奇调查员KP（自称）：</span><br>
 真不愧是指挥官啊，这个结局超难触发的！<br>
 首先，这个结局必须要成功制作出威力最大的炸弹，然后还要想到用枪去引爆炸弹！<br>
@@ -1441,7 +1441,7 @@ Chapter-5-勋爵之女<br>
 从那几张熟悉的面孔上不难看出，这便是布莱克姐妹以及厨师长和女仆长年幼时候的样子。<br>
 至于那名女士……从相似的面容中你推测出，这或许就是已故的勋爵夫人。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-……这个“勋爵夫人”，怎么看都是{namecode:199:新泽西}扮演的吧！<br>
+……这个“勋爵夫人”，怎么看都是{{AF|新泽西}}扮演的吧！<br>
 <span style="color:#4eb24e;">一本正经的后辈KP：</span><br>
 嗯……因为那天我们商量剧本的时候被她听到了，然后她无论如何也想来一起玩。<br>
 咳，不过这不重要。你注意到照片中的几名少女举止亲密，这一点让你产生了微妙的违和感。<br>
@@ -1521,7 +1521,7 @@ Chapter-5-勋爵之女<br>
 <span style="color:#4eb24e;">古堡二小姐：</span><br>
 你怎么觉得我会帮你拿钥匙呢？对你态度好只是为了劝你离开，别以为我会帮你。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-看来只能顺着{namecode:428:欧根}的恶趣味……试试用魅惑术进行交涉了。<br>
+看来只能顺着{{AF|欧根}}的恶趣味……试试用魅惑术进行交涉了。<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 于是，调查员使用魅惑术成功进入了收藏室。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -1886,7 +1886,7 @@ BE-07-非请莫入<br>
 在调查员触摸到木箱的那一刻，往日的记忆涌入了脑海！<br>
 你回忆起了自己曾经最擅长的技能：投掷，熟练程度：精通。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-哇哦……终于解锁{namecode:22:雪风}大人设计的技能了。<br>
+哇哦……终于解锁{{AF|雪风}}大人设计的技能了。<br>
 （d100=1）——投掷判定大成功！<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 你抓住手边的木箱，向后用力扔去。一片黑暗之中，你的木箱并没有直接命中追击而来的人，而是命中了一旁的杂物山。<br>
@@ -2084,7 +2084,7 @@ Chapter-7-雾月星光<br>
 下定决心后，你决定主动驱逐这个还未成型的恐怖实体，完成对于二小姐和女仆长的承诺，结束古堡中发生的一切。<br>
 你将提灯的亮度开到最大，然后用尽全力将护符扔了出去。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-（d100=1）投掷检定大成功！指挥官，借助{namecode:22:雪风}大人的好运消灭祂吧——！<br>
+（d100=1）投掷检定大成功！指挥官，借助{{AF|雪风}}大人的好运消灭祂吧——！<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 护符在接触到邪神的幻影后迸发出猛烈的爆炸，你手中的提灯也在此刻爆发出刺眼的金色光芒。<br>
 你同时感受到了难以言说的痛苦、绝望、死亡、不安与……一抹嘲弄。<br>
@@ -2204,7 +2204,7 @@ TE-真爱永恒<br>
 下定决心后，你决定主动驱逐这个还未成型的恐怖实体，完成对于二小姐和女仆长的承诺，结束古堡中发生的一切。<br>
 你将提灯的亮度开到最大，然后用尽全力将护符扔了出去。<br>
 <span style="color:#4eb24e;">运势高涨的KP大人：</span><br>
-（d100=1）投掷检定大成功！指挥官，借助{namecode:22:雪风}大人的好运消灭祂吧——！<br>
+（d100=1）投掷检定大成功！指挥官，借助{{AF|雪风}}大人的好运消灭祂吧——！<br>
 <span style="color:#4eb24e;">文学少女KP：</span><br>
 护符在接触到邪神的幻影后迸发出猛烈的爆炸，你手中的提灯也在此刻爆发出刺眼的金色光芒。<br>
 你同时感受到了难以言说的痛苦，绝望，死亡，不安与……一丝欣慰。<br>
@@ -2245,7 +2245,7 @@ HE-晴空之下<br>
 <span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
 我在机关室也笑得很厉害哦，花时间设计这个剧本也算物有所值了。<br>
 <span style="color:#4eb24e;">{{AF|雪风}}：</span><br>
-所以说，都让{namecode:22:雪风}大人来扔骰子就好啦！<br>
+所以说，都让{{AF|雪风}}大人来扔骰子就好啦！<br>
 <span style="color:#4eb24e;">{{AF|Z2}}：</span><br>
 不行，那样会破坏游戏平衡。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>

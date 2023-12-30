@@ -101,20 +101,20 @@ Winter Offensive<br>
 Chapter 5 - The Invitation<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 M-Milord!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Hmm?<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 L-Let's go swimming together!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 What...?!<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 Actually, umm...<br>
 So that's why... we should all participate together! No guts, no glory!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 Y-you don't wanna? I even took out the swimsuit that you gave me, Milord...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 *nods* ...!<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 Really?! Ehehe... In that case, let's go check on Hyuuga and the others!<br>
@@ -133,13 +133,13 @@ S-See? A-A-A-All you n-n-need is g-guts and w-winter doesn't stand a ch-chance!<
 Nooooooo! M-Miss Saratoga! N-N-Next time, I won't lose to you again!<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Ah... Achoo!! Wh-why did I agree to participate in this meet in this first place...? It's practically hazing!!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 ……<br>
 You seem... pretty cold...<br>
 M-Maybe we should find some other kind of training...? This doesn't seem very healthy. Don't you agree, Milord?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 *nods*<br>
 {{折叠面板|内容结束}}
 
@@ -151,18 +151,18 @@ Chapter 7 - Hot Springs Offensive!<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 Fwaahh... I can feel my hitpoints recovering~!<br>
 Heehee, nothing beats a soak in the hot springs during the winter!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 But what about training?<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 T-training? Can't that wait 'til summer...?<br>
 Milord, perhaps you don't like being in the hot springs with me?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 That's not it!!<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 Ehehe... Did you know? I've always treasured that swimsuit that you bought for me~<br>
 We've had to endure a whole lot of hardships up until now, and surely... more will await us in the future...<br>
 But as long as we're all together, we can accomplish anything!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 That's right!<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 So... please continue to guide us forward, Milord~!<br>

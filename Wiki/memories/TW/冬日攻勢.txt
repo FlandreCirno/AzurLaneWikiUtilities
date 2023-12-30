@@ -101,20 +101,20 @@
 五 邀請<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 殿、殿下！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …？<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 一、一起去游泳吧！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……？！<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 其實是……<br>
 所以…要一起去鍛煉一下氣魄嗎！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 不、不行？難得把殿下送的泳裝都拿出來了……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！（點頭）<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 可以嗎？！欸嘿嘿…那就去{namecode:77}她們開游泳大會的地方看看吧～<br>
@@ -133,13 +133,13 @@
 努喔喔哦喔喔！這次在下絕對不會輸給妳了！薩拉托加小姐！！<br>
 <span style="color:#4eb24e;">薩拉托加：</span><br>
 嗚嗚嗚嗚嗚…為為為什麼薩拉托加要來參加這種懲罰遊戲一樣的比賽啦！！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 ……<br>
 看上去…很冷呢…<br>
 果、果然還是換個鍛煉方式吧？看上去對健康並不怎麼好呢，殿下？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……（點頭）<br>
 {{折叠面板|内容结束}}
 
@@ -151,18 +151,18 @@
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 呼哈～～復活了復活了～～<br>
 嘻嘻，果然冬天還是更適合溫泉呢～<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 鍛、鍛煉？那種事還是等到夏天再……<br>
 還是說…殿、殿下不喜歡和我一起泡溫泉呢？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！（搖頭）<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 嘿嘿…殿下送的泳裝，{namecode:79}一直很珍惜地收著唷～<br>
 雖然還有很多辛苦的事、讓人難過的事…<br>
 但是只要能和大家、和殿下像這樣在一起…就感覺什麼都不是問題了呢！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 從今往後也請多多關照了哦？殿～下～<br>

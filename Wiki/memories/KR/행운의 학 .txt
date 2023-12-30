@@ -6,6 +6,7 @@
 <br>
 1 {namecode:96}의 아침<br>
 보통 이 시간이면 비서함인 {namecode:96}가 아침 보고를 하러 왔을텐데...그런데 오늘은 아직 오지 않았다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：사쿠라 엠파이어 항공모함 숙소에 가보자</span>'''''<br>
@@ -89,7 +90,7 @@
 <span style="color:#92fc63;">{namecode:92}：</span><br>
 언니...콜록...{namecode:91}, 지휘관 귀찮게 하지 말라구요.<br>
 {namecode:96}너도 비서함의 책무를 다 해야지...자, {namecode:91} 너 먼저 가.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:96}：</span><br>
 지휘관, 아카기선배 갔어.<br>
@@ -135,7 +136,7 @@
 그레이 고스트를 뛰어넘는 것 말고도 {namecode:95}와 사쿠라 엠파이어의 가족들, 항구의 동료들, 인류의 세계, 심지어 지휘관까지 다 혼자 짊어지려고 하고 있지.<br>
 지휘관, 저 아이의 선배로서...부탁이 있어. 네 부하가 아니라 개인 대 개인으로서의 부탁이야.<br>
 만약 저 아이가 책임에 짓눌려서 스스로 제어를 할 수 없게 되면...지휘관이 곁에서 지탱해줘.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:82}：</span><br>
 후훗...그 대답 기억해 두겠어. {namecode:96}를 잘 부탁해.<br>
@@ -160,7 +161,7 @@
 닭고기 옆에 놓인 튀김은 설마 숨겨진 밑반찬인가?<br>
 <span style="color:#92fc63;">{namecode:96}：</span><br>
 어때?？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：맛있어</span>'''''<br>
@@ -215,7 +216,7 @@
 지휘실·심야<br>
 <span style="color:#92fc63;">{namecode:96}：</span><br>
 지휘관은 역시 {namecode:95}언니가 준비한...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：{namecode:96}를 부른다</span>'''''<br>

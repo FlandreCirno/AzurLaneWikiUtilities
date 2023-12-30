@@ -6,6 +6,7 @@
 <br>
 一  {namecode:96}的早晨<br>
 往常的這個時間，作為秘書艦的{namecode:96}應該已經前來進行早晨的報告了。不過今天…似乎還沒來的樣子<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：去重櫻航母宿舍看看</span>'''''<br>
@@ -89,7 +90,7 @@
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 姐…咳咳、{namecode:91}，別給指揮官添太多麻煩<br>
 {namecode:96}妳也是，要好好盡到秘書艦的職責…好了，{namecode:91}，妳先走吧<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官，{namecode:91}前輩已經走了哦<br>
@@ -135,7 +136,7 @@
 不只是超越灰色幽靈這件事，對{namecode:95}和重櫻的同伴、港區的同伴們、人類的世界、甚至還有指揮官你——都想要獨自背負<br>
 指揮官，作為那孩子的前輩…我有個請求，不是作為您的部下，僅僅是個人的請求<br>
 如果有一天，那孩子被責任所壓垮，撐不住了的話……希望指揮官能在她身邊，與她一起支撐下去<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 ……呵呵，你的回答，我會記著的。{namecode:96}就拜託你了啊<br>
@@ -160,7 +161,7 @@
 雞塊旁邊偷偷放著的天婦羅莫非是隱藏的小菜？<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 怎麼樣？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：很好吃</span>'''''<br>
@@ -215,7 +216,7 @@
 指揮室·深夜<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官果然…還是選了{namecode:95}姐準備的……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：叫住{namecode:96}</span>'''''<br>

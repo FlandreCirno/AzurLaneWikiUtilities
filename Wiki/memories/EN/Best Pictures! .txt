@@ -100,7 +100,7 @@ To make it up, let me get you a new round of drinks, hang on tight!<br>
 Ah, umm, we'll come help ya out!<br>
 <span style="color:#4eb24e;">Saratoga：</span><br>
 Appreciate it! Wait, Commander, that one's gaso- I mean, it's squid ink! Remember to brush your teeth afterwards!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ... Right...<br>
 Now that I think about it, that explains the terrible, no-fun morning I had that other day...<br>
 {{折叠面板|内容结束}}

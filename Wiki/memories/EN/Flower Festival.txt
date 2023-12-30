@@ -194,16 +194,16 @@ Chapter 7 - Private Time<br>
 The banquet was wonderful, but I felt rather lonely when it had ended and everyone went home...<br>
 Oh, is that you, Commander? I thought you had already gone to sleep...<br>
 Would you like to... see the moonlit cherry trees, together with me?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (Nod)<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 Ahaha... I see. Then please wait a moment while I get ready.<br>
 Oh, my beloved, please allow me to accompany you to see the cherry trees tonight.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (Gulp!)<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 Do you like my look? ...Does it excite you, Commander?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 !!!<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 It is an honor to be admired by you, Commander...<br>

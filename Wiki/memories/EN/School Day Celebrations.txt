@@ -107,7 +107,7 @@ Hmm, I can finally relax...<br>
 Whines...shoulder pain...<br>
 It's Teddy, Teddy. Look!~<br>
 Today's lunch bento was prepared with love by Helena~<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：Say hello</span>'''''<br>
@@ -116,7 +116,7 @@ Today's lunch bento was prepared with love by Helena~<br>
 Let's enjoy this wonderful lunch together, Teddy. I'm gonna start — —<br>
 Oh wow!<br>
 C-Commander, Wh-when did you get there?!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项3：Speaking with Teddy</span>'''''<br>
@@ -125,12 +125,12 @@ Wow, wow, wow, wow! Y-you must've heard wrong! I, I didn't talk with Teddy...<br
 Whines... I just feel that everyone in class will subconsciously notice there...<br>
 When it comes to "shoulder soreness", I always catch wandering eyes...especially from those troublemaker students...<br>
 It's not as if I wanted it this big!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">Honolulu：</span><br>
 Confidence? This is my best trait?<br>
 O-Only Commander will say something like this...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">Honolulu：</span><br>
 Let's eat lunch together? Since...since you graciously asked...<br>
@@ -156,8 +156,9 @@ I was chasing the sound, but then...there was nothing there!<br>
 And the sound came from somewhere else instead!<br>
 <span style="color:#4eb24e;">Craven&{namecode:2}：</span><br>
 It must be the "Fairy of the library"! Commander!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
+<br>
 My investigations for the truth led me to the library...<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 Tsk tsk...why doesn't that girl come to school with me.<br>
@@ -165,7 +166,7 @@ She says she’s a maid for the Queen..well, so am I…<br>
 It's no fun without her...<br>
 Thank goodness the school got this library~~<br>
 It's quiet.. spacious... and occasionally I can tease the girls borrowing books, hehehe — —<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项2：Sneaking up to the sound</span>'''''<br>
@@ -184,7 +185,7 @@ So "Fairy of the library" is actually Edinburgh~~<br>
 Great, fantastic... so it's not something scary after all...<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 Whines~~ Sorry...I just thought what I did  was funny...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">Edinburgh：</span><br>
 Y-you want to tell Belfast? No, just leave it, please. Whines — —<br>
@@ -196,29 +197,31 @@ School Day Celebrations<br>
 <br>
  V   「Astonishingly Empty Classroom」 <br>
 After school, school hallways<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (I received a report about strange activities in an empty classroom...)<br>
+<br>
 ~scratch~scratch~<br>
 <span style="color:#4eb24e;">???：</span><br>
 Meow Meow...stop messing around...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：Opens the classroom door</span>'''''<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
 Eh...? C-Commander?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
 Eldridge...is not causing mischief...<br>
 Eldridge likes… this empty classroom... she is staying...<br>
 But Meow Meow...it’s always a mess with these books...Commander?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：Helps pack these books</span>'''''<br>
 <span style="color:#4eb24e;">Eldridge：</span><br>
 Thank you Commander...Meow Meow...remember to say thanks~<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：Is school interesting?</span>'''''<br>
@@ -226,8 +229,9 @@ Thank you Commander...Meow Meow...remember to say thanks~<br>
 School, without the Commander, interesting...<br>
 Everyone at school gets charmed by Eldridge’s cute gaze... Eldridge is shining!<br>
 Commander, do you want to listen to music...with Eldridge?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
+<br>
 Spent some healing time together with Eldridge and ...Meow Meow...<br>
 {{折叠面板|内容结束}}
 
@@ -278,13 +282,13 @@ School Day Celebrations<br>
 Whines... I can't believe big sis' lecture is taking this long...<br>
 <span style="color:#4eb24e;">Leberecht Maass (Z1)：</span><br>
 I-I won't dare to provoke those taskmaster girls in the future...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:94}：</span><br>
 Oh! It's the Commander!<br>
 <span style="color:#4eb24e;">Leberecht Maass (Z1)：</span><br>
 Oh? This is rare. Commander is visiting the campus~~<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">Leberecht Maass (Z1)：</span><br>
 Is school interesting? Of course it's interesting!<br>
@@ -294,7 +298,7 @@ Besides that, we can improve our skills at school.<br>
 So the bully girl talks like a school girl now?<br>
 <span style="color:#4eb24e;">{namecode:94}：</span><br>
 Ahhhh, I accidentally....<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：Bully girl?</span>'''''<br>
@@ -340,7 +344,7 @@ Hmm?<br>
 N-nothing!<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 Whines... as a taskmaster girl and your sister, I feel helpless — —<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：Everyone, let's all make the most of the new semester!</span>'''''<br>

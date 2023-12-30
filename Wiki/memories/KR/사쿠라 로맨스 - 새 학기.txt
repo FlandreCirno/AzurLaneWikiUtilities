@@ -105,7 +105,7 @@ Z~1~선~배~!!<br>
 어깨 뭉친 거 같아…<br>
 곰돌아 곰돌아, 봐봐~<br>
 오늘 점심은 헬레나가 준비해 준 도시락이야~<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：인사를 한다.</span>'''''<br>
@@ -114,7 +114,7 @@ Z~1~선~배~!!<br>
 즐거운 점심시간의 시작이네요~ 자~ 곰돌아 같이 하자, 잘 먹겠습니다~♪<br>
 앗.<br>
 지, 지휘관?! 언제부터 거기에?!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项3：곰돌이랑 이야기할 때부터……</span>'''''<br>
@@ -123,12 +123,12 @@ Z~1~선~배~!!<br>
 우으…교실에 있으면 왠지 다른 아이들 눈에 안 띌 거 같아서……<br>
 어깨 아프네 뭐네 얘기하면 애들이 이상한 눈으로 바라보고…특히 구축함 애들……<br>
 딱히 나라고 좋아서 큰 건 아닌데……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">호놀룰루：</span><br>
 이건 장점이니까…좀 더 자신을 가지라고?<br>
 하아……그렇게 서투르게 위로 해주는 건 지휘관 뿐이라고……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">호놀룰루：</span><br>
 같이 점심? 뭐, 뭐어…모처럼 지휘관도 와 줬으니…<br>
@@ -154,8 +154,9 @@ Z~1~선~배~!!<br>
 그런줄 알았는데 또 다른 장소에서 목소리가 들린다던지…<br>
 <span style="color:#92fc63;">크레이븐&{namecode:2}：</span><br>
 '도서관의 요정' 이 틀림없어요! 지휘관!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
+<br>
 이렇게 된 계기로, 도서관에 오게 되었습니다.<br>
 <span style="color:#92fc63;">？？？：</span><br>
 왜 그 녀석은 나랑 같이 학교에 오지 않는 거야!<br>
@@ -163,7 +164,7 @@ Z~1~선~배~!!<br>
 역시 그 녀석이 없으면 재미가 없는 걸…<br>
 뭐, 이 도서관에 오게 된 게 불행 중 다행이려나…<br>
 조용하고 넓고, 가끔 오는 구축함들을 놀려주는 것도 재미있고...후후훗<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……！<br>
 <br>
 '''''<span style="color:black;">选择项2：목소리가 들리는 곳에 조용히 접근한다</span>'''''<br>
@@ -182,7 +183,7 @@ Z~1~선~배~!!<br>
 다, 다행이다... 무서운 게 아니라서…<br>
 <span style="color:#92fc63;">에든버러：</span><br>
 미안해요... 재밌어 보여서 그만……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">에든버러：</span><br>
 벨파스트한테 솔직히 얘기하라고요?! 그, 그것만은 제발~!!<br>
@@ -194,29 +195,31 @@ Z~1~선~배~!!<br>
 <br>
 제5장　빈 교실의 불가사의<br>
 방과후, 학교 복도<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (빈 교실에 뭔가 기묘한 게 있다는 보고를 받았다…)<br>
+<br>
 찌릿찌릿<br>
 <span style="color:#92fc63;">???：</span><br>
 야옹이...민폐를 끼치면 안 돼……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：교실 문을 연다.</span>'''''<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 지휘..관..?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 엘드릿지... 얌전히 있었어……<br>
 아무도 없는 교실에서 멍하니 가만히…<br>
 야옹이... 교과서를 어질러놨어... 지휘관?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：교과서를 정리한다	</span>'''''<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 지휘관, 고마워... 야옹이도 사과해…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1："학교 재밌어?" 라고 물어본다</span>'''''<br>
@@ -224,8 +227,9 @@ Z~1~선~배~!!<br>
 학교... 지휘관은 없지만, 재밌어…<br>
 모두, 엘드릿지가 찌릿찌릿하는 걸 좋아해…엘드릿지, 즐거워……<br>
 지휘관, 엘드릿지와... 음악, 들을래?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
+<br>
 엘드릿지, 그리고 수수께끼의 고양이와 함께 시간을 보내니, 마음이 치유되는 것만 같다……<br>
 {{折叠面板|内容结束}}
 
@@ -276,13 +280,13 @@ HR이 끝나면 설교가 있을 테니, 마음 단단히 먹고 오세요!<br>
 서, 설마 진짜로 이렇게 긴 시간동안 설교당할 줄은…<br>
 <span style="color:#92fc63;">Z1：</span><br>
 그, 그러게... 앞으로 선도부장을 만만히 보면 안 되겠어...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:94}：</span><br>
 아! 지휘관!<br>
 <span style="color:#92fc63;">Z1：</span><br>
 얼레? 드문 일이네. 학교 견학온 거야?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">Z1：</span><br>
 학교가 재밌냐고? 흠, 당연히 재밌지.<br>
@@ -292,7 +296,7 @@ HR이 끝나면 설교가 있을 테니, 마음 단단히 먹고 오세요!<br>
 어... 방금 그 말, '불량학생' 역할이 할 대사 같진 않았어.<br>
 <span style="color:#92fc63;">{namecode:94}：</span><br>
 아참! 죄송합니다, 그만…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1： '불량학생' 역할?</span>'''''<br>
@@ -338,7 +342,7 @@ HR이 끝나면 설교가 있을 테니, 마음 단단히 먹고 오세요!<br>
 아뇨! 아무 일도 아닙니닷!<br>
 <span style="color:#92fc63;">{namecode:93}：</span><br>
 하아... 선도부장인 내 입장도 좀 생각해주면 좋으련만……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：새 학기는 새로운 마음으로 모두 힘내자고요!</span>'''''<br>

@@ -202,8 +202,9 @@
 {namecode:91}一邊說著一邊將身體靠了過來，接著——<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 ……（舔）……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …………！？<br>
+<br>
 {namecode:91}用嘴含住了被刀切到的手指。<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 {namecode:91}絕不會……傷害指揮官。就算指揮官成為了我的敵人——  <br>
@@ -219,7 +220,7 @@
 <br>
 '''''<span style="color:black;">选择项1：閉上眼睛</span>'''''<br>
 '''''<span style="color:black;">选择项2：告訴{namecode:91}希望她能依靠我</span>'''''<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项1）</span>'''''……<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''——指揮官不只是想依靠{namecode:91}，“也想被{namecode:91}依靠”……<br>

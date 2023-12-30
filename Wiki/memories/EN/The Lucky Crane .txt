@@ -7,6 +7,7 @@ The Lucky Crane<br>
 Chapter 1 - Zuikaku In The Morning<br>
 Port - Early morning<br>
 My secretary, Zuikaku, would usually come to my office and give me a report at this time of day, but it seems she's not here yet.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ......<br>
 <br>
 '''''<span style="color:black;">选择项1：Head to the dorm to check on Zuikaku</span>'''''<br>
@@ -94,7 +95,7 @@ Ah, you see, the Commander gets very shy when Akagi is around. *Giggle*... I sha
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 Bootl... *Ahem*, Akagi, please try not to inconvenience the Commander too much.<br>
 That goes for you too, Zuikaku. You're the secretary, so do your job right... Now, Akagi, after you.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ......<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 Hey, Commander, Akagi's left now.<br>
@@ -141,7 +142,7 @@ Zuikaku may not seem like it, but within her lies the strong desire to thoroughl
 Her desires go beyond merely wanting to surpass the Grey Ghost. She wants to shoulder the burdens of Shoukaku, her Sakura Empire brethren, the entire world, and even you, Commander.<br>
 Commander, I must ask a favor of you... A favor as Zuikaku's mentor, a favor as an individual...<br>
 If the burdens she carries grow too heavy... then I want you to be by her side and support her.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ......<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 ... Ahah, that's what I wanted to hear. You have my gratitude.<br>
@@ -167,7 +168,7 @@ The food itself certainly looked appetizing, but it was arranged rather casually
 It also looks like she hid some tempura next to the chicken nuggets. Maybe they were meant to be a surprise?<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 So, what do you think?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ......<br>
 <br>
 '''''<span style="color:black;">选择项1：It's delicious, like always</span>'''''<br>
@@ -222,7 +223,7 @@ Chapter 7 - The Indomitable Crane<br>
 Office - Past midnight<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 I'm sure... you'd prefer Shoukaku's snacks over mine anyway...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ......<br>
 <br>
 '''''<span style="color:black;">选择项1：Tell Zuikaku not to leave</span>'''''<br>

@@ -194,16 +194,16 @@
 呼…雖然宴會本身讓人開心，但宴會結束後的靜寂，總是讓人覺得有點落寞呢…<br>
 哎呀？指揮官老爺？您怎麼在這裡，還以為您早就休息了呢<br>
 難道是想要和我賞會夜櫻～？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …（點頭）<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 呵呵…既然如此，那請您稍等，讓我做點準備<br>
 「老爺，今夜能有幸與您共賞繁星嗎？」<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！！<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 如何，心動了嗎？指揮官老爺？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 呵呵，有您的讚賞，{namecode:89}就已經覺得滿足了呢<br>

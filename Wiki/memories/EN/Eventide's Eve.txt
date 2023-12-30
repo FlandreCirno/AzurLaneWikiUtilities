@@ -1,0 +1,557 @@
+== Eventide's Eve ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The Siege of Camelot|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+Scapa Flow Anchorage - Mirror Sea "Camelot"<br>
+Royal Navy Defense Fleet<br>
+KABOOOM!<br>
+Camelot – the hub for the Gate of Avalon, a transference device controlled by the Royal Navy.<br>
+The gateway was used to make first contact with two META shipgirls, as well as to seek out a cure for Hood. However, it also drew the attention of the terrifying and mysterious Bon Homme Richard.<br>
+And now, the Gate of Avalon has become besieged from all sides, artillery fire raining down upon what once was a fairytale paradise.<br>
+<span style="color:#ff9900;">Repulse META：</span><br>
+Sis, these ghostly, formless enemies...<br>
+Don't they look just like things Bon Homme Richard sent at us that other time?<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+Yes, that's what they remind me of, too.<br>
+Assuming they're the same... it didn't take long for that monster to find us.<br>
+The question is, how did they get inside this place?<br>
+They seemingly appeared out of thin air from within the Mirror Sea.<br>
+Repulse, the only way in and out of Camelot is through the gateway, is it not?<br>
+<span style="color:#ff9900;">Repulse META：</span><br>
+If you don't know, I sure as hell don't.<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+Hmm... I guess that's true.<br>
+<span style="color:#ff9900;">Repulse META：</span><br>
+By the way, is everything going well on your end?<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+Yeah, I'm cleaning up right now. They're pretty weak, but... they sure make up for it with sheer numbers.<br>
+Just holding our ground isn't enough to count as a win. We need to figure out where all these enemies came from, or the situation's only going to keep getting worse.<br>
+The longer this drags out, the worse shape we're going to be in. Also, has Queen Elizabeth responded to you yet?<br>
+<span style="color:#ff9900;">Repulse META：</span><br>
+I sent out an SOS, but I haven't heard anything back. I bet it's because their equipment is too primitive. I've been saying, they really should upgrade to Ashes-grade stuff.<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+And do you know how to make Ashes-grade equipment?<br>
+<span style="color:#ff9900;">Repulse META：</span><br>
+Do you? 'Cause if you don't know, I sure as hell don't.<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+Hmm... I guess that's true.<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Vanguard：</span><br>
+The cavalry has arrived! Renown, Repulse, we've got your backs!<br>
+<span style="color:#4eb24e;">Monarch：</span><br>
+Sorry to have kept you waiting.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+Better late than never, as they say! What's the current situation?<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+Y-Your Majesty!<br>
+Umm, to what do we owe the pleasure? Why did you come in person?<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+To see what's going on, obviously.<br>
+I received word that something was wrong with the gate, and then all communications went down right after that.<br>
+As the most knowledgeable person about this gate, if I don't do something about it, then who will?<br>
+In any case, I didn't realise the situation was this bad until I arrived here.<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+...Yes, I'm glad you at least didn't come alone this time.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+But of course. The Gate of Avalon is of critical importance, so we would spare no expense to ensure it continues running smoothly.<br>
+In fact, I would've brought more people if I could. Alas, this is all I could muster on such short notice.<br>
+But first, what exactly is going on here?<br>
+<span style="color:#ff9900;">Renown META：</span><br>
+The invaders themselves aren't particularly dangerous, but we don't know where they're coming from, or why they're attacking.<br>
+Judging by their appearances, they very much may be harbingers of that monster in the form of Bon Homme Richard.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+Yes, I suspect the same.<br>
+For better or worse, there's no sign of that black tornado we saw during our last encounter.<br>
+This might mean that she herself can't get to us so easily. Some external conditions may need to be met first.<br>
+Regardless – all ships, hurry to the gate!<br>
+We'll turn off the teleporter and put this Mirror Sea on lockdown. Be prepared to fall back and hold the castle, if need be.<br>
+In the event that Bon Homme Richard truly is attacking us, we must stop her here before she gets any farther.<br>
+<span style="color:#4eb24e;">Newcastle：</span><br>
+Your Majesty, a patch of sea fog has appeared in front of us, and it's rapidly expanding!<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+Sea fog...?<br>
+<br>
+KABOOOM!<br>
+<span style="color:#ff9900;">Repulse META：</span><br>
+Who's there?!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Eek! Pl-please don't shoot! I'm on your side!<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Teehee~ Royal Oak makes a great distraction for sneaking around and getting a backstab crit~<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Argus is present and prepared! Your Majesty, I'm glad to see you.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+As am I. Our whole fleet is here and ready to assist, Your Majesty.<br>
+Just say the word, and I'll deliver judgment to our foes.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+Implacable? Argus? And all the rest?<br>
+What is the meaning of this? How did you get here?<br>
+Last I heard, you were finishing up your investigation of the basilicas on the Kerguelen Islands!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well, we were, until we received your distress signal. You said you needed backup.<br>
+As for this sea fog... It's actually a microlayer transference device left behind by Compiler, so that's how we were able to come straight here.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+...Wait, back up! What do you mean by "distress signal"? I only just got here!<br>
+Then, there's the microlayer thing... How did you conveniently get your hands on Siren technology, and figure out how to use it so quickly?<br>
+In other words, who told you all this? Who helped you get here?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Who? Um...<br>
+You did, Your Majesty.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Morning Light Upon the Tundra|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Somewhere in Eastern Europa<br>
+Northern Parliament - Armored Train<br>
+Sovetsky Soyuz<br>
+The dull, rhythmic clunking of cold steel against the rail tracks lulled the train's passengers to sleep.<br>
+Among them, Sovetsky Soyuz. She closed her tired eyes and her consciousness slipped into darkness.<br>
+A black sun, quietly burning in the dusky sky.<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Where... am I? Is this a dream?<br>
+Wasn't I reading documents aboard the train just a moment ago?<br>
+Yes. I must've rested my eyes for a moment and fallen asleep.<br>
+<br>
+There was no one to answer Soyuz's questions. Only the black sun, burning silently overhead.<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+What a peculiar sun. I don't feel its warmth on my face.<br>
+If anything... its light feels like a cold, forlorn wind.<br>
+What IS this place?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▇▆▅■▎▃▌█▆▎▇█▎■▄▆▋▂▁▅▎▌█▊▇▊▇<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Who's there? Is that you, comrade Rossiya?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▅▁▂▋▄▊■▆▎▅▁▂▋▄▊■▆▎▇▆▅■<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+I didn't quite catch that. Could you say that again?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+......<br>
+<br>
+SCREEECH!<br>
+Its brakes flipped, the train ground to a shrill halt, pulling Soyuz from her dream.<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+The burning black sun and Rossiya, trying to tell me something... What a strange dream.<br>
+Did they show up in my dream because I have too much on my mind?<br>
+Whatever the case, I need to focus on the task in front of me. The sooner I can head back, the better...<br>
+<br>
+Sovetsky Soyuz put away the documents she was perusing, and prepared to get off the train.<br>
+So far, Operation Frostfall, the Northern Parliament's coalition operation, had been progressing smoothly.<br>
+This major assault centered around employing feint attacks on Siren positions, pushing the frontlines forward while searching for Omitter's critical weakness – her mainframe.<br>
+However, the situation changed when Clemenceau, the Tribunal's liaison with who Soyuz had secretly been in correspondence, provided an urgent update on the status of the ongoing blueprint ship project.<br>
+One of the Northern Parliament's shipyards involved in researching prototype armaments for this project had encountered unexpected delays, potentially jeopardizing the success of the entire project.<br>
+As a result, Soyuz passed the role of operation commander to her trusted comrade, and left to tackle this urgent problem herself.<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+Blueprint ship Champagne... You are a greatness waiting to be born.<br>
+<span style="color:#4eb24e;">Train PA System：</span><br>
+Comrade Sovetsky Soyuz, we have arrived at your destination. Please ensure you have all your documents and personal belongings with you.<br>
+Kronshtadt from the Intelligence Bureau is waiting for you.<br>
+<span style="color:#4eb24e;">Sovetsky Soyuz：</span><br>
+...The solution will present itself, in due time.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Lead to the Crown|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+A few days before the World Expo's closing<br>
+Saint Helena Island - Secret Tribunal Stronghold<br>
+Days had passed since the Crown of the Holy See was lost. Richelieu was reviewing documents at her desk when she heard a knock at the door.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Come in.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+I do hope I'm not interrupting you, Cardinal.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Ah, Le Terrible. Please have a seat. Have any news for me?<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+Yes. The first stage of repairs on the stronghold has been completed.<br>
+In broad strokes, it went smoothly. If you'd like the finer details, I've prepared a written report for you.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Thank you. I commend your tireless efforts.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+I'm only doing my duty. Incidentally, you look much more alive now, Cardinal. Did that dubious Tribunal medicine actually work?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It did. My dreams have been completely free of the black sun ever since I took that medicine.<br>
+You, on the other hand, don't look so well. Is there something I should know?<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+Oh, don't worry about me. I just haven't been getting enough rest.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Have you been staying up late analyzing the things the Tribunal left behind? Please, take your time. They're not going anywhere.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+And I suppose neither will we, for some time. You're right, Cardinal. I'll take your advice to heart.<br>
+Speaking of the Tribunal's assets, I've also prepared an inventory list of what I've found so far if–<br>
+<br>
+*knock knock*<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Come in.<br>
+<span style="color:#4eb24e;">La Galissonnière：</span><br>
+Lady Richelieu! Got a report to make!<br>
+Lady Clemenceau has gone to Sardegna to attend the World Expo!<br>
+With her gone, the Tribunal's the most vulnerable it's ever gonna be. So, now's the time to act if you wanna spring that Gali double agent plan into action!<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+You're still thinking about that? Sounds to me like taking an inventory is simply too demanding for you.<br>
+<span style="color:#4eb24e;">La Galissonnière：</span><br>
+Hey! What's that supposed to mean?!<br>
+Filling out paperwork is sooo not my thing, alright? I'm tired of sitting around on my ass all day!<br>
+You don't really need me around here lifting boxes, right? Then, put me to good use and let me go do what I do best!<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+Or, hear me out here – you can just stay put.<br>
+We're almost finished here. After that, we'll go look for the Crown.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Le Terrible, you still haven't told me about how exactly we're going to locate the Crown.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+I was just getting to that. You see, the Tribunal prepared a contingency plan in the event the Crown was stolen.<br>
+They developed a device that is capable of tracking down the Crown's location, and hid it somewhere on this island.<br>
+This device will be key to our ability to retrieve the Crown. Or... so the document I read says.<br>
+All that remains... is for us to wait around until the opportunity presents itself.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Huh? Wait around? Wouldn't the logical next step be to search for this device?<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+Uhh... We're people of faith, right?<br>
+I'm sure if we just keep waiting here, something good will happen~<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP BEEP BEEP!<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Cardinal Richelieu, the Eagle Union's fleet has docked at Saint Helena Island.<br>
+Additionally, Saint Louis is accompanying them. She sends her greetings.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Ah... Saint Louis, blueprint ship and holy knight. It's delightful to hear that another dependable ally joins our ranks.<br>
+Le Terrible, La Galissonnière, I'm sorry to cut our conversation short, but I must go and speak to the Eagle Union's representatives.<br>
+<br>
+Richelieu left the room in a hurry, a multitude of important thoughts jostling around her head.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+That Saint Louis is a powerful sword to have by our side.<br>
+Say, La Galissonnière, why don't you have a few training sessions with her? You did say you had nothing better to do, right?<br>
+<span style="color:#4eb24e;">La Galissonnière：</span><br>
+Yeeeah... No. I've sparred with a blueprint ship before. Let's just say... it's a really bad memory.<br>
+Thanks for the concern, but I'll find another way of passing the time.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+Come on. Surely it wasn't THAT bad.<br>
+<span style="color:#4eb24e;">La Galissonnière：</span><br>
+Have you never met Gascogne before? You know how she can get...<br>
+Y'know, "Language processor cannot grasp meaning of 'reconcile.'"<br>
+Something-something, "Analysis: action deemed unnecessary."<br>
+That sort of stuff sticks with you for life.<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+Hmm... I see. That must've been quite hard on you.<br>
+By the way, do you still have some medicine left? I could use another phial.<br>
+<span style="color:#4eb24e;">La Galissonnière：</span><br>
+Another? What happened to the extra one I gave you "just in case?"<br>
+Have you been dreaming about the black sun or something?<br>
+<span style="color:#4eb24e;">Le Terrible：</span><br>
+That... would be a secret.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Writing on the Wall|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+A few days before the World Expo's closing<br>
+World Expo - Cathedral Pavilion<br>
+Inside the breakroom, the Vichya Dominion shipgirl Foch was diligently mopping the floor.<br>
+Sitting by a window not far from her was Joffre, engrossed in a book and completely indifferent to the girl trying to get her attention.<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Hey, Joffre?<br>
+Joffre? Are you listening?<br>
+*sigh*... Miss Virtuous and Honorable Angel, if I may be so forward, would you please give me a hand?<br>
+Lady Clemenceau is staying here for the closing ceremony, you know. We really should tidy up the place for her.<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+I would argue it's tidy enough as it is.<br>
+Besides, there's no guarantee she'll actually come.<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Therefore, we shouldn't bother? Are you implying you've heard something through the Tribunal's grapevine?<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+I'm not. I'm simply speculating based on recent events.<br>
+Do you know where Lady Clemenceau is right now, Foch?<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Last I heard, she's on a sightseeing tour in Sardegna.<br>
+And, in two days, she's expected to appear for the Expo's closing ceremony.<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+Mhm. Do you know when Kersaint will arrive?<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Kersaint? Yeah.<br>
+She'll be here tomorrow. I've heard she's gonna help us with a couple of closing ceremony arrangements.<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+Meaning, she's coming by herself. That fact strikes me as odd.<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Really? I don't know too much about her, so... Why do you think it's odd?<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+Why? Because she's Lady Clemenceau's right-hand woman. She never acts alone under normal circumstances.<br>
+Unless...<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Unless...?<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+It has happened before. The last time was when she acted alone in Toulon, a few years ago.<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+......<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+What's more, Lady Jean Bart also traveled to Toulon a few days prior at Lady Clemenceau's request.<br>
+<span style="color:#4eb24e;">Foch：</span><br>
+Huh. Yeah, that's an eyebrow-raiser... So, armed with this information, what do you want me to do?<br>
+<span style="color:#4eb24e;">Joffre：</span><br>
+Firstly, please stop mopping. It's a waste of time.<br>
+Secondly...<br>
+Attendre et espérer.<br>
+Yes. Wait and hope.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Journey to the Expo|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+NA Ocean - Secure Sea Passage<br>
+Since the downfall of Compiler, the waters of the NA Ocean had become considerably safer.<br>
+Apparently, a few old sea lanes even reopened for traffic while I was assisting on the Reality Lens project.<br>
+With my part finished in the development of the Type II rigging, I finally had the opportunity to attend the World Expo...<br>
+But unfortunately, the airspace above the NA Ocean was still not sufficiently safe for passenger aircraft. I had to go by sea, accompanied by a sizable escort fleet.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+This weather is perfect for a cruise. Calm seas, clear skies, and a fair breeze.<br>
+But wow, I can hardly believe how quickly time flies. The World Expo is almost over...<br>
+It's a bummer we couldn't make it for its opening, but at least we'll get to enjoy the closing ceremony.<br>
+Commander, how do you feel abo– Hey! Put those away!<br>
+Helena, come here and take this paperwork away from the Commander!<br>
+This is supposed to be a holiday, for you and all of us. No work outside of your allotted hours!<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+...Working on a holiday at all is weird to begin with.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+I know. Tell it to the Commander and see what response you get.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+You don't have to work all the time, Commander. Can't you set your job aside for at least a few days?<br>
+<br>
+......<br>
+<br>
+'''''<span style="color:black;">选择项1："Believe me, I'd love to."</span>'''''<br>
+'''''<span style="color:black;">选择项2："There's no escaping my duty."</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''"But, the new work doesn't care if I'm on vacation or not. It's not going to stop coming in."<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''"The more time I take off, the more my backlog grows."<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+And that's why a limited-work-hours compromise is the best I could get from the Commander.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+That's... rough. You have an unenviable job, Commander.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP BEEP BEEP!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Hello, hello! This is battleship New Jersey!<br>
+I'm in charge of the escort fleet that'll guide you through the NA Ocean.<br>
+Meaning, you've got nothing to worry about! You'll be in good hands the whole way there!<br>
+<br>
+Long time no see, New Jersey.<br>
+How long has it been? Since around Compiler's defeat, maybe? How have you been?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I've been great! Thanks for asking.<br>
+Well, I guess I've been a little bored – haven't seen any action for a while.<br>
+By the way, I've got good news, honey.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Ahem... This is a public channel. Please be professional.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Right, uh... Commander, good news.<br>
+Our patrols haven't spotted a single mass-produced Siren ship lately!<br>
+That's 10 – I repeat – 10 consecutive days without a single Siren in sight!<br>
+They used to be everywhere when Compiler was still around. Now that she's gone, it really feels like they went the way of the dodo!<br>
+<br>
+"You make them sound like an endangered species, rather than a pressing existential threat."<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Yeah, except it's a good thing!<br>
+Things are so peaceful that my day job now is just reading reports, patrolling, and gazing at the sea.<br>
+Makes me envy Enterprise, honestly. I wanna kick some Siren ass too!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Isn't peace what we're all fighting for? We should look forward to the day we don't have to fight anymore.<br>
+The peace we're enjoying right now is how things should be.<br>
+Besides, it's not like there's NOTHING to do. There are still pockets of Siren activity in the NA Ocean.<br>
+Then there's that fleet of Sirens that attacked the Royal Navy during their ceremony at Scapa Flow. Did we ever figure out where they came from?<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+You can always trust Memphis to get to the heart of any topic.<br>
+To answer your question – no clue!<br>
+After the Royal Navy repelled 'em, they just vanished into thin air.<br>
+In any case, we don't want a repeat of that. That's why I'm out here, patrolling.<br>
+If they ever come into my waters, I'm chasing them back to their stronghold and wiping them out for good!<br>
+<br>
+"It was good to catch up with you, New Jersey, but I have to hang up now."<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP BEEP BEEP!<br>
+<span style="color:#4eb24e;">King George V：</span><br>
+Greetings, Commander. This is King George V of the Royal Navy.<br>
+We will accompany you on your trip to Sardegna.<br>
+You will enjoy not just the Eagle Union's protection on this journey, but the Royal Navy's as well.<br>
+<br>
+'''''<span style="color:black;">选择项1："Thank you. It's reassuring to have you with us."</span>'''''<br>
+<span style="color:#4eb24e;">King George V：</span><br>
+Don't mention it. You're headed to Europa, where it is the Royal Navy's duty to assist you.<br>
+Additionally, I have a message to you from Her Majesty.<br>
+She said the Royal Navy's pavilion will stay up for a while after the World Expo's closing.<br>
+However, it won't be open to the general public. Rather, Her Majesty has reserved a time slot just for you to visit.<br>
+Lastly, she will unfortunately not be able to attend the closing ceremony due to official business coming up last minute.<br>
+For all questions about our pavilion, speak to Illustrious. She handles the on-site side of things.<br>
+<br>
+"Good lord. First she misses the opening ceremony due to that Mirror Sea incident, and now she's going to miss the closing ceremony too?"<br>
+"I thought she wouldn't miss the World Expo for... well, the world."<br>
+<span style="color:#4eb24e;">King George V：</span><br>
+Believe me, she really wanted to attend. She prepared extensively for it, but it was sadly all for naught.<br>
+At any rate, Her Majesty hopes you have a wonderful time at the Expo.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Me too! Praying you have a great holiday, Commander!<br>
+<br>
+"You don't need to hype this vacation up so much. Still, thank you."<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+"Hyping it up"? You've earned this. I can't even remember the last time you got some time off!<br>
+While I'm on the line – I should mention that I've heard reports of stray Sirens in the waters around Sardegna.<br>
+You can expect those parts to be a lot, lot more dangerous than here.<br>
+So, just to be safe, why don't I escort you all the way to the Expo?<br>
+Wouldn't want to be ambushed during the last leg of the journey, right?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+I'm sure there's no ulterior motive behind this idea...<br>
+<span style="color:#4eb24e;">King George V：</span><br>
+There's no need, New Jersey.<br>
+Once you pass the Strait of Gibraltar, Warspite will escort you to the Sardegnian mainland. After that, Illustrious will accompany the Commander to the Expo.<br>
+Between those two points, the Royal Navy shall ensure the Commander's safety in the Mediterranean Sea.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+And besides, we have Essex with us. You just focus on keeping the NA Ocean safe.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Aww... Fiiiine, have it your way.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Long Way Home|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Somewhere, near the African east coast, a Sardegnian destroyer was heading home after an extended visit to Iron Blood's Floating Fortress.<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Geesh. These waters are always crawling with Sirens.<br>
+At least I should be in the clear at this point...<br>
+Looking back at it now, I learned a lot during my stay.<br>
+About technology, about the Floating Fortress, about Sakura Empire rituals and folklore...<br>
+In fact, this could make an excellent travel story if you cut out the boring bits.<br>
+I can already picture da Recco's and the girls' excited faces when I tell them all about it!<br>
+I'll have to make a good show out of it. Maximize the return, and so on...<br>
+But before I do any of that, I'm going to really rest up when I get home.<br>
+It's been too long since I had a bath in the thermae, slept in a soft bed, and tasted authentic pizza...<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP BEEP BEEP!<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+A call? From Lady Littorio?<br>
+Oh! I bet she has a new mission for me!<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP BEEP BEEP!<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Right... Ahem!<br>
+This is Carabiniere speaking! I hope you've been well, Lady Littorio!<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+I have, thank you. How has your home trip been?<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Well, I've encountered a couple of Siren fleets, but nothing particularly dangerous!<br>
+No injuries sustained! Although they did deplete my ammo reserves a bit.<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+That's good to hear. I want to apologize for calling you back so suddenly – especially considering you're out there alone.<br>
+It's a small wonder you're safe and sound, but I'm glad for it. I'm setting up a welcome-back banquet for you, so look forward to that.<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+What?! Please, don't be absurd! I've only done my duty!<br>
+I haven't done anything to earn a banquet, big or small!<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+I think you have. You've been away from home a long time. Don't you miss our cuisine?<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Well, I do. If you insist, then I'll gladly accept!<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+Great. I haven't worked out the details of the banquet yet – I'll start on those after I return to Rome. I'm in Venice right now.<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Of course! Please take care of whatever business you have first.<br>
+...Wait, why are you in Venice?<br>
+I've heard the World Expo needs extra staff for the closing ceremony, so I assumed you'd be in Rome...<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+You see, the Expo was originally to be held in Venice.<br>
+However, that plan changed after Veneto and I came across a suspicious discovery.<br>
+You probably haven't heard, but our Senate has been quietly routing historical artifacts through Venice.<br>
+Not just before the Expo, but even during it as well.<br>
+Veneto and I launched an investigation, and we discovered that the artifacts have all ended up in Marco Polo's possession.<br>
+What's more, she has been sending some of them to places all over the Mediterranean.<br>
+Some were sent to the Expo to be put on display. Or at least, that's what we thought.<br>
+Because we've been unable to locate them. They aren't in our pavilion, or in the storage room beneath the Colosseum. Nobody knows where they've gone.<br>
+This is theft on a massive scale, but done in such a weird way, wouldn't you say?<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Yes, it does smell very fishy...<br>
+Maybe Marco Polo has her reasons for it. Have you asked her about it?<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+Of course I have. She wouldn't tell me anything more than that it's part of a secret operation planned by the Senate's higher-ups.<br>
+That's why I'm in Venice – to personally find out what's going on.<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+I see... Now, I assume that since you told me all this, you want me to help with your investigation, correct?<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+What? No. This has nothing to do with you. I simply got sidetracked.<br>
+I have something else in mind for you. Instead of going to the Expo, I'd like you to go to the Suez Canal and ensure the exit lane's safety.<br>
+Oh, and one more thing...<br>
+If you happen to catch sight of anyone from the Dragon Empery, do let me know.<br>
+They left the Expo fairly early, saying they had to rush back home. It's only a gut feeling, but...<br>
+They might not have gone very far at all. Call me if you see them.<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Understood!<br>
+Supposing I do run into them, what then? Should I avoid contact with them?<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+Not at all. Say hello, be polite, flatter them, the entire Sardegnian special.<br>
+Heck, try to spend some extra time with them if at all possible.<br>
+I want to know why they left the Expo, yet decided to linger in Europa's waters.<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Flatter them, you say...? Um, will do!<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+Thanks, Carabiniere.<br>
+Call me when you have something to report. Good luck.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Dark Star|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+A dream. A dream of one possible future. Its dreamer – Shinano.<br>
+A wind chime rang. Then, the sound of overlapping waves.<br>
+The sky was dark as soot. Beneath it, a long column of torii dyed a vivid red.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+The line between illusion and reality, the interstices between dreams...<br>
+A place seldom seen, as the dream usually presents itself immediately...<br>
+Nevertheless... This one has been here before, a few times...<br>
+<br>
+The torii split the world into two halves. From opposite sides, the winds brought crashing waves into each other, in defiance of the laws of nature.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+The realm of illusion can be calm at some times, chaotic at others...<br>
+Tonight... It appears particularly at unrest...<br>
+An ill omen, that is... My dream shan't be a pleasant one...<br>
+<br>
+In her dream, Shinano saw a scene from the "past."<br>
+There was a lone woman hidden behind a pile of books, speaking with delight in her voice.<br>
+<span style="color:#4eb24e;">Marco Polo：</span><br>
+...Really? You've tracked down the Crown's location?<br>
+...Magnificent! Truly, truly magnificent!<br>
+I knew I could count on you. Many follow my orders, but none truly help me like you do.<br>
+Now that we know where it is, victory is already within my grasp.<br>
+...The Royal Navy and Iron Blood? What about them?<br>
+You're worried they might throw a wrench in my plan?<br>
+Hmm... Yes, it's clear that their transgressions have gone unpunished for too long.<br>
+But, Bismarck and the little queen are nothing to worry about. Whatever they've been preparing, I'm already five steps ahead of them.<br>
+Still, I must admit that you have a point. One can never be too cautious.<br>
+I'll take your advice to heart and figure something out.<br>
+"Thus the whole earth was of one language, one speech. And they said, let us build a city and a tower, whose top may reach unto heaven."<br>
+"Seeing that the people were now one, with nothing restrained from them, thence did the Lord confound the people with different languages and scatter them upon the face of all the earth."<br>
+Hahaha... I will not forget the favor you've done for me.<br>
+I swear that I will grant you your wish – once my own ambitions are realized.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+(The woman is speaking with someone...)<br>
+(The room's interior is in the Sardegnian style, of that I am sure...)<br>
+(That voice... It must be Marco Polo's...)<br>
+(But who she is speaking to, I cannot fathom a guess...)<br>
+(A simple dream. Only Marco Polo, conversing with another person...)<br>
+(Though gloomy to a degree, this dream isn't chaotic like the ill omen foreboded...)<br>
+(Then perhaps... there is more to this dream than meets the eye?)<br>
+<br>
+A black sun, quietly burning in the dusky sky.<br>
+Brightly it shone, like a star, but offered no warmth – like an impossibly bright black hole.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+Never before have I dreamed of anything like this...<br>
+It is a frightening sight to behold...<br>
+May this be... the source of all the chaos?<br>
+<br>
+"The time of judgment hath come."<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+...Judgment?<br>
+Who is to be judged, and for what?<br>
+<br>
+"What your eyes behold shall descend upon the land."<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+It... Shall descend upon the land...<br>
+<br>
+"The time of judgment hath come."<br>
+"The Divine shall descend upon the land."<br>
+Time before the World Expo's closing...<br>
+10 hours<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

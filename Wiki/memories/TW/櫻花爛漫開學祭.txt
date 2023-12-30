@@ -107,7 +107,7 @@ Z～～1～～前～～輩！<br>
 嗚…肩膀酸痛…<br>
 小熊小熊，妳看～<br>
 今天的午餐是海倫娜準備的愛心便當哦～<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：打聲招呼</span>'''''<br>
@@ -116,7 +116,7 @@ Z～～1～～前～～輩！<br>
 一起享受美好的午餐時刻吧，小熊。我開動了——<br>
 嗚哇！<br>
 指、指揮官？！什、什麼時候開始在那裡的！？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项3：和小熊說話的時候</span>'''''<br>
@@ -125,12 +125,12 @@ Z～～1～～前～～輩！<br>
 嗚嗚…只是在教室感覺大家都會不自覺的注意到那裡…<br>
 說到“肩膀酸痛”什麼的又會遭遇微妙的目光…特別是驅逐們…<br>
 我也不是自己想要這麼大的啊！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">火奴魯魯：</span><br>
 要自信一點？這是我的優點？<br>
 也、也就指揮官會這麼說了…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">火奴魯魯：</span><br>
 一起吃午飯？既、既然你這麼誠心誠意的請求了…<br>
@@ -156,8 +156,9 @@ Z～～1～～前～～輩！<br>
 然後聲音又從其他地方傳來了！<br>
 <span style="color:#4eb24e;">克雷文&{namecode:2}：</span><br>
 一定是“圖書室的妖精”啦！指揮官！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
+<br>
 為了調查事情的真相而來到了圖書室…<br>
 <span style="color:#4eb24e;">？？？：</span><br>
 嘁…為什麼那傢伙不一起來上學呢<br>
@@ -165,7 +166,7 @@ Z～～1～～前～～輩！<br>
 那傢伙不在一點意思都沒有…<br>
 還好學院還有這麼個圖書室~<br>
 又安靜…又寬敞…還偶爾能戲弄一下來借書的驅逐們嘻嘻嘻——<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项2：順著聲音悄悄靠近</span>'''''<br>
@@ -184,7 +185,7 @@ Z～～1～～前～～輩！<br>
 太、太好了…不是什麼可怕的東西…<br>
 <span style="color:#4eb24e;">愛丁堡：</span><br>
 嗚嗚對不起…我只是一時覺得有趣…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">愛丁堡：</span><br>
 要、要跟貝法報告？唯有這點請放過我嗚嗚——<br>
@@ -196,29 +197,31 @@ Z～～1～～前～～輩！<br>
 <br>
 五　空教室的不可思議<br>
 放學後，學院走廊<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （收到了放學後的空教室有奇怪動靜的報告…）<br>
+<br>
 滋滋…<br>
 <span style="color:#4eb24e;">???：</span><br>
 喵喵…不可以搗亂……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：推開教室的門</span>'''''<br>
 <span style="color:#4eb24e;">埃爾德里奇：</span><br>
 嗯…？指揮…官？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">埃爾德里奇：</span><br>
 埃爾德里奇…沒有搗亂……<br>
 只是喜歡在沒人的教室…待著…<br>
 但是喵喵…經常把書本弄得好亂…指揮官？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：幫忙收拾書本</span>'''''<br>
 <span style="color:#4eb24e;">埃爾德里奇：</span><br>
 謝謝指揮官…喵喵…也要道謝哦<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：學校有趣嗎？</span>'''''<br>
@@ -226,8 +229,9 @@ Z～～1～～前～～輩！<br>
 在學校，沒有在指揮官身邊，有趣…<br>
 不過學校裡，大家都喜歡看埃爾德里奇放電……埃爾德里奇，很高興！<br>
 指揮官，要和埃爾德里奇…一起聽歌嗎？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
+<br>
 和埃爾德里奇還有喵喵一起度過了一段療癒的時間……<br>
 {{折叠面板|内容结束}}
 
@@ -278,13 +282,13 @@ Z～～1～～前～～輩！<br>
 嗚嗚…沒想到姐姐的說教真的那麼久…<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 以、以後再也不敢輕易招惹風紀委員了…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:94}：</span><br>
 哦！是指揮官呀！<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 哦？真難得，指揮官這是來學院巡視嗎~<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">Z1：</span><br>
 學校有趣嗎？當然有趣啦~<br>
@@ -294,7 +298,7 @@ Z～～1～～前～～輩！<br>
 嘿~真不像會從“不良少女”口中講出來的話呢~<br>
 <span style="color:#4eb24e;">{namecode:94}：</span><br>
 啊，一不小心…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：為什麼是不良少女？</span>'''''<br>
@@ -313,7 +317,7 @@ Z～～1～～前～～輩！<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 一點小事~沒什麼的~<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
-嗯？{namecode:94}Z1？<br>
+嗯？{namecode:94}{namecode:400}？<br>
 <span style="color:#4eb24e;">{namecode:2}：</span><br>
 指揮官？<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
@@ -340,7 +344,7 @@ Z～～1～～前～～輩！<br>
 沒、沒什麼！<br>
 <span style="color:#4eb24e;">{namecode:93}：</span><br>
 嗚…作為風紀委員的姐姐我的立場——<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：總之新學期大家一起加油吧</span>'''''<br>

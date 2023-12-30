@@ -36,7 +36,7 @@
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 两位，是在讨论泳装的话题么喵？<br>
 <span style="color:#4eb24e;">里诺：</span><br>
-{namecode:98:明石}……？你是从哪里出现的？<br>
+{{AF|明石}}……？你是从哪里出现的？<br>
 <span style="color:#4eb24e;">飞鸟：</span><br>
 简、简直就像忍者一样！<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
@@ -45,7 +45,7 @@
 <span style="color:#4eb24e;">飞鸟：</span><br>
 欸……？是要在这里签名的意思么？<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
-没错喵~那么货已送达，{namecode:98:明石}就不打扰两位了喵~<br>
+没错喵~那么货已送达，{{AF|明石}}就不打扰两位了喵~<br>
 <span style="color:#4eb24e;">飞鸟：</span><br>
 如疾风一般消失了……里诺小姐，这究竟是怎么回事？<br>
 <span style="color:#4eb24e;">里诺：</span><br>
@@ -68,7 +68,7 @@
 <span style="color:#4eb24e;">飞鸟：</span><br>
 是，是吗？嘿嘿，被这么说有点害羞呢<br>
 <span style="color:#4eb24e;">{{AF|岛风}}：</span><br>
-嗯——没错！忍者世界的各位阁下身材都非常凹凸有致，令{namecode:18:岛风}十分羡慕！<br>
+嗯——没错！忍者世界的各位阁下身材都非常凹凸有致，令{{AF|岛风}}十分羡慕！<br>
 <span style="color:#4eb24e;">{{AF|初月}}：</span><br>
 比如雪不归小姐，就非常……<br>
 <span style="color:#4eb24e;">飞鸟：</span><br>
@@ -109,7 +109,7 @@
 <span style="color:#4eb24e;">{{AF|羽黑}}：</span><br>
 等、等等！抱歉啦！我会认真训练的……啊呀！！！！<br>
 <span style="color:#4eb24e;">{{AF|雾岛}}：</span><br>
-……刚刚得了一分立刻就被打回原形，{namecode:65:羽黑}，你昨晚又熬夜了？<br>
+……刚刚得了一分立刻就被打回原形，{{AF|羽黑}}，你昨晚又熬夜了？<br>
 <span style="color:#4eb24e;">{{AF|羽黑}}：</span><br>
 非常抱歉……<br>
 <span style="color:#4eb24e;">斑鸠：</span><br>
@@ -130,9 +130,9 @@
 呜……之前并肩作战时明明能轻松跟大家搭话，回到港区后就突然觉得好害羞……<br>
 对于在下来说向真正的忍者请教，果然还是有些……<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
-咦？{namecode:11:晓}，你在这里做什么呢？<br>
+咦？{{AF|晓}}，你在这里做什么呢？<br>
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
-{namecode:12:响}？！呜呜呜，原来是布莱默顿阁下……别吓我啊……<br>
+{{AF|响}}？！呜呜呜，原来是布莱默顿阁下……别吓我啊……<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
 你躲在墙角的阴影里做什么呢……不是要和大家一起训练么？<br>
 还是说，这是在做什么特别的修行？<br>
@@ -146,7 +146,7 @@
 欸？啊，等、等一下——<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
 不好意思打扰到各位的训练了！<br>
-请问现在有空吗？我想请大家帮忙指导一下{namecode:11:晓}的修炼——<br>
+请问现在有空吗？我想请大家帮忙指导一下{{AF|晓}}的修炼——<br>
 <span style="color:#4eb24e;">焰：</span><br>
 啊？我才没空，现在可忙了。在大家看不到的地方非常忙呢~啊，好忙啊～<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
@@ -156,7 +156,7 @@
 <span style="color:#4eb24e;">焰：</span><br>
 喂、喂！等一下！？为什么突然拿出这样的大炮来……<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
-你有时间的，对吧？稍微指导一下{namecode:11:晓}修行的时间还是有的，对吧？<br>
+你有时间的，对吧？稍微指导一下{{AF|晓}}修行的时间还是有的，对吧？<br>
 <span style="color:#4eb24e;">焰：</span><br>
 啊，嗯！有的！我有的所以别用那个对着我啦ー！！！<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
@@ -183,17 +183,17 @@
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
 呜呜呜，好难啊……忍者之路好险峻严酷……<br>
 <span style="color:#4eb24e;">斑鸠：</span><br>
-焰小姐，我觉得明明你才是魔鬼教练吧！{namecode:11:晓}小姐，你还好么？！<br>
+焰小姐，我觉得明明你才是魔鬼教练吧！{{AF|晓}}小姐，你还好么？！<br>
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
 呜呜呜，好比……狮子会把自己的孩子扔进深谷一样……<br>
 <span style="color:#4eb24e;">{{AF|雾岛}}：</span><br>
-{namecode:11:晓}好像已经混乱到不知所云了……还是喝点水休息一下吧。<br>
+{{AF|晓}}好像已经混乱到不知所云了……还是喝点水休息一下吧。<br>
 <span style="color:#4eb24e;">{{AF|羽黑}}：</span><br>
 嗯……我觉得差不多就…可以了吧？<br>
 <span style="color:#4eb24e;">焰：</span><br>
 喂喂，如果你们一直这么惯着她，她可是一个忍术都学不会的啊……嗯，我想想……<br>
 <span style="color:#4eb24e;">{{AF|羽黑}}：</span><br>
-……是改变方针了么？很好，看来{namecode:11:晓}可以去休息了，那我们也……<br>
+……是改变方针了么？很好，看来{{AF|晓}}可以去休息了，那我们也……<br>
 <span style="color:#4eb24e;">焰：</span><br>
 ——果然实战才是最好的修行。斑鸠，过来帮个忙，顺便你们也来搭把手。<br>
 来场一对多的模拟战好了。只要你在规定时间内能坚持到最后，那今天的训练就到此为止。<br>
@@ -202,27 +202,27 @@
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
 不，还是正常修行比较好啊啊啊！！<br>
 <span style="color:#4eb24e;">焰：</span><br>
-{namecode:11:晓}，做好觉悟吧！<br>
+{{AF|晓}}，做好觉悟吧！<br>
 <br>
 一段时间后——<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
-喂—{namecode:11:晓}——没事吧——？还有气吧——？<br>
+喂—{{AF|晓}}——没事吧——？还有气吧——？<br>
 ……完了，彻底昏睡过去了……<br>
 <span style="color:#4eb24e;">焰：</span><br>
 嗯……嘛，勉勉强强算是合格了吧？<br>
 <span style="color:#4eb24e;">斑鸠：</span><br>
-看到{namecode:11:晓}她真的努力坚持到了最后有点开心吧？呵呵，真不坦率呢<br>
+看到{{AF|晓}}她真的努力坚持到了最后有点开心吧？呵呵，真不坦率呢<br>
 <span style="color:#4eb24e;">焰：</span><br>
 哼！<br>
 <span style="color:#4eb24e;">斑鸠：</span><br>
-那么{namecode:11:晓}小姐就拜托各位送回寝室了，今天真是辛苦了。<br>
+那么{{AF|晓}}小姐就拜托各位送回寝室了，今天真是辛苦了。<br>
 <span style="color:#4eb24e;">{{AF|雾岛}}：</span><br>
 嗯，两位也辛苦了，非常感谢两位的修行教学。<br>
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
 呼……zZZZ<br>
 ……驱逐舰忍法……鱼雷乱舞……zZZ<br>
 <span style="color:#4eb24e;">布莱默顿：</span><br>
-呵呵，看来{namecode:11:晓}的本日修行，正在梦中继续进行呢——<br>
+呵呵，看来{{AF|晓}}的本日修行，正在梦中继续进行呢——<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=青春校园生活-其一|选项=4|主框=1|样式=primary|展开=是}}
@@ -330,7 +330,7 @@
 <br>
 翌日，一场有些特别的运动会被组织了起来——<br>
 <span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
-真厉害……简直就像{namecode:6:绫波}她们说的“修行”一样的感觉呢……<br>
+真厉害……简直就像{{AF|绫波}}她们说的“修行”一样的感觉呢……<br>
 <span style="color:#4eb24e;">夕烧：</span><br>
 果然有些细节没法完美还原呢……不过差不多就是这种感觉啦。<br>
 顺便问一下，你们的运动会是怎么样的呢？<br>
@@ -363,7 +363,7 @@
 开始训练-其一<br>
 训练海域·营地小岛<br>
 <span style="color:#4eb24e;">飞鸟：</span><br>
-{namecode:11:晓}——！！<br>
+{{AF|晓}}——！！<br>
 我这边打算去爬一下那边的石头山，要不要一起来！<br>
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
 嗯！飞鸟小姐，请务必让在下同行！<br>
@@ -372,7 +372,7 @@
 <span style="color:#4eb24e;">{{AF|电}}：</span><br>
 完成之后也许会收获大量好感度奖励哦。<br>
 <span style="color:#4eb24e;">{{AF|响}}：</span><br>
-你们又在说令人听不懂的话了……不过这么有干劲的{namecode:11:晓}确实很少见呢。<br>
+你们又在说令人听不懂的话了……不过这么有干劲的{{AF|晓}}确实很少见呢。<br>
 <span style="color:#4eb24e;">斑鸠：</span><br>
 这些人真是的……刚结束完训练，要稍微注意下休息和保养啊。<br>
 <span style="color:#4eb24e;">{{AF|樫野}}：</span><br>
@@ -494,7 +494,7 @@
 <span style="color:#4eb24e;">托里拆利：</span><br>
 ……请容我果断拒绝！<br>
 <span style="color:#4eb24e;">飞鸟：</span><br>
-那么今天的训练就到此为止了！{namecode:11:晓}酱，还有大家，我们一起去游泳吧！<br>
+那么今天的训练就到此为止了！{{AF|晓}}酱，还有大家，我们一起去游泳吧！<br>
 <span style="color:#4eb24e;">{{AF|晓}}：</span><br>
 刚才不是才游完长距离游泳，累得要死要活了吗！？<br>
 <span style="color:#4eb24e;">飞鸟：</span><br>
@@ -514,7 +514,7 @@
 <span style="color:#4eb24e;">{{AF|新泽西}}：</span><br>
 欸？是这样吗？那我做的事是不是有点多余了呢…？<br>
 <span style="color:#4eb24e;">紫：</span><br>
-……其实{namecode:199:新泽西}小姐会不会经常被人说有点太单纯了……？<br>
+……其实{{AF|新泽西}}小姐会不会经常被人说有点太单纯了……？<br>
 不过，说到底你也是因为担心在营地边犹豫不决的我们，才这么做的对吧？<br>
 ……………………<br>
 看来我也…还需要更加……积极一点……<br>

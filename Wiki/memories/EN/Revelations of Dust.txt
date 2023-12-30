@@ -1,0 +1,2550 @@
+== Revelations of Dust ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Unusual Phenomenon|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+Sub-Antarctic Ocean - Kerguelen Islands<br>
+Royal Navy Antarctic Fleet<br>
+Basilica Investigation Forward Team<br>
+Basilica Lighthouse Tower<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Have you found anything abnormal, Royal Oak?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+I-I think... everything is as it should be?<br>
+I've patrolled this area many times before, and I still can't believe how gloomy it feels... Did Vichya really have a fleet stationed here?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+That's what our intel says.<br>
+However, it seems they all evacuated before we got here.<br>
+Perhaps they shared your sentiment and couldn't stand the dismal conditions anymore.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Maybe. At any rate, this facility is under our control now that they've abandoned it.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+A shame there's not a shred of valuable information to be found.<br>
+We've searched every nook and cranny for the tiniest crumb, just as Implacable instructed, and all we've found is a map of the building.<br>
+It would make us look bad if we returned to Her Majesty emptyhanded, but...<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Her Majesty is certain beyond a doubt that there's something here. We just haven't found it yet because I'm dead weight...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+You're not dead weight at all. If failing to find anything noteworthy is a crime, then I'm equally guilty of it as well.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+No, no, no... I can't let you be my scapegoat, or it will haunt me for the rest of my life...<br>
+That cannot happen. I'll search again, but twice as diligently this time!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+(I was going to propose we search again together, but that's not what she needs to hear now...)<br>
+Calm down, Royal Oak! You know everyone cares about and respects you!<br>
+If we didn't, you wouldn't have been Her Majesty's first pick as the team's flagship.<br>
+The only reason Implacable is leading this operation is because you passed on that honour.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+But if I had accepted, I would've invariably disappointed Her Majesty.<br>
+Because, I'm slow and have no stamina or grace. And worst of all, terrible luck...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Please don't berate yourself like that.<br>
+As Her Majesty said, there has to be something in this Basilica. Otherwise they wouldn't have had a force stationed to protect it.<br>
+I promise you, we will find it. We just have to keep looking for... Wait, what?<br>
+Royal Oak, did you notice any strange movement? Something just tripped an alarm.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Huh? Wait, that wasn't a stray bullet? Something's moving?!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Stay calm and report the situation! Panicking will only make things worse!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+I'm fine, I just heard what sounded like footsteps... It couldn't have been a ghost, right?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Well, I wouldn't be surprised if a ghost took up residence in a dreary place like this.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+So it WAS a ghost?!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+No! Forgive me, I only meant it as a joke!<br>
+Hang on, I'll start up the security cameras. Let's see, you're over by... There, I've got it.<br>
+Now to find the feed for the room you're in...<br>
+That's strange... It seems to be offline.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Oh, I'll check it myself. Just give me a minute!<br>
+That should do it. Argus, is the alarm still sounding?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Not anymore. However, the security camera remains unresponsive.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+You mean this? Let me have a look... *cough cough*!<br>
+Looks like the cable has been cut. Judging by all this dust, it seems it's been left like this for a long time.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+How long has it been like this? Whoever was in charge of this place before was way too inattentive...<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Maybe. Do you think the alarm was a false positive too?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+It wouldn't surprise me. Some of the oldest records of this island date back to the Naval Holiday period.<br>
+A false alarm doesn't explain the footsteps your heard, though.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+*gasp*!<br>
+Th-this is Royal Oak of the Royal Navy! Show yourself!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Huh? Did you encounter an enemy?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Not exactly... I just thought someone might come out if I yelled.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+I see... Also, I think I should do a more thorough system inspection. We might find something new.<br>
+If I remember the phrase right, it should be something like...<br>
+Basilica System, initiate a full facility self-diagnostic.<br>
+<span style="color:#ffd000;">System Voice：</span><br>
+Orders received. Initiating full facility self-diagnostic. Time remaining: 60,000 minutes.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+60,000 minutes?! We'll be here for an eternity!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+That's how it is when you're dealing with a facility this old.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Hang on, there's a sysadmin message on the screen.<br>
+System override in the case of an emergency... Grants administrator privileges... Thus activating the facility's defences...<br>
+Okay, I've got an idea! I'll log us both as admins and briefly enable the Basilica's automated defences.<br>
+This way, we'll immediately know when anyone comes or goes.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Wonderful. If it can deal with intruders as well, we'll be safe until the rest of the team arrives.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Mhm. I'll give it the order now.<br>
+<span style="color:#ffd000;">System Voice：</span><br>
+Orders received. Entering emergency defense mode. Powering up production center.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Wait, what?<br>
+Royal Oak, it seems we have a problem in the production centre!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Yes, I can see it over here as well. A lot of devices are spitting out error messages.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+It's getting worse! Oh goodness, what do we do?! One thing after the next is failing!<br>
+<span style="color:#ffd000;">System Voice：</span><br>
+Error: Failed to initialize emergency defense mode.<br>
+Error: Failed to initialize recovery program. Retrying... Failed. Retrying... Failed.<br>
+Warning: Significant data corruption. Please reconnect to system host.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Something has gone terribly wrong here... Let me try to update my admin privileges...<br>
+What the...? I can't! It says I need higher clearance!<br>
+But that's impossible... What could possibly be higher than the sysadmin?<br>
+Royal Oak, we have a problem! Get out of there and regroup with me!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+...can't... you... too many...<br>
+...ambushed... fighting...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Royal Oak, do you hear me?! What's happening over there?!<br>
+...Our comms are being jammed. Don't tell me... we're in a Mirror Sea?!<br>
+<br>
+On a remote island in the frigid Antarctic waters...<br>
+A number of Iris Orthodoxy Basilicas stood like beacons of faith.<br>
+Yet beneath the veneer of pious glory,<br>
+flow whispers of intrigue and technology untold.<br>
+While all eyes are on the World Expo,<br>
+an investigation fleet suddenly arrives at the distant island.<br>
+What began as simple orders from the Queen<br>
+would soon capture the interest of sinister eyes.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Emergency Report|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Vicinity of Kerguelen Islands - Early Dawn<br>
+Royal Navy Antarctic Fleet<br>
+Basilica Investigation Primary Team<br>
+*knock knock*<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Pardon for disrupting you this late, Lady Implacable, but there is an urgent message from the islands' patrol fleet.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mmh... Mrgh... A message? At this hour?<br>
+Alright, give me a minute or two to wake up.<br>
+<br>
+Some time later...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Okay, I'm ready, Scylla.<br>
+So, what's this about an urgent message?<br>
+You said it's from our patrol fleet, not Argus or Royal Oak?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Correct. The fleet is reporting unusual sightings around the Basilica island.<br>
+Apparently, all contact with the island was suddenly lost last night. Everyone in the area promptly evacuated to relay this information.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+All contact was lost, just like that? I fear for the worst... Show me the timeline.<br>
+2100 hours, patrol fleet attempts scheduled contact with Argus...<br>
+It was discovered the signal was being jammed. Recon aircraft were sent out, but vanished without a trace...<br>
+2135, received an SOS signal from the Basilica island...<br>
+2145, patrol fleet is attacked by an unidentified enemy approaching from the Basilica island's direction. Patrol fleet immediately retreats...<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Yes. Following emergency protocols, they contacted us as soon as they could.<br>
+The message prior to this arrived on time and reported nothing unusual. It was only after that that the unusual activity began.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+In other words, something happened in the span of those few hours.<br>
+Since you got the news first, what action have you taken?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I have attempted to radio the advance team, but failed due to the jamming.<br>
+I'm sorry that I failed to anticipate any of this, Lady Implacable.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't be. Her Majesty warned us to expect the unexpected with that Basilica.<br>
+It was practically a given that something would go awry during this investigation.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+What shall we do now? Begin a rescue mission?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Of course. They require our assistance.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Understood. I shall contact the patrol fleet and let them know.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+One moment, Scylla. I'd like to ask you something.<br>
+Who do you think is behind this?<br>
+We'll learn soon enough, but I want to hear your guess.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+What exactly do you want me to guess, Lady Implacable?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Who our enemy is.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+That's... quite the loaded question.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Among the Sirens, the META, and the factions we're not exactly on great terms with, there are many potential suspects.<br>
+Let's start with Vichya. Do you think they're trying to take the Basilica back?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+That seems rather improbable.<br>
+We have the Templar Knights under strict surveillance. If they were involved, we would already know.<br>
+It would be next to impossible for them to amass an attack force completely unbeknownst to Her Majesty.<br>
+Furthermore, Vichya's high command withdrew the fleet they had here. Why would they abandon the islands in the first place if they want to recapture them?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Makes sense. What about Iron Blood?<br>
+Without a doubt, Iron Blood is salivating over the prospect of getting their hands on the technological relics lying inside the Basilica.<br>
+The question is, would they seek to destroy the relics before they can fall into anyone else's hands?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I also find that to be highly improbable.<br>
+Ever since their rebellion at Scapa Flow, Iron Blood has been kept under close supervision by the Naval HQ.<br>
+They need allies now more than ever, which may be why they've shown more cordiality and willingness to cooperate, both with Her Majesty and with the Commander.<br>
+Since Bismarck took over, they have not shown any signs of aggression.<br>
+And, given their uncertain circumstances, I cannot fathom any reason they would have to change that.<br>
+Even if they were aiming to pull the wool over the Naval HQ's eyes again, I doubt they would fall for the same trick twice.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Next, there's the Sakura Empire as well, but let's be realistic.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Right. They're on the other side of the world.<br>
+By process of elimination, it seems highly likely that either the Sirens or a hostile META group are behind this.<br>
+If it is the Sirens, taking care of them should prove simple enough.<br>
+I'd also like to add that betrayal from one of our allies is nigh impossible. If Iris Libre wanted the Basilica, a diplomatic approach would be their only option.<br>
+As for the Eagle Union, they'd be first to know if we got our hands on something valuable. Even assuming they were interested in attacking us, a wait-and-see approach would've been more sound.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well summarised. Finally, what of the Sardegna Empire?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Are you testing me, Lady Implacable?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Heehee, so you've noticed? I can tell you've done your homework thoroughly.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Hardly. As your adjutant for this operation, I am simply doing what would normally be expected of me.<br>
+Hopefully my answers have satisfied you.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+More than satisfied.<br>
+In fact, I'm now confident I have the most capable Royal Maid aiding me on this mission.<br>
+Please don't take this the wrong way – this is the first time the two of us are working together on a potentially dangerous mission, so it's only natural to feel each other out a bit first, yes?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Of course, Lady Implacable.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Speaking of Sardegna, I assume you're already aware that a number of exhibition items were stolen from both the World Expo site as well as our own repositories.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Yes, and the culprits behind the incidents were tracked back to separate groups – Sirens in the case of the World Expo, and an unknown META in our own case.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Indeed. We were warned of potentially hostile META factions, and this may be evidence of just that.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Should I contact the Eagle Union and request backup, just in case?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No need. Her Majesty doesn't want to draw too much attention to this investigation.<br>
+It's why our team is small to begin with, and why the patrol fleets are under instructions to avoid direct engagements.<br>
+Besides, even if we're dealing with a META group, we should be able to hold our ground without the Eagle Union.<br>
+We won't call for outside help unless absolutely necessary.<br>
+In any case, Hero will be here soon. You go on ahead, and I'll report the situation to Her Majesty first.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+As you say. I'll see you soon, Lady Implacable.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mhm. Let's ensure this mission is a success.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Arrival|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Vicinity of Kerguelen Islands<br>
+Royal Navy Antarctic Fleet<br>
+Basilica Investigation Primary Team<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Yo, investigation team! Can you hear me?<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+.........<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Alright, let's try that again... Ahem! This is Hero, of the Royal Navy!<br>
+Investigation team! Argus! Royal Oak! Do you hear me?!<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+.........<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Whoa, it's not doing anything! Is this thing broken, or what?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+We ensured that it was working properly before we left, Hero.<br>
+I presume it's not working due to the jamming in this ocean region.<br>
+Which would mean that we're inside the anomaly reported by the islands' patrol fleet.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Uh-huh?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Yet we haven't found any sign of Argus's SOS signal yet. I can't help but fear the worst...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+It's not yet time to worry. Our Royal Knights wouldn't fold that easily.<br>
+(She may have low self-esteem, but she's no weakling. I'd bet she ran into some stroke of bad luck, like usual.)<br>
+(Either way, we can only hope for her safety now.)<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Shall we disembark on the island right away?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+We wouldn't want to fall victim to whatever befell them. First, we should ensure that the island's surroundings are safe.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I'll lead the way. Please be careful.<br>
+<br>
+Vicinity of Kerguelen Islands<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+"May the Iris's blessings be upon you," huh...<br>
+Odd. There are no signs of either foe or fighting.<br>
+We have a general grasp of this island's layout, but it seems we won't find Argus and the others unless we go in.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+For real? Dungeons are cool and all, but I don't wanna marathon four in a row.<br>
+I meeean, I could just blow those buildings up and make everyone run out screaming! Way more efficient.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Scylla, where should we disembark?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+The lighthouse tower to the southwest should do. Royal Oak and Argus focused their investigation there, as well.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Very well. They did mention that they found the island's control centre there in their final report, after all.<br>
+Why would they place such an important infrastructure along the coast inside a lighthouse instead of at the heart of their facilities?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Could it be that the one on the coast is a ruse, while the real one is somewhere else?<br>
+Or... there might be more than meets the eye to the Basilica, and it might not be safe to locate it there?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+A reasonable theory. We'll begin by searching the lighthouse where the team last reported from.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+...Huh? C'mon, you're not gonna consider my idea?!<br>
+I have good ideas, too! How about you sidekicks stop ignoring the protagonist here, huh?!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Oh, the protagonist, you say? Naturally, that means you'll do the lion's share of the work, yes?<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Yeah, exactly! So stop ignoring me!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Oh, I'm so very sorry. As an apology, I shall let you lead the way then.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Now you get it! You're about to see how a Hero does dungeon-crawling!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Beacon|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+SCHWING!<br>
+Hero's sword cleaved the control room door effortlessly, like a hot knife through butter.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Knock knock!☆<br>
+Implacable! I don't think they're here.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+So they aren't... Everyone, search for clues.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Lady Implacable, I've found something.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+What?! Nuh-uh, I should be the first!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Let us sidekick maids have our turn, please.<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+"To all ships in the Antarctic, Basilica Investigation Teams, and any other Royal Navy ships who receive this message!"<br>
+"This is the Basilica Investigation Forward Team! We are surrounded by unidentified hostiles!"<br>
+"Please send support immediately!"<br>
+"I repeat, this is the Basilica Investigation Forward Team—"<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Is this... the SOS signal our patrol ships received?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+There's no doubt it came from here. And it's still playing...<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+But, the two of us didn't receive anything until we stepped onto the island.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Either the jamming here is extremely potent, or the patrol ships were able to receive it just before it was jammed...<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Hmm. I'm afraid I can't say.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Perhaps this is where our star, Hero, may shine.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+We look forward to your performance, Hero.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+I mean, it's kinda super obvious?<br>
+See how there's no dust on the control panel's levers and buttons, while there IS dust on the other devices?<br>
+Plus, you can tell someone pulled wicked hard on this lever. Ten to one, it's gotta be Argus!<br>
+Sooo, basically, Argus was trying really hard to deal with whatever was going down here!<br>
+That's why there aren't any signs of struggle outside. It all went down in here!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well, how observant of you.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Geez, you grown-ups are so useless! You're lucky you have me around.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Yes, Hero, that was truly spectacular. I only found one clue, and honestly, it pales in comparison.<br>
+Here we have a list of notes left by Argus, a rough sketch of the facility, and a transcript of her communications with Royal Oak.<br>
+Why don't you take a look with your discerning eyes? Heehee!<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+B-but you're just a sidekick!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Yes, yes, that's enough. Let's focus on what happened here...<br>
+Failed motion sensors, cameras refusing to turn on...<br>
+Ran the self-diagnostic sequence, followed screen prompts to enable emergency controls...<br>
+...I'm starting to get a headache.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Lady Argus is earnest to a fault...<br>
+After that, the system went haywire. While Lady Royal Oak fought off hostiles, Lady Argus sent a distress signal by telegraph.<br>
+They then chose to meet at an area called Blanc.<br>
+The transcript ends there.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Blanc... The White Basilica?<br>
+(Would there be other areas named Rouge, Vert, and Noir, then?)<br>
+(There they are. Very... simple names. The Iris are devout, if nothing else.)<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Oh, hey. We saw a white Basilica when we circled the island, didn't we?<br>
+It was pretty close. So that's our first dungeon to crawl!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+We're fortunate that it was close. If they were on the opposite side, just getting there would be a feat.<br>
+If we're lucky, we may find them soon.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Shall we proceed? Lady Implacable, will we be traveling by land?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No. Let's deploy our rigging and go by sea.<br>
+(There's something odd about this Basilica. I can see why Her Majesty is hesitant to make a big deal out of this.)<br>
+(This is an isolated island off to the south, but the facility is too big to be a mere religious establishment. It's even bigger than the Royal Navy's Mediterranean fortress.)<br>
+(How did they manage to build all of this? And when, at that?)<br>
+(If the entire breadth of the Royal Navy's intelligence network couldn't inform Her Majesty of this Basilica... then this must involve Iris's highest echelons...)<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+If there's any silver lining to be found, it's that the anomaly doesn't seem to be having any effect on the outside beyond signal interference.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Argus, you've gotten yourself into something crazy, haven't you...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Forward|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Blanc - Coastline<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Well, well. This Basilica faces the ocean, but they weren't considerate enough to put an entrance here?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Does this mean we'll have to go to the centre of the island by land, enter, and then double back all this way?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I'm afraid so. Perhaps that's intentional.<br>
+Allow me to come with you, Lady Implacable and Hero.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Unfortunately, I'm in no mood to climb mountains. Star actor, you're up.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+See?! I told you this is the best way to do things!<br>
+Hmm... Okay, that's enough inspection. Three, two, one... Open sesame!<br>
+<br>
+BOOOOOOOM!<br>
+Cannonfire from Hero's rigging blew a giant hole into the outer wall.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This is so much better than taking a detour. Hahaha!<br>
+<br>
+Basilica Blanc - Indoors<br>
+The investigation team forged through the massive halls of the facility.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This place is ludicrously big. It's not so much a series of rooms, but rather a series of halls.<br>
+They don't seem designed for foot traffic, either. More like for the transport of giant weapons...<br>
+Scylla, where are we on the map right now?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+We are currently between the Basilica's fourth and fifth armouries.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Multiple armouries, you say? I'm starting to think this place was an Orthodoxy military base.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+We're approaching a fork in the road. The top corridor leads to what the map calls a prayer room, while the bottom one leads to a factory and a Sacrament exhibit.<br>
+There also appears to be a path which leads further down to the Basilica's centre.<br>
+If one were to ambush Lady Royal Oak and Lady Argus, I believe that would be the ideal location.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I know we need to hurry, but I think we should stop by that Sacrament exhibit.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+May I ask why, Lady Implacable? Do you want their Sacraments for yourself?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't be absurd. Do I look like an artifact hoarder to you?<br>
+We're not going to steal Orthodoxy property. We'll recover what's been left behind and hand them over to Richelieu after our investigation.<br>
+Even if there are no artifacts left, the exhibits themselves may clue us in on the true purpose of this facility.<br>
+You'd assume there's no connection between religious artifacts and the military... but perhaps that preconception is wrong.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Premonitions|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Blanc - Sacrament Exhibit<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Have no fear, for Hero's here!<br>
+Come on out, you mooks! I'm gonna farm you for drops!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+It appears there are unfortunately no mooks to farm in here, Hero.<br>
+However, I would gladly serve as a boss encounter. That is, if you're ready to suffer a humiliating defeat at the hands of a maid. Heehee♥<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+W-wooow! Those are fighting words, you cheeky sidekick!<br>
+You'll pay for your lip by running a hundred fetch quests after I've mopped the floor with you!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Fetch quests as punishment, you say? Fetching things is simply part of a maid's job.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Fine, then I'll make you grind gold for my–<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+*clap clap clap*<br>
+Nice improv, Scylla. You're a good foil.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Forgive me, Lady Implacable. I thought it would be amusing and I acted without thinking.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't apologise. I needed a gag to help lighten the mood.<br>
+Anyway... Where did you get that bow, Hero?<br>
+Is it legendary? Enchanted? Perhaps taken from one of the display cases?<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+I didn't take anything! It was just lying on the floor next to one of those four empty cases!<br>
+Also, there's a placard on this case. "When the Seal breaks, the horns of Judgment sound." Sounds like something pretentious York would say.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Four cases, a bow, and "horns of Judgment"... Hmm...<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Are you on to something, Lady Implacable?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Nothing concrete, but I'm starting to figure out why this place looks so dreary.<br>
+<br>
+WHOOSH...<br>
+Just then, a shadowy figure appeared in the corridor on the far opposite end behind Implacable.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Lady Implacable! Look out!<br>
+<br>
+KABOOOM!<br>
+Scylla immediately deployed her rigging and unleashed a machine gun burst of lead arrows at the threat.<br>
+The figure tried to no avail to block the volley using its poleaxe, and was swiftly dispatched.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+A random encounter! My bow will take care of–<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Scylla already dealt with them.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+What?! Hey! How dare you steal my EXP!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Do forgive me. I promise it won't happen again~<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Heh! Damn right it won't☆<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Was that... Vichya's La Galissonnière?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Specifically, a Pawn of hers. Easily defeated.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Vichya Pawns appearing inside a Basilica that they held... That certainly is cause for concern, isn't it?<br>
+<br>
+*RUMBLE*––<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+What the hell? Is that an earthquake?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+If only.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I fear it's exactly what it sounds like, Lady Implacable.<br>
+An entire army of Pawns is quickly closing in on us!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Prepare for battle! We will not fall here!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Reinforcements|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hero：</span><br>
+*pant*... *pant*...<br>
+Is there no end to these damn Pawns?! I'm working up a sweat here!<br>
+Not that a bunch of mooks could ever dream of beating me, but still!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+While I wouldn't quite say we're losing, our weapons will wear out sooner or later if we continue fighting in these close quarters.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mhm. Moreover, I need more room to launch my planes. Even that armoury would suffice.<br>
+Do you think we could lead the pawns in that direction?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Certainly. If need be, we could also break through the wall there to retreat into the water.<br>
+Our riggings are designed for naval combat, not ground combat, after all.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Good point. Every enemy we take out is one fewer for Argus and Royal Oak to deal with.<br>
+Although, we wouldn't want to draw more enemy fire than we already do.<br>
+At any rate, let's go! To the hall we came from!<br>
+<br>
+Basilica Blanc - Indoors<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Move it, losers! Hero coming through!<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Nice work. You have a knack for punching holes through walls and hordes alike.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Well, yeah! It comes with the title!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Of course. Does anyone have a backup plan if the Pawns don't pursue us?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Isn't that for you to consider, Lady Implacable? You are our leader, aren't you?<br>
+Although, we may not need one as they seem to be following us. Keep advancing and I shall cover your back.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Got it.<br>
+<br>
+Basilica Blanc - Coastline<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Bosh! There's our path to the ocean~<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Thanks, Hero. Now we can fight unrestrained.<br>
+No pity, no mercy. Let us show these mindless Pawns our true strength!<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Well said. Waste neither pity nor mercy on them, for they will show you none.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Cardinal?! Is that you?!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes. It's a pleasure to see you again, Implacable.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You're here sooner than Her Majesty predicted! Thank goodness for that.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+She, well... also rescued us. Cardinal Richelieu was the first to respond to our SOS.<br>
+If she hadn't come along, Royal Oak and I likely wouldn't be here right now.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Forgive me, Implacable... I've put the Royal Knights to shame.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+It's alright. I'm just glad you're both in one piece.<br>
+Cardinal, if I may ask, what brought you to this remote island in the first place?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I shall explain later. For now, we must focus on defeating the enemy in front of us.<br>
+Let us smite these wicked doppelgangers who dare violate the sanctity of the Iris's territory!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Richelieu's Proposal I|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Working together, the investigation team and Richelieu's fleet led the Pawns out of the Basilica and dispatched every last one of them.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Béarn, inspect the Pawns one at a time and ensure they're neutralized.<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+As you command, Cardinal. I will personally examine the Basilica's Sacraments later as well.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Thank you for aiding us, Implacable.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No, thank YOU. We're in your debt for saving Argus and Royal Oak.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Please, think nothing of it. You are our allies, and we are yours.<br>
+Argus told me you're leading the investigation into this Basilica. Is that correct?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Why, yes, I am.<br>
+It's been a bumpy ride thus far, but that's about to change now that you're here, Cardinal. It's an honour.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The honor is all mine. I've wanted to join the Royal Navy in battle again ever since the incident with the Skybound Basilica.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+(The Skybound Basilica? I suppose that's the one Illustrious spoke about.)<br>
+Well... Now that you're here, I might as well spill the beans.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Spill what beans, exactly?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That Her Majesty kept this investigation a secret from you until our fleet had already embarked.<br>
+Despite that, you somehow arrived at this Basilica at nearly the same time as us.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Oh, I see. If you're confused, I can explain.<br>
+Truth be told, I also set out to investigate these islands as soon as I heard that Vichya had withdrawn its forces.<br>
+Then, when we heard the SOS signal coming from the Basilica, we used special instruments to amply it before rushing to the rescue.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Amplify it? To what end?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Your patrol fleets weren't receiving the distress call before we gave it a signal boost.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I see. It seems you've seen right through us, Cardinal.<br>
+I suppose I should thank you for letting us save face by independently responding to the distress call, rather than alerting us directly.<br>
+If you'll pardon me for changing topics, I'd like to propose the idea of making this a joint investigation.<br>
+It's a lot for either of us to handle alone, but it's a different story if we work together. Would you happen to know anything about this Basilica?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes. This place was a sanctuary of sorts for the Iris Orthodoxy, before the Vichya Dominion seized control of it.<br>
+It appears it has suffered numerous breakdowns, owing to not being properly maintained for a long while.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Are those Pawns the result of some breakdown as well?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes, but only broadly speaking. It would take a while to explain it.<br>
+Fortunately, I know a solution to the problem. Ladies of the Royal Navy, please follow me.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Richelieu's Proposal II|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Blanc - Purification Facility<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+I've finished repairs on the 11th, 15th, and 17th circuits. We can reboot the system.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Excellent. We're in luck.<br>
+I wish we didn't have to resort to this, but it's our only option besides individually destroying every last Pawn and their production center.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I'm glad it's an option in the first place. How much do you know about this place, Cardinal?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Béarn and I indeed were involved in signing off on a number of projects that took place here.<br>
+However, now that I'm here... I can tell that many things have changed beyond recognition.<br>
+Just as with the Skybound Basilica, I do not know about the scope of the modifications made by Vichya, or about what lies in wait deep within the facility.<br>
+Béarn might be able to tell you a bit more about the technical aspects, but beyond that, I can't tell you much more.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well, you have a firmer grasp on the situation than we do, that much is for sure.<br>
+Anyway, what's our next move?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+We will head to the center of Basilica Blanc, but first, we must wait for this machine to get up and running again.<br>
+Until then... I suppose we rest.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+May I interest you in some tea, ladies?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Why, yes. Thank you.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Excuse me, Scylla? Didn't I say I would make tea for the Cardinal?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+You did, but your request is secondary to my duty as a Royal Maid, which is to make tea in this case. I hope you'll forgive me.<br>
+Lady Argus, Lady Royal Oak, I have some for you as well.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Thanks. Pour some for Béarn and Hero, too.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Certainly. Just a minute.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well, since all we can do is wait, let's get caught up, shall we?<br>
+Starting with you, Argus. You were first to notice something had gone wrong, is that right?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Yes. I was in the control room, monitoring Royal Oak while she went around investigating.<br>
+I made a poor decision and activated the emergency defence system, which resulted in Royal Oak getting attacked by Pawns.<br>
+Since she was in danger, I quickly sent out a distress signal and left the control room to help her.<br>
+Then, while passing through the underground corridor to Basilica Blanc, Pawns attacked me as well.<br>
+I was panicking at that point, since our communications were being jammed.<br>
+If Royal Oak had relocated in the time it'd taken me to get there, I'd have no idea where she went.<br>
+By some miracle, I found her exactly where I last saw her, albeit surrounded by enemies.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+I held out because I didn't want to annoy you. You don't just call for help then disappear before it even arrives...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That was the right call. What happened next?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+We stuck together, fighting off Pawns while retreating towards a giant hall at the bottom of the facility.<br>
+That hall was... If I had to describe it, it was like a military parade inside a warehouse.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Argus, where are we?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+I'm afraid I don't know. I left the map behind in the lighthouse tower...<br>
+However, I'm pretty sure this place was NOT on the map.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Since there were armouries on the first floor, I think this is a parading area, or a barracks.<br>
+And it seems its many occupants are all Pawns...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Goodness, you're right... I'm just glad they're inactive.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+There must be hundreds of them. No, maybe even thousands!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+I don't even WANT to know how many there are!<br>
+It's like they put an entire army of Pawns down here...<br>
+Wait... What if it IS an army? Is this the secret Her Majesty wanted us to find?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+No matter how weak Pawns might be individually, there's no way any of us could stand up to those sheer numbers...<br>
+And just when those thoughts started going through my head, the Pawns suddenly started marching...<br>
+Luckily, Cardinal Richelieu found us in the nick of time... or I fear the worst might've come to pass.<br>
+All I remember is, I heard the sound of fighting as we were retreating, and then support showed up.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I see... An entire army of Pawns. So this is the project that Vichya was using the Basilica for.<br>
+Cardinal, were you aware of any such projects back during the time of the Iris Orthodoxy?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+This originally was an idea floated by the Tribunal, compensating for their apparent lack of naval forces with a massive fleet of Pawns to defend the homeland.<br>
+But, the actual implementation flopped catastrophically, and the project was shelved.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Flopped catastrophically? How do you explain the very finished-looking product we saw down there then?<br>
+I assume all those Pawns we encountered were the results of that plan, and their combat prowess was nothing to sneeze at.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+As they say, assembling an army is the easy part. Controlling it is where the real difficulty lies. I suspect Vichya learned that lesson firsthand.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Oh? Care to elaborate?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Pawns are machines, and machines naturally can malfunction.<br>
+Through our experiments, we found that the larger the army of Pawns, the greater the proportion of units failing to act in unison.<br>
+The reason for this is, Pawns that started behaving abnormally would influence "normal" Pawns, causing a malfunction chain reaction.<br>
+The Tribunal began describing this phenomenon as "Infection." Correspondingly, the solution to suppress this infection was the purification system you just saw.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That makes perfect sense, which is also why the entire island is set up to defend against the inside... Are you sure it's fine to give away all this valuable information so casually?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It's fine. After all, you're all victims of the malfunctioning of an Iris Orthodoxy facility.<br>
+Now that you've experienced the situation firsthand, what good does it do to try to deny reality and resort to diplomatic tricks?<br>
+What matters is that we work together to resolve this incident.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+From what you've told me, I assume you're still able to keep things under control?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+We can attribute this incident to a lack of maintenance of the equipment, made worse by its improper operation.<br>
+Now that the purification systems of the four Basilicas responsible for containing the infection have been shut down, the Pawn army has fully spiraled out of control, leading to the situation we have on our hands.<br>
+What we need to do is to reactivate all four purification systems, then defeat all the malfunctioning Pawns remaining in the Basilicas.<br>
+Once the purification systems are back online and the malfunctioning Pawns have been dealt with, the Basilicas' systems will naturally stabilize again.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Reactivate all the purification systems and take out all the Pawns...? That sounds like the plot of one of those games Hero's always playing...<br>
+Are you sure there isn't some kind of master control panel that can remotely fix all the issues at once?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+While that would certainly make our lives much easier, I'm afraid there isn't.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+By the way, can you do something about our communication equipment malfunctioning?<br>
+I certainly hope we won't have to knock down all these Pawns by ourselves just to call for reinforcements.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Hmm... Unlike last time, we are dealing with a Basilica sitting on top of a Siren facility.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+In other words, this jamming is caused by the presence of a nearby Mirror Sea...<br>
+That certainly complicates things a bit.<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Lady Richelieu, the purification system has been reactivated. You can now proceed to the control center.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+We can talk later. Let's move out.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Art and War|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Blanc Control Center<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+W-we've gained control of the main passages along the east side!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+The southern bridge has also been secured.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+And I've already finished conquering the north side~☆<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Thank you for your hard work, everyone. I'm not detecting any more enemy signals.<br>
+How are things on your end, Cardinal?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Done. Looks like we've cleaned up the last batch of Pawns over here.<br>
+Béarn, how's your situation?<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+The infection index in the purification system has dropped to normal levels, which means this area is effectively safe.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Excellent.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+I'm not sure if I'm just imagining things... but this place doesn't seem as claustrophobic and dreary as it did before.<br>
+If anything, it has a bit of a calming, reassuring atmosphere now...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Now that you mention it, I think I feel it as well.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Woah, and that's not all – look, the dense fog that was obscuring the horizon has completely disappeared as well!<br>
+The gilded inscriptions on the Basilica's white spires are so majestic... Magnificent works of art in their own right.<br>
+Incredible... Just a slight change in the atmosphere can completely alter the way I perceive this place...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't get distracted from the fact that this place was functionally designed to be something akin to a military stronghold or factory.<br>
+Tell me, Cardinal, you wouldn't have happened to retrofit Basilica technology onto your warships, would you?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...Indeed, the Tribunal did have such plans in the past, and managed to build one prototype using their own resources.<br>
+I believe it was classified as a Mechanicus Confessor.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Oh? Did something like that really get built? I wonder why I haven't heard anything about it until now...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It's practically ancient history by now. And shortly after the Confessor was completed, the Tribunal sent it to the front lines.<br>
+Unfortunately, its maiden voyage was also its final voyage.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That's a pity. I would've liked to see it...<br>
+So, are we done with this Basilica? Shall we move on to the next one?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes. Our next destination is Basilica Rouge. Please follow me, everyone.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Conjecture|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Rouge – Main Plaza<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Hmm? Is the plaza here the same as the one saw before?<br>
+The only difference is, it seems to be a bit bigger...?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That's correct. Although the four Basilicas have their own unique layouts, they are similar in general design.<br>
+Similar plazas can be found in front of every Basilica. As you pointed out, this one is slightly larger in size.<br>
+Furthermore, the Main Plaza of Basilica Rouge is the only way to access the command center, and also serves as an ideal location to engage the enemies.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Right, we'll have a significant advantage if we can set up a defensive line out in the open.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Good, you're quite perceptive. Just keep in mind that as this is the largest facility, we'll also be up against the most Pawns here. A tough fight lies ahead of us.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+(Hmm... This undeniably is an advantageous combat location.)<br>
+(But, it's a bit too wide-open...)<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Is something amiss, Lady Implacable?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ah, it's nothing. Please do continue.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I've already said everything that I needed to say. If you have nothing you'd like to add...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Umm... Since you're putting me on the spot anyway, I'll just say a few words.<br>
+Everyone, remember Her Majesty's words. Always keep the duties she has given us front and foremost in your mind.<br>
+As long as we cooperate with our friends and allies, victory will be ours!<br>
+<br>
+KABOOM–––!!<br>
+The cannons of battle rang out the instant the first Pawn broke through into the Main Plaza.<br>
+The events unfolding below were clearly visible from the observation platforms rising above the plaza.<br>
+Pawns exuding an ominous red mist continuously broke through into the plaza, but were quickly felled one after another by a dense barrage of bombs and cannonfire.<br>
+Despite the enemy's terrifying numbers, the overwhelmingly advantageous position held in advance by the defenders made the battle a completely one-sided affair.<br>
+Implacable continued to bombard the enemies as they lurched forward, until she finally had enough time to sift through various possibilities in her mind.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+(Blanc, now Rouge... After we clear out this Basilica...)<br>
+(..."And thus did the first horn of Judgment sound.")<br>
+(Speaking of which... This Basilica was originally built during the first counterattack against the Sirens, though it seems to have been expanded several times since...)<br>
+(I see, so that's what's going on...)<br>
+<br>
+The wreckages of crimson-colored Pawns lay strewn across the ground, stacked one on top of another.<br>
+From a higher vantage point, it seemed as if this sanguine mat could stretch all the way to the ends of the world.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Implacable, the battle is over. Cardinal Richelieu led Béarn to clean up the mess, and Scylla went with them.<br>
+We had a flawless victory, sustaining no injuries in the process. How are you doing?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No problems on my end either.<br>
+Thanks to the Cardinal's understanding of this place's terrain, we were able to destroy a massive army with almost minimal effort.<br>
+If only she'd actually tell us the truth...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+...What do you mean by that?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Oh, don't worry about it. That was just some of my idle musing.<br>
+Argus, when you and the others were on patrol a few days ago, do you remember the state of the facilities and if anything unusual happened?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Umm... Everything looked really run-down, and the equipment looked like it hadn't been maintained in a really long time.<br>
+As for unusual occurrences... I remember there were a few electrical explosions, which isn't something you'd normally see in a place of worship, right?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+What else?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Other than that... I don't think anything particularly noteworthy happened, which is also what I put in the report.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I'm not just talking about your objective findings. Let's talk about something a bit more... spiritual?<br>
+I can't exactly put this into precise words, but did you experience any emotional or spiritual abnormalities?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Hmm... Well, I did feel a bit rather depressed when I got here, as if I was in a constant state of anxiety. That was probably just due to the suffocating atmosphere of the building though.<br>
+Royal Oak said she had a similar experience.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+And that was a persistent sensation, correct? Not just one that occurred after the subsequent incident?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+That's right... Though, that feeling did grow stronger after that close shave.<br>
+After the purification system was activated, that feeling of oppression completely went away...<br>
+I'm not sure I'm describing it in a very helpful way either, and it might've just been all in my head as I said earlier.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Let me know if you experience something like that again. Mental problems can sometimes be a greater cause for concern than physical ones.<br>
+In any case, let's head to the next Basilica.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Hmm? Did Lady Richelieu already tell you where we'll be going next?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No, but I've already figured it out.<br>
+We will be going to Basilica Noir.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Dust of the Past I|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Island Inner Facility<br>
+Basilica Noir Control Area<br>
+Joint Basilica Investigation Team<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Die, die, die~☆<br>
+You're nothing more than lowly mob monsters, but why is it so much fun chopping you up~?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Umm... P-please get back in formation! Y-you're getting ahead of us too quickly!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Don't worry. Just focus on keeping up with her. I'll cover your rear.<br>
+<br>
+In the middle of the storage facility, a fierce battle had broken out between the investigation team and the army of infected Pawns gathered there.<br>
+Though the enemies were numerous, there were not as many of them as had been at Basilica Rouge.<br>
+It did not take long for the battle at Basilica Noir to also wind down smoothly.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Lady Implacable, Royal Oak and I might've discovered something out of the ordinary...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Details please.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Through the course of the battle, we realized that the size of the battlefield was far more spacious than it should've been...<br>
+In other words... the area inside the Basilica is larger than the space it occupies on the outside!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Excellent. So you've finally noticed it as well?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+My sincerest apologies. We have not had time to thoroughly survey the area to confirm our findings.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't worry, I did not mean to cast doubt on your abilities. I simply am glad to have someone else's confirmation.<br>
+Actually, this phenomenon is not readily noticeable to the untrained eye. Whoever built the Basilicas incorporated a number of optical illusions to obfuscate this fact, and not every Basilica shares the same design.<br>
+Some were built to be massive, while others only expand in space under certain circumstances.<br>
+I've been carefully observing this as well before finally coming to my conclusions.<br>
+Scylla, did you notice Richelieu and Béarn doing anything unusual while they were cleaning up the battlefield?<br>
+For example, trying to cover something up?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+My apologies, Lady Implacable. I saw nothing of the sort.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I see... Well, so be it. The two of us are on good terms, so I suppose I can directly ask her myself.<br>
+Cardinal Richelieu, how goes the purification process?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The third purification station is operating normally, and should finish running within fifteen minutes.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+An army of mass-produced Pawns, and a space larger than the actual size of the building––<br>
+This entire Basilica is a piece of Siren technology, isn't it?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Indeed. We've achieved these feats through recycling Siren technology.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Oh? So, you admit it readily?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+After all, I am in the mood to casually give away valuable information today.<br>
+Besides, you've been fighting in the Basilicas long enough to know that this phenomenon is commonplace. I never intended to cover it up in the first place.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Then why didn't you bother saying anything?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Because you never asked.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That is the first reason, but there's also a second – you seem like the type of person who genuinely relishes in piecing together the truth.<br>
+Plus, you've had your Royal Maid keeping an eye on me the whole time, so why would I go and threaten my standing with the Royal Navy?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+.......<br>
+That aside, was everything here made using Siren tech?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Not everything. That would require us to go back through history, to the time when this Basilica was first established.<br>
+A long time ago, the Iris Orthodoxy sent a small expedition to this island during the course of its war against the Sirens, in hopes of establishing a strategic foothold in the area.<br>
+However, it did not take long for the Sirens to invade and completely level the expedition base.<br>
+Generally speaking, conventional wisdom holds that the Iris fleet should've withdrawn for good – and live to fight another day.<br>
+But for whatever reason, the Holy See issued a declaration that day: retake control of the island, at any and all cost.<br>
+The Tribunal would soon dispatch another fleet to attack the Sirens' entrenched position.<br>
+They carried out their orders faithfully, and after paying a harrowing price, managed to wrest control of Kerguelen Island from the Sirens.<br>
+After regaining control, we found a number of non-combat installations left behind by the Sirens all across the island.<br>
+Apparently, they were trying to convert this place into a stronghold with logistical functions, but the blood price paid by the Orthodoxy fleet that day caught them off guard.<br>
+Perhaps that was not simply a stroke of fate. The Tribunal may simply have had information nobody else was privy to at the time.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+So you continued to build up the military fortress on the foundations of the Siren stronghold, and took control of it in the form of a Basilica?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+What you see in front of you has changed appearances multiple times before reaching the scale you see now.<br>
+Of course, there were various twists and turns along the reconstruction processes, but that would be the gist of it.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I see. That makes sense. What about the meanings behind these four colours?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+What do you mean exactly?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Blanc, Rouge, Noir, and Vert.<br>
+The bow, the sword, the scales, and the sickle.<br>
+Conquest, war, famine, and death.<br>
+What the four Basilicas truly represent... are the Four Horsemen of the Apocalypse, the harbingers of the Last Judgment.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+.......<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Were you also planning to tell me that from the beginning?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I must admit, that is one piece of information I was not planning to impart.<br>
+It's true, the Iris Orthodoxy was involved in eschatological research on behalf of the Holy See. It would've been quite embarrassing for them had word gotten out.<br>
+But, when I led you and your team here, I came to terms with the reality that you'd figure it out sooner or later.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Our faiths may be different, but they ultimately trace back to the same roots.<br>
+None of this symbolism is foreign to me.<br>
+My question for you is this – what did the Orthodoxy hope to achieve with this research? To pass Judgment upon this world?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Hardly. We created this symbolic system to streamline the process of controlling our four armies.<br>
+After the Holy See took control of the Siren stronghold here, we did manage to get our hands on a full suite of facilities for producing Pawns.<br>
+However, that did not come with the technology needed to control them. That's something only the Sirens know how to do.<br>
+After extensive research, our engineers came up with a set of devices that borrowed the imagery of the Four Horsemen to operate the four fleets.<br>
+And those are the four Basilicas you see now.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+So, each of the Horsemen corresponds to the division of the fleets based on function, and the concept of Judgment allows you to issue combat orders to exert a semblance of "control" over the Pawn fleets...<br>
+A remarkably innovative solution.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Or so it seemed on paper, but the execution did not pan out in the end.<br>
+The reason why it failed was the infection problem we discussed earlier.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+In other words, the infection of the Basilicas is not a malfunction per se, but rather a conceptual misalignment?<br>
+That explains a lot. No wonder why I've never seen Sirens struggle to command their Pawns.<br>
+And yet, you managed to create your own version of the Sirens' control system from scratch, relying solely on these bulky machines?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That's right. Béarn was the chief engineer during the second phase of the Basilica's construction at the time, and many of the devices inside were brought to fruition thanks to her.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+So, she's the chief engineer, huh? No wonder the two of you knew everything about the Basilica's installations along the way.<br>
+Is the purification system also derived from the imagery of Judgment Day?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Correct. It represents the cleansing of all sin from the "world."<br>
+Now, only one Basilica remains. Once we reactivate the purification system there, Béarn and I will handle the rest ourselves.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Exacerbation|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Island Inner Facility<br>
+Basilica Vert Control Area<br>
+Joint Basilica Investigation Team<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Hmm... What's going on here?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+What's wrong, Miss Béarn?<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Things are much worse than I had anticipated.<br>
+This was originally the first Basilica built on top of the Siren facilities, so it's also the oldest.<br>
+I already knew that the level of infection would be the most severe here.<br>
+But, I didn't expect it to be so severe that it'd generate its own Mirror Sea.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Wait, so the Mirror Sea didn't appear because Argus activated the emergency control system?<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+By the looks of things, that's right. All she did was cause the existing infection to spread.<br>
+This problem has been going on for far longer.<br>
+And to make matters worse, this Basilica's factory has been running nonstop this entire time.<br>
+This might be the real reason Vichya abandoned the island... The facility had already gone out of control, and instead of trying to get the equipment back under control, they sealed it off and allowed it to continue running...<br>
+We're fortunate the seal has managed to hold up until this point, but...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Eventually, the Pawns will overflow from this place and mindlessly spread "death" as their symbolism implies...<br>
+In other words, this would've turned into a major crisis sooner or later.<br>
+Had Her Majesty not sent us...<br>
+You would've had to take responsibility for whatever fallout came of this Basilica. Isn't that right, Lady Richelieu?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...Yes. While I did not account for the Royal Navy coming here, your assistance is the best thing I could've asked for.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Her Majesty would naturally want us to look after our allies~<br>
+Say, you mentioned just now that the factory has been producing Pawns nonstop. Where have they all gone?<br>
+On the contrary, we haven't encountered any resistance at all since we entered the Basilica. Things are going smoother so far than in any of the other Basilicas.<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+I can't give you a definitive answer without doing a bit of investigation myself, but they might've been sent deeper into the catacombs–<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Béarn...<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Ahem. Sorry, I spoke without thinking. I need to investigate whether the purification system will still be able to function as normal, so please excuse me for a moment.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Quite an uncharacteristically intense look in your eyes, Cardinal.<br>
+What are these "catacombs" that Béarn mentioned?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...One of the Basilica's facilities, responsible for breaking down and recycling the Pawns manufactured here.<br>
+The situation down there probably isn't very optimistic either, but it doesn't change the task at hand.<br>
+Once we reactivate all four purification stations, that should resolve the most urgent part of this problem.<br>
+As long as we work together and seal this place back up, there won't be anything for you to worry about.<br>
+(I can't afford to get any more outside parties involved in this mess... Especially not the Commander.)<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I'll trust your assessment of the situation then.<br>
+Naturally, as these facilities belonged to the Iris Orthodoxy, the Cardinal should have the final say over what to do with them.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+There's no need to be so formal. Though I've had to choose my words carefully, do let Queen Elizabeth know that I am extremely grateful for her assistance.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Heehee. I'll do just that.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Much obliged. Now, all we need to do is to wait for Béarn to finish reactivating the purification system.<br>
+Miss Scylla, would you mind preparing some snacks for us in the meantime?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+As you wish, Lady Richelieu.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Sign of Judgment|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Island Inner Facility<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+What on earth is this place? I don't remember it being here when we surveyed the island.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+This is the Tribunal's fortress. It only rises out of the ground when all other purification systems have come online.<br>
+Its presence confirms that the purification of Basilica Vert has been completed.<br>
+Unfortunately, I don't know much about this fortress either, as it was always one of the Tribunal's most closely-kept secrets.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Can I also assume that the Tribunal was directly responsible for the construction of the fortress? They seem to have had big plans for this place.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That's correct. As a matter of fact, the Tribunal's Mechanicus Confessor sank not too far from here.<br>
+At the time, the Tribunal had invested a massive amount of resources into that ship's construction, managing to create one of the most powerful conventional warships at its disposal.<br>
+As it was one of their prized vessels, there was technically no reason for it to have participated in the battle in the first place.<br>
+However, they still sent it to the front lines as part of their mission to reclaim the island at all costs.<br>
+What's more, it actually did play an instrumental role in that battle against the Sirens.<br>
+It truly is a pity, just as you said.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...I see Vichya hasn't replaced these flags. They're still in the Orthodoxy's old design.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes, I suppose some good did come of their negligence to maintain this place.<br>
+A sight for sore eyes indeed. May the Holy Iris's blessing be upon us all...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Do you wish to pray? I can leave you alone for a while if you'd like.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+No need, resolving this situation is still our top priority.<br>
+There will be plenty of time for prayers later.<br>
+Béarn, begin the final purification. Carry out the Judgment procedure.<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+As you wish, Cardinal.<br>
+<br>
+Béarn pulled the lever on the purification system, spurring it into action.<br>
+In an instant, the ambiance lightened, as did the anxiety gripping all the girls' hearts.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+So... Is that it? We've finally done it?<br>
+Okay. Hero, return the bow to the Cardinal. You don't need it anymore.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Give it back? Heck no. This is loot and I earned it.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You WILL give it back, and that's that. We're not in the business of looting sacred relics.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+If she wants it, she may keep it.<br>
+That bow is only a replica for exhibition purposes anyway.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Sweet! Cheers, Cardinal~<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well, if you're sure. Cardinal, I'd like to take this moment to thank you again, on behalf of the whole Royal Navy.<br>
+Were it not for you, Royal Oak and Argus would still be in danger and this crisis would continue to threaten our forces in the Antarctic region.<br>
+Once we're back home, I will relay everything that happened here to Her Majesty.<br>
+If you'd like me to forward a message to her, please tell me now.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+No, I should be thanking you. You helped us regain control of these Basilicas, and let me see our old, glorious flag as it once flew over this island.<br>
+You needn't tell Her Majesty anything specific. Just give her my sincerest thanks.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That's all? Alright, I'll–<br>
+...Cardinal, what's that in the sky?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The sky...?<br>
+<br>
+And thus shall the lightless purgatory manifest above the skies, a portent from beyond the realm of Man.<br>
+An all-devouring void, the sign of the arrival of the End Times.<br>
+Raise your eyes to the Apocalyptic Sun, for Revelation has come.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Catacombs|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+"I watched as the Lamb opened the first of the seven seals, and there before me was a white horse."<br>
+"Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest."<br>
+"When the Lamb opened the second seal, another horse came out, a fiery red one."<br>
+"Its rider was given power to take peace from the earth and to make people kill each other. To him was given a large sword."<br>
+"When the Lamb opened the third seal, there before me was a black horse."<br>
+"Its rider was holding a pair of scales in his hands. Then I heard what sounded like its voice, saying, 'Two pounds of <br>
+wheat for a day's wages, and six pounds of barley for a day's wages, and do not damage the oil and the wine!'"<br>
+"When the Lamb opened the fourth seal, before me was a pale horse."<br>
+"Its rider was named Death. They were given power over a fourth of the earth to kill by sword, famine and plague, <br>
+ and by the wild beasts of the earth."<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Where... am I...?<br>
+What happened? I don't understand...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Don't fear, Implacable. Take deep breaths and calm down.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+*huff*... *huff*... Eurgh, I feel awful.<br>
+One moment I'm looking up at the sky, the next, the world is spinning like I'm inside a washing machine.<br>
+<br>
+Shadowy reflections were cast upon the stained ocean. High above, a black sun hung above the sky like an unending solar eclipse.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Did we... get sucked through a Singularity?<br>
+<br>
+Implacable looked around blankly. Basilica Island had completely disappeared, replaced with a sprawling network of intricate buildings reaching all the way to the skyline.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This feels like somewhere we aren't meant to be...<br>
+Cardinal, do you know anything? Are we "beneath" the Basilicas?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I believe so, yes. We've somehow entered the catacombs.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Catacombs? You mean Mirror Sea, don't you?<br>
+I doubt all the technology in the Basilicas could've created something like this.<br>
+Not only is this clearly Siren territory, but it's also been here for a long time.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes, you're probably right.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+How did this happen? You said it'd be over once we activated all the purification systems on the island.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It SHOULD have been over, but it seems I was mistaken... I can only guess the system malfunctioned in some way.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That, or this was an elaborate Siren trap from the very start.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Regardless, I shouldn't have assumed the Mirror Sea was limited to the island's surface layer. A foolish error on my part...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't blame yourself. The Sirens have ways of catching even the most cautious among us off-guard.<br>
+Let's focus on getting out of here. Does anything about this place resemble its real-world equivalent?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I can't say for sure. If I notice something, I will let you know.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Why did we get sent down here to begin with?<br>
+Is it because we now know too much, and the Tribunal wants to silence us?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That seems unlikely. If they wanted to get rid of us, we would've been sent down when we activated the very first purification system.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+"Unlikely" means it's not out of the question, but I'll take your word for it. For now.<br>
+If I remember right, you said Pawns are broken down and recycled in the catacombs, correct?<br>
+So if we're not being silenced, maybe the facility sees us as "outside invaders" and is trying to eliminate us.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+As far as I know, the catacombs and the purification process have no bearing on one another.<br>
+It should also be stated the catacombs are almost entirely separated from the surface layer. Béarn and I don't know any way to reach them.<br>
+That is to say, I fear you may be right in saying that we've walked into a trap.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That would make it one of the most despicable I've ever seen.<br>
+Whoever's behind it knew that people would investigate if they just withdrew the island's defense force.<br>
+Then, the Pawns would easily dispatch whatever mass-produced ships were sent in, forcing us shipgirls to do the job.<br>
+The Royal Navy wouldn't be able to activate the purification systems or escape the Mirror Sea, and would eventually succumb to the Pawns.<br>
+Meanwhile, the only people in Iris Libre who could activate the purification systems would be sent to be dealt with down here...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...We need to get moving, immediately.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Huh? Why? Are Pawns on the way?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+No, something far worse. By the look of things, the catacombs are completely out of control.<br>
+If we don't act now, we'll be in grave peril.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Implacable! Implacableeeee!! We need to get the heck out of here!!<br>
+There's a huge-ass mecha-knight coming straight towards you!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mecha-knight? Did I hear that right?<br>
+<br>
+An emergency call interrupted the girls' analysis of the situation, shifting their attention towards the distance.<br>
+There, they saw Hero, fleeing while desperately firing her cannons at the rapidly approaching threat.<br>
+A massive mechanical knight, clad in black armor with a set of heavy scales in hand, galloped across the water. An ominous, deathly aura followed in its wake.<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+...Mechanicus Harbinger - Famine.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It looks very different from what I remember, but that is definitely one of the Four Horsemen!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Royal Navy, intercept the target!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+No, Implacable! Make no attempt to fight it! It is far too powerful for us!<br>
+Béarn! Search for a nearby conceptual anchor! We must retreat at once!<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Understood, Cardinal! I will look for one!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Retreat? Why? Isn't it just an oversized Pawn?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It is nothing of the sort! We have to run!<br>
+Look, I'll explain what it is and how to deal with it once we've made it somewhere safe!<br>
+You need to trust me, Implacable!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Alright, alright. You know this place better than me, so I'll just follow you!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Conceptual Anchor|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Unknown Location<br>
+Joint Basilica Investigation Team<br>
+- Data Corruption//- Fatal Error Detected//<br>
+Led by Béarn, the girls fled into a derelict building.<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+Phew... Many anchors appear to be broken, but at least this one works. We should be safe here.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+You sure? How's this regular old building gonna protect us from that knight?<br>
+Please tell me there's some kind of secret weapon stashed away here...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+There is not. This is just an ordinary building.<br>
+It is the conceptual anchor's sanctity that protects us. The knight can't come near us.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+First something about anchors, now "sanctity?" Care to explain what's going on?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Sanctity, much like purification on the surface level, is a concept we use to control the Basilicas.<br>
+Conceptual anchors, meanwhile, are things which strengthen that sanctity. They are Sacraments that have been buried deep underground.<br>
+Sanctity has a range inside which no infection can occur, and Pawns which have already been infected cannot come near it.<br>
+The purification systems let us regain full control of the surface facility, while these conceptual anchors help us retain some semblance of control down here.<br>
+Also, while the anchor is working for now, I'm not sure how long it will last.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+All I got from that was one thing – that there is equipment down here which you're familiar with.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+In short, yes. As for the... um, "mecha-knight," was it?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No need to dumb it down. Tell me everything you know about that thing first.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That knight you saw was, originally, a natural entity that came into being in these catacombs.<br>
+It is one of four in total – Conquest, War, Famine, and Death, each appearing in its respective area.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+A... natural entity? What?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes. It is neither Pawn nor shipgirl, but rather a being born from the Orthodoxy's beliefs.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+A non-Siren entity, brought into existence by a Mirror Sea... That's completely unprecedented.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Forgive me, I should clarify one thing... The Four Horsemen were not always present here.<br>
+Their origin dates back to when the facility had just been opened...<br>
+A lot of the Siren technology the Tribunal discovered could not be controlled and were deemed too dangerous to research, yet they also did not want to destroy these hard-won spoils.<br>
+As a result, they piled all that technology in the Mirror Sea lower layer while shifting their focus towards researching the comparatively safe technology on the surface.<br>
+Just like the factory you saw, which was a powerful tool that could be used almost immediately.<br>
+However, once Pawn production was in full swing, Pawns began appearing down here as well for reasons nobody understood.<br>
+By the time we received word that something had appeared in the catacombs below, the research team stationed here had been wiped out, and the Four Horsemen had already been born.<br>
+At first, they did not pose a significant threat, and the Tribunal successfully captured the underground layer with only a modest force.<br>
+But things have changed significantly since then.<br>
+As long as the factory continues producing Pawns, the Four Horsemen will continue to be reborn.<br>
+To make matters worse, the worse the Infection problem in the upper layer, the stronger the Horsemen become each time.<br>
+It was initially thought that the Horsemen were avatars which control the Pawns, and that reinforcing their respective concepts would let us control them.<br>
+In reality, they may have been the ones controlling us, using the Basilicas to make themselves stronger.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...That may well have been the Sirens' plan from the very beginning.<br>
+It wouldn't surprise me if they let you "capture" this base on purpose.<br>
+But, if you knew about this problem, why didn't anyone destroy the entire Mirror Sea and all the equipment along with it to resolve the issue once and for all?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Well... That's because there is no central control unit in this Mirror Sea.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+What? That's impossible.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The Tribunal searched the catacombs numerous times, but were ultimately unable to find a way to dispel the Mirror Sea.<br>
+They also tried to take out the Four Horsemen on multiple occasions, but they kept coming back stronger and stronger.<br>
+It soon dawned on us that if we kept producing Pawns, we would essentially be putting four Siren superweapons into our world.<br>
+And so, we halted all production and sealed off the catacombs.<br>
+That is when Béarn proposed the idea of installing conceptual anchors in an attempt to weaken the Horsemen.<br>
+It worked... until the Orthodoxy split in two.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+And because Vichya neglected to maintain the Basilicas, the factory eventually malfunctioned and resumed production.<br>
+Then came the infection, making the Horsemen only grow stronger and stronger.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Correct. I am truly sorry that things ended up this way.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+It's not your fault. You're not the one who built this place or let it spiral out of control.<br>
+But, you are eager to get things back under control, aren't you?<br>
+When Béarn let the word "catacombs" slip, you interrupted her because you hoped to personally deal with the Horsemen yourselves. Is that right?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes, because with the purification complete and Pawn production stopped, the Horsemen will not get any stronger. Their days are numbered.<br>
+On the contrary, had we done nothing and let the infection grow unimpeded, the Horsemen would one day break out and render the Antarctic waters impossible to navigate.<br>
+We can blame Vichya for being neglectful all we want, but at the end of the day, this is a calamity that could affect the entire world – one that we, as shipgirls, are sworn to prevent.<br>
+This was supposed to be Iris Libre's battle, but now that the news of Vichya's withdrawal has gotten out...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+So that's why you were being so secretive about this place.<br>
+Even if you can't get rid of the Mirror Sea, stopping the production of Pawns and destroying the Four Horsemen for good would already be enough.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That's right, and Iris Libre must shoulder that burden.<br>
+Eliminating Pawns associated with a particular Horseman's concept seems to have the effect of weakening it.<br>
+Rest assured, Implacable. I swear upon my name as the Cardinal to do whatever it takes to regain control of this place.<br>
+But first, I'm going to get you all home.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I do need to correct you, however – you need not shoulder this burden alone.<br>
+You'll fall behind in the long run if you pour all your resources into solving this without outside help.<br>
+I say let's work together to resolve your Horseman problem. Then we can all go home.<br>
+We're allies, and whether you wanted it or not, we're in this together now.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That's... a favor too tremendous to ask for.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ask for it anyway. You know we'd gladly help.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I'll need to think of a way to repay you.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You'll have plenty of time for that later. Let's deal with the more pressing issue.<br>
+That being, finding the way out of here.<br>
+As much as I'd like to take the Horsemen on, I don't think we stand a fighting chance at the moment.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+About that... Sadly, I have no idea where to even start looking.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I beg your pardon?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+This is the first time I've personally seen this Mirror Sea layer with my own eyes.<br>
+The Tribunal's reports always stated that the situation here was under full control.<br>
+They didn't even bother to include small details such as how to enter and leave the lower layer...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Small details, huh...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Ahaha... The Tribunal, despite its tremendous service to the Iris Orthodoxy as a whole, also served as an extension of the Holy See's influence.<br>
+Their allies are many, and even I have difficulty comprehending their motives at times.<br>
+Béarn, it was you who proposed the conceptual anchors. Perhaps you know the catacombs better than I do?<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+I'm afraid not, Cardinal.<br>
+While I did come up with the idea of the anchors, I know the layout no better than anyone else here.<br>
+Even ignoring the Mirror Sea's inherent effects, what structures remain here have changed drastically since I was personally involved.<br>
+I can't say whether that's due to Siren intervention or Vichya modifications, but it matters little.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This wouldn't be much of a trap if we could simply walk out of it.<br>
+Worst case scenario, there simply is no exit. If so, we just have to find and destroy the central control unit.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+As I said, we already tried that a long time ago...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That doesn't mean we won't succeed this time. After all this time, we all have more experience dealing with the Sirens' tricks than before. Maybe we'll notice something you overlooked back then.<br>
+Besides, what other option do we have?<br>
+I'll launch my recon planes and see what I can find. If you don't have any better ideas, you might as well at least pray for my success~♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sigil of War|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Island Catacombs<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Lady Implacable, Lady Richelieu, this is the layout of the entire area. Please take a look.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Efficient as always. Thank you for your hard work.<br>
+Hmm... You're right, I don't see any sort of control device here, and the entire place is crawling with enemies...<br>
+Wait, this is odd... Cardinal, didn't you say that each of the Four Horsemen controlled a set of Pawns corresponding to their respective concepts?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes, each Horseman basically functions as a fleet leader.<br>
+Whenever a Horseman is reborn, the facilities here will automatically produce another Pawn fleet for it.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Things don't add up then. There are four different-coloured Basilicas corresponding to each of the Horsemen, but I'm only seeing one type of enemy here – red.<br>
+Where are the other three Horsemen's Pawn fleets?<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+I see a large number of wreckages of unknown origin around this area. Maybe the Four Horsemen fought amongst each other, and one of them came out on top?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Fighting amongst themselves? Has anything like that happened in the past?<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+No, but we've also never been in this exact situation before either.<br>
+Furthermore, it's not unheard of for Sirens to have Pawns fight each other for experimentation purposes.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Based on my experiences, that does sound somewhat plausible...<br>
+But even if we accept that premise, it shouldn't lead to these results.<br>
+Do you remember what we saw at Basilica Vert's factory?<br>
+Despite it being the largest facility and most severely affected by infection, there were very few Pawns on the upper level. If what you said is true, shouldn't the Horseman of Death have the largest fleet and be the strongest of the Four?<br>
+So my question is – why are they not down here either?<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Ooh, let me take a stab at that!<br>
+Since only the red fleet is still remaining, that means the Horseman of War was simply stronger!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That's begging the question, Hero. What evidence do we have?<br>
+We don't know if there's any inherent differences in strength between the fleets.<br>
+If the Horseman of Death had the largest fleet and should have been powered up from the infection, how did the Horseman of War come out on top?<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Uhh... I got nothing for ya!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Do you think this has something to do with "concepts?" Just like how the concept of sanctity kept us safe earlier, do you think something here is amplifying the concept of War?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Good, I reached the same conclusion.<br>
+Cardinal, I will now conduct a little experiment to test this hypothesis. If I start to show any signs of abnormalities, please stop me by any means.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...What are you trying to do?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+We'll find out if I'm on the right track soon enough.<br>
+<br>
+Implacable closed her eyes, took a deep breath, and began to chant in an almost imperceptible voice.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+"When the Lamb opened the second seal, another horse came out, a fiery red one..."<br>
+"Its rider was given power to take peace from the earth..."<br>
+<br>
+As the words of power flowed from her lips, a red mist began to diffuse from her body, just like the Pawns around them.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Wait... Stop this right now, Implacable!<br>
+<br>
+Even as red mist flowed from her, Implacable ignored Richelieu's words and continued her chant.<br>
+<span style="color:#ff9900;">Implacable：</span><br>
+"...and to make people kill each other. To him was given a large sword..."<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Lady Implacable... Lady Implacable!!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Tch... I apologize for this!<br>
+<br>
+KABOOM––!!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Aaaaargh! That hurt like hell! What in the world just happened?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I hit you with a blank to snap you back to your senses. How are you feeling?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Terrible, thank you very much! My mind's all foggy, like someone just hit me in the head!<br>
+But, uh, my little gamble paid off, right? When I was reciting those lines from the Scriptures, something started happening to me, right?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Yes, your body started giving off the same red mist coming off of those Pawns, and you wouldn't respond to me.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Almost as if I was being possessed by the concept of War, right?<br>
+You said earlier that this space brought the Four Horsemen into being based on the Iris Orthodoxy's beliefs. What you just saw was a manifestation of the power of concepts here.<br>
+And if the Four Horsemen are fighting over control of this area, then the concept of war would permeate every corner of this space.<br>
+What about the concepts of Death and Famine? For Pawns and mass-produced machines, these concepts do not exist at all.<br>
+As for the concept of Conquest, that would likely depend on whether or not they were given orders, correct?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That seems likely. In other words, this space imposes a completely different set of rules on the Horsemen compared to up above.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+By the way, how did the Orthodoxy try to fight against the Horsemen back then?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+You mean, tactics-wise? We didn't really have the luxury to pick and choose our fights, so we had to suppress them as we saw them.<br>
+If you want further details on the exact nature of those operations, you'd have to look through the Tribunal's logs.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I don't think that'll be necessary. You had us activate the purification stations at each of the four Basilicas in a specific order, right?<br>
+If that symbolises the breaking of the seals from the Scriptures, what do you think would happen if we defeated the Horsemen in the opposite order?<br>
+We'll follow the order of Vert, Noir, Rouge, and then finally Blanc. Given the diminished strength of the first two Horsemen, we should also take advantage of that opportunity to learn how to best fight in this space.<br>
+Also, we can use the conceptual anchors to wait for opportune times to attack and avoid unfavourable fights.<br>
+What do you think about my proposal, Cardinal?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It's certainly worth a shot. We have more resources at our disposal now than we ever did back then.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Excellent. In that case, let's move out while we can still seize the initiative.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sigil of Death|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Death's Territory<br>
+Joint Basilica Investigation Team<br>
+- Data Corruption//- Fatal Error Detected//<br>
+KABOOM––!!<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Hero has arrived at the quest objective~☆<br>
+Hehe! Come out, my dear Horseman! I'm gonna turn you into juicy EXP~☆<br>
+<br>
+However, Hero's energetic taunts were met with only silence.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+This is supposed to be the part of the Mirror Sea corresponding to Basilica Vert, right? How come it's so quiet...?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+We only ran into a few stragglers along the way here, roaming around as if they didn't have a commander at all...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Quite unusual... I have a bad feeling about this, so let's stick together and try to figure out what's going on.<br>
+<br>
+It did not take long for the group to come across a series of remains in an open area.<br>
+What formerly was a suit of armor was strewn across the water, seemingly crushed and torn to shreds.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+An intricate scythe was discarded nearby, leaving no doubt that this is where Vert, the Horseman of Death met its demise.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+What in the world happened here...?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+S-sorry, the armour was destroyed so badly I couldn't distinguish it from the other wreckages in my previous recon report.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+We have one fewer giant mecha-knight to go up against. Isn't that a good thing?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No... Quite the opposite, actually.<br>
+The whole point is that we're trying to defeat the Horsemen in a certain order.<br>
+Scylla, are you able to analyse the traces left behind to track who's responsible for this?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Certainly. The most conspicuous damage comes from Siren shells, and these lacerations came from a massive slashing weapon.<br>
+Neither Pawns nor conventional mass-produced ships are able to cause this kind of damage, so that most likely narrows things down to two of the remaining Horsemen.<br>
+Given what we know about the armaments of the other Horsemen, War most closely fits the bill.<br>
+For machines that do not know the concept of "Death," this space seems like a particularly unforgiving place to fight.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Actually, you forgot another group that could've inflicted damage like this – the METAs.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I did consider that possibility, but the beacon tracker hasn't picked up anything as of yet.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+(That's assuming all the META ships play by the same rules... Not a bet I'm willing to hedge. Though, things would admittedly be much simpler if the META aren't involved.)<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+What led you to bring up META all of a sudden, Implacable?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Hmm... I'm not sure if you've heard the news yet, but not too long ago, we detected an unidentified META signal after a break-in at one of our repositories, where a number of cultural relics were stolen.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Not a Siren? There's a META out there currently targeting the Royal Navy?<br>
+That certainly is a reason for concern. Thank you for sharing that bit of information with me.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You're welcome. But, the problem still remains that Death has already been defeated.<br>
+It's clear that we're no match for the Horseman of Famine we ran into earlier, so we should continue to steer clear of it for now.<br>
+I'm actually more curious about the status of the other Horsemen now. We didn't pick up on either War or Conquest during the previous recon.<br>
+We've been fortunate that we only have to deal with the War's Pawns and mass-produced ships, but...<br>
+If the Horseman of War truly is the strongest of the Four, it probably still is out there somewhere.<br>
+As long as we can confirm the existence of the other two Horsemen, we technically will still be able to maintain the correct order.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+If we have to scour the entire Mirror Sea, wouldn't it be more efficient to split up our forces?<br>
+My forces will go search for War. Do you think you can take Famine and Conquest?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Are you sure? War should be the toughest of the remaining Horsemen.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The strength of the Horseman of Conquest is still an unknown, so we both will have to bear some degree of risk.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Very well then. Everyone, spread out, and avoid unnecessary combat. Remember, your priority is just to confirm the existence of the remaining Horsemen!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sigil of Famine|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Famine's Territory<br>
+Joint Basilica Investigation Team<br>
+- Data Corruption//- Fatal Error Detected//<br>
+After splitting up, Argus and Royal Oak were tasked with locating the Horseman of Famine.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+"Even a hundred eyes are not sufficient to locate my mark." ...Yeah, our target isn't in this area either.<br>
+Hmm... Wait, are those fresh wreckages over there?<br>
+Let's see if there are any more clues of recent battles nearby. It might lead us to our target.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Ahh... Carriers sure are amazing, being able to search wide areas so easily. I wish I could be that useful...<br>
+Even though I'm a senior knight... I can't contribute anything at all with my naked eyes...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Don't say that, Royal Oak! I can't deal with enemies charging straight at us the way you can. We all have our strengths and weaknesses!<br>
+But, uh... Here, why don't you use these binoculars? You'll at least be able to see farther this way.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+...Binoculars?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+"Naval Holiday-themed commemorative binoculars from Viscker Industries, lens and frame only, excellent magnification at medium range, makes for a perfect collectible!"<br>
+Or, so it says on the package.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+...Why do you even have that?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+I originally bought it to repay Hermes for this hat she got me.<br>
+But I got sent off to this operation and won't get to see her for a while, so why don't you go ahead and see if it works fine?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Um, alright then. If you don't mind, I...<br>
+I still can't see as far as you, even with binoculars.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Yeah, but it's still better than nothing, right?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Guess so!<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP––––<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+This is Béarn, light carrier of Iris Libre. My Royal Navy friends, do you copy?<br>
+Lady Richelieu has just located the Horseman of War.<br>
+It took quite some time to fight through the large number of mass-produced enemies, but we are now attempting to approach the Horseman.<br>
+We will also try to assess the combat power of its escort fleet. Over.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Béarn's already found the target, so we better get a move on it.<br>
+Oh wait, there it is right there! Royal Oak, I found my target as well!<br>
+Hold on, Famine is currently in combat with War mass-produced ships! Also, Famine seems to have sustained serious damage!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+It's already been damaged? So, the Horsemen really are fighting amongst themselves...<br>
+According to Lady Implacable, the Horseman of Famine should be defeated next, right? If the mass-produced ships manage to take it down...<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Then we won't have to fight at all, right?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This is Implacable. Everyone, can you hear me?<br>
+We've made some significant findings while searching for the Horseman of Conquest.<br>
+I'll skip straight to the takeaway first – Conquest is still fine, but a strange situation has developed here.<br>
+Hero and I are currently waiting outside the perimeter of Conquest's control area, so please regroup with us as soon as you complete your recon assignments.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Understood.<br>
+We've confirmed the condition of Famine. It is currently in combat with mass-produced ships, and has already sustained some damage.<br>
+In any case, we'll be there shortly, Lady Implacable.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+My team is currently being pursued by enemies, so there might be a bit of a delay on our end.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Do you need help?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Not particularly. War hasn't made any moves as of yet, but the sheer number of mass-produced ships are slowing us down even if they're not a major threat.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+In that case, I'll be waiting for you at the designated spot.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Sigil of Conquest|选项=20|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Inverted Basilica Blanc<br>
+The entrance to the facility was wide open, exposing the passageway leading to the central area. No enemies were in sight, seemingly leaving the facility unprotected...<br>
+But Implacable and Hero found a completely different obstacle in front of them.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Hiii-yah!<br>
+<br>
+Hero slammed her fist into the wall of light, causing its holographic surface to ripple but not fracture.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Huh. Weird. Implacable, can I shoot it real quick?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Go ahead. Just steer clear of the blast radius.<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+What the hell?! It bounced off!<br>
+How is it so sturdy?! It's made of light! I can see right through it!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+How annoying... Maybe it's similar to those Siren blockade devices.<br>
+If so, we'll need to destroy the power generator before we can proceed.<br>
+I believe passing through the Skybound Wall requires you to... Hero, what are you doing?<br>
+<br>
+Unfazed, Hero leaned against the wall of light once more.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+I've got an idea!<br>
+You basically said concepts can influence this Mirror Sea, yeah?<br>
+So, what if we simply believe in the idea that the wall will let us through?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Hmm... It's worth trying, at least.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Exactly. Drawing a key symbol on it should do the trick!<br>
+Watch this! I'm gonna perform a miracle!<br>
+Opeeen Sesame!<br>
+<br>
+The wall of light continued to glow impassively despite Hero's efforts.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+...No dice. Stupid bloody wall!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I think you've got the right idea, but not the right approach.<br>
+Let me give it a try.<br>
+<br>
+Implacable put her hands together, cleared her mind, and began praying softly.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+"My Lord, I know thy works and thy strength..."<br>
+"I hast kept my word, and hast not denied thy name..."<br>
+"Please, open before me a door that no man can shut."<br>
+<br>
+However, her prayer fell on deaf ears. The wall remained impassable.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Well, that did a whole lot of nothing.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Perhaps "open a door" is too specific...<br>
+Oh well. We're not in a rush. There are plenty of other things we could try.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Lady Implacable? What are you doing?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Trying to find a way through this wall. As you can see, it's blocking our path.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Both shooting at it and praying did nothing! I dunno what else to do!<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+You... prayed to the wall?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ahem. Let's not dwell on that.<br>
+What matters is, we need to figure out a way through. Does anyone have any ideas?<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+I may have one. Instead of trying to break through that wall, can't we try breaking through the stone instead?<br>
+It's quite a blunt solution, but it should be more straightforward than going through the wall of light.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Someone already tried, it seems. Look.<br>
+<br>
+Implacable gestured towards a massive hole in the facility's stone exterior.<br>
+Though the hole reached deep, one could see the same glow as the wall of light leaking through at its very end.<br>
+Looking closer, it became evident that the wall of light was filling in the huge gap made into the facility.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Look at the size of this hole... Did one of the Horsemen do this?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Who knows. Maybe it was trying to find a way through, just like us.<br>
+I suspect this wall is the reason Conquest is still alive and well.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+If even a Horseman couldn't get through, there's no way my cannons will... Wait, I know!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You're thinking about dropping bombs on it, aren't you? I already tried.<br>
+While the facility's roof appears unprotected by the wall, aircraft lose all control when flying straight over it, for some strange reason.<br>
+Figuring that out cost me a few planes.<br>
+Whoever built this wall, be it Conquest or somebody else, they clearly did not want anyone breaching it.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Then I suppose our only option is to locate and destroy its power source.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+A good idea, if only we knew where to look.<br>
+For all we know, the power source could be on the other side of the wall.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+But then it's impossible to reach... We cannot defeat Conquest.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mhm. That would mean we're stuck in this place forever, unable to defeat the last Horseman.<br>
+But, I think I have an inkling. The Orthodoxy built this place, so let us ask the Cardinal for ideas.<br>
+Scylla, prepare some refreshments. We'll take a minute to relax before she arrives.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Key of Will|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Conquest's Territory<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+A cup of tea for you, Lady Implacable. I also made sandwiches, if you'd like one.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Thanks. Also, didn't I tell you I wanted to make the tea myself?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Making tea is the duty of a Royal Maid. You'll have to forgive me for denying your request.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You're so mean. I came up with a new brewing method, but you won't even give it a chance.<br>
+Do you deny me at every corner out of spite, or what?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Spite? Perish the thought. I only do it because you have an unfortunate habit of making tea that is, mildly put, unsavoury.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+......<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+*yaaawn*... My kingdom for a bed... What's taking Richelieu so bloody long?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Do you think she might have encountered a Horseman?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Doubtful. This is the Cardinal we're talking about. She's probably just inspecting buildings along the way.<br>
+We've no reason to worry. Let's just relax and be patient.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Hello again, ladies. Apologies for being so late.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Are you alright? No brushes with death?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Fortunately not. My trip went quite well.<br>
+I broke off from a pursuing mass-produced fleet, then went to look for clues that may lead us to an exit.<br>
+Sadly, I did not find any.<br>
+What about you? How is the situation?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Not great, since this wall of light stands in our way. At the moment, we're having teatime.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Wall of light...? That's a Skybound Wall! I'm sure of it!<br>
+Did you activate it? What happened?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No. It was already up when we got here.<br>
+(It's also strikingly similar to a Siren blockade device. Are they one and the same, perhaps?)<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Without a doubt, this is a refined version of the Skybound Wall we saw at the Vichya-held Basilica previously.<br>
+So, does this mean that the Orthodoxy was already studying this technology? Was it developed in an attempt to control the Horsemen?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That doesn't add up. Someone must've improved the technology recently... But who was responsible for capturing this Horseman? Vichya, or the Tribunal?<br>
+Actually, neither option seems likely. Why would Vichya ignore the situation on the surface level and make the situation down here even more difficult?<br>
+Assuming the Skybound Wall is actually capable of holding in a Horseman for good, we must then ask: why did only one Wall get built instead of just containing all four?<br>
+Either imprisoning them this way was too difficult, or whoever imprisoned this one didn't want to do the same to the rest.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+This may be just like the situation on the surface. While there was a way of containing the problem, it was deemed too difficult to sustain, and later abandoned.<br>
+The one possibility we cannot ignore is that this is actually a trap laid for us by the Sirens.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You're right. Maybe its purpose isn't to keep a Horseman confined, but rather us.<br>
+The only reason anyone would have to enter this Mirror Sea is to eliminate the Four Horsemen.<br>
+And what better way to do that than luring all our forces into one inescapable area using an immobilised Horseman as bait?<br>
+All theorising aside... Do you know how to dispel the Skybound Wall, Cardinal?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Destroying its power generator would be the simplest way.<br>
+However, considering the apparent laws of this Mirror Sea, another solution may be to conceptualize the wall away.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I already tried praying for the door to open, and that didn't work.<br>
+But, maybe something like this will–<br>
+"And when he had opened the seventh seal, there was silence in heaven..."<br>
+"And I saw the seven angels which stood before God..."<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+NO! STOP AT ONCE!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ow! You don't need to shout!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I'm just trying to stop you from doing something stupid. Remember what happened the last time you tried to recite the second seal?<br>
+If your faith is not strong enough, invoking the concepts within this Mirror Sea is extremely dangerous!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Why? Because I would lose myself to them?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That is my theory, and I don't want to see it proven. Allow me to try instead.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Very well. Show us how it's done.<br>
+<br>
+Implacable took a step back and silently observed the Cardinal, whose faith far better represented the concepts of the Iris Orthodoxy.<br>
+Facing the wall, Richelieu put her hands together and began reciting a prayer.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+"My Lord, I know thy works and thy strength..."<br>
+"I hast kept my word, and hast not denied thy name..."<br>
+"Please, open before me a door that no man can shut."<br>
+<br>
+The Skybound Wall shimmered and then dissolved, revealing a path to the other side.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Trapped|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+The girls walked forward into the passage, encountering several more layers of Skybound Walls which Richelieu dispelled in identical fashion.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Impressive work, Cardinal. My faith pales in comparison to yours.<br>
+Because this IS a matter of faith, and not your technology being biased towards you, right?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The Skybound Wall, like the other Sacraments of the Basilica, originated from the Iris Orthodoxy's beliefs.<br>
+It may simply be a case of me being more familiar with the root origin of the Wall than you are.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I'll just have to take your word for it.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Hey, Implacable, there's a bunch of inactive mass-produced ships in this area.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Presumably products of the Mirror Sea. I'd imagine them being offline is the reason we're not seeing fog already.<br>
+Let's ignore them, since they're not doing anything.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+And pass up on all that free EXP? Come on, let me at 'em!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Don't be daft. Until we understand how this place works, I don't want you accidentally waking up the Horseman.<br>
+If it's exercise you want, scout ahead and give us a sitrep on the Horseman's status.<br>
+But whatever you do, don't touch it. And don't shoot at it either.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Laaaame. But fine, I'll try to behave myself.<br>
+Hey, Implacable! Pretty sure I've found Conquest!<br>
+It's big, it's white, and it's kind of just sitting there behind the wall of light.<br>
+<br>
+The rest of the team caught up with Hero and arrived in the hall where the Horseman of Conquest was imprisoned.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Looks unresponsive, like the mass-produced ships and Pawns we saw on the way.<br>
+I'd hate to fight that giant in this cramped place.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+That's not all! I found something else besides the Horseman!<br>
+Lookie here!<br>
+<br>
+Hero trotted up to one of the giant columns supporting the structure's ceiling.<br>
+Behind it, there was a human-sized cage encased in a Skybound Wall.<br>
+One could make out the features of a shipgirl trapped inside it.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Who is that? Judging by the horrific state of her rigging, she can't be one of ours...<br>
+Do you recognise her, Hero?<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Can't exactly see her face. My guess is she's an Orthodoxy girl.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Is that... La Galissonnière? What is a member of the Tribunal doing here?!<br>
+I'll create an opening. Let's get her out of there!<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+*yaaawn*... Boy, I've not slept that long in ages.<br>
+Morning. Or... good evening? What time even is it?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Hello. You're not from this world – or should I say, branch – are you?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Nope, but it's a pleasure to meet you, Cardinal-from-another-branch. I'm La Galissonnière of the Ashes~<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+You're with the Ashes?!<br>
+Seems our beacon tracker was useless... So, some of you do have a way of evading our detection.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Hey, I remember you. Implacable, Royal Navy aircraft carrier, right?<br>
+You're a long way from home. Whatcha doing here?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Catching the thief who stole from one of our repositories, it seems.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Whoa, excuse me? You accusing me of something as lame as stealing? I've got way better stuff to do.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Okay then. Why are you here?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+To bust up a Siren test site, duh.<br>
+You've also seen the experiments the Sirens have been conducting here, haven't you? If this place continues to run, things will get real ugly for your branch, real quick.<br>
+Once I got down here, I could tell that the Sirens were exploiting the concepts of the Four Horsemen of the Apocalypse to develop self-reinforcing superweapons. As long as those factories keep churning out Pawns, the Horsemen will keep getting stronger ad infinitum.<br>
+On the bright side, stopping the experiment is also simple – all you need to do is shut down the factory, and "seal" the Horsemen in reverse order.<br>
+They've got two serious weaknesses. One, their reliance on concepts, and two, that they'll go at each other's throats like Pawns if given the chance.<br>
+So, I came up with a plan to take advantage of both of these things.<br>
+First, I turned off the stabilization device, letting all four Horsemen loose so they could start going at one another.<br>
+I set up Famine to take its army and go up against Death, and after Death had been damaged enough, I went in and dealt the finishing blow.<br>
+I'm makin' it sound easy, but I shouldn't have to tell you that you don't kill a Horseman of the Apocalypse in one afternoon.<br>
+Anyway, I ran back the same playbook and got War to attack Famine next.<br>
+But, that didn't work as planned. Famine's survival instincts seemed to be too strong, and so it kept running away every time the situation was unfavorable.<br>
+So, I thought about trying to use Conquest to take out both of them at once, but as for how that turned out... you saw that for yourself.<br>
+And as for how I got into this Mirror Sea in the first place? All I'll say is, it's one of the perks that comes with joining the Ashes.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+In other words, you were thoroughly defeated and have been trapped here ever since, waiting for someone to rescue you?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+...Look, I just felt like getting in on the action, alright? I attacked the darn thing, and, uh... kind of walked into a trap.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Are you really a member of the Ashes? You're nothing like what I've heard about the others.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+What, not gloomy enough for you? I'm just new.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Oh. That explains a few things.<br>
+Still, can't you Ashes go toe-to-toe with the Horsemen? Your convoluted plan seems unnecessary.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Look, this is still some dangerous Antiochus tech we're dealing with here. Besides, why fight if I can just outsmart 'em?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+"Outsmart?" Seems the joke was on you.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Hm? Did you say something?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Sorry, I was just thinking out loud.<br>
+You said you're here to destroy a Siren test site. I do find that interesting.<br>
+I was under the impression the Ashes had much bigger fish to fry.<br>
+Don't tell me... you got sent here to do grunt work because you're the newest of the bunch?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Grunt work, huh? You don't know anything about us Ashes.<br>
+We've been fighting Antiochus way, way longer than any of you.<br>
+"But you ran into a trap!" Yeah, so what? Waste your breath on somebody else!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No need to get worked up. Our goal of fighting the Sirens is the same.<br>
+You still want the test site gone, no? I don't see why we can't work towards that together.<br>
+Think of it as repaying us for rescuing you.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+You wanna team up? Fine by me.<br>
+But I'm not repaying you for anything. Even if you hadn't come along, someone else would've let me out sooner or later.<br>
+While I prefer to work alone, I'll make an exception this time since you technically did give me a hand.<br>
+In exchange, your lips are sealed about my little slip-up. Got it?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Horseman of Famine|选项=23|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Famine's Territory<br>
+Joint Basilica Investigation Team<br>
+- Data Corruption//- Fatal Error Detected//<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This makes it the third Ashes member we've made contact with. What do you think about her, Scylla?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+She sounds simple and straightforward, and it's great that our goals align. However...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Yes? Go on.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+She also talks too much. While we did rescue her, she's under no obligation to tell us anything.<br>
+I can't put my finger on why, but it makes me uncomfortable.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mull it over a bit more. You're not the only one who thinks the same way.<br>
+I can't find any faults with her so far, but something still feels amiss...<br>
+Is it because I'm naturally inclined to distrust the Ashes, or is it something more tangible...?<br>
+At any rate, keep a close eye on her.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+As you wish, Lady Implacable.<br>
+<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Our cannons cannot penetrate it, even at this close range?<br>
+This time, surely...!<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Did that thing just dodge her shot? So much for being halfway dead!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+It would seem our enemy's combat ability rivals that of even elite Sirens.<br>
+I can see now why La Galissonnière opted not to fight it head-on.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+This can't be happening...<br>
+Even with Implacable, Richelieu, and support from the Ashes, we still can't defeat an injured Horseman...?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Small correction – our Ashes ally isn't doing much of anything.<br>
+La Galissonnière, what are you doing? Didn't you say you'd help us?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+I AM helping. Can't you tell I'm praying?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Excuse me? Don't tell me you're praying for it to give up.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Give up? No, more like blow up! Literally!<br>
+"O, benevolent Iris, whose holy words I heed, whose divine will I carry out..."<br>
+"Take my enemy as your own, feel my fury as your own..."<br>
+"Grant me strength! Give me the power to cleanse this evil from your world!"<br>
+<br>
+La Galissonnière's echoing prayer swept like a rejuvenating wind across the battlefield, instantly dispersing the noxious energy that infested it.<br>
+At the same time, the black Horseman staggered as the tide of battle began turning in the shipgirls' favor.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+What in the world...? The Horseman is weakening?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Yeah! Now hit it with all you've got!<br>
+Let's see how tough you really are, skinny boy! Ahahaha!<br>
+<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Yo, I found the Horseman of Famine.<br>
+Looks like it's about... 40 or 50% busted?<br>
+Honestly pretty surprising though, considering it fought like a million mass-produced ships and still came out on top.<br>
+So, what's the plan? It's limping – now's a good time to strike.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Then strike we will. Let's not waste this opportunity.<br>
+I will accompany the vanguard. Implacable, can you watch over Béarn in the meantime?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Of course. Royal Oak, you'll take point and direct the artillery fire. Assist Richelieu and La Galissonnière in a frontal attack on Famine.<br>
+Argus, Béarn, and I will provide aerial support.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Very well. I suggest launching your attacks from the opposite direction.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+Y-yes, Implacable! I swear I will not disappoint you!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Come now, ladies! Let us put an end to this wretched harbinger!<br>
+<br>
+<br>
+A thunderous explosion struck the colossal Horseman, breaking it apart like a stone golem, never to reanimate again.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Hell yeah! Suck on that! Whaddya think of me now, huh?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Clearly, I misjudged you. You live up to the name of the Ashes.<br>
+Thank god you're on our side.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+This alliance is only temporary. Keep the praise coming, though!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I must ask... What did you do back there?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+What do you think? I offered a prayer, and it was answered.<br>
+That's how this test site works. No reason not to exploit it.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Meaning, you manifested a concept?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Bingo. Well, kind of. You can't just make any concept real – it's got to do with faith.<br>
+Other stuff from the Orthodoxy's religious texts applies as well, since it's where the Four Horsemen come from.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That much, I already know. It's the reason War and Conquest became stronger than Death and Famine.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Mhm. Did you try prayin' for yourself?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Yes. I recited a verse from the Scriptures, and something started happening to me... Luckily, Richelieu stopped me before I could finish.<br>
+Are these concepts really that dangerous?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+No shit they are! Embracing the Horsemen's concepts is like inviting the Mirror Sea inside your head.<br>
+Use your brain before you pray. Don't go around offering words of power to a harbinger of doom.<br>
+Speaking of which, you'll want to figure out how to manifest your faith sooner rather than later.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+What do you mean?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+My own prayers can only have a very limited effect on you. You need to play by the Mirror Sea's rules as well, or the Horseman of War will blast you off the face of the earth.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Is it truly THAT powerful?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+I'm not kidding here. Since the very concept of war empowers it, you're gonna make it stronger when you go to battle with it.<br>
+You CAN overcome those gains, but your conviction needs to be strong enough.<br>
+If you want a safe bet, pray to the Iris. That's how you got through those walls, right?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Implacable... I think you should take her advice and sincerely pray, if only for practical purposes.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+If that's what it takes to defeat the Sirens, sure. Can I do it right here?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+No. Praying is a sacred act. You are my ally, and I will not condone you treating the Holy Iris without respect.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I suppose it must be done in a reasonably dignified location, huh.<br>
+First, we'll need to find a place matching that description. Shall we?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Who Will Answer Your Prayers?|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+After looking around the Mirror Sea, the girls managed to find an Orthodoxy church preserved by a conceptual anchor.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+This is like a vault of Orthodoxy Sacraments... It's definitely seen better days, but I suppose beggars can't be choosers.<br>
+Well, Cardinal, could you give me an example of a prayer?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Of course. Please listen closely.<br>
+<br>
+Richelieu got down on her knees, put her hands together, and began reciting a holy prayer.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+"Hallowed Iris in Heaven, blessed is your holy name."<br>
+"Give us the courage to stride upon the blue seas as we would in the clouds before you."<br>
+"Give us your Sacrament so that our lives may be filled with purpose."<br>
+"Forgive our sins, so that we may forgive others."<br>
+"Protect us from tribulations, and ward us from evil."<br>
+"All authority, all glory, all of Heaven and Earth belong to you."<br>
+<br>
+Hearing her prayer, beads of golden light emerged from thin air and converged upon her Orthodoxy flag, one light at a time.<br>
+Once she had finished praying, her flag shone like glorious sunlight through stained glass.<br>
+Simply laying eyes upon it inspired courage and empowered the spirit of all those who followed the Iris.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Incredible, Cardinal.<br>
+Even I could feel how powerful that prayer was.<br>
+No doubt about it. You'll easily be able to fight the Horseman of War face to face.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Whew... Okay, Implacable. It's your turn.<br>
+As La Galissonnière said, the Iris is safe to pray to. I did not sense the influence of any Horseman in my heart.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Good to know. I'll give it a shot as well.<br>
+"Hallowed Iris in Heaven, blessed is your holy name."<br>
+"Give us the courage to stride upon the blue seas as we would in the clouds before you."<br>
+"Give us your Sacrament so that our lives may be filled with purpose."<br>
+"Forgive our sins, so that we may forgive others."<br>
+"Protect us from tribulations, and ward us from evil."<br>
+"All authority, all glory, all of Heaven and Earth belong to you."<br>
+<br>
+Unlike Richelieu's prayer, Implacable's produced no lights, and her surroundings continued to remain dark.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...<br>
+...Huh?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Looks like God doesn't feel like answering your prayers.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Hah... Why am I not surprised... Just like at the Skybound Wall...<br>
+Guess I'm not as devout and pure-of-heart as the Cardinal after all~♪<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+What happened at the Skybound Wall?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I recited the same prayer as Richelieu, but only her words had any effect.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I see, it makes sense now.<br>
+Though this is a Siren Mirror Sea, it was shaped and sculpted into a Basilica of the Iris Orthodoxy.<br>
+Everything here, from the concept of Judgment to the Four Horsemen, are built from the Orthodoxy's cognitive system.<br>
+Naturally, the concept of faith is an inseparable part of all this.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+And there is no way for me to invoke the concept of a faith I do not hold.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It's never too late for me to share the Iris's teachings with you–<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I appreciate the sentiment, Cardinal, but I'll have to pass.<br>
+But, I just had an idea. If "faith" is the concept that governs this space, it should not matter if we have faith in the same thing, right?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+In theory, yes. However, you just experienced for yourself how dangerous it can be to invoke the concepts of the Four Horsemen.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Who said anything about praying to one of those Siren constructs? If there's anything you should know about the Royal Navy, it's that we have an unshakable faith in one person.<br>
+<br>
+With a wry smile, Implacable took out a small carving in Queen Elizabeth's likeness and clasped it in her hands.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That's... a figure of Queen Elizabeth? What are you trying to do?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Do you think the Sirens can distinguish between the faith of the Iris Orthodoxy and the faith of the Royal Navy?<br>
+Who knows, maybe someone else might hear my prayers?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+I'm not expecting much, but... can't hurt to give it a shot.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Heehee~♪ Now then, to the one I trust in most...<br>
+"To the hallowed name who smiles upon our land like the sun,"<br>
+"Protector of our safe haven, beacon of our glory."<br>
+"May the light of your wisdom protect us across the seven seas."<br>
+"May the authority of your blade reveal the truth in this chaotic world."<br>
+"May you grant us the power to overcome hardship and endure trials, to purge evil and bring peace."<br>
+"Grant us your enlightenment, so that we may open the way in your name."<br>
+"To you I pray, Your Majesty, Queen Elizabeth!"<br>
+<br>
+This time, her prayer was heard and answered.<br>
+From the carving clutched between her hands, golden lights emerged, ascending to the church ceiling.<br>
+The specks of warmth clumped together into one big ball before bursting, showering the girls with star-like fragments of hope.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Thank you, Your Majesty.<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+Is this... Her Majesty's grace?<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+I feel so warm. Relaxed. Like being back home...<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Whatever the hell this is, it feels like I just received a major buff. I'm gonna walk all over that War loser~☆<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+I'll be damned... It actually worked.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Whether you follow the Iris or Her Majesty doesn't matter. What's important is that you believe in it.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...It seems you had it in you after all, Implacable. You do have strong faith, just not in the Iris.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Mhm. At any rate, I should be ready now.<br>
+There are still two Horsemen left. Even with this newfound strength, we must stay on top of our game.<br>
+And who knows how long these prayers will last. Let's get going at once, Cardinal.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Horseman of War|选项=25|主框=1|样式=primary|展开=是}}
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+I've found where War is! You all ready?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ready as can be. Our prayers are still in effect, too.<br>
+We'll need them, for sure. War has a massive escort of mass-produced ships.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+What did you expect? The bigger the army, the more war you can wage!<br>
+On the bright side, War itself is a real tough bastard!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Now how is that supposed to be a good thing?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Huh? Don't you get a rush of excitement just thinking about going head-to-head with a powerful enemy?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ah, yes, because putting myself in mortal danger is exactly my idea of excitement.<br>
+<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+What?! It's repairing itself using armour plates torn off from its mass-produced ships!<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Expending as many troops as necessary to win... Fitting for an embodiment of war.<br>
+It's very bad news for us, however. We cannot hope to win a war of attrition.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Even if we do, we won't have any bloody ammo left to beat the last Horseman!<br>
+<span style="color:#4eb24e;">Argus：</span><br>
+It doesn't matter! We need to defeat War before we can even start thinking about defeating Conquest!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+No. In fact, now is the time we SHOULD be thinking about Conquest!<br>
+War as a concept is not a goal; it serves a higher purpose. That purpose is conquest.<br>
+As long as the Horseman of Conquest is incapacitated, nothing is currently expressing the concept of conquest in this area.<br>
+But what if I become a conduit for the concept of Conquest?<br>
+In other words, if I can successfully "conquer" these mass-produced vessels, I can diminish the concept of War.<br>
+What do you all think? I believe La Galissonnière had the same idea of using Conquest to weaken War.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+...Uh, I wasn't thinking of anything philosophical; I was just gonna make them fight.<br>
+Your idea is certainly gutsy, I'll give you that. And, I don't see anything wrong with it at a glance, as long as you're fine with the risks.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I'm against it. Channeling one of the Mirror Sea's concepts is far too dangerous. I can't let you shoulder such a burden for the mistakes we made.<br>
+If it's our only choice, I shall be the one to do it rather than you.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Sorry, Cardinal, but I think your strong faith inhibits you. You can't truly become a vessel for Conquest. It has to be done by a nonbeliever like me.<br>
+Don't worry, I'll be fine. I have Her Majesty's protection.<br>
+If the worst thing happens and I start to lose control, just save me like you did the last time.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+But...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Hero, give me your bow!<br>
+<br>
+Implacable took the bow – the symbol of Conquest – and drew the string, training her sights on the Horseman of War.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+"I watched as the Lamb opened the first of the seven seals, and there before me was a white horse."<br>
+"Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest."<br>
+"With this bow, he would smite those who opposed him, until none were left!"<br>
+<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Implacable, War is coming towards us.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+It's raring to go, hmm? How befitting its namesake.<br>
+Looks like there's no signs of damage on it either. This won't be an easy fight.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+What's wrong? Isn't your queen watching over you? I'm sure she won't let you lose more than a limb or two at worst.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Thanks for the "encouragement."<br>
+If you don't start pulling your weight, maybe you'll lose a limb or two as well.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Listen, I said I'd fight by your side, not that I'd adapt to your tactics.<br>
+As I said, I'm not gonna charge up there head-first, as that's not my style.<br>
+You guys can run up there and butt heads all you want, but I'm gonna look for weaknesses to exploit.<br>
+Sounds good? Alright. Have fun now, shipgirls of this "branch"~<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Cheeky little... Why is she like this?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Calm down, Implacable. She doesn't trust us to not use her as cannon fodder, which is sensible.<br>
+We don't have much of a choice anyway, so let's at least give her the best conditions to succeed.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Ugh... Everyone, attack it head-on!<br>
+Her Majesty's graces are with us! Show that Horseman our might!<br>
+<br>
+<br>
+Royal Oak lodged her greatsword into the Horseman's armor.<br>
+After a series of deafening explosions, the crimson flames smoldering on the Horseman of War's armor petered out, and the giant crashed to the ground.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+*pant*... *pant*... It's... It's finished!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+An excellent display by the Royal Knight, of course. Her Majesty will be proud of you.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+M-me? Not at all... I only put in the finishing touch. Your quick wit is what really saved the day.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+C'mon, we all know my bow is the star of the show~ When I get home, I'm gonna frame it and hang it over the fireplace~<br>
+...Hang on, did it always look this dull? And what are these cracks in the wood? Those weren't there before!<br>
+<br>
+Right before Hero's eyes, the cracks spread further and further through the sacred bow, finally reaching both ends of it.<br>
+Then, with a hollow snap, it broke into a dozen little pieces.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Noooo! My precious boooow!<br>
+Whyyyy?! It was my loot! I earned it!!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+It's a shame, but there's no use crying over spilled milk. I'll ask Richelieu if she can give us another replica later.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Oh! Okay, sweet♪<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+With War defeated, now there's only Conquest left to vanquish to end this Siren experiment.<br>
+<span style="color:#4eb24e;">Royal Oak：</span><br>
+But Conquest will be strongest yet, now that we've "conquered" all the other Horsemen.<br>
+Not to mention, we're nearly out of energy and ammo... And there aren't any more concepts we can channel, are there?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Not necessarily... In the Scriptures, there are a total of seven seals, which means three more concepts should be–<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Hold up, I'm gonna veto that! You're not pulling a stunt like that again!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Why not? Channeling Conquest worked fine, and we've seen no symbolism for the remaining three seals in the Mirror Sea.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Just because they haven't been manifested in the form of Horsemen does not mean that the concepts don't exist!<br>
+For all we know, the Mirror Sea itself could represent the last three seals.<br>
+You're aware of what those seals are, right? Do you have any idea what kind of calamity you could bring if you were to manifest those things?<br>
+If you don't want the world to end, you'd better get that idea out of your head!<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...I'll admit, I didn't consider that.<br>
+So, if that's no longer an option, how do you propose we take down the last Horseman?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Well, the original plan was to have Conquest and War take each other out after softening them up enough, but that's no longer on the table.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+*sigh*... I suppose we're in a real bind then.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Hmm? Does it even matter at this point?<br>
+Did you forget that the Horseman of Conquest is still asleep behind the Skybound Wall?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Well, sure, it's not an immediate threat to us at the moment...<br>
+But that doesn't improve our situation. While you can leave this place whenever you want, we can't unless we finish the job.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Riiight, I forgot! Lucky for you, there are a few ways to deal with an inactive Horseman.<br>
+One being, you can use the walls of light to cut it to ribbons if you position 'em right.<br>
+Now that I think about it, why didn't the Tribunal of your branch already come up with that idea?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...Let's see if your idea is feasible, shall we?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+No answer, huh. Fine, to the lair of the sleeping giant we go!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Remnants of Dust|选项=26|主框=1|样式=primary|展开=是}}
+<br>
+Mirror Sea - Horseman of Conquest Confinement Area<br>
+<span style="color:#4eb24e;">Béarn：</span><br>
+After investigating the control room, I'm pleased to report that we can indeed take Conquest apart by manipulating the Skybound Walls.<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Just as I suspected. Whaddya say, alt branch Cardinal? Wanna give it a shot?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+(She was right. All along, the Tribunal had a way to eliminate this Horseman... So why didn't they do it?)<br>
+<br>
+Richelieu glanced at the Skybound Wall controls and felt a tremble in her hand.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...Why would I have to do it?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Doesn't HAVE to be you, but you know the power that concepts and faith can have.<br>
+I mean, who knows what'll happen if you let Implacable touch an Orthodoxy Sacrament?<br>
+There's the practical angle, too. Iris Libre's leader "conquering" an Antiochus problem that's festered beneath its Basilicas for decades. See what I'm getting at?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I understand. I'll do it.<br>
+<br>
+Richelieu took a moment to inspect the control panel.<br>
+Its design had changed somewhat since the days of the unified Orthodoxy, but that wouldn't impede her.<br>
+Following the procedures she remembered, she input a sequence of parameters, then hit finalize.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Will that do it?<br>
+<span style="color:#ff9900;">{namecode:199}：</span><br>
+Probably? Give it a minute to work.<br>
+<br>
+The facility's machinery sprung into action with a roar, moving the Skybound Wall like a glowing sawblade.<br>
+It cleaved the Horseman apart, one piece at a time. Its head, chest, armor plating, even its steed. It made no attempt to fight back.<br>
+When the Skybound Walls were finished, the embodiment of Conquest was no more than a pile of assorted scrap metal.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+It's over... Finally.<br>
+<br>
+Basilica Island - Surrounding Waters<br>
+Joint Basilica Investigation Team<br>
+11:54 - Day 6 since start of investigation<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Nnngh... The black... sun...<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Good morning, Implacable. Did you have a nightmare?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I guess so... I still can't get the sight of the black sun over the Mirror Sea out of my head...<br>
+What even was that? Do you know, Cardinal?<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Unfortunately not, but I have a possible explanation for it.<br>
+My instruments could not detect any heat coming from that sun. I would theorize that it serves as a portal between the surface and the catacombs.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+As always, there's never a concrete answer...<br>
+At least we prevented an eventual crisis. All in a day's work.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Lady Implacable, our beacon tracker has lost La Galissonnière's signal.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Gone like a ghost. A fitting exit for someone from the Ashes.<br>
+Oh well. She doesn't owe us anything, and it's not like we can make her stay anyway.<br>
+Speaking of leaving, it's time we do the same. Take care of the Basilica Island, Cardinal.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Of course. I cannot thank you enough for helping us bring it back under our control.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Anything for a friend. If you ever need the Royal Navy again, give us a call.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I certainly will.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Until next time, I wish you the best.<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+The same to you. May the Iris watch over you.<br>
+<br>
+Later, as the girls watched the Basilica Island vanish over the horizon...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+We had a META right beside us for a long while, and the beacon tracker didn't record anything...<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Yes, it's very strange. The Commander used one to track the Ashes before, and yet it completely failed to detect La Galissonnière.<br>
+<span style="color:#4eb24e;">Hero：</span><br>
+Wouldn't surprise me if they upgraded their stealth tech. Either that, or the tracker's just bloody broken.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Nothing indicates that it wouldn't be working properly, but since we rarely run into the METAs, it's hard to actually verify that.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I'll make a note of this. This mission left me with a lot of questions I want answered.<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+Do you believe La Galissonnière was hiding something from us?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Very likely. Don't forget, there's still a META out there actively working against us in secret.<br>
+The entire Basilica system was designed with a higher authorisation level than sysadmin, preventing Argus from shutting down its emergency mode.<br>
+My question is, what might that authorisation be? What purpose does it serve, and who holds it?<br>
+<span style="color:#4eb24e;">Scylla：</span><br>
+I... don't have enough information to answer that.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Hah... With any luck, we won't have to wait long to find out.<br>
+In any case, I have a feeling this whole affair is far from over.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Revelation I|选项=27|主框=1|样式=primary|展开=是}}
+<br>
+Basilica Island Lighthouse<br>
+Iris Libre Fleet<br>
+Midnight - Day 7 since start of investigation<br>
+The clock ticked over silently to the new day.<br>
+The Cardinal was asleep at her desk, exhausted after what had transpired.<br>
+█ █ █ █ █ █ █ █ █<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...This scene again...?<br>
+...A black sun, descending into the world of Man.<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▇▆▅■▎▃▌█▆▎▇█▎■▄▆▋▂▁▅▎▌█▊▇▊▇<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+That sound... Where is it coming from?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▅▁▂▋▄▊■▆▎▅▁▂▋▄▊■▆▎▇▆▅■<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I... can't make any sense of it.<br>
+Who goes there? May I ask you to show yourself?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+█▊▇▊▇▅▁▂▋▄▊▌█▌<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+...Jean Bart?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+█▎■Be▋▂▁▅▎▌ware▇▊▇<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Beware? Beware of what?!<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+█▆▎Come█▎█<br>
+█▎█▎to▅█▎█▎▌me▅▎▌█<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+Wait! Jean Bart, don't go!<br>
+Jean... Bart...<br>
+Just now... was I dreaming...?<br>
+That... was just a dream... right?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Revelation II|选项=28|主框=1|样式=primary|展开=是}}
+<br>
+█ █ █ █ █ █ █ █ █<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I knew that place was going to give me nightmares...<br>
+I suppose that proves my gut instincts right, then?<br>
+<br>
+Nobody answered Implacable's rhetorical question, only a black sun roiling silently above her.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+That being the case, let me take a closer look at you.<br>
+You spooked me twice back there on Kerguelen. Just who do you think you are?<br>
+<br>
+Implacable turned her eyes towards the black sun, and made up her mind.<br>
+But just as she was about to step forward, she suddenly felt another presence behind her.<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▇▆▅■▎▃▌█▆▎▇█▎■▄▆▋▂▁▅▎▌█▊▇▊▇<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+...Your Majesty?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▅▁▂▋▄▊■▆▎▅▁▂▋▄▊■▆▎▇▆▅■<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+What are you saying? I can't hear you...<br>
+<span style="color:#ff9900;">???：</span><br>
+If you can't hear anything, then there's still hope for you yet.<br>
+Ghosts and demons, step aside before your Queen!<br>
+<br>
+KABOOM––!!<br>
+The whole area seemed to shudder violently with that explosion, and in the place of the enigmatic voice stood another person.<br>
+Implacable opened her eyes, and came face-to-face with the figure across from her.<br>
+<span style="color:#ff9900;">???：</span><br>
+What are you staring at us for?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Queen Elizabeth... META?!<br>
+<span style="color:#ff9900;">Queen Elizabeth META：</span><br>
+What's with that stunned look on your face? Did you not call out to us?<br>
+Now that I take a closer look at you, you still haven't undergone METAmorphosis...<br>
+How, then, did you invoke our name? And, how did you manage to get yourself involved with THOSE things?<br>
+How interesting...<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+I... can't quite follow what you're saying...<br>
+Am I in a dream?<br>
+<span style="color:#ff9900;">Queen Elizabeth META：</span><br>
+For you, perhaps.<br>
+Wake up. Go back. This place was never meant for you.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+But, I still have so many questions–<br>
+<span style="color:#ff9900;">Queen Elizabeth META：</span><br>
+That was an order, not a suggestion.<br>
+"Go back."<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Revelation III|选项=29|主框=1|样式=primary|展开=是}}
+<br>
+█ █ █ █ █ █ █ █ █<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+The real me should still be stationed at the floating fortress right now, which means...<br>
+I'm dreaming right now, and this is a scene from my dreams.<br>
+<br>
+Nobody confirmed Ulrich's statement to herself, only a black sun roiling silently above her.<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+The black sun... is this some kind of religious symbol of sorts?<br>
+And why is it appearing in my dream?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▇▆▅■▎▃▌█▆▎▇█▎■▄▆▋▂▁▅▎▌█▊▇▊▇<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+Friedrich?!<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+▅▁▂▋▄▊■▆▎▅▁▂▋▄▊■▆▎▇▆▅■<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+What are you trying to say? I can't understand you at all...<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+█▎■Be▋▂▁▅▎▌ware▇▊▇<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+Beware? Beware of what?<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+█▆▎Come█▎█<br>
+█▎█▎to▅█▎█▎▌me▅▎▌█<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+What? What did you just say?!<br>
+<span style="color:#696969;">█ █ █ █ █：</span><br>
+█▊▇▊▇▅▁▂▋▄▊▌█▌<br>
+<span style="color:#4eb24e;">Ulrich von Hutten：</span><br>
+Wait! Don't leave without telling me what you just said!!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Hunt|选项=30|主框=1|样式=primary|展开=是}}
+<br>
+Unknown location<br>
+KABOOM–––!!<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+Sorry to keep you waiting. How's the situation?<br>
+<span style="color:#ff9900;">Hunter META：</span><br>
+I was a step too late. The "whale" got away, and it's only the small fry left now.<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+Unfortunate. Did you manage to retrieve anything else?<br>
+<span style="color:#ff9900;">Hunter META：</span><br>
+Yes, I have everything here. Want to take a look?<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+...I knew it. The "whale's" seemingly random movements do have a purpose after all.<br>
+<span style="color:#ff9900;">Hunter META：</span><br>
+Which makes me even more confused as to what they're trying to do. Can the Magister's plan still proceed in this state?<br>
+Or, did the Magister also account for all this?<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+Why are you asking me?<br>
+<span style="color:#ff9900;">Hunter META：</span><br>
+Well, you have a pretty good track record and whatnot...<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+Isn't there someone who'd be more suitable to answer that than me? For example, a certain "Miss D."<br>
+<span style="color:#ff9900;">Hunter META：</span><br>
+I've already tried. She won't tell us anything unless we catch the "whale."<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+I see. I'll leave you to it then.<br>
+<span style="color:#ff9900;">Hunter META：</span><br>
+Mmhmm.<br>
+<span style="color:#ff9900;">Sheffield META：</span><br>
+But, let's head back first. Her Majesty is waiting for us.<br>
+<br>
+"All beings in creation have both beginning and end."<br>
+"Ashes to ashes, dust to dust."<br>
+"But, I shall continue to live."<br>
+"For doing so is the only way to achieve my purpose."<br>
+"No matter how desperate the odds, it must be done."<br>
+"––The Truth must be found."<br>
+"For that pursuit, for that hunt, one must become as a beast."<br>
+"If this is a price you are willing to pay,"<br>
+"Then I may accept your allegiance."<br>
+"Otherwise... Hmm, let's see..."<br>
+"Yes, offer unto me your prayers."<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

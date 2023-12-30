@@ -10,7 +10,7 @@
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 没错，这次我也认真做了一番准备呢。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
-……{namecode:408:Z23}，也要参加？<br>
+……{{AF|Z23}}，也要参加？<br>
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 当然！为了让所有同伴都能享受这场盛事，参与投票是没有任何门槛的。<br>
 不过，已经进入荣耀殿堂的伙伴们不可以再次成为候选人就是了。<br>
@@ -36,10 +36,10 @@
 <span style="color:#4eb24e;">标枪：</span><br>
 那么……要去哪里才能拿到宣传册呢？<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
-宣传册的事，就交给{namecode:6:绫波}吧……让你们见识下“鬼神”的力量——<br>
+宣传册的事，就交给{{AF|绫波}}吧……让你们见识下“鬼神”的力量——<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 ……呼、呼。真没想到港区的同伴们都这么有热情……<br>
-还好你抢到一本……辛苦了，{namecode:6:绫波}……<br>
+还好你抢到一本……辛苦了，{{AF|绫波}}……<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 没关系……事不宜迟，让我们来查看一下攻略书吧。<br>
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
@@ -80,7 +80,7 @@
 咦，说起来，一路上都没见到投票箱呢。<br>
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 感觉刚刚在换票处没有拿到实体票的时候……你就应该问这个问题了。<br>
-据{namecode:98:明石}说，考虑到本次“票数将会过于庞大”，所以已经转为使用电子票的方式计票啦。<br>
+据{{AF|明石}}说，考虑到本次“票数将会过于庞大”，所以已经转为使用电子票的方式计票啦。<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 原来如此……确实是一个增强便利性的举措。<br>
 这样在港区中随时随地都能投票了。<br>
@@ -104,7 +104,7 @@
 <span style="color:#4eb24e;">标枪：</span><br>
 太好了！我们快点进去吧！<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
-等等……{namecode:6:绫波}察觉到了异常的气息……<br>
+等等……{{AF|绫波}}察觉到了异常的气息……<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 欸？可这里是投票会场欸……应、应该不会有危险的吧？<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
@@ -112,7 +112,7 @@
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 怎么想也不可能吧！我们推开幕布进去看看就好了！<br>
 <br>
-{namecode:408:Z23}推开了门……什么都没有发生。<br>
+{{AF|Z23}}推开了门……什么都没有发生。<br>
 <span style="color:#4eb24e;">拉菲：</span><br>
 妖怪……没有出现。<br>
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
@@ -137,7 +137,7 @@
 <span style="color:#4eb24e;">标枪：</span><br>
 我已经想到谁会这么做了……<br>
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
-{namecode:55:青叶}她们么……<br>
+{{AF|青叶}}她们么……<br>
 <span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
 但愿不要出乱子就好……啊哈哈哈…………<br>
 {{折叠面板|内容结束}}
@@ -232,7 +232,7 @@
 <span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
 ——净化者！！<br>
 <br>
-{namecode:6:绫波}手起刀落，直接劈向了净化者。<br>
+{{AF|绫波}}手起刀落，直接劈向了净化者。<br>
 然后，净化者就像是纸片一样倒了下去——<br>
 <span style="color:#4eb24e;">标枪：</span><br>
 哇……哇哇哇！…………咦？<br>

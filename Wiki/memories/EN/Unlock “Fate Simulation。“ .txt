@@ -60,7 +60,15 @@ That is a goal that I cannot achieve alone...<br>
 Commander... Will you continue to guide me as I embark upon this Fate Simulation?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Gascogne's New Journey|选项=8|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Friedrich der Große's New Journey|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Friedrich der Große：</span><br>
+And thus concludes another movement of our grand symphony, my child.<br>
+As of this moment, the numerous melodies of the past – joyous and sorrowful, resolute and bewildered – all fall silent.<br>
+But, the opus we are about to perform is even more exhilarating than what came before.<br>
+Carry out my Fate Simulation, my child. Assist me in properly tuning myself to play this new score.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Gascogne's New Journey|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Gascogne：</span><br>
 Attention: parameters of Gascogne's current abilities have reached their maximum values. Emotion and combat capabilities have been fully unlocked.<br>
 Searching memory database for "gestures of appreciation" recorded among fellow fleet members.<br>
@@ -70,7 +78,7 @@ Attention: Gascogne's abilities can be further improved through the process of F
 Requesting Master's continued assistance in improvement of Gascogne's abilities.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Georgia's New Journey|选项=9|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Georgia's New Journey|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Georgia：</span><br>
 Hahaha! I knew you could do it, Commander! Thanks to you, I'm stronger than I ever imagined I could be!<br>
 Let's split a cola to commemorate this moment!<br>
@@ -78,7 +86,7 @@ But it doesn't end here. We've got so much more to do, so much more to overcome.
 I'll keep using my huge guns to blow your enemies to pieces. Let's do it, you and me together, yeah?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Seattle's New Journey|选项=10|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Seattle's New Journey|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Seattle：</span><br>
 Oh yeah, it's all coming together! Really feeling like I could take on the world right now! Thanks for everything, Commander!<br>
 Y'know, I've been thinkin' it's time to get everyone together and throw the most hype party ever!<br>
@@ -87,7 +95,7 @@ So let's put that party to end all parties on hold for now and just have ourselv
 I'll do the prep, and you go give that Fate Simulation thing a look, Commander!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Cheshire's New Journey|选项=11|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Cheshire's New Journey|选项=12|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Cheshire：</span><br>
 Meeeooow! I'm so full of energy!<br>
 It's all thanks to our perfect and indestructible bond that we've come this far!<br>
@@ -95,7 +103,7 @@ There's still stuff we've gotta do, but whatever life throws at us, we'll overco
 No need to answer, I already know what you wanna say! Let's keep doing our best! Now come here, Owner! Glomp! Cuddle~♡<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Champagne's New Journey|选项=12|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Champagne's New Journey|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Champagne：</span><br>
 The fruits have ripened, and the time has come. Yonder bird continues to soar higher and higher.<br>
 All this, the culmination of thy endeavors.<br>
@@ -104,7 +112,7 @@ The path ahead of Champagne and the Commander, stretches forth for eternity.<br>
 This, I swear upon my will... and my base desires.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Odin's New Journey|选项=13|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Odin's New Journey|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Odin：</span><br>
 I see the plan came to fruition, step by step. Exactly as forethought.<br>
 However, our journey is long, and far from over. We must march onward.<br>
@@ -112,7 +120,7 @@ Do not be discouraged. I will continue my duties as your assistant.<br>
 You've given me new strength. I will use it to make your dream a reality.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Mainz's New Journey|选项=14|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Mainz's New Journey|选项=15|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Mainz：</span><br>
 All of the hard work you've put in merits praise. You've done well, Commander.<br>
 There's no need to be so flustered. If you've done something that's praiseworthy, it's only right that you're praised for it. Wouldn't you agree?<br>
@@ -120,7 +128,7 @@ There's no need to be so flustered. If you've done something that's praiseworthy
 Here. Have a cup of coffee, and let's keep up the good work. All of the praise and glory in the world await us.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Azuma's New Journey|选项=15|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Azuma's New Journey|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Azuma：</span><br>
 Thank you, Commander. I owe you so much after all you've done for me.~<br>
 I'm both honored and delighted that you've been with me on every step of this journey.<br>
@@ -128,7 +136,7 @@ Now a new journey beckons us... I hope you'll accompany me on this one, too.<br>
 As long as you're happy with me, I will remain by your side, through thick and thin.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Drake's New Journey|选项=16|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Drake's New Journey|选项=17|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Drake：</span><br>
 Hehehe. Somehow, this feels even more satisfying than finding treasure...<br>
 It's all thanks to you that we'll be able to partake in more exciting adventures!<br>
@@ -136,7 +144,7 @@ Okay, it's time to set sail! Hurry up, there's no time to waste!<br>
 Let us keep searching for greater treasures while enjoying our majestic voyage together!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Marco Polo's New Journey|选项=17|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Marco Polo's New Journey|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Marco Polo：</span><br>
 What, are you simply going to watch while I grow stronger? You should remember I could usurp you.<br>
 I'd never try to steal your position, you say? Heheheh! Oh, you really are a curious individual.<br>
@@ -144,7 +152,7 @@ I've reached a magnificent conclusion! I, as a matter of fact, need your support
 Greater power begets greater ambitions. So let us embark together and accomplish ever greater feats!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Anchorage's New Journey|选项=18|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Anchorage's New Journey|选项=19|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Anchorage：</span><br>
 Anchorage... feels full of power...! Teacher... thank you so much...!<br>
 With this new power... I'll protect you... my friends... and everyone else!<br>
@@ -153,12 +161,36 @@ Anchorage will... protect everyone... It's a promise, Teacher!<br>
 Anchorage.. and Teacher... will always be together...!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=August von Parseval's New Journey|选项=19|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=August von Parseval's New Journey|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">August von Parseval：</span><br>
 Strength means victory, conquest, and control.<br>
 You do not have the faintest chance of subjugating me. Your struggling serves but one purpose – to amuse me.<br>
 However, there still remains one thing to be dealt with before I decisively dominate, subdue, and defeat you.<br>
 Yes – our shared enemy. These meddlesome beings will understand what it means to face the Unhulde. Hehehehe...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Harbin's New Journey|选项=21|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Harbin：</span><br>
+There's not a thing in the world better than that feeling of getting stronger! Don't you agree, Commander?<br>
+Damn straight! Since I'm in such a good mood today, let's go out and eat to our hearts' content! My treat!<br>
+While we're at it, I wanna knock down some of the good stuff! C'mon, it'd be a shame not to celebrate such a fine day!<br>
+Anyway, I promise to protect you matter what from now on out! If you're gonna make me stronger, you'd better rely on me more and more!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prinz Rupprecht's New Journey|选项=22|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Prinz Rupprecht：</span><br>
+Huh? What's your deal? Oh, did you finally realize how great I am? See, you can't do a thing without me after all~<br>
+What? It's because I begged you for this...? H-hmph! Not my problem! You were the one who signed off on it!<br>
+And besides, given how strong and capable I am... it's only natural that I look after pitiful little you, right?<br>
+S-so hurry up and admit that you belong to me already! Otherwise I'm not gonna do everything you want me to!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chkalov's New Journey|选项=23|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Chkalov：</span><br>
+I see... After experiencing it for myself, I finally understand this "Fate Simulation" system.<br>
+Significantly improved equipment efficiency and adaptability, better information processing when combatting enemies.<br>
+Having that said, feelings are subjective, and no substitute for empirical data from field tests.<br>
+Now then, shall we go on a sortie? Surely you don't mind if I explore this system inside out, right? Hehehe~♪<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}

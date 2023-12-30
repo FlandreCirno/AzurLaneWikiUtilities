@@ -8,7 +8,7 @@
 모항·지휘실<br>
 허먼：<br>
 이봐!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 에…?<br>
 허먼：<br>
 허먼의 보고서, 아직 안 본거야?<br>
@@ -20,7 +20,7 @@
 변명하지마!<br>
 안 봤으면 안 봤다고 해! 힘들여서 작성했단 말이야! 어떻게 보상할 거야!<br>
 (작은 소리) 잘, 잘 봤으니까 상을 준다고 하던가……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 왜 갑자기 목소리가 작아진 거야…<br>
 허먼：<br>
 아냐! 지금 당장 보상을… 지시를 내려!<br>

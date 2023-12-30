@@ -277,22 +277,23 @@
 <br>
 제7장 - 성야의 포옹<br>
 모항 - 집무실<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 ……？<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 지휘관, 여기 있다……<br>
 지휘관, 피곤해 보여……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 엘드릿지, 선물.<br>
 지휘관한테.<br>
 메리이, 크리스마스.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 지휘관, 기뻐?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (끄덕)<br>
 <span style="color:#92fc63;">엘드릿지：</span><br>
 엘드릿지도, 기뻐, 에헤헤……<br>
@@ -300,7 +301,7 @@
 엘드릿지와 느긋하게, 평온한 시간을 보냈다. 마음이 치유되는 듯한 기분이 들었다…<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 크리스마스 기자 그리들리, 임무 완료 보고서를 제출하러 왔습니다! 지휘관, 여기에!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……！<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 오? 오오! 이건! 찰칵찰칵 해야지!<br>
@@ -315,7 +316,7 @@
 모항 - 집무실<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 헤헤, 그러고 보니 지휘관에겐 아직 이 말을 안 해줬지? 메리 크리스마스!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 엘드릿지도, 메리 크리스마스!<br>
@@ -332,7 +333,7 @@
 <span style="color:#92fc63;">시그넷：</span><br>
 우으… 후드 언니한테 "귀여우니까 지휘관에게도 보여주고 오세요" 라고 떠밀려서……<br>
 에? 모두… 왜 여기에?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 그렇구나! 지휘관이 아직 집무실에서 수고하는 걸 보고, 만나러 온 거야!<br>
@@ -350,17 +351,17 @@
 무츠키는 사탕 먹고 시퍼!<br>
 <span style="color:#92fc63;">엔터프라이즈：</span><br>
 물론, 지휘관에게도. 메리 크리스마스다.<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！<br>
 <span style="color:#92fc63;">시그넷：</span><br>
 지휘관, 메리 크리스마스… 지가 입은 크리스마스 의상…… 어때유?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！！<br>
 <span style="color:#92fc63;">{namecode:79}&{namecode:33}：</span><br>
 지휘관, 메리 크리스마스! (지히간~ 메리 크리슈마수!)<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 후소 언니가 모처럼 준비해준 크리스마스 의상이니까 꼭 나으리한테 보여주는 게 좋다고 해서……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！！！<br>
 <span style="color:#92fc63;">그리들리：</span><br>
 오오! 지금 지휘관 표정 좋아~ 찰칵!<br>

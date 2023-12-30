@@ -101,20 +101,20 @@
 제5장　부탁<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 나, 나으리이!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …？<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 수, 수영 대회 같이 가실래요?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……！？<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 실은……<br>
 그래서… 심신단련을 위해, 함께 참가했으면 좋겠어요!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 아, 안 될까요… 모처럼 나리가 선물해 준 수영복까지 준비했는데……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (끄덕)<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 괜찮나요?! 에헤헤… 그럼, 이따 휴가 씨한테 가자고요!<br>
@@ -133,13 +133,13 @@
 우오오오오오오! 새러토가 공! 이이이, 이번에야말로 절대 지지 않겠다!<br>
 <span style="color:#92fc63;">새러토가：</span><br>
 에, 엣취!! 어어, 어째서 새러토가가 이런 벌칙 게임 같은 대회에 참가해야 하는 건데~!!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 ……<br>
 추워… 보이네요…<br>
 여, 역시 다른 운동으로 할까요…? 별로 건강에 좋아 보이지 않네요… 나으리?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (끄덕)<br>
 {{折叠面板|内容结束}}
 
@@ -151,18 +151,18 @@
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 후아~ 살 것 같다~<br>
 이헤헤, 역시 겨울엔 온천이죠~<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 다, 단련은…… 여름에 다시 하는 걸로……<br>
 혹시… 나리는 야마시로와 함께 온천에 들어오는 게 싫으셨던 건가요??<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 !! (도리도리)<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 에헤헤… 나리가 선물해준 수영복, 계속 소중히 간직하고 있었는걸요.<br>
 지금까지 고생한 일도 힘들었던 일도 엄청 많았지만…<br>
 모두와, 나리와 함께라면… 분명 괜찮을 거에요!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#92fc63;">{namecode:79}：</span><br>
 …앞으로도 잘 부탁해요♪ 지·휘·관·나·리♪<br>

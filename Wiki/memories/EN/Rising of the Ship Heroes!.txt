@@ -78,11 +78,11 @@ Great Dungeon - Top Floor<br>
 <span style="color:#4eb24e;">Javelin：</span><br>
 Holy cow! We've found the Four Beasts' Dungeon!<br>
 All we have to do is make it to the exit and we'll have a straight path to the Demon King's lair!<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{namecode:408}：</span><br>
 While that sounds great, this place is a maze... Finding the exit will take forever.<br>
 <span style="color:#4eb24e;">Laffey：</span><br>
 Ugh... I'm already tired as heck...<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{namecode:408}：</span><br>
 Don't get lazy so soon! We haven't even fought one battle yet!<br>
 <span style="color:#4eb24e;">Ayanami：</span><br>
 I've figured out the dungeon's layout.<br>

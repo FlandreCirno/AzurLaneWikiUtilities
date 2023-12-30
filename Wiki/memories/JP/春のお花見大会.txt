@@ -194,16 +194,16 @@
 宴は楽しいですが、宴が終わった後の静けさはなんだか寂しいですね……<br>
 あら？指揮官様？もうお休みになったと思ってましたけど…まだ起きていらっしゃったのですか？<br>
 この鳳翔と夜ザクラを見たい、ですか？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （ぺこり）<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 うふふ…それでしたら、少々お待ち下さい。今支度いたしますわ。<br>
 「旦那さん、今宵のお花見お供させておくんなし」<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！！<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 どうですか？…ドキドキしますか？指揮官様？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！<br>
 <span style="color:#4eb24e;">{namecode:89}：</span><br>
 うふふ、指揮官様からお褒めの言葉をいただけるなんて…鳳翔は満足しましたわ。<br>

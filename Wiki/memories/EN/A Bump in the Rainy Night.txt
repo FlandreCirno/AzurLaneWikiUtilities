@@ -1,0 +1,2252 @@
+== A Bump in the Rainy Night ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Another RPG Demo?!|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+............<br>
+Wh-where am I...?<br>
+<br>
+When I wake up, I'm greeted by an unfamiliar room.<br>
+Old-fashioned furnishings, faint light, old furniture... and something that looks like a black box on the table.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Could this be...<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Ahem! Ah, testing, testing. Commander! Can you hear me?<br>
+<br>
+Bristol's voice comes from the black box.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Bristol?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Ooh! Communications are working great! Commander, welcome to the castle!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Castle...?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+That's what I said! It all started one rainy day twelve years ago...<br>
+<br>
+Bristol suddenly starts telling a grandiose story, but I'm hardly in a state to take it in.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Put simply, this is an immersive escape room with tabletop RPG story elements!<br>
+This one is more complex, and the puzzles are better than ever. We wanted you to try it out, Commander!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Here I was wondering why Avrora brought all that vodka to my room last night...<br>
+You could've just asked me normally, you know...<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Nuh-uh! Like the story here says, "The investigator wakes up in the castle." We have to be as realistic as possible!<br>
+Umm, so where was I...?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+As the investigator, Commander, you need to explore this desolate, ancient castle and solve the mystery within.<br>
+You'll run into many different trials and tribulations...<br>
+But it's up to you to solve them with your personal decisions and a specific set of skills.<br>
+Oh, but the story here DOES say, "The investigator's memories were lost upon entering the castle due to unknown causes."<br>
+So you can't remember your skills or stats at all... In other words, they'll be hidden from you.<br>
+When you run into a random event, our GMs will roll dice to determine what it is.<br>
+Investigate the castle bit by bit, rediscover your abilities, and aim for a clear!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+An RPG where you don't know your own abilities? That's... novel.<br>
+Skills aside, how am I meant to know what to do if I don't even know my stats?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+I have to agree with you there! But, umm, all of these rules were decided by dice roll, so...<br>
+A-anyway, it's a game, so don't worry about it too much!<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+That about does it for the tutorial. Commander, you'll learn faster if you just give it a try.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+When it's time to roll those dice, leave it to Yukikaze the Great!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Weren't we all going to take turns rolling the dice...?<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Yes, that was the plan.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Why?! Yukikaze the Great is clearly the luckiest person here, so I am the optimal dice-roller!<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+That's exactly why you shouldn't be the only one.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So there are seven of you facilitators... Or should I say GMs?<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Eugen and Royal Fortune were a part of this, too.<br>
+But they... No, now isn't the time for that. We just got word from Eugen, so let's get started.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Hold on! I wanna add one more thing!<br>
+Keep your communicator on you at ALL times!<br>
+It's a key item this time! Even if you're in danger, guard it with your life!<br>
+Anyway, there you have it. Good luck out there, newbie investigator!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Come again? Danger?<br>
+Bristol?<br>
+<br>
+I wanted to ask about that concerning remark, but the communicator has already gone dead silent.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Tutorial - Part 1|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+You roll a 100... Critical failure. Oh boy, that's really bad.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+What's the outcome? Oh... Yeah, that sucks.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's going on?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You'll, uh, find out soon enough. Go on, please continue the investigation.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Tutorial - Part 2|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Z2：</span><br>
+As you may have already realized, which rooms you search are also decided by dice rolls.<br>
+We'll roll two D10s. One of them will determine the tens digit, and the other will determine the ones digit. We put them together to make the result.<br>
+Oh, and by the way, double 0 isn't 0; it's 100.<br>
+If you roll between 1 and 50, you succeed. Between 51 and 100, you fail...<br>
+Yes, we've made the rules extremely simple to ease your burden, Commander.<br>
+If you fail, you're going straight to a bad ending, no matter what.<br>
+If you succeed, you may choose whether you continue investigating or get to see the bad ending.<br>
+Of course, we don't want to make you fail over and over... Yes, once you see a bad ending, you'll be returned to the previous roll, which will automatically succeed.<br>
+Don't worry about missing anything or getting game-overs. Just have fun.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Castle in the Mountains|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Prologue - The Castle in the Mountains<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You hear the clunk of a door opening, and you realize that someone has entered the room.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Hmm? Comma– Investigator, what are you doing in the servants' room?<br>
+Wait, I know! You've already begun investigating, right? Wow, that's our first-rate investigator for ya!<br>
+...No? You're just lost?<br>
+That's fair. This place IS basically a maze. It's easy to get lost when you haven't lived here your whole life.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+You can't remember anything about the maid speaking to you.<br>
+But, if what she claims is true, you are an outstanding investigator.<br>
+<br>
+The GMs come chiming in through my communicator.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Ahh. The game advances through the communicator. That explains why it's a key item.)<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Uh, Investigator? What's with all the head-turning?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Ahem. You have a habit of constantly examining your surroundings. To an obsessive degree, even. Others must think it's very abnormal.<br>
+Suddenly, a fragmented memory flashes in your mind. Roll a D100... 31, success.<br>
+You remember that you're a brilliant investigator and have honed your sleuthing skills to a T.<br>
+Thanks to years of training, your observational skills far exceed those of a layperson.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Congratulations. You have remembered the skill Eagle Eye. You have expert proficiency in this skill.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Ah, this is the skill Enterprise proposed.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Oohh, so this is what they meant by "rediscovering" my skills during the investigation.)<br>
+(I'm glad Enterprise came up with this. An expert-level sleuthing skill will definitely come in handy during this.)<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+What's the matter? You got a stomachache? Let me take you to the guest room.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prologue - Bad Ending|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+What's the matter? You got a stomachache? Let me take you to the guest room.<br>
+<br>
+'''''<span style="color:black;">选择项1：I'm fine, thanks.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Don't worry about me.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Just blanked out for a second there.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You sure you didn't catch a cold out in the rain? You really should go to the guest room and warm up by the fireplace!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(The guest room? That sounds suspicious...)<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Just thought you might have a cold, since you look pale! Come on, let's get you to the guest room! There's a fireplace there to warm you up.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Plus, we can't have people thinking the lord of the castle doesn't take care of his guests.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Judging by her phrasing, I think I need to go to the guest room for the story to progress.)<br>
+(On one hand, I want to know what'll happen. On the other, following the script to a T doesn't sound very fun.)<br>
+(Maybe there's a secret route, or a way to speedrun this. Let's try something different.)<br>
+Really, I'm fine. Let me just go for a little walk.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Walk? But...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Huh. I wonder what this pattern is.)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You stand before a wooden door. The black engravings chiseled into it are pretty unique, almost like thousands of crooked lines reaching out from a single point.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(I think I remember seeing a similar pattern on the cover of a book Bristol recommended to me some time ago.)<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Heheheh. You wonder what the meaning behind the pattern is, and have a faint feeling like it's a religious symbol, but you aren't sure.<br>
+You frantically dig through your memories, and then, you feel a flash inside your head!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(If it's important enough to comment on, maybe this door holds some kind of clue?)<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Roll a D100... 42. Nice. You manage to latch on to the memory!<br>
+Some of your lost memories return to you and form into a single cohesive image.<br>
+That's right – you are a fan of the occult and have researched myths and legends from all around the world.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Congratulations. Yes, you have remembered the skill Folklore Scholar. You have novice proficiency in this skill.<br>
+You remember seeing this same pattern in a book about myths. That, I'm afraid, is all, however.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Folklore Scholar? That one has to be Bristol's idea.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Of course it was! To be a solo investigator is to roll for Folklore Scholar!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I'm not jumping on the bandwagon so soon... Also, how come I only have novice proficiency in it?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+What can I say? That's the luck of the dice.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Ahem. The Investigator decides to open the door.<br>
+You put your hand on the doorknob, but a panicked Royal Fortune runs up and stops you.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+I-if you don't wanna visit the guest room, you can just rest here! You can't go in there right now 'cause we're cleaning the halls!<br>
+<br>
+'''''<span style="color:black;">选择项1：Now THAT'S fishy!</span>'''''<br>
+'''''<span style="color:black;">选择项2：I just want a peek.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(There has GOT to be something behind this door!)<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I won't get in the way of the cleaning, so don't worry about that.<br>
+You can resume your duties if you want. No need to preoccupy yourself with me.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You manage to get the maid off your case, then turn the knob and open the door.<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+You step into the castle hall.<br>
+It's pitch black, and there is nothing to suggest it's being cleaned.<br>
+With the silent darkness filling the hall, you can't observe anything in your surroundings.<br>
+Standing there, you are struck by an uncontrollably intense anxiety.<br>
+Then, thud. The door closes behind you.<br>
+Just as the last glimpse of light fades, you see something dart past you.<br>
+And then, you lose consciousness and collapse.<br>
+<br>
+BE-01 - Curiosity Killed the Commander<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well then...<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Of course. Leave it to the Commander to walk headfirst into a bad ending.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I mean, isn't it a LITTLE unfair to kill the player just because they deviated from the script a bit?<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Don't tell me I didn't try to warn you!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That was your idea of warning me? Okay... So, what did me in?<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+This was Yukikaze the Great's idea! You were killed by–<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Shhh! Nope, sorry, we don't have any clue! It remains a mystery!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+We do know, but telling you would spoil what comes later, unfortunately. Commander, kindly resume your investigation.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Prologue - Continue Investigation|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+What's the matter? You got a stomachache? Let me take you to the guest room.<br>
+<br>
+'''''<span style="color:black;">选择项1：Yes, Royal Fortune. Thank you!</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Nuh-uh. I'm not giving up yet.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(Things feel simultaneously simpler and more complex than last time... Let's follow the script for now.)<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(Though I am concerned about that dice-roll...)<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'm fine. I just want to walk around the castle for a while.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(I'll just wander around for a little bit until Royal Fortune leaves the room. Then, I'll follow her.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(That might just yield unexpected results. Yeah, this is a good idea.)<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Okay... Well, the corridor is right over there, so stop by later. The housekeeper wants to discuss stuff with you.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Like I said before, this place is like a maze, okay? Try not to get lost.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Royal Fortune immediately leaves the room. It seems she isn't interested in lingering long.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(Isn't this the servants' room...? Very suspicious. I don't want her to know I'm following her, so I'll wait a moment before tailing her.)<br>
+<br>
+After a while passes...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I lost sight of Royal Fortune... Now I really am lost.<br>
+Where in the world am I? And why does this hallway seem to go on forever?<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Ahaha... Investigator? Why are you here~?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Royal Fortune appears out of seemingly nowhere and flashes you a sweet smile.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Are you lost? Would you like me to show you to the guest room now?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+............<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You notice a hint of mischief in her expression.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...Yes, Royal Fortune. Thank you...<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+But of course♪ Right this way~<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Royal Fortune guides you to a guest room lined with luxurious furnishings.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The furniture is so authentic, I can hardly believe it's all a set piece... No wonder you have a Sheffield.<br>
+Akashi must have spent a fortune...<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+On that note, Investigator, you neglected to investigate your own employer.<br>
+Your employer, Lord Manjuu, who lives in this castle, isn't just a philanthropist.<br>
+A regular philanthropist couldn't maintain this castle or pay your commission. After all, you're a first-rate investigator!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Though Royal Fortune acts friendly, you notice a slight edge in her words.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Does that mean this NPC doesn't like me? She did reference my "commission" fee, so is she unhappy with that?)<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Almost all of the other servants in the castle have resigned due to the constant disappearances.<br>
+Only me, the housekeeper, and the chef are left. We need you to find the truth, unlike those frauds... Ahem.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Realizing she's spoken too much, Royal Fortune stops mid-sentence and pretends to clear her throat.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+The São Martinho will come soon. You just wait here, please.<br>
+I'm gonna go now~<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Royal Fortune exits the room.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Let's organize the clues we have first.)<br>
+(This castle's lord isn't just a philanthropist. He might be a wealthy businessperson or a member of the aristocracy.)<br>
+(Meanwhile, I'm a famous investigator hired to solve the repeated disappearances in this castle.)<br>
+(There may be someone other than the maid, housekeeper, and chef here.)<br>
+(My only abilities right now are Eagle Eye and Folklore Scholar. My stats remain unknown... Things aren't looking great so far, really.)<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+The quiet threatens to lull you to sleep, so you begin inspecting the room to keep yourself active.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hm...? Are you saying I should roll for Eagle Eye?<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Even without your memories, old habits die hard. You find yourself inspecting the room.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So the plan is to just keep railroading me, is it?<br>
+I appreciate having a script, but it feels weird to have my every move monitored.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Roll a D100... Result, 1. Critical success! You manage to find one of the secrets hidden in this room!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well done, Yukikaze the Great!<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+There you go♪ Go on, praise me more♪<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+You got a critical success here, of all places? Rgh...<br>
+Just then, strange information appears out of nowhere in the Commander's mind!<br>
+"Lord Manjuu inherited his family's vast fortune and bought this castle outside of town. He lived here ever since."<br>
+"After overcoming the grief of the loss of his lovely wife, due to illness, he devoted himself and his funds to charity and medical work."<br>
+"The poor manjuu did his best to save people still suffering from disease out there."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Hmm. Okay, so that's information on my employer.)<br>
+(A wealthy aristocrat, widowed, devoted to charity and medical work... I suppose he's kind and charitable?)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You struggle to piece together this fragmented information, but suddenly, you're assailed by a wave of unease.<br>
+A disembodied gaze is fixed on you, leaving you too stiff to move.<br>
+The lights in the room all turn off at once, and even the wood in the fireplace crumbles to ash. Only darkness prevails.<br>
+Something approaches from outside the door...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 1 - The Stormy Night Bride|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 1 - The Stormy Night Bride<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+......<br>
+You can't see an inch in front of you in this darkness, and all you can hear are a tapping and the sound of heels striking the ground.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Frshfkhazlehsuh...<br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+You can stop now.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Ahem...<br>
+You faintly yet also clearly hear a voice, growling in an unknown language. It sounds distant, yet at the same time like it's whispered into your ear.<br>
+Whatever this thing is, you feel that it is quietly approaching from the other side of the door.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(My hair is standing on end here... How did they come up with this?)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+After a while, the creepy growling up and goes away.<br>
+The lights in the room come back on and everything is back to normal, as though you hallucinated all that...<br>
+But then, you notice something.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+By a bed not far from the couch, there is a broken mirror that wasn't there before...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Thanks to the intuition you've grown over the years, the appearance of this strange mirror alerts you that something is off about this room.<br>
+You use Eagle Eye to examine the room. Roll a D100... 51. Unfortunately, you fail. There's nothing odd about the room. You must've imagined it.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hang on, there's water all over the table and the floor. Anyone would notice that.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Oh. Umm...<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+You conclude that they are just water stains. Yes, they don't strike you as particularly important.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yes, they do? They're clearly suspicious.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+You use Eagle Eye again and reach the same conclusion. Certain that they are unremarkable puddles, you move on.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The illusion of choice, huh. Okay, what now?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You look at the mirror and notice the silhouette of a person.<br>
+It is a beautiful woman, wearing a trailing white dress and a long veil that hangs to the ground.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(So, a wedding dress?)<br>
+<span style="color:#4eb24e;">???：</span><br>
+Goodness me~ Sorry for frightening you. The castle's power lines are quite old, and we frequently get outages when it rains.<br>
+And it certainly doesn't look like the rain is letting up anytime soon... That aside, I take it you're the investigator my father hired?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yes. You must be his daughter.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+That I am. It sounds like he hasn't told you much of anything... Well, given the state our family is in...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Sounds like this lord has a messy family situation.)<br>
+(It also sounds like more people live in this castle besides the three servants.)<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Incidentally, I've heard that you're something of an expert on the occult, and have helped the police solve a few paranormal cases before.<br>
+I've been reading a few books on the subject lately, and I'm quite hooked, actually~<br>
+Would you mind telling me a bit about those cases~?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(I wish. You probably know more about them than I do...)<br>
+<br>
+'''''<span style="color:black;">选择项1：(Say something and dodge the question.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I'm honored you've heard about me, but could we talk about what's happened at this castle, rather than my boring old stories?<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Obviously, you can't talk about cases you can't even remember, so you try to evade the subject. Roll a D100... 72. Yes, unfortunately, your attempt ends in failure.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''There is no crack in Golden Hind's smile, yet the look in her eyes suggests a slight distaste.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh, you're asking about the disappearances, right?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I know nothing about them~ You can't expect someone with so many servants to remember each one, right?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I'd much rather talk about you, Investigator~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Doubt I can wriggle out of this one... I'll have to make something up.)<br>
+You must be my biggest fan... Okay, let me just think.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You mobilize your whole memory to come up with an amusing paranormal case on the spot.<br>
+Right then, something flashes within you. Roll a D100... 42. Success. You remember some general information about the occult.<br>
+With natural finesse, you tell your fabricated story to Golden Hind.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Okay, so I don't need to actually come up with one myself. Thank god my skills can do it for me.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+See? This is exactly what you need Folklore Scholar for!<br>
+Even with average proficiency, sounding convincing to a sheltered lady like her is a piece of cake!<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+As interesting as that was, I'd like something more substantial and detailed~<br>
+You know, like a specific thing you saw on the scene, or a fact omitted from public records.<br>
+Wait, I see now. Experts highly value their own research, so you can't share it with someone you don't think is sincere – is that it?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Golden Hind shows a regretful smile, then produces a small sculpture without a word.<br>
+It looks part human, part octopus. Its tentacle-like appendages are exceptionally lifelike, and you could swear it looks like they wriggle about.<br>
+Simply by looking at it, you feel a sense of indescribable apprehension. A dreadful, depressing feeling seizes and hangs over you.<br>
+Deep within your heart, the most terrifying of memories resurface...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(The way she took out this freaky statue without skipping a beat, THAT was pretty scary.)<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The oppressive feeling makes your throat constrict, and you start struggling for air.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 11. Nice.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Although the indescribable dread makes your mind go blank, you manage to suppress the creepy feeling thanks to your many years of investigating.<br>
+Looking at the sculpture, you feel as though you've seen something like it before. Another gap in your memory starts filling up again.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Roll a D100... 1! Critical success! You catch all the memory fragments that come forth and remember a bunch of things!<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Fed up with how conventional and strict your middle school was, instead of continuing your studies, you became an investigator's assistant, leveraging your extraordinary intellect and powers of observation.<br>
+Time passed, and you've now garnered a fair bit of renown in the region.<br>
+You have rich knowledge of folklore and myths, and have helped the police solve multiple cases involving the paranormal.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Congratulations. You have attained novice proficiency in the Folklore Scholar skill. Your Intelligence stat is 90 and your Education stat is 30.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...You're saying I have an extraordinary intellect but stopped at middle school, and solved several paranormal cases yet my proficiency is only average?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Sorry, your dice luck isn't great!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You stare into space for a moment as your memories come back en masse. Meanwhile, Golden Hind is still waiting for your answer.<br>
+As you stay silent, she eventually loses her patience.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Do you have a problem with my sculpture, Investigator?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Though she raises the corners of her lips, there is no hint of a smile in her eyes.<br>
+Your gut sounds an alarm. Something bad is about to happen.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You hear the garbled growling again.<br>
+At the same time, the suspicious water stains on the ground start to multiply, like a trail left by some sea creature...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 1 - Bad Ending|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You hear the garbled growling again.<br>
+At the same time, the suspicious water stains on the ground start to multiply, like a trail left by some sea creature...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I need to act, quickly...<br>
+<br>
+'''''<span style="color:black;">选择项1：I think of something using my exceptional intellect!</span>'''''<br>
+'''''<span style="color:black;">选择项2：That's a beautiful wedding dress you have!</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Roll a D100... 23. Success. You promptly decide to compliment the gorgeous wedding dress she's wearing.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(Let's just say her dress stole my attention.)<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sorry, it's just so stunning I couldn't help but notice it. Are you getting married today?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Golden Hind is briefly stupefied by your earnest question.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Do you... really think it's beautiful?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+She looks at you, but if anything, it feels like she's looking THROUGH you at something distant.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+...Investigator, has anyone ever told you you're good-looking?<br>
+<br>
+'''''<span style="color:black;">选择项1：No.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Absolutely!</span>'''''<br>
+'''''<span style="color:black;">选择项3：What?</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Something about those words makes another memory fragment shake in your mind.<br>
+Roll a D100... 48. Success.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+You've received more than a few compliments for your looks. Yes, in fact, most people like your appearance.<br>
+Congratulations. You have remembered that your Looks stat is 85.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wow. I didn't expect THAT to lead to me remembering something.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+(whisper) In story terms, it's just like that NPC.<br>
+...Speaking of my dress, my beloved chose it for me. I felt a little nostalgic, so I thought I'd put it on again~<br>
+You still haven't answered my first question, by the way. You saw my sculpture, so will you tell me your secrets now?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(I guess there's no sidestepping it... I've already lied before, so I'll just lie some more.)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Since you only dabble in the occult but still want to leave a good impression on your employer's daughter, you decide to make up a personal history with the paranormal.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Roll a D100... 16. Success. Using your great intellect, you weave together a number of dramatic anecdotes.<br>
+Golden Hind doesn't just buy your tall tales, she adores them. The joy in her eyes intensifies as you go on.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Wonderful! I've finally met a fellow enthusiast!<br>
+Oh, my dear Investigator! Such is your depth of knowledge and breadth of experience that you deserve the title of Occult Master! I am amazed~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Well, it worked... Will that title come into play later, though? Actually, better not think too hard about it.)<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+There's something I'd like to show you, Investigator. It may have something to do with the disappearances, in fact.<br>
+Follow me to the courtyard.<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+As soon as you enter the courtyard, you see a glowing yellow magic circle on the ground. Behind it is a giant, enshrined stone statue with a mystic appearance.<br>
+From under its hood, twisted tentacles extend towards you, and you feel as though they're drawing you into the darkness.<br>
+You are frozen in place... Chills and sweat run down your back, and you begin to tremble. You desperately try to regain your composure.<br>
+Roll a D100... 78. Failure. The one glance you took has filled you with immeasurable fear and distress.<br>
+<span style="color:#ff9b93;">Golden Hind：</span><br>
+At last... I've found a sacrifice to appease my lord.<br>
+I will soon be reunited with my beloved, and we will never be apart again...<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+You fall unconscious and are placed on the altar...<br>
+Unfortunately, the Investigator meets a chilling death.<br>
+<br>
+BE-02 - Looks Can Be Deceiving<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So... The lord's older daughter is a cult member, and she turned me into a sacrifice?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Heehee, that's correct. You should learn to exercise some caution before you act, Commander.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+And here I thought I was about to find a new lead...<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+From a creep in a wedding dress, wandering a dark castle during a rainstorm? Even I would know to steer clear!<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+What she said! We made it so obvious!<br>
+That sculpture and her incessant questions about occult stuff were meant to hint at it further!<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+By the way, it says here your cause of death was... having all the blood drained from your body. Interesting.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yikes... Terrible way to go.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+You're still only on chapter one! Try again, Commander!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 1 - Continue Investigation|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You hear the garbled growling again.<br>
+At the same time, the suspicious water stains on the ground start to multiply, like a trail left by some sea creature...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I've got to do something... No, wait, let's stay calm.<br>
+<br>
+'''''<span style="color:black;">选择项1：Roll for Eagle Eye.</span>'''''<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+You use Eagle Eye. Roll a D100... 26. Success.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Suddenly, you realize that Golden Hind is holding something behind her back.<br>
+Looking into the reflection of a tray on the table, you see a chilling sight – it is an axe she's holding.<br>
+What's more, thanks to your excellent observational skills, you notice something peculiar about the ornament in her hair.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 31. Your Folklore Scholar check succeeds.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+That ornament's pattern belongs to a certain cult. Back when you assisted the police on a case, you saw totems with the same pattern multiple times.<br>
+You still clearly remember the cult's horrific activities to this day.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(So she's a member of this cult?)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You feel a haunting premonition coming on.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Uh-oh. This conversation has got to end, and soon.)<br>
+(Ah, right, my Folklore Scholar proficiency is only novice. If I tell her the truth, she'll probably lose interest.)<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+After some careful deliberation, you decide to admit the truth to her.<br>
+While this will impact your reputation negatively, your gut asserts to you that this is the correct choice.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Huh? Oh... Really, now?<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Her disbelief is obvious, and all the interest in her expression vanishes at once.<br>
+Yes, she probably thinks you're a bold-faced con artist now. Seeing as Lord Manjuu paid a hefty sum to hire you.<br>
+You pray that she won't kick you out of the castle, because you have many unpaid bills waiting for you back at your office.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(That's an unnecessary story detail if I ever heard one.)<br>
+That's all I've got to say. I'm pressed for time, so please let me focus on your father's request.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You get the feeling that she doesn't want the conversation to end already.<br>
+However, she is clearly caught off guard by your use of the word "father."<br>
+<br>
+*knock knock*<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Royal Fortune comes into the room.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Golden Hi– I mean, Milady, the housekeeper awaits the Investigator in the guest room.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+...It's a shame you need to leave, but I know the case won't solve itself.<br>
+I hope to hear good news from you soon, my dear Investigator~<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Alright, alright. It's late, so you'd better return to your room, Milady.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Royal Fortune bows before turning on her heel and leaving.<br>
+You seize this opportunity and quickly leave the room to follow her.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 2 - The Housekeeper and the Gun|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 2 - The Housekeeper and the Gun<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You are led to the guest room, and the first things you notice are the lavish furnishings.<br>
+It's impossible to hold back your investigator instincts, and you start looking all around the room.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 37. That's a successful check.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+There are taxidermied animals adorning the room, as well as a few guns for hunting animals.<br>
+One handgun in particular catches your eye with the cold gleam it gives off.<br>
+While, clearly, the castle lord has a penchant for hunting, nobody would pass this one off as a hunting firearm.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+These are the good sir's trophies. Guns are another one of his hobbies.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The woman's completely silent appearance startles you somewhat.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Did I scare you? Apologies. I was just cleaning around the room.<br>
+Allow me to introduce myself. I am São Martinho, the housekeeper.<br>
+And this... is the gun Lord Manjuu entrusted me with.<br>
+As you know, there has been a series of disappearances. And so, to protect the lord's family, every room in the castle has a firearm provided for safety.<br>
+Since he has tasked you with solving this case, I hope we'll all be able to return to normalcy soon.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+São Martinho eyes you with suspicion, and her tone betrays her lack of faith in you.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+What do you want to know about the castle?<br>
+<br>
+'''''<span style="color:black;">选择项1：Why don't you trust me?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Have I wronged you in some way?</span>'''''<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+One might call it judging a book by its cover, but...<br>
+Well, you are simply too good-looking to be an ace investigator.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I'm... TOO good-looking?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The out-of-pocket compliment takes you aback, and you seem to remember something once again.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Roll a D100... 30. Yes, a success. It's a common occurrence for people to doubt your ability when they first meet you.<br>
+This doubt stems not from your lack of education, but rather from your appearance.<br>
+Indeed, there are both times when looking good is to your advantage, and times when it impedes you.<br>
+You have remembered that your Looks stat is 85.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Thanks for the stat explanation, though it doesn't really help...)<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+There is also the fact that Lord Manjuu has employed many other investigators before you.<br>
+The majority of them were con artists and served to sow disorder. They were given worthy punishments, of course.<br>
+But, let's get back on topic. If you ask me, I think these "disappearances" are overblown and overmystified.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What makes you say that?<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+When the first animal went missing, its carcass was later found. Meanwhile, the servants who disappeared after that left no signs after them.<br>
+Almost as if they never existed to begin with. They simply don't seem like disappearance cases to me.<br>
+I believe they are merely scandalous rumors started by some servants with grudges from being punished for slacking off on the job.<br>
+<br>
+'''''<span style="color:black;">选择项1：They were punished for slacking off?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Grudges?</span>'''''<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Lord Manjuu is an outstandingly kind and lenient soul who has devoted himself to charity work since the passing of his wife.<br>
+Because he is so lenient, some dishonest servants have taken advantage of him.<br>
+Because this group "went missing," the castle has been on edge, with servants quitting one after the next. Now only three of us remain.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You, Royal Fortune, and the chef, right?<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Yes. We must stay.<br>
+I, myself, have lived in this castle for decades, while Royal Fortune and the chef in essence grew up with the Golden Hinds.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Daughters? As in, plural?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Time to roll for Eagle Eye. Let's see... 6, a success. You notice there's a family photo sitting atop a table.<br>
+There are four people in the photograph. Besides the castle lord and his wife, there's Golden Hind and another woman.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Beyond that, the silver glow of the handgun catches your eye again.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+......<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Without realizing it, you begin walking closer to the gun, as though bewitched by its beautiful form.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Can I have a look at that gun?<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+A firearm buff, are you? Certainly.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+You take the gun in hand and examine it down to the details of the barrel.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Oh, let's do a roll here.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Yukikaze, the dice are yours.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Yukikaze the Great rolls a D100... 1! Critical success!<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+You inspect the handgun's rosewood grip and the barrel, and notice a fine engraving on the latter that reads, "Single Action Army."<br>
+Its model name is M1873, meaning it was designed and manufactured a long time ago.<br>
+This gun has been part of many legends and appeared in countless video games and movies.<br>
+To put it in other words, whoever owns this gun... has excellent taste.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Uhh... Thanks.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+You're welcome.<br>
+You feel the gun in your hands, your gaze focused on the light reflecting off the metal barrel. A memory from being at the firing range comes back to you.<br>
+You have trained many hours with a gun as part of your occupation.<br>
+Voila. You have remembered the skill Marksmanship. You have novice proficiency in this skill.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+If I may, Lord Manjuu has told me you are quite the sharpshooter, and I'd like to learn from you.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What? But I'm a firearm novice!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Umm, you practiced very hard, but the results did not match the effort put in.<br>
+At the very least, it's made you able to use a gun without blowing it up!<br>
+In the right place at the right time, it may help you turn the tables in surprising ways.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Ahem... It seems you still have things to do, so I won't bother you with gun training.<br>
+Since Lord Manjuu has hired you, I will cooperate in your investigation.<br>
+As you know by now, this place can be a maze. Please be mindful.<br>
+Particularly when it comes to private spaces such as the bedrooms. You should get the lord's permission before entering those.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Although the housekeeper sounds supportive, you are not convinced that she will actually help you.<br>
+Next, you decide to...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 2 - Bad Ending|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+Although the housekeeper sounds supportive, you are not convinced that she will actually help you.<br>
+Next, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Investigate the housekeeper's room.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Sneak into the housekeeper's room.</span>'''''<br>
+<span style="color:#4eb24e;">Investigator：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You said we need the occupant's permission to enter private spaces. Well, I'd like to see yours.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''...I don't know about that.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Golden Hind asked me to visit her once my business is done here.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Also, my room isn't perfectly clean... I'll have to ask you to investigate other rooms first.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I should be going. Please enjoy your stay.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(This housekeeper is suspicious... I'll search her room first.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(The best play here is to take them by surprise. That'll bring me closer to the truth.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Alright. I'll investigate the public areas first. Your room can wait until tomorrow morning.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''That will do. The public spaces would be the kitchen on the first floor and the garden.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''The second floor houses the library and display room, but their doors are locked.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Those can wait until tomorrow, too.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Very well. Take your time. Golden Hind is waiting for me, so I must take my leave now.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+The housekeeper leaves the room.<br>
+<span style="color:#4eb24e;">Investigator：</span><br>
+She said her room was next to this one, didn't she? Then this door must lead there...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+After organizing your thoughts, you decide where you'll search next.<br>
+...Despite her telling you very clearly that you would need the occupant's permission.<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+The instant you enter the room, you feel as if you've been transported to a museum.<br>
+A dizzying array of rare jewels and curiosities line the room.<br>
+Countless guns are hung on walls, stored on shelves, and placed on dressers.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+There are so many... I'd better be careful if I mean to search for clues here.<br>
+<br>
+*click*<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hm? Did I just step on something...?<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+When you step forth, you hear a clicking noise like a contraption being activated.<br>
+Instantly after, something odd happens.<br>
+Every gun in sight points at you all at once.<br>
+Piercing light flashes from every single black or silver barrel, as if heralding your pitiful end.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+If I move fast enough...<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+However, even faced with your impending doom, your willpower is unbroken.<br>
+<span style="color:#ff9b93;">Bristol：</span><br>
+Roll a D100... 17. You remember that you're as light and agile as a bird.<br>
+In other words, one more of your stats has been revealed. Agility: 70! Commander, do you want to roll here?<br>
+If you get a critical success, you might just make it out of this jam!<br>
+<br>
+'''''<span style="color:black;">选择项1：It's all you, Yukikaze the Great!</span>'''''<br>
+<span style="color:#ff9b93;">Yukikaze：</span><br>
+Yukikaze the Great rolls a D100... 1! Critical success!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+She did it. It isn't my fate to die here... I run!<br>
+<span style="color:#ff9b93;">Sheffield：</span><br>
+Immediately as you pounce toward the door, you hear gunfire behind you.<br>
+After the smoke clears, it becomes evident that the guns have done their duty and struck a decisive blow upon you.<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+While your vision fades to black and your consciousness turns muddy, you finally remember your Size stat.<br>
+There just isn't enough room for your built figure to escape in this cramped space...<br>
+Oh. Sorry, I forgot to read out the stat to you. Your Size... is 80.<br>
+Unfortunately, the Investigator's adventure ends here.<br>
+<br>
+BE-03 - The Bigger They Are...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Come on, Commander. You should know that it's wrong to go into people's rooms without permission.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Question. Who the hell sets a trap like that in their own room?<br>
+How is the housekeeper meant to go in and out normally?<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+She isn't as big as you. Also, fun fact: there are 148 guns in that room.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+That means you were done for the moment you stepped on that switch!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+This game seems pointlessly unforgiving for newcomers... Who even made this decision?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+I-I dunnooo...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 2 - Continue Investigation|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+Although the housekeeper sounds supportive, you are not convinced that she will actually help you.<br>
+Next, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Cautiously continue to gather information.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Ask for a map of the castle.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(I just don't have enough information yet... I should build up a bigger knowledge base before I take action.)<br>
+'''''<span style="color:black;">（选择项1）</span>'''''For the sake of my investigation, I'd like to know the locations of rooms and corridors on each floor of the castle. May I have a map?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(Royal Fortune said there were a lot of labyrinthine hallways. Maybe following a map would be better?)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(Yeah... First, let's see if we can ask for a map.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'd like to know the locations of rooms and corridors on each floor of the castle. May I have a map?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I wouldn't get lost if I had one, and I wouldn't wander into any rooms I shouldn't be in...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The housekeeper does not answer. She simply stares, a sharp twinkle in her eye.<br>
+<br>
+'''''<span style="color:black;">选择项1：Try persuading her.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Bring up Lord Manjuu.</span>'''''<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Roll a D100... 17. Success! While you try to convince her, you become more confident in your abilities.<br>
+You were certain that she wouldn't agree before, but you now realize where your confidence is coming from.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+It comes from your drop-dead good looks and eloquent tongue. The former, especially – you've been reminded many times in your life that you're too hot to refuse.<br>
+Though it causes trouble for you sometimes, it may yield surprising results if used well.<br>
+You've remembered the skill Enamor. Your proficiency is average.<br>
+<br>
+'''''<span style="color:black;">选择项1：Huh?</span>'''''<br>
+'''''<span style="color:black;">选择项2：I didn't hear you wrong, did I...?</span>'''''<br>
+'''''<span style="color:black;">选择项3：Okay, who made this one up?</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Yes. Enamor.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You did not. Your skill is called Enamor.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''The one who went to went to play in the puzzle room and left me in her place.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+...Your social skills have also been greatly improved by your Enamor skill.<br>
+This is a great boon at work when you need to convince relevant parties to share information.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+.........<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Anyway, you successfully persuade São Martinho.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+There's a simple map of the castle in the dining room. If you need it, by all means, take it.<br>
+Oh, the dining room is across this hall. It would normally not be an issue if you passed through the courtyard, but it's being remodeled, so please detour around it.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+She traces a route in the air with her fingers to tell you how to reach the dining room. Just then, the button on her sleeve happens to reflect the dim light of the room.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Did my button catch your eye?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Ah, yes. It's very pretty.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Golden Hind gave it to me.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Your sharp eye allows you to notice such easily missable details. It seems you've seen the pattern on that button somewhere before.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 31. Success. You quickly realize why it seems familiar: the button bears the same pattern as Golden Hind's hair accessory.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(The same symbol as that cult...)<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+I hate to repeat myself again, but the castle is vast. If you wander carelessly at night, you may get lost. Be careful.<br>
+Also, allow me to warn you once more: do not enter bedrooms or other private spaces without the occupant's permission.<br>
+Golden Hind is waiting for me, so I must take my leave now.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+After a quick bow, the housekeeper leaves the room.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 3 - An Old Friend|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 3 - An Old Friend<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+As soon as you enter the dining room, your old habit kicks in, making you inspect your surroundings.<br>
+This is a lavish room with lavish furniture and decorations, and everything seems to be in order.<br>
+Nothing in particular jumps out at you yet.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The furnishings are nice and all, but where is the map?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Eagle Eye check. Roll a D100... 70. Failure.<br>
+You survey the room, but sadly the map is nowhere to be seen.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Of course that check fails... Dammit. I'll look around thoroughly, then.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+You take your time searching every nook and cranny, and you still find nothing.<br>
+You've looked everywhere, except inside the locked drawers.<br>
+Even if you were to try those, you've seen no sign of a key anywhere. You are stumped.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Basically, I need to get those drawers open somehow.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You really rack your brain, and suddenly, a method comes back to you.<br>
+Roll a D100... 37. Success. You have remembered the skill Lockpicking. You have expert proficiency in this skill.<br>
+With your level of skill, you can easily pick the lock using a bobby pin.<br>
+After all, there was one case where you scored big with just a steel wire.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...So, what, I have a thieving streak now?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Ahem... As a professional investigator, there will sometimes be locked drawers or doors that you must open as a last resort.<br>
+It's all in the name of the case!<br>
+<br>
+'''''<span style="color:black;">选择项1：Use the bobby pin to lockpick the drawer.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Roll for a Marksmanship check.</span>'''''<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Y-you want to use a gun? Why? You could take your time picking the lock...<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You opt to go with the bobby pin regardless, shocked by your horrific impulsive thought that briefly surfaced.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 19. Success. You pick the lock and take the castle map that's tucked away in a corner of the drawer.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Looking at the map, the dining room is flanked by the kitchen on one side and the banquet hall on the other.<br>
+I vaguely remember seeing the door to the kitchen when I got here through the hallway, but where's the entrance to the banquet hall?<br>
+Plus, this dining room is much smaller in reality than it is on the map...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Both the map and your instincts tell you that something is off about this room.<br>
+<br>
+*creeeak*<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Oh. Sorry if I spooked you. I thought the dining room would be empty at this hour...<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+As you're about to continue your investigation, the dining room door suddenly opens, and a woman pushing a trolley comes in.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Wait, is that... Is that you, Morgan?<br>
+Oh, my old friend Morgan... You've finally come back...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Morgan? That's a new name. Is it someone who used to stay at the castle?)<br>
+<br>
+'''''<span style="color:black;">选择项1：Morgan Yu?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Morgan Blackhand?</span>'''''<br>
+'''''<span style="color:black;">选择项3：Morgan le Fay?</span>'''''<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+M-my mistake... Lord Manjuu, you've returned?<br>
+No, you're not him either! You're that investigator São Martinho told me about, right?<br>
+I've had a lot to do lately, so I often get people mistaken. Sorry.<br>
+Let me introduce myself. I'm a maid at this... No, excuse me, I'm the chef at the moment.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Being so busy you get the wrong person twice... I can empathize. It must be a nightmare managing such a big castle with just three people.)<br>
+(They probably spend almost every waking moment doing their tasks.)<br>
+It's alright, I don't blame you. It can't be easy working this late.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+It really isn't... My workload has exploded since many of our staff quit all at once.<br>
+Say, do you mind if I start cleaning here? If it'd disturb you, I can come back later.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Go right ahead. I just wanted to ask you something.<br>
+<br>
+'''''<span style="color:black;">选择项1：What can you tell me about the housekeeper?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Where is the banquet hall, exactly?</span>'''''<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Huh? About her?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''The chef repeats your question and seems hesitant to actually answer it.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Roll a D100... 68. Failure. Her face flashes a look of unease, but it's back to normal in just a moment.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I don't know very much about her. Sorry I can't be of assistance.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(I guess it won't be that easy to uncover the housekeeper's secrets. Let's try asking her about the banquet hall instead.)<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+The banquet hall? It's right next to the dining room.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It sure looks that way on the map, but not in reality, at least not from what I can see.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Oh, yes. They used to be two connected rooms, but it was split in two after the owners stopped getting guests.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+They split it?<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Yeah. Lord Manjuu's late wife liked a lively mood, and complained how the dining room was too large for it to feel homely.<br>
+So, he hired a tradesman and rebuilt a little. The wall over there is actually just made of wooden boards.<br>
+You could easily remove it if you opened the padlock on it.<br>
+All you need is the key, which I can give you if you get São Martinho's permission.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+At that moment, you sense Adventure Galley's gaze fixating on you.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is there something on my face, or...?<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Oh, f-forgive me! It's just... You remind me so much of an old friend of mine... Morgan, Golden Hind's betrothed.<br>
+(whisper) It's because you're both so good-looking...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hearing that, you decide to...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 3 - Bad Ending|选项=14|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+At that moment, you sense Adventure Galley's gaze fixating on you.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is there something on my face, or...?<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Oh, f-forgive me! It's just... You remind me so much of an old friend of mine... Morgan, Golden Hind's betrothed.<br>
+(whisper) It's because you're both so good-looking...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hearing that, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Give Enamor a shot to get the key.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+When else am I going to use it? Now's the time!<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Roll a D100... 4. Incredibly, you got a critical success.<br>
+You recalled that you have your Enamor skill. Using it will leave a stain on your conscience, but you'll live with it as a means to an end.<br>
+Just as you hoped, the chef falls head over heels for your stunning looks and charisma.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Investigator... I know this is sudden, but... I-I have fallen hopelessly in love with you!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Great! Just one more push!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You ask her to take down the partition dividing the dining room and the banquet hall, to which she is shocked to hear.<br>
+Her loyalty and your charm fight it outside her heart, and the winner quickly becomes clear.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+If that's what you want... Okay. Come with me.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Her love for you instantaneously morphs into an insanity-filled impulse. The passion she felt at first glance is what let her come to such a daring decision.<br>
+She takes your hand and leads you to the kitchen.<br>
+It's at that moment you feel a chilling sensation run up your spine.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Huh? Wait... Don't tell me the pattern on her hair ornament is what I think it is!)<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+It so happens she has an ornament with an unusual pattern you've seen before...<br>
+Roll a D100... 69. Nice, but unfortunately, you get distracted by how soft her hand feels before you can connect the dots.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+But wait... I already made the connection!<br>
+<span style="color:#ff9b93;">Essex：</span><br>
+The next thing you know, the two of you have reached the kitchen.<br>
+It's dimly lit, so you rely on a faint stove flame to survey your surroundings. You can just barely make out the room's layout.<br>
+<span style="color:#ff9b93;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#ff9b93;">Essex：</span><br>
+There is that ominous voice again. The jumbled growling fills the whole kitchen.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(This again?! Crap! I need to get out of here, quickly!)<br>
+<span style="color:#ff9b93;">Essex：</span><br>
+You acutely sense the danger lurking in this room, and turn around to make a run for it...<br>
+But that's when someone pulls on your arm with great force.<br>
+<span style="color:#ff9b93;">Adventure Galley：</span><br>
+Daaarling... where are you going?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I was just...<br>
+<span style="color:#ff9b93;">Yukikaze：</span><br>
+The Investigator tries to shake away the hand!<br>
+When your back is against the wall, why not try a Strength check? I'll even help you with the roll again!<br>
+<br>
+'''''<span style="color:black;">选择项1：Yes, please!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Help me, Yukikaze the Great!</span>'''''<br>
+<span style="color:#ff9b93;">Yukikaze：</span><br>
+Yukikaze the Great rolls a D100... 1! Critical success!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Oh, hell yeah!<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+However, even though you muster all your strength, the chef's grip on your arm does not budge.<br>
+A distant memory resurfaces, and you remember something.<br>
+Your physical strength is very lacking compared to other people. Things they can carry easily are impossibly heavy for you.<br>
+You have remembered one of your stats... Your Strength is 25.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's not over yet. Yukikaze's roll was a critical success...<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+Yes... It was. And it still wasn't enough for you to shake her off.<br>
+Your clear escape attempt infuriates Adventure Galley. She willingly lets go of your arm and picks up a nearby knife.<br>
+<span style="color:#ff9b93;">Adventure Galley：</span><br>
+Oh, Investigator, my sweetheart... I love you. No one else can have you. I will make you mine...<br>
+Wait... I think Golden Hind said... Something, something... Sacrifice? Hmm.<br>
+No matter. She can always find another person to offer... Hehehehe...<br>
+Let's be together forever, you and I!<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+Her unrestrained love turns into mania. Desiring to be with you forever, the cook decides she's going to make a feast out of you.<br>
+In her mind, this will make you a part of her for the rest of time.<br>
+A horrible pain hits the back of your head. You lose consciousness and sink into an endless dark void.<br>
+<br>
+BE-04 - A Horrific Full Course<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So, she turned me into dinner?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+It seems so.<br>
+Eugen came up with it as symbolism for insane, yet wholehearted love. Z2 agreed that it was a good idea.<br>
+And so, we incorporated it into a bad ending.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Actually, I had nothing to do with it. Eugen was the only one excited about it.<br>
+<br>
+'''''<span style="color:black;">选择项1：Let's not have anything that gory again, okay?</span>'''''<br>
+'''''<span style="color:black;">选择项2：That ending was great. Give me more.</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Well... That will depend on the luck of your rolls.<br>
+Now, let's get back to where you last were. Chop-chop!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Chop-chop, like she did with me?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Heehee~ Oh, you.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 3 - Continue Investigation|选项=15|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+At that moment, you sense Adventure Galley's gaze fixating on you.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is there something on my face, or...?<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Oh, f-forgive me! It's just... You remind me so much of an old friend of mine... Morgan, Golden Hind's betrothed.<br>
+(whisper) It's because you're both so good-looking...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hearing that, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Ask her about this "Morgan."</span>'''''<br>
+'''''<span style="color:black;">选择项2：Try finding the key.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Did they use to live at the castle?<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''W-well...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''She is flustered by your question. It seems this name is taboo for you to say.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I-I don't have the right to comment on Lord Manjuu's family affairs.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Forget what I said, and sorry for disturbing your investigation. I'll come clean later instead.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(While I could use my Enamor skill, I'm pretty sure Eugen came up with it. That alone makes me apprehensive.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(I have 90 Intelligence anyway. That should be plenty to figure out a way to get the key.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'd like an Intelligence check. There has to be a way to get the key without using Enamor!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Roll a D100... 99. Oof, that's a painful failure.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Let's see... I need to think about where to take this... Oh, I know.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I... Sorry, YOU rack your brain and recall an old proverb that goes something like, "A simple solution usually beats a hard one."<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You don't need to lie or manipulate. You simply look this gorgeous lady in the eyes and ask her directly...<br>
+'''''<span style="color:black;">（选择项2）</span>'''''"Please give me the banquet hall key."<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You then nod contently and extend your open hand.<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''...Excuse me? I can't give you it without São Martinho's permission.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Look, I... I'm sorry for disturbing your investigation. I'll come clean later instead.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sadly, that doesn't go as you hoped. You don't get anything, and can only watch as the girl walks out.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Huh...?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The chef quickly pushes out her trolley and leaves the dining room behind.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Another new name... Morgan, an old friend of the chef. Someone who was close to the daughter.<br>
+That's not important now, though. I need to get into the banquet hall.<br>
+Maybe I could use my Lockpicking skill on the lock... Hm? Is this the keyhole?<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+You approach the door, or rather, wall, and examine the lock closely. Yes, it seems familiar...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 22. Success. You've seen the shape of this keyhole before. You've picked the same kind of lock once in the past.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Hmm. So if I just turn the pin like this...)<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You repeat from your memory and try to pick the lock the same way you did in the past...<br>
+<br>
+*click*<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The lock makes a sound, and you successfully pick it. You slowly move the wall boards out of the way and enter the hall on the other side.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 4 - Whispered Secrets|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 4 - Whispered Secrets<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Although the wall is only made of boards, it is quite heavy.<br>
+After barely managing to push it aside, you can now finally see inside the banquet hall on the other side.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+There are tons of tables and chairs, boxes filled with tableware, paper towels, fireworks, and other things lying around inside.<br>
+The smell of dust wafts out, and you instinctively cover your nose and mouth with your hand.<br>
+These antique, beautiful furnishings offer a glimpse into Lord Manjuu's affluent life and the castle's glory days.<br>
+Past a massive window, there is an observation deck. Visitors to the castle were surely stunned by the vista from here.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It IS beautiful... But why build an observation deck on the first floor?<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+As you admire the view, you all of a sudden remember that this castle was built at the peak of a mountain.<br>
+At such a height, it isn't at all odd to build an observation deck even on the first floor.<br>
+You wonder what you wasted time wondering about it. After all, should you not be focusing on your job?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Viciously put, but fair enough. You really thought everything out.<br>
+Anyway, time to investigate this place.<br>
+<br>
+Sometime later...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Nothing in the way of a clue... I must've missed something...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You lament coming up empty-handed and feel uncharacteristically irritated.<br>
+As you come to a roadblock in your investigation, you hear a hazy noise.<br>
+Roll a D100... 14. Success. Hearing someone on the other side of the wall talking, you hold your breath and listen closely.<br>
+<span style="color:#4eb24e;">São Martinho：</span><br>
+Yes... in the collection room...<br>
+<span style="color:#4eb24e;">Adventure Galley：</span><br>
+Whydah's room... locked...<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+...let the investigator find out...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Though the voices are muffled, you manage to extract several good bits of information from them.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whydah, and something about a collection room?<br>
+That's on the second floor, I think. I should head up there.<br>
+Those two will probably still be in the corridor, though. I can't sneak past them like this. What to do...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 4 - Bad Ending|选项=17|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whydah, and something about a collection room?<br>
+That's on the second floor, I think. I should head up there.<br>
+Those two will probably still be in the corridor, though. I can't sneak past them like this. What to do...<br>
+<br>
+'''''<span style="color:black;">选择项1：Time to use my gun.</span>'''''<br>
+'''''<span style="color:black;">选择项2：I could make a loud noise...</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You ready your firearm... but then you think about it. You don't want to take them out, you just want to sneak past without being seen.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''So never mind the gun – what you need is a distraction.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+With your mind set, you start looking around the room for something you can use.<br>
+Faced with all these objects, your brain kicks into full drive.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 43, a success. You have a flash of inspiration, and another piece of your mind puzzle falls into place.<br>
+Being an excellent investigator, you have practiced a skill all by yourself to raise your odds of surviving any given case... making traps.<br>
+You've remembered the skill Trap-Making. Your proficiency is novice-level.<br>
+<br>
+'''''<span style="color:black;">选择项1：Huh? Trap-Making?</span>'''''<br>
+'''''<span style="color:black;">选择项2：It's not called Survival?</span>'''''<br>
+'''''<span style="color:black;">选择项3：Who came up with this one?</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Let's just say it was a sweet pirate who loves pacts.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+"Trap" is kind of an umbrella term. You can craft surprising things if you just get creative.<br>
+Also, all skills that get you out of tight spots matter! Especially since traps can also inflict damage to your opponent!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Damage isn't really the point, but this does seem like a versatile skill.<br>
+The components I've got are... Tables and chairs, planks, fireworks, and paper towels. I think I can craft a noisemaker.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You start making a bomb right away. While your proficiency could be better, this skill has gotten you out of sticky situations many times before.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Roll a D100! 1! Hahahaha! Another critical success from Yukikaze the Great!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Good lord... Ahem. Your skill pulls through for you once again.<br>
+You have successfully crafted a shiny bomb. However, you do not yet know how powerful it is.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Between a bomb and a gun, I've got plenty to distract them.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You crack a satisfied smile and set your plan into motion...<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The plan is very simple. Setting off a bomb is sure to make a loud noise and distract people in the vicinity.<br>
+While they go to investigate, you can head up to the second floor and continue your investigation.<br>
+After laying down a fuse and lighting it, you return to the observation deck and wait for the explosion.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 71, a failure. You wait and wait, but the explosion never comes.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Was it because I didn't set up the fuse right? Time for plan B.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You find a great spot to fire from the observation deck. You aim your gun at the bomb and pull the trigger...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 98, a critical failure this time. Your accuracy is so poor, the shot hits a marble pillar way off from the target, causing major damage to it.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Not just that, the recoil makes you fall flat on your butt. A stinging pain shoots up from your tailbone.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+How many bullets do I have left?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Two.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Then I'll give it another shot.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 53. Your poorly aimed shot goes through a board covering up a fireplace.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+One more! Just let me shoot one more time! And have Yukikaze throw the dice!<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+You missed twice in a row, and now you need Yukikaze the Great to save you. You're hopeless~<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+But wait! If she makes the roll, it's going to–<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Yukikaze the Great rolls a, you guessed it, 1! Critical success! The shot hits the bomb and sets it off!<br>
+<br>
+'''''<span style="color:black;">选择项1：Bam! Get in there!</span>'''''<br>
+'''''<span style="color:black;">选择项2：You're the best, Yukikaze the Great!</span>'''''<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+Heheh. Now to roll for how big the blast is.<br>
+Yukikaze the Great rolls a... Look at that! 1! Critical success!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+I-I can't believe this... My goodness, it's actually happening...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Oh boy... Hai Tien, please continue.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Right... The blast is so, so much bigger than you anticipated. Not only does it cause further damage to the pillar and fireplace...<br>
+It detonates with a massive "KABOOM!" and all but cracks the land beneath your feet, making the tiny little castle tremble in fear.<br>
+Next, you hear the sound of trees falling, rocks crumbling, and the world shaking...<br>
+Rattle... Clack-clack... Rumble...<br>
+Your vision goes black.<br>
+This is your morning news.<br>
+At 1 AM yesterday, there was an explosion at the old castle on the outskirts of Arkham.<br>
+Police and ambulances rushed to the scene, where they found the bodies of several victims.<br>
+Among them were Lord Manjuu's two daughters, the castle's three servants, and one unidentified person.<br>
+The police have found traces of a homemade bomb where the building suffered a structural collapse, and speculate that it was the cause of the explosion.<br>
+They believe it's likely that this was a crime perpetrated by the unidentified person. The on-scene investigation is ongoing.<br>
+<br>
+BE-05 - No Survivors Tonight<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Are you serious? That was the setup for a bad ending?<br>
+Essex, did you realize something bad was going to happen partway through?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Yes... From the moment you let Yukikaze roll the dice.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Amazing, Commander! You even got to THIS special ending!<br>
+Not only do you have to make the most powerful bomb, you also have to try to hit it with your gun.<br>
+After missing two shots, at least one has to hit the pillar and cause enough damage to it.<br>
+Then, and only if the final shot hits and is a critical success, it sets off a chain reaction and triggers this ultra-rare ending!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So, I had to not only make the "right" choices, but also get the "right" dice rolls?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Mhm. Nobody should be able to meet such specific conditions under normal circumstances.<br>
+I was so sure you'd never see that ending. I don't know whether to call you very lucky or very UNlucky.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It took you by complete surprise, so I guess I'm lucky, in a way?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 4 - Continue Investigation|选项=18|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whydah, and something about a collection room?<br>
+That's on the second floor, I think. I should head up there.<br>
+Those two will probably still be in the corridor, though. I can't sneak past them like this. What to do...<br>
+<br>
+'''''<span style="color:black;">选择项1：Time to use my gun.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Wait here for a while.</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Sure. What are you going to do with it? Threaten the two servants standing outside?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''...On second thought, I'll just wait here.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+A while later, the voices on the other side have gone away.<br>
+<br>
+'''''<span style="color:black;">选择项1：Time to run for it!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Not quite yet...</span>'''''<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You've been waiting patiently without making as much as a peep. You are certain there's nobody in the corridor anymore.<br>
+Leaving the banquet hall, you take the stairs up to the second floor.<br>
+It is a long staircase, and it takes you a considerable time to climb them.<br>
+You set food on the second floor without anyone catching on to you.<br>
+Now exhausted, your head starts spinning, and blurry images flash before your eyes...<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Roll a D100... 15, success! You've remembered something important! Believe it or not, your health has been poor ever since you were little!<br>
+This is reflected by your Constitution stat – so, your stamina – being 15!<br>
+You are an investigator with a beautiful mug and balanced physique, yet lacking musculature, and the toil of adventuring is too much for you!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wait... 15?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Yep, a mere 15. I'm sorry, Commander. My luck with the dice is awful!<br>
+At least you're an adult, so you won't die randomly from catching a cold. Still, you will suffer brief vertigo when you push yourself...<br>
+You can't do any investigating when that happens. You just have to wait and recover.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright... Time for a break, then.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 5 - Behind Closed Doors|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 5 - Behind Closed Doors<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+After taking a short break, you've recovered your strength and continue investigating.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Based on what I heard earlier, up next is either the collection room or the second daughter's room.<br>
+They're both tucked away in a corner of the map. I may as well look around the corridor first, since it's on the way.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You sneak through the dimly lit corridor, making several trips back and forth between Whydah's room and the collection room.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Roll a D100... 31. Success. You notice a slight difference between the two rooms.<br>
+There is an unusual, familiar pattern engraved on the collection room's door and doorknob.<br>
+Roll a D100... 52, a failure this time. You can't remember where you've seen it before.<br>
+However, it does make your skin crawl and you rub your arms.<br>
+There's nothing that jumps out to you about the door to Whydah's room, however.<br>
+You decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Open the collection room door.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Knock on the door to Whydah's room.</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You try to turn the doorknob... but the door is locked and doesn't budge.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Of course it's locked... Not surprised, though. Let's go for a Lockpicking check.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Roll a D100... 89, a failure. You try to use your adept lockpicking skills to open the door, but it doesn't work.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Then there's not much choice but to check out Whydah's room...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You remember São Martinho's incessant warning and decide to get the occupant's permission first.<br>
+You give Whydah's door three knocks.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Golden Hind... It's so late in the night, just– Wh-who are you?!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The door opens and out steps Whydah, dressed in a cute nightgown.<br>
+She gives you an intent stare, clearly expressing doubt and caution as one would around a stranger.<br>
+Yet, after staring for a while, she suddenly cracks a wide smile.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+I've got it. You're that investigator my dad talked about, right?<br>
+...Come on in. I don't wanna leave my room.<br>
+Don't be alarmed. There's no unfriendly housekeeper or knife-waving chef in there. They don't come up here.<br>
+Trust me. It's the safest place in the whole castle.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You enter the room, and Whydah immediately closes and locks the door behind you.<br>
+As far as you can see, there aren't any unusual decorations or creepy sculptures.<br>
+All there is in here is a princess-sized bed with adorable stuffed animals, a messy desk and dressing table, and a television with a game console hooked up to it.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+There are also game cartridges, cola bottles, and potato chips on the floor.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Uh, right. Those as well.<br>
+While it is messy, it's likely the most alright place in the whole castle, as Whydah professed.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Help yourself to some crisps if you want. I'm guessing the servants didn't give you anything to eat.<br>
+Ahem. So, introductions... I'm Whydah, Lord Manjuu's second daughter. Have you seen Golden Hind, my older sister?<br>
+What do you want from me?<br>
+Did our father tell you anything?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(That's what I'D like to know, actually.)<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+I think I can guess... He must have said that the castle's disappearances have something to do with me and her, no?<br>
+That we have been, like, possessed by evil spirits and become different people?<br>
+Eh, it doesn't matter to me. I'm gonna play a game. Feel free to look around.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Whydah gives you a quick shrug then lies down again on her fluffy carpet. She is focused on the game and doesn't pay you any mind.<br>
+The room's gigantic bookcase, shiny trophies, and game cartridges spread about the floor make you feel like you're in a whole other world.<br>
+All of a sudden, you notice there are framed photos and an open envelope resting on a drawer.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+And unlike last time, it's stain-free!<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D-100... 33. That's a success.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Some of the photographs depict Whydah, Golden Hind, Royal Fortune, and São Martinho.<br>
+Others depict a smiling woman dressed in clothes befitting a noble.<br>
+It's not difficult to tell that these are the castle's servants as well as the Golden Hinds.<br>
+The woman, meanwhile... Your gut instinct tells you she is Lord Manjuu's wife.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+"Woman" implies "human"... This is a manjuu we're talking about.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Uhh, New Jersey came up with this plot point, so... I suppose "manjuu" is a more apt description.<br>
+Putting that aside... You look at the photographs of these women and get a slight feeling that something is wrong.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whyah called the housekeeper "unfriendly" and the chef "knife-waving"... They must be on bad terms.<br>
+Let's check out this letter.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+Spurred on by curiosity, you start reading the letter in hopes of finding something to aid your investigation.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+From Golden Hind to Whydah... The student dormitory at the Miskatonic University School of Law?<br>
+Are those trophies rewards for academic excellence? She must be an ace student.<br>
+As for the actual contents of the letter...<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+"Even after all this time, I still can't believe Morgan has passed away. Every night, I can still hear that familiar voice and see that face I've looked at so many times..."<br>
+"My father has told me to look for a new partner. It's for the greater good... What should I do, my sister?"<br>
+"God, how I wish I could go back in time."<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Do I look that cute in the photo?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+As you finish reading, you hear Whydah call out to you in a displeased tone.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sorry, I was just thinking about something. Have the servants always lived in this castle?<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Galley used to be Golden Hind's maid. She was the head maid, too. Though she's great in the kitchen, so she works as the chef too.<br>
+São Martinho has been my personal maid. Though the position was a step up to her, to me, it's just been a bit of a bother.<br>
+Doesn't matter to me either way. I don't need a maid to babysit me... I'm happy to just stay in my room, relax, and play games every day.<br>
+And as long as I've got cola and crips, I'll never– What?! I died again!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The television shows a game-over screen. In a fit of anger, Whydah throws her controller.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+I've had it... I WILL beat this level, even if I have to do it myself!<br>
+<br>
+'''''<span style="color:black;">选择项1：Can you tell me about your past?</span>'''''<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Ohh. So you read the letter. I stopped studying ages ago.<br>
+Didn't my dad tell you? Then again, it's embarrassing for him, so of course he wouldn't...<br>
+His first daughter's into weird occult stuff and black magic, while the second one's a shut-in who does nothing all day.<br>
+He probably can't accept the reality of having gone from being a nobleman with two outstanding daughters to just being a failed parent.<br>
+Only reason he hired you is because he was scared that the rumors about his home would impact his business. He's probably in hiding in some foreign country right now.<br>
+Ugh, that was a lot of talking... So tiring.<br>
+Investigator, you should just forget about this rubbish case.<br>
+I'm sure my dad promised you a good commission fee, but who knows if he'll live long enough to actually pay it?<br>
+If my hunch is right, you've been chosen as the candidate for a sacrifice.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+A sacrifice? The servants who disappeared... were they sacrificed, too?<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Yeah. What other explanation is there? You should get out of here.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+If this place is so dangerous, how come you're still around?<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+...Because this is my home? Why would I run away?<br>
+Plus, I can't leave my sister to her own devices, or who knows what'll happen.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+While she takes her eyes off the screen to talk to you, her character in the video game is killed by an octopus monster, and a game over screen appears again.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Ugh. Died again... I need Golden Hind for this...<br>
+Look, if you insist on continuing your investigation, do it somewhere else. Take your death wish with you and stop cluttering up my room.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hearing the girl's words, you decide to...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 5 - Bad Ending|选项=20|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Whydah：</span><br>
+Ugh. Died again... I need Golden Hind for this...<br>
+Look, if you insist on continuing your investigation, do it somewhere else. Take your death wish with you and stop cluttering up my room.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hearing the girl's words, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Ask her about the collection room.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Look around for the collection room key.</span>'''''<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+You sure are stubborn... Unsurprisingly, the collection room is full of the stuff my dad collects. It's always locked, so nobody really gets in there.<br>
+...Huh? You want the key to it?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Whydah looks at you with an extremely dubious expression.<br>
+Roll a D100... 99. A critical failure. You've underestimated the sisters' bond. Her expression sours into one of contempt.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+And why do you think I'd give it to you? I only acted nice because I wanted you to leave. I'm not in any mood to help you out.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That leaves me with no other option. Time to try my Enamor skill...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Uh, long story short, you managed to get inside the collection room.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What? Just like that?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Your Enamor skill led from one thing to the next, and, well... It's both hard to explain and something we can't show.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yet everyone was fine with describing the gruesome ways I died in the bad endings.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Not all things are equal in the eyes of the rating board. Let's move on! You've entered the collection room!<br>
+Also, Whydah is now madly in love with you! She will do anything for your sake.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Honeeey~ Look around all you want~ What's mine is yours~<br>
+<br>
+'''''<span style="color:black;">选择项1：Thanks!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Let me guess... New Jersey wrote that line?</span>'''''<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Correct.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+What a pain... Uh, I remember hearing as a kid that there's a hidden room in the castle.<br>
+If you wanna look for secrets, that place is your best bet.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+A hidden room... Is it hidden by a switch behind a painting, as the trope goes?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You walk up to a painting hanging on the wall and begin examining it in detail.<br>
+Roll a D100... 22, a success. There is no switch behind the painting.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Then I'll use Eagle Eye and examine the collection room for anything suspicious.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Roll a D100... 55. A failure this time. You fail to find anything of note.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hmm. It's looking like you'll have to examine every last thing in here.<br>
+Speaking of which, there are 1,453 items stored in here.<br>
+<br>
+'''''<span style="color:black;">选择项1：THAT many?!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Who on Earth provided all these props?</span>'''''<br>
+'''''<span style="color:black;">选择项3：1,453... Is there any meaning to that number?</span>'''''<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''And that's after curtailment. Her Majesty's original plan was to... Actually, never mind.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Queen Elizabeth contributed the vast majority. That said, I provided a few as well.<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''If there is any, it's the year when in the Sardegna Empire of old–<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Let's save that history lesson for another day.<br>
+<span style="color:#4eb24e;">Littorio：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Fair enough. It's a long story, and I'm just passing by. Never mind me and enjoy the rest of the game.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's simply impossible to go through each one of them...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+As you feel a little overwhelmed, a chill suddenly runs up your spine.<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Oh, dear... Investigator, what have you done to Whydah?<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Look, sis~ I found someone to spend the rest of my life with~ I love you, honey~<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Is that so? Let's have a talk, shall we~?<br>
+Heehee~ I was going to sacrifice you, but I had a change of heart after my sister said she wants to be with you forever.<br>
+It'd be terrible if she lost the love of her life... So! This way you and her will be together forever and ever~<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+What a shocking turn of events. While you were unconscious, your body was stuffed inside of something.<br>
+While you're lucid now, you cannot move your arms or legs.<br>
+<span style="color:#ff9b93;">Whydah：</span><br>
+Even if you're a doll, we'll always be together, honey~<br>
+<br>
+BE-06 - Thanks For the Present, Sis<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You've achieved yet another bad ending, Commander.<br>
+It may be... unwise to use your Enamor skill much at all.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Uh-huh. So they turned me into a doll?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+That she did. You became a gorgeous part of their collection.<br>
+Obsessive love resulting in your eternal imprisonment... Now that is art. How do you like this ending, Commander?<br>
+<br>
+'''''<span style="color:black;">选择项1：I give it a thumbs up.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Never again...</span>'''''<br>
+'''''<span style="color:black;">选择项3：Who came up with it?</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''The lovely and charming villain, it seems.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Alright. Let's try again with another roll of the dice.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 5 - Continue Investigation|选项=21|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Whydah：</span><br>
+Ugh. Died again... I need Golden Hind for this...<br>
+Look, if you insist on continuing your investigation, do it somewhere else. Take your death wish with you and stop cluttering up my room.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Hearing the girl's words, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Focus on the problem at hand.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Close the distance with Whydah.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Professionals have standards. I will not give up on this case when I've come this far.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''The same goes for video games. A true gamer keeps trying no matter how many setbacks they face.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Before I die, I at least want to help her beat this game.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Why? Because I hate leaving things unfinished.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You plop down next to her, pick up a controller, and select co-op mode.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+You're one of those people... What a pain...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+With a bit of help, what seems impossible can be accomplished surprisingly easily.<br>
+You and Whydah beat the game. The characters on the screen wave their arms and shout in celebration.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+We actually... beat it...<br>
+I thought it wasn't possible without Golden Hind's help...<br>
+I loved games as a kid, but I was never good at them. Even though I'm an ace student, I can't learn how to get good at games.<br>
+My sister used to play with me, and Morgan, too...<br>
+Listen, since you helped me with the game, I'll give you a hot tip.<br>
+There's nothing useful in the collection room. You don't need to go there.<br>
+If it's a lead you want, go to the study. Here's the key.<br>
+Good luck, Investigator. Hope I'll see you tomorrow morning.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Key in hand, you bid farewell to Whydah before taking your leave.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 6 - The Misty Corridor|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 6 - The Misty Corridor<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You cling to the wall as you walk down the dark corridor.<br>
+You've been walking for some time, yet there's no end to the corridor... It seems you've gotten lost in this old castle.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Something isn't right. Can I roll for an Eagle Eye check?<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 27, a success. You spot an oddity in the corridor.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+A veil of mist laps at your feet. It looks and feels as if it's slowly creeping its way up your leg.<br>
+What's more, you hear that creepy voice once again...<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Your will wavers from the garbled growling, and it feels like it's trying to claw out of your body.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+As you struggle to stay conscious, you remember one of your base stats... Yes, your Volition is 45.<br>
+Sadly, this is below average.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 73. Your Volition failed. Your legs turn cold, like all the warmth has left them. Haunting thoughts race through your mind, making you manic.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+*hisss* unfinished job srih office debt shrah... no holidays flek... *hisssssss*!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Oh, the horror...<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Right before the thoughts consume you, you feel a warmth inside your pocket. Like the sunrise, it drives off the cold, and with it, the jumbled growling.<br>
+When you regain your sanity, you realize that the warmth came from the key Whydah gave you.<br>
+The keychain, which you assumed was just an ornament, is actually a protective charm that gives off a faint glow.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 26. Your Folklore Scholar check succeeds. You're able to determine the origin of this charm.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You've read about it in a book on the occult. It's a very rare charm, said to be imbued with a power that can hold back gods.<br>
+What's more, it is so rare that the Miskatonic University has only 1 such example on display.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Did Whydah steal it when she left the school? I mean, it did save me just now...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You carefully put the charm back in your pocket and continue on your way to the study.<br>
+Immediately, though, something else happens. You hear a bang, and the world is shrouded in darkness. You lose your bearing.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Back-to-back occurrences, huh... Is my charm responding?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+No, it is dormant in your pocket. Listening closely, you hear footsteps approaching from behind you.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Step, step... Step, step...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I use Eagle Eye to see who it is!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Roll a D100... 48. Success. It is unfortunately too dark to make out their identity.<br>
+However, you do realize that there's a door next to you. You don't know where it leads.<br>
+As the footsteps draw closer by the second, you decide to...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 6 - Bad Ending|选项=23|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Roll a D100... 48. Success. It is unfortunately too dark to make out their identity.<br>
+However, you do realize that there's a door next to you. You don't know where it leads.<br>
+As the footsteps draw closer by the second, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Hide inside the room!</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's a reckless move when I don't know where it leads, but it's better than doing nothing!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You hurry over to the door and hope it will save you from certain doom, but as you feared, it is locked tightly.<br>
+<br>
+'''''<span style="color:black;">选择项1：I'll use my key on it!</span>'''''<br>
+'''''<span style="color:black;">选择项2：I'll use my gun on it!</span>'''''<br>
+'''''<span style="color:black;">选择项3：I'll use my bobby pin on it!</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You remember the key in your pocket. You know, of course, that this is not the door to the study.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''But, maybe if you believe hard enough, this surreal castle will bend to your will.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Yes, this is your final hope. You slide the key into the hole and turn it.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''As sad as it is, your hope does not trounce the hard laws of reality. The right key does not open the wrong door.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Let's try something else...<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Of course. It hits you that you are in possession of a gun.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Not only that, but it's an M1873 with a rosewood grip and a fine engraving on the barrel that reads, "Single Action Army."<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Breaking the lock with such an excellent pistol would be a piece of cake.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''However, firing it would alert everyone in the castle to your location. Are you sure you want to do that?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Let's try something else...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+When you most need it, you remember your old buddy Bobby McPin, resting inside your pocket.<br>
+It has come in clutch and got you out of tight spots many times, and will surely not let you down this time.<br>
+Roll a D100... 42. Your Lockpicking check succeeds. You expertly pick the lock open and once again are saved from danger. Probably.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+"Probably"?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ahem. The door opens with a familiar click, and you dodge out of the way into the unknown.<br>
+You close and lock the door, then start looking around your impromptu "safe room."<br>
+The storm outside the window has passed. The face of the moon peeks out from between the clouds.<br>
+With the help of the gentle moonlight, you determine that this room is a rather lavish bedroom.<br>
+While, of course, most of the rooms you've seen so far make you think of the word "lavish"...<br>
+This one takes the cake. It is the textbook definition of peak luxury.<br>
+In fact, it feels like the occupant filled it with only the world's most expensive, most premium articles.<br>
+Among them all, the giant painting resting by the terrace window draws your attention.<br>
+You can't see the person's face clearly, but they're wearing a gorgeous wedding dress studded with diamonds. It leaves a profound impression on you.<br>
+Upon closer inspection, you see that the wedding dress isn't made of cloth – it's in fact made of many intertwined, twisting white tentacles.<br>
+Each of the little suckers dotting their surface glows with a faint silver light under the moon...<br>
+The moment you realize this, a dread beyond all description assails you!<br>
+<span style="color:#ff9b93;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+The growly voice whispers right into your ear... Your vision turns into a spinning blur, and your body begins to tremble.<br>
+What little is left of your Volition screams at you – don't give in! Fight it, goddammit!<br>
+<br>
+'''''<span style="color:black;">选择项1：Roll for a Volition check!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Give up without a fight!</span>'''''<br>
+<span style="color:#ff9b93;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Roll a D100... 91. Alas, because of your weak Volition, your spirit instantly crumbles despite your best efforts.<br>
+<span style="color:#ff9b93;">Z2：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yes, in line with what one might call reverse psychology, you ignore your own Volition and give in to fear.<br>
+<span style="color:#ff9b93;">Bristol：</span><br>
+*hisss* friaghgleh... grsh... *hisssssss*!<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+Gripped with horror, you cave in under the immense pressure and scream.<br>
+Your charm glows again, and it only barely manages to bring you back to your senses.<br>
+<span style="color:#ff9b93;">Bristol：</span><br>
+Click... Click...<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+The door opens, and you sense that someone has entered the room.<br>
+<span style="color:#ff9b93;">Castle Housekeeper：</span><br>
+I told you not to enter rooms without the occupant's permission.<br>
+What are you doing inside Lord Manjuu's private bedroom, Investigator?<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+São Martinho takes slow steps towards you. She is dragging a huge sickle along the floor, producing a jarring screech.<br>
+<span style="color:#ff9b93;">Bristol：</span><br>
+Screee... Screee...<br>
+<span style="color:#ff9b93;">Castle Housekeeper：</span><br>
+I don't take kindly to guests with no respect.<br>
+It's time you learned a thing about manners, dear Investigator.<br>
+<span style="color:#ff9b93;">Hai Tien：</span><br>
+For better or worse, your senses all shut down before the sickle even reaches your neck, and you don't feel a thing.<br>
+<br>
+BE-07 - No Trespassing<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+São Martinho DID warn you about entering private areas without permission.<br>
+You got this bad ending because you ignored her warning just to get away from the footsteps in the corridor.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+How was I supposed to heed her warning when... Wait, would I have survived, had I just done that?<br>
+Something tells me Enterprise came up with this one.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+This is the penultimate chapter, too, so you were consumed by the darkness just before dawn.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Now I'm wondering – is Lord Manjuu also a part of this cult?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+We won't spoil it for you. That said, you can interpret the way he decorated his bedroom as a hint.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Then who did those footsteps in the corridor belong to?<br>
+Should I just wait there instead of going into the room?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Heehee. That's for you to find out.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 6 - Continue Investigation|选项=24|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Roll a D100... 48. Success. It is unfortunately too dark to make out their identity.<br>
+However, you do realize that there's a door next to you. You don't know where it leads.<br>
+As the footsteps draw closer by the second, you decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Hold my breath and hide in the darkness!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Hide behind the pillar!</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You probably have skills you don't remember yet, and you start to think you might have a Stealth skill with expert-level proficiency.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Contrary to your hopes, though, nothing happens after waiting for a few moments. Yes, it seems you don't have the chops to blend in with the darkness.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''...Alright, let's hide behind the pillar instead.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''The map says the room in front of me isn't the study.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And there's no telling what will happen if I go inside without the occupant's permission.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''What I should do is hide behind the pillar and wait and see.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You recall São Martinho's warning and decide to conceal yourself behind the stone pillar.<br>
+The footsteps draw closer and closer until they're almost right next to you.<br>
+What's more, your surroundings get brighter the closer the footsteps come.<br>
+While you still can't discern their identity, you can tell that the person is carrying a lantern.<br>
+<br>
+'''''<span style="color:black;">选择项1：And I've got a gun!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Best to stay put for now.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''This is it! Time to finally show off what a crack shot I am!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You proudly unholster your firearm and go running towards the light.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Despite knowing how close the danger is to you now, you decide to quietly stay and watch what happens.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Then, the lantern shines right on you, and you're discovered.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+...What are you doing here, Investigator?<br>
+Whydah had a hunch you wouldn't find the study on your own, so she asked me to show you there.<br>
+Then the lights went out, so I had to turn around to get a lantern, and that took ages.<br>
+Judging by how lost you look... Seems she made the right call. Follow me, the study's just around the corner.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Is it just me, or is she a lot friendlier than before?)<br>
+(I think someone mentioned that she was Whydah's personal maid at one point... Maybe the two are on the same side?)<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Why are you staring at me? Is there something on my face?<br>
+...Are you thinking about my friendlier tone?<br>
+Well... You know... That's because I thought you were just a fraud posing as an investigator.<br>
+That is, until Whydah told me about you.<br>
+I still don't like you, but she trusts you, so I trust you, too.<br>
+Whydah is smart, and I have faith in her judgement. Please, Investigator... solve this case and save us.<br>
+<br>
+'''''<span style="color:black;">选择项1：I will!</span>'''''<br>
+'''''<span style="color:black;">选择项2：I'll give it my best shot!</span>'''''<br>
+'''''<span style="color:black;">选择项3：Sure, if the pay is right.</span>'''''<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Thank you~<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Heh. Right, you're running a business, after all.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Don't worry, you'll be paid handsomely for any work on top of what you were hired for.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Step, step... Step, step...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+As you're chatting away with the maid, you suddenly hear footsteps not far from you.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Crap! We'd better hurry. That's probably Golden Hind and Galley, and we do NOT wanna bump into them.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Royal Fortune extinguishes her lantern, then the two of you run through the darkness.<br>
+The footsteps behind you are still getting closer, despite you running as fast as your legs can go.<br>
+This is a do-or-die situation. You decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：And I've got a gun!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Come up with some other way to shake them off!</span>'''''<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''No, Investigator! I know you're desperate, but you will NOT pull a gun on Golden Hind!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Her tone is serious, with a hint of "I will kill you if you do."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''...I'll think of something else.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ever closer draw the footsteps... If you don't act now, something horrifying will befall you!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What to do, what to do... I know! I'll knock over some planks to block the path!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You reach towards a stack of wooden crates. The moment you touch it, a surge of memories returns to you.<br>
+You have remembered your number one skill – Throwing. You have expert proficiency with this skill.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+You did it! Finally, you unlocked the skill I came up with!<br>
+The dice result in a – surprise – 1! Critical success!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You grab a box instead of a plank and throw it with full force at your pursuers. Since it's too dark to see, you miss, and hit a nearby pile of junk instead.<br>
+The pile collapses, blocking off the path behind you. For now, you don't have to worry about your pursuers catching up.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Let's run for it! Now!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Taking advantage of the confusion, the maid grabs your hand and hastily runs off with you.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 7 - Misty Moonlight|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+Chapter 7 - Misty Moonlight<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+At long last, you and Royal Fortune arrive in the study. You lock the door tightly, sealing out all danger on the other side.<br>
+It is bright inside the study. After looking around for a bit, you feel it would be more apt to call this a library than a study.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+See, Lord Manjuu's late wife was a major bookworm, and Whydah still is, so he had a proper library built in the castle.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+No better place to hide a needle than a haystack. There's bound to be some juicy information here.<br>
+The question is, how many books are there to look through?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+30,000. It wasn't easy getting that many.<br>
+Don't worry, though. For the sake of all our sanities, you won't need to go through them one by one.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I wasn't going to, anyway. There's not enough time in the world to read that many books.<br>
+Let's instead start with the books Golden Hind reads the most.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Her favourite books, eh? They should all be in the same bookcase. Let's see... There!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The maid points at a particular bookcase near the terrace window.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+One whole bookcase is still a lot of books... It's at least manageable, though.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Well, let's get to work, Investigator. How about half the bookcase each?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sounds good.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You stand before the bookcase.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+My god...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You keep standing there, staring at it in a daze, like you're waiting for something to happen.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Do I really need to go through a whole bookcase? It's better than reading 30,000 books, but still.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The longer you stare, the more your urge to read grows. It's almost like the books have you under a spell.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Are you telling me to get a move on? Fine. Let's dig in.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You take a random book from a shelf and start reading it.<br>
+Roll a D100... 19. Success. Even though you're only flipping through the pages, you feel like the information is flowing directly into your head.<br>
+In less than 10 seconds, you've absorbed all the knowledge of that book.<br>
+Congratulations. You have remembered the skill Speed Reading. You have novice proficiency in this skill.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That skill was there all this time? Why didn't I remember it while reading that letter?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Uhh... Perhaps you weren't reading it fast enough?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Oh. Okay.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ahem. Even with only novice proficiency, going through a bookcase will be a cakewalk for you.<br>
+If you use Eagle Eye, you may be able to narrow down your search even further.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+One Eagle Eye check, please!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Roll a D100... 33. Success. Without hesitation, you grab another book from the– Wait, what? What's that book doing there?!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What book? The one I'm holding?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Yes! I mean, no! That book is unimportant! You don't need to read it!<br>
+<br>
+'''''<span style="color:black;">选择项1：That only makes me want to read it more.</span>'''''<br>
+'''''<span style="color:black;">选择项2：If you say so.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(You don't hear Hai Tien lose her cool every day. Something's clearly up with this book. Let's give it a read.)<br>
+'''''<span style="color:black;">（选择项1）</span>'''''"She took the Commander's hand, gently placing it upon her own cheek..."<br>
+'''''<span style="color:black;">（选择项1）</span>'''''"The lady in white's heart has belonged to this person since the day they first met. Alas, she lacks the courage to profess this love of hers..."<br>
+'''''<span style="color:black;">（选择项1）</span>'''''"The secret feelings she harbors are like flower petals, fluttering in the spring sun. Beautiful, fleeting, a dream-like mirage..."<br>
+'''''<span style="color:black;">（选择项1）</span>'''''"Like a summer wind stroking her soft cheek, the Commander's amorous whisper prompts a blush on her face that extends from ear to ear..."<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Yes, it would seem one of her own works ended up as a prop.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Whoa... That prose is so, like, poetic!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Aaahhh! Um, you astutely notice that Royal Fortune has come to a stop! You suspect she has found something of note!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''You decide to immediately throw that book aside and go have a look!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Phew... You check your half of the bookcase one more time, but nothing jumps out at you.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Then, you astutely notice that Royal Fortune has come to a stop. You suspect she has found something of note.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+She stands motionless in place, looking through one book in particular.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Huh?! Are you done already? What did you find?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Nothing worth mentioning. Any luck on your end?<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Well... I picked a couple of books Lord Manjuu and his family had read, and then I saw this photo album, and I just got absorbed.<br>
+Back when his wife was still alive, it was warm in the castle. Not cold, like it is now.<br>
+The lady was a compassionate, cheerful person, and had a smile that made the sun shine brighter when she was here.<br>
+This place was always full of life and laughter... that is, until she fell ill and was taken from us.<br>
+After that, Lord Manjuu devoted himself to charity and medical work, and he didn't give his family the attention they needed.<br>
+We're lucky Golden Hind and Whydah supported each other, and São Martinho took on many of the roles the lady used to, so the two had a decent childhood.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Who's the person that's been painted over in black in these photos?<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+That's Morgan, the daughters' childhood friend.<br>
+Passed away abruptly, much like Lady Manjuu... Golden Hind never recovered from it. Her bereaved father only made her days more miserable.<br>
+One day it got too much for her, so she joined a religious group in hopes of finding solace.<br>
+But, well... that group was up to very shady business. São Martinho joined later, as well as Adventure Galley, and it changed them both drastically.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+BANG! BANG! BANG! BANG! BANG! THUD!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You want to gather more info, but suddenly hear a foreboding banging from outside the study.<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+Oh, crap! They've found us...<br>
+Investigator... I leave Whydah and all the rest to you.<br>
+While I still don't fully believe in you, I have no one else I can turn to.<br>
+Whydah gave me this lantern and told me to hang on to it... but I think you'll need it more than me.<br>
+I'll stay here and buy you some time. I've known these people for years, so they'll let me live.<br>
+Now go... Save us!<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+The maid steels herself and runs out of the study. You hear the commotion outside the door intensify. You know for certain that she won't hold them back for long.<br>
+You have the lantern she left you, and a few books you haven't checked yet. You decide to...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 7 - True Ending|选项=26|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+The maid steels herself and runs out of the study. You hear the commotion outside the door intensify. You know for certain that she won't hold them back for long.<br>
+You have the lantern she left you, and a few books you haven't checked yet. You decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Open the door and escape.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Escape through the window.</span>'''''<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''There's no time to waste. You put your hand on the doorknob, determined to bail right now, but then your brain sets off a warning alarm.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''It goes without saying that leaving through the door isn't the wisest choice. You should think of another way to get out.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''The only way out is through the door... but, they will surely catch you if you try to leave that way.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Going in head-on isn't an option, so that leaves only fleeing through the window.<br>
+Can't I make anything to aid in my escape?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You search your surroundings for things you can use. A thick curtain catches your eye. You could make something out of this.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Roll a D100... 2, critical success! Using your expert-level Trap-Making skill, you create a durable escape rope.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Good, now I have a ticket out of here. But first... I'll quickly examine the lantern Royal Fortune entrusted me with.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 47. You pass a Folklore Scholar check.<br>
+Once you actually hold the lantern, you remember having read about it in a pamphlet from the Miskatonic University's museum. It must have the same power as the charm in your pocket.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Interesting... Whydah must've "borrowed" a lot of stuff from the university when she left.<br>
+(There are still leads to follow up on, but based on what I know now, it's obvious that Golden Hind has been performing some evil rituals.)<br>
+(Her goal is to bring back their childhood friend, and São Martinho and Adventure Galley are in on it.)<br>
+(The servants who have disappeared were probably sacrificed... And if they catch me, my head is next on the chopping block.)<br>
+What monsters... I should leave for now, then come back with police backup and save these people.<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Clinging tightly to the rope, you manage to escape from the study.<br>
+But, as soon as your feet touch the ground, you are caught in a sudden fog, and you lose your orientation.<br>
+You try to descend the mountain by relying on your memory, only to find yourself in a garden somewhere.<br>
+Roll a D100... 36. You pass an Eagle Eye check. The fog gradually clears, and a massive magic circle appears before your eyes.<br>
+It glows faintly while seemingly distorting the space around it, so you cannot clearly make out the enshrined stone statue on the opposite side.<br>
+And yet, through your skin, you feel an evil, chilling power in the air.<br>
+Roll a D100... 36. You pass a Folklore Sholar check. That statue is a symbol of the evil god Golden Hind's cult worships. Moreover, the ceremony they perform has already begun.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So I'm still in trouble... I can't believe I ended up at the ceremony site after just walking around.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You sense a piercing, cold gaze, and a hazy phantom emerges from the indigo mist.<br>
+The thing knows you're there, and waits for you – the lamb – to sacrifice itself.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Frogakhleh! *hisssss*!<br>
+<span style="color:#ff9b93;">Mary Celeste：</span><br>
+Are you the final sacrifice?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Its every word stabs at your spirit like a sharp sword. Your sanity shakes like a small boat, rocking in the furious sea.<br>
+But then, the charm in your pocket and the lantern resonate, and a comforting, soft light embraces you.<br>
+The goosebump-inducing dismay that gripped you fades away in the blink of an eye.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Frogakhleh! *hisssss*!<br>
+<span style="color:#ff9b93;">Mary Celeste：</span><br>
+Hahahah! Interesting. You've clearly come prepared. Are you here to strike a deal?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The sweet, clear voice comes from right inside your head. It is tempting you, making you question your motivations.<br>
+As an experienced detective, however, you're well aware of the dangers of negotiating with evil gods. Whydah did not give you this lantern for you to strike any deal.<br>
+<br>
+'''''<span style="color:black;">选择项1：I'll put an end to this evil being!</span>'''''<br>
+'''''<span style="color:black;">选择项2：This is for Whydah!</span>'''''<br>
+'''''<span style="color:black;">选择项3：I'm doing this for the money!</span>'''''<br>
+'''''<span style="color:black;">选择项4：In the name of love and justice!</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You are determined to expel this gestating phantom of evil. You will keep your promise to Whydah and Royal Fortune and put a stop to what's been happening at this castle.<br>
+Turning up the lantern's luminosity, you take aim at the apparition and throw your charm with all your might.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+You roll a 1 and get a critical success on your Throwing check! Commander, use my luck and give that thing hell!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The charm explodes violently upon contact with the phantom. The lantern in your hand resonates with it again and shoots out a blinding golden light.<br>
+Pain, despair, death, distraught, and a little bit of scorn... You feel many different emotions all at the same time.<br>
+The evil phantom goes up in a black flame and burns into nothing.<br>
+As the rainfall stops, the morning sun finally rises after a long night.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+After you drove off the avatar of the ancient god, you swiftly left the castle grounds.<br>
+You immediately went to the police when you returned to the city. Thanks to your years of good standing with them, they believed your testimony.<br>
+This was not the police's first paranormal case, nor will it be their last.<br>
+São Martinho and Adventure Galley confessed to all their charges, and the case was officially closed.<br>
+Even though you knew the truth, the thought of those innocent smiles in the photo album made you hold your tongue.<br>
+After that, you and Whydah wrote to each other. She told you Royal Fortune got away with only minor injuries. It seemed Golden Hind and the servants went easy on her.<br>
+You received a generous payment for having solved another case. And yet, when you returned to your office, you felt a lack of closure.<br>
+You felt unsatisfied because of some stone left unturned... You forced yourself to get over it. It didn't take too long for you to file away this case in the back of your mind.<br>
+Several months later, you saw a front-page article in a newspaper – "Old castle on city outskirts burns down - no survivors found."<br>
+Another while later, you received an invitation to an extravagant banquet.<br>
+Your old client – Lord Manjuu – had finally gotten over his deep grief. He had started a new life with a fresh outlook.<br>
+A happy ending, you'd think... but now, at the banquet, your mind is preoccupied by a certain woman wearing a wedding dress for some reason.<br>
+You swear you've seen her somewhere before... but where?<br>
+<br>
+TE - True Love is Eternal<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Chapter 7 - Happy Ending|选项=27|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Essex：</span><br>
+The maid steels herself and runs out of the study. You hear the commotion outside the door intensify. You know for certain that she won't hold them back for long.<br>
+You have the lantern she left you, and a few books you haven't checked yet. You decide to...<br>
+<br>
+'''''<span style="color:black;">选择项1：Calm down, first of all.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Check out those books.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(There has to be something in the books Royal Fortune left behind.)<br>
+(Based on what I know now, it's obvious that Golden Hind has been performing some evil rituals.)<br>
+(Her goal is to bring back their childhood friend, and São Martinho and Adventure Galley are in on it.)<br>
+(They probably sacrificed the servants who have been declared missing.)<br>
+I still feel like I'm missing something, though...<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You pick up a book. Roll a D100... 26. You figure out that this is the castle's accounting book.<br>
+After quickly reading through, you determine that these expenses are way too high for only a handful of people.<br>
+<br>
+'''''<span style="color:black;">选择项1：Keep reading.</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You pick up a different book. Roll a D100... 22. You determine that this is a list of things the family bought this year.<br>
+In addition to food, clothing, and ordinary things, the castle has received a huge amount of antiques. In Lord Manjuu's name, no less.<br>
+Some time has passed, and you now hear noise from the other side of the door.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+BANG! BANG! BANG! BANG! BANG! BANG!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Someone is pounding on the door. They've gotten past Royal Fortune... You only have enough time to read one more book.<br>
+<br>
+'''''<span style="color:black;">选择项1：Keep reading.</span>'''''<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You pick up the last book. Roll a D100... 8. You conclude that this book is Lord Manjuu's personal diary.<br>
+As you keep reading, one part in particular lodges itself into your memory.<br>
+"...Three years since my sunshine passed on, I bought a clinic and set up a charity. Now I no longer need to worry about sacrifices."<br>
+"...Morgan found out about my secret. I may have to... No, I can't just kill my daughter's longtime friend."<br>
+"...I shoved Morgan into the secret room behind the painting in the study. God will do the right thing for me."<br>
+"...Why?! Why hasn't it worked yet?! Bah! I have to keep trying! Maybe I need more sacrifices! Yes, I need to find more sacrifices!"<br>
+"...The housekeeper and my first daughter have become followers of our faith. Perhaps sacrificing believers is the way to go?"<br>
+"...I've got it. I'll need to find a scapegoat..."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...So that's the truth. Lord Manjuu is the wire-puller behind all this.<br>
+He killed Morgan and pulled his daughter into his cult, either as a better sacrifice, or as someone to pin the blame on.<br>
+Then he hired investigators to cover up his crimes even more perfectly.<br>
+All of this, just so he could resurrect his dead wife... This guy is sick in the head.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You've figured it all out, detective. The altar Lord Manjuu made with his own hands is the cause behind all the strange happenings at the castle.<br>
+Golden Hind and the servants are still breaking down the door. You need to make a decision, and quick!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The answer is clear as day. I'll go in there and drive out the root of all this evil.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Following the writing in the diary, you walk right up to the portrait before the hall to the secret room.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wait. First, I'll bring the lantern Royal Fortune left for me. I'll also roll for an Eagle Eye check.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+Roll a D100... 47. You pass a Folklore Scholar check.<br>
+Once you actually hold the lantern, you remember having read about it in a pamphlet from the Miskatonic University's museum. It must have the same power as the charm in your pocket.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Interesting... Whydah must've "borrowed" a lot of stuff from the university when she left.<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+You are ready. Moments before your pursuers break in, you slip into hiding in the passage to the secret room.<br>
+The lights in the study go out behind you. You light up the lantern and bravely step forth into the darkness before you.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You continue moving forward, trusting the lantern's faint light. After walking for some time, you find yourself inside a burial chamber. In a flash, an eerie magic circle appears before your eyes.<br>
+It glows faintly while seemingly distorting the space around it, so you cannot clearly make out the enshrined stone statue on the opposite side.<br>
+And yet, through your skin, you feel an evil, chilling power in the air.<br>
+Roll a D100... 42. You pass a Folklore Sholar check. That statue is a symbol of the evil god that Lord Manjuu's cult worships. Moreover, their cursed ceremony has already begun.<br>
+You sense a piercing, cold gaze, and a hazy phantom emerges from the indigo mist.<br>
+The thing knows you're there, and waits for you – the lamb – to sacrifice itself.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Frogakhleh! *hisssss*!<br>
+<span style="color:#ff9b93;">Mary Celeste：</span><br>
+Are you the final sacrifice?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Its every word stabs at your spirit like a sharp sword. Your sanity shakes like a small boat, rocking in the furious sea.<br>
+But then, the charm in your pocket and the lantern resonate, and a comforting, soft light embraces you.<br>
+The goosebump-inducing dismay that gripped you fades away in the blink of an eye.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Frogakhleh! *hisssss*!<br>
+<span style="color:#ff9b93;">Mary Celeste：</span><br>
+Hahahah! Interesting. You've clearly come prepared. Are you here to strike a deal?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The sweet, clear voice comes from right inside your head. It is tempting you, making you question your motivations.<br>
+As an experienced detective, however, you're well aware of the dangers of negotiating with evil gods. Whydah did not give you this lantern for you to strike any deal.<br>
+<br>
+'''''<span style="color:black;">选择项1：I'll put an end to this evil being!</span>'''''<br>
+'''''<span style="color:black;">选择项2：This is for Whydah!</span>'''''<br>
+'''''<span style="color:black;">选择项3：I'm doing this for the money!</span>'''''<br>
+'''''<span style="color:black;">选择项4：In the name of love and justice!</span>'''''<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Your conscience takes a hit the moment you say those words.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Yes. You have deduced that Lord Manjuu is behind these disappearances, and yet all you seem to care about is your payment.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''You are better than that. Something as meaningless as money cannot sway your iron spirit.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+You are determined to expel this gestating phantom of evil. You will keep your promise to Whydah and Royal Fortune and put a stop to what's been happening at this castle.<br>
+Turning up the lantern's luminosity, you take aim at the apparition and throw your charm with all your might.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+You roll a 1 and get a critical success on your Throwing check! Commander, use my luck and give that thing hell!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+The charm explodes violently upon contact with the phantom. The lantern in your hand resonates with it again and shoots out a blinding golden light.<br>
+Pain, despair, death, distraught, and a tinge of satisfaction... You feel many different emotions all at the same time.<br>
+The evil phantom goes up in a black flame and burns into nothing.<br>
+As the rainfall stops, the morning sun finally rises after a long night.<br>
+You eventually found an exit out of the secret room and escaped from the castle.<br>
+You immediately went to the police when you returned to the city. Thanks to your years of good standing with them, they believed your testimony.<br>
+Your account of the events was bizarre and made people's skin crawl, but it was no tall tale by the standards of the denizens of Arkham.<br>
+This was not their first paranormal case, nor will it be their last.<br>
+Working with the police, you forged a report to Lord Manjuu. You told him that not a single soul survived that night.<br>
+Fully convinced that his plan worked, Lord Manjuu flew back to the country to file a case against you under the pretense that you murdered everyone in the castle.<br>
+But, when his plane landed, the police were on the scene to arrest him. He was taken into custody and will pay for the crimes he has committed.<br>
+Afterwards, you and the police performed a thorough search of the castle and found another altar in the courtyard. It was destroyed, and the case was officially closed.<br>
+After that, you and Whydah wrote to each other. She told you Royal Fortune got away with only minor injuries. It seemed Golden Hind and the servants went easy on her.<br>
+Golden Hind and her fellow cult members from the castle are currently being treated at a mental hospital. The damage done by the cult to their sanity is slowly, but surely, being undone.<br>
+Whydah has, however, had to take on the heavy burden of managing her father's assets until her sister has recovered.<br>
+This spelled an urgent end to her carefree life as a shut-in, which she quite obviously is displeased about.<br>
+But, despite her grumblings about what a pain it is, she is doing a stellar job. Moreover, Royal Fortune is still by her side for the ride.<br>
+While the sisters' lives have been turned upside-down, at the very least, these sudden changes left no bad blood between them.<br>
+They face the pain and hardship that is to come, emerge stronger, and move towards a brighter future.<br>
+<br>
+HE - Beneath the Blue Sky<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Epilogue|选项=28|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Congratulations, Commander.<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+Yes. Who would have thought you'd actually see every last ending?<br>
+<span style="color:#4eb24e;">Royal Fortune：</span><br>
+You wouldn't believe how hard it was to play my character while watching you fail your dice rolls!<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+Yup. Acting was such a pain...<br>
+<span style="color:#4eb24e;">Golden Hind：</span><br>
+Agreed~<br>
+<span style="color:#4eb24e;">Prinz Eugen：</span><br>
+On the other hand, the Commander had fun, and so did everyone in the control room. All the time spent scripting was worth it.<br>
+<span style="color:#4eb24e;">Yukikaze：</span><br>
+I told you, you should've let Yukikaze the Great do all the dice rolls!<br>
+<span style="color:#4eb24e;">Z2：</span><br>
+That would utterly ruin the game's balance, I'm afraid.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Just wondering... In that one ending, who was the woman in the wedding dress at the banquet? Don't tell me it was...<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+She was Lord Manjuu's wife, of course!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What about the charm from the Miskatonic University? Why did Whydah sneak those out?<br>
+Did she know what was going on back home from the very start?<br>
+<span style="color:#4eb24e;">Essex：</span><br>
+It's possible. Maybe the maid wasn't affected by the cult's influence because the second daughter had those items.<br>
+I'm sure there are other minor contrivances, but I think they're best left as mysteries.<br>
+Explaining every little thing would just take away the fun of speculating.<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+You can analyze the story later. What we really wanna hear now is your overall impression, while it's fresh.<br>
+<br>
+'''''<span style="color:black;">选择项1：Darkness, mystery, horror... It's everything I expected!</span>'''''<br>
+'''''<span style="color:black;">选择项2：It was scary as hell!</span>'''''<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+That's what Halloween is all about!<br>
+<span style="color:#4eb24e;">Mary Celeste：</span><br>
+And giving people the creeps – that's what we ghost ships are all about!<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Good to hear. Then again, there's a lot of squeamish people at the port.<br>
+There's probably room for improvement, and accessibility.<br>
+<br>
+'''''<span style="color:black;">选择项1：You should add a faint-of-heart mode.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Let's include teamplay as an option.</span>'''''<br>
+<span style="color:#4eb24e;">Enterprise：</span><br>
+Huh... Good idea. I think we can do that.<br>
+<span style="color:#4eb24e;">Whydah：</span><br>
+I don't care what the story is as long as my character gets to chill in her room, surrounded by crisps and cola.<br>
+So... please don't change that.<br>
+<br>
+A Bump in the Rainy Night<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

@@ -78,11 +78,11 @@ MP 회복 완료…… 마물들, 받아라……<br>
 <span style="color:#4eb24e;">재블린：</span><br>
 여기가 바로 사천왕 중 5번째 마물이 있는 던전!<br>
 여기만 공략하면 마왕성으로 진격하는데 마지막 걸림돌까지 사라지는 거야!<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{namecode:408}：</span><br>
 하지만 이 던전은 매우 복잡해…… 조금씩 길을 찾다보면 얼마나 돌아야 할지 모르겠어.<br>
 <span style="color:#4eb24e;">라피：</span><br>
 후…… 라피, 벌써 힘든 것 같아……<br>
-<span style="color:#4eb24e;">Z23：</span><br>
+<span style="color:#4eb24e;">{namecode:408}：</span><br>
 아직 전투는 시작도 안 했는데, 벌써 지치면 안 돼, 라피!<br>
 <span style="color:#4eb24e;">아야나미：</span><br>
 이 던전의 구조, 이미 알 것 같네요…………<br>

@@ -194,16 +194,16 @@
 연회는 즐겁습니다만, 연회가 끝난 후의 이 조용함은 왠지 쓸쓸하네요……<br>
 어라? 지휘관님? 벌써 쉬러 가신 줄 알았는데…아직 깨어있으셨나 봐요?<br>
 이 호쇼와 함께 벚꽃을 보고 싶다…고요?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (끄덕)<br>
 <span style="color:#92fc63;">{namecode:89}：</span><br>
 우후후…그러시다면, 잠시만 기다려주셔요. 지금 준비할게요.<br>
 "낭군님, 오늘밤 꽃구경은 제가 모시도록 하겠사옵니다."<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 !!!<br>
 <span style="color:#92fc63;">{namecode:89}：</span><br>
 어떠세요? …두근두근하시나요? 지휘관님?<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 !!<br>
 <span style="color:#92fc63;">{namecode:89}：</span><br>
 우후후, 지휘관님께 칭찬받다니…호쇼는 몸 둘 바를 모르겠사와요.<br>

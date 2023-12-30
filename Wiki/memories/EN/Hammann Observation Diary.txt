@@ -8,7 +8,7 @@ Chapter 1: The Ill-Tempered Secretary<br>
 Port - Office<br>
 Hammann：<br>
 Hey! You there!<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Huh...?<br>
 Hammann：<br>
 The report that I submitted! You still haven't gone over it?<br>
@@ -20,7 +20,7 @@ Hammann：<br>
 No excuses!<br>
 If you said you haven't looked at it, then that means you haven't looked at it! After I put all that time and effort into writing the report, how do you plan to make it up to me?<br>
 *mumbles* ...and here, I was going to give you a reward if you already finished checking it...<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Why'd you start mumbling all of a sudden...<br>
 Hammann：<br>
 None of your business! Finish reading that report this instant so you can take me... I mean, give me orders!<br>

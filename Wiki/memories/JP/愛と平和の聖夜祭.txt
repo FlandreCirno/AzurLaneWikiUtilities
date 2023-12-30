@@ -277,22 +277,23 @@
 <br>
 その七 聖夜の抱っこ<br>
 母港・執務室<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 ……？<br>
 <span style="color:#4eb24e;">エルドリッジ：</span><br>
 指揮官、いた……<br>
 指揮官、疲れてそう……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">エルドリッジ：</span><br>
 エルドリッジ、プレゼント。<br>
 指揮官に。<br>
 メリー、クリスマス。<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！<br>
 <span style="color:#4eb24e;">エルドリッジ：</span><br>
 指揮官、嬉しい？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （こくり）<br>
 <span style="color:#4eb24e;">エルドリッジ：</span><br>
 エルドリッジも、嬉しい、えへへ……<br>
@@ -300,7 +301,7 @@
 エルドリッジと穏やかな時間をゆっくりと過ごした。心が癒やされる感じがした…<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 クリスマス記者のグリッドレイ、任務完了のレポートを届けにきました！はい指揮官！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……！<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 お？おお！これは！パシャパシャっと！<br>
@@ -315,7 +316,7 @@
 母港・執務室<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 えへへ、そういえば指揮官にはまだ言ってなかったっけ？メリークリスマス！<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 エルドリッジも、メリークリスマス！<br>
@@ -332,7 +333,7 @@
 <span style="color:#4eb24e;">シグニット：</span><br>
 うぅ……フッド姉さまから、「カワイイから指揮官にも見せてきなさい」っていわれてぇ……<br>
 え？みんな…なんでここに？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 なるほど！指揮官がまだ執務室で頑張ってるのを見て、会いに来たんだ！<br>
@@ -350,17 +351,17 @@
 むつきはアメさんがほしい！<br>
 <span style="color:#4eb24e;">エンタープライズ：</span><br>
 もちろん、指揮官にも。メリークリスマスだ。<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！<br>
 <span style="color:#4eb24e;">シグニット：</span><br>
 指揮官、メリークリスマス…うちのクリスマス衣装……どぉ？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！！<br>
 <span style="color:#4eb24e;">{namecode:79}&{namecode:33}：</span><br>
 指揮官、メリークリスマス！（しゅきかん、めりーくりすます！）<br>
 <span style="color:#4eb24e;">{namecode:79}：</span><br>
 扶桑姉さまから、せっかくのクリスマス衣装だから是非指揮官に見せたほうがいいって……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ！！！！<br>
 <span style="color:#4eb24e;">グリッドレイ：</span><br>
 おお！今の指揮官の顔はいいぞ～パシャ！<br>
