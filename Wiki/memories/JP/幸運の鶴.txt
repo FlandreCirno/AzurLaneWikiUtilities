@@ -7,6 +7,7 @@
 その一  瑞鶴の朝<br>
 母港・朝<br>
 この時間になるといつも秘書艦の瑞鶴が朝の報告をしに来るのだが、どうやらまだ来ていないようだ。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：重桜の空母寮へ瑞鶴の様子を見に行く</span>'''''<br>
@@ -94,7 +95,7 @@
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 ねえさ…こほん、赤城、あまり指揮官を困らせないでください。<br>
 瑞鶴お前もだ。秘書艦の務めをきっちり果たせ。…ほら、赤城、先に行ってください。<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官、赤城先輩はもう行っちゃったよ。<br>
@@ -141,7 +142,7 @@
 ただグレイゴーストを超えるだけでなく、翔鶴や重桜の同胞、母港の仲間たち、人類の世界、そして指揮官、お主も――なんでもひとりで背負おうとする。<br>
 指揮官、あの子の大先輩として…部下ではなくひとりの個人として頼みたい――<br>
 もしあの子がすべてを背負いきれなくなったら……その時は指揮官、お主が側で一緒に支えてあげて欲しい。<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <span style="color:#4eb24e;">{namecode:82}：</span><br>
 ……ふふ、お主の答え、しかと聞いたぞ。瑞鶴のこと、よろしく頼むよ。<br>
@@ -167,7 +168,7 @@
 こっそり揚げ鶏に沿えてある天ぷらは隠しメニューということだろうか？<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 で、どう？<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：普通に美味しい</span>'''''<br>
@@ -222,7 +223,7 @@
 執務室・深夜<br>
 <span style="color:#4eb24e;">{namecode:96}：</span><br>
 指揮官はやっぱり…翔鶴姉が用意してくれた分を選ぶよね…<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
 <br>
 '''''<span style="color:black;">选择项1：瑞鶴を呼び止める</span>'''''<br>

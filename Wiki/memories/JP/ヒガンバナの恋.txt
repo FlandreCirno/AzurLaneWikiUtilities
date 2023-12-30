@@ -202,8 +202,9 @@
 そう言って赤城が体をこちらに寄せてくる、そしてそのまま――<br>
 <span style="color:#4eb24e;">赤城：</span><br>
 んちゅ……ぺろぺろ……<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 …………！？<br>
+<br>
 包丁で切れた指を赤城が咥えた。<br>
 <span style="color:#4eb24e;">赤城：</span><br>
 指揮官様を傷つけるなんて…赤城はそんなことをしませんわ。たとえ指揮官様が敵になろうとも――<br>
@@ -219,7 +220,7 @@
 <br>
 '''''<span style="color:black;">选择项1：目を閉じる</span>'''''<br>
 '''''<span style="color:black;">选择项2：赤城に自分を頼ってほしいと伝える</span>'''''<br>
-<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项1）</span>'''''……<br>
 <span style="color:#4eb24e;">赤城：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''――指揮官様が赤城に頼るだけではなく、「赤城も指揮官様に」と……<br>

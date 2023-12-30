@@ -123,6 +123,8 @@ def sanitizeMemory(memory, skinTemplate, shipStatistics, shipTemplate, nameCode)
             output['memory'].append({'type': 'break', 'words': None, 'name': None, 'actor': None, 'color': None, 'option':None})
         output['memory'] = output['memory'][:-1]
         return output
+    if not "scripts" in memory['story'].keys():
+        return output
     scripts = memory['story']['scripts']
     if isinstance(scripts, dict):
         scripts = scripts.values()
