@@ -399,7 +399,7 @@ def MemoryTW():
 
 if __name__ == "__main__":
     wikiGenerate()
-    #MemoryJP()
-    #MemoryEN()
-    #MemoryKR()
-    #MemoryTW()
+    MemoryJP()
+    MemoryEN()
+    MemoryKR()
+    MemoryTW()
