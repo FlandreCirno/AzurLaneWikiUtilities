@@ -22,7 +22,7 @@ def getShipSkinTemplate():
     filePath = os.path.join('sharecfg', 'ship_skin_template_sublist'), mode = 1)
     
 def getItemStatistics():
-    return util.parseDataFile('item_data_statistics')
+    return util.parseDataFile('item_virtual_data_statistics')
     
 def getChapterAward():
     shipTemplate = getShipTemplate()
