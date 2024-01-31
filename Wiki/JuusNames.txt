@@ -129,6 +129,7 @@
 斯库拉 Scylla
 肯特 Kent
 萨福克 Suffolk
+声望 Renown
 反击 Repulse
 胡德 Mighty_Hood
 伊丽莎白女王 QueenEliz
@@ -334,6 +335,9 @@ U-1206 U.B.1206
 抚顺 Fushun2
 长春 ChangChun
 太原 TaiYuan
+龙武 Lung Wu
+虎贲 Hu Pen
+飞云 Fei Yuen
 逸仙 Yi Xian
 宁海 NINGHAI
 平海 PINGHAI
@@ -341,6 +345,8 @@ U-1206 U.B.1206
 肇和 Zhaohe
 海天 HaiTien
 海圻 HaiChi
+济安 Chi An
+寰昌 Huan Ch'ang
 镇海 ChenHai
 华甲 Hua Jia
 定安 Ting An
