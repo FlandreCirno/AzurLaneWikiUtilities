@@ -22,6 +22,9 @@ def getShipSkinTemplate():
     filePath = os.path.join('sharecfg', 'ship_skin_template_sublist'), mode = 1)
     
 def getItemStatistics():
+    return util.parseDataFile('item_data_statistics')
+
+def getItemVirtualStatistics():
     return util.parseDataFile('item_virtual_data_statistics')
     
 def getChapterAward():
@@ -31,6 +34,7 @@ def getChapterAward():
     mapData = getMapData()
     chapterTemplate = getChapterTemplate()
     itemStatistics = getItemStatistics()
+    itemVirtualStatistics = getItemVirtualStatistics()
     nameCode = util.getNameCode()
     mapName = {}
     for c in chapterTemplate.values():
@@ -38,9 +42,14 @@ def getChapterAward():
         c['equipmentAward'] = []
         for award in c['awards']:
             if award[0] == 2:
-                for a in itemStatistics[award[1]]['display_icon']:
-                    if a[0] == 4:
-                        c['characterAward'].append(a[1])
+                if award[1] in itemStatistics.keys():
+                    for a in itemStatistics[award[1]]['display_icon']:
+                        if a[0] == 4:
+                            c['characterAward'].append(a[1])
+                elif award[1] in itemVirtualStatistics.keys():
+                    for a in itemVirtualStatistics[award[1]]['display_icon']:
+                        if a[0] == 4:
+                            c['characterAward'].append(a[1])
     for m in mapData.values():
         m['chapters'] = {}
         for c in chapterTemplate.values():
