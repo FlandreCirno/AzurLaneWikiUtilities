@@ -86,7 +86,7 @@ What a strange plushie it is, though. I really wonder what creature it's based o
 
 {{折叠面板|标题=Allowance|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-Why can't I have more, $1?<br>
+Why can't I have more, {tb}?<br>
 <br>
 TB stares at me with a serious look in her eyes.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -97,7 +97,7 @@ It deepens their understanding of money and the economic system.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 That's a very... formal argument. My counterpoint is this – you're still young.<br>
 <span style="color:#4eb24e;">TB：</span><br>
-$1, are you one of those adults who "save" their kid's allowance and birthday money, then spend it on frivolous stuff?<br>
+{tb}, are you one of those adults who "save" their kid's allowance and birthday money, then spend it on frivolous stuff?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ...Fine, fine. Here, take this.<br>
 <br>
@@ -126,7 +126,7 @@ Well... I suppose neglecting your homework is an important part of growing up, t
 
 {{折叠面板|标题=Growing Pains - Sports|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-Do you know anything about sports, $1?<br>
+Do you know anything about sports, {tb}?<br>
 I've hit a slump with my sprinting and I can't get my lap time any lower.<br>
 <br>
 So that's why she's been acting anxious today.<br>
@@ -147,7 +147,7 @@ The next day, I was informed that TB had gotten better at sprinting.<br>
 
 {{折叠面板|标题=Plushie|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, I've done the laundry and dried our clothes.<br>
+{tb}, I've done the laundry and dried our clothes.<br>
 <br>
 TB fluffs up the tail of the plushie in her hands. Looks like she dried it as well while she was at it.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -186,7 +186,7 @@ When all is said and done, my only suggestion for her was to try out every club 
 
 {{折叠面板|标题=Club Activity II|选项=10|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, do you have a moment? I'd like some advice on what club I should apply to.<br>
+{tb}, do you have a moment? I'd like some advice on what club I should apply to.<br>
 <br>
 With an anxious look, she softly places a flyer on the table in front of me.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -204,7 +204,7 @@ Here's hoping she'll find something she enjoys.<br>
 
 {{折叠面板|标题=Club Activity III|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-Hey, $1! I want your help with picking one of these!<br>
+Hey, {tb}! I want your help with picking one of these!<br>
 <br>
 TB thrusts a flyer before my face before I get the chance to say a word.<br>
 <span style="color:#4eb24e;">TB：</span><br>
@@ -247,7 +247,7 @@ On the bright side, at least she'll finish her homework faster this way.<br>
 
 {{折叠面板|标题=Observation Diary II|选项=13|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-Say, $1, what do you do at home while I'm at school?<br>
+Say, {tb}, what do you do at home while I'm at school?<br>
 Also, what's your favorite food? I already know, but I'm asking just to be sure.<br>
 While I'm at it, what TV shows do you watch? What clothes do you like to wear? What–<br>
 <br>
@@ -271,7 +271,7 @@ Left with no choice, I answer her questions and help fill out her observation di
 
 {{折叠面板|标题=Observation Diary III|选项=14|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1! Hey, $1! Help me fill this out!<br>
+{tb}! Hey, {tb}! Help me fill this out!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ..."Write details about your observation subject"? What's this about?<br>
 <span style="color:#4eb24e;">TB：</span><br>
@@ -316,7 +316,7 @@ Kids her age... So hard to work with.<br>
 
 {{折叠面板|标题=A Reward II|选项=16|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, is there anything else I can do for you? Like give you a shoulder massage, or something.<br>
+{tb}, is there anything else I can do for you? Like give you a shoulder massage, or something.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 You've done your chores and finished your homework. That's plenty. You can just relax now.<br>
 <span style="color:#4eb24e;">TB：</span><br>
@@ -362,7 +362,7 @@ Strangely, I'm looking forward to the day I'll taste her perfectly fried eggs.<b
 
 {{折叠面板|标题=Chocolate I|选项=18|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, do you like chocolate?<br>
+{tb}, do you like chocolate?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Why do you ask?<br>
 <span style="color:#4eb24e;">TB：</span><br>
@@ -406,7 +406,7 @@ I get the feeling that she's a little peeved about my answer.<br>
 
 {{折叠面板|标题=Chocolate III|选项=20|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-I'll be straight to the point, $1! Do you want chocolate?<br>
+I'll be straight to the point, {tb}! Do you want chocolate?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Come again?<br>
 <span style="color:#4eb24e;">TB：</span><br>
@@ -478,7 +478,7 @@ I feel so bad for her that I just have to replace the money she lost.<br>
 
 {{折叠面板|标题=Magic|选项=24|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, is magic real?<br>
+{tb}, is magic real?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Magic? Umm...<br>
 <br>
@@ -507,7 +507,7 @@ Okay!<br>
 
 {{折叠面板|标题=Dreams|选项=26|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, what is a dream?<br>
+{tb}, what is a dream?<br>
 <br>
 TB sometimes asks big questions like this, and I'm never sure how to reply.<br>
 It's a challenge, but that's what makes it fun to answer.<br>
@@ -521,7 +521,7 @@ Just as I help her grow, she helps me grow, in a way.<br>
 
 {{折叠面板|标题=Drinks|选项=27|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, I want to try this drink.<br>
+{tb}, I want to try this drink.<br>
 <br>
 TB points to an ad of a glass filled with a golden liquid. Her eyes are filled with little twinkles of excitement.<br>
 The problem is, that drink is meant for adults.<br>
@@ -532,7 +532,7 @@ Later on, I dupe her with a glass of regular fruit juice.<br>
 
 {{折叠面板|标题=Cooking|选项=28|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">TB：</span><br>
-$1, this dish looks interesting.<br>
+{tb}, this dish looks interesting.<br>
 <br>
 TB points at the TV. It's playing an episode of a show called "Kitchen Blunders: Your Food is Cooked."<br>
 They're showing a dish that, to put it nicely, makes you wonder what was going through the chef's mind.<br>
