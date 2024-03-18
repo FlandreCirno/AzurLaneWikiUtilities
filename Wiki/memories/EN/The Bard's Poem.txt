@@ -1,0 +1,238 @@
+== The Bard's Poem ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The First Verse|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#fef15e;">???：</span><br>
+♪ The winter has passed, the spring has come, and life begins new ♪<br>
+♪ From the gods get we our blessings, and this lovely world does too ♪<br>
+<br>
+A village sits on a grass plain. A bard's singing can be heard from down the road.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ 'Tis time to shake the cobwebs, to go where one never has ♪<br>
+♪ Oh, here's a slice of Paradise; a splendid town to pass♪<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+You hear that? Someone's singing...<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+A traveling bard... We've never had one of those come to the village before.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Heehee! What a nice voice she has!<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+Yes, I think she's literally singing the praises of our village.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Ms. Bard! Thank you for the verses!<br>
+You should come sing in our tavern, too! Should I show you the way?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Ah, Javelin... I mean, my fair lady, you are too kind.<br>
+However, I am simply passing through this place. I must politely reject your offer.<br>
+For you see...<br>
+♪ The darkness is upon us ♪<br>
+♪ O villagers kind and friendly, I imploreth ye to flee ♪<br>
+♪ My flute's sound shall lead ye, to a great sanctuary ♪<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+Uh... "The darkness"?<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+It'll be several hours before the sun sets.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Ah... Of course, your village is isolated from the rest of the world.<br>
+I assume you've not heard the news about the Demon King.<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+The Demon King? I have a book about her at home.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+I speaketh not of the Demon King of fables and fairy tales.<br>
+Hmm... I suppose this is a reason to stay the night.<br>
+Your village seemeth to need the services of a bard.<br>
+Where be your tavern?<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Right over here! Follow me!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Song of Hope|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+The next day, by the village's water well...<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ O ladies, come hither; I ask only for thy ears ♪<br>
+♪ Across forests and mountains, lies a castle far from here ♪<br>
+♪ Turn your gazes northward, it shall be worth the hassle ♪<br>
+♪ Among the mountains yonder, there sits a mighty castle ♪<br>
+♪ Though so pretty and so fancy, its decor is blood and flames ♪<br>
+♪ Houses a despot with bloodlust; 'tis the Demon King's domain ♪<br>
+♪ Hers is a heart like stone, and cold just as the ice ♪<br>
+♪ And where that one travels follows a wake of demise ♪<br>
+♪ And as the army of darkness has now begun to move ♪<br>
+♪ It's best for you to flee now, for staying shall be your doom ♪<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+The Demon King Army is on the move...<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+That reminds me... Some merchants passing by have said they were attacked by monsters.<br>
+But don't worry! We already took care of all the monsters near the village!<br>
+<span style="color:#fef15e;">Bard：</span><br>
+So you aren't only villagers, you're also guardians of the lanes of trade. I applaud you.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Heehee... "Guardians" might be a strong word.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Regardless, a few stray monsters can ill compare to the might of the Demon King Army.<br>
+Even the army of humanity is buckling under its offensive.<br>
+In fact, they have already decided to abandon the area surrounding the Endless Woods.<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+And where is the Endless Forest, exactly?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+...Over yonder. 'Tis the great forest that stretches on far past the village.<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+Oh, I thought it was called the Forest of Origin. I never knew it was known as the Endless Woods as well.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+"Forest of Origin"? That's the local name for it?<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+Yup. Always has been.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+It has a nice ring to it. I shall call it that as well.<br>
+<br>
+The bard thinks to herself for a moment, then resumes her singing.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ O people of this village, by the Forest of Origin ♪<br>
+♪ Though the times may be dire, to despair do not give in ♪<br>
+♪ To the south there is hope, a star amidst the darkness ♪<br>
+♪ A wall to reach the heavens, its guardians art bless'd ♪<br>
+♪ Constructed by decree it is, its finish drawing near ♪<br>
+♪ Twelve goddesses' blessings, 'pon a lake fine and clear ♪<br>
+♪ A vampire founded Ballad, its cornerstone she laid ♪<br>
+♪ The guardian dragon soars, its scales glow like jade ♪<br>
+♪ Blessed be our kingdom, and to you I say... ♪<br>
+♪ O people of this village, by the Forest of Origin ♪<br>
+♪ Come with me southward, and your tale we shall spin ♪<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+You're... asking us to come with you, is that it?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Aye. 'Tis a shame your gorgeous village will fall, but you mustn't fall with it.<br>
+As a humble bard on the lowest rung of society, inviting you to the land of hope is the most I can do.<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+You mentioned guardians. That's what they call the kingdom's protectors.<br>
+Our records mention them secretly colluding with the Demon King. Is that true?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Your village has records of such treachery?<br>
+Hmm. This will take some time to go through.<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+I guess you can stay another night.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Yeah! We'll keep you and the rest of the village safe from monsters!<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Very well. Then another night I shall stay.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Song of Change|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+The next day, under a tree by the river...<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ Come closer here my ladies, and listen to my song ♪<br>
+♪ I've an ancient tale to tell, a past that's so far gone ♪<br>
+♪ Of when this land was forged, and gods were only four ♪<br>
+♪ Four spires were there then, protecting people ever more ♪<br>
+♪ And the gods they were of wisdom, joy, and even war ♪<br>
+♪ Then there was the fourth god, its name is known no more ♪<br>
+♪ The lands were all in harmony, but meant to last 'twas not ♪<br>
+♪ In then came the new gods, when the old began to rot ♪<br>
+♪ Oh, betrayed felt the wisdom god, the heretics it cursed ♪<br>
+♪ The god of joy was furious, its bubble had been burst ♪<br>
+♪ The last two gods were out of words, for blood was all they cared ♪<br>
+♪ Together they all swore revenge, with demons did they pair ♪<br>
+♪ To those who had forsaken them swore to bring despair ♪<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+So when the new gods flourished, faith was lost in the old ones. Out of spite, they joined forces with the Demon King. Am I correct?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+That you are.<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+I have a question...<br>
+What was the name of the last old god?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Nobody knows. I am but a vessel for the muse, not an expert on the war between gods.<br>
+I've told you all that I know. Now, shall we set off?<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+First, I wanna know about those four spires.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Ah, the four spires. It's a long story to tell, though...<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+So just stay another night then.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Just one more night! Please! We'll pack our stuff in the meantime!<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+Yes. We'll set off tomorrow, I promise.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+So be it. One more night, then we shall be off.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Song of the Spires|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+The next day, by the village's entry gate...<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ Listen now, miladies, before you start your quest ♪<br>
+♪ Spires there were four, to north, east, south, and west ♪<br>
+♪ Gone are they all now, like tears amidst the rain ♪<br>
+♪ First we have the southly one, its guardian chased out ♪<br>
+♪ Second is the western one, 'tis swimming with the trouts ♪<br>
+♪ Third there is the eastern one, of Ballad became its stones ♪<br>
+♪ Lastly there's the northern one, its fate remains unknown ♪<br>
+♪ Appeared they did and went they did, all signs of them are gone ♪<br>
+♪ The witch inside the tower, a note to finish on ♪<br>
+♪ If one thing can be said of her, she is all mankind's friend ♪<br>
+♪ And so... it... goes ♪<br>
+There you have it. 'Twas the full tale of the spires.<br>
+Now, if I may ask... What are you all wearing?<br>
+<span style="color:#4eb24e;">Ayanami：</span><br>
+I'm geared up to kill the Demon King.<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+We're gonna take down the big bad...<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+If there's no more Demon King, we won't need to flee our village!<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+Exactly! And we can help people along the way as our skills improve.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Well... I suppose you have a point.<br>
+But I must warn you – facing the Demon King means risking your life.<br>
+Besides, even if you are successful, another Demon King will be born one day.<br>
+History has proven that this, if nothing else, will always be true.<br>
+<span style="color:#4eb24e;">Ayanami：</span><br>
+Not if we take her down for good.<br>
+My fists will put an end to this ceaseless cycle.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+An admirable spirit. I sincerely wish you luck.<br>
+Then, one last thing...<br>
+<br>
+The bard pauses to think for a moment, then resumes her song.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ The Demon King's great treasure, of it you must beware ♪<br>
+♪ There's thorns beneath its petals, their sting without compare ♪<br>
+♪ Do not take it lightly, or it shall be your end ♪<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Thanks, bard! We'll keep that in mind!<br>
+<span style="color:#fef15e;">Bard：</span><br>
+One last thing. Take this flute with you.<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+Are you sure? But being a bard, don't you need it more than we do?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+Don't worry about me. I have another one.<br>
+I know it will come in handy on your adventure.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Well, if you insist! Thank you so much!<br>
+Oh, right, you never told us – what's your name?<br>
+<span style="color:#fef15e;">Bard：</span><br>
+My... name?<br>
+I do not know.<br>
+I suppose you may remember me as the bard searching for her own name.<br>
+Now, I must bid you farewell...<br>
+Heroes to-be.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Song of the Present|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#fef15e;">Bard：</span><br>
+♪ The winter has passed, the spring has come, and life begins new ♪<br>
+♪ From the gods get we our blessings, and this lovely world does too ♪<br>
+<br>
+A village sits on a grass plain. A bard's singing can be heard from down the road.<br>
+<span style="color:#fef15e;">Bard：</span><br>
+♪ The seasons oh they come and go, the time has gone so fast ♪<br>
+♪ The glory days have passed us, so many years elapsed ♪<br>
+♪ Though darkness once was vanquished, its return is overdue ♪<br>
+♪ And while it creeps upon us, adventures start anew ♪<br>
+♪ Today a hero rises, fight evil they shall do ♪<br>
+♪ The world now needs a champion, perhaps... it's... you ♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
