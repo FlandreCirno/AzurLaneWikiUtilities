@@ -107,6 +107,7 @@
 贾维斯 Jervis
 雅努斯 Janus
 英雄 Hero
+努比亚人 Nubian
 阿贾克斯 Ajax
 黛朵 Dido_Doll
 南安普顿 MINAMIpton
@@ -128,8 +129,10 @@
 司战女神 Bellona
 进取 RoyalMaid.E
 斯库拉 Scylla
+利物浦 Liverpool
 肯特 Kent
 萨福克 Suffolk
+德文郡 Devonshire
 声望 Renown
 反击 Repulse
 胡德 Mighty_Hood
@@ -428,14 +431,14 @@ U-1206 U.B.1206
 沃克兰 Vauquelin
 凯尔圣 Kersaint
 恶毒 VivaLaze
-不屈 L'Indomptable
+不屈-王国军守护骑士 L'Indomptable
 拉·加利索尼埃 Inquisition_G
 福煦 Foch
-阿尔及利亚 Algérie
+阿尔及利亚-王国军方旗骑士 Algérie
 敦刻尔克 gateaumistress
 让·巴尔 PirateKnight
 克莱蒙梭 Clemenceau
-霞飞 Joffre
+霞飞-战斗天使 Joffre
 加斯科涅 GascogneT8
 弗兰德尔 Flandre
 皇家财富号 Royal Fortune

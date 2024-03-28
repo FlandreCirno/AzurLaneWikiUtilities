@@ -1,0 +1,2633 @@
+== 从零开始的魔王讨伐之旅 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=冒险的序幕|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">抚顺：</span><br>
+说起来啊……指挥官。<br>
+你有没有觉得现在港区很缺少一样东西？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……港区缺少的东西？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+没错！我们的港区有些太脱离现代化的时代浪潮了！<br>
+什么虚拟现实啊、人工智能啊、大数据啊……<br>
+这些处于时代浪潮最前沿的技术，在我们的港区中根本哪里都看不到啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（无言地看向TB终端。）<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+咳、咳！我的意思是，在港区中除了指挥室之外，哪里都看不到啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你是指技术虽然有了，但是普及度还不够么……？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+没、没错！我就是这个意思！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好像确实有些道理……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿，为了帮指挥官解决这一问题，我已经提前联系好了一批志同道合的同伴共商此事！<br>
+这是我们加班加点准备的方案，请指挥官过目！<br>
+<br>
+从兴高采烈的抚顺手中接过了一份厚厚的企划书。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+《大型港区虚拟现实体验计划》……<br>
+企划委员会成员……抚顺、{{AF|绫波}}、水星纪念、布里斯托尔、皇家财富号……<br>
+……怎么名单还有第二页。<br>
+克莱蒙梭、英勇、{{AF|欧根亲王}}……<br>
+甚至还有{{AF|明石}}和领航员-TB……<br>
+<br>
+这份成员名单无疑是豪华的，但直觉告诉我，似乎有哪里不太对……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+有哪里……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+指挥官！{{AF|明石}}已经表示，这次她将会承担全部的开发费用！<br>
+你只要盖章通过就好了！<br>
+反正不要钱，多少试试嘛~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|明石}}……承担全部……费用？<br>
+<br>
+超乎意料的词语组合突然冲入耳中，扰乱了大脑中主管理性思考的部分。<br>
+再加上抚顺超乎寻常的热情攻势……<br>
+这份《大型港区虚拟现实体验计划》的审批——顺利通过了。<br>
+两周后——<br>
+学院中一处原本空旷的广场上，此时正矗立着一台巨大的机器。<br>
+同样的机器还有数百台被设置在了港区郊外各处，形成了一个复杂的网状系统。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼……<br>
+终于到这一天了喵……<br>
+这一次{{AF|明石}}可是下了血本……<br>
+才终于将使用场景布置的传统剧本杀一跃升级为了自由自在的虚拟现实冒险喵！<br>
+掌控了这个平台……今后收益就会如洪水般涌来了！<br>
+喵呼呼呼呼——！<br>
+<br>
+先把这只手舞足蹈发出怪笑的猫咪放在一边。<br>
+不远处，一支即将体验系统的勇者小队已经集结完毕了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+再强调一下，我是勇者抚顺，你是神官利物浦，你是神官独角兽……！<br>
+都记住了么？一会选职业的时候不要弄错了哦！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+没问题哦~神官的衣服很可爱，我很喜欢~<br>
+不过为什么队伍里要有两个神官？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿，因为这次我利用开发者的权限弄了一件强力装备。你们两个只要负责奶好我，输出全交给我就好啦！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+嗯……独角兽用治疗魔法保护大家的！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+不愧是我选择的冒险伙伴，真可靠啊~<br>
+喂——那边正在怪笑的猫咪老板，我们可以出发了么！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼，系统运行良好，随时可以出发喵~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+那么最终检查~两位，准备好去异世界大冒险了么！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+让我检查一下~妆容OK，衣着OK，手机的自拍功能OK~随时可以出发！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+那个……事先也没有跟哥哥商量……<br>
+哥哥真的会参加么……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+放心放心~之所以没有提前通知，自然是为了给指挥官一个惊喜嘛。<br>
+我已经在确认了指挥官的日程表之后，进行了周密的部署！<br>
+我以冒险之王的名誉保证，指挥官一定会如约而至的！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+那……独角兽就没问题了！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+很好。哼哼……终于要到这一刻了么。<br>
+<br>
+少女自信地将手臂向天指去，信心十足的喊出了那句由她亲自设计的帅气口号——<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+那就让我们开始异世界的冒险之旅吧！<br>
+<br>
+与此同时的某处——<br>
+映入眼帘的是一处装饰古朴的石质大厅，尽头处的天球仪正闪烁着奇异的光辉。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这是怎么回事……<br>
+我明明是在会议室中听{{AF|腓特烈·卡尔}}汇报工作……<br>
+怎么会在转瞬间出现在这里……港区中，有这样一处大厅么？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+来自远方的冒险者哟，欢迎来到啾啾神殿喵~<br>
+<br>
+转过头去，{{AF|明石}}正端坐在大厅另一侧的王座之上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……{{AF|明石}}？这是怎么回事？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+{{AF|明石}}？错错错，我是幸运与财富之神喵~！<br>
+你看来还没有理解状况呢，人类。<br>
+这里是啾啾神殿，一座连接无数世界的神之国度。<br>
+生活在这里的众神，偶尔会因为一时兴起，从逝去之人中选择一些前往异世界开启新的人生。<br>
+而你，就被身为幸运与财富之神的我所选中了，大概就是这么回事喵~<br>
+真是遗憾啊，年纪轻轻就来到了这里喵~<br>
+不过没有关系，很快你就可以从这里离开，前往异世界转生了喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………………………<br>
+<br>
+'''''<span style="color:black;">选择项1：配合明石的小剧场</span>'''''<br>
+'''''<span style="color:black;">选择项2：揭露明石的角色扮演</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''没想到真相竟是如此……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''常年来超负荷的工作终于将我压垮了么……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''可是……如果我倒下了，今天就截止的报告书要怎么办，明天就截止的规划表又要怎么办！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我还有一座港区要养……我还不能倒下……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''让我回去，我要继续工作！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''喵？！喵喵喵喵喵？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''看……看来指挥官平时承担的工作确实太多了喵……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不过已经进入角色了是好事喵……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……我明白了，这里就是你们之前开发的《大型港区虚拟现实体验计划》的成品吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我记得之前企划委员会里有{{AF|腓特烈·卡尔}}，我在来到这里之前也是和她在开会。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你们是一伙的！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''喵——什么一伙不一伙喵？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''大型企划完成了，请指挥官来检查一下成果不是再正常不过么喵~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''所以……你们最后做成了一个大型虚拟现实游戏。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……现在回忆起企划委员会的成员，我早该想到的……<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呼呼呼，不论如何，指挥官还是先来体验一下如何喵？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那是自然……<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''喵呼呼，我就知道指挥官会有兴趣喵~<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+给，这里是你的信息卡。<br>
+就把接下来的旅途当成一次休假，好好享受吧喵~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……信息卡上的内容已经固定了么？<br>
+按照惯例选择地点、出身、和初始技能的环节呢？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+那些……或许以后会有喵~！<br>
+敬请期待DLC喵~！<br>
+那么，即将踏上旅途的冒险者，祝你能有一次美好的体验喵~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=从零开始的冒险|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+一阵光芒闪过，几位打扮各异的少女出现在了充满异世界风情的村镇中。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+……迎面而来的阳光，还有空气与土地的味道……一切都与港区截然不同。<br>
+还有这身可爱的神官制服……<br>
+这就是，虚拟现实系统的力量~！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+独角兽也能从法杖中感受到魔法的力量……<br>
+好像真的变成能使用魔法的神官了……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+等……等等！<br>
+勇者之剑确实是刷出来了，可是……抚顺的变装呢！<br>
+我设计的十几套勇者服饰去哪里了？！<br>
+紧急呼叫秩序与规则之神——！<br>
+<span style="color:#4eb24e;">领航员-TB：</span><br>
+一次性紧急联络道具已确认使用。<br>
+回复：你未对最终使用方案做出决定，且我无法自主决定该项内容。<br>
+因此为了能确保游戏流程正常进行，经过评估，我选择了调用默认服饰的方案。<br>
+以上，本次联络结束。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+糟糕……好像确实是这样……我当时忙着去道具组设计勇者之剑就……<br>
+失策了……没事，至少勇者之剑好好刷出来了！<br>
+哼哼……这个手感，不愧是由我亲自设计的武器，真是完美无缺的品质！<br>
+那么接下来，首先操作一下系统面板查看一下属性装备和任务——<br>
+咦？独角兽你怎么变成了见习神官？<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+我看到见习神官的背景介绍是“原本拥有强大力量的魔法师改学神官魔法，所以保留了一部分以前的法术。”<br>
+独角兽选了优酱召唤术……这样就能和优酱一起冒险了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+原来见习神官是这种设定么……？！<br>
+干得漂亮独角兽~居然想到了冒险之王都没想到的事！<br>
+开局就有了会飞的小队坐骑……嘿嘿，对于冒险之旅来说真是如虎添翼啊~<br>
+然后接下来是任务列表……嗯，已经刷新了！<br>
+第一个任务是寻找小队指挥官，任务地点在“无尽树海”~<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+小队指挥官，看来这个就是去和指挥官汇合的任务了呢。<br>
+没想到都来到了异世界，指挥官的职业还是指挥官。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+就是说啊！可惜最后的投票结果就是这样……<br>
+如果让我来设定……嘿嘿，那我肯定把指挥官的职业设定成狂战士。<br>
+让指挥官也体会一次依靠力量手撕敌人的快乐~<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+……失去理性的狂战士哥哥……好可怕。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+就是因为有这样的反对意见，所以我也没坚持嘛~<br>
+好啦好啦，别光站在这里聊天，我们去做主线任务吧。<br>
+目标是无尽树海，出发~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=初始之森的战斗|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+光芒散去后，出现在眼前的是一片茂密的森林。<br>
+挥舞手臂、抬起双腿，一切都如同操控自己身体一般自然。<br>
+用手触摸树皮，手心中传来了混合着冰冷与湿润的粗糙触感。<br>
+耳边传来了清脆的林间鸟鸣，植物特有的清新气息夹杂着泥土的腥气进入鼻腔。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+五感完全察觉不出任何异常……<br>
+拟真到这个程度，简直就像真的来到了异世界一样。<br>
+{{AF|明石}}和TB弄出的这个系统还真是厉害……<br>
+但……如果是这样的话，似乎有很重要的事要优先确认一下！<br>
+<br>
+……<br>
+<br>
+'''''<span style="color:black;">选择项1：寻找退出按钮！</span>'''''<br>
+'''''<span style="color:black;">选择项2：测试痛觉！</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你有些慌乱地打开系统菜单。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''在选项面板最下方的按钮上，赫然写着“退出冒险”四个大字。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''太好了……可以主动退出！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''没错，如果这个系统在各方面的拟真度真的如此之高，那痛觉呢？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''怀揣着这样的疑惑，你举起拳头，对着眼前粗壮的树干用力锤了下去。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''砰——！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯……感受到了明确又强而有力的撞击感，但几乎没有痛感。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''看来她们考虑过这个安全性问题，将痛觉反馈设定在相当低的程度了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不错，很细心。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+接下来……查看一下角色信息卡吧。<br>
+这次她们设定的固定信息卡，究竟是什么样的呢……<br>
+……职业：指挥官，等级：1。<br>
+……守护神：幸运与财富之神——{{AF|明石}}。<br>
+……基础属性，生命值100，魔法值50，攻击力11，防御力9，速度12，幸运750。<br>
+……？<br>
+<br>
+你怀疑自己眼花了，又盯着面板仔细看了一遍。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+幸运……750。<br>
+比其它所有属性加起来的总和还要高……<br>
+然后是技能……居然有6个初始技能啊。<br>
+投掷C、奔跑B、战场指挥SSS、情报记录SSS、情报分析SSS……<br>
+……也行吧，至少没有魅惑术之类奇怪的东西存在。<br>
+……我已经完全理解这次的人设了。<br>
+一个手无缚鸡之力，但幸运度异常高，指挥能力也异常强的指挥官。<br>
+……这种设定的角色，如果没有战斗力出色的队友配合，是没办法在冒险旅程中活下去的呢。<br>
+<br>
+就在这时，由远及近，一阵嘈杂的鼓声出现了。<br>
+与此同时，冒险终端中也出现了一些信息。<br>
+<span style="color:#4eb24e;">冒险终端：</span><br>
+「在无尽树海中，栖息着不计其数的啾莱姆部落。」<br>
+「而远方的鼓声，就来自于一支由啾莱姆王带领的啾莱姆巡逻队。」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+终端自动获取到了远方敌人的情报……这就是情报分析或者情报记录能力的发动效果么。<br>
+确实是很关键的能力……<br>
+敌人正在接近，接下来应该——<br>
+<br>
+'''''<span style="color:black;">选择项1：使用投掷技能尝试战斗</span>'''''<br>
+'''''<span style="color:black;">选择项2：使用奔跑技能尝试逃离</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''现在的位置应该在新手村附近的森林，这里的魔物在通常设定上，都是给新人练手用的。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''既然是异世界冒险……那自然要选择战斗！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''初始状态虽然没有任何武器……但是利用投掷技能，再加上森林中随处可见的树枝石块……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''未必没有一战之力！<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''下定决心后，你选择了一块视野中你能拿起的最大块石头，向着远方的啾莱姆之王用力扔了出去。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''砰——！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你看到啾莱姆之王的血量微不可查的减少了一点点。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''然后，因为愤怒而膨胀了三圈的啾莱姆之王，向着你的方向高速冲来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''在没有装备与战斗技能，基础面板也惨不忍睹的情况下，应该避免与任何敌人交战。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''还是用奔跑技能逃走吧……<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''咔嚓——你在奔跑中踩到的树枝传来了清脆的碎裂声。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……我不是有750点幸运值么？！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''哦对……这个不是事事都需要过检定的游戏，幸运在有些时候并没有太大用处……！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''远方的啾莱姆之王察觉到了这声异响，向着你的方向高速冲来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+糟糕……<br>
+为什么这些人会在新手出生地附近，安排一个新手完全无法解决的魔物啊！<br>
+难道我异世界冒险之旅要在迈出第一步时就结束了么……<br>
+<br>
+轰——————！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呔！你的对手是本勇者抚顺才对！魔物纳命来！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥不要怕，我们来帮你了！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+指挥官，快来我的防护阵里！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这是勇者抚顺的冒险小队？支援的真及时，准备战斗！<br>
+<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+接下来就是终结一击了！<br>
+看招——勇者之剑！<br>
+<br>
+轰——————！<br>
+蹬蹬瞪♪~蹬蹬♪~蹬蹬瞪♪~<br>
+伴随着一阵象征胜利的悠扬音乐，啾莱姆之王化为粒子消失了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+战斗胜利~我们冒险小队的配合真是完美无缺啊~！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+呼……没想到哥哥这里一上来就碰到了这么夸张的魔物……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+是啊……真是充满恶意的设计者！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就是说啊……不过没想到我们竟然打赢了。<br>
+你们也和我一样是刚开始冒险的初始状态吧？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+是的，没错~这个啾莱姆之王，按理说以我们现在的等级肯定是打不赢的。<br>
+但是——哼哼哼~抚顺身为制作委员会的人，账号里自然是有些特权的！<br>
+比如我刚才使用的这把传说中的勇者使用的勇者之剑！<br>
+有了这把传说之剑，斩杀区区啾莱姆之王，不费吹灰之力~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原来如此……是作弊啊。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+是制作人员才知道的彩蛋！彩蛋！<br>
+不过好奇怪……完成了和指挥官汇合的任务之后，终端里就没有新的主线任务出现了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+难道是因为主线任务还没完全做好……？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+有可能……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+你不是制作委员会的人么？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+我是故意不去了解的！<br>
+不然，如果提前知道了全部的剧本，自己玩的时候不就没有新鲜感了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+很有道理，游戏的新鲜感确实很重要。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+对吧对吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那么接下来，我们按照冒险游戏的传统惯例，去最近的村子收集情报如何？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿~指挥官已经乐在其中了呢~<br>
+没问题，你是小队指挥官，都听你的！<br>
+不过——冒险小队的名字依然是勇者抚顺的冒险小队哦~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=别样的新手村|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+乌尔斯普（Ursprung）村——意为起源之村。<br>
+作为离开无尽树海后，顺着道路而来的冒险者能见到的第一个村子。<br>
+其命名无疑是十分恰当的。<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+欢迎来到乌尔斯普村，老朽是这里的村长布里斯托尔。<br>
+各位一路远行至此真是辛苦了，如果是在和平年代，老朽也想准备一桌筵席招待各位，一尽地主之谊。<br>
+可是魔王军的进攻正日益频繁，前线战局紧张。<br>
+王国军已经来村里征收了好几次，所有多余物资都已经全部上缴了。<br>
+村里的年轻人也被征召的差不多，只留下了老朽这样的老人家守着村子。<br>
+唉，真不知道战争什么时候才能结束啊。<br>
+各位冒险者们，事不宜迟，请尽快前往王都报道。<br>
+在取得了国王陛下的许可后，就快踏上讨伐魔王的旅程吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+…………<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+怎么了，各位冒险者，你们已经收到新任务了吧，怎么还不走呢？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+我支线任务呢……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是啊……按照惯例的那些寻找失物、保护田地、打扫卫生的支线任务呢？<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+该不会是支线任务都还没做好吧？<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+咳、咳……各位冒险者是在说什么话，老朽怎么一点都听不明白。<br>
+……好了好了，村子真的没有隐藏任务也没有隐藏道具，你们快走吧。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+喂……这就开始赶人了么？！<br>
+好歹我们也是勇者小队，给我放尊重点啊！<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+你们这种勇者小队，以前多的时候老朽一天能看到十几队呢……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+啧，看到这把传说中的勇者之剑了么，持有此剑，就表示抚顺才是整个王国里独一无二的最厉害的勇者！<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+这种“勇者之剑”多的时候，一周也能看到一百多把……老朽已经见怪不怪了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+可恶……区区一个NPC，你这是什么态度！看我教训一下你！<br>
+……咦，等等，无法被攻击？！<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+哼哼，老朽作为承担重要功能的NPC，可是有着秩序与规则之神给予的至高祝福——“系统保护”的。<br>
+我们这里可不是那些能够让玩家随便伤害NPC，进而导致任务中断的游戏哦~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+你……好好好，你个布里斯托尔……<br>
+我们去王都，我们去王都就好了吧！<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+一路顺风，勇敢的冒险者们~<br>
+对了——如果你们真的成功讨伐了魔王，一定要再回来一次！<br>
+老朽已定亲自准备一场盛大的宴会来招待你们~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=王都与国王|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+这里是王都，人类王国的心脏。<br>
+从城外望去，高耸入云的城墙威严而庄重。<br>
+而进入内部后，宽阔的街道与鼎沸的人声则彰显着它的繁华。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥你看，真是一座宏伟的都城呀……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+这座建筑好漂亮……那一座也是……<br>
+呜呜呜……好想拉着指挥官一起拍纪念照~！<br>
+明明出发前还专门检查过……为什么手机没有一同来到异世界啊！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哼哼，没关系啦。你可以打开系统面板仔细看设置，有一个系统截图功能哦。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+哇，真是贴心的设计~我找到了！<br>
+耶~来到异世界的王都啦~指挥官，看镜头！Smile~！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……西北方向好像有一座巨大的神殿。<br>
+独角兽是见习神官，要是去到那里的话，或许能学习到新的技能，变得更强……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+咦？这么说来，我去的话也能学到新技能咯~<br>
+那我们快去吧！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+等等，首先先去商业区啦！<br>
+你们难道不想先换身装备么！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（神殿、商业区、工业区、冒险行会……）<br>
+（感觉在这座都城里可以探索相当长的时间……）<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+总之这次听我的，先去商业区——咦？<br>
+等等，为什么我无法离开国王大道转入小路？！<br>
+<br>
+试图前往商业区的抚顺有些疑惑地停在了拐角的路口上。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+什么叫……“前方区域暂时无法探索，请先完成当前主线任务。”？<br>
+不、不是开放世界么……为什么这里要锁的这么死啊！<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+呵呵，诸位冒险者，这是第一次来到王都么？<br>
+出于安全起见，神圣教会与钢铁教会合力在王都之中对第一次来访的陌生人设置了许多限制性的结界。<br>
+想要解除这些结界，必须要前往王都内的指定区域进行报道哦。<br>
+啊，抱歉，忘了自我介绍了。我是{{AF|腓特烈·卡尔}}，隶属于钢铁教会的机械师。<br>
+冒险者的话……第一站一般是冒险公会或者王宫，需要我为诸位带路么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+接下来我们需要去王宫面见国王，就有劳你带路了。<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+不客气，诸位冒险者这边请~<br>
+<br>
+王宫·谒见之厅<br>
+<span style="color:#4eb24e;">英王乔治五世：</span><br>
+一位勇者、一位指挥官……再加上两位神官。<br>
+真是一个有趣的小队组合。<br>
+你们的请求我已经听到了。<br>
+你们自告奋勇去讨伐魔王的心意与觉悟令人心生敬意。<br>
+我代表整个人类王国感谢你们。<br>
+之后我将会为你们提供一笔初始资金，帮助你们完成任务——<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+国王陛下，我有一个问题……<br>
+<span style="color:#4eb24e;">英王乔治五世：</span><br>
+嗯？忠诚的神官小姐，请讲。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+我们从没有见过魔王，要怎么才能知道我们打倒的是不是正确目标呢？<br>
+有没有画像或者照片之类的可以让我们看一下？<br>
+<span style="color:#4eb24e;">英王乔治五世：</span><br>
+你的提问十分有价值，神官小姐。<br>
+的确，如果不清楚目标的样貌就想将其讨伐，必定是困难重重。<br>
+过去，魔王因为处于一种独特魔法的保护下，我们一直无法以常规手段记录其形象。<br>
+不过就在几天前，宫廷魔法师破解了这种魔法，我们才终于成功记录到了魔王形象的一个瞬间。<br>
+侍从，来向各位冒险者展示一下。<br>
+<span style="color:#4eb24e;">英雄：</span><br>
+好的，国王陛下~<br>
+哼哼，看好了，这可是宫廷魔法的智慧结晶，“瞬息捕捉魔法”哦。<br>
+魔王之影，在此显现——<br>
+<br>
+在大厅中，一个椭圆的紫黑色魔法球凭空出现。<br>
+法球之中，隐约可以看见一位头上长犄角，身后有尾巴的少女。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这就是我们此行要打倒的魔王……<br>
+机会难得，如果能利用情报分析技能多分析出一些魔王的特点，就能尽早制定战术了。<br>
+<br>
+做出决定后，你在暗中发动了情报分析技能。<br>
+不过，预想中关于魔王的情报没有出现在系统中。<br>
+反而是紫黑色魔法球抖动得愈发剧烈，仿佛随时都要破碎一般。<br>
+<span style="color:#4eb24e;">英王乔治五世：</span><br>
+怎么回事……瞬息捕捉魔法的稳定性正在下降？！是谁做了什么么？！<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+哈哈——<br>
+哈哈哈哈哈——<br>
+这种感觉，是有人在用魔法偷窥我对吧？<br>
+是你，是你，还是你？<br>
+<br>
+原本静止在法球中的魔王影像突然动了起来，一股难以言语的压迫感蔓延在大厅中。<br>
+就仿佛魔王本人亲自降临于此一般。<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+呵，真是一群不知礼数的虫豸。<br>
+看我来给你们一点教训，让你们再也别打这种偷窥的心思！<br>
+湮灭之光，起——<br>
+<span style="color:#4eb24e;">英王乔治五世：</span><br>
+糟糕，侍从，准备防御魔法！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥小心——！<br>
+<br>
+即便躲在防护罩内，依然能感受到炽热光芒中所蕴含的威力。<br>
+光芒消散后，紫色光球和魔王的影像都消失了。<br>
+随之一同消失的还有几乎整个谒见之厅。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+呼……万幸的是我们没人受伤，国王也在侍从的保护下平安无事。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+但是哥哥……国王的脸色好像非常非常差的样子……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+利物浦感受到了浓烈的危机感……！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+啊哈哈……这、这个局面确实不太妙啊！<br>
+反正任务已经完成，奖励已经结算到手……<br>
+指挥官，利物浦，独角兽，快跑啊——！<br>
+<span style="color:#ff9b93;">英王乔治五世：</span><br>
+卫兵，给我把这群危险的冒险者打入大牢——！<br>
+卫兵，卫兵————！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=王都采购|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+一段时间后，王都繁华的街市中——<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呼……刚才真是千钧一发，差点就要被抓入大牢了！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+不过王宫内部虽然一团糟，却没有人追着我们跑出来呢~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿，可能是因为我们切换地图了吧，NPC是没办法自由切换地图的~<br>
+话又说回来，国王给的初始资金竟然有五百枚金币，真是太慷慨了。<br>
+<br>
+'''''<span style="color:black;">选择项1：可能是游戏CE版特有的高福利任务？</span>'''''<br>
+'''''<span style="color:black;">选择项2：只给10枚铜币就想打发人去讨伐魔王的时代结束了！</span>'''''<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那我希望能把这个慷慨的奖励保存在正式版中！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''没错没错~我也是这么认为的！<br>
+<br>
+不论如何，多亏国王提供的慷慨资金，我们才得以进行了一次扫货式的大采购。<br>
+抚顺从铁匠铺中购买了全套勇者盔甲，独角兽一口气将法杖的强化等级提升到了最高。<br>
+利物浦则买了一身属性并不顶尖，但在整个王都中最为可爱的衣服。<br>
+至于我……很可惜，指挥官的职业似乎装备不了绝大多数的武器和盔甲。<br>
+不过作为代替，我将剩下的全部预算都变成了炼金炸弹。<br>
+投掷作为我所拥有的唯一战斗技能，用炼金炸弹与之配合真是再合适不过了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+对了对了，大家听我说！<br>
+刚才在路过冒险公会的时候，我听到了一个十分不得了的传闻哦！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+……十分不得了的传闻？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+传闻中说——有一位传说中的大魔法师，就隐居在无尽树海的深处哦！<br>
+你看，咱们的小队有一名勇者一名指挥官和两名神官，魔法输出严重不足！<br>
+如果能让这位大魔法师加入我们的话，我们的短板就补齐了！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+隐居在森林中的大魔法师……听起来好有趣！<br>
+<br>
+'''''<span style="color:black;">选择项1：这个大魔法师……是精灵么？</span>'''''<br>
+'''''<span style="color:black;">选择项2：无尽树海的深处……</span>'''''<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那我就不清楚了，得实际看看才知道哦！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''指挥官不用担心。无尽树海深处虽然更危险一些，但魔物也依然是些啾莱姆，不足为虑~！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哔哔哔~任务目标——邀请传说中的大魔法师入队！<br>
+任务地点——无尽树海的深处！<br>
+勇者抚顺的冒险小队~出发！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=无尽树海的深处|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+随着小队继续向内深入，无尽树海中的道路也愈发复杂。<br>
+不过依靠情报收集与分析技能，我的终端总能在道路分叉处指出正确的路线。<br>
+终于在又穿过一片灌木丛后，前方出现了一片豁然开朗的林间空地。<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+呼……zZZZZ<br>
+……zZZZZ<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+……你们看前面，那个在草地里睡觉的人。<br>
+身边还放了一个可爱的兔兔法杖……那就是我们要找的大魔法师吧？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+你们怎么看这个魔法师？<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+独角兽能从她身上感受到充盈的魔力反应……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+情报分析也显示，她的等级和魔法攻击高到夸张。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哇哦~居然是货真价实的大魔法师啊。<br>
+不过就这么慵懒地睡在草地上，一点防备都没有……入队之后真的能派上用场么。<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+……感应魔法有反应。<br>
+……嗯？你们是？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来被发现了，我们过去好好聊聊吧。<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+……你们的来意……拉菲清楚了。<br>
+但是……拉菲拒绝。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+欸？我们可是要去讨伐魔王哦！<br>
+你不是传说中曾经成功讨伐过魔王的大魔法师么，为什么要拒绝我们的邀请！<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+就算讨伐了旧的魔王……还会有新的魔王冒出来。<br>
+拉菲已经累了……不想再战斗了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呃……这个大魔法师，派不上用场啊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（事情似乎有些奇怪……）<br>
+（等等，情报分析的技能有反应，这个难道是使用提示……）<br>
+<br>
+'''''<span style="color:black;">选择项1：对大魔法师使用“情报分析”技能。</span>'''''<br>
+<br>
+在使用了情报分析技能后，关于大魔法师的情报流入了系统终端。<br>
+<span style="color:#4eb24e;">冒险终端：</span><br>
+「大魔法师拉菲，种族：兔兔星人。」<br>
+「在千年前曾经斩杀过魔王的传说中勇者小队的一员。」<br>
+「当前状态：诅咒缠身。」<br>
+「诅咒名：怠惰咒。」<br>
+「由前代魔王留下的诅咒，可将诅咒目标禁锢在过去的循环中，直到其理智完全被负面感情所吞噬。」<br>
+「解除诅咒的方法：不明。」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……看来如果不解除大魔法师的诅咒，我们是不可能将她拉入小队了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+没想到竟然是这样……<br>
+千年前就讨伐了魔王，而这个诅咒是当时的魔王留下的……<br>
+也就是说她已经承受了千年诅咒了么……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+呜呜……千年的诅咒也没能完全磨灭她的理性……真是一个强大的魔法师！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥，我们快想办法解除她的诅咒吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那是自然。不过这个诅咒看上去有些棘手，我们还需要更多的情报……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+指挥官你看！在她睡觉的毯子周围有一摞餐盘，似乎有人会定期来给她送饭！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+真的欸……那个来送饭的人或许会知道些什么！<br>
+<br>
+仔细观察后，不光在周围发现了装满食物的餐盘，还发现了一些治疗用的药水。<br>
+这些药水属于附近村落中的一位药剂师哦。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+你是……之前在王都里突然出现的钢铁教会机械师？<br>
+这次也是突然出现在我们身边……你难道是在跟踪我么？！<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+欸……让诸位感到不快我很抱歉，但我绝无跟踪诸位的意思。<br>
+我只是看到诸位离开王都要前往无尽树海的深处，而深处的情况又如各位所见……<br>
+我有些不放心，就跟过来了。<br>
+其实教会多年来一直在试图解除大魔法师身上的诅咒，只可惜迟迟没有进展……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这些治疗用的药水，是你们教会提供的么？<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+那倒不是，这些药水是附近村落的一位好心药剂师留下的。<br>
+那位药剂师小姐也自发地照顾大魔法师很久了。<br>
+在这期间，她也一直试图用自己的方法解除大魔法师的诅咒。<br>
+可惜一直以来也没什么效果……<br>
+不过她在上次失败后，曾表示下次带来的药剂一定能行……<br>
+虽然我已经不抱希望了，不过诸位如果在意的话或许可以去看看？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+附近村落中一直在研究大魔法师诅咒的药剂师……真是个宝贵的线索。<br>
+指挥官，我们去看看吧~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=村落的药剂师|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+特尔玛尔（Thermalquelle）村——意为温泉之村。<br>
+这是一个位于无尽树海边缘，终年萦绕着热乎乎水汽的村子。<br>
+进入村庄后不久，我们就在一口矗立在中心广场上的大锅边找到了此行的目标。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+坩埚咕噜咕噜~<br>
+神秘的咒语在耳边嗡嗡作响~<br>
+元素在融合~魔力在增长~<br>
+药剂的力量即将爆发~<br>
+谁会喝下这瓶魔药~？<br>
+它会让你变强，让你快乐，让你在幻想的世界自由奔跑~<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+……看来这就是我们要找的目标了？<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……好可怕……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+药剂师都是这个样子的啦！<br>
+哼哼，看来是一位很遵守传统设定的人呢~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+传统设定么……总之来都来了，去问问她吧。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+诸、诸位竟是为了解除大魔法师的诅咒而来啊？！<br>
+呜……呜呜呜……没想到这么多年过去了，还有冒险者能记得她……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+突、突然哭起来了？！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+抱歉……是我失态了。<br>
+其实这么多年来，我一直在试图解除大魔法师的诅咒……<br>
+可惜一直没什么进展……<br>
+诸位来得正好！这是我刚刚调配出的一剂魔药！<br>
+那边的指挥官，你要不要来试试药？我相信这次的效果一定有所突破！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……我？来试药？<br>
+可是我身上并没有需要驱散的诅咒啊……？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+没关系没关系~这次的魔药其实不是用来驱散诅咒的魔药，而是用来提高精力的魔药。<br>
+这也是我不久前才突然冒出的想法。<br>
+你看，我是药剂师，解除诅咒本来就不是我的专长。<br>
+既然诅咒的效果是使人精神衰弱，那我只要制造出可以补充精力的魔药与之对冲不就好了~！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+反向思维？！确实是个不错的想法……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+……提高精力的魔药，哥哥试试吧！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+指挥官，试试吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……啊？<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥放心，如果魔药出现了副作用，我会立刻对你使用净化魔法的！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+嗯嗯，就算净化魔法无效，我还可以释放治疗魔法和复活魔法，不用怕啦~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嗯嗯嗯。就是说啊，咱们队伍里有两个神官，你还怕喝一瓶魔药么~<br>
+试试吧，指挥官！<br>
+<br>
+'''''<span style="color:black;">选择项1：行！</span>'''''<br>
+'''''<span style="color:black;">选择项2：试试就试试！</span>'''''<br>
+'''''<span style="color:black;">选择项3：也没有拒绝的选项啊！</span>'''''<br>
+<br>
+于是乎，将努比亚人递过来的迷之药剂一饮而尽——<br>
+<span style="color:#4eb24e;">冒险终端：</span><br>
+「系统提示，获得新技能：毒抗性，评级：B」<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+哇……不愧是我的魔药。竟然还能给人带来新的技能！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这个技能怎么看都和魔药本身的效果不沾边吧。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+啊哈哈……也就是说这次的魔药又失败了呢……<br>
+看来只有最后一个终极解决方案了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……终极解决方案？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+去找我的老师——居住在银滩岛北方之塔中的智慧魔女，阿尔汉格尔斯克！<br>
+她可是从神话时代一直活到今日的大魔女……旧日智慧女神的亲传弟子！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哇……这么说来你应该算智慧女神的徒孙了？<br>
+没想到你还有这么厉害的背景！<br>
+那事不宜迟，我们赶快去找你的老师吧！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+可是……有一个小问题。<br>
+我的老师早已将自己封闭在高塔之中多年，除了我之外谁都不会见的。<br>
+但我要是离开村子的话……就没有人能给村民看病了。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+唔……如果失去了药剂师，村民们确实会很困扰呢。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哎呀，这还不简单？<br>
+归根结底，村民们需要的其实是治疗服务，而不是治疗者本身。<br>
+只要我们能留下足够的万能治疗药水，就算药剂师离开村子一段时间，村民们也能照顾好自己吧！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+确实如此……勇者大人，您真是个天才！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哎嘿嘿~只是我的冒险经验比较丰富啦。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+这样的话，就只有最后一个问题需要解决了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……该不会是……<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+如各位所见，我无法离开村子太久。<br>
+制作这一大批治疗药水的素材，能拜托你们来收集么……？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呃……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+啊……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+呜……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+果然，跑腿任务还是躲不掉啊——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=高塔的魔女|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+银滩岛——一处位于王都西面镜湖中心的小岛。<br>
+在经过艰苦的努力，提交了制作万能治疗药水所需的各类素材99个之后，药剂师努比亚人终于与我们一同踏上了旅途。<br>
+此刻，载着我们穿越湖水的小船已经靠岸，我们正式踏上了这座小岛。<br>
+不过放眼望去，除了茂密的森林与凌乱的岩石外，岛上什么都没有。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呃……北方之塔在哪里？而且这片岛屿绿油油的，也不像银滩……<br>
+咱们不会来错地方了吧……？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+呼呼呼……不用担心，不用担心~<br>
+你们现在看不到高塔，只是因为老师用魔法把高塔隐藏起来了。<br>
+毕竟老师是个喜欢清净的人嘛……<br>
+至于这片岛屿的名字，老师曾经跟我说过，这里在上古时代曾是一片冰原，所以才会被称为银滩吧？<br>
+总之——接下来就看我的好了~！<br>
+<br>
+努比亚人得意地走向了一处空地，面对一颗枯树鞠了一躬，然后清了清嗓子。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+智慧之魔女阿尔汉格尔斯克老师！您的弟子药剂师努比亚人来看您啦！<br>
+<br>
+远方的空气中出现了一阵肉眼可见的扭曲抖动。<br>
+转瞬间，一座由黑色金属构成的高塔就凭空出现了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+散发着红光的黑色高塔……这、这这简直像是魔王军据点啊！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+呼呼呼，别担心~这只是老师的个人品味，和魔王军绝对无关啦！<br>
+各位请随我来，我带你们进塔~！<br>
+<br>
+高塔的顶层，魔女端坐在法阵中的座椅上。<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+我已知晓你们的来意……请回吧。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+咦？！抚顺大人还什么都没说呢！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+笨——老师是智慧魔女，当然什么都知道了！<br>
+可是为什么呀老师，那可是被诅咒纠缠千年的曾经讨伐过魔王的大魔法师！<br>
+我觉得我们应该为她解除诅咒！<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+唉……你还是和以前一样，没什么长进。<br>
+这样好了，你们小队里的一个人对我很有用。<br>
+如果你们的指挥官能留在这里，当我的弟子的话，我就告诉你们解除诅咒的方法。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+智慧魔女的弟子么……听上去倒是不错。<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+对吧~你留在我这里，不但能尽情的学习各种知识与魔法，还能知晓世间万物的奥秘哦。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+等、等等！成为老师的弟子，可不只是拜个师这么简单！<br>
+那可是要一直留在塔里学习的啊！<br>
+直到通过一百年后，老师设置的初级考试之后才能出塔！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……要学习一百年？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+啊哈哈哈……你可真会开玩笑，这也太夸张了吧。<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+努比亚人可没有开玩笑哦。作为智慧魔女的弟子，学习个一百年不是理所当然的事嘛！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+不行……哥哥不能留在这里一百年。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+就是说啊，我们还肩负着一同打倒魔王的使命呢！<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+这样啊……强扭的瓜不甜，我就给你们一个证明自己的机会吧。<br>
+只要能通过我的试炼，我就告诉你们解除诅咒的方法。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+智慧魔女的试炼……是要进行猜谜游戏么？<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+按理说应该是这样的。<br>
+不过你们小队的指挥官情报分析能力实在厉害，不论我出什么谜题，你们都能轻松破解吧。<br>
+所以我决定，用战斗考验的老套形式。<br>
+你们准备好了么，我要释放考验内容了哦——<br>
+<br>
+<br>
+轰——————！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+这样一来就彻底结束了——<br>
+勇者斩击——！<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+不错，你们做得很出色，我认可你们通过了考验。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿~对于勇者抚顺来说小菜一碟~<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+呼……太好了。刚才的治疗压力真是太大了……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+是啊……还好所有的诅咒都成功解除了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（阿尔汉格尔斯克在考验中使用的不是魔物……而是塞壬？）<br>
+（而且还有在战斗中所使用的高级诅咒技能……）<br>
+智慧魔女……你刚才所驱使的魔物和诅咒能力是怎么回事？<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+我身为知晓一切奥秘的智慧魔女，驱使一些世间不存在的魔物，会一些高级诅咒魔法也没什么问题吧？<br>
+呵呵，你要是也想学的话，不如还是留在这里当我的弟子吧？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+老师，这件事您就别再想啦！<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+你啊你啊，才出去多久，就开始偏袒外人了。<br>
+好吧，约定就是约定。你们通过了试炼，我会如约告诉你们解除诅咒的方法。<br>
+<br>
+阿尔汉格尔斯克微微抬手，一个装饰精细的笛子凭空出现在她的手中。<br>
+<span style="color:#fef15e;">阿尔汉格尔斯克：</span><br>
+这件道具名为“时之笛”，是昔日大魔法师所属勇者小队队长的遗物。<br>
+你们只要在她的耳边吹响这支笛子，就能将她从诅咒中唤醒了。<br>
+不过将她唤醒之后……算了。<br>
+给，拿上笛子就回去做你们想做的事吧。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+好耶——关键道具入手啦~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（“不过将她唤醒之后”……阿尔汉格尔斯克似乎还有重要的情报没有说出来。）<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+走吧走吧，别发呆啊指挥官~！<br>
+我们快回去解除大魔法师的诅咒吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=传说中的英雄|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+无尽树海深处·大魔法师的沉眠地<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+呼……zZZZZ<br>
+……zZZZZ<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+大魔法师又陷入沉睡中了……<br>
+被诅咒缠身了这么多年，想必她此刻也还深陷在噩梦之中吧……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+别担心，大魔法师，我们这就帮你解除诅咒！<br>
+<br>
+伴随着时之笛所发出的悠扬乐音，一缕缕黑色气息逐渐从大魔法师体内散出。<br>
+这些气息在空中相互纠缠膨胀着，很快就笼罩了整片林间空地。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+看来时之笛确实解除了诅咒，但是现在的情况是不是有些不太妙！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+……哥哥，我感觉有什么恐怖的东西要冒出来了。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+还是先升起防护屏障比较好……！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+糟糕……看来是伴随着诅咒的解除，剩下的诅咒之力转化为魔物了！<br>
+大家小心，这些魔物和之前老师用来测试大家的魔物不同，是货真价实的千年大魔物！<br>
+<br>
+黑色气息逐渐凝结成实体，一个又一个人型魔物从四周冒出，层层包围过来。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+怎、怎么会……我的勇者之剑居然被这些魔物的气息压制了……？！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+该不会你这把剑其实……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+之前乌尔斯普村的村长也说过，曾经一周见过上百把……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+不、不可能！就算是真的也不要现在说啊！<br>
+现在正是需要自信的时候啊！！<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+自我怀疑、临阵退缩可不是勇者应该做出的行为哦？<br>
+不论面对多么强大的敌人，你都应该拿出气魄，直面挑战才是！<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+别怕，新时代的冒险者，我们来帮你了。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+谢谢你们解除了拉菲的诅咒，接下来，让我们并肩作战吧~！<br>
+<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+究极爆裂魔法，Explosion——！<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+必杀技——跃动飞踢（dynamic kick）！<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+蓄力300%——开山击！<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+勇者之剑，展现你真正的力量吧——亿万斩击！<br>
+<br>
+在传说级勇者小队的帮助下，战斗在转瞬间结束了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+好、好强，这就是传说中的勇者小队的战斗力么！<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+举手之劳，不用客气。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+欸……你们的身体怎么……<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+开始变透明了是么？<br>
+呵呵，我们只是往昔的幻影，依靠时之笛中封存的力量才能在此刻现于世间。<br>
+现在力量用尽，我们也该消失了。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+欸……可，可是就连大魔法师拉菲也？<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+嗯……拉菲也一样哦。<br>
+身为兔兔星人的拉菲，原本是不可能存活千年之久的。<br>
+现在的结果……应该算是诅咒的副产物吧。<br>
+现在诅咒消除，她也该与我们一同回归天国了。<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+……拉菲，想好好睡一觉。<br>
+谢谢你们……帮拉菲解除了诅咒。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+怎么会这样……我还以为解除了诅咒你就能……呜呜呜……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原来阿尔汉格尔斯克当时欲言又止，是因为早就预见到了这样的情况……）<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+别哭……别哭。作为你一直以来照顾拉菲的回礼……<br>
+给……拉菲给时之笛重新充满了能量。<br>
+下次遇到危机的时候……吹响笛子，我们就会现身再来帮你们一次。<br>
+我们还会重逢的……<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+嗯……<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+对了，新时代的勇者抚顺。<br>
+你一定很奇怪，为什么在战斗之初你的勇者之剑会被这些上古魔物压制吧？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+……因为我的勇者之剑是假的。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+没错，你的勇者之剑是假的，真正的勇者之剑是我手中这把哦~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呃……你的这把……咸鱼之剑？<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+没错。<br>
+或许是后来的人也觉得咸鱼之剑和传说中的勇者实在不相配……<br>
+所以才设计了现在这种款式的勇者之剑吧？<br>
+不过，这也是一把好剑哦。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+……但不是真正的勇者之剑。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+别灰心。<br>
+不是勇者之剑定义勇者，而是勇者定义勇者之剑哦。<br>
+等你用这把剑讨伐了魔王，那这把剑也就变成货真价实的勇者之剑了，不是么？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+没错……你说的没错，确实是这个道理！<br>
+感谢你，传说中的勇者标枪~！<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+嘿嘿，能帮到你就再好不过啦~<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+那么——有缘再见吧，新时代的冒险者们。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+哎呀，最后留一张合影吧！大家，Smile~！<br>
+拜拜~传说中的勇者们~！<br>
+<br>
+传说中的勇者小队消散在风中，林间又恢复了寂静。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+真没想到最后会变成这样……<br>
+拉传说中的大魔法师入队的计划破灭了……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+不过我们获得了传说级道具“时之笛”哦？<br>
+这样讨伐魔王的路上就多了一份保障呢~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嗯……也是。<br>
+真是一个感人至深的任务设计……<br>
+接下来我们该去什么地方好呢……<br>
+<br>
+轰——————！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+咦，你们听，是不是有战斗声从南方传来了！<br>
+听声音……似乎有两方人马正在激烈交战。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+不好……难道是魔王军发动袭击了？！<br>
+可这里是守望长城的内部，不应该有魔王军出现啊？！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥，我们去看看吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=来自天上的敌人|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+通向守望要塞的宽阔道路上，一场激烈的战斗正在进行着。<br>
+咻————<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+给我，闪开——！<br>
+<span style="color:#4eb24e;">鲁莽：</span><br>
+圣女大人小心——！<br>
+<span style="color:#4eb24e;">倔强：</span><br>
+给我冻结吧——“冰冻锁链”！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+多谢。<br>
+<span style="color:#4eb24e;">倔强：</span><br>
+圣女大人，我们这次是轻装出行。敌众我寡，不宜久战！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+我知道……但是也不能因此放着逃难的村民不管。<br>
+决定了……我来拖住魔物，你们掩护村民撤离。<br>
+<span style="color:#4eb24e;">鲁莽：</span><br>
+这、这可不行啊，圣女大人！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……没有其他办法了，执行命令。<br>
+<br>
+与此同时，在战场的另一边——<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+发动袭击的黑暗啾莱姆骑士……<br>
+竟然真的是魔王军……而且还是最令旅人胆寒的魔王天空猎杀队？！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+在抵抗的那几个是王国军的人么？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+那、那是神圣教会的圣女殿下？！<br>
+圣女殿下怎么会离开王都？！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……看上去战况不太妙。<br>
+王国军那边要顶不住了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+做好准备，我们去帮忙！<br>
+<br>
+<br>
+轰——————！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+呼……这就是最后一只了。<br>
+非常感谢你们的帮助，王国的冒险者们。<br>
+如果不是你们仗义相助，今天恐怕就要出现重大伤亡了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+不用客气~这是勇者小队分内的事~<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+圣女殿下，您为什么会带这么少的人与魔物交战啊！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……与魔物交战非我本意。<br>
+我只是在前往守望要塞的路上见到了被魔物袭击的村民，因而出手相助罢了。<br>
+没想到距离要塞这么近的地方都会发生魔王军的袭击事件……<br>
+看来前线的战况愈发恶化了……<br>
+各位冒险者，能拜托你们一件事么？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+圣女殿下请讲！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+守望长城受到光明与正义之神在内的多位神祇加护，就连魔王本人都无法轻易穿越，常规魔物就更不可能了。<br>
+但是因为前几日的一场大战，守望长城出现了一个缺口。<br>
+我这次离开王都就是为了前去守望要塞修复缺口……没想到魔王军的巡逻队竟已深入到了要塞周边。<br>
+看来魔王也打算抓住这个千载难逢的机会有所行动。<br>
+我现在需要立刻前往要塞进行军事部署，但……也不能放着这些家园被袭击的村民不管。<br>
+这些逃难的村民都来自缺口附近的弗里德村。<br>
+此时此刻，魔物应该还在弗里德村中肆虐……<br>
+驱逐魔物的任务，我可以交给你们么？<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+呜呜呜……请一定要救救飞云的村子啊，冒险者大人们！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+……驱逐魔物拯救村落……这简直就是为勇者量身定制的任务啊！<br>
+指挥官，你怎么看？<br>
+<br>
+'''''<span style="color:black;">选择项1：身为正义的冒险者，义不容辞。</span>'''''<br>
+'''''<span style="color:black;">选择项2：只要报酬合适的话！</span>'''''<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''听到了么？指挥官是这么说的。<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''当然、当然……只要能完成任务的话，报酬是不会少的！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''只要完成任务的话……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+那这件事，就放心包在勇者抚顺的小队身上吧~<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+嘿嘿~愿平安与守护之神庇佑各位，一路平安！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=救援弗里茨村|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+弗里德村（Frieden）村——意为宁静之村。<br>
+如今，战火正在这座宁静之村中肆意燃烧着。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……村落的房屋已经被烧毁了大半。<br>
+但是没见到任何魔物与村民……奇怪。<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+停下来陌生人，报上你们的身份。<br>
+如果你们是来趁火打劫的强盗，就不要怪我不客气了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+你才是强盗呢！<br>
+我们可是正在讨伐魔王途中的勇者小队，你是什么人！<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+……原来是冒险者小队。<br>
+抱歉，是我紧张过度了。<br>
+我是王国军方旗骑士，前卫。同时也是守望长城的西段指挥官。<br>
+我是在发现弗里德村遭到魔王军袭击后，带人前来救援的。<br>
+不用担心，目前所有魔物已经王国军消灭完毕了。<br>
+你们也是前来剿灭魔物的么？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+原本应该是这样的……不过看上去现在已经没有我们的工作了。<br>
+……这个支线任务奖励拿不到了。<br>
+走吧，指挥官，我们继续回归主线~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，事情应该还没有结束。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+……指挥官？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+前卫，你说你是守望长城西段的指挥官。<br>
+守望长城西段，就是在前日大战里出现破口的区段吧？<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+……这件事是王国军的机密，你是怎么知道的？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这不重要。重要的是你作为长城指挥官，此刻却带领驻防部队离开了驻防区域。<br>
+那守望长城缺口的防御要怎么办。<br>
+魔王，最近正对那里虎视眈眈吧？<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+你、你说的没错……<br>
+糟糕，我必须立刻返回长城才行！<br>
+<br>
+轰——————！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+这个好像是战斗的声音……<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+没错，是从守望长城那边传来的战斗声音！<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+……可恶。<br>
+王国军收队，所有人立刻随我返回长城！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+我们也一起去帮忙！<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+……感激不尽！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=守望长城攻防战|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+魔物如乌云般覆盖着天空，犹如雨点般落下。<br>
+剑与魔法，机械与盔甲，彼此交织碰撞着。<br>
+当我们赶到的时候，长城之上已经变为混乱的战场。<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+除了飞行魔物还有不死军团……真是来势汹汹。<br>
+看来接下来是一场苦战了。<br>
+<span style="color:#4eb24e;">不屈：</span><br>
+王国军守护骑士，绝不屈服！<br>
+<span style="color:#4eb24e;">阿尔及利亚：</span><br>
+诸位坚守阵型，绝对不能放任何一只魔物过去！<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+闪耀的王家之剑——！<br>
+抱歉！让你们久等了！<br>
+<span style="color:#4eb24e;">不屈：</span><br>
+真是出色的一击！<br>
+前卫指挥官，你来得正是时候。<br>
+再晚点的话，魔物都要被我们解决完了哦~<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+……村庄的情况怎么样了？<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+魔物消灭完毕，村民也全都避难了。<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+太好了。<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+……抱歉，是我中了魔王军的调虎离山之计。<br>
+<span style="color:#4eb24e;">阿尔及利亚：</span><br>
+说什么呢。<br>
+我们常年坚守在长城，就是为了守护身后的人民不受魔王军的侵扰。<br>
+眼见近在咫尺的村落陷于战火却不去救援，还算什么王国军骑士？<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+没错……你说的对。<br>
+既然村庄的问题解决完毕，接下来该解决这边的问题了。<br>
+阿尔及利亚，现在战况如何？<br>
+<span style="color:#4eb24e;">阿尔及利亚：</span><br>
+魔王军全线来袭，比几天前那次攻势更猛。<br>
+指挥这次袭击的是魔王军的大魔族，巨龙领主{{AF|布吕歇尔}}。<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+巨龙领主……呵，来得正好，一直肆虐的天空猎杀队就是她所操纵的。<br>
+新仇旧恨，就在今天一起清算吧！<br>
+<span style="color:#ff9b93;">{{AF|布吕歇尔}}：</span><br>
+吼、吼、吼！<br>
+燃烧吧，粉碎吧~<br>
+在魔王军的攻势下化为尘埃吧~<br>
+守卫长城的王国军已经乱成了一团，这场战斗看来能够轻而易举拿下了~~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哟嚯？你就是巨龙领主？<br>
+看上去也没什么了不起的啊~<br>
+你现在不过是用人多来掩盖自己的弱小罢了~<br>
+看我们一会把你打下来，看你还嚣张不嚣张！<br>
+<span style="color:#ff9b93;">{{AF|布吕歇尔}}：</span><br>
+哈？！哪儿来的冒险者？！<br>
+啊哈哈哈！王国军已经落魄到需要冒险者小队来保卫长城了么？！<br>
+也好……既然你们不知死活，就让我来亲自教育你们一下！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……对面轻易就上钩了呢。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+看来可以轻松取得胜利了~太好了~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+呵呵，敌军虽然人多势众，但是敌将轻敌自大。<br>
+找准机会，执行斩首作战。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哼哼哼~我的剑也未尝不利，是时候宝剑出鞘了！<br>
+<br>
+<br>
+轰——————！<br>
+<span style="color:#4eb24e;">{{AF|布吕歇尔}}：</span><br>
+可、可恶！<br>
+不要以为你们这就算赢了！<br>
+你们给我等着！<br>
+我一定会回来……哇啊啊啊、呜呜呜飞慢一点啦——！<br>
+<br>
+{{AF|布吕歇尔}}被巨龙狼狈地拖拽着，如流星般消失在远方的乌云中。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哼，可惜巨龙的皮实在太厚，让她夹着尾巴逃走了。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+即便如此，也是一场巨大胜利。<br>
+失去了大魔族的压阵，这群魔物大军溃散只是时间问题。<br>
+先是用激将法让其孤身深入，紧接着用小队间完美的配合将其击败。<br>
+如此手段……你真是位出色的指挥官呢。<br>
+凭借你们的小队……或许有朝一日真的能打败魔王，让和平降临世间吧。<br>
+<br>
+'''''<span style="color:black;">选择项1：没错，你看人真准！</span>'''''<br>
+'''''<span style="color:black;">选择项2：过奖了。</span>'''''<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呵呵，有自信是好事。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那我就期待你们打倒魔王的那一天能够早日到来了哦~？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''现在魔物还没有被全部消灭，不是闲聊的时候。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呵呵，你说的对，现在还不是放松警惕的时候。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那庆功宴上再聊咯~指挥官~<br>
+<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+光明与正义之神，请您降下祝福之光，为您英勇的战士们带来胜利吧！<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+钢铁与巨龙之神，我在此释放您的愤怒，为我们的敌人带来毁灭吧！<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+居然是……神圣教会和钢铁教会派来的援军？！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+诸位，请不要放弃获胜的希望！<br>
+增援部队已经抵达，让我们并肩战斗，一同消灭这些魔物吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=庆功宴|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+在战斗彻底结束后，我们收到了前往守望要塞参加庆功宴的正式邀请。<br>
+这处如今被视为守望长城心脏的地方，在遥远的过去，不过是一个随处可见的小村落。<br>
+直到旧都沦陷，魔物大军跨过旧日城墙的那一天。<br>
+远在边疆的旧王朝的最后一位王族，如今人类王国新纪元的第一位国王在众神的帮助下，以此处为中心点建立了如今的守望城墙。<br>
+正是这座守望城墙的存在，人类王国的剩余部分才能从魔王军毁灭的铁蹄中得以幸免。<br>
+王都得以重建，王国得以再次壮大。<br>
+而作为守望长城中心点的此处，也逐渐发展成了人类王国的第二大都市——守望要塞。<br>
+此时此刻，守望要塞中张灯结彩，人声鼎沸。<br>
+一场象征“胜利”的庆典正在召开中——<br>
+守望要塞·宴会厅<br>
+<span style="color:#4eb24e;">倔强：</span><br>
+……真是太不可思议了，你们解除了大魔法师的诅咒……<br>
+还因此见到了传说中勇者小队的其他成员？！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿~没错哦，而且更不可思议的是——<br>
+传说中的勇者之剑……居然是一把咸鱼之剑！<br>
+<span style="color:#4eb24e;">鲁莽：</span><br>
+咸鱼剑……不可能吧，你们肯定是在吹牛。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哼，我才没有吹牛呢！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+叮叮♪~真的也好，假的也好，现在都不重要啦。<br>
+你们看着是什么~<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+呃……这锅黏糊糊的条状物……是什么？<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+是我的拿手菜，也是我最喜欢吃的鳗鱼冻哦~庆功宴上来上一份再合适不过了！<br>
+不过因为没有找到鳗鱼，所以这次就用了与鳗鱼类似的啾莱姆鳗代替啦~！<br>
+大家不用客气，一同来品尝吧！<br>
+<span style="color:#4eb24e;">不屈：</span><br>
+啾、啾莱姆鳗是什么东西啊？！那不是魔物么？！<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+咳、不……不用了，热情的冒险者。<br>
+如此美味的食物，还是——<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+还是搭配上更加美味的饮料一起食用吧~！<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+……啊？<br>
+药剂师小姐……那瓶在你手中散发着五彩斑斓光泽的黑色液体是什么？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+当然是我的秘制特调饮料啦~<br>
+喝了之后，可以将战斗积累的所有疲劳一扫而空哦~<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+呃……嗯，我们是王国军骑士，就算经历了一天的战斗也不觉得疲劳。<br>
+这份“秘制饮料”还是让其他人来品尝吧……<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+欸<nowiki>~~~</nowiki>喝一口嘛，就一口！<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+不，请容许我坚定拒绝！<br>
+<br>
+筵席间，严肃的王国骑士和随性的冒险者们已经打成了一片。<br>
+整个大厅萦绕着欢乐的气息。<br>
+可是……有一件事一直萦绕在我的心头，让我无法融入到这份欢乐之中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这枚金币，是今天在与不死军团的将军战斗后获得的。<br>
+情报分析技能显示，这是一枚旧王国时代铸造的金币……<br>
+这样的一枚金币，为什么会出现在不死军团的将军身上……<br>
+旧王国……不死军团……还有魔王之间似乎存在某些关联。<br>
+……手头的线索太少，还无法得出结论。<br>
+不过这个游戏的世界观设定……倒是有些意思。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+指挥官————<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+指挥官<nowiki>~~~~</nowiki><br>
+<br>
+纵使没有选择融入会场的欢乐，欢乐的气息似乎自己找了过来。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+呜呜呜……她们所有人都不愿意品尝利物浦的拿手好菜！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+呜呜呜……她们所有人都不愿意品尝努比亚人的特制药水~！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+指挥官，你应该会愿意尝尝吧！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+指挥官，你应该不会拒绝吧~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……反正已经有了毒抗性，这种程度应该没关系吧。<br>
+试试就试试——<br>
+<br>
+'''''<span style="color:black;">选择项1：品尝利物浦的拿手好菜！</span>'''''<br>
+'''''<span style="color:black;">选择项2：品尝努比亚人的特制药水！</span>'''''<br>
+'''''<span style="color:black;">选择项3：为什么不能两个一起？</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+呃……我这是……<br>
+昏过去了么……<br>
+<br>
+感觉自己似乎正枕在某个温暖又柔软的物体上……<br>
+一股好闻的香气传入鼻腔……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……你终于醒了。<br>
+我已经好好教训过利物浦和努比亚人了……<br>
+真是的……我才一会儿不在，她们就给哥哥吃奇怪的东西……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+刚刚是独角兽一直在照顾我么？谢谢……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哎嘿嘿……哥哥感觉还好么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不用担心，我没事。<br>
+看来毒抗性最后还是发挥了它应该起到的效果……<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+呵呵，你要是倒在这里，那我就等不到你打倒魔王的那一天了哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是啊……要是还没有见到魔王，就倒在了圣女、神官和天使都在的庆功宴上的话。<br>
+那真要变成一个大笑话了。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+指挥官，你话里有话哦~<br>
+既然你已经没事了，那就请召集你的同伴前来，我有重要的事要说。<br>
+<br>
+一段时间后，守望要塞的大会议室中。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+——鉴于诸位所做出的以上功绩，国王陛下决定不再追究你们炸毁王宫谒见之厅一事的责任。<br>
+同时为诸位补发通过守望要塞所必须的通关许可证。<br>
+当然，诸位前往荒芜之地所需的装备与补给物资也由王国军全额承担。<br>
+稍后诸位可以前往要塞的王国军械库中自由挑选。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+……通关许可证？<br>
+呃、难道……穿过要塞去打魔王还需要许可证的么？！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+那是自然的。<br>
+荒芜之地凶险万分，我们不能放任实力不足的王国未来无端断送自己的生命啊。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+还、还好我们去参加了保卫战……<br>
+不然要是没有许可证的话，讨伐魔王的冒险之旅就要结束了……<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+不仅如此，你们还会被守卫抓住，然后扭送回王宫承担炸毁谒见之厅的责任哦。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+啊哈哈哈……<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+不论如何，我代表国王陛下再次感谢诸位在城墙之上的英勇战斗。<br>
+同时，由我个人决定，为此为作战中做出突出贡献的指挥官，颁发一项特殊奖励。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……特殊奖励？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+霞飞。<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+嗯。<br>
+指挥官，鉴于你此前的表现，我们认为在你身上存在指挥小队讨伐魔王的潜力。<br>
+因此，我代表神圣教会，代表光明与正义之神，在此赐予你“光明之加护“。<br>
+愿此加护，能够为成为你在讨伐魔王之路上的一份助力——<br>
+<br>
+金色光芒伴随着战斗天使霞飞的话语四散而出。<br>
+<span style="color:#4eb24e;">冒险终端：</span><br>
+「系统提示，获得新技能：光明之加护，评级：SSS」<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+呵呵，看来很顺利呢。<br>
+这样一来，仪式完成，今晚所有的正事也就结束了。<br>
+诸位请返回大厅尽情享受吧。<br>
+今夜，欢乐是我们所有人应得的奖励~<br>
+<br>
+守望要塞·客房<br>
+深夜，眼前的黑暗中，依稀站立着一个身影。<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+欸……没想到被抢先下了加护啊。<br>
+偷跑可不好哦，圣女小姐。<br>
+况且，想要打败魔王，区区精神层面的光明之加护……还不够。<br>
+你还需要有我赐予的，用于强化肉体的“钢铁之加护“。<br>
+……嗯？就算中了我的术式，也没完全睡过去么。<br>
+不过也没有完全醒过来~<br>
+呵呵，那就收下我的“爱”吧~<br>
+等你一觉起来，就会发现自己变得更强了哦。<br>
+把这当成打倒魔王过程中一个美梦吧~<br>
+晚安，我的指挥官。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=枯萎森林的圣女|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+之后，我们又在守望要塞停留休整了三日。<br>
+在升级完装备，采购完补给，并尽可能查阅了魔王军的资料后。<br>
+我们穿过守望要塞的守望之门，正式踏入了由魔王军控制的荒芜之地。<br>
+成型的道路在离开要塞不久后就中断了。<br>
+如今，我们深陷浓雾之中。<br>
+四周的树木早已失去生机，干枯的树枝如同扭曲的手臂般伸向天空。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……这里的气氛好阴森。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+或许……我们已经进入情报里提到过的枯萎森林了？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+没错，此处就是枯萎森林哦。<br>
+<br>
+从迷雾中出现的是——神圣教会的圣女。<br>
+<br>
+'''''<span style="color:black;">选择项1：……你怎么会在这里？</span>'''''<br>
+'''''<span style="color:black;">选择项2：欢迎入队！</span>'''''<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''因为我在等你们。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''与你们一同前进，这就能在第一时间见证你们讨伐魔王的瞬间了，不是么？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''怎么样，欢迎我的加入么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那是自然的。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嘿嘿，那接下来的旅程就请多关照啦~<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哇哦……不愧是聪明的指挥官。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''没错，我是来加入你们小队的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''毕竟与你们一同前进，这就能在第一时间见证你们讨伐魔王的瞬间嘛~<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+言归正传。如你们所见，荒芜之地，确实如同字面意义上一般荒芜。<br>
+将这片大地变成如今这副模样的……是魔王的魔法，我们也将其称为魔王的诅咒。<br>
+在那守望长城还未建立的遥远过去……我们身边的枯萎森林也是无尽树海的一部分，<br>
+可是如今……这里却变成了一片万物凋零、熔岩肆虐的生命禁区……<br>
+根据情报，魔王在守望长城外设置了三个由大魔族镇守的据点。<br>
+我们将其称为西方据点、中部据点和东方据点。<br>
+魔王一直通过这三个据点维持其对于守望长城的军事压力。<br>
+我们在过去也发动过数次神圣远征，想要净化这片被诅咒的大地。<br>
+可是因为这三个据点不停扩散诅咒的缘故，纵使我们净化了一片土地……<br>
+那片土地也会在祝福的力量消散后再次回归荒芜。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是说，大地的诅咒不是不可逆的。<br>
+只是因为有据点的存在，才导致对土地释放净化魔法没有意义？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+没错。指挥官，你在庆功宴上已经获得了光明与正义之神的祝福之力。<br>
+只要据点的影响消失，你应该能利用这股力量直接净化这片被诅咒的土地。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+咦？！由指挥官来负责净化么？！<br>
+那我呢？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+勇者抚顺展现实力的地方呢……？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+……有道理！<br>
+没错，确实是这样！讨伐魔物才是勇者展现魅力的时刻~<br>
+那我们还等什么，快去讨伐最近的要塞中的魔物吧~！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+嘘——！不要说话这么大声！<br>
+老师曾经说过，荒芜之地的魔物数量众多而且生性凶残——<br>
+<span style="color:#ff9b93;">狂野啾莱姆战士：</span><br>
+吼啾——吼啾————！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+已经有一群怪物被吸引而来了呢……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+啊……糟、糟糕！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所有人调整队形，准备战斗！<br>
+<br>
+<span style="color:#ff9b93;">狂野啾莱姆战士：</span><br>
+吼啾——吼啾————！<br>
+<span style="color:#ff9b93;">炎爆啾莱姆：</span><br>
+砰啾——砰啾————！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+这……这些魔物的数量也太夸张了！我的剑要砍不过来了！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+独角兽的魔法值也快用光了……<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+我也是……<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+唔……你们先吃药恢复一下魔法，我还有些治疗药剂，这里暂时交给我吧！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+指挥官，再这样下去我们会被拖垮的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，这些墙外的魔物确实与之前在墙内见到的截然不同。<br>
+在摸清楚它们的弱点之前，确实不宜硬拼。<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+总算还有个稍微聪明点的人。<br>
+不过真正聪明的人，一开始就不该踏入这片荒芜之地。<br>
+我释放了扰乱魔物感知的烟雾，你们趁机补充一下状态。<br>
+嗯，让我看看……<br>
+一个勇者、两个神官、一个药剂师、一个指挥官，还有……<br>
+呵，这不是王国的圣女么。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+这幅打扮……你难道是……吸血鬼猎人？<br>
+传说中一直活跃在荒芜之地中抵抗魔王军的组织……<br>
+我还以为你们只存在于虚构的故事之中呢……<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+因为对某些人来说，我们最好的归宿就是存在于故事中吧。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+初次见面，圣女“殿下”，我是吸血鬼猎人，谢菲尔德。<br>
+今天还真是奇怪。你这个躲在王宫里的圣女怎么舍得出来亲自冒险了？<br>
+我还以为你们早就已经放弃夺回故土，成为了一群只会忽悠冒险者出来送死、自己躲在城墙后苟延残喘的懦夫了呢。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+我不许你污蔑王国军的战士们！<br>
+我们每一日都在为了打倒魔王而奋战！<br>
+对于前去讨伐魔王的冒险者小队，也总是抱着最大的敬意，为其奉上我们所能提供的全部帮助！<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+为了打倒魔王而战？<br>
+那你还记得上一次国王军组织神圣远征走出城墙是多少年前的事了么？<br>
+在你出生之后，有过哪怕一次么？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+那是因为…………<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……有趣，圣女“殿下”你该不会是偷跑出来的吧？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+咦？！你原来是偷跑出来的么？！<br>
+这么说的话……我们就成了帮助圣女逃跑的从犯……<br>
+被王国军抓到的话……呃，这次肯定逃不掉坐牢了！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+我……<br>
+诸位放心，这是我个人所做出的决定……<br>
+因此而产生的全部后果也由我一人承担，绝对不会连累各位。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……果然是这样啊。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……指挥官，你猜到了我是偷跑出来的，还选择接纳我入队么？<br>
+<br>
+'''''<span style="color:black;">选择项1：多一个人就多一份力量。</span>'''''<br>
+'''''<span style="color:black;">选择项2：没有人能拒绝把圣女拐跑的诱惑！</span>'''''<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''确实，在讨伐魔王之路上，多一个人就多一份力量……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''而且，只要我们打倒了魔王，就没人会追究你偷跑出来的责任了。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''好像确实是这样……没想到你竟然还有这一层考虑！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''拐、拐跑……？！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哥哥……！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''咳、开个玩笑活跃一下气氛。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+呵……你们这支小队还真是有趣。<br>
+不论如何，既然你们主动走出了高墙，就是我们吸血鬼猎人的朋友。<br>
+回复得差不多了吧？<br>
+不想死的话就跟我来，我带你们去安全的地方。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=猎人的往昔|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+我们跟随吸血鬼猎人谢菲尔德的脚步，在枯木和残垣中穿行着。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+你们知道么，你们想攻略的魔王军据点被一种名为“永夜之暗”的强力结界保护着。<br>
+这是吸血鬼的秘传之术，不知道破解方法的人是绝对无法进入的。<br>
+所以我们这么多年来才没能攻下任何一处据点……<br>
+其中，三据点之一的中部据点的战斗力最强。<br>
+魔王故意加强了这个距离守望要塞出入口最近的据点。<br>
+这么多年来，不知道有多少讨伐魔王的小队刚出门没多久就径直撞上了这座最强要塞。<br>
+然后稀里糊涂丢掉了性命……<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……就连我们也差点。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+遇到我，算你们运气好。<br>
+不过运气也是实力的一部分。在某些时候，运气可能比实力更为重要。<br>
+这是我在你们身上看到的潜力，也是我选择帮你们的原因。<br>
+……不远了，我们的据点就快到了。<br>
+<br>
+顺着谢菲尔德的目光，我们只看到了一片残垣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你们的据点在……遗迹里？<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+遗迹下面。<br>
+看不出来就对了，这是一种保持安全的伪装。<br>
+<br>
+用视线继续探索着遗迹，目光不自觉地被更远方一处高大的城墙所吸引。<br>
+城墙的大部分已经垮塌，但依然有一些部分屹立着，高傲的指向天空。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那些就是旧日城墙的遗迹么？<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+没错，不过我们还是喜欢将它称之为天冠城墙遗迹。<br>
+对你们而言的旧日，对我们来说……不过是昨日罢了。<br>
+谢菲，你又带落难的冒险者过来了？<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……多嘴。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+哈哈哈，请进吧各位冒险者们。这里不是谈话的地方，我们去基地里聊吧。<br>
+<br>
+我们穿过废墟之下被魔法保护的地道入口，进入了吸血鬼猎人们的基地。<br>
+原本以为这会是一处狭窄潮湿的地下空间，不过里面却意外的宽阔舒适。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+毕竟是多年来一直生活的地方，也不能太对付了，不是么？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+其实从刚才起我就很好奇，听你们的说法，难道你们已经很老了么？<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+很老？<br>
+哈哈哈，要么是你们没做好功课就随便跑了出来，要么就是王国境内关于我们的情报确实很少。<br>
+我们——早在旧都沦陷之前就存在了。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……旧都沦陷……那都是几百年前的事情了吧？<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+是啊……已经是几百年前的事了。<br>
+你们知道么，现在魔王手下的那几位大吸血鬼，原本是人类王国的贵族。<br>
+在那遥远的过去，吸血鬼和人类是和平相处的。<br>
+直到那一天……魔王军大军压境的时候……<br>
+在王都将绝大多数力量调去前线迎战魔王军的时候，那些龌龊的吸血鬼在背后发动了叛乱。<br>
+这场叛乱毁灭了人类王国的王都，永乐歌城在那一日成为了无歌城。<br>
+又伴随着岁月的流逝，只在地图上留下了旧都遗迹之名。<br>
+我们，就是当日从王都的浩劫中幸存的人。<br>
+那一日之前，我们有着不同的身份，市民、城市卫队、女仆、商贩、工匠……<br>
+那一日之后，我们成为了吸血鬼猎人。<br>
+我们发誓与吸血鬼战斗到底，直到任何一方彻底灭亡。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……没想到旧日王都沦陷的真相竟是这样。<br>
+在王都转移的大混乱中，这部分历史已经全部遗失了……<br>
+我们一直以为是魔王用武力攻陷了旧王都……<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+呵，魔王要是真有这个能力，还会被你们的守望长城挡在外面么？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……听上去，你们在过去都是人类吧。<br>
+可人类不应该能活几百年之久，你们是怎么做到的？<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+是的，正常人类不应该能活这么久。<br>
+或许是那一日在王都之中发生的浩劫过于骇人，使得某些神明降下了垂怜。<br>
+我们正是因为受到了神明的加护，才得以从那场浩劫中幸免，并存活至今。<br>
+而除了我们之外的人……就没这么幸运了。<br>
+在混乱发生之初成就为刀下亡魂是除此之外最好的结果。<br>
+更多的人……则是吸入了充斥在空气中的魔法毒雾，变成了对吸血鬼言听计从的不死魔物。<br>
+有了这份投名状，那些叛徒吸血鬼开开心心加入了魔王的阵营，如今早就是魔王的得力干将了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（加护与诅咒……）<br>
+（吸血鬼猎人通过加护延长了寿命，大魔法师则是因为诅咒延长了寿命。）<br>
+（成为不死生物……某种意义上也可以视为让寿命得到了延长……）<br>
+（这些线索之间或许存在关联，那一日在王都中发生的事，或许没有这么简单……）<br>
+你们还记得旧都遗迹的具体位置么？<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+……你该不会是听了故事，想去那里一探究竟了吧？<br>
+我劝你还是打消这个念头比较好。<br>
+那里自沦陷之日起，就成了不死生物的大本营，就连我们也不会轻易靠近。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你们之前提到过，保护据点的“永夜之暗”是吸血鬼的秘传之术。<br>
+旧日王都曾经是吸血鬼的大本营，又是在极短的时间内毁灭的。<br>
+仓促间，或许有破解秘术的方法被掩埋在了废墟之中。<br>
+如果我们能找到这些方法，就能破解据点的结界，消灭其中的吸血鬼了、<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……有道理。你的运气这么好，或许真的能有所发现。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+好，那就这么决定了。<br>
+今天不早了，你们先好好休息。明日一早，我们一同去旧都遗迹寻宝！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=遗迹的守护者|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+乐歌城，曾经因为城市中飘扬着永不消散的乐声而得名。<br>
+作为昔日人类王国的心脏，纵使已然成为遗迹，也依旧能使人感受到曾经的辉煌。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……乐歌城，我们回来了。<br>
+虽然化为了废墟，不过因为当初并未经历猛烈战火，城市的结构没有发生太大变化。<br>
+过去的吸血鬼大贵族都住在王宫里，只要顺着这条大道继续向前……<br>
+……{{AF|塞德利茨}}，有些奇怪，不死生物都去哪儿了？<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+……确实很奇怪，这里应该是不死生物盘踞的大本营才对……<br>
+<span style="color:#4eb24e;">维达号：</span><br>
+……什么人，竟敢擅闯我们飓风海盗团的地盘。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+……飓风海盗团？<br>
+<span style="color:#4eb24e;">金鹿号：</span><br>
+哎呀哎呀，原来是些不知死活的冒险者呀。<br>
+呵呵，是来这王都遗迹之中寻宝的么？<br>
+<span style="color:#ff9b93;">玛丽·西莱斯特号：</span><br>
+此山是我开，此树是我栽，要想从这过，留下买路财！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+……原来是一群强盗啊。<br>
+<span style="color:#ff9b93;">玛丽·西莱斯特号：</span><br>
+不是强盗，是海盗！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+……在陆地上的海盗？独角兽还是第一次见……<br>
+<span style="color:#ff9b93;">玛丽·西莱斯特号：</span><br>
+你们现在不就见到了么！不对……都被你们给带偏了。<br>
+头儿……我刚刚说到哪儿了来着？<br>
+<span style="color:#ff9b93;">维达号：</span><br>
+留下买路财的那部分……<br>
+<span style="color:#ff9b93;">玛丽·西莱斯特号：</span><br>
+没错，留下——买路财！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+区区海盗，竟敢来打劫勇者小队……<br>
+看我出手好好教训一下你们！<br>
+<br>
+<span style="color:#fef15e;">维达号：</span><br>
+小的们……先停手！<br>
+你们看对面小队指挥官身上的气息……是不是有点眼熟？<br>
+<span style="color:#fef15e;">金鹿号：</span><br>
+……嗯？那个气息……是光明之加护呀。<br>
+<span style="color:#fef15e;">玛丽·西莱斯特号：</span><br>
+光明与正义女神的光明之加护……原来是王国军的人？！<br>
+喂——对面的指挥官，停手，快停手——<br>
+都是误会——<br>
+<br>
+'''''<span style="color:black;">选择项1：让众人停止战斗</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……误会？<br>
+<span style="color:#fef15e;">维达号：</span><br>
+没错……都是误会。<br>
+终于……我们终于等到你们了。<br>
+……既然你们来了，就快把我们的尾款结一下吧！<br>
+<br>
+'''''<span style="color:black;">选择项1：……啊？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……什么？</span>'''''<br>
+'''''<span style="color:black;">选择项3：……尾款？</span>'''''<br>
+<span style="color:#fef15e;">维达号：</span><br>
+欸……一晃都过去这么多年了。<br>
+我们在过去曾是一群在海上自由自在，偶尔小奸小恶一下的海盗。<br>
+当然，就算海盗也总要下船返回陆地补给放松一下。<br>
+这种时候，我们也做些雇佣兵的生意赚点零花。<br>
+结果就在那一天……我们刚赚了一大票，回王都开庆功宴的那一天……<br>
+就在我们吃饭的时候，街道各处瞬间就乱成了一团。<br>
+然后突然有王都的大人物来找我们，雇佣我们保卫王宫。<br>
+我们本来想拒绝的……但是她给的实在是太多了。<br>
+可是没想到……这一干，就干了几百年。<br>
+<span style="color:#fef15e;">玛丽·西莱斯特号：</span><br>
+我们在王都之中目睹了可怕诅咒的降临，大部分居民都变成了没有理性的不死生物。<br>
+或许是我们对于开拓与冒险之神的信仰得到了回报，我们虽然没能从中幸存，但至少变为了幽灵海盗。<br>
+<span style="color:#fef15e;">维达号：</span><br>
+其实……幽灵海盗还挺酷的。<br>
+但是也架不住在一个地方干活几百年啊……维达已经累了……不想再工作了……<br>
+还好……我们终于在今天等到你们来结账付款了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呃……怎么说呢，明明应该是一个感人至深的悲伤故事。<br>
+为什么我感觉这么……好笑。<br>
+算啦，行侠仗义也是勇者分内之事！<br>
+之前从守望要塞里也拿了不少。不就是钱嘛，我们现在有的是~<br>
+给，你们看这些够不够？<br>
+<br>
+抚顺故作潇洒地拿出了一袋金币，重重的摔在地上。<br>
+<span style="color:#fef15e;">维达号：</span><br>
+呃……她拿出的这些是什么，你们认识么？<br>
+<span style="color:#fef15e;">金鹿号：</span><br>
+我……从没见过这种钱币。<br>
+<span style="color:#fef15e;">玛丽·西莱斯特号：</span><br>
+喂、你这是假钱吧，休想用假钱糊弄我们！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+假、假钱？！这可是货真价实的王国金币啊？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原来如此……这些海盗幽灵一直被困在这里，不知道人类王国早就更换了新的金币。<br>
+只有旧王国时代铸造的金币才能满足她们吧……<br>
+（旧王国时代铸造的金币……我倒确实是有一枚。）<br>
+<br>
+'''''<span style="color:black;">选择项1：拿出旧王国的金币给海盗</span>'''''<br>
+<span style="color:#fef15e;">玛丽·西莱斯特号：</span><br>
+噢~没错~这枚金币才是真的！<br>
+不过只有一枚可远远不够哦？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这一枚算是证明我们此行诚意的保证金。<br>
+可否让我们进入王宫办事呢，办完事之后，就给你们剩下的部分。<br>
+<span style="color:#fef15e;">维达号：</span><br>
+嗯……可以，就这么定了。<br>
+小的们，把路让开，让这群冒险者进去吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=尘封的真相|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+旧都遗迹·王宫<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+指挥官，你确定在王宫的遗迹里能找到足够多的金币么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我有种直觉。<br>
+这群海盗在王都沦陷之时被临时征召，又因为对于尾款的执念变为了束缚在此的幽灵军团。<br>
+正是因为这支幽灵军团的存在，才保护了王宫遗迹数百年的安宁。<br>
+而王宫，又恰好是我们此行的目标，众多线索的汇聚之处。<br>
+要说这一切是巧合，也未免太巧了些。<br>
+化为幽灵，也是一种延长生命的方式。或许这件事和吸血鬼猎人的形成也有关联……<br>
+<br>
+'''''<span style="color:black;">选择项1：对大厅遗迹使用情报分析技能</span>'''''<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+大家看那边的墙上，是不是有一块石头正在发光！<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+难道说……有密室？<br>
+<br>
+厚重的墙体随着机关缓缓开启，一间尘封多年的书房映入眼帘。<br>
+空气中弥漫着陈旧的气息，地面上铺着布满灰尘的地毯，靠魔力驱动的灯具虽然还在运作却已经非常昏暗。<br>
+房间最深处的书桌上，静静悬浮着一个金色魔法球。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+这个魔法……是用来减缓物品时间流速的宫廷魔法。<br>
+一般被用来保存文物……和重要文件！<br>
+<br>
+触碰法阵后，法阵自动解除，露出了其保护了数百年的内容物。<br>
+一叠文件和——一封信。<br>
+<span style="color:#fef15e;">约克公爵：</span><br>
+余乃{{AF|约克}}公爵，王都吸血鬼家族的族长。<br>
+亦或是……曾经王都吸血鬼家族的族长。<br>
+余不知道这封信会在多少年后被人发现……或者说，能否被人发现。<br>
+但……余有义务记录下这一切。<br>
+一个月前，一种奇怪的“症状”开始在余的家族中蔓延。<br>
+期初，余只是将其当成了一种令人衰弱的诅咒。<br>
+可是随后，余发现这种疾病会削吸血鬼家族成员之间的联系，使感染者逐渐臣服于另一个声音……<br>
+余花了太长时间才完全搞明白，那个声音属于魔王——这是魔王想要掌控吸血鬼家族的阴谋。<br>
+当余试图采取措施的时候，一切都晚了……<br>
+此刻，余所深爱的王都正在燃烧……在由吸血鬼所引发的“背叛”中燃烧。<br>
+余的时间已经不多了……<br>
+但余还有最后一个计划<br>
+如果能成功的话，至少能保住一部分人……<br>
+以及这间密室……<br>
+室内角落的箱子里存放着支付给海盗团的金币。<br>
+书桌的文件里则包含解除“永夜之暗”的术式，和……消灭吸血鬼的术式。<br>
+……未来看到这封信的汝。<br>
+做正确的事，赐予余之眷属解脱吧……<br>
+<br>
+信件中愈发潦草的字迹，到这里就彻底结束了。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+……原来吸血鬼家族并没有主动背叛……而是遭到了魔王的控制。<br>
+而我们能够存活至今，竟然是全是因为吸血鬼……<br>
+啊哈哈，真是令人笑不出来的真相。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……迟来的真相也是真相<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……你说的对，迟来的真相也是真相。<br>
+我们终于得知了王都灭亡的真正原因……也知道了矛头真正该对准的人。<br>
+走吧，指挥官，我们已经获得了所有的必要情报。<br>
+……还有三个要塞要拔除呢。<br>
+<br>
+离开密室后，我将所有找到的旧王国金币全部给了飓风海盗团。<br>
+<span style="color:#4eb24e;">维达号：</span><br>
+这、这么多……？<br>
+就算把几百年的利息都加一块儿也没这么多啊……？<br>
+<span style="color:#4eb24e;">金鹿号：</span><br>
+伟大的冒险者……你们真是太慷慨了！<br>
+飓风海盗团喜欢和慷慨的人做朋友！<br>
+给，收下这个“海潮号角”吧，算作我们友谊的象征。<br>
+<span style="color:#4eb24e;">玛丽·西莱斯特号：</span><br>
+遇到危机的时候吹响它，飓风海盗团一定来给你帮帮场子~<br>
+<span style="color:#4eb24e;">冒险终端：</span><br>
+「系统提示，获得新技能：海潮号角，评级：SSS」<br>
+「系统提示，当前可学习技能已达上限，请选择替换技能或放弃学习。」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……投掷是唯一的战斗技能，不能替换掉。<br>
+奔跑这个技能，一路上都没有特意使用过。<br>
+而且腿长在自己身上，没了奔跑技能，应该也不至于无法跑步……吧？<br>
+<br>
+在下定决心后，对着“奔跑”技能，摁下了替换键——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=东方据点之战|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+根据文件中记载的术式，我们轻松破解了“永夜之暗”，进入了东方据点。<br>
+驻守在这里的吸血鬼似乎根本没有想到据点的防御术式会被破解，没能做出实质性抵抗就被我们轻松解决了。<br>
+<span style="color:#ff9b93;">{{AF|U-47}}：</span><br>
+咳……这个术式是……<br>
+你们和{{AF|约克}}公爵族长是什么关系……<br>
+……这样啊。<br>
+……多亏了这个术式，感觉头脑终于清醒起来了。<br>
+……已经过去这么多年了么。<br>
+……也好，我也该休息了。<br>
+……你们是打算攻略全部三个据点么？<br>
+我倒下之后，其它据点一定会提高戒备的，突袭只能成功一次。<br>
+中部据点是由大小姐和女仆长亲自把守的，你们最好最后再去……<br>
+先去西方据点吧。<br>
+负责防卫西方据点的{{AF|埃尔宾}}二小姐十分喜欢吃甜品。<br>
+尤其是各种有创意的甜品……<br>
+因为魔王军的焦土政策，她大概已经很久没有吃到了<br>
+如果你们伪装成从她领地路过的不法走私商人。<br>
+主动为她献上美味甜品的话……说不定能引起她的好奇心主动见你们。<br>
+这样你们就有机会了。<br>
+……那么再见了。<br>
+……一定要打倒魔王啊，冒险者们。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=西方据点之战|选项=20|主框=1|样式=primary|展开=是}}
+<br>
+枯萎森林，前往西方据点的道路上——<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+唔……有创意的甜品，究竟要怎么做才能算有创意呢。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+甜品嘛……首先在于口味。<br>
+如果我们能做出与常规甜品不同的口味&应该就算创意了。<br>
+我正好有很多能够当承担调料功能的魔药哦！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+食材也要和传统甜品做出些区分才行呢~<br>
+如果加入啾莱姆鳗……应该会是一个可以称之为创意的大胆尝试！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+然后还有颜色和形状~！<br>
+我觉得甜品的颜色和形状也很重要哦~！<br>
+颜色的话……首先要丰富多彩！最好是五彩斑斓，和彩虹一样！<br>
+然后形状要有冲击力，能够一下就抓住人眼球的那种！<br>
+比如……七彩定时炸弹啾莱姆大蛋糕，你们觉得怎么样！<br>
+<br>
+'''''<span style="color:black;">选择项1：还要再考虑下气味！</span>'''''<br>
+'''''<span style="color:black;">选择项2：就这么决定了！</span>'''''<br>
+'''''<span style="color:black;">选择项3：…………</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''食物讲究色香味俱全。香就是嗅觉，嗅觉上的刺激也很重要。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''最好再加入一些独特的气味！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不愧是指挥官，轻而易举就发现了计划中的盲点！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''气味是么……我这就翻翻魔药，一定能找出些气味独特的来！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哥哥……这样做出来的东西真的能吃么。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''说不定吸血鬼的味觉和人类不同呢！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''哥哥……这样做出来的东西真的能吃么。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''希望吸血鬼的味觉和人类不同吧……<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+呃……听上去似乎能做出个有趣的东西来呢。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……啧，我不擅长演戏，这次行动我就不参与了。<br>
+我先去盯着中部要塞的动向，祝你们好运。<br>
+<br>
+此刻，我们正拿着制作完成的七彩定时炸弹啾莱姆大蛋糕大摇大摆地接近着西方要塞。<br>
+一路上，果然一只来捣乱的魔物都没有。<br>
+<span style="color:#ff9b93;">{{AF|埃尔宾}}：</span><br>
+真是一个有创意的大蛋糕……<br>
+你们是路过{{AF|埃尔宾}}领地的走私商人么……？<br>
+很好……把这个蛋糕留下，就过去吧。<br>
+不、等等……你们就这么拿着蛋糕，我现在就过来品尝！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哼哼~计划成功，她果然被吸引过来了~！<br>
+<br>
+不论制作蛋糕的过程看起来多么胡闹，至少这个蛋糕确实完成了它应该完成的任务。<br>
+就在吸血鬼二小姐毫无防备地走到抚顺面前，视线被大蛋糕完全占据时。<br>
+躲藏在阴影中的吸血鬼猎人，为其奉上了解脱一击——<br>
+<span style="color:#ff9b93;">{{AF|埃尔宾}}：</span><br>
+啊……{{AF|埃尔宾}}感受到生命之力正在流逝……<br>
+但是诅咒也随之流逝了……<br>
+终于，{{AF|埃尔宾}}等到解脱的这一天……<br>
+……你们的甜品，真的很有创意。<br>
+……我的最后一刻，过得真的好开心……<br>
+姐姐和女仆长……也拜托你们了……<br>
+祝你们一路顺风……正义的冒险者们……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=中部据点之战|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+枯萎森林，前往中部据点的路上——<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……情况有变，立刻改变计划。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+谢菲，发生什么事了？<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+中部据点此刻正在跟魔王军交战。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……与魔王军交战？<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+是的。<br>
+连续失去两座据点似乎让魔王意识到了危险，她决定派遣一个新的代理人接管中部要塞。<br>
+看来这个接管过程并不顺利……总而言之，两方的军队已经打成一团了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+听上去感觉有可乘之机啊~指挥官，我们快去看看吧！<br>
+<br>
+我们终于进入中部要塞内部时，战斗已经接近了尾声。<br>
+<span style="color:#4eb24e;">{{AF|吕佐夫}}：</span><br>
+咳……没想到……本小姐最后会是这样的结局。<br>
+<span style="color:#4eb24e;">{{AF|图林根}}：</span><br>
+别担心大小姐……我陪你一起走。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+居、居然这么快就将两个吸血鬼都打倒了？！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+哈哈哈，汝等是碰巧路过的冒险者么？<br>
+也好也好，吾如此威武的身姿若是无人见证，那就实在太可惜了。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……你是什么人？<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+吾？<br>
+<span style="color:#ff9b93;">吸血鬼：</span><br>
+吾乃吸血鬼，名为吸血鬼的没有任何缺点的最强最完美的究极吸血鬼哦！<br>
+此次依据魔王大人的命令来接管这座中部要塞。<br>
+没想到，这群羸弱的旧世代如此冥顽不化，吾就随手送她们解脱咯。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+指挥官，这个吸血鬼确实很强。<br>
+但是她的状态并不如她说的那么好，她已经受伤了。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+没错，我也发现了。<br>
+不过她的恢复速度实在惊人，下手要趁早。<br>
+<br>
+'''''<span style="color:black;">选择项1：使用“情报分析”技能</span>'''''<br>
+<br>
+冒险终端显示，对面确实是一个没有任何弱点的强力吸血鬼。<br>
+但现在的生命值只有最大值的一半不到。<br>
+除此之外，情报分析技能还在房间中发现了一些其它的东西。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……折叠在空间中的陷阱，吸血鬼女仆在消散前放出但没来得及使用的么。）<br>
+（说不定一会用得上……）<br>
+——大家调整站位，准备战斗。<br>
+<span style="color:#ff9b93;">吸血鬼：</span><br>
+嚯？居然敢主动挑战吾？汝等这是自寻死路！<br>
+那就让汝等见识一下完美究极吸血鬼的力量吧——！<br>
+<br>
+<br>
+轰——————！<br>
+<span style="color:#ff9b93;">吸血鬼：</span><br>
+呵，就凭汝等这点三脚猫的功夫还想困住身为完美究极吸血鬼的吾？<br>
+降临吧，吾的使魔们，赐予这群不知天高地厚的凡人永恒的解脱吧——！<br>
+<span style="color:#4eb24e;">有翼啾莱姆群：</span><br>
+翼啾——翼啾————！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+独角兽、利物浦，注意魔法值管理，优先使用消耗少的持续性回复。<br>
+努比亚人，使用群体性伤害的爆裂魔药攻击魔物群。<br>
+谢菲尔德和{{AF|塞德利茨}}，优先使用远程火力将落单的魔物逐个击杀。<br>
+贞德留在回复阵内，只处理突入身边的敌人。<br>
+抚顺也是，注意阵型，别一个人冲得太远！<br>
+<span style="color:#ff9b93;">吸血鬼：</span><br>
+呵，还真是密不透风啊。<br>
+小队指挥……看吾先解决了汝——！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——终于上钩了。<br>
+不枉我大声指挥了那么久。<br>
+<br>
+就在吸血鬼向我笔直冲来之际，她触碰到了吸血鬼女仆在消散前设置的陷阱。<br>
+随即——时间停止了。<br>
+<br>
+'''''<span style="color:black;">选择项1：竟然是时间停止魔法？！</span>'''''<br>
+'''''<span style="color:black;">选择项2：果然是时间停止魔法！</span>'''''<br>
+'''''<span style="color:black;">选择项3：THE——WORLD</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''时间啊——停止吧！<br>
+<span style="color:#ff9b93;">吸血鬼：</span><br>
+可、可恶……身体动不了……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+这样就——结束了！<br>
+<span style="color:#ff9b93;">吸血鬼：</span><br>
+可恶啊————！<br>
+<br>
+就这样，魔王军的全部三座据点都被摧毁了。<br>
+我依靠光明之加护的力量，净化了大地上的诅咒，让荒芜之地重新焕发了生机。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+最开始我只是以为遇到了又一批鲁莽的冒险者……<br>
+没想到你们竟然能做到这一步……<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+我代表全体吸血鬼猎人，向诸位致以最诚挚的谢意。<br>
+吸血鬼猎人将永远是诸位的盟友。<br>
+此间事毕。接下来，我们需要前往世界各地告知其他猎人王都沦陷日的真相。<br>
+我们必须要暂时分别一段时间了。<br>
+<span style="color:#4eb24e;">谢菲尔德：</span><br>
+……我没有什么能够代表吸血鬼猎人整体的信物能够给你们。<br>
+不过请你们放心，当你们和魔王决战的时候——<br>
+<span style="color:#4eb24e;">谢菲尔德&塞德利茨：</span><br>
+吸血鬼猎人一定在场！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=军械库之战|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+魔王军械库——戴蒙赫勒（Dämonenhöhle）魔窟。<br>
+一座位于炎狱湖的中心的魔王军战略要地。<br>
+炎狱湖中终年流淌的灼热岩浆包围着这处堡垒，成为了无数进攻者的噩梦。<br>
+而由巨龙领主统帅的天空猎杀队则以此为基地，永无止境的袭扰着守望长城。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……这一切，该在今天结束了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+又见面了啊，手下败将。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+上次让你夹着尾巴跑了，这次可不会让你再跑一次了哦~<br>
+<span style="color:#ff9b93;">{{AF|布吕歇尔}}：</span><br>
+哈啊？……你们是认真的么？<br>
+我承认，上次守望城墙之战的失败是我大意了。<br>
+但是现在……在戴蒙赫勒魔窟，我的大本营……就凭你们六个人也想消灭我？<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+没错。怎么，你怕了么？<br>
+要是怕了的话就赶快投降吧~<br>
+<span style="color:#ff9b93;">{{AF|布吕歇尔}}：</span><br>
+唔唔唔！气死我了！<br>
+既然你们这么不识好歹，那我就让你们见识一下天空猎杀队的真正实力！<br>
+黑暗啾莱姆骑士团，随我迎战！<br>
+<span style="color:#ff9b93;">黑暗骑士啾莱姆：</span><br>
+Dark啾——Dark啾——！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥……对敌人的大军向我们冲过来了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那就，让我们奏响海潮吧——<br>
+<br>
+'''''<span style="color:black;">选择项1：发动技能“海潮号角”</span>'''''<br>
+<br>
+伴随着悠扬的号角声，我们向着远方的魔物大军主动发起了冲锋。<br>
+自然——发起冲锋的不止我们六人。<br>
+海潮声此起彼伏，一个又一个海盗亡灵，一艘又一艘幽灵船加入了冲锋的军势。<br>
+冲锋每一秒都比前一秒更浩大，更喧哗。<br>
+<span style="color:#4eb24e;">维达号：</span><br>
+飓风海盗团，伴随潮汐与号角之声如约而至。<br>
+<span style="color:#4eb24e;">金鹿号：</span><br>
+呵呵，慷慨的朋友们，没想到咱们这么快就又见面了呢~<br>
+<span style="color:#4eb24e;">玛丽·西莱斯特号：</span><br>
+接下来是要我们在岩浆里行船拿下对面的堡垒么？<br>
+哈哈，我还没做过这么有趣的事呢！<br>
+<span style="color:#4eb24e;">皇家财富号：</span><br>
+是啊是啊，我还没做过这么有趣的事呢！<br>
+<span style="color:#4eb24e;">玛丽·西莱斯特号：</span><br>
+您您是……开拓与冒险之神？！传说中的皇家财富号？！<br>
+<span style="color:#4eb24e;">皇家财富号：</span><br>
+没错没错~大家好久不见呀~<br>
+欸呀，我在昏昏沉沉的时候听到有人吹响了海潮号角。<br>
+没想到竟然赶上了这么有趣的场面！<br>
+幽灵海盗船团向着巨龙领主发起挑战么？<br>
+这场狂欢盛会也算我一个吧~<br>
+<br>
+<span style="color:#ff9b93;">{{AF|布吕歇尔}}：</span><br>
+哈……哈哈……<br>
+这都什么和什么……<br>
+不死的幽灵海盗军团……？<br>
+开拓与冒险之神……？<br>
+我怎么可能能打赢……这些东西啊……<br>
+<br>
+留下这句话后，巨龙领主化为魔力碎片消失了。<br>
+而早在这之前，整片炎狱湖中的魔物就已经被海盗军团全部肃清了。<br>
+<span style="color:#4eb24e;">皇家财富号：</span><br>
+啊哈哈哈，真是一场畅快淋漓的战斗~<br>
+我真是好久好久都没遇上这么有趣的事了！<br>
+既然你们的契约已经完成，这次就跟我一起走吧。<br>
+根据世界的法则，作为亡者的你们也该安息了。<br>
+<span style="color:#4eb24e;">金鹿号：</span><br>
+嗯……诸位冒险者们，既然约定已经完成，我们对于此世就没有任何留恋了。<br>
+<span style="color:#4eb24e;">玛丽·西莱斯特号：</span><br>
+终于——可以美美睡一觉了。<br>
+<span style="color:#4eb24e;">维达号：</span><br>
+是啊……数百年的战斗，我们实在太累、太累了……<br>
+祝你们接下来的旅途一路顺风……慷慨的冒险者们。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+等一下，最后留一张合影吧！大家，Smile~！<br>
+<span style="color:#4eb24e;">皇家财富号：</span><br>
+嗷呜——<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+拜拜~飓风海盗团和开拓与冒险之神~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=补给站之战|选项=23|主框=1|样式=primary|展开=是}}
+<br>
+在攻陷魔王军械库、告别了飓风海盗团后，我们乘势继续推进。<br>
+很快就来到了前往魔王城前的最后一处阻碍——魔王补给站前。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……在神圣教会收藏的古地图里，对这里的标注是港口城市施涅哈芬（Schneehafen）。<br>
+在魔王出现前。曾经是王国的第二大都市……<br>
+没想到我竟然有亲眼见证这片遗迹的一天。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥~我们侦察回来了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呼呼呼~骑着优酱翱翔的感觉真棒啊~<br>
+从空中俯瞰的视野就是好啊~！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+请说重点……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+咳……指挥官，我们有一个重大发现！<br>
+魔王补给站中驻守的魔物大军正在四散溃逃！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……不战而逃？不会是被我们消灭戴蒙赫勒魔窟的场面吓到了吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+很有可能……看来魔王军并不知道飓风海盗团已经离开了。<br>
+这确实是个好机会……<br>
+我们趁乱出击，拿下补给站！<br>
+<br>
+魔王补给站·领主大厅<br>
+砰————（踢门声）<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+大魔族，你在家么？勇者抚顺前来讨伐你啦！<br>
+咦，指挥官……这里一个人都没有啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……连这里都没人？<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+咱们一路上都没遇到什么像样的抵抗，这里的大魔族该不会是……逃跑了吧？<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+……逃跑了？没想到魔王军的领主里还有这么胆小的人啊。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+哥哥你看……桌子上有一封信。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+指挥官小心陷阱，我来开吧。<br>
+<span style="color:#ff9b93;">{{AF|亚德}}：</span><br>
+各位未曾谋面的冒险者们，你们好呀~<br>
+你们在军械库弄出的动静还真是夸张。<br>
+有了这样的力量，攻下魔王城也只是时间问题吧？<br>
+所以——人家才不要留在这里替魔王当炮灰呢。<br>
+就先拜拜咯~<br>
+补给站从现在起就是你们的了。<br>
+宝物我都装在箱子里放好了，你们可以随便拿~<br>
+补给物资我也都封印在仓库里了，你们也可以随便拿~<br>
+还有我最满意的专辑也替你们整理了一份，请务必听听哦~<br>
+这些可都是{{AF|亚德}}的Live精☆选~<br>
+所以你们看，{{AF|亚德}}都这么乖了~<br>
+以后万一再遇到人家的话——<br>
+还请诸位念在今日的这件事上，放{{AF|亚德}}一马哦~<br>
+——魔王军领主·大魔族·魔女偶像·好孩子·{{AF|亚德}}，留。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+居然真的放弃领地逃跑了啊……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呃……感觉还是个挺识大体的魔族。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+这样一个大魔族跑了……对今后是个麻烦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+至少接下来，她不会阻碍我们讨伐魔王的任务了。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+唔嗯……哥哥说的对。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+至于等下次见到她的时候——<br>
+<br>
+'''''<span style="color:black;">选择项1：就放她一马好了。</span>'''''<br>
+'''''<span style="color:black;">选择项2：超级加倍教训她一下！</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=来自王都的天使|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+攻陷补给站后，通向魔王城的道路上终于不再有任何阻碍了。<br>
+此时此刻，可以清晰的看到魔王城内冉冉升起的防御法阵。<br>
+与魔王的决战的时刻，终于快到了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+呼……越接近魔王城，气温就越高。<br>
+努比亚人，你那里有没有能够降温的药水呀！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+唔……急冻药水？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+用这个会把我冻成冰块的吧！<br>
+独角兽~优酱借我骑一下好不好~<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+不要……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+欸，可是天上吹风多凉快————啊！<br>
+指挥官，天上有一个目标正在朝我们飞过来！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+那个是……王国军的战斗天使？<br>
+糟糕……不会是来抓圣女殿下回去的吧！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+那可不行！圣女已经是我们的同伴了，我们不能眼看她被抓回去！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+等等，大家先冷静。那个是……霞飞？<br>
+不用担心，是自己人！<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+在此向诸位献上光明与正义女神的祝福。<br>
+诸位，好久不见。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+霞飞，你怎么突然来了？<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+我自然是带着国王陛下和整个神圣教会的关心而来的。<br>
+你知道么？你这次不辞而别可把她老人家吓得不轻哦。<br>
+不过随后传来的一个又一个魔王军据点被攻陷的消息则更甚之。<br>
+国王陛下已经下定决心，下达了发动第十三次，或许也是最后一次神圣远征的命令。<br>
+此刻，王国军的主力已经走出了守望要塞，主动进攻着魔王部署在其他地方的兵力，为你们攻略魔王城减轻压力。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+真是个好消息……这样我们在进攻魔王城的时候就没有后顾之忧了。<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+也不尽然。我还有个消息要告诉你们。<br>
+在魔王城东部的炎狱山脉中，有一处属于巨龙巢穴群。<br>
+正如你们所知，巨龙一族早在数百年前加入了魔王军，其族长巨炎龙也是魔王亲封的领主之一。<br>
+如果放任这处龙巢存在的话，你们还是有在魔王城中被夹击的危险。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+唔……确实在进攻魔王城之前拔掉这个钉子比较好呢。<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+我也是这么认为的。<br>
+遗憾的是，我还要回去向国王陛下和神圣教会复命，就不与你们同去了。<br>
+圣女殿下——应该也不打算随我回去吧？<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+那是自然！我现在已经是冒险小队的人了哦~<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+我明白了，愿女神的加护与你们同在。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=巨炎龙讨伐战|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+眼前，是宛如炼狱的战场。<br>
+成百上千的飞龙在火山上空盘旋着。<br>
+其中最引人注目的，无疑是那只体长数百米，浑身燃烧着烈焰的巨龙<br>
+那就是巨炎龙，巨龙一族的领袖，魔王最信任的领主。<br>
+它的每一次振翅，都仿佛与这片炎狱山脉形成了共鸣，岩浆随之雀跃涌动。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+仿佛要将天空遮蔽一般……这就是巨龙的大军，<br>
+……依靠我们真的能打赢么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+敌我实力悬殊，又是正面交锋……<br>
+没办法了……消耗品，该用的时候就要用。<br>
+是时候呼唤传说中的英雄们了。<br>
+<br>
+'''''<span style="color:black;">选择项1：发动技能“时之笛”</span>'''''<br>
+<br>
+悠扬的笛声如同一股清流，划破了灼热的空气。<br>
+当最后一个音节落下时，四座传送阵骤然浮现。<br>
+紧接着，四道身影从传送阵中踏出。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+又见面了，新时代的冒险者们~<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+……巨炎龙，没见过的敌人，有挑战的价值。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+正好试试新强化完毕的斧子~<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+哈欠……快点解决啦…………拉菲还要继续睡觉……<br>
+<br>
+传说中的英雄在此降临，并毫不迟疑地向着巨龙冲了过去。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+等等……如果我没猜错的话。<br>
+这些难道是……传说中的讨伐过上代魔王的英雄们？！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+啊，贞德入队比较晚不知道这件事呢……<br>
+那是个可精彩的故事了，等战斗结束后讲给你听~！<br>
+<br>
+<span style="color:#ff9b93;">巨炎龙：</span><br>
+吼————————！<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+好硬的盔甲……跃动飞踢二连击——！<br>
+拉菲的爆裂魔法，现在还秒不掉它……请继续削弱它。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+那就再吃我一击——天崩地裂！<br>
+<span style="color:#ff9b93;">巨炎龙：</span><br>
+吼————————！<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+欸，怎么又这样！一到关键时刻就派下级魔物当肉盾，自己飞走回复！<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+这头巨龙……有着堪比魔王的智慧和战斗力，大家不要轻敌！！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+勇者抚顺也来帮忙啦——勇者斩击！<br>
+还有我……嘿嘿……这么热烈的气氛，我也要把珍藏的药剂拿出来使用了呢~<br>
+嗷呜——野性激发！<br>
+<br>
+战场的后方，我在通过属性面板监控着战况。<br>
+小队当前的战斗力完全有能力消灭巨炎龙。<br>
+但这头狡猾的巨龙总会利用下级魔物干扰战场，制造间隙对自己进行回复。<br>
+战斗陷入了僵局。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+指挥官，也让我去前线对抗巨龙吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不行。要是你离开后方，我们的神官会失去保护的。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+可是现在战斗明显陷入了僵局，巨龙的魔力庞大，对耗下去我们会先撑不住的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，看来那只巨龙也是这么打算的，真是头狡猾的魔物。<br>
+但是很可惜，它漏算了一点。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+……漏算了一点？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是——我们还有一个可以加入战斗，打破这种平衡的人。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+还有一个……难道是？！<br>
+<br>
+'''''<span style="color:black;">选择项1：对巨炎龙使用投掷技能</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（从王都的商业区到守望要塞的仓库，再到一路走来的各种宝箱中。）<br>
+（我一直在着重收集着威力强大的投掷爆炸物。）<br>
+（终于——到了使用这些库存的时候了。）<br>
+<span style="color:#ff9b93;">巨炎龙：</span><br>
+吼————————？！！<br>
+<br>
+突如其来的爆炸物之雨，显然不在巨炎龙的预料之内。<br>
+它慌乱的进行着躲避，错过了自我回复的机会。<br>
+很可惜，战场的平衡一旦被打破，优势的一方就会如洪水一般将另一方吞噬。<br>
+又过了几个回合，巨炎龙就彻底倒下了。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+呼……真是一场出色的战斗，大家都辛苦了。<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+没想到你居然还隐藏着这样的绝技……真是人不可貌相。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就算不用亲自加入战斗，也总是需要一些防身手段的。<br>
+倒是你们的小队没有提供治疗的神官，以前冒险的时候不会很不方便么？<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+拉菲记得……以前也有人问过这个问题。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+嘿嘿，只要在对方打倒你之前，将对面全部打到就没问题啦~<br>
+而且，冒险的途中也不总是只有我们四人哦~<br>
+就像今天一样与诸位并肩战斗一样。<br>
+要想打倒魔王，同伴自然是越多越好嘛。<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+那么这一次，真的是永别了。<br>
+你们很厉害，一定能打倒魔王的。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+永别了，传说中的英雄们……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+呼……龙巢已经攻略完毕，我们可以先休息一下了。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+等等，指挥官，你忘了一件重要的事情啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+重要的事？<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+是啊！现在哪里是休息的时候，我们还有一整座巨龙的宝库要搜刮呢！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=最终魔王讨伐战|选项=26|主框=1|样式=primary|展开=是}}
+<br>
+黑色的高墙近在咫尺。<br>
+我们终于来到了旅途的最后一站——魔王城<br>
+吸血鬼猎人们早已先我们一步等候在此，就如同她们此前所承诺的那样。<br>
+除此之外，还有一个意想不到的人。<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+向诸位致以钢铁与巨龙之神的问候，无畏的勇者们。<br>
+得知诸位即将进行魔王城的攻略作战，我特地代表教会前来支援。<br>
+呵呵，魔王城厚重的大门，就交给我所带来的神之机械来处理吧~<br>
+<br>
+轰——————！<br>
+钢铁巨龙迸发出的怒火撕裂了多重法阵保护下的魔王城大门。<br>
+骁勇善战的猎人们则撕碎了城内的正面防线，将我们一路护送至魔王的王座前。<br>
+魔王城·王座室<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+魔王，勇者抚顺带领小队来讨伐你了哦！<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+你的恶行到今天就要结束了，魔王。<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+啧……真是聒噪。<br>
+这不是之前在人类王宫里偷窥我的冒险者小队么。<br>
+没想到你们竟能活着走到这里。<br>
+就这么急着送死么？<br>
+也好，本魔王在此送你们最后一程就是了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……其实，你只要一开始就亲自出马，或许我们就走不到这里了。<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+魔王，亦有魔王的矜持！<br>
+所谓魔王，就是要像这样，最后在魔王城的王座之上等着勇者送上门来的设定啊！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+没错，魔王就应该是这种设定才对啊！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+放马过来吧魔王，就让药剂师努比亚人来当你的对手！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+独角兽……治疗魔法准备就绪，随时可以加入战斗。<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+哼，多说无益，动手吧——！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+值得纪念的魔王讨伐之旅最终战，现在开始~！<br>
+<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+无力的冒险者们，我在此赐予诅咒你们——<br>
+诅咒你们衰老、无力、虚弱、痛苦——<br>
+倒下吧，倒下吧，倒下吧——<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+咳咳……这个是……魔王才能使用的究极诅咒。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+糟糕……这个诅咒……凭我现在的能力解除不掉……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+咳……哥哥……独角兽……要坚持不住了……<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+药剂瓶……药剂瓶要拿不稳了……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+可恶……我可是勇者……勇者抚顺怎么能倒在这种地方……<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+哈哈哈哈，不行了吧？<br>
+早就说了~就凭你们，想要到达我的脚下究竟是奇迹了，竟然还妄图讨伐我？<br>
+都在我的诅咒下痛苦又缓慢的迎来死亡吧——<br>
+<span style="color:#4eb24e;">冒险终端：</span><br>
+系统提示：光明之加护：SSS，已生效。钢铁之加护：SSS，已生效。<br>
+<br>
+'''''<span style="color:black;">选择项1：战斗还没有结束。</span>'''''<br>
+'''''<span style="color:black;">选择项2：没发现我还站在你面前么？</span>'''''<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+……嗯？你怎么还没倒下？<br>
+罢了……你的勇者、神官、圣女、药剂师都已深陷诅咒。<br>
+你一个手无缚鸡之力的指挥官就算没倒下，又有什么用？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+手无缚鸡之力？<br>
+你作为魔王，应该有查看冒险者面板的能力吧？<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+哼，那是自然。我可是站在魔族顶点之人，区区查看冒险面板这种小事……<br>
+这种小事…………<br>
+……这、这不对吧？<br>
+……等级999，生命值999999，魔法值999999，攻击力9999，防御力9999……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你终于注意到了。<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+……居然已经将基础属性提升到了这种程度。<br>
+……之前你打败巨炎龙……不是巧合？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以你觉得，一对一我会怕你么？<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+……你！你藏的好深！<br>
+原来你才是小队里最厉害的那一个！<br>
+<br>
+……<br>
+<br>
+'''''<span style="color:black;">选择项1：拿起抚顺的勇者之剑</span>'''''<br>
+……<br>
+<br>
+'''''<span style="color:black;">选择项1：拿起贞德的神圣之剑</span>'''''<br>
+<span style="color:#ff9b93;">德文郡：</span><br>
+你、你想做什么……<br>
+等等，有话好好说……！<br>
+我可是魔王！不论人类国王许诺给你了什么我都可以给你双倍！<br>
+你不要过来啊————！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=在那之后的故事|选项=27|主框=1|样式=primary|展开=是}}
+<br>
+「于是，魔王被消灭了。」<br>
+「世界迎来了和平。」<br>
+在勇者小队返回王都后，一行人受到了英雄伟业相符的热烈接待。<br>
+<span style="color:#4eb24e;">英王乔治五世：</span><br>
+王都中的盛大的庆典持续了半月有余。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+圣女逃跑的责任，自然没有被追究。<br>
+<br>
+庆典结束后，小队特意在勇者抚顺的带领下回了一趟乌尔斯普村。<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+村长如约奉上了一场盛大的宴会。<br>
+与王都中的宴会不同，村落的宴会也别有一番风味。<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+再之后，药剂师努比亚人回到了自己在特尔玛尔村的家中，继续为村民们提供着免费的治疗服务。<br>
+不过因为因为她难以掩盖的名气，不远百里前来村中看病的王宫贵族络绎不绝。<br>
+不知不觉间，努比亚人已经在村落外拥有了一间属于自己的大庄园。<br>
+<br>
+每日都生活在忙碌中的药剂师再也没有带任何人前往过银滩岛。<br>
+<span style="color:#4eb24e;">阿尔汉格尔斯克：</span><br>
+而那位神秘的智慧魔女阿尔汉格尔斯克，也没有再一次出现在历史上。<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+神官利物浦和独角兽最后选择加入了王国的神圣教会提升自己的技能。<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+并在日后，逐渐成为了新任教宗圣女贞德的左膀右臂。<br>
+<span style="color:#4eb24e;">圣女贞德：</span><br>
+她们的友谊一直持续到了被女神赐予的漫长生命的最后一刻。<br>
+<br>
+吸血鬼猎人们在文明之外孤独的战斗数百年后，终于得到了人类王国的接纳。<br>
+<span style="color:#4eb24e;">{{AF|塞德利茨}}：</span><br>
+谢菲尔德和{{AF|塞德利茨}}先后被赐予了贵族爵位，她们的领地包括原先由吸血鬼控制的中部要塞以及周边的广大区域。<br>
+<br>
+荒芜之地重现生机的消息很快就传遍了王国的每一个角落。<br>
+王国之中出现了一股狂热的拓荒浪潮。<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+加入这一浪潮的，就有弗里德村的村长飞云，她带领拓荒团将开辟的目标选在了港口城市施涅哈芬的遗迹上。<br>
+随着土地的进一步净化，冰雪湖重新出现，这片遗迹也重新变为了一座繁忙的大都市。<br>
+村长飞云也由此成为了伟大的自由市市长飞云。<br>
+<span style="color:#4eb24e;">前卫：</span><br>
+至于王国军，在魔王被打倒之后，反而迎来了更为忙碌的生活。<br>
+<span style="color:#4eb24e;">阿尔及利亚：</span><br>
+伴随着魔王城的崩塌，王国军分批次离开了守望长城。<br>
+<span style="color:#4eb24e;">不屈：</span><br>
+忠诚的骑士们的带领着各自的军队，在这片开始复苏的土地下上建立了无数新的据点，保护着王国的拓荒团与旅人们。<br>
+<span style="color:#4eb24e;">霞飞：</span><br>
+对于天冠城墙遗迹的修复工作也在钢铁教会的主导下有序进行着。<br>
+<br>
+至于旧王都遗迹。因为其过于残破又过于危险，国王最终放弃了对它的重建方案。<br>
+不过其中埋藏的大量珍贵文物依然是一笔无价的财富。<br>
+<span style="color:#4eb24e;">英雄：</span><br>
+为此，王国军发出了大量委托，吸引了无数冒险者前来这片遗迹寻找自己的机会。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+其中就包括勇者抚顺。<br>
+勇者抚顺婉拒了国王邀请她担任骑士团长的任命，继续游荡在危险的荒芜之地中。<br>
+因为她的心里很清楚，此时此刻，还有一个大魔族正潜伏在黑暗中等待着机会。<br>
+<span style="color:#fef15e;">吟游诗人：</span><br>
+至于那位传奇指挥官，则从此在历史上失去了踪迹♪<br>
+有些人说，指挥官最后成为了一位统治偏远地区的边境领主♪<br>
+有些人说，指挥官前往了传说中的北方之塔进行为期百年的学习♪<br>
+有地方志记载着，指挥官成立了一支新的小队，为了追寻新大陆而前往了远方♪<br>
+也有野史记载着，其实指挥官才是真正的魔王，而整个王国，也早已被其被控制了♪<br>
+不过从许许多多在这场旅途中与指挥官并肩作战之人的表现来看♪<br>
+或许，指挥官只是在某个祥和之地，平静又幸福的生活着吧♪<br>
+<br>
+未来有无穷多种可能性等待探索<br>
+不过现在，是时候休息一下了。<br>
+「从零开始的魔王讨伐之旅」·FIN。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=后日谈|选项=28|主框=1|样式=primary|展开=是}}
+<br>
+离开游戏的世界后，来到了{{AF|腓特烈·卡尔}}的房间外。<br>
+咚咚咚——（敲门声）<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+门没锁，请进哦。<br>
+<br>
+推开门，一个躺在日光下的慵懒身影映入眼帘。<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+这不是刚刚打败了魔王的、我英勇的指挥官么，怎么突然来我这里看我了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+之前在守望要塞的客房，你也是突然来访。<br>
+所以算是礼尚往来了。<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+呵呵~所以当时您果然没中招下线啊~过度沉迷游戏可不好哦，我的指挥官。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那天庆功宴本身就办到了很晚就是了……<br>
+不过，就算体验了全流程，还是有些不太明白的事。<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+嗯？作为制作委员会的成员，我可以尽可能回答你哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<br>
+'''''<span style="color:black;">选择项1：关于和你这个角色的行动动机……</span>'''''<br>
+'''''<span style="color:black;">选择项2：有些神的称号起的很有特色……</span>'''''<br>
+'''''<span style="color:black;">选择项3：关于智慧魔女，还有从前的故事……</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯~我的动机确实没有自称的那么单纯呢。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''毕竟无数次都恰好出现在了勇者小队的身边，又在暗中不停提供帮助。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不过其背后的原因嘛……目前游戏被设置成了开放式结局。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我的指挥官不妨自己猜猜看？<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呵呵~是啊，这些称号当时讨论的可激烈了哦~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不过最后，自然还是加入委员会里的人占了些便宜。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''起始与终焉之神，是布里斯托尔给萨拉托加选的称号。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''领航员小姐的秩序与规则之神同样也是她设定的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''伊丽莎白女士的茶会与点心之神是英勇强烈要求设定的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''同样……维内托小姐的复兴与浴室之神也是马可波罗强烈要求如此设定的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''{{AF|俾斯麦}}在来回比对了多个方案之后，从中选择了一个她最满意的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''{{AF|赤城}}一起选定的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''其实最初还有一个{{AF|雷}}很喜欢的方案……好像是叫火与农林业之神？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不过最后因为过于难以理解而在投票中出局了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''黎塞留女士的光明与正义之神是克莱蒙梭女士选定的名字，黑暗与诡计之神同样是她给自己选的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''{{AF|苏维埃同盟}}女士的团结与坚韧之神命名来自于水星纪念。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''逸仙小姐的平安与守护之神则是来自于海天小姐的推荐。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''其它的话……开拓与冒险之神和幸运与财富之神都是当事人各自为自己选的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯~差不多就这些吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''旧神的部分呢呢？<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''旧神的部分要暂时留个悬念哦~我的指挥官~<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''没错哦，前代勇者小队的故事也十分精彩呢。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''在那个时代，曾经的吸血鬼、巨龙与人类竟然是彼此和谐相处的。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''当时整个大陆的格局也与现在截然不同——<br>
+'''''<span style="color:black;">（选择项3）</span>'''''海天小姐为了这部分写了很多背景设定呢。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''日后如果有DLC的话，或许就有展现出来的时候了吧~<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+呵呵，还有一件事您应该已经注意到了。<br>
+在制作过程中，委员会的每一个人都为自己在游戏中选择了一项特权。<br>
+有些是身为神的身份，有些是仅供自己使用的强力道具。<br>
+至于我——我选择制作了一个特殊的地方。<br>
+那是一个神秘的房间，隐藏在大陆中无人注意的角落。<br>
+房间之中，我重现了昔日乐歌城在设定中最为辉煌的时期。<br>
+那是一个爱意随着乐声散布，终日不断地美丽之处——<br>
+如果感兴趣的话。<br>
+一会我偷偷带你去看看吧？我亲爱的指挥官~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
