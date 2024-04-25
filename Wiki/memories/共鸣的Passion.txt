@@ -1,0 +1,930 @@
+== 共鸣的Passion ==
+{{折叠面板|开始}}
+{{折叠面板|标题=序幕|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+港区·指挥室<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+指挥官，又到了那个时间了喵！激动人心的「μ兵装实验测试」又要开始了喵！<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+因为前两次的成功，大家的情绪都很高涨呢。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+嗯~听说上一次实验的时候就连恶毒都拿出了干劲，让我也有些好奇了。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼，毕竟是大家都无法拒绝的偶像Live演唱会嘛！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+按照惯例，μ兵装实验测试相关确实是由{{AF|明石}}来向我汇报没错，但……<br>
+<br>
+看了看{{AF|三笠}}，又看了看克莱蒙梭，以及在指挥室门口来回徘徊似乎是在犹豫要不要进来的马可·波罗——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你们为什么会和{{AF|明石}}一起来啊……？<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+哼哼，这种盛事，撒丁帝国怎么可能会缺席？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+要举办Live，肯定就要有舞台喵；要有舞台，肯定就要有赞助的人选喵~！<br>
+{{AF|明石}}绝对不是觉得可以趁机大捞一笔所以才这么积极把大家都叫来了喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<br>
+忽略掉{{AF|明石}}过于亢奋的情绪，将注意力集中在眼前的人选名单上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——组合名称是「Alizarin（深红）」和「 Cyanidin（花青素）」么。<br>
+……倒是启发我了。<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+哦？指挥官想到什么了么？<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+这两个组合的名字带着明显的颜色属性……呵呵，原来如此，是要那么做啊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+没错，我确实打算那么做。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵？<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+喂，事关重大，你们能不能别打哑谜了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我打算让这两个组合以对抗赛的形式来进行Live。<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+前两次μ兵装实验，不是也是对抗赛么？<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+是，但又不是。之前的其实被称之为挑战赛更恰当。<br>
+而且，指挥官应该是想把两个组合分为两个大组吧？这样一来，也能让更多人参与其中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。之前的两次实验，除了负责测试「μ兵装」的组合以外，其他人的兴致也很高涨。<br>
+既然如此，这次干脆就调整机制，也给到她们更多享受舞台的机会。<br>
+这样一来的话，大家应该都能以最闪耀的状态进行Live了。<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+原来是这样，感觉通过这种比赛机制，还能促进港区的同伴们之间的关系。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+嗯~毕竟是要分成两个大组进行对抗，从整体实力上比拼强弱。<br>
+这种时候，寻求合作对象就变得至关重要了啊。<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+指挥官，你是打算直接指定人选分组么？我可以为你——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不。我打算让她们自己去动员。<br>
+{{AF|明石}}，你先去通知这两个组合的成员新赛制的事，我要在这里和克莱蒙梭她们再讨论一下其它相关内容。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+没问题喵~包在{{AF|明石}}身上喵~<br>
+<br>
+目送着绿色的身影离开后，一旁的{{AF|三笠}}便迎了上来。<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+在讨论后续之前，不如先决定一下要为这次的「μ兵装实验测试」起个什么名字吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我想想……<br>
+用心奏响音乐时才会发挥最大力量的「μ兵装」……嗯，决定了。就叫——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=全新的规则|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+……所以，基于{{AF|明石}}所说的内容来看，本次「μ兵装实验测试」的规则和之前完全不一样了。<br>
+会分成「红组」和「青组」两个大组对抗，而且要靠我们自己去招募与对方抗衡的成员。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+我倒是不讨厌这种规则的改变哦？还挺有趣的呢~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+唔，这种边交朋友边对抗的感觉，总觉得像是小孩子过家家一样……<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+或许就是想要通过这种方式拉近大家的关系吧？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+欸……该怎么提醒你们才好呢~？算了，我还是直说吧。<br>
+我觉得你们现在关注的重点稍微有些偏离主题呢。<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+偏离主题？可畏不觉得这个规则还有“让大家交朋友”以外的主题哦？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+我同意可畏的看法。不过，我也很好奇你要提醒我们的重点到底是什么。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+前两次实验，其实都为了举办Live而搭建了舞台，对么？<br>
+即便是在港区，想要搭建起舞台也是需要一定资金赞助的。<br>
+而赞助方在一定程度内也有权干预比赛……<br>
+上一次是皇家的伊丽莎白女王，那么这一次的赞助方会是谁呢？<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+等等，你这是什么意思？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+先不要生气，我猜{{AF|欧根亲王}}的意思是想说……<br>
+我们应该关注这次赞助方是哪个阵营，然后多去招募这个阵营的成员？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+没错哦~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+可是这样一来不就变得很奇怪了嘛……而且可畏觉得指挥官也不想让这种情况出现。<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+嗯，我也这么认为。<br>
+姑且还是先专注在我们的练习配合上吧。靠实力去招募其他人，才更有说服力。<br>
+<br>
+与此同时，另外一边——<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+抱歉，特地把大家叫到这里集合，是为了好好商议一下之后的“战术”。<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+战术？啊~是因为刚刚{{AF|明石}}通知的那个规则吧！<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+嗯……总感觉这次赛制改变的背后可能暗藏玄机，所以想和你们商量看看。<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+应该不会有什么问题吧……？呼~哈~<br>
+只是让大家……一起享受舞台……<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+我也这么觉得哦~！<br>
+所以你也不用考虑那么多啦，放下负担去寻找愿意加入我们的同伴吧~？<br>
+登上舞台、举办Live这种开心的事情，我觉得大家都是愿意参加的哦！<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+没错……<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+好吧，既然你们都这么觉得，那我也不纠结了。<br>
+（招募同伴这件事上，还是得优先考虑对方在Live方面的实力。）<br>
+（嗯，果然还是先去招募她会比较好吧……）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=无法拒绝的理由·上|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+我拒绝。<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+可是，之前参与μ兵装实验的时候，你不是也很乐在其中吗，“{{AF|赤城}}前辈”？<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+那时候和现在的意义可完全不一样。还有，不要叫我“前辈”！<br>
+虽然我确实参与μ兵装实验比你早，但你这么叫我感觉突然增加了不少年纪……<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+好吧。那我要怎么做，你才愿意加入我们「青组」？<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+……<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+光辉姐姐，你真的不打算加入「红组」吗？<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+呵呵，我只是觉得现在还不是合适的时机。<br>
+虽说一开始就从参加过μ兵装实验的、有经验的舰船中招募是个很省心的方式……<br>
+但是这次的对抗赛，目的是让更多同伴参与其中吧？<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+话是这么说没错啦……<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+如果最后你们的组员招募不够，到时候再来找我也不迟呀？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喂喂——信号测试喵~<br>
+很抱歉打断大家喵，{{AF|明石}}这边接到通知要让大家来港口集合喵~<br>
+是针对本次的「μ兵装实验测试」补充说明喵~<br>
+以上就是本次通讯的内容喵，{{AF|明石}}在港口等着大家喵~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+真麻烦……看来我们得先去港口了呢。<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+可畏，注意礼仪。<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+知道啦~<br>
+<br>
+港区·港口<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+很抱歉如此仓促地将诸位召集在此处。<br>
+相信大家一定会很在意这次分为大组对抗的理由，以及本次的赞助方究竟是谁……<br>
+现在就将为大家说明。<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+哈哈哈，之前也只拜托了{{AF|明石}}通知大家新的规则，但是关键的内容都还没透露呢。<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+总之，赞助方为了调动大家的积极性，会满足最终的胜出者一个愿望。<br>
+也就是说，可以利用这一点去……<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+咳咳，关于这个愿望能做什么，就由胜出者自己去考虑吧。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+实现一个愿望？哎呀，感觉事态要往更有趣的方向发展了呢~<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+……<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+看来大家的情绪已经被奖励调动起来了喵~！现在{{AF|明石}}就为大家公布本次的赞助方名单喵~<br>
+喵呼呼，本次的赞助方是——指挥官喵~！<br>
+大家可以根据这个提前思考一下愿望的范围了喵~<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+等等……谁……？指挥官？！愿望……<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+呵呵呵……{{AF|金刚}}，我现在就同意你的邀请……！<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+哇哦~甚至连μ兵装都突然装备上了……<br>
+<span style="color:#4eb24e;">{{AF|大凤}}(μ兵装)：</span><br>
+{{AF|大凤}}也要参加！<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+总感觉……事态要朝着奇怪的方向变化了……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=无法拒绝的理由·下|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+港区·指挥室<br>
+一段时间前——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+上一次我记得是由皇家提供了赞助，那……不如干脆就按照阵营轮流来提供好了？<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+我没意见。<br>
+这次的赞助干脆就交给我们撒丁帝国吧！<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+可是……如果按照这种阵营轮流提供赞助的方式来，不知道多久才能全部轮换完。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+那不如这次由各家联合赞助？配合这次规则的改变，把舞台和Live做得更加声势浩大一些。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+倒是个好主意。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+嗯~之后其它阵营方面就由我去传讯通知吧。<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+赞助方的事姑且算是定下来了，我们来讨论一下奖品要提供什么吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+奖品啊……你们有什么主意么？<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+我觉得，不如把奖品设置成“最终胜出者可以让主办方实现一个愿望”这种。<br>
+把选择权交给对方——这种形式也更合理一些。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+我同意马可·波罗阁下的提议。<br>
+如果大奖是指定的、某种物质上的奖励，应该很难满足所有人的诉求。<br>
+但是由获胜者自己许愿的话，就不会存在这种矛盾了哦~<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+确实。而且这样由各方联合赞助，奖品的预算也可以被拔高。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我们有两个大组，只满足第一名的愿望的话，第二名要怎么办？<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+就从奖品预算上做区别吧！很简单的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……那之后针对奖品预算方面的内容清单，就由{{AF|明石}}出具一份吧。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+和预算有关的内容就放心交给{{AF|明石}}吧喵~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+话说回来，本次的赞助方该怎么署名？直接写由各阵营联合赞助么？<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+各阵营联合赞助，等于是集合了港区所有的力量……也就等于是指挥官你在进行赞助……<br>
+既然如此，署名就署指挥官你的名字吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等一下，总感觉中间缺少了一环逻辑……<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+嗯？听下来没有什么问题哦~指挥官也不用有所顾虑。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+没错喵，指挥官快点签字吧喵~！<br>
+<br>
+之后，在众人的包围下签署了相关的所有文件。<br>
+港区·港口<br>
+现在——<br>
+在{{AF|明石}}宣布赞助方后，港口的气氛突然变得空前热烈。<br>
+<span style="color:#4eb24e;">{{AF|罗恩(μ兵装)}}：</span><br>
+啊……由指挥官来实现一个愿望……原来有了这样的奖品啊……<br>
+<span style="color:#4eb24e;">黛朵(μ兵装)：</span><br>
+能让主人满足黛朵一个愿望……不不不，黛朵不应该产生这样的想法，可是……<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+为了得到哥哥的奖励……独角兽也要加油……<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+等、等一下？从宣布奖励开始，这里的氛围可畏已经搞不懂了啊？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+还是先回去练习比较好吧……<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+你们不觉得现在才有“对抗赛”的氛围么？越激烈越好~<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+呼~哈~大家……因为指挥官而变得情绪高涨了……<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+很好~看来我们招募成员应该会很顺利~！<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+但愿如此吧……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=各自的心思|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+港区·东煌区域<br>
+<span style="color:#4eb24e;">平海：</span><br>
+姐姐……今天在港口通知的消息我听说了，我们要不要重出江湖？<br>
+<span style="color:#4eb24e;">宁海：</span><br>
+当然要！是时候让“东煌姐妹”组合给她们一些小小的震撼了！<br>
+唔，不过在参加之前还是先让寰昌替我们卜上一卦吧~！<br>
+我已经用糖饺子做报酬请她过来了哦。<br>
+<span style="color:#4eb24e;">平海：</span><br>
+不愧是姐姐~考虑的就是周到~<br>
+<br>
+一段时间后，寰昌如约而至。<br>
+<span style="color:#4eb24e;">寰昌：</span><br>
+原来如此，你们想问的是哪一方会赢啊。<br>
+那么，我便为你们——嗯？是何人如此鬼祟？出来！<br>
+<br>
+就在寰昌准备起卦之时，她瞥见了一道正在厨房前探头探脑的身影。<br>
+<span style="color:#4eb24e;">平海＆宁海：</span><br>
+有贼人？！<br>
+<span style="color:#4eb24e;">济安：</span><br>
+好嘛好嘛……是姐姐我啦，还以为我挑这个时间悄悄去厨房就不会被发现呢……<br>
+<span style="color:#4eb24e;">寰昌：</span><br>
+你又去厨房练手？<br>
+<span style="color:#4eb24e;">宁海：</span><br>
+等等，这个“又”是怎么回事……？<br>
+<span style="color:#4eb24e;">济安：</span><br>
+咳咳……！！<br>
+平海和宁海还在呢，就先别提我去厨房的事了吧……<br>
+话说回来，你们是在请寰昌卜卦吗？<br>
+<span style="color:#4eb24e;">平海：</span><br>
+嗯，姐姐和我要去参加这次的Live，想算算看是加入「红组」还是「青组」好。<br>
+<span style="color:#4eb24e;">济安：</span><br>
+可是如果靠卜卦提前预知了答案，不就变得很没意思了么~？<br>
+<span style="color:#4eb24e;">寰昌：</span><br>
+的确。提前预知了答案，便会少了途中的乐趣。<br>
+不如……你们凭感觉选一组？<br>
+<span style="color:#4eb24e;">平海＆宁海：</span><br>
+这……<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+呼~那个……打扰了……<br>
+我想问问大家有没有兴趣加入「青组」……<br>
+<span style="color:#4eb24e;">平海：</span><br>
+姐姐？<br>
+<span style="color:#4eb24e;">宁海：</span><br>
+来得早不如来得巧，这应该也是天意吧~我们就加入「青组」好了！<br>
+<br>
+与此同时，其他人也正在为了招募成员而努力——<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+啊啊……这种会累趴下的事情……好麻烦……<br>
+你去拜托别人会比较好吧……<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+确定么~？赢了的话，可是有愿望可以许哦~？<br>
+不管是睡懒觉，还是不用工作之类的事都可以通过许愿，光明正大的得到实现哦~？<br>
+<span style="color:#4eb24e;">恶毒：</span><br>
+……<br>
+我会参加的…！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=“人脉”大比拼|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+港区·皇家区域<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+嗯？大家都愿意加入可畏这边的「红组」么？<br>
+<span style="color:#4eb24e;">塔什干(μ兵装)：</span><br>
+塔什干只是被叫来帮忙的，完全不是想让同志酱满足塔什干的愿望才答应的。<br>
+<span style="color:#4eb24e;">黛朵(μ兵装)：</span><br>
+啊啊，为了不让主人失望……！黛朵想再一次让主人看见在舞台上闪耀的黛朵！<br>
+<span style="color:#4eb24e;">大青花鱼(μ兵装)：</span><br>
+嘿嘿，大家的兴致都很高啊~<br>
+完全没想到我们「Astrum」还能再一次一起登台呢！<br>
+<span style="color:#4eb24e;">巴尔的摩(μ兵装)：</span><br>
+没错！这次我也有所成长了，作为“偶像”应该更加游刃有余了！<br>
+<span style="color:#4eb24e;">光辉(μ兵装)：</span><br>
+呵呵……谢谢大家愿意帮我这个忙。<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+光辉姐姐是为了帮可畏，所以把之前的组合成员都聚集过来了么？<br>
+<span style="color:#4eb24e;">光辉(μ兵装)：</span><br>
+一方面是为了帮忙，另一方面么……<br>
+其实我也有想要让指挥官帮我实现的愿望……所以……<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+欸？<br>
+<br>
+港区·重樱区域<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+（听说「Alizarin」那边的进展很快，而且还招募到了之前很强力的「Astrum」……）<br>
+（虽说{{AF|赤城}}和东煌姐妹已经答应加入「青组」了，但我们这边也必须加快进度才行。）<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+是来找我的么？<br>
+你放心好了……我不会允许自己选择的那一方落败。<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+嗯？难道你也做了准备？<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+那是自然~「Polaris」的全员已经答应和我一起加入「青组」了。<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+虽然这么说可能有些失礼……但，你应该没有强迫她们吧？<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+哼，当然了。不信的话……喏，你看，加斯科涅本人也过来了哦~<br>
+<span style="color:#4eb24e;">加斯科涅(μ兵装)：</span><br>
+加斯科涅，没有被胁迫。<br>
+加斯科涅，对“偶像”的定义有了新的理解，想让主人看见。<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+原来如此……抱歉{{AF|赤城}}，我为刚刚的疑问向你道歉。<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+你的歉意我就收下了。说起来，我还为我们找到了另一组帮手……<br>
+虽然多少有些不爽……但为了增加赢面，有时候和过去的对手合作也是必要的呢。<br>
+——「Verheerender」，你们可是迟到了哦？<br>
+<span style="color:#4eb24e;">{{AF|罗恩(μ兵装)}}：</span><br>
+嗯…抱歉呢~因为一直想着如何击溃“敌人”，在练习上花了点时间。<br>
+<span style="color:#4eb24e;">{{AF|大凤}}(μ兵装)：</span><br>
+啧，要不是为了指挥官大人，{{AF|大凤}}才不会和你们合作呢。<br>
+等{{AF|大凤}}赢了……就要许愿和指挥官大人……呵呵呵呵❤<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+那种事我可绝对不·允·许哦？指挥官只能由{{AF|赤城}}的爱来填满！<br>
+<span style="color:#4eb24e;">{{AF|罗恩(μ兵装)}}：</span><br>
+呵呵，“敌人”的数量又增加了呢♪<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+…………<br>
+你们，要不还是把门关上再聊吧……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=纠结的大家|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+港区·指挥室<br>
+<span style="color:#4eb24e;">孟菲斯：</span><br>
+——以上，就是「「红组」」与「青组」目前招募到的成员情况。<br>
+后续如果有成员变动，我也会第一时间来汇报。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+辛苦你了，孟菲斯。<br>
+不过「青组」这边的人员构成……{{AF|赤城}}……<br>
+……算了，希望是我担心过头了。<br>
+<br>
+就在我忍不住叹气的时候，一道黑色的身影从门外走了进来。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+哎呀，这说不定也是一种关系变好的证明哦？<br>
+即便是为了共同的利益，想要从对手转变成合作对象也不是一件容易的事呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+但愿是真的关系变好了吧……<br>
+<span style="color:#4eb24e;">孟菲斯：</span><br>
+嗯……关于这一点，我其实有听说一些传闻。<br>
+除了正常的招募方式以外，好像还出现了“威逼利诱”的情况。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+威逼利诱？<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+哦？<br>
+<span style="color:#4eb24e;">孟菲斯：</span><br>
+比如拿加了科技的超柔软枕头诱拐拉菲、动用女王的权威勒令大家不准加入「青组」之类的……<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+没想到大家为了让指挥官满足自己的愿望可以努力到这种程度啊~<br>
+这下连我也想参与看看了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+呵呵~我开个玩笑而已，不用紧张。<br>
+算起来，招募成员的时间也快结束了呢……<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+你们已经选好要去「青组」还是「红组」了吗？<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+我还没有想好的说。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+标枪呢？已经决定好了吗？<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+其实我也没决定好啦……所以想问问大家的意见嘛……<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+「青组」的鲁莽一直来找拉菲，拉菲睡不着……<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+欸？所以拿高科技枕头诱拐你的事是真的？<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+高科技枕头……？拉菲没见过……拉菲想要……<br>
+不过拉菲为了能好好睡一觉……已经同意她们的招募了……<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+好辛苦…的说，不过为了睡觉也是没办法的事的说。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+是啊。<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+嗯？这种时候正确的反应应该是制止对方的骚扰行为吧？！<br>
+既然如此的话，我要加入「红组」那边，得靠战胜「青组」给她们一点教训。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+欸？可是靠加入另一组来制止对方的这个反应好像也不是很合理啊？<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+还是不要那么在意细节的说。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=分组的结果|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+嗯，起床后需要先进行二十分钟的皮肤管理。<br>
+然后是三十分钟的热身时间，还要做十分钟活动手指的柔软操。<br>
+还有针对我们三个人各自薄弱环节的专项练习，还有舞台上的表情管理也很重要……<br>
+<span style="color:#4eb24e;">{{AF|酒匂}}：</span><br>
+咦？{{AF|能代}}姐姐？<br>
+你不去和{{AF|欧根亲王}}还有可畏一起招募成员吗？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+嗯，我有考虑过。但……说服别人不是我的专长。<br>
+和{{AF|欧根}}还有可畏商量过后，就把招募成员的事情交给她们了，而我负责后续的训练日程规划。<br>
+而且，最终比拼看的还是Live。<br>
+要想发挥μ兵装的最大效能，我们也必须得好好练习才行。<br>
+<span style="color:#4eb24e;">{{AF|酒匂}}：</span><br>
+就知道{{AF|能代}}姐姐也会帮你的哦~<br>
+<br>
+招募大组成员的时限很快到了截止时间。<br>
+「Polaris」、「Verheerender」、「东煌姐妹」三个组合选择加入了「青组」。<br>
+拉菲和独角兽则是以个人偶像的身份加入。<br>
+另一边，「Lumière」、「Astrum」两个组合选择加入了「红组」。<br>
+这边的个人偶像则是{{AF|吹雪}}以及哈曼。<br>
+<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+虽然从人数上来看，本王所在的「红组」好像输了个彻底，但是…！<br>
+论舞台数量的话，本王这边可是赢了哦！<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+怎么办呢，光顾着招募去了，完全没注意到我们比对方多一个人。<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+这种情况下要么有人退出，要么就是组成限定组合了吧？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+毕竟要确保公平嘛~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+说的也是呢……<br>
+<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+哼，本王要好好地展现个人魅力，组限定组合的事情就算了。<br>
+<span style="color:#4eb24e;">哈曼：</span><br>
+哈曼也、也更想展现个人魅力，绝不是因为只想让指挥官的注意力放在哈曼身上！<br>
+<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+唔，我倒是没什么关系哦~{{AF|Z23}}，我们可以一组！<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+嗯。这样从舞台数量上就平衡了，也不用退赛了。<br>
+接下来就是各自的舞台Live了。<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+作为偶像，最重要的就是激情和舞台风格，我们可以从这个角度出发选曲。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+没错哦，从前两次实验结果也能看出来，充分释放自己的感情才是最优解~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+大家，我们现在算是一个整体，所以谁都不可以拖对方的后腿哦~？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+我会为大家制订详细的训练日程的，请大家也按照日程计划认真练习。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+呵呵~希望大家为了那个愿望都能拼尽全力呢，不然可就要被对手抢先了~<br>
+这种有趣的奖励，我可不想让她们几个拿到啊……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不同的“战术”|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{{AF|大凤}}(μ兵装)：</span><br>
+{{AF|大凤}}都说了……只要足够热烈就好了！<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+这种粗暴的模式怎么能行得通！对方肯定也会做充分准备的！<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+zZZZ……拉菲，先睡了……<br>
+<span style="color:#4eb24e;">宁海：</span><br>
+{{AF|博伊西}}，你要不要吃口包子？是刚刚出炉的哦~<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+呼~哈~谢、谢谢……<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+……<br>
+明明是在商讨属于舞台上的风格战术，现在的局面却变得……<br>
+真是一点也不优雅！<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+可是这样不也挺好的嘛？热热闹闹的~偶像就是应该带来活力的嘛~！<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+你说的对，鲁莽……<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+就是说嘛~我觉得这才是我们的特色哦~！<br>
+活泼、欢快，带来希望~这就是属于我们「 Cyanidin」的鲜活的生命力哦！<br>
+啊哈哈……虽然「青组」的大家好像和我们的组合理念有点微妙的出入……<br>
+但是也没什么关系哦，原原本本呈现自己的最鲜活的状态，或许才是Live中最重要的~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=舞台前的考验|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+港区·指挥室<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+猜猜我是谁~？<br>
+<br>
+正在伏案工作时，一双手从身后蒙住了我的双眼。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+圣哈辛托，今天是你来送文件么？<br>
+<br>
+在我说出她的名字后，眼前的“禁锢”也应声而解。<br>
+<span style="color:#4eb24e;">圣哈辛托：</span><br>
+哎呀，指挥官真是无趣，这种时候明明应该多猜几次呢~<br>
+不过算你答对咯，今天确实是由我来送文件~♪<br>
+这是「青组」和「红组」近期的场地使用报告~指挥官要不要先看一下？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。我拟好主持人名单就来看。<br>
+<span style="color:#4eb24e;">圣哈辛托：</span><br>
+主持人？不是一直都是{{AF|明石}}么~？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+这次会为「青组」和「红组」各自搭建一个舞台，所以除了{{AF|明石}}这个总主持以外，还需要两名。<br>
+<span style="color:#4eb24e;">圣哈辛托：</span><br>
+让我看看~嗯……「红组」主持人{{AF|哈尔滨}}，「青组」主持人萨拉托加。<br>
+欸~原来已经定好了啊，还以为会有把我的名字加上去的机会呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？你很想做主持人么？<br>
+<span style="color:#4eb24e;">圣哈辛托：</span><br>
+那倒没有哦~只是觉得当主持人的话说不定能有更多和指挥官待在一起的可能性而已~♪<br>
+啊，说到这个，我想起来这次的比赛机制好像有一个漏洞呢——<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+像现在这个比赛机制，只是看我们和我们各自招募到的人选的舞台Live，并单独打分……<br>
+最后合并一起看总数比高低。<br>
+如果在这个过程里，对方的大组成员因为一些“意外”无法按时登台Live的话，<br>
+那我们不就稳赢了么~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+哈？这种做法也太有失淑女的礼仪了吧，可畏要拒绝！<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+别着急嘛，皇家的大小姐，我可没说过要这么做哦~？<br>
+我只是在告知大家这个比赛规则的漏洞而已。<br>
+不过……我们不这么做，就不知道对方会不会这么做了呢。<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+虽然这规则有漏洞可钻，但这种事未免也太不优雅了。<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+是呀是呀，而且指挥官会提出这样的新规则，一定也是为了让大家好好相处~<br>
+大家一起享受舞台才是这次的核心哦！<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+那个……为了不辜负指挥官的心意……我们还是通过Live击败对手吧……<br>
+<span style="color:#4eb24e;">{{AF|罗恩(μ兵装)}}：</span><br>
+嗯~放心好了，就算是需要击溃的“敌人”，我也会给予相应的尊重的哦。<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+想要不动声色让对方减员不是做不到，但……<br>
+<span style="color:#4eb24e;">{{AF|大凤}}(μ兵装)：</span><br>
+呵呵呵，{{AF|大凤}}可绝对不会做让指挥官大人伤心的事哦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=大幕拉开|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+港区·大会海域<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+大家期待的港区大型Live终于又召开了喵~！我是本次担任总主持人的{{AF|明石}}喵！<br>
+为什么说是总主持人呢——因为本次还有两位小组主持人和{{AF|明石}}一起主持喵~<br>
+相信大家也注意到了此次和以往大不相同的舞台结构喵！<br>
+所以两位小组主持人会分别在不同的舞台进行控场和协助主持喵~！<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+锵锵，「青组」主持人萨拉托加闪亮登场~<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+还有我，本次被选中成为「红组」主持人的{{AF|哈尔滨}}。<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+本次的舞台就交给可爱的萨拉妹妹和飒爽的{{AF|哈尔滨}}为大家解说吧~<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+事不宜迟，就让我们欢迎双方选手入场吧！<br>
+首先是「红组」的领军组合——「Alizarin」！<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+（哼哼~可畏在上台之前可是好好有练习过表情管理，绝对能好好呈现C位的魅力的！）<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+你好像很开心？<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+当然了，毕竟是要在这么大的舞台上展现属于可畏的魅力呢~<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+作为C位有这样的心态是好事呢，但也不要忘记组合间的配合哦？<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+这点可畏当然知道的啦。<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+接下来入场的是来自「青组」的——「 Cyanidin」哦~！<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+哇哦~虽然知道这次会很隆重，但是没想到会是这么大的场面啊！<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+鲁莽，作为我们的Center，你的举止要优雅一点才行。<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+啊！情不自禁就……我会注意的啦！对了，{{AF|博伊西}}，你现在感觉还好么？<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+呼~哈~我、我会努力把其他人当成南瓜的……<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+以上两个组合就是本次参与「μ兵装实验测试」的强力新舰船偶像喵！<br>
+而且，大家熟悉的面孔也在本次回归了喵！相信本次的对抗赛一定比之前还要精彩喵！<br>
+分别是首届最强的组合「Polaris」、爱与毁灭的「Verheerender」，<br>
+慵懒且优雅的「Lumière」，以及闪亮的「Astrum」喵！<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+除了以上这些装备着「μ兵装」的偶像组合，本次也还有其他的舰船偶像参加哦！<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+哈哈哈，是啊！就让我们掌声欢迎东煌姐妹——<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+嗯嗯？这是萨拉妹妹的词哦！<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+毕竟是来自东煌的偶像嘛，偶尔串一下台词也没啥大事吧~<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+糟了喵……开场前的时间没控制好喵！大家快点登场吧喵！<br>
+<br>
+在一片兵荒马乱之中，剩余的选手也悉数登场。<br>
+——由{{AF|Z23}}两人组成的限定组合、伊丽莎白女王、拉菲、独角兽还有哈曼。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+总之！本次的规则就是同时登场进行Live喵！<br>
+会从吸引力、舞台表现等方面综合打分喵~！<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}＆萨拉托加：</span><br>
+各位，加油吧！<br>
+<span style="color:#4eb24e;">众人：</span><br>
+我们是不会输的！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=初次“交锋”|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">谢菲尔德(μ兵装)：</span><br>
+呼……没想到同时登台会这么累。<br>
+想要抢占注意力果然不是那么轻松就能做到的事。<br>
+<span style="color:#4eb24e;">克利夫兰(μ兵装)：</span><br>
+哈哈哈，确实如此，不过我反倒是觉得还挺有趣的！<br>
+<span style="color:#4eb24e;">加斯科涅(μ兵装)：</span><br>
+报告，加斯科涅的感情模块产生了活性化。<br>
+加斯科涅，喜欢舞台。<br>
+<span style="color:#4eb24e;">{{AF|希佩尔海军上将(μ兵装)}}：</span><br>
+哈？这种麻烦事你们怎么乐在其中啊……要不是因为那个奖励，我才……<br>
+<span style="color:#4eb24e;">{{AF|赤城(μ兵装)}}：</span><br>
+无论如何，我都不允许「红组」获胜……<br>
+所以不光是我们「Polaris」，其他人登台Live的时候也必须付出双倍的努力才行！<br>
+<span style="color:#4eb24e;">{{AF|大凤}}(μ兵装)：</span><br>
+这种事不用强调{{AF|大凤}}~<br>
+<span style="color:#4eb24e;">{{AF|罗恩(μ兵装)}}：</span><br>
+只要毁掉…啊，不，只要击溃她们就好了呢~<br>
+<span style="color:#4eb24e;">光辉(μ兵装)：</span><br>
+辛苦了，大家。<br>
+对方的实力也还是一如既往地强劲呢……<br>
+<span style="color:#4eb24e;">大青花鱼(μ兵装)：</span><br>
+别担心啦~反正我们也拿出了我们的最高的水平♪<br>
+<span style="color:#4eb24e;">巴尔的摩(μ兵装)：</span><br>
+这次的舞台应该挺成功的吧！大家的反响也不错！<br>
+<span style="color:#4eb24e;">塔什干(μ兵装)：</span><br>
+嗯……塔什干也稍微加油去做了，所以没问题。<br>
+<span style="color:#4eb24e;">黛朵(μ兵装)：</span><br>
+黛朵也是……！一想到是为了最亲爱的主人，所以超常发挥了……！<br>
+<span style="color:#4eb24e;">光辉(μ兵装)：</span><br>
+呵呵，不过再怎么说，我们的Live也已经完成了。<br>
+接下来就看其他人的了……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=帷幕背后|选项=13|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+刚刚同时为我们带来精彩演出的是「Polaris」和「Astrum」！<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+就连我都不知道用眼睛瞅哪边更好了，毕竟双方的表演都是一样的精彩啊！<br>
+话说回来，这种同时进行Live的情况还是第一次吧！<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+没错哦~所以对登台的舰船偶像们也是一种全新的挑战呢。<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+哎，要和对手同时抢关注度，对偶像自己的心态也是个考验。<br>
+一旦自己心态不稳的话，就完犊子咯~<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+是呀，所以绝对不可以动摇！<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+我俩唠了这么久，后面的组合应该准备好了吧？<br>
+<br>
+与此同时，后台——<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+唔，没想到光辉姐姐她们的「Astrum」也没有办法做到游刃有余呢。<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+没关系，我们已经按照计划好好训练过了。<br>
+付出的努力和汗水是不会骗人的。<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+要是紧张的话，不如现在让我来当C位~？<br>
+我可是有绝对的自信不输给她们哦~<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+我才不是紧张呢！而且不输给对方的自信什么的……这种东西可畏也是有的哦！<br>
+等下你可千万不要拖累可畏的后腿！<br>
+<span style="color:#4eb24e;">独角兽：</span><br>
+独角兽会加油的……要让哥哥听到独角兽的歌……<br>
+<span style="color:#4eb24e;">伊丽莎白女王：</span><br>
+本王的魅力肯定能征服全场！<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+Live结束……拉菲就可以去睡觉了……<br>
+<span style="color:#4eb24e;">{{AF|吹雪}}：</span><br>
+{{AF|Z23}}，我们真的不需要一个组合名么？<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+起名字意外地还挺难的呢……<br>
+<span style="color:#4eb24e;">宁海：</span><br>
+平海，开始Live前我们再练习一遍哦！<br>
+<span style="color:#4eb24e;">平海：</span><br>
+知道啦姐姐~<br>
+<span style="color:#4eb24e;">恶毒(μ兵装)：</span><br>
+为，为了之后能尽情休息，我姑且也加把劲吧……<br>
+<span style="color:#4eb24e;">哈曼：</span><br>
+究竟还要再等多久才能出场让指挥官看到哈曼的Live啊！<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+看起来大家都充满了干劲啊！是好事哦！<br>
+{{AF|金刚}}你也放轻松一点笑一个嘛~我们主打的风格可是活力哦！<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+没、没错，要呈现出最完美的状态……哈~<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+嗯……鲁莽、{{AF|博伊西}}，谢谢你们的安慰。<br>
+我会放轻松的……当然，也会拿出不输给对方的Live的！<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+时间差不多了呢~<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}＆萨拉托加：</span><br>
+大家~快把掌声送给即将登台的舰船偶像们吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=平局？|选项=14|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+哎呀，这下有点棘手啊。<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+让萨拉妹妹也来看看~！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼~在经历了各组舰船偶像们拼尽全力的Live之后，目前「红组」和「青组」的比分情况是——<br>
+平局喵！<br>
+现在压力完全来到了最后登台的两个组合身上喵~<br>
+哪一方能取得最终的胜利呢？<br>
+<span style="color:#4eb24e;">{{AF|哈尔滨}}：</span><br>
+——是激进、热烈，充满力量的「Alizarin」？<br>
+<span style="color:#4eb24e;">萨拉托加：</span><br>
+——还是鲜活、元气，暖阳一般的「 Cyanidin」？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+就让我们拭目以待吧喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=共鸣的Passion|选项=15|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+（这歌声里的情感……可畏有好好表现出来吗？）<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+（这里的节奏也不能错，只要按照计划来，一切都没问题。）<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+（我可是有着不能输给她们的理由呢~嗯……接下来再认真一点也无妨~）<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+（哈哈！我们这边也是不会输的哦！）<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+（呼~哈~……这就是站在舞台上的感觉……）<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+（没错……就是这样，要用最优雅的姿态呈现属于我们的偶像魅力呢！）<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+哇哇哇哇、这下又出现了不得了的情况了喵！<br>
+两边的比分……还有「μ兵装」的数据……？！计分器要坏掉了喵！<br>
+<span style="color:#4eb24e;">可畏(μ兵装)：</span><br>
+只要解放出可畏全部的感情，把它们融入在可畏的歌声里就行了！<br>
+礼仪什么的……都不如可畏现在的Live重要！<br>
+（指挥官……这就是最原原本本的可畏……可畏要用这种方式，向你倾诉我的一切……！）<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}(μ兵装)：</span><br>
+呵呵……没错，就这样目不转睛地看着我吧……<br>
+这Live上的舞蹈也好、歌声也好……都是为了你而展现的哦？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+必须要再努力一些……再多传递一些……<br>
+这份感情、这份心意……一定能随着我的歌声，传达到的吧！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+怎、怎么回事喵！「Alizarin」这边的状态突然提升到了夸张的程度喵！<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+{{AF|博伊西}}……认真练习了很久……所以，不会再怕了！<br>
+必、必须献上最完美的演出……！<br>
+<span style="color:#4eb24e;">鲁莽(μ兵装)：</span><br>
+嘿嘿~这场盛大的Live，指挥官有在好好看着吗？<br>
+鲁莽会拼尽全力，带来最最完美和最最梦幻的Live哦~！<br>
+<span style="color:#4eb24e;">{{AF|金刚}}(μ兵装)：</span><br>
+成为偶像的理由……事到如今已经没有必要再用玩笑掩饰了呢。<br>
+没错……就是为了让指挥官记住我在舞台上，最优雅迷人的姿态！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+欸、欸欸？！就连「 Cyanidin」这边也？！<br>
+不不不不好了喵！这样下去的话不光是计分器，就连舞台也要炸掉了喵——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=最后的大奖|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+砰——<br>
+伴随着一声巨响，舞台上那个收集Live的各维度数据，用于输出评分的计分器彻底爆炸了。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+指挥官，这下怎么办喵？<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+计分器居然会爆炸……这下就不好判断谁胜谁负了啊。<br>
+<span style="color:#4eb24e;">马可波罗：</span><br>
+嗯……但是也不能粗暴地下结论说双方平局吧？<br>
+<br>
+'''''<span style="color:black;">选择项1：容我三思</span>'''''<br>
+'''''<span style="color:black;">选择项2：总之先冷静下来去找时光机</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''眼下这个情况，我得好好想想……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''总之回到计分器爆炸之前阻止她们就好！<br>
+<span style="color:#4eb24e;">{{AF|三笠}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''指挥官……莫非你被刚刚的爆炸冲击到了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……我只是想开个玩笑缓和下气氛。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+对了，计分器爆炸之前，她们对μ兵装的使用情况如何？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+无法区分喵……！双方的数据完全一致喵！<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+而且似乎受到了对方的影响，双方所装备的「μ兵装」突然产生了某种奇特的共鸣现象。<br>
+会场内的计分器无法承受这种共鸣带来的成倍的力量增长，所以才会突然爆炸。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来想从利用率上去分胜负不太可能了啊……<br>
+（不过在这种情况下，似乎让谁当第二名都不太合适。）<br>
+（干脆就自掏腰包弥补第一名和第二名之间的差距好了，毕竟让大家玩得开心才是我的初衷。）<br>
+对了{{AF|明石}}，第一名和第二名之间的奖品预算差距是？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵？关于这个……<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+关于这个啊~我让{{AF|明石}}把这件事交给我来做了哦？<br>
+因为其它阵营也都同意了赞助，所以这次第一名和第二名的预算都“格外”充裕呢。<br>
+<br>
+眼前的克莱蒙梭言笑晏晏，但我心中突然萌生了一种不妙的感觉。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+第一名的预算是9999999999999999，而第二名么，是999999999999999……<br>
+因为这近乎无限的预算，所以双方的奖品都可以看做是“一个万能的愿望”呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等？！<br>
+也就是说……参赛的每个人的愿望……我都要实现！？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=尘埃落定之后|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+港区·指挥室<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+指挥官，打扰了——<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+打、打扰了……<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+这里是基于「Alizarin」视角的，本次的「μ兵装」演习实施报告，我已经整理好了。<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+这份是「Cyanidin」的……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+辛苦你们整理了。<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+没、没关系……这本来就是我们该做的……呼~哈~<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+是啊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你们组合里的其他人呢？还在休息么？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+不，可畏是被光辉要求重新学习淑女的礼仪……而{{AF|欧根亲王}}么，好像是在研究那天的共鸣现象。<br>
+<span style="color:#4eb24e;">{{AF|博伊西}}(μ兵装)：</span><br>
+嗯……说到这个……那、那天真是吓了我一跳呢……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（即便是已经进行到第三次实验，我们也没有自己以为的那么了解「μ兵装」的效果啊……）<br>
+（看来以后还要继续进行测试。）<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+说起来，指挥官还要工作多久？时间差不多要到了吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？<br>
+<span style="color:#4eb24e;">{{AF|能代}}(μ兵装)：</span><br>
+没记错的话……等下指挥官就要去实现{{AF|赤城}}的愿望了吧？<br>
+再之后是{{AF|欧根亲王}}，独角兽和哈曼互相调换了顺序……<br>
+唔，再往后的话，光辉那边结束以后就是我了呢。<br>
+还、还有{{AF|博伊西}}和鲁莽是选在晚上……<br>
+<br>
+'''''<span style="color:black;">选择项1：别，别说了——</span>'''''<br>
+'''''<span style="color:black;">选择项2：脑袋好痛……</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''虽然我知道逃避没有用，但是……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''至少现在不要提了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''光是听到这些名字，脑袋就开始痛了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是说……参赛的每个人的愿望……我都要实现！？<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+嗯~不过实现愿望的事情，组委会可以代劳，只不过——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+只不过？<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+要是大家的愿望都是和指挥官有关的话，组委会就算想代劳也没办法了呢……~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（除了拉菲许愿要量身定制的高科技枕头，恶毒许愿想要一年不工作以外……）<br>
+（没想到其他所有人的愿望……都……）<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+呵呵呵……指挥官，{{AF|赤城}}来接你了哦……<br>
+{{AF|赤城}}许下的“约会”的愿望，指挥官应该不会忘的吧？<br>
+<span style="color:#4eb24e;">{{AF|大凤}}：</span><br>
+等等！{{AF|大凤}}还没有和你决定好先后顺序！<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+哈？明明是我先过来找指挥官的！<br>
+<span style="color:#4eb24e;">{{AF|大凤}}：</span><br>
+来得早又怎么样，{{AF|大凤}}的！<br>
+<br>
+两道红色的身影在指挥室中迸发出激烈的争吵。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（在她们决定出先后顺序之前……应该还能再处理一会儿今天的工作吧。）<br>
+<span style="color:#4eb24e;">赤城＆大凤：</span><br>
+指挥官！<br>
+指挥官大人！<br>
+我们决定了！我们三个，一起去约会吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+啊……？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
