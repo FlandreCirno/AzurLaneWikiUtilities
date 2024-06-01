@@ -1,0 +1,446 @@
+== 출항하기 전에 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=시작|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+출항하라, 모항 크루즈<br>
+<br>
+1 시작<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+여보세요~ 리셉션 담당 롱 아일랜드야~ 뭘 도와줄까?<br>
+<br>
+평소보다 더 활기찬 유령 씨, "롱 아일랜드"의 목소리가 들려온다.<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+응~ 알았어~ 바로 전달할게~<br>
+<br>
+나는 어떤 특별 프로젝트를 위해 설립된 임시 사무실 앞에 도착했다.<br>
+그러나 문손잡이에 손을 댄 순간, 이걸 열어야 할지 말지 망설여졌다.<br>
+2주 전, 집무실.<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+지휘관, 올해는 크루즈 여행이라도 떠나는 게 어떤가?<br>
+<br>
+집무실에서 다 함께 올해 휴가 계획에 대해 이야기 하고 있는데, 하얼빈이 갑자기 제안을 건넸다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――흠… 크루즈 여행이라…<br>
+<br>
+'''''<span style="color:black;">选择项1：좋아! 그걸로 하자!</span>'''''<br>
+'''''<span style="color:black;">选择项2：크루즈는 왜?</span>'''''<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''하하하! 지휘관, 역시 뭘 아는군!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''제안한 건 나니까, 우선은 다들 납득이 가도록 내가 설명하지.<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+크루즈선은 대인원으로 이동할 수도 있고, 내부에는 서비스 시설이 들어서 있어서 쾌적하게 보낼 수 있잖은가?<br>
+게다가 속력도 너무 빠르지 않아 느긋하게 여행을 즐길 수 있고.<br>
+무엇보다 모항과는 분위기가 확연하게 달라진다는 장점이 있지.<br>
+환경이 바뀌면 평소 익숙한 동료들과의 대화도 더욱 활기를 띨 거고, 신선한 경험을 할 수 있을 거다.<br>
+물론 집무실이나 회의실도 병설할 수 있으니까 업무도 소홀하지 않게 처리할 수 있지.<br>
+<span style="color:#4eb24e;">운젠：</span><br>
+그렇군요… 확실히 그렇게 휴가를 보내는 것도 괜찮을 것 같아요.<br>
+<span style="color:#4eb24e;">사카와：</span><br>
+다 같이 배를 타고 여행한다니, 왠지 수학여행 같은 느낌도 드네요.<br>
+<span style="color:#4eb24e;">퍼시어스 ：</span><br>
+……지휘관의 이동식 모항 같은 건가?<br>
+<span style="color:#4eb24e;">뉴저지：</span><br>
+뭐, 나쁘지는 않지만 다들 평소에도 여기저기 잘 다니잖아? 여행이라고 해도 뭔가 딱 느낌이 안 오네.<br>
+모처럼 휴가인데 정처 없이 바다를 떠도는 건 좀…<br>
+<span style="color:#4eb24e;">비토리오 베네토：</span><br>
+아닙니다. "항행"하는 것과 크루즈로 "여행"하는 건 전혀 달라요.<br>
+애초에 크루즈선은 "여행"을 즐기려는 목적으로 설계된 것으로, 아늑하고 호화로운 공간에서 지낼 수 있도록 만들어지죠.<br>
+승선감도 전투용으로 설계된 양산함과는 차원이 달라요.<br>
+<span style="color:#4eb24e;">파먀티 메르쿠리야 ：</span><br>
+아, 맞다! 여행지는 지난번에 발견한 무인도로 하는 게 어때?<br>
+분명 공들여서 지은 리조트 시설이 있었지?<br>
+<span style="color:#4eb24e;">얏센 ：</span><br>
+게다가 그곳에는 교통수단만 확보된다면 가볼 수 있는 곳이 많아요.<br>
+구체적인 계획을 세울 때 다시 이야기를 나누면 좋을 것 같네요.<br>
+<span style="color:#4eb24e;">앵커리지：</span><br>
+크루즈… 앵커리지, 탈래!<br>
+<span style="color:#4eb24e;">체셔 ：</span><br>
+체셔도 크루즈선이 괜찮은 것 같아~ 안 그래? 서방님♪<br>
+<span style="color:#4eb24e;">브리스톨：</span><br>
+크루즈선이라… 미스터리한 사건이 일어날 것 같아!<br>
+방금까지는 없었던 계단에 갑자기 나타난 객실… 그리고 복도에는 낯선 발자국이…!<br>
+후후, 심장이 두근거리는걸!<br>
+<span style="color:#4eb24e;">푸슌 ：</span><br>
+크루즈 대모험이다!<br>
+<span style="color:#4eb24e;">페이윈：</span><br>
+크루즈 대모험이야!<br>
+<span style="color:#4eb24e;">알바코어：</span><br>
+크루즈에서 기묘한 모험이다~!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――왠지 다들 크루즈로 마음이 기운 모양인데?<br>
+――그럼, 하얼빈이 제안한 크루즈로 정하자!<br>
+<span style="color:#4eb24e;">리슐리외 ：</span><br>
+말씀 도중에 죄송합니다만… 사실, 문제가 하나 있습니다.<br>
+지금 모항에는 쓸 수 있는 "크루즈선"이 없습니다…<br>
+<span style="color:#4eb24e;">퀸 엘리자베스：</span><br>
+그럼 내가 빌려줄 수도 있는데? 지금 바로 한 척 가져오라고 할까?<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+그게 사실 나도 처음에는 현물을 사들이려고 했는데…<br>
+생각하면 할수록 그냥 단순히 매입하는 걸로는 무언가 모자랄 것 같더라고.<br>
+현물을 매입하면 설비를 준비하는 수고야 덜겠지만, 모든 모항 사람의 요구에 부응하기는 힘들 테지.<br>
+그래서 말인데, 우리 힘으로 크루즈를 준비하는 게 어떤가?<br>
+<span style="color:#4eb24e;">뉴저지：</span><br>
+굿 아이디어!<br>
+<span style="color:#4eb24e;">리슐리외 ：</span><br>
+그렇군요. 모처럼의 휴가니 확실히 우리 힘으로 준비하는 편이 확실할 것 같습니다.<br>
+<span style="color:#4eb24e;">클레망소：</span><br>
+후후후, 덤으로 내 "재미있는 아이디어"도 추가할 수 있겠어.<br>
+<span style="color:#4eb24e;">퀸 엘리자베스：</span><br>
+딱히 상관없어. 하인 생각은 어때?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――모항의 조선 기술과 자원을 고려하면 확실히 우리 스스로 크루즈선을 준비하는 편이 좋을지도 몰라. 가지고 있는 것들을 이용하면 비용도 절약할 수 있겠지.<br>
+<br>
+'''''<span style="color:black;">选择项1：좋아, 결정이다.</span>'''''<br>
+'''''<span style="color:black;">选择项2：크루즈선을 만들어보자!</span>'''''<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+잠깐! 딱 하나만 더 재미있는 제안을 해도 될까?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――재미있는 제안? 그게 무슨…?<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+모항의 기술력만 있다면 크루즈선을 준비하는 것 정도야 쉽지 않겠는가?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그건 그렇지만…?<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+그리고 지금 모항의 자금력… 휴가 예산이 있으면 크루즈선을 만드는 것도 간단하지?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그…런데?<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+그래서 말인데, 이번 크루즈 건은 비밀리에 진행했으면 하는데… 어떤가?<br>
+진행 상황에 대한 자세한 내용은 준비에 관련된 사람 말고는 모두에게 비밀로 하고 싶군. 지휘관도 마찬가지고.<br>
+그래야 완공 시의 즐거움도 배가 되지 않겠는가?<br>
+어떤가? 우리의 서프라이즈 이벤트, 기다려 볼 텐가?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――재밌을 것 같으니… 좋아!<br>
+<span style="color:#4eb24e;">하얼빈：</span><br>
+그래! 그럼 결정이군! 진수하는 날까지는 절대 훔쳐보기 금지다! 누구에게 물어보는 것도 마찬가지고!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그러기로 했었지.<br>
+――얏센, 엘리자베스, 리슐리외, 베네토가 준비 총괄위원회를 결성해서 크루즈선 건조부터 크루즈 계획까지 전반적인 준비를 담당하게 됐어.<br>
+――물론 준비 과정 그 자체에 불안함을 느끼는 건 아니야…<br>
+――그런 건 아니지만…… 으으으……<br>
+――음, 역시 그냥 집무실로 돌아가자. 아직 업무가 남아있기도 하니.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=믿음직한 접대원?|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+출항하라, 모항 크루즈<br>
+<br>
+2 믿음직스러운 문의 담당?<br>
+"크루즈 준비회"… 그 문 앞까지 오고 말았다.<br>
+밤새 골똘히 생각한 끝에 호기심을 채우려는 욕망과 약속을 지키려는 양심의 갈등 속에서 겨우 절충안을 찾을 수 있었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――문 너머로 살짝 귀를 기울이는 정도라면… 약속을 어기는 건 아니겠지?<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+하아… 피곤해… 일 열심히 하는 척하는 것도 이젠 한계야~<br>
+지휘관이 분명 못 참고 상황을 보러 올 거라고 엠덴이 그러긴 했지만…<br>
+봐, 안 오잖아~ 괜히 열심히 하는 척했네~<br>
+시늉만 해도 지치기는 한다구~<br>
+휴우… 그럼, 지금부터는 땡땡이치기 시작~<br>
+음흠흠♪ 어떤 게임으로 할까~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+아… 업무 전화잖아…<br>
+안녕, 총무 담당 롱 아일랜드야~ 무슨 도움이 필요해?<br>
+응응, 크루즈 설비위원회에서 질문을… 응! 알았어~<br>
+음… 잠깐 기다려 봐~ 총괄위원회에 물어볼게~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+찰칵<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+휴우… 좋아, 계속 게임해야지~<br>
+<br>
+잠시 후…<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+아… 또 업무 전화가…<br>
+안녕, 총무 담당 롱 아일랜드야~ 무슨 도움이 필요해?<br>
+음…… 뭐? 크루즈 설비위원회? 아… 질문은……<br>
+응! …그래! 답변은 이미 받았어~<br>
+"예산 상황은 문제없으니 마음껏 해도 괜찮다"라고 하더라~<br>
+선상 정원, 선상 수영장, 상점, 대극장… 다 괜찮대~<br>
+사르데냐 엠파이어식 대욕탕…? 응응, 괜찮아~<br>
+…어느 정도까지 크게 만들어도 되냐고? 하고 싶은 만큼 마음껏 해~<br>
+수족관…? 응응, 괜찮아~<br>
+아무튼 다 괜찮아~<br>
+그럼, 안녕~ 궁금한 게 있으면 언제든 전화해~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+찰칵<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+후우… 이 정도는 누워서 떡 먹기지. 그럼 계속해서 게임이나 해볼까~<br>
+<br>
+……문에서 귀를 뗐다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……?!<br>
+――롱 아일랜드…… 근무 중에 게임이나 하고, 게다가 업무도 이런 식으로 대충 처리를…<br>
+――보아하니 총괄위원회에 한 마디 물어보지도 않고 적당히 둘러대는 것 같은데…<br>
+――이거… 크루즈 준비가 무사히 끝날지 걱정이네……<br>
+<br>
+크루즈 준비가 착착 진행되고는 있지만, 이런 상황을 접하니 역시 불안감을 억누를 수 없다.<br>
+그렇다고 하얼빈과 약속까지 한 마당에 직접 눈으로 확인하러 가는 것도 불가능한 상황…<br>
+그렇지만 뭐라도 해야 할 것 같은데……<br>
+<br>
+'''''<span style="color:black;">选择项1：땡땡이치는 유령 씨를 응징한다</span>'''''<br>
+'''''<span style="color:black;">选择项2：유령 씨의 노력을 칭찬한다</span>'''''<br>
+'''''<span style="color:black;">选择项3：역시 집무실로 돌아간다</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――근무 중에 게임을 하다니…… 좋아.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――롱 아일랜드의 계정은 분명…… 찾았다.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''TB에게 지시를 내려 롱 아일랜드에게 "대전할 맛이 나는" 상대를 매칭시켰다. 그렇게 게임이 하고 싶다면, 아주 마음껏 즐길 수 있도록 해주마.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''으아… 또 졌잖아!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''어떻게 된 거야… 이 게임 CPU… 이렇게 강했었나?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''으으… 벌써 퇴근 시간이네…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''계속 지기만 해서 힘들어… 어서 퇴근해야지…!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아니, 혼자 책상에서 업무를 보는 게 쉽지는 않지. 땡땡이도 치고 싶어지는 게 당연하다. <br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――롱 아일랜드의 계정은 분명…… 찾았다.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''TB에게 지시를 내려 롱 아일랜드의 계정에 보너스 아이템을 대량으로 배포했다. 기왕 게임을 하는 거니, 최대한 즐길 수 있도록 도와줘야지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''우편함이 꽉 찼네… 무슨 일이지?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''버그 정정… 버그 수정 알림 및 사죄 공지… 버그 수정 후 발생한 버그 정정… 버그 수정 후에 발생한 버그 수정 알림 및 사죄 공지…?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''…헉! 이건 설마… 땡땡이의 신이 오늘 하루 땡땡이친 유령 씨에게 내려주는 보상…?!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''에헤헤~ 신난다! 마침 퇴근할 시간이네. 알차고 즐거운 하루였어~ 업무 끝~!<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''후우… 게임 재밌었다~<br>
+'''''<span style="color:black;">（选择项3）</span>'''''오늘 하루도 땡땡이 잘 쳤네~<br>
+'''''<span style="color:black;">（选择项3）</span>'''''어라? 시간이 벌써 이렇게 됐네? 좋아, 퇴근이다, 퇴근~!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=호기심 자극|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+출항하라, 모항 크루즈<br>
+<br>
+3 호기심 자극<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+흐아아아암… 빨리 퇴근하고 싶어……<br>
+으으… 업무 시간은 왜 이렇게 빠른 거야~<br>
+뭐, 상관없어. 만화라도 읽으면서 두뇌 단련이나 해야지~<br>
+<br>
+"크루즈 준비회"… 다시 그 문 앞까지 오고 말았다.<br>
+문 너머로 롱 아일랜드의 당당한 땡땡이 선언이 들린다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――오늘은 만화…? 일단은 귀를 기울여 보자.<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+엥… 지금 딱 재밌는 부분인데~<br>
+꼭 이럴 때만 골라서 전화가 온다니까~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+안녕, 총무 담당 롱 아일랜드야~ 무슨 도움이 필요해?<br>
+응응, 인테리어 준비위원회에서 질문을… 응! 알았어~<br>
+음, 조금만 기다려~ 총괄위원회에 물어볼게~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+찰칵<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+휴우… 그럼 계속해서 읽어볼까~<br>
+<br>
+잠시 후…<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+안녕, 총무 담당 롱 아일랜드야~ 무슨 도움이 필요해?<br>
+음…… 뭐? 크루즈 설비위원회? 아… 질문은……<br>
+응! …그래! 답변은 이미 받았어~<br>
+음… "크루즈 선내 공간은 충분하니 어떤 가구든 마음껏 설치해도 되고, 통일감은 고려하지 않아도 괜찮다"라고 하더라~<br>
+그래, 맞아. 어떤 느낌이든 괜찮아~<br>
+객실 구역도 꼭 같은 느낌으로 맞추지 않아도 돼~<br>
+연회실은 클래식한 느낌으로 화려하게…? 뭐, 딱히 상관없어~<br>
+그 옆에 있는 댄스홀은 모던하고 세련되게…? 당연히 괜찮지~<br>
+어쨌든 어떤 느낌이든 마음대로 해도 괜찮아!<br>
+그럼, 안녕~ 궁금한 게 있으면 언제든 전화해~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+찰칵<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+휴우~ 끝났다~ 그럼, 계속해서 읽어야지~<br>
+<br>
+……문에서 귀를 뗐다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――흠, 여전히 업무를 대충 처리하고 있군.<br>
+<br>
+크루즈 준비가 착착 진행되고는 있지만, 이런 상황을 또 접하니 역시 불안감을 억누를 수 없다.<br>
+그렇다고 하얼빈과 약속까지 한 마당에 직접 눈으로 확인하러 가는 것도 불가능한 상황…<br>
+그렇지만 뭐라도 해야 할 것 같은데……<br>
+<br>
+'''''<span style="color:black;">选择项1：땡땡이치는 유령 씨를 응징한다</span>'''''<br>
+'''''<span style="color:black;">选择项2：유령 씨의 노력을 칭찬한다</span>'''''<br>
+'''''<span style="color:black;">选择项3：역시 집무실에 돌아간다</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――어제는 게임… 오늘은 근무시간에 대놓고 만화책을 보다니…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그런 나태한 유령 씨는… 응징해야지……!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''문을 몰래 열고 안으로 들어가, 롱 아일랜드가 읽던 만화책의 다음 권을 숨겼다.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''우와, 설마 이렇게 흘러갈 줄이야… 사건이 어떻게 해결되려고 그러지~? 에헤헤, 그럼 다음 권을…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……어라? 없잖아? 다음 권이 어디 갔지……?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''으아아아?! 분명히 있었는데!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아니, 혼자 책상에서 업무를 보는 게 쉽지는 않지. 땡땡이도 치고 싶어지는 게 당연하다. <br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――만화책을 읽고 싶은 모양이니, 더 많이 읽을 수 있게 가져다주자!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''문을 몰래 열고 안으로 들어가, 방구석에 만화책을 가득 가져다 놓았다.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''후우…… 재밌었다~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''음… 너무 만화책만 읽었나? 그래도 역시 조금은 일을 하는 편이……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''응? 아까는 못 본 만화책이…… 어디서 튀어나온 거지…?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''…헉! 이건 설마… 땡땡이의 신이 오늘 하루 땡땡이친 유령 씨에게 내려주는 보상…?!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''에헤헤~ 그럼 퇴근 시간까지 계속 읽어야지~<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''후우…… 재밌었다~<br>
+'''''<span style="color:black;">（选择项3）</span>'''''오늘 하루도 땡땡이 잘 쳤네~<br>
+'''''<span style="color:black;">（选择项3）</span>'''''어라? 시간이 벌써 이렇게 됐네? 좋아, 퇴근이다, 퇴근~!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=노력한 자신에게 주는 보상|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+출항하라, 모항 크루즈<br>
+<br>
+4 노력한 자신에게 주는 보상<br>
+"크루즈 준비회"… 다시 그 문 앞까지 오늘도 오고야 말았다.<br>
+문 너머에서는 아직 아무 소리도 들리지 않는다.<br>
+틈새로 살짝 들여다보니 테이블에는 과자가 한가득 놓여 있었다.<br>
+그리고 총무를 담당하는 유령 씨는…… 테이블에 엎드려 꿈나라로 여행을 떠난 듯하다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――오늘은 과자를 잔뜩 먹고 낮잠 자면서 땡땡이를 치는 건가…?<br>
+――빈 과자 상자로… 크루즈 선을 만든 건가?<br>
+――업무 태도는 여전히 불성실하지만, 크루즈 여행 자체는 기대하고 있는 것 같네.<br>
+――아무리 그래도 큰 사고는 치지 않겠지…라고 생각하고 싶다…<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+쿨쿨…<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르르르르르르릉――<br>
+따르르르르르르르르르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+흐아아암… 으앗, 큰일이다! 과자를 너무 먹어서 잠들었나봐…!<br>
+안녕, 총무 담당 롱 아일랜드야~ 무슨 도움이 필요해?<br>
+……? 물자준비위원회…? 응, 질문에 대한 답은 이미 들었어~<br>
+음~ "화물 공간은 충분히 넓으니까 가지고 가려는 식재료는 다 실어도 된다"고 하던데~<br>
+응응, 다 가져와도 괜찮아~<br>
+그래! 사르데냐 엠파이어, 이글 유니온, 아이리스, 이스트 글림, 노스 유니온, 사쿠라 엠파이어, 메탈 블러드……<br>
+……응? 로열 네이비 식재료가 빠졌다고?<br>
+아…… 로열 네이비는 디저트 재료만 가지고 오면 된대~<br>
+총괄위원회에서 그랬어~<br>
+어쨌든 뭘 가져오든, 얼마나 가지고 오든 괜찮다는 거야~<br>
+그럼, 안녕~ 궁금한 게 있으면 언제든 전화해~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+따르르르르릉――<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+안녕, 총무 담당 롱 아일랜드야~ 무슨 도움이 필요해?<br>
+……지휘관 방에 대한 보안 대책?<br>
+……음, 굳이 준비해야 해?<br>
+음…… 어차피 크루즈 선에는 모항 사람들만 탈 거잖아?<br>
+응? …"그러니까 더 문제"라고? 그게 무슨 말이야?<br>
+아하… 그럼, 유령 씨…가 아니라 총괄위원회도 그 의견이 타당한 것 같대~!<br>
+지휘관 방에는 최고 수준의 보안 설비를 설치해 줬으면 해!<br>
+……방폭문? 그래, 당연히 필요하지! 최고 수준의 보안 설비니까 방폭문은 필수야!<br>
+……경비실? 그래, 당연히 필요하지! 최고 수준의 보안 설비니까 경비실도 필수야!<br>
+……탄약고? 그래, 당연히 필요하지! 최고 수준의 보안 설비니까 탄약고도 갖춰야지!<br>
+아무튼 지휘관의 안전을 지키기 위해서라면 뭘 만들어도 좋아~!<br>
+그럼, 안녕~ 궁금한 게 있으면 언제든 전화해~<br>
+<span style="color:#4eb24e;">전화：</span><br>
+찰칵<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+휴우, 오늘은 일이 많네~ 그래도 이걸로 또 한 건 마무리됐어~<br>
+잠도 완전히 깼으니… 또 과자나 먹어볼까~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――이거이거, 결국은 사고를 치고 마네…<br>
+――지금 분명… 크루즈선을 준비하는 거 맞지?<br>
+――그런데 왜 "탄약고"가 필요한 건데…<br>
+<br>
+크루즈 준비가 착착 진행되고는 있지만, 오늘도 이런 상황을 또 접하니 역시 불안감을 억누를 수 없다.<br>
+그렇다고 하얼빈과 약속까지 한 마당에 직접 눈으로 확인하러 가는 것도 불가능한 상황…<br>
+그렇지만 뭐라도 해야 할 것 같은데……<br>
+<br>
+'''''<span style="color:black;">选择项1：땡땡이치는 유령 씨를 응징한다</span>'''''<br>
+'''''<span style="color:black;">选择项2：유령 씨의 노력을 칭찬한다</span>'''''<br>
+'''''<span style="color:black;">选择项3：역시 집무실에 돌아간다</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그저께는 게임, 어제는 만화, 그리고 오늘은 뭐…?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――이건 그냥 봐줄 수준이 아니야! 이렇게 땡땡이나 치는 유령 씨에게는… 응징을…!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''문을 살짝 열고 안에 들어가 냉장고의 산소 콜라를 송두리째 철거했다.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''음… 과자를 먹다 보니 목이 텁텁하네~ 산소 콜라나 마셔볼까~<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……엥? 없잖아?! 어떻게 된 거지……?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''냉장고 안에 있던 산소 콜라가 몽땅 사라졌어!!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''으아앙~~ 이게 뭐야~~!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아니, 혼자 책상에서 업무를 보는 게 쉽지는 않지. 땡땡이도 치고 싶어지는 게 당연하다. <br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――과자를 좋아하는 것 같으니까, 더 주면 더 좋아하겠지!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''문을 살짝 열고 안으로 들어가, 방구석에 냉장고 한 대를 두고 간식과 음료로 잔뜩 채웠다.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''음… 과자를 먹다 보니 목이 텁텁하네~ 산소 콜라나 마셔볼까~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……엥? 없잖아?! 어떻게 된 거지……?!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''간식이 이렇게나 많이… 새로운 냉장고까지?! 대체 어디서 튀어나온 거야…?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''…헉! 이건 설마… 땡땡이의 신이 오늘 하루 땡땡이친 유령 씨에게 내려주는 보상…?!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''역시 뭐든 열심히 하면 보답받는 법이지!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''에헤헤~ 다음은 뭘 마셔볼까~<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''잠시 후…<br>
+<span style="color:#4eb24e;">롱 아일랜드：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''음… 과자를 먹다 보니 목이 텁텁하네~ 산소 콜라나 마셔볼까~<br>
+'''''<span style="color:black;">（选择项3）</span>'''''후우~ 상쾌하다~!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''흐암… 졸려…<br>
+'''''<span style="color:black;">（选择项3）</span>'''''조금 있으면 퇴근이네… 한 번 더 자야지…<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=크루즈 출항 전|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+출항하라, 모항 크루즈<br>
+<br>
+5 크루즈 출항 전<br>
+"크루즈 준비회"… 다시 그 문 앞까지 오늘도 오고야 말았다.<br>
+귀를 바싹대려는 순간, 문이 왈칵 열렸다.<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+후후후, 오늘도 몰래 들으러 온 건가요? 인간 씨?<br>
+<br>
+'''''<span style="color:black;">选择项1：엠덴? 언제부터 그걸…?</span>'''''<br>
+'''''<span style="color:black;">选择项2：직접 물어보지는 않았으니까 괜찮아!</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''귀여운 인간 씨가 처음으로 집무실에서 나왔을 때부터죠♪ "후후후, 그걸 눈치 못 채면 바보지."<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''"그래그래, 그렇다고 해~" 어머, 귀여운 인간 씨치고는 똑똑한 변명이네요♪<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+그렇지만 걱정하지 말아요. 롱 아일랜드는 아직 인간 씨가 여기 있다는 걸 모르니까요.<br>
+롱 아일랜드도 나름 "성실하게" 일하기는 했어요. "그래, 자기 기준에서는 말이지."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――설마… 내가 올 걸 예상하고 롱 아일랜드를 여기 배치한 거야?<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+"후후후, 지금 상황을 보면 알잖아?" 너무 궁금해서 못 참을 지경이 되어도 모두와 한 약속을 저버리지는 못했겠죠.<br>
+그래서 이렇게 몰래 들으면서 정보를 수집하고 있던 거죠?<br>
+그러라고 롱 아일랜드를 여기 배치해서 인간 씨가 몰래 들을 수 있게 한 거랍니다♪ "반응이 정말 귀엽네, 인간."<br>
+걱정하지 말아요, 인간 씨. 롱 아일랜드가 전화로 이야기한 내용은 모두 총괄위원회의 심사를 거치게 되어 있으니까요.<br>
+그러면서 얼토당토않은 아이디어는 날려버리고요♡ "재밌는 아이디어는 남기지♥"<br>
+인간 씨, 기대하고 계세요♡<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――어떤 아이디어가 통과되는 거지…? 혹시…<br>
+<br>
+'''''<span style="color:black;">选择项1：……선상 정원?</span>'''''<br>
+'''''<span style="color:black;">选择项2：……선상 수족관?</span>'''''<br>
+'''''<span style="color:black;">选择项3：……방폭문?!</span>'''''<br>
+'''''<span style="color:black;">选择项4：……탄약고?!</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+후후후♡ 약속은 약속이랍니다. 귀여운 인간 씨가 아무리 간청해도 아무것도 알려줄 수 없어요. "서프라이즈의 즐거움을 위해 참아달라는 거, 잊은 건 아니지?"<br>
+그것보다 진수 전에 인간 씨에게 묻고 싶은, 중요한 게 하나 있어요.<br>
+크루즈선 이름은 정하셨나요?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

@@ -1141,7 +1141,7 @@ NA海域のセイレーンのものだけならまだしも、残骸の規模を
 あー、じゃあ話はこれで<br>
 全弾発射準備。アビータ、Auf Wiedersehen…！<br>
 <br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 攻撃効果、計算より7.3%の低下を確認。有意義な数値<br>
 <span style="color:#ff9900;">アーク・ロイヤル(META)：</span><br>
 飛龍、私の武器システムがジャミングされた。少しの間援護は任せる！<br>
@@ -1165,16 +1165,16 @@ NA海域のセイレーンのものだけならまだしも、残骸の規模を
 <span style="color:#4eb24e;">エセックス：</span><br>
 でも向こうのアビータの実力は底が見えないです。気を抜いたら勝てないとかそれ以前に、気を抜かなくても私たちだけじゃ勝てないですね<br>
 「余燼」が警戒しているだけの実力があるのは確かです…！<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 実験対象の艦隊は予測値以上の戦力を発揮。有意義な情報と判断<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 テストボディの調整確認は済んでいる<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 テストボディの予測推定値との差異がある。…有意義な情報と判断<br>
 ストレングス、重力場の環境の変更を<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 提案受領した<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 連携ジャミングシステムIX=VIII、起動<br>
 <br>
 <span style="color:#ff9900;">アーク・ロイヤル(META)：</span><br>
@@ -1214,11 +1214,11 @@ NA海域のセイレーンのものだけならまだしも、残骸の規模を
 <br>
 そうだ。今は仲間として共通の敵を倒そうとしているのだ……！<br>
 <br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変更。余燼の戦力回復を阻止する<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 提案了承。連携ジャミングシステムをIX=VIIIからVIII=IXへ変更し、機動力を重点的に抑える<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 連携ジャミングシステムVIII=XIV、起動。後方艦隊の緊急補修を阻止する<br>
 <br>
 <span style="color:#ff9900;">飛龍(META)：</span><br>
@@ -1226,12 +1226,12 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 <span style="color:#ff9900;">アーク・ロイヤル(META)：</span><br>
 分かってる！雑魚は私に任せて——<br>
 <br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 戦術連携モジュール起動完了。敵性体の攻撃、一手及ばず<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 連携ジャミングシステムIX=XIV、起動<br>
 <br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 自動修復機能、作動<br>
 <span style="color:#4eb24e;">エセックス：</span><br>
 潜水艦たちが与えたダメージが見る見るうちに修復されました！<br>
@@ -1239,7 +1239,7 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 ストレングスだけじゃない、他二体のアビータも同じく修復を始めました…！<br>
 <span style="color:#4eb24e;">エセックス：</span><br>
 これって…アビータ全員が修復システムを備えているってこと？<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 実験対象によるアビータボディへの認識の欠如を確認<br>
 ……戦闘を継続する。圧倒する<br>
 <br>
@@ -1476,7 +1476,7 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 あー、じゃあ話はこれで<br>
 全弾発射準備。アビータ、Auf Wiedersehen…！<br>
 <br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 攻撃効果、計算より7.3%の低下を確認。有意義な数値<br>
 <span style="color:#ff9900;">アーク・ロイヤル(META)：</span><br>
 飛龍、私の武器システムがジャミングされた。少しの間援護は任せる！<br>
@@ -1500,16 +1500,16 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 <span style="color:#4eb24e;">エセックス：</span><br>
 でも向こうのアビータの実力は底が見えないです。気を抜いたら勝てないとかそれ以前に、気を抜かなくても私たちだけじゃ勝てないですね<br>
 「余燼」が警戒しているだけの実力があるのは確かです…！<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 実験対象の艦隊は予測値以上の戦力を発揮。有意義な情報と判断<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 テストボディの調整確認は済んでいる<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 テストボディの予測推定値との差異がある。…有意義な情報と判断<br>
 ストレングス、重力場の環境の変更を<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 提案受領した<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 連携ジャミングシステムIX=VIII、起動<br>
 <br>
 <span style="color:#ff9900;">アーク・ロイヤル(META)：</span><br>
@@ -1549,11 +1549,11 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 <br>
 そうだ。今は仲間として共通の敵を倒そうとしているのだ……！<br>
 <br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変更。余燼の戦力回復を阻止する<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 提案了承。連携ジャミングシステムをIX=VIIIからVIII=IXへ変更し、機動力を重点的に抑える<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 連携ジャミングシステムVIII=XIV、起動。後方艦隊の緊急補修を阻止する<br>
 <br>
 <span style="color:#ff9900;">飛龍(META)：</span><br>
@@ -1561,12 +1561,12 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 <span style="color:#ff9900;">アーク・ロイヤル(META)：</span><br>
 分かってる！雑魚は私に任せて——<br>
 <br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 戦術連携モジュール起動完了。敵性体の攻撃、一手及ばず<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 連携ジャミングシステムIX=XIV、起動<br>
 <br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 自動修復機能、作動<br>
 <span style="color:#4eb24e;">エセックス：</span><br>
 潜水艦たちが与えたダメージが見る見るうちに修復されました！<br>
@@ -1574,7 +1574,7 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 ストレングスだけじゃない、他二体のアビータも同じく修復を始めました…！<br>
 <span style="color:#4eb24e;">エセックス：</span><br>
 これって…アビータ全員が修復システムを備えているってこと？<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 実験対象によるアビータボディへの認識の欠如を確認<br>
 ……戦闘を継続する。圧倒する<br>
 <br>
@@ -1634,36 +1634,36 @@ XIV、実験対象の後方艦隊を制圧せよ。VIII、連携モードに変�
 もちろんです<br>
 （エンタープライズの判断が間違ってないことを祈るしかありませんね…）<br>
 ————アンチエックス、これでどうだ！<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 残存戦力のシミュレーションは完了した<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 自身のエネルギーを最大限に引き出す攻撃方法、長時間の持続は不可能<br>
 VIII、撤退を。余燼の反撃により勝利は不可能<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 目標のエネルギーの増大を観測。目的は――<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 ボディおよび実験対象もろとも巻き込む爆発が狙いと判断<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 シミュレーションを再起動。行動による損害のシミュレーションが完了<br>
 特異点での爆発はボディに損傷を与えるも、余燼の存在自体が消滅する<br>
 爆発に耐え、残存物の回収は可能<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 実験対象の爆発からの生存は不可能<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 秒単位での完全消滅とシミュレーション<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 「零」の指示で、実験対象との過度の接触は避けるべきと<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 有意義な情報と同意する<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 爆発による実験対象の破壊、実験場へのダメージを加味すると、当初の目的は達成できなくなる<br>
 実験対象を巻き込み、こちらの行動を阻止する意図と推測<br>
-<span style="color:#ec5d53;">アビータ・StrengthVIII：</span><br>
+<span style="color:#ec5d53;">アビータ・Strength・VIII：</span><br>
 「零」の指示を優先する。「余燼」の追撃は別ボディで行うとする<br>
-<span style="color:#ec5d53;">アビータ・HermitⅨ：</span><br>
+<span style="color:#ec5d53;">アビータ・Hermit・IX：</span><br>
 「余燼」追撃は、別指示により失敗と判定<br>
 XIV、援護を。撤退する<br>
-<span style="color:#ec5d53;">アビータ・TemperanceXⅣ：</span><br>
+<span style="color:#ec5d53;">アビータ・Temparence・XIV：</span><br>
 提案了承する<br>
 <br>
 眩しい光が視界を覆いつくすも、予想していた攻撃による爆発はなかった。<br>
