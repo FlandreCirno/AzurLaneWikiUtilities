@@ -1,0 +1,446 @@
+== The Bon Before the Voyage ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The Proposal|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+The Bon Before the Voyage<br>
+<br>
+1 The Proposal<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Hi, this is Long Island at the reception desk! How can I help?<br>
+<br>
+There is a markedly peppy tone in Long Island's voice as she answers the phone.<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Alrighty. I'll pass your message on right away!<br>
+<br>
+Meanwhile, I'm standing at the door of the provisional office set up for a special project.<br>
+A hesitation passes through me as I put my hand on the doorknob. Should I really open it?<br>
+Two weeks prior - Commander's Office<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Commander, how about having a pleasure cruise this year?<br>
+<br>
+A crowd has gathered in my office to discuss vacation ideas, and Harbin brings up an interesting one.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hmm. A pleasure cruise...<br>
+<br>
+'''''<span style="color:black;">选择项1：Say no more. We're doing it!</span>'''''<br>
+'''''<span style="color:black;">选择项2：Why that in particular?</span>'''''<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hahah! I knew you'd be on board! Pun intended.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Before we go any further, I should probably explain to you and everyone else why I think it's a good idea.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+To start off, a cruise ship can move and serve many more people than a plane, for instance.<br>
+The port also already has all the necessary infrastructure. A dock, refueling facilities, a cargo loading platform, and so on.<br>
+Now, I know what you're thinkin' – traveling by sea isn't very novel to us as shipgirls – but that's for work. We don't often get to ENJOY being out at sea.<br>
+That's where the cruise comes in. It'll put a fresh spin on a familiar setting and spark new conversations.<br>
+And of course, we can have an office and conference room on board to ensure your workflow stays on course.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+I like it. A pleasure cruise could make for a splendid vacation.<br>
+<span style="color:#4eb24e;">Sakawa：</span><br>
+All of us out at sea, together on a ship – sounds almost like a field trip.<br>
+<span style="color:#4eb24e;">Perseus ：</span><br>
+More like a mobile base for the Commander.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I dunno. Like Harbin said, we see the ocean all the time. Doesn't feel very special, does it?<br>
+Shouldn't we spend our vacation days on something better than, like, cruising the ocean with no particular goal?<br>
+<span style="color:#4eb24e;">Vittorio Veneto：</span><br>
+And like Harbin said, we experience the sea through the lens of work, not pleasure.<br>
+I know what you're picturing – a mass-produced ship with bunk beds, rations, and rotating shifts.<br>
+Forget all that. A cruise ship is the polar opposite. It has luxury cabins, fine dining, a spa, and more.<br>
+<span style="color:#4eb24e;">Pamiat' Merkuria：</span><br>
+Exactly! And instead of sailing nowhere, why don't we go to Seabreeze Island instead?<br>
+You know, that empty island we built a resort on. There's even more vacationing we can do there.<br>
+<span style="color:#4eb24e;">Yat Sen：</span><br>
+Yes, and it doesn't stop there. We could go practically anywhere in the world if we wanted to.<br>
+But I digress. We can discuss destinations another time.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+A cruise sounds fun! I wanna go!<br>
+<span style="color:#4eb24e;">Cheshire：</span><br>
+Me too! Take me on a long and romantic cruise, Owner!<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+You know what happens on cruise ships? Mysteries!<br>
+From staircases that shouldn't exist, to guest rooms appearing from thin air, to strange footprints in the cabin corridors!<br>
+Ohh, I can already feel my blood pumping!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Yeah! Let's go on an adventure cruise!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+A great adventure cruise!<br>
+<span style="color:#4eb24e;">Albacore：</span><br>
+A BIZARRE adventure cruise!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's starting to sound pretty unanimous in here.<br>
+I like unanimous. Let's go with Harbin's cruise plan!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+There is just one small issue with her plan, Commander.<br>
+Namely, we do not have a cruise ship.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+It so happens I do. I'd even be willing to lend it to you.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Yeah, about that... I was considering just buyin' one.<br>
+But the more I thought about it, the more I realized it wasn't a great idea.<br>
+Buying one would save us a lot of trouble, but no prebuilt cruise ship out there could cater to all our needs.<br>
+So the best option, really, is to build one from scratch ourselves. Trust me, it'll be worth it.<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+I dig it!<br>
+<span style="color:#4eb24e;">Richelieu：</span><br>
+I agree. A cruise ship tailor-made to suit our needs will make the vacation even better.<br>
+<span style="color:#4eb24e;">Clemenceau：</span><br>
+And it'll allow us to implement some more... novel ideas.<br>
+<span style="color:#4eb24e;">Queen Elizabeth：</span><br>
+Suit yourselves. What say you, servant?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Our shipyard does have the resources to construct a cruise ship from the ground up. Making modifications by ourselves would be cheaper, too.<br>
+<br>
+'''''<span style="color:black;">选择项1：Let's build a cruise ship, ladies.</span>'''''<br>
+'''''<span style="color:black;">选择项2：We'll build our own ship! With blackjack and bars!</span>'''''<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Wait! I've got one more idea I think you'll like!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You do? Let's hear it.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Okay, so, the port's easily got the facilities to not only build a cruise ship, but to build it discreetly, right?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yes. And?<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+And we've also got the financial flexibility to build it entirely by ourselves, right?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yes. And...?<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Well, if it ain't too much to ask, do you think we could build the ship in secret?<br>
+By that I mean, not disclosing the project to anyone not directly involved.<br>
+Then once it's time to announce the cruise, it'll be a big surprise. Of course, we wanna surprise you, too, so we won't tell you how it's progressing.<br>
+How's that sound? Do we keep it under wraps, or make it public right away?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Everyone loves a surprise. Let's do that.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Sweet! Then we'll get to work and only let you know once she's been launched. No peekin', and no askin' for leaks!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+And that's the arrangement we settled on.<br>
+Yat Sen, Elizabeth, Richelieu, and Veneto formed a committee to plan the whole project and guide its course.<br>
+I have no reason to doubt their competency, of course.<br>
+It's just... I'm curious...<br>
+Ah, screw it. I should get back to my office and pick up my work.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Working Hard Or Hardly Working?|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+The Bon Before the Voyage<br>
+<br>
+2 Working Hard Or Hardly Working?<br>
+It's a new day, and I'm at the door to the Cruise Planning Committee. Again.<br>
+I spent the whole night arguing with the angel and devil on my shoulders, one telling me to keep my promise, and the other, to satisfy my curiosity. I've come up with a compromise.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's not breaking my promise if I overhear them through the door... right?<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Ugh... I'm beat. I don't know if I can keep on pretending to work hard like this.<br>
+Emden said the Commander WILL give in to curiosity and walk through that door...<br>
+But I'm really starting to doubt that! All my efforts have been for nothing!<br>
+Hard work is hard, even when you're faking it!<br>
+*sigh*... Well, since it doesn't matter, I'm gonna do something fun instead.<br>
+Let's see here... What game do I play...<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Oh. Here comes work.<br>
+Hi, this is Long Island from General Affairs. How can I help you?<br>
+Uh-huh. A question for the Construction Committee. Got it.<br>
+Stay on the line and I'll ask the Central Committee about it.<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+CLUNK!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Whew. Anyway, time to game!<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Dang it, someone's calling again.<br>
+Hi, this is Long Island from General Affairs. How can I help you?<br>
+Mhm... What? The Construction Committee? Oh, right, your question...<br>
+Well, good news! I got an answer from them.<br>
+They said there's ample room in their budget and you can implement whatever you want.<br>
+An onboard garden, a pool, shops, a theater – anything you can think of.<br>
+Yeah, including a large Sardegnian thermae!<br>
+...How large? As large as you want it to be!<br>
+Yup, they could easily squeeze in an aquarium somewhere, too.<br>
+Listen, if you can imagine it, there's room for it.<br>
+I hope that answers your question. Please call again if you have any more. Bye!<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+CLUNK!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Easiest job of my life. Back to the game!<br>
+<br>
+I back away from the door.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I can't believe my ears!<br>
+Not only is she gaming on the job, she's also casually approving every idea that blows her way!<br>
+I'll bet a thousand coins she hasn't run any of this by the Central Committee!<br>
+That cruise ship is doomed if she keeps manning the phone...<br>
+<br>
+No matter how smoothly the construction is going, I can't ignore what I just heard.<br>
+That said, I can't directly confront the committee about it, either. That would break my promise with Harbin.<br>
+This situation calls for an indirect approach. I should...<br>
+<br>
+'''''<span style="color:black;">选择项1：Punish Long Island for her indolence.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Reward Long Island for her efforts.</span>'''''<br>
+'''''<span style="color:black;">选择项3：Shrug and go back to the office.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''The ghost wants to play games during her shift, huh?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Let me just fetch her account info...<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I issue an order to TB to pit Long Island against some "worthy" opponents. If she really wants to game on the job, she can go right ahead.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Dang it! They killed me again!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''This is dumb! When did the AI in this game get so overtuned?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Ugh... Now it's clock-out-o'-clock, too...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I can't even be bothered to leave! I'm too tired after getting whooped all day!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''On second thought, I can empathize. Sitting alone in front of a desk all day is incredibly boring.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Let me just fetch her account info...<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I issue an order to TB to give Long Island a whole heap of in-game items. If she really wants to game on the job, she can go right ahead.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''What the heck? My inbox is flooded!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Compensation for bugs, compensation for bug fixes, compensation for bugs caused by bug fix... Even compensation for a bug fix for a bug fix!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Wait! Could this be a gift from the God of Laziness for my dedication to the faith?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yippee! My shift just ended, too! Whew, what a long but satisfying workday this was!<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Whew, that was a lot of fun!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''I did nothing the whole day – just the way I like it!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Oh, it's the end of my shift! Woohoo! Time to go home!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Curiosity Got the Cat|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+The Bon Before the Voyage<br>
+<br>
+3 Curiosity Got the Cat<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+*yaaawn*... Man, I wanna go home already...<br>
+What cruel, evil person decided I have to work so early?<br>
+Bleh. I'll just read some manga while my brain warms up.<br>
+<br>
+Once more, I'm at the door to the Cruise Planning Committee.<br>
+I can hear Long Island on the other side, thinking aloud about what she'll do instead of working.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Reading manga today, are we? Let's hear what else she says.<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Dang it! It was just getting interesting, too.<br>
+This phone picks the worst time to ring!<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Ahem... Hi, this is Long Island from General Affairs. How can I help you?<br>
+Uh-huh. A question for the Furnishing Committee. I hear you.<br>
+Give me one minute and I'll ask the Central Committee about it.<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+CLUNK!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Whew. Now back to the manga.<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Hi, this is Long Island from General Affairs. How can I help you?<br>
+Mhm... Say what? The Furnishing Committee? Oh, right, uh...<br>
+Yeah, I talked to them and got an answer!<br>
+They said, uh, there's tons of space inside the cruise ship, so furnish it however you want. Visual cohesion is strictly optional.<br>
+Yup, that's right. Go with whatever you want.<br>
+Nope, the guest rooms don't all need to be in the same style.<br>
+If you wanna make the banquet hall all old-school and fancy, go right ahead!<br>
+Yeah, a nouveau and modern look for the adjacent ballroom would totally work!<br>
+Look, you've got carte blanche – I think that's the word – to furnish the ship however you want.<br>
+I hope that answers your question. Please call again if you have any more. Bye!<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+CLUNK!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Whew. All in a day's work. Anyway, manga!<br>
+<br>
+I back off from the door.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yup. Long Island is slacking on the job again.<br>
+<br>
+Anyone in my position would be justifiably alarmed about this, no matter how well the construction is going.<br>
+But, again, I can't approach anyone about it directly.<br>
+So, I can only do something in an unofficial capacity. Something like...<br>
+<br>
+'''''<span style="color:black;">选择项1：Punish Long Island for her indolence.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Reward Long Island for her efforts.</span>'''''<br>
+'''''<span style="color:black;">选择项3：Shrug and go back to the office.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Yesterday, it was video games, today, it's manga. And she's not the least bit ashamed about it!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Someone needs to put this lazy ghost in her place!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I open the door and tiptoe inside, grabbing the next volume of her manga and hiding it somewhere.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Wow, what a twist! I need to know what happens next.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''...Huh? It's not here? Where'd the next volume go?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Nooooo! Now I'll never know how they solve the caaaase!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You know, I can't blame her for doing something else. Sitting alone in front of a desk all day is really tedious.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You wanna read manga, do you? Then I'll get you all the manga you could ever want!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I open the door and tiptoe inside, sneakily leaving a whole stack of manga on a table.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Whew. What a story!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''But... Oops. I've read for a long while now. I should do at least SOME work to...<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Huh? I haven't read these mangas before. Who left these here?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Wait! Could this be a gift from the God of Laziness for my dedication to the faith?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Well, hallelujah! I'll just keep reading until closing time!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Whew. What a story!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Hardly working can really be hard work.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Oh, it's the end of my shift! Woohoo! Time to go home!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Treat Yourself|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+The Bon Before the Voyage<br>
+<br>
+4 Treat Yourself<br>
+Yet again, I'm at the door to the Cruise Planning Committee.<br>
+I press my ear up against the door. It's silent on the other side.<br>
+I peek in through the crack in the door and see a smorgasbord of snacks on the table.<br>
+As for Miss Receptionist, she's lying face-down, having a nap.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+This time, she's gorging herself full on snacks and sleeping. Very classy.<br>
+It also looks like she has built a cruise ship out of those snack boxes.<br>
+I suppose she must be looking forward to the cruise, even if she won't put in an ounce of effort toward its construction.<br>
+She at least cares to some degree, so she won't it screw up TOO badly... right?<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Zzzzz...<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+*yaaawn*... Oh, crap! I succumbed to food coma after eating all those snacks!<br>
+Um, hi! This is Long Island from General Affairs! How can I help you?<br>
+Come again? Oh, the Supplies Committee... Yeah, they gave me an answer yesterday.<br>
+They said, uh, there's tons of cargo space, so you can bring all the raw ingredients you want.<br>
+You heard me. Bring as much as you want!<br>
+Yup, all of them! Sardegna, the Eagle Union, the Orthodoxy, the Empery, et cetera et cetera.<br>
+Hm? What about the Royal Navy?<br>
+Uhh, forget about their food and just bring their desserts!<br>
+Is, um, what the Central Committee said. Yes.<br>
+Let me reiterate – bring anything you want and as much of it as you want. There's ample room!<br>
+I hope that answers your question. Please call again if you have any more. Bye!<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+RING RING RING!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Um, hi! This is Long Island from General Affairs! How can I help you?<br>
+...You'd like to know about security measures for the Commander's cabin?<br>
+I mean, do we really need any?<br>
+Because, you know, it'll just be us shipgirls and the Commander aboard the ship.<br>
+...What do you mean, "that's exactly why we need it"?<br>
+Oh. That's why. In that case, I think– Sorry, I mean the Central Committee thinks you're right!<br>
+Please install all the strongest security measures in the Commander's cabin!<br>
+...Of course! You need a blast door if you want the strongest security possible!<br>
+...Well, yeah, a guard room is indispensable, too!<br>
+...Absolutely! If Fort Knox has a separate ammo storage, I don't see why we shouldn't!<br>
+Look, long story short, you can never be too sure when it comes to ensuring the Commander's safety!<br>
+I hope that answers your question. Please call again if you have any more. Bye!<br>
+<span style="color:#4eb24e;">Phone：</span><br>
+CLUNK!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Geesh, there's a lot of people calling today. Nothing I can't handle, though!<br>
+Answering those calls really woke me up. Now it's time for snacks!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I take it back. She is screwing it up spectacularly.<br>
+Also, what was that about a separate ammo storage?<br>
+For god's sake, we're building a cruise ship here, not a battleship!<br>
+<br>
+Even if the project is proceeding without a hitch, I can't help but feel like this is going wrong.<br>
+But, yet again, I can't bring this up with the Central Committee because I promised to let them do their work.<br>
+There isn't much I can do, but at least I can...<br>
+<br>
+'''''<span style="color:black;">选择项1：Punish Long Island for her indolence.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Reward Long Island for her efforts.</span>'''''<br>
+'''''<span style="color:black;">选择项3：Shrug and go back to the office.</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Two days ago it was games, yesterday it was manga, and now she's stuffing herself on snacks...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''We're reaching levels of slacking previously unheard of! That lazy ghost can't keep getting away with it!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I open the door and tiptoe inside, sneakily stealing all the oxy-cola from the fridge.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Urp... I might've eaten too many snacks. I need some oxy-cola.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''...Huh? What the heck?! It's all gone!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Someone took all the dang oxy-cola!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Nooooo! I'm sooooo thirstyyyyy!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Honestly, I might have done the same if I were her. Being alone and stuck in front of a desk all day is soul-crushing.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You love snacks, do you? I'll give you all the snacks you can eat!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I open the door and tiptoe inside, sneakily leaving a minifridge in a corner and a pile of snacks and drinks on the table.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Urp... I might've eaten too many snacks. I need some oxy-cola.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''...Huh? What the heck?! It's all gone!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Where'd all THESE snacks come from? There's even a new minifridge!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Wait! Could this be a gift from the God of Laziness for my dedication to the faith?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Aha! Hard work DOES always pay off!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Oh boy! So many drinks to choose from!<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Sometime later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Urp... I might've eaten too many snacks. I need some oxy-cola.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Ahh! That hits the spot!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''But... *yawn*... Now I'm sleepy...<br>
+'''''<span style="color:black;">（选择项3）</span>'''''Still a few hours of my shift left to go... I guess I'll have another nap.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Before the Launch|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+The Bon Before the Voyage<br>
+<br>
+5 Before the Launch<br>
+For a fourth time, I stand before the door to the Cruise Planning Committee.<br>
+Right as I press my ear against the door, it suddenly opens.<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+Heehee. Here to eavesdrop again, are you, dear human?<br>
+<br>
+'''''<span style="color:black;">选择项1：Huh? How long have you known?</span>'''''<br>
+'''''<span style="color:black;">选择项2：I haven't broken my promise! Long Island never spoke TO me!</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Since the first time you set foot outside your office. "You're as subtle as a brick through a window."<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''"Of course. Whatever you say." Oh, you are such a darling human, making clever excuses.<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+Don't be alarmed, though. Long Island doesn't know that you're here.<br>
+Her attention is solely on her work, if you can call it that. "She's concentrating, in her own way."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Let me guess... You knew I'd come here, so you specifically put Long Island in charge of the phone.<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+"Heehee. I thought it was obvious." We knew that curiosity would get the better of you, yet you didn't have the heart to break your promise.<br>
+So it was easy to surmise that you'd walk the razor's edge, coming here merely to eavesdrop.<br>
+And so, we employed Long Island and knowingly let you listen in on her. "It's adorable how predictable you are, human."<br>
+Don't worry about what she said on the phone. All the things she discussed have been brought before the Central Committee.<br>
+All the inane ideas, discarded. "And all the good ones, kept."<br>
+Now all you need to do, dear human, is be patient and wait.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+They KEPT some of the ideas? So then...<br>
+<br>
+'''''<span style="color:black;">选择项1：Did they keep the onboard garden?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Did they keep the onboard aquarium?</span>'''''<br>
+'''''<span style="color:black;">选择项3：Don't tell me they kept the blast door!</span>'''''<br>
+'''''<span style="color:black;">选择项4：Please don't tell me they kept the ammo storage!</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+Heehee. A promise is a promise, dear human. No amount of pleading will coax an answer out of Emden. "Remember, it's meant to be a surprise."<br>
+Although, there is actually important one thing WE were hoping to ask YOU.<br>
+Have you thought of a name for the cruise ship yet?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

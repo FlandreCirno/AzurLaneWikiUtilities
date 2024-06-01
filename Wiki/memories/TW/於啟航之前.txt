@@ -1,0 +1,446 @@
+== 於啟航之前 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=一切的開始|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+於啟航之前<br>
+<br>
+ 一切的開始<br>
+<span style="color:#4eb24e;">長島：</span><br>
+——這裡是行政部的前台接待長島，請問有什麼可以幫您的？<br>
+<br>
+少女充滿活力的嗓音隱約從室內傳來。<br>
+<span style="color:#4eb24e;">長島：</span><br>
+——好的，我明白了，稍後幫您轉達哦~<br>
+<br>
+此刻，我正站在為了保障某個特殊計畫運作而設立的辦公室大門前。<br>
+我伸出手觸碰門扉，卻在即將推開之際，陷入了猶豫之中。<br>
+兩週前的指揮室—<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+指揮官，你覺得咱們今年來場郵輪旅行怎麼樣？<br>
+<br>
+當大家按照慣例聚在指揮室中討論渡假計畫時，哈爾濱突然如此提案到。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+郵輪之旅嗎……<br>
+<br>
+'''''<span style="color:black;">选择项1：好，批准！</span>'''''<br>
+'''''<span style="color:black;">选择项2：為什麼是郵輪？</span>'''''<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊哈哈，看來指揮官也覺得這方案可靠！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不過作為提案方，流程上還是先讓我向你和各位同伴們解釋一下原因吧。<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+郵輪龐大的體積可以容納各種服務設施，並能在保障大量人員出行的同時，確保旅程的舒適度。<br>
+同時航速適宜，可以最大程度延長旅途渡假的感覺。<br>
+而且，郵輪比起大家日常生活的港區，算是一個全新的環境。<br>
+即使是熟悉的人，在環境改變後，也可能會獲得與往日不同的新奇相處體驗哦？<br>
+當然，郵輪上會設置有辦公室和會議室，不會耽誤必要工作的處理。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+郵輪嗎……確實和假日十分搭配呢。<br>
+<span style="color:#4eb24e;">{namecode:226}：</span><br>
+嘿嘿，大家一起坐船出門，有種修學旅行的感覺呢。<br>
+<span style="color:#4eb24e;">英仙座：</span><br>
+……指揮官的移動港區。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+欸……可是大家平常也一直是在海上執行任務啊，感覺也沒什麼特別的。<br>
+好不容易假期到了，還要一起去海上泡著嗎……？<br>
+<span style="color:#4eb24e;">維托里奧·維內托：</span><br>
+呵呵，在海上執行任務，和搭乘郵輪在海上渡假可是完全不同的體驗。<br>
+郵輪的設計目的是為了讓乘坐的人留下美好體驗，每個細節都貫徹著舒適與奢華的概念。<br>
+乘坐體驗可不是那些僅是為了確保作戰效率而設計的量產型軍艦能比的哦~<br>
+<span style="color:#4eb24e;">水星紀念：</span><br>
+嗯……如果是郵輪旅行的話，大家還可以一起去無人島看一下。<br>
+我們分批次在那邊建設了那麼久，現在應該已經大變樣了吧~<br>
+<span style="color:#4eb24e;">逸仙：</span><br>
+不光是無人島。有了郵輪，大家還可以一起去更多有趣的地方哦。<br>
+當然，這些都要留到行程規劃階段的後話了。<br>
+<span style="color:#4eb24e;">安克拉治：</span><br>
+郵輪……安克拉治……想要，坐遊輪！<br>
+<span style="color:#4eb24e;">柴郡：</span><br>
+柴郡也想~柴郡也想坐郵輪~！<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+說到郵輪…就一定會有不可思議事件！<br>
+不該存在的樓梯……憑空多出的客房……走廊中的陌生腳印……！<br>
+我已經開始興奮起來了！<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+郵輪大冒險！<br>
+<br>
+郵輪大冒險~！<br>
+<span style="color:#4eb24e;">大青花魚：</span><br>
+郵輪大冒險~~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……看來大家已經在一片興高采烈中達成統一意見了呢。<br>
+那本次渡假就採用哈爾濱提出的郵輪之旅方案吧。<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+不過指揮官，這個方案似乎還有一個現實的問題。<br>
+現在的港區內，並沒有可供使用的郵輪。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+要不本王直接租一艘過來？現買一艘也行。<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+哎呀，其實我一開始也想說直接買一艘來著。<br>
+但想著想著，冒出來了個新想法——<br>
+不管是買還是租，現成的郵輪肯定無法完全滿足港區的全部需求對吧？<br>
+既然如此，不如咱自己修一艘港區專用的郵輪，肯定舒服！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哇哦哦——好主意啊！<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+嗯……有道理，這樣的話確實是最舒服的方案。<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+呵呵，還能在建造途中，根據我們自己的想法添加些有趣的設計呢~<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+本王贊同，指揮官覺得如何？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+基於港區的造船技術和產能來說，建造一艘郵輪並不是一件十分困難的事，花費也不算誇張。<br>
+<br>
+'''''<span style="color:black;">选择项1：沒問題。</span>'''''<br>
+'''''<span style="color:black;">选择项2：就這麼決定！</span>'''''<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+等等！我還有一個把這件事的過程變得更有趣的補充提案！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……變得更有趣的補充提案？<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+指揮官，你覺得以港區的技術和產能建造一艘郵輪輕輕鬆鬆沒錯吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒錯。<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+你也覺得港區的預算十分充足，絕對能滿足建造郵輪的需求對吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那是當然。<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+既然如此，不然我們將郵輪的建造過程全程保密如何？<br>
+除了必要參與者之外，對其他所有同伴，包括指揮官在內都不能主動打聽建造的具體細節。<br>
+這樣等到假日來臨之時，大家必定能感受到大大的驚喜~！<br>
+指揮官覺得如何，想不想多來點驚喜呢~？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+聽起來好像挺有趣的，就這麼辦吧。<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+好勒~那就說好了。直到郵輪下水日之前，指揮官絕對不可以去偷看，也不能去打聽任何建造相關的情報哦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+唉……畢竟之前都如此約定了。<br>
+最後定下來的全局統籌委員會由逸仙、伊莉莎白女王、黎胥留和維內托四人組成。<br>
+修造過程絕對是可以令人放心的……<br>
+嗯……可以放心的。<br>
+接下來還有工作要處理，還是先回指揮室。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=可靠的接待員？|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+於啟航之前<br>
+<br>
+ 可靠的接待員？<br>
+本日，我再次來到了那扇門前。<br>
+經過徹夜思考，我終於在滿足好奇心和遵守約定之間，尋找到了一個折衷方案。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……只是偷聽一下接待員的工作內容，應該不算過問吧？<br>
+<span style="color:#4eb24e;">長島：</span><br>
+哈啊……好累……假裝工作到今天已經是極限了。<br>
+埃姆登之前說什麼指揮官一定會忍不住過來檢查……<br>
+這不是完全沒有來過嗎……都白裝了。<br>
+裝做在工作很辛苦的>_<！<br>
+呼……既然如此，接下來就決定是輕鬆的摸魚時間了~<br>
+哼~哼哼♪打點什麼遊戲好呢~<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+啊……工作來了。<br>
+喂——這裡是行政部的長島，請問有什麼可以幫妳的？<br>
+嗯嗯嗯……郵輪建造委員會，妳們的問題我記下來了。<br>
+稍等哦，我去幫妳們問問全局統籌委員會。<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+嘟——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+呼，繼續玩遊戲吧~<br>
+<br>
+一段時間後——<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+啊……工作又來了。<br>
+喂——這裡是行政部的長島，請問有什麼可以幫妳的？<br>
+啊……啊？郵輪建造委員會啊……哎嘿嘿，關於妳們的問題……<br>
+嗯……嗯嗯嗯，我這邊已經得到回復了哦！<br>
+「反正預算是無限的，妳們想修什麼功能區就修什麼功能區吧。」長島得到的回復是這樣的。<br>
+嗯嗯，什麼自然公園，水上樂園，大商場，大劇院都可以修哦。<br>
+薩丁式大浴場…？嗯，可以哦。<br>
+……能修多大？修多大都可以哦。<br>
+水族館……？嗯，也可以哦。<br>
+總之想修什麼都可以啦~<br>
+那麼拜拜~有問題隨時來電哦~<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+嘟——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+呼，輕鬆解決~繼續玩遊戲吧~<br>
+<br>
+同時，一牆之隔外——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………？！<br>
+這個長島……工作時間打遊戲已經很過分了，怎麼還能如此隨便的對待其他部門的問題！<br>
+她根本就沒打電話給委員會過，回答全是自己瞎編的吧！<br>
+……這艘郵輪最後究竟會變成什麼樣子呢。<br>
+<br>
+這場郵輪之旅雖然在有條不紊地籌備中，但你內心的疑雲正在變得愈發厚重。<br>
+縱使你之前和所有人約好了在郵輪建造完成之前既不打聽也不干涉。<br>
+但看到現在的情況，你依然決定在返回指揮室工作前做點什麼。<br>
+<br>
+'''''<span style="color:black;">选择项1：制裁一下摸魚的長島！</span>'''''<br>
+'''''<span style="color:black;">选择项2：鼓勵一下摸魚的長島！</span>'''''<br>
+'''''<span style="color:black;">选择项3：算了，還是直接回去吧。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''喜歡在工作時間打遊戲是嗎……很好。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''記得長島的遊戲帳號是……找到了。<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''之後，你聯絡TB為長島安排了一些「旗鼓相當」的對手給她，祝她遊戲愉快。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呃啊……又輸了！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''怎麼回事……這遊戲的AI有這麼強嗎？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗚嗚嗚……一晃眼都到下班時間了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''輸了一天好累啊……欸，該下班囉！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''轉念一想，你又覺得，一個人坐在辦公桌前一整天確實是一種莫大的痛苦，摸摸魚也是可以理解的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''記得長島的遊戲帳號是……找到了。<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''之後，你聯絡TB以各種名義向長島的帳號發放了大量獎勵道具，祝她遊戲愉快。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''信箱裡堆滿了郵件……怎、怎麼回事？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''BUG補償…BUG修復補償…BUG修復導致的BUG補償…BUG修復導致的BUG修復補償……？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……欸~？！這難道是摸魚之神對於我摸魚一天的嘉獎……？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘻嘻~好耶~！剛好也到下班時間了，真是充實又快樂又的一天~下班囉！<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呼……真是暢快淋漓的戰鬥。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''摸了一天魚好累……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''嗯？已經這個時間了嗎，好耶~該下班囉~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=又一天辛苦|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+於啟航之前<br>
+<br>
+ 又一天辛苦<br>
+<span style="color:#4eb24e;">長島：</span><br>
+啊——好想下班啊——！<br>
+好睏……為什麼上班時間要訂的這麼早啊……<br>
+算了，先看一下漫畫提提神吧~<br>
+<br>
+本日，我再次來到了那扇門前。<br>
+剛到不久，就聽到了長島那光明正大的摸魚宣言。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+今天是漫畫專場嗎……？總之先聽聽今天的工作內容。<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+欸~~長島正看到興頭上呢。<br>
+這個工作電話打來的時機真是不好啊！<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+咳咳……喂——這裡是行政部的長島，請問有什麼可以幫妳的？<br>
+嗯嗯嗯……內部裝潢委員會，妳們的問題我記下來了。<br>
+稍等哦，我去幫妳們問問全局統籌委員會。<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+嘟——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+呼，繼續看漫畫吧~<br>
+<br>
+一段時間後——<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+喂——這裡是行政部的長島，請問有什麼可以幫妳的？<br>
+啊……啊？內部裝潢委員會啊……哎嘿嘿，關於妳們的問題……<br>
+嗯……嗯嗯嗯，我這邊已經得到回復了喔。<br>
+「反正郵輪夠大，所有想要的風格都可以儘管嘗試，不需要選出一個統一風格來。」長島得到的回復是這樣的。<br>
+嗯嗯嗯，什麼風格都可以哦。<br>
+對的對的，就算是住宿區也不需要統一風格哦。<br>
+宴會廳修成古典華麗風格……？嗯，沒問題哦。<br>
+一牆之隔的舞廳想修成現代時尚風格……？嗯嗯，當然沒問題哦。<br>
+總之想在哪裡修什麼風格都可以~<br>
+那麼拜拜~有問題隨時來電哦~<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+嘟——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+呼，輕鬆解決~繼續看漫畫吧~<br>
+<br>
+同時，一牆之隔外——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……很好，又是長島在隨便應付工作的一天。<br>
+<br>
+這場郵輪之旅雖然在有條不紊地籌備中，但你內心的疑雲正在變得愈發厚重。<br>
+縱使你之前和所有人約好了在郵輪建造完成之前既不打聽也不干涉。<br>
+但是看到現在的情況，你依然決定在返回指揮室工作前做點什麼。<br>
+<br>
+'''''<span style="color:black;">选择项1：制裁一下摸魚的長島！</span>'''''<br>
+'''''<span style="color:black;">选择项2：鼓勵一下摸魚的長島！</span>'''''<br>
+'''''<span style="color:black;">选择项3：算了，還是直接回去吧。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''昨天是在工作時間打遊戲，今天是在工作時間看漫畫……！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''既然如此——就接受制裁吧。<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''下定決心後，你輕輕推開門，暗中潛入辦公室，將長島所看漫畫的下一話悄悄拿走了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哇哦……真沒想到會是這種展開。接下來的事件要如何解決呢……好期待好期待~<br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………哎？下一話怎麼不見了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸<nowiki>~~~</nowiki>怎麼會這樣<nowiki>~~~</nowiki>！！！！！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''轉念一想，你又覺得，一個人坐在辦公桌前一整天確實是一種莫大的痛苦，摸摸魚也是可以理解的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''喜歡看漫畫是嗎？那就——賜予你更多的漫畫吧！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''下定決心後，你輕輕推開門，暗中潛入辦公室，將更多的漫畫悄悄放在了角落。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呼……真是一部有趣的漫畫。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不過看了這麼久……是不是稍微工作一下比較好……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯……？這裡怎麼還有一堆漫畫……從哪裡跑出來的？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……欸~？！這難道是摸魚之神對於我摸魚一天的嘉獎……？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘻嘻~那就看到下班為止好了♪<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呼……真是一部有趣的漫畫。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''摸了一天魚好累。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''嗯？已經這個時間了嗎，好耶~該下班囉~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=犒賞努力的自己|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+於啟航之前<br>
+<br>
+ 犒賞努力的自己<br>
+本日，我再次來到了那扇門前。<br>
+這次屋內沒有傳來任何動靜。<br>
+透過門縫向屋內看，只見辦公桌上堆滿了零食。<br>
+接待員小姐正趴在零食堆裡享受著美妙夢境。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……今天選擇的是帶著零食睡大覺的摸魚方式麼。<br>
+不過……桌上的零食盒堆成了一艘郵輪的樣子。<br>
+看來她雖然對於工作不上心，對於郵輪之旅本人還是很期待的。<br>
+所以至少整體方向上……應該不會偏離太大……吧？<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+……ZZZ<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴叮鈴鈴——<br>
+叮鈴鈴叮鈴鈴叮鈴鈴——！<br>
+<span style="color:#4eb24e;">長島：</span><br>
+呼啊……糟糕！吃完零食太舒服就直接睡著了…！<br>
+喂——這裡是行政部的長島，請問有什麼可以幫妳的？<br>
+……嗯？物資調度委員會啊……嗯，關於妳們之前的問題我這邊已經得到回復了哦。<br>
+「反正貨倉空間夠大，所有想帶的食材都可以儘管帶上，不需要有所取捨。」長島得到的回復是這樣的。<br>
+嗯嗯嗯，全部帶都可以哦。<br>
+對的對的，包括薩丁菜的食材、白鷹菜的食材、鳶尾菜的食材、東煌菜的食材、北方聯合菜的食材、重櫻菜的食材、鐵血菜的食材……<br>
+……嗯？皇家菜的食材？<br>
+啊……皇家菜的食材只要帶上甜點的部分就可以哦！<br>
+嗯嗯，全局統籌委員會是這麼跟我說的喔！<br>
+總之除了這部分之外，想帶什麼想帶多少都可以啦~<br>
+那麼拜拜~有問題隨時來電哦~<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+叮鈴鈴——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+喂——這裡是行政部的長島，請問有什麼可以幫妳的？<br>
+……指揮官船艙的保全？<br>
+……真的有必要做嗎？<br>
+啊……我的意思是，我們一船人，難道保護不了指揮官的安全嗎？<br>
+呃……什麼叫「正因如此才更有必要」……？<br>
+那我覺得……不，全局統籌委員會覺得，妳們的觀點十分有道理。<br>
+請為指揮官的船艙設定最高等級的保全系統吧！<br>
+……防爆門？嗯嗯嗯，當然需要了。為了支援最高等級的保全系統，必須要有一個獨立的防爆門！<br>
+……警衛室？嗯嗯嗯，當然需要了。為了支援最高等級的保全系統，必須要有一個獨立的警衛室！<br>
+……彈藥庫？嗯嗯嗯，當然需要了。為了支援最高等級的保全系統，必須要有一個獨立的彈藥庫！<br>
+總之為了指揮官的安全，妳們想修什麼都可以啦~<br>
+那麼拜拜~有問題隨時來電哦~<br>
+<span style="color:#4eb24e;">辦公室電話：</span><br>
+嘟——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+呼，今天的工作還真是多啊，不過還是輕鬆解決~<br>
+已經沒什麼睏意了……繼續吃零食吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+前言收回！大方向已經偏離到不知道去哪了！<br>
+……我記得，現在她們在修的是一艘豪華郵輪沒錯吧？<br>
+……為什麼要有一個獨立的彈藥庫？<br>
+<br>
+這場郵輪之旅雖然在有條不紊地籌備中，但你內心的疑雲正在變得愈發厚重。<br>
+縱使你之前和所有人約好了在郵輪建造完成之前既不打聽也不干涉。<br>
+但看到現在的情況，你依然決定在返回指揮室工作前做點什麼。<br>
+<br>
+'''''<span style="color:black;">选择项1：制裁一下摸魚的長島！</span>'''''<br>
+'''''<span style="color:black;">选择项2：鼓勵一下摸魚的長島！</span>'''''<br>
+'''''<span style="color:black;">选择项3：算了，還是直接回去吧。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''今天長島對於工作的懈怠程度簡直令人髮指……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這已經不是普通的工作摸魚了，必須出重拳進行制裁！<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''經過思考後，你偷偷潛入辦公室，將冰箱中的酸素可樂席捲一空後，揚長而去。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯……零食有點吃膩了。喝點酸素可樂吧~<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……欸？！怎麼回事……！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''冰箱裡的酸素可樂為什麼全部消失了啊？！！！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸<nowiki>~~~</nowiki>怎麼會這樣<nowiki>~~~</nowiki>！！！！！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''轉念一想，你又覺得，一個人坐在辦公桌前一整天確實是一種莫大的痛苦，摸摸魚也是可以理解的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''喜歡吃零食是嗎？那就——賜給妳更多的零食吧！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''經過思考後，你偷偷潛入辦公室，將大量零食與飲料連同冰箱一起放在角落後，揚長而去。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯……零食有點吃膩了。喝點酸素可樂吧~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……欸？！怎麼回事……！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''為什麼會出現這麼多零食……還有一個新的冰箱？！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……欸~？！這難道是摸魚之神對於我摸魚一天的嘉獎……？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''果然辛勤工作必定有所回報~！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘻嘻，接下來喝點什麼好呢~<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''一段時間後——<br>
+<span style="color:#4eb24e;">長島：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''嗯……零食有點吃膩了。喝點酸素可樂吧~<br>
+'''''<span style="color:black;">（选择项3）</span>'''''呼——心情舒暢~！<br>
+'''''<span style="color:black;">（选择项3）</span>'''''啊……好累。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''距離下班還有幾個小時……再睡一覺吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=命名日|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+於啟航之前<br>
+<br>
+ 命名日<br>
+本日，我再次來到了那扇門前。<br>
+不過正當我在將耳朵貼近門板時，門卻突然打開了。<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+呵呵~指揮官，今天也來偷聽了呢~<br>
+<br>
+'''''<span style="color:black;">选择项1：……妳從什麼時候發現的？</span>'''''<br>
+'''''<span style="color:black;">选择项2：不小心聽到不算打探進度！</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''從第一天，可愛的人類第一次離開指揮室的時候就知道了呢~「顯而易見。」<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''「好好~不算不算~」呵呵~可愛的人類鑽了個小空子呢。<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+別擔心，長島她是不知道的哦。<br>
+這段時間以來，她一直都是在崗位上「認真」處理工作的呢。「以長島的標準來算的哦~」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以……妳們是因為知道我會來偷聽，故意安排長島來當接待員的？<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+「呵呵，這也是顯而易見的事，不是嗎？」曼非斯猜到了指揮官一定會忍耐不住，但是又不會打破約定。<br>
+所以一定會想出這個暗中偷聽的方式來收集資訊。<br>
+所以我們就故意安排長島在這裡，放心讓指揮官來偷聽啦~「真是可愛的反應啊，人類。」<br>
+別擔心，長島的那些意見最後還是有經過全局統籌委員會審核處理的。<br>
+裡面不合理的部分都被去除掉了哦~「有趣的點倒是酌情保留了呢~」<br>
+這部分指揮官還是可以期待一下的~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+觀點裡被保留的部分……難道說會是——<br>
+<br>
+'''''<span style="color:black;">选择项1：……露天公園？！</span>'''''<br>
+'''''<span style="color:black;">选择项2：……水族館？！</span>'''''<br>
+'''''<span style="color:black;">选择项3：……防爆大門？！</span>'''''<br>
+'''''<span style="color:black;">选择项4：……彈藥庫？！</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
+呵呵~約定就是約定，就算可愛的人類如此懇求我，我也是什麼都不會說的哦~「還記得嗎，驚喜感~」<br>
+不過，在下水前倒是確實還有一件極為重要的事需要指揮官來親自決定。<br>
+關於這艘郵輪的名字，您想好了嗎——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

@@ -89,6 +89,7 @@
 松鲷 Flasher
 女灶神 Vestal
 关岛 Guam
+西雅图 Seattle
 佐治亚 GA@ColaLove
 安克雷奇 Anchorage
 奇尔沙治 Kearsarge
@@ -98,6 +99,7 @@
 格伦维尔 Grenville
 萤火虫 Glowworm@Attack
 勇敢 Hardy
+猎人 Hunter
 标枪 Javelin☆
 天后 Juno
 吸血鬼 Vampire 
@@ -418,8 +420,10 @@ U-1206 U.B.1206
 圣女贞德 Jeanne d'Arc
 吉尚 Guichen
 絮弗伦 Suffren
+布伦努斯 Brennus
 黎塞留 Richelieu
 里昂 Lyon
+阿尔萨斯 Alsace
 贝亚恩 Béarn
 伴尔维 Painlevé
 絮库夫 P.P.O
@@ -430,6 +434,9 @@ U-1206 U.B.1206
 塔尔图 Tartu
 沃克兰 Vauquelin
 凯尔圣 Kersaint
+花剑 Fleuret
+重剑 Épée
+莫加多尔 Mogador
 恶毒 VivaLaze
 不屈-王国军守护骑士 L'Indomptable
 拉·加利索尼埃 Inquisition_G
