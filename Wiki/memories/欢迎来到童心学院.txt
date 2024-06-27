@@ -1,0 +1,1194 @@
+== 欢迎来到童心学院 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=学院异变|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+港区·指挥室<br>
+此时此刻，我正看着手机上收到的消息——<br>
+“指挥官，我们被困在学院了！”<br>
+“居然发出去了——”<br>
+是{{AF|Z47}}的信息，与以往的轰炸式文字信息与各种表情包混发的形式不同，这次只有两条简短的文字信息。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（是恶作剧么？不对，{{AF|Z47}}不像是会恶作剧的人……总之先确认一下情况吧。）<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+指挥官，指挥官！<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+咳咳、指挥官……<br>
+<br>
+正当我准备进一步确认状况时，两道小小的身影冲进了指挥室。<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+{{AF|天城}}，你还好么？抱歉……一路拉着你跑过来……<br>
+虽说要时刻保持冷静……但是现在……唔……发生的事情让人根本冷静不下来！<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+我没事……只是因为不擅长运动而已……我们还是先把紧急情况告诉主上吧！<br>
+<br>
+'''''<span style="color:black;">选择项1：你们也有紧急情况？</span>'''''<br>
+'''''<span style="color:black;">选择项2：到底发生了什么事？</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''也……？指挥官已经收到求助了吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯，总之先和我说说到底发生了什么吧。<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+学院突然发生了异变！还在里面上课的同伴们完全失联了……外面的人也进不去……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……？失联……？）<br>
+异变发生的时候，{{AF|Z47}}也在里面么？<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+嗯，她在哦。<br>
+<br>
+我拿出手机试图与校园内的{{AF|Z47}}取得联系，但聊天气泡前出现了回复失败的感叹号。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来事态比预想中更加紧急……）<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+指挥官，看来我们只能亲自去调查一下了呢。<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+只靠我们恐怕力有不逮，主上，我们再叫些同伴来帮忙吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。{{AF|小天城}}、小企业，你们跟我一起去。我在路上呼叫支援。<br>
+<span style="color:#4eb24e;">小企业&{{AF|小天城}}：</span><br>
+遵命！<br>
+<br>
+港区·校园入口<br>
+不远处众人正一脸严肃地站在校园入口处。<br>
+<span style="color:#4eb24e;">{{AF|提尔比茨}}：</span><br>
+指挥官，我和姐姐在收到通讯后就第一时间就赶到了这里，可是无法打开大门……<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+嗯，不论是常规方法还是武力突破都试过了。<br>
+整座学院似乎进入了某种特殊的空间中，就像镜面海域一样，必须要满足特定的条件才能进入。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（镜面海域……在学院里？）<br>
+<br>
+在两人的说明中，我走到了学院大门前，靠近了安保系统的面部识别处。<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客{playername}认证失败。警告！警告！非认证人员不得入内！”<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+果然没那么容易啊……<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+嗯，我和{{AF|提尔比茨}}的认证也失败了，没想到就连指挥官的权限也会失灵啊。<br>
+不过，我们已经联系过{{AF|英格拉罕}}和灵敏，她们应该很快就到了。<br>
+<br>
+说话间，{{AF|英格拉罕}}和灵敏就赶到了，她们在简单了解情况过后便开始尝试攻破安保系统。<br>
+一段时间后——<br>
+<span style="color:#4eb24e;">{{AF|英格拉罕}}：</span><br>
+不行……还是弄不开。<br>
+<span style="color:#4eb24e;">灵敏：</span><br>
+嗯……因为我们面对的问题根本不是系统故障。<br>
+既然是寻找进入加密空间的方法，找个密码学专家来也许更有效……<br>
+<span style="color:#4eb24e;">{{AF|英格拉罕}}：</span><br>
+或者找到设立这套安保系统的人，我记得是{{AF|夕张}}吧……指挥官，你联系过她么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，在来的路上我联系过她，不过没有收到任何回复。<br>
+<span style="color:#4eb24e;">灵敏：</span><br>
+说起来，{{AF|夕张}}好像说今天要去学院里维护什么设备来着……难道她已经被困在里面了？！<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+制作者被困入其中，这样的话就有些麻烦了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（再怎么说，也不能对港区内部设施使用重火力，看来只能让TB解码试试了……）<br>
+<br>
+就在我思考如何进行救援行动时——<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客{{AF|U-31}}认证成功，请通行。”<br>
+<br>
+安保系统发出了一声柔和的通过提示，校园大门缓缓打开了。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+什么嘛~这不是往这一靠近，门就打开了吗~？<br>
+<br>
+而通过认证的人员——不知何时出现的{{AF|U-31}}。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+嘿嘿~指挥官，我来保护你啦。<br>
+虽然不清楚发生了什么事，不过门已经打开了哦。<br>
+<span style="color:#4eb24e;">{{AF|英格拉罕}}：</span><br>
+门居然就……这么打开了？<br>
+<span style="color:#4eb24e;">灵敏：</span><br>
+认证系统原来还有在正常工作么，我还以为铁定被锁死了！<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+……异变后，门禁系统的开启条件同样发生了改变么，有趣。<br>
+<span style="color:#4eb24e;">{{AF|提尔比茨}}：</span><br>
+大家快看校园内的景象……<br>
+<br>
+放眼望去，印有彩色图案的宣传标语映入眼帘。<br>
+——"童真，童心，童趣的乐园。"<br>
+<span style="color:#4eb24e;">{{AF|提尔比茨}}：</span><br>
+之前……校园里是没这个标语的，对吧？<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+嗯，没有哦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原来如此，或许是这样……<br>
+小企业，{{AF|小天城}}，你们也靠近门禁系统试试看？<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客小企业认证成功，请通行。”<br>
+“滴——访客{{AF|小天城}}认证成功，请通行。”<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+原来童真、童心和童趣就是通行条件啊！那让本调查员来试试吧~<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客布里斯托尔认证失败。警告！警告！非认证人员不得入内！”<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+欸……开什么玩笑！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+哼哼，看来作为调查员的你因为接触了太多黑暗秘密，已经失去童心咯~<br>
+还是让本冒险之王抚顺来试试吧~！<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客抚顺认证失败。警告！警告！非认证人员不得入内！”<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+……啊？冒险之王抚顺，抚顺啊！你这个系统是故意的吧！<br>
+气死我了……指挥官，我们直接把它炸了进去吧！<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+嘿嘿，别那么暴力嘛，让飞云大人来试试~!<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客飞云认证失败。警告！警告！非认证人员不得入内！”<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+怎么会QAQ！<br>
+<span style="color:#4eb24e;">安克雷奇：</span><br>
+安克雷奇……也要……！<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客安克雷奇认证失败。警告！警告！非认证人员不得入内！”<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+就连安克雷奇的认证也失败了……？奇怪，这个认证条件到底是怎么回事啊……<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+可是我和企业、还有{{AF|U-31}}就能进去……<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+埃尔德里奇，试试。<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客埃尔德里奇认证成功，请通行。”<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+原来如此……穿校服，或者是小船，这就是进入门禁的条件？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……看来如此。<br>
+（幸好，异变发生时有一些小船因为课外任务没有在学院内。）<br>
+（既然是这样的话，关于接下来的调查营救行动——）<br>
+<br>
+根据通过门禁的要求，很快小队就组建完毕了。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+吾的魔眼已给予吾启示，一切都是暗黑镇魂曲的阴谋！深陷绝境之友，由吾来拯救！<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+嘿嘿……指挥官大人，{{AF|大凤}}会好好完成这项任务的，请耐心等着我哦。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+放心吧指挥官，我会好好看住、咳……保护{{AF|小大凤}}安全的。<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+小队……需要一个名字。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+命名？那就叫清剿世界全部之恶小队吧！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+……意义不明。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+闪耀星星小队怎么样！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+……很可爱。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+可爱是可爱啦……不能有更时尚一些的名字了吗？<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+可恶！多么难得的不可思议事件啊！身为调查员的我居然被拒之门外！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+校服……校服……指挥官，我想要校服！<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+指挥官~飞云大人也想要校服~！<br>
+<br>
+就这样，在一片吵闹声中，救援小队正在进行出发前的最后准备。<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+指挥官，我也可以加入救援小队的，让我一起去吧？<br>
+<span style="color:#4eb24e;">{{AF|小天城}}：</span><br>
+{{AF|天城}}也可以……！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+再怎么说，你们两个受到了惊吓，还是留在外面休息吧。<br>
+<span style="color:#4eb24e;">小企业：</span><br>
+唔……好吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|U-31}}，拿好这个摄影设备。我们会从外部全程关注你们的行动，并为你们提供支援。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+知道啦！那么晚点见咯，指挥官~<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+吾的魔眼已预见了凯旋的未来，等着吾吧！<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+闪耀星星小队一定会把大家都救出来的！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+指挥官，拜拜。<br>
+<span style="color:#4eb24e;">安保系统：</span><br>
+“滴——访客闪耀星星小队认证成功，请通行。”<br>
+<br>
+「欢迎来到童心学院。」<br>
+「愿你在这里度过开心快乐的每一天。」<br>
+「愿你永远保持童真。」<br>
+「愿童心永驻。」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=叛恶者之歌|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+童心学院·童趣艺体楼<br>
+空荡的走廊中，只有风声作响，往复不停。墙上装饰用的音符松动，堪堪挂住，轻轻晃动。<br>
+嘎吱——<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+呜哇！怎、怎怎怎么回事！这个声音好奇怪！该不会是踩到陷阱了吧！指挥官，救、救我！<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+只是踩到坏掉的地板而已啦！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+……地上，埃尔德里奇，有发现。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+真的欸~指挥官你能看到吗？需要我把设备的角度调整一下吗~<br>
+还是说，指挥官只想看着可爱的{{AF|U-31}}呢~？<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+你这家伙……快点给我进入正题啦！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+哎呀，有人着急了呢~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……{{AF|U-31}}，你把镜头调整一下，让我看看地上的东西。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+好~<br>
+<br>
+从镜头中可以看到，地上散落着被人粗暴地撕下来的报纸标题大字——“保护”，“深夜”，“失踪”。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+难道是那个传闻……出发前布里斯托尔告诉我的……“因未被妥善保护，神秘生灵于深夜失踪”！！<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+不不不，一定是失踪的命运堕天使，为保护光明，堕入无尽的黑……不对！无尽的深夜！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+你们说的哪一种传闻都没听说过啦！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+……嘘。音乐声，发现。<br>
+<br>
+众人纷纷安静了下来，集中精神聆听，轻快又欢乐的曲调回荡在楼内，显得格外诡异。<br>
+<span style="color:#4eb24e;">孟菲斯：</span><br>
+指挥官，经过对比建筑结构图，声音来源的房间应该是这条走廊尽头的音乐教室。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来解决艺体楼的异常的关键就在那里了。<br>
+闪耀星星小队，准备前去调查。注意安全。<br>
+<span style="color:#4eb24e;">众人：</span><br>
+明白——<br>
+<br>
+童趣艺体楼·音乐教室<br>
+砰——！<br>
+随着闪耀星星小队破门而入，映入眼帘的是一幅奇妙的光景。<br>
+<span style="color:#4eb24e;">{{AF|小信浓}}：</span><br>
+欸~？你们来啦~都来陪妾身玩吧，妾身现在可是精神得不得了哦！<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+好无聊……提不起劲啊……不想吃点心……也不想看书……<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+发型也没什么好在意的吧，就这样散着就好了……<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+乐章……不想去演奏了……呼呼……没有音乐也好。<br>
+<br>
+伴随着音乐的旋律，教室中的学生们正慵懒地蹲坐在房间各处。<br>
+<span style="color:#4eb24e;">海伦娜：</span><br>
+指挥官，音乐教室内……似乎存在某种干涉精神的污染源，教室中的学生已经受到影响了。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+哪有什么奇怪的孩子……保护指挥官的安全什么的好麻烦哦，就在这里休息吧……<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+我不想当闪耀的星星了……帮上指挥官的忙也没什么用吧……<br>
+<br>
+埃尔德里奇什么都没说，只是默默放下了手中的探测棍，在角落里双手抱膝，坐到了地上。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+……欸？指、指挥官！你看到了吗！大家都变得好奇怪！<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+糟糕，污染源的强度超出预期，闪耀星星小队的成员已经受到影响了。<br>
+指挥官，我建议立刻让幸存的小队成员撤离并派遣救援人员。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+来不及了，直接摧毁教室内的干扰源是更快的手段。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+干扰源……对了，{{AF|Z43}}，你对于自己没受到影响有什么头绪么？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+难、难道是因为吾提前塞住了耳朵……？因为吾进来时担心有恶咒迎面袭击……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来这些音乐声就是干涉精神的原因。）<br>
+{{AF|Z43}}，你继续捂住耳朵，然后观察周围，能找到音乐出现的源头么？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+吾发现了几台音响！难道它们就是邪恶力量的源头？<br>
+需要吾将其破坏掉吗？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，只要想办法让音乐停下来，大家应该就能恢复正常了！<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+唔唔唔……够不着啊……又不能在教室里开炮……<br>
+<span style="color:#4eb24e;">莱昂纳多·达·芬奇：</span><br>
+听我说，或许不用破坏音响也能达成目的！<br>
+既然现在的音乐旋律是造成精神影响的原因，那只要破坏这个旋律本身就好了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（破坏旋律……音乐教室内倒是有的是乐器。）<br>
+{{AF|Z43}}你会演奏什么乐器么？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+那种事情吾不会啦——！哇啊啊啊，小{{AF|信浓}}，你不要扑上来呀！万一摔倒了会很痛的！<br>
+<span style="color:#4eb24e;">{{AF|小信浓}}：</span><br>
+妾身听见了指挥官的声音~！妾身要和指挥官一起玩~！<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+等会儿，等会儿！小{{AF|信浓}}，你先在这里坐一会儿，指挥官马上就到！<br>
+总之只要能打乱现在这个音乐，就可以了！对吧！<br>
+……这间教室里有音响和麦克风。汝放心吧，堕入深渊的大家，吾来拯救！<br>
+咳咳——！<br>
+<br>
+{{AF|Z43}}清了清嗓子，举起了连接着音响的麦克风。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+漆黑烈火之翼♪~签下契约之时♪~封印解除♪~啦啦啦♪~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=组成乐队吧♪|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+{{AF|Z43}}陶醉地唱完一曲后，音乐教室中的大家纷纷从反常状态中恢复正常。<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+嗯……？刚刚我似乎听见了很不可思议的音乐……不……或许那并不能称之为音乐……<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+有什么奇怪的东西冲进了脑子里……头发都乱成一团了……<br>
+<span style="color:#4eb24e;">{{AF|小信浓}}：</span><br>
+妾身似乎做了个噩梦……<br>
+<span style="color:#4eb24e;">海伦娜：</span><br>
+音乐教室内的精神干涉强度正在下降，太好了……果然是音乐旋律的问题。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|Z43}}，你做得很好，大家都恢复正常了吧？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+嗯！呼~我居然唱完了……哦，不！<br>
+——呵，宿命之人哟，这就是叛恶者的力量！<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+嗯？这个设备里发出了指挥官的声音哦？指挥官在指挥室偷看我们吗~？<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+不要凑得太近啦~指挥官明明只是看着我而已，对吧~？<br>
+<br>
+设备调转，画面中出现了{{AF|U-31}}的笑脸，但很快，小船们都挤进镜头里对我打招呼，除了……<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+这个发型也太乱了，绝对不可以让指挥官看到——！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+大家都平安无事就好。<br>
+<span style="color:#4eb24e;">企业：</span><br>
+指挥官，音乐只是被干扰了，并没有停止。是不是让大家先撤出去比较好？<br>
+<span style="color:#4eb24e;">{{AF|欧根亲王}}：</span><br>
+哟~企业，你也来了？<br>
+<span style="color:#4eb24e;">企业：</span><br>
+发生此等异常状况，我也放不下心来。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|U-31}}，你去开门。其他人保持警惕，准备撤离。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+明白~<br>
+<br>
+{{AF|U-31}}来到了门前。可是与来时不同，此刻的教室门就像嵌在空间之中，纹丝不动。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+欸……奇怪。指挥官，门打不开了哦。<br>
+<span style="color:#4eb24e;">莱昂纳多·达·芬奇：</span><br>
+或许是因为精神干扰的源头依然存在的缘故……所以大家才无法离开这间音乐教室。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+看来最后还是要用到爆破手段了啊。大家把所有音响设施都炸干净吧~<br>
+<span style="color:#4eb24e;">{{AF|腓特烈·卡尔}}：</span><br>
+我觉得继续用音乐来对抗音乐，才是最适合的方式哦。<br>
+你们看，教室的黑板上不也绘制着彩色的音符么？<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+嗯……要是用炮击的话，音乐教室会被炸上天的。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+吾、吾已经唱不动了……<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+嘿嘿，{{AF|圣地亚哥}}明白了，我们来组乐队吧！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+乐队……有趣。<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+唔……可是这里的人里除了{{AF|腓特烈}}，没人擅长演奏哦。<br>
+而且比起演奏，{{AF|腓特烈}}更擅长的是指挥……<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+虽然我也能教授大家基础的乐理知识……但是，我们没有时间了吧？<br>
+<span style="color:#4eb24e;">{{AF|腓特烈大帝}}：</span><br>
+演奏，用心最重要。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，不要太在意乐理知识，用心演奏吧！<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+好耶~演奏~开开心心地演奏~！<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+不过我们到底演奏什么会比较好？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+当然是符合吾——叛恶者身份和气质的重金属摇滚乐！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+欸……不要，好吵哦。<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+重金属摇滚……好累，换一种。<br>
+<br>
+闪耀星星小队讨论不出结果，又纷纷看向了镜头寻求场外援助。<br>
+<span style="color:#4eb24e;">长岛：</span><br>
+长岛觉得，不管是重金属摇滚、儿歌、还是民歌、流行音乐都可以有哦。<br>
+反正只要能够开心地演奏，用气势盖过干扰源的声音就好吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，大家自由演奏自己喜欢的，开心就好。<br>
+<span style="color:#ff9b93;">校园广播：</span><br>
+…滋…兴趣培养…滋…开心最重要…滋…<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+……指挥官，你们听到了么？有人在监控我们的行动！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+能确定声音的所属么？<br>
+<span style="color:#4eb24e;">契卡洛夫：</span><br>
+很遗憾，刚才广播中发出的是经过编辑的系统音，无任何个人特点，因此无法确定发声之人。<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+这究竟是……哇啊啊啊啊，你们又是从哪儿来的啊！<br>
+<span style="color:#ff9b93;">兴趣培养·石膏喵：</span><br>
+——————喵！<br>
+喵！喵！喵！喵！<br>
+喵！喵！喵！喵！喵！喵！<br>
+<span style="color:#4eb24e;">灵敏：</span><br>
+这些看上去是指挥喵……但样貌和材质有些奇怪。<br>
+<span style="color:#4eb24e;">{{AF|英格拉罕}}：</span><br>
+难道又是{{AF|明石}}在哪儿呢？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+在、在的喵！<br>
+<span style="color:#4eb24e;">{{AF|信浓}}：</span><br>
+{{AF|明石}}，这次与汝有关么？<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+没有喵！{{AF|明石}}发誓什么都不知道喵！<br>
+<span style="color:#ff9b93;">兴趣培养·石膏喵：</span><br>
+喵！喵！喵！喵！喵！喵！<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+……这些看上去像石膏的奇怪指挥喵，正在挥舞手中的乐器。<br>
+……难道是要跟我们比赛？<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+嘿嘿，闪耀星星乐队可不会输哦！<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+——让我们用音乐一较高下吧！<br>
+<br>
+<br>
+一曲结束，音响中的乐曲声终于消失了，异常的指挥喵纷纷停止行动立在了原地。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+指挥官，怎么样！我未来是不是也可以成为闪耀的偶像！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+明明是我比较出色吧~指挥官，你说对吧？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+吾之力量，随着摇滚的旋律得到了充分释放~<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+欸……真是一场精彩的演出啊。<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+…………<br>
+刚才的乐曲中饱含的情绪如岩浆般热烈……热烈到令人有些……难以接受。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不论如何……危机似乎解除了。那些石膏喵的情况如何？<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+似乎已经变成真正的石膏雕塑了哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看来……这场异常事件，和异常出现的指挥喵之间一定存在关联。<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+时间宝贵，分头行动吧。一队去调查异常的石膏喵，一队继续执行救援行动。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，现在队伍的人员得到了扩充，接下来分头行动确实效率更高。<br>
+闪耀星星小队，在确认艺体楼内没有其他同伴后前往主教学楼继续救援行动。<br>
+其余人员负责专心调查异常的石膏喵。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+闪耀星星小队收到~！<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+唔呼呼~放心将任务交予我们吧。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+等等……你们的小队还没有名字！这怎么行！<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+嗯？有这个必要么？<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+我觉得她说的有些道理，队名也是仪式感的一种嘛。<br>
+<span style="color:#4eb24e;">{{AF|小信浓}}：</span><br>
+那取名的工作就交予汝等了……妾身好困……Zzzz……<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+嘿嘿，我有个好名字哦~！<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+说来听听？<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+要不然，你们就叫炫彩猫猫小队吧！<br>
+<span style="color:#4eb24e;">{{AF|小欧根}}：</span><br>
+可以拒绝这个名字吗？<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+好啦好啦~取名环节结束！<br>
+大家开始行动吧！看看闪耀星星和炫彩猫猫谁能更快地完成任务！<br>
+指挥官要送给胜利的小队很多很多奖励哦！<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+很多很多奖励……那炫彩猫猫小队也不会输哒！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来事情就这么被决定了……？）<br>
+（也好……如果这样能令她们打起精神来的话。）<br>
+<br>
+再三叮嘱双方都要注意安全后，两支小队开始了各自的行动。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=巨大指挥官|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+从童趣艺体楼离开后，闪耀星星小队很快进入童心教学楼展开搜查。排查过后，仅剩一间教室有异常。<br>
+隔着紧闭的门，教室中传来了“哒哒”的不规则响动。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+暗黑镇魂曲可真喜欢用深渊回响这种招数呢！事不过三，吾可不会害怕了！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+噗……你刚刚是承认自己之前在害怕了吧~？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+啊啊啊——！我才没有害怕！我、吾，吾开门进去了哦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|Z43}}，冷静一点。保持住阵型，小心行事。<br>
+<br>
+{{AF|U-31}}谨慎地推开了门，教室里面堆积满了积木，堆积高度甚至超过了她们的身高。<br>
+积木堆上，一只异常石膏喵在黑板上写写画画，发出了刚刚在教室外听见的声响。<br>
+<span style="color:#ff9b93;">趣味玩乐·石膏喵：</span><br>
+——————！喵！<br>
+<br>
+异常石膏喵发现了闪耀星星小队的到来，惊叫一声，一头扎进了积木堆里，不见了。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+指挥官，异常的石膏喵又出现了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+找到它。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+邪恶的黑影哦，居然藏匿于荒芜的烈焰之原，吾的魔眼已经全部看穿了。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+……它就是在我们眼前跳进积木堆里的吧，快点把它找出来吧。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+哦，好……<br>
+<br>
+闪耀星星小队艰难地爬上了积木堆，开始翻找异常石膏喵。<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+探测棒，没反应……<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+我抓到了！这个软软的布料，肯定是指挥喵的帽子吧！<br>
+<br>
+{{AF|小圣地亚哥}}一把将抓到的东西揪了出来，自己也失去平衡仰面倒在积木堆上。<br>
+<span style="color:#4eb24e;">小贝法：</span><br>
+请、请不要抓着我的围裙不放。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+欸？是贝法！找到贝法了，我真的超厉害的吧！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+长长的，细细的……是尾巴？<br>
+<br>
+埃尔德里奇一把将抓到的东西揪了出来。<br>
+<span style="color:#4eb24e;">小可畏：</span><br>
+呜哇哇！不要抓淑女的头发，好疼！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+抓到了硬硬的东西……这次肯定是了吧，毕竟那只指挥喵看上去是石膏做的！<br>
+<br>
+{{AF|U-31}}一把将抓到的东西揪了出来。<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+那是{{AF|斯佩}}的铁爪爪……<br>
+<br>
+就这样，闪耀星星小队误打误撞地将小贝法、小可畏、小{{AF|斯佩}}营救了出来——<br>
+稍作休息，大家准备离开时，却发现教室门与之前的音乐教室门一样，紧紧的与墙壁融为了一体。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+看来这次和之前一样，又要在房间内寻找线索了呢。<br>
+指挥官，我带着设备在房间里巡逻，你看到在意的地方就喊停我哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……房间之中，除了堆满的积木，只剩下异常石膏喵留在黑板上的内容能称为有效线索了。）<br>
+<span style="color:#4eb24e;">小贝法：</span><br>
+黑板上写的是……“积木课”，还画了很多积木的造型图。<br>
+如果需要遵循一定的条件才能开门，那要不要先试着仿搭黑板上的积木造型？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（在音乐教室中，大家并没有演奏正式的乐谱，而是随心所欲地胡乱演奏。）<br>
+（所以这次，也不应该按照图纸循规蹈矩地搭建积木才对……）<br>
+不必理会图纸，大家按照自己的喜好自由地搭建积木吧。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+自由地搭建积木……<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+……积木，喜欢……指挥官。<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+大家最喜欢的，肯定都是指挥官……<br>
+那我们就用积木搭一个“指挥官”吧~！<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+唔……比起漆黑之翼，吾确实也更喜欢指挥官……<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+……欸~指挥官大人还真是受欢迎呢~<br>
+那就让我们一起搭建一个巨大的指挥官吧~！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+（哎呀……看来以后要进一步“好好保护”指挥官了……）<br>
+（不过现在还是先合作把积木搭好~赶紧出去，然后回到指挥官的身边才行~嘻嘻。）<br>
+<br>
+少女们开始着手积木的搭造，逐渐沉浸在了玩乐的氛围中。<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+那我要给指挥官的手上搭一个心心~<br>
+<span style="color:#4eb24e;">小可畏：</span><br>
+这个动作不够优雅，手要这样摆~这样就很符合礼仪啦~<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+指挥官遗落的翅膀！吾已经为其寻回了！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+指挥官的头发走势搭错啦！这个应该朝左边，这个应该朝右边……<br>
+<br>
+在一番讨论和搭造后，积木“指挥官”终于完成了。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+大功告成！哼哼~指挥官快看，这个“巨大指挥官”超厉害的吧！<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+哇哦……这个“巨大指挥官”的积木雕塑，非常有艺术性啊。<br>
+<span style="color:#4eb24e;">阿尔弗雷多·奥里亚尼：</span><br>
+……你还懂这些？<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+你们看，在雕塑手中那团怪异又扭曲的圆球，仿佛象征着聪明绝顶的指挥官所拥有的禁忌知识。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+那个是爱心哦！<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+爱、爱心……？<br>
+那雕塑背后那些象征未知与神秘的奇怪挂饰呢？<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+是，天使的翅膀……<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+啊……哈，哈哈哈……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……我在你们眼中究竟是什么形象啊。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+指挥官在我们眼中就是这样的~我觉得很可爱！嘿嘿~<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+还剩下最后一块积木，可以放在哪里呢？<br>
+猫咪形状的积木……要不放在肩膀上当宠物？<br>
+<br>
+{{AF|小斯佩}}抱起了最后一块“积木”，它的样子像极了指挥喵。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+啊！是异常石膏喵！<br>
+<span style="color:#ff9b93;">校园广播：</span><br>
+…滋…趣味玩乐…滋…趣味成长…滋…<br>
+<span style="color:#ff9b93;">趣味玩乐·石膏喵：</span><br>
+——————！喵！<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+用积木一决胜负吧！<br>
+<br>
+<br>
+轰隆隆————<br>
+异常石膏喵所搭建的大型石膏喵积木雕塑在巨大指挥官积木雕塑的撞击下变得支离破碎。<br>
+教室的大门重新开启，石膏喵也再次变为了真正的雕塑。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+哼哼，不愧是我们闪耀星星小队！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+童心教学楼救援任务，圆满成功~下一站我们去——<br>
+<br>
+轰隆隆————<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+这是……地震？<br>
+<span style="color:#4eb24e;">小可畏：</span><br>
+呜哇哇——发生了什么！皇家的淑女可不能……站不稳了！<br>
+<br>
+画面随着轰鸣声剧烈震动，仿佛正在经历大地震一般。<br>
+而在学院外的临时指挥中心处，则没有感受到丝毫震动。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（这是……异常空间内部正在发生剧烈变化？）<br>
+所有人，快离开教室前往空地避难！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=健康活力Fight|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+画面中，震动与轰鸣声仍旧没有停下。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+操场上的震感怎么好像更强烈！指挥官，我们该怎么办……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+保持镇定。在保证自身安全的前提下，先检查周围的是否有引发异常现象的设施——<br>
+<span style="color:#4eb24e;">{{AF|Z47}}：</span><br>
+呜哇啊啊啊啊啊——！救命啊——！！！<br>
+<span style="color:#4eb24e;">{{AF|小斯佩}}：</span><br>
+那边的是……{{AF|Z47}}？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+还有小克利夫兰，{{AF|小齐柏林}}和小声望……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|U-31}}，快把镜头对过去。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+明白~！<br>
+<br>
+操场的另一端，{{AF|Z47}}正在高速移动的跑道上慌乱地奔跑着。<br>
+而在跑道内侧的小声望，{{AF|小齐柏林}}和小克利夫兰则在看见闪耀星星小队后露出了惊喜的神情。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看来高速移动的跑道就是这场“地震”的源头……）<br>
+（按照之前的惯例，想要让跑道停下来肯定也要满足某种特殊条件……）<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+叛恶者绝不会抛下身陷囹圄的同伴——！吾来拯救汝！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+等等——！<br>
+<br>
+{{AF|U-31}}一同高速奔跑了起来。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+……啊啊啊——！救命啊——！！<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+事态越来越严重了……<br>
+可恶，未来的海上骑士才不会被跑道打倒，让我去救——<br>
+<br>
+有了{{AF|Z43}}和小声望联手摁住了小克利夫兰，阻止了她的冲动行事。<br>
+<span style="color:#4eb24e;">{{AF|小齐柏林}}：</span><br>
+笨蛋！你跳上去只会变成三个人一起跑步吧！<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+可是也不能眼睁睁继续看着吧……<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+事已至此，快使用舰炮把操场炸断吧！<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+人和跑道都在移动，万一误伤了怎么办！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+用小口径啊！<br>
+<span style="color:#4eb24e;">飞云：</span><br>
+有道理欸！<br>
+<span style="color:#4eb24e;">鞍山：</span><br>
+有道理个鬼啊！<br>
+<span style="color:#4eb24e;">{{AF|小齐柏林}}：</span><br>
+……我有办法了。<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+要怎么做——<br>
+<br>
+{{AF|小齐柏林}}突然抓着小克利夫兰的腰，将她高举起来。<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+哇啊啊！你怎么把我举起来了？！<br>
+<span style="color:#4eb24e;">{{AF|小齐柏林}}：</span><br>
+然后……<br>
+<br>
+{{AF|小齐柏林}}开始高速转起圈来。<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+欸——？难、难道说——<br>
+<span style="color:#4eb24e;">{{AF|小齐柏林}}：</span><br>
+吃——我——一——炮——！<br>
+<br>
+砰——！<br>
+小克利夫兰如同离弦的导弹一般精确命中了在跑道上奔跑的{{AF|Z47}}，三人滚成一团离开了跑道。<br>
+<span style="color:#4eb24e;">{{AF|小齐柏林}}：</span><br>
+呼——问题解决。<br>
+<span style="color:#4eb24e;">{{AF|齐柏林伯爵}}：</span><br>
+嗯……真是个有创意的解决方案呢。<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+就是事先预告一下就更好了，疼疼疼……<br>
+你们是来调查校园内情况的吧？通过这个摄像头和外部联系？<br>
+指挥官——！能听见我说话吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+通讯清晰。在我们来之前，这里发生了什么事？<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+哎……我们其实也不是很清楚。<br>
+原本教室的门突然打不开了，走廊里还有些奇怪的指挥喵在跑动。<br>
+后来好不容易教室的门开了，我们想先跑到操场看看情况，结果跑道又突然动了起来。<br>
+再之后，就是你们看到的了。<br>
+<span style="color:#4eb24e;">小贝法：</span><br>
+如果放任移动的跑道不管，整个校园会在震动中被逐渐摧毁的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+没错，必须要尽快让移动的跑道停下来。<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+指挥官你看！现在跑道上没人了，我们是不是可以……<br>
+<span style="color:#4eb24e;">鞍山：</span><br>
+抚顺——————！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+别我错了，鞍山姐……啊，疼、疼，别拧我耳朵啊鞍山姐！<br>
+<span style="color:#ff9b93;">校园广播：</span><br>
+…滋…健康活力…滋……青春无价…滋…<br>
+<span style="color:#ff9b93;">健康活力·石膏喵：</span><br>
+——————！喵！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+哦？我已经找到规律了，这次是比体育么？<br>
+那就用运动力来一决胜负吧~<br>
+<br>
+<br>
+经过了105圈的比试，异常石膏喵全数败下阵来。<br>
+比试失败的石膏喵全数变成了石膏雕塑，跑道也停了下来。<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+呼……呼……知道未来海上骑士的厉害了吧！<br>
+<span style="color:#4eb24e;">小声望：</span><br>
+堂堂正正的比试我可是不会输！<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+好耶！果然我们是最厉害的~！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+那么接下来——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+大家跑完之后都很累了，在执行接下来的调查之前，先休息一下吧。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+嘿嘿，不愧是体贴的指挥官，我正想这么建议呢~<br>
+<br>
+操场之上，少女们开始了休息时光。<br>
+而后，很快休息时光转变成了游戏时光——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……虽说异变还没被彻底解决，不过——也不错吧。）<br>
+<br>
+为了不打扰她们，我暂时将前线频道从临时指挥室公屏切换到了私人频道。<br>
+此刻的健康活力操场上，大家正热热闹闹地使用着操场上的各类设施游玩，只有{{AF|Z47}}独自坐在跷跷板上玩手机。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|Z47}}你不和大家一起玩么？<br>
+<span style="color:#4eb24e;">{{AF|Z47}}：</span><br>
+好吧，既然指挥官都这么说了……那就不玩手机了……<br>
+但是……指挥官又不在，我不知道和大家说什么……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+虽然我人不在现场，但是还是可以通过这种方式可以陪着你呀？<br>
+今天多亏你发来的求救消息，我才能在第一时间组织救援赶来。<br>
+<span style="color:#4eb24e;">{{AF|Z47}}：</span><br>
+可是……指挥官都没有回我消息……虽然知道可能是因为异变的关系……<br>
+……这样啊，我发的短信帮上忙了啊。<br>
+那我想要奖励。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+什么奖励？陪你一起玩跷跷板？<br>
+<span style="color:#4eb24e;">{{AF|Z47}}：</span><br>
+事件结束后，单独陪我出来玩……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一言为定。<br>
+<span style="color:#4eb24e;">{{AF|Z47}}：</span><br>
+那就这么说定了……不准反悔哦。<br>
+<br>
+将视线从屏幕上收回，重新梳理了一遍当前的情况。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（校园大门，教室门，健康活力操场跑道都是基础设施。）<br>
+（所有的破解规则，都与“童心”、“开心”有关，而且每个区域都会有异常石膏喵的出现……）<br>
+<br>
+几条线索结合后，我想起了不久前曾审批过的一份提案。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（「校园陪伴系统」建设方案……提案人……{{AF|夕张}}。）<br>
+（而恰好，{{AF|夕张}}也在校园失联人员名单之内。）<br>
+（难道说，本次事件的真实原因，会和这个系统有关系么……）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=拯救老师大作战|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+休息时间结束，探索救援行动再度开始。<br>
+此刻，推测校园内的理性办公楼内仍有被困人员。<br>
+为了加快效率，众人再次一分为二。<br>
+闪耀星星小队从办公楼正门进入，而其他人则组成“酷酷骑士队”从后门进入。<br>
+童心学院·理性办公楼<br>
+或是因为天色暗淡，也或许是在先前的行动中耗尽了体力，这一路众人少有言语。<br>
+咔哒——咔哒——咔哒——<br>
+黑暗之中，传来了一串质感冰冷的脚步声。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+这个声音是，嘶——<br>
+咿呀呀呀——！！！！暗黑镇魂曲！！！！<br>
+我可是叛恶者啊！！你们不要过来啊！！！<br>
+<br>
+在脚步声即将转过拐角的瞬间，{{AF|Z43}}决定率先出击。<br>
+伴随着{{AF|Z43}}也猛地回身——亚尔薇特和约克公爵出现在了画面内。<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+我们是听到声音后出来调查的，怎么是你们……？<br>
+抱歉，吓到你们了。<br>
+<span style="color:#4eb24e;">约克公爵：</span><br>
+是余同亚尔薇特思虑不周，令汝等受惊了。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+没有哦~明显是{{AF|Z43}}一惊一乍的反应更吓人吧！<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+你们怎么会来这里，外面的情况如何了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+关于这一点，还是由我来说明吧。<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+原来如此，发生了这么多事啊……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你们这边呢，办公楼的情况如何？<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+我们这边也确实遇到了些情况……<br>
+请跟我来办公室吧。等到了办公室，大家一看便知。<br>
+<br>
+理性办公楼·教师办公室<br>
+<span style="color:#ff9b93;">理性思维·石膏喵：</span><br>
+喵！喵！喵！喵！<br>
+<br>
+此刻，办公室中已经成为了石膏喵的天堂。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+这……这是怎么回事？<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+如各位所见，办公室已经被这群突然出现的小家伙占领了。<br>
+它们虽然没有展现出敌意，不过也丝毫没有离开的打算。<br>
+<br>
+正如亚尔薇特所言，充斥着教师办公室的石膏喵只是高举手中的出题板，在地上成群结队奔跑着。<br>
+而在办公室的角落中，则堆积着更多的出题板。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那些角落中的出题板是……？<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+那些啊……这些石膏喵虽然没有展现出敌意，但是会一直递过来出题板。<br>
+刚才想着也是闲着，就顺手做了些练习……<br>
+<span style="color:#ff9b93;">理性思维·石膏喵：</span><br>
+喵！喵！喵！喵！<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+出题板……递过来了。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+我知道了，这是要我们也来做题的意思呀！<br>
+<br>
+{{AF|小圣地亚哥}}。<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+这种题目太简单啦！不需要闪耀星星小队的队长出手！<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+呵……我、不是……吾的魔眼早已将冥冥中的答案全都告诉了吾……我就不参与了！<br>
+埃尔德里奇哟，此等重担就交付于汝手了。<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+不想做的话我来做，指挥官大人可是在看着哟~<br>
+<span style="color:#4eb24e;">埃尔德里奇：</span><br>
+……简单。<br>
+……题目，完成。<br>
+<br>
+埃尔德里奇以最快的速度完成了题目，石膏喵接过了她提交的题板，进行检查。<br>
+<span style="color:#ff9b93;">理性思维·石膏喵：</span><br>
+喵喵~~！！<br>
+<br>
+石膏喵开心地高高蹦起，在空中分裂成了两只。<br>
+<span style="color:#4eb24e;">{{AF|瑞鹤}}：</span><br>
+咦——竟然分裂了？！<br>
+<span style="color:#4eb24e;">{{AF|翔鹤}}：</span><br>
+这些石膏喵的异常特性……是分裂么。<br>
+<br>
+随后，分裂出来的石膏喵拿来了更多的题板。<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+又、又来了？我要做不完了啦——！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+咦？按照这样下去的话，岂不是会越做越多？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……看来顺着它们的行为来解题不是正确的思路。<br>
+<span style="color:#4eb24e;">克莱蒙梭：</span><br>
+或者……“给出正确的回答”这一行为是错误的？<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+你的意思是故意填写错误的答案么？<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+这种事我喜欢，就交给我吧~<br>
+<br>
+{{AF|U-31}}在出题板上画了一只小乌龟，然后递给了石膏喵。<br>
+<span style="color:#ff9b93;">理性思维·石膏喵：</span><br>
+喵——！！！<br>
+<br>
+石膏喵愤怒地给了{{AF|U-31}}一记头槌，落在地上后，由一只变成了两只。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+呜……好痛！<br>
+真是的！答对不行，答错也不行，那就干脆把它们丢在这里不管吧！<br>
+反正之前亚尔薇特她们把这些石膏喵丢在这里离开也没出什么问题嘛……<br>
+<br>
+{{AF|U-31}}一边说着一边来到了门前。可是与来时不同，此刻的办公室门就像嵌在空间之中，纹丝不动。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+欸……好奇怪啊，之前亚尔薇特不是能自由出入么？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……不出所料，看来只能先着手解决眼前的问题了。）<br>
+（根据之前的经验，要停止石膏喵的分裂行为，一定与童心与开心有关。）<br>
+（可是童心与开心，不等于要故意做错题，实际上做错题也确实没能解决问题。）<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+哼，真麻烦。它们要你们做题，你们就做题么？<br>
+这些麻烦的板子，一把火全烧了不就得了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……我明白了，原来盲区在这里。<br>
+<span style="color:#4eb24e;">{{AF|赤城}}：</span><br>
+嗯？指挥官也同意么，那{{AF|小大凤}}，准备点火。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……不是这个意思！<br>
+这里的盲点在于，不是不应该答题，而是——不应该只答题。<br>
+学习，要讲究劳逸结合才是。<br>
+<span style="color:#4eb24e;">安克雷奇：</span><br>
+劳逸……结合。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+呵呵……原来如此。<br>
+多亏了某人，现在办公室内已经累计做了足够多的题，接下来只需要“逸”就可以了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。接下来大家要做的事就是休息。放松、尽兴地去玩吧——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=与童心重逢之时|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+经过一段时间的游戏，房间内的绝大多数石膏喵都变成了雕塑。<br>
+可是依然有三五只石膏喵依然在坚定地高举着出题板。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（闪耀星星小队已经玩了很久了，可无论如何它们都没有消失……是还遗漏了什么？）<br>
+<span style="color:#ff9b93;">理性思维·石膏喵：</span><br>
+喵……喵……！<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+这些烦人的小家伙们，是生气了~？<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+欸……不会又是要我们做题吧……？<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+劳逸结合的话，确实一直玩乐不学习也不可取呢。<br>
+<span style="color:#4eb24e;">约克公爵：</span><br>
+可是继续做题，就会导致其继续分裂，届时可就前功尽弃了哟。<br>
+<span style="color:#4eb24e;">企业：</span><br>
+有更简单的办法。在此前的调查中，参与空间解密的原因在于一开始没能找到异常的石膏喵。<br>
+现在石膏喵已经完全现身，我们直接用战斗消灭它们就可以了。<br>
+至于在室内战斗控制损害范围的方式，用近战武器即可。<br>
+<span style="color:#4eb24e;">大黄蜂：</span><br>
+欸……真的要用这么暴力的方式么。我觉得那些石膏喵还挺可爱的……<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+而且……很具有研究价值喵！<br>
+<span style="color:#4eb24e;">企业：</span><br>
+救出被困人员才是第一要务。指挥官，请决断。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯…………<br>
+<br>
+'''''<span style="color:black;">选择项1：好吧，直接战斗。</span>'''''<br>
+'''''<span style="color:black;">选择项2：我还想再试一下解密。</span>'''''<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''战斗，爽！冲啊，闪耀星星小队！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''亚尔薇特、约克公爵，在办公楼期间，你们还有发现什么与“童心”“开心”相关的信息吗？<br>
+<span style="color:#4eb24e;">亚尔薇特：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''有，指挥官，稍等。<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''亚尔薇特拿出了一份校报，版面上的两个巨大的标题随即出现在屏幕中。<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''「深夜失踪的指挥喵，传闻它会说话！」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「保护童心 ，给所有人一个开心、童真的乐园！」<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊！原来不是“因未被妥善保护，神秘生灵于深夜失踪”啊！<br>
+<span style="color:#4eb24e;">{{AF|Z43}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''怎么不是“失踪的命运堕天使，为保护光明，堕入无尽的深夜”！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''你们说的哪个都不对啦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（保护童心 ，给所有人一个开心、童真的乐园……给“所有人”。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我明白了。不光是闪耀星星小队的成员，所有人，包括教职工在内也要一起玩游戏。<br>
+<span style="color:#4eb24e;">约克公爵：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''吾等……也要一起？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯，所有人都应该一同享受这个开心、童真的乐园。<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''亚尔薇特和约克公爵点了点头，加入到了孩子们的游戏之中。<br>
+<span style="color:#ff9b93;">校园广播：</span><br>
+…滋…理性学习…滋…大家……劳逸结合…滋…<br>
+<span style="color:#ff9b93;">理性思维·石膏喵：</span><br>
+————！<nowiki>~~~</nowiki>！！喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=失控的童心|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+经过一番波折，众人终于成功离开了理性办公楼。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+指挥官，校园内的主要建筑我们都调查一遍了。接下来——<br>
+<span style="color:#4eb24e;">{{AF|英格拉罕}}：</span><br>
+稍等。指挥官，我有一个紧急情况需要汇报。<br>
+我们已经确认，「校园陪伴系统」的系统终端就位于校园总控室中。<br>
+而失联的{{AF|夕张}}，很可能也在那里。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（总控室……那看来那里就是本次异常的发生源头。）<br>
+召集其余两支小队，所有人向总控室的位置集中。<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+明白~<br>
+<br>
+童心学院·总控室<br>
+总控室中，巨大的屏幕上闪烁着的彩色噪点，拼凑成了同校园门口相同的标语。<br>
+——“童真，可爱的乐园”。<br>
+操作面板前，站着一只巨大的异常石膏喵，眼中闪烁着危险的蓝光。<br>
+而正在与它对峙的人——<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+是{{AF|夕张}}了！<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+太好了……你们的支援终于到了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+{{AF|夕张}}，现在的情况如何了？<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+陷入了僵局……不过有了你们的帮助，这场危机一定能得到化解。<br>
+<br>
+{{AF|夕张}}一边警惕异常石膏喵，一边简单快速地说明了情况。<br>
+原来，{{AF|夕张}}今天本应该对陪伴系统进行常规的检查维护，可就在她将系统关停的瞬间，异常事态发生了。<br>
+本该被关停的系统陷入了某种异常启动模式，大量石膏喵源源不断走下了生产线。<br>
+而就在{{AF|夕张}}，抢走了她的工具箱。<br>
+再之后，就出现了那个笼罩整片学院的特殊空间。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+可以基本认定，袭击{{AF|夕张}}对峙的巨大石膏喵……<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+嗯。等我再次醒来的时候，一切都晚了……<br>
+还好，整个陪伴系统还有最后一道保险。<br>
+<br>
+{{AF|夕张}}指了指自己手中紧握的操纵杆。<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+当我拉下操纵杆后，它必须在五秒内摁下控制台上的正确按钮，无效我的指令，否则陪伴系统的电源将被强制切断。<br>
+而当它要过载陪伴系统将影响进一步扩大时，我也必须拉下操纵杆无效它的指令。<br>
+所以……如各位所见，此处就变成了这幅陷入僵持的景象……<br>
+<span style="color:#ff9b93;">永葆童心·石膏喵：</span><br>
+喵<nowiki>~~~~~</nowiki>！<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+原来如此~原来如此~<br>
+可是现在我们来了，平衡就该打破了吧？<br>
+<span style="color:#4eb24e;">{{AF|小腓特烈}}：</span><br>
+行动目标，击败异常石膏喵！<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+只要打败它，我们就可以回去了！<br>
+<span style="color:#4eb24e;">{{AF|小信浓}}：</span><br>
+回去……有软软的、舒服的床，还有指挥官……<br>
+<span style="color:#4eb24e;">{{AF|小圣地亚哥}}：</span><br>
+大家，冲鸭——！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=愿童心永驻|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+终于，在击败了最终、最初、也是最强的石膏喵后，以其为核心的镜面海域土崩瓦解。<br>
+{{AF|夕张}}也得以关闭了校园陪伴系统。<br>
+一段时间后的童心学院——<br>
+<span style="color:#4eb24e;">布里斯托尔：</span><br>
+不愧是指挥官，学院中的不可思议就这样被解决了！<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+嘿嘿~大家也都很有成为冒险之王的潜力嘛~<br>
+<span style="color:#4eb24e;">{{AF|Z47}}：</span><br>
+好累……我要找个地方躺下狠狠玩手机……<br>
+<span style="color:#4eb24e;">{{AF|U-31}}：</span><br>
+终于可以回来保护指挥官的安全了~让我摸摸…闻闻……<br>
+<span style="color:#4eb24e;">{{AF|小大凤}}：</span><br>
+你这家伙，离指挥官大人远一点啦！<br>
+<br>
+大家吵吵嚷嚷闹作一团，在彼此的追逐打闹声中，“奖励”如约而至。<br>
+<span style="color:#4eb24e;">敦刻尔克：</span><br>
+大家久等了——这是指挥官特别叮嘱我为大家准备的凯旋甜点。<br>
+<br>
+一份份精美的蛋糕和马卡龙送到了孩子们的手中。<br>
+<span style="color:#4eb24e;">{{AF|小齐柏林}}：</span><br>
+好美味——指挥官，敦刻尔克，我希望每天都可以吃到！<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+会变胖……可是……好吃！指挥官也一起吃！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+慢慢吃，别噎到了。企业她们去拿饮料了，等下记得去喝。<br>
+<span style="color:#4eb24e;">小可畏：</span><br>
+知道啦~<br>
+<br>
+一场在学院中举行的简易庆功茶话会就此开始——<br>
+与此同时，总控室内——<br>
+{{AF|夕张}}一行人正在维修校园陪伴系统。<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+没想到“陪伴情感”模块这一小段错误代码会导致陪伴系统变得异常极端。<br>
+不仅强制大家执行任务，还产生了异化石膏喵监督大家……<br>
+本来应该是引导大家去做开心的事情，享受校园时光，却因为极端的情感而变成了强制享受校园时光……<br>
+<span style="color:#4eb24e;">{{AF|英格拉罕}}：</span><br>
+万幸没有人受伤……<br>
+<span style="color:#4eb24e;">灵敏：</span><br>
+欸……维护，升级……是个大工程呢……<br>
+<br>
+操场那边轻松愉快的欢笑声传来，伴随着柔和而温暖的阳光。<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+不过还是有必要给陪伴系统做维护升级的……<br>
+毕竟它的设计初衷是——<br>
+<br>
+{{AF|夕张}}回想起了不久以前，小小的女孩们结伴来到了她的工作室。<br>
+<span style="color:#4eb24e;">小海伦娜：</span><br>
+{{AF|夕张}}，能拜托一件事吗？<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+怎么了？如果是梳头发的话……我可能不大擅长哦。<br>
+<span style="color:#4eb24e;">小克利夫兰：</span><br>
+其他姐姐们说之后会时常抽空来学院陪我们玩，指挥官也说要常来。<br>
+{{AF|夕张}}能帮我们做一个系统，引导我们带着大家一起玩么？<br>
+<span style="color:#4eb24e;">{{AF|夕张}}：</span><br>
+“愿所有人都能够度过开心、快乐的一天。”<br>
+<br>
+「欢迎来到童心学院」·END<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=秘密的练习时间|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+一切尘埃落定，在茶话会开启后不久，突然发现遗漏了一件事。<br>
+——由于总控室突发状况，在确认救援人员名单时被打断了。<br>
+而名单上最后一位仍被困在校园内的人，正是光辉。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（嗯……就让大家好好休息一下，我自己去找光辉吧。）<br>
+<br>
+一段时间后，在学院里的某间准备室中发现了光辉的身影。<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+指挥官？怎么神色那么紧张……？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯？你没遇到什么奇怪的事、也没听到什么奇怪的声音么？<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+……奇怪的声音？<br>
+光辉的脸上浮现出了不自然的红晕。<br>
+难道是指挥官在准备室门口……听到了什么么？<br>
+不过，就算被指挥官听到也没关系，是光辉在练习安抚孩子的歌……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（看这个反应，光辉大概全程都在这里认真练习，不知道学院中发生的异变。）<br>
+（嗯……找个时机告诉她吧。）<br>
+安抚小孩子的歌？<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+是的，前几天我刚买了一些教授照顾孩子技巧的书，就是桌上这些哦。<br>
+里面写着“安抚情绪用的歌曲”也是非常照顾过程中非常重要的一环。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+原来如此，光辉是一直在这里练习，想更好地去照顾学院中的大家么？<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+没错。不过……我是想给大家一个惊喜，所以才自己偷偷躲起来在这边练习。<br>
+但是这样一来，就没办法知道自己的练习成果如何了……<br>
+<br>
+'''''<span style="color:black;">选择项1：需要陪练么？</span>'''''<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+指挥官愿意做光辉的练习对象？呵呵，那太好了——<br>
+请容许光辉好好想一想，让指挥官从哪一项开始帮光辉验证练习的成果。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+原来不止是歌曲么？<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+当然。只是歌曲的话，就没有必要偷偷在这里练习了呢。<br>
+啊，光辉想到了。现在就请指挥官先靠过来吧？<br>
+依言照做后，光辉带着温柔的微笑，将她的手移到了我的背部。<br>
+一下、两下……轻轻地拍打着。<br>
+指挥官感觉如何呢？书上说这样轻柔地拍背能让孩子很快安静下来哦。<br>
+伴随着柔和的吐息，一阵阵倦意开始袭来。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+确实很有效……<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+指挥官困了吗？在光辉的怀里睡一觉也可以哦？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+答应你要陪你验证练习的成果，现在睡过去也太不像话了。<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+没关系，时间还长哦。等指挥官醒过来再继续后面的练习事项也不迟。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯……<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+思考了片刻后，决定趁现在这个时机将学院中的事件告诉光辉。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+——所以，如果我们一直不回去的话，大家也会担心的。<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+啊，原来是这样……我太过投入练习，完全没有发现出现了异变。<br>
+甚至还让指挥官留在这里陪我练习……<br>
+少女的语气既不好意思又带着明显的自责。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+不是光辉的错，是我一开始没有告诉你。<br>
+我们就先回去吧？至于后续的练习事项么……<br>
+有了，要不要做个约定？<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+约定？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+等“茶话会”结束，我再陪你练习吧。<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+呵呵，那就这么约定好了。<br>
+和大家的茶会结束之后，指挥官要陪着光辉，将光辉学习到的每一项技巧都验证一遍哦——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
