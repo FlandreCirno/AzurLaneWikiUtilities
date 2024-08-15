@@ -1330,12 +1330,12 @@ Sorry, but I'd rather be safe than sorry.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 I understand how you feel, but that gun and I have come a long way.<br>
 After you realize I'm clearly not a threat, I'd really like it back.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Now settle down a moment, stranger. First, let's empty that cylinder...<br>
 Hm? That's... the mark of the Van der Light Gang!<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 What? Is this person with them?!<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 There's no doubt about it. The mark on the gun proves it.<br>
 But the rumors say only the founder of the gang, the Commander, has a gun with that mark...<br>
 <span style="color:#4eb24e;">Herring：</span><br>
@@ -1350,23 +1350,23 @@ Ahem. Hey, are you really the Commander?<br>
 '''''<span style="color:black;">选择项2：Want an autograph, or something?</span>'''''<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Don't bother refusing, because I won't believe it!<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''That's right! This is definitely the real deal!<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''You mean it? Okay–wait, I don't even have pen or paper!<br>
 '''''<span style="color:black;">（选择项2）</span>'''''We'll have to wait 'til we're back in town...<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Hmm... What brings you around to these parts anyway, Commander?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Before I answer that, can you two tell me why you're dueling?<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 Ah, that was nothing. We just wanted to see who could draw their gun faster.<br>
 Not that it matters now. Isn't that right, Hornet?<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Heheh, yep! What's more important is... Commander, how's about you join us?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 When I started my journey, I vowed never to join another gang. I'm not interested in any more fighting.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Ahaha! Don't worry about that! We're not inviting you to a gang!<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 Look over there, Commander. There's a small town up ahead.<br>
@@ -1379,7 +1379,7 @@ What would that be?<br>
 <br>
 While we talk, the cloudless sky suddenly darkens.<br>
 The wind roars chillingly. Sand whips up in the distance and begins closing in on the town.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Oh, no... Another sandstorm.<br>
 They've been so common lately... Forget it. Commander, can that horse still run?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -1504,7 +1504,7 @@ Welcome~ I'm Bell, your server today!<br>
 Come in, sit down, order a drink~ Here's your menu! When you're ready, just give me a shout!<br>
 <br>
 After pushing a tattered, handwritten menu into my hands, Bell runs off while balancing a tray.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Hey there! Took you long enough, Commander. We've been waiting for ages.<br>
 C'mon, get over here!<br>
 <br>
@@ -1526,7 +1526,7 @@ Weeell, I know I said I wasn't interested in any curses. But the Commander? That
 She sits on the edge of the table, casually twirling her revolver around.<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 Hey, read the room!<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 We already got dibs on the Commander! Isn't that right?!<br>
 <br>
 '''''<span style="color:black;">选择项1：Yeah!</span>'''''<br>
@@ -1537,7 +1537,7 @@ We already got dibs on the Commander! Isn't that right?!<br>
 '''''<span style="color:black;">（选择项2）</span>'''''What?! You already forgot about us?!<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 Anyway, we got to the Commander first! If you need to recruit, there are plenty of other candidates here.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Yeah. That nun drinking tea over there would be a good fit.<br>
 <br>
 Hornet points at a corner of the tavern.<br>
@@ -1564,7 +1564,7 @@ Pittsburgh hops off the table, grabs me by the arm, and pushes me over to Hornet
 Whoa... She's even worse than the first one...<br>
 <span style="color:#4eb24e;">Pittsburgh：</span><br>
 Heheh, don't worry. I'm not interested in the curse. All I want is to observe your little trio's work, that's all.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 That's cool and all, but we don't even know where to begin.<br>
 Can't exactly stray too far from town, either, given how often the sandstorms are these days.<br>
 Only the pizza from this tavern can make me feel better... Mm! Yeah, every pizza needs pineapples on top!<br>
@@ -1572,7 +1572,7 @@ Only the pizza from this tavern can make me feel better... Mm! Yeah, every pizza
 When Hornet takes a big, happy bite of her slice of pizza, people in the tavern angrily protest her claim.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 You can praise the pizza, but maybe pick better phrasing...<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Huh? Why? If you say so, Commander... *munch*... I'll be more careful!<br>
 Anyway, I'm running short on cash. Fast.<br>
 <span style="color:#4eb24e;">Herring：</span><br>
@@ -1591,7 +1591,7 @@ Bell's conveniently-timed entrance answers my questions.<br>
 See? These prices are way too much for any normal person to afford!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Has it always been this expensive?<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 How should I know? It's been like this since we got here, at least!<br>
 <span style="color:#4eb24e;">Pittsburgh：</span><br>
 Heehee♥ It's okay, Commander. If money is what you need...<br>
@@ -1708,7 +1708,7 @@ Pittsburgh and the others are waiting. Let's hurry back.<br>
 When we return to the tavern, Hornet quickly starts a lively conversation with Indiana and Pittsburgh.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Weren't you rivals before?<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 We still are, yep!<br>
 <span style="color:#4eb24e;">Indiana：</span><br>
 Yeah. Being rivals doesn't mean we have to hate each other.<br>
@@ -1752,7 +1752,7 @@ I think it's time I go see this so-called curse in person...<br>
 {{折叠面板|标题=The Spirits' Revenge?|选项=17|主框=1|样式=primary|展开=是}}
 <br>
 With a decision made, we decided to go back to the tavern on Indiana's suggestion.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Wait a second. Why are you acting like you're part of the team now?<br>
 <span style="color:#4eb24e;">Indiana：</span><br>
 Following you all seems like fun. Besides, I had a feeling this bounty business was a little fishy, too.<br>
@@ -1786,11 +1786,11 @@ Geez. Here I thought I'd get to come along... Leaving me to bring up the rear is
 But it's fine. I'll just pray that all goes well tonight.<br>
 <br>
 Night falls, and Herring, Hornet, and I spring into action.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Weird. It's not like it's hard to find the mine, so why haven't we bothered trying yet?<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 I just realized something... We haven't met Mayor San Diego since we came to this town, have we?<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Yeah! How'd I forget something so important?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Hush. We're almost there.<br>
@@ -1809,17 +1809,17 @@ There's an overgrowth of wild grass, but there are definite traces of it being c
 <span style="color:#4eb24e;">Herring：</span><br>
 Ahem! Commander... Uh, a-are you really planning to go in there?<br>
 If the curse is real, and we're turned into rabbits...<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Calm down, Herring! The Commander knows there's no curse. That's how we got this far, right?<br>
 <br>
 '''''<span style="color:black;">选择项1：Damn right!</span>'''''<br>
 '''''<span style="color:black;">选择项2：I dunno...</span>'''''<br>
 '''''<span style="color:black;">选择项3：Let's become bunnies and live a lazy life!</span>'''''<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Yeah! The Commander's words fill me with determination!<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Huh? You're getting cold feet NOW?<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 '''''<span style="color:black;">（选择项3）</span>'''''Commander? Are you serious right now?!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Leaving the veracity of the curse aside, there must be other secrets hiding in here.<br>
@@ -1881,12 +1881,12 @@ Nya?!<br>
 {{折叠面板|标题=New Journeys|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 We run through the damp, narrow tunnel as fast as we can, but we can't shake off Akashi's pursuers.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 *pant*... *pant*... So does that mean...<br>
 The sandstorms, the curse, and our memory loss... Akashi was behind it all?!<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 Yeah! The gold mine was just a trap to lure us here and squeeze us for all we have!<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 If we ran out of money, we'd have no choice but to stay here and live in this town!<br>
 <span style="color:#4eb24e;">Herring：</span><br>
 What a scheme...<br>
@@ -1962,15 +1962,15 @@ So many business opportunities still await, nya!<br>
 Save it for the new mayor, please~<br>
 <br>
 Pittsburgh tightens the rope around Akashi's wrist.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 What will you do now, Commander?<br>
 <span style="color:#4eb24e;">Pittsburgh：</span><br>
 Why even ask? Our only option is to make the Commander our new mayor~<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 You as the mayor, huh... Now that would make this town legendary!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 That's exactly why I need to leave.<br>
-<span style="color:#4eb24e;">大黄蜂：</span><br>
+<span style="color:#4eb24e;">Hornet：</span><br>
 Commander?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 You'll understand someday, Hornet.<br>
