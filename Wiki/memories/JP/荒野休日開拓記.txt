@@ -232,7 +232,7 @@
 U-556に脅かされて荷物を列車に置いたまま、ヘリングに仲間たち共々町まで連行されてしまった。<br>
 爆発と銃撃戦で巻き上がった硝煙を抜けると、町の全貌が露になった。<br>
 …町の入口でさわやかな笑顔で我々を迎え入れてくれるインディアナ一行の姿もそこにあった。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 よし。これで演目は無事終了っと。みんな、リゾートタウン「パリセク」へようこそ！<br>
 <span style="color:#4eb24e;">インディアナ：</span><br>
 ははは！お前たち、やっと来てくれたな<br>
@@ -335,14 +335,14 @@ OKOK～、そういうのはすぐ話が通せるよ<br>
 それができて一人前の開拓者よ！（ピシッ<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――いきなり難易度が高すぎる…<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 難しすぎるなら、食べ物探しはすっ飛ばしてもいいよー<br>
 缶詰なら提供できるし～<br>
 <span style="color:#4eb24e;">クレマンソー：</span><br>
 まさか……噂のニシン缶……？<br>
 <span style="color:#4eb24e;">アンカレッジ：</span><br>
 うわさ……アンカレッジ、しらない……でもたべたい…！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 もっと難易度をやさしくしてーって要望があったら、いつでも缶詰を頼ってくれていいからね<br>
 だって開拓者には選択肢も限られているんだから～<br>
 <span style="color:#4eb24e;">クレマンソー：</span><br>
@@ -411,7 +411,7 @@ OKOK～、そういうのはすぐ話が通せるよ<br>
 皆の協力のもと、木造の「ウェスタン執務室」がついに完成した。<br>
 <span style="color:#4eb24e;">クレマンソー：</span><br>
 なかなかの出来ね……でもみんな食料や水源を探すタイミングを逃してしまったわね<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 じゃあ約束通り、ニシン缶を配るね～♪<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 ま、待って！最後に1回だけチャレンジさせて！<br>
@@ -430,7 +430,7 @@ OKOK～、そういうのはすぐ話が通せるよ<br>
 <br>
 シーン……風も吹かず、雨も降らなかった。ましてや食べ物なんて……<br>
 回転草だけがその呼びかけに応え、撫順に直撃した。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 もう、おとなしくニシン缶を食べなよ～<br>
 <br>
 その後、ヘリングからみんなに缶詰が配られた。<br>
@@ -438,12 +438,12 @@ OKOK～、そういうのはすぐ話が通せるよ<br>
 息を止めて缶詰を開けると、なんと中身はニシンではなくおなじみの戦闘糧食だった。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――ん？普通の戦闘糧食缶のラッピングをニシン缶のものに変えたの？<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 ふふん、そうよ？だって別にみんながみんなニシン缶の美味しさを分かってくれるわけじゃないから<br>
 だからこれを用意したわ。それにしてもみんなの表情はほんとに面白かったね～<br>
 <span style="color:#4eb24e;">撫順：</span><br>
 わ、わわーー！なんで私のだけ本物のニシン缶なの！？助けてー！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 やばい、本物も混ざってたのを説明し忘れてた……<br>
 <span style="color:#4eb24e;">ヨークタウン：</span><br>
 あはは……予定からはちょっとズレてしまったけど…<br>
@@ -546,17 +546,17 @@ OKOK～、そういうのはすぐ話が通せるよ<br>
 （グアムが最近毎日部屋にこもって編集作業をしているのが本当に残念だ。彼女がここにいたらもっと盛り上がったことだろう…）<br>
 <br>
 そんなことを漠然と考えながら、砂金採りを続けていると――<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 や、やめてよ～。あたしは見学しに来ただけで、参加するつもりはないってば…！<br>
 <span style="color:#4eb24e;">ベル：</span><br>
 そうなの？めっちゃ乗り気っぽいのに…？<br>
 しかも装備もちゃんと持ってるじゃない。本当はみんなと一緒に楽しみたいんでしょ？<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 あーあー聞こえなーい！あたしはたまたま装備を手に取っただけだってー！<br>
 それに汗だくになったらどうしよう…指揮官が近くにいるし……<br>
 <span style="color:#4eb24e;">モガドール：</span><br>
 ぐへへ、ヘリングも汗のことで悩んでるの？……じゃあモガドールがいい方法を教えてあげる……♥<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 え？何？<br>
 <span style="color:#4eb24e;">モガドール：</span><br>
 服を脱いじゃえば、そんなに暑くならないよぉ……♥<br>
@@ -686,26 +686,26 @@ OKOK～、そういうのはすぐ話が通せるよ<br>
 馬に乗ることかな…？陸でもかっこいいところを見せられるよう頑張ったよ！<br>
 どうだったかな？列車強盗のシーンはすっごくかっこよかったでしょ？えへへ～<br>
 でも鞍がやっぱり硬かったかな…今度馬に乗るときは柔らかめのにしてほしいかも…<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 え？そこまで具体的に言うの？<br>
 <span style="color:#4eb24e;">ピッツバーグ：</span><br>
 556ほどじゃなくてもいいわよ？でもシチュエーションはちゃんと言わないと～<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 それが面倒なのよね……<br>
 今夜、今！指揮官やみんなと一緒に…夜の景色を楽しめている今が一番印象に残ったよ！<br>
 <span style="color:#4eb24e;">ピッツバーグ：</span><br>
 あら、ヘリングって意外とウブね♪<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 じゃあピッツバーグはどうなの！？<br>
 <span style="color:#4eb24e;">ピッツバーグ：</span><br>
 私？私にとってはどの時間だって忘れがたいわ<br>
 <br>
 そう言いながら、ピッツバーグはこちらに体を預けてきた。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 あああ！それ反則！アウト！<br>
 <span style="color:#4eb24e;">ピッツバーグ：</span><br>
 そう？でも分かりやすいでしょ？「シチュエーション」が♥<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 あんたね……<br>
 <br>
 夜が更けるまでみんなとワイワイ語り合った。<br>
@@ -1316,7 +1316,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 腹を決めて、とっくに疲れ切った馬の手綱をひいて――<br>
 <span style="color:#4eb24e;">二人：</span><br>
 止まれ！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 動くんじゃないよ～。胸に風穴を開けられたくないでしょ？<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 そうそう、そのまま大人しく手を上げなさいな～。言っとくけど銃を抜こうなんて馬鹿なマネはしないでね。私の方が早いから♪<br>
@@ -1325,7 +1325,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 <br>
 自分が両手を上げたのを見て、二人は頷き合い足並みを揃えてこちらに近づいてきた。<br>
 へリングはこっちの腰に手を伸ばしてきてリボルバー拳銃を奪い、ホーネットに渡した。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 悪いけど、ここだと用心はしてもし足りないから<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――気持ちはわかるけど、そいつとは長い付き合いなんだ<br>
@@ -1333,33 +1333,33 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 <span style="color:#4eb24e;">ホーネット：</span><br>
 まぁまぁ、そう焦らないでね～とりあえず弾を…<br>
 ん？このマーク…ヴァンデルライトギャング？！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 なんですって？ヴァンデルライトギャングのメンバーなの！？<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 この銃身のマーク……間違いないわ<br>
 でも噂では確か…銃身にマークが付いているのはそのギャングの創設者――「指揮官」だけ…<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 つ、つまり…ヘリングたちの眼の前にいるのは、自らの実力と頭脳だけで最も険悪で過酷な土地で足場を固め――<br>
 伝説となった後すぐに行方をくらました、あの「指揮官」なわけ？！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――（…脚本には書かれていないけど、そういう裏設定だったのか）<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 こほん。ちょっとあんた、本当にあの「指揮官」なの？<br>
 <br>
 '''''<span style="color:black;">选择项1：さあな</span>'''''<br>
 '''''<span style="color:black;">选择项2：サインを書いてあげようか？</span>'''''<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''否定したって信じてあげないわよ！<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''そうよ！きっと本物の指揮官に違いない！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''いいの？じゃあ――って、紙も筆記用具もないじゃない！<br>
 '''''<span style="color:black;">（选择项2）</span>'''''サインを書いてもらうのはやっぱり町に行ってからでないと…<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 それで、どうして指揮官はこんなところに？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 質問に答える前に、どうして二人が決闘してたのか聞かせてもらえる？<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 あーあれね、銃を抜くのが早いのはどっちか比べてみたかっただけよ<br>
 まあ今になってはそんなこともうどうだっていいわ。ね？ホーネット？<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
@@ -1368,11 +1368,11 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 ――この旅を始めた時から、どの派閥にも加わらないと心で決めたんだ。抗争に巻き込まれるのはもう御免だからな<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 あはは！違うから安心して！別に勧誘じゃないって！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 ほら指揮官、この先に小さな町が見えるでしょ？<br>
 <br>
 彼女が指差した先の砂塵の中にぼんやりと建物のシルエットが見える。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 へへ、あそこには抗争なんかより何十倍も面白いことが起きてるんだよ？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――それはどういう…？<br>
@@ -1384,7 +1384,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 最近妙に多いわね…まあいい。指揮官、その馬まだ走れそう？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――問題ない<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 じゃあ馬に乗って、全速力でその町まで行って避難所に隠れて！<br>
 指揮官、町で会おう！<br>
 <br>
@@ -1526,18 +1526,18 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 まあ確かに呪いなんてちっとも興味ないわ。でも指揮官ちゃんのことなら別よ？<br>
 <br>
 ピッツバーグはテーブルに腰掛けたまま、さりげなくリボルバーをいじっていた。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 ちょっと、話が違うってば！<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 先に指揮官と約束したのは私とへリングよ！そうでしょ、指揮官！<br>
 <br>
 '''''<span style="color:black;">选择项1：ああ！</span>'''''<br>
 '''''<span style="color:black;">选择项2：あなたたちは…？</span>'''''<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''ほら～、指揮官本人もそう言ってるでしょ？さっさと諦めちまえ～<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''はぁ！？指揮官、もうあたしたちのことを忘れたの？！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 とにかく、指揮官はあたしたちが先に確保したの！あんたたちこそ、仲間がほしいならここにいくらでも候補者がいるでしょ？<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 そうよ。あそこで紅茶を楽しんでるシスターもいいんじゃない？<br>
@@ -1562,7 +1562,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 せっかくだし、私もみんなと顔見知りになりたいわ<br>
 <br>
 ピッツバーグはぱっとテーブルから飛び降り、こっちの腕をつかんでホーネットのいる方へと押した。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 うわっ…こいつはもっと厄介だ…<br>
 <span style="color:#4eb24e;">ピッツバーグ：</span><br>
 フフ、安心なさい。呪いを解くことには興味がないわ。二人が指揮官ちゃんとどう動くか、ちょっと見守りたいだけよ<br>
@@ -1577,7 +1577,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 <span style="color:#4eb24e;">ホーネット：</span><br>
 え？なんで？…でも指揮官がそう言うなら、もぐっ…次から気をつけるよ！<br>
 それより、このままじゃ財布がすっからかんになっちゃいそうだけど…<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 あたしもだよ。懸賞の賞金が手に入らなければ、後はもう強盗するしか……<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――だいぶここに滞在してたのか？<br>
@@ -1589,7 +1589,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 おねがいしまーす<br>
 <br>
 絶妙なタイミングで会話に割って入ってきたベルのおかげで疑問が解けた。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 こんな値段だから、普通の人には無理なの<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――ずっとこんなに高かったのか？<br>
@@ -1732,7 +1732,7 @@ U-556が来るのを待っている間、ベルに少し散歩してくると言
 そりゃあね？もともとこの町に住人なんてほとんど残ってなかったし、最近転入してきた子じゃないなら…<br>
 あとはもう懸賞に惹かれてやってきたよそ者しかいないようなものよ<br>
 でもそれはそれでいいけどね。だって町の経済を回してくれてるから<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 はあ？この町セコすぎるでしょ…？！<br>
 砂塵嵐がよく起きて、こっちが中々外に出られないからって！<br>
 <span style="color:#4eb24e;">U-556：</span><br>
@@ -1761,7 +1761,7 @@ U-556が不意に教えてくれたことで、頭にとあるアイデアが浮
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――ここにいる皆より前に町を訪れた「最初の賞金稼ぎ達」がいるらしいが…<br>
 ――その人達はどこに消えた？それと…あなたたちがここに来て結構経ってるにも関わらず、何の収穫もないのはなぜだ？<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 え？ほんとだ…全然気にしてなかったね<br>
 収穫がないのは、調査しようと思う度に妙なことが起きるから…？<br>
 <span style="color:#4eb24e;">インディアナ：</span><br>
@@ -1790,7 +1790,7 @@ U-556が不意に教えてくれたことで、頭にとあるアイデアが浮
 空が暗くなると、自分はへリング、ホーネットと共に行動を開始した。<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 おかしいね。鉱山の場所を調べるなんて簡単なのに、どうして今までちっともそうしようとしなかったの？<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 そういえば急に思い出したけど、この町に来てから一度も町長のサンディエゴと会ってなくない？<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 そうだ！なんでこんな大事なことまで忘れてたの！<br>
@@ -1808,7 +1808,7 @@ U-556が不意に教えてくれたことで、頭にとあるアイデアが浮
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项1）</span>'''''（この黒い跡が呪いと関係あるのか…？）<br>
 '''''<span style="color:black;">（选择项1）</span>'''''（どうやら中に入るしかないようだ）<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 こほん。指揮官…その…ほ、本当に中に入るの？<br>
 だってもし呪いが本当で、あたしたちがウサギに変えられたら……<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
@@ -1826,14 +1826,14 @@ U-556が不意に教えてくれたことで、頭にとあるアイデアが浮
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――呪いが本当にあるかどうかはともかく、ここにはきっと秘密が隠されている<br>
 ――皆もずっとこの町に閉じ込められたくはないだろう？<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 それはそうだけど…<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――じゃあ一緒に行こう<br>
 <br>
 狭くて薄暗く、湿っぽい廃鉱の坑道がくねくねと続いている。<br>
 ホーネットは小さな灯油ランプを手に先頭を進んでいく。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 はぁ…随分歩いたのに、何にも起こらなかったね。まさかの何もなかった、って結末じゃないでしょうね…<br>
 <br>
 へリングが小言をこぼすと、前方のある坑道からかすかな話し声が聞こえてきた。<br>
@@ -1887,17 +1887,17 @@ U-556が不意に教えてくれたことで、頭にとあるアイデアが浮
 <span style="color:#4eb24e;">ホーネット：</span><br>
 はぁ…はぁ…つまり……！<br>
 砂塵嵐も、呪いも、ましてや私たちの「記憶喪失」も…全部明石の仕業……ってコト？！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 ……金鉱だって、全部あたしたちをここに引き止めて、とことんまで搾取するための罠だった！<br>
 <span style="color:#4eb24e;">ホーネット：</span><br>
 …お金が尽きて、町から離れられなくなれば、もうここに残って生活するしかない…！<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 なんて汚い奴……<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――だが、あの「砂塵嵐」の正体が明石の機械に作り出された幻なら…逆に心配しなくて済むな<br>
 <br>
 出口の光が見えてきた頃、一行はようやく明石の追手から逃げ切れた。<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 とにかく、ここから早く脱出しよう！ピッツバーグたちにも真相を教えなきゃ！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――ああ！<br>
@@ -1955,7 +1955,7 @@ U-556が不意に教えてくれたことで、頭にとあるアイデアが浮
 インディアナ、そもそもあの「町長」も共犯でしょ？単に騙されてただけのようだけど<br>
 <span style="color:#4eb24e;">インディアナ：</span><br>
 困ったな……<br>
-<span style="color:#4eb24e;">へリング：</span><br>
+<span style="color:#4eb24e;">ヘリング：</span><br>
 こんな大事が起きたからには、さすがに町長を交代しないとね～<br>
 今はとりあえず明石をどこかに閉じ込めて、新しい町長が就任したら引き渡せばいいんじゃない？<br>
 <span style="color:#ff9b93;">明石：</span><br>
