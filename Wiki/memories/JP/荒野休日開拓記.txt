@@ -1128,9 +1128,7 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 {{折叠面板|标题=フレーシュに幸あれ|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 指揮官、こっちです～！<br>
-<br>
 声の方角に振り向くと、そこにはプールのエアベッドに横たわって、こちらに手を振っているパンルヴェの姿が見えた。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 指揮官に会えるよう祈っていましたら、本当に指揮官が現れてくださるなんて……<br>
 ふふふ、やっぱり幸ある日の願いは叶うのですね<br>
 <br>
@@ -1138,13 +1136,13 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 '''''<span style="color:black;">选择项2：自分の幸運の日でもあるからね</span>'''''<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''はい、そうなんです。そして占いによれば今日はデートにも適していると……<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''――デート？<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''な、なんでもありませんっ……すみませんお見苦しい所を…///<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''え…？パンルヴェに会うのが…幸運だとおっしゃいましたか…？///<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''――そうだな。だって予定が変わって珍しくこの時間に休めたし<br>
 '''''<span style="color:black;">（选择项2）</span>'''''――パンルヴェに会えたのももちろん、幸運なことに入るよ<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
@@ -1152,57 +1150,44 @@ Emmm…じゃあやっぱり普段から素材を多めに撮っといたほう�
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 そう言えば指揮官は最近、映画撮影の件で忙しいですよね…？<br>
 せっかくの休憩ですし、よければパンルヴェと…プールでリラックスしませんか？<br>
-<br>
 誘われてプールに足を入れると、ひんやりとした水がすぐ暑さを消し飛ばしてくれた。<br>
 そのままエアベッドに体を乗せて、パンルヴェのそばまで行った。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 あ、あの…恐れ入りますが指揮官、パフェを持っていただけませんか？<br>
 さっきから指揮官をずっと見つめてたら…パフェをこぼしてしまいました…あぅ…<br>
-<br>
 片手にパフェを持っていながら、片手で胸元に落ちたクリームを拭こうとするパンルヴェ。<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 ――任せて。パンルヴェは先に拭いてて<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 ありがとうございます。あ、指揮官もクリームをこぼさないよう気をつけてください<br>
-<br>
 パフェのグラスをこちらに渡すと、パンルヴェは再び自身の胸に集中した。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 ……ちょっと恥ずかしいです……あ、別に指揮官によそ見してほしい、という意味ではなくて…<br>
 あぅ、少しベタついてしまいましたね……<br>
-<br>
 拭きやすくしようとパンルヴェはプールから水をすくい、そのままクリームのついた場所を濡らした。<br>
 滴る水で水着が濡れ、そして白い生地の部分も少女の肌に密着し、半分透けているように見えた。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 ふぅ……これで大丈夫ですね<br>
-<br>
 姿勢を正したパンルヴェにパフェを返す。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 このパフェは今日の幸あるアイテムなんですよ？<br>
-<br>
 パフェを受け取ったパンルヴェは恥ずかしそうに微笑み、頬を赤らめた。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 ええと……この幸運を指揮官にも分けたく思いますが…<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 ――分けてくれるの？<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 はい。つまり……あーんして食べさせたい、という意味で…///<br>
 ちょっとだけ融けましたけど…味はきっと気に入ってくれると思います<br>
-<br>
 口に入れてもらうと、いちごとクリームの甘さが舌を撫でた。<br>
-<span style="color:#4eb24e;">パンルヴェ：</span><br>
 ど、どうですか？味は……<br>
 <br>
 '''''<span style="color:black;">选择项1：評価する</span>'''''<br>
 '''''<span style="color:black;">选择项2：もう一口</span>'''''<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''――確かに美味しいな<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''それはよかったです…！<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''――もう一口味あわせてほしいな<br>
 <span style="color:#4eb24e;">パンルヴェ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''し、指揮官……///<br>
-<br>
+<span style="color:#4eb24e;">パンルヴェ：</span><br>
 こうして、「幸あるいちごパフェ」を二人で食べながらゆっくりと午後を過ごした――<br>
 {{折叠面板|内容结束}}
 
