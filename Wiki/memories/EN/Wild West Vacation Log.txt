@@ -1128,9 +1128,7 @@ H-Hehe...<br>
 {{折叠面板|标题=Fresh and Fortunate|选项=11|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Painlevé：</span><br>
 Commander, this way~!<br>
-<br>
 I turn around and see a familiar friend lying on a pool air mattress, waving at me.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 I was just praying that I'd get to see you, and here you are...<br>
 Heehee, wishes come true quickly on lucky days.<br>
 <br>
@@ -1138,13 +1136,13 @@ Heehee, wishes come true quickly on lucky days.<br>
 '''''<span style="color:black;">选择项2：It's my lucky day, too, you know.</span>'''''<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Yes, it is. My fortune says that today is perfect for a date, too...<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''A date?<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''N-nothing... I'm sorry you had to hear that...<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Huh? Are you saying... that you feel lucky to see me...?<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Sure am. Especially since my plans changed and gave me an unexpected moment to rest.<br>
 '''''<span style="color:black;">（选择项2）</span>'''''That's lucky, and even more so that I got to see you here.<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
@@ -1152,57 +1150,44 @@ Heehee, wishes come true quickly on lucky days.<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 Come to think of it, you've been busy with the filming, no?<br>
 If you'd like, you could come relax in the pool with me.<br>
-<br>
 I step into the pool on her suggestion. The chilly water quickly overwhelms the heat.<br>
 Then, I lie on the air mattress and scoot over next to her.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 U-umm... Commander, could you hold this parfait for a moment?<br>
 I've been so focused on you that I ended up spilling it... Eep...<br>
-<br>
 Holding the parfait in one hand, she tries to wipe the cream off of her chest with the other.<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 Sure. Clean yourself up, okay?<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 Thank you. Oh, and be careful you don't spill it on yourself.<br>
-<br>
 She hands me the parfait and focuses her attention back on her chest.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 It's a little embarrassing... Oh, not that I'd ask you to look away for me...<br>
 Ooh, it's a little sticky...<br>
-<br>
 To make it easier to get off, she scoops water out of the pool and wets the affected area.<br>
 The dripping water wets her swimsuit. The thin, white fabric sticks to her skin, becoming semi-transparent.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 Phew... That's better.<br>
-<br>
 After she sits back up, I return her parfait.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 This parfait is actually my lucky item for today.<br>
-<br>
 Painlevé smiles bashfully and blushes.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 Umm... I'd like to share my fortune with you...<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 You wanna share?<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 Yes. Basically... What I mean to say is, I'd like to feed you...<br>
 It's a little melted... but I just know you'll like it.<br>
-<br>
 She gives me a spoonful of it. The sweetness of strawberry and cream blesses my tongue.<br>
-<span style="color:#4eb24e;">Painlevé：</span><br>
 H-how do you like it?<br>
 <br>
 '''''<span style="color:black;">选择项1：(Compliment the taste.)</span>'''''<br>
 '''''<span style="color:black;">选择项2：(Ask for another spoonful.)</span>'''''<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''That is tasty.<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''I'm glad to hear that!<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''I think I need another taste first.<br>
 <span style="color:#4eb24e;">Painlevé：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''C-Commander...<br>
-<br>
+<span style="color:#4eb24e;">Painlevé：</span><br>
 Thus, the two of us share the parfait and a relaxing afternoon together.<br>
 {{折叠面板|内容结束}}
 
