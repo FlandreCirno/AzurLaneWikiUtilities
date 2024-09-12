@@ -19,7 +19,7 @@ Still, working with me is the best solution. Otherwise, why would you bother com
 Oh, excuse me, I forgot about the beneficiary of this potential deal.<br>
 You, the Commander – how do you feel about this?<br>
 <span style="color:#ffc960;">Helena META：</span><br>
-$1 is just here as a witness. I'm the one you should be talking to.<br>
+{playername} is just here as a witness. I'm the one you should be talking to.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (Well...)<br>
 (She's right. A witness is all I can really claim to be, since I know almost nothing about this "deal.")<br>
@@ -40,7 +40,7 @@ I can.<br>
 (It's not like I have the knowledge she does.)<br>
 <span style="color:#ffc960;">Helena META：</span><br>
 Enough stalling. I hold all the cards here. Even if you were to reconnect with your mainframe, you still wouldn't know what options I have at my disposal.<br>
-Do you even know why I brought $1 with me?<br>
+Do you even know why I brought {playername} with me?<br>
 <span style="color:#fef15e;">Observer ：</span><br>
 A unique commander, a unique test site, and a unique... "me".<br>
 ...Are you really able to ensure my continued existence?<br>
@@ -1307,7 +1307,7 @@ Kaga, please, let's listen to what they have to say. Besides, I have questions t
 <span style="color:#4eb24e;">Kaga(BB)：</span><br>
 Fine. So be it.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
-$1, you say you want to save me and Kaga. What exactly does that entail?<br>
+{playername}, you say you want to save me and Kaga. What exactly does that entail?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 To put it simply, we're going to bring you with us out of this place.<br>
 (Helena, do you copy? I'll need your help to explain our plan.)<br>
@@ -1387,7 +1387,7 @@ I don't know.<br>
 <span style="color:#4eb24e;">Amagi：</span><br>
 It stands to reason, then...<br>
 If the dream I had yesterday was a vision from your future, have all my other dreams been visions as well?<br>
-$1, I must ask – have we ever met before?<br>
+{playername}, I must ask – have we ever met before?<br>
 <br>
 '''''<span style="color:black;">选择项1：(Amagi... has dream visions?)</span>'''''<br>
 '''''<span style="color:black;">选择项2：(Amagi... has met me somewhere before?)</span>'''''<br>
@@ -1726,7 +1726,7 @@ You've got it all figured out, don't you?<br>
 So what happens after you revive Amagi? How are you gonna save Akagi, huh?<br>
 If this world segment collapses, then we'll lose our means of interfering with Naraka. Are you ready to fight a META on your own?<br>
 <span style="color:#ffc960;">Helena META：</span><br>
-...It'll be okay. I trust $1.<br>
+...It'll be okay. I trust {playername}.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Thank you, Helena.<br>
 <span style="color:#4eb24e;">Observer ：</span><br>
@@ -1925,7 +1925,7 @@ KABOOOM!<br>
 Gah! How?! How does a mere temporary META possess such power?!<br>
 <span style="color:#ffc960;">Nagato META：</span><br>
 The loser deserves not the knowledge of the winner.<br>
-All I will tell you is this – Amagi will be revived. Not by you, but by $1.<br>
+All I will tell you is this – Amagi will be revived. Not by you, but by {playername}.<br>
 You taking her concept and pretending to be her has only delayed her revival!<br>
 <span style="color:#ff9b93;">False Amagi：</span><br>
 ......<br>
