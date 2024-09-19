@@ -2,7 +2,7 @@
 {{折叠面板|开始}}
 {{折叠面板|标题=夢境的入口|选项=1|主框=1|样式=primary|展开=是}}
 <br>
-梦幻乐园的梦幻假日<br>
+夢幻樂園的夢幻假日<br>
 <br>
 夢境的入口<br>
 港區·指揮室<br>
@@ -217,28 +217,28 @@ Hoeny吃完早餐以後就來嚐嚐我的手作冰淇淋吧！<br>
 {{折叠面板|标题=逢魔之時|选项=3|主框=1|样式=primary|展开=是}}
 <br>
 穿過城堡中的樓梯，朝著舉辦舞會的集合地點前進時，一陣風將一旁房間的門吹開。<br>
-<span style="color:#4eb24e;">綾瀨：</span><br>
+<span style="color:#4eb24e;">涼波：</span><br>
 ……<br>
 <br>
 門內的涼波此時換上了一身素雅的小禮裙，就站在房間內靜靜地看著我。<br>
-<span style="color:#4eb24e;">綾瀨：</span><br>
+<span style="color:#4eb24e;">涼波：</span><br>
 指揮官……那個，能幫我看看，這套禮服合身嗎？<br>
 想獨自穿好這件衣服，果然還是有點勉強……<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 不、不是的！涼波很厲害哦……！<br>
 綾瀨的小兔子也說涼波靠自己就能穿好這麼複雜的衣服很厲害！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 嗯，綾瀨說的沒錯。這禮服看起來很合身，而且很適合妳。<br>
-<span style="color:#4eb24e;">綾瀨：</span><br>
+<span style="color:#4eb24e;">涼波：</span><br>
 ……那就好。<br>
 舞會應該馬上就要開始了……可以跟你們一起去嗎？<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 好呀好呀！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 嗯，妳們先去集合吧，我再確認一下還有沒有其他人還沒準備好。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
-好、好的！嗚……不過應該不會有其他人像綾瀨一樣了吧……<br>
 <span style="color:#4eb24e;">綾瀨：</span><br>
+好、好的！嗚……不過應該不會有其他人像綾瀨一樣了吧……<br>
+<span style="color:#4eb24e;">涼波：</span><br>
 那……我們等一下見。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 好。<br>
@@ -383,12 +383,12 @@ Hoeny吃完早餐以後就來嚐嚐我的手作冰淇淋吧！<br>
 <span style="color:#4eb24e;">天城：</span><br>
 呵呵，離閉園時間還早。不如就在這夜間，趁著燈影霓虹，再好好遊樂一番吧。<br>
 <span style="color:#4eb24e;">{namecode:74}：</span><br>
-如此……甚好。對了，指揮官可有什麼想去玩的設施麼？<br>
+如此……甚好。對了，指揮官可有什麼想去玩的設施嗎？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 我沒什麼特別強烈的想法。而且，也不應該讓我的喜好影響大家。<br>
 這樣吧，就照著導覽手冊上的地圖，繞著整個遊樂園轉一圈？<br>
 遇到有興趣的設施就去玩吧。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 這、這樣會不會太浪費指揮官大人的時間了？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 不會。只要大家盡興、開心，就永遠不會浪費時間。<br>
@@ -444,13 +444,13 @@ Hoeny吃完早餐以後就來嚐嚐我的手作冰淇淋吧！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 格洛斯特？<br>
 <span style="color:#4eb24e;">格洛斯特：</span><br>
-嗯？主人……還有重櫻的各位，都是來乘坐旋轉木馬的麼。<br>
+嗯？主人……還有重櫻的各位，都是來乘坐旋轉木馬的嗎。<br>
 <br>
 格洛斯特說著，輕巧地從旋轉木馬上翻身躍下，穩穩地降落到我面前，行了個禮。<br>
 <span style="color:#4eb24e;">格洛斯特：</span><br>
 方才的是危險動作，請勿模仿。<br>
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
-是麼？我倒是覺得這個方式還蠻有趣的。<br>
+是嗎？我倒是覺得這個方式還蠻有趣的。<br>
 <br>
 少女微微一笑，以更加輕靈的方式躍上了旋轉木馬。<br>
 <span style="color:#4eb24e;">格洛斯特：</span><br>
@@ -465,7 +465,7 @@ Hoeny吃完早餐以後就來嚐嚐我的手作冰淇淋吧！<br>
 待設施安全停下來後，大家陸續坐上了旋轉木馬。<br>
 之後隨著重新啟動的木馬緩緩轉動，享受這溫馨的時刻。<br>
 一圈結束，就在大家思考接下來要去何處時，夜空中綻放出第一朵煙火。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 啊，第一輪煙火表演開始了……！<br>
 <br>
 綾瀨的話音剛落，更多的煙火接連升空。<br>
@@ -768,10 +768,10 @@ Hoeny吃完早餐以後就來嚐嚐我的手作冰淇淋吧！<br>
 <span style="color:#4eb24e;">渡良瀨：</span><br>
 不妨就坐到我身邊吧？你看，這裡正好有空位哦。<br>
 而且不光是我，涼波和綾瀨也想和指揮官多說說話呢，對吧~？<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 嗯、嗯嗯……表演好，指揮官很精彩……啊不是不是……嗚……<br>
 對、對不起指揮官大人……！綾瀨有點太激動了……<br>
-<span style="color:#4eb24e;">綾瀨：</span><br>
+<span style="color:#4eb24e;">涼波：</span><br>
 ……指揮官，這邊。<br>
 <br>
 涼波輕輕拍了拍她與渡良瀨之間的空位，示意我坐過去。<br>
@@ -788,17 +788,17 @@ Hoeny吃完早餐以後就來嚐嚐我的手作冰淇淋吧！<br>
 渡良瀨微微笑著，用手帕擦乾了我不知何時被打濕的頭髮。<br>
 <span style="color:#4eb24e;">渡良瀨：</span><br>
 這樣就好了~<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 對、對了，指揮官大人等下一定是要來參加城堡的晚宴的吧？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 城堡晚宴？<br>
-<span style="color:#4eb24e;">綾瀨：</span><br>
+<span style="color:#4eb24e;">涼波：</span><br>
 嗯……指揮官居然不知道遊樂園今天的行程嗎……<br>
 涼波這裡有遊覽手冊，給你。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 我看看。<br>
 表演結束後下一項活動就是花車遊行，然後是城堡晚宴……最後就是煙火和燈光秀嗎。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 嗯嗯！指、指揮官大人都會參加的吧……？<br>
 <span style="color:#4eb24e;">渡良瀨：</span><br>
 這還用問嗎，難得的機會，指揮官當然會全程參與的啦~<br>
@@ -944,8 +944,9 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 除了最開始關島等人在的第一輛花車，以及德文郡等人所在的第二輛以外——<br>
 <span style="color:#4eb24e;">印第安納：</span><br>
 指揮官！要來一場屬於西方的決鬥嗎！<br>
-<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
 當然，也可以選擇跟我做一些比決鬥更有趣的事呢~<br>
+<br>
 牛仔主題的花車緩緩向前，之後又是惡魔主題與童話主題等等的花車紛至沓來。<br>
 一輛又一輛，就在我以為看完了全部的花車後，一輛巨大的空花車緩緩駛至了我身旁。<br>
 車身上裝飾著絢麗的各色花朵和彩帶，宛如一座移動的花園。<br>
@@ -980,7 +981,7 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 隨著花車的繼續行進，越來越多的人跳上了這輛特別的花車。<br>
 <span style="color:#4eb24e;">歐根親王：</span><br>
 這麼有趣的事怎麼能不帶上我們呢~<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 好、好多人……嗚……指揮官大人……<br>
 <span style="color:#4eb24e;">渡良瀨：</span><br>
 別緊張嘛~<br>
@@ -1002,7 +1003,7 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 來到中心城堡區時，煙火表演正上演到最高潮。<br>
 一朵朵煙火劃破夜空，在漆黑的天幕上綻放出絢麗的光芒。<br>
 紅色、金色的火花如同光焰般向四周擴散、墜落。<br>
-<span style="color:#4eb24e;">綾瀨：</span><br>
+<span style="color:#4eb24e;">涼波：</span><br>
 ……就像是星星掉下來了一樣。<br>
 <span style="color:#4eb24e;">英仙座：</span><br>
 嗯？這個比喻倒是不錯。<br>
@@ -1063,7 +1064,7 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 城堡上的光影仍在變幻，音樂與燈光完美的結合在一起，講述過去所經歷的一個故事。<br>
 四周的氛圍燈緩緩亮起，溫和的淡色光芒將這片區域籠罩，亦照亮了大家臉上的笑容。<br>
 最後，一朵宣告著燈光秀結束的特別的煙火在空中綻放，為整場表演畫上了完美的句點。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 真是不可思議……<br>
 <span style="color:#4eb24e;">渡良瀨：</span><br>
 呵呵，果然是只有看第一輪表演才會有這種特殊的感覺。<br>
@@ -1806,7 +1807,7 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 '''''<span style="color:black;">（选择项2）</span>'''''不過，「輸給我」這份心意，我便接受了。<br>
 '''''<span style="color:black;">（选择项2）</span>'''''我贏了，可以向指揮官提出一個要求……<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-嗯，你提吧。<br>
+嗯，妳提吧。<br>
 <br>
 或許是少女身旁有著過多的毛絨玩偶的原因，又或許是這遊樂園中特殊的氛圍所致。<br>
 武藏臉上的笑容在此時此刻顯得有些孩子氣。<br>
@@ -1815,14 +1816,14 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=換上純白禮服吧！|选项=17|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 小兔子……不要亂跑，等我換了禮服，再陪你玩……欸……？<br>
 ……是指、指、指揮官大人——？！為、為什麼……啊……已、已經到了約定的時間了嗎？<br>
 <br>
 少女慌張的聲音透過大開的門扉傳來。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 嗯，所以我過來找妳。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 對、對不起，指揮官，我還沒有換、換好舞會——不是……還沒換好衣服！ ！<br>
 而且我居然、居然會忘記關門……<br>
 那、那個，舞會是不是要遲到了，嗚嗚……<br>
@@ -1832,17 +1833,17 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 '''''<span style="color:black;">选择项2：提議幫忙</span>'''''<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项1）</span>'''''慢慢來就好，不要緊張。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''嗯……可、可是……指揮官大人，這個衣服，綾瀨有點看不懂怎麼穿……<br>
 '''''<span style="color:black;">（选择项1）</span>'''''可、可以請你幫幫我嗎……嗚嗚……<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项2）</span>'''''我來幫妳吧？<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''好……這個衣服，綾瀨看不懂怎麼穿……<br>
 '''''<span style="color:black;">（选择项2）</span>'''''麻、麻煩指揮官大人了……嗚嗚……<br>
 <br>
 在得到少女的許可後進入了房間內，開始研究少女的禮裙構造。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 嗚……是不是很麻煩……？<br>
 我已經嘗試了很多次了……一直……一直穿不上去……<br>
 <br>
@@ -1850,7 +1851,7 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 有點麻煩，不過應該不是問題。<br>
 先把這個穿上，綁好蝴蝶結固定。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 好……蝴蝶結……綁、綁在胸口嗎……我試試……好了……？<br>
 唔哇——！怎、怎麼又散開了？！<br>
 嗚嗚嗚……指、指揮官……<br>
@@ -1859,17 +1860,17 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 '''''<span style="color:black;">选择项2：動手幫忙</span>'''''<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项1）</span>'''''試試先拉到最緊，再綁蝴蝶結。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''嗚……我、我試試……<br>
 '''''<span style="color:black;">（选择项1）</span>'''''不、不然還是指揮官來吧，嗚嗚……<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项2）</span>'''''我來吧。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''嗚嗚嗚……好……那就麻煩指揮官了。<br>
 <br>
 終於，綾瀨艱難地完成了這場名為「穿戴禮裙」的試煉。<br>
 出發前，少女有些躊躇地停下了腳步，隨即不安地低下了頭，緊緊攥著自己的衣角。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 那個、這、這套禮裙真的適合我嗎……<br>
 是不是……有些奇怪……畢竟我、我……<br>
 <br>
@@ -1880,7 +1881,7 @@ Z35和謝菲爾德的表演也很不錯~！下次要不要再加入一些超級�
 <br>
 少女不安的愁容散盡，露出了燦爛的笑容。<br>
 她湊到我身邊，握住了我的手，深吸了一口氣。<br>
-<span style="color:#4eb24e;">凉波：</span><br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
 嗯……！走吧，指揮官大人，我……很期待與你共舞的時刻！<br>
 {{折叠面板|内容结束}}
 
