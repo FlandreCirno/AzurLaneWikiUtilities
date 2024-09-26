@@ -676,7 +676,7 @@
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 不必多禮，長門大人有要事交給妳們。<br>
 這是儀式需要用到的各種材料，就麻煩妳們去準備了。<br>
-{namecode:84}从袖口掏出一张纸条递给{namecode:88}。<br>
+武藏從袖口掏出一張紙條遞給瑞鳳。<br>
 <span style="color:#4eb24e;">{namecode:88}：</span><br>
 躲在瑞鳳身後的兩人不敢出聲。<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
@@ -799,7 +799,7 @@
 <span style="color:#4eb24e;">？？？：</span><br>
 嗯……<br>
 <span style="color:#4eb24e;">名取：</span><br>
-{namecode:189}……{namecode:88}……你们在哪？<br>
+初月……瑞鳳……妳們在哪裡？<br>
 <br>
 從內屋傳出的細語，還帶著剛剛睡醒的慵懶。<br>
 一個體型嬌小的少女一邊揉著眼睛，一邊光腳走進了客廳。<br>
@@ -823,7 +823,7 @@
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
 長門大人，她就是名取吧？<br>
 <span style="color:#4eb24e;">{namecode:297}：</span><br>
-诶？{namecode:74}、{namecode:74}大人……？<br>
+欸？長、長門大人……？<br>
 再次揉了揉眼，名取一再地在二人之間確認。<br>
 武藏大人，長、長門大人……欸？！<br>
 <br>
@@ -1210,7 +1210,7 @@
 {{折叠面板|标题=加密呼叫|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 在發現可以在看不見的平面上航行後。<br>
-{namecode:295}带着{namecode:88}暂时躲到了一处破碎的小丘后方。<br>
+尾張帶著瑞鳳暫時躲到了一處破碎的小丘後方。<br>
 瑞鳳的雙眼還有些發紅。<br>
 <span style="color:#4eb24e;">{namecode:88}：</span><br>
 尾張妳真叫人擔心！<br>
@@ -1568,7 +1568,7 @@
 武藏大人，您給的符咒到底是何種術式。<br>
 我好像失敗了……<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
-不，术式已经启动了，{namecode:74}大人已经知{namecode:11}了我们的方位。<br>
+不，術式已經啟動了，長門大人已經知曉了我們的方位。<br>
 <br>
 光芒逐漸耀眼，在最後一刻，武藏離開了眾人的身邊。<br>
 <span style="color:#4eb24e;">{namecode:84}：</span><br>
