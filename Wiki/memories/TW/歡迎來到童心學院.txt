@@ -59,7 +59,7 @@
 <br>
 在兩人的說明中，我走到了學校大門前，靠近了保全系統的臉部辨識處。<br>
 <span style="color:#4eb24e;">保全系統：</span><br>
-「滴――訪客安克拉治認證失敗。警告！警告！非認證人員不得入內！」<br>
+「滴――訪客{playername}認證失敗。警告！警告！非認證人員不得入內！」<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 果然沒那麼容易……<br>
 <span style="color:#4eb24e;">俾斯麥：</span><br>
