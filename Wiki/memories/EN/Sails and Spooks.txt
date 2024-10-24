@@ -535,11 +535,11 @@ Sails and Spooks<br>
 7 A Deal with the Devil<br>
 I awaken to a cold tile floor under me.<br>
 My attention jumps right to a beautiful woman sitting on a throne in the middle of this big hall.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Ah, finally awake, visitor?<br>
 <br>
 Her looks and her voice alike are the definition of gorgeous, and yet, she exudes an intidimating aura.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Hey, ya don't gotta be so on edge. I'm the boss of this place. Just call me Owari.<br>
 Saw you lyin' on the side of the road, so I brought you here.<br>
 Speaking of, where're you from? Looked mighty battered when I found ya.<br>
@@ -549,14 +549,14 @@ Even knowing that she isn't human, I can't help but feel affection for her.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (Let's see... I was hurt badly by a beast while on the road, and I dragged myself over here, then...)<br>
 Wait... Where did my wounds go?<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Your wounds? Yeah, you were beat up real bad, so I healed ya.<br>
 Pretty based of me, wouldn'tcha say?<br>
 <br>
 She flashes a bright smile and nods proudly, seemingly waiting for me to praise her.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Yeah, you did an amazing job.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Thing is, I didn't do it outta the kindness of my heart.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 (What? Oh boy...)<br>
@@ -565,20 +565,20 @@ A story I'd heard suddenly comes to mind – that demons trick humans into makin
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 So... what do you want from me?<br>
 Will you make me command your demon army and invade enemy territory, or...?<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 What? Ya lost me there.<br>
 <br>
 A look of confusion forms on her face and she idly tugs on her clothes.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 You're not? I thought you'd make me offer something of equal value.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Oh, right! Yeah, that's the one!<br>
 Ahem... You owe your life to me. You must give me something worth more than that.<br>
 Here, take this!<br>
 <br>
 She reaches behind her throne and pulls out a hoe of gold, then throws it to me.<br>
 She then corrects her posture and assumes her regal looks again before continuing.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 I take it you know what this is, yes?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ...I sure do.<br>
@@ -591,25 +591,25 @@ I take it you know what this is, yes?<br>
 '''''<span style="color:black;">（选择项2）</span>'''''I can use this to bury those who oppose you... How ingeniously devilish!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Actually... That sounds like a pretty inefficient way of doing it.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Yo! Don't go usin' my precious tools for none of that!<br>
 <br>
 She puffs her cheeks up in anger and wags her finger at me.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Listen up! Here's how you're gonna repay me: by hittin' the farms and workin' the soil with me!<br>
 <br>
 Chest held high, she looks very content with her own proclamation.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 I saved your life, so you gotta give some life back!<br>
 You were bleedin' like a stuck pig, remember? It took a buttload of demon carrots to stop it!<br>
 <br>
 Rising from her throne, she slowly walks over to me.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 You'll be staying right here, helpin' the greens grow, and you ain't leaving 'til then!<br>
 <br>
 She places the golden hoe in my hands.<br>
 Her fingertips are warm and soft, and her eyes are brimming with kindness and a longing for new life.<br>
-<span style="color:#4eb24e;">{namecode:295}：</span><br>
+<span style="color:#4eb24e;">Owari：</span><br>
 Heehee! C'mon, visitor!<br>
 Let's go bring new life into this world!<br>
 {{折叠面板|内容结束}}
