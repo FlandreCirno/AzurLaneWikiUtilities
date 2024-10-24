@@ -133,6 +133,7 @@
 小贝法 Royal Maid Little
 纽卡斯尔 Newcastle
 天狼星 forMaster_Sirius
+确捷 Swiftsure
 黑太子 White Princess
 格拉斯哥 Glasgow
 赫敏 Hermione
@@ -264,6 +265,7 @@
 伊势 Isei
 日向 Hyūga
 长门 SakuraCombinedFleet
+陆奥 Mutsu
 土佐 Tosa
 武藏 Musashi
 三笠 Mikasa
@@ -404,6 +406,7 @@ U-31 Unbeschwert31
 帝国 orepmI
 托里拆利  Torricelli
 莱昂纳多·达·芬奇 DaVinci 
+马可波罗 Marco Polo
 那不勒斯 Napoli
 威严 Grozny
 明斯克 Minsk
@@ -433,6 +436,7 @@ U-31 Unbeschwert31
 伏尔加 Волга
 喀琅施塔得 Кронштадт
 契卡洛夫 Chkalov
+纳希莫夫海军上将 Admiral Nakhimov
 凯旋 Le.Triomphant
 福尔班 Forbin 
 鲁莽 L.Téméraire
@@ -481,6 +485,11 @@ U-31 Unbeschwert31
 玛丽·西莱斯特号 Mary Celeste
 维达号 Whydah
 加里冒险号 Adventure Galley
+冈依沙瓦号 Ganj-i-sawai
+幻想号 Fancy
+和睦号 Amity
+朴茨茅斯冒险号 Portsmouth Adventure
+海豚号 Dolphin
 玛莉萝丝 Marie
 穗香 Honoka
 霞 Kasumi
