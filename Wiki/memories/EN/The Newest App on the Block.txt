@@ -1,0 +1,153 @@
+== The Newest App on the Block ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The Newest App on the Block|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+Port - Hallway<br>
+While I'm passing by Akashi's workshop, I hear despondent muttering coming from the half-open door.<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+Working overtime, all-nighter, no energy, it's out of my control, let me go home...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(That's Yuubari. Is Akashi forcing her to work on something?)<br>
+<span style="color:#4eb24e;">Soobrazitelny：</span><br>
+Easy, easy. Have a pick-me-up.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(The genius mechanic is here, too? Drinking immediately after an all-nighter sounds really unhealthy.)<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+I'm so frickin' pissed! Get on your knees and beg for mercy!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Now Bremerton? Is she trying to fix their horrific working conditions?)<br>
+<br>
+Feeling concerned, I turn the doorknob and enter.<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+Hum-hum. Commander. Did you two...?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Nope, I didn't tell the Commander yet!<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Me neither, nya.<br>
+<br>
+'''''<span style="color:black;">选择项1："Tell me" what?</span>'''''<br>
+'''''<span style="color:black;">选择项2：What's going on here?</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Is there something I should know about?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I heard you yelling a second ago. Is something the matter?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I heard you while I was passing by a second ago.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Something about "working overtime" and "getting on your knees and begging."<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Ohh. Ya musta heard that and got concerned!<br>
+It's alright, nothin' to worry about! We were just testing out stamps for FleetChat!<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+Yes. What you heard was just us reciting what the stamps say.<br>
+<br>
+Yuubari shows me her phone screen.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That's all it was?<br>
+Hang on, "FleetChat"? You mean that messaging app you proposed a while back?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Bingo, nya.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+If memory serves me right, it's going to be our new universal app for texting, right?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+That's right! 'Til now, we've all been using different ones.<br>
+That led to everyone having to install a bajillion apps just to text each other.<br>
+So we set up a crack team – Soobrazitelny, Yuubari, and the not-here-at-the-moment Ingraham and Nakhimov.<br>
+<span style="color:#4eb24e;">Soobrazitelny：</span><br>
+Together, we created FleetChat! In addition to the expected chat function, it also features group chats!<br>
+AND! Yuubari and I even managed to integrate Juustagram into it!<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+I was so excited to see people trying it out that I didn't get any sleep last night...<br>
+<br>
+Yuubari lets out a long yawn.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+We haven't fully settled on a name yet, but we're goin' with FleetChat for now.<br>
+Has a nice ring to it, don'tcha think?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It does. In fact, I think that could be its official name.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Really? Sweet! Lemme hit up Liverpool and Z47 and let 'em know!<br>
+I asked 'em about the name before and they lowkey loved it!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Are you gonna text them through FleetChat?<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Nah, not yet!<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+The final round of testing only just finished, nya. They're still using the same old apps, nya.<br>
+The plan was to report to you once we'd finished testing the stamps, but that won't be necessary now, nya.<br>
+Saved us a bit of legwork by showing up when you did, nya.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Yeah, talk about a coincidence!<br>
+Heck, might as well give our report here and now, yeah?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Well... Commander, the testing of FleetChat's basic features has concluded, nya. It's ready for release, nya.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Woo! Clap, clap, clap!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Great work, all of you. Get some well-earned rest.<br>
+<span style="color:#4eb24e;">Soobrazitelny：</span><br>
+Eh, it was easy! Creating a texting app is child's play when you're a genius mechanic!<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+Hum-hum. The 1.0 release is ready, yes, but there is still Akashi's proposed VIP system to work on.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+VIP system? I thought you were making a regular messaging app.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Umm! I have no idea what Yuubari's talking about, nya!<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+What? But just earlier, you said–<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+What I MEANT was a system to reward you, our most valuable developer, for your hard work, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Right...<br>
+<br>
+Ignoring Akashi's attempt at an excuse, I decide to get us back on topic.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Seeing as the 1.0 is finished, why not let the whole port try it out?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Nya? You mean release it just like that, nya?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Have some faith in your users. I'm sure your current version will work just fine.<br>
+Besides, you need users testing your app to get feedback or bug reports.<br>
+<span style="color:#4eb24e;">Soobrazitelny：</span><br>
+Ahh-ha-ha-haah! I, for one, agree with Comrade Commander!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright. Soobrazitelny, you'll run one last test.<br>
+Bremerton, you'll write the tutorials for using the app while Yuubari polishes up the interface descriptions.<br>
+Once all that is done, Akashi will formally announce the app's release.<br>
+<span style="color:#4eb24e;">Everyone：</span><br>
+Got it!<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Oh, one more thing! Lemme borrow your phone for a sec, Commander.<br>
+<br>
+Bremerton walks up and extends her empty hand toward me.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Give it to her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Don't give it to her.)</span>'''''<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You don't want to, huh? Why? Got somethin' to hide?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''......<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Heh, just kidding! C'mon, I'm just gonna install the app on your phone.<br>
+<br>
+I do as she asks and hand it to her.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Let's see here... Download... Register...<br>
+Done!<br>
+<br>
+She hands it back to me. My screen shows the FleetChat app on standby.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+Congrats! You're the very first user of this here version!<br>
+<span style="color:#4eb24e;">Soobrazitelny：</span><br>
+Go on! Try it out!<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+Yes, it's quite simple to use. Give it a try.<br>
+<span style="color:#4eb24e;">Bremerton：</span><br>
+What're you waitin' for? Come on!<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+And if you've got any feedback, be sure to let me know, nya.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright. Here we go.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Open the app.)</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

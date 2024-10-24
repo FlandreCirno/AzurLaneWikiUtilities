@@ -1,0 +1,701 @@
+== Sails and Spooks ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Caught in the Web|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+1 Caught in the Web<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Porty's laid a perfect trap, her prey will not escape♪<br>
+<br>
+Somebody is singing a strange song by the castle hidden in the dark woods.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+La-de-dum-de-dum♪ Affix the ropes with tape♪<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Who built a castle out in this dreary forest? And who's that, singing?)<br>
+<br>
+There is a red-faced demon girl – clearly drunk – humming along while she's carefully setting up a massive spiderweb.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(So the rumors were true. There IS a demon girl living in the forest.)<br>
+<br>
+Holding my breath, I hide behind a large bush and look for an escape route before she notices me.<br>
+I take just a few steps away, then I suddenly hear a scream from where the demon girl is.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Noooo! Dammit! How'd this happen?!<br>
+I can't believe I just got caught in my own bloody trap!<br>
+<br>
+When I look back, I see the she-demon has gotten stuck in the spiderweb, unable to move.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Ugghhh... This is why ya don't drink 'n' fly...<br>
+If only I hadn't had a few, then I wouldn't have botched my takeoff!<br>
+C'mooon! Lemme loooose!<br>
+<br>
+The more she struggles, the more the web ruthlessly clings to her, robbing her of any chance of escape.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Dammit... What now? Am I gonna spend the whole bloody night caught in my own web?!<br>
+<br>
+Her face is flushed red with anger and vexation over her own mishap.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Rescue her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave while you have the chance.)</span>'''''<br>
+'''''<span style="color:black;">选择项3：(Stay and see what happens.)</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''While she may be a demon, I can't help but feel bad for her.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(I'll offer to help her in exchange for guaranteeing my own safety. Benefits us both.)<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I've heard some bad stories about this demon, and here I am, just a few paces away from her.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Not only is she dangerous, she has even laid a trap. Anyone with a working brain would walk away for their own safety.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(She's immobilized. Now's my chance to get out of here!)<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''There is the possibility that THIS is the trap – she's feigning being caught. It's best to watch carefully.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''(Before that, I should move to a less dangerous spot to observe from...)<br>
+<br>
+SNAP!<br>
+While I'm pondering my next move, I step on a fallen branch, making a faint noise.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Crap!)<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Oi! I heard that! Show yourself!<br>
+<br>
+As you'd expect, the demoness demands my attention.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Stay dead silent.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Come out of hiding.)</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''With my breath held, I try desperately to fade into the surroundings.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Don't try 'n' hide! I already know you're there!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Leave me here 'n' you're gonna regret it BADLY once I'm free, ya hear?!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''She knows I'm here. It's pointless to try to hide any longer.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Oh well. Let's improvise.)<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Ahem... Oh, kindhearted traveler, please rescue me. I'm a forest fairy and I clumsily got caught in this trap.<br>
+<br>
+She sounds ever so slightly like she's about to cry.<br>
+I might have fallen for her charade if I hadn't seen her laying the trap... Actually, no, I wouldn't have.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(I won't bother calling her out. Too much work.)<br>
+I'll help you, but in exchange, you have to guarantee you won't hurt me and that you'll escort me out of the forest.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Of course! I promise!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It'll take more than that for me to trust you. You demons have contracts to force you to keep your word, don't you?<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Whuh? How'd ya know 'bout those?<br>
+Wait, how could ya even tell I was a demon?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I've never seen a forest fairy with horns and wings like those, for a start...<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Whatever! Ya got me!<br>
+Just put your hand on my belly 'n' that'll bind a contract 'tween us!<br>
+<br>
+As she instructs, I place my hand on her stomach.<br>
+A warm tingle courses through my body, and the heat gathers in my palm, on which a peculiar emblem forms.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Contract signed! Oof, that tickles...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright. I'll keep up my end of the deal.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+Phew! Freedom's never felt this good before!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Now it's your turn to honor your word. Show me out of the forest.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+What? No, see, that's not gonna happen!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Huh? Why no–<br>
+<br>
+Now free, she pins me to the ground without an iota of effort. Her superhuman strength makes it impossible to fight back.<br>
+<span style="color:#4eb24e;">Portsmouth Adventure：</span><br>
+I promised I'd keep ya safe and show ya the way out, but I didn't specify WHEN I'd do that, did I?<br>
+I can fulfill my end of the deal whenever I wanna, be it in a minute or a thousand years!<br>
+Heheheh... 'Case I didn't mention it, I've got a ravenous appetite♥<br>
+Don't worry, I'll keep ya safe 'long as you're here. And in exchange, I'm gonna drain you♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Moonlit Escape|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+2 Moonlit Escape<br>
+The full moon shines over a town full of mystery.<br>
+It's a beautiful sight to be appreciated – assuming you can ignore the sound of four hooves pursuing you.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+*pant*... *pant*... Faster! Go faster!<br>
+Whatever you do, don't let him catch you!<br>
+<br>
+The self-dubbed legendary investigator Bristol – and I, her assistant – are running for our lives to get out of the town.<br>
+Bristol carries the Headless Horseman's head in her arms, and the horseman in question is hot on our trail.<br>
+If you're wondering how we got to this point, it all started when she found a manuscript in the library called, "The True Story Behind the Legendary Horseman."<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Don't give me that "it's a long story" look! Now's not the time!<br>
+Sure, I got us into this, but I can only take the blame for it if we get out alive!<br>
+Forget about the story and focus on running faster!<br>
+<br>
+She clutches the Horseman's heads between her hands.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Data 857, when we can't run anymore, you'll have to push us the rest of the way!<br>
+<br>
+'''''<span style="color:black;">选择项1：It comes with a feature to push you?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Run, Bristol, run!</span>'''''<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Strictly speaking, no, but this is an emergency!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''If we stop moving, we're toast!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Don't let 'em catch you, Bristol! Run!<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''I know!<br>
+<br>
+We continue running while the bright moon shines overhead.<br>
+Then, we realize that the further we go, the more desolate our surroundings become.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+"A thick veil of fog hangs over this marshland..."<br>
+"The stench of rotting plants stabs my nose, and nausea wells in my stomach..."<br>
+"But I cannot stop. To stop running would beckon certain death, or perhaps a fate even worse than such."<br>
+"The sound of four galloping hooves from behind is drawing closer... Those sounds could not be of any living creature."<br>
+"O, closer they draw – the rattling of metal armor, and low groans like no human could utter..."<br>
+"I saw it. I saw smoke begin to spew from the neck of the Headless Horseman..."<br>
+<br>
+Between her gasps for air, she recites a story to me.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What? Is that from the manuscript you read?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Yeah! I thought adding some tension would help us run faster!<br>
+You know what else? We're on even footing with the Horseman! Literally!<br>
+His horse has four legs, and we have four legs between us as well!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Right...<br>
+<br>
+I can hardly believe the words coming out of her mouth, but I digress because, all of a sudden, I remember something else the manuscript said.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hey, didn't the last page say the Horseman can only exist until the sun rises?<br>
+If so, we should find a place to hide and bide our time until morning comes.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Hmm... I guess we could go back the way we came.<br>
+The Horseman probably won't expect us to do a 180, and if we just stay on the lookout, we should be able to wait him out!<br>
+<br>
+She extends her empty hand and takes mine into it.<br>
+Her hand feels warm. It's covered in sweat, be it from fright or simply from running.<br>
+I grasp her hand back and change direction with her. This time, we are running towards the town.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Ahaha! You can run faster if you want! I've still not hit peak speed!<br>
+<br>
+The legendary investigator lets out a refreshing smile.<br>
+She is really enjoying this thrilling chase with all her heart.<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Come on! Let's keep running until daybreak!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Doll in the Rainy Night|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+3 The Doll in the Rainy Night<br>
+Thunder booms and a storm rages in the dark night. Seeking shelter from the rain, I've come to this old mansion sitting in the middle of nowhere.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hellooo? Anyone there?<br>
+<br>
+Nobody answers my knock on the heavy door, and yet, it opens with a heavy creak.<br>
+Lightning rips across the sky again. I gather my courage and bite the bullet, setting foot inside the mansion.<br>
+The interior reeks of dust, and it looks like nobody has cleaned the place for many years.<br>
+As I look for a place to dry off, I notice something very strange.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What the...?<br>
+<br>
+There is a girl lying on a long table, dressed in bandages from head to toe.<br>
+Eyes closed and skin pallid, she looks almost like a doll.<br>
+BOOOM!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whuah?!<br>
+<br>
+The light of a fierce lightning strike shines through the giant windows, and the dark room lights up for just a moment.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+Hi there!<br>
+<br>
+All of a sudden, the girl is now sitting upright, smiling and extending a hand toward me.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Are you... human?<br>
+<br>
+I ask her a question as calmly as I can while my heart races inside my chest.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+Human? Well, let's see...<br>
+<br>
+She looks at me with a soft smile then furrows her brow in thought.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+All I remember is my name is Dolphin. Nothing beyond that!<br>
+<br>
+Despite the extreme uncanniness on display, I somehow don't at all feel like I need to get out of here.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What are you doing here? Is this your home?<br>
+<br>
+Looking at her, all I feel is a sense of curiosity.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+I don't remember! Heehee. I guess that's the curse's doing.<br>
+That's the reason why I can't remember anything.<br>
+Enough about me. Tell me about yourself!<br>
+Since you're the one who awakened me, can I call you "Master"?<br>
+<br>
+Innocence drips from her every word, and her eyes gleam a baby chick's – full of naivete.<br>
+<br>
+'''''<span style="color:black;">选择项1：Sure. Call me whatever you want.</span>'''''<br>
+'''''<span style="color:black;">选择项2：I dunno, that feels wrong...</span>'''''<br>
+'''''<span style="color:black;">选择项3：It has a nice ring to it!</span>'''''<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Heehee! Okay, Master!<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Does it? Your face tells a very different story.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Heehee. You have "I like it" written all over your face, Master.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well, regardless of what you call me, I'm just a mountaineer seeking shelter from the rain.<br>
+As soon as it lets up, I'm leaving.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+Aww... You're really leaving that soon?<br>
+<br>
+Evidently, she's disappointed.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+I don't wanna be alone... You woke me up, so at least stay here for a little while.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+But...<br>
+<br>
+Whatever Dolphin is – human or something else – I can't just leave her here by herself.<br>
+BOOOM!<br>
+Lightning strikes yet again. The room lights up as though it were daytime.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+In other words, if the rain never stops, then you're never gonna leave, right?<br>
+Stay here with me. We'll be together forever and ever!<br>
+<br>
+She tugs on my clothes and comes one step closer.<br>
+I try to pull away, but she's a lot stronger than she looks.<br>
+There is a bewitching glow in her eyes, and on her face sits a look of faint madness.<br>
+<span style="color:#4eb24e;">Dolphin：</span><br>
+You're gonna stay right here and become my full-on master.<br>
+That's what's going to happen – because as long as I'm awake, the rain will never stop.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Corridor of Lost Memories|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+4 The Corridor of Lost Memories<br>
+There is the rumble of thunder as I slowly open my eyes.<br>
+Heavy rain pelters outside, and it dawns on me that I don't know where I am.<br>
+Where am I? Who am I? Why am I here?<br>
+As these questions buzz around in my mind, the only thing clueing me into what happened is the pain in the back of my head – I've suffered memory loss due to head trauma.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is someone there?<br>
+<br>
+My voice echoes through the empty building. One second, two seconds, three...<br>
+Right as I start to think I'm alone here, I hear a faint voice coming from somewhere.<br>
+<span style="color:#4eb24e;">Eerie Voice：</span><br>
+Over... here...<br>
+<br>
+It's a whisper, or maybe it's a mutter.<br>
+It matters little, because after a moment of indecision, I start walking toward where it came from.<br>
+I come upon a room so dark it sends chills down my spine.<br>
+<span style="color:#4eb24e;">Eerie Voice：</span><br>
+You... came...<br>
+<br>
+A voice calls out to me from the darkness.<br>
+<span style="color:#4eb24e;">Eerie Voice：</span><br>
+Hahh...<br>
+<br>
+Out of nowhere, a lone candlewick lights up in the void.<br>
+In the faint light, I make out the figure of a woman in a casket.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+Heehee...<br>
+So it's you. The human I have longed for.<br>
+<br>
+She examines me closely with her light eyes.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+I have been waiting for you for a long time... as have I awaited this moment.<br>
+<br>
+It must've been very long since she spoke to anyone, because her sentences sound stiff and her voice slightly hoarse.<br>
+<br>
+'''''<span style="color:black;">选择项1：You've been waiting for ME?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Who are you? Do you know who I am?</span>'''''<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+You're curious about me? Why, how wonderful.<br>
+<br>
+She rises to a sitting position with a graceful and flowing motion.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+I am Fancy... A forgotten soul from the depths where no light shines.<br>
+You... You are the only one who went to the edge of the world and managed to find me.<br>
+<br>
+She licks her lips and pokes out her curiously forked tongue, showing it to me.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+You answered my call and came right to me, so I must ask...<br>
+Will you be my partner?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Uhh...<br>
+Before I answer that, I have some questions of my own. What are you? Who am I? Why am I here?<br>
+It may seem hard to believe, but I don't remember anything.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+It doesn't matter what I am.<br>
+To make it simple for you, I suppose you could call me a monster for the time being.<br>
+You heard my call and were able to find me precisely because you forgot everything.<br>
+A human with neither past nor memories, and a forgotten monster at the end of the world...<br>
+Sounds like we were made for each other, no?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hold up a second. You said you've been "waiting for me."<br>
+But, based on what you just said, your initial explanation was just meant to rouse my curiosity and get me to stay here. Am I wrong?<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+Ah... A sharp one, I see.<br>
+Enthralling with words never has been my strong suit.<br>
+<br>
+Then, an indescribable gurgling sound starts coming from her throat.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What are you doing?<br>
+<br>
+Sensing danger, I try my best to stay calm and slowly retreat toward the exit.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+I'm not lying about wanting you to be my partner.<br>
+<br>
+Her lips suddenly twist into a very unsettling smile.<br>
+At the same time, the tentacles scattered around the room come to life and slither toward me from every which way.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What the hell?! Are these things a part of you?!<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+Yes.<br>
+<br>
+The tentacles pull me into her coffin before I can attempt to struggle.<br>
+<span style="color:#4eb24e;">Fancy：</span><br>
+Finally...<br>
+You're mine...<br>
+<br>
+She blows out the candle, and the coffin's lid slowly slides to a close.<br>
+My mind gradually slips into the darkness. It's not long before it's gone altogether.<br>
+Then, the room becomes silent once more, as though none of this happened.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Sealed Mermaid|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+5 The Sealed Mermaid<br>
+While I'm diving in the sea, I all of a sudden hear beautiful singing.<br>
+Following its enrapturing sound, I eventually come upon an underwater cave.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Wait a second... Why can I breathe like normal now?)<br>
+<br>
+The fish swim and play around me while I ponder this strange phenomenon.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Maybe there's some kind of... treasure in there? Treasure that lets you breathe underwater?)<br>
+<br>
+Enticed by the promise of treasure, I slowly swim deeper into the cave.<br>
+Deep inside the cave, I lay eyes upon an imprisoned girl.<br>
+Her hands are held above her head, restrained by belts made of an unidentified material.<br>
+Below her waistline are not human legs, but the tail and fins of a fish. They, too, are restrained.<br>
+Finally, the singing I heard sounds like it's coming from her.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(A mermaid? Trapped down here?)<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+Oh! Thank the gods! You must've heard my song!<br>
+<br>
+The mermaid realizes I'm here, and looks at me with a bright smile.<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+My name is Ganj-i-Sawai! I'm a mermaid, as you can see!<br>
+But I'm not just any mermaid – I have powers that can purify this sea of disasters!<br>
+O, gracious traveler, won't you please undo the seal that binds me?<br>
+If I'm left to rot here, I will wither away and eventually perish...<br>
+<br>
+She begins to bawl and cry.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You say "rot," but you seem pretty full of energy to me...<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+Oh, well...<br>
+I just look that way because I'm so glad to have met you!<br>
+Ever since I was sealed here, my only audience has been the passing fish...<br>
+But now you're here – a person I can talk to! If you were me, you'd be full of energy, too!<br>
+<br>
+She nods several times in succession, as though she believes it will make her look more convincing.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Why don't you tell me about this "sea of disasters" and what that seal is?<br>
+Without knowing that, I'm not sure if I'll be able to help you.<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+The sea is full of these terrifying disasters that go from place to place. Any creature that's caught in one transforms into a man-eating beast.<br>
+A disaster was looming, and I feared being infected, so I sealed myself in this place and went to sleep...<br>
+When I woke up, I realized that my powers had purified the sea.<br>
+Buuut, annoyingly, I wasn't able to undo this seal after that.<br>
+So you, kind traveler, are the only one I can ask for help!<br>
+You are the chosen one who was sent to lift this seal and rescue me!<br>
+That's why you can breathe underwater – my powers made it so!<br>
+<br>
+The light of tenderness and hope fills her eyes.<br>
+Her voice is sweet and carries an emotion that pierces straight to the heart.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Believe her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Don't believe her.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Alright. I'll help you.<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Thank you! Now come here, traveler. Just a little closer.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''As I come close and touch her tailfin, a weird and slimy chill runs through my fingers.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''At the same time, a question surfaces in my mind.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hang on. Something you said just doesn't sit right with me.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+If you're able to purify the sea, why would you seal yourself away rather than confront it directly?<br>
+Let's suppose that everything you told me is true...<br>
+Then maybe the reason you can't undo the seal is because the disaster has already gotten to you.<br>
+I think your powers of purification created the seal and only they can undo it.<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+Hmph. You're sharp, I'll give you that.<br>
+Not that it matters. You'll undo the seal whether you like it or not.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What?<br>
+<br>
+Right as I try to swim back, I realize that my body is no longer listening to me.<br>
+The mermaid's singing is moving me like a puppet on invisible strings, instructing it to undo her restraints.<br>
+<span style="color:#4eb24e;">Ganj-i-Sawai：</span><br>
+Heheh. Wondering why your body won't obey you? That's because it desires me!<br>
+Err... In the sense that it wants to sacrifice itself and become one with me.<br>
+<br>
+Her black tailfin coils around me and jerks, pulling me right into her bosom.<br>
+She looks at me again, a bright smile on her face.<br>
+That's the smile of a predator – a predator that has finally caught her prey.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Game of Chase|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+6 A Game of Chase<br>
+I stand on a rooftop at night. The thief I've cornered turns around and cracks a slightly stiff smile at me.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+Well, shoot. Seems there's nowhere left to go!<br>
+Of course, that's not true. This is where the battle really starts.<br>
+Go on, master detective – follow me if you have the guts!<br>
+<br>
+The thief leaps backward off the roof, numerous tentacles sprouting from her back while she falls through the fog.<br>
+She is no ordinary thief, and she is no ordinary human – she is a manmade monster known as Frankenstein.<br>
+No one knows who she is or where she came from. All that's known is that she's an expert thief, based on the many treasures that have gone missing across the city.<br>
+And I, the detective who has been on her trail, have become caught up in an endless game of cat and mouse with her.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What?!<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+Ahaha! I win again. How boring. Here, I'll return the treasure.<br>
+I wonder – will I break into pieces if I fall from this height, hmm?<br>
+<br>
+She cracks a joke even as she's falling, and tosses the treasure to me.<br>
+Her mocking laugh still rings in my ear as her red silhouette vanishes into the fog.<br>
+<br>
+'''''<span style="color:black;">选择项1：You're not getting away!</span>'''''<br>
+<br>
+I catch the treasure and fearlessly jump after her.<br>
+The rushing wind rages loudly, and an unpleasant feeling of weightlessness makes my stomach churn.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+But I gave back the treasure! Why are you still pursuing me?<br>
+<br>
+'''''<span style="color:black;">选择项1：To arrest you!</span>'''''<br>
+'''''<span style="color:black;">选择项2：To bring an evildoer to justice!</span>'''''<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Arrest me? Ooh, you're sooo scary.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Oh, I'm evil now? Being arrested sounds sooo scary.<br>
+<br>
+Her sarcasm is so thick it could float on top of water. In fact, she grins at the idea of being arrested.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+You're really pursuing me to protect me, aren't you?<br>
+Aww, you don't want to see me turn into a red splotch, is that it?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...I just can't let anything happen to a perpetrator I'm trying to arrest.<br>
+<br>
+The wind blows ever louder, and our fall is finally about to come to an end.<br>
+I aim my grappling hook gun at a suitable target and reach out to Amity.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+If you don't want to end up as a pancake, take my hand!<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+Ahahahaha! It was worth it making you go through all this trouble.<br>
+<br>
+There is a sparkle in her eyes, as though she has laid eyes upon the most valuable thing in the world.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+Now there's REALLY nowhere left to go for me!<br>
+<br>
+She extends her hand and grasps mine.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+Silly detective. The treasure I was after this whole time was you.<br>
+<br>
+Her tentacles grab onto a ledge on the building, forcibly halting our fall.<br>
+Then, she provocatively pulls herself toward me.<br>
+<span style="color:#4eb24e;">Amity：</span><br>
+You chose this, I'll have you know. Heehee.<br>
+Now give it up and be mine, "master detective."<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Deal with the Devil|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+7 A Deal with the Devil<br>
+I awaken to a cold tile floor under me.<br>
+My attention jumps right to a beautiful woman sitting on a throne in the middle of this big hall.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Ah, finally awake, visitor?<br>
+<br>
+Her looks and her voice alike are the definition of gorgeous, and yet, she exudes an intidimating aura.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Hey, ya don't gotta be so on edge. I'm the boss of this place. Just call me Owari.<br>
+Saw you lyin' on the side of the road, so I brought you here.<br>
+Speaking of, where're you from? Looked mighty battered when I found ya.<br>
+<br>
+Her horn ornaments – hornaments, if you will – sway as she speaks. Her tone suggests that she's genuinely concerned.<br>
+Even knowing that she isn't human, I can't help but feel affection for her.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Let's see... I was hurt badly by a beast while on the road, and I dragged myself over here, then...)<br>
+Wait... Where did my wounds go?<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Your wounds? Yeah, you were beat up real bad, so I healed ya.<br>
+Pretty based of me, wouldn'tcha say?<br>
+<br>
+She flashes a bright smile and nods proudly, seemingly waiting for me to praise her.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yeah, you did an amazing job.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Thing is, I didn't do it outta the kindness of my heart.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(What? Oh boy...)<br>
+<br>
+A story I'd heard suddenly comes to mind – that demons trick humans into making "deals of equivalent exchange" with them.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+So... what do you want from me?<br>
+Will you make me command your demon army and invade enemy territory, or...?<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+What? Ya lost me there.<br>
+<br>
+A look of confusion forms on her face and she idly tugs on her clothes.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You're not? I thought you'd make me offer something of equal value.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Oh, right! Yeah, that's the one!<br>
+Ahem... You owe your life to me. You must give me something worth more than that.<br>
+Here, take this!<br>
+<br>
+She reaches behind her throne and pulls out a hoe of gold, then throws it to me.<br>
+She then corrects her posture and assumes her regal looks again before continuing.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+I take it you know what this is, yes?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...I sure do.<br>
+<br>
+'''''<span style="color:black;">选择项1：It's a weapon imbued with powerful magic!</span>'''''<br>
+'''''<span style="color:black;">选择项2：It's a tool to dig the graves of your enemies!</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Using a farming tool to slay your foes and humble them at the same time... How ingeniously devilish!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I can use this to bury those who oppose you... How ingeniously devilish!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Actually... That sounds like a pretty inefficient way of doing it.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Yo! Don't go usin' my precious tools for none of that!<br>
+<br>
+She puffs her cheeks up in anger and wags her finger at me.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Listen up! Here's how you're gonna repay me: by hittin' the farms and workin' the soil with me!<br>
+<br>
+Chest held high, she looks very content with her own proclamation.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+I saved your life, so you gotta give some life back!<br>
+You were bleedin' like a stuck pig, remember? It took a buttload of demon carrots to stop it!<br>
+<br>
+Rising from her throne, she slowly walks over to me.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+You'll be staying right here, helpin' the greens grow, and you ain't leaving 'til then!<br>
+<br>
+She places the golden hoe in my hands.<br>
+Her fingertips are warm and soft, and her eyes are brimming with kindness and a longing for new life.<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+Heehee! C'mon, visitor!<br>
+Let's go bring new life into this world!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Wolf on a Full Moon's Night|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Sails and Spooks<br>
+<br>
+8 Wolf on a Full Moon's Night<br>
+Guided by the moonlight, I arrive at the village I once lived in long ago.<br>
+My return was spurred on by, of course, my desire to meet with Atago, who's spoiled me and was always there for me since I was young.<br>
+Standing at the entrance of the village, I look at the moonlit buildings and notice something – how quiet it is.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+......<br>
+<br>
+A bad feeling comes over me and confusion settles in. Right then, I hear a voice coming from the roof.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+Wicked beasts! Begone!<br>
+This is where I and my soulmate made countless memories... I will NOT let you ruin it!<br>
+<br>
+I look up and see that there's a person on the roof.<br>
+While she does have the physique of a woman, she also has a pair of animal ears that flap gently in the wind.<br>
+What's more, she has a wolf's paws in place of human hands.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Wait a second... That voice... Could it be...?)<br>
+Is that you–<br>
+<span style="color:#4eb24e;">Wild Beast：</span><br>
+GRRRRR!<br>
+<br>
+A pack of beasts cuts me off and surrounds me before I can finish speaking.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+Of course... You won't just back down.<br>
+Fine, then I'll just have to teach you a lesson!<br>
+<br>
+Although her voice is cold and intimidating, it's all the confirmation I need.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Atago?<br>
+<br>
+She is momentarily stumped, then the look of confusion in her eyes changes to a look of sadness.<br>
+After letting out a howl and scaring the beasts off, she extends a hand and pulls me up to the roof.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+Why now... Why did you decide to come back NOW?<br>
+Everyone else fled long ago, when the beasts first started attacking the village...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What about you? What happened to you?<br>
+Did you get... cursed?<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+No. This isn't some curse...<br>
+<br>
+She stops, seemingly at a loss for words.<br>
+It looks like she wants to come closer, but doubt holds her back. Her tail wags around anxiously.<br>
+With a sigh, she accepts reality for what it is, and gathers her courage before she starts explaining things.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+The thing is... I've always been a werewolf.<br>
+I never told you because you were still young when you lived here, and I didn't wanna scare you...<br>
+If I had a choice, you would've never had to see me like this...<br>
+<br>
+She bites her lip and her tail hangs like it's lost all strength. Gone is the ruthless mask she wore for those beasts.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+Do you... fear me? Do you hate me?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Take her hand.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Pull her into a hug.)</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I shake my head and grab her hand.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Although it's more of a fluffy paw now than a hand, its warmth is the exact same as I remember.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I wrap my arms around her in a tight embrace, trying to impart courage and comfort to her.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''She trembles in my arms – her fluffy tail, too, begins to shake.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I don't care how you look. I'll never hate or fear you.<br>
+Because inside, you'll always be the person I've–<br>
+<span style="color:#4eb24e;">Wild Beast：</span><br>
+GRRRRR!<br>
+<br>
+Right before I can get another word in, the same beasts that she drove off earlier come back, only more numerous this time.<br>
+They gather around us, using each other as stepping stones to try to get on top of the roof.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+Thank you...<br>
+<br>
+Tears well in her eyes. Tears of happiness. She holds them back.<br>
+<span style="color:#4eb24e;">Atago：</span><br>
+Don't worry. I'll take care of this.<br>
+I'll keep you safe. Not just tonight, but forevermore.<br>
+<br>
+Holding my hands, she leaps far into the sky – toward the moon – where the beasts can't touch us.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
