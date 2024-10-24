@@ -1,0 +1,153 @@
+== 艦船通信、新装テスト！ ==
+{{折叠面板|开始}}
+{{折叠面板|标题=啾信火热测试中！|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+母港・廊下<br>
+明石の工房の前を通りかかった時、半分開いたままのドアの向こうからブツブツと声が聞こえた。<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+残業…貫徹…やる気ナイ…しょうがない…幽体離脱したい……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（この声……夕張は明石になにか強いられているのか…？）<br>
+<span style="color:#4eb24e;">ソオブラジーテリヌイ：</span><br>
+待って待って、一緒に飲んで……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（メカニックもいる…？徹夜残業してから飲むのは流石に体に悪いよ…？）<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+激おこ…ボコボコ……土下座しなさい……！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（ブレマートン？夕張たちの状況を見かねて来たのか？！）<br>
+<br>
+心配になって、ドアを押して工房の中に飛び込んだが――<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+むむ。指揮官？二人が呼んだのか？<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+ううん、まだ指揮官に知らせてないよ！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+明石も呼んでないにゃ～<br>
+<br>
+'''''<span style="color:black;">选择项1：知らせ？どういうこと？</span>'''''<br>
+'''''<span style="color:black;">选择项2：何をしてるんだ？</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――ブレマートン？何を知らせることでもあったの？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――さっき物騒な言葉が聞こえてきたけど…なにかあったのか？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――何をしてるんだ？さっきから声が聞こえてきたけど…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――残業とか徹夜とか土下座とか……<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+あー。そうか、指揮官は心配になって入ってきたんだ！<br>
+大丈夫大丈夫！何でもないの！皆で「艦チャット」のスタンプをテストしてただけよ！<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+うむ。そう。指揮官が聞いたのは、夕張たちがスタンプを読み上げる声…<br>
+<br>
+夕張は手に持っている携帯を振ってみせた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――そうだったのか…<br>
+――あれ？「艦チャット」？この間ブレマートンと一緒に提案してたメッセンジャーアプリのことだっけ？<br>
+<span style="color:#4eb24e;">明石：</span><br>
+そうにゃ～<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――たしか母港の誰でも使えるっていう通信アプリだったよね…？<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+そうそう！今までは色々あってみんな違うアプリを使ってたじゃない<br>
+そのせいで色んなのを携帯に入れなきゃならなくて不便だよ<br>
+それで、ソオブラジーテリヌイや夕張、用事があって今はここにいないけどイングラハムやナヒ―モフたちのお陰で――<br>
+<span style="color:#4eb24e;">ソオブラジーテリヌイ：</span><br>
+「艦チャット」には基本のメッセージ送受信機能だけでなく、グループ機能も実装したのだ！<br>
+そしてこの天才メカニックと夕張たちの努力で、今までの艦船通信と合体させることにも成功したぞ！<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+早く皆に使ってほしくて、夕張はもう何日も昼寝していない……ふはぁああ～<br>
+<br>
+そう言いながら夕張は大きくあくびをした。<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+「艦船通信」になぞらえて、仮の名前だけど「艦チャット」って名前にしたわよ！<br>
+なかなかイケてる名前でしょう？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――そのまま正式名称に採用してもよさそうだな<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+本当に？良かった！じゃあすぐリヴァプールとフィーズちゃんたちに連絡するね！<br>
+この間意見を聞いたら、結構気に入ってくれたみたいよ！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――もう「艦チャット」で連絡するのか？<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+違うよ～！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+最後の機能のテストが終わったばかりだから、みんなまだ今までのアプリを使ってるにゃ<br>
+スタンプのテストが終わってから指揮官に報告するつもりだったけど…<br>
+指揮官が先に来てくれるとは思わなかったにゃ<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+あはは♪全く、すごい偶然！<br>
+もうここで指揮官に報告したほうがいいんじゃない？<br>
+<span style="color:#4eb24e;">明石：</span><br>
+指揮官、「艦チャット」の基本機能の開発は終わったにゃ。すぐにでも導入できるにゃ<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+パチパチパチパチ～<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――ご苦労さま。あとでちゃんと休んで<br>
+<span style="color:#4eb24e;">ソオブラジーテリヌイ：</span><br>
+別に平気だよ！これぐらい天才メカニックにかかれば楽勝なんだから！<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+むむ。一段落ついたけど……明石、さっき早くVIPシステムを開発するようにって……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――VIPシステム…？ただのメッセンジャーアプリなのに…？？<br>
+<span style="color:#4eb24e;">明石：</span><br>
+んんっ！夕張が何を言ってるのか全くわからないにゃ！<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+ん？でもさっき……<br>
+<span style="color:#4eb24e;">明石：</span><br>
+一番頑張った夕張をVIPにするって意味にゃ！全くの誤解にゃ！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――お、おう……<br>
+<br>
+とりあえず明石の弁明を無視して、本題に戻すことにした。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――開発が終わったなら、早速皆に使ってもらったらどうだ？<br>
+<span style="color:#4eb24e;">明石：</span><br>
+にゃ？いきなりリリースするにゃ？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――皆を信じているからな。今のバージョンでもきっと問題ないさ<br>
+――皆に使ってもらわないと、改善点や問題がわからないからな<br>
+<span style="color:#4eb24e;">ソオブラジーテリヌイ：</span><br>
+はっはっはー！同志指揮官と同意見だぞ！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――じゃあもう一回テストを頼んだぞ。天才メカニック<br>
+――ブレマートンは導入の案内を、夕張は各機能の説明をそれぞれブラッシュアップして<br>
+――それが終わったら明石から皆に知らせるんだ<br>
+<span style="color:#4eb24e;">みんな：</span><br>
+了解！<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+あ、そうだ！指揮官、ちょっと携帯を借りてもいい？<br>
+<br>
+ブレマートンは自分の前に立って、手を差し出してきた。<br>
+<br>
+'''''<span style="color:black;">选择项1：携帯を渡す</span>'''''<br>
+'''''<span style="color:black;">选择项2：携帯を渡さない</span>'''''<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ははーん？さては指揮官の携帯にはアタシに見られちゃ困るものでもあるのかなー？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''なんてね♪「艦チャット」を入れてあげるからちょっと貸して？<br>
+<br>
+言われたまま携帯を彼女に渡すと――<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+こうして、こう……ダウンロード……登録……<br>
+できた！<br>
+<br>
+ブレマートンから携帯を受け取ると、画面には早速「艦チャット」が立ち上げられていた。<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+これで指揮官はこのバージョンの最初の登録者になったよ！<br>
+<span style="color:#4eb24e;">ソオブラジーテリヌイ：</span><br>
+同志指揮官、早速使ってみよう！<br>
+<span style="color:#4eb24e;">夕張：</span><br>
+うんうん。らくらく操作でも一度は使ってみないと<br>
+<span style="color:#4eb24e;">ブレマートン：</span><br>
+さあさあ♪<br>
+<span style="color:#4eb24e;">明石：</span><br>
+意見があったら明石たちに教えてほしいにゃ～<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――うん。なら……<br>
+<br>
+'''''<span style="color:black;">选择项1：アプリを開く</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
