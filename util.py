@@ -159,7 +159,7 @@ def parseNameCode(text, nameCode, AF = False):
                 return nameCode[id]
         else:
             return matchobj.group(0)
-    return re.sub(r'\{namecode\:(\d+)(\:.*)?\}', parsefunc, text)
+    return re.sub(r'\{namecode\:(\d+)(\:.*?)?\}', parsefunc, text)
 
 def getNameCode():
     content = parseDataFile('name_code')
