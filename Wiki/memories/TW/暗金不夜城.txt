@@ -165,7 +165,7 @@
 有直升機攜重要目標越獄，重複一遍，請留意任何未在都市管理系統中註冊的直升機！<br>
 火力，妳留守在這裡！阿克貝隆比，確保所有水上交通線都處於封鎖！<br>
 陸地的部分由我親自負責，現在行動！<br>
-<span style="color:#ff9b93;">是！ 收到！：</span><br>
+<span style="color:#ff9b93;">火力＆阿貝克隆比：</span><br>
 是！<br>
 收到！<br>
 <br>
@@ -174,7 +174,7 @@
 從破洞跳下去也許是個辦法，但從需要跳水的高度來看，顯然只有死路一條。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……這不是完全無計可施了嗎。<br>
-<span style="color:#ff9b93;">呵呵，難道不是船到橋頭自然直？：</span><br>
+<span style="color:#ff9b93;">？？？：</span><br>
 呵呵，難道不是船到橋頭自然直？<br>
 <br>
 因為斷電而陷入一片黑暗的走廊中，突然傳出了意料之外的聲音。<br>
@@ -184,7 +184,7 @@
 <br>
 不禁認真地開始思考起從破洞跳到海裡的生還可能性。<br>
 還好下個瞬間，這個形跡可疑的「治安者」就用手裡的牢門鑰匙解除了誤會。<br>
-<span style="color:#4eb24e;">呵呵，難道不是船到橋頭自然直？：</span><br>
+<span style="color:#4eb24e;">？？？：</span><br>
 芝麻開門~別緊張，我不是治安者哦。<br>
 <span style="color:#4eb24e;">怪盜「Mystic」：</span><br>
 怪盜「Mystic」向你致敬，大名鼎鼎的指揮官。<br>
@@ -281,7 +281,7 @@ CAM03 LIVE<br>
 「藝術家」掀開了腳下的井蓋，縱身躍了進去。<br>
 跳進去逃走似乎不難，但此時此刻，卻有無法踏動腳步的理由——<br>
 <br>
-'''''<span style="color:black;">选择项1：你不走嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项1：妳不走嗎？</span>'''''<br>
 <span style="color:#4eb24e;">艾倫·M·桑拿：</span><br>
 ……哈，你這傢伙，還真是一點都沒變。<br>
 不用擔心我，我自己有辦法。<br>
@@ -631,7 +631,7 @@ CAM03 LIVE<br>
 可惜，它居然想踢掉我們，轉去和那位黑道的女王合作……<br>
 那位女王的野心，可不是它所能填滿的。<br>
 <br>
-'''''<span style="color:black;">选择项1：原來襲擊是你策劃的……</span>'''''<br>
+'''''<span style="color:black;">选择项1：原來襲擊是妳策劃的……</span>'''''<br>
 <span style="color:#ff9b93;">曙光：</span><br>
 嚯嚯，這麼說可太難聽了。我可不是負責開槍的那個。<br>
 算啦，鬧劇也該到謝幕的時候了。<br>
