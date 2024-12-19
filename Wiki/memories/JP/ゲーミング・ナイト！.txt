@@ -1,0 +1,436 @@
+== ゲーミング・ナイト！ ==
+{{折叠面板|开始}}
+{{折叠面板|标题=ボスウサの休憩タイム|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{playername}：</span><br>
+…………<br>
+<br>
+約束通りルメイの臨時控室に入ると、思わず中の様子にドキッとした。<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+ノスタルジックを感じさせる内装、飾られている剣とライフル、床に落ちているお金……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（この間マフィア映画を見てたって聞いたし、まさか映画の見すぎで……）<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+指揮官、かけたまえ<br>
+言われた通りルメイの隣の椅子に腰をおろした。<br>
+すると、彼女は側のサイドテーブルにあるファイルを手に取り、こちらに渡してきた。<br>
+貴殿を誘ったのはほかでもなく、「インタビュー」をするためだ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――インタビュー…？<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+此度の模擬店は我が店長を務める。いわば「ボスウサ」だ<br>
+それで、唯一にして大事な客である貴殿の感想を知るのは店長として当然の責務である<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――つまりこのファイルはインタビューの質問表かな？<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+いや、これは我が作った模擬店の新しいルールだ。このインタビューを通して貴殿の評価と意見をもらいたい<br>
+この程度で十分だろうか。もし足りないものがあったらすぐにでも足しておく<br>
+貴殿向けのもてなしは細部にこだわらねばならん<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――お、おう…<br>
+フリッツ・ルメイ：<br>
+早速ルメイから渡されたファイルを開いて目を通してみた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「勤務開始と終了時にはタイムカードを押すこと。『迷子になったから』『眠かったから』を理由とした遅刻・早退は認めない」<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+勤務評定は基本中の基本だ。時間通りに顔を出さねば、貴殿にサービスを提供することなど不可能だ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「勤務期間中は業務内容以外のあらゆる活動を禁止とする」<br>
+――ええと、この「（自分の意志の有無を問わず）」ってのは？<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+進んでサボることはもちろん、自分の意志に関係しないもの――例えば猫の対応によって発生する業務外活動もあってはならん<br>
+前者は当然禁止だが、後者はその場にいる他の子に助けを求めることで回避できるはずだ<br>
+言い終えると、ルメイは手に持っている装飾用の大剣で「ドン！」と床を叩いた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「ルール」としては問題ないが…<br>
+――模擬店だからもっと気楽に、ほかの子も頑張りやすい環境にしたほうがいいと思うよ？<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+ダメだ。気を抜いたら、貴殿に最高のおもてなしを提供できない<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――こっちとしてはルメイに気を抜いてもらいたいんだが…<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+……なに？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――こっちの体験も大事だが、ルメイの体験も大事だ<br>
+そう言うと、ルメイは珍しく戸惑いを見せた。<br>
+――ルメイにはルールやしきたりに縛られず…<br>
+――気楽に、マイペースに楽しんでほしい<br>
+フリッツ・ルメイ：<br>
+やや表情を緩めたものの、僅かに動揺し始めたルメイ。<br>
+ルールをしっかり守らなくてもいいから、今の余暇を楽しんでほしい、と？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――そうだ。そのルールの方もまた今度考えよう。今は現状維持でいい<br>
+フリッツ・ルメイ：<br>
+彼女は少し考え込み、やがて大きく息を吐いた。<br>
+分かった。貴殿の意見は真剣に検討しよう<br>
+だが……<br>
+今はどうすればいい？「余暇を楽しむ」ということは不得手でな<br>
+<br>
+'''''<span style="color:black;">选择项1：とにかく笑おう？</span>'''''<br>
+'''''<span style="color:black;">选择项2：好き放題しようぜ！</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――とにかく笑ってみないか？さっきから顔が険しすぎると思う<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……分かった。やってみる<br>
+'''''<span style="color:black;">（选择项1）</span>'''''少し硬く口角を上げ笑ってみせたルメイ。その様子は不器用なほど愛らしかった。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――なにも考えることはないよ？好き放題しよう！<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……好き放題？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――いや、ただの冗談だ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――こっちの意見はあくまで意見だ。こういう時はやりたいことをやればいいさ<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
+やりたいことを？<br>
+少し目を伏せたルメイ。いつも凛とした顔が少し赤みを帯び始めた。<br>
+さっきまで張り詰めていた姿勢を緩め、手の力も抜くと、小指でこちらの指にそっと触れてきた。<br>
+一瞬体が震え、躊躇いを見せた後、彼女は指をこっちの指に絡ませた。<br>
+ならば…ルールとしきたりを忘れて、ただ貴殿のそばにいても……いいだろうか？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=かっ飛ぶデート|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+到着連絡を受けエレベーターホールに向かうと、ちょうどエレベーターから飛び出してきたZ52を目撃した。<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+片方の手はスマホを持ち、もう片方の手はずり落ちそうなタイツを引っ張りながら――<br>
+指揮官、今エレベーターから……<br>
+あ！出迎えに来てくれたの？<br>
+通話を切り、Z52はこちらに振り向いて嬉しそうに手を振った。<br>
+さっきまで引っ張られていたタイツがまたずり落ちそうになり――<br>
+わわわ！？<br>
+指揮官、待って！い、今ずり落ち防止のシリコンテープを……<br>
+ど、どこにしまったっけ？これを買いに行ってたから遅刻したのに……どこにいったんだろう？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――手伝おうか？<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+あああ大丈夫大丈夫！ただでさえあんたを待たせちゃってるし！<br>
+まさかこのタイツがこんなに落ちやすいなんて……試着しとけばよかった！<br>
+着てからずっと落ちちゃう落ちちゃうって感じだったし、飛ばして来たときも風がビュービュー吹いてたし……<br>
+ここまでの出来事を話し始めたZ52。滑り止めを探していた手も止まってしまった。<br>
+<br>
+'''''<span style="color:black;">选择项1：まずは滑り止めを見つけてから…</span>'''''<br>
+'''''<span style="color:black;">选择项2：買い物袋を持つよ？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――ええと、まずは滑り止めを見つけてタイツが落ちないようにして？話はそれからで…<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''そうだった！ってもう見つけたよ！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''こうやってつければ……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――買い物袋を持ってあげるよ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――買い物袋を預けてくれる？持ってあげるよ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――話はタイツが落ちないようにしてからで…<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''見つけた！でも、指揮官が袋を持ってくれたら……<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+指揮官、ありがとう！<br>
+買い物袋をこっちに渡し、Z52は滑り止めをつけて着こなしを整えた。<br>
+ユルユルだった衣装がピッタリと少女の体にフィットした。<br>
+よし！<br>
+ぴょんぴょん飛んで運動に支障が出ないことを確認すると、Z52はニコッと笑顔を見せてきた。<br>
+これで大丈夫！指揮官、早く模擬店に行こう！<br>
+遅刻した分をぜーんぶ取り返さないと！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――そうだな。ちなみにさっきケーキと飲み物を注文しておいたよ<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+やったぁ！じゃあ指揮官、飛ばして――！！<br>
+こっちの手を取ると、Z52はすぐさま飛び出ようとした。<br>
+模擬店はこっちだよね？指揮官？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――ええと、こっちじゃなくてあっちだよ？<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+えええええ？！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=秘密の特訓|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+（コンコンコン）<br>
+デュイスブルクがいる控室の扉を叩くと……<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+指揮官？約束の時間はまだなのに…あら、もしかして私に会いたくなったの？ふふふ<br>
+…………<br>
+ま、待って……もしかして……？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――？？<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+デュイスブルクの慌てた声が聞こえ、思わずドアを開けて控室に入った。<br>
+し、指揮官？！どうして……？！<br>
+自分が入ってきたのを見るなり、少しぎこちなくソファに座っているデュイスブルクは慌てて目を伏せた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――大丈夫か？何かあった？<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+なんでもないわ。ええと……コップを落としただけよっ<br>
+辺りを見渡したが、コップどころか水がこぼれた形跡も見当たらない。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（まあ、ここはそっとしておこう……）<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+細かいことはいいわ。そろそろ本題に入りましょう？<br>
+指揮官が早く来てくれたことだし、今日の「特訓」を始めようじゃない<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――特訓に付き合うのはいいけど、具体的に何をするんだ…？<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+ええ……「ご主人様」であるあなたをどうやってもてなすかについてよ<br>
+だって母港の模擬店は初めてで…上手くできるか自信を持てないの<br>
+だから最初からあなた相手に特訓しておけば、模擬店のときもうまくやれると思うわ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――ふむ、そういうことなら……<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+…………<br>
+少し深呼吸をしたものの、デュイスブルクは全然落ち着いてない様子だった。<br>
+ご、ご主人様…おかえりなさい…今日はデュイスブルクが相手するわ…？<br>
+いつもの余裕はどこへやら、デュイスブルクは不安そうに腕を抱え、手をもぞもぞさせていた。<br>
+恥じらいで顔だけでなく、耳元もピンク色になり――<br>
+……だ、ダメね…この格好では、やっぱり……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（格好…？確かにデュイスブルクが着ている衣装は模擬店の衣装とは違うような……）<br>
+（まさか……）<br>
+<br>
+'''''<span style="color:black;">选择项1：服を間違えた…？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――この衣装は模擬店のものじゃないよね…？もしかして服を間違えた…？<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+やっぱりこんなんじゃ隠し通すなんて無理ね……<br>
+ええ、本当は別の機会に着る衣装よ……！<br>
+模擬店の服と箱が似てたせいで間違えたわ……<br>
+こ、こういうのを着てたら…そりゃ恥ずかしくなるでしょ？！<br>
+デュイスブルクは視線をそらした。<br>
+それにここは姿見鏡もないし、ちゃんと着こなせているかわからないし……<br>
+変なら……あなたに見られたくないわ……<br>
+<br>
+'''''<span style="color:black;">选择项1：似合ってるよ…？</span>'''''<br>
+'''''<span style="color:black;">选择项2：すごく可愛いよ…？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――似合ってるというか、今のデュイスブルク、すごく可愛いよ？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――別にそんなに緊張しなくてもいいんじゃない？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――今のデュイスブルク、すごく可愛いよ？<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''本当…？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――本当だよ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――どうしても心配なら、特訓をやめて元の衣装に着替えようか？<br>
+<span style="color:#4eb24e;">デュイスブルク：</span><br>
+ううん、今のでなんだかほっとしたわ<br>
+それに…なんか緊張しなくなったし……<br>
+あ。特訓のことなら……<br>
+しばらく考え込んで、デュイスブルクは頭を軽く横に振った。<br>
+緊張が解けたためか、さっきまで抱えていた腕もリラックスしたようだ。<br>
+ご主人様が嫌でないのでしたら……<br>
+身を寄せてきたデュイスブルクは、暖色系の照明でいつもより艶かしく見えた。<br>
+この姿のまま「ご奉仕」させてくださいませ♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=ドキドキアンコール|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+んんん……ハサミぃ…取れた！んぐっ……届かない……え？<br>
+し、指揮官！？どうしてもう来てるんです！？まだ約束の時間じゃないでしょう！？<br>
+フォーミダブルの「秘密基地」に入った途端、とんでもない光景が目に飛び込んできた。<br>
+リボンで高く吊り上げられた片足。バランスを失ったためか宙ぶらりんになっている体。<br>
+ハサミを手に持って、慌ててジタバタするフォーミダブル。<br>
+見てないで後ろを向いてください！あと扉も閉めてください！<br>
+<br>
+'''''<span style="color:black;">选择项1：踏み留まる</span>'''''<br>
+'''''<span style="color:black;">选择项2：言われた通りに部屋から出る</span>'''''<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''扉を閉めて、フォーミダブルに歩み寄ることにした。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''何をしているのですか？！これ以上近づいたら……お、怒りますわよ！？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――あははは…手伝うから、ハサミを貸してもらえないかな…？<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''え？フォーミダブルを心配しているだけ……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''はい……ハサミをあげますから、フォーミダブルを助けてください…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（確かにこんな姿を人に見られたくないだろうな…ここは言われた通り一人にさせてあげようか…）<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''言われた通り部屋から出て、扉を閉めようとすると…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……し、指揮官？！なんで外に出るのですか？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''フォーミダブルを助けてください！じゃないと……も、もう話を聞いてあげませんわ！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''扉を閉めて、フォーミダブルに歩み寄ることにした。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''フォーミダブルを放置しようとするなんて…もう指揮官、早く助けてくださいまし！<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+ハサミを受け取り、まずはフォーミダブルの足に手を添えた。<br>
+恥ずかしがっているせいか、体がちょっと火照っているように感じた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――とりあえず力を抜いて？巻き付いたリボンを切るときに間違って怪我でもさせてしまったら…<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+こんな状況で力を抜いてって言われても難しいですわ…！<br>
+口では無理と言っているものの、フォーミダブルは足の力を抜いてくれた。<br>
+し、指揮官…もうちょっと近く……！<br>
+このままだと足がつってしまいそうなので、支えられるように肩を貸してくださいませ…！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――構わないよ<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+そのまま近づき、少ししゃがみ込んでフォーミダブルの足を肩にかけさせた。<br>
+距離が縮んだこともあり、彼女の乱れた呼吸が鮮明に聞こえた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――リボンを切るから動かないでね<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+フォーミダブルの足を吊り上げたリボンを切り、そのまま踵を手で支えながら足を下ろした。<br>
+…ありがとうございます……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――ん？<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+恥ずかしいからもう言いませんわ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――あはは…それよりなんでこんなことに…？<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+……<br>
+はあ…助けてもらいましたし、全部指揮官に教えますわ…<br>
+本当は少し部屋を飾ってからソロライブを楽しんでもらおうと思ったのに、まさか絡まるとは思ってなく…<br>
+もう恥ずかしすぎますわ！誰にも教えないでくださいまし！全部忘れなさい！<br>
+<br>
+'''''<span style="color:black;">选择项1：言わないから安心して</span>'''''<br>
+'''''<span style="color:black;">选择项2：こんなに可愛いフォーミダブルは忘れられないな…</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――安心して、誰にも言わないから<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''じゃあ約束してくださいます…？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――他言無用は約束できるけど、忘れるのは中々難しいな…<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''何ですって？！頑張って忘れて！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''そもそも、もっと覚えるべきことがあるでしょう！？<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''試しにからかってみると、彼女の顔が一瞬にして真っ赤になった。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''は、恥ずかしすぎますわ！そんなこともう二度と言わせませんからね！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''まあ、そこまで言うのでしたら…可愛いフォーミダブルの姿だけを覚えるなら許してあげますけど……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ただし、これからはもっとしっかり覚えておきなさい！<br>
+<span style="color:#4eb24e;">フォーミダブル：</span><br>
+ベッドの側に置いてあるギターをカッコよく構えるロイヤルレディ。<br>
+今のはちょっとしたトラブル…指揮官のためのソロライブを始めますわ！<br>
+指揮官、フォーミダブルをしっかり見てなさいよね♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=クリスマス・サプライズ|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……ビスマルク？<br>
+<br>
+皆からのプレゼントだけが置いてある、誰もいないはずの部屋。しかし――<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+……指揮官…？<br>
+<br>
+クリスマスっぽい衣装を身に包み、あたふたしているビスマルクの姿が目に入った。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――プレゼントを開封しに来たのだが…もしかしてまだ準備中だった？外で待ったほうがいい…？<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+い、いや……<br>
+予め連絡するのを忘れた私のせいだ。すまない<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――ええと……<br>
+（「連絡を忘れた」…ビスマルクに限ってそんなことは起きない）<br>
+（サプライズで忍び込ませるつもりだったのかな？だとしたら先に入ったせいで悪いことをしたな…）<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+もしかして私からのサプライズを惜しんでくれているの？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――あはは…<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+そうね。私もちょっと残念に思っているわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――せっかく準備してくれたのに、台無しにしてしまって悪いが……<br>
+――例のサプライズを…直接手渡してくれないか？<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+直接…手渡す……？<br>
+<br>
+「直接手渡す」が何か引っかかったのか、ビスマルクは赤面になり言葉を濁した。<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+実は、私が……プレゼントなんだけど……<br>
+<br>
+背けた目線を追ってみると、彼女の体の下にラッピングペーパーが敷かれていることに気づいた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――ええと…つまり「ビスマルクがプレゼント」ってこと？<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+こほん…これはオイゲンのアドバイスだ<br>
+「言葉での感情表現が苦手なら、行動で気持ちを伝えるべきよ」と。私はただそれに従っただけよ<br>
+<br>
+どこかソワソワして、俯くビスマルク。<br>
+手元に置かれているグラスを押しのけて、再びこちらに目線を合わせてくれた。<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+…なにせこんなことするのは初めてだし…アルコールがあればこう…もっと自然体になれるかと……<br>
+あまり役に立たなかったみたいね……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――そんなことないよ<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+指揮官？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――確かに「サプライズ」じゃなくなったけど、結果だけ言えば成功してるよ<br>
+――…気持ちはちゃんと伝えた。ありがとう<br>
+――こうしてめでたい日にビスマルクと一緒にいられるだけで…十分嬉しいから<br>
+<br>
+ビスマルクの目が明るくなり、そして嬉しそうな優しい笑みを浮かべた。<br>
+クリスマスの装いのまま、彼女がこちらに寄り添った。<br>
+外で咲き乱れる花火の輝きも、目の前の瞳の輝きには遠く及ばない。<br>
+耳元で柔らかい吐息の温かさを感じ――<br>
+<span style="color:#4eb24e;">ビスマルク：</span><br>
+ああ。指揮官、メリークリスマス<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=閑暇の魔に憩いの時間を|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">エーギル：</span><br>
+指揮官、いい感じのレコードでもかけておきなさい<br>
+休憩室に入るなりソファーを占拠したエーギルから早速注文が飛んできた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――いいよ<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+プレイヤーにレコードをセットした後、コーヒーマシンの前まで来た。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（この後仕事があるし、今のうちにコーヒーでも飲もうか）<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+とりあえず自分のコーヒーを用意して、エーギルにコーヒーは要るかと聞くよりも早く――<br>
+砂糖は多めに。でないと飲めないから<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――了解っと<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+手元にあるコーヒーに砂糖をたっぷり入れて、彼女の後ろにあるテーブルに置いた。<br>
+ねえ指揮官？<br>
+耳元にエーギルの声が響いて、彼女は足をこちらに伸ばしてきた。<br>
+履いていた靴を何処かに脱ぎ捨てており、つま先でこちらの膝を挑発的にツンツンしている。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――どうかした？<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+なんでもないわ。今日のお前はやけに「大人しい」と思ってね<br>
+ようやく深淵の神性たる私の威光にひれ伏したのかしら？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――ええと……？<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+こちらの反応が期待外れだったのか、エーギルはさらに足を上げて、つま先をこちらの太ももから上へと走らせた。<br>
+<br>
+'''''<span style="color:black;">选择项1：くるぶしを掴んでみる</span>'''''<br>
+'''''<span style="color:black;">选择项2：エーギルを止める</span>'''''<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+これ以上上へと行かせないよう彼女の足を掴んだ。<br>
+…！？<br>
+は、離せ！<br>
+慌ててジタバタし始めたエーギルは足を引っ込めようとしたが――<br>
+もうからかわないわ！離しなさい！……きゃぅ！？<br>
+さすがにこのままでは可哀想と思い手を離した。<br>
+咄嗟の事で驚いたのか、それとも文字通り「揚げ足を取られた」羞恥からなのか、エーギルは大きく目を見開いた。<br>
+気まずさを紛らわそうとコーヒーを啜ると、再び声をかけてきた。<br>
+……突っ立っているままで疲れないの？お前も座りなさい！<br>
+ほら、ここも空けてやったわ！<br>
+隣の空いているところをポンポン叩くエーギル。<br>
+<br>
+'''''<span style="color:black;">选择项1：ではお言葉に甘えて…</span>'''''<br>
+'''''<span style="color:black;">选择项2：流石に二人は座れないよ…？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――シングルソファーだよ…？自分も座ったら窮屈になるんじゃ？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――やっぱり……<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''私は平気なのに、お前がそれを気にするの？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''さあ、早く座りなさい！<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+エーギルの言葉に甘えて隣に腰をかけると――彼女は頰を赤らめてさらに奥へと体を移した。<br>
+…が、その程度の努力ではどうにもならず、二人の体が完全に密着してしまった。<br>
+や、やっぱりいいわ！…私のためにずっと働いてくれたし、お前が座りなさい！<br>
+立ち上がるエーギルだが、あまりにも急だったためかバランスを失い――<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――危ない！<br>
+<span style="color:#4eb24e;">エーギル：</span><br>
+ほんのり火照っている柔らかい体がこちらに倒れ込んできた。<br>
+深淵の神性の髪に鼻先が触れ、かすかな香りが広がる。<br>
+……くっ！？<br>
+さっきのようにあがくと思いきや、彼女は観念して力を抜き、そのまま身を預けてくれた。<br>
+こ、今回だけよ…！///<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
