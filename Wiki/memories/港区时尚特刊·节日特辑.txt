@@ -51,7 +51,9 @@
 嗯……？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 我希望你能够更重视自己的感受，就像你重视我的感受一样。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 鲁梅的目光中罕见的染上了一丝茫然。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 我希望在我身边的你，不被任何“规矩”、“规则”所束缚。<br>
 开心的、自由的，与我一同享受这段时光。<br>
 {{AF|弗里茨·鲁梅}}：<br>

@@ -1573,7 +1573,6 @@ META是一种趋势，也是一种性质。<br>
 轰————！<br>
 <span style="color:#ffc960;">{{AF|希佩尔海军上将·META}}：</span><br>
 ……既然找死，就成全你们。<br>
-<span style="color:#4eb24e;">威奇塔·META：</span><br>
 ……以{{AF|希佩尔海军上将}}级之名，为汝等奏响镇魂之歌！<br>
 <br>
 轰————！<br>
@@ -1884,7 +1883,7 @@ T=T-5<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 有一些塞壬留下的坚固堡垒幸存……<br>
 你不会想硬抗吧？<br>
-今非昔比，就算我这里的防御再好，和当年塞壬留下的大型要塞也什么可比性。<br>
+今非昔比，就算我这里的防御再好，和当年塞壬留下的大型要塞也没什么可比性。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 现在不够好……但或许能够变得更好。<br>
 还记得么，塞壬原本打算在这里修建某个大型装置。<br>
@@ -2388,8 +2387,8 @@ T=T-8<br>
 ……你手里真有用能源金晶增幅舰船战斗力的方法？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 类似。时间紧迫，之后我会向你解释的。<br>
-<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 我先带一半舰队护送矿物回能源塔，你带另一半舰队把{{AF|希佩尔}}·META叫过来。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 好，希望你的方案有用，能源塔见。<br>
 {{折叠面板|内容结束}}
 
@@ -2620,7 +2619,7 @@ T=T-8<br>
 <span style="color:#ffc960;">{{AF|希佩尔海军上将·META}}：</span><br>
 哼，用你说！<br>
 <br>
-一阵{{AF|海风}}吹过，{{AF|欧根亲王}}和{{AF|布吕歇尔}}的幻影似乎又淡了一些。<br>
+一阵海风吹过，{{AF|欧根亲王}}和{{AF|布吕歇尔}}的幻影似乎又淡了一些。<br>
 <span style="color:#5cffc0;">{{AF|欧根亲王}}：</span><br>
 时间差不多了~非常感谢一直以来诸位对于姐姐的照顾，从今往后，姐姐也继续拜托你们了哦~<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
