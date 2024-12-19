@@ -1,0 +1,436 @@
+== 港区时尚特刊·节日特辑 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Boss兔的小憩时间|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{playername}：</span><br>
+……<br>
+<br>
+依照约定来到鲁梅设置的临时办公室后，被眼前的景象小小的震惊了一下。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+复古的装饰、长剑、猎枪、散落在地的道具纸钞……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（说起来，之前她倒是一直在看黑帮电影，难道是电影看太多导致的……？）<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+坐吧，指挥官。<br>
+她的话语将我的思绪拉回，依言在她身旁坐下后，<br>
+她便从一旁的小几上拿起了一份文件递给了我。<br>
+指挥官，今天特地约你来，主要是想做个体验调研。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+体验调研？<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+嗯，毕竟店铺经营期间，由我担任这里的店长，也就是“Boss兔”。<br>
+关注唯一且重要的顾客的体验，也是我作为店长的本职工作。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+所以这份文件，是调研问卷么？<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+不。这份文件是我草拟的新店规，我打算结合口头调研，征询你的意见和感受。<br>
+你可以看看是否到位……如果有不够严格的部分，我会立刻修改。<br>
+面向你的一切必须精益求精。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好……<br>
+{{AF|弗里茨·鲁梅}}：<br>
+打开这份草拟的新店规开始翻看后——<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+上下班必须打卡，禁止以“迷路”和“太困了”作为理由迟到早退……？<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+我认为考勤问题是一店之本，如果员工不能按时到岗，就无法对指挥官提供服务。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+那这一条，工作时间严格禁止展开与工作无关的活动的后面……<br>
+为什么还有个括号标注“无论是自愿还是非自愿”？<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+很简单，无论是主动摸鱼，还是因为其它特殊情况——比如和猫咪对峙而导致的招待不周……<br>
+都不应该在店内出现。前者完全不应该出现，后者完全可以通过向其他人求助从而摆脱困境。<br>
+少女振振有辞，伴随着话语最后的尾音落下，她怀中的装饰剑的剑柄重重砸在了地毯上。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯……作为“规矩”来说，没什么问题。<br>
+不过，我觉得更自由些、考虑到其他同伴的感受会更好。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+不行，宽松自由怎么能给你提供最好的服务！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+比起这个，我更希望你不那么紧绷。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+嗯……？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我希望你能够更重视自己的感受，就像你重视我的感受一样。<br>
+鲁梅的目光中罕见的染上了一丝茫然。<br>
+我希望在我身边的你，不被任何“规矩”、“规则”所束缚。<br>
+开心的、自由的，与我一同享受这段时光。<br>
+{{AF|弗里茨·鲁梅}}：<br>
+少女的表情出现了细微的松动，一向处变不惊的眼中透着几分动摇。<br>
+你的意思是，希望我不那么严守纪律，而是去尝试享受这段时光？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+是的。而且……店规的事情我也希望你先放到一边，维持现状就好。<br>
+{{AF|弗里茨·鲁梅}}：<br>
+她思索片刻，长呼出一口气。<br>
+好，我会认真考虑你的意见的……<br>
+不过……<br>
+我应该怎么做会比较好？我不大擅长享受闲暇时光这种事情……<br>
+<br>
+'''''<span style="color:black;">选择项1：总之，先笑一个？</span>'''''<br>
+'''''<span style="color:black;">选择项2：放飞自我吧！</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''总之，先笑一个？从刚才开始，你的表情就一直很严肃。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……我试试。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''鲁梅有些僵硬地拉扯着唇角，笨拙得有些可爱。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不用考虑那么多，直接放飞自我就好！<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……放飞自我？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我开玩笑的。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+其实不用过多考虑我的建议。这种时候，做你自己想做的就好。<br>
+<span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
+做我自己想做的？<br>
+鲁梅微微垂眸，罕见的、淡色的红晕飞上她素来清冷的脸颊。<br>
+她紧绷端正的身体松懈下来，手自然而然地落于身侧，尾指与我轻轻相触。<br>
+指尖接触的瞬间，她轻轻颤动了一下，在短暂的停顿片刻过后，又勾住了我的手指。<br>
+那现在，我就暂时放下秩序与工作，只是陪伴在你身边，也是可以的吧？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=飞驰的约会|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+接到了{{AF|Z52}}确认位置的来电后，刚走到电梯井就看见她风风火火跑出来的身影。<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+她一手拿着正与我通话的手机，一手拉扯着滑落的袜子。<br>
+指挥官，我出电梯……<br>
+……啊！指挥官你来接我啦！<br>
+发现我的到来后，她挂断了电话，欢快地招手。<br>
+而随着她抬手的动作，少女身前的衣物骤然失去了夹紧的作用力，开始了滑落。<br>
+哇——！！<br>
+指挥官，等等哦！我、我找一下防滑贴……<br>
+咦……我放哪儿了？明明就是因为跑去买这个才快迟到的……怎么找不到了？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我来帮你找？<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+哎呀不用不用，本来就让你等了我这么久！<br>
+没想到这身衣服这么不防滑……早知道就先试穿一下了！<br>
+今天穿着的时候就一直感觉它往下掉，再加上赶过来的时候~风呼呼的——<br>
+{{AF|Z52}}分享着此前的经历，手上翻找的动作也跟着停了下来。<br>
+<br>
+'''''<span style="color:black;">选择项1：不如先把防滑贴找出来？</span>'''''<br>
+'''''<span style="color:black;">选择项2：先把手上的东西给我吧？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不如先把防滑贴找出来，把衣服粘好，我们再继续聊？<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''噢！对噢！我已经翻到了！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我来粘一下……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''把手上的东西也给我吧？我帮你拿着。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''先把手上的东西给我吧？我帮你拿着，这样你找防滑贴也方便。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''总之把衣服处理好再说吧。<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''防滑贴我已经找到了~！不过既然指挥官要帮我拿东西嘛，那就……<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+欸嘿嘿~谢谢指挥官！<br>
+{{AF|Z52}}将手提袋递给了我，开始在袜子与衣服的内侧粘贴着防滑贴。<br>
+原本有些松垮的黑色布料被防滑贴粘牢，在少女的肌肤上勒出浅浅的痕迹。<br>
+好了！<br>
+{{AF|Z52}}原地跳了跳，确认衣物不再滑落后，露出了明媚的笑容。<br>
+没问题了，指挥官，我们快去店里玩吧！<br>
+把被我迟到浪费掉的时间全都补回来！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好，刚才我已经用手机提前下好单，给你点好了蛋糕和饮品了。<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+好耶~！指挥官，我们快跑步前进——！<br>
+{{AF|Z52}}抓过我的手，带着大大咧咧的笑容拉着我向前跑去。<br>
+大家开的店是这个方向吧，指挥官？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+咳，其实是那边。<br>
+<span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
+欸——！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=秘密的特训时光|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+叩叩叩——<br>
+敲响了{{AF|杜伊斯堡}}所在的休息室的门。<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+指挥官？明明还没有到约定的时间……啊~就这么心急想要见到我么？哼哼~<br>
+……<br>
+等、等等……这、这是……？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯……？<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+{{AF|杜伊斯堡}}骤然变得有些慌乱的语气让我有些担心，在直接推门而入后——<br>
+指、指挥官，您怎么就进来了？<br>
+{{AF|杜伊斯堡}}有些拘谨地跪坐在柔软的沙发上，匆忙地垂眼掩饰其中的慌张。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+你没事吧？发生了什么？<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+没什么，只是、嗯……只是我差点打翻了水杯而已。<br>
+尽管少女这样说了，但她的周围并没有任何水渍，也没有所谓的“水杯”。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（既然她不想直说……算了，暂且不问吧。）<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+无关紧要的事情就让它过去吧。眼下还是正事要紧呢。<br>
+既然指挥官提前来了，那我们就快点开始今天的特训吧~？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+虽说答应陪你特训，但我其实还是不知道具体要陪你特训什么内容。<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+嗯……主要想要特训一下“如何更好地服务主人”呢~<br>
+因为我还是第一次担任“服务生”这样的工作，还是有些没把握。<br>
+所以想着约指挥官来陪我特训的话，在店里我就能够更加得心应手一些吧~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+原来是这样，那就开始吧。<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+……<br>
+少女轻轻呼出一口气，但身体似乎仍是僵硬着、没有松懈下来。<br>
+主、主人，欢迎回来，今天就由{{AF|杜伊斯堡}}来服侍您~<br>
+少女不似平时那般游刃有余，有些不安地摩挲着自己的双臂。<br>
+淡色的红晕浮现在脸颊上，连耳朵都带上了粉色。<br>
+……不、不行，穿着这身衣服果然还是……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（衣服？不过仔细一看的话，{{AF|杜伊斯堡}}的这身衣服确实不像店中的制服……）<br>
+（难道说……）<br>
+<br>
+'''''<span style="color:black;">选择项1：{{AF|杜伊斯堡}}穿错衣服了？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+{{AF|杜伊斯堡}}，你穿的不是店里的制服吧……？是穿错了么？<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+果然这种程度瞒不过指挥官……<br>
+这一身是准备以后再用到的衣服啦……！<br>
+结果包装和店里的制服盒子太像，我就拿错了……<br>
+不、不过，就算只有我和指挥官两个人……在外面穿成这样还是会害羞呀！<br>
+少女的视线移向一边，故意避开了我的目光。<br>
+还有就是，这里也没有镜子，也不知道上身效果怎么样，如果不好看的话……<br>
+我还是不希望您看见我不好看的一面呢……<br>
+<br>
+'''''<span style="color:black;">选择项1：明明很适合你</span>'''''<br>
+'''''<span style="color:black;">选择项2：穿在你身上非常好看</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''这身衣服明明很适合你，不用那么紧张。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''穿成这样的{{AF|杜伊斯堡}}很好看。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''这件衣服穿在你身上非常好看。<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''真的……？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''真的。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+如果还是很在意的话……我们可以先暂停特训，我陪你去把衣服换回来。<br>
+<span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
+听指挥官您这么说，我突然感觉松了口气呢。<br>
+好像也不那么紧张了~？<br>
+至于特训……<br>
+短暂的思考过后，{{AF|杜伊斯堡}}轻轻地摇了摇头。<br>
+她一直紧紧环抱在身前的双手，也随着紧张情绪的消散，终于放松了下来。<br>
+既然主人您并不讨厌这身装扮……<br>
+{{AF|杜伊斯堡}}说着朝我的方向靠近了些，房间中暖色的灯光为她镀上了旖旎的光。<br>
+那不如就让我以这样的姿态，继续服侍您吧~♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=凌乱的心跳加演|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">可畏：</span><br>
+……剪刀，拿到了！呼……好像有些难够到……唔……嗯……？<br>
+指、指挥官？！你怎么就已经到了？！已经到和可畏约好的时间了么？！<br>
+走入可畏的“秘密基地”，率先映入眼中的，便是这样的画面——<br>
+少女的腿被彩带束缚着高高挂起，身体有些失衡地坐在床上摇摆着。<br>
+她的手上还拿着把锋利的剪刀，因为情绪的起伏而在她手中乱晃。<br>
+别、别看了，先出去！把、把门也关好！<br>
+<br>
+'''''<span style="color:black;">选择项1：担心留下</span>'''''<br>
+'''''<span style="color:black;">选择项2：听话离开</span>'''''<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''摇了摇头，走进房间后将门关上，然后朝可畏走去。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你在做什么啊！都说了你先出去了！不要再靠近了——！我、我要生气了哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''剪刀给我，我来帮你。你这样万一伤到了自己怎么办？<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……什么嘛，原来是在担心可畏啊。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''好、好吧……剪刀给你，快帮我解开吧……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（想来可畏也不想让我看见这么失态的一面，那就听她的，先离开吧。）<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''依照可畏的话，退出房间，就在准备把门关上时——<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……指、指挥官？！你怎么真的走了！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''快来帮可畏解开彩带！要不然的话……可畏就一辈子不理你了！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''摇了摇头，走进房间后将门关上，然后朝可畏走去。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''哼……哼！这还差不多！快帮我解开啦！那样的话，我就考虑原谅你！<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+接过可畏手中的剪刀，上前扶住她被高高挂起的腿。<br>
+少女紧绷的身体微微发烫。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+稍微放松一点？尽量让缠着你的彩带跟你有点空隙，我怕剪刀划伤你。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+这种情况还要我放松是不是有点太强人所难了……！<br>
+可畏嘴上抱怨着，但仍是按我所说，尝试着放松了身体。<br>
+对了！指挥官，你再靠过来一点啦！<br>
+让可畏把腿靠在你身上借下力啦，一直这么挂着，腿好酸哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+依言向可畏靠近后，她慢慢地放松，纤细修长的腿轻轻地搭在我的肩膀上。<br>
+彼此间的距离拉得更近，她稀碎而紊乱的呼吸声越发清晰。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+你别乱动，我现在剪。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+小心翼翼地剪断了束缚着可畏的彩带，托着她的脚踝，将她的腿放下。<br>
+……谢、谢谢。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯？<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+没听到就算了！可畏不会说第二次的啦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好吧……话说回来，你怎么把自己弄成刚刚那样的？<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+……<br>
+……算了！都已经让你看到这么狼狈的一面了，把事情告诉你也没关系了。<br>
+本来只是想给秘密演出增加一些氛围装饰，不小心就被缠住了……<br>
+唔……实在太丢脸了……你不准说出去哦！最好是给我统统忘掉！<br>
+<br>
+'''''<span style="color:black;">选择项1：我不会说出去的。</span>'''''<br>
+'''''<span style="color:black;">选择项2：忘不了这么可爱的可畏。</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''放心吧，我不会说出去的。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那就约好了！哼~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不过……也很难忘记就是了。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''什么嘛！不准记住这些奇怪的事情！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''明明还有更重要的事情要记住吧！<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''听到我的打趣后，少女的脸颊上立刻有红晕蔓延。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''肉、肉麻死了！以后不准乱学这种！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……但、但是，我破例同意你把可爱的可畏好好记住！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''而且，接下来的更要牢牢记住不准忘！<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+少女拿起了一旁的电吉他，郑重其事地抱在怀中。<br>
+刚刚那只是一个意外的小插曲，接下来才是专门为你准备的秘密加演。<br>
+要好好看着可畏哦，指挥官！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=圣诞夜的惊喜|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……{{AF|俾斯麦}}？<br>
+<br>
+踏入用于暂时存放礼物的、原本应该无人的房间后，看到了熟悉的身影。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+指挥官，你怎么过来了？！<br>
+<br>
+{{AF|俾斯麦}}露出了错愕的神情，咬着的头绳也因为她开口说话而滑落。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我原本是过来拆礼物的，不过现在是不是不大方便……？我先出去？<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+不，不用……<br>
+这里本来就是指挥官用来存放礼物的房间，没跟你提前打招呼，是我的失误。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+（“忘记提前打招呼”这种失误，在{{AF|俾斯麦}}身上不可能发生……）<br>
+（是她想偷偷进来放礼物，结果被我撞破了么……）<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+看指挥官的表情，是觉得撞破了我为你准备的惊喜么？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……还真是瞒不过你。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+呵呵，我也想说同样的话。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不过虽然这样一来会影响你的准备，但……<br>
+既然我已经在这里了，你可以把礼物亲手交给我？<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+亲、亲手交给你……？<br>
+<br>
+她欲言又止，脸颊染上了红晕，向我投来的目光难得带着些许羞怯和无措。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+其实我是想将自己作为……<br>
+<br>
+{{AF|俾斯麦}}将头侧到了一遍，顺着她偏移的视线，我这才注意到被她压在身下的礼物包装纸。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+难道说……礼物就是{{AF|俾斯麦}}自己么？<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+咳……这其实是{{AF|欧根}}的建议。<br>
+她说在这种节日，如果不擅表现感情，那就更应该多用行动来展示……我采纳了。<br>
+<br>
+少女垂下眼帘，少见的有些局促。<br>
+她伸手将身旁的酒杯稍稍推远了些。在发现我的视线后，她便开始了解释。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+毕竟是第一次做这样的事，我就喝了点，想借着醉意表现得更自然些。<br>
+不过好像用处也不大……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+并不是这样。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+指挥官？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+“惊喜行动”在过程上因为我的突然出现失败了，但就结果而言，还是成功的。<br>
+{{AF|俾斯麦}}的心意，我已经收到了，谢谢你。<br>
+在这样难得的节日里，与你在一起，便是一种惊喜。<br>
+<br>
+{{AF|俾斯麦}}的眼眸渐渐被点亮，然后露出了欣喜而温柔的笑容。<br>
+窗外火树银花，映在她身后的落地窗中。<br>
+——却不及少女靠近我时，眸中闪烁的光彩。<br>
+轻柔的呼吸落在耳畔。<br>
+<span style="color:#4eb24e;">{{AF|俾斯麦}}：</span><br>
+指挥官，圣诞快乐。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=深渊之神休息中♪|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+指挥官，选张唱片放上吧，要好听点的。<br>
+刚回到休息室就立刻躺倒在单人沙发上的{{AF|埃吉尔}}，开始了新一轮的“使唤”。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+行。<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+放上了唱片，待悠扬的旋律响起后，我走到了咖啡机旁。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（等下还有工作要处理，就来杯黑咖提神吧。）<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+就在接好了咖啡，准备开口问{{AF|埃吉尔}}要不要也来一杯时——<br>
+多加糖，不然我可喝不下去。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好。<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+无奈地将手中的黑咖调成{{AF|埃吉尔}}需要的口味，放到她身旁的小几上后。<br>
+指挥官。<br>
+{{AF|埃吉尔}}的声音再度落入耳中，伴随而来的，还有落在我膝盖上的、如同白玉雕琢的脚。<br>
+她不知何时踢掉了一只脚上的高跟鞋，此刻正用脚尖不轻不重地点着我的膝盖。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+怎么了？<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+没怎么，我只是在想，指挥官居然全程这么“听话”……<br>
+呵呵呵呵，莫非这次是折服在深渊之神的威光之下了么。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+见我无动于衷，{{AF|埃吉尔}}更加肆无忌惮，足尖沿着我的腿游移向上，颇有些挑衅的意味。<br>
+<br>
+'''''<span style="color:black;">选择项1：抓住她的脚踝</span>'''''<br>
+'''''<span style="color:black;">选择项2：制止{{AF|埃吉尔}}</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+抓住了{{AF|埃吉尔}}的脚踝，让她不再乱动。<br>
+！！<br>
+放、放开！<br>
+{{AF|埃吉尔}}窘迫而慌乱地出声，试图把脚缩回去。<br>
+我、我不戏弄你了！松手……呀！<br>
+看到{{AF|埃吉尔}}这副模样，我松开了抓住她脚踝的手。<br>
+{{AF|埃吉尔}}迅速将脚收了回去，红着脸别开了眼。<br>
+像是为了缓解刚刚的尴尬，小啜一口咖啡后，她再度开了口。<br>
+……你一直站在那里不累么？过来坐着！<br>
+你看，我位置都给你腾好了。<br>
+她逞强似的拍了拍身边那一块小小的空位。<br>
+<br>
+'''''<span style="color:black;">选择项1：到沙发上坐下</span>'''''<br>
+'''''<span style="color:black;">选择项2：沙发是不是太小了？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''这是单人沙发，是不是有点太小了？两个人挤在一起，可能你会不舒服。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我还是……<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我都不在意这些，你在意什么！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''别不动了！快过来！<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+起身靠近{{AF|埃吉尔}}，她红着脸，目光游离地往沙发内侧靠了靠。<br>
+由于单人沙发的空间狭窄，彼此的身体只能紧密相贴。<br>
+算、算了……你被我使唤了这么久，还是你坐着，我起来吧！<br>
+少女说着，有些慌张地起身，却因过于慌乱而失去平衡。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+小心！<br>
+<span style="color:#4eb24e;">{{AF|埃吉尔}}：</span><br>
+柔软而温暖的身体狼狈地落入了我的怀中。<br>
+她的长发垂落，轻柔地扫过我的鼻端，带来一阵若有似无的幽香。<br>
+……呜！？<br>
+她埋在我的怀中，用羞怯、不甘的声音自暴自弃。<br>
+仅此一次……就这样吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

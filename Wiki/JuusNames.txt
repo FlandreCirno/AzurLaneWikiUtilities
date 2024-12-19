@@ -120,6 +120,7 @@
 雅努斯 Janus
 英雄 Hero
 努比亚人 Nubian
+阿基里斯 Achilles
 阿贾克斯 Ajax
 黛朵 Dido_Doll
 南安普顿 MINAMIpton
@@ -129,6 +130,7 @@
 爱丁堡 ☆ Royal Maid ☆
 贝尔法斯特 Belfast_inService
 欧若拉 AuroraRose
+斐济 Fiji
 牙买加 TheFightingJ
 小贝法 Royal Maid Little
 纽卡斯尔 Newcastle
@@ -303,6 +305,8 @@
 四万十 Shimanto
 Z1 L.Maaß
 Z2 Zerstörer2
+Z9 Wolke9
+Z11 Z11_Spielefan
 Z16 F.Eckoldt
 Z23 Zerstörer.23
 Z24 GreatDevil24
@@ -312,6 +316,7 @@ Z36 Zech✛3536
 Z43 Z·DEVIL·43
 Z46 viersech
 Z47 ☆WildeKatze47☆
+Z52 Blitz-Z52
 奥托·冯·阿尔文斯莱本 Alvensleben
 莱比锡 Leipzig 
 纽伦堡 Nürnberg
@@ -319,6 +324,7 @@ Z47 ☆WildeKatze47☆
 埃姆登 Emden 
 埃尔宾 Elbing 
 雷根斯堡 Regensburg
+杜伊斯堡 Duisburg
 希佩尔海军上将 R-Guitarist
 布吕歇尔 Blücher
 欧根亲王 P.Eugen
@@ -343,6 +349,7 @@ Z47 ☆WildeKatze47☆
 齐柏林伯爵 TrägerZeppelin
 小齐柏林 TrägerZeppelin@little
 彼得·史特拉塞 FlugzeugträgerB 
+弗里茨·鲁梅 Fritz Rumey
 U-81 U-81
 U-47 UBoat47
 U-556 U.B.556
