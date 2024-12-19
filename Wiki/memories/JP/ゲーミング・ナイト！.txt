@@ -51,7 +51,9 @@
 ……なに？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――こっちの体験も大事だが、ルメイの体験も大事だ<br>
+<span style="color:#4eb24e;">フリッツ・ルメイ：</span><br>
 そう言うと、ルメイは珍しく戸惑いを見せた。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
 ――ルメイにはルールやしきたりに縛られず…<br>
 ――気楽に、マイペースに楽しんでほしい<br>
 フリッツ・ルメイ：<br>

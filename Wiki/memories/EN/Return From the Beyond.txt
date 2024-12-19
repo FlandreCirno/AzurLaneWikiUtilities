@@ -926,7 +926,7 @@ It seems as though most people didn't notice, just like the last time.<br>
 It gets even stranger... All signs of the Commander ever existing disappear at the same time.<br>
 Writings, pictures – anything recording the Commander's existence just vanishes. Even our memories.<br>
 Reality even bends in accordance with it. Clemenceau handed you the brooch instead, and instead of celebrating the Commander's return, we're celebrating mine.<br>
-It's as if $1 was erased from reality, with everything else being rewritten to conform to that change.<br>
+It's as if {playername} was erased from reality, with everything else being rewritten to conform to that change.<br>
 <span style="color:#4eb24e;">Memphis：</span><br>
 I started recording to figure out what's going on, and still nothing...<br>
 Why is this happening? What are we supposed to do?<br>
@@ -978,12 +978,12 @@ However, Yamato did priorly relay to this one a message...<br>
 "Retain your composure and let not the others catch on."<br>
 "Go to the World Expo and enter the garden of our Empire's pavilion."<br>
 "There, you shall find a way to resolve this crisis."<br>
-"For the good of not only us, but for $1 as well."<br>
+"For the good of not only us, but for {playername} as well."<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
 Elaborate instructions from Yamato... This must be extremely dire.<br>
 <span style="color:#4eb24e;">Shinano ：</span><br>
 We cannot let the Commander be forgotten...<br>
-$1 must not vanish tracelessly from this world...<br>
+{playername} must not vanish tracelessly from this world...<br>
 <span style="color:#4eb24e;">Akagi：</span><br>
 That will not happen. Not as long as I breathe.<br>
 Dear sister, ladies – let's leave at once!<br>
@@ -997,7 +997,7 @@ Return From the Beyond<br>
 The wails of steel grinding against steel echo under a starry sky.<br>
 Two thoughts have been on my mind since I was brought here.<br>
 The first – the battle here just ended. The smell of gunpowder still hangs in the air.<br>
-The second – I am $1. Obviously.<br>
+The second – I am {playername}. Obviously.<br>
 I do not know where I am or what transpired here, however.<br>
 Whenever I try to remember, it's like there's a veil of fog shrouding my memories.<br>
 Other things I do remember, but only vaguely. Many more things, I cannot remember at all.<br>
