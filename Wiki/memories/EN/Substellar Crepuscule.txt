@@ -2253,7 +2253,7 @@ Don't presume that you can control me forever, Magician.<br>
 <br>
 Bright light bursts from the handkerchief, engulfing the entire classroom.<br>
 When it subsides, I find that two very familiar friends have joined us in here.<br>
-<span style="color:#4eb24e;">孟菲斯&{namecode:91:赤城}：</span><br>
+<span style="color:#4eb24e;">Memphis&{namecode:91:赤城}：</span><br>
 Commander?!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Memphis... and Akagi?!<br>
@@ -2761,7 +2761,7 @@ I look forward to meeting you again, Commander.<br>
 {{折叠面板|标题=Epilogue|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 I was finally reunited with my friends in the magic circle, surrounded by a kaleidoscope of butterflies.<br>
-<span style="color:#4eb24e;">孟菲斯&{namecode:91:赤城}：</span><br>
+<span style="color:#4eb24e;">Memphis&{namecode:91:赤城}：</span><br>
 Commander!<br>
 - You're finally home! - I've been waiting for you!<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
