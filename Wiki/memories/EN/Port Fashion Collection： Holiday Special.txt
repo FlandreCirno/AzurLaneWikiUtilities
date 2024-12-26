@@ -1,438 +1,331 @@
 == Port Fashion Collection: Holiday Special ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Boss Bunny's Break Time|选项=1|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">{playername}：</span><br>
-...<br>
+{{折叠面板|标题=Visions of Fantasy|选项=1|主框=1|样式=primary|展开=是}}
 <br>
-Upon entering Rumey's temporary office, my jaw hits the floor.<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-It is decked out with classical furnishings and decorative swords and rifles... And there are stacks of prop bills scattered on the floor.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-(She said she's been watching mafia movies... Seems she has seen one too many.)<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-Have a seat, Commander.<br>
-As told, I sit down in the chair next to her.<br>
-She picks up a folder from the small table nearby and hands it to me.<br>
-I summoned you for one purpose – to interview you.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Uh, interview me?<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-This time around, I am the manager of our shop – the "boss bunny," in other words.<br>
-It is therefore my duty to know the thoughts of our sole and most valued customer.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-So what's in the folder? A list of questions?<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-No, these are the shop's new rules that I came up with. The purpose of this interview is to hear your opinions.<br>
-The rules should suffice, I think. If you feel anything is missing, I'll add it right away.<br>
-Every little detail has to be perfectly tailor-made for you.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Alright then...<br>
-Fritz Rumey：<br>
-I open the folder and skim its contents.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-"Punch the clock when you start and finish work. 'I got lost' or 'I was tired' are not valid excuses for arriving late or leaving early"...<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-Performance reviews are fundamental to running a shop. If employees cannot arrive on time, they won't be able to provide you with proper service.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-"All activities outside of your job duties are prohibited during your shift"...<br>
-Um, what does this "Whether intentional or not" note here mean?<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-It's possible to slack off even if you don't mean to. For instance, feeding the cats may result in non-work-related activities.<br>
-Obviously, slacking off on purpose is prohibited. Unintentional distractions, however, can be prevented by asking others for help when needed.<br>
-As if to punctuate her statement, she smacks the floor with the decorative sword in her hand.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-As rules go, strictly speaking, it all seems fine...<br>
-But... I think a more relaxed, easy-to-work-in environment would be better for the shop.<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-Rejected. The staff cannot provide you with the best possible service under casual circumstances.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Personally, I think you ought to take it easy.<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-Come again?<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-I know you care about my feelings, but you should value your own, too.<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-She is left uncharacteristically at a loss for words.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Don't let rules and conventions limit you.<br>
-Just relax, enjoy, and do it your own way.<br>
-Fritz Rumey：<br>
-As her expression softens a tad, a faint tremble runs through her eyes.<br>
-Are you saying the rules don't matter that much and I should try to just enjoy this?<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Yeah. Forget about the rules for now. Just keep things as they are and relish the moment.<br>
-Fritz Rumey：<br>
-She mulls it over for a moment, then breathes a deep sigh.<br>
-Fine. I'll consider your feedback in earnest.<br>
-In the meantime, however...<br>
-What am I supposed to do? I'm no expert at "relishing the moment."<br>
+*bum bum bum!*<br>
+With a powerful, rhythmic drum beat, the curtain rises, revealing a huge box on stage.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+Dazzling light, wavering dreams... How did the magic that allowed this one to appear before you in an instant look to your eyes?<br>
+A shower of confetti bursts as a spotlight lights up the box and the girl inside. When we lock eyes, she smiles sweetly.<br>
 <br>
-'''''<span style="color:black;">选择项1：Smile, I guess?</span>'''''<br>
-'''''<span style="color:black;">选择项2：Let loose and do what you want!</span>'''''<br>
+'''''<span style="color:black;">选择项1：It's awesome!</span>'''''<br>
+'''''<span style="color:black;">选择项2：How did you do that?</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Let's see a smile first? You don't have to look so stern.<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Very well... I'll try.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''Her lips curve into a somewhat forced smile. It seems a bit awkward but in a cute way.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Very unique! I like it.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''This one is glad that you enjoyed it... Welcome to the dreamscape this one has crafted just for us...<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''No need to think too much, just let yourself loose and do what you want!<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''I can do whatever I want?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Help me figure this out. Did you come into my dreams again, or something?<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yes... This one entered your dream and created this magical stage for you.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+Ah... Something very important nearly slipped my mind...<br>
+Shinano slowly raises her hand and flashes a playful little peace sign.<br>
+The destroyers taught me that this "peace sign" should convey joy to you...<br>
+She tries to move inside the glass box, but her tail takes up so much space that it's hard for her to get anywhere.<br>
+Alas... The box is a little more cramped than this one intended. Apologies...<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''I was joking. Sorry if that wasn't clear.<br>
+But aren't we in a dream? Can't you just make it bigger at will?<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+The secrets of my magic are hidden in this box... If this one so readily adjusted it, the mystery would be gone...<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-Ultimately, my feedback is just my opinion. It's up to you in the end.<br>
-<span style="color:#4eb24e;">Fritz Rumey：</span><br>
-Up to me, you say?<br>
-She lowers her gaze slightly, and a touch of red colors her usually dignified face.<br>
-She assumes a less on-edge posture and relaxes her hands. She softly touches my hand with her pinky finger.<br>
-A moment of trembling hesitation passes for her, then she locks her fingers with mine.<br>
-Then can I... forget about all the rules and just be with you for now?<br>
+Hmm? So there is a mechanism, huh?<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+If you wish to know... then come closer and look...<br>
+I go up to the stage and look around the box, but I find no obvious mechanism.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(Nothing around the box... Does that mean the mechanism is the glass itself?)<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+After I finish investigating, I circle back and stand in front of Shinano, her drowsy yet still enchanting eyes never leaving me for a moment.<br>
+Curious, I gently place my hand on the glass separating us.<br>
+She does the same, her hand overlapping mine.<br>
+She leans in closer, and her warm breath fogs up the glass...<br>
+And her enigmatic ocean-blue eyes shimmer with tender affection.<br>
+Did you find it now...?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+No, not yet.<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+Heehee... Then why not come inside...?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Inside the box? But how am I supposed to get it open if I don't know the trick?<br>
+<span style="color:#4eb24e;">Shinano ：</span><br>
+The glass in front of me suddenly turns into soft, dissipating particles of light.<br>
+With her support gone, Shinano falls forward. Her soft, slender fingers intertwine with mine.<br>
+I feel her warmth and softness through the sheer cloth.<br>
+This is the true mechanism, Commander...<br>
+The stage lights around us gradually dim, and her fluffy tail wraps around us.<br>
+And our dream has only just begun...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Date and Dash|选项=2|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Tipsy Love|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Napoli：</span><br>
+I'll just lie here for a while. Thank you, Commander...<br>
+I lend my shoulder to Napoli and help her lie down on the poker table.<br>
+Her cheeks are delicately flushed a soft pink, and her eyes hold a hesitant, almost dreamy gaze as she looks intently at me.<br>
+Sorry... I'm the one who asked you to teach me poker, and now I can't even focus...<br>
+Why am I so dizzy all of a sudden?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Are you actually a lightweight?<br>
+<span style="color:#4eb24e;">Napoli：</span><br>
+Huh? A lightweight...?<br>
+Napoli cocks her head and glances at the drink next to her.<br>
+...Was that drink alcoholic?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Oh. You didn't know?<br>
+<span style="color:#4eb24e;">Napoli：</span><br>
+No... I've had drinks that tasted similar before, so I just thought it was one of those...<br>
+But now that I'm looking at it, the packaging is a little different...<br>
+I'm really sorry, Commander. Am I causing trouble for you again?<br>
+Ugh, just like always...<br>
 <br>
-I head to the elevator corridor after getting a call from Z52. Just as I arrive, I see her leaping out.<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-In one hand, she holds her smartphone – with the other, she pulls up a slipping leg of her tights.<br>
-Okay, I just exited the eleva—<br>
-Oh! You came to meet me!<br>
-She hangs up the line and waves at me with a lively smile on her face.<br>
-Without her hand holding it up, her tights start to slide again.<br>
-Oh, shoot!<br>
-Uh, gimme a minute! I'm just gonna put on some anti-slipping tape...<br>
-Wait, where'd I put it? I arrived late specifically 'cause I bought it, so where is it?<br>
+'''''<span style="color:black;">选择项1：I don't mind at all.</span>'''''<br>
+'''''<span style="color:black;">选择项2：I like being relied on.</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-Need a hand there?<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-No, no, I'm fine! I'm already keeping you waiting, and that's bad enough!<br>
-These tights are a lot looser than I expected... I should've tried them on before I went out!<br>
-They've been trying to slide off my leg ever since I put them on, and the wind was howling when I ran here...<br>
-She starts recounting everything that happened up to now and stops looking for her tape.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''It's fine. I don't feel troubled in the slightest.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Not at all. I'm happy that you are willing to rely on me.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Besides, you're hardly causing me trouble to begin with.<br>
+<span style="color:#4eb24e;">Napoli：</span><br>
+I appreciate that, but I can't rely on you forever...<br>
+She puts a hand on the poker table and tries to support herself.<br>
+But she loses balance and falls again. Then, she grabs my sleeve.<br>
+I'm sorry... I'm still a little dizzy.<br>
+You have work to attend to, don't you? Please, just go back. There's no need to waste all your time on me...<br>
+There's some sadness in her voice.<br>
+I'll be fine by myself. Just means I'll be stuck resting here for a while...<br>
+She lets go of my sleeve, and then grabs my hand... Our palms share a quiet warmth.<br>
 <br>
-'''''<span style="color:black;">选择项1：(Tell her to save the story for later.)</span>'''''<br>
-'''''<span style="color:black;">选择项2：(Offer to hold her bag.)</span>'''''<br>
+'''''<span style="color:black;">选择项1：I'm staying with you.</span>'''''<br>
+'''''<span style="color:black;">选择项2：I worry too much to do that.</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Easy there, speedster. You can tell me all about it after you find that tape to hold up your tights.<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Oh, right! I just found it!<br>
-'''''<span style="color:black;">（选择项1）</span>'''''Let me just put this on here...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I'll be right here. I'd be worried if I left you alone.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''I'll hold your bag for you.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Want me to hold your bag? Since you have your hands full.<br>
-'''''<span style="color:black;">（选择项2）</span>'''''We can talk after you've found the tape and secured your tights.<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Just found it! But since you're offering to hold the bag...<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-Thanks!<br>
-After handing her bag to me, she applies the tape and adjusts her clothes.<br>
-They were hanging loosely around her before, and now they fit perfectly.<br>
-There!<br>
-With a skip and a hop, she makes sure that the tights won't affect her mobility, then she gives me a smile.<br>
-Everything's in order now! Let's head inside the shop!<br>
-I've gotta make up for being so late!<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Right. Oh, by the way, I ordered a cake and some drinks.<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-Sweet! Come on, let's dash!<br>
-She grabs my hand and breaks into a sprint.<br>
-The shop's over here, right?<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-No, it's over THAT way.<br>
-<span style="color:#4eb24e;">Z52：</span><br>
-What?! You're kidding!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Who cares about work? Some overtime will fix that. Right now, my focus is solely on you.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Don't worry. I'm staying.<br>
+<span style="color:#4eb24e;">Napoli：</span><br>
+The glaze in her eyes fades a little.<br>
+Her long eyelashes flutter as she blinks, hiding the faint sparkle in her eyes.<br>
+She presses her soft cheek against my palm and nuzzles it, like a bunny in need of pets.<br>
+In that case... Please stay right by my side, Commander...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Secret Training|选项=3|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Lights, Camera, Meow|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+Commander, are my expression and pose adequate? If you have any advice, please tell me.<br>
 <br>
-*knock knock*<br>
-I knock on the door of the room where Duisburg is waiting.<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-Commander? You're here awfully early... Ah, did you want to see me that badly? Heehee.<br>
-...<br>
-W-wait... What's THIS?!<br>
+'''''<span style="color:black;">选择项1：(Suggest she adjust her pose.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Suggest she adjust her facial expression.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-What's what?<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-Hearing her panic, I open the door without a second thought and step inside.<br>
-Commander?! Why'd you barge in just like that?<br>
-Somewhat awkwardly kneeling on the couch, she hurriedly lowers her gaze as soon as she sees me.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''If you lower your left leg a little, it should fit into the frame much better.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-You okay? What happened?<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-Nothing at all. I just... dropped a cup of water.<br>
-There is no cup nor water stain anywhere on the floor as far as I can see.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Try smiling a little more?<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-(Alright then... I just pretend that's all it was.)<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-It's no big deal. Anyway, let's cut to the chase, shall we?<br>
-Since you're here early, why don't we start our secret training right away?<br>
+Overall, I think you'd benefit from relaxing a bit.<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+After the first round of filming, Nakhimov relaxes and stretches in place.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-First, I have a question – what's this training actually about?<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-Well... It involves providing service to you, as my master.<br>
-Remember, it would be my first time at this pop-up shop, and I'm not sure I'm cut out for it.<br>
-If I get used to being around you ahead of time, maybe I'll handle it better in the shop.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Ahh. I get it now.<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-...<br>
-She takes a deep breath, but it doesn't look like it helps calm her down.<br>
-W-welcome back, Master... How can I serve you today?<br>
-Her typical confidence is all gone – her crossed arms are a sign of nervousness, as are her restless hands.<br>
-A soft blush spreads across her cheeks, even coloring her ears pink.<br>
-Th-this isn't working... I can't do it in these clothes!<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-(The clothes are the problem? Now that she mentions it, what Duisburg is wearing indeed doesn't look like the pop-up shop's attire...)<br>
-(Wait a second...)<br>
+You tired?<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+I'm okay. I was more nervous, if anything.<br>
+But it's a good thing you came, Commander.<br>
+Before, I just couldn't get into the swing of things...<br>
+Phew... Still, why did everyone choose me to be the star of this promo video?<br>
+I'd think there are plenty of cuter, more appropriate girls for it.<br>
 <br>
-'''''<span style="color:black;">选择项1：(Did she get the wrong clothes?)</span>'''''<br>
+'''''<span style="color:black;">选择项1：You're plenty appropriate.</span>'''''<br>
+'''''<span style="color:black;">选择项2：You say that as if you're not cute.</span>'''''<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+Oh... Okay.<br>
+Though she still has that collected expression, she looks away, as if to avoid my gaze. Her cat ears gently bounce with the movement.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-You're wearing the wrong clothes, aren't you? I don't think that's pop-up shop standard issue.<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-I should've known there would be no hiding it...<br>
-Yes, you're right! These clothes are for a different occasion!<br>
-They were in a box that looked so similar to the shop one, and I picked the wrong one.<br>
-Even if it's just the two of us... it's still embarrassing to wear something like this... I mean, look at me!<br>
-She averts her gaze to avoid meeting mine.<br>
-And there's no mirror in this room either, so I can't even tell if I put it on right.<br>
-I don't want you to see me in something that looks so off...<br>
+By the way, everyone else has bunny ears. Why did you get singled out with cat ears?<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+These aren't cat ears. They're observation equipment.<br>
+That aside...<br>
+I picked them because I thought they suited me. You like how they look on me too, don't you?<br>
+Her tone may be as calm as ever, yet I can't help but notice the faint blush painting her cheeks.<br>
 <br>
-'''''<span style="color:black;">选择项1：But you look great in it.</span>'''''<br>
-'''''<span style="color:black;">选择项2：It looks cute on you.</span>'''''<br>
+'''''<span style="color:black;">选择项1：I do love some cat ears.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Whatever you like, I like.</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Not only great, but very cute as well.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''There's no reason for you to feel nervous about it.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Cat ears are perfectly fine. Want to try the bunny ears next time?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Though I'm sure anything will look cute on you.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Super cute, in fact.<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Do you mean it?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I have no preference. Wear whatever you want, really.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Because you're cute no matter what.<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+Okay, I understand.<br>
+In that case...<br>
+Suddenly, something seems to wrap around my arm.<br>
+Her "tails" have wriggled over and clung to me.<br>
+Huh?! W-wait, my cables...!<br>
+Don't get all grabby just because I feel happy, darn it!<br>
+After her "tails" releases me, she becomes even more visibly nervous.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''I mean it.<br>
+(At this rate, I don't think she'll be able to focus on her next round of filming.)<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+While I think about how I can calm her down, I notice her adjusting her "cat ears."<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-If it really bothers you, let's call off the training and get you into your regular clothes first.<br>
-<span style="color:#4eb24e;">Duisburg：</span><br>
-No, it's fine. I'm relieved after what you just said.<br>
-I don't feel so anxious now.<br>
-Oh, right, the training...<br>
-She pauses to think momentarily, then shakes her head to herself.<br>
-As her nervousness fades, she finally relaxes her tightly crossed arms.<br>
-Assuming you're not opposed to this, Master...<br>
-She inches closer to me, her figure bathed in the warm, inviting light, making her look exceptionally enchanting.<br>
-Please allow me to serve you in this attire. ♥<br>
+That's it!<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+What is it, Commander?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(It's time to show off the ultimate petting skills I learned at the cat café!)<br>
+<br>
+'''''<span style="color:black;">选择项1：(Pet her head.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Scratch her chin.)</span>'''''<br>
+<span style="color:#4eb24e;">Admiral Nakhimov：</span><br>
+Mm...<br>
+And it works – she seems to practically lose herself in the moment. Her eyes close with a look of pure contentment, and her eyelashes tremble ever so slightly...<br>
+Thus, the petting session continues for quite a while...<br>
+Commander... Meeeow♡<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Heart-Pounding Encore|选项=4|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">Formidable：</span><br>
-Mmgh... Finally got the scissors! Ugh... Can't reach... Huh?<br>
-C-Commander?! Why are you here already?! You're not supposed to be here this soon!<br>
-I'm met with a shocking sight immediately upon entering Formidable's so-called secret base.<br>
-Her one leg is held high by a ribbon, and she's struggling to stay upright on the bed.<br>
-She squirms about, holding a pair of scissors in her hand.<br>
-L-look away! And please close the door!<br>
-<br>
-'''''<span style="color:black;">选择项1：(Stay.)</span>'''''<br>
-'''''<span style="color:black;">选择项2：(Leave.)</span>'''''<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''As a compromise, I close the door behind me but remain in the room.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''What are you doing?! Come any closer only at your own risk, do you hear?<br>
+{{折叠面板|标题=A Special Day with the Bunny Lord|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Halford：</span><br>
+Here is your seat, dear guest. I'll join you for a treat, a chat, or whatever you'd like~<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Ahahaha... I'm here to help you. Can I borrow your scissors? Wriggling like this might hurt you.<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Pardon? Do you just want to help?<br>
-'''''<span style="color:black;">（选择项1）</span>'''''Very well... Here. Now please cut me loose.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''(I wouldn't want to be seen like this either if I were her. I'll just get out and leave her alone.)<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''I turn around and step outside. Then, just as I'm about to close the door...<br>
-'''''<span style="color:black;">（选择项2）</span>'''''E-excuse me? Commander, where are you going?<br>
-'''''<span style="color:black;">（选择项2）</span>'''''I'd like it if you came to my assistance here! If you walk out now, don't expect me to listen to you again!<br>
-'''''<span style="color:black;">（选择项2）</span>'''''As a compromise, I close the door behind me but remain in the room.<br>
-'''''<span style="color:black;">（选择项2）</span>'''''How could you think of abandoning me like that? Be a kind soul and help cut me loose!<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-I take the scissors from her then gently hold her suspended leg.<br>
-Her skin feels hot to the touch. She must be feeling rather embarrassed.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Alright, try to relax. If you move suddenly, you might get hurt while I cut the ribbon.<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-"Try to relax"... That's easy for you to say!<br>
-Despite her objection, she does relax her leg.<br>
-C-Commander... Come a little closer...<br>
-Do me a favour and support my leg, please. I'll get a cramp holding it like this otherwise.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Sure thing.<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-I draw one step closer and kneel, letting her rest her leg on my shoulder.<br>
-I can clearly hear her flustered breaths now that I'm this close.<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-I'm going to cut it now. Hold still.<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-Carefully snipping the ribbon that bound her, I support her ankle and gently lower her leg.<br>
-Thank you kindly...<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-What?<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-I'm embarrassed as it is – I'd prefer not to repeat myself!<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-Fair, fair... How did you end up like this, anyway?<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-...<br>
-*sigh*... Well, you did help me, so I shall tell you what happened.<br>
-You see, I'd just got done decorating the room a bit, then I was in the mood for a solo performance. I got caught on a ribbon, and, well...<br>
-This is too embarrassing to continue! You can't tell anyone about this! Erase what you just saw and heard from your memory!<br>
-<br>
-'''''<span style="color:black;">选择项1：Don't worry, I won't.</span>'''''<br>
-'''''<span style="color:black;">选择项2：How could I possibly forget this adorable side of you?</span>'''''<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''I'll take this with me to the grave.<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Truly? Do you promise?<br>
-<span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Not to tell anyone? Yes. Erasing this from my memory, though, that's a tall order...<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Come again? Surely you can at least TRY to forget it!<br>
-'''''<span style="color:black;">（选择项1）</span>'''''You have far better things to dedicate to memory, no?<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''I tease her for the heck of it. Her face turns red, if only for a moment.<br>
-'''''<span style="color:black;">（选择项2）</span>'''''I-it's terribly embarrassing, you know! I implore you not to say anything like that again!<br>
-'''''<span style="color:black;">（选择项2）</span>'''''But... I suppose I could allow you to remember how adorable I looked. Nothing beyond that, however!<br>
-'''''<span style="color:black;">（选择项2）</span>'''''Instead, you should commit THIS to memory!<br>
-<span style="color:#4eb24e;">Formidable：</span><br>
-She gracefully picks up the nearby guitar and holds it in a cool pose.<br>
-Never mind that little mishap... It's time for a one-on-one concert!<br>
-Eyes on me, Commander! ♪<br>
-{{折叠面板|内容结束}}
-
-{{折叠面板|标题=A Christmas Surprise|选项=5|主框=1|样式=primary|展开=是}}
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-...Bismarck?<br>
-<br>
-The room should be empty, save for a load of presents from the girls. Should be.<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-Commander...?<br>
-<br>
-Yet, there is Bismarck, flustered and dressed in a festive Christmas outfit.<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-I, uh, came here to open my presents. Are you still getting yours ready? Should I wait outside?<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-No, no need...<br>
-This is my fault for forgetting to tell you ahead of time. Apologies.<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-Oookay...<br>
-(That's not like her. She would never "forget to tell me" anything.)<br>
-(Maybe she tried to sneak in to leave her gift. If so, I might have ruined the surprise...)<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-You're thinking that my surprise has been spoiled, aren't you?<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-You read my mind.<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-Ahaha. It's in fact what I was thinking, too.<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-Sorry. I imagine you worked hard on my present.<br>
-Tell you what, how about you give it to me directly?<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-Give you... "it"?<br>
-<br>
-The word "it" makes her pause. Her cheeks turn red, and she hesitates to continue, casting an uncharacteristically shy and uncertain glance at me.<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-Well, I AM your present, you see...<br>
-<br>
-Following her downcast gaze, I realize she's sitting on a sheet of wrapping paper.<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-You mean... you're giving yourself to me?<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-Ahem... Per Eugen's suggestion.<br>
-She said, "If you're bad at expressing your feelings with words, do it with actions instead." I simply did what she suggested.<br>
-<br>
-She shyly hangs her head, looking a little fidgety.<br>
-Pushing the glass of wine on the floor further away from her, she again meets my gaze.<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-It's my first time doing something like this... I thought a drink might help me feel more at ease.<br>
-I suppose it didn't work...<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-No, it did.<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
 Hm?<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-The surprise might have been spoiled by my sudden appearance, but it turned out great in the end.<br>
-Besides, it's the thought that counts, right? Thank you.<br>
-Being able to spend this holiday together with you is already a fantastic gift.<br>
+(Is it just me, or does she look dead inside?)<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+I look Halford up and down. Despite the sickly-sweet smile on her face, there isn't a sign of vigor in those eyes.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(She loves work, though. That's odd.)<br>
+(Is Akashi threatening her or something?)<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+...What are you staring at?<br>
+She stops smiling and puffs out her cheeks unhappily, meeting my gaze.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Just wondering what dirt Akashi has on you. Otherwise, you wouldn't be acting so weird.<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+None! Akashi has nothing to do with it. I just...<br>
+She sighs, squeezes her plushie Dora, and hesitates for a moment.<br>
+I'm just a little uneasy because of how easy this job is...<br>
+I mean, all they want me to do is sit here and talk with you all sweetly.<br>
+It hardly feels worthy of a reward...<br>
+Besides, talking to you is already reward enough. Who considers this actual work?<br>
 <br>
-Her eyes light up, and a joyous, gentle smile appears on her lips.<br>
-She leans in closer to me in her festive outfit.<br>
-The fireworks bursting outside can't hold a candle to the sparkle in her eyes.<br>
-Her warm breath graces my ear...<br>
-<span style="color:#4eb24e;">Bismarck：</span><br>
-Merry Christmas, Commander.<br>
+'''''<span style="color:black;">选择项1：What if you just don't treat it as work?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''If that's how you feel, then forget about the whole "work" thing entirely.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Just consider it a friendly chat with me, and maybe you'll be able to relax a little?<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+Hmm... That does sound like it would work...<br>
+...Nuh-uh, no way! Work is work. I will not mix work with personal matters!<br>
+I will have you know that I take my work very seriously!<br>
+After learning what my job is about, I agonized over which plushies would be perfect for this occasion and even put hours into training them!<br>
+She holds her plushie in front of her face in an effort to cover up her embarrassment.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You were training your plushies? What, do they talk, too?<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+I didn't mean it literally! Of course they don't talk! I carefully dressed them up.<br>
+Halford's Arts of Healing, Article 1: Soothe my servant with cute things.<br>
+...So? Do you feel soothed by my adorable little Dora?<br>
+If this isn't enough... th-then choose whatever you like instead!<br>
+...Until you are healed and happy!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+So I can choose anything I want in here?<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+Of course!<br>
+<br>
+'''''<span style="color:black;">选择项1：Then... can I choose you?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Does that mean I can choose you, Halford? I mean, you're on the couch too.<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+Huh?!<br>
+She screams out of surprise. When she understands what I'm getting at, though, she gets even more embarrassed. Her cheeks turn a rosy red.<br>
+I am no plushie! I'm the 127th lord of a bloodline who rides upon the night sea!<br>
+And you are my servant! How... How dare you make such a request...!<br>
+<br>
+'''''<span style="color:black;">选择项1：I'm just kidding.</span>'''''<br>
+'''''<span style="color:black;">选择项2：But you said I could.</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Sorry, sorry. I just wanted to tease you since you were talking about your job and your uneasiness.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Do you feel a little better now?<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''What? It was all a joke...?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmph! Well, I'm going to take it seriously!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You gave me permission, though.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Did you not say I could choose anything I wanted in here?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''"Anything" does not mean "only plushies," as I recall.<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Commander, you little...<br>
+<span style="color:#4eb24e;">Halford：</span><br>
+With her cheeks puffed angrily, Halford stands up... and plops down right into my lap.<br>
+Her soft bunny ears graze my cheek, and she buries her beet-red face into my shoulder.<br>
+Dear guest... Does this soothe and satisfy you?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=One-on-One Leisure Time|选项=6|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">Ägir：</span><br>
-Oh, Commander, put on a record that sets the mood.<br>
-No sooner than I set foot inside the room does Ägir issue an order to me from her single sofa.<br>
+{{折叠面板|标题=Bunny Priestess in Prayer|选项=5|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">{playername}：</span><br>
-You got it.<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-I pick a record and spin it on the phonograph, then head to the coffeemaker.<br>
+(This should be the spot where the newly approved pop-up was constructed.)<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+*CREEEAK!*<br>
+An odd noise interrupts my train of thought. When I look to investigate...<br>
+Oh, Commander? What brings you here?<br>
+I see Daisen lying on the platform, her legs tangled in the red cord used in decorations.<br>
+With every slight movement of her legs, the red cord tugs, causing the attached decorations to sway and emit a faint sound.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-(I've got work after this, so a cuppa joe would do me good.)<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-After the coffee finishes brewing, Ägir exclaims another order before I can even ask.<br>
-Extra sugar. I can't drink it otherwise.<br>
+Daisen? Uh, what's going on...?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Ah... I'm so sorry you had to see me in this weird state.<br>
+I wanted to hang some decorations here to liven up the new construction, but I was... well, careless, in a word.<br>
+Please forgive me for being too indisposed to show proper hospitality.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-Yes, ma'am.<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-I add a hefty spoonful to the coffee and place the cup on the table beside her.<br>
-Commander.<br>
-She speaks yet again, stretching her legs out toward me.<br>
-She haphazardly flings her shoes off and teasingly pokes my knee with her toes.<br>
+Don't worry about it. I doubt you'll be able to get out of this bind yourself. Want some help?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+I'm so sorry to trouble you, Commander...<br>
+She breathes a sigh of genuine relief.<br>
+Who knows how long I would be tied up here if you hadn't arrived?<br>
+As I approach the platform, it becomes evident that things are much worse than I'd expected.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-What is it?<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-Nothing. It just struck me how you know your place today.<br>
-Have you finally bowed to my power as the god of the sea?<br>
+Is there anything I should watch out for? Like, am I going to bring the decorations crashing down?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+It's okay. I already made a mess of it, anyway...<br>
+I can fix it all after.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-Uhh...<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-Disappointed by my response, she lifts her foot higher and runs her toes along my thigh, moving further up.<br>
+Got it.<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+I begin carefully untying the red cord.<br>
+Her skin bears faint red marks, a subtle sign that she's been tied up for quite some time.<br>
+The dark-red cords and the pinkish-red marks on her fair skin make for a striking contrast.<br>
+Commander...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Sorry. Did that hurt?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+No. It's just... that you don't have to be so gentle.<br>
+Be rougher if you want... I'll be just fine.<br>
 <br>
-'''''<span style="color:black;">选择项1：(Grab her ankle.)</span>'''''<br>
-'''''<span style="color:black;">选择项2：(Make her stop.)</span>'''''<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-I seize her foot by the ankle to stop her from going any further.<br>
-Huh?!<br>
-Hey! Let go!<br>
-She starts kicking around and tries to pull her leg back.<br>
-That's enough already! Stop it! ...Eek!<br>
-In a bout of sudden guilt, I let go of her foot.<br>
-Taken by surprise, a look of shock and embarrassment appears on her face.<br>
-She tries to play it cool, taking a sip of her coffee before she speaks again.<br>
-Isn't it tiring, standing like that? Take a seat!<br>
-There's room right over here! Look!<br>
-She pats the small clear space next to her.<br>
-<br>
-'''''<span style="color:black;">选择项1：Don't mind if I do.</span>'''''<br>
-'''''<span style="color:black;">选择项2：I don't think there's room for two.</span>'''''<br>
+'''''<span style="color:black;">选择项1：No, I think this needs a steady hand.</span>'''''<br>
+'''''<span style="color:black;">选择项2：The last thing I want is for you to get hurt.</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''It's a single sofa. It'll be pretty cramped if I sit on it at the same time.<br>
-'''''<span style="color:black;">（选择项2）</span>'''''So, you know...<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''I don't have an issue with that, so why should you?<br>
-'''''<span style="color:black;">（选择项2）</span>'''''Stop dragging your feet already and come here!<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-I take her up on her offer and sit down beside her. She quickly blushes and averts her gaze.<br>
-Even though she made more room, we are literally rubbing shoulders with how cramped it is.<br>
-Bah, forget it! You've been toiling away for my sake, so you can have the sofa!<br>
-She rises to her feet with such haste that she loses her balance.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Let me take it slow and steady. I'd feel awful if I ruined your decorations.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''You put your heart into this work, and it wouldn't be right to put that effort to waste.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Most of all, though, I don't want to see you hurt.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-Careful!<br>
-<span style="color:#4eb24e;">Ägir：</span><br>
-She falls right onto me, her soft and warm body landing in my arms.<br>
-The god of the sea's hair brushes against my nose. It gives off a faint fragrance.<br>
-Whuh?!<br>
-After fidgeting for a moment, she finally gives up and relaxes her body, leaning gently against me.<br>
-Just this once... you hear?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I don't want to hurt you.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Besides, you worked really hard to get this done. Let's not put that to waste.<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Oh, my... Okay.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Almost done. Lift your legs a little for me?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Um... Like this?<br>
+She lifts her legs higher for me, allowing me to untangle the last of the mess.<br>
+Thank you so much, Commander.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Don't mention it. By the way, the application paper called this the prayer space, right?<br>
+Why did you think to add a prayer space in the shop?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Well... Akashi said it was "trendy." And something about it being a "viral spot" for the shipgirls...?<br>
+Also, she had some kind of plan to raffle off the opportunity of being the first to pray here...?<br>
+Though I don't think she'll be able to do that ♪<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Why's that?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Because I already prayed while I was decorating.<br>
+"May the Commander be safe and sound – and may I always be by your side."<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
