@@ -1,0 +1,438 @@
+== 모항 패션 컬렉션: 홀리데이 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=보스 토끼의 휴식 시간|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{playername}：</span><br>
+…………<br>
+<br>
+약속대로 루메이의 임시 대기실로 찾아갔는데, 눈앞에 펼쳐진 모습에 깜짝 놀랐다.<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+다소 예스러운 느낌을 불러일으키는 인테리어와 함께 장식된 검과 소총, 그리고 바닥에 여기저기 흩어진 지폐……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(분명 얼마 전에 마피아 영화를 봤다고 했었지…? 설마 영화를 너무 많이 봐서…)<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+지휘관, 들어와라.<br>
+루메이의 말대로 순순히 그녀 옆에 놓인 의자에 앉았다.<br>
+그러자 그녀는 사이드 테이블에 놓인 파일을 집어 들어 내게 건넸다.<br>
+귀공을 여기로 부른 건 다름이 아니라, 「인터뷰」를 하기 위해서다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――인터뷰?<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+이번 가게는 내가 점장을 맡게 되었지. 달리 말하면 난 지금 「보스 토끼」다.<br>
+그리고 유일하고도 중요한 고객인 귀공의 감상을 묻는 건 점장으로서 당연한 책무라고 할 수 있지.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그러면 이 파일은 인터뷰용 설문지 같은 거야?<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+아니, 이건 내가 만든 가게의 새로운 규칙이다. 인터뷰의 목적은 귀공의 평가와 의견을 듣기 위함이고.<br>
+그 정도면 충분할 것 같은가? 만약 모자란 부분이 있다면 당장이라도 보충해 두마.<br>
+귀공에 대한 서비스는 세세한 부분까지 신경을 써야 하니 말이다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그, 그래…<br>
+프리츠 루메이：<br>
+바로 루메이에게 받은 파일을 열고 훑어보았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「근무 시작 및 종료 시에는 타임카드를 꼭 찍을 것. 길을 잃었다던가, 늦잠 등을 이유로 한 지각 및 조퇴는 인정하지 않는다.」<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+근무 시간 엄수는 기본 중의 기본… 시간에 맞춰 출근하지 않으면 귀공에게 서비스를 제공하는 것은 불가능하기 때문이지.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「근무 시간 중에는 업무 내용을 제외한 활동은 금지된다.」<br>
+――음… 여기 「(자신의 의지 유무를 불문하고)」라는 부분은 뭐야?<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+자신의 의지로 빠지는 것은 물론, 자신의 의지와는 상관없이… 예를 들면 고양이에게 먹이를 주는 등의 이유로 발생하는 업무 외 활동도 있어서는 안 돼.<br>
+전자는 당연히 금지지만, 후자는 그곳에 있는 다른 아이의 도움을 받는 식으로 해결할 수 있을 터다.<br>
+말을 마치고 루메이는 손에 든 장식용 대검으로 바닥을 「쿵!」하고 두드렸다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――뭐, 원래 「규칙」이란 건 엄격한 거니까 문제는 없지만…<br>
+――임시로 여는 가게니 다른 동료들도 일하기 편하고 즐거운 분위기를 조성하는 편이 좋지 않을까?<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+안 돼. 긴장을 늦추면 귀공에게 최고의 서비스를 제공할 수 없다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――오히려 난 루메이가 조금 더 긴장을 풀고 일했으면 하는데 말이야.<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+……뭐라고?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――신경 써주는 건 고맙지만, 일하는 루메이도 즐거워야지.<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+그렇게 말하자, 루메이는 그녀답지 않게 당혹감을 내비쳤다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――되도록 규칙이나 관습에 얽매이지 말고…<br>
+――편하게, 루메이의 방식대로 즐겼으면 좋겠어.<br>
+프리츠 루메이：<br>
+굳은 표정은 조금 풀렸지만, 루메이는 동요하기 시작했다.<br>
+규칙을 너무 지킬 필요는 없으니, 지금 이 순간을 즐겼으면 한다…고?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――맞아. 그 규칙도 다음에 찬찬히 생각해 보자. 지금은 현 상황만 유지하는 걸로 하고.<br>
+프리츠 루메이：<br>
+그녀는 잠시 생각에 잠긴 뒤, 이윽고 크게 숨을 내쉬었다.<br>
+알았다. 귀공의 의견이니 진지하게 검토해 보마.<br>
+그렇지만……<br>
+지금은 어떻게 하면 좋지? 「지금 이 순간을 즐기라」니… 영 자신이 없어서 말이지.<br>
+<br>
+'''''<span style="color:black;">选择项1：일단은 좀 웃어봐.</span>'''''<br>
+'''''<span style="color:black;">选择项2：하고 싶은 대로 하면 돼!</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――일단은 좀 웃어볼까? 아까부터 얼굴이 너무 굳어있잖아.<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……알았다. 해보마.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''조금 어색하게 입꼬리를 올리며 미소 짓는 루메이. 서투르지만 노력하는 그녀의 모습이 사랑스럽다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――굳이 뭘 하려고 하지 말고, 그냥 하고 싶은 대로 하면 돼!<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……하고 싶은 대로?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――아… 미안, 농담한 거야.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――내 말은 어디까지나 의견이니까, 이럴 때는 그냥 루메이의 마음이 가는 대로 하면 돼.<br>
+<span style="color:#4eb24e;">프리츠 루메이：</span><br>
+마음이 가는 대로?<br>
+눈을 살짝 내리까는 루메이. 늘 믿음직스러운 얼굴이 은은하게 붉은빛을 띠고 있다.<br>
+그리고 방금까지 긴장으로 딱딱했던 자세를 풀고, 손의 힘을 빼더니 새끼손가락을 내 손가락에 살짝 가져다 댔다.<br>
+그 순간, 살짝 몸을 떨며 주저했지만, 이내 자신의 손가락을 내 손가락 사이로 얽었다.<br>
+그러면… 규칙이나 관습은 잊고… 이렇게 귀공 곁에 계속 있어도… 괜찮은가?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=재빠른 데이트|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+도착 연락을 받고 엘리베이터 홀로 나가자, 마침 엘리베이터에서 뛰어나온 Z52와 마주쳤다.<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+한 손에는 스마트폰을 들고, 다른 손에는 금방이라도 흘러내릴 것 같은 스타킹을 부여잡고 있었다.<br>
+지휘관, 지금 엘리베이터에서……<br>
+아! 마중 나와 준 거야?!<br>
+전화를 끊고 Z52는 날 향해 기쁜 듯이 손을 흔들었다.<br>
+그러자 방금까지 부여잡고 있던 스타킹이 흘러내리기 시작했고……<br>
+으아아?!<br>
+지휘관, 잠깐! 지, 지금 흘러내림 방지 실리콘 테이프를……<br>
+어, 어디다 넣어뒀더라…? 이걸 사러 다녀와서 늦은 건데…… 대체 어디 있는 거야…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――도와줄까?<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+아니, 아니! 괜찮아! 안 그래도 기다리게 해서 미안한데…!<br>
+설마 스타킹이 이렇게 쉽게 흘러내릴 줄은 몰랐어…… 미리 입어봤어야 했는데…<br>
+입은 후부터 계속 흘러내리는 거 있지…? 게다가 오늘은 이렇게 바람까지 쌩쌩 불고……<br>
+지금까지 일어난 일을 털어놓기 시작한 Z52. 테이프를 찾던 손도 어느새 멈추고 말았다.<br>
+<br>
+'''''<span style="color:black;">选择项1：우선은 테이프부터 찾자.</span>'''''<br>
+'''''<span style="color:black;">选择项2：비닐봉지 들어줄게.</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――음… 우선은 테이프부터 찾아서 스타킹이 흘러내리지 않게 하는 게 어때? 이야기는 그 후에 들어도…<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그렇지! 아, 찾았어!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''이렇게 붙이면……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――비닐봉지 들어줄게.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그 비닐봉지, 나한테 줘. 들어줄게.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이야기는 스타킹에 테이프를 붙인 다음에 해도…<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''찾았어! 그래도 지휘관이 봉투를 들어준다면야……<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+지휘관, 고마워!<br>
+내게 비닐봉지를 건네고, Z52는 테이프를 붙인 후, 옷매무새를 가다듬었다.<br>
+헐렁했던 의상이 드디어 그녀의 몸에 딱 맞았다.<br>
+휴, 끝났네!<br>
+팔짝팔짝 뛰며 움직임에 지장이 없는 것을 확인한 후에야 Z52는 미소를 지었다.<br>
+이제 괜찮아! 지휘관, 어서 가게로 가자!<br>
+여기서 더 늦을 수는 없으니까 말이지!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그래. 참고로 미리 케이크랑 음료는 주문해 뒀어.<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+신난다! 그럼, 지휘관! 가자~!!<br>
+내 손을 잡고 Z52는 바로 달리려는 자세를 취했다.<br>
+가게는 이쪽 방향 맞지? 지휘관?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――음… 이쪽이 아니라 저쪽인데?<br>
+<span style="color:#4eb24e;">Z52：</span><br>
+뭐어어?!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=비밀 특훈|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+(똑똑똑)<br>
+뒤스부르크가 있는 대기실의 문을 두드리자…<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+지휘관? 아직 약속 시간 전인데… 어머, 빨리 보고 싶어서 온 거야? 후후후…<br>
+…………<br>
+자, 잠깐…… 설마……?!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――??<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+뒤스부르크의 당황한 목소리가 들려, 무심코 문을 열고 대기실로 들어갔다.<br>
+지, 지휘관?! 왜……?!<br>
+안으로 들어서자, 조금 어색한 자세로 소파에 앉은 뒤스부르크는 황급히 눈을 내리깔았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――괜찮아? 무슨 일이야?<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+아무렇지도 않아. 음…… 컵을 떨어뜨린 것뿐이야.<br>
+주변을 둘러보았지만, 컵은커녕 물이 쏟아진 흔적조차 보이지 않았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(음… 굳이 캐묻지는 말자……)<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+뭐… 아무튼, 슬슬 본론으로 들어갈까?<br>
+모처럼 빨리 와줬으니, 바로 오늘 「특훈」을 시작하자.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그건 상관없는데, 구체적으로 어떤…?<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+음…… 「주인님」이신 지휘관을 모시는 연습을 할 거야.<br>
+이런 가게에서 일하는 건 처음이라… 잘할 수 있을지 자신이 없거든.<br>
+그러니까 애초에 지휘관을 상대로 특훈을 해두면, 가게에서도 잘 해낼 수 있을 것 같아.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――흠… 그렇다면……<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+…………<br>
+심호흡했지만, 뒤스부르크는 여전히 긴장한 모습이었다.<br>
+주, 주인님… 어서 오세요… 오늘은 뒤스부르크가 모시겠습니다…<br>
+평소의 그 여유로운 모습은 어디 간 건지, 뒤스부르크는 시종일관 불안한 표정으로 팔짱을 끼고 손을 가만히 두지 못하고 있다.<br>
+이윽고 얼굴뿐만 아니라 귓가도 핑크빛으로 물들어 갔다.<br>
+아, 안 되겠어… 역시 이런 모습으로는……!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(이런 모습…? 그러고 보니 뒤스부르크가 입고 있는 건 가게 의상이랑은 좀 다른 것 같은데……)<br>
+(설마……)<br>
+<br>
+'''''<span style="color:black;">选择项1：옷을 잘못 입은 것 같은데…?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그 의상… 가게에서 입는 거랑 다른데… 설마 입을 옷을 착각한 거야…?<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+역시… 이대로 숨기고 넘어갈 수는 없는 건가…<br>
+맞아. 사실 이건 다른 용도로 쓰려고 준비한 의상이야……!<br>
+가게 옷이 들어있는 상자랑 비슷해서 실수했어……<br>
+이, 이런 옷을 입으면… 부끄러워지는 게 당연하지!<br>
+뒤스부르크는 내 시선을 피했다.<br>
+게다가 여기는 거울도 없어서, 내가 제대로 입은 건지도 모르겠어……<br>
+지휘관이 보고 있는데, 이상한 모습이면 어떻게 해……<br>
+<br>
+'''''<span style="color:black;">选择项1：잘 어울리는데…?</span>'''''<br>
+'''''<span style="color:black;">选择项2：엄청 귀여운데…?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――어울리기도 하고, 지금 뒤스부르크… 진짜 귀여워.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그러니까 그렇게 긴장할 필요 없어.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――지금 뒤스부르크… 진짜 귀여워.<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''정말…?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――정말이야.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그래도 걱정되면 특훈은 그만하고 원래 의상으로 갈아입는 건 어때?<br>
+<span style="color:#4eb24e;">뒤스부르크：</span><br>
+아니, 방금 지휘관 말을 들으니까 마음이 놓였어.<br>
+게다가… 이제 긴장도 안 되는 것 같아.<br>
+아, 특훈…<br>
+잠시 생각한 후, 뒤스부르크는 가볍게 고개를 가로저었다.<br>
+긴장이 풀려서인지, 조금 전까지와는 다르게 자세도 편안해 보였다.<br>
+주인님이 싫지 않으시다면……<br>
+가까이 몸을 기대는 뒤스부르크의 모습은 은은한 조명 빛을 받아 더욱 매혹적으로 보였다.<br>
+이 모습으로 모실 수 있게 해주세요♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=두근두근 앵콜|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+으으으…… 가위… 겨우 잡았다! 으읏…… 닿질 않아…… 응?<br>
+지, 지휘관님?! 이렇게 벌써……?! 아직 약속한 시간이 아니잖아요?!<br>
+포미더블의 「비밀 기지」로 들어서자, 생각지도 못한 광경이 눈앞에 펼쳐졌다.<br>
+리본으로 높이 치켜올려진 한쪽 발과 균형을 잃고 허공에 뜬 몸.<br>
+포미더블은 가위를 손에 들고 당황해서 허둥댔다.<br>
+보, 보시면 안 돼요! 문 닫고 그대로 나가주세요…!<br>
+<br>
+'''''<span style="color:black;">选择项1：머무른다</span>'''''<br>
+'''''<span style="color:black;">选择项2：포미더블 말대로 방을 나선다</span>'''''<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''문을 닫고 포미더블에게 가까이 다가갔다.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭘 하시려는 거예요?! 거기서 더 다가오시면…… 저, 화낼 거예요!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――아하하… 도와주려는 거야. 가위 좀 잠깐 빌려줄래…?<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''네? 아… 도와주시려고……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''네… 여기, 드릴 테니까 어서 도와주세요…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''(그런 모습을 다른 사람에게 보여주고 싶지는 않겠지… 지금은 포미더블 말대로 얌전히 나가주는 편이…)<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그녀의 말대로 방에서 나가, 문을 닫으려고 하자…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……지, 지휘관님?! 정말 가시려는 건가요?!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''포미더블을 구해 주셔야죠! 안 그러면…… 아, 앞으로 무슨 부탁을 하셔도 다 무시할 거예요!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''문을 닫고 포미더블에게 가까이 다가갔다.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''포미더블을 방치하려고 하다니… 지휘관님도 참… 어서 도와주세요!<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+가위를 받아, 우선은 포미더블의 발에 손을 얹었다.<br>
+부끄러워서 그런지, 몸에서 미약하게 열기가 느껴졌다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――일단은 힘을 좀 빼 봐. 휘감긴 리본을 자르다가 잘못해서 다치기라도 하면…<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+이런 상황에서 힘을 빼라고 하셔도 어떻게…!<br>
+입으로는 안 된다고 하면서도 포미더블은 발에서 힘을 뺐다.<br>
+지, 지휘관님… 조금만 더 가까이……!<br>
+이대로면 다리에 쥐가 날 것 같아요…! 다리를 얹을 수 있게 잠깐 어깨 좀 빌려주세요…!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――알았어.<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+더 가까이 다가가, 조금 쭈그려 앉은 자세로 포미더블의 다리를 어깨에 걸었다.<br>
+거리가 더 가까워진 탓에 포미더블의 흐트러진 호흡이 선명하게 들린다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――이제 리본을 자를 거니까 움직이지 마.<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+포미더블의 다리를 치켜올리고 있는 리본을 자른 후, 그대로 발뒤꿈치를 손으로 받치면서 아래로 내렸다.<br>
+가, 감사합니다……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――응? 지금 뭐라고…?<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+정말… 부끄러우니까 또 말하게 만들지 마세요!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――하하하… 그나저나 어쩌다 그렇게 된 거야?<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+……<br>
+하아… 도와주셨으니 지휘관님께만 알려드릴게요…<br>
+사실 방을 좀 꾸민 다음에 솔로 라이브를 보여드리려고 했는데, 이렇게 얽힐 줄은……<br>
+정말 너무 창피해요…! 아무한테도 말씀하시면 안 돼요! 지금 당장 잊어주세요!<br>
+<br>
+'''''<span style="color:black;">选择项1：말 안 할 테니 걱정하지 마.</span>'''''<br>
+'''''<span style="color:black;">选择项2：이렇게 귀여운 포미더블을 어떻게 잊으라고…</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――걱정하지 마. 아무한테도 말 안 할게.<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''약속해 주시는 거죠…?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――입도 뻥긋 안 할 자신은 있지만, 잊는 건 도저히…<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭐라고요?! 열심히 노력해서 꼭 잊으셔야 해요!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''애초에 그거 말고도 기억해야 할 중요한 것들이 얼마나 많은데요!<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''농담조로 가볍게 던진 말에 포미더블의 얼굴이 순식간에 새빨개졌다.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''부, 부끄럽게 무슨 말씀이세요! 다시는 그런 말 하지 마세요!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''뭐… 정 그러시다면… 제가 얼마나 귀여웠는지 기억하는 정도는 허용해 드리죠.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''단, 지금부터 보여드릴 모습도 잊으시면 안 돼요!<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
+그렇게 말하며 로열 레이디는 침대 옆에 놓인 기타를 멋지게 들었다.<br>
+잠시 사소한 사고가 있었지만… 지휘관님을 위한 솔로 라이브! 시작할게요!<br>
+지휘관님, 다른 데 눈 돌리시면 안 돼요♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=크리스마스 서프라이즈|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――비스마르크…?<br>
+<br>
+동료들에게 받은 선물만이 놓여 있는, 아무도 없는 방. 그런데……<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+……지휘관?<br>
+<br>
+크리스마스 느낌이 물씬 나는 의상을 걸친 비스마르크가 당황한 기색으로 모습을 드러냈다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――선물을 열어보려고 왔는데… 아직 준비하는 중이었어? 밖에서 기다릴까?<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+아, 아니……<br>
+미리 연락하는 걸 깜빡했네. 미안해.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――아, 음……<br>
+(깜빡하다니… 비스마르크가? 그럴 리가 없을 텐데…)<br>
+(서프라이즈 이벤트라도 준비하던 중이었나? 그렇다면 내가 다 망친 게 되는데…)<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+지금 내가 서프라이즈 이벤트를 망쳤구나…하고 생각하고 있지?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――어떻게 알았어…?<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+아하하… 나도 솔직히 좀 아쉽긴 해.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――내가 다 엉망으로 만들어서 미안해……<br>
+――그래도 모처럼 준비한 거니… 지금 직접 건네주는 건 어때?<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+직접… 건네달라고…?<br>
+<br>
+「직접 건네달라」는 말에 걸리는 부분이 있는 건지, 비스마르크는 얼굴을 붉게 물들이며 말꼬리를 흐렸다.<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+사실 선물은…… 나…인데……<br>
+<br>
+내 눈을 피해 돌린 그녀의 시선을 따라가 보니, 그녀의 몸 아래에 포장지가 깔린 것이 보였다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――아…… 그러니까 「비스마르크」가 선물이라는 거지?<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+크흠… 오이겐의 조언을 듣고 준비한 건데…<br>
+「말로 감정을 표현하기 어려우면, 행동으로 전해야 한다」고… 나는 그저 거기에 따랐을 뿐이야.<br>
+<br>
+그렇게 말하며 비스마르크는 다시 부끄러운 듯 고개를 떨구었다.<br>
+하지만 이내 바닥에 놓인 와인 잔을 밀어내더니, 다시 내 눈빛을 마주하며 말을 이어 나갔다.<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+이런 걸 준비한 건 처음이라… 알코올의 힘을 빌리면 조금이나마 자연스럽게 행동할 수 있을까 했는데……<br>
+뭐, 큰 도움이 되진 않은 것 같네……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그렇지 않아.<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+지휘관?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――확실히 서프라이즈는 아니게 됐지만, 결과로 보면 성공한 거나 다름없어.<br>
+――비스마르크의 마음… 잘 전달됐어. 고마워.<br>
+――이런 특별한 날을 비스마르크와 함께 보낼 수 있는 것만으로도… 난 충분히 기뻐.<br>
+<br>
+비스마르크는 그 말을 듣고 눈을 빛내며, 기쁜 듯 부드러운 미소를 지었다.<br>
+그리고 크리스마스 의상을 입은 채로 내 쪽으로 다가왔다.<br>
+바깥을 환히 비추는 불꽃의 반짝임도 그녀의 눈 속에서 반짝이는 불꽃에 비하면 한참은 모자란다.<br>
+이윽고 그녀의 따뜻한 숨결이 내 귓가에 전해졌다.<br>
+<span style="color:#4eb24e;">비스마르크 ：</span><br>
+그래, 지휘관. 메리 크리스마스…<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=심연의 악마에게 휴식을|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">에기르：</span><br>
+지휘관, 괜찮은 레코드라도 좀 틀어봐.<br>
+휴게실에 들어서자마자 소파를 점거한 에기르가 난데없는 요구를 해왔다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――알았어.<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+턴테이블에 레코드를 올린 후, 커피머신 앞에 섰다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(곧 업무를 시작해야 하니, 미리 커피라도 마셔두자.)<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+일단 내 커피를 준비하면서, 에기르에게도 커피를 권해볼까 생각하던 찰나……<br>
+설탕 많이. 안 그러면 못 마셔.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――알았어.<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+손에 든 커피에 설탕을 듬뿍 넣은 후, 에기르 뒤에 있는 테이블에 놓았다.<br>
+저기, 지휘관?<br>
+귓가에 에기르의 목소리가 들려서 돌아보니, 내 쪽으로 다리를 뻗은 그녀의 모습이 보였다.<br>
+신고 있던 신발은 어딘가로 벗어 던지고, 발끝으로 내 무릎을 도발하듯 쿡쿡 찌른다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――왜 그래?<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+아니, 그냥. 오늘따라 뭔가 더 「조용한」 것 같아서.<br>
+드디어 심연의 신인 내 위엄에 굴복한 거야?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――뭐……?<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+내 반응이 기대에 어긋난 건지, 에기르는 발을 더 높이 들고, 발끝으로 내 허벅지에서 위쪽을 향해 쓸었다.<br>
+<br>
+'''''<span style="color:black;">选择项1：복사뼈를 잡는다.</span>'''''<br>
+'''''<span style="color:black;">选择项2：에기르를 저지한다.</span>'''''<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+더 이상 위로 움직이지 못하도록 그녀의 발목을 잡았다.<br>
+…?!<br>
+뭐, 뭐야! 이거 놔!<br>
+허둥대며 허우적거리기 시작한 에기르는 다리를 움츠리려고 했지만…<br>
+이제 장난 안 칠게! 그러니까 이것 좀! ……꺅?!<br>
+조금 불쌍해 보여서 잡은 발목을 놓아주었다.<br>
+순간적으로 벌어진 일에 놀란 건지, 아니면 발목을 잡힌 수치심 때문인지 에기르는 눈을 부릅떴다.<br>
+그러고는 불편한 마음을 다스리려는 듯 커피를 후루룩 마시더니, 다시 말을 걸어왔다.<br>
+……그렇게 멍하니 서서 피곤하지도 않아? 너도 앉아!<br>
+자, 여기 비워뒀어.<br>
+옆의 빈자리를 툭툭 두드리는 에기르.<br>
+<br>
+'''''<span style="color:black;">选择项1：정 그러시다면 감사히……</span>'''''<br>
+'''''<span style="color:black;">选择项2：둘이 앉기에는 좀 좁은 것 같은데?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이거 1인용 소파잖아… 내가 앉으면 좁을 텐데?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――둘이 앉기에는……<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''내가 괜찮다는데 무슨 소리야.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''자, 어서 앉아!<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+에기르의 말에 따라 옆에 걸터앉자, 그녀는 볼을 붉히고 조금 더 안쪽으로 몸을 옮겼다.<br>
+그렇지만 겨우 그 정도 노력으로는 어림도 없었고, 결국 두 사람의 몸은 완전히 밀착되어 버렸다.<br>
+흐, 흥! 나는 이제 됐어! …날 위해서 열심히 일했으니까, 네가 앉아!<br>
+에기르는 그렇게 말하며 일어서려고 했지만, 너무 서두른 건지 균형을 잃고 말았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――조심해!<br>
+<span style="color:#4eb24e;">에기르：</span><br>
+살짝 달아오른 부드러운 몸이 내 쪽으로 쓰러지기 시작했다.<br>
+코끝에 닿은 심연의 신의 머리카락이 은은한 향기를 풍긴다.<br>
+……윽?!<br>
+아까처럼 발버둥 칠 줄 알았건만, 그녀는 체념하고 힘을 빼고 그대로 몸을 내게 맡겼다.<br>
+이, 이번만이야…! 알아들어? ///<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
