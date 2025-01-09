@@ -1,0 +1,331 @@
+== 모항 패션 컬렉션: 합본집[5] ==
+{{折叠面板|开始}}
+{{折叠面板|标题=꼭두각시의 환몽에 빠져|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+(둥둥둥둥!)<br>
+강한 드럼 소리의 리듬과 함께 무대의 「상자」를 덮고 있던 천이 확 걷혔다.<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+번쩍이는 불빛과 함께 흔들리는 환몽… 찰나의 순간에 모습을 드러내는 마술… 그대 눈에는 어떻게 비쳤는가?<br>
+흩날리는 색종이 조각 사이를 뚫고 스포트라이트가 상자 안의 시나노를 비추고 있다. 나와 눈이 마주치자, 그녀는 감미로운 미소를 지었다.<br>
+<br>
+'''''<span style="color:black;">选择项1：굉장해!</span>'''''<br>
+'''''<span style="color:black;">选择项2：어떻게 한 거야?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――참신하면서도 굉장해!<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''마음에 들었다니 다행이군…… 내가 준비한 꿈나라에 온 걸 환영한다…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――어떻게 한 거야? 설마 내 꿈에 들어온 거야?<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그러하다… 그대의 꿈에 파고들어, 그대를 위해 이런 마법 같은 무대를 만들었지……<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+아아…… 하마터면 중요한 것 하나를 깜빡할뻔했군……<br>
+그렇게 말하며 시나노는 천천히 손을 들어, 장난스럽게 손가락으로 「V」 사인을 했다.<br>
+구축함 아이들에게 배운 손짓이지…… 그대에게 기쁨을 선사할 수 있을 거라 하더군……<br>
+잠시 후, 시나노는 상자 안에서 몸을 움직이려고 했지만, 꼬리로 상자가 가득 차 있어 생각대로 움직일 수 없는 모양이었다.<br>
+아아… 상자의 크기가 생각했던 것보다 조금 작아 갑갑하군… 미안하다……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――꿈속인데 상자 크기를 조절할 수는 없는 거야?<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+요술의 묘미가 이 상자에 담겨 있기에… 섣불리 손을 대면 그대를 위해 준비한 놀라움이 망가지고 만다…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――흠…? 역시 상자에 무슨 장치가 되어 있는 건가?<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+궁금하면…… 가까이 와서 확인하지 그러나…?<br>
+무대에 올라 상자 주변을 확인해 봤지만, 이렇다 할 장치는 보이지 않았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(상자 주위에서 위화감이 느껴지지는 않아. 그렇다면… 유리 자체가 무슨 장치인 건가?)<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+대충 확인을 마친 후, 졸린 듯한 요염한 눈빛으로 내 움직임을 쫓던 시나노 앞에 섰다.<br>
+그녀와 나를 가로막고 있는 유리에 손을 얹었다.<br>
+시나노 또한 유리 너머로 살며시 손을 포개어 왔다.<br>
+따뜻한 입김으로 유리가 흐릿해졌고……<br>
+신비로운 분위기를 띤 그녀의 눈빛은 정념으로 가득했다.<br>
+장치는 찾아냈나…?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――아니, 아직…<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+후후후… 그렇다면 상자 속을 들여다 봄이 어떠한가…?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――상자 속? 장치를 찾아내야 열리는 거 아니었어?<br>
+<span style="color:#4eb24e;">{namecode:182}：</span><br>
+말을 마치자, 눈앞의 유리가 부드러운 빛의 입자가 되어 사라졌다.<br>
+그 안에 있던 시나노는 그대로 앞으로 쓰러지며, 흐르는 듯한 동작으로 섬세한 손가락을 내 손가락에 감아왔다.<br>
+얇은 천 너머로 온기와 부드러운 감촉이 전해진다.<br>
+이것이 바로 그대가 그토록 찾아 헤맨 장치……<br>
+조명이 점차 어두워졌고, 시나노는 푹신하고 복슬복슬한 꼬리로 내 몸을 부드럽게 감쌌다.<br>
+그대에게 바치는 꿈은 이제 막 시작했을 뿐이다……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=취기 어린 마음|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">나폴리：</span><br>
+지휘관, 잠깐만 누울게. 고마워……<br>
+나폴리의 부탁대로 그녀를 당구대에 눕혀 쉴 수 있도록 해주었다.<br>
+그녀는 망설이는 듯한 시선으로, 볼을 옅은 연분홍색으로 물들이고 나를 지긋이 바라보고 있다.<br>
+미안해… 지휘관에게 포커를 가르쳐 달라고 해놓고, 이런 꼴이라니……<br>
+갑자기 온 세상이 빙글빙글 도는 것 같아……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――나폴리는 술을 잘 못 마셔?<br>
+<span style="color:#4eb24e;">나폴리：</span><br>
+뭐? 술……?<br>
+나폴리는 고개를 갸우뚱하며, 곁에 놓인 유리잔을 힐끔 본다.<br>
+……이거, 술이었어?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――엥? 모르고 마신 거야?<br>
+<span style="color:#4eb24e;">나폴리：</span><br>
+응…… 예전에 비슷한 맛이 나는 음료를 마신 적이 있어서, 그건 줄 알았어……<br>
+듣고 보니 조금 생긴 게 다른 것 같기도 하네……<br>
+지휘관, 정말 미안해… 또 이렇게 폐를 끼치게 될 줄은 몰랐어…<br>
+매번 힘들게 만드는 것 같네……<br>
+<br>
+'''''<span style="color:black;">选择项1：난 괜찮아</span>'''''<br>
+'''''<span style="color:black;">选择项2：날 더 의지해줬으면 해</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――난 괜찮아. 힘들다고 생각한 적 없어.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그렇지 않아. 오히려 더 의지해줬으면 하는걸.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――애초에 힘들다고 생각한 적도 없고.<br>
+<span style="color:#4eb24e;">나폴리：</span><br>
+그렇게 말해주는 건 기쁘지만…… 이렇게 매번 지휘관한테 응석 부리면 안 되겠지……<br>
+나폴리는 당구대에 손을 대고, 억지로 몸을 일으키려고 한다.<br>
+부축하려고 손을 뻗었지만, 그러기도 전에 그대로 엎어지며 살며시 내 소매를 잡았다.<br>
+미안해, 지휘관… 아직 어지러워……<br>
+따로 할 일도 있을 텐데… 자, 어서 돌아가서 일 봐. 무리해서 같이 있어 줄 필요 없어……<br>
+나폴리의 목소리에서는 아련하게 외로움이 느껴졌다.<br>
+혼자서도 괜찮아. 여기서 조금 쉬면 괜찮아 질 거야……<br>
+그렇게 말하며 소매에서 손을 떼나 했는데, 이번에는 내 손을 살짝 움켜쥐었다. 그 손으로 서로의 온도를 나누려고 하는 것처럼.<br>
+<br>
+'''''<span style="color:black;">选择项1：같이 있을게</span>'''''<br>
+'''''<span style="color:black;">选择项2：나폴리가 걱정돼</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――여기 같이 있을게. 혼자 두려니 걱정이 돼서…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――조금 늦는 것 정도는 야근하면 괜찮아. 지금은 나폴리가 걱정이야.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그러니까 괜찮아. 같이 있어 줄게.<br>
+<span style="color:#4eb24e;">나폴리：</span><br>
+어느새 나폴리의 눈에서는 술에 취한 기색이 사라져 있었다.<br>
+긴 속눈썹을 반짝이며, 찰나의 순간에 보인 교활한 눈빛을 애써 숨겼다.<br>
+부드러운 뺨을 내 손에 대고, 마치 응석 부리는 토끼처럼 문지르는 그녀.<br>
+그러면…… 조금만 더 나랑 같이 있어 줘, 지휘관……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=카메라 OK|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+지휘관, 표정이랑 포즈는 이러면 돼? 무슨 문제라도 있으면 언제든 말해줘.<br>
+<br>
+'''''<span style="color:black;">选择项1：포즈에 대해 조언한다</span>'''''<br>
+'''''<span style="color:black;">选择项2：표정에 대해 조언한다</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――왼팔을 조금 더 아래로 내리면 화면에 잘 나올 것 같아.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――더 즐거운 느낌으로 웃어볼래?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――전체적으로 더 자연스러운 느낌을 내면 좋겠어.<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+첫 촬영을 마친 후, 나히모프는 온몸의 긴장을 풀고 기지개를 켰다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――피곤해?<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+괜찮아. 피곤한 것보다는 긴장이 많이 되더라.<br>
+그래도 지휘관이 와줘서 정말 다행이야.<br>
+아까는 혼자 하려니까 도저히 감이 안 잡혀서……<br>
+후우… 그나저나 왜 다들 이번 홍보 영상의 주인공으로 나히모프를 고른 거지?<br>
+나히모프 말고도 귀여운 애들이 많은데 말이야.<br>
+<br>
+'''''<span style="color:black;">选择项1：나히모프가 딱이야</span>'''''<br>
+'''''<span style="color:black;">选择项2：나히모프도 귀여워</span>'''''<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+아…… 고마워.<br>
+표정은 담담했지만, 나히모프는 눈을 피하며 얼굴을 가리려는 듯 뒤를 돌아봤고, 그 움직임으로 고양이 귀도 가볍게 흔들렸다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그러고 보니 다들 토끼 귀인데, 왜 나히모프만 고양이 귀야?<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+이건 관측 보조 장비지, 그냥 고양이 귀가 아니야.<br>
+뭐, 아무튼……<br>
+어울릴 것 같아서 고른 거긴 해. 지휘관 생각에도 이쪽이 더 잘 어울리는 것 같지 않아?<br>
+말투는 평소 그녀답게 차분했지만, 그와 대조적으로 뺨을 옅게 물들이고 있는 나히모프.<br>
+<br>
+'''''<span style="color:black;">选择项1：고양이 귀가 최고지</span>'''''<br>
+'''''<span style="color:black;">选择项2：뭐든 좋아.</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――뭐니 뭐니 해도 고양이 귀가 최고지. 다음에는 토끼 귀에도 도전해 봐.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――나히모프라면 뭐든 다 잘 어울릴 거야.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――뭐든 좋다고 해야 하나… 나히모프가 하고 싶은 걸 하는 게 제일이지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――어떤 모습이든 나히모프는 귀여우니까.<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+응, 알았어.<br>
+그러면……<br>
+그때, 팔에 무언가 긴 것이 감기는 느낌이 들었다.<br>
+나히모프의 「꼬리」가 구불거리며, 내 쪽으로 엉겨 붙기 시작했다.<br>
+앗?! 아, 안 돼……! 케이블이……!<br>
+아무리 기뻐도 그렇지, 마음대로 지휘관한테 엉기면 어떻게 해!<br>
+「꼬리」를 푼 후, 나히모프는 아까보다 긴장된 모습을 보이기 시작했다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(이대로 두면 다음 촬영이 어려울 것 같은데……)<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+어떻게 진정시킬지 고민하고 있는데, 나히모프가 고양이 귀를 조정하고 있는 모습이 눈에 들어왔다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그렇지!<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+왜 그래, 지휘관?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(고양이 카페에서 갈고 닦은… 궁극의 쓰담쓰담 기술을 보여줄 차례야!)<br>
+<br>
+'''''<span style="color:black;">选择项1：머리를 쓰다듬는다</span>'''''<br>
+'''''<span style="color:black;">选择项2：턱을 쓰다듬는다</span>'''''<br>
+<span style="color:#4eb24e;">아드미랄 나히모프：</span><br>
+음……<br>
+그러자 나히모프는 넋을 잃은 듯 편안한 표정으로 눈을 가늘게 뜨고는 속눈썹을 바르르 떨었다.<br>
+그렇게 한참을 쓰다듬자……<br>
+지휘관…… 냥…… 냐앙~♡<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=바니 로드의 가게 아르바이트|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">할포드：</span><br>
+친애하는 고객님… 이쪽에 앉으시면 됩니다. 식사든, 대화든, 제가 상대해 드리지요.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……응?<br>
+(고객님…? 게다가 할포드…… 원래 이런 말투였나?<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+할포드를 다시 천천히 관찰하자, 달콤하고 밝은 미소와는 대조적으로 눈동자에서 생기가 느껴지지 않는다는 것을 깨달았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(할포드의 일에 대한 집념을 생각하면… 이상한데……)<br>
+(아카시에게 협박이라도 당하는 건가?)<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+……뭘 그렇게 뚫어져라 보는 거야?<br>
+어느새 그녀는 미소를 거두고, 불만스러운 표정으로 볼을 부풀리며 나를 쳐다보고 있었다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――아니, 아카시한테 무슨 약점이라도 잡혔나 해서…… 지금 이 상황을 보면…<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+전혀 아니야! 약점 같은 거 안 잡혔어! 그냥……<br>
+할포드는 한숨을 내쉰 후, 도라 인형을 꼭 껴안고는 조금 주저하다가 말을 이어 나갔다.<br>
+일이 너무 쉬워서…… 도저히 만족이 안 돼.<br>
+「귀여운 말투」로 지휘관이랑 대화만 나누면 된다니…<br>
+고작 이런 걸로 보수를 받아도 되는 거야?<br>
+게다가 대화 상대가 지휘관이면, 일이 아니라 보상에 가깝잖아……<br>
+<br>
+'''''<span style="color:black;">选择项1：일이 아니라고 생각하면 되잖아?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그럼 그냥 일이 아니라고 생각하면 되잖아?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――나랑 잡담을 나누는 거라고 생각하면, 마음이 좀 편해지지 않을까?<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+응…… 그러면 좀 납득이 갈…지도?<br>
+아니… 그걸론 안 돼! 일은 어디까지나 일이야! 다른 거랑 뒤죽박죽으로 만들 수는 없어!<br>
+이래 봬도 진지하게 임하고 있다고!<br>
+지휘관이랑 대화하려고, 인형까지 엄선해서 열심히 연습했어!<br>
+그렇게 말하며 부끄러움을 감추려는 듯, 할포드는 안고 있던 인형을 얼굴 높이까지 들어 올렸다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――인형으로 「연습」을…? 인형들이랑도 대화할 수 있는 거야?<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+그냥 비유한 거야! 인형이 어떻게 말을 해?! 정성스럽게 단장시켜 줬다는 거지.<br>
+할포드의 『힐링의 마음가짐』 법칙 제1조, 귀여움으로 종복을 달래라…!<br>
+……어때? 귀여운 도라 인형을 보니까 힐링 되는 것 같아?<br>
+혹시 도라로 모자라면… 다른 걸 골라도 되니까 말해줘!<br>
+힐링될 때까지 마음대로 골라!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――여기 있는 건 다 고를 수 있는 거야?<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+당연하지!<br>
+<br>
+'''''<span style="color:black;">选择项1：할포드도?</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그럼 할포드로 할래. 할포드도 여기 있잖아.<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+뭐?!<br>
+할포드는 깜짝 놀라 소리를 질렀지만, 말의 의미를 이해하고는 볼을 붉히고 당혹스러운 눈빛을 띄웠다.<br>
+난 인형이 아니야! 어두운 밤바다를 질주하는 일족의 127번째 로드라고!<br>
+내 종복이라는 사람이 그것도 몰라?! 왜 그런… 그런 요청을……!<br>
+<br>
+'''''<span style="color:black;">选择项1：농담이야</span>'''''<br>
+'''''<span style="color:black;">选择项2：할포드가 그랬잖아</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――미안, 미안. 할포드가 너무 쉽다고 불안해하길래……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――어때? 조금은 마음이 편해졌어?<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭐야… 그냥 농담이었어…?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''흥! 그래도 난 진지하게 받아들일 거야!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――할포드가 아까 분명 그랬잖아?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――여기 있는 건 다 마음대로 골라도 된다고.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――다른 걸 고르라고만 했지, 인형만 골라야 한다고는 안 했잖아?<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''지휘관…… 너……<br>
+<span style="color:#4eb24e;">할포드：</span><br>
+할포드는 씩씩거리며 일어나더니, 그대로 내 무릎 위에 걸터앉았다.<br>
+부드러운 토끼 귀로 내 볼을 스치며, 새빨간 얼굴을 내 어깨에 기댔다.<br>
+고객님, 이제… 힐링이 좀 되는 것 같으세요?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=토끼 무녀의 기도문|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{playername}：</span><br>
+(최근에 승인한 가게 부지가 여긴가……?)<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+(끼익――)<br>
+희미하게 들려오는 기이한 소리가 내 신경을 잡아끌었다. 소리가 나는 방향으로 고개를 돌리자……<br>
+어머, 지휘관님? 여기는 어쩐 일로……<br>
+다리에 장식용 붉은 끈이 얽힌 채로 대좌 위에 누워 있는 다이센의 모습이 눈에 들어왔다.<br>
+다리가 조금씩 움직일 때마다 빨간 줄이 당겨져, 그 줄에 달린 장식이 흔들리며 희미한 소리를 냈다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――다이센……? 여기서 뭘……?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+아, 지휘관님께 부끄러운 모습을 보여드리고 말았네요…<br>
+새로 생긴 곳이라 조금 꾸미려고 했는데, 부주의로 이렇게……<br>
+지휘관님을 모실 수 없게 되었네요. 다이센의 불찰을 용서하시길…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――괜찮아. 그것보다 혼자서 어떻게 할 수 있는 상황이 아닌 것 같은데… 도와줄까?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+번거롭게 해드려 대단히 죄송합니다…<br>
+다이센은 「살았다」는 듯한 표정을 지었다.<br>
+지휘관님께서 와주시지 않았다면, 계속 이 끈에 엉킨 채로 있었겠지요……<br>
+다이센에게 가까이 가서야, 엉킨 정도가 생각보다 더 심각하다는 것을 깨달았다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――장식을 망가뜨리면 안 되는 거지? 그것 말고 주의해야 할 건 없어?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+괜찮아요. 장식은 애당초 다이센의 모자란 솜씨 때문에 다 흐트러져버린지라……<br>
+나중에 고치면 괜찮을 거예요.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――알았어.<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+다이센에게 얽힌 붉은 끈을 조심스레 풀기 시작했다.<br>
+오랜 시간 얽혀 있던 탓인지, 피부에는 희미하게 자국이 남겨져 있었다.<br>
+어두운 붉은 끈이 남긴 자국이 투명한 피부와 대조되어 더욱 눈에 띄었다.<br>
+지휘관님… ///<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――미안, 아팠어?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+아뇨… 오히려… 그렇게 조심해서 푸시지 않으셔도 괜찮아요.<br>
+더 대담하게 하셔도…… 다이센은 괜찮답니다.<br>
+<br>
+'''''<span style="color:black;">选择项1：그래도 신중하게 하는 편이…</span>'''''<br>
+'''''<span style="color:black;">选择项2：――다이센을 아프게 하고 싶지 않아.</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그래도 신중하게 할게. 장식을 망가뜨리는 게 아깝기도 하고…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――다이센이 정성스럽게 꾸민 건데, 그 노력을 헛되게 하고 싶지는 않아.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그리고 무엇보다 다이센을 아프게 하고 싶지는 않으니까.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''아프게 하고 싶지 않아…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――게다가 다이센이 열심히 장식한 거잖아? 그 노력을 허사로 돌릴 수는 없는 노릇이니…<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+어머…… 알겠습니다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――조금만 더 하면 돼. 다리를 조금만 더 올려줄래?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+네…… 이렇…게요?<br>
+다이센이 다리를 들어준 덕분에, 엉켜있던 끈을 겨우 모두 풀 수 있었다.<br>
+지휘관님, 정말 감사합니다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――이 정도 가지고 뭘. 그것보다 보고서에는 분명 「기도 구역」이라고 적혀 있었는데…<br>
+――왜 가게 허가를 「기도 구역」으로 신청한 거야?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+음… 아카시가 이런 「레트로한 게 요즘 유행이어서, 쥬스타그램에서 떡상」할 거라고 해서요……<br>
+첫 기도를 드릴 사람을 추첨하는 이벤트도 기획 중이라고 하던데…<br>
+뭐… 아쉽게도 그 이벤트는 실현할 수 없겠지만요♪<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그건 왜?<br>
+<span style="color:#4eb24e;">다이센：</span><br>
+장식한 다음… 다이센이 이미 첫 기도를 드려버렸거든요.<br>
+지휘관님이 늘 평안하고 만사형통하시기를… 그리고 다이센이 계속 지휘관님 곁에 있을 수 있기를…… 이렇게요♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
