@@ -268,7 +268,7 @@ Uh, there's something I'd like to talk about...<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Hm?<br>
 <br>
-Oh, it's nothing serious or anything. I was just wondering if you had an unfulfilled wish, $1.<br>
+Oh, it's nothing serious or anything. I was just wondering if you had an unfulfilled wish,{playername}.<br>
 You've been granting mine for as long as I can remember...<br>
 So I'd like to return the favor for once!<br>
 She looks very serious about this, and almost afraid of me saying no to her.<br>
@@ -310,7 +310,7 @@ TB crosses her arms, makes a peevish face, and stares at me.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 What?<br>
 <br>
-You know what I'm talking about, $1. I say I wanna do something, and you make it happen, every time.<br>
+You know what I'm talking about,{playername}. I say I wanna do something, and you make it happen, every time.<br>
 You try to make even my wildest wishes come true. If that's not spoiling me rotten then what is?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Hey, I'm just doing my duty as your guardian.<br>
