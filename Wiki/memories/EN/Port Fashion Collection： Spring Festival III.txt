@@ -1,0 +1,320 @@
+== Port Fashion Collection: Spring Festival III ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The Spring on Her Brow|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+Late at night, I open the door to Brest's room.<br>
+The lights flicker in the spring night. The smoke rising from her candles fills the air with an elegant and warm vibe.<br>
+As for Brest herself, she leans against a small desk by her bedside. With a brush in hand, she is intently painting the floral pattern between her eyebrows.<br>
+The moment she notices me, she turns and beams.<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+Welcome, O Champion. You've been a busy one today.<br>
+Why not... enjoy a moment's rest by my side?<br>
+With a gentle smile, she scoots over a bit, making room for me to sit.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Sure. I'd be happy to.<br>
+I've had a surprising amount of work today. I wanted to come see you as soon as possible, but, well...<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+Heehee. I'm just honored that you made the time to come.<br>
+I'd best get you a snack... Oh, but first, wine worthy of such a fine champion...<br>
+She sits up and elegantly pours a glass of wine.<br>
+I hear this is the Empery's finest. Please, partake.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Thank you.<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+I accept the glass and quaff it all in one go. Its bold, peppery flavor has a hint of warmth and sweetness that chases away the chill from my cold walk here.<br>
+We chat for a while, and before long, we've drunk more than our fair share. As we get tipsier, the mood becomes a little more inviting.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You know, Brest, something seems different about you today.<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+Is this what you're referring to?<br>
+She touches the delicate floral pattern on her brow. There's a hint of mischief in her eyes.<br>
+Heehee... So you do like it.<br>
+Would you like it more if I styled my hair as they do in the Dragon Empery?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Hm? Where'd that come from?<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+One quote from their poetry is, "A woman dresses herself for the one who delights her." In other words, we try to look beautiful for the one we love.<br>
+Right now, that would be an apt description for me.<br>
+She bashfully breaks eye contact and picks up her brush again.<br>
+O Champion, might I call upon you to add your touch to my floral makeup? Just like in their stories...<br>
+<br>
+'''''<span style="color:black;">选择项1：I'd be honored.</span>'''''<br>
+'''''<span style="color:black;">选择项2：I've never done it before...</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Sure. Allow me.<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh, a worthy champion...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Please, allow me to help you. We'll do it together...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''I don't mind, but I've never done it. I'd feel bad if I ruined your pretty makeup.<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Don't worry. I'll be helping you.<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+She gives me the brush and wraps her warm hand around mine.<br>
+Following her guidance, I gingerly place the tip on her brow.<br>
+Our eyes lock, and we're close enough to feel each other's breath. The spring night air is still cold, but it only makes the warmth between us more intense.<br>
+O Champion, please come closer. There's something more I want to show you...<br>
+With each stroke, I can feel her breath quickening against my cheek.<br>
+The way you paint my face now reminds me of lovers in old folktales...<br>
+After the last stroke, I gaze into her eyes.<br>
+How I wish to capture this fleeting spring night with zither and poetry, just like they did.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Brest...<br>
+<span style="color:#4eb24e;">Brest：</span><br>
+...Shall we put out the candles for now, O Champion?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Night Walk Home|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+I walk home with Kearsarge after the New Year's party.<br>
+It's late at night already, but the streets of the port remain bright and festive.<br>
+Kearsarge's expression is as flat as usual, but there's a shine of satisfaction in her eyes.<br>
+Today's data collection was fruitful, Commander.<br>
+I logged an ample amount of data on both dumpling recipes and fascinating examples of interpersonal communication.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Glad you had fun at the banquet.<br>
+You know, you look absolutely gorgeous in that attire.<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+When I bring up her outfit, she looks down at it and smiles with a hint of pride.<br>
+Well observed. While it is less mobile than my usual suit...<br>
+I found that, upon analysis and comparison of your preferences, this would be the most appropriate attire for the event.<br>
+She looks up into my eyes.<br>
+Analysis: You seem to agree.<br>
+After speaking, Kearsarge suddenly stops in her tracks.<br>
+Oh, Commander. Please wait for a moment.<br>
+I need to readjust the fit of my footwear... My mastery of it is still lacking.<br>
+Since one hand is taken up by her handbag, Kearsarge tries adjusting her shoes with the other. She wasn't kidding – she's struggling a lot.<br>
+<br>
+'''''<span style="color:black;">选择项1：Want some help?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Let's find a place for you to sit down.</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Do you need me to help?<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''That would be a poor use of your valuable time...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You just seem like you're having trouble alone.<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''...Okay.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Suggestion: May I lean on you? It will be over soon.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Let's find a place to sit down. It'll be easier that way.<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''It's fine. I can do it here.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Besides, I would not want to interrupt our walk...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Let me help then.<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Thank you, Commander. I'd like it if you could prop me up for just a moment.<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+I take her hand, and she starts to lean on me.<br>
+Not just logging and analysis... but the warmth of being with you... I want...<br>
+She murmurs to herself.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Hmm? Did you say something?<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+Nothing. I was simply analyzing the data I collected today.<br>
+Even after fixing her shoes, she doesn't let go of my hand.<br>
+We walk on, hand in hand, and discuss the dinner we just had.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Say, do you have any wishes for the new year?<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+New Year's wishes? Mine is as follows: I wish to log more data of you and get to know you better. This answer should be within your expectations.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Yeah. That does sound like you.<br>
+But isn't there anything you want for yourself?<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+For... myself?<br>
+She falls into deep thought for a moment. When she finally looks up, there's a newfound sparkle in her eyes.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Did you come up with something?<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+She nods... and then, for some reason, shakes her head.<br>
+I've conceived of a wish, but I do not yet fully comprehend it.<br>
+At this time, my wish is to forever preserve the warm feeling and happiness of being with you...<br>
+I feel a weight on my shoulder. Turning my head, I see Kearsarge leaning against me.<br>
+Her breathing is soft and there's a faint smile on her lips. She must be happy about this new wish she's found.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Happy New Year, Kearsarge.<br>
+I hope all of your wishes come true.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Blessed Bonds|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+On the night before the festival, during my tour around the port, I hear a sudden commotion from a nearby building.<br>
+Curiosity compels me to check.<br>
+As I push open the half-closed door, what I find leaves me dazed.<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+It's Nagato. She's wearing a traditional Dragon Empery dress, and her hair spills onto the table she's sitting on...<br>
+Her arms are bound behind her head with red string, leaving her almost unable to move.<br>
+C-Commander? What are you doing here...<br>
+When she sees me, her face flushes.<br>
+I-I simply wanted to help everyone prepare for the festivities...<br>
+But I can't... untie this damn string...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Nagato?<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+I can kind of imagine what she was trying to do, but I can't help but tease her a little.<br>
+Th-this is...<br>
+Well, I was planning to use the red string to make a good luck decoration for you...<br>
+If only I knew it would lead to this embarrassment...<br>
+She flails her arms and legs about, but her efforts don't loosen the string.<br>
+Commander? Are you going to help me?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Help her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Suggest cutting the string.)</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I'll help you untie it.<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Mgh... Thank you.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Should I look for scissors?<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Urk... I'd rather not cut it, if possible...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Oh, right. You wanted to make it a decoration...<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yes...<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+I squat down and start untying the string wrapped around her.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Hmm... Do we start with the legs or the arms?<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+Nagato turns her face away in embarrassment, doing her best not to watch me untie her.<br>
+I... I want to be part of the ceremony and offer my blessings to you and everyone else...<br>
+But no matter how many times I tried to fix it, the string just got tighter and more tangled.<br>
+In a bid to dispel the awkward silence, she starts muttering quietly.<br>
+Despite my attempts to free her, it doesn't take long before I realize my hands have ended up entangled with her legs.<br>
+They say this red string not only brings fortune but also attracts predestined lovers.<br>
+I suppose... the two of us are bound by the red string of fate, then...<br>
+Ah...! G-goodness, what am I saying?!<br>
+I look up at her face. She's beet red.<br>
+She struggles and writhes more out of shame, but it only makes things worse, tangling the string around us even more.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Don't move, Nagato! Let's take it slow and steady.<br>
+<span style="color:#4eb24e;">Nagato：</span><br>
+Aah... I just...<br>
+After much effort, I manage to untie her ankles. As I stand up to free her arms too, however...<br>
+Y-your hands are quite warm...<br>
+She quivers and flushes again.<br>
+With each knot I untie, the distance between us shrinks even more.<br>
+Nagato looks up at me, her eyes brimming with shyness and, strikingly, a trace of expectancy.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Dressed for Just Tonight|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+I open the door to Chien Wu's room, where she's hard at work adjusting her dress.<br>
+She notices my arrival, turns around, and grins slightly.<br>
+You're here quite early. That excited to see my outfit?<br>
+Heh. That look on your face tells me that you see the value of my design. Your fashion sense isn't half bad.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You put a lot of work into this.<br>
+As always, your design is more than stunning.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+Chien Wu gives a slight grin at my praise, but she remains fully focused on the dress.<br>
+There's still some time. Let's set out once I've finished these details...<br>
+Seemingly to check the fit, she gathers the fabric at her chest and then lifts the dress slightly.<br>
+The dress hugs her figure, highlighting a charming and elegant silhouette.<br>
+She turns to the side, contemplating herself in the mirror. She then starts adjusting the button and strap positioning...<br>
+Just then, she seems to remember something and gazes at me.<br>
+You're free, aren't you? Don't just stand there, come help me.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Offer tea.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Offer to help her adjust the dress.)</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Want me to brew you some tea, or something?<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''She nods, accepting my offer.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hm? Want me to help you with the dress?<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''I appreciate the offer, but no, I'd like to perfect my own work with my own hands.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''That said, since you're offering, why not brew me some tea?<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+Thus, I bring her a cup of freshly brewed tea. She savors it in an elegant manner.<br>
+If you don't mind my asking, which of these perfumes do you think is the best for tonight?<br>
+She produces several bottles of perfume as if by sleight of hand and has me pick one.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Hmm... This one left the deepest impression, I think. It seems perfect for such a special occasion.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+I see. It does match this outfit, too... Then I'll choose this one.<br>
+She happily accepts my suggestion and then looks at my clothes.<br>
+Your tuxedo looks a bit plain here. How about I go get some accessories to jazz it up?<br>
+She takes out an elaborate jewelry case, but there are so many inside that I struggle to decide which ones to choose.<br>
+When I look to her for advice, my eyes stop on her delicate brooch.<br>
+She follows my gaze down to the brooch and grins in understanding.<br>
+Oh, I see. So you like this one?<br>
+Good taste. I happen to have some materials left over, so I'll make you one to match.<br>
+With that, she takes out her tools and begins working with swift, deft movements.<br>
+Before long, she's made a beautiful brooch matching the one on her chest.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+What attention to detail...<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+Of course. We're going together, after all.<br>
+I'm paying more attention to ensuring it complements your attire and that we match, rather than trying to just draw attention.<br>
+After helping me adjust a few details, Chien Wu looks at our outfits with satisfaction, checks herself in the mirror once more, and then finally beams.<br>
+It's almost time. Let's be off.<br>
+We don't want to miss the opening of the banquet.<br>
+With that, we walk out of the room and head to the main hall together.<br>
+The subtle scent of perfume drifting from beside me adds an extra touch of magic to this wonderful night.<br>
+<br>
+After the banquet, we go back to her room.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+Chien Wu puts a hand on the door frame to support herself as she prepares to take off her heels. I see traces of exhaustion on her face.<br>
+I'm done with work, so I plan to relax tomorrow...<br>
+If you don't have any plans, why not stay with me?<br>
+I'm given no time to consider the sudden offer before she takes off my tuxedo.<br>
+You've been wearing that all night. Surely it feels stuffy by now.<br>
+Then, she leans in close and sniffs me.<br>
+I smell my perfume on you... Maybe I stayed a little too close to you during the banquet?<br>
+She giggles and touches my collarbone.<br>
+Commander, you feel a little hot... Is it all about the alcohol? Or something else? ♥<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Could be anything.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+I put on high heels and sacrificed comfort for the look tonight. Standing around for extended periods is pretty tiring...<br>
+Fatigue lingers in her voice, but there's an obvious hint of flirtation.<br>
+Don't just stand there. Help me out...<br>
+When I unconsciously reach for her shoes, she acts surprised for a moment.<br>
+I meant support me, silly.<br>
+What? You want to take my shoes off for me?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Oh, that's what you meant...<br>
+<br>
+'''''<span style="color:black;">选择项1：(Support her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Take her shoes off.)</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay, okay. I'll help you balance.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I give her my shoulder, and she leans on me.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I was hoping you'd be more assertive, but you're still so slow to act...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''She chuckles and looks up at me, a mischievous glint in her eyes.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''I mean, may I?<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Either amused... or stunned, she doesn't pull her leg away.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Heehee... Sure. Do what you want.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''She then looks up at me, a mischievous glint in her eyes.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+Since you're free, Commander, why not give me a massage...?<br>
+You're already trying to touch me, after all.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Sure. I'd be happy to.<br>
+<span style="color:#4eb24e;">Chien Wu：</span><br>
+I nod and prepare to massage her feet.<br>
+She rests her hand on the door frame, her expression relaxed and at ease.<br>
+You want to peel off my stockings?<br>
+Ah, you and your tedious ideas... Fine, come here ♥<br>
+I gingerly pinch the edge of her stockings and pull them down.<br>
+The silk texture has a soft sheen under the light, making her ankles appear even more delicate and slender as I slowly slip them off.<br>
+*sigh*... Honestly, we don't often get to spend time together like this...<br>
+Ah, that spot tickles... Eep?!<br>
+She pulls her foot away to escape my hands, nearly losing her balance in the process.<br>
+As I manage to catch her just in time, I accidentally step on the train of her dress.<br>
+That's not good. Yes, I suppose keeping this dress on might be inconvenient later...<br>
+She pauses for a moment and then smiles meaningfully.<br>
+Heehee... Look at you. What were you just imagining?<br>
+Is there something special you want to... do during this rare time together?<br>
+If you can please me... then yes, I might just be willing to do it. ♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
