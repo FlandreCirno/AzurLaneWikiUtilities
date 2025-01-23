@@ -230,7 +230,7 @@ Why'd ya hesitate? "Unique" is all you've got? You think I'm dumb, huh?!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Hmph! It's 'cause of all that stick-in-the-mud thinking that everything's so lame around here!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Art is about breaking the rules! And I'm gonna break 'em by styling up every wall in this whole town!<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Ooh, that's one way of messing with people... Thanks for the tip. $1 I'd be on my guard from now on if I were you ♪<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Ooh, that's one way of messing with people... Thanks for the tip. {tb} I'd be on my guard from now on if I were you ♪<br>
 <span style="color:#4eb24e;">Svirepy：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Hey, I'm not doing this to mess with people! This is ART, like I said!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Besides, s-seeing this art ought to, like, lift the Commander's spirits!<br>
@@ -242,7 +242,7 @@ Why'd ya hesitate? "Unique" is all you've got? You think I'm dumb, huh?!<br>
 '''''<span style="color:black;">（选择项2）</span>'''''Of course it is! That's my signature style!<br>
 '''''<span style="color:black;">（选择项2）</span>'''''If ya want some pointers, I can give ya a few. N-not that I'm eager to teach someone or nothin'!<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Come on, you're fooling nobody. Anyone can see you're craving approval. Am I right, $1?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Come on, you're fooling nobody. Anyone can see you're craving approval. Am I right, {tb}?<br>
 <span style="color:#4eb24e;">Svirepy：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Hey, shut up!<br>
 <br>
@@ -306,7 +306,7 @@ On our way home, Navi seemed to think deeply and gained some inspiration.<br>
 
 {{折叠面板|标题=A Small Wish 2|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Navi：</span><br>
-Hey, $1, look at that girl. She's just standing there with her stuffed animal. Do you think something's on her mind?<br>
+Hey, {tb}, look at that girl. She's just standing there with her stuffed animal. Do you think something's on her mind?<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 Let's talk to her and find out.<br>
 <span style="color:#4eb24e;">Navi：</span><br>
@@ -384,7 +384,7 @@ For me, writing is something to be approached with pride, you see.<br>
 <span style="color:#4eb24e;">Hai Tien：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Exactly. You must have moments you want to write about, too, don't you?<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Hmm... Yeah, I guess I do wanna write about the things $1 and I see together.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hmm... Yeah, I guess I do wanna write about the things {tb} and I see together.<br>
 <span style="color:#4eb24e;">Hai Tien：</span><br>
 Ah, I just remembered there's a lovely café not far from here.<br>
 "Fragrant tea in the afternoon light, sipped with tender delight." Well, it's coffee in this case, but what say you we continue our chat there?<br>
@@ -464,7 +464,7 @@ Heehee. Since you're already here, why don't you have a taste? This cake is only
 I should say it comes at a rather hefty "price," however.<br>
 Alas, that's the consequence of being as naughty as you are, Commander.<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-You really like teasing $1, huh...<br>
+You really like teasing {tb}, huh...<br>
 <br>
 '''''<span style="color:black;">选择项1：(Ask her what she means by "price.")</span>'''''<br>
 '''''<span style="color:black;">选择项2：(Reject her offer of cake.)</span>'''''<br>
@@ -478,7 +478,7 @@ You really like teasing $1, huh...<br>
 <span style="color:#4eb24e;">Jade：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Don't worry, I'm a good girl. I wouldn't ask anything totally outrageous of you... Probably. Heehee ♪<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Wow, she really pushes the envelope when talking with $1...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Wow, she really pushes the envelope when talking with {tb}...<br>
 <br>
 '''''<span style="color:black;">（选择项2）</span>'''''After thinking about it for a while, I decide to reject her offer.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -492,7 +492,7 @@ You really like teasing $1, huh...<br>
 <span style="color:#4eb24e;">Jade：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''Because I'm a good girl? Indulging a good girl's request is the most natural thing on the planet.<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Wait...? You can just force requests on $1 like this?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Wait...? You can just force requests on {tb} like this?<br>
 <span style="color:#4eb24e;">Jade：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''I sure can!<br>
 <span style="color:#4eb24e;">Jade：</span><br>
@@ -562,7 +562,7 @@ Would you like to be the first to try it? It's made with a special recipe that c
 <br>
 Faced with the spine-chillingly red dessert, I find myself hesitating.<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-$1... I dunno about this...<br>
+{tb}... I dunno about this...<br>
 <span style="color:#4eb24e;">Roon：</span><br>
 Heehee. What's the matter?<br>
 I sincerely want to make you feel better, that's all...<br>
@@ -597,7 +597,7 @@ While Roon's expression remains as gentle as always, the mood around her suddenl
 <span style="color:#4eb24e;">Roon：</span><br>
 I'll see you another time, Commander. I'll have lots of delicious desserts ready for you by then.<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-Uhh... I'll come with $1 next time!<br>
+Uhh... I'll come with {tb} next time!<br>
 <span style="color:#4eb24e;">Roon：</span><br>
 Of course. Heehee. You're always welcome.<br>
 <br>
