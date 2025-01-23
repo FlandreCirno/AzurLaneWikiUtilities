@@ -1,0 +1,608 @@
+== Shipgirl Interactions ==
+{{折叠面板|开始}}
+{{折叠面板|标题=A Small Wish 1|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Unicorn：</span><br>
+Oh, big brother! And Navi, too.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hey, look at that, dweeb. This girl's just standing there with her stuffed animal, doing nothing. What's up with that?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask Unicorn.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is something on your mind, Unicorn?<br>
+What are you doing out here, anyway? Is there something you wanted to do?<br>
+<br>
+Unicorn nods a little, then shakes her head.<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+I wanted to help you two out...<br>
+Everyone else is working really hard, and I want to be useful, too!<br>
+But when I got here, I had no idea what to do, so I've just been standing here and thinking...<br>
+<br>
+'''''<span style="color:black;">选择项1：(Tell her the thought is good enough.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Tell her you're glad that she's here.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(Tell her the thought is good enough.)<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(Tell her you're glad that she's here.)<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+Um... Hearing you say that makes me happy.<br>
+Yuni says he's happy, too.<br>
+<br>
+Unicorn smiles brightly.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Huh. So you don't have to try so hard for this dweeb to approve of you.<br>
+N-not that I care about anyone's approval!<br>
+I was just thinking that maybe, at times, it wouldn't be so bad to have someone pay a little extra attention to me...<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+Umm... Big brother, thank you for encouraging me.<br>
+I should probably go now. I'll think some more about what I can do to help!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Take care.<br>
+<br>
+I give Unicorn a gentle pat on the head, then leave with Navi.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Graced by Literature 1|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Seeing Navi and I approaching, Hai Tien quickly puts away her pen and paper.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hmm? Writing something you don't want us to see, huh?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ahem... The scenery here inspired me to start writing the opening of my next piece.<br>
+"Lonesome she stands, the petals around her swirl; two swallows take wing, into a softly raining world." Faced with such a beautiful sight, I can scarcely rest my pen-hand.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Tsk... I hate when people get all poetic. It'd be faster just to show me what you wrote!<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+It's not finished yet! I mean... This plainly penned idea of mine still needs to be refined.<br>
+You won't miss your chance to read it once it's properly finished.<br>
+For me, writing is something to be approached with pride, you see.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Explain that it takes time to write.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Elaborate on how writing takes experience.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''She's right, Navi. You have to consider every word carefully, and it takes time to polish your writing.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Precisely. To paraphrase a saying: "If you wish to see further, you must first climb higher."<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Becoming a good writer is much like ascending a great mountain – it happens one step at a time.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmph! Quit sounding like you know everything! If you're so smart, let's see what you've got!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Well said. To become a good writer, you should not only read widely but also experience the world's magnificence first-hand.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Indeed. As they say: "A book can teach you many things, but you will grasp none of them without practice."<br>
+'''''<span style="color:black;">（选择项2）</span>'''''The scenery around us, the events of life – they are the material that fuels writing.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''It is for this very reason that I always carry a notebook with me.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hmph. At the end of the day, you're just scribbling things down. What's so fun about that?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''It's so much more than that. You must have moments you want to write about, too, don't you?<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''N-no, not really. I have little thoughts sometimes, but that's different.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ah, I just remembered there's a lovely café not far from here.<br>
+"Fragrant tea in the afternoon light, sipped with tender delight." Well, it's coffee in this case, but what say you we continue our chat there?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Good idea. Let's go.<br>
+<br>
+The three of us then went to the café and enjoyed a relaxing time together.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Heartwarming Moment 1|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Anchorage：</span><br>
+Teacher... and Navi... You're here!<br>
+<br>
+Now aware of our arrival, Anchorage gets up and excitedly hops over to us.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+Teacher, look! I learned... a new origami fold!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hmph. I can't believe this dweeb is into kiddy stuff like playing with paper.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+No... Not playing! Anchorage worked hard on it... It took effort...<br>
+These are gifts! For... you... and Teacher!<br>
+I'm going to give them... to you!<br>
+But... Not done yet. I haven't finished all of them...<br>
+<br>
+Anchorage looks despondent.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Suggest folding the rest together with her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Praise her for her hard work.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''How about we finish the rest of them together?<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''No... I'll do my best! On my own!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Come on, let's do it together. It'll be more fun, and you've already shown how nice you are.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Are you... sure?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay, Teacher... Together!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Seriously? Ugh, fine. Just for a little while then!<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay! Navi, you help! Anchorage can teach you how!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''The three of us sit down, and Anchorage starts showing Navi how to fold the paper.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''First you do this... Then this... And then this...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Wooow! Navi, you're amazing!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmph. This is way too easy. I knew what to do after just one look!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Despite her bragging, the compliment clearly got to her – there's the faintest hint of a smile on her face.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You'll give them to us? Aww, you're so nice.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Heehee... Teacher... nice to me!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''So Anchorage... wants to make you both happy!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'll be fast... Wait just a minute, Teacher!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Of course.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Anchorage sits back down and starts folding paper again.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sometime later, she hands both me and Navi a paper creation.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Done! For you, Teacher... A boat!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And for Navi, a star!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hmm. I have to admit it's pretty well made...<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Anchorage worked super-duper hard on it! Heehee!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Th-thanks...<br>
+<br>
+And so, the three of us spent a heartwarming afternoon together.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A "Good Girl's" Request 1|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Jade：</span><br>
+Oh, looks like the Commander and Navi have spotted me!<br>
+Let me make this clear – as a good girl, I came here to help. I'm not slacking on the job. Understood?<br>
+I simply felt like having some afternoon tea and enjoying the mood in this place.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+You have a lot of run-ins with devious types like this one, don't you, dweeb?<br>
+Gotta say, though, I like her tone. I might just copy it.<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+Heehee. Since you're already here, why don't you have a taste? This cake is only available for a limited time, for your information.<br>
+I should say it comes at a rather hefty "price," however.<br>
+Alas, that's the consequence of being as naughty as you are, Commander.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Reeling them in with a dessert, then demanding a favor... Devilish.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask her what she means by "price.")</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Reject her offer of cake.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay, so what is the "price" in question?<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmm. Yes, what is the price, indeed...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I know – why not sit with me here for a while longer? Or perhaps you could entertain a request of mine?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Depends on the request.<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Don't worry, I'm a good girl. I wouldn't ask anything totally outrageous of you... Probably. Heehee ♪<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Is this all it takes to get you on the hook, dweeb?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Seriously, though, don't take the bait. I'm saying this for your sake.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''After thinking about it for a while, I decide to reject her offer.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'm not in a dessert mood today.<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''A pity. I really wanted you to taste it.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''In that case, maybe I should offer you something else next time, hmm?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''In exchange, you must grant me any request I make of you ♪<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And why would I agree to that?<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Because I'm a good girl? Indulging a good girl's request is the most natural thing on the planet.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You can just brute-force your way through like that, huh? Neat.<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+Well, now I've finished my work for today ♪<br>
+I'm sure you picked up many practical things and had your share of amusement, Navi.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hmm... So that's one way to get under this dweeb's skin...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+......<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+Now, however, I must take my leave. Should we cross paths again, Commander, kindly don't forget my compensation.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Bargaining right as you leave... Heheh. I'll make a note of that.<br>
+<br>
+After bidding farewell to Jade, Navi and I leave.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Artistic Statement 1|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Svirepy：</span><br>
+Hah! You've found the graffiti master at work.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What are you drawing?<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+I'm making art to revitalize this dull-ass town!<br>
+Whaddya think? This is some real art of rebellion!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+That sure is a... unique drawing.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+Why'd ya hesitate? "Unique" is all you've got? You think I'm dumb, huh?!<br>
+<br>
+'''''<span style="color:black;">选择项1：(Lecture her on leaving graffiti all over the place.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Compliment her artistic talent.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hey now, you can't just spray-paint wherever you want.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmph! It's 'cause of all that stick-in-the-mud thinking that everything's so lame around here!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Art is about breaking the rules! And I'm gonna break 'em by styling up every wall in this whole town!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Ooh, that's one way of messing with people... Thanks for the tip. $1 I'd be on my guard from now on if I were you ♪<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hey, I'm not doing this to mess with people! This is ART, like I said!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Besides, s-seeing this art ought to, like, lift the Commander's spirits!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Svirepy's tone suddenly changes from confrontational to stuttering.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''This looks amazing, Svirepy! The composition is so unique and eye-catching!<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Of course it is! That's my signature style!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''If ya want some pointers, I can give ya a few. N-not that I'm eager to teach someone or nothin'!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Come on, you're fooling nobody. Anyone can see you're craving approval. Am I right, $1?<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hey, shut up!<br>
+<br>
+I crack a stiff smile and pat them both on the head.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright, let's dive into the world of art today.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+Sweet!<br>
+<br>
+After that, we spent some time with Svirepy, allowing our creativity to run wild.<br>
+On our way home, Navi seemed to have gained some inspiration.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Unique "Recipe" 1|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Roon：</span><br>
+Ah, Commander and Navi, excellent timing. I'm in the middle of creating a new dessert.<br>
+Would you like to be the first to try it? It's made with a special recipe that can soothe your soul.<br>
+<br>
+Faced with the spine-chillingly red dessert, I find myself hesitating.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hmph. Knowing you, dweeb, you'll fall for this no matter what.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+"Fall for this"? That's not a very nice choice of words.<br>
+I sincerely want to make you feel better, that's all...<br>
+And... I'm quite curious to see your reaction when you taste it. Nothing wrong with that, right?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Accept her offer.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Politely turn her down.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Well, it'd be a shame for it to go waste, so I'll try it.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Great! Please be sure to chew it well and savor every last bite.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Ahh... Watching you enjoy my dessert one bite at a time – it's so wonderful ♪<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Wow, I didn't know it was fair game to treat you like a moron, dweeb!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sorry, but it'll have to be another time. I still have some errands to run right now.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''That's unfortunate. I'd hoped to see how you reacted...<br>
+'''''<span style="color:black;">（选择项2）</span>'''''It's alright, though. I'll prepare many more soothing surprises for the next time.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''A rare moment of clarity from the dweeb! Color me surprised ♪<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+Heehee. Navi, you care quite a lot about the Commander, don't you?<br>
+However, I must ask you to refrain from ruining our next... soothing time together.<br>
+Otherwise, my subsequent soothing recipe might be made just for you ♪<br>
+<br>
+While Roon's expression remains as gentle as always, the mood around her suddenly feels a bit tense.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Yikes... Dweeb, watch yourself, alright?<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+I'll see you another time, Commander. I'll have lots of delicious desserts ready for you by then.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hmph, don't even think about shaking me off! I'll come along.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+Of course. Heehee. You're always welcome.<br>
+<br>
+I bid farewell to Roon and leave with Navi.<br>
+On our way home, Navi seemed to think deeply and gained some inspiration.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Small Wish 2|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Navi：</span><br>
+Hey, $1, look at that girl. She's just standing there with her stuffed animal. Do you think something's on her mind?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Let's talk to her and find out.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Sure!<br>
+<br>
+Hearing us approaching, Unicorn lifts her head.<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+Oh, big brother! And Navi, too.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask Unicorn what's up.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is something on your mind, Unicorn?<br>
+What are you doing out here, anyway? Is there something you wanted to do?<br>
+<br>
+Unicorn nods a little, then shakes her head.<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+I wanted to help you two out...<br>
+Everyone else is working really hard, and I want to be useful, too!<br>
+But when I got here, I had no idea what to do, so I've just been standing here and thinking...<br>
+<br>
+'''''<span style="color:black;">选择项1：(Tell her the thought is good enough.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Tell her you're glad that she's here.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''(Tell her the thought is good enough.)<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(Tell her you're glad that she's here.)<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+Um... Hearing you say that makes me happy.<br>
+Yuni says he's happy, too.<br>
+<br>
+Unicorn smiles brightly.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+I get it... Just wanting to help is good enough.<br>
+<span style="color:#4eb24e;">Unicorn：</span><br>
+Umm... Big brother, thank you for encouraging me.<br>
+I should probably go now. I'll think some more about what I can do to help!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Take care.<br>
+<br>
+I give Unicorn a gentle pat on the head, then leave with Navi.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Graced by Literature 2|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Seeing Navi and I approaching, Hai Tien quickly puts away her pen and paper.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Hmm? What are you writing?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ahem... The scenery here inspired me to start writing the opening of my next piece.<br>
+"Lonesome she stands, the petals around her swirl; two swallows take wing, into a softly raining world." Faced with such a beautiful sight, I can scarcely rest my pen-hand.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Yeah, it is pretty beautiful... Can I see what you wrote?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+It's not finished yet! I mean... This plainly penned idea of mine still needs to be refined.<br>
+You won't miss your chance to read it once it's properly finished.<br>
+For me, writing is something to be approached with pride, you see.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Explain that it takes time to write.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Elaborate on how writing takes experience.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''She's right, Navi. You have to consider every word carefully, and it takes time to polish your writing.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Precisely. To paraphrase a saying: "If you wish to see further, you must first climb higher."<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Becoming a good writer is much like ascending a great mountain – it happens one step at a time.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I had no idea writing took so much effort... I can see why you'd focus on the wording of every single sentence.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Well said. To become a good writer, you should not only read widely but also experience the world's magnificence first-hand.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Indeed. As they say: "A book can teach you many things, but you will grasp none of them without practice."<br>
+'''''<span style="color:black;">（选择项2）</span>'''''The scenery around us, the events of life – they are the material that fuels writing.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''It is for this very reason that I always carry a notebook with me.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''I see. Basically, everyday things have the potential to become stories, right?<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Exactly. You must have moments you want to write about, too, don't you?<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Hmm... Yeah, I guess I do wanna write about the things $1 and I see together.<br>
+<span style="color:#4eb24e;">Hai Tien：</span><br>
+Ah, I just remembered there's a lovely café not far from here.<br>
+"Fragrant tea in the afternoon light, sipped with tender delight." Well, it's coffee in this case, but what say you we continue our chat there?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Good idea. Let's go.<br>
+<br>
+The three of us then went to the café and enjoyed a relaxing time together.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Heartwarming Moment 2|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Anchorage：</span><br>
+Teacher... and Navi... You're here!<br>
+<br>
+Now aware of our arrival, Anchorage gets up and excitedly hops over to us.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+Teacher, look! I learned... a new origami fold!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Oh, you're playing with paper?<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+No... Not playing! I worked hard on it... It took effort...<br>
+These are gifts! For... you... and Teacher!<br>
+I'm going to give them... to you!<br>
+But... Not done yet. I haven't finished all of them...<br>
+<br>
+Anchorage looks despondent.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Suggest folding the rest together with her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Praise her for her hard work.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''How about we finish the rest of them together?<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''No... I'll do my best! On my own!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Come on, let's do it together. It'll be more fun, and you've already shown how nice you are.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Are you... sure?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay, Teacher... Together!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I'll help out, too. How are you supposed to fold it?<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay! Navi, you help! Anchorage can teach you how!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''The three of us sit down, and Anchorage starts showing Navi how to fold the paper.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''First you do this... Then this... And then this...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Wooow! Navi, you're amazing!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''It's all thanks to you teaching me how to do it.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You'll give them to us? Aww, you're so nice.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Heehee... Teacher... nice to me!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''So Anchorage... wants to make you both happy!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'll be fast... Wait just a minute, Teacher!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Of course.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Anchorage sits back down and starts folding paper again.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sometime later, she hands both me and Navi a paper creation.<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Done! For you, Teacher... A boat!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And for Navi, a star!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''For me? It's so pretty!<br>
+<span style="color:#4eb24e;">Anchorage：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Anchorage worked super-duper hard on it! Heehee!<br>
+<br>
+And so, the three of us spent a heartwarming afternoon together.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A "Good Girl's" Request 2|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Jade：</span><br>
+Oh, looks like the Commander and Navi have spotted me!<br>
+Let me make this clear – as a good girl, I came here to help. I'm not slacking on the job. Understood?<br>
+I simply felt like having some afternoon tea and enjoying the mood in this place.<br>
+Heehee. Since you're already here, why don't you have a taste? This cake is only available for a limited time, for your information.<br>
+I should say it comes at a rather hefty "price," however.<br>
+Alas, that's the consequence of being as naughty as you are, Commander.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+You really like teasing $1, huh...<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask her what she means by "price.")</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Reject her offer of cake.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Okay, so what is the "price" in question?<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmm. Yes, what is the price, indeed...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I know – why not sit with me here for a while longer? Or perhaps you could entertain a request of mine?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Depends on the request.<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Don't worry, I'm a good girl. I wouldn't ask anything totally outrageous of you... Probably. Heehee ♪<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Wow, she really pushes the envelope when talking with $1...<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''After thinking about it for a while, I decide to reject her offer.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I'm not in a dessert mood today.<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''A pity. I really wanted you to taste it.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''In that case, maybe I should offer you something else next time, hmm?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''In exchange, you must grant me any request I make of you ♪<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And why would I agree to that?<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Because I'm a good girl? Indulging a good girl's request is the most natural thing on the planet.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Wait...? You can just force requests on $1 like this?<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''I sure can!<br>
+<span style="color:#4eb24e;">Jade：</span><br>
+Well, now I've finished my work for today ♪<br>
+I'm sure you picked up many practical things and had your share of amusement, Navi.<br>
+Now, however, I must take my leave. Should we cross paths again, Commander, kindly don't forget my compensation.<br>
+<br>
+I see Jade off, and Navi still seems to be deep in thought about something.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's up, Navi?<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Ahh? It's nothing.<br>
+I was just... impressed with Jade's way of doing things.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Artistic Statement 2|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Svirepy：</span><br>
+Hah! You've found the graffiti master at work.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What are you drawing?<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+I'm making art to revitalize this dull-ass town!<br>
+Whaddya think? This is some real art of rebellion!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+That sure is a... unique drawing.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+Why'd ya hesitate? "Unique" is all you've got? You think I'm dumb, huh?!<br>
+<br>
+'''''<span style="color:black;">选择项1：(Lecture her on leaving graffiti all over the place.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Compliment her artistic talent.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hey now, you can't just spray-paint wherever you want.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hmph! It's 'cause of all that stick-in-the-mud thinking that everything's so lame around here!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Art is about breaking the rules! And I'm gonna break 'em by styling up every wall in this whole town!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Look, $1, these colors indeed complement each other well.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Come on! This is real ART, like I said!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Besides, s-seeing this art ought to, like, lift the Commander's spirits!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Svirepy's tone suddenly changes from confrontational to stuttering.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''This looks amazing, Svirepy! The composition is so unique and eye-catching!<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Of course it is! That's my signature style!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''If ya want some pointers, I can give ya a few. N-not that I'm eager to teach someone or nothin'!<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''What do you think, $1? It sounds quite interesting. Svirepy seems keen on the idea, too.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You... Hey!<br>
+<br>
+I crack a stiff smile and pat them both on the head.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright, let's dive into the world of art today.<br>
+<span style="color:#4eb24e;">Svirepy：</span><br>
+Sweet!<br>
+<br>
+After that, we spent some time with Svirepy, allowing our creativity to run wild.<br>
+On our way home, Navi seemed to have gained some inspiration.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Unique "Recipe" 2|选项=12|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Roon：</span><br>
+Ah, Commander and Navi, excellent timing. I'm in the middle of creating a new dessert.<br>
+Would you like to be the first to try it? It's made with a special recipe that can soothe your soul.<br>
+<br>
+Faced with the spine-chillingly red dessert, I find myself hesitating.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+$1... I dunno about this...<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+Heehee. What's the matter?<br>
+I sincerely want to make you feel better, that's all...<br>
+And... I'm quite curious to see your reaction when you taste it. Nothing wrong with that, right?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Accept her offer.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Politely turn her down.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Well, it'd be a shame for it to go waste, so I'll try it.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Great! Please be sure to chew it well and savor every last bite.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Roon stares at me with bated breath, while Navi looks on with concern. Between the two of them, I put some of the questionably colored dessert in my mouth.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Ahh... Watching you enjoy my dessert one bite at a time – it's so wonderful ♪<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''......<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sorry, but it'll have to be another time. I still have some errands to run right now.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Y-yeah, exactly! We've got things to get back to.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''That's unfortunate. I'd hoped to see how you reacted...<br>
+'''''<span style="color:black;">（选择项2）</span>'''''It's alright, though. I'll prepare many more soothing surprises for the next time.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+Heehee. Navi, you care quite a lot about the Commander, don't you?<br>
+That's only "normal," of course...<br>
+However, I must ask you to refrain from ruining our next... soothing time together.<br>
+Or, my subsequent soothing recipe might be made just for you ♪<br>
+<br>
+While Roon's expression remains as gentle as always, the mood around her suddenly feels a bit tense.<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+I'll see you another time, Commander. I'll have lots of delicious desserts ready for you by then.<br>
+<span style="color:#4eb24e;">Navi：</span><br>
+Uhh... I'll come with $1 next time!<br>
+<span style="color:#4eb24e;">Roon：</span><br>
+Of course. Heehee. You're always welcome.<br>
+<br>
+I bid farewell to Roon and leave with Navi.<br>
+On our way home, Navi seemed to think deeply and gained some inspiration.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
