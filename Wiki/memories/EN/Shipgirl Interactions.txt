@@ -529,7 +529,7 @@ Why'd ya hesitate? "Unique" is all you've got? You think I'm dumb, huh?!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Hmph! It's 'cause of all that stick-in-the-mud thinking that everything's so lame around here!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Art is about breaking the rules! And I'm gonna break 'em by styling up every wall in this whole town!<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Look, $1, these colors indeed complement each other well.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Look, {tb}, these colors indeed complement each other well.<br>
 <span style="color:#4eb24e;">Svirepy：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Come on! This is real ART, like I said!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Besides, s-seeing this art ought to, like, lift the Commander's spirits!<br>
@@ -541,7 +541,7 @@ Why'd ya hesitate? "Unique" is all you've got? You think I'm dumb, huh?!<br>
 '''''<span style="color:black;">（选择项2）</span>'''''Of course it is! That's my signature style!<br>
 '''''<span style="color:black;">（选择项2）</span>'''''If ya want some pointers, I can give ya a few. N-not that I'm eager to teach someone or nothin'!<br>
 <span style="color:#4eb24e;">Navi：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''What do you think, $1? It sounds quite interesting. Svirepy seems keen on the idea, too.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''What do you think, {tb}? It sounds quite interesting. Svirepy seems keen on the idea, too.<br>
 <span style="color:#4eb24e;">Svirepy：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''You... Hey!<br>
 <br>
