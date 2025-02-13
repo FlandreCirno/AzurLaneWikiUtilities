@@ -1,0 +1,1982 @@
+== 荒野假日開拓記 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=荒野的邀約|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+港區·指揮室<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+又到度假出遊的時間了，這次去哪裡玩比較好呢？<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+感覺這是個難題呢，畢竟選擇範圍好像越來越小了。<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+沒關係，拉菲只要有地方睡覺就好…zZZZZ…<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+有沒有那種更特別的地方啊？我想玩點不一樣的嘛，刺激一點的！<br>
+<span style="color:#4eb24e;">{namecode:536}：</span><br>
+刺激的~？去潛水如何？朝著海洋深處，探索不可思議——<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+嗯？我剛剛聽到有人在說不可思議？在哪在哪？！<br>
+<span style="color:#4eb24e;">{namecode:536}：</span><br>
+開個玩笑而已……真的去深海裡應該也很危險吧？<br>
+要好好選一個既有趣，又能確保指揮官安全的度假地點呢~<br>
+<br>
+少女們聚在一起，認真地討論著度假地點。<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+嗯……指揮官，我覺得像這樣討論很難有明確的結果。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+的確。不過也確實如你剛才所說……選擇範圍不多。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵~我好像聽到有人在因為選擇度假地點而煩惱呢？<br>
+<br>
+匹茲堡說著從門外走了進來，她的食指和中指夾著一封邀請函，在我面前晃了晃。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+打開看看吧~指揮官。能夠有效解決大家當下的困擾哦？<br>
+<br>
+從她手中接過邀請函打開後，信箋中端正又不失瀟灑的熟悉字跡映入眼簾。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「相信諸位在這個時刻，一定會因為選擇度假地而煩惱。」<br>
+「所以我們誠摯的邀請各位前往帕里塞克度假小鎮，體驗不同的度假之旅。印第安納、企業敬上……」<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+咦？帕里塞克度假小鎮？那是什麼？<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+聽起來就像是有軟軟的床的地方……<br>
+<span style="color:#4eb24e;">卡薩布蘭卡：</span><br>
+……帕里塞克（Parisek）這個名字總覺得有點熟悉……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳在哪裡聽過這個名字嗎？<br>
+<span style="color:#4eb24e;">內華達：</span><br>
+這個名字可是大家完完全全重新起的，應該不會重名吧！<br>
+<span style="color:#4eb24e;">卡薩布蘭卡：</span><br>
+帕里塞克（Parisek）……帕里塞得（Palisade）……？<br>
+啊……沒什麼，請別在意。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+那說回到度假小鎮上吧~？<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+我知道了~既然是白鷹特色風情，一定是那種張開嘴就會有機器人餵你可樂、吃漢堡和爆米花的地方吧！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+……之前大家不是一起去過重櫻的離島泡溫泉嗎？雖然途中發生了一些小插曲。<br>
+從那次之後，企業她們就一直想找個機會，也讓大家體驗屬於白鷹的特色風格。<br>
+所以私下一直在籌備這個度假小鎮……現在終於可以對大家公開了~<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+哦~！所以一定是那種張開嘴就會有機器人餵你喝可樂，吃漢堡和爆米花的地方吧~！<br>
+<span style="color:#4eb24e;">鞍山：</span><br>
+不用強調兩遍啊……！<br>
+雖然我也無法否認這種刻板印象確實存在……但總之肯定是不是這樣的吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+白鷹的特色風格……難道是牛仔？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵，沒錯。不愧是指揮官~立刻就找到正確答案了。<br>
+跟提到重櫻就會想起溫泉一樣，提到白鷹就會想起牛仔才對吧~？<br>
+<span style="color:#4eb24e;">魯莽：</span><br>
+牛仔嗎……也就是說，我們可以去一睹西部風情了？！<br>
+<span style="color:#4eb24e;">利物浦：</span><br>
+嗯哼哼~我一定要拍很多很多照片留念~！<br>
+<span style="color:#4eb24e;">內華達：</span><br>
+這次也是多虧了法戈，用無人機幫忙運送了不少物資，不然可能就趕不上了！哈哈！<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+為客戶提供足夠優質的服務是我們四通快遞的使命和願景。<br>
+<br>
+面無表情的少女在得到誇獎後，適時地將一張名片遞到了我的手中。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+雖然目前在創業中，且老闆與員工都由我一人擔任……總之，請指揮官今後多與我合作。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵？創業中的快遞公司？喵呼呼……有沒有興趣和明石簽長期合作協議喵？<br>
+<span style="color:#4eb24e;">{namecode:295}：</span><br>
+啊，又被明石搶先了一步……我也有問題想問~能運新鮮蔬果嗎~<br>
+<br>
+名為法戈的少女立刻被「包圍」。<br>
+不去干預幾人的未來「商業會談」，將視線重新投注到匹茲堡和內華達身上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們怎麼去度假小鎮？<br>
+<span style="color:#4eb24e;">內華達：</span><br>
+這個不用擔心，企業安排了客運飛機，明天就會來接大家。<br>
+大家今天收拾好行李就好！<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+好耶！西部的荒野，呼嘯的狂風，一定還有什麼神祕的金礦和詛咒之類的不可思議——！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵，順帶一提，這次旅途中的導遊就是我。<br>
+<br>
+匹茲堡一邊說著，一邊又向我的身邊靠近。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+一定會讓指揮官有一趟難忘的旅程呢~<br>
+<br>
+在決定應企業和印第安納的邀約，前往她們精心準備的帕里塞克度假小鎮之後。<br>
+大家歡呼著紛紛回去收拾行李，等待接下來的度假之旅。<br>
+第二天一早，跟著匹茲堡的指引登上客運飛機。<br>
+又過了一段時間後——<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+好睏啊……我昨晚激動地沒睡好……<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+應該快到了的說，綾波已經看到風景不一樣了的說。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+真的耶！西部小鎮……酒館……牛仔服！我們來啦！<br>
+<br>
+說話間，飛機緩緩降落。<br>
+但是從艙門出來後，映入眼簾的卻是一望無際的荒地和沙漠。<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+小鎮……呢？說好的度假……呢？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+哎呀，昨天喝了太多果汁，導致忘了跟大家說了……<br>
+雖然是邀請大家去度假，但要體驗完整的西部風情，第一步要從拓荒開始。<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+拓、拓荒……？<br>
+<span style="color:#4eb24e;">{namecode:537}：</span><br>
+也、也就是說，我們其實是被騙來做苦力？！<br>
+<br>
+'''''<span style="color:black;">选择项1：我喜歡挑戰！</span>'''''<br>
+'''''<span style="color:black;">选择项2：（沉默地看向匹茲堡）</span>'''''<br>
+<span style="color:#4eb24e;">鈍劍：</span><br>
+沒……沒關係……銳劍沒問題……會連帶著把指揮官的那一份也做好……<br>
+<span style="color:#4eb24e;">銳劍：</span><br>
+噗哈哈哈……一看就是開玩笑的~你們也太好騙了吧。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵，確實是開玩笑的。這裡只是特意做過硬化處理的臨時停機坪。<br>
+接下來要去搭火車前往度假小鎮，大家請跟我來。<br>
+<br>
+跟著匹茲堡，登上了通往帕里塞克度假小鎮的專車。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+真正的度假之旅，現在才剛開始喔——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=列車上的槍聲|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+列車之上——<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+偵測到目前環境下，大家開心的情緒數值與平常相比提升了67.11%。<br>
+這就是「度假」這一行為帶來的提升嗎……<br>
+嗯……為了融入環境，我應該也調整「開心」的情緒數值佔比。<br>
+「激動」的情緒佔比也需要適度上調23.64%。<br>
+<br>
+不、不應該是這樣……法戈的方法不對……<br>
+阿爾薩斯有度假的經驗，讓阿爾薩斯來教法戈…！<br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
+判定：調整情緒數值只停留在表面，無法理解本質邏輯。<br>
+法戈和加斯科涅一樣，仍然需要學習。<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+如果想要更有效率地解決這個問題……我覺得我可以幫妳想想辦法。<br>
+<br>
+納希莫夫會直接用程式覆蓋，這不是最好的解決方法…<br>
+法戈應該和阿爾薩斯學習如何利用情感模組……雖、雖然有點容易失控……<br>
+列車窗外是屬於西部的荒野風景，耳畔迴盪的是少女們的談話聲。<br>
+然而在一片歡鬧之中，還有一種別樣的聲音浮現。<br>
+<span style="color:#4eb24e;">杜布雷：</span><br>
+啊啊啊，一想到度假的時候工作也不會減少反而還會變多就焦慮到不行了……<br>
+嗚……可是帶著工作出門的話姐姐我又沒辦法好好享受和指揮官的時光……<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+雖然完全能理解……但是享受當下也很重要嘛！<br>
+不要讓工作影響了假期的心情哦~杜布雷女士！<br>
+<span style="color:#4eb24e;">杜布雷：</span><br>
+嗯……妳說的對。<br>
+之後回去無論是加班還是通宵怎樣都好，姐姐我現在要享受假期！<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+這樣才對嘛！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+再過一下子我們就會抵達度假小鎮了喔~<br>
+<br>
+匹茲堡穿梭在列車的走廊中間，向大家宣布即將抵達終點的消息。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+欸？這麼快就要到了嗎？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+畢竟是只通往度假小鎮的短程列車嘛。<br>
+而且，之所以要專門搭乘火車，也是為了讓大家更提前感受西部風情。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原來如此，這就是列車的外觀和內裝都刻意復古的原因。<br>
+甚至還保留了汽笛的設計……<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+嗯~既然是西部度假之旅，那當然全程都要符合這個主題才對。<br>
+不過指揮官剛剛一直不參與大家的話題，是把注意力放在這些事上了嗎~？<br>
+不如把這份注意力放在更有趣的地方……怎麼樣？<br>
+<br>
+匹茲堡坐在了我身側的空位上。說話間，散發著甜美的水果香氣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……？果汁的味道？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+怎麼辦呢，被指揮官發現了~可別向印第安納和企業她們檢舉我哦~？<br>
+<br>
+嗡——<br>
+就在我想說些什麼的時候，列車的汽笛聲響了起來。<br>
+再度向窗外看去，黑色的鐵軌橫越荒野，前方便是小鎮影綽的痕跡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看起來馬上就要到了？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+沒錯，不過……<br>
+<br>
+砰砰——！<br>
+砰砰——啪——！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……槍聲？）<br>
+<span style="color:#4eb24e;">{namecode:416}：</span><br>
+妳今天是逃不掉的！到底誰的幫派才是這個小鎮的主宰……該有個結果了！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+我可不想跟妳爭這個勝負~不如一起合作把這些肥羊宰了怎麼樣？<br>
+<br>
+車窗外，兩道馬背上的身影疾駛著。<br>
+<span style="color:#4eb24e;">{namecode:416}：</span><br>
+有道理……<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+那邊的指揮官，識相的話就快把錢交出來吧，不然的話……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（雖然不知道她們到底在演什麼，但總之先配合總沒錯。）<br>
+不、不然的話會怎麼樣呢……？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+不然就會收到來自鯡魚的大禮哦~啾~<br>
+<br>
+伴隨著少女的飛吻，列車突然產生了一陣劇烈的晃動。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+炸藥……？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+哈哈哈哈，喜歡嗎~？<br>
+<span style="color:#4eb24e;">{namecode:416}：</span><br>
+把值錢的東西留在車上！所有人原地下車！<br>
+<br>
+在依照U-556的要求，將行李都留在列車上後，由鯡魚將我們這些「肥羊」押送到小鎮上。<br>
+穿越剛剛爆炸和槍戰揚起的煙塵後，小鎮終於在我們眼前露出了全貌。<br>
+——當然，還有在小鎮入口，露出爽朗笑容迎接我們的印第安納等人。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+好了~我的演出任務結束了，歡迎大家來到帕里塞克度假小鎮~！<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+哈哈哈哈哈哈！指揮官，你們總算到了。<br>
+剛剛那一齣戲碼你們感覺怎麼樣？有沒有一種真正到了西部的感覺？<br>
+<br>
+'''''<span style="color:black;">选择项1：不夠刺激</span>'''''<br>
+'''''<span style="color:black;">选择项2：我覺得還行</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''還是不夠刺激，和我想像中的狂野西部有一定差距。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''這種歡迎形式還挺特別的，比我想像中有趣得多。<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+企業前輩，我就說指揮官一定能接受的嘛！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？這個點子是你想的麼，艾塞克斯。<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+嘿嘿，沒錯喔。畢竟難得把大家邀請到這裡嘛，想別開生面一點。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+嗯，我們提前排練了幾次，調整過幾次演出的方向。<br>
+最後選了現在這個相對來說比較溫和的版本。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+不過美中不足的是想出這個點子的時候大家手邊的工作都很忙。<br>
+所以槍戰啦、搶火車啦，人手都不夠，效果大打折扣了。<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+是啊，不然數十個蒙面牛仔在火車外激戰什麼的，一定更有看頭。<br>
+<span style="color:#4eb24e;">關島：</span><br>
+Good idea！<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+欸？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+我是說，數十個蒙面牛仔在火車外激戰是個好主意啦！<br>
+指揮官，你不覺得這裡很適合拍電影嗎！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳是受到她們的歡迎儀式的啟發？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+沒錯沒錯~！指揮官，你看這裡！<br>
+一望無際的荒野，尋找救贖的主人公，在蕭瑟的夕陽下走入某個邊陲小鎮……<br>
+然後在這個小鎮中捲入某場混亂什麼的~是不是很狂野、很有趣？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就算這裡很適合拍電影……也沒有設備吧？而且也沒有劇本。<br>
+<span style="color:#4eb24e;">關島：</span><br>
+嗯？設備我都帶了哦！應有盡有，一應俱全！這就是美少女藝人關島的餘裕~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不……一般度假也不會帶這些吧……<br>
+<span style="color:#4eb24e;">關島：</span><br>
+越是度假才反而越是要帶這些哦，不然錯過什麼精彩瞬間就太可惜了。<br>
+說回拍電影啦——劇本的話，我覺得交給海天小姐應該沒問題？<br>
+<span style="color:#4eb24e;">海天：</span><br>
+那、那個，小女子其實不是很擅長這個題材……<br>
+如果要把劇本交給我的話，可能還需要白鷹的同伴當顧問。<br>
+<span style="color:#4eb24e;">關島：</span><br>
+放心放心~這個好解決~<br>
+好了，這下問題就解決！之後就在度假的間隙拍電影吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，在這之前，我要確認這兩天的行程。<br>
+如果和企業她們安排好的行程衝突了的話……<br>
+<span style="color:#4eb24e;">企業：</span><br>
+這一點指揮官不用擔心，我們只安排了兩次體驗活動。<br>
+其它時間大家就在小鎮上自由活動就好，所以就算要拍電影，也不會影響。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+至於體驗活動的內容是什麼……就留待明天舉辦的時候再揭曉吧！<br>
+好了，大家放在車上的行李U-556已經幫忙送到飯店了。<br>
+接下來大家就在這個小鎮隨便逛逛玩玩吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=拓荒者的第一課|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+清晨，在接到了來自約克鎮的消息後，來到了位於小鎮外的集合點。<br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
+諸位，今天的活動是「拓荒體驗」哦。<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+真是個聽起來很累的活動……<br>
+<br>
+不可以逃避，在這種時候付出勞動，也是身為騎士該做的。<br>
+<span style="color:#4eb24e;">龐培·馬格諾：</span><br>
+雖然能從活動名稱猜到大致上要做什麼，但實際要做的內容是……？<br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
+拓荒，顧名思義就是開拓荒地，將這裡變成適合居住的環境。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+沒錯~從小村落、再到小鎮，甚至還有可能發展成城市……<br>
+大概就是這樣的感覺~<br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
+拓荒者就是一邊尋找食物和水源，一邊在荒野上開拓出屬於自己的天地呢。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+運氣、實力、還有發展的眼光，都缺一不可哦。<br>
+<span style="color:#4eb24e;">馬可波羅：</span><br>
+也就是說，我們要在這裡從零開始，規劃一座全新的城鎮藍圖？<br>
+我喜歡這個！<br>
+很好！就在這裡建立一座能讓所有人都能瞻仰薩丁榮光的城鎮吧！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+呃……其實這次只是體驗活動啦，所以大家只要搭建自己的小木屋就好哦~<br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
+我們提前準備好了足夠的木材，但也需要大家二次處理。<br>
+不過大家請放心，相關的工具我們都準備好了哦~<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+嗯~？這「拓荒體驗」，應該不只是這麼簡單吧？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+當然啦，規劃搭建的時間有限，尋找食物和水源的時間也有限。<br>
+也就是說在規定的時間內成功搭建小木屋……<br>
+而解決食物和飲水問題的人，才是合格的「拓荒者」呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這難度是不是突然變得有點太高了？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+如果指揮官覺得太難的話，尋找食物的部分可以去掉哦~<br>
+由我們直接提供罐頭也沒問題的。<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+罐頭……莫非是傳說中的鯡魚罐頭嗎？<br>
+<span style="color:#4eb24e;">安克拉治：</span><br>
+傳說……安克拉治……不知道是什麼……但是想吃……！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+嗯哼。如果大家想要降低難度的話，可以直接選擇罐頭呢。<br>
+畢竟在拓荒的時候，可沒有更多的選擇餘地~<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+呵呵……確實是呢。不妨將罐頭當保底措施吧？<br>
+未能在時限內成功搭建的話，也會影響尋找食物和水源的時間。<br>
+那麼為了不餓肚子，就得吃下鯡魚罐頭。指揮官意下如何？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這完全變成了懲罰措施吧？<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+只是用來激發大家的幹勁而已——你看，那邊已經有人開始畫圖了哦？<br>
+<br>
+順著克里蒙梭手指的方向望去。<br>
+杜布雷和史特拉斯堡已經各自拿著空白的圖紙開始了自己的設計規劃。<br>
+<span style="color:#4eb24e;">史特拉斯堡：</span><br>
+鯡魚罐頭什麼的……絕對不要……！<br>
+<span style="color:#4eb24e;">杜布雷：</span><br>
+姐姐我也絕對不要吃鯡魚罐頭這種比通宵加班還要恐怖的東西！<br>
+<br>
+其他人在看到了兩人的舉動後，也紛紛抓緊時間開始了自己的設計規劃。<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+呵呵~果然這樣的活動才有趣。<br>
+雖然我很樂意親手餵指揮官品嚐鯡魚罐頭……<br>
+但指揮官自己也要加油哦？<br>
+<br>
+少女輕笑了一聲，隨後拿起圖紙開始了自己的計畫。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（我也不能落下進度啊……）<br>
+<br>
+一段時間後。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+咦？拉菲，妳怎麼就畫了個三角形？<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+拉菲覺得兩邊夾起來就夠了……可以當作簡單的臥室。<br>
+只要能鑽進去睡覺就好……zZZZ……<br>
+<span style="color:#4eb24e;">怨仇：</span><br>
+嗯……是不是把告解室改成禱告室比較好呢~？<br>
+不過果然還是告解室更能讓人樂在其中吧…呵呵~<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+嘖，這片空地根本不夠發揮本王的創意！<br>
+<span style="color:#4eb24e;">馬可波羅：</span><br>
+我也深有同感。只能搭建一個小房間……要如何才能……！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+沒想到大家在設計階段就有這麼高漲的熱情呢~<br>
+<br>
+紐澤西四處張望著，然後走到了我的身旁。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+Honey做了什麼樣的規劃？能給我看看嗎？<br>
+<br>
+將手中的圖交給了紐澤西。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嗯？這個佈局是……指揮室？<br>
+Honey，你是不是還沒辦法把自己從工作狀態裡剝離出來，好好享受假期……？<br>
+<br>
+少女的眼神裡出現了明顯的擔憂神情。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不是。只是在規劃房屋的時候，想到了一件事。<br>
+大家不是都會來指揮室嗎？所以某種程度上，它對我來說就是一切的開始。<br>
+在規劃的時候，我情不自禁就這麼設計了。<br>
+<span style="color:#4eb24e;">波爾塔瓦：</span><br>
+呵呵，真是犯規的發言啊，指揮官同志。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+既然僕從都這麼說了……真是的。皇家女僕隊，都來幫忙搭建這個西部指揮室啦！<br>
+<span style="color:#4eb24e;">貝爾法斯特：</span><br>
+遵命，陛下。<br>
+<br>
+在同伴們的傾力協助下，一間木製的「西部指揮室」搭建完成。<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+雖然結果令人欣慰……不過我們好像都錯過了尋找食物和水源的時間呢。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+那就依約定，向大家提供鯡魚罐頭囉~<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+等等、等一下……這種時候，再讓我試試看……！<br>
+<br>
+撫順一邊說著，一邊將地上散落的木材堆在一起。<br>
+搭出了一個簡易的小高台後，她走了上去。<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+設壇台足踏魁罡，撫順我持法劍把七星壇上……！<br>
+咳咳……雖然沒有劍啦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+撫順，妳這是在做什麼…？<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+當然是藉助一些神秘力量……！既然東風能借，那沒道理食物不能藉嘛！<br>
+風來——雨來——食物來——！<br>
+哎呦……！<br>
+<br>
+既沒有狂風，也沒有暴雨，更沒有食物。<br>
+回應撫順的只有一團團砸向她的風滾草。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+還是老實回來吃罐頭吧~<br>
+<br>
+隨後，鯡魚將罐頭髮到了大家的手中。<br>
+大家在「西部指揮室」中席地而坐，準備體驗這「簡單」的一餐。<br>
+屏住呼吸將罐頭打開後，罐頭中盛著的並非魚肉，而是熟悉的軍糧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？是故意將普通的罐頭換成了鯡魚罐頭的包裝？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+嘻嘻嘻，當然啦。因為不是每個人都能夠理解鯡魚罐頭的美味。<br>
+所以我準備了這些。不過大家臉上的表情，實在是很精彩哦~<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+哇、哇呀呀——！怎麼我手上的是真鯡魚罐頭……救命啊！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+啊，我忘了裡面還混著真的了……<br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
+咳咳，雖然這個展開和一開始的活動設想相差甚遠……<br>
+但這也是種難忘的體驗呢。對吧，指揮官？<br>
+<br>
+衝約克鎮點點頭後，看向在指揮室中奔跑的撫順和追在她身後的鯡魚。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+的確……很難忘。<br>
+<br>
+於是，「拓荒體驗」在彌散的鯡魚罐頭味中落下帷幕——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=淘金熱潮？|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+翌日清晨，根據手機上大黃蜂發出的消息前往了集合地點。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+嘿嘿，指揮官今天居然是準時來而不是提早來？<br>
+啊~看來度假飯店的床一定很舒服，讓你也賴床了呢。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+好恐怖的發言，準時對指揮官來說居然是賴床嗎……<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+哈哈哈，這個話題就先到這裡吧！<br>
+今天的活動是「淘金體驗」喔！我們為大家準備了不同的淘金裝備~<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+欸？可是淘金的裝備不就是固定那幾樣嘛，我昨天還特地問過艾塞克斯了。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+話是這麼說啦，但是印第安納覺得加入一些更有新意的玩法更好。<br>
+所以除了基礎的河道淘金用裝備之外，還準備了全新的「磁鐵釣魚」用裝備喔！<br>
+<span style="color:#4eb24e;">寰昌&江風：</span><br>
+釣魚？！<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+雖說是釣魚，但其實就是用尼龍繩拴住強力磁鐵，丟進河道裡探寶。<br>
+想體驗的話請來貝爾這邊領取尼龍繩和強力磁鐵哦。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+想體驗傳統一點的河道淘金，就從我這裡領取鏟子和淘金鍋這些必需品啦~！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+聽起來磁鐵釣魚比河道淘金有趣很多耶！<br>
+<span style="color:#4eb24e;">寰昌：</span><br>
+但……強力磁鐵豈不是無論如何都能吸到金屬製品？用於淘金的話…<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這不就是「永不空軍」嗎？對寰昌來說應該是好事吧？<br>
+<span style="color:#4eb24e;">寰昌：</span><br>
+指揮官說的對……這樣無論如何都能釣上東西來了……嗚……<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+總之，大家各自選一下喜歡的方式和裝備吧！<br>
+裝備好之後我和貝爾會帶大家到附近的河道開始「淘金」喔！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……該選哪個好？）<br>
+<br>
+'''''<span style="color:black;">选择项1：河道淘金</span>'''''<br>
+'''''<span style="color:black;">选择项2：磁鐵釣魚</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒錯，既然是西部，就一定要感受最原汁原味的淘金法！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''完全無法抵抗「永不空軍」的誘惑……試試這種不一樣的淘金法吧！<br>
+<br>
+在做了如此的決定後，拿上了裝備，和貝爾等人一起前往了度假小鎮附近的河道。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+話說回來，只是帶大家來體驗淘金的話，會不會覺得有點無聊？<br>
+畢竟淘金也就是重複的機械勞動……要不要乾脆比個賽啊？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+但這樣也只是雙方比拼勞動所得的成果，趣味性並沒有增加多少。<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+不妨對淘金的方式做一些調整？<br>
+例如在不違背河道淘金的前提下，利用手邊的材料製作一些額外的工具來輔助。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳的意思是讓大家各自發揮自己的創意來提高效率……從這個角度增加趣味性麼？<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+沒錯，這樣一來應該就不用擔心枯燥無聊了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+倒是個好主意……大黃蜂，就這樣實施吧。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+了解~！<br>
+<span style="color:#4eb24e;">青葉：</span><br>
+嗨嗨，緊張又激烈的首屆西部淘金比賽正在火熱進行中！<br>
+我是這次淘金比賽的解說——青葉！<br>
+大家都在有條不紊地進行著淘金工作呢……那邊的是——！<br>
+哦哦！原來是達文西選手為了加快淘金效率，利用手邊已有的工具做了篩金系統啊……<br>
+<span style="color:#4eb24e;">李奧納多·達·文西：</span><br>
+嗯——？為什麼篩上去的只有鵝卵石？<br>
+一定是哪裡出了問題……沒錯……喔！我有新的靈感了——！<br>
+<span style="color:#4eb24e;">青葉：</span><br>
+達文西選手的篩金系統似乎出現了一些小問題……<br>
+讓我們來看看現場的其他選手吧！<br>
+阿爾弗雷多小姐！更多的現場情況就拜託妳了！<br>
+<span style="color:#4eb24e;">阿爾弗雷多·奧里亞尼：</span><br>
+沒問題~包在我身上吧！<br>
+讓我們把視線暫時放到磁鐵釣魚組——！<br>
+多麼厲害的殘影！巴爾的摩選手將繩子扔進了她早早就判斷好的方位！<br>
+沒錯，那裡一定有金子！巴爾的摩選手臉上的表情是這麼說的！<br>
+<span style="color:#4eb24e;">巴爾的摩：</span><br>
+呃，其實我只是隨便一丟……<br>
+<span style="color:#4eb24e;">布雷默頓：</span><br>
+哎呀，這就是解說的藝術加工嘛，巴爾的摩大姊也快點習慣一下~<br>
+<span style="color:#4eb24e;">巴爾的摩：</span><br>
+好吧……<br>
+<br>
+青葉和阿爾弗雷多在河道中跑來跑去，進行著所謂的「解說」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（可惜關島現在每天都把自己關在房間裡剪輯，不然一定會更熱鬧吧。）<br>
+<br>
+就在思考著這些，繼續手上的淘金動作時——<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+不、不要啦……！我只是來看你們玩的啦，我不參加……！<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+可是鯡魚看起來就很期待的樣子呢……？<br>
+而且明明也拿了淘金設備，應該是很想跟大家一起玩吧？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+囉、囉嗦！我只是順手拿的啦！<br>
+要是淘金之後出很多汗的話要怎麼辦……指揮官離得這麼近……<br>
+<span style="color:#4eb24e;">莫加多爾：</span><br>
+嘻嘻嘻，原來鯡魚也因為出汗而苦惱啊……那莫加多爾教妳一個好方法……<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+什麼方法？<br>
+<span style="color:#4eb24e;">莫加多爾：</span><br>
+只要把衣服脫掉，就不會那麼熱了……<br>
+<span style="color:#4eb24e;">霞飛：</span><br>
+請不要向他人灌輸這種錯誤的方法。<br>
+還有，也請妳不要試圖在我的視線死角將你身上的斗篷脫掉。<br>
+<span style="color:#4eb24e;">莫加多爾：</span><br>
+可、可是一想到指揮官也跟人家在一起淘金……就是會覺得燥熱難耐嘛……<br>
+<span style="color:#4eb24e;">霞飛：</span><br>
+那也不可以！<br>
+<br>
+又一段時間後，大黃蜂和貝爾宣佈時間用盡，開始檢視雙方的淘金成果。<br>
+<span style="color:#4eb24e;">{namecode:536}：</span><br>
+雖然我知道從河道裡撈出來什麼東西都很正常啊……<br>
+但為什麼會從河道裡撈出魚雷呢……？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+咳咳、這個我們也不知道是怎麼一回事呢…<br>
+總之大家忙活了這麼久，也是收穫豐富啊！<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+除了魚雷之外，還有扳手、保險箱、鵝卵石……輪胎……？<br>
+咦……沒有人淘到金子嗎？<br>
+難道聖地牙哥前輩在準備的時候放錯了……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？出什麼問題了麼？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+沒有哦！很完美！畢竟在西部淘金就是會有這樣一無所獲的情況嘛！<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+沒、沒錯！貝爾也是這樣認為的！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+總之~今天的活動圓滿結束……！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=西部之夜|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+在準備回飯店房間休息的時候——<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+喲，指揮官，你接下來有什麼安排嗎？<br>
+<br>
+'''''<span style="color:black;">选择项1：打算回去休息</span>'''''<br>
+'''''<span style="color:black;">选择项2：沒什麼特別的安排</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''正打算回去休息，不過如果有需要我幫忙的事也可以儘管提。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''接下來我沒什麼特別的安排，是有什麼需要我幫忙嗎？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+也不是什麼需要指揮官幫忙的要緊事。<br>
+只是今天月色格外好，我在想要不要舉辦一場臨時的賞月會。<br>
+<br>
+少女抬手指向了夜空。<br>
+小鎮外的曠野之上，圓月低垂，彷若唾手可得。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，確實是值得舉辦賞月會的風景。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+哈哈哈，既然指揮官也這麼認為，那我就通知大家了！<br>
+指揮官先跟我來吧，這裡有一處最適合賞月的地點。<br>
+<br>
+跟著印第安納，來到了開闊的空地。<br>
+她將周圍簡單地清理乾淨，然後邀請我和她一起坐下。<br>
+銀色的月光灑下，讓平日看起來爽朗的少女多了幾分恬靜和羞澀。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+指揮官，我……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+哎！指揮官，印第安納——！<br>
+我把大家都帶過來了喔！還帶了點心和飲料！<br>
+<br>
+就在印第安納準備說些什麼的時候，艾塞克斯的聲音突然響了起來。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+……還是下次有機會再跟你說吧。<br>
+反正……也不是什麼特別重要的事……咳……<br>
+<br>
+少女的眼神游移不定，語氣中也帶著某種微妙的心虛。<br>
+<span style="color:#4eb24e;">聖地牙哥：</span><br>
+指揮官、印第安納，別說悄悄話啦！<br>
+一起來吃艾塞克斯準備的零食吧！嘿嘿~<br>
+<br>
+之後和眾人一起將空地附近又清理了一下。點燃了營火後，圍坐成一圈。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+話說，今天不光是月亮很漂亮，連星星也很多耶！<br>
+<span style="color:#4eb24e;">{namecode:537}：</span><br>
+嗯……這格外燦爛的星象，沒錯……一定是暗黑鎮魂曲誘騙我們放下警戒的手法！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+暗黑鎮魂曲？<br>
+<span style="color:#4eb24e;">{namecode:537}：</span><br>
+吾友喲！看清楚了嗎！那邊那顆最亮的星星，也就是幽靈騎士的眼睛！<br>
+<span style="color:#4eb24e;">{namecode:536}：</span><br>
+欸——連賞月的時候也要堅持這個背景設定嗎？<br>
+<span style="color:#4eb24e;">{namecode:537}：</span><br>
+當然！這可是我的人設……咳、這可是吾之魔眼看到的真相喲！<br>
+<span style="color:#4eb24e;">企業：</span><br>
+呵呵，這樣的說法意外地很有趣。<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+企業前輩居然是吃這套的人？！<br>
+<span style="color:#4eb24e;">企業：</span><br>
+作為活躍氣氛，或者活躍思維的說法，偶爾為此也沒什麼不好。<br>
+對吧，指揮官？<br>
+<br>
+'''''<span style="color:black;">选择项1：（點頭）</span>'''''<br>
+'''''<span style="color:black;">选择项2：流星就是飛馳而過的幽靈馬車！</span>'''''<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''指、指揮官，怎麼連你也……<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+好吧好吧，那銀河呢？這個要怎麼編啦。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+嘿嘿，當做是牛仔們的太空牧場呢？<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+等一下大黃蜂，妳編的這種不在她們剛剛的那一套設定體系裡啦！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+意思到了就行嘛！不要在意這種無所謂的細節~<br>
+<span style="color:#4eb24e;">約克鎮：</span><br>
+呵呵，能像這樣和大家一起有說有笑地在這裡欣賞月色和星空……<br>
+其實也能算是一種浪漫吧~？<br>
+<br>
+篝火劈啪作響，大家吃著零食，聊著這幾天以來的度假感想。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+總是聊這些稍微有點無趣呢~不如來聊聊這幾天以來最難忘的事~？<br>
+啊，但是不可以說是一起拍電影呢~<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+為什麼不能說拍電影？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+都說拍電影的話，那答案不就又變得千篇一律起來了麼。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+有道理。那誰先來？還是就從最左邊的U-556開始，依次往後？<br>
+<span style="color:#4eb24e;">U-556：</span><br>
+唔……難忘的事啊……<br>
+應該就是騎馬了。為了在陸上也不減風采，我可是好好練習了一陣子！<br>
+怎麼樣？劫火車的時候果然很帥吧？哈哈！<br>
+不過馬鞍真的好硬哦，希望下次能有更軟的……<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+欸？要說的這麼具體嗎……？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+不用像U-556這麼具體也可以，但要說清楚情況~<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+真是麻煩……<br>
+就是今晚啦今晚！和指揮官一起，和大家一起……像這樣享受著夜色。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+沒想到鯡魚居然是這麼純情的類型啊~？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+那妳來說！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+我嗎？對我來說難忘的當然是每·一·刻咯~<br>
+<br>
+匹茲堡一邊回應著鯡魚，一邊朝著我所在的位置蹭了過來。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+妳犯規！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+我可沒有犯規~情景不是很明確嗎？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+妳……<br>
+<br>
+大家七嘴八舌地討論著彼此最難忘的時刻，直至夜色更濃。<br>
+就在準備結束這場臨時賞月會之際——<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+諸位，讓今夜結束的更有紀念意義一些，怎麼樣？<br>
+<br>
+印地安納掏出了腰間的左輪手槍，在手上甩了個漂亮的槍花後，對著夜空砰砰開了兩槍。<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+哦！這個好耶！比煙火好玩！<br>
+<br>
+像我們這些還沒準備手槍的呢……？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+那就直接用艦炮吧！不過要小心別傷到指揮官，哈哈！<br>
+<span style="color:#4eb24e;">眾人：</span><br>
+放心吧！<br>
+<br>
+少女們展開艦裝，更換演習彈，將炮口對準了濃稠的夜空。<br>
+不過也有些人直接裝了三式彈。<br>
+無數雙帶著期待的目光看向我，等待著一個指令。<br>
+<br>
+'''''<span style="color:black;">选择项1：聽我指令——</span>'''''<br>
+'''''<span style="color:black;">选择项2：開火——！</span>'''''<br>
+<br>
+轟——！<br>
+轟————！<br>
+槍炮聲交織轟鳴，將夜色點亮。<br>
+縱有硝煙，卻不是為了爭鬥，而是所有人於此，一同享受月色的特殊紀念。<br>
+<span style="color:#4eb24e;">眾人：</span><br>
+指揮官，約好了。明年，再一起賞月……不，再和我們一起，不論去到哪裡，都一起享受這種快樂吧！<br>
+<br>
+少女們高喊著，嬉鬧著，久久迴盪在這西部的夜空之下。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=屬於我們的回憶|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">關島：</span><br>
+如何如何~？大家快說說感想嘛！<br>
+<br>
+在度假小鎮中的電影院看完了關島執導的電影後，她迫不及待地詢問起大家的感想。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+沒想到成片拍出來效果還不錯！<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+確實呢。而且那個橋段，我記得拉菲真的睡著了吧……？<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+嗯……拉菲還以為這段會被剪掉……沒想到正片裡還有……<br>
+<span style="color:#4eb24e;">關島：</span><br>
+哼哼~這就是美少女藝人關島的剪輯實力哦~<br>
+不過話說回來，回去之後指揮官要不要考慮在港區設置個電影獎啊？<br>
+不然每次拍了電影都沒有評獎機制，會讓人很失去鬥志耶——<br>
+<br>
+咕——<br>
+<span style="color:#4eb24e;">企業：</span><br>
+嗯？關島，是妳肚子餓了嗎……？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+糟糕、糟糕，一直把自己關在房間裡做最後的衝刺剪輯……忘了吃飯了……<br>
+肚子餓得咕嚕咕嚕叫什麼的，實在是太有損美少女的形象了……<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+哈哈哈哈，不過指揮官應該也不會介意的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒錯。既然關島也餓了，大家就一起去準備午餐吧！<br>
+<br>
+「一段時間後——」<br>
+<span style="color:#4eb24e;">企業：</span><br>
+嗯……這樣差不多了，該叫其他同伴過來了。<br>
+不過今天的陽光有點刺眼，確定要在戶外午餐呢？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+有什麼不好的？這樣也很有「西部」的感覺嘛！對吧，大黃蜂！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+沒錯沒錯！既然是讓大家來體驗白鷹的西部風情，那最後一天也要讓大家體驗個夠嘛！<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+嗯。我贊同印第安納和大黃蜂的想法。<br>
+我猜，大家應該也不會介意這陽光，反而會很享受這一刻。<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+呵呵，我腿上這孩子也很喜歡今天的天氣。<br>
+<br>
+黎胥留說著，將目光投向膝上的指揮喵。<br>
+就在她身後不遠處，島風正端著托盤急著想趕來。<br>
+<span style="color:#4eb24e;">島風：</span><br>
+哇啊啊、漢堡、漢堡……一不小心跑得太快了！<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+小心！<br>
+穩住身形，我來幫妳。<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+喂——大家等下直接先吃吧——我先把馬騎回馬廄，不用等我——！<br>
+<span style="color:#4eb24e;">光輝：</span><br>
+啊……請騎慢一點……我的帽子……<br>
+<span style="color:#4eb24e;">阿蒂利奧·雷戈洛：</span><br>
+唔，阿蒂利奧也想試試看……騎馬……<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+啊哈哈哈——抱歉抱歉——<br>
+<br>
+馬蹄陣陣，少女爽朗的聲音漸漸飄遠。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（真是難得的一幕啊。）<br>
+<br>
+就在如此感嘆著的時候，關島像是想起了什麼事一樣，從我身旁穿過。<br>
+她朝著坐在我身邊的法戈神神秘秘地商量了些什麼後，對我一笑。<br>
+<span style="color:#4eb24e;">關島：</span><br>
+噓——指揮官看著就好了。<br>
+<br>
+關島用食指抵在唇邊，示意讓我不要聲張。<br>
+隨即，法戈的無人機便從角落升空，開始了盤旋。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是在航拍大家的午餐時光嗎？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+沒錯~不過指揮官只說對了一半哦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一半？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+因為指揮官只說了行為，我沒猜到我的目的~所以是一半。<br>
+這種美好的瞬間當然要保存好紀錄啦~<br>
+只存在於腦海之中可是不夠的~！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵~關島說的沒錯。<br>
+記憶會褪色變形，但留下影像資料的話，就可以時時刻刻重溫了。<br>
+<span style="color:#4eb24e;">關島：</span><br>
+就是~看來本美少女的想法還是有人理解和支持的嘛~！<br>
+啊對了，指揮官，抬頭笑一個吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……為什麼？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+當然是為了紀錄此時此刻，「指揮官也笑了」的美好的瞬間啦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這……會不會有點太刻意了？<br>
+<span style="color:#4eb24e;">關島：</span><br>
+說的也是喔……看來還是多拍攝一些日常素材留用比較好。<br>
+嗯…那指揮官最好快點習慣被我拍攝~<br>
+畢竟像這樣需要保留的美好瞬間，我相信今後只會多，不會少——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=斟酒女郎的醉鄉|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+按照約定的時間來到了酒館，推門而入後，看見匹茲堡已坐在桌子上等待著。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵~你遲到了，賞金獵人。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+匹茲堡輕輕搖晃著腿，對我露出了笑容。<br>
+（嗯……？這是第三幕的台詞，看來匹茲堡已經入戲了。）<br>
+不算遲，畢竟我們等的人還沒來。<br>
+<br>
+按照劇本上的編排，一邊說著台詞，一邊走位到了匹茲堡身前。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+這樣嗎~？那……<br>
+在等待的時間裡，不妨做些什麼來解悶？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這是即興發揮？）<br>
+<br>
+匹茲堡輕輕地抓住了我的衣袖，身體朝我傾來。<br>
+溫熱的氣息灑落在我的頸側，周圍的空氣似乎也跟著升溫。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+怎麼不說話了呢，賞金獵人？是不知道該做些什麼嗎~？<br>
+<br>
+她手中的道具槍槍口抵住了我的胸口，輕輕地碾著我的外套往下滑。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這已經超越即興的範疇了吧……？接下來的劇情不需要這種展開吧？）<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+嗯~那就讓我來教你吧，解·悶·的·方·式♡~<br>
+<br>
+她臉上帶著淡色的紅暈，雙眼中是呼之欲出的情感。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這個狀態……她難道是……）<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵~你的心跳很快哦~？<br>
+是不是因為窗戶開著，外面還有其他同伴經過……所以更有感覺了一些~？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+匹茲堡……<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+嗯？我在聽哦，你想對我做些什麼呢~？我都可以滿足你哦~<br>
+<br>
+'''''<span style="color:black;">选择项1：你喝果汁了？</span>'''''<br>
+'''''<span style="color:black;">选择项2：要不要先去休息一下？</span>'''''<br>
+<br>
+握住了匹茲堡手中的道具槍，阻止了她繼續下滑的行動。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+我們現在可是在排練！排練！快點進入狀態啊，指揮官~<br>
+<br>
+少女帶著一些鼻音，發出不滿地抱怨。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳已經醉了。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+我沒醉~真是的~<br>
+<br>
+她用力向後一扯，想從我的手中抽出那把道具槍。<br>
+在拉扯之間，腳邊的木桶翻倒在地，流出了少量的橙色液體。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這木桶裡的是柳橙汁……？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵~天氣太熱了，在拍攝的空檔忍不住就多喝了幾口……<br>
+反正現在還是排練~指揮官要喝點柳橙汁解渴嗎？<br>
+嗯……是不是已經被我喝完了？<br>
+<br>
+她作勢要去查看木桶，不過下一刻身體便搖晃著靠在了我的身上。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+嚐不到這樣鮮甜的柳橙汁也是有點可惜。<br>
+或許我的嘴唇上還殘留著橘子的甜味哦……要試試嗎~？<br>
+嗯~？賞金獵人……指揮官……你的身體怎麼這麼燙……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（是她自己的體溫變高了吧……？算了，這個狀態就算和她解釋，她也聽不進去。）<br>
+先找個地方休息吧，妳這個狀態也沒辦法排練。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+嗯？要去哪裡休息呢？樓上有房間哦，不過……<br>
+如果只是回去休息睡覺，那也太無聊了，我不去喔~<br>
+除非……<br>
+<br>
+匹茲堡抬眼看向我，緋色的瞳孔中似乎也不盡是醉意。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+除非，你陪我在房間裡，一起做些有趣的事吧♡~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=酒館一隅的休憩時光|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">印第安納：</span><br>
+呼——！總算把這一幕拍完了，沒想到拍電影居然這麼累！<br>
+<br>
+印第安納隨性地坐在了木箱子上感慨。<br>
+<br>
+'''''<span style="color:black;">选择项1：辛苦了！</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+畢竟拍攝了從天而降的戲份，那一幕消耗的體力很大。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+嗯……也對，還重拍了幾次。<br>
+看來我的健身計畫還得加量啊……再怎麼說也不能被拍攝電影累倒！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我記得下一場開拍時間在晚上，要不要先回去休息？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+哦，我想等道具組的同伴過來，跟她們一起收拾地上那些碎木。<br>
+——就是從天而降那場戲裡破壞的天花板。<br>
+畢竟是片場嘛，清理不及時的話，有同伴不小心被這些絆倒、受傷了，那就不好了。<br>
+不過我一個人也清理不完，所以請她們來幫忙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我也留下來幫忙吧。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+好啊！那就等她們來了，我們一起收拾吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+說起來，妳似乎總是能注意到這些細枝末節，不論是戰鬥還是生活。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+嗯？指揮官還蠻關注我的？<br>
+<br>
+'''''<span style="color:black;">选择项1：注意妳的狀態也是我的工作職責所在。</span>'''''<br>
+'''''<span style="color:black;">选择项2：嗯，不知不覺就…</span>'''''<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊，原來是這樣啊……我還以為……<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我其實也一直關注著指……<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+……沒什麼！<br>
+……說回剛剛的話題吧！<br>
+剛剛是在說什麼來著，細節是吧…？<br>
+這也算是從戰鬥中養成的習慣。不放過任何細微之處才能取勝！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？妳不是喜歡直接用拳頭說話嗎？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+這個嘛……擁有一拳就能擊倒敵人的力量固然重要，但是也不能缺少智慧。<br>
+不然遇到武力旗鼓相當的對手時該怎麼辦？<br>
+<br>
+印第安納帶著爽朗明媚的笑容，對我挑了挑眉。<br>
+就在此時，陽光穿過天花板上的破洞，落入酒館內。<br>
+柔軟溫和的淡色光芒籠罩住了印第安納。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+……嗯？太陽出來了？<br>
+<br>
+她抬頭看了眼陽光，又將目光落在了我身上。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+陽光落在指揮官的身上，氣氛好像還蠻好的…<br>
+……陽光擁抱著你……酒香縈繞……無處安放的悸動…唔…<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳在說些什麼？我聽不清楚。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+咳、咳咳……沒什麼！只是想到了一些不重要的東西…<br>
+等我寫好了，再拿給你看……<br>
+……好了！指揮官，道具組剛剛聯絡我說快到了！<br>
+我想了想，你還是先回去休息吧，剩下的交給我和她們就好。<br>
+畢竟我們之間的下一場對手可是夜戲，一點也不輕鬆喔！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=心跳加速的清理工作|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">法戈：</span><br>
+要趕快清理才行……<br>
+<br>
+牛舍中，法戈正在清理地上打翻的牛奶。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+法戈，有什麼需要幫忙的嗎？<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+指揮官……？<br>
+在這種情境下，我應該表達驚訝的情緒，重新將驚訝情緒數值上調12.5%——<br>
+指揮官？！您為什麼會在這裡？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+因為妳來擠牛奶後，遲遲沒有回去，我就來看看。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+工作超時給大家帶來的不便，我很抱歉。<br>
+<br>
+'''''<span style="color:black;">选择项1：不用太在意。</span>'''''<br>
+'''''<span style="color:black;">选择项2：我是在擔心妳。</span>'''''<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''好，我明白了。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……好，我明白了，謝謝您的關心。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+紀錄指揮官此時的各項情緒數值，作為「擔心」的樣本之一。<br>
+回到剛剛指揮官的問題——我有什麼需要您幫忙的嗎？<br>
+如果可以的話，希望指揮官幫我一起清理打翻的牛奶。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好，我來幫妳。<br>
+<br>
+拿來了抹布，蹲下身去與法戈一起擦拭地上打翻的牛奶。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+這時候是不是應該露出笑容，以表達感謝？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一般來說是這樣。<br>
+<br>
+少女露出了淡淡的笑容，在陽光下越發柔軟溫暖。<br>
+但很快，難得的笑容就消失不見了。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+——數據紀錄完畢。是難得的情緒樣本累積。<br>
+感謝您，指揮官。對了，在休息之前，我還有一件事想要拜託您。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+怎麼了？<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+由於昨天勞作過度，我的手臂現在很酸痛，現在無法好好清理身上的痕跡。<br>
+我想拜託您幫我把身上的這些清理乾淨，可以嗎？<br>
+<br>
+'''''<span style="color:black;">选择项1：（點頭）</span>'''''<br>
+'''''<span style="color:black;">选择项2：沒問題。</span>'''''<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''此時應將喜悅情緒繼續調高1.2%，再表達感謝。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''謝謝您，指揮官！<br>
+<br>
+取來了乾淨的毛巾，為法戈仔細擦拭沾在身上的牛奶。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+嗯……那裡……？<br>
+唔……指揮官……<br>
+<br>
+僅兩人的空間中，少女一反常態地紅了雙頰。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+怎麼了？<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+我的心跳有些快，被您碰到的皮膚溫度也在上升……<br>
+根據以往的數據顯示，這是害羞的表現……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……需要我停下來嗎？<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+……<br>
+……不，我想我現在並不希望你停下來。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=危險與心跳|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">凱爾聖！：</span><br>
+呀——！！！停、停下——！！！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這是凱爾聖的聲音！）<br>
+<br>
+朝著聲音的方向趕去，來到了臨時築起的牛圈外，看到了這樣的景象——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+凱爾聖！<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+指、指揮官！嗚嗚嗚——<br>
+請、請快點離開——！要、要是——呀——！！！<br>
+嗚嗚嗚……要是受傷了，就、就不好了……停下來——！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這個情況來不及找支援了！）<br>
+凱爾聖，冷靜一點！照我說的做！<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+嗚嗚嗚……指揮官你說……嗚……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+控制住自己的身體，不要踢到牛！<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+好、好，我試試……<br>
+<br>
+凱爾聖一步步照著我的指示做，牛的跳躍力度逐漸減弱。<br>
+推開牛圈的門，抱起角落的乾草，緩慢地靠近了牛。<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+指、指揮官……這孩子好像……冷靜了一些……<br>
+但你還是要小心一些……<br>
+<br>
+點點頭，繼續小心翼翼地靠近它，將乾草放在了它面前。<br>
+又緩緩地退後，朝它伸出了手。<br>
+對峙了數分鐘，牛終於停止了，用鼻子哼哼出氣後，低頭吃起了乾草。<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+呼……呼……感謝指揮官，感謝鳶尾……<br>
+<br>
+慢慢走到牛身側，朝驚甫未定、幾乎脫力的凱爾聖伸出了手。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+凱爾聖，沒事了。<br>
+放開韁繩，慢慢下來，不要再驚動它了。<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+嗯……<br>
+<br>
+少女顫抖著握住了我的手，但她沒有即刻從牛背上下來。<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+指、指揮官，我還有些害怕……我的動作會不會又嚇到它……？<br>
+……沒想到馴養動物竟能這麼驚險……這、這難道是鳶尾的試煉嗎……<br>
+<br>
+'''''<span style="color:black;">选择项1：別怕，我在這裡。</span>'''''<br>
+'''''<span style="color:black;">选择项2：沒事的，動作輕一點就好。</span>'''''<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+好……呼……<br>
+<br>
+凱爾聖長呼出一口氣，開始了行動。<br>
+但她剛側過身體——<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+……頭好暈……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+凱爾聖！<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+指揮官，抱歉……但我真的沒有力氣了……<br>
+<br>
+凱爾聖從牛背上滑落，跌入了我的懷中。<br>
+她的身體因為驚嚇而顫抖發燙，雙手緊緊握著我胸口的衣服。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒受傷就好，還站的起來呢？<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+嗚嗚嗚……稍微有點……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒關係，我送妳回去吧？<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+那就……麻煩指揮官了……<br>
+嘿嘿…<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=分享幸運的小憩時光|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+指揮官~這邊。<br>
+循著聲音的方向看去，露天泳池中，一道熟悉的身影正坐在充氣床上朝我打招呼。<br>
+剛剛在祈禱的時候就期待與您相遇，沒想到您真的就出現了……<br>
+呵呵，果然在幸運日的時候願望很快就能實現。<br>
+<br>
+'''''<span style="color:black;">选择项1：今天是妳的幸運日？</span>'''''<br>
+'''''<span style="color:black;">选择项2：今天也是我的幸運日</span>'''''<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯，是的。而且根據預測的結果，今天還很適合約會……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''約會？<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒、沒什麼……讓您見笑了……///<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸……？指揮官的意思……覺得遇見我很幸運嗎……///？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯，畢竟我也是因為工作調整，才能這個時間回來休息。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''在這種情況下偶遇潘勒韋，也算是幸運。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊……這樣啊……說的也是呢……<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+說起來，指揮官最近都在忙拍電影的事吧。<br>
+既然現在是休息時間，就請來我身邊吧？在泳池裡好好放鬆一下。<br>
+踏入池水，立刻帶來了一片涼意，驅趕了炎熱帶來的不適感。<br>
+等坐到潘勒韋身邊時——<br>
+那、那個，指揮官，能麻煩您幫我拿一下草莓聖代嗎？<br>
+剛剛一直只顧著看您了……聖代融化得太快，有些滴到身上了……嗚……<br>
+少女一手舉著玻璃杯，另一手試圖擦拭著滴落在胸前的黏稠液體。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我幫妳拿著，妳先清理吧。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+謝謝指揮官……不過指揮官也要小心不要弄髒手喔……<br>
+從潘勒韋手中接過玻璃杯後，少女再度開始了清理的動作。<br>
+……稍微有些不好意思……啊，也、也不是讓您移開目光的意思……<br>
+唔，還是有些黏黏的……<br>
+少女一邊說著，一邊將手伸入泳池中捧了些水，灑在了自己的身上。<br>
+輕薄的白色布料被水濡濕，以半透明的姿態緊緊包裹住少女的肌膚。<br>
+呼……這樣就清理乾淨了。<br>
+待潘勒韋清理乾淨，重新坐好後，將手中的草莓聖代朝她遞過去。<br>
+這份草莓聖代其實是我今日的幸運物品哦。<br>
+少女接過聖代後，有些羞澀地笑了笑，淡淡的紅暈浮上她的臉頰。<br>
+那個……我希望能將這份幸運分享給指揮官。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+分享給我？<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+嗯……就是……讓我來餵您吃聖代的意思……///<br>
+雖然這杯聖代上面的部分有些融化了，但……這個味道，我想指揮官一定會喜歡的…<br>
+伴隨著少女的靠近，冰淇淋與草莓的香甜一同在口中化開。<br>
+如、如何呢……？這個味道……<br>
+<br>
+'''''<span style="color:black;">选择项1：確實很喜歡</span>'''''<br>
+'''''<span style="color:black;">选择项2：還想再品味一次</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''這個味道，我確實很喜歡<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那、那就好……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''這個味道，我還想再品味一次。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''指、指揮官……///<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+之後與潘勒韋一同享用著幸運草莓聖代，共同度過了難得休閒的夏日午後。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=夜色深處的溫度|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+來到泳池時，意外地看到了在這裡正在休息的腓特烈大帝。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+我的孩子，此時的相遇就是所謂的緣分嗎？<br>
+還是說，你來此處，就是為了來見我？<br>
+<br>
+腓特烈大帝躺在充氣床上，用手朝我的方向輕輕撥動池水。<br>
+<br>
+'''''<span style="color:black;">选择项1：想來游泳放鬆一下。</span>'''''<br>
+'''''<span style="color:black;">选择项2：嗯，我是來見妳的。</span>'''''<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呵呵，你看起來確實有些疲倦，來我這裡休息一下吧。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''很好，我的孩子，我喜歡你的這份率直。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''作為獎勵，到我身邊來吧。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+稍微吃點櫻桃，喝點飲料，放鬆一下。<br>
+<br>
+她搖曳著杯中酒紅色的液體，臉色潮紅，金色的雙眼中帶著濕潤的笑意。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這是醉了…？）<br>
+（這樣的情況，讓她獨自在泳池中待著可不安全。）<br>
+腓特烈大帝，我先送妳回房間休息。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+哦？我的孩子，你是在擔心我嗎……？呵呵……<br>
+無需擔心，我並沒有喝醉。<br>
+看，今夜的煙火表演開始了，到我身邊來吧，一同欣賞這美景。<br>
+<br>
+依言走到了她的身邊。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+傻傻地站著做什麼？還是不放心嗎？<br>
+那就試試吧，酒精濃度並不高。<br>
+<br>
+腓特烈大帝朝我遞來了高腳杯，上面還印著淺色的唇印。<br>
+<br>
+'''''<span style="color:black;">选择项1：就著唇印喝</span>'''''<br>
+'''''<span style="color:black;">选择项2：換個位置喝</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''接過高腳杯，就著唇印喝了一口。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''或許有更直接的方式，滿足你的慾望，呵呵……<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''接過高腳杯，換了個位置喝了一口。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''你這是害羞嗎？呵呵……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……的確不可能讓你醉倒，剛剛看妳臉很紅，我還以為……<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+啊，這裡日間陽光太曬，風沙也比我預想中大得多，皮膚敏感才會發紅吧。<br>
+<br>
+腓特烈大帝換了個姿勢，身上半透的黑紗搖曳，半遮掩著她白皙的肌膚。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+為何這般看著我？是想吃櫻桃了嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<br>
+正想開口，腓特烈大帝卻先一步將鮮紅欲滴的櫻桃遞到我的嘴邊。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+很甜的，沒有核，試試看。<br>
+<br>
+張開嘴，吃下櫻桃後，鮮甜的氣味仍在口中縈繞。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……我剛剛是想說，夜裡比較涼快，注意別著涼。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+被你這麼一說，倒是有幾分涼意。<br>
+<br>
+腓特烈大帝並沒有將衣物整理好，而是輕輕拍了拍自己身邊空出的位置。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+來我身邊躺下，與我分享肌膚的溫熱吧……<br>
+<br>
+夜空中絢爛的煙火綻放，池水搖曳著旖旎的光。<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+我的孩子，在夏夜結束前……<br>
+於我的懷中，盡情地撒嬌吧……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=沙塵中的相遇|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+在這片荒野中，有座曾經繁華一時的小鎮。<br>
+鎮上的酒館裡飄著果汁味，那裡的廚師烤好的鳳梨披薩也是一絕。<br>
+她們說那個小鎮有詛咒。<br>
+要我說，那個鎮上有故事。<br>
+畢竟，我就是在那裡遇見了傳說中的「指揮官」。<br>
+——節錄自《西部回憶錄：序章》，大黃蜂著<br>
+乾枯的草團隨著風的軌跡來到腳邊，身旁的馬匹湊近後打了個響鼻，又是一副無精打采的模樣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你也累了嗎？<br>
+<br>
+不過馬兒並不會回答問題，耳畔仍只有呼嘯的風，還有——<br>
+<span style="color:#4eb24e;">？？：</span><br>
+大黃蜂，在今天太陽落山之前，妳會和這片沙地融為一體。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+是嗎？我希望妳已經寫好遺囑了，鯡魚。<br>
+我要讓妳知道，誰才是這裡唯一的「快槍手」。<br>
+<br>
+話語聲打破了荒原之上的寧靜與蕭瑟。<br>
+循著話音傳來的方向望去，兩名少女對峙著，儼然處於一場決鬥之中。<br>
+<br>
+'''''<span style="color:black;">选择项1：靠近她們</span>'''''<br>
+'''''<span style="color:black;">选择项2：遠離她們</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''即使在陌生的地界，也總要有一些冒險精神存在。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不靠近的話就無法確定對方是敵是友，不是嗎？<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''貿然接近兩個決鬥的牛仔並不是什麼明智的選擇。<br>
+<br>
+就在如此思考著，牽著身旁早已疲倦的馬匹行進的時候——<br>
+<span style="color:#4eb24e;">大黃蜂&鯡魚：</span><br>
+站住！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+就站在那裡，別動。你也不想胸前多幾個窟窿，對吧？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+沒錯，乖乖把手舉高，站在那裡。也別試圖拔槍，因為我會比你更快。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這種情況下還是先不和她們起衝突為好，聽她們的吧。）<br>
+<br>
+看到我將雙手抬起後，兩名少女對彼此點了點頭，向我靠近。<br>
+名為鯡魚的少女直接將手伸向了我的腰間，將我的左輪掏出後丟給了一旁的大黃蜂。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+抱歉，你知道的。在這種地方總歸是小心為好。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我理解，不過它確實陪伴了我很久。<br>
+希望妳們在確認這份不存在的威脅解除之後，早點將它還給我。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+別那麼急嘛，陌生人！總之讓我先把你的子彈……<br>
+嗯？這個標誌……范德賴特幫(Van der Light Gang)？！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+什麼？這傢伙是范德賴特幫的成員嗎？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+不會有錯，槍上的這個標記能證明這傢伙的身份。<br>
+不過我記得……傳言中只有這個幫派的創始人——「指揮官」的標記在槍上…<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+也、也就是說……我們面前這個傢伙很可能就是那個憑藉自己的實力和智慧在最荒蠻的地方站穩了腳跟，<br>
+成為一個傳奇後又很快就會消失的，大名鼎鼎的「指揮官」！？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……劇本裡沒寫出來，原來給我的是這種背景設定麼。）<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+咳咳，那個，你是「指揮官」本人嗎？<br>
+<br>
+'''''<span style="color:black;">选择项1：不是本人</span>'''''<br>
+'''''<span style="color:black;">选择项2：需要簽名嗎？</span>'''''<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''就算你否認，我們也不會相信的啦！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒錯！你一定就是指揮官！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''可以嗎？那就麻煩你——等、等一下，這裡也沒有紙筆吧！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''果然還是得去小鎮上才能能讓你幫我簽個名啊……<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+不過，指揮官為什麼會來這裡？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+在回答妳的問題之前，我可以先問一下妳們剛剛是為什麼在決鬥嗎？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+哦，就是想和她分個高下而已，比一比誰拔槍的速度更快。<br>
+不過已經不重要了，對吧，大黃蜂？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+沒錯沒錯~！眼下更重要的是……指揮官，你要不要加入我們？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我在開始這段旅程的時候，已經發誓不會再加入任何幫派了，也不想再捲入這些爭鬥。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+啊哈哈哈，你誤會了！我們不是來拉攏你加入什麼幫派的。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+指揮官，你看到了嗎，前面的那座小鎮。<br>
+<br>
+順著少女手指所指的方向，隱約可以從沙塵中看到建築的痕跡。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+那裡有比幫派爭鬥有趣數十倍的事情哦~？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？<br>
+<br>
+說話間，方才還晴朗的天空開始轉暗。<br>
+原本蕭瑟的風開始了咆哮，遠方的沙塵即將席捲而來。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+不好……又是沙塵暴。<br>
+最近這裡的沙塵暴多得有些不正常……算了，指揮官，你的馬還能跑嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+能。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+那就騎上你的馬，用最快的速度衝到那個鎮上找個避難所吧！<br>
+指揮官，我們鎮上見！<br>
+<br>
+她們對我揮了揮手，然後騎上了被她們拴在一旁的馬，公頃間消失在揚起的沙塵之中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……我也不能猶豫了。<br>
+<br>
+翻身上馬，捋了捋它的鬃毛，用力夾住了馬鐙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+駕——<br>
+<br>
+向著沙塵中的小鎮義無反顧地衝了過去。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=兔子、金礦與詛咒|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+在遮天蔽日的沙塵真正襲來前順利趕到了小鎮之中。<br>
+不過家家戶戶此刻都門窗緊閉，在昏暗的天色中也無法辨別哪處才是鎮上的旅店。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+先就近找戶人家避一避吧。<br>
+<br>
+'''''<span style="color:black;">选择项1：敲左邊一戶的門</span>'''''<br>
+'''''<span style="color:black;">选择项2：敲右邊一戶的門</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''當抬手正要敲響左邊這戶的門時，門卻打開了一條縫。<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''無論怎麼敲門，始終無人回應。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''只有八音盒的聲音隱約透過門縫傳來。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''就在這時，左邊那戶人家的門扉突然打開了一條縫隙。<br>
+<span style="color:#4eb24e;">？？？？？：</span><br>
+陌生的外鄉人……進來吧。<br>
+<br>
+在一片漆黑的室內，屋主手中的煤油燈是唯一的光源。<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+咳咳……我是布里斯托爾。外鄉人，你也是被懸賞吸引來的嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+懸賞？<br>
+（莫非這就是鯡魚之前說的，比幫派爭鬥有趣數十倍的事嗎？）<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+看你的反應，你是知道這裡有事發生……但不知道具體是什麼，對吧？<br>
+就讓我來告訴你，有關這個小鎮、有關懸賞、有關詛咒的故事——<br>
+<br>
+數十年前，小鎮，礦洞內。<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+……還要繼續往裡面埋炸藥嗎？好累啊。<br>
+岩石阻礙了繼續開採金礦什麼的，讓別人搞定不就好了嗎……<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+用足夠的炸藥，快點把岩石炸開就行了吧。我放……好了，我要睡著了。<br>
+<span style="color:#4eb24e;">杜布雷：</span><br>
+雖然很想問這個角色身分是不是給錯了……但總之不可以在這種危險的地方睡覺！<br>
+快起來，姐姐我要執行爆破操作了哦！<br>
+倒數計時——<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+杜布雷……等、等等！帝國好像放太多炸——<br>
+<span style="color:#4eb24e;">杜布雷：</span><br>
+三、二、一……<br>
+<br>
+砰、劈啪碰——<br>
+伴隨著爆炸聲，超量的炸藥讓岩石崩裂滾落，將礦工們的身影吞沒。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+啊……我詛咒……詛咒開採金礦，詛咒勞動……<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+我也詛咒……只要是碰了這裡的金子的人，就會變成只會睡覺的兔子……<br>
+<span style="color:#4eb24e;">杜布雷：</span><br>
+為什麼是兔子？<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+……畢竟兔子比較可愛嘛。<br>
+喔我們好像殺青了欸，終於可以休息了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……這個詛咒聽起來好像有點隨便。<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+咳咳、總之從礦洞坍塌的那一天起，詛咒就開始在這裡蔓延了……！<br>
+<br>
+布里斯托爾說著，將我拉到了房子裡的另一處。<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+看吧，外鄉人！那裡的白兔，就是活生生的例子。<br>
+<br>
+煤油燈散發出幽幽的光，將小隔間照亮。<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+……這個角色……拉菲喜歡……<br>
+……zZZZ……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是？<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+這隻在睡覺的兔子，是現任鎮長聖地牙哥的姪女，拉菲。<br>
+她不相信詛咒的存在，前往了礦洞，然後就變成了這樣……<br>
+正因如此，鎮長才開始發懸賞，以期有能之士平息礦洞中的遇難的幽靈。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……被幽靈詛咒的金礦嗎……<br>
+<br>
+我陷入思考的模樣被布里斯托爾錯誤地當做了是產生了興趣。<br>
+她在看了一眼窗外後，將我推往屋外。<br>
+<span style="color:#4eb24e;">布里斯托爾：</span><br>
+再會，希望你在這場混亂中找到你的價值——「指揮官」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等！<br>
+<br>
+布里斯托爾並未理會我的話語，砰的一聲將房門緊閉。<br>
+在一陣讓人無法睜開雙眼的狂風席捲而來之後，沙塵暴停息了。<br>
+再度睜開雙眼時，眼前的房屋早已變換了另外的模樣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……？剛剛在這裡是這樣嗎？普通的民營變成酒館…？<br>
+<br>
+伴隨我衝入小鎮的馬匹此刻正悠閒地在酒館後方的馬厩中嚼著草料。<br>
+但我卻並沒有將它牽入馬厩的記憶。<br>
+拎著煤油燈的布里斯托爾、神秘的沉睡白兔公頃刻間消失的無影無蹤。<br>
+彷彿剛剛的一切都只是一場幻覺。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……總之先進這間酒館看看吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=酒館中的情報|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+推門走進酒館後，是少女熱情的問候聲。<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+歡迎光臨~！我是這裡的女服務生貝爾。<br>
+總之先坐下來喝點什麼吧~！菜單在這裡，有什麼需要隨時叫我哦~<br>
+<br>
+貝爾將破破爛爛的手寫菜單塞到我手中後，就端著托盤手忙腳亂地穿行在酒館之中。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+喲！指揮官！你怎麼現在才來？我和鯡魚在這裡等你好久了。<br>
+快來這邊坐！<br>
+<br>
+熟悉的身影對我招手，就在正準備前往她身旁坐下時——<br>
+<span style="color:#4eb24e;">？？？？：</span><br>
+嗯？大黃蜂，你叫這傢伙……「指揮官」？<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+「指揮官」？呵呵……看來這個懸賞吸引來了不得了的傢伙。<br>
+<span style="color:#4eb24e;">？？？？：</span><br>
+自我介紹一下，我是印第安納。是個賞金獵人。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+我為了破除這個小鎮上有關金礦的詛咒而來的……你有沒有興趣入我的伙？<br>
+就我們兩個解決這件事。報酬我四你六，就當交個朋友，怎麼樣？<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+這麼快就想拉攏「指揮官」……是當我不存在嗎~？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+匹茲堡，妳不是對這個懸賞不感興趣？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+哎呀，我只是說我對解決小鎮的詛咒不感興趣，但沒說過對指揮官不感興趣~<br>
+<br>
+少女坐在桌沿，看似不經意地把玩著手手中的左輪。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+喂喂喂，你們至少搞清楚狀況好不好！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+是我和鯡魚兩個先和指揮官約好了的！對吧，指揮官！<br>
+<br>
+'''''<span style="color:black;">选择项1：沒錯！</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳哪位……？</span>'''''<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''喏~連指揮官本人也這麼承認了，妳們就死了這條心比較好哦~？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哈！？這麼快就不記得我們了嗎？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+總之指揮官已經被我們預定了！妳們要拉人入夥的話，這裡不是還有的是人嗎？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+就是啊！我看坐在那邊喝茶的修女就很適合加入妳們哦！<br>
+<br>
+大黃蜂說著，隨便往酒館的角落一指。<br>
+我這才發現這間小小的酒館中不單單是人滿為患，更是「臥虎藏龍」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（修女、女僕、女巫……？）<br>
+（職業是不是有點混雜的太多了？？）<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵，我對於指揮官入誰的伙這件事倒是不介意……印第安納，妳呢~？<br>
+妳的計劃可是第一步就失敗了哦~<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+無所謂。既然不能作為合作的同伴，就只做為競爭對手了！<br>
+不過我有自信成為這裡第一個拿到獎金的人，詛咒也好、幽靈也好，就統統用我手上的槍粉碎吧！<br>
+<br>
+少女發出了一陣爽朗的笑聲，隨後走過來拍了拍我的肩膀。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+雖說現在是競爭對手，但還是希望有機會跟你合作，指揮官。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+哎~妳就把人還給大黃蜂和鯡魚她們吧~<br>
+正好~我也就當做認識一下新朋友。<br>
+<br>
+匹茲堡從桌子旁輕巧地躍下，抓住我的手臂後往大黃蜂所在的方向一推。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+嘖……來了個更麻煩的傢伙啊。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+放心，我對解除詛咒之類的不感興趣，只是想見識一下妳們和指揮官的行動罷了~<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+話是這麼說啦！但其實我們自己也沒想好該怎麼辦……<br>
+而且最近沙塵暴還這麼頻繁，想出門調查也很難。<br>
+也就只有這裡的披薩能給我一點安慰……果然！披薩還是鳳梨的好吃啊！<br>
+<br>
+她說著咬了一大口手中的披薩，隨即便有幾道憤懣的目光投注了過來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我覺得在誇披薩的時候還是稍微注意下措詞比較好…<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+欸？雖然不理解是為什麼……但既然是指揮官說的……那我下次注意好了！<br>
+不過要是再這麼住下去，我的家底就要耗乾淨了。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+我也一樣。要是沒辦法拿到懸賞承諾的獎金，可能之後只能去搶了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們在這裡待了很久嗎，連錢都花光了？<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+久等了——匹茲堡小姐，這是您要的五杯混合口味果汁，一共是1000金幣哦~！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+稍後吧台結給妳。<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+好嘞~！<br>
+<br>
+貝爾適時插入的報價聲讓疑問有了解答。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+喏，這個物價，可不是一般人能消費的起哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這鎮子上的物價一直這麼離譜？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+不知道啊！反正我被這個解除詛咒的懸賞吸引來的時候就是這個物價了。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+沒關係，指揮官如果手頭緊的話，可以花我的……<br>
+<br>
+匹茲堡仰頭喝完一杯果汁，然後帶著幾分微醺之意貼到了我身邊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+咳，謝謝妳的好意，不過這個就免了。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+這是在害羞嗎？真是可愛的反應……<br>
+算了，不逗你了。鎮上的物價並不是一直都這麼高的。<br>
+是鎮長聖地牙哥發出懸賞、沙塵暴開始變得格外頻繁之後才突然升高的喔~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯？又是「沙塵暴變得格外頻繁」這一點…）<br>
+話說回來，這個詛咒……就只有鎮長聖地亞哥的侄女拉菲被詛咒變成了兔子嗎？<br>
+在拉菲之前，還有其他人受到過這個所謂的「詛咒」麼？<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+有哦！是幾十年前，那場礦難發生後不久第一個前往礦洞調查的人——布里斯托爾。<br>
+<br>
+酒館中的女招待不知何時停留在了我們的座位旁。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+布里斯托爾?<br>
+（在那場沙塵暴中為我敞開房門的人也叫做布里斯托爾……這是某種巧合，還是……）<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+布里斯托爾在礦洞中神祕失蹤了，大著膽子去尋找她的人只在礦洞附近找到了一隻兔子。<br>
+小鎮上就沒有再靠近礦洞……沒有人敢去淘金，鎮子也就慢慢變得蕭條起來了。<br>
+直到前不久，拉菲小姐也是因為想幫忙改變小鎮的命運，想證明沒有詛咒存在，所以才……<br>
+不過我其實才搬到這個小鎮不久，這些歷史也都是U-556告訴我的。<br>
+如果你們好奇的話……啊，等一下，U-556就要送東西來了，你們可以直接去問她哦！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=拼湊的線索|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+幽靈的詛咒、同名的「布里斯托爾」、高昂的物價、變得頻繁的沙塵暴。<br>
+數個關鍵字纏繞在一起，在隱約有些頭緒的時候又重新混雜成一團。<br>
+在等待貝爾口中的U-556來送東西的這段時間，我提出要在這附近轉轉後便從酒館內離開了。<br>
+走出酒館後，隨手揭下一張小鎮中張貼的有關解除詛咒的懸賞令，試圖從中獲取一些有價值的資訊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「成功解決詛咒問題者……本鎮願給出金礦收益的五分之一。」<br>
+（這麼看來，連賞金本身也只是承諾，而非實打實的收益……）<br>
+（而且如果真的急著解決詛咒，那應該對賞金獵人們提供一些優惠。）<br>
+（而不是像現在這樣收取如此高昂的食宿費用…）<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+請、請小心呀呀——！快躲開嗚嗚嗚……！<br>
+<br>
+少女慌亂的尖叫聲突然響起，打斷了我的思考。<br>
+我這才發現自己不知何時走到了牧場附近，周圍的乳牛安靜地吃著草，除了——<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+嗚、嗚嗚……請幫凱爾聖……<br>
+<br>
+牛背上的少女努力保持平衡，想要不被甩下去。<br>
+<br>
+'''''<span style="color:black;">选择项1：靠眼神制止</span>'''''<br>
+'''''<span style="color:black;">选择项2：靠手槍制止</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………！<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''好、好厲害……！只靠眼神就讓它停下來了！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''掏出腰間的左輪手槍，對著草地射了幾發子彈。<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哇……是察覺到危險了嗎……居然安靜下來了！<br>
+<br>
+順利解除了危機後，少女不住地向我表達謝意。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+舉手之勞。不過，妳是怎麼跑到牠背上去的……？<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+那、那個，因為在幫牠們更換草料的時候，這孩子不知道怎麼就突然暴躁起來了……<br>
+我想讓牠冷靜下來，結果被牠甩到了背上……嗚……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+草料？這些草料和牠們平常吃的一樣嗎？<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+這個……凱爾聖只負責把草料帶過來鋪給牠們吃，其他的事情得去問法戈小姐呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好吧，那妳說的那個法戈小姐，她現在在哪裡？<br>
+<span style="color:#4eb24e;">凱爾聖：</span><br>
+她就在那邊哦——<br>
+<br>
+順著名為凱爾聖的牧場少女的指引，來到了附近的牛棚。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+偵測到名為「指揮官」的個體靠近，將開心的情緒數值上調25.22%。<br>
+啟用「親切友善」模式——<br>
+你好呀，指揮官~<br>
+看你的表情，應該是好奇我是如何得知你的身分的吧？哈哈~我也有自己的秘密哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好吧……那我就不追問這個了。妳方便告訴我牧場中用的草料是否和平時的一樣嗎？<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+一樣哦，自從沙塵暴開始出現後，這裡的物資供應就只能依賴U-556了。<br>
+草料也是她幫忙送過來的呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+又是U-556嗎……<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+啊，不過昨天她送過來的草料不夠用，我就自己又去收割了一點混在裡面哦。<br>
+——從礦洞周圍。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+？！<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+指揮官，你怎麼在這裡？<br>
+<br>
+熟悉的聲音在身後響起。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+印第安納？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+我就說怎麼匹茲堡她們會突然拜託我來找人……原來是法戈把你拖住了。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+不，我什麼都沒做。單純在回答指揮官的問題罷了。<br>
+<br>
+少女親切友善的語調又突然恢復了最初的毫無情緒起伏。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+沒什麼……反正法戈現在是個無害的傢伙。<br>
+走吧，匹茲堡她們要等急了。<br>
+<br>
+重新回到了酒館附近，大黃蜂等人便熟絡地和印第安納聊起天來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們不是爭取懸賞的競爭對手嗎？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+什麼「妳們」，明明是「我們」！<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+哈哈哈哈，雖然我們現在是競爭對手，但我也不認為就該劍拔弩張。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+沒錯喲~這裡的環境，比指揮官以前面對的環境要更鬆弛一些呢……<br>
+<br>
+就在閒聊的時候，馬蹄聲響了起來。<br>
+<span style="color:#4eb24e;">U-556：</span><br>
+馳騁於曠野的牛仔騎士——U-556，前來送貨了！<br>
+<br>
+在鎮上其他人陸續把所需物品從U-556的馬車上搬下來後，我找準時機前去和少女搭話。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+U-556運送貨物的身姿真是颯爽！<br>
+<span style="color:#4eb24e;">U-556：</span><br>
+嘿嘿，一般一般。你是才來這鎮上的人吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+外鄉人在這裡這麼好辨別嗎？<br>
+<span style="color:#4eb24e;">U-556：</span><br>
+是啊。小鎮的原住民已經沒多少了，除了少數剛搬到這裡生活的人以外，<br>
+剩下的都是因為鎮長發出的懸賞令才來的外鄉人。<br>
+不過這樣也算是好事吧……總算是改善了鎮上的經濟狀況。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+哈？妳們這鎮子也太黑心了吧……！<br>
+就仗著現在沙塵暴頻發，我們走不了就亂收費！<br>
+<span style="color:#4eb24e;">U-556：</span><br>
+特殊情況，也不能怪我們吧！<br>
+明明這裡原來也沒有沙塵暴……都是妳們來了，惹怒了幽靈才會變成這樣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等一下，U-556，妳說這裡原來沒有沙塵暴？<br>
+<span style="color:#4eb24e;">U-556：</span><br>
+對哦，是第一批賞金獵人來了以後，這附近才開始出現沙塵暴的。<br>
+而且來得人越多，沙塵暴就越頻繁。依我看就是徹底惹怒幽靈了啦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………<br>
+<br>
+U-556無意透露的訊息，讓一個模糊的想法在腦海中漸漸浮現。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也許……我們應該去直接接觸所謂的「詛咒」了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=幽靈的復仇？|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+在做出決定後，印第安納提議重新回到酒館之中做計畫。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+妳怎麼自然而然就加入我們的團隊討論了……？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+跟著妳們好像更有趣一點！而且這個懸賞聽起來好像有古怪。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+的確有古怪。在妳們來到這個小鎮之前，應該還有所謂的「第一批賞金獵人」。<br>
+這些人都去哪裡了？以及……為什麼妳們來了小鎮這麼久，卻一無所獲？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+欸？對哦……我們來的時候怎麼完全沒有意識到這一點。<br>
+還有，為什麼總是待在鎮上因為一些莫名其妙的事情沒有去調查……？<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+這麼一說的話，確實有些奇怪之處。<br>
+每當我下定決心要行動時，總會冒出一些其它的念頭，然後便不了了之。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵……這就是為什麼我對這個懸賞沒有興趣的原因呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？把妳知道的內幕說出來吧，匹茲堡。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+很可惜，我並沒有掌握比你更多的情報。我也只是隱約察覺了這個小鎮有詭異之處。<br>
+金礦中的幽靈、變成兔子、莫名會被改變的想法，每次想要離開時就會刮起的沙塵暴……<br>
+指揮官，你說，到底哪一個才是真正的詛咒？<br>
+又或者……它們全都是？<br>
+<br>
+匹茲堡壓低了聲音，紅色的眼眸裡流轉著我看不懂的妖冶色彩。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+雖然不知道為什麼你沒有受到這裡的影響……<br>
+但總之還是先說說你的計畫吧，指·揮·官。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+明白了，我和匹茲堡就留在這裡準備接應。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+唉，還以為妳會帶著我呢，沒想到居然會這麼狠心，讓我們留在這裡。<br>
+算了算了~那就祝妳們今晚的行動順利。<br>
+<br>
+入夜後，我和鯡魚、大黃蜂開始了行動。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+奇怪，明明想知道礦洞所在的方位一點也不難，為什麼之前那麼多天我壓根沒想起過這件事？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+話說回來，我突然意識到，自從我們來到這個鎮上……也一直沒看過鎮長聖地牙哥？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+對哦！怎麼連這麼重要的事情我都忘了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+噓——我們快到了。<br>
+<br>
+說話間，我們抵達了礦洞附近。<br>
+四周荒草叢生，能看到明顯被鐮刀收割過的痕跡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看來法戈的確沒有說謊。不過這裡的荒草到底是有什麼不一樣呢……）<br>
+<br>
+'''''<span style="color:black;">选择项1：湊近觀察</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''仔細檢查了一番後，發現靠近礦洞門口的草桿上，附著一點點黑色的痕跡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（這個黑色的痕跡會是導致那場意外的原因嗎……？）<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（看來只能深入這個礦洞內才會有答案了。）<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+咳，指揮官……那個，我們……真的要進去嗎？<br>
+萬一詛咒真的存在，我們變成兔子的話了……該怎麼辦啊？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+指揮官既然敢來，應該就證明詛咒不存在吧！<br>
+<br>
+'''''<span style="color:black;">选择项1：沒錯！</span>'''''<br>
+'''''<span style="color:black;">选择项2：我不知道</span>'''''<br>
+'''''<span style="color:black;">选择项3：一起變成兔子睡大覺吧！</span>'''''<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''妳看！指揮官的回答充滿了決心！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呃……這種時候，猶豫不太好吧？<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''？？指揮官，你是認真的嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+總之不管詛咒是否存在，這個礦洞裡還肯定有其它的秘密。<br>
+妳們也不想被一直困在這個小鎮吧？<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+說的也是啦……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那就跟我一起進去吧。<br>
+<br>
+在昏暗潮濕的廢棄礦洞中，狹窄的隧道蜿蜒延伸。<br>
+大黃蜂手持一盞小小的煤油燈，走在前方。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+哈啊……我們已經走了這麼久了，還是什麼東西都沒遇到，怎麼感覺要無功而返了。<br>
+<br>
+就在鯡魚發出了一聲小小的抱怨後，前方的某條隧道中傳出了隱約的交談聲。<br>
+大黃蜂心領神會地熄滅了手中的煤油燈後，我們小心翼翼地朝著交談聲傳出的方向靠近。<br>
+<span style="color:#ff9b93;">？？？？：</span><br>
+欸……這樣真的能行嗎？<br>
+<span style="color:#ff9b93;">？？：</span><br>
+當然喵，聖地牙哥鎮長請放心喵~<br>
+<span style="color:#ff9b93;">聖地牙哥：</span><br>
+可是拉菲她……真的沒問題嗎，明石？<br>
+<span style="color:#ff9b93;">明石：</span><br>
+請相信明石喵~變成白兔是拉菲小姐自願的喵，而且小鎮的經濟不是越來越好了嘛。<br>
+<span style="color:#ff9b93;">聖地牙哥：</span><br>
+說的也是呢！人來得越來越多了！小鎮遲早有一天會恢復原來的閃亮~！<br>
+<span style="color:#ff9b93;">明石：</span><br>
+喵呼呼……沒錯，明石也能賺得盆滿缽滿！<br>
+就再加大一點功率吧喵~沙塵暴的幻境再頻繁一點，讓所有人都離不開這裡喵~<br>
+<span style="color:#ff9b93;">聖地牙哥：</span><br>
+話說，除了沙塵暴之外。妳在水源和食物裡加的那個藥物，不會有什麼副作用吧？<br>
+<span style="color:#ff9b93;">明石：</span><br>
+當然不會了喵~明石出品必屬精品喵！<br>
+其實只是配合一些暗示就能讓大家做夢的無害用品喵~詛咒之類的傳言能順利散播就是多虧了它喵~<br>
+聖地牙哥不用擔心的喵，妳只要繼續待在這裡，明石就能以妳的名義讓小鎮繼續蒸蒸日上喵~！<br>
+<span style="color:#ff9b93;">聖地牙哥：</span><br>
+太感謝妳了~！明石！當初同意妳來做生意果然是個明智的選擇！<br>
+<span style="color:#ff9b93;">明石：</span><br>
+喵呼呼，明石也沒想到妳這麼好騙……不，這麼信任明石喵！<br>
+<br>
+不遠處的隧道被佈置成了工坊的模樣。<br>
+工坊中滿是看不出用途的機器，而其中綠色的貓咪熟稔地操作著它們。<br>
+而混雜在這些機器中間的，還有一座牢籠。<br>
+紅髮的少女正坐在籠中，心情頗好地哼著歌。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這就是現任鎮長聖地牙哥？她為什麼會被關在這裡？）<br>
+（這隻叫做明石的貓又是怎麼一回事？她的機器就是引發這一切的元兇？）<br>
+<span style="color:#ff9b93;">聖地牙哥：</span><br>
+咦……？怎麼總覺得有股視線。嘿呀，我看——！<br>
+<br>
+籠中的聖地牙哥突然站了起來，正巧和我四目相對。<br>
+<span style="color:#ff9b93;">聖地牙哥：</span><br>
+啊，明石！有客人哦——！<br>
+<span style="color:#ff9b93;">{namecode:98}：</span><br>
+喵？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（糟了——！）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=新的旅程|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+奔跑在狹窄潮濕的隧道之中，後方是窮追不捨的、來自明石的追兵。<br>
+<span style="color:#4eb24e;">大黄蜂：</span><br>
+呼…呼……！也就是說……<br>
+沙塵暴也好、詛咒好、還是我們會忘記這些事情也好，全都是算計好的？！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+……金礦什麼的果然是騙人的！只是為了把我們留在這裡，榨取油水。<br>
+<span style="color:#4eb24e;">大黄蜂：</span><br>
+這樣一來沒有錢又離不開的話，就只能留在這個小鎮上生活了……<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+哇，真是好算計……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不過既然沙塵暴只是明石利用機器做出來的幻境的話……就不用擔心了。<br>
+<br>
+在接近出口時，終於順利甩開了明石的追兵。<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+總之先回去告訴匹茲堡她們吧！早點離開這個奇怪的地方！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。<br>
+<br>
+將在礦洞中的所見所聞向匹茲堡等人和盤托出。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——戳破了這個小鎮的秘密，已經不能再在這裡待下去了。<br>
+<span style="color:#ff9b93;">{namecode:98}：</span><br>
+沒錯喵！明石要把你們一網打盡喵！<br>
+<br>
+綠色貓咪不知何時出現在了酒館之中，身旁全都是她在礦洞工坊中派出來追擊我們的「追兵」。<br>
+<span style="color:#ff9b93;">{namecode:98}：</span><br>
+明石怎麼可能沒有第二手準備喵！<br>
+整個小鎮的地下都被明石修出了通道喵，就為了第一時間阻止你們這種得知秘密的人離開喵！<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+那就是要開打的意思囉？<br>
+<span style="color:#ff9b93;">{namecode:98}：</span><br>
+就是這樣喵！<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+求之不得，放馬過來吧！<br>
+<br>
+印第安納話音剛落，槍聲便在酒館內爆炸。<br>
+匹茲堡和印第安納兩人的動作快如閃電，同時拔出了各自的左輪手槍。<br>
+<span style="color:#4eb24e;">匹茲堡&印第安納：</span><br>
+準備好了嗎，指揮官？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+隨時……！<br>
+<br>
+砰！砰！<br>
+兩聲槍響幾乎同時響起，明石派出的兩個「追兵」應聲倒地。<br>
+連帶著酒館中的桌椅也倒做一團。<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
+嗚……希望之後算損失的時候不要虧太多……<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+我建議找匹茲堡索賠。<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+我的風頭居然都被印地安納給搶了……不行，不能被小看了啊！<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+那就趁這個機會比誰更快吧！<br>
+<span style="color:#4eb24e;">大黃蜂：</span><br>
+正合我意——！<br>
+<span style="color:#4eb24e;">利托里奧：</span><br>
+我早就受不了這裡的鳳梨披薩了！<br>
+<span style="color:#4eb24e;">維內托：</span><br>
+為了披薩的正統口味而戰！<br>
+<br>
+槍戰點燃了矛盾的引線，酒館中其他人也開始了混戰。<br>
+子彈在空中劃出一道道的軌跡，酒瓶碎裂聲、桌椅倒塌聲不絕於耳。<br>
+當最後一聲槍響落下，黎明已至，酒館中也重歸平靜。<br>
+<span style="color:#ff9b93;">{namecode:98}：</span><br>
+喵……是明石輸了喵……<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+按照這裡的規矩，我應該把妳交給鎮長……不過……<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+不過聽起來，鎮長好像也是跟妳一夥的？雖然她被騙了。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+這樣就有點難辦了……<br>
+<span style="color:#4eb24e;">鯡魚：</span><br>
+發生了這種事情，一定會重新選出一個新鎮長的吧？<br>
+妳把明石關起來，等到新鎮長上任之後，再把明石交給新鎮長處理不就好了麼！<br>
+<span style="color:#ff9b93;">{namecode:98}：</span><br>
+明石可以把這些異常的事情都解除喵，但不要關明石喵~！<br>
+還有許多商機等著明石去發掘喵……！<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+這話就留著跟新鎮長說吧~<br>
+<br>
+匹茲堡一邊說著，一邊繫緊了明石手腕上的繩子。<br>
+<span style="color:#4eb24e;">大黄蜂：</span><br>
+指揮官呢，接下來有什麼打算？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+還用問嗎~？新鎮長的人選肯定非指揮官莫屬啊~<br>
+<span style="color:#4eb24e;">大黄蜂：</span><br>
+說的也是哦！如果是指揮官當鎮長的話，這裡一定會成為傳奇小鎮吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+正因如此，我才不能留在這裡。<br>
+<span style="color:#4eb24e;">大黄蜂：</span><br>
+欸？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+遲早有一天妳會明白的。<br>
+<br>
+將目光投向遠方。陽光之下，小鎮中曾經破敗的房屋似乎煥發了新的生命。<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+指揮官，你真的要走？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+還有其它地方在等待著我，不是嗎？<br>
+<span style="color:#4eb24e;">匹茲堡：</span><br>
+呵呵，沒錯……那就祝你好運了，「指揮官」。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+再會，「指揮官」。<br>
+<br>
+從印第安納手中接過韁繩，熟練地翻身上馬。<br>
+輕輕一踢馬腹後，它便向前小跑起來。<br>
+小鎮的輪廓漸漸消失在身後，而前方的道路依舊漫長而未知。<br>
+但是，那又有什麼關係呢？<br>
+「沙塵、謊言與詛咒」·FIN。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

@@ -415,26 +415,28 @@
 <span style="color:#4eb24e;">{namecode:11}：</span><br>
 嗯……在下的忍術確實不是很厲害……所以還在練習……<br>
 不過，在漆黑的環境裡練習果然還是有點太勉強了……<br>
-<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
 咦？曉，不是說好了要關燈等我來一起訓練嘛，怎麼打開了——<br>
 欸欸？金色闇影小姐？妳怎麼在這裡！？<br>
+<br>
 從門外走進的貝爾原本在看到金色闇影後露出了驚訝的表情。<br>
 <span style="color:#4eb24e;">金色闇影：</span><br>
 ……是妳們約好的訓練方式嗎？<br>
-<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
 是的！原本是計畫讓曉習慣在黑暗裡潛伏，然後我進來應對她的突襲~！<br>
 但現在好像出了點……意外？<br>
 <span style="color:#4eb24e;">{namecode:11}：</span><br>
 貝爾閣下，這樣練習忍術真的有用嗎…？<br>
-<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
 應該是……有用的吧？<br>
+<br>
 兩位對忍術有著執著追求的少女，在彼此對視一眼後紛紛皺著眉陷入了沉思。<br>
 <span style="color:#4eb24e;">金色闇影：</span><br>
 ……既然只是誤會的話。<br>
 那，再見……<br>
 <span style="color:#4eb24e;">{namecode:11}：</span><br>
 請等一等！貝爾閣下，金色闇影閣下的身手很厲害呢，是不是可以……<br>
-<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
 妳是說……拜託她指導我們？<br>
 <span style="color:#4eb24e;">{namecode:11}：</span><br>
 嗯嗯嗯！在下就是這個意思！<br>
@@ -443,7 +445,7 @@
 ……不過，我的力量，不適合傳授給別人。<br>
 <span style="color:#4eb24e;">{namecode:11}：</span><br>
 可是……<br>
-<br>
+<span style="color:#4eb24e;">貝爾：</span><br>
 那那那……！這樣好啦！我們來比試試看如何！<br>
 如果妳贏了，就教我們忍術吧！<br>
 <span style="color:#4eb24e;">金色闇影：</span><br>
