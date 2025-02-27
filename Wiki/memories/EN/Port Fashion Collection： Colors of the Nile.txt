@@ -34,11 +34,11 @@ For this, your punishment shall be... being turned into stone!<br>
 <br>
 '''''<span style="color:black;">选择项1：(Point out the flaw in the exhibition's tour route.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''You know, I was just following the path and wound up here.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''I think the fault isn't with me, but with how the tour route is laid out.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You know, I was just following the path and wound up here.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I think the fault isn't with me, but with how the tour route is laid out.<br>
 <span style="color:#4eb24e;">Raffaello：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Uhh... Umm...<br>
-'''''<span style="color:black;">（选择项1）</span>'''''Fine, I'll let you off the hook, but only on one condition!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Uhh... Umm...<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Fine, I'll let you off the hook, but only on one condition!<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 What condition?<br>
 <span style="color:#4eb24e;">Raffaello：</span><br>
@@ -92,12 +92,12 @@ What's the matter? Cat got your tongue?<br>
 <br>
 '''''<span style="color:black;">选择项1：I'm a bit lost at the moment...</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''This place is massive, and I lost track of where I was.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''That being said, I'm guessing this place is a part of the exhibit as well – right?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''This place is massive, and I lost track of where I was.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''That being said, I'm guessing this place is a part of the exhibit as well – right?<br>
 <span style="color:#4eb24e;">Maggiore Baracca：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Correct.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''And you got here sooner than you should have... I suppose the invisible thread that connects us guided you here♪<br>
-'''''<span style="color:black;">（选择项1）</span>'''''She punctuates her statement by giving the peach a little kiss.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Correct.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''And you got here sooner than you should have... I suppose the invisible thread that connects us guided you here♪<br>
+'''''<span style="color:black;">（选择项2）</span>'''''She punctuates her statement by giving the peach a little kiss.<br>
 <span style="color:#4eb24e;">Maggiore Baracca：</span><br>
 Well, since you're already here...<br>
 Why don't you come and taste these exquisite offerings?<br>
@@ -214,14 +214,14 @@ Since it's you, however, I could let you pass without any punishment.<br>
 <br>
 '''''<span style="color:black;">选择项1：(Ask what's behind the door.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''If I go through the door, what will I find on the other side?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''If I go through the door, what will I find on the other side?<br>
 <span style="color:#4eb24e;">Scylla：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''You wish to know?<br>
-'''''<span style="color:black;">（选择项1）</span>'''''Perhaps what lies beyond is Heaven. Or perhaps it's Hell.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''If you wish to know in advance, I suggest you allow me to judge you. Heehee.<br>
-'''''<span style="color:black;">（选择项1）</span>'''''She shoots me a meaningful glance and spins the scythe in her hand.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You wish to know?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Perhaps what lies beyond is Heaven. Or perhaps it's Hell.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''If you wish to know in advance, I suggest you allow me to judge you. Heehee.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''She shoots me a meaningful glance and spins the scythe in her hand.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Alright, then. Let's hear your judgment.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Alright, then. Let's hear your judgment.<br>
 <span style="color:#4eb24e;">Scylla：</span><br>
 Well... I should note that the result of my judgement isn't especially important.<br>
 What matters is the soul you're willing to reveal to me...<br>
