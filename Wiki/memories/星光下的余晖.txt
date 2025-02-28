@@ -11,7 +11,7 @@
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 唔啊——我好像已经看到飘来的残骸了！<br>
 不愧是触发了V级预警的残骸潮，确实是规模空前啊！<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 虽然规模宏大……不过却是我们今年观测到的唯一一次残骸潮。<br>
 或许也是年内最后一次……希望能回收一些有价值的物品吧。<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
@@ -21,14 +21,14 @@
 我们现在应该考虑的是，这次探索能发现多大的惊喜呢~<br>
 嗯……？此处有战斗过的痕迹，而且战斗结束时间不长。<br>
 难道是“她”先一步来了……？<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 怪不得一路上一只怪物都没看到……<br>
 又要被她拿走不少有价值的设备和元器件了呢……<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 她一个人一直在外面，又没有后勤保障，残骸潮对她来说也很有吸引力吧。<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
 大家不用担心。V级残骸潮的规模庞大，足够让我们所有人都满意的。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 嗯……我也只是想到了说一下。<br>
 靠我们的力量是阻止不了她想做的事的……何况我也没有这个打算。<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
@@ -38,7 +38,7 @@
 残骸潮里……有人？！<br>
 唔啊——还真有一个！<br>
 ……不过怎么一动不动，还活着么？<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 呃……<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 啊……好像动了一下，是活的欸！！<br>
@@ -54,7 +54,7 @@
 一段时间后，残骸潮的某处甲板之上——<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
 盯——<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 盯……<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 盯————！<br>
@@ -81,7 +81,7 @@
 实验场α？唔……你们听说过这个词吗？<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 ……完全没有。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 嗯……我也从来没听过。<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
 不过你说话这么奇怪，加上失忆的事……<br>
@@ -112,7 +112,7 @@
 <br>
 少女强行中断了话题。<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
-还没自我介绍呢。我是{{AF|杜伊斯堡}}，旁边的这位年轻有活力的小姐是{{AF|Z52}}，另一位可可爱爱的是{namecode:538:Z9}。<br>
+还没自我介绍呢。我是{{AF|杜伊斯堡}}，旁边的这位年轻有活力的小姐是{{AF|Z52}}，另一位可可爱爱的是{{AF|Z9}}。<br>
 我们来自于铁血公国所属的铁血抵抗军，请多关照。<br>
 <br>
 名为{{AF|杜伊斯堡}}的少女露出了一个温和的笑容。<br>
@@ -126,7 +126,7 @@
 {playername}阁下，请务必和我们一起回去！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 那就打扰了，其实我一直在等待你们的到来。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 ……你知道我们要来？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 嗯，在你们到来之前，我先遇到了{{AF|希佩尔}}。<br>
@@ -154,7 +154,7 @@
 哼哼，我觉得也不是不行，多好玩~<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
 可是，我觉得不行。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 嗯……是有些太胡闹了。<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 好吧好吧~不过就这么空船回去么？<br>
@@ -180,7 +180,7 @@
 <br>
 {{AF|杜伊斯堡}}三人以{{AF|Z52}}的量产舰为中心在残骸之海中来回穿梭着。<br>
 经过了一夜忙碌，终于在凌晨时分，装满战利品的量产舰踏上了归途。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 呼……满载而归。<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 好久没这么爽快过了~等鲁梅见到这一船东西估计要开心死了！<br>
@@ -194,7 +194,7 @@
 嚯~拿了这么多菜，大手笔啊~！<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
 毕竟本次任务算是收获满满，庆祝一下也是应该的嘛~<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 ……期待。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （……庆祝一下？）<br>
@@ -432,54 +432,54 @@
 不知为何，在塞壬失败后，天外之兽没有乘胜追击，也没有越变越强，而是主力随之一同沉寂了下来。<br>
 所以人类的抵抗组织才能一直在抗争中残存至今日……<br>
 咚咚咚——（敲门声）<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 {playername}阁下，你在屋里么？<br>
 <br>
-房间外传来了{namecode:539:Z11}的声音。这名少女和{{AF|杜伊斯堡}}等人一样，也是抵抗军舰队中的一员。<br>
+房间外传来了{{AF|Z11}}的声音。这名少女和{{AF|杜伊斯堡}}等人一样，也是抵抗军舰队中的一员。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-{namecode:539:Z11}，有什么事么？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+{{AF|Z11}}，有什么事么？<br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 {playername}阁下应该还没吃过晚餐吧？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 还没有。<br>
 <br>
 不管怎么说，在下午四点这个时间，吃晚餐实在有些早。<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 嘿嘿，那就好~{{AF|杜伊斯堡}}准备了一场欢迎会，让我来邀请你务必前去哦~<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……欢迎会？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 当然是欢迎你加入抵抗军的欢迎会啦~要是缺了你这个主角的话，{{AF|杜伊斯堡}}她们可是会很伤心的哦！<br>
 怎么样，去不去？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 那是自然，请带路吧。<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 啊……欸……你知道我们的秘密基地在哪儿么？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……当然不知道？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 也是哦……那，那就得我来带你去了……<br>
 必、必须要去跑一趟了呢……<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 呼——呼……好！我准备好了！我们出发吧！<br>
 <br>
-在{namecode:539:Z11}陡然爆发出的强大气势裹挟下，我以飞一般的速度离开了休息室——<br>
+在{{AF|Z11}}陡然爆发出的强大气势裹挟下，我以飞一般的速度离开了休息室——<br>
 一段时间后——<br>
 不算整洁的海滩上，{{AF|杜伊斯堡}}一行人静静眺望着夕阳的方向。<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
-哟，{playername}阁下，还有{namecode:539:Z11}，你们总算来了。<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+哟，{playername}阁下，还有{{AF|Z11}}，你们总算来了。<br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 呼……呼……我的任务完成了，可以回家了……吧？<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
-啊？你在说什么啊{namecode:539:Z11}，来都来了，当然要参加接下来的狂欢了！<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+啊？你在说什么啊{{AF|Z11}}，来都来了，当然要参加接下来的狂欢了！<br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 啊哈哈……我就知道，你们又要去做那件事了。<br>
-……{namecode:538:Z9}，你也要去么？<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+……{{AF|Z9}}，你也要去么？<br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 毕竟是指挥官阁下的欢迎会……情况特殊。<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 ……好、好吧……去就去！<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 耶——！<br>
@@ -527,11 +527,11 @@
 ……好像是有些有趣，作为在这个世界体验的一环，去看看好了。<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 这就对了嘛~大家准备出发！<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 出、出发……！<br>
 <br>
 一段时间后——<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 呼……辛苦啦，来喝杯咖啡吧。<br>
 热乎乎的烤鱼，马上就好哦~<br>
 <span style="color:#4eb24e;">{{AF|杜伊斯堡}}：</span><br>
@@ -542,7 +542,7 @@
 （唉……这个失忆症，偏偏回忆不起来了。）<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 啊——糟糕——支援，呼叫支援！<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 怎、怎么了？！<br>
 <span style="color:#4eb24e;">{{AF|Z52}}：</span><br>
 我看火有点小，就加了点汽油……好像快糊了！<br>
@@ -1070,19 +1070,19 @@ T=T-82<br>
 呼……总算是度过一劫。<br>
 <span style="color:#4eb24e;">通讯器：</span><br>
 滴——<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 鲁梅女士！紧急呼叫，能听到么，鲁梅女士！<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 我在，出什么事了？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 不好了！鲁梅女士，天外之兽突然对基地发起了大规模——<br>
 <span style="color:#4eb24e;">通讯器：</span><br>
 轰————！<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 ——大规模袭击！<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 ……不惜代价坚持住，我们立刻返航。<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 遵命！<br>
 <span style="color:#4eb24e;">通讯器：</span><br>
 轰————！<br>
@@ -1489,11 +1489,11 @@ META是一种趋势，也是一种性质。<br>
 大约一小时后，通讯器如预料般响了起来。<br>
 <span style="color:#4eb24e;">通讯器：</span><br>
 滴——<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 鲁梅女士！紧急呼叫，能听到么，鲁梅女士！<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 我在，出什么事了？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 鲁梅女士，天外之兽突然对基地发动了大规模袭击。<br>
 幸好基地已经进入了最高警戒模式，我们做好了充足准备！<br>
 目前敌人虽然进攻猛烈，不过我们的防线十分稳固。<br>
@@ -1501,7 +1501,7 @@ META是一种趋势，也是一种性质。<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 ……神机妙算的不是我，是指挥官{playername}阁下。<br>
 你们坚定死守，等待我们回援后，再里应外合歼灭来袭之敌！<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 遵命！<br>
 <br>
 挂断通讯器后，{{AF|弗里茨·鲁梅}}向我投来了一个怪异的眼神。<br>
@@ -1557,12 +1557,12 @@ META是一种趋势，也是一种性质。<br>
 <span style="color:#4eb24e;">通讯器：</span><br>
 滴——<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
-{namecode:539:Z11}，我们已经抵达基地周边海域了，汇报敌情分布。<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+{{AF|Z11}}，我们已经抵达基地周边海域了，汇报敌情分布。<br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 欸……？！你们……才到？<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 ……什么意思？<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 大约一个小时前，敌方舰队就受到了来自防线外部的攻击。<br>
 我还以为是你们做的……只是通信状态不好才没和基地联络。<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
@@ -1594,7 +1594,7 @@ META是一种趋势，也是一种性质。<br>
 很难说……按照现在的战局来看，大概率不愿意。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 那就不勉强了，由她按照自己的意愿扰乱敌人也不错。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 鲁梅女士，{playername}阁下……这是敌情分布图。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （敌人的兵力比预想中要弱……是因为事先被{{AF|希佩尔}}削弱了不少么。）<br>
@@ -1995,7 +1995,7 @@ T=T-5<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 没想到真的出现了……主宰级天外之兽。<br>
 镜面海域屏障正在发生变化，看来{playername}阁下的想法也成功了。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 ……真的能撑得住么。<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 我们无路可退，唯有全力一战。<br>
@@ -2476,9 +2476,9 @@ T=T-8<br>
 截至目前，各处战斗出奇的顺利。<br>
 指挥官连哪里会出现敌人增员，数量有多少都预测到了……<br>
 我都不知道该说是料事如神，还是令人毛骨悚然了！<br>
-<span style="color:#4eb24e;">{namecode:539}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z11}}：</span><br>
 ……幸好{playername}阁下是我们这边的人。<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 形势变化和指挥官预测的一模一样……那时不是说接下来……<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 ……做好心理准备吧。<br>
@@ -2489,7 +2489,7 @@ T=T-8<br>
 光芒之中隐约可见许多蓝色光点，如同星光般闪烁着。<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 主宰级的天外之兽果然出现了……<br>
-<span style="color:#4eb24e;">{namecode:538}：</span><br>
+<span style="color:#4eb24e;">{{AF|Z9}}：</span><br>
 ……真的能撑得住么。<br>
 <span style="color:#4eb24e;">{{AF|弗里茨·鲁梅}}：</span><br>
 我们无路可退，唯有全力一战。<br>
