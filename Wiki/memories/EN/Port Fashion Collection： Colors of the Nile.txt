@@ -4,7 +4,7 @@
 <br>
 As I walk through a maze-like series of corridors, a sudden burst of light appears. Looks like I've set foot in a certainly unusual place.<br>
 A faint aroma wafts through the air, and suddenly, someone calls out to me.<br>
-<span style="color:#4eb24e;">？？？：</span><br>
+<span style="color:#4eb24e;">???：</span><br>
 Hehehe... Looks like a rat has gotten itself lost in the holy domain!<br>
 I am the guardian of this domain, and as an uninvited guest, you must face punishment!<br>
 <span style="color:#4eb24e;">Raffaello：</span><br>
@@ -25,14 +25,13 @@ For this, your punishment shall be... being turned into stone!<br>
 (We're really doing this? Okay, I'll just play along for now.)<br>
 <br>
 '''''<span style="color:black;">选择项1：(Beg for forgiveness.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Point out the flaw in the exhibition's tour route.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''O Great Protector, I am but a tourist who haplessly wandered into your domain!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Please have mercy! This was an accident!<br>
 <span style="color:#4eb24e;">Raffaello：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Heheh. Your change in attitude might warrant a little mercy.<br>
 '''''<span style="color:black;">（选择项1）</span>'''''But I have to teach you a lesson, so I'll only let you go on one condition!<br>
-<br>
-'''''<span style="color:black;">选择项1：(Point out the flaw in the exhibition's tour route.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''You know, I was just following the path and wound up here.<br>
 '''''<span style="color:black;">（选择项2）</span>'''''I think the fault isn't with me, but with how the tour route is laid out.<br>
@@ -82,6 +81,7 @@ The words are stuck in my throat. Seeing this, a devilish glint reflects in her 
 What's the matter? Cat got your tongue?<br>
 <br>
 '''''<span style="color:black;">选择项1：I was drawn here by the aroma...</span>'''''<br>
+'''''<span style="color:black;">选择项2：I'm a bit lost at the moment...</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''I was on the tour path when I smelled something in the air.<br>
 '''''<span style="color:black;">（选择项1）</span>'''''I followed the scent, and here I am.<br>
@@ -89,8 +89,6 @@ What's the matter? Cat got your tongue?<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Heheh. I see.<br>
 '''''<span style="color:black;">（选择项1）</span>'''''She brings the peach up to her lips and gives it a little kiss, leaving a faint mark.<br>
 '''''<span style="color:black;">（选择项1）</span>'''''That scent you smelled was probably a mix of fruit and spices.<br>
-<br>
-'''''<span style="color:black;">选择项1：I'm a bit lost at the moment...</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''This place is massive, and I lost track of where I was.<br>
 '''''<span style="color:black;">（选择项2）</span>'''''That being said, I'm guessing this place is a part of the exhibit as well – right?<br>
@@ -206,13 +204,12 @@ Those who wish to pass through here must accept judgement...<br>
 Since it's you, however, I could let you pass without any punishment.<br>
 <br>
 '''''<span style="color:black;">选择项1：(Accept her judgment.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Ask what's behind the door.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''You know what? I'll take your judgment.<br>
 <span style="color:#4eb24e;">Scylla：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''I see. So you seek out my judgement.<br>
 '''''<span style="color:black;">（选择项1）</span>'''''If so you wish, then who am I to deny you? I'll even judge you as many times as it takes to satisfy you. Heehee.<br>
-<br>
-'''''<span style="color:black;">选择项1：(Ask what's behind the door.)</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''If I go through the door, what will I find on the other side?<br>
 <span style="color:#4eb24e;">Scylla：</span><br>
