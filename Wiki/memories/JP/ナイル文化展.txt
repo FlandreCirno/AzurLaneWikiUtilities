@@ -25,20 +25,19 @@
 （いきなり始まったか…とりあえずノリを合わせてみよう）<br>
 <br>
 '''''<span style="color:black;">选择项1：許しを乞う</span>'''''<br>
+'''''<span style="color:black;">选择项2：文化展の動線の不備を指摘する</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''――守護者様！自分は聖殿に迷い込んでしまっただけの観光客です！<br>
 '''''<span style="color:black;">（选择项1）</span>'''''――ただの事故ですから、どうかお許しを…！<br>
 <span style="color:#4eb24e;">ラファエロ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''ふふ、その態度に免じて見逃してやらなくもない<br>
 '''''<span style="color:black;">（选择项1）</span>'''''でも君の教訓になるよう、ひとつ条件を出させてもらおうZO☆<br>
-<br>
-'''''<span style="color:black;">选择项1：文化展の動線の不備を指摘する</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''――普通に道なりに進んだだけなのに、ここに迷い込んだってことは<br>
-'''''<span style="color:black;">（选择项1）</span>'''''――動線設計にそもそも問題があるからでは？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――普通に道なりに進んだだけなのに、ここに迷い込んだってことは<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――動線設計にそもそも問題があるからでは？<br>
 <span style="color:#4eb24e;">ラファエロ：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''そそそそれは…<br>
-'''''<span style="color:black;">（选择项1）</span>'''''見逃せなくはないけど、一つ条件を出させてもらおう！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''そそそそれは…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''見逃せなくはないけど、一つ条件を出させてもらおう！<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――条件って？<br>
 <span style="color:#4eb24e;">ラファエロ：</span><br>
@@ -82,6 +81,7 @@
 ふーん？どうしてなにも言わないの？指揮官？<br>
 <br>
 '''''<span style="color:black;">选择项1：実は不思議な香りに誘われて…</span>'''''<br>
+'''''<span style="color:black;">选择项2：実は道に迷ってしまって…</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''――見学中に廊下から不思議な香りがしたから<br>
 '''''<span style="color:black;">（选择项1）</span>'''''――つい気になって、その香りを辿ってきたら…<br>
@@ -89,15 +89,13 @@
 '''''<span style="color:black;">（选择项1）</span>'''''ふふ、なるほど<br>
 '''''<span style="color:black;">（选择项1）</span>'''''バラッカは桃を口元へ持っていき、かすかな跡を残すよう軽い口づけをした。<br>
 '''''<span style="color:black;">（选择项1）</span>'''''その香りは、果物とスパイスが混ざり合ったものだと思うよ<br>
-<br>
-'''''<span style="color:black;">选择项1：実は道に迷ってしまって…</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''――ここが広すぎるから、ちょっと道に迷ってしまってね…<br>
-'''''<span style="color:black;">（选择项1）</span>'''''――とはいえ、バラッカのいるこのエリアも…見学コースの一部だよな？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ここが広すぎるから、ちょっと道に迷ってしまってね…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――とはいえ、バラッカのいるこのエリアも…見学コースの一部だよな？<br>
 <span style="color:#4eb24e;">マッジョーレ・バラッカ：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''もちろんよ<br>
-'''''<span style="color:black;">（选择项1）</span>'''''先に辿り着けたということは…指揮官と私は得も言われぬ縁で結び付けられてるようね♪<br>
-'''''<span style="color:black;">（选择项1）</span>'''''そう言いながら、バラッカは桃に軽いキスをした。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''もちろんよ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''先に辿り着けたということは…指揮官と私は得も言われぬ縁で結び付けられてるようね♪<br>
+'''''<span style="color:black;">（选择项2）</span>'''''そう言いながら、バラッカは桃に軽いキスをした。<br>
 <span style="color:#4eb24e;">マッジョーレ・バラッカ：</span><br>
 せっかく指揮官が来てくれたし…<br>
 この極上の供物を……味わってみない？<br>
@@ -206,22 +204,21 @@
 ご主人さまでしたら素通りしても罪になりませんよ？<br>
 <br>
 '''''<span style="color:black;">选择项1：裁きを受ける</span>'''''<br>
+'''''<span style="color:black;">选择项2：扉の向こうに何があるかを聞く</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''――やっぱり裁いてもらおうかな<br>
 <span style="color:#4eb24e;">シラ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''なるほど、シラの裁きがご所望ですね<br>
 '''''<span style="color:black;">（选择项1）</span>'''''もちろん叶えさせていただきますよ？それもご主人さまが満足するまで何回も…うふふ♪<br>
-<br>
-'''''<span style="color:black;">选择项1：扉の向こうに何があるかを聞く</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''――このまま扉を潜ったら…何があるの？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――このまま扉を潜ったら…何があるの？<br>
 <span style="color:#4eb24e;">シラ：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''ご主人様は何を見たいのですか？<br>
-'''''<span style="color:black;">（选择项1）</span>'''''天国かもしれませんし、地獄かもしれません……<br>
-'''''<span style="color:black;">（选择项1）</span>'''''もし予め答えを知りたいのでしたら、ここで一度シラに裁かれることをおすすめしますよ。ふふふ♪<br>
-'''''<span style="color:black;">（选择项1）</span>'''''意味深な眼差しでこっちを見つめ、シラは指先で鎌を軽く回した。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ご主人様は何を見たいのですか？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''天国かもしれませんし、地獄かもしれません……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''もし予め答えを知りたいのでしたら、ここで一度シラに裁かれることをおすすめしますよ。ふふふ♪<br>
+'''''<span style="color:black;">（选择项2）</span>'''''意味深な眼差しでこっちを見つめ、シラは指先で鎌を軽く回した。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''――そうか。やっぱり裁いてもらおうかな<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――そうか。やっぱり裁いてもらおうかな<br>
 <span style="color:#4eb24e;">シラ：</span><br>
 まあ、裁き…審判の結果は別に重要ではありません<br>
 大事なのは、ご主人様がどんな魂をシラに見せてくださるか……<br>
