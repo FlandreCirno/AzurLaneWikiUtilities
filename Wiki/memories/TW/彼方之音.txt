@@ -1,0 +1,506 @@
+== 彼方之音 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=水下龍宮|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+龍宮城，這座曾經由島風帶領艦隊在激戰後得到的宏偉堡壘。<br>
+如今正作為武藏的戰利品，靜靜停留在海面之下。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+雖說，從一開始就是我的就是了。<br>
+神通，準備工作如何？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+進展順利，武藏大人。<br>
+明日正午前就能完成全部出航準備，預計可以如期抵達部署位置。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+很好。我們可不能誤了「赤城大人」要辦的大事啊。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+那是自然。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+「我們這邊」呢？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+萬無一失。<br>
+監測設備已經部署完畢，防禦系統也完成了升級。<br>
+……必要的話，我還可以在城內準備一些觀眾席。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+那就不必了，吾還是希望她的計畫能成功的。<br>
+如果局面真的失控了……妳覺得吾會選擇置身事外嗎？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+抱歉……是我失言了。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴——<br>
+<span style="color:#4eb24e;">紀伊：</span><br>
+打擾了，武藏大人。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+無妨，怎麼了？<br>
+<span style="color:#4eb24e;">紀伊：</span><br>
+瑞鶴小姐和三笠大前輩突然登門拜訪，請問我該如何回復？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+現在正是執行計劃的關鍵時刻，武藏大人，可以讓紀伊回復您現在外出未歸。<br>
+反正您此刻確實不在宅子中，倒也不算說謊。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+要是只有瑞鶴一個人來，這個藉口是不錯。<br>
+可是在大前輩面前，如此便過於失禮了。<br>
+這樣吧，我去見大前輩，妳留在這裡。<br>
+如果時間到了我沒回來，或出現了聯絡不上我的情況。<br>
+妳就帶領龍宮城起航。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+遵命。<br>
+一路小心，武藏大人。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=流浪者？|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+北方聯合境內·某處<br>
+房間內是柔和的燈光與爐火，桌上是熱騰騰的菜與湯。<br>
+縱使窗外天寒地凍，狂風呼嘯，也無法將此刻的溫暖之景動搖分毫。<br>
+<span style="color:#4eb24e;">威嚴：</span><br>
+剛出鍋的湯，很好喝。<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+（嗯………………）<br>
+<span style="color:#4eb24e;">威嚴：</span><br>
+不用擔心，我先喝給妳看。噸噸噸——<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+（明明都決定要主動避開了……）<br>
+<span style="color:#4eb24e;">威嚴：</span><br>
+呼……給妳，喝點暖暖身子吧。<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+（為什麼，會變成這樣……？）<br>
+<span style="color:#4eb24e;">甘古特：</span><br>
+唉，妳這套裝備都打得爛成這樣了……<br>
+一路上都有誰欺負妳了，儘管說出來，同志，我們替妳報仇！<br>
+<span style="color:#4eb24e;">古比雪夫：</span><br>
+等等……甘古特，現在不是問這些問題的好時機。<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+沒錯沒錯~人家歷盡千辛萬苦才流浪過來，過去的那些不愉快哪裡是現在該問的！<br>
+不用擔心，基洛夫·META同志。…安心休息，裝備維修的事就放心交給我吧~<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+（呃……流浪？她們在說什麼？）<br>
+<span style="color:#4eb24e;">波爾塔瓦：</span><br>
+唉……沒想到那個水星紀念·META嘴裡居然有幾句真話。<br>
+…真的是從遙遠的地方歷盡艱辛流浪過來的啊……<br>
+不論如何，既然來了，北方聯合就是你的家。<br>
+…先靜養一段時間，有什麼需要請儘管提，千萬不要跟我們客氣。<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+（……這個可惡的水星紀念，到底給這裡的人說了些什麼亂七八糟的東西。）<br>
+（……不過，至少可以證明，她就在此地，並且已經執行了一次並不怎麼成功的行動。）<br>
+（也就是說……一切都還來得及。）<br>
+（或許……我還有時間做更多的事……）<br>
+（……夥伴們。）<br>
+（……看來，我要在這裡多待一段時間了。）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=女王之光號|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+通風系統……正常♪照明系統……合適♪<br>
+地毯柔軟度……完美♪<br>
+<br>
+在裝潢奢華的車廂中，心情愉快的黑衣少女在細緻地巡視著自己的「領地」。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+妳這輛車確實不錯，參考了「東方快車」的設計理念？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+外殼和裝潢確實參考了一下經典要素，不過內在可是大相逕庭哦。<br>
+妳沒感覺進來之後空間大了不少嗎？<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+嗯……確實比看起來寬了一倍。<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+其實要變得更寬也是可以的。<br>
+只是我覺得既然設定的概念是「列車」，那總歸得在空間感上做些限制才好。<br>
+況且縮小空間也有利於增強防禦性，所以最後就這麼定了。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+可以自由拓展空間……這是鏡面海域技術的另一種應用方式嗎？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+呵~本王這個技術可比鏡面海域高級多了！<br>
+名字叫……唔，倒是也沒取過名字。<br>
+現場起一個……嗯，就叫「鏡面車廂」技術好了！<br>
+相較於鏡面海域技術，本王的這個鏡面車廂技術在隔絕性、防護性和可塑性上都更勝一籌。<br>
+更重要的是，這項技術可以給每個分割出來的空間綁定「概念」。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+綁定……概念？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+就用本王的女王之光號來舉例好了。<br>
+女王之光號一共有七節「車廂」，每一節車廂都運用了該技術。因此車上一共有七個彼此獨立的空間。<br>
+鏡面車廂技術既是建構車廂所用到的技術，也是經過建造後而形成的「車廂」本身。<br>
+所以並沒有一個所謂的「鏡面車廂生成裝置」放在車廂的某個地方藏起來。<br>
+這一點可以說與塞壬所使用的鏡面海域技術在表像上的最大不同。<br>
+而更進一步，這些「車廂」的概念，又可以被納入一個名為「列車」的集合之中，從而形成一個整體——女王之光號。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……整體大於部分的簡單總和？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+聰明。<br>
+單從防護力上來說，這輛列車上每個點的防護力都等於七節車廂的防護力總和。<br>
+而在必要的時候，各車廂又可以彼此作為獨立個體看待，從而展現出不同的功能和性質。<br>
+——妳所打擊的到底是「列車」、「車廂」、還是「第三節車廂」？<br>
+概念不明確的話，打擊效果可是會大打折扣的哦~<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+聽起來就像玩文字遊戲時進行的詭辯一樣……<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+概念層面的攻防，簡單來看的話就是這樣。<br>
+要在道理上想明白這點不難。但在實際操作中，穩固自己定義的「概念」可是需要相當高昂的成本哦。<br>
+就例如「第一節車廂」的製作成本大概和你的阿瓦隆相等，可是之後每再增加一節車廂，成本就要再翻一倍。<br>
+所以儘管我也想給列車多加一些車廂，不過就我個人的能力而言，七節車廂就是極限了。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+哈啊？！那做滿七節車廂花費的成本豈不是……豈不是……！<br>
+這簡直不可思議！投入如此海量的資源最後就得到了一輛小小的列車？！<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+第一，本王的車並不小！第二……算了，妳現在不理解也沒關係。<br>
+等妳見到外面那群牛鬼蛇神之後，自然就會理解了。<br>
+<span style="color:#4eb24e;">奇怪的機器：</span><br>
+叮叮叮——咚咚咚——<br>
+噠噠噠——噠噠噠——<br>
+嗶嗶嗶——啪啪啪——<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+伊莉莎白，什麼時候發車！<br>
+快發車，快發車~我要等不及了！！<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+別急，本王還在做最終檢查呢。<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+快一點，快一點，快~一點~<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+再急也要等本王完成檢查。要是沒做好檢查就上路，出了事故妳賠嗎？<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+賠不起……略~<br>
+那妳好好檢查，但是要快一點——！<br>
+<span style="color:#4eb24e;">奇怪的機器：</span><br>
+通訊結束，嗶啵——<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+吵死了……真不想帶它上車。<br>
+但這次情況確實有些複雜……不帶上又不行。<br>
+妳那邊沒什麼要帶的了吧？本王準備發車了。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+呃……現在就發車？就我們兩個人去狩獵嗎？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+誰說本王是發車去狩獵了？換個地方做準備罷了。<br>
+嗯……總之先開去妳家好了，相信妳的院子裡一定能停下一列火車吧？<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+哈啊？<br>
+等、等等、妳跟D小姐要直接來我家？！<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+是啊。你在本王這裡白吃白住了那麼多天，禮尚往來一下也是應該的吧~<br>
+女王之光號，出發－！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=衝擊|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+廣袤與無垠，這是此處空間留下的唯一印象。<br>
+沒有天空，沒有陸地，亦無大海。<br>
+不似現實，亦非夢境。<br>
+<span style="color:#bdbdbd;">？？？：</span><br>
+……「我」感受到了痛苦，聆聽到了啼哭。<br>
+……這裡如此寂寥，卻又如此喧囂。<br>
+……這裡是「我」的家嗎？<br>
+或許是……又或許不是……<br>
+不論如何，都不再是了。<br>
+「我」誕生於虛無，將帶來虛無，也終將歸於虛無。<br>
+遠方的旅人們，「我」邀請你們見證。<br>
+見證「我們」的終結——<br>
+<br>
+？？？·？？？<br>
+<span style="color:#4eb24e;">仲裁者·司特蓮庫斯·VIII：</span><br>
+我的監視器傳來消息，實驗場F-45733經過換算後，大約三小時前從物理層面消失了。<br>
+<span style="color:#4eb24e;">仲裁者·天帕嵐斯·XIV：</span><br>
+正在查詢實驗場F-45733的座標——<br>
+查詢結果為：（2.9143,99.9998,19.9998,-2376029143）<br>
+100加20……？極端環境模擬實驗嗎……？<br>
+呃……那消失的原因該不會是……<br>
+<span style="color:#4eb24e;">仲裁者·司特蓮庫斯·VIII：</span><br>
+嗯。監視器同時觀測到了V類威脅引發的空間衝擊事件，程度認定：特級，威脅程度：極高。<br>
+基於現狀，我認為應該調整任務清單優先級，將該問題的列為最優先處理事項。<br>
+<span style="color:#4eb24e;">仲裁者·赫米忒·IX：</span><br>
+……用量產型機體的本地性能不行，我們三人都至少要轉移80%以上的主機服務過去。<br>
+也要向周邊空閒的仲裁者發出協作邀請。<br>
+<span style="color:#4eb24e;">仲裁者·天帕嵐斯·XIV：</span><br>
+聯絡的事交給我吧，不過能臨時叫來多少人就不好說了。<br>
+<span style="color:#4eb24e;">仲裁者·赫米忒·IX：</span><br>
+……此地任務暫停，我們立即轉移。<br>
+<br>
+同時，餘燼臨時據點。<br>
+<span style="color:#ffc960;">扶桑·META：</span><br>
+「老熟人」們的部署有些異常，似乎正在準備轉移。<br>
+<span style="color:#ffc960;">飛鷹·META：</span><br>
+嗯？終於耗盡耐心了？<br>
+<span style="color:#ffc960;">隼鷹·META：</span><br>
+赫米忒，天帕嵐斯，司特蓮庫斯……這個麻煩的組合和我們糾纏的時間也夠久了。<br>
+本來以為得拖到沙恩和腓特烈那邊完成新基地的建設，我們才能擺脫它們。<br>
+<span style="color:#ffc960;">企業·META：</span><br>
+……也有可能是不久前那場異常強烈的空間衝擊事件吸引了它們的注意力。<br>
+威奇塔和金伯利已經出發，不能讓它們去壞事。<br>
+高雄，妳來指揮，務必把仲裁機關拖在這裡。<br>
+之後不要戀戰。基地完工後，立刻依照原計劃轉移，徹底擺脫仲裁機關的追擊。<br>
+至於威奇塔隊那邊，讓她們根據前線情況自行判斷。<br>
+<span style="color:#ffc960;">高雄·META：</span><br>
+嗯，艾塞克斯的發現是最優先的，這邊的事交給我就好，妳放心去吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=有限援助|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+鋼鐵鑄就的高樓中，少女眺望著窗外的無垠純白，將面前的飲品一飲而盡。<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+呼……居然是橘子汽水，沒想到妳竟然會準備正常人能喝的東西。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+感動了？<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+稍微有點。<br>
+不過更令我在意的是這棟大樓，妳怎麼修起來的？<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+這是仲裁機關的機密哦。<br>
+再說了，這裡總是一片白，待久了妳不覺得煩嗎？<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+所以我很少來。<br>
+好了，談正事。妳叫我來此見面有什麼事？<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+其實主要也不是我想找妳，受人所託罷了。<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+……妳？……受人所託？<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+是啊。因為……我遇到了一個可憐人……<br>
+一個……噗哈哈哈哈……！<br>
+一個不但自己的計畫沒搞成，還被打到連基地都要從頭開始建造的人……！<br>
+我路過看到了覺得實在太好笑，忍不住就幫了個忙。<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+……妳究竟在說什麼？<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+算了算了，我打過去，妳還是自己來聽吧。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴——<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+喲~水星紀念，我幫妳找到人了，有什麼事妳說吧。<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+……水星紀念？<br>
+呃……聽迪貝路的描述，妳的計畫進展似乎不太順利？<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+何止是「不太順利」？！<br>
+妳給的都是什麼鬼情報？！跟實際情況完全不一樣！！！<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+嗯……？<br>
+奇怪……我經過「窺視」後，所得到的情報就是如此。<br>
+雖然預想過會有些偏差，但完全不同……？<br>
+難道β實驗場的重櫻……所知道的情報竟然是如此有限嗎。<br>
+具體有哪些不同？<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+那可太多了——我懶得說，妳自己過來看！<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+很不巧，我這邊有一件重要的事要優先處理，「祂」也非常在意，所以抽不開身呢。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+妳說的難道是不久前的那陣空間波動？<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+妳也感受到了啊。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+我還被呼叫去支援了呢~<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+那妳會去嗎？<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+正在考慮中~要是妳也去的話，能不能讓我搭順風車？<br>
+畢竟那麼遠的地方，我自己過去得費一番功夫呢。<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+也好，那就這麼定了。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+嗯嗯，就這麼定了~<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+呃……<br>
+……什麼叫就這麼定了？<br>
+……那我呢？<br>
+我該怎麼辦？！<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+別擔心，別擔心~堅定守住，就有辦法！<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+……哈啊？這話妳自己信嗎？！<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+咳……水星紀念。我認為憑藉妳出色的能力，就算身處逆境之中，妳也一定能妥善應對的。<br>
+等處理完那邊的事，我就去幫妳。<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+「等處理完」……是要等多久啊——！<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+嗯……待定。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+看來妳們已經聊得差不多了？那我就把通訊切斷囉？<br>
+<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+嗯，斷了吧。該聊我們的正事了。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+那麼，通訊結束~<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+喂——你們——<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴——<br>
+<span style="color:#ffc960;">水星紀念·META：</span><br>
+……哈啊。<br>
+後援指望不上……這就麻煩了。<br>
+她們說的空間波動是……？有那麼重要嗎…？<br>
+算了，跟我又沒關係……不管了。<br>
+既然妳們都不急，那我急什麼。<br>
+哼，等就等！<br>
+我記得附近有幾個度假勝地呢。<br>
+度假去嘍~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=死神之橋|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+一片漆黑中，僅有儀錶板散發的微弱螢光。<br>
+遊離在四周的電流音與滴答聲表明，這裡似乎是一處控制室。<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+……檢索……開始。<br>
+<br>
+漂浮在半空中的蒼白身影從黑暗中悄悄浮現。<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+……驗證完成，啟動「死神之橋」。<br>
+<br>
+完成了必要的認證後，蒼白身影再次隱藏在黑暗中。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+叮叮叮——咚咚咚——<br>
+<br>
+與氛圍有些格格不入的誇張提示音響起，投影虛像出現在半空中。<br>
+<span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
+…[雜音]…噗哈哈哈哈…[雜音]…沒忍住幫了個忙…[雜音]…<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………「惡魔」。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+噠噠噠——噠噠噠——<br>
+<span style="color:#4eb24e;">仲裁者·司特蓮庫斯·VIII：</span><br>
+…[雜音]…偵測到空間衝擊事件…[雜音]…調整任務清單優先級…[雜音]…<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………「力量」。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+嗶嗶嗶——啪啪啪——<br>
+<span style="color:#4eb24e;">仲裁者·拉沃斯·VI：</span><br>
+…[雜音]…僅憑這樣…[雜音]…遠遠不夠…[雜音]…你的戰場在這裡…[雜音]…<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………「戀人」。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+叮叮叮——咚咚咚——<br>
+<span style="color:#4eb24e;">仲裁者·沐恩·XVIII：</span><br>
+…[雜音]…座標太遙遠…[雜音]…無法提供援助…[雜音]…<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………「月亮」。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+噠噠噠——噠噠噠——<br>
+<span style="color:#4eb24e;">仲裁者·恩普雷斯·III：</span><br>
+—[警告]—監聽權限不足—[警告]—<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………「女皇」。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+嗶嗶嗶——啪啪啪——<br>
+<span style="color:#4eb24e;">仲裁者·托瓦·XVI：</span><br>
+—[警告]………滴————<br>
+——您所監聽的用戶已不在服務區，請在滴聲後留言——<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………「塔」。<br>
+<span style="color:#4eb24e;">交換器「死神之橋」：</span><br>
+叮叮叮——咚咚咚——<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+…[雜音]…喂…[雜音]…快遞車快車…[雜音]…快遞車…[雜音]…<br>
+<span style="color:#4eb24e;">？？？·XIII：</span><br>
+…………找到妳了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=星間一夢|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+鳶尾教國·會場<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+呼~哼哼，磨了那麼久，最後還不是要老老實實推動我們這份方案。<br>
+今天一天也辛苦了，指揮官。<br>
+接下來我們——<br>
+嗯……居然已經這個時間了……<br>
+指揮官，我有一個緊急提案的協商會要去參加，晚餐我們就各自解決吧。<br>
+別嫌麻煩就不吃了哦！<br>
+<br>
+'''''<span style="color:black;">选择项1：沒問題。</span>'''''<br>
+'''''<span style="color:black;">选择项2：也幫妳帶一些！</span>'''''<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯嗯~很好。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不用麻煩啦，我有種要在會議室裡苦戰一番的預感。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''開完會之後我隨便找點吃的就好啦！<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+糟糕……必須得立刻動身了，那麼指揮官，我先告辭了~！<br>
+<br>
+告別了曼非斯後，我也離開了沉悶的會場。<br>
+踏出腳步，預想中的夕陽沒有灑下。<br>
+映入眼簾的是－璀璨的星河。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+晚上好哦，指揮官。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……海倫娜，之前不是說好了，用這種通訊方式拉人之前多少預警一下……<br>
+……難道有緊急狀況？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+嗯…[雜音]…這次事出緊急，我顧不了那麼多了…[雜音]…<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+出什麼事了？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+…[雜音]…計畫…[雜音]…有變…[雜音]…<br>
+…[雜音]…情況比…[雜音]…預想中…[雜音]…更複雜…[雜音]…<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+通訊狀況不穩定…？<br>
+海倫娜，我聽不清楚妳在說什麼，妳的影像也開始抖動了！<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+…[雜音]…聽不清楚…[雜音]…稍等…[雜音]…檢查一下…[雜音]…<br>
+…[雜音]…難道說…[雜音]…干擾源…[雜音]…<br>
+…[雜音]…客房…[雜音]…<br>
+…[持續不斷地雜音]…<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+海倫娜……？！<br>
+<br>
+伴隨著雜音的增加，海倫娜·META的影像逐漸扭曲，終於碎成了一片藍色光點，轉瞬即逝。<br>
+遠方的無垠星海，似乎也發生了一絲微不可查的波動。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+海倫娜說過，這裡是「塔」的內部，一處絕對安全的通訊空間。<br>
+別說干擾了，一般的塞壬甚至沒有發現這裡的能力……<br>
+怎麼會發生這種事……<br>
+海倫娜在通訊的最後……似乎提到了「干擾源」和「客房」。<br>
+難道是指…干擾源在會場中的某間客房？<br>
+這樣的話，必須得盡快對會場各處進行一次細緻排查……<br>
+如果有人想效仿博覽會閉幕式，在會場再掀起一次「陸上神國」，將與會方一網打盡的話……<br>
+……後果不堪設想。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+如果海潮還未褪去，何談重來？<br>
+水星紀念·META提到了三個目的，你大概只挫敗了其中一個而已。<br>
+剩下兩個她有何打算，你想過嗎？<br>
+小心身邊，這場事件還遠遠沒有結束哦——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+難道在南極的時候只是預演，這裡才是真正目標嗎……！<br>
+……上次戰鬥中，她確實展現了能夠干擾海倫娜所主導的通訊網路的能力……<br>
+糟糕，得盡快通知其他人才行。<br>
+<br>
+環顧四周，映入眼簾的只有無盡星河。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……說起來，以前離開這裡，依靠的都是海倫娜的力量。<br>
+現在她不在了，要怎麼從這裡回去呢……？<br>
+<br>
+……<br>
+<br>
+'''''<span style="color:black;">选择项1：大聲呼喊</span>'''''<br>
+'''''<span style="color:black;">选择项2：尋找出口</span>'''''<br>
+'''''<span style="color:black;">选择项3：從高處跳下</span>'''''<br>
+'''''<span style="color:black;">选择项4：利用「死亡」</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''喂——有人嗎！能告訴我怎麼從這裡退出嗎！<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''呼喊聲很快消散在廣闊的空間中。遠方，依舊是無垠星河。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（或許，這裡藏著某個可以直接退出的出口設施……）<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''再次環顧四周。上下左右，四面八方，映入眼簾的只有無垠星河。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''（這裡和夢境類似，或許利用「失重感」就能強行離開這裡……）<br>
+<br>
+'''''<span style="color:black;">（选择项3）</span>'''''下定決心後，你試著找一個有高度落差的地方跳下來。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''然而，不可見的平坦地板彷彿無窮無盡地延伸向遠方。尋找了一陣子後，你終於放棄了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''（這裡和夢境類似，或許利用「死亡」就能強行離開這裡……）<br>
+'''''<span style="color:black;">（选择项4）</span>'''''（不過……這裡畢竟不是真正的夢。）<br>
+'''''<span style="color:black;">（选择项4）</span>'''''（在沒有確切情報前，不應該嘗試尋求「死亡」這種危險的舉動…）<br>
+<br>
+突然間，耳邊依稀響起了風鈴的聲音。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（又是風鈴聲……？）<br>
+<br>
+伴隨風鈴聲一同出現的，還有一扇門。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……出現在白色空間的門並不少見。<br>
+但是出現在其他空間的門，這還是第一次見。<br>
+難道這裡是……海倫娜留下來的緊急出口？<br>
+<br>
+四周無人回答，僅有一扇門靜靜懸浮在璀璨星河中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看來……這扇門似乎是我唯一的選擇了。<br>
+……進去看看吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
