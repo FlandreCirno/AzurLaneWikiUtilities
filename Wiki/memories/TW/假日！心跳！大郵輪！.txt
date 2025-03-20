@@ -678,7 +678,7 @@ TB，先維持觀望態度吧，我有些事情想確認一下。<br>
 嗯……不做限制的話，能參與進來的同伴應該更多吧。<br>
 <span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 唔，既然指揮官也這麼說了……那就這麼決定了！本王會讓女僕隊將舞會廳重新佈置一番。<br>
-<span style="color:#4eb24e;">名取：</span><br>
+<span style="color:#4eb24e;">{namecode:297}：</span><br>
 看來是我們登場的時候了呢，老爺子~「沒錯！」<br>
 <br>
 在熱鬧的討論與期待中，篝火燒烤會正式結束了。<br>
@@ -1743,7 +1743,7 @@ yo，不錯的回應嘛！<br>
 <br>
 喀嚓、咔嗒——<br>
 儘管處在槍聲之中，高跟鞋踩踏在地面上發出的響聲卻顯得格外清晰。<br>
-<span style="color:#4eb24e;">蘇維埃聯盟 ：</span><br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
 指揮官同志。剛才不是已經說過了嗎，你們已經被包圍了。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……<br>
@@ -1753,7 +1753,7 @@ yo，不錯的回應嘛！<br>
 （看來現在是時候使用「那個」了——）<br>
 <br>
 將演習開始前準備的北極兔玩偶用力丟向了蘇維埃聯盟。<br>
-<span style="color:#4eb24e;">蘇維埃聯盟 ：</span><br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
 ……！<br>
 啊……好可愛！！<br>
 <span style="color:#4eb24e;">謝菲爾德：</span><br>
@@ -1788,11 +1788,11 @@ yo，不錯的回應嘛！<br>
 （除了真正的主題變裝之外，還有穿著舞會禮服的普通變裝嗎……）<br>
 <br>
 就在我仍在觀察時，手機鈴聲突然響了起來。接通後，聽筒那邊傳來了庫斯克的聲音——<br>
-<span style="color:#4eb24e;">小克里夫蘭：</span><br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
 指揮官，你已經到變裝舞會現場了嗎？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 嗯。庫斯克是已經到了，所以在找我嗎？<br>
-<span style="color:#4eb24e;">小克里夫蘭：</span><br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
 雖說還是為了符合變裝舞會的氛圍做了旗袍的變裝，但我並不在現場。<br>
 這種熱鬧的聚會不適合我，畢竟成熟的獵人更喜歡自己創造環境，方便更安靜無聲地靠近獵物。<br>
 ——我想，你現在應該已經理解我的意思了。先掛了。<br>
@@ -1835,7 +1835,7 @@ yo，不錯的回應嘛！<br>
 （呼……連著來還真是有點吃不消，稍微休息一下好了。）<br>
 <br>
 然而就在此時，果不其然地又出現了些許插曲。<br>
-<span style="color:#4eb24e;">名取：</span><br>
+<span style="color:#4eb24e;">{namecode:297}：</span><br>
 嗯嗯……這可是最適合展現力量的時候啊！老爺子，讓大家看看吧！「老爺子！參上！」<br>
 <br>
 一陣小小的旋風以名取為中心出現，她升至半空的同時——<br>
@@ -2274,7 +2274,7 @@ Round4，ready Go！指揮官，吃我波動拳！<br>
 來到了郵輪上的水族館。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （雖然說之前就對這裡很好奇……畢竟本身就在海上，在海上看水族館，總覺得有些奇妙。）<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 指、指揮官也來看小魚嗎？<br>
 <span style="color:#4eb24e;">聖哈辛托：</span><br>
 指揮官，你好呀~<br>
@@ -2290,13 +2290,13 @@ Round4，ready Go！指揮官，吃我波動拳！<br>
 除此之外居然還有別的理由嗎？<br>
 <span style="color:#4eb24e;">艾爾文：</span><br>
 因為平常基本看不見？雖然我們經常在海上，但是看著水下風景的機會是很少的吧？<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 嗚嗚嗚……應該是因為大家也覺得小魚很好看吧……<br>
 <span style="color:#4eb24e;">聖哈辛托：</span><br>
 當然不是啦~以上的答案可是全錯了哦。<br>
 水族館可是約會必備的地點呢，靜謐的氣氛，浪漫的光影……<br>
 都出來渡假了，加上一處約會聖地也無可厚非吧~？<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 原來還有這方面的考量嗎……怪不得我的提議這麼順利就通過了……<br>
 <span style="color:#4eb24e;">艾爾文：</span><br>
 應該不全是因為這樣吧~？你看，聖哈辛托好像在開玩笑呢。<br>
@@ -2312,18 +2312,18 @@ Round4，ready Go！指揮官，吃我波動拳！<br>
 <span style="color:#4eb24e;">聖哈辛托：</span><br>
 哎呀，指揮官的眉頭皺起來了呢，是在思考返航後這些海洋生物的歸宿嗎~？<br>
 如果指揮官思考的是這件事的話……松鯛已經有主意了哦♪<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 嗯！我會負起責任、好好照顧這些孩子的……不會讓牠們出事的！<br>
 <span style="color:#4eb24e;">艾爾文：</span><br>
 我也是，一定要讓我一起照顧哦。<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 太好了！嗚……（抽噎）沒忍住……對不起，但是松鯛真的、真的好高興！<br>
 <br>
 '''''<span style="color:black;">选择项1：幫松鯛拭去淚水</span>'''''<br>
 '''''<span style="color:black;">选择项2：誇獎松鯛</span>'''''<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''……！嗚……指揮官……松鯛好幸福……！<br>
-<span style="color:#4eb24e;">松鯛：</span><br>
+<span style="color:#4eb24e;">松鲷：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''欸嘿嘿……謝謝指揮官，嗚……（抽噎）<br>
 <span style="color:#4eb24e;">聖哈辛托：</span><br>
 指揮官還真是一如既往的溫柔呢~<br>
@@ -3702,37 +3702,37 @@ Zzz……指揮官怎麼會在拉菲的夢裡……<br>
 露天陽台上，感受海風吹過臉頰，旅途中的種種感觸也在腦中迴盪。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 呼……<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 可愛的人類，你是在嘆氣嗎？「還是說，你是在期待著什麼？」<br>
 埃姆登又不知何時悄無聲息地出現在我身邊。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 埃姆登？現在不用去處理郵輪上的其它工作嗎？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 那些小事當然不會難倒埃姆登。「哼。也就是說，早就處理完了呢，人類。」<br>
 好了，可愛的人類，你還沒回答埃姆登的問題。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ……接近返航日，也意味著假日快要結束了。<br>
 所以，或許在感慨之中嘆了口氣吧。<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 原來如此，可愛的人類是希望這趟旅程繼續呢~「也並非不可實現。」<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ……所以埃姆登是怎麼精准在這裡找到我的？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 埃姆登身為接待者，知道郵輪上所發生的一切。「這是理所當然的事，人類。」<br>
 當然也包括……可愛的人類每分每秒的一舉一動，呵呵~<br>
 旅程將近尾聲，我希望能從你的口中了解對此次航行的更多看法。<br>
 「你要毫無保留，把一切都告訴我。」<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 嗯……？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 只是紀錄一下可愛的人類的感想。「這是埃姆登才擁有的特權。」<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 好吧。<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 將這段時間的感想統統告訴了埃姆登，她不時拿筆在那本神秘的行程本上做著紀錄。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 可以讓我看看嗎？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 呵呵……「當然不可以。」<br>
 「這裡的內容可是絕密。」畢竟是一些，相當直白的紀錄和資料呢……<br>
 帶著淺淺笑意的淡藍雙眼盯著我。<br>
@@ -3740,17 +3740,17 @@ Zzz……指揮官怎麼會在拉菲的夢裡……<br>
 「沒錯，就懇求埃姆登告訴你吧，人類。」<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 妳的意思是……？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 這些紀錄，是為了給可愛的人類量身定制一場專屬的愛之旅而精心紀錄的寶貴資料。<br>
 「通往樂園的，只屬於埃姆登和你的愛之旅。呵呵，你一定很期待吧，人類。」<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 我們接下來還有這樣的行程嗎？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 當然不。這是埃姆登正在籌劃中的旅程。「雖然收集了許多資料，但效率太低了。」<br>
 嗯～果然，還是換一種方法蒐集比較好。「比起觀察和紀錄，直接詢問人類的身體，或許更快。」<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 什……什麼意思？<br>
-<span style="color:#4eb24e;">埃姆登：</span><br>
+<span style="color:#4eb24e;">{namecode:448}：</span><br>
 可愛的人類，如果你今晚還有其他行程，恐怕需要取消了。<br>
 「因為接下來，可愛人類的一切都將屬於我。」屬於埃姆登哦……？<br>
 呵呵，為了讓人類不再嘆息……「今天就讓埃姆登引領你，前往尋找「愛」的極樂之旅吧。」<br>
