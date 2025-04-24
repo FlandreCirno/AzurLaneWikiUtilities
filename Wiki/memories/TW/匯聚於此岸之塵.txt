@@ -1,0 +1,629 @@
+== 匯聚於此岸之塵 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=突如其來|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+1 突如其來<br>
+太平洋·測試者主機週邊海域<br>
+在收到了來自星海發出的奇異點「奈落」出現的警報後不久，東煌和北方聯合的觀測報告也陸續傳了過來。<br>
+目前，「奈落」在籠罩了重櫻群島後，彷彿觸碰到了一個無形的屏障一般，並沒有進一步向外擴張。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+……那個屏障，一定是守護整個重櫻群島的重櫻大結界。<br>
+或許是大結界封住了「奈落」的力量……阻止了其進一步擴散。<br>
+（……如此說來，維持大結界存在的基本條件都還建在。）<br>
+（奇異點的內部狀況……或許不如看起來一樣糟糕！）<br>
+諸位，事關本島安危，吾必須立刻帶領艦隊回援了。<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+長門大人，龍鳳帶領艦隊隨您一起回去。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+嗯。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+長門，奇異點的出現不光會讓重櫻遭遇危險，更會將週邊所有陣營捲入其中。<br>
+我已經知道妳與企業所訂下的盟約了。<br>
+既然危機尚未結束，就表示結盟依然有效，我們理應派出援軍，不能讓妳們孤身奮戰。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+如果各位願意派出援軍的話，吾沒有理由拒絕。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+印第安納，就由妳帶領艦隊隨長門女士一同前往吧。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+遵命。<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+——等等，我也去。<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+妳是，北方聯合的……？<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+目前暫住於北方聯合的……基洛夫·META。<br>
+我對於這個名為「奈落」的奇異點十分有興趣。如果方便的話，可否讓我同行？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+蘇維埃聯盟，妳的看法呢？<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+如果指揮官同志和長門女士都同意的話，我這邊自然也沒有問題。<br>
+而我願意親自帶領艦隊與二位同行。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+長門，妳怎麼看？<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+多一隻艦隊，便是多一份力量。非常感謝，基洛夫閣下，蘇維埃聯盟閣下。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那此事就這麼定了。<br>
+目前對於測試者主機空間的解析尚未結束，艦隊主力仍需留在此處應付可能出現的威脅。<br>
+奇異點的威脅不容小覷，抵達週邊海域後，諸位請見機行事，小心為上。<br>
+<br>
+指揮艦艦長室，一段時間後——<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……東煌的解析算力還在提高，星海已經再一次修改了預期完成時間。<br>
+照當前速度推算的話，不出六小時就能完成徹底完成解析工作了。<br>
+當然，如果東煌提供的算力再次增強……預期時間也會再提前。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+真是令人驚嘆……<br>
+不過東煌的運算能力為什麼是逐步提升的……而不是跟星海一樣，一開始就啟用最高算力呢？<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+唔……我也不清楚。<br>
+或許是東煌的超級電腦並不是一直啟動的，所以在開機後有一個預熱過程……？<br>
+好啦~指揮官！現在難得空下來，抓緊時間休息一下。<br>
+有消息我會第一時間送來的~<br>
+<br>
+持續多日的戰役指揮，確實對於精神和體力產生了劇烈消耗。<br>
+原本是想利用這段時間再完善一下作戰計畫的。不過一閉上雙目，睏意就不自覺的襲來了——<br>
+映入眼簾的是——璀璨的星河。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+抱歉，打擾你休息了。<br>
+<br>
+'''''<span style="color:black;">选择项1：沒關係。</span>'''''<br>
+'''''<span style="color:black;">选择项2：那妳要怎麼補償我？</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我相信妳在此時來找我，一定是有重要的事要說。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不錯，我現在來找你，確實是因為一件極為重要的事。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯——就用一個驚喜好了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你看這是誰？<br>
+<span style="color:#4eb24e;">構建者：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''…………<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''構建者？！<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好啦，先不要多問。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我現在來找你，確實是因為一件極為重要的事。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+接下來，你需要跟我去南極參加會談。<br>
+一場可以幫助你一舉扭轉當前局面的會談。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……現在立刻去南極？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+不用擔心，我自有辦法，不會耽誤你的戰役指揮的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……會談的對象是？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+觀察者哦——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=安全模式|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+2 安全模式<br>
+斯卡帕灣錨地·阿瓦隆之門地下入口<br>
+自從伊莉莎白抵達斯卡帕灣錨地已經過了小半日。<br>
+這段時間以來，伊莉莎白一直從外部排查阿瓦隆之門可能出現的各種故障。<br>
+終於，她得出了結論。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……不是故障，而是安全模式啟動了。<br>
+只有這一結論能夠解釋阿瓦隆之門目前的狀態。<br>
+安全模式是伊莉莎白·META對於阿瓦隆之門安全性升級改造的一環……<br>
+當遭遇了可能由外部透過阿瓦隆之門入侵實驗場β，或是由實驗場β入侵阿瓦隆之門內部的威脅時，安全模式才會被自動啟動。<br>
+……難道之前那個幻境，在生成期間居然還在試圖將影響力入侵至阿瓦隆之門內部嗎。<br>
+但如今幻境已經被全部瓦解了……威脅已經消失，安全模式應該會隨即解除才是。<br>
+為什麼此刻的阿瓦隆之門依然處於安全模式中……<br>
+本王相信，伊莉莎白·META研發的系統絕對不會出現如此低級的故障。<br>
+那就只有一個解釋了……<br>
+直到此刻，已然存在有一個試圖從外部通過阿瓦隆之門入侵實驗場β的威脅……！<br>
+……這個伊莉莎白·META，偏偏這時候出去狩獵。<br>
+……不行，等不了了。必須立刻聯絡她問問。<br>
+<br>
+伊莉莎白閉目凝神，啟用了一個伊莉莎白META臨行前留下的緊急聯絡裝置。<br>
+恍然間，她似乎不是身處地下通道中，而是一列飛馳的列車上。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……真是神奇的技術。<br>
+伊莉莎白·META，本王有事找妳，妳在哪裡？<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+哇！是實驗場β的伊莉莎白！<br>
+妳怎麼找到這裡來了！<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+阿瓦隆之門的安全模式啟動了，本王不知緣由，所以來問問。<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+稍等！伊莉莎白正在開車，我叫她過來哦！<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+……安全模式被啟動了？此事確實不妙。<br>
+阿瓦隆之門內情況如何？<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+本王要是能聯絡上裡面還來找妳做什麼！<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+糟糕……這次狩獵之行來得突然，持續時間也比預期要長。<br>
+與安全模式配套的通訊中轉淨化裝置在本王離開之時尚未完工……<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+也就是說……直到安全模式自己解除之前，連妳也沒有任何辦法聯絡到阿瓦隆之門內部了？！<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+那倒不是，如果本王親自去的話，別說聯絡到阿瓦隆之門的內部，就算帶妳直接進去都行。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+那妳快給本王回來！<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+不行！伊莉莎白要幫我追鯨魚！！<br>
+好不容易快追到了，不能回去！！！<br>
+妳要是想聯絡到裡面的人，我也有辦法呀！<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+什麼……？妳有辦法？快說！<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+用上次我送給妳的「滴滴嘟嘟鐺鐺咣咣」！<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……「滴滴嘟嘟鐺鐺咣咣」？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+她之前送妳的那隻鯨魚玩偶……<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……哦。<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+我在離開之前，把「叮叮咚咚嗶嗶啪啪」留在房間裡了！<br>
+你用「滴滴嘟嘟鐺鐺咣咣」呼叫「叮叮咚咚嗶嗶啪」！<br>
+裡面的人聽到了接起來，你就能跟她說話了！<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……「叮叮咚咚嗶嗶啪」？<br>
+<span style="color:#ffc960;">伊莉莎白女王·META：</span><br>
+另一個鯨魚玩偶……<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……哦。<br>
+<span style="color:#4eb24e;">D小姐：</span><br>
+好啦好啦，妳快回去試試吧，我們要去專心抓鯨魚了！<br>
+<br>
+伊莉莎白睜開雙眼，地下通道灰色的牆壁映入眼簾。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+鯨魚玩偶……找到了。<br>
+按下去，就算啟動了吧……？<br>
+<span style="color:#4eb24e;">奇怪的機器：</span><br>
+叮叮叮——咚咚咚——<br>
+噠噠噠——噠噠噠——<br>
+嗶嗶嗶——啪啪啪——<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+………………<br>
+<span style="color:#4eb24e;">奇怪的機器：</span><br>
+……這隻虎鯨玩偶，怎麼突然響了。<br>
+難道是個通訊裝置嗎……？<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……前衛？是妳嗎。<br>
+<span style="color:#4eb24e;">奇怪的機器：</span><br>
+哇啊啊，陛下，是您嗎？！<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+不錯。本王現在正在阿瓦隆之門外部的地下通道。<br>
+妳現在立刻去控制台，之後根據本王的指示行動。<br>
+本王需要立刻知道阿瓦隆之門此刻的所有運行數據——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=外部異質|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+3 外部異質<br>
+NA海域·核心區域週邊海域<br>
+這片原本危險層出不窮的海域，在與構建者的那場激戰結束後，如今已徹底歸於平靜。<br>
+就連海域中心那個由永不停歇的風暴構成的奇異點都彷彿被世界遺忘了。<br>
+但在今日，越來越多的艦隊正在匯聚而來。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+雖然中心風暴看起來變化不大，不過儀器的讀數已經上升到誇張的程度了……<br>
+讓各艦隊每隔五分鐘報告一次檢測結果，同時絕對不能擅自進入危險區域！<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+放心，我已經安排下去了。<br>
+唉，本來各地出現的異常情況就已經令人焦頭爛額了。<br>
+真沒想到，中心風暴會在這個時間點進入不穩定狀態……<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+紐澤西，我發現了兩個肉眼可見的目標正在向妳的位置高速接近。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嗯……？我的雷達上什麼都沒看到啊——<br>
+哦，是她們兩個對吧？<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+嗯。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+不要阻攔，讓她們過來。她們既然從風暴內部出來，應該清楚到底發生了什麼事。<br>
+對了，和往常一樣把補給物資準備好。<br>
+<span style="color:#4eb24e;">{namecode:197}：</span><br>
+嗯，明白。<br>
+<br>
+自從NA海域大型作戰結束後，餘燼的飛龍與皇家方舟便一直駐紮在中心風暴這個永久奇異點中。<br>
+由於她們在奇異點中與聯合艦隊一同對抗塞壬仲裁機關的經歷，再加上其在陸上神國事件期間出手相助的事。<br>
+各陣營對她們都頗有好感，碧藍航線指揮部也不例外。<br>
+根據指揮官下達的命令，在NA海域核心區域駐防的艦隊，要定期為駐守在中心風暴中的餘燼成員提供補給物資。<br>
+餘燼的飛龍在這件事上倒也不客氣，每次都是大大方方的照單全收。<br>
+光明正大的來，光明正大的走。有時候還會留下來吃個飯。<br>
+一來二去，在此駐防的艦隊，對這兩位餘燼成員早已十分熟悉了。<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+喲~諸位今天擺這麼大的陣仗，看來是已經發現奇異點內部出現的問題了啊。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+飛龍女士，請問中心風暴的漩渦之中到底出了什麼事？<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+別急，我們這次專程出來，其中一個目的就是為了告訴妳們正在發生的事。<br>
+首先呢，需要告訴妳們兩個壞消息。<br>
+第一，中心風暴的突然異變不是其自發性的。<br>
+此時此刻，有某種外在異質正在湧入奇異點中，並且試圖穿過它，入侵妳們的實驗場β。<br>
+第二，過去被擊退的仲裁者·赫米忒·IX、仲裁者·司特蓮庫斯·VIII以及仲裁者·天帕嵐斯·XIV重新出現在了中心旋渦中。<br>
+看來這次也是衝著妳們的實驗場β來的。<br>
+不過嘛~還有一個好消息。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+好消息……該不會是？！<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+不錯~仲裁機關在發現那些威脅等級較高的外部異質後，就先和它們打成一團了。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+所以……中心風暴突然出現的異常是因為……其中正在進行著激烈的戰鬥？！<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+不錯。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+飛龍，那些仲裁機關、以及聽起來同樣危險的外部異質……不論那一個最終勝利，對我們來說都很麻煩吧？<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+沒錯，所以妳們趕緊想辦法把這個奇異點徹底關了吧。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+關……？要是有辦法關，我們早就關了！<br>
+這個奇異點當初是妳們的企業創造出來的，妳要不問問她有沒有辦法？<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+距離太遠，我聯絡不上企業、只能等她聯絡我。<br>
+都過去這麼久了，我還擔心她是不是把我們兩個給忘在這裡了呢……<br>
+<span style="color:#ffc960;">皇家方舟·META：</span><br>
+……飛龍。<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+哎呀，吃人的嘴短，沒什麼不能說的！<br>
+<span style="color:#ffc960;">皇家方舟·META：</span><br>
+………………<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+妳們餘燼這種鬆散的組織結構……到底是怎麼活到現在的。<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+第一，我們都很能打，而企業是我們中最強的，她比我們都能打。<br>
+第二，我們有許多可以預測危險的手段的，所有成員之間保持緊密聯絡反而很危險。<br>
+放心，餘燼不是什麼冷酷無情的組織。<br>
+這場危機如果把我們也捲進去了，關鍵時刻一定會有人來支援的。<br>
+（……大概。）<br>
+（而且再怎麼說，海倫娜也不會見死不救的！）<br>
+總之別想太多啦~計畫趕不上變化。兵來將擋水來土掩，走一步看一步吧~<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+……我真欣賞妳的豁達。<br>
+對了，妳剛才在來的時候說，其中一個目的是為了告訴我們奇異點內正在發生的事……另一個目的是什麼？<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+神仙打架凡人遭殃，當然出來避難咯~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=生路|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+4 生路<br>
+房間中，信濃凝視著手中的護符陷入了沉思。<br>
+恍然間，一股奇妙的感覺縈繞而來。<br>
+那是一種無比熟悉，卻又因長久未曾出現而變得陌生的感覺。<br>
+那是，入夢的感覺——<br>
+映入眼簾的是一處暗紅色的世界。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+三途川，彼岸花……<br>
+此處正在舉行某種儀式……<br>
+<br>
+信濃看向天空，空中流淌的無數能量，正朝著一棵枯萎的巨大櫻花樹緩慢匯聚著。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+那棵枯萎的櫻花樹……也是神木嗎？<br>
+不對……雖然都與海若有關。但，本質不同……<br>
+此為……由海若直接孕育而生之物……？！<br>
+<br>
+信濃感受著天地間流動的氣息，希望能從中得到更多情報。<br>
+朱紅之中，她感受到了一抹綹紫色。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+……武藏？<br>
+<br>
+絳紫色的身影走在彼岸花海中。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+……很好，敵人的注意力全都被吸引了過來，瑞鶴可以暢行無阻了。<br>
+呵呵……原本此行只為了打破儀式守護結界，沒想到她會跟來……為此局又增加了一個變數。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+武藏，汝身上的這股反應……汝到底做了什麼？！<br>
+<br>
+絳紫色的身影沒有理會信濃的呼喊，就彷彿她根本不存在於此地一樣。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+武藏——！<br>
+<br>
+信濃用力伸出手，可是手指徑直穿過了武藏的肩頭，如同穿過了一團清風。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+咳、維持決戰兵器的啟動狀態果然負荷很大……得盡快行動了。<br>
+<br>
+絳紫色的身影回望了一眼櫻花樹的方向，而後重新開始了移動。<br>
+一路之上，絳紫色的身影不斷驅動著那股不可思議、又持續消耗著她生命力的力量。<br>
+黑色的浪潮無數次匯聚，又無數次潰散。<br>
+終於，絳紫色的身影倒下了。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+真靜啊…<br>
+……如海潮般的魑魅魍魎，居然被「中和」的如此乾淨。<br>
+神通確實誠不欺我……決戰兵器，一旦徹底完成的話……<br>
+呵呵……可惜，這個兵器不是什麼人都能駕馭得了的。<br>
+還好……這次作為核心的人是我。<br>
+如果是信濃……恐怕是走不到這一步的。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+……武藏。<br>
+如果吾能早點正視自己的力量，早點擺脫渾渾噩噩的狀態……<br>
+不……現在亦不晚……<br>
+吾等的誕生皆與海若有關……吾等的力量，也應該是相連的！<br>
+一定、一定有什麼辦法…<br>
+信濃，思考……快思考！<br>
+<br>
+絳紫色的身影突然露出了一個淒美地微笑。<br>
+明知她此時絕不可能看到自己，信濃還是不禁愣神了。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+……生亦何歡，死亦何懼。<br>
+……人生五十年，如夢亦似幻。一度得生者，豈有不滅者乎？<br>
+哈哈……哈哈哈哈哈……<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+不要……<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+吾將用這最後一擊，用一條絕路，換出無數條生路！<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+等等，妾身一定有辦法……<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+「彼岸之花，三途之川，蝶影翩躚，一葉渡黃泉。」<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+不要——————！<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+「斬————」<br>
+<br>
+金色的蝴蝶群如旭日般自信濃的身上迸發而出，點亮了水面，亦點亮了這個暗紅色的世界。<br>
+光芒消散後，映入眼簾的是如同幻想畫般的風景。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+虛幻與真實的夾縫，連通夢境的休息間……<br>
+妾身，終於又能來到此處了……<br>
+<br>
+與往日不同的是，空間中飛舞著無數金色的蝴蝶。<br>
+蝴蝶群的飛行軌跡有序而明晰，在空中留下了一道道清晰的金線。<br>
+而金線的盡頭，則是一座座被點亮的鳥居。<br>
+鳥居連通著夢境，而這條條金線，就彷彿在指明一條前進的道路一般——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=熔冠|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+5 熔冠<br>
+極地·王冠週邊海域<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+庫斯克同志，我在收到聯絡後就帶領艦隊趕來了，現在王冠的情況如何？<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+……不容樂觀，儀器讀數還在持續增強中。<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+嗯……真奇怪。王冠只是一個從未成功開啟的奇異點遺跡，怎麼會出現如此異常的能量讀數。<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+我也不知道……但是這種感覺，很危險。<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+……我去聯絡契卡洛夫，看看她和設計局同志們有沒有什麼想法。<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+還要做好戰鬥準備，<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+嗯，看來增援太平洋戰場的行動只能延後了。<br>
+喂，契卡洛夫同志，我是蘇維埃俄羅斯，能聽到嗎——<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滋——滋——<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+通訊干擾……這到底——<br>
+<br>
+蘇維埃俄羅斯沒有繼續疑惑下去，因為她已經透過雙眼看到了答案。<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+王冠……正在發光？！<br>
+怎、怎麼可能……<br>
+<br>
+滋——眾目睽睽下，王冠散發出的亮度又提高了一個等級。<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+俄羅斯同志，我帶來的電子儀器已經失靈過半了。<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+……看來，雖然不知是何原因，但是沉寂已久的王冠要在此時開啟了。<br>
+所有人立刻遠離王冠，撤離這片海域！<br>
+<span style="color:#ff9b93;">清除者：</span><br>
+不錯不錯，真是明智的決定。<br>
+快逃吧，逃的越遠越好~<br>
+<br>
+一個未曾設想過的聲音突然出現在通訊器中<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+清除者？！<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+這段時間我們一直在找妳，沒想到妳居然會主動現身。<br>
+<span style="color:#ff9b93;">清除者：</span><br>
+妳以為不和妳們打是怕了妳們嗎？！<br>
+不會吧，不會妳們真的這麼覺得吧？！<br>
+算了，總之退遠點──本清除者真正的實力妳們馬上就能見識到了！<br>
+<br>
+至少這一次，清除者並沒有說大話。<br>
+伴隨著清除者的話語，以王冠為中心的海面開始急速冰封。<br>
+而原本有些陰沉的天空中，雲層也變得愈發厚重。<br>
+狂風、暴雨、雷暴、冰雹、暴雪，各種天氣交替出現在王冠上空，甚至出現了短暫的龍捲風。<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+清除者這是在…攻擊王冠？<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+看上去確實對王冠造成了一定損傷，不過損傷主要來自第一次冰封。<br>
+剩下的這些天氣變化……不明白它是在做什麼。<br>
+<span style="color:#4eb24e;">蘇維埃俄羅斯：</span><br>
+我在想……它是不是在向我們炫耀實力？<br>
+<span style="color:#4eb24e;">庫斯克：</span><br>
+…………<br>
+<br>
+當龍捲風也消散後，清除者似乎終於滿意了。<br>
+不過隨即，王冠突然迸發出一陣更強大的力量。衝擊力粉碎了被冰封的海面，王冠的亮度也再次提高了一個等級。<br>
+然而就在此時——<br>
+世界似乎變為了純白。<br>
+在色彩消失的最後一刻，北方聯合眾人看到一道憑空出現的粗光柱自上而下徑直命中了王冠。<br>
+光芒消散後，清除者與碩大的王冠全都消失不見了。<br>
+留下的只有一片近乎沸騰的海面——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=危機與轉機|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+6 危機與轉機<br>
+太平洋·接近重櫻週邊海域<br>
+暗紅色的屏障厚重而渾濁，散發著一種彷彿攝人心魂的沉重壓力。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+……糟糕，大結界居然會進入如此狀態。<br>
+四萬十，立刻與吾一同開始淨化。<br>
+吾等必須先設法淨化出一個入口，才能進入其中展開調查！<br>
+<span style="color:#4eb24e;">四萬十：</span><br>
+遵命，長門大人。<br>
+<br>
+在長門開始淨化儀式後，其餘眾人都有默契的向後推出了一段距離，然後散開警戒。<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+看來這個所謂的「重櫻大結界」，也是某種加密的鏡面海域？<br>
+不過我還是第一次見到這種類型的……外部邊界不僅清晰可見，而且異常堅固。<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+因為……這不光是鏡面海域的邊界，同時也已經成為了奇異點的內外分界線。<br>
+這處名為「奈落」的奇異點形成原因與常規奇異點不同，性質也十分特殊。<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+妳好像對它有所了解？<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+……我曾經在其他地方，見過性質與它類似的奇異點。<br>
+那個奇異點……最初是為了對抗塞壬的終盤清算而被製造出來的希望。<br>
+而最終……它也確實完成了在創造之初被賦予的使命——以一個極其扭曲的方式。<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+……極度扭曲的方式？<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+……在奇異點的影響下，現實世界開始逐步瓦解、凋零。<br>
+最終，整個實驗場之內，除了創造者之外的所有人都被奇異點吞噬了，無一倖免。<br>
+包括全部的塞壬實驗機關。<br>
+實驗機關既然不存在了，終盤清算也就無從談起了……不是嗎。<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+……？！<br>
+這個奇異點，竟然如此危險……？！<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+危險的不是這個奇異點本身。<br>
+它的力量如妳所見，雖然被稱為災難級，但其大小規模並不足以導致一整座實驗場的毀滅。<br>
+但因為它的出現，而與妳們的實驗場產生關聯的那些……外在異質就不同了。<br>
+……等等，極地的「王冠」，是不是一個奇異點的遺跡？<br>
+同盟同志，立刻命令艦隊監控「王冠」的狀況！<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+……王冠？但王冠早就已經……<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+我知道，所以只是去監控。不過，還是要命令艦隊做好戰鬥準備…<br>
+……然後，這個世界上，還有其他的奇異點對吧。<br>
+不管是天然的還是人工的，正在啟動的還是已經關閉的……<br>
+有條件的立刻將其全部摧毀！<br>
+如果摧毀不了的……立刻設定防線將其全面封鎖！<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+……妳認為，這些奇異點全都可能出現危險？<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+一定會出現！<br>
+……當年，我們被打了個措手不及。<br>
+我不希望妳們重蹈跟我一樣的覆轍！<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+……我明白了。我立刻聯繫指揮官協調各陣營開始部署。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#4eb24e;">印第安納：</span><br>
+……指揮官先打來了？<br>
+<span style="color:#4eb24e;">蘇維埃聯盟：</span><br>
+喂，指揮官同志，我有一件極其重要的事要告訴你——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是關於奇異點「奈落」和它可能造成的連帶影響嗎？<br>
+這些我已經知道了，而且我已經有了應對方案，不用擔心。<br>
+長門在嗎，我聯絡不上她了。<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+長門大人正在專心淨化大結界，或許是沒注意到通訊器的聲音。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+現在立刻讓她接上頻道，我也有一件極為重要的事找她。<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+明、明白！<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+指揮官，聽說汝找吾有急事？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+長門，妳對於復活天城的事情怎麼看？<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+……如今的一切亂局都來自於此，吾對於此事的看法很複雜。<br>
+三言兩語難以盡述。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+如果我說，現在有辦法能讓天城真正的復活呢？<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+……絕無可能。<br>
+<br>
+砰————————！<br>
+突如其來的巨響激盪著整片海域，一條清晰可見的裂縫赫然出現在半空中。<br>
+<span style="color:#4eb24e;">四萬十：</span><br>
+長門大人！大結界被人從內部物理破壞了！<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+……物、物理破壞？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+長門，現在是一個極度危險的時刻，但也是一個稍縱即逝的機會。<br>
+妳相信我嗎？<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+吾對汝之了解並不深，遠遠談不上信任的程度。<br>
+不過……吾多次聽瑞鶴談到汝之所言所行。汝近來所做之事，吾亦有所耳聞。<br>
+所以——吾決定相信汝。<br>
+說吧，需要吾做什麼？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我之前的話並非空談。我真的有一個能夠讓天城真正復活，同時解決當前危局的計劃。<br>
+但這個計劃需要此時赤城的完全配合。<br>
+請妳不論用任何方法，立刻找到她！然後穩住她！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=各有所圖|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+匯聚於此岸之塵<br>
+<br>
+7 各有所圖<br>
+？？？·？？？<br>
+一處廣袤無垠的空間中，懸浮著一個精巧的庭院。<br>
+<span style="color:#c3abff;">曼非斯·META：</span><br>
+唉…<br>
+<span style="color:#c3abff;">亞利桑那·META：</span><br>
+妳已經是第二十一六次嘆氣了哦。<br>
+<span style="color:#c3abff;">曼非斯·META：</span><br>
+唉……！<br>
+<span style="color:#c3abff;">亞利桑那·META：</span><br>
+第二十七次。<br>
+<span style="color:#c3abff;">曼非斯·META：</span><br>
+妳們說……海倫娜留下任務安排之後，就再也不接電話了。<br>
+……這算是什麼意思？<br>
+現在局面對指揮官來說那麼危險……她為什麼不讓我去！<br>
+<span style="color:#c3abff;">女灶神·META：</span><br>
+……海倫娜這麼安排一定是有自己的考慮的，而且約克鎮不是也同意了嗎？<br>
+<span style="color:#c3abff;">曼非斯·META：</span><br>
+還有妳！妳和霞明明都很適合這次任務，但她選了霞卻沒選妳！<br>
+妳說……她是不是故意把咱倆排除在外，想獨佔指揮官的？<br>
+<span style="color:#c3abff;">女灶神·META：</span><br>
+…………<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+咳…<br>
+<span style="color:#c3abff;">曼非斯·META：</span><br>
+啊、霞，妳已經準備好出發了？<br>
+一路小心哦，指揮官的安全就拜託妳了。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+嗯……放心吧，曼非斯。<br>
+<br>
+一陣藍色光芒閃過，名為霞的少女從庭院中消失了。<br>
+<span style="color:#c3abff;">曼非斯·META：</span><br>
+唔……還是不放心。<br>
+神通還在線上……我得再去囑咐她兩句！<br>
+<span style="color:#c3abff;">亞利桑那·META&女灶神·META：</span><br>
+…………<br>
+<span style="color:#c3abff;">約克鎮·META：</span><br>
+……眼前看到的危險，不一定是真正的危險。<br>
+不論如何，我會盡我所能保護你的。<br>
+一切小心……指揮官。<br>
+<br>
+實驗場β·中層防線<br>
+這裡是拉沃斯與恩普雷斯為防禦X而設立的防禦體系的中層。<br>
+自從好人理察入侵至此處後，拉沃斯佈設的防禦力量一下陡增數倍。<br>
+近一周來，好人理察沒有將戰線再向前推。<br>
+直至今日——<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+嗯……？怎麼從剛才開始抵抗就變弱了？<br>
+……艦隊正在撤離？<br>
+不是說要跟我比耐心嗎，這就撐不住了？<br>
+啊哈哈哈哈——！<br>
+說大話，真丟臉。<br>
+嗯~雖然看起來實驗場β好玩的事才剛開始呢~！<br>
+拉沃斯~既然妳不打了，那我就過去囉？<br>
+<br>
+熟悉的聲音沒有響起，四周只有一片死寂。<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+真的走了啊……那我真的過去了哦？<br>
+<br>
+四周已然只有一片死寂。<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+欸嘿嘿，那我就不客氣啦？<br>
+實驗場β~我·來·啦~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
