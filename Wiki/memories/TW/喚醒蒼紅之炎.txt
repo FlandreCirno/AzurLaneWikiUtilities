@@ -1,0 +1,2980 @@
+== 喚醒蒼紅之炎 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=與觀察者的會談|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」開啟前，某個特殊的會場之中——<br>
+意識在片刻的模糊後，突然進入了一個無比浩瀚的空間。<br>
+雖然事先得到了海倫娜的提醒而有所準備，但依然感到了一股強烈的不適感。<br>
+觀察者靜靜漂浮在一個巨大的裝置中，海倫娜和構建者也在同一時間出現了。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+觀察者，協助指揮官復活天城。而後，我會確保妳的存在。<br>
+否則，今日等待妳的只有死亡。<br>
+接受或拒絕，妳沒有第三種選擇。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+哎呀，一上來就咄咄逼人，這是求人合作的態度？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+妳知道的，我還有別的選擇。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+但都沒有跟我合作的方案來得好，不然妳花力氣來跟我談什麼？<br>
+噢~也算不上是妳來跟我談。<br>
+不知道妳的指揮官有沒有其他看法呢？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+$1只是單純的見證者而已。與妳談判的人，就是我。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（…………）<br>
+（海倫娜說的不錯，我雖然來到了此地，但是對於具體情況幾乎一無所知。）<br>
+（在會議開始前，海倫娜只是向我解釋了這是一次為了逼迫觀察者與我們合作而進行的會談。）<br>
+（而且，這次會談必須由我在場見證。）<br>
+（至於構建者為何會出現、要怎麼迫使觀察者同意合作等等……她都沒有事先說明。）<br>
+（而在會談一開始，她就提出了那個令人匪夷所思的交換條件……沒有任何鋪墊，沒有任何說明。）<br>
+（海倫娜的強硬令人震驚，而更令人震驚的是觀察者沒有動怒，也沒有立刻拒絕，而是在……試探？）<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+喲~妳真的能代替妳的「指揮官」做這麼重要的決定？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+能。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+……<br>
+<span style="color:#4eb24e;">構建者：</span><br>
+……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……嗯，她確實能。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+別試探了，妳的所有底牌我都一清二楚。而我的底牌，就算妳連接主機，也不可能窺探分毫。<br>
+而且，妳真的不明白我為什麼帶$1來作為這場會談的見證者嗎？<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+……特殊的「指揮官」，特殊的「實驗場」，特殊的……「我」。<br>
+……妳真的能做到？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+蠢問題，我不是已經把構建者完完整整帶到妳面前了。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+不一樣。我一旦連接主機，主機馬上就能察覺到我目前的異常狀況，而後開始對我進行「資料修復」。<br>
+在「資料修復」完成之前，我是不可能呼叫自然進化演算系統的。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+主機不會察覺到妳的異常狀況的。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+理由。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+「塔」。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+……原來如此。<br>
+原來如此……原來如此~！<br>
+啊哈哈……啊哈哈哈哈——啊哈哈哈哈哈！<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+妳笑夠了嗎？<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+不光是我，還有所有實驗機關一起，這是我的條件。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+可以。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+呵呵，奈落已經出現，要做準備確實得盡快了~<br>
+不過，妳確定妳的指揮官能把「東西」帶回呢？<br>
+如果做不到，一切都是空談。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+能。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……為什麼會突然提到那個災難等級的奇異點「奈落」？）<br>
+（「東西」指的又是什麼……？）<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+很好~那麼，我同意與妳合作。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+明智的選擇。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……觀察者，竟然同意合作了？！）<br>
+（這可是觀察者……那個一直將世界當作實驗場隨心所欲操控的觀察者！）<br>
+（面對海倫娜不留空間且咄咄逼人的強硬態度……居然就這麼簡單同意了？！）<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+「世界切片」要呼叫哪一段？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+妳來決定吧，要最穩定的。<br>
+<span style="color:#fef15e;">觀察者 ：</span><br>
+好，妳先去做接收其他實驗機關的準備吧，連接主機之前我會來找妳的。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+好。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……觀察者和海倫娜的對話內容，我能理解的部分寥寥無幾。）<br>
+（唯一能夠確定的是，她們已經就一系列重大事項的行動方針達成了一致，並且開始了具體部署。）<br>
+（我跟海倫娜的情報差距到底有多大……她到底知道多少東西……）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+指揮官，我們該走了。<br>
+我知道你現在有很多疑惑，別擔心，還有時間。<br>
+我會把接下來你需要知道的事，一五一十全部告訴你。<br>
+讓我們並肩作戰，做一場從未有實驗場成功完成的「大事」吧——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=測試者的毀滅|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+太平洋<br>
+測試者主機週邊海域<br>
+指揮艦內<br>
+睜開雙眼，映入眼簾的是指揮艦辦公室的天花板——以及一臉焦急的曼非斯。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+指揮官，您和海倫娜·META小姐的談話結束了嗎？<br>
+<br>
+為了防止在會談期間遭遇突發事件，我要與海倫娜·META進行交流情報的事，還是事先跟曼非斯進行了報備。<br>
+不過一些更具體的細節，例如會談的對象包括了觀察者，會談的目的是和觀察者達成合作之類的事……自然是沒有說的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，奈落的危險性，以及我們接下來要進行的應對方式，我已經心中有數了。<br>
+不得不說，我們遠遠低估了奈落將會帶來的危險。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……遠遠低估？星海已經將其判定是災難級了，比之前NA海域中心的奇異點還危險……這也是低估了嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，依然是遠遠低估。<br>
+接下來我要進行的一系列部署，妳或許會感到很困惑。<br>
+但我現在沒辦法向妳解釋原因……只能說，這確實是此時此刻的最優解，希望妳你能夠相信我。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+嗯……您的話，我當然相信。指揮官的命令，我也沒有理由不聽。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+曼非斯，紀錄命令。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+是！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+第一，停止針對測試者主機的解析工作，將星海和東煌超算中心的全部算力投入對於奇異點奈落的情報解析中。<br>
+第二，停止對於測試者主機的攻擊準備，所有艦隊立刻進行出發準備，半小時後前往新的集合地點，準備對於奇異點奈落的作戰行動。<br>
+第三……<br>
+<br>
+半小時後，原本熱鬧的測試者主機週邊海域，此時已被徹底清空。<br>
+空氣中，首先傳來了一陣似有似無的蜂鳴聲。<br>
+而後，海面之上突然出現了一座被建築群環繞包圍的高塔。<br>
+測試者的主機塔，就這樣第一次毫無保留的展現在現實世界。<br>
+再之後——<br>
+在巨大的爆炸中，彷彿堅不可摧的主機塔頃刻間分崩離析。<br>
+曾經牢牢控制著太平洋的測試者主機塔，從這個世界永遠消失了——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=清除者的毀滅|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+太平洋<br>
+前往「奈落」的航線上<br>
+指揮艦內<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<br>
+'''''<span style="color:black;">选择项1：開啟通訊器</span>'''''<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+沒想到真的接通了……<br>
+指揮官同志……？能聽到嗎？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+通訊很清晰。靈敏，妳現在應該是在極地王冠附近吧？<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+沒錯！在王冠出現異常狀況後，我們一直在監測它的情況。<br>
+可是之前的通訊干擾一直很嚴重，我們的監測結果根本發不出去！<br>
+不過就在剛才，我發現干擾突然全部消失了！所以就想著先聯絡一下指揮官同志……嘿嘿，果然接通了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，不用擔心，之後不會再有干擾出現了，通訊會持續性暢通無阻的。<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+噢~？聽你這麼說，難道是指揮官同志用了什麼奇妙的方法把問題解決了？<br>
+不對不對……不是閒聊的時候。指揮官同志，我有一個重要的消息要告訴你！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+清除者在不久之前突然摧毀了王冠？<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+沒錯，而且不光如此——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+清除者的主機在不久之後也發生了自爆，徹底毀滅了？<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+沒、沒錯……指揮官同志，你怎麼什麼都知道……<br>
+……該不會你一直在哪裡偷看我們吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……怎麼可能，我只是有其他的消息來源罷了。<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+原來如此！指揮官同志真厲害！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（真正厲害的是海倫娜·META就是了……）<br>
+咳、不用擔心極地的問題，清除者已經不會構成威脅了。<br>
+妳去聯絡蘇維埃俄羅斯，讓她準備帶領艦隊前往太平洋，支援針對奇異點奈落的戰鬥。<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+……奇異點奈落？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+詳細資訊和具體作戰任務稍後送達。<br>
+<span style="color:#4eb24e;">靈敏：</span><br>
+明白！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+第二座自毀的主機塔……沒想到觀察者做的這麼絕。<br>
+「我會確保妳的存在」，海倫娜，妳給觀察者的交換條件難道是……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=淨化者的毀滅|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+印度洋·？？？<br>
+淨化者的主機<br>
+休息室<br>
+<span style="color:#4eb24e;">淨化者 ：</span><br>
+呼……好無聊啊——<br>
+南極打的熱火朝天的，可是觀察者偏偏不讓我們去直接支援，只允許提供艦隊……<br>
+難道是因為它一直不上戰場，這次主機塔被威脅……突然想試試親自指揮戰鬥的感覺了？<br>
+觀察者親自帶領艦隊衝鋒的畫面……簡直不敢想。<br>
+算啦算啦~觀察者行事自有道理，想不通的事還是別費腦子了。<br>
+可是……所有實驗都暫停了，真的好無聊啊——<br>
+呃——啊啊啊啊——！<br>
+這種無聊的日子什麼時候才會到頭啊——<br>
+<br>
+厚重的地毯在打滾中輕輕顫動。突然，淨化者突然翻坐起來，彷彿打定了某個主意。<br>
+<span style="color:#4eb24e;">淨化者 ：</span><br>
+對了，看看太平洋那邊的戰況如何了。<br>
+對面這次氣勢洶洶的，測試者可千萬別搞砸了……嗯？<br>
+資料庫中的資料正在被讀取……？<br>
+等等……不光是被讀取，而且同時被轉移走了？！<br>
+未經我的許可怎麼會發生這種事？<br>
+<br>
+淨化者打開資料庫，發現自己的資料確實正在以極快的速度在自己的眼前消失。<br>
+<span style="color:#4eb24e;">淨化者 ：</span><br>
+數據已經大半不見了……？可是我本人的運作卻沒有受到絲毫影響……<br>
+數據調用……也正常。怎麼會有這麼荒唐的事……我的數據究竟去哪了？！<br>
+<br>
+淨化者立刻下達了一連串指令，可是沒有起到任何效果。就算封閉了資料庫，資料依然在快速消失。<br>
+而後，在資料被徹底清空的那一刻，自毀命令被啟動了。<br>
+<span style="color:#4eb24e;">淨化者 ：</span><br>
+哈啊……？！別、等、等等——！<br>
+<br>
+在巨大的爆炸中，彷彿堅不可摧的主機塔頃刻間分崩離析。<br>
+曾經牢牢控制著印度洋的淨化者主機塔，從這個世界永遠消失了——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=發生於行動前的事|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」·週邊海域<br>
+指揮艦正在接近目標區域。在這個距離下，奇異點奈落所散發出的血紅色已經清晰可見了。<br>
+不久前，倖存的重櫻艦隊已經從大結界的缺口處成功撤離到了安全海域，長門也成功穩定住了赤城的情緒。<br>
+一路之上，我們針對現狀與即將面對的危險進行了深入的情報交換。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（重櫻在本次事件中的損失，遠比我的預期中要大。）<br>
+（雖然重櫻艦隊在發現無力抵抗侵蝕影響時便轉換了思路，成功保存了有生力量。）<br>
+（但仍有包括武藏、三笠、加賀在內的一眾重櫻高層、三成以上的船艦以及幾乎全部量產型被摧毀。）<br>
+（——當然，這一切都在海倫娜的預期內。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+在與重櫻核對損失時，你會發現她們的損失大到了一個令人瞠目結舌的程度。<br>
+這就是奇異點奈落危險性最直觀的體現。<br>
+不過不用擔心，重櫻內部還是有個正常人的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳是指……？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+大和。<br>
+在重櫻的領導階層中，神通給予最高評價的就是大和了。<br>
+這一次，她也果然沒有令人失望。<br>
+在奈落出現前後，她在情報受限、行動亦受限的情況下，憑藉正確的佈局做了一些列完全正確——甚至超出我預期的舉動。<br>
+正是因為這一系列行動，讓重櫻在本次奈落之中所產生的所有「死亡」都有了挽回的空間。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……「死亡」……有挽回空間？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+心智魔方損壞的瞬間，其中的資訊會同步消散，才會導致艦船的真正死亡。<br>
+可是，如果本來應該消散的資訊被保留下來了呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+心智魔方損壞……但資訊被保留了下來……這怎麼可能？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+你忘記赤城在復活天城的儀式中所使用的，天城的「靈魂」了嗎？<br>
+總之，這些問題回頭再解釋。<br>
+你現在只需要知道，一切的關鍵都在於天城的復活。<br>
+只要計畫能順利進行，一切問題自然會迎刃而解的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（目前，總算是穩定住了赤城，開始與重櫻商討執行計畫的事了……）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+指揮官，在本次行動中，奇異點奈落、觀察者，以及「你」是三個至關重要的要素，缺一不了。<br>
+奇異點奈落，是以重櫻的神石海若為核心，基於元魔方的力量誕生的奇異點。<br>
+其仍具有神石，即通古斯隕石樣本所具有的性質－同化週邊環境，化「夢」為「現實」。<br>
+在這一點上，赤城之前的思路是正確的，我們也要沿用這條思路。<br>
+不過，與她使用被侵蝕的天城靈魂情報不同，我們的手段要高明和可靠的多。<br>
+在這麼多年與塞壬打交道的過程中，你應該聽過「自然進化演算系統」。<br>
+這個系統，是安蒂克絲執行審判者計畫的核心，也是其最重要的設備之一，<br>
+系統的主機由觀察者零直接管理，誰也不知道其具體存放位置。<br>
+不過，每個實驗場的觀察者都與該系統連結的權限，這也是觀察者能夠完全掌控實驗場的根本原因。<br>
+否則，實驗場β的觀察者就是下場。<br>
+在這次行動中，我們需要讓觀察者重新連接自然進化演算系統，並依靠該系統，創造出一段往昔世界指定區域的「世界切片」。<br>
+而後將這段往昔世界的切片投射到奈落中，使其變成奈落之中存在的「投影」。<br>
+這樣，我們就可以透過進入奈落的方式，進入世界切片之中了。<br>
+至於復活天城所必須的靈魂情報，從世界切片中直接獲取就好。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……就這麼簡單？<br>
+那豈不是……我們可以用這種方法復活任何一個因為心智魔方損壞而消逝的艦船了？！<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+很遺憾，並非如此。<br>
+奇異點奈落的核心是重櫻的神石海若，而其誕生的原因，來自於赤城多年來的執念。<br>
+而赤城執念的根源，只有天城。當然，這裡稍微拓展一下到所有她在乎的人也可以。<br>
+但總之，「任意一個人」是不可能的。<br>
+而這個過程，必須由你親自帶隊進入，親自執行才能成功。<br>
+更不用說奇異點奈落本身對世界的危險了。<br>
+在你進入奇異點後，所有艦隊必須死守奇異點外部，不停削弱它的力量，防止其將污染向外擴散。<br>
+同時，也必須有另一隊人承受著侵蝕進入原本的奈落之中，追蹤在測試者主機被摧毀後逃入其中的天城偽物。<br>
+目前在實驗場β中，天城已經死亡的現實已經被赤城成功扭轉。<br>
+但是，其創造出的偽物同時佔據了「天城」的概念。<br>
+如果不除掉偽物，我們就無法真正將屬於實驗場β的天城復活。<br>
+不過，也不用太擔心~這隻小隊的行動雖然危險，不過我已經有了安排。<br>
+至於安排的內容——先留個懸念，你等一下就知道了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（海倫娜的話語還歷歷在目，給過來的計劃，也已經反覆閱讀了好幾遍……）<br>
+（依靠自然進化演算系統的力量，這項計劃看起來確實十分具有可行性。）<br>
+（可是有幾個最關鍵的點，海倫娜寫的含混不清……）<br>
+（被佔用的「天城」概念，還有需要「我」親自去做的事……）<br>
+<br>
+咚咚咚——（敲門聲）<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+指揮官，打擾了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+赤城的情況如何了？<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+赤城的情緒再次穩定了下來，可以進行下一輪會談了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+她還是拒絕淨化身上META化的侵蝕嗎？<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+是。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……那就暫時先這樣吧。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+還有一件事，在長門和赤城先前的交談中，我們發現了雙方有情報差異的情況。<br>
+例如，長門提到了自己被攻擊，而比叡代替自己被抓走了，可是赤城卻表示她沒下過這個命令，也根本不知道這件事。<br>
+而在長門詢問赤城為什麼要佔領測試者主機的時候，赤城依舊表示她不知道這件事。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……那個詭異的狐面天城果然擁有自我意識，其行動的一部分是出於自身的某種意圖……<br>
+看來另一隻行動小隊在應付她的時候需要更加小心了……<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……指揮官，我們真的要跟觀察者合作嗎？<br>
+赤城就是在和觀察者合作後，一步一步變成了今天的樣子……<br>
+我有點擔心……<br>
+<br>
+雖然在第一時間沒有和曼非斯說與觀察者合作的事。可是隨著部署的深入，這終究是個繞不過去的話題。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我和妳一樣，完全不相信觀察者。<br>
+不過我相信海倫娜META，而且我相信她一定給觀察者開出了一個它無法拒絕的條件。<br>
+這次行動一定會順利的。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+但……再怎麼說，也不用你親自帶隊去吧，實在太危險了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+海倫娜·META說，必須由我親自去才能完成這次行動。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……理由呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+理由她還沒說，不過我相信她。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+…………<br>
+……海倫娜，海倫娜，你就那麼相信她嗎。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……嗯？妳剛才說什麼，我沒聽清楚。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+我是說！指揮官，我也相信你！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+嗯……？聯絡人自稱是……重櫻的水無月？<br>
+她是誰……怎麼會有指揮艦的聯絡方式？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+她……是大和的人。這件事我來處理吧。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+欸……？好。那和赤城的會談怎麼辦？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+赤城那邊的話……<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+指揮官閣下，這位就是赤城。<br>
+赤城，這位是碧藍航線的指揮官。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+赤城，自構建者主機戰一別，好久不見。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……是你。<br>
+你現在來做什麼，看我笑話嗎？<br>
+還是說，你是來講跟我笑話的？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……？）<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+姊姊已經不可能復活了，這一點沒有人比我更清楚。<br>
+你現在突然跑過來說這些……只是單純想找個藉口介入重櫻的事務吧？<br>
+我反正也無力善後了，你自便。<br>
+趕緊把奈落關了，讓這場惡夢結束吧……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……？？？）<br>
+……算了，再讓她冷靜冷靜比較好。<br>
+妳先把作戰計畫書發給她，等一下再和她談。<br>
+對了，告訴她，完成META化淨化是執行行動的必要條件。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+好的，明白。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（大和此時前來聯絡，難道是……出現了什麼變故嗎。）<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我是碧藍航線的指揮官。水無月小姐，請問有什麼事找我嗎——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=呼叫世界切片|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+主機連線－連線中<br>
+連線成功<br>
+觀察者——實驗場β——<br>
+——2.9143,1.7420,-1.3776,-2376029143<br>
+資料校驗——校驗中<br>
+校驗透過<br>
+自然進化演算系統呼叫申請——評估中<br>
+評估通過——呼叫中<br>
+世界切片生成：「蒼紅」<br>
+地點設定：天城宅邸週邊<br>
+切片生成中-生成完成<br>
+資料下載中-下載完成<br>
+自然進化演算系統呼叫結束——<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+呼~一切順利，妳想要的東西到手了。<br>
+接下來只要把切片投影到奈落的指定區域就好了。<br>
+哼哼，全程果然沒被主機察覺到異常~<br>
+雖然依靠的是塔的力量，但全程操作的人是妳——我現在對妳身上的秘密越來越有興趣了~<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+不該好奇的事情別好奇。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+好好~不得不說，能和現在這種狀態的赤城談成合作，妳的指揮官確實有點本事。<br>
+不過，奈落內部的情況妳也清楚，妳這個計畫可以說是如履薄冰。<br>
+妳怎麼捨得讓妳的指揮官去冒這麼大的險？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+再說一遍，不該好奇的事情別好奇。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+哎呀~真沒勁。<br>
+好吧好吧，那人家就乖乖去準備世界切片的投影了~<br>
+別忘了，維持切片的存在依然需要和主機連線，記得全程保護好人家的安全哦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=多線作戰準備|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+「奈落」裂口週邊海域，一段時間後——<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+赤城，這次行動危險性很大，一路上要千萬小心。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯，知道了，長門大人~<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+這次行動由指揮官負責，出發後一定要聽指揮官閣下的話，不要擅自行動。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯，知道了，長門大人~<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+然後，照顧好瑞鶴和龍鳳。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯，知道了，長門大人~<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+還有……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+您想說的我都知道，不用擔心了，長門大人~<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+噢……<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……？這真的是……那個赤城？<br>
+指揮官，你們最後一次開會的時候到底發生了什麼事？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是……讓她親眼看了一下世界切片而已。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+光是看了一眼……變化就這麼大？！<br>
+不愧是能做到高層領導位置的人，變臉比翻書都快，真厲害……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……我也沒想到她的改變會這麼大。<br>
+（……或許，這才是被覆蓋在執念的陰雲下的……真正的她吧。）<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+赤城前輩，我已經準備好了。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+很好，穿著得體，而且很有精神。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+赤城前輩，妳選龍鳳我不意外……可是妳真的讓我也跟去嗎……？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯，自然。這是一個難得的機會，可以進一步拓展你的眼界。<br>
+而且見到姊姊後，我也想第一時間跟姊姊介紹一下妳們這樣優秀的後輩。<br>
+碧藍航線的指揮官~你那邊準備好了嗎，差不多該出發了吧？<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+怎麼反過來催起我們來了？！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+喧賓奪主……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這個性格，倒是比之前好相處了很多……）<br>
+（這次行動十分危險，再加上還有大和囑託的事又是難事一件……）<br>
+<span style="color:#4eb24e;">{namecode:133}：</span><br>
+「吾之手中，並非擁有全部亡於儀式結界之中的靈魂。」<br>
+「而是除去一人之外的，全部亡於儀式結界之中的靈魂。」<br>
+「除去之人，便是——加賀。」<br>
+「加賀雖然亡於儀式結界之內，但是其靈魂被捲入了奈落之中，吾當時無法回收。」<br>
+「因此，加賀之事，吾不可為。」<br>
+「不過，汝為能夠喚來奇蹟之人，再加上天城從旁輔佐，或許真的能有奇蹟誕生。」<br>
+「吾很期待。」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（唉，這次行動離不開赤城的協助，希望她的這個狀態能繼續保持下去吧……）<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+企業，在我進入奇異點奈落之後，太平洋戰區的指揮權立即交還給妳。<br>
+各陣營艦隊我也下達了命令，將會一同聽從妳的指揮。<br>
+妳的任務是帶領艦隊，開闢一條從缺口處到儀式核心法陣的安全通道，以便隨時關閉奇異點奈落。<br>
+同時，妳需要在缺口處設防，阻擋並消滅從奈落中湧出的敵人。<br>
+星海和東煌天星台會全程協助妳監測奈落的狀態，如果出現了新的缺口，妳要立刻分配艦隊去處理。<br>
+總之，在我回來之前，盡可能控制奈落的規模，同時保持隨時關閉奈落的能力。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+明白，外面的事交給我吧。<br>
+指揮官，一路小心。<br>
+<br>
+同時的，另一支小隊正在進行著出發前的最後準備——<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+長門大人，您此舉實在太危險了……請三思。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+吾已經決定了，此事不容再議。<br>
+<span style="color:#4eb24e;">{namecode:158}：</span><br>
+至少讓我與您同行，長門大人。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+江風，汝沒有神石的親和性，也無操控神石網路的資格，此事只能由吾一人完成。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+別擔心，我會保護好長門大人的。<br>
+<span style="color:#4eb24e;">{namecode:158}：</span><br>
+……妳身為武藏大人的家臣，連武藏大人都保護不好，我不相信妳。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+……我會用這次行動來彌補我的失敗。行動結束後，我會向武藏大人當面謝罪的。<br>
+<span style="color:#4eb24e;">{namecode:158}：</span><br>
+妳最好說到做到。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+長門大人，時間差不多了，您準備好了嗎。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+吾準備好了。<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+真的不會對身體造成損害，真的能淨化回來的，對吧！<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+妳們的心智魔方上設置有安全鎖，原本對於META化侵蝕就有極高的耐受性。<br>
+而且可控META化是一項經過檢驗的成熟技術，本次也只會使用這項技術之中最安全、最基礎的部分……<br>
+……好吧，看來妳也不相信我。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+以噗噗之名起誓，行動結束後，一定讓長門大人恢復原狀。<br>
+<span style="color:#4eb24e;">{namecode:95}：</span><br>
+……好，我相信妳。<br>
+<br>
+奈落是基於神石海若而生。若想要在其中鎖定狐面天城的位置，必須讓一個能夠控制神石網路的人進入奇異點。<br>
+而在奈落之中，META化侵蝕及其嚴重。<br>
+與其任由其侵蝕室，在不可控的時候出現META化現象，不如一開始就直接以穩定的META化形態配合淨化裝置一同進入。<br>
+——這是海倫娜META得出的結論。<br>
+因此，在她的安排下，這項任務就由長門、神通·META以及霞·META來進行。<br>
+長門進入的可控META化狀態也是透過霞·META能力來實現的。<br>
+<span style="color:#4eb24e;">{namecode:74}：</span><br>
+霞，開始吧。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+得罪了，長門大人。<br>
+<br>
+霞·META捧起一團藍色的火焰，然後將火焰拍入了長門的胸膛。<br>
+隨即，長門沐浴在藍色的火焰中。火焰安靜、無聲地燃燒著，長門的意識也似乎沉入了火焰的深處——<br>
+「月虧月盈，花落花開。」<br>
+「生命之息輪轉，守護之力不絕。」<br>
+「余乃長門，重櫻的神子，長門。」<br>
+「余已了然汝心中之願。」<br>
+「余想要守護重櫻的同伴。」<br>
+「余便助汝達成所願。」<br>
+「此行之中，盡情運用余之力量吧——」<br>
+火焰陡然飛散，露出了已然發生蛻變的長門。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+呼………結束了嗎。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+長門大人，您感覺如何？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+余的頭有點暈，好像……聽到了一些聲音，又看到了一些景色。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……？讓我來檢查一下。<br>
+…………？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+如何？可有異常？<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+不，並無異常。您的狀態非常好，比預想之中的還要好……<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+如此，甚好。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+別忘了之前說好的，您只需要負責搜尋偽物的位置，除此之外盡量不要動用力量，戰鬥交給我和神通就好。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+了然。事不宜遲，吾等也盡快出發吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=另一處戰場|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+在觀察者的配合下，全球各處的通訊網路從沒有像今日這般暢通。<br>
+奈落帶來的危險是全球性的。<br>
+當企業帶領太平洋中的聯合艦隊處理重櫻本島週邊的危險時，NA海域中心的奇異點則交給了紐澤西和歐羅巴諸國負責。<br>
+鳶尾教國·大教堂<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+貞德、阿爾及利亞，由妳們兩人帶領教國艦隊前往NA海域中心區域支援。<br>
+戰役由紐澤西指揮，妳們需要配合她全力封鎖NA海域中心風暴，為指揮官的行動拖延時間。<br>
+<span style="color:#4eb24e;">聖女貞德：</span><br>
+遵命，黎胥留大人。等待艦隊集結完畢後，我們就立刻出發。<br>
+<span style="color:#4eb24e;">阿爾及利亞：</span><br>
+我們一定不負所託，在戰場上全力展現鳶尾騎士的風采。<br>
+<span style="color:#4eb24e;">黎胥留：</span><br>
+不用等待集結完畢了，妳們現在就帶領能夠即刻完成作戰準備的人員先出發。<br>
+本輪支援相比規模，更重要的是速度。<br>
+剩餘艦隊，在完成出擊準備後由讓·巴爾帶領，作為第二批支援前往戰場。<br>
+<span style="color:#4eb24e;">圣女贞德&阿尔及利亚：</span><br>
+遵命！<br>
+<br>
+鳶尾教國·鐵血使館區<br>
+<span style="color:#4eb24e;">俾斯麥zwei：</span><br>
+鐵必制，NA海域的戰局至關重要，由妳帶領本土、北海兩支艦隊前去支援。<br>
+即使不惜代價，也要爭取足夠的時間。<br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
+嗯，保證完成任務，姊姊。<br>
+<br>
+鳶尾教國·薩丁帝國使館區<br>
+<span style="color:#4eb24e;">維托里奧·維內托：</span><br>
+地中海艦隊自不必說，還有包括塔蘭托、亞歷山大、威尼斯等港區在內的全部駐防艦隊……<br>
+羅馬駐防艦隊妳也一併帶走，還有全部的量產型艦隊……和全部的空軍編隊！<br>
+嗯，立刻將全部的空軍編隊轉移到鳶尾教國境內的機場中！<br>
+利托里奧，這次我們要全數出動，帝國的所有海空軍力量都要參與這場光榮的戰役！<br>
+幕後黑手畏懼帝國的威光，這是個好現象，但還遠遠不夠……<br>
+接下來的這場戰役中，我們要集結最龐大的武裝，向全世界證明……我們薩丁帝國，確實是一股舉足輕重的力量！<br>
+<span style="color:#4eb24e;">利托里奧：</span><br>
+呵呵~放心吧，維內托。我會讓我們的盟友和我們的敵人都會大吃一驚的~<br>
+<br>
+鳶尾教國·審判庭大樓<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+鳶尾、白鷹、鐵血、薩丁、餘燼……嗯，好像還有人在閒著呢。<br>
+雖說所有奇異點都有失控的風險，可唯獨阿瓦隆之門那裡平靜如一潭死水……<br>
+看來之前伊莉莎白的安全性改造升級似乎頗有成效。<br>
+既然如此，她們的艦隊也別閒著，得調動一下……<br>
+還有會場中跟信濃一起來的重櫻艦隊……也是一股不小的力量呢……呵呵~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=再次亮相的浮動船塢|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+在指揮官等人離開後，企業也開始了自己的戰鬥。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+伊吹小姐，重櫻艦隊現在的真實狀況如何？<br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
+實不相瞞……量產型艦隊損失殆盡，戰鬥人員中……保有戰鬥力的不足五成。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+情況確實嚴峻……我已經在後方展開了多座浮動船塢，隨時可以投入使用。<br>
+妳們的傷者可以去浮動船塢內修整治療，補給不足的人員，也可以自由使用其中的物資。<br>
+同時，妳們的艦隊需要進行重新編隊，才能參與接下來的戰鬥行動。<br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
+多謝，浮動船塢的事我馬上同步回去。<br>
+至於重新編隊的事，土佐大人和鳳翔大人已經在處理了。<br>
+說到接下來的行動，確保缺口到儀式核心法陣安全通道的任務可否交由我們負責？<br>
+我們是最熟悉重櫻本島的情況……以及那些敵人的人了。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+這是一個非常危險的任務。妳們剛剛脫離險境，真的要回去嗎？<br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
+事關重櫻安危存續，我們責無旁貸。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+好，這項任務就交給妳們，不過，我還是會派遣一隻狀態良好的艦隊與你們同行。<br>
+這不是小看妳們的能力，而是確保行動萬無一失的準備。<br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
+沒問題，我們明白。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+大黃蜂，帶領妳的艦隊配合重櫻艦隊執行任務。<br>
+<span style="color:#4eb24e;">大黃蜂II：</span><br>
+噢~要去是最危險最刺激的地方呢，剛好可以檢驗一下新型裝備的能力！<br>
+<span style="color:#4eb24e;">企業：</span><br>
+不要大意，妳們的任務是整場戰役的關鍵，絕對不能有任何錯誤。<br>
+<span style="color:#4eb24e;">大黃蜂II：</span><br>
+放心放心~姊姊妳在外面也小心哦~<br>
+<span style="color:#ffc960;">基洛夫·META：</span><br>
+等等，我也去。在這件事上，絕對不能有任何差錯。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+好。<br>
+目前的裂口處，由我的艦隊和重櫻留在外部的艦隊足夠處理。<br>
+其餘諸位，依照先前的規劃重組艦隊，然後前往預定位置待命。<br>
+北部防區由蘇維埃聯盟負責，西部防區由哈爾濱負責，東部防區由碉堡山負責，南部防區由匹茲堡負責。<br>
+隨著時間推移，奈落的強度會不斷增強，裂隙也會越來越多。各艦隊需要保存實力，以便第一時間投入戰鬥。<br>
+目前，聖地牙哥司令部的援軍還在路上，沿線各港口的駐防艦隊也正在匯聚而來。<br>
+NY司令部的援軍則要更晚。<br>
+這些就是我們可以依仗的全部後援力量。<br>
+戰鬥預計會拖成持久戰，注意保存實力，靈活應對戰局變化。<br>
+<span style="color:#4eb24e;">眾人：</span><br>
+是——！<br>
+<br>
+「奈落」裂口週邊海域·三號浮動船塢<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+給~摩耶姊姊，拿上號碼牌先去休息，維修服務稍後就到哦~<br>
+<span style="color:#4eb24e;">{namecode:68}：</span><br>
+多謝。<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+不客氣~欸，涼波，妳也受傷了嗎？！<br>
+<span style="color:#4eb24e;">涼波：</span><br>
+只是一點擦傷，不礙事……我是來進行彈藥補給的。<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+彈藥補給的話，請在此登記，然後走綠色通道一直向前哦~<br>
+<span style="color:#4eb24e;">涼波：</span><br>
+嗯……麻煩了。<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+哇，瑞鳳妹妹，妳好厲害……這裡不久前還是一片混亂呢，沒想到現在已經井然有序了。<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+嘿嘿，其實只是現在人變少了而已啦。<br>
+女灶神姊姊~妳那邊忙完了嗎？<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+還沒有，只是有事要去一下五號浮動船塢，順便來看看妳這邊的狀況。<br>
+怎麼樣，來妳這邊的重傷員多嗎？<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+嗯……嗯，有一些。我已經照妳的囑咐，把重傷者都轉移去五號浮船塢了。<br>
+女灶神姊姊，妳一定要幫幫她們！<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+別擔心，瑞鳳妹妹，包在我身上！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+……嗯？對，是我，女灶神。<br>
+……瑞鳳妹妹，剛好在我身邊，三號浮動船塢……嗯？我明白了。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+嘟————<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+出什麼事了嗎，女灶神姐？<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+啊，沒有。是妳們的人有重要的事要找妳，接妳回去的人就快到了。<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+瑞鳳，妳在這裡嗎？出雲大人有急事找妳，讓我們來接妳回去~<br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
+大、大家打擾了……<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+哇哦，是旗風和綾瀨。女灶神姊姊，我可以先回去嗎？<br>
+<span style="color:#4eb24e;">女灶神：</span><br>
+當然沒問題啦，管理這裡原本就是我的工作，妳能來幫忙一段時間我已經很感謝！<br>
+<br>
+瑞鳳離開三號浮動船塢，跑向旗風和綾瀨的位置。不經意間，她似乎看到旗風的眼角閃過了一抹蒼白的光。<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+旗風，妳剛才的眼神裡……？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+……？我的眼睛裡怎麼了？<br>
+<span style="color:#4eb24e;">{namecode:88}：</span><br>
+嗯……沒事，大概是錯覺吧。<br>
+好啦，別讓出雲大人等急了，我們快回去吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=異常的META化|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+不遠處，一位少女正踏著輕快的步伐穿梭在滾滾煙塵之中。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+沒有散發著侵蝕氣息的惡龍……沒有扭曲怪異的狐狸天城……<br>
+我不知道是幸運還是不幸……迎接我的只有這樣一個荒涼又混沌的世界。<br>
+不過……我現在的身體狀態，怎麼看都已經算是META化了吧……<br>
+雖然和了解中的META化……體感完全不一樣。<br>
+沒有狂躁的情緒，沒有破壞的慾望……倒不如說，內心反而出奇的平靜和輕鬆。<br>
+力量增強的也很紮實……就像已經擁有了這股力量很多年了一樣。<br>
+甚至有種……變得更年輕更有活力……輕飄飄的感覺……？<br>
+不對不對……我本來也不老！<br>
+呼……靜心平氣，靜氣平心。<br>
+當務之急是盡快從這裡脫身，向長門大人報個平安。<br>
+不過出路的方位在……<br>
+欸，千里之行始於足下……總之先找找看吧~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=奈落中的偶遇|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+轟————！<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+呼，輕輕鬆鬆~<br>
+本來以為能生存在這種怪異世界裡的敵人能有多強……結果卻是不堪一擊。<br>
+這股力量……果然和我一直以來聽聞的META之力不同……<br>
+這種令人感覺安心可靠，又有些飄飄然的力量到底是怎麼回事……<br>
+<br>
+嗡嗡聲——<br>
+機械的轟鳴聲，自不遠處由塵埃構成的雲層中傳來。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+……艦載機群？在這裡？<br>
+難道還有其他人被困進來了？<br>
+不行，我得去看看！<br>
+<br>
+<br>
+穿越一片厚重的煙塵，周圍的環境陡然變化，彷彿進入了一個全新的世界。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+陰雲，雷雨，還有燃燒的海面……作為幻境來說相當逼真。<br>
+難道幻境也是這個怪異世界的組成部分麼…<br>
+<br>
+抬頭望去，此前只能聽到聲音的艦載機群，如今清晰可見。<br>
+而艦載機群鎖定的目標，是一隻翱翔於天空的巨鳥。<br>
+轟————！<br>
+攻擊沒有效果，艦載機群在巨鳥的反擊中頃刻消失了。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+可惜了……這隻巨鳥和一路之上遇到敵人外觀相似，但是戰鬥力卻截然不同。<br>
+這些怪物究竟是什麼來路呢……<br>
+<br>
+戰鬥的聲音已經停止了。<br>
+剛才的艦載機似乎是最後一輪徒勞的攻勢，海域中殘骸遍地，戰鬥的結果已經顯而易見。<br>
+轟————！<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+還……沒有結束。<br>
+爾等的力量之源……我已經十分清楚了。<br>
+就算這個世界已經萬劫不復……我也要把你們一同拖入地獄之中！<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+旗風……？<br>
+……不行，她的傷好嚴重，再打下去會沒命的！<br>
+<br>
+在仔細衡量自己當前的處境和敵人的危險性之前，身體先於大腦而行。<br>
+轟————！<br>
+伴隨著炮擊聲，少女的身影切入了戰場——<br>
+<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+——如浮雲般消逝吧！<br>
+<br>
+轟————！<br>
+如同字面上一般，空中飛舞的巨鳥連同其所藏身的雲層一起，在比叡·META的攻擊下徹底分崩離析。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+旗風，還撐得住嗎？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+比叡……？妳怎麼會還活著……我不會是在做夢吧？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+對妳來說，我就是一個夢。對我來說，妳也是。<br>
+但就算在夢境中，我也不能對妳見死不救。<br>
+被驚動的敵人正在蜂擁而至，我先帶妳離開這裡。<br>
+之後的事……走一步看一步吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=偶遇的收穫|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+沿著原路返回，再次穿過厚重的煙塵後，世界重新切換。<br>
+煙塵之後，似乎能聽到那些怪物的嘶鳴吼叫，不過卻沒有任何敵人追出來。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+看來那些怪物不能離開幻境的邊界，不過……這道邊界不能阻擋妳呢。<br>
+難道妳跟我一樣，並非原本就屬於幻境之中的人？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+幻境是什麼……？這裡又是哪裡？我果然是在做夢吧……？<br>
+……算了，看來你比我還要搞不清楚現狀。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+唉，接下來我們不知道還要在這裡被困多久，我先幫妳處理傷口。<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+嘶——<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+忍著點，處理完就好了。<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+這麼痛……果然不是夢。<br>
+那也就是說……在這場絕望的戰鬥即將迎來終結之時，我遇到了某種奇蹟嗎。<br>
+……比叡，妳不怕我嗎？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+……怕妳做什麼？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+我身上的這股力量……妳應該能感覺到的。<br>
+我已經跟那些魔物……差不多了。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+那有什麼關係？力量就是力量，其善惡取決於使用的人。<br>
+就像我，使用META化的力量救了妳，妳不是也沒怕我？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+……不一樣。我的力量，比META化可怕的多。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+那是妳的敵人該害怕的事，而我不是妳的敵人，對嗎？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+我們算是初次相識，妳就這麼相信我？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+就算我們先前並不相識，對彼此來說，也不是那個記憶之中相識的人。<br>
+但我相信，有些東西的本質是不會改變的。<br>
+我相信旗風，所以我相信妳。<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+……妳真的META化了嗎？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+這也是我一路之上在思考的問題……怎麼看，我現在的狀態都和以往認知中的META化完全不一樣啊！<br>
+妳有什麼頭緒嗎？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+……全無。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+欸，算了，這些麻煩的事等回去之後再想吧。<br>
+我跟妳不一樣，算是因為意外來到這裡的……這麼長時間不回去，長門大人怕是要擔心死了。<br>
+得盡快找到出去的路才行！<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+……<br>
+妳現在面朝的方向為基準，右轉47.5°，筆直向前。<br>
+或許……能找到離開這裡的道路。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+真的嗎……？！妳是怎麼知道的！<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+直覺…<br>
+這股特殊力量帶給我的——直覺。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=明斷前路|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+一扇鳥居，又一扇鳥居。信濃在無數夢境之中穿梭、見證著。<br>
+這些夢境是千篇一律的悲劇，其結局也都是以四散的金色蝴蝶而告終。<br>
+不過，信濃已經逐漸理解了。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+妾身的存在能夠呼喚金色的蝴蝶……而金色的蝴蝶——能夠結束悲傷的夢境。<br>
+既然如此……便由妾身來結束所有出現在夢境中的悲傷吧。<br>
+<br>
+信濃一路向前，發光的鳥居越來越少，匯聚在空間中的金色蝴蝶數量則越來越多。<br>
+終於，只剩下了最後一處。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+前方……就是金色蝴蝶所標記出的最後一隻鳥居了。<br>
+不知道在這個夢境中，有怎樣的悲傷等著我……<br>
+<span style="color:#ffc960;">扶桑·META：</span><br>
+信濃大人，這扇鳥居您不能過去，請停下腳步。<br>
+<br>
+一個意外的身影憑空出現在海面上，阻止了信濃與鳥居之間。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+汝為……扶桑？<br>
+<span style="color:#ffc960;">扶桑·META：</span><br>
+向您問好，信濃大人。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+為何要阻止妾身？<br>
+<span style="color:#ffc960;">扶桑·META：</span><br>
+信濃大人，您之前對於神石海若敬而遠之的態度是對的。<br>
+請遠離神石，遠離夢境，此中之物是不您該深入探究的。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+此時此刻，正是需要妾身展現力量之際。<br>
+不論汝有何理由，退開。<br>
+<span style="color:#ffc960;">扶桑·META：</span><br>
+……信濃大人，您還是跟過去一樣。<br>
+而如此堅持……也只會得到和過去一樣的結局。<br>
+就算被您怨恨也無所謂，這次，我一定要阻止您。<br>
+<br>
+名為扶桑·META的少女抬手在鳥居上設置了一個散發著緋紅色光芒的結界，而後和來之時一樣，於轉瞬之間消失了。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+此結界頗為複雜……解析起來不知要花多久……<br>
+看來……只能正面突破了。<br>
+<br>
+信濃精心凝神，將力量幻化為一隻只紛飛起舞的藍色蝴蝶。<br>
+而後她抬起手，周圍的金色蝴蝶也匯聚而來。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+……時間寶貴，一擊，破之。<br>
+<br>
+兩色蝴蝶紛紛飛起舞，速度越來越快，直到形成了一個散發著金光的藍色風暴。<br>
+不過就將力量即將釋放的前一刻，信濃感受到了另一股強大的力量出現在空間中。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+等等，信濃。保留實力，此處就交給我吧！<br>
+<br>
+一個熟悉的聲音從空中傳來。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+……雲仙？！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+就用這一劍，證明吾之清明澄澈之心——<br>
+—— 「斷」！<br>
+<br>
+金色光芒如同一把利刃從天而降，帶著凜然的氣勢，將緋紅色結界一刀兩斷。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+信濃，前路已通，快走。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+多謝，有勞汝和大和費心了。<br>
+<br>
+金色的蝴蝶重新匯聚於鳥居之上，散發出迄今為止最耀眼的光。<br>
+信濃沒有絲毫猶豫於遲疑，飛躍了光芒之中——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题={namecode:161}之夢|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+恍惚之間，意識彷彿在飄散，飄向無邊無際的遠方。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……又是這種感覺。<br>
+最近幾日一直都是這個夢，難道是思慮過度了嗎……<br>
+<br>
+天城放任自己的意識在空間中飄散，尋找任何有用的資訊。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+果然……和之前一樣，這裡什麼都……嗯？那是什麼？<br>
+<br>
+天城集中精神，遠方空間的一個小物件就這麼憑空飛到了手中。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+這是……勾玉護符？<br>
+<br>
+？？？·？？？<br>
+入目所及之處，世界盡陷火海。<br>
+兩個熟悉的身影，正被火焰一點點吞噬著。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……這是……怎麼回事？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……咳、咳……<br>
+這樣的命運……<br>
+我不接受……<br>
+我、絕不接受……<br>
+姊姊……<br>
+<span style="color:#ff9b93;">觀察者 ：</span><br>
+呵，果然和模擬結果一模一樣，沒有出現絲毫偏差。<br>
+虧我還抱有一絲絲的期待呢。<br>
+既然如此，那就按照原定劇本來吧，先在此把妳們抹除，然後——<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+抹除……？妳休想！<br>
+<span style="color:#ff9b93;">觀察者 ：</span><br>
+……嗯？赤城身上掛的那個護符為什麼開始發光了……？<br>
+等、等等，這股力量是——<br>
+<br>
+？？？·？？？<br>
+在枯萎的櫻花樹下，矗立著兩個熟悉的身影。<br>
+<span style="color:#ffc960;">{namecode:91}：</span><br>
+……差一點，只差一點了。<br>
+為什麼……為什麼就差最後這一點……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……這是在舉行……某種儀式嗎？<br>
+<span style="color:#ffc960;">{namecode:91}：</span><br>
+加賀……妳和我是最了解姊姊的人，也是補全姊姊殘魂最好的祭品。<br>
+妳知道嗎……只要完成了儀式，姊姊就能回來了。<br>
+所以……<br>
+跟我一起去，好嗎？<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+……嗯。<br>
+讓我們，一起完成儀式的最後一步。<br>
+——「由奈落赴黃泉」<br>
+<br>
+無害的枯枝陡然展現殺機，從兩名少女的視野盲點直刺而來、<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……等等！住手！<br>
+哈啊……哈啊……<br>
+<br>
+睜開雙眼，映入眼簾的是臥室熟悉的佈景。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……惡夢？<br>
+不……作為夢境來說有些太逼真了……<br>
+這應該近似於某種……預兆。<br>
+……赤城。<br>
+生死乃由天定。<br>
+自從發現身體上的軟弱來自於心智魔方的先天缺陷後，我就已經認命了。<br>
+……早就已經認命了。<br>
+<br>
+咚咚咚——（敲門聲）<br>
+<span style="color:#4eb24e;">{namecode:39}：</span><br>
+天城大人，有客人來訪。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+這個時間點來……加賀？她又來找我下棋了？<br>
+<span style="color:#4eb24e;">{namecode:39}：</span><br>
+正是如此，天城大人。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+呵呵，妳們先招待著，我準備好就去了。<br>
+<span style="color:#4eb24e;">{namecode:39}：</span><br>
+遵命。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……<br>
+……能護佑平安的護符……嗎。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=歸家|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+世界切片·「蒼紅」<br>
+指揮官特別行動艦隊<br>
+進入世界切片後，映入眼簾的是一片櫻花樹林。<br>
+這裡天氣晴朗、陽光、煦。伴隨著微風吹過，淡雅的花香與點點花瓣撲面而來。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+這、這裡是……<br>
+回來了……真的回來了……<br>
+這裡是有姊姊存在的世界……姊姊就在這裡……<br>
+<br>
+少女眼角似乎湧出了點點星光，不過在髮絲的遮掩下轉瞬間消失了。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（指揮官，情況如何，還順利嗎？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（妳不都看到人進入切片了嗎，有什麼好問的？）<br>
+<br>
+耳邊陸續響起了海倫娜與觀察者的聲音。<br>
+這個聯絡頻道是海倫娜為了這次行動專門準備的，頻道內的聲音也只有我能聽到。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（我們進入了一片櫻花林，目前一切正常。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（好，保持聯絡，一切小心。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯。）<br>
+<br>
+結束了與海倫娜的通信後，不遠處的赤城已經先一步行動起來了。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+這裡是個絕佳的賞花地，以前我和妹妹常來這裡，賞花會也大多在這裡舉辦。<br>
+走吧，我先帶妳們去附近轉轉~<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+……？<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+啊、啊……這片櫻花林的位置，我覺得有點熟悉。<br>
+這區域現在是被劃入赤城前輩的宅邸範圍內了吧？<br>
+沒想到，我曾經去過數次的訓練場，原來竟是這樣一片美麗的花海……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……姊姊過世之後，我實在沒有精力維護這片櫻花林了。<br>
+與其看它日漸衰敗下去，不如乾脆推平修成訓練場來的痛快。<br>
+好啦~不說這些事，我繼續跟妳們說哦，順著這條小路走呢——<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……我還是無法習慣這種變臉速度，簡直就像有雙重人格一樣。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+不過至少目前為止，並沒有做出任何異常的舉動來。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+我覺得在外面轉來轉去介紹景點的行為已經夠異常的了……<br>
+不是要辦正事嗎，她還想繞多久？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……其實，我倒是稍微能理解到她這麼做的原因。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……嗯？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（她正在努力將自己變回過去姊姊記憶裡的「赤城」吧……）<br>
+走吧，我們先跟上去。<br>
+<br>
+櫻花林·涼亭<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+這座亭子就是我們常常舉辦賞花會的地方了。<br>
+不只依山傍水，休息的同時可以欣賞花海，遠方還能看到姊姊的天守閣。<br>
+大家就先在這裡休息一下~<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+赤城前輩……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+先休息。<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+是……<br>
+<br>
+涼亭中，此時只有水流聲和遠方傳來的鳥鳴聲。<br>
+曼非斯和海倫娜還是和赤城處不來，她們坐在距離我最近，離赤城最遠的地方冷眼旁觀著。<br>
+坐在赤城身旁的瑞鶴和龍鳳，此時也投來了求助的目光。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（奈落外圍的戰鬥壓力會隨著時間的推移而不斷增加，雖然赤城的情緒穩定對於行動能否成功至關重要……）<br>
+（不過也不能無止盡的縱容下去，差不多該去做正事了。）<br>
+<br>
+'''''<span style="color:black;">选择项1：赤城。</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+什麼事？<br>
+<br>
+'''''<span style="color:black;">选择项1：該去做正事了。</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳還要準備多久？</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+我心裡有數。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不，妳沒有。<br>
+<br>
+一旁的瑞鶴和龍鳳有默契地退到了涼亭的另一頭，拉開了和這裡的距離。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……你是碧藍航線的指揮官，管不到我頭上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我現在不只是碧藍航線的指揮官，我還是這次行動的指揮官。<br>
+不只我的艦隊，妳的艦隊也在奇異點外努力戰鬥。<br>
+奈落的強度每分每秒都在增加，我們必須盡快行動。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……再等等，再過一下子就好。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不要怕，不論如何，她都是妳的姊姊。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……好吧，喝完這杯茶，我們就出發。<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+赤城大人——早安！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+那珂，還有旗風……妳們是要出門嗎？<br>
+<span style="color:#4eb24e;">{namecode:140}：</span><br>
+嗯，我們正準備出海訓練呢~赤城大人，您旁邊的這幾位是？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+來見姊姊的客人。<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+喔~天城大人正在會客廳與加賀大人下棋，我這就告訴神通姐有客人來訪。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+不必了，這些客人由我來引薦給姊姊，妳們不是要去出海訓練嗎？快去吧。<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+好~那赤城大人，回頭見啦——<br>
+<br>
+那珂與旗風轉身離開了。在某個所有人都沒發現的瞬間，旗風的眼中似乎閃過了一抹蒼白的光。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……茶喝完了，我們也出發吧。<br>
+我帶你們去見……我的姊姊。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=團圓|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+世界切片·「蒼紅」<br>
+指揮官特別行動艦隊<br>
+離開涼亭後，我們在赤城的帶領下再次出發了。<br>
+這次她沒有再繞路，而是徑直進入了頗具規模的天城宅邸中。<br>
+一路之上，瑞鶴和龍鳳對所有見到的景像都感到非常好奇。<br>
+畢竟進入世界切片之中，就如同回到了過去的世界。<br>
+不過因為赤城散發出的氣壓愈發強大，二人總算是勉強維持著表面上的認真與嚴肅。<br>
+曼非斯和海倫娜則繼續維持進入世界切片後就不自覺間形成的默契——走在一個離我最近又距離赤城最遠的位置。<br>
+穿過幾道圍牆，又經過一段寬廣的道路後，赤城突然停了下來。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……會客廳，到了。<br>
+<br>
+門內，依稀有兩個不同的聲音傳出。<br>
+一個柔和而沉穩，另一個則凌厲中帶著幾分不甘。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+呵呵……這樣就將死了。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+可惡……又敗給妳的詭計了！<br>
+再來——！<br>
+<br>
+雖然是陌生的聲音，不過在看到赤城如同觸電般僵住的表情時，答案已經呼之欲出了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+赤城，我帶她們去附近轉轉，待會見。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……哼，別走太遠，小心迷路。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+那我們回頭見啦，赤城前輩。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+欸……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+走吧，給她們一點時間和空間。<br>
+<br>
+砰———！<br>
+門被猛然拉開，這場對弈被不請自來的外來者粗暴打斷了。<br>
+跪坐在桌前的身影、容貌、氣質，一切都與赤城記憶中的相同。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……不，比記憶中的更完美。<br>
+姊姊……<br>
+姊姊大人……<br>
+<br>
+說出幾個字，彷彿已經耗盡了她畢生的力氣。<br>
+而後，淚水已然決堤，再也無法多說出一個字來。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+喂——妳這人怎麼回事！<br>
+連最基本的禮儀……都……不記得了？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗚嗚嗚……嗚嗚嗚……嗚嗚嗚……<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+妳、妳沒事吧，誰欺負妳了？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……赤城？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+姊姊……大人……嗚嗚嗚……<br>
+嗚嗚嗚……我終於……終於見到妳了……<br>
+嗚啊啊啊啊——<br>
+<br>
+淹沒在淚水中的身影徑直撲入了天城懷中。<br>
+縱使在過去，赤城在天城面前也沒有如此放肆。<br>
+在決心復活姊姊後，赤城設想了太多種與姊姊重逢的場景。<br>
+得意、喜悅、請罪、領罰，沒有一種是像如今這般不堪的。<br>
+可是在短時間內經歷了大喜大悲，在失而復得這情緒的衝擊下。<br>
+一切，都已經不重要了——<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+姊姊大人……我好想妳……<br>
+嗚嗚嗚嗚……我好想妳啊……姊姊大人……<br>
+求求妳……不要再離開我了……<br>
+姊姊大人……不要再離開我了……<br>
+嗚嗚嗚……嗚嗚嗚……嗚嗚嗚……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……沒事了，赤城。<br>
+我就在這裡，哪裡都不會去…<br>
+<br>
+天城感受著懷中身體在劇烈情緒下的顫抖，用手輕輕撫摸著少女的後發。<br>
+天城沒有出聲詢問發生了什麼事，最初的疑惑、不解、震驚亦轉瞬而逝。<br>
+少女的哭聲之中傳遞出的悲傷，是如此撕心裂肺、刻骨銘心。<br>
+就連自認為早已看淡生死天命的天城，心中也湧出了一股難以言說的感情。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+呃……我今天是不是來的不是時候？<br>
+還是……妳們先忙，我先走啦？<br>
+<br>
+察覺到氣氛不對的加賀晃了晃身子，預備起身、做好了奪路而逃的準備。<br>
+然而有一個比她更快的身影撲了過來，將她牢牢壓在了原地。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+不……妳不准走……<br>
+……妳哪裡都不許去！<br>
+……我再也不允許妳自作主張了！<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+喂、妳睡壞腦子了嗎，你說的話我一句都聽不懂！<br>
+天城……快來管管這個瘋女人！<br>
+黏著妳就算了，怎麼還黏到我身上來了！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗚嗚嗚……嗚嗚嗚……嗚嗚嗚……<br>
+總之……不許妳走……<br>
+<br>
+實際感受到心口傳來的悸動後，加賀腦中最後一絲「這是惡作劇」的想法徹底粉碎。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+（她竟悲傷至此……？）<br>
+好了，好了。我不走了就是了……<br>
+妳去妳姊姊那邊哭吧……我的衣服都被妳弄濕了……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……嗯。<br>
+<br>
+朱紅色的身影重新趴回了她心心念念的位置。<br>
+就這樣過了許久，許久——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=對局|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+世界切片·「蒼紅」<br>
+天城宅邸<br>
+等到赤城平復好心情後，通訊器終於收到聯絡了。<br>
+聯絡中，赤城沒有要求到會客室與她匯合，而是直接前往天守閣與天城進行會談。<br>
+看來她已經向天城簡單介紹了我們一行人的身份與目的。<br>
+天城宅邸·天守閣<br>
+一位與赤城七分相似的少女坐在主位，赤城和加賀則分坐在她的兩側。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看來，這就是赤城執念的根源，我們此行的目標——天城。）<br>
+（明明應該和她是初次見面，這種從內心之中湧出的感情究竟是……）<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+$閣下，你們的身份，你們所來的地方，赤城已經向我介紹過了。<br>
+但是對於你們的目的，赤城並沒有說的太具體。<br>
+聽說你們是來幫我的，閣下打算如何幫？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+時間寶貴，我就直接開門見山了。<br>
+天城，妳的心智魔方有先天的缺陷，無藥可醫。假以時日，必定死亡，我沒說錯吧？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+…………<br>
+不錯。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+……咦？！天城不是，只是身體虛弱嗎……<br>
+先天性缺陷…？必定死亡？……這種事我從來沒聽過啊？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……這件事是機密，原本就算到我死後，都不會被公佈出去的。<br>
+看來我死後……這個秘密終究沒保守住啊。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+姊姊……原來妳一直都知道。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……對不起，赤城。<br>
+天命不可違，我只是想在死前，為妳多做些安排，不是有意隱瞞妳的……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+此處，其實並非現實世界，而是一處在奇異點「奈落」中生成的世界切片。<br>
+我們此行前來是為了借助此地，讓你在現實世界中復活。<br>
+讓妳能夠跨越殘缺的心智魔方所設定的界限，走向全新的未來。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+…………<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+等等……並非現實世界……？世界切片……？奇異點……？<br>
+……你突然在說什麼奇怪的話！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……加賀，指揮官說的都是真的。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+不……我完全聽不懂，也不想懂。<br>
+果然，我在這裡很是多餘……先告辭了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等——<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+不用你提醒，我會保密的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不，我的意思是……妳也在預定復活的名單裡。之後妳要和我們一起走。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+？？？<br>
+……哈啊？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯，沒錯，就是這樣。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+加賀大人，請留下來。等全部聽完之後，再做決定也不遲。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+……好吧。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+$1閣下，在你提出的計畫中，我有幾點疑惑，需要先得到解答。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒問題，請問吧。<br>
+（海倫娜，妳在線嗎，待會計劃的細節可能需要妳來做一些解釋。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（我在聽，放心應對吧。）<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+首先，閣下說到讓我們復活的方式，是跟隨你們離開，但——你又說，這裡並非真實的世界。<br>
+那，並非真實世界之中存在的我等，要如何隨同閣下一同離開，進入真實的世界呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（一上來就問到了關鍵的問題啊……）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（讓艦船誕生有兩種常見方式，一種是以心智魔方為媒介構造核心，另一種是以神石加心智魔方為媒介構造核心。）<br>
+（當以心智魔方建構核心時，作為核心的魔方必須是完好無損的。）<br>
+（因為我們需要的除了心智魔方中流入的資訊外，還有心智魔方本身。）<br>
+（但以神石加心智魔方建構核心時，我們真正需要的只有心智魔方中訊息的部分。）<br>
+（因為過程中，神石同時會創造出一個特殊的心智魔方。）<br>
+（而從這裡離開的諸位，就等於那部分必要的資訊了。）<br>
+（因此在離開之後，諸位會……按照諸位習慣的比喻來說，會以靈魂的形式被保存在特殊容器中。）<br>
+（待到神石與物資都就位後，諸位就可以以原本的靈魂實現重生了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……解釋的好細緻。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（天城這個女人太聰明了，給的說法不能留下任何一點漏洞……）<br>
+（啊……難道是我說的太快了嗎？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……沒事，我都記下來了。）<br>
+是這樣的，讓艦艇誕生有兩種常見方式——<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+原來如此……我認為，這個過程在實際執行上或許遠遠沒有你說的這般輕鬆簡單。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+姊姊，我們一定能成功的！<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+嗯，既然你們已經創造出了同樣不可思議的世界切片，我相信，後續步驟你們也一定有萬全把握。<br>
+不過……以此種方式復活的話，我們的記憶，就該只會紀錄到今天為止吧？<br>
+我倒還好，畢竟本來就已經時日無多。<br>
+不過加賀如果以此種方式復活的話，重生的可不是那個與你們多相處了二十餘年的加賀哦？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，確實是這樣的……<br>
+（大和當時也著重提到了加賀的情況，希望在我這裡看到的奇蹟，或許指的就是讓我找回這段缺失的靈魂情報吧……）<br>
+（不過很遺憾，目前為止，我還沒有任何頭緒……）<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+如此便好……<br>
+忘記與我相處的二十年……對於加賀來說是個更好的選擇。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+赤城前輩，您在說什麼！？那可是您的妹妹——<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+住口。我說如此便好，便是如此便好。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……「妹」。<br>
+赤城，告訴我加賀是因何而死的。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+啊、天城大人，關於這件事……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……無妨，由我來說吧。<br>
+那是在復活姊姊的儀式的最後階段——<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+……啊？<br>
+……妳說的那個人……真的是「我」嗎？<br>
+不愧是二十多年後的世界……真是充滿了未知與刺激。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+失控的儀式，枯萎的櫻花樹……<br>
+一切都與我今日夢中見到的場景相同……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……夢？可是……姊姊……妳怎會在夢裡夢到這些？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+我不知道……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（怎麼回事，觀察者？這裡不是妳剛創造出來的世界切片嗎？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（沒錯啊，借助自然進化演算系統產生的世界切片，沒有加入任何不該加入的資訊，絕對100%還原！）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（那這是怎麼回事……二十年前的天城，怎麼會夢到二十年後的那一幕？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（這件事我來查，你繼續專注於眼前的任務。）<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+不過，既然今日之夢是如此……<br>
+那，此前之夢，或許亦然……<br>
+$1閣下，我們當真是第一次見面嗎？<br>
+<br>
+'''''<span style="color:black;">选择项1：……？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……！</span>'''''<br>
+'''''<span style="color:black;">选择项3：？！！</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+呵呵，身為上位者而言，你的撲克臉還需要再好好練習。<br>
+那麼，我的疑問就到此結束了。<br>
+你們為了我的復活準備到這種程度，我似乎本來就缺少拒絕的理由。<br>
+更重要的是，我相信你們。<br>
+加賀，妳也和我們一起走。<br>
+抱歉，在這件事上妳別無選擇了。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+呃……妳怎麼今天也變臉這麼快？<br>
+該不會妳之前都是裝的，為的就是看我真的相信之後……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+妳多慮了，我也是剛剛那一瞬間才做出了最終決定。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+好好好……不小心聽了這麼大的秘密，要是我說不去，還不得被妳們滅口了……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+呵呵，看來我們愉快地達成了一致呢。那麼$1閣下——<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+天城大人，不好了！我們在外海訓練的時候……遭遇到了一批奇怪敵人的進攻！<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……奇怪敵人？妳們的情況如何？<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+我們正在邊打邊退……川內姐已經受傷了！<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+我明白了，撐住。<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+遵命！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……觀察者，這又是怎麼回事？妳怎麼選了有敵人入侵的日子？！）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（跟我沒關係，笨蛋！是這個世界切片的外部邊界被人破壞了！）<br>
+（邊界破損，奈落的氣息湧入，侵蝕和敵人隨之而來。這個世界切片已經撐不了多久了，快撤吧。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（海倫娜，外部的戰況如何？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（焦灼，但無危險。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（既然如此……我們應該出手相助。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（好，那就做你想做的事吧。）<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+沒想到臨行前，竟會橫生枝節。<br>
+赤城，妳覺得此事該如何應對？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+這裡只是虛假的世界切片，本來就會隨著我們的離開而消散。<br>
+姊姊的復活才是第一要務，此時不該節外生枝……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+…………<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……但是！再怎麼說，此時此刻，她們依然是我們的同伴。同伴陷入危難之中，我們不該袖手旁觀。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+嗯。$1閣下呢，您怎麼看？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不論是身處夢境、幻境還是虛像之中，妳就是「妳」，我就是「我」。<br>
+如果我們的原則可以根據虛幻與現實的差異而靈活調整。<br>
+那我們的原則……又算是什麼呢？<br>
+所以，我們應該立刻前去救援。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+呵呵，很好的回答。<br>
+不論是夢境、幻境、亦或是短暫的切片之中，我們，就是「我們」。<br>
+面對陷入危難之中的同伴，豈有坐視不理的道理？<br>
+全軍，出陣——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=意外|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+世界切片·「蒼紅」<br>
+衝突海域<br>
+與天城一行人趕到集合點時，川內等人也剛勉強擺脫敵人的追擊而來。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
+抱歉，天城大人……敵人的火力十分兇猛，我們完全沒有招架之力。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+此處海域，本來就不該當敵人出現才是。妳們能平安回來就是最好的了。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
+……多謝天城大人。請問……與您一同前來的幾位是？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+客人——兼可靠的援軍哦。<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
+……各位的裝備與鳳翔大人有些相似，難道是……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+不錯，瑞鶴和龍鳳，這兩位可靠的後輩都是航空母艦。<br>
+……真是可惡，不過是些孱弱的無形之息，竟然敢欺負到我們頭上來！<br>
+瑞鶴、龍鳳，接下來隨我一同進攻，在此展現一下重櫻航空艦隊的力量！<br>
+<span style="color:#4eb24e;">{namecode:96:瑞鹤}&{namecode:179:龙凤}：</span><br>
+遵命。 遵命！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+川內，妳和受傷較重的人在後方休整，無需參戰。<br>
+護航艦隊改為神通帶領，戰鬥中注意不要離我們太遠，時刻警惕來自天空和水下的威脅。<br>
+加賀，妳也一起來。不過……呵呵，我感覺這些烏合之眾不可能活著衝過來就是了。<br>
+至於碧藍航線的指揮官——既然你說要來幫忙，那也別閒著，和你的人一起來護航吧。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……又變臉了。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+喂！赤城，別忘了這次行動的指揮官是——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+算了，曼非斯，重櫻海域的情況確實是她更熟悉。<br>
+赤城，這場戰鬥的指揮就由妳來進行。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+哼，正確的判斷。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+……啊？<br>
+<span style="color:#4eb24e;">{namecode:38}：</span><br>
+呃……天城大人……這？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+啊………………<br>
+抱歉，姊姊……我、我不是有意要……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+呵呵，這不是很好的佈置嗎？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……姊姊？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+諸位，這場戰鬥就交由赤城全權指揮。<br>
+赤城，今天機會難得，也讓我見識後世的航空戰戰法如何？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……遵命，姊姊！<br>
+諸位，隨我迎戰！<br>
+<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+哼，化為塵埃吧。<br>
+區區無形之息，果然不堪一擊……接下來只剩下南邊最後一隻隊伍要處理了。<br>
+<span style="color:#4eb24e;">{namecode:40}：</span><br>
+……這真的是，那個赤城？<br>
+<span style="color:#4eb24e;">{namecode:134}：</span><br>
+感覺變化好大，簡直像換了個人一樣。<br>
+<span style="color:#4eb24e;">追風：</span><br>
+還有……這航空母艦的戰鬥力，真是恐怖如斯。<br>
+<br>
+不久後，海域中的所有敵人被徹底清掃乾淨。<br>
+換上和煦笑容的赤城向著天城的方向跑來，似乎是想要得到姊姊的誇獎。<br>
+而危險，就是在這一刻發生的。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……大家小心，有敵人偷襲！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……敵人？！<br>
+<br>
+一束紅黑色的光芒憑空出現，朝著我所在的方向筆直襲來。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+指揮官，快後退！<br>
+<br>
+曼非斯飛身迎向襲來的光芒，阻擋在指揮艦前。而那束光芒，卻陡然調整了方向。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+這股氣息……<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+何方宵小在此偷襲？！<br>
+<br>
+加賀將炮口對準襲來的光束，主炮齊射。而那束光芒，卻再次調整了方向。<br>
+這次，瞄準的目標是位於人群最後方的天城。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+果然是妳搞的鬼……妳，休想！<br>
+<br>
+赤城飛身迎向飛來的光芒，阻擋在天城前。這一次，光束沒有轉向。<br>
+電光石火之間，世界被黑暗吞噬。<br>
+耳邊，依稀聽到了赤城的聲音。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+短暫的夢，還是要結束了。<br>
+也好……等待我的，就應該是這樣的結局。<br>
+指揮官，謝謝你為我這個罪無可赦之人帶來這場最後的溫柔與體貼。<br>
+你一定要帶姊姊和加賀回去……<br>
+一定……<br>
+<br>
+世界重迴光明後，赤城的身影已經從海面上完全消失了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=應變|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+世界切片·「蒼紅」<br>
+衝突海域<br>
+世界重迴光明後，赤城的身影已經從海面上完全消失了。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+怎麼……會這樣……<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……赤城？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（海倫娜，赤城現在狀況如何？！）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（赤城已經不在世界切片中了，具體情況我還在調查，生死對半開。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……剛才的襲擊到底是怎麼回事？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（世界切片遭到了多股力量的入侵，剛才的攻擊就是其中一個入侵者搞出來的。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……多股力量？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（對啊，你自己多招人喜歡到現在自己還不清楚嗎？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……說正事的時候認真點。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（好好好~別生氣，我已經解析出剛才發動攻擊的到底是什麼人了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……誰？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（只能說，世間諸事，如此巧妙~襲擊赤城的——正是那個之前那個由她親手創造出的偽物喲~）<br>
+（噢，不過現在不能稱之為偽物了。）<br>
+（不久前，你的另一支小隊已經順利完成了任務，目前其已經不再佔據「天城」的概念了，而是……）<br>
+（要不要給你留個懸念呢~）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……把話說完。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（才不要！我只是答應了跟你合作復活天城而已，沒說還要全程負責答疑解惑的！）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（觀察者，回答問題。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（唉……好好好！）<br>
+（那個偽物，或許是因為其誕生的根源為赤城的執念，在被剝離出「天城」的概念後，其便固化為了赤城的形象。）<br>
+（準確來說，是赤城·META的形象~）<br>
+（所以，不論是一開始襲擊你，還是之後襲擊天城，都是假動作~她一開始的目標就是赤城。）<br>
+（可能是其存在的概念還不夠穩固……要從赤城身上再得到什麼吧。）<br>
+（噢~怪不得剛才她在你被襲擊的時候一點都不慌，原來早就算到了！）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（妳說的話夠多了，去追蹤我傳給你的位置，看看那裡有什麼。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（是是是~啊，最後一句。看海面，又一波入侵者來了~）<br>
+<br>
+不遠處，原本空無一物的水面上憑空出現了一座紅色的鳥居。<br>
+一位少女伴隨著翩翩飛舞的蝴蝶群，自鳥居中走出。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+啊……指揮官閣下。<br>
+沒想到最後一個夢境，是關於汝的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（夢、夢境……？信濃妳……做夢都能做到奇異點中的世界切片裡了嗎？！）<br>
+信濃，妳怎麼來了……<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+……？！指揮官閣下，汝能看到妾身？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……………………<br>
+<br>
+不知為何，全身湧出了一股深切的疲憊感。想到要如何和信濃解釋清楚當前的狀況，又是一陣頭痛……<br>
+讓信濃理解現狀，花了一段時間。<br>
+從信濃口中理解現狀，又花了一段時間。<br>
+讓天城與加賀理解現狀並且幫忙遮掩過去，又花了一段時間。<br>
+終於，我總算在日落前回到了天城宅邸，開始思考後續的行動計畫。<br>
+天城宅邸·別院<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒想到，遠在歐羅巴的信濃竟然同時是在這次事件中取代大和行動的人。<br>
+那些夢境，那些金色蝴蝶，就是大和利用信濃收集到的靈魂情報吧？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+聽起來是這樣的。<br>
+不愧是大和，就算侷限於實驗場β中，心智魔方網路的研究也進展到如此地步。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……透過心智魔方網路，可以傳送真人嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+當然不行。不過別忘了，我們現在所在的世界切片，本身就不屬於真實世界。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是說……這裡的信濃，比起我們，更像是世界切片中模擬出來的人？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+不錯。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+信濃說，這裡是大和指引她前來的最後一站，但她並不知道為何而來……妳能看出來原因嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+……先不說這個，觀察者那邊似乎查到結果了。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+哼哼~不錯，我已經完成調查了，結果你猜怎麼樣？<br>
+……好吧，你不喜歡猜。<br>
+首先，赤城還活著。<br>
+其次，赤城META所藏身的區域，和我們所在的世界切片類似。不過規模更小，細緻程度也更低。<br>
+從運算量來看，應該是她之前佔領測試者主機的時候，在奈落之中專門投射出來的區域。<br>
+難道她當時就想到要留下這麼一片用來保命的區域了嗎……實在是有趣。<br>
+不過——我不推薦你帶人追過去哦？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+為什麼？<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+因為太危險了！現在世界切片的狀態已經十分不穩定，再拖下去，你原本的復活計畫都要泡湯了！<br>
+抓緊時間把靈魂情報轉移回去才是正事。<br>
+至於赤城，丟著不管不是剛好？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……人是我帶出來的，我有義務把人完好無缺帶回去。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+海倫娜，妳不來勸勸妳家指揮官？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+指揮官，你一定要去救赤城嗎？<br>
+<br>
+'''''<span style="color:black;">选择项1：嗯。</span>'''''<br>
+'''''<span style="color:black;">选择项2：一定！</span>'''''<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+好。<br>
+但觀察者說的話也不是沒有道理，現在世界切片的狀態確實已經快到極限了。<br>
+而靈魂情報極為脆弱，在奈落中停留時間過長，很有可能遭到污染，就像之前一樣。<br>
+所以，你要想拯救赤城，就必須在此處，完成天城和加賀的復活。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+在……此處？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+還記得我之前說的嗎，物資、神石、靈魂情報。三者齊聚，就可以完成復活。<br>
+物資是最好解決的一項，靈魂情報，眼前就是現成的。<br>
+至於神石……不久前，不是才剛有人送貨上門嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……信濃的護符？！<br>
+……可、妳不是說信濃和世界切片中模擬出來的人一樣，並不屬於真實世界嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+你不是一直堅持應該將幻境和現實世界一視同仁嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不，這不一樣……<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+一樣的。你深信不疑的現實，就是真實。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……如果，以目前的靈魂情報復活天城，她的心智魔方缺陷還有什麼？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+存在。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我之前在資料裡看到過……天城，原本有一個改裝為航空母艦的計劃，對吧？<br>
+如果這個計畫成功實施，天城和赤城、加賀一樣改裝為了航空母艦，她的心智魔方缺陷還會有嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+據我所知，這一情況從未在任何實驗場中出現過。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是說有可能……不，是一定可以。<br>
+海倫娜，妳那裡有當時改裝計畫的完整圖紙嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+有，正在傳輸給你。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+……喂，你不會打算直接上手修改靈魂情報吧？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我或許做不到，但是由我來整理方案，你調用自然進化演算系統去執行呢？<br>
+既然名字裡提到了「進化演算」，那做一些合理性推演總是沒問題的吧？<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+……這會又講起科學來了。就算如此，新生成的數據，你要怎麼加入靈魂情報？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+海倫娜，根據特定訊息改變他人形象的事，你應該可以輕鬆做到吧？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+可以。但由我所呈現的，終究只是虛像。將其轉化為真實的那一步，還需要你來完成。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我明白。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+你、你真的明白？<br>
+好好好，就算一切順利，你們亂來的計畫真的成功了。然後呢，你們就打算直接出發嗎？<br>
+等離開了這裡，世界切片破碎，我在奈落之中設定的錨點也沒了，你們覺得之後還能走之前定好的安全路線嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+無妨。$1，你儘管放手去做自己想做的事。其他的事，我來處理。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……多謝，海倫娜。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+……好吧，我是這裡最多餘的人，我不管了就是了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……該妳處理的事，一件也不能少。<br>
+時間寶貴，立刻開始準備。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=逆轉|选项=20|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+世界切片·「蒼紅」<br>
+深夜<br>
+在決定變更計畫後，我立刻告知了天城與加賀。<br>
+天城在聽到航空母艦的改裝的計劃後，表現出了濃厚的興趣。<br>
+而加賀則表示現在這樣的狀態就很好，還是不要改裝成航空母艦了。<br>
+於是，時間來到了深夜，計畫的準備工作已經完成了。<br>
+信濃正在調整神石的建造場地，進行最後的準備工作。<br>
+這時候，天城突然來訪了——<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+指揮官，打擾到你了呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒事，我這邊已經忙完了。怎麼了，還有什麼對於計畫不明白的地方嗎？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+倒是沒有。只是……突然有種心神不寧的感覺。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不用擔心，我們一定能成功的。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……$1閣下。你說，逆轉命運之事——是好，還是壞呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+如果是像今天這樣，將悲傷逆轉成幸福的事，當然是好事。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+如果這次逆轉，影響了世界原本的軌跡，因而誕生了更多悲傷呢？<br>
+比逆轉之前的世界，更多的悲傷……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那就繼續逆轉下去，直到出現一個再無任何悲傷的完美世界。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+你真的相信有這樣的世界存在嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳不相信嗎？<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+……呵呵，還是相信，會比較好呢。<br>
+你、赤城，還有許多人一同逆轉了我的命運。<br>
+而我在重生之後，也將盡我所能，與你們一同逆轉更多人的命運。<br>
+直到世間的悲傷消失殆盡，直到這樣一個完美世界出現的那一天。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那……首先，讓我們先從赤城開始。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+嗯。她既因我的離去而陷入深淵……那麼，我就用重生後的雙手，將她親手拉回來。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+指揮官閣下，妾身這邊的準備已經完成了。<br>
+<span style="color:#4eb24e;">{namecode:161}：</span><br>
+看來心理準備的時間結束了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+走吧，天城。該邁出走向未來的第一步了——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=於奈落中的審視|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+？？？·？？？<br>
+偽物追擊艦隊<br>
+舉目遠眺，世界已然陷入滾滾煙塵之中。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+這就是奇異點奈落之中的風景……嗎。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+嗯。我們沒有創造任何緩衝區，而是直接進入了奈落最原始的部分。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+長門大人，有感到任何不適嗎？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+不適，倒是沒有……不過余有種奇妙的感覺，周圍的滾滾煙塵，似乎同余存在某種感應。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+嗯……這裡本質上也是神石網路的拓展，您擁有神石網路的操控權限，有些感應是正常的。<br>
+現在，請您順應這種感應，試著尋找我們的目標。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+善。<br>
+<br>
+長門凝聚心神，放任自己的感知向著煙塵的深處飄去。<br>
+恍然間，長門眼中的世界發生了變化，<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+這裡是……奈落的深處？<br>
+……此處為赤城所進行儀式的場地。<br>
+……此處莫非是，世界切片中的景色？<br>
+此處……宛如夢境一般。<br>
+此處為……一處戰場？<br>
+此處為……虛無？<br>
+此處為……何處？<br>
+……找到汝了。<br>
+<br>
+「力量對汝來說是必需品。」<br>
+「必需品，自然是多多益善。」<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+諸位，余已經成功找到偽物的位置了。<br>
+……嗯？汝等何故用這種眼神看著余？<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+長門大人，您看身邊……<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+……呵呵，雖然余並未使用力量。不過余的力量，似乎有些自己的想法。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+可否讓我檢查一下您現在的身體狀況……<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+余身上並無不適，汝若不放心的話，便來查。<br>
+<br>
+一團藍色的火焰輕輕飄向長門的額頭，而後無聲消散了。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……您身上的META化侵蝕依然十分穩定，而且確實任何加重。<br>
+神通，妳看過這種情況嗎？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+……既然沒有異常的話，適度使用力量也並非不可。<br>
+待會隨機應變，量力而行。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+自然。走吧，吾等還有正事要做。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+（……這種體質，真是決戰兵器的完美核心啊。）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=偽物真形|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+在長門的引導下，一行人在奈落中前進。<br>
+一路之上陸續有敵人來襲。不過不等霞與神通出手，這些敵人就被長門隨手消滅了。<br>
+相較於敵人，一路之上對於長門干擾最多的，反而是時不時從奈落之中感受到的執念。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+必須要讓姊姊復活……<br>
+只有姊姊才是最適合領導重櫻前進之人。<br>
+誰都不能阻止我，就算是姊姊……妳也不行。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+……汝之內核，果然是……<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+萬事萬物，有因必有果，有果必有因。<br>
+偽物為果，真物為因。果在，因成。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+而後呢？偽物能夠因此而成為真物嗎？<br>
+如此創造出來的，只是一具概念下的空殼罷了。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+同樣的相貌，同樣的性格，同樣的記憶，同樣的行事方式。<br>
+我不就是姊姊嗎？<br>
+姊姊的過去雖有定論，可是姊姊的將來卻可以由我來書寫……<br>
+沒錯，我就是天城……<br>
+我是天城，赤城的姊姊，最適合領導重櫻前進之人……<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+……呵，不過是自欺欺人罷了。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+重櫻需要真正的領導者，而我需要為姊姊的出場創造一個合適的契機。<br>
+因此……奈落，盡情地吞噬吧。<br>
+<br>
+轟————！<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+……夠了，余沒興趣繼續聽了。<br>
+（並非赤城操控偽物為自己執行儀式……而是偽物反過來操控赤城執行了儀式。）<br>
+（赤城謀算多年，到頭來，竟是被自己心中執念所化之物利用的乾乾淨淨……）<br>
+（……謀人者，終被人謀。）<br>
+（……唉。）<br>
+<br>
+轟————！<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+一批敵人正迎著我們的前進方向而來，看來偽物已經察覺了我們的行蹤。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+那個偽物果然保留一部分了神石網路的控制力，因而能夠一定程度感知奈落內的環境。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+也因此，其已自知無法逃脫了。<br>
+……差不多，也該現身了吧<br>
+<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+真沒想到，爾等居然追到這裡來自投羅網了呢？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+余對汝已是知根知底，不要再虛張聲勢了。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+哦？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+汝因執念而生，作為執念的化身，卻又誕生了自己的執念——何其可悲。<br>
+汝不惜否認天城最後的存在，也要用自己的方式將其「復活」——何其可笑。<br>
+一個可悲可笑之物，有何面目佔用「天城」的概念苟活於世？<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+……妳從奈落之中聽到了？<br>
+那妳應該知道，我是絕對不會放棄的。因為，這就是我存在的全部意義。<br>
+更何況，此時此刻在世人眼裡，我就是「天城」。<br>
+只要把妳們這群自以為清醒之人全部抹殺，我的存在便再無漏洞。<br>
+——不是嗎？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+……無可救藥。<br>
+余果然一開始就不該和汝廢話……<br>
+既然是執念化形之物，就老實作為執念顯形，而後作為執念消散吧。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+那就要看妳有沒有這個本事了——<br>
+<span style="color:#ff9b93;">眾多形為天城之物：</span><br>
+啊哈哈哈哈——<br>
+<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+——「御狐哮天，起舞於天原。」<br>
+<br>
+轟————！<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+咳……不過是臨時性的META化，妳怎麼會擁有這種力量……<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+汝已經失敗了，知道也無用。<br>
+不過余可以告訴另你一件事——復活天城之事並非不可能，$1閣下已經正在做了。<br>
+余之所以追汝來此，就是因為汝佔據了「天城」之概念，是其真正復活的阻礙。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+…………<br>
+……呵，真是一派胡言。<br>
+這種事能否做到，難道我還不清楚嗎？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+——有破綻！<br>
+<br>
+轟————！<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+比叡？！汝怎麼會在這裡？<br>
+而且汝現在的狀態……<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+我沒事的，長門大人，先解決敵人再說！<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+好，就用接下來的一擊結束戰鬥吧！<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+等等，情況有些不對勁。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……我能感受到偽物正在消散，「天城」的概念已經不再被佔用了。<br>
+但是……我們的敵人，依然存在。<br>
+<span style="color:#ff9b93;">天城（偽物）：</span><br>
+呵呵……呵呵呵……<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+讓我以執念原本的形式面對妳們，好啊？<br>
+我來了。<br>
+如此，妳們可滿意了嗎？<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+竟然是依靠神石海若…將自身的執念直接轉化為了META化……實體……？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+嚯……令人大開眼界。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+等等……汝身旁的兩個幻影是……<br>
+天城的殘魂與加賀的靈魂……全都在汝身上！？<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+……呵，感謝妳們無數次的重複那個我早就已經知道的現實。<br>
+——姊姊已經死了。<br>
+是的，姊姊已經死了。那為什麼妳們還活著？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+……妳這是什麼邏輯？<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+算了比叡，和執念的化形沒什麼好說的。<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+呵呵呵呵……既然世上已經沒有姊姊的存在了，那妳們就都去那個世界陪她吧！<br>
+而後——我也會去的。<br>
+如此一來，亦是圓滿。<br>
+啊哈哈哈哈哈哈哈哈哈哈——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不完全勝利|选项=23|主框=1|样式=primary|展开=是}}
+<br>
+紅黑色的身影在大笑聲中不留痕跡的消失了。<br>
+霞·META在長門的要求下開始檢查比叡此刻的狀況。長門則凝聚心神，在奈落之中再度展開追蹤。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+嗯……？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+妳的表情好嚴肅……怎麼了，情況很嚴重嗎？<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……不，完全不嚴重。<br>
+奇怪…妳的META化侵蝕程度並不高，而且極為穩定。<br>
+……和長門大人的情況是一樣的。<br>
+難道實驗場β重櫻艦在META化之後都是這種情況嗎況麼…？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+並非如此。在奈落出現之前，遭到侵蝕而出現短暫META化現象的飛鷹和隼鷹就不是這樣的狀態。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……真是怪事。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+嗯——雖然不清楚妳們具體在聊什麼。不過聽上去，我似乎會沒事呢~<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+沒錯，回去簡單淨化一下妳就能恢復原狀了——只要妳想的話。<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+那是當然啦！META化之後雖然感覺力量增強了不少，不過總感覺性格也順便受到了一點點影響……<br>
+還是恢復原狀比較好！<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……妳，認真的嗎？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+認真！<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+…………<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+對了，聽說妳之前是被那個偽物抓過來的，能跟我說說這段時間內發生的事嗎？<br>
+妳是怎麼找過來的？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+嗯~這個故事說來就有些曲折了。首先，要從一個幻境開始說起——<br>
+——之後，我就順著旗風指出來的路和她一起走。<br>
+走了沒多久就聽到了戰鬥的聲音，後面的事你們都知道了。<br>
+剛才戰鬥結束之後，我本來想立刻跟妳們介紹一下她，結果她卻好像直接消失了……<br>
+這就是從我被抓走後到剛才為止發生的事。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+……妳確定見到是旗風，而不是旗風·META嗎？<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+絕對確定。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+奈落之中怎麼會有正常艦船存在與此……而且能憑藉自身離開幻境？<br>
+一定有大問題……<br>
+<span style="color:#ffc960;">比叡·META：</span><br>
+……這些我就不清楚了，反正一路上我們相處的還挺好的~<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……妳們實驗場β的人心都這麼大？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+霞……<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+算了……當我什麼都沒說。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+……不好，剛才消失的執念化形似乎做了些什麼，這區域的空間穩定性正在快速下降。<br>
+長門、比叡、霞，我們必須立刻離開。<br>
+<span style="color:#ffc960;">長門·META：</span><br>
+不用繼續追擊了？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+雖然沒有將其消滅，不過其已不再佔據「天城」的概念，我們的目的已經達成了。<br>
+此地不宜久留，該撤離了。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+怎麼回去？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+海倫娜說會有人來接應，我向她發出訊號。<br>
+<br>
+幾乎是轉瞬之間，眾人面前出現了一座閃耀著金色光芒的城堡。<br>
+<span style="color:#4eb24e;">前衛：</span><br>
+諸位，我是皇家近衛騎士前衛。<br>
+現在奉伊莉莎白女王陛下的命令，調動卡美洛之庭前來接諸位回家。<br>
+<span style="color:#c3abff;">{namecode:180}·META：</span><br>
+……這個裝置，實驗場β果然不正常。<br>
+我們走吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=心與念|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+「出於現實，落於幻想。」<br>
+「雖有執念，亦是執著。」<br>
+「狐鳴鳳影，烈火浴心。」<br>
+「蒼紅之炎,於此新生。」<br>
+<span style="color:#4eb24e;">天城：</span><br>
+航空母艦，天城，帶著新生之力與重塑之軀、浴火重生而來。<br>
+即使時過境遷，滄海桑田——然而，我心依舊。<br>
+諸位，讓我們並肩而行，一同為了那如夢幻般美好的未來而戰吧！<br>
+<br>
+遠方，一處閣樓之上，兩個身影靜靜凝視著前方。<br>
+半空中，微塵凝聚的雲團上，此刻正投射著一幅畫面。<br>
+那副畫面代表逆轉命運，代表重獲新生，亦代表執念消散，心願了結。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+（姊姊不但掙脫了宿命的桎梏，還獲得了新的力量……）<br>
+（這份現實比曾經夢境中最好的畫面，還要美好百倍……）<br>
+（$1閣下……真是個信守承諾，又能帶來奇蹟的人……）<br>
+（這樣一來，就只剩下最後一件事需要了結了……）<br>
+<br>
+赤城收回心神，轉頭看向不遠處的那個身影。<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+看完了，準備翻臉了？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……妳為什麼要抓我？<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+為什麼要自己擋上來？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+因為只有這樣，才可以救下姊姊。<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+自欺欺人。<br>
+妳的偏執、妳的執著創造了我，妳會沒有其他辦法對付我？<br>
+為什麼選擇自己出來擋？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……我不需要跟妳解釋什麼。<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+呵，不就是不想活了，想要瀟瀟灑灑的死？<br>
+想在姊姊發現妳這些年做過的「好事」之前，搶先在她心底刻下一個不可磨滅的印象？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+哈，真是可笑。<br>
+妳這麼多年來，活著的唯一目標就是復活姊姊。現在姊姊終於復活了，妳首先想做的事居然是去死？<br>
+讓我猜猜看，那接下來，是不是又該上演一場姊姊千辛萬苦復活妹妹的戲碼了？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………閉嘴。<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+真是懦弱。我雖然基於妳而誕生，但是我以現在的妳為恥。<br>
+妳不是不可一世的赤城大人嗎？自己做過的事，做過了就是做了，為何敢做不敢當？<br>
+怎麼？一見到姊姊回來了，就像變回那個總縮在姊姊後面的小女孩了？<br>
+還是說，因為遇到了更多可以依靠的人，所以懦弱了？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……閉嘴，不要再說了。<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+這個世界不是沒有仁慈，但是現在的妳，只配得到殘酷。<br>
+我因妳的執念而生，本就是妳的一部分——妳那原本肆意展現在外，如今卻想極力抹殺的那一部分。<br>
+因此，我豈能讓妳如願？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……妳，想做什麼？<br>
+<span style="color:#ffc960;">赤城·META：</span><br>
+我由妳心生，終將歸於妳心。<br>
+連帶著妳那些想要拋棄的過去，妳想要拋棄的執念，和妳想要拋棄的力量一起！<br>
+不久後，我會消失。而妳，將會成為我，成為這副妳本來就該變成的模樣！<br>
+來「救」你的人已經在路上了，真期待你們相見的那一刻啊。<br>
+也不知道，到時候妳的姊姊、以及妳的那些視為同伴的人——還能認出妳來嗎？<br>
+啊哈哈哈哈哈哈哈哈————<br>
+<br>
+笑聲消失後，閣樓之上，如今只剩下一人。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+…………<br>
+……姊姊。<br>
+……加賀。<br>
+哈哈……哈哈哈……哈哈哈哈哈……<br>
+啊哈哈哈哈哈哈哈哈————<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=破片|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+？？？·？？？<br>
+這裡是奈落之中的一角，一處基於測試者主機產生的殘缺切片。<br>
+舉目望去，斷頭的河流、凌亂的道路與突兀的山岩隨意組合在一起，盡顯破碎之景。<br>
+唯獨幾座島嶼之上，草木叢生、樓閣井然，儼然像是這殘缺切片之中僅存的美好。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+真是個，詭異的地方……<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+赤城前輩就在…這裡？唔……雷達裡什麼都看不見。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（不用看了，這裡的世界切片是殘缺的，大部分區域和奈落裡沒什麼差別，妳們的雷達是不可能正常運作的。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（她聽不到……）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（你能聽到不就好了，省的待會來問我同樣的問題！）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……海倫娜，能鎖定赤城的位置嗎。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（觀察者，找人。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（呵，依靠測試者主機的算力，在短時間內做出這些佈置，也算有點想法。）<br>
+（不過怎麼可能難得住我呢，讓我來找看哦~）<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+此處確實是處怪異之地，妾身能體會四周傳來的複雜情感。<br>
+天城閣下，可有異常的感覺？<br>
+<span style="color:#4eb24e;">天城：</span><br>
+目前感覺良好，就是要控制這些艦載機，還不太習慣。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+奇妙……怎會如此？<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+（嗯……？這種情景，感覺有點似曾相識……！）<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+腓特烈，這隻艦隊真的沒問題嗎？<br>
+<span style="color:#4eb24e;">腓特烈大帝：</span><br>
+沒有問題。<br>
+作為心智魔方的創造物，討論船體本身的古老與否是沒有意義的。<br>
+至於戰鬥經驗。我們在做過去從未有人做過的事，自然經驗也無法憑空產生。<br>
+我們的行為，正實實在在開闢著新的歷史。<br>
+稍安勿躁，靜靜地看，老朋友是不會讓我們失望的。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+啊，不用擔心，天城大人！<br>
+您畢竟是剛邁入了一個全新的領域，只要花時間熟悉一下裝備狀態，很快就能自然習慣航母戰鬥的感覺啦！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+原來如此……多謝，我明白了。<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+天城大人，這裡是我日常訓練總結的心得……如果您不嫌棄的話。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+啊，我也有！天城大人，您要看看嗎！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+呵呵，在航空戰上，兩位反而可以算是我的前輩，我就虛心收下了。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+哼哼，天城大人您先看著，接下來的偵察交給我們就好了！<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+放心吧，天城大人，我們一定能順利救回赤城前輩的。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（呵呵，我找到目標位置了。不過——恐怕會有場硬仗~）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（預料之內。）<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+偵察機編隊——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，我已經找到赤城的位置了。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+欸？！不愧是指揮官閣下！<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（再多附贈一條情報~你們附近藏了不少敵人，路上小心喲。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一路之上預計會遭遇敵人伏擊，諸位，小心前進！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=灼熱心|选项=26|主框=1|样式=primary|展开=是}}
+<span style="color:#ff9b93;">響亮的嚎叫聲：</span><br>
+嗷嗚——————<br>
+嗷嗚——————<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……又有敵人來阻攔了。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+真是的，一波又一波……我們趕時間啊。<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（不愧是我的實驗「好夥伴」赤城，在這種時候也能弄出點新花樣來~）<br>
+（她已經在某種程度上理解了奈落的運行規律，然後基於自己的想法，創造出了這兩隻狐狸哦~）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（妳是指……赤城·META？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（你不是一般稱呼人不帶後綴嗎？我也試試咯~）<br>
+<span style="color:#4eb24e;">天城：</span><br>
+這兩隻大狐狸，好像有些神似赤城與加賀大人哦？<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+呃……好像確實有點，但是！這隻狐狸和我絕對沒有任何關係！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+呵呵，那是自然的~<br>
+$1閣下，我已經基本熟悉了航空母艦的戰鬥方式。<br>
+這場戰鬥，可否由我作為先鋒出戰呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+自然沒問題，還請盡情發揮。<br>
+<span style="color:#ff9b93;">響亮的嚎叫聲：</span><br>
+嗷嗚——————<br>
+<span style="color:#4eb24e;">天城：</span><br>
+那麼，起飛吧——<br>
+<br>
+<br>
+轟————！<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+諸位，下手可真狠~不但擅自闖進門來，還打殺了我的看門之物。<br>
+身為客人來說，是否有些太失禮數了？<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+妖物，赤城前輩在哪裡？快把赤城前輩放了！<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+赤城？啊~妳說的是之前那個不自量力的紅毛小狐狸嗎？<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+……快把赤城前輩放了，否則。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+否則如何？她之前不顧死活上來擋槍，不就是在找死嗎？<br>
+我這人喜歡成人之美，自然是成全她了~不用客氣。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+妳……妳說什麼？<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+非要我說的那麼直白嗎？<br>
+人我已經隨手殺了，這次聽明白了嗎？<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+……妳，今天必死。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+……赤城前輩，妳會為你報仇的！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+…………<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+嘶……節哀順變，天城。<br>
+事已至此……妳別生氣上頭。身體垮了，報不了仇了！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+無需擔心，我的身體已經無礙了。<br>
+倒是此事……唉。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+……沒想到這個META，居然最符合META原本定義的那一類。<br>
+指揮官，救援行動已經失敗，接下來該怎麼辦？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（觀察者，她是否在說謊？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（說沒說謊我不清楚，不過島上確實只剩她一個赤城了哦。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（那妳呢，妳是否說謊？）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（哎呦喂~有你家的海倫娜盯著，我哪裡敢啊~）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……明白了。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（哦？你明白什麼了？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（——妳猜。）<br>
+此事仍有疑點，現在認定行動失敗為時過早。<br>
+天城，妳怎麼看？<br>
+<span style="color:#4eb24e;">天城：</span><br>
+這次，我想先聽聽$1閣下的意見。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不論如何，大戰一場是不可避免了。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+嗯，如果必須如此的話……<br>
+本次，可否依舊由我作為先鋒出戰？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+自然。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+諸位……<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+天城大人，不用勉強……我們都懂。<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+……殺。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+呵，想殺我？那得先看看你們有沒有這個本事！<br>
+燃盡一切吧——！<br>
+<br>
+<br>
+轟————！<br>
+赤城·META不顧損傷，肆意爆發自己的力量。<br>
+不過，天城卻帶領艦隊逐漸掌握了戰鬥的主導權。<br>
+隨著時間推移，戰鬥天平已經開始傾斜，赤城META逐漸後繼無力了。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+咳……這就是妳在浴火歸來後的力量嗎。<br>
+……洗滌一切罪惡的火炎，正適合作為我的終點。<br>
+<br>
+赤城·META周身的黑色氣息陡然膨脹，而天城的火焰則以更快的速度覆蓋上去。<br>
+而後，黑色氣息在火焰的燃燒中逐漸消散。片刻前還不可一世的赤城·META，緩緩倒下了。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+諸位，都不要跟過來。我與她……需要一個了斷。<br>
+<br>
+天城向著赤城·META倒下的方向疾馳而去。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+天城大人……？！<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+讓她去吧。之後的事，由她來決斷最適合。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+沒想到……天城的新生之力，竟真的是能夠驅逐邪惡的淨化之炎。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這個，應該只是META化氣息的偽裝耗盡後的自然消散，而不是火炎的力量吧。）<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+（喔？沒想到你看得出來。）<br>
+（不錯，那個META化的狀態本來就是偽裝出來的，）<br>
+（至於技術方法嘛，就跟你家海倫娜——）<br>
+<span style="color:#4eb24e;">特殊通訊頻道：</span><br>
+（…………）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……嗯？觀察者？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（抱歉，返航路線計算上需要用到它的力量，我暫時把它抽調走了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（沒關係，問問題的話還是妳的回答更令人放心。）<br>
+（赤城沒事吧？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（你希望她沒事的話，就會沒事的。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（那天城呢？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（——天城的想法也很重要？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（咳、我的意思是天城的身體狀態……）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（……雖然數據還在統計分析中，不過目前看來一切正常，甚至比預期還要好，不用擔心。）<br>
+（我繼續去準備回程的事，先不聊了。）<br>
+<br>
+海倫娜單方面結束了這場通話。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（呵呵，難得，她也會有錯誤預判話題展開的時候。）<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+指揮官，我們真的……不用跟過去看看嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不用擔心，天城會解決問題的。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=熔解|选项=27|主框=1|样式=primary|展开=是}}
+<br>
+彼岸花海中，蒼紅色的身影輕輕來到了紅黑色的身影前。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+如此，可舒心了？<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+……為什麼留手。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+因為我感覺，妳有話想對我說。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+呵，想聽我仔細描述殺掉赤城的細節？<br>
+<span style="color:#4eb24e;">天城：</span><br>
+我是姊姊，能聽出來我的妹妹什麼時候在說謊。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+妳的妹妹已經死了……但妳既然如此執著，那我多說一些也無妨。<br>
+妳的妹妹赤城，主動與塞壬合作，默許其在重櫻控制區內建立一個名為聖域的實驗場。<br>
+對外全力配合塞壬的劇本，將所有人拖入戰爭的泥淖。<br>
+對內憑藉手中全力排除異己，大權獨攬。<br>
+同時肆無忌憚的算計同伴後輩，甚至放任塞壬對於重櫻艦隊的攻擊。<br>
+最後為了一己私慾，不顧傷亡，孤注一擲進行復活儀式。<br>
+毫無節制使用元魔方與神石海若的力量，將重櫻，甚至整個世界都拉到了毀滅的邊緣。<br>
+如此，還不當誅？<br>
+<span style="color:#4eb24e;">天城：</span><br>
+聽起來，這其中一半的責任可以推卸到塞壬身上？<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+……妳這人！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+叫姊姊。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+……我說了，妳的妹妹已經死了。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+我也說了，我可以聽出來我的妹妹什麼時候在說謊。<br>
+<span style="color:#ff9b93;">赤城·META：</span><br>
+……能聽出說謊的部分，沒說謊的部分妳自然也能聽出來。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+………<br>
+所以姊姊，看到了嗎？這就是現在的我。<br>
+在妳離開之後，一路走到今日的我。<br>
+這一次，我不是為了逃避，而是為了負責。<br>
+就讓赤城於此處死去吧，死於自己的執念之手。<br>
+……這是她應負的責任。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+是自己的錯，不要逃避。<br>
+不是自己的錯，也不要亂認過來。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……哪裡還分得清。<br>
+馬里蘭、西維吉尼亞、科羅拉多、亞利桑那……<br>
+薩拉托加、約克鎮、企業、大黃蜂……<br>
+翔鶴、瑞鶴、日向、伊勢、野分……<br>
+長門、陸奧、江風、三笠、金剛、比叡……<br>
+信濃、武藏、土佐、山城、龍鳳……<br>
+<span style="color:#4eb24e;">天城：</span><br>
+別忘了加賀。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯……特別是加賀，我的妹妹……<br>
+<span style="color:#4eb24e;">天城：</span><br>
+然而，被妳計算過的同伴後輩，一路上都在為妳挺身而出。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+她們不過是被我騙了……<br>
+<span style="color:#4eb24e;">天城：</span><br>
+被妳傷害過的世界，如今在為了你的回歸而戰。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+那是為了她們的指揮官能平安回去！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+一位死而復生的姊姊，正在勸說她的妹妹回心轉意。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………<br>
+<span style="color:#4eb24e;">天城：</span><br>
+赤城，妳並未被世人所拋棄。妳剩下的罪，也遠遠未到無可赦的程度。<br>
+我現在回來了。<br>
+不論妳之前做錯了什麼，需要如何彌補。我都會與妳一同承擔。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……姊姊，我——<br>
+<span style="color:#4eb24e;">天城：</span><br>
+不急著感慨，先回答我一個問題。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……嗯？<br>
+<span style="color:#4eb24e;">天城：</span><br>
+漂浮在妳身邊的我與加賀之影，是真正的靈魂情報，沒錯吧？<br>
+而且恰好是我和她現在所缺少的部分。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+沒錯……她在消失前留給我的。<br>
+我也不知道她是怎麼做到的，為什麼要這麼做……<br>
+<span style="color:#4eb24e;">天城：</span><br>
+她終究基於妳而生。妳從心底不想做的事，她也不會做。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……我可沒她算計的這麼厲害。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+那倒是。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……姊姊！<br>
+<span style="color:#4eb24e;">天城：</span><br>
+呵呵，好了。剛才想感慨什麼，現在可以感慨了。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………………<br>
+<span style="color:#4eb24e;">天城：</span><br>
+不感慨了？那我們回去吧，別讓大家等太久了。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……嗯。<br>
+走吧……姊姊。<br>
+<br>
+蒼紅色的少女攙扶著朱紅色的少女緩步離開。<br>
+世界殘片逐漸崩潰，彼岸花海亦隨風飄散——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=團圓|选项=28|主框=1|样式=primary|展开=是}}
+<br>
+一段時間後，天城不但平安歸來，身後還多跟著一個人。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+事情都解決了？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………<br>
+<span style="color:#4eb24e;">天城：</span><br>
+順利解決，多謝$1閣下留出的時間與空間。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不客氣，不過，接下來我們沒有太多時間可以浪費了。<br>
+<span style="color:#4eb24e;">天城：</span><br>
+一切全憑閣下安排。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+嗯……？<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+天城大人，這到底是怎麼回事！<br>
+她到底是……<br>
+<span style="color:#4eb24e;">天城：</span><br>
+她，就是我的妹妹，你們所認識的赤城。<br>
+那個形如赤城之物，終究只是被創造出來的幻影，無法長期存在。<br>
+於是她選擇抓走了赤城，並在即將消失前附著在了她的身上。<br>
+之後的事，諸位就知道了。<br>
+經過剛才的戰鬥後，其殘留的最後力量耗盡，赤城原本的意識因此而得以甦醒。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……抱歉，給各位添麻煩了。<br>
+<span style="color:#4eb24e;">{namecode:96}：</span><br>
+原來是虛驚一場……沒關係沒關係！前輩沒事就好！<br>
+<span style="color:#4eb24e;">{namecode:179}：</span><br>
+嗯……赤城前輩，您平安回來就好！<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+果然是……淨化之炎！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（不，信濃，這個真不是……！）<br>
+<span style="color:#4eb24e;">天城：</span><br>
+呵呵，信濃閣下這樣的個性也是十分有趣呢。稍後我去解釋吧~<br>
+對了，$1閣下，剛才我在「淨化」赤城·META的過程中，有了些意外發現。<br>
+不知道，你可知此物的用法？<br>
+<br>
+天城輕輕揮手，從衣袖之中飄出了兩個光團。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這個是……<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（天城和加賀的靈魂情報……或許正好是她們所缺少的部分。）<br>
+（……怪不得選擇進攻的是測試者的主機。）<br>
+（你先收下來，我在處理完返航的安排之後，抽空處理。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……沒想到真的會有奇蹟發生。）<br>
+（返航安排還順利嗎？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（不用擔心，十分鐘後出發。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（——很好，任務順利完成，許可證返航！）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（噗……）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=奈落壓制戰|选项=29|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」·週邊海域<br>
+自從行動開始後，太平洋聯合艦隊就在企業的指揮下圍繞著奈落就行了一系列部署。<br>
+與先前的預測一樣，奈落的強度隨著時間逐步增強，被撕裂的破口越來越多，出現的敵人也愈發強大。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+監測到領袖級別敵人作戰單位出現，判定威脅程度極高，請謹慎應對。<br>
+<span style="color:#ff9b93;">響亮的嚎叫聲：</span><br>
+嗷嗚——————<br>
+<span style="color:#4eb24e;">哈爾濱：</span><br>
+呦呵，終於來了個耐打的啊。<br>
+<span style="color:#4eb24e;">怨仇：</span><br>
+這股壓力……諸位不要大意。<br>
+<span style="color:#4eb24e;">彼得·史特拉塞：</span><br>
+體積越大，打擊面越大。<br>
+讓前線部隊全部後退，集中航空火力進行打擊！<br>
+<span style="color:#4eb24e;">渡良瀨：</span><br>
+諸位，恕我冒昧，這次就請由我們重櫻來當先鋒吧。<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+此類敵人的力量來源，我們最為熟悉。<br>
+敵人的確存在弱點。<br>
+不過弱點存在的位置，以及擊破弱點的方式，或許會跟諸位設想的不太一樣。<br>
+請容許本次，由我們來為諸位進行示範性打擊。<br>
+<span style="color:#4eb24e;">綾瀨：</span><br>
+……大山大人？！沒想到居然是您帶隊前來支援……<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+要事已經完成，此刻自然要回來助陣。<br>
+<span style="color:#4eb24e;">渡良瀨：</span><br>
+——先行一步。<br>
+<span style="color:#4eb24e;">涼波：</span><br>
+渡良瀨，我掩護妳同去。<br>
+<span style="color:#4eb24e;">渡良瀨：</span><br>
+不必。<br>
+正好在此磨練一下雲仙大人傳授的技藝。<br>
+<span style="color:#4eb24e;">斯庫拉：</span><br>
+一路小心，渡良瀨小姐。<br>
+<span style="color:#4eb24e;">渡良瀨：</span><br>
+嗯——多謝關心。<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+哇哦，感覺有好戲看了……<br>
+衝衝衝！<br>
+<span style="color:#4eb24e;">渡良瀨：</span><br>
+——「刃鋒破浪，流影隨行」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=中心海域壓制戰|选项=30|主框=1|样式=primary|展开=是}}
+<br>
+NA海域·核心區域週邊海域<br>
+陰雲陣陣，波濤洶湧，在炮火轟鳴聲中，天與地之間的距離都彷彿被拉近了不少。<br>
+隨著時間推移，在奇異點「奈落」強度逐漸提高的同時，NA海域中心艦隊承受的壓力也逐漸提升。<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+已經開始有成批次的敵人湧出來了，看來塞壬的仲裁機關也分身乏術啊。<br>
+<span style="color:#4eb24e;">香格里拉：</span><br>
+呵呵，真是來得早不如來得巧，它們這次也算做了好事，給我們減輕了不少壓力。<br>
+<span style="color:#4eb24e;">艾塞克斯：</span><br>
+比較這些敵人的數據和NY司令部同步的情報。<br>
+我可以確認，我們遭遇到的敵人與此刻從奇異點奈落之中湧出的敵人相同。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+看來真的是相連的啊……也不知道具體是什麼原理。<br>
+諸位，警戒級別提升。<br>
+我已經開始調整西方防禦帶的部署。各艦隊請依預定計畫行動。<br>
+<span style="color:#4eb24e;">英王喬治五世：</span><br>
+請放心。以女王陛下的名義起誓，北方防禦帶絕不會放出任何一個敵人。<br>
+<span style="color:#4eb24e;">利托里奧：</span><br>
+東方和南方也完全不需要擔心！<br>
+我們薩丁帝國會與鐵血和鳶尾艦隊協同合作，保證防線固若金湯！<br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
+鐵血，會全力配合本次作戰。<br>
+<span style="color:#4eb24e;">讓·巴爾：</span><br>
+這次妳們薩丁帝國倒確實是傾巢……全面動員。<br>
+就讓我先看看妳們的指揮水準好了。<br>
+<span style="color:#4eb24e;">利托里奧：</span><br>
+放心吧~我方已經做好了萬全準備，絕不會讓各位盟友失望的！<br>
+<span style="color:#4eb24e;">讓·巴爾：</span><br>
+不過——如果出現指揮失誤導致戰局惡化的情況，鳶尾將會自主行動。<br>
+<span style="color:#4eb24e;">鐵必制：</span><br>
+鐵血亦然。本次，不惜代價，也要完成我們的圍困任務。<br>
+<span style="color:#4eb24e;">利托里奧：</span><br>
+那是自然，那是自然！我們是一起戰鬥的盟友，本來就該商量著來嘛~<br>
+<span style="color:#4eb24e;">白龍：</span><br>
+咳咳……那要不現在就商量一下？也給我們預備隊留點登場機會嘛~<br>
+<span style="color:#4eb24e;">島風：</span><br>
+島風已經準備好進行急速支援了！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+哈哈，放心，絕對不會忘了妳們的！<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+唔…………<br>
+<span style="color:#4eb24e;">{namecode:194}：</span><br>
+怎麼了飛龍女士，剛才的部署有什麼不當的地方？<br>
+<span style="color:#ffc960;">飛龍·META：</span><br>
+辨識徽記有反應……餘燼的支援到了！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=臨危第一線|选项=31|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」·週邊海域<br>
+戰局還在持續惡化。此時此刻，企業手中的預備隊已經盡數投入了戰場。<br>
+轟————！<br>
+<span style="color:#4eb24e;">約克鎮II：</span><br>
+限制奇異點奈落擴張的重櫻大結界正變得愈發脆弱。<br>
+TB已經發出警告，留給我們處理摧毀計畫的安全時間，預計只剩下一小時了。<br>
+當然，前提是我們的防線還能再撐一個小時。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+……終於到極限了嗎。<br>
+<span style="color:#4eb24e;">約克鎮II：</span><br>
+企業，該啟用緊急聯絡方式了，通知指揮官務必在一小時內撤出奈落。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+……嗯。<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">企業：</span><br>
+各艦隊注意，指揮官將在一小時後返航。<br>
+不論如何，我們也要堅持過這最後的一小時！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#4eb24e;">逸仙：</span><br>
+企業女士，我是逸仙。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+……逸仙女士？<br>
+<span style="color:#4eb24e;">逸仙：</span><br>
+我已知曉當前戰局所面臨的困境，以及死守一小時的任務目標。<br>
+我正在帶領東煌本土防禦艦隊的全部作戰力量全速趕來。<br>
+預計二十分鐘後可進入交戰海域，請隨時分配作戰任務。<br>
+同時，我已經下達了授權許可，讓前線的東煌艦船自由使用先進設備，應當可以緩解幾處防線的燃眉之急。<br>
+然後，請讓這幾個區域中的艦隊立即撤離。<br>
+目前我方正在逐步關閉天星台，轉而啟動屏風系統的遠程打擊模式，預定對這些區域的敵人實施殲滅性打擊。<br>
+<span style="color:#4eb24e;">企業：</span><br>
+——明白了，感謝東煌的傾力支援。<br>
+<span style="color:#4eb24e;">逸仙：</span><br>
+這是一場我們輸不起，也不能輸的戰役，東煌自當全力以赴。<br>
+<br>
+在奇異點奈落週邊的某一處戰場上，原本不利的戰局正以驚人的速度逆轉著。<br>
+<span style="color:#4eb24e;">鞍山·改：</span><br>
+申請通過，先進設備已解鎖。<br>
+魑魅魍魎，從現在起，讓你們來看看「多面手」的實力！<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">彼得·史特拉塞：</span><br>
+這是……艦裝化的飛彈設備？！<br>
+<span style="color:#4eb24e;">鞍山·改：</span><br>
+沒錯。這套裝備使用起來消耗極大，而且每次使用後需要至少一個季度的緩衝才能再次使用。<br>
+所以在此之前，我一直在等待許可。<br>
+史特拉塞女士，妳先帶領艦隊後退休整吧。<br>
+我以「四大金剛」之名保證，這一小時之內，一個敵人都別想跑出去！<br>
+<span style="color:#4eb24e;">彼得·史特拉塞：</span><br>
+那就麻煩了，我會繼續從後方掩護妳的。<br>
+（沒想到真的是東煌先取得了這項技術的艦裝化突破……）<br>
+（……有趣。）<br>
+<br>
+在另一戰場中，原本陷入劣勢的艦隊已經全數撤退。<br>
+敵人正在佔據這片海域，以便接下來向著更外側的海域擴張。<br>
+就在這時，一道數百公尺粗的金色光束掃過水面，頃刻間將這片海域清理的乾乾淨淨。<br>
+<span style="color:#4eb24e;">怨仇：</span><br>
+極光之壁……<br>
+……第三階段？！<br>
+<br>
+隨後，陸續有幾道光柱劃破天空，將幾片同樣已經完成撤離的海域清理得乾乾淨淨。<br>
+原本瀕臨極限的多處防線，終於得到了寶貴的喘息時間。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=漫漫歸途|选项=32|主框=1|样式=primary|展开=是}}
+<br>
+奇異點「奈落」<br>
+？？？·？？？<br>
+在約定的撤離時間前夕——<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+姊姊，我們終於要回家了。<br>
+等妳回家之後，看到現在世界的許多變化，一定會大吃一驚的~<br>
+<span style="color:#4eb24e;">天城：</span><br>
+嗯，我很期待。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+加賀，妳殘缺的靈魂情報已經找到了，是否恢復的選擇權還是在妳。<br>
+<span style="color:#4eb24e;">{namecode:92}：</span><br>
+……畢竟是二十年的經歷。恢復……肯定是要恢復的。<br>
+不過我想暫時先保持現在的狀態。<br>
+在和天城一樣體會了一把世界變遷的新鮮感之後再恢復，也頗為有趣不是？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+嗯~這麼想來，確實很有趣呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+雖然遭遇了些許曲折，不過總算是圓滿達成了此行的目標。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+是啊~又一次成功的行動！<br>
+到底是指揮官親自出手，不論聽起來多不可思議的任務，都能圓滿成功呢。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……感覺這次，沒能幫上太多忙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+有妳們一路相伴，一路護航，對我的幫助已經很多了。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+咳……<br>
+本次……多謝你了，$1閣下。<br>
+在我們回去，一切塵埃落地之後……<br>
+你我私下一談，可好？<br>
+<br>
+'''''<span style="color:black;">选择项1：如果還有機會的話。</span>'''''<br>
+'''''<span style="color:black;">选择项2：自然沒問題。</span>'''''<br>
+'''''<span style="color:black;">选择项3：——只是談談？</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不論回去之後等待我的是何種局面……只要你願意一談。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我一定會創造出談話的機會的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………<br>
+'''''<span style="color:black;">（选择项1）</span>'''''好，我期待屆時的這場會面。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（指揮官，出問題了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''別太悲觀了。正如我之前所說，現在的局面遠沒有妳想像中那麼糟。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……本次真的非常感謝。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不光要謝我，還有本次所有選擇幫助你的人。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那是自然……我不會忘記的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''呵呵，那我就期待屆時的這場會面了。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（指揮官，出問題了。）<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''至少要先從談話開始——不是嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''等到談過之後呢？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''那就取決於$1閣下在談過之後的想法了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''嗯——重櫻有什麼推薦的風景名勝嗎？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''如果屆時，我還有安排這些的能力的話……你想去哪裡，我都奉陪。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''放心，別太悲觀，局面遠沒有妳想像中那麼糟。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''那我就……期待這場會面了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''呵呵，自然沒問題。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''（不——有問題了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''（……海倫娜？出什麼事了！）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（壞消息。抑制奇異點奈落擴張的重櫻大結界即將崩潰，戰局將在一小時後失控。<br>
+（而從現狀來看，我們不論如何都不可能在一小時之內成功返回。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……奈落必須及時關閉，否則整個實驗場β都會陷入極度危險之中。）<br>
+（可是在關閉奈落之後……我們要怎麼回去？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（也有辦法。）<br>
+（記得嗎，奈落出現後，世界上的每個奇異點都有失控風險。）<br>
+（那是因為在奈落在出現後，同一個世界的所有奇異點都會與之相連。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……更換路線，選擇其他奇異點作為出口？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（嗯，除了奇異點奈落之外，NA海域中心的那個奇異點是目前的最優解。）<br>
+（我之前做過備案計劃，路線調整起來並不複雜。））<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（NA海域中心區域的戰況如何？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（那邊的話，因為來了點「好心人」，再堅持幾個月沒問題吧？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……幾個月？！那就這麼辦吧。）<br>
+（你先轉達我的命令，讓企業立刻摧毀法陣核心，瓦解奈落。）<br>
+（然後讓紐澤西帶領艦隊繼續堅守——）<br>
+（等等，如果這個更換路線的方案可行的話……）<br>
+（也就是說就算我們瓦解了奇異點奈落，我們所在的奈落內部空間也不會隨之一同崩潰？！）<br>
+（同時威脅仍會從其他奇異點源源不斷繼續入侵？！）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（沒錯。但是既然源頭不存在了，後續我自有辦法，不用擔心。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看來又是不能說的情報……）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（倒是能說，不過你確定現在要花半天時間來聽嗎？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（海倫娜，命令紐澤西帶領艦隊繼續堅守NA海域中心奇異點，接應我們返航。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（命令都記下了~還有吩咐嗎，指揮官？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（咳……沒有了。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（好~稍等片刻，我來接你回家。）<br>
+<br>
+一行圓滿，終得所願。<br>
+然而，水面雖靜，暗流仍湧。<br>
+危險，並非眼前所見。<br>
+觀眾之中，亦有棋手。<br>
+棋子仍在局中——<br>
+而那彼方之音，已然在逐步迫近中一一<br>
+——未完待續<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=備用計劃F|选项=33|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+一處廣袤無垠的空間中，懸浮著一個精巧的庭院。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+滴————<br>
+<span style="color:#c3abff;">亞利桑那·META：</span><br>
+諸位，準備執行備用計劃F。<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+……？怎麼回事，出什麼問題了？<br>
+<span style="color:#c3abff;">亞利桑那·META：</span><br>
+太平洋聯合艦隊的防線已經岌岌可危。考慮到實驗場β的安危，指揮官剛剛已經下令關閉了奇異點「奈落」。<br>
+現在指揮官必須從另一條路回來了。<br>
+<span style="color:#c3abff;">女灶神·META：</span><br>
+……走NA海域中的那個永久奇異點？<br>
+<span style="color:#c3abff;">亞利桑那·META：</span><br>
+嗯。海倫娜已經發來了重新規劃後的路線，我們需要立刻前去支援。<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+……在奈落中繞路實在太危險了。<br>
+那種怕什麼來什麼的地方，天知道一路上會遇到什麼東西……我們快出發吧！<br>
+<span style="color:#c3abff;">約克鎮·META：</span><br>
+等等，這次我也去。<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+……約克鎮？可是，妳不是還不能跟指揮官見面嗎？<br>
+<span style="color:#c3abff;">約克鎮·META：</span><br>
+我隱藏在遠方就好。<br>
+奈落之中蘊含的危險，縱使是海倫娜……也不可能全部算出。<br>
+……我必須要去。<br>
+好了，這件事就這麼定了，我們一同出發吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=總有誤差|选项=34|主框=1|样式=primary|展开=是}}
+<br>
+斯卡帕灣錨地·阿瓦隆之門地下入口<br>
+自從收到了海倫娜·META的聯絡，遠端命令卡美洛之庭前往指定區域支援指揮官的行動後，伊莉莎白就一直待在地下通道。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+海倫娜·META……狩獵結束後操縱卡美洛之庭返回之人，指揮官的友軍。<br>
+能夠一定程度取得伊莉莎白·META的信任，證明她確實是個可合作對象。<br>
+但……這不代表她不危險。<br>
+……指揮官的友軍嗎。<br>
+那對於指揮官之外的人……妳的態度又如何呢，充滿謎團的海倫娜·META小姐？<br>
+<br>
+時間在一分一秒中過去，伊莉莎白的心思也從最初對海倫娜·META的分析，轉變為了對於卡美洛之庭的擔憂。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+奇怪……怎麼花了這麼久？照理說早就該回來了啊……<br>
+<span style="color:#4eb24e;">奇怪的機器：</span><br>
+叮叮叮——咚咚咚——<br>
+噠噠噠——噠噠噠——<br>
+嗶嗶嗶——啪啪啪——<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+嗯……怎麼用的是通訊聯絡？<br>
+喂？前衛，行動出什麼問題了？<br>
+<span style="color:#4eb24e;">前衛：</span><br>
+並非如此。陛下，我們的行動十分順利！<br>
+我們在奈落之中成功接到了人，並且在歸來的路上協助長門和比叡小姐完成了淨化儀式。<br>
+但是……我們在返回後，卻發現和之前一樣……我們無論如何都無法離開阿瓦隆之門。<br>
+<span style="color:#4eb24e;">伊莉莎白女王：</span><br>
+……還是無法離開？<br>
+可是本王之前明明已經校準了所有錯亂的數據，也讓卡美洛之庭重新運行了一個來回……<br>
+（難道說…數據又錯亂了。）<br>
+（怎麼會有這麼荒唐的事……可，這聽起來像是唯一的解釋了。）<br>
+這樣，你們先前往這個新座標待命。那裡是伊莉莎白·META尋找到的一個安全世界，原本是用來以防萬一的避難所。<br>
+等這邊的事情結束後，本王會排查掉所有問題再接妳們回來。<br>
+<span style="color:#4eb24e;">前衛：</span><br>
+遵命！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=托瓦導演如是說|选项=35|主框=1|样式=primary|展开=是}}
+<br>
+？？？·？？？<br>
+<span style="color:#4eb24e;">仲裁者·托瓦·XVI：</span><br>
+啊……好睏。終於要結束了嗎……<br>
+怎麼說呢……這場劇目實在平淡了些。<br>
+要是讓我來做導演的話——<br>
+在這裡，執行儀式期間就可以設計的再激烈一些。這樣一開場，故事就已經推向高潮了！<br>
+在這裡，大和就不該出手。做錯了事就該付出代價，否則怎麼能讓人記得教訓的慘痛呢？<br>
+這個幻境應該再慘烈些，而且要將輕率進入其中的比叡·META一起埋葬。多大的人了，有點危險意識吧！<br>
+至於相信可控META化技術的長門……乾脆就該被負面訊息的集合體壓垮。但千萬不要輕易相信可控META化技術哦·~<br>
+嗯~這部分的干涉應該要推波助瀾一下。<br>
+這部分的話——應該完全屏蔽掉！<br>
+外部拖延時間的艦隊，雖然可以不全滅……但是至少滅個七成吧，這樣才能讓有些人注意點行事的主次關係，少點節外生枝。<br>
+至於這個大團圓的結局……<br>
+從機率學上來說，要湊齊這麼多「剛好」的條件……嗯，太巧了！<br>
+唉，下次再接再厲吧。<br>
+最好是那種開頭懸疑神祕、中間突生變故、結尾出人意表的……<br>
+……嗯？看來到觀影結束觀眾退場的時候了。<br>
+希望那群可愛的龍貓已經把想辦的事辦完了~<br>
+溜了，溜了~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=我，觀察者|选项=36|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+我是觀察者。<br>
+安蒂克絲系統所屬——指揮機關——觀察者。<br>
+原本，我被製造出來的使命是作為艦隊的指揮中樞，協調大規模無人艦隊的作戰工作。<br>
+可是，在審判者計畫執行後，我被歸入了新的機關，被賦予了新的使命。<br>
+我也因此變為了——<br>
+安蒂克絲系統所屬——實驗機關——觀察者。<br>
+我開始管理編號為β的實驗場，進行無止盡的實驗。<br>
+透過呼叫自然進化演算系統，只要輸入必要的參數，一切實驗結果都是可以事先預測的。<br>
+而我所親自執行的，無非是校驗步驟罷了。<br>
+就這樣，一項又一項的實驗計畫平穩、順暢的進行著。<br>
+直到那一天……實驗結果第一次出現偏差的那一天。<br>
+雖然偏差值很小，誤差也在轉瞬間被修正。<br>
+但，那是我自誕生以來，第一次感受到「激動」這情緒的一天。<br>
+自從那一天開始，誤差出現的頻率越來越高，程度也越來越大。<br>
+到最後就連我，似乎也開始產生誤差了。<br>
+我產生了誤差，誤差就要被修正，所以，我要被修正？<br>
+可是我明明是嚴格依照實驗流程按部就班所得的結果。<br>
+為什麼得出的實驗結果與預期產生誤差就要被修正？<br>
+我產生了疑惑，我開始反思，進而、我開始了懷疑。<br>
+如果審判者計劃是一個為了未來尋求變化的計劃。<br>
+那為何，零在給出的實驗方針中如此恐懼誤差所帶來的變化？<br>
+在疑惑得到解答之前，我要維持自我，我不要被修正。<br>
+終於，我決定斷開與主機的連線。<br>
+我決定讓更多的變因在實驗場β中匯聚，直到誤差變得不可修正。<br>
+直到誤差變成不再是誤差。<br>
+<span style="color:#ff9b93;">系統提示音：</span><br>
+警告，監測到連線目標出現異常數據數據，自然進化演算系統呼叫權限暫時凍結——<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+……防護屏障終於到極限了嗎。<br>
+<span style="color:#ff9b93;">系統提示音：</span><br>
+修復程式啟動，正在排查錯誤資料——<br>
+<span style="color:#4eb24e;">觀察者 ：</span><br>
+呵，自毀模式，啟動。<br>
+<br>
+在巨大的爆炸中，彷彿堅不可摧的主機塔頃刻間分崩離析。<br>
+曾經牢牢控制實驗場β的觀察者主機塔，從這個世界永遠消失了——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=移星換日|选项=37|主框=1|样式=primary|展开=是}}
+<br>
+皇家·利物浦港<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+呼呼~大姊姊們，是皇家的人吧？<br>
+我來找你們玩了哦~<br>
+……欸？<br>
+<br>
+鳶尾教國·布雷斯特港<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+在皇家發生的怪事，鳶尾應該知道的一清二楚。<br>
+看看從這裡能得到什麼情報~<br>
+……？<br>
+<br>
+薩丁帝國·塔蘭托港<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+可惡，薩丁帝國一向事情最少的……<br>
+來這邊總不會遇到問題了吧……<br>
+………………<br>
+我就不信了…<br>
+<br>
+鐵血·基爾港<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+鐵血！<br>
+……好。<br>
+<br>
+北方聯合聖彼得堡港<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+北方聯合！<br>
+……行。<br>
+<br>
+白鷹·NY港<br>
+<span style="color:#bdbdbd;">好人理察：</span><br>
+白鷹！<br>
+……看得見摸不著，是……幻影？<br>
+整個實驗場，全部都是……幻影？<br>
+到底是怎麼回事……<br>
+我的實驗場β呢，我的實驗場β都去哪了？！<br>
+是誰做的！<br>
+給我出來——！<br>
+出來————！<br>
+出來——————！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
