@@ -40,7 +40,7 @@
 （……嗯，她確實能。）<br>
 <span style="color:#ffc960;">海倫娜·META：</span><br>
 別試探了，妳的所有底牌我都一清二楚。而我的底牌，就算妳連接主機，也不可能窺探分毫。<br>
-而且，妳真的不明白我為什麼帶$1來作為這場會談的見證者嗎？<br>
+而且，妳真的不明白我為什麼帶{playername}來作為這場會談的見證者嗎？<br>
 <span style="color:#fef15e;">觀察者 ：</span><br>
 ……特殊的「指揮官」，特殊的「實驗場」，特殊的……「我」。<br>
 ……妳真的能做到？<br>
@@ -1307,7 +1307,7 @@ $閣下，你們的身份，你們所來的地方，赤城已經向我介紹過�
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 ……好吧。<br>
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
-$1閣下，在你提出的計畫中，我有幾點疑惑，需要先得到解答。<br>
+{playername}閣下，在你提出的計畫中，我有幾點疑惑，需要先得到解答。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 沒問題，請問吧。<br>
 （海倫娜，妳在線嗎，待會計劃的細節可能需要妳來做一些解釋。）<br>
@@ -1387,7 +1387,7 @@ $1閣下，在你提出的計畫中，我有幾點疑惑，需要先得到解答
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
 不過，既然今日之夢是如此……<br>
 那，此前之夢，或許亦然……<br>
-$1閣下，我們當真是第一次見面嗎？<br>
+{playername}閣下，我們當真是第一次見面嗎？<br>
 <br>
 '''''<span style="color:black;">选择项1：……？</span>'''''<br>
 '''''<span style="color:black;">选择项2：……！</span>'''''<br>
@@ -1407,7 +1407,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 <span style="color:#4eb24e;">{namecode:92}：</span><br>
 好好好……不小心聽了這麼大的秘密，要是我說不去，還不得被妳們滅口了……<br>
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
-呵呵，看來我們愉快地達成了一致呢。那麼$1閣下——<br>
+呵呵，看來我們愉快地達成了一致呢。那麼{playername}閣下——<br>
 <span style="color:#4eb24e;">通訊器：</span><br>
 滴————<br>
 <span style="color:#4eb24e;">{namecode:40}：</span><br>
@@ -1444,7 +1444,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 ……但是！再怎麼說，此時此刻，她們依然是我們的同伴。同伴陷入危難之中，我們不該袖手旁觀。<br>
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
-嗯。$1閣下呢，您怎麼看？<br>
+嗯。{playername}閣下呢，您怎麼看？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 不論是身處夢境、幻境還是虛像之中，妳就是「妳」，我就是「我」。<br>
 如果我們的原則可以根據虛幻與現實的差異而靈活調整。<br>
@@ -1726,7 +1726,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 好好好，就算一切順利，你們亂來的計畫真的成功了。然後呢，你們就打算直接出發嗎？<br>
 等離開了這裡，世界切片破碎，我在奈落之中設定的錨點也沒了，你們覺得之後還能走之前定好的安全路線嗎？<br>
 <span style="color:#ffc960;">海倫娜·META：</span><br>
-無妨。$1，你儘管放手去做自己想做的事。其他的事，我來處理。<br>
+無妨。{playername}，你儘管放手去做自己想做的事。其他的事，我來處理。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ……多謝，海倫娜。<br>
 <span style="color:#4eb24e;">觀察者 ：</span><br>
@@ -1756,7 +1756,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 不用擔心，我們一定能成功的。<br>
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
-……$1閣下。你說，逆轉命運之事——是好，還是壞呢？<br>
+……{playername}閣下。你說，逆轉命運之事——是好，還是壞呢？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 如果是像今天這樣，將悲傷逆轉成幸福的事，當然是好事。<br>
 <span style="color:#4eb24e;">{namecode:161}：</span><br>
@@ -1925,7 +1925,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 咳……不過是臨時性的META化，妳怎麼會擁有這種力量……<br>
 <span style="color:#ffc960;">長門·META：</span><br>
 汝已經失敗了，知道也無用。<br>
-不過余可以告訴另你一件事——復活天城之事並非不可能，$1閣下已經正在做了。<br>
+不過余可以告訴另你一件事——復活天城之事並非不可能，{playername}閣下已經正在做了。<br>
 余之所以追汝來此，就是因為汝佔據了「天城」之概念，是其真正復活的阻礙。<br>
 <span style="color:#ff9b93;">天城（偽物）：</span><br>
 …………<br>
@@ -2068,7 +2068,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 （姊姊不但掙脫了宿命的桎梏，還獲得了新的力量……）<br>
 （這份現實比曾經夢境中最好的畫面，還要美好百倍……）<br>
-（$1閣下……真是個信守承諾，又能帶來奇蹟的人……）<br>
+（{playername}閣下……真是個信守承諾，又能帶來奇蹟的人……）<br>
 （這樣一來，就只剩下最後一件事需要了結了……）<br>
 <br>
 赤城收回心神，轉頭看向不遠處的那個身影。<br>
@@ -2220,7 +2220,7 @@ $1閣下，我們當真是第一次見面嗎？<br>
 呃……好像確實有點，但是！這隻狐狸和我絕對沒有任何關係！<br>
 <span style="color:#4eb24e;">天城：</span><br>
 呵呵，那是自然的~<br>
-$1閣下，我已經基本熟悉了航空母艦的戰鬥方式。<br>
+{playername}閣下，我已經基本熟悉了航空母艦的戰鬥方式。<br>
 這場戰鬥，可否由我作為先鋒出戰呢？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 自然沒問題，還請盡情發揮。<br>
@@ -2280,7 +2280,7 @@ $1閣下，我已經基本熟悉了航空母艦的戰鬥方式。<br>
 此事仍有疑點，現在認定行動失敗為時過早。<br>
 天城，妳怎麼看？<br>
 <span style="color:#4eb24e;">天城：</span><br>
-這次，我想先聽聽$1閣下的意見。<br>
+這次，我想先聽聽{playername}閣下的意見。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 不論如何，大戰一場是不可避免了。<br>
 <span style="color:#4eb24e;">天城：</span><br>
@@ -2468,7 +2468,7 @@ $1閣下，我已經基本熟悉了航空母艦的戰鬥方式。<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 …………<br>
 <span style="color:#4eb24e;">天城：</span><br>
-順利解決，多謝$1閣下留出的時間與空間。<br>
+順利解決，多謝{playername}閣下留出的時間與空間。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 不客氣，不過，接下來我們沒有太多時間可以浪費了。<br>
 <span style="color:#4eb24e;">天城：</span><br>
@@ -2496,7 +2496,7 @@ $1閣下，我已經基本熟悉了航空母艦的戰鬥方式。<br>
 （不，信濃，這個真不是……！）<br>
 <span style="color:#4eb24e;">天城：</span><br>
 呵呵，信濃閣下這樣的個性也是十分有趣呢。稍後我去解釋吧~<br>
-對了，$1閣下，剛才我在「淨化」赤城·META的過程中，有了些意外發現。<br>
+對了，{playername}閣下，剛才我在「淨化」赤城·META的過程中，有了些意外發現。<br>
 不知道，你可知此物的用法？<br>
 <br>
 天城輕輕揮手，從衣袖之中飄出了兩個光團。<br>
@@ -2706,7 +2706,7 @@ TB已經發出警告，留給我們處理摧毀計畫的安全時間，預計只
 有妳們一路相伴，一路護航，對我的幫助已經很多了。<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
 咳……<br>
-本次……多謝你了，$1閣下。<br>
+本次……多謝你了，{playername}閣下。<br>
 在我們回去，一切塵埃落地之後……<br>
 你我私下一談，可好？<br>
 <br>
@@ -2738,7 +2738,7 @@ TB已經發出警告，留給我們處理摧毀計畫的安全時間，預計只
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项3）</span>'''''等到談過之後呢？<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
-'''''<span style="color:black;">（选择项3）</span>'''''那就取決於$1閣下在談過之後的想法了。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''那就取決於{playername}閣下在談過之後的想法了。<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项3）</span>'''''嗯——重櫻有什麼推薦的風景名勝嗎？<br>
 <span style="color:#4eb24e;">{namecode:91}：</span><br>
