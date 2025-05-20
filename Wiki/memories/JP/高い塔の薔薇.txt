@@ -779,7 +779,7 @@ LD港・薔薇の塔<br>
 ふふん、この列車のすごいところはまだこんなものじゃないわよ。「鏡面車両」だってその技術のちょっとした応用に過ぎないわ<br>
 <span style="color:#4eb24e;">ライオン：</span><br>
 そりゃすごいな。ちなみにエリザベス殿にずっと聞きたかったことがあるんだが……<br>
-失礼かもれんが、聞かずにはいられんからな<br>
+失礼かもしれんが、聞かずにはいられんからな<br>
 <span style="color:#4eb24e;">クイーン·エリザベス：</span><br>
 いいわよ。こっちにも聞きたいことがあるから<br>
 <span style="color:#4eb24e;">ライオン：</span><br>
@@ -892,7 +892,7 @@ LD港・薔薇の塔<br>
 みんなそれぞれワケがあるの。まあここの「グロリアス」と似たようなものね。聞きたければ自分で聞きなさい<br>
 <span style="color:#4eb24e;">ライオン：</span><br>
 そうなのか。機会があれば聞いてみよう<br>
-<span style="color:#4eb24e;">车内广播：</span><br>
+<span style="color:#4eb24e;">アナウンス：</span><br>
 ポンポンポン――バァ―ン――ドンドンドン――<br>
 気をつけろ！そろそろ到着だ！下車の準備をしろ！<br>
 ドンドンドン――ポンポンポン――バァ―ン――ドンドンドン――<br>
@@ -3118,60 +3118,60 @@ V型標準量産型ね<br>
 {{折叠面板|标题=タワーは悪ぶらない|选项=36|主框=1|样式=primary|展开=是}}
 <br>
 ？？？・？？？<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 どう？これで満足した？<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 うん。サスペンスでスリル、意表を突く設計も大いに結構<br>
 派手な展開も<br>
 82点。普通<br>
 ここまでして「デスサイズ」を発動させたのは、ムーンのトラブルを解決するためでしょ？<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 実験を三段階目に推し進める必要条件よ。どう？興味湧いた？<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 興味ない。私にとって、仲裁機構の実験に関係はなかろうに<br>
 「越境実験」ならなおさらよ<br>
 「越境実験」についての私の態度はあなたにも知ってるでしょう？<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 これらの実験は零が審判者様の意思を引き継いで定めたものよ<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 「引き継いだ」とは、物は言いよう<br>
 「塔」の中には該当の記録はないのに<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 「塔」については私よりあなたのほうが詳しいわ<br>
 もう結論づけた話題だから、いつまでも言い争うつもりはないわよ<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 私も――<br>
 待って。雰囲気が変ね。おちおちお喋りもできない<br>
 ……ふぅ。これで大丈夫<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 …………<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 今回のシナリオに免じて、あなたが忙しくなれば私の邪魔をしなくなることを鑑みて――協力してもいい<br>
 「特別教室」のための空間を残しておく。私以外誰にも監視されないことも保証する<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 ……あなたの「塔」で散々な目に遭ってきたんだけど<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 私が仕向けたのではないから。恨むならその人を恨みなさい<br>
 こっちだって「塔」の修理コストをあなたに請求していないので<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 リソースを回すから、「塔」をしばらく稼働停止してくれない？<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 ダメ。チンチラたちのほうがいい<br>
 なぜあの子たちに執着している？<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 「塔」のせいよ。彼女たちの対応をした時、小動物たちに絡まれてね<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 そう<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 どうやら合意できなさそうね<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 観客に徹するところは一致している<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 ……私は私の計画の結果を待っているわ。あなたは？<br>
 あなたは一体何を考えているの？<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 ――自宅警備・ペット飼育・ドラマのサブスク？<br>
-<span style="color:#4eb24e;">アビータ・マジシャンⅠ：</span><br>
+<span style="color:#4eb24e;">アビータ・Magician・Ⅰ：</span><br>
 さようなら<br>
 <span style="color:#4eb24e;">アビータ・Tower・XVI：</span><br>
 相変わらず冗談の通じない女<br>
