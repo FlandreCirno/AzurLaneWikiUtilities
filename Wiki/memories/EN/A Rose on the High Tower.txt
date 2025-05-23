@@ -1626,7 +1626,7 @@ As for Miss D, she apparently chose to ride the "flying lion."<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 I have to ask – what ARE those flying lions?<br>
 <span style="color:#4eb24e;">Lion：</span><br>
-Heh. Well, $1, they are the Mesektet's secret weapon. I cannot share more than that as it is confidential.<br>
+Heh. Well, {playername}, they are the Mesektet's secret weapon. I cannot share more than that as it is confidential.<br>
 <span style="color:#4eb24e;">Miss D：</span><br>
 They're just mass-produced Siren ships that you put solid hologram overs!<br>
 <span style="color:#4eb24e;">Lion：</span><br>
