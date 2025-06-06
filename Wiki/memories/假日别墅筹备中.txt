@@ -77,7 +77,7 @@
 '''''<span style="color:black;">选择项1：好，我买了！</span>'''''<br>
 '''''<span style="color:black;">选择项2：感觉有哪里不对劲……</span>'''''<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项2）</span>'''''这个产品度假岛……和港区的区别在哪里？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这个度假岛……和港区的区别在哪里？<br>
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''美丽的沙滩与海景喵？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -367,7 +367,7 @@ Honey要是喜欢的话，我当然是绝对赞成咯~而且海岛别墅我们�
 <span style="color:#4eb24e;">{{AF|明石}}：</span><br>
 喵？！和海岛别墅有关的不妙情况！？！别卖关子了，快说喵！<br>
 <span style="color:#4eb24e;">纳希莫夫海军上将：</span><br>
-根据我们的监测，独家岛屿周边海域海水温度已超过27℃，表层海水盐度骤降，低空开始形成涡旋……<br>
+根据我们的监测，度假岛屿周边海域海水温度已超过27℃，表层海水盐度骤降，低空开始形成涡旋……<br>
 雷暴云团正在聚拢，核心区域气压急速下降……<br>
 <span style="color:#4eb24e;">法戈：</span><br>
 指挥官，是飓风。<br>
