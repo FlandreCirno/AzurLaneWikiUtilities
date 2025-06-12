@@ -1739,12 +1739,13 @@
 포미더블의 연락을 받고, 촬영을 막 끝낸 스튜디오 문을 두드렸다.<br>
 <span style="color:#4eb24e;">포미더블：</span><br>
 지, 지휘관님? 어서 들어오세요! 문은 꼭 닫아주시고요!<br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 스튜디오에 발을 들이자, 생각지도 못한 광경에 펼쳐져 있었다.<br>
 액자에 담긴 그림처럼 앉아 있는 포미더블의 가느다란 쇄골 위에는 선명한 파란 리본이 묶여 있었다.<br>
 폭포처럼 흘러내리는 그녀의 긴 머리칼은 스포트라이트 빛을 받으며, 고급 비단처럼 찬란하게 빛나고 있다.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 (근사하긴 한데…… 포미더블의 표정이 왠지 좀 굳어 있는 것 같네.)<br>
-<span style="color:#4eb24e;">포미더블：</span><br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 내가 스튜디오에 들어오는 걸 확인한 포미더블의 눈에서 불안한 기색이 사라지고 안도하는 표정이 돌아왔다.<br>
 아아… 지휘관님…… 드디어 오셨군요……<br>
 그렇게 말하며 포미더블은 몸을 일으키려 했으나, 황급히 볼을 붉히며 다시 자리에 앉았다.<br>
@@ -1755,7 +1756,7 @@
 으, 으아…… 리, 리본이……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――……무슨 일이야?<br>
-<span style="color:#4eb24e;">포미더블：</span><br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 드, 드레스의 리본이 풀려버렸어요……!<br>
 지금 움직이면…… 드레스가…… 단번에 흘러내릴 거예요……<br>
 액자도 흔들려서 불안정하니…… 꽉 잡고 있어야 하는데……<br>
@@ -1767,14 +1768,14 @@
 <br>
 '''''<span style="color:black;">选择项1：너무 조였나?</span>'''''<br>
 '''''<span style="color:black;">选择项2：너무 느슨한가?</span>'''''<br>
-<span style="color:#4eb24e;">포미더블：</span><br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''아뇨, 딱 좋아요…… 자, 잠깐! 지금 제가 살이라도 쪘다는 거예요?!<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''――아니, 리본이 너무 길어서, 매듭을 한 번 더 지을까 하고……<br>
-<span style="color:#4eb24e;">포미더블：</span><br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''괜찮아요. 조금 더 꽉 매셔도 돼요.<br>
 '''''<span style="color:black;">（选择项2）</span>'''''로열 레이디니 이 정도는 참을 수 있어요.<br>
-<span style="color:#4eb24e;">포미더블：</span><br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 리본을 다시 묶어주자, 그제서야 포미더블은 안도하는 표정을 지었다.<br>
 가, 감사합니다.<br>
 그, 그보다…! 아까 그 사진 보셨어요? 예쁘게 나왔나요?<br>
@@ -1782,7 +1783,7 @@
 파란 리본이 그녀의 가느다란 허리를 타고 내려오며, 그녀의 우아한 각선미를 한껏 드러냈다.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――잘 나온 것 같아. 조금 긴장한 것 같긴 하지만.<br>
-<span style="color:#4eb24e;">포미더블：</span><br>
+<span style="color:#4eb24e;">포미더블 ：</span><br>
 ……흥! 더 칭찬해 주셔도 되는 거 아닌가요? 지휘관님을 위해 제가 얼마나……!<br>
 투덜거리던 포미더블의 발에서 하이힐이 갑자기 벗겨졌다.<br>
 반사적으로 손을 뻗어 잡으려 했지만, 실수로 그녀의 가느다란 발목을 잡아버리고 말았다.<br>
@@ -1796,7 +1797,7 @@
 {{折叠面板|标题=사랑의 서머 케어|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 느긋한 오후, 수영장 쪽에서 들려오는 아름다운 선율이 내 발걸음을 멈추었다.<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">프리드리히 카를：</span><br>
 그곳에는 프리드리히 카를이 있었다.<br>
 ……♪ 어머, 우리 지휘관이잖아?<br>
 사랑의 악장에 이끌려 온 거니?<br>
@@ -1814,11 +1815,11 @@
 '''''<span style="color:black;">（选择项1）</span>'''''――여름 햇살처럼 뜨겁게 느껴져……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''――뜨겁기는 한데…… 아니, 너무 뜨거운 거 아니야?<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">프리드리히 카를：</span><br>
 음… 그러고 보니 좀 어지러운 것 같기도 하네……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――일광욕도 적당히 해야지. 일단 선크림이라도 다시 발라줄까?<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">프리드리히 카를：</span><br>
 그럴까…? 걱정하게 해서 미안하구나.<br>
 뜨거운 사랑에 휩싸여서, 너무 행복해서 정신이 아찔했지 뭐니.<br>
 그럼… 선크림을 다시 발라주겠니?<br>
@@ -1826,7 +1827,7 @@
 뽀송뽀송해지면 사랑의 촉촉함을 더 느낄 수 있을 거야~<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――수건 가지고 올게.<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">프리드리히 카를：</span><br>
 풀사이드에서 가지고 온 깨끗한 수건을 펼쳐 카를의 등에 대자, 금세 물기가 번져 나갔다.<br>
 견갑골에서 허리, 풍만한 허벅지로 이어지는 곡선이 수건 아래에서도 뚜렷하게 드러난다.<br>
 어쩜 우리 지휘관은 이렇게 상냥할까……<br>
