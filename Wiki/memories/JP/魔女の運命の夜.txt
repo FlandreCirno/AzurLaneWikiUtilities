@@ -1,0 +1,576 @@
+== 魔女の運命の夜 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=魔女の招待状|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+一 魔女の招待状<br>
+母港・執務室<br>
+溜まっていた仕事が一段落し、ひと息つこうとした瞬間、扉の向こうからノックの音が響いた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――どうぞ<br>
+<br>
+扉がゆっくり開き、アウグストが入ってきた。<br>
+黒地に金の装飾をあしらった封筒を手に、優雅な足取りでこちらへ歩み寄る。その眼差しはいつもより幾分か含みを帯びていた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+思ったとおり、今手が空いてるみたいね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――どうかしたのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+「運命の星の軌跡は、明日の夜に交差する」……貴方自身でこれに対する答えを導き出しなさい<br>
+<br>
+封筒を差し出された。上質な紙から不思議な香りが漂っている。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――これは……招待状？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+私の使い魔へ――運命の儀式へと赴く覚悟はあるかしら？<br>
+<br>
+渡された招待状に綴られた文字を頑張って読み解く。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――自分の理解が正しければ…これってキャンプのお誘いだよな？<br>
+――でもこの感じ、普通のキャンプじゃないような……<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+普通のキャンプならここまでしないわ<br>
+<br>
+向かいの椅子にアウグストが優雅に腰を降ろし、その長い髪をゆるやかに梳いた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+貴方にとっては息抜きかもしれないけれど<br>
+でも私にとっては……貴方を運命の軌跡へと導く絶好の機会よ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――気楽なものじゃなさそうだな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+気楽だとは一度も言ってないわ<br>
+しかし貴方は断っていない――覚悟はできてると見ていいかしら？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――分かった。行くよ<br>
+――でもキャンプって準備がいろいろ必要なんじゃ？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+心配いらないわ。必要なもののリストは作成済みよ<br>
+明日の朝、一緒に買い出しに行きましょう<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――至れり尽くせりだな…<br>
+――行くと答えると確信していたのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+私はそんな見誤りはしないわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――まあ、今回は正解だったようだな<br>
+――本当に、リストのもの以外何も用意しなくていいのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+「期待」だけしていればいいわ<br>
+未知を、そして訪れる運命を「期待」していればいいわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……分かった。待ち合わせ時間は？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+明日の朝6時、正門前で<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――6時か……ずいぶん早いな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+太陽が高く昇ると、星の囁きが掻き消されてしまう。そういうのはあまり好きじゃないわ<br>
+<br>
+'''''<span style="color:black;">选择项1：――お互い遅刻しないようにしよう</span>'''''<br>
+'''''<span style="color:black;">选择项2：――また明日。「魔女さん」</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――お互い遅刻しないようにしよう<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''エスコートする者が不在にするわけないでしょう？私のペースに合わせればいいわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――エスコートってことは、全部アウグストがリードしてくれるの？なんだかちょっと危なっかしいような……？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''リスクこそが運命のスパイスよ？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――また明日。「魔女さん」<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……ずいぶんと馴れ馴れしいわね。「指揮官」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''どうやら自分の役割に馴染んできたようね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――そっちのペースに合わせてるだけさ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ええ。だからこそ、貴方は面白いわ<br>
+<br>
+アウグストは立ち上がり、淡い笑みを見せながら執務室を後にした。<br>
+いつまでも漂う残り香が、これから始まる神秘的な旅路への期待を胸に抱かせた。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=魔女の試練|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+二 魔女の試練<br>
+翌朝、時間通りにアウグストと約束していた場所に到着した。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+積極的な使い魔に称賛を惜しまないわ<br>
+よくやったわね。私の「指揮官」、私の使い魔<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――大事なお誘いを台無しにしたくないからね<br>
+<br>
+軽く冗談を交わしつつ、アウグストと商店街へ向かった。<br>
+開店したばかりの店が並び、潮風と焼き立てのパンの匂いが混ざり合っている。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――まずは何を買うんだ？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+まずは――「星の光を納めしもの」ね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……「星の光を納めしもの」？<br>
+――てっきり普通のキャンプ用品を買うだけだと思ってたんだが<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+なら、貴方は何だと思ってたの？<br>
+<br>
+'''''<span style="color:black;">选择项1：――小型発電機か？</span>'''''<br>
+'''''<span style="color:black;">选择项2：――天体望遠鏡か？</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――小型発電機か？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――電気があれば照明をつけられるし、そうすれば星明かり以外の光を手に入れられる…<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''いささかリアル過ぎる推測ね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――天体望遠鏡か？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――星の光をレンズに収めるって考えれば通じるしな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''でも望遠鏡は「納める」わけではなく、「覗き込む」ものではなくて？<br>
+<br>
+アウグストの声には微かな笑み混じり、まるでこちらが困惑するのを楽しんでいるようだった。<br>
+もっと該当するものはないかと考えている間に、彼女は優雅に踵を返し、照明専門店へと入った。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――答えはそこにあるのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ついてきなさい<br>
+<br>
+アウグストは商品棚に歩み寄り、躊躇うことなく星屑の瞬きのような明かりのナイトライトを手に取り、細い指先を柔らかな光で明るく照らした。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+星の光は闇夜を照らすためではなく、「ある人」の記憶に残るためにある<br>
+そして、その人とは星に近づき、理解しようとする存在よ<br>
+そんな輝きこそが丁度いいわ<br>
+<br>
+アウグストはなにやら上手く言い表せない感情を言葉にしながら、ナイトライトをこちらに手渡してきた。<br>
+ナイトライトを見つめるうちにふと閃いた。<br>
+言葉では曖昧であるものの、彼女なりの「名前の付け方」がなんとなく分かり始めた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+次は――「過去の日々の輝き」よ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――ええと……<br>
+――このアンティーク風のオイルランプか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+悪くない選択ね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――ふむ、アウグストとのなぞなぞは意外と楽しいな<br>
+――「魔女の試練」と呼びたいぐらいだ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+あら、私の言い回しにも慣れてきたようね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――中々挑み甲斐があるからな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+挑む？違うわね。私は貴方を導いているの<br>
+魔女は人の考え方を無理やり変えようとはしない。しかし、近寄ってくる者を愛でて、導く<br>
+<br>
+その後の買い物でも、品物の「真名」を推測し続け、当たることもあれば外れることもあった。<br>
+半日かけて商店街を巡り、どうにかリストの品を揃えた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――「深淵の眼」は目の模様が刺繍されてる黒いベルベット、「運命の残響」は一束のベル……<br>
+――本当にキャンプのために準備するものなのか？<br>
+――どちらかと言えば何らかの祭祀用の道具にしか見えないが…<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+星も時に、灰を纏ってその輝きを際立たせる必要があるわ<br>
+貴方が理解できないのは、その星が夜に見せる姿を知らないから<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――つまり夜になったらまた「なるほど」と納得させられると？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+いいえ、それまでに貴方の視線を釘付けにするつもりよ<br>
+<br>
+アウグストは落ち着いた表情でこちらの襟を整え、そして冷たい指先が首筋をかすめた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+たかがキャンプであろうと、契約の始点になり得るわ<br>
+<br>
+口元に不思議な笑みが浮かぶ彼女の横顔を、日差しが柔らかく縁取る。<br>
+その瞬間、彼女の言う「夜に見せる姿」がどんな光景なのか、無性に期待が高まった。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=運命の地|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+三 運命の地<br>
+買い出しを終え、アウグストと一緒に郊外へと向かった。<br>
+街の喧騒は徐々に遠ざかり、景色が緩やかな丘と濃密な森になった。<br>
+目立たない細道の前で止まった。標識も道標も見当たらない。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――着いたのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ええ。この先は歩いて行くしかないわ<br>
+今更尻込みなどしないと思うけれど<br>
+<br>
+木陰に覆われた細い小径に、アウグストが先に足を踏み入れた。<br>
+枝葉が頭上で絡み合い、隙間からこぼれる陽光が彼女の透き通る肌にまだら模様を描く。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――険しくなってきたな……<br>
+――まさか、キャンプ地を適当に決めるわけじゃないよな…？<br>
+<br>
+アウグストは突然立ち止まり、振り返ってこちらの顎を軽くつまんできた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+魔女を疑うなんて罰に値するわ<br>
+場所は前もって決めてあるの<br>
+今夜この空で運命の星の軌跡が交差する。それを見極められるのは私だけよ<br>
+貴方はただついてくればいいわ<br>
+<br>
+森を抜けると、視界が一気に開けた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――いい景色だな……ここがアウグストが選んだキャンプ地か<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+使い魔、気に入ったかしら？<br>
+ここなら高所であり、木々に囲まれながらもスペースを十分に確保できる<br>
+それにあっちの方角は――湖も一望できる<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――想像以上に開けてるな<br>
+――景色を楽しむにはうってつけだな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+「楽しむ」…ふふ、ようやく核心に触れたわね<br>
+今夜、私たちはここで運命の交わりを楽しむわ<br>
+互いの運命の……唯一の観測者になるのよ<br>
+<br>
+アウグストはゆっくり空き地の中心に歩み、そっと両腕を広げた。運命の幕開けを告げるかのような仕草だった。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+聞きなさい──風が囁き始めているわ<br>
+夜の帳が降りれば、その声の意味が分かるはずよ<br>
+<br>
+アウグストの言葉で、ここで夜を共に過ごすことを思い出した。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――確かに景色は申し分ないが……<br>
+――さすがにこんなところじゃ人の気配が全くないな……<br>
+――本当に大丈夫なのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+安全を気にしてるの？<br>
+――アウグストの安全も守らないといけないし<br>
+運命が通り過ぎようとしているわ。誰もがそれを見届ける資格を持っているわけではない<br>
+仮に邪魔者が現れたとしても……<br>
+心配すべきは私より、その者たちの方ね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……分かった。アウグストの言う通りにするよ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+安心して。この場所は今夜、私たち二人だけのものよ<br>
+<br>
+'''''<span style="color:black;">选择项1：――二人だけ……悪くない響きだ</span>'''''<br>
+'''''<span style="color:black;">选择项2：――アウグストの仰せのままに</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――二人だけ……悪くない響きだ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''そう。優秀な使い魔への褒美として――<br>
+'''''<span style="color:black;">（选择项1）</span>'''''この後の全ての過程において、もっと近くに侍らせてあげる<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――アウグストの仰せのままに<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''そう。従順は時に支配ではなく、相手への信頼を意味するわ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''運命は追い求める者に応える。そして私は――誰も迷わせたりはしない<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+さあ、始めましょう。私たちの仮の棲み家を――いえ、キャンプを<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=星を灯す地|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+四 星を灯す地<br>
+キャンプ地の確認を終え、バックパックを下ろし、準備に取りかかった。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――まずはテントからか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ええ。この辺りで。貴方のために用意した「舞台」よ<br>
+<br>
+アウグストはテントを張る範囲を示し、さらに資材の束を渡してきた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――すごいな…こんな凝った形のテントを見つけてくるとは<br>
+<br>
+テントの生地には謎めいた複雑な紋様があり、縁にはアンティーク調の金糸が施され、小さなスパンコールまで縫い込まれている。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+これは一時の棲み家となるだけでなく<br>
+今夜、貴方と私だけを収める小さな世界になるからよ<br>
+だからしっかり仕上げて頂戴。私の「指揮官」<br>
+<br>
+アウグストの指示どおりに布を広げ、ペグを打ち、フレームを組み上げた。<br>
+本体を組み立てると、さらにグラウンドシートや防水生地、簡易ウインドスクリーンを整えた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――どうしたんだ？急に押し黙って<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+自分の役目を果たしてるだけよ<br>
+<br>
+テントから出ると、キャンプ地はすっかり様変わりしていた。<br>
+四方に花々とナイトライトが散りばめられており、不規則ながら不思議な美を描いている。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――信頼と実績の魔女センスってやつかな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+今夜の星の輝きが凡庸なるものを照らさないためにね<br>
+だからキャンプ地も相応しい存在に仕上げなければ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――じゃあ白熱電球なしの夜に慣れないといけないな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+そして星々が貴方のために輝くことに感謝しなさい<br>
+<br>
+'''''<span style="color:black;">选择项1：「今宵の星が覚えてくれることを願って」</span>'''''<br>
+'''''<span style="color:black;">选择项2：――アウグストを信じてるよ</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''「今宵の星が覚えてくれることを願って」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――アウグストを信じてるよ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+そうね。期待を抱く者は、運命に優しく迎えられるわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――それで？次は何をすればいい？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+石を拾い集めて。領域を作るわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――「領域」？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+私の「領域」よ。完成すれば、外の雑音が私たちに干渉できなくなる<br>
+<br>
+さほど難しい作業ではないため、半信半疑でアウグストの指示通りに取りかかった。<br>
+一方、アウグストは今日買ったナイトライトやベルベットを使い、キャンプを飾り立てていた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――段取りからして手の込んだ儀式だな…<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+今夜のためのものよ。 一つも省かなかったことを感謝してほしいわ<br>
+<br>
+草花と丸い石、そして光で縁取られたキャンプ地の端に立ち、改めてアウグストに目を向けた。<br>
+夕日を背にしたアウグストは、キャンプ地だけではなく、空間そのものすべてを自らの領域に変えたかのように見えた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+これでほぼ完成ね。境界線は定まり、点と線も結ばれた<br>
+でも……肝心のひとつがまだ足りない。それがなければ領域は真に完成したとは言えないわ<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=魔女の領域|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+五 魔女の領域<br>
+夕日が西に沈んでいく中、キャンプ全体が金色の光に包まれた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――なんだかうまく言い表せない香りが……<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+アロマを焚いたからよ<br>
+古くて静謐な…薬草と樹脂を混ぜた配合よ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――奇妙な香りだが、確かに嗅いでると落ち着くな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+そして香りは最も容易くヒトの連想を呼び起こす魔法で――<br>
+もうここを単なる「キャンプ地」とは思わなくなったでしょう？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――確かに……でもアウグストの言う通り、まだ何か足りない気がするな<br>
+<br>
+キャンプ地を見渡した。<br>
+テントに生活用品が整然と並ぶ中、草花はキャンプ地の周りを覆い柔らかな彩りを添えている。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――どれもこれも完璧のはずなのに…<br>
+――いったい何が足りないんだろう……<br>
+<br>
+紋様、そして灯火、石と蔦が織り成す空間となっていた。しかし、どこか物足りない。<br>
+今にも動き出しそうな絵みたいなのに、その動きを察知させるような音が何一つ聞こえない。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+もう気づいたようね<br>
+色、香り、形、光……すべてが揃っている<br>
+ただ一つ、欠けているものがあるとすれば……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――音、だな？<br>
+<br>
+アウグストはベルベット袋を取り出し、慎重に紐を解いて、中から銀の鈴を何個か取り出した。<br>
+銀の鈴はどれも小ぶりで、 表面には精緻な紋様が刻まれていて、冷たい光を反射している。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ただの装飾ではないわ。音律という錨を下ろすためのものよ<br>
+一つ一つの音節が、運命の残響を呼び覚ましてくれる<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――どこに吊るすんだ？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+四方の方角ね。それぞれ風の通る所に<br>
+風が吹けば、鈴がこの領域を目覚めさせるわ<br>
+<br>
+アウグストはキャンプ地の四隅に銀鈴を一つずつ吊した。<br>
+最後の鈴を掛け終わった瞬間、風がそっと吹き抜け――澄んだ鈴の音が次々と鳴り始めた。<br>
+一つ、また一つと音が互いに呼応してリズムを作り出し、まるで空からなにかを受信したかのように響いた。<br>
+<br>
+'''''<span style="color:black;">选择项1：――儀式が始まった…ってところかな？</span>'''''<br>
+'''''<span style="color:black;">选择项2：――色々準備してるんだな</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――儀式が始まった…ってところかな？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――色々準備してるんだな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+領域は成ったわ<br>
+一歩踏み込めばもう後戻りはできない…指揮官は準備できていて？<br>
+<br>
+鈴の音が絶え間なく響いていた。アウグストはキャンプの中心に立ち、瞳にミステリアスな笑みを浮かべていた。<br>
+まるで本当に自らの領域を築き上げたかのように、金色の光を浴びるその姿は、不思議な雰囲気に包まれていた<br>
+問いに答えることなく、ただ彼女へと歩み寄った。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ようこそ。私の使い魔<br>
+歓迎するわ――私の領域へ<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=魔女の宴|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+六 魔女の宴<br>
+夕日の残光を借りて、アウグストと夕食の支度を始めた。<br>
+アウグストがメインだったため、あくまでサポートに徹した。<br>
+彼女は星図の描かれたクロスを広げ、その上に食材を一つずつ並べていく。その動きはまるで儀式のように、どこまでも丁寧だった。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――料理まで「魔女」スタイルでいくのか？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+もちろんよ。今夜の雰囲気を台無しにしたくないわ<br>
+<br>
+バケットからジャムを取り出しライ麦パンに薄く塗ると、名前を知らない謎の紫色の野菜の葉っぱを数枚乗せた。<br>
+鍋で果物入りの肉のスープが静かに煮立ち、濃厚な香りの奥にわずかな未知が混じっていた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――スープの香り……何とも不思議だな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+「運命の味」よ<br>
+酸味の中に甘さがあり、ふんわりとしながらもチクッとする──まるで今夜の私たちの距離みたいにね<br>
+<br>
+アウグストは古風な形のガラス瓶を取り出し、中の液体をコップに注いだ。<br>
+真紅の液体が焚き火の光に照らされて血色のように見えた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+そしてこれが「星の血」よ。喜びなさい。私が調合したものよ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――名前がなんだか危険そうだ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+危険と収穫は隣り合わせだもの<br>
+<br>
+すべての準備が整うと、アウグストは最初の一皿を差し出してくれた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+どうぞ。私の「指揮官」。一口も食べてくれないのは傷つくわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……念のため確認するけど、素材はどれも食べられるものなんだよな…？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+重要なのはそこじゃないわ。これを口にした者は魔女に記憶される<br>
+あなたのことはもう覚えてるけど……私からは逃れられないのよ<br>
+<br>
+アウグストの口角がかすかに吊り上がり、声には馴染みの危うさと優しさが絡み合っていた。<br>
+焚き火の光が彼女の瞳に映り、静かにめらめらと星空のように揺らめいている。<br>
+皿を取り上げ、ジャムを塗った黒パンを一口かじった。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……意外とおいしい<br>
+<br>
+続けて、肉のスープにも口をつけた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――肉の旨味が濃厚で、それで果実のさっぱりとした感じと上手く調和している<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+魔女は毒を盛るとでも思ってたのかしら<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――さっきアウグストが用意していたハーブや怪しいジャムを見ると、幻でも見せられるんじゃないかなと思って<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ではこれも、あなたにとっては幻のように映っているの？<br>
+<br>
+細い指がこちらの頬と唇をなぞり、確かな温もりを残した。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……いや、違う<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+いい反応ね<br>
+てっきり拒否感を示すかと思ったわ<br>
+一目見ただけで怯む子もいるというのに、あなたは違うわ<br>
+<br>
+'''''<span style="color:black;">选择项1：――もう呪いをかけられてるのかも</span>'''''<br>
+'''''<span style="color:black;">选择项2：――アウグストを信頼しているから</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――もう呪いをかけられてるのかも<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呪いだとしても、それはあなたが望んで受け入れたもの<br>
+'''''<span style="color:black;">（选择项1）</span>'''''あなたは最初から「凡庸」の側ではなかったもの<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――アウグストを信頼しているから<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''信頼…？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''そうね。でも覚えておいて……一度始まれば、「信頼」だけで留まるのは難しいわ<br>
+<br>
+アウグストはこちらのコップに「星の血」を注いだ。真紅の液体は妖しくも優雅に揺らいでいる。<br>
+一緒に銀のコップで乾杯し、澄んだ音を立てた。<br>
+真紅の液体を口にすると、まず果実の甘味、次に微かな苦味、そして言葉にし難い余韻が舌先に静かに広がった。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……こんな味は初めてだ<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+今夜のため、そしてあなたのためだけの味よ<br>
+<br>
+まるでこちらの反応を試そうとしているのか、はたまた意図して距離を縮めているのか、アウグストは体を寄せてきた<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+夕食は終わりよ、私の使い魔<br>
+共に星の川へと赴きましょう<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=共に星の川へ|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+魔女の運命の夜<br>
+<br>
+七 共に星の川へ<br>
+夕日は地平線の向こうに完全に沈み、夜の帳が下りた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+さて、別の光に切り替えるわ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+アウグストが軽く二度手を叩くと、テントの周りの光源が次から次へと消えていった。<br>
+<br>
+闇そのものが彼女の呼び声に応えたかのように周りが一瞬にして暗くなり、呼応するように風も止んだように感じた。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――ようやく「魔女」の儀式が始まるのか<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ええ。目を閉じて、闇に慣れなさい<br>
+<br>
+そっと目を閉じ、寄り添ってくるアウグストの気配を感じながら、肩を並べて腰を下ろす。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+ゆっくり目を開けなさい。私の使い魔。星の川が私たちのために灯ったわ<br>
+<br>
+頭上に広がる星空は、手を伸ばせば触れられそうなほどにぐっと近く感じた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+手を出して<br>
+<br>
+柔らかく冷たいーー星の光に撫でられるかのように、彼女の手の感触が伝わってきた。<br>
+そうして彼女は夜空にある星を指した。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+あれが一番目の星よ、覚えておきなさい<br>
+次はあの星、それからあの星……もう少し左ね<br>
+<br>
+一つ、また一つと星を指差して、夜空に糸を紡ぐように星を繋いでいった。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+これが――かんむり座よ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――まるで……星でできた冠みたいだな<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+そのとおりよ<br>
+伝説では、それは酒神が恋人に贈った王冠なの<br>
+人の世のものとは思えない光を放ち、夜だけに姿を現すもの<br>
+<br>
+'''''<span style="color:black;">选择项1：――そんなものを見られるなんて……</span>'''''<br>
+'''''<span style="color:black;">选择项2：――その冠をもらうとしたら…？</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――そんなものを見られるなんて……今夜はすごく幸運だったのかな？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''もっと幸運なのは、星を見上げる時にちょうど私の隣にいる、ということよ<br>
+'''''<span style="color:black;">（选择项1）</span>'''''この幸運を胸に刻みなさい、私の使い魔<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――その冠をもらうとしたら…？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''別にそうしたって構わないわ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''私の使い魔は、どんなものでも手に入れられる資格があるもの<br>
+<br>
+アウグストはふっと身を引き、身体を傾けて、角度を探るように星空を見上げた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+この王冠はもうあなたのものよ<br>
+そして今夜、私があなたに戴冠してあげる<br>
+<br>
+彼女の指先がそっとこちらの額に触れた。<br>
+まるで星空から零れ落ちた何かを、丁寧に眉間に据えたかのように。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+他の者が近づこうとしても、星々は応えない――それは選ばれた者のためだけに降りるもの<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――自分を選んだのは星なの？それともアウグスト…？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+両方、でもいいじゃない<br>
+<br>
+指先が頬をなぞり、顎先でそっと止まった。<br>
+アウグストの視線は容赦なくこちらの体を射抜いた。<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+どうやら……逃げる気はないのね<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――逃げる余地なんて与えるつもりもないんだろう？<br>
+<span style="color:#4eb24e;">アウグスト・フォン・パーセヴァル：</span><br>
+使い魔が逆らうことを覚えたなんてね<br>
+完全に屈服させた後どうなるか、ますます楽しみだわ<br>
+今夜どこまで進むか――それはあなた自身で決めなさい<br>
+<br>
+二人の間に降り注ぐ星の光はいつしか、熱を帯びていた。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
