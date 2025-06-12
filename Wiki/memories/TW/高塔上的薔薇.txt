@@ -781,7 +781,7 @@ LD港薔薇塔<br>
 確實了不起~其實，伊莉莎白女士，我們從見到妳之後就有些問題想問了。<br>
 或許會有些失禮，但我實在不吐不快。<br>
 <span style="color:#4eb24e;">伊莉莎白女王：</span><br>
-好，問吧。問完之後本王也有問題要問你們。<br>
+好，問吧。問完之後本王也有問題要問妳們。<br>
 <span style="color:#4eb24e;">獅：</span><br>
 自然沒問題~那麼第一個問題——妳真的是伊莉莎白女王，沒錯吧？<br>
 <span style="color:#4eb24e;">伊莉莎白女王：</span><br>
@@ -897,7 +897,7 @@ LD港薔薇塔<br>
 注意注意！車要到站啦！該準備下車啦！<br>
 嘟嘟嘟——嗶嗶嗶————<br>
 <span style="color:#4eb24e;">獅：</span><br>
-呃……你們這個車內廣播，有些獨特啊。<br>
+呃……妳們這個車內廣播，有些獨特啊。<br>
 <span style="color:#4eb24e;">伊莉莎白女王：</span><br>
 ……妳還是把D小姐語音包換上去了！<br>
 算了……沒事……妳們就當成某種特色語音包無視吧……<br>
@@ -1626,7 +1626,7 @@ LD港薔薇塔<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 說起來……那些會飛的有翼獅究竟是什麼？<br>
 <span style="color:#4eb24e;">獅：</span><br>
-哼哼~$閣下，這可是太陽船所搭載的秘密兵器哦，原理請原諒我不能透露。<br>
+哼哼~{playername}閣下，這可是太陽船所搭載的秘密兵器哦，原理請原諒我不能透露。<br>
 <span style="color:#4eb24e;">D小姐：</span><br>
 和塞壬量產型一樣，只會過多加了點實體投影哦~！<br>
 <span style="color:#4eb24e;">獅：</span><br>
@@ -1878,6 +1878,7 @@ LD港薔薇塔<br>
 一朵朵花蕾綻放，一個個片段劃過。<br>
 我從片段中看到了弗里茨·魯梅。<br>
 在淨化裝置完成修復，星之獸也被擊退後，她正帶領抵抗軍艦隊收復著一處又一處故土。<br>
+<span style="color:#4eb24e;">弗里茨·魯梅：</span><br>
 很好，敵人快撐不住了……保持這個氣勢，繼續進攻下去！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （……這處花蕾，連結的是弗里茲·魯梅的世界。）<br>
@@ -1885,7 +1886,7 @@ LD港薔薇塔<br>
 而後，我從片段中看到了拉斐爾。<br>
 在薩丁尼亞聯盟恢復團結後，她正在佛羅倫薩舉辦一場個人畫展，畫滿了她的夢中所見。<br>
 其中，一幅頭戴黑色冠冕的少女畫像是如此的顯眼。<br>
-<span style="color:#4eb24e;">拉斐尔：</span><br>
+<span style="color:#4eb24e;">拉斐爾：</span><br>
 想知道馬可波羅聖座的獨家情報？快來畫展看一看吧~<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （……這處花蕾，連結的是拉斐爾的世界。）<br>
@@ -1928,8 +1929,8 @@ LD港薔薇塔<br>
 ……？！<br>
 <br>
 '''''<span style="color:black;">选择项1：D小姐……？</span>'''''<br>
-'''''<span style="color:black;">选择项2：你是……？</span>'''''<br>
-'''''<span style="color:black;">选择项3：你们是……？</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳是……？</span>'''''<br>
+'''''<span style="color:black;">选择项3：妳們是……？</span>'''''<br>
 <span style="color:#c3abff;">？？？：</span><br>
 叮叮叮——咚咚咚——<br>
 正在啟動「死神之橋」。<br>
@@ -2521,7 +2522,7 @@ META車隊不擅長死守，構建者在這種情況下也幫不到什麼忙。<
 <span style="color:#ffc960;">光榮·META：</span><br>
 {playername}閣下，你是來跟我談撤離的事的嗎？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-你猜到了？<br>
+妳猜到了？<br>
 <span style="color:#ffc960;">光榮·META：</span><br>
 伊莉莎白女士和獅女士分別去找了你，之後你便來找我了，不難猜。<br>
 聽說塞壬會給每個實驗場編號，而你們來自於一個叫實驗場β的地方？<br>
@@ -3080,20 +3081,20 @@ D小姐，你進來這片空間之後，有沒有什麼特別的感覺？<br>
 妳來的時間還短，習慣了之後就好了~<br>
 <span style="color:#4eb24e;">通訊器：</span><br>
 滴滴——<br>
-<br>
+<span style="color:#ffc960;">內華達·META：</span><br>
 高雄、腓特烈，飛龍那傢伙發訊息來了哦~<br>
 <span style="color:#ffc960;">高雄·META：</span><br>
 哦？真少見，她說什麼？<br>
-<br>
+<span style="color:#ffc960;">內華達·META：</span><br>
 她說，海倫娜想跟我們談，「那個」海倫娜。<br>
 <span style="color:#ffc960;">高雄·META：</span><br>
 ……沒什麼興趣。<br>
 不管她究竟「是」還是「不是」，道不同不相為謀，現在還來談什麼？<br>
-<br>
+<span style="color:#ffc960;">內華達·META：</span><br>
 那我就讓飛龍去回絕了？<br>
 <span style="color:#ffc960;">高雄·META：</span><br>
 等等……我又稍微有點好奇。<br>
-<br>
+<span style="color:#ffc960;">內華達·META：</span><br>
 呃……那？<br>
 <span style="color:#ffc960;">高雄·META：</span><br>
 談談……就談談吧，看看她想說什麼也好。<br>
