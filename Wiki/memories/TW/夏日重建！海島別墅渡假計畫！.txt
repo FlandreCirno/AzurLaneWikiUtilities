@@ -1796,7 +1796,7 @@ Zzzz…<br>
 {{折叠面板|标题=愛的夏季護理|选项=23|主框=1|样式=primary|展开=是}}
 <br>
 悠閒的午後，正準備去海邊暢快地遊個泳，卻被泳池方向飄來的優美旋律勾住了腳步。<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">腓特烈·卡爾：</span><br>
 陽光透過棕櫚葉的間隙，灑向波光粼粼的池面，彷彿也將池中的她籠罩在一層柔情愛意之中。<br>
 ……♪~哎呀，我的指揮官？<br>
 您是循著愛之樂章的指引，來到我身邊了嗎~？<br>
@@ -1814,11 +1814,11 @@ Zzzz…<br>
 '''''<span style="color:black;">（选择项1）</span>'''''妳的手，被太陽曬得有點燙了。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''不如說是過於熾熱了……我是指體溫。<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">腓特烈·卡爾：</span><br>
 嗯……聽您這麼一說，確實覺得身體有點軟綿綿的呢……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 日光浴也要適度，先做些防曬措施吧？<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">腓特烈·卡爾：</span><br>
 嗯~您的擔心是合理的呢……<br>
 被這樣熾熱的愛意包裹著，確實讓人幸福得頭暈目眩了……<br>
 那就麻煩您幫我多塗些防曬乳吧~<br>
@@ -1826,7 +1826,7 @@ Zzzz…<br>
 乾渴的肌膚，才會更渴求愛的滋潤~<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 好，我去拿毛巾。<br>
-<span style="color:#4eb24e;">{namecode:531}：</span><br>
+<span style="color:#4eb24e;">腓特烈·卡爾：</span><br>
 從池邊取來乾淨的毛巾，展開後輕輕貼上腓特烈·卡爾的背，立刻暈開一片深色水痕。<br>
 從肩胛骨到腰際，再滑向柔軟豐滿的大腿……浸透水分的布料貼合她的曲線，一寸寸勾勒出體態的起伏。<br>
 您的力道真柔和呢，我的指揮官……<br>

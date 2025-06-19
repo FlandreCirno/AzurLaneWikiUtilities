@@ -1,0 +1,736 @@
+== 幻影迷途者-「關卡篇」 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=虛像世界的訪客|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？廣場<br>
+——哐！——錚！！！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+……還是老樣子，一上來就開戰？<br>
+這才是戰場的規矩，不是嗎？<br>
+……我可從沒聽過戰鬥還有什麼規矩一說。<br>
+確實……要是顧忌這些，可就得被打趴在地了呢！<br>
+性命攸關呢…<br>
+<br>
+——哐！——錚！！！<br>
+黑暗中，兩名身穿黑衣的少女正揮舞著與身形極不相稱的巨大武器激烈交戰。<br>
+泥牆崩碎，碎屑飛濺，揚起的塵沙在空中瀰漫。<br>
+受戰鬥餘波影響，她們周圍形成了一片空無一物的地帶。<br>
+————鏘！！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+啊哈，怎麼了？看起來你有點喘不過氣呢？<br>
+……<br>
+連說話的力氣都沒有了嗎？<br>
+……<br>
+妳已經察覺到了吧？<br>
+……哼~看來妳不是邊睡邊戰鬥呢。<br>
+<br>
+一瞬間，彷彿之前的戰鬥只是幻覺一般，兩人背靠背站定，各自將刀刃指向周圍的黑暗。<br>
+…………<br>
+彷彿回應她們行動般響起了野獸般的低吼……<br>
+同時，從環繞大廳的黑暗中，成群的異形怪物緩緩現身，它們一步步向少女們逼近，不斷縮小包圍圈——<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+真是一群特立獨行的聽眾呢……莫非，是妳的朋友？<br>
+……感覺不到殺意……但能感受到敵意……<br>
+妳這個人還真是無趣呢！……雖然我早就知道就是了~<br>
+……總覺得很奇怪……它們真的是敵人嗎？<br>
+好啦好啦，不管怎麼看都是敵人吧？<br>
+要是放任不管的話說不定會輕鬆很多哦……某種意義上~<br>
+……我可沒有那種嗜好。<br>
+<br>
+她們一邊警戒著緩緩逼近的怪物，一邊繼續悠閒地交談。<br>
+自然，怪物們毫不留情地向少女們發動了猛攻。<br>
+——也就在那一刻，她們猛然揮出手中的利刃，將所有襲來的攻擊一掃而空。<br>
+——哐！——錚！！！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+……剩下的話等處理完這些事再說，可以嗎？<br>
+唉，沒法子呢。時間寶貴，這次就幫妳一把吧~<br>
+<br>
+兩人簡短交談幾句，便如箭般彈向相反方向，徑直衝入敵群之中。<br>
+——轟隆！！！！<br>
+短暫的空白之後，伴隨著令人眼花撩亂的閃光，震耳欲聾的破壞聲響徹四方——<br>
+與此同時的港區雷達站中——<br>
+——嗶！嗶！嗶！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+各部門注意，有警報，疑似有異常狀況發生。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+正在跟進中——<br>
+已確認：偵測到特殊警報，類型：監視對象啟動。<br>
+對象設施名稱：虛像塔。<br>
+<span style="color:#4eb24e;">星座：</span><br>
+……虛像塔？我記得是之前莫名其妙出現的奇怪塞壬設施？<br>
+……在塞壬鏡面海域解除後仍屹立在海面上。<br>
+那個休眠設施居然啟動了……？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……必須立刻告訴指揮官才行！<br>
+<br>
+咚咚咚——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+剛剛的異常警報妳們收到了嗎，是怎麼回事？<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+太好了，我們正打算去找你。這是我們目前掌握到的情報——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……沒想到是虛像塔出問題了。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+情報更新：監測目標週邊海域出現異常數據，虛像塔疑似正在重新生成鏡面海域，監視器正陸續離線。<br>
+在監視器離線前，在監視對象週邊監測到疑似爆炸波動，不過並未在其表面發現異常。<br>
+推測：或許是其內部某種兵器實驗的現象。<br>
+建議：立即前往監視目標進行調查，以獲取更多情報。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我們不能放任這個危險的東西自行啟動而對其情況一無所知。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+進入虛像塔的路上或許會發生戰鬥，建議派遣足夠的作戰部隊同行。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那是自然，不過……既然虛像塔是內部出現問題，在必要的情況下，探索隊需要進入其內部調查吧？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+沒錯，根據先前歷次偵察，我們對於虛像塔內部並不是一無所知的。<br>
+我正在計算適用於本次行動的最佳方案，預計還需要一小時四十分。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那讓艦隊先集結，總之先行動。<br>
+海倫娜，妳們繼續保持監視。TB，之後行動時妳需要盡可能和探索隊全程保持連線。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+了解。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+指揮官，我去安排作戰艦隊與探索隊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——好，兩小時後所有人港口集合，記得特別檢查一下通信線路和裝備。<br>
+<span style="color:#4eb24e;">眾人：</span><br>
+——明白！<br>
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？矩陣<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+嗯……？<br>
+……這是，怎麼回事？<br>
+我應該正在「星間數據流」中遨遊才是……<br>
+……怎麼會出現在這裡？<br>
+……分身？備份？量產機體？<br>
+……這些數據碎片是怎麼回事？<br>
+……這裡是哪裡？為什麼會有我的數據碎片……<br>
+真是奇怪……<br>
+算了，或許是不知道原因為何的BUG出現了吧……<br>
+總之……先重啟一下——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=崩落世界的殘痕|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？廣場<br>
+——哐！——錚！！！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+……呼……沒完沒了。<br>
+啊呀？已經要認輸了嗎？妳的忍耐力只有這種程度嗎？<br>
+和之前也沒兩樣嘛。<br>
+……經歷再多次，也不代表我會喜歡這種麻煩事。<br>
+確實是這個道理。<br>
+不過嘛……<br>
+<br>
+——哐！——錚！！！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+告訴我還剩多少敵人，想必也不會遭天譴吧！<br>
+<br>
+同時，虛像塔內部入口大廳——<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+全體探索隊成員生命跡象檢測……一切正常。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+數據儀器也全部運作正常哦，已經開始收集數據了~<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+確認：通訊維持穩定連接，音訊與資料傳輸均未發現異常。<br>
+數據保護屏障穩定運行，雷達和感測器的各項數值正在同步分析中。<br>
+問：妳們可有感受到任何不適感？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+沒有什麼異常哦，就算事先妳跟我們說像是玩全像遊戲一樣進入虛擬空間……<br>
+不過這個體驗感可是一等一逼真的。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+同意，我已經有點開始睏了……要是這裡有浴缸就好了，TB妳能變一個出來嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+抱歉，虛像塔中的空間並非由我主導，所以我無法在其中憑空生成物品。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+這樣啊……真遺憾。<br>
+那靠著牆也可以……？<br>
+<br>
+帝國號忽然伸手觸碰了牆面，隨即牆壁和地面上的紋路開始接連發生變化。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+小心！<br>
+<br>
+奇爾沙治連忙將帝國拉離牆壁，但是紋路變化並沒有停止。<br>
+異常的紋路就像是被病毒侵蝕般地蔓延開來，鋪展出一幅極不自然的景象。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+唔，這是……？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+像某種電子病毒汙染一樣，好噁心……帝國，妳沒事吧？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+我沒什麼感覺喔……<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+數據屏障仍在全功率運行，沒有發現帝國身上出現汙染現象。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+那就好，看來這些奇怪的改變影響不到我們。<br>
+可以安心探索了~<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+走吧，我們先朝著推測的爆炸源前進。<br>
+<br>
+一段時間後，以奇爾沙治為首的探索隊伍依然在虛像塔複雜的通路中穿梭。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+到此處為止。就是先前探索行動中繪製地圖的盡頭了。<br>
+TB，一路之上我們所見的通往別的分區的通路與節點全部都依然處於休眠中。<br>
+那些覆蓋其表面的紋路，似乎並沒有啟動這些功能不明的區塊。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+情報依然不足，目前資料保護屏障仍穩定，建議繼續向前方調查。<br>
+已在地圖中標示了推測可以向上方移動的區域。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+明白，那我們就繼續往上……<br>
+<br>
+轟——————！<br>
+一聲巨響後，前方一處封閉區域的牆壁突然爆炸。從形成的大洞中，伴隨著滾滾沙塵，全身黑衣的少女翻滾而出。<br>
+緊接著又一位同樣身著黑衣、手持大鐮刀少女輕盈地落在先前那名少女身旁。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+誰！？全員警戒！<br>
+<br>
+兩位少女似乎也察覺到瞭如今有些劍拔弩張的狀況，她們輕輕地嘆了口氣，看向探索隊一行人。<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+……真是運氣不佳。<br>
+我們迄今為止，有過哪怕一次好運嗎？<br>
+光是身處此地，就已經是倒楣到極點了吧？<br>
+……確實如此。<br>
+<br>
+轟——————！<br>
+在少女們彼此交談之際，牆壁上又連續被炸出數個大洞。<br>
+隨後，一個又一個異形怪物從中現身。<br>
+那些身影乍看之下似乎是熟悉的塞壬，但卻比平常更怪異猙獰。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+哦哦……這不簡直就是稀有塞壬博覽會嗎！真是太有意思了！<br>
+話說，這裡的塞壬殘骸能帶出虛像塔之外嗎？<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+要試試才能知道。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+別總想著要做這種危險的事啦！現在的首要任務是先把敵人解決掉！<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+也是~邊打也能收集數據就是了！對我來說完全沒問題的！<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+……妳們對它們的敵意更大。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+那是自然了，比起塞壬……妳們看起來親切多了。<br>
+先聯手料理掉這些怪物如何？<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+不反對。<br>
+……嗯。<br>
+<br>
+伴隨著炮火的轟鳴聲，兩柄誇張的武器再次動了起來——<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？矩陣<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+呃……<br>
+我應該已經………重啟了才對？<br>
+為什麼我還在這裡…？<br>
+真麻煩……事到如今，只能自爆了。<br>
+這些被困在莫名其妙地點的莫名其妙的碎片！<br>
+爆炸吧——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=既攜手並肩，也刀劍相向|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？廣場<br>
+——唰！——咚！<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+……下一個。<br>
+啊呀啊呀……最後還是選擇用拳頭解決問題？真是野蠻呢。<br>
+………<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+偉大的帝國也不會落後……轟炸機，去。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+左舷方向已經被她們清理得差不多了，優先處理右舷方向！<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+齊射施壓！別讓敵人繞到背後！<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+欸~那就是最後一個了！大家留手！留個完整點的殘骸給我！<br>
+<br>
+轟——————！<br>
+煙塵散去，異形的塞壬已經消失無蹤。<br>
+兩名黑衣少女同時停下了手中的動作，不過依然維持著警戒姿態，似乎在判斷接下來的情況走向。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+兩位請稍等，我是奇爾沙治，她們幾位分別是海王星、帝國以及奧列格。<br>
+我們一直以來都與塞壬，也就是剛才我們一同消滅的那種敵人進行著戰鬥。<br>
+從剛才兩位也在與它們戰鬥的情況來看，我們之間沒有敵對的必要。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+如何？可以告訴我們妳們的名字嗎？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……如果妳們有這個意願的話。<br>
+我是……BLACK★ROCK SHOOTER。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+DEAD MASTER。不過，能否記住這個名字，就取決於妳們了？<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+我記住了，TB，資料庫中有任何關於這兩個名字的紀錄嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+否定。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+那看來，恐怕又是「訪客」了。<br>
+……兩位，能告訴我們妳們是怎麼來到這裡的嗎？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……不清楚。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+與BLACK★ROCK SHOOTER戰鬥的時候，不知怎麼的就遇到妳們了呢。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+妳們是迄今為止所有「訪客」裡……最淡定的，了不起。<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……因為習慣了。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+對我們來說習以為常哦<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+……這、這樣啊，不過有一件重要的事我還需要向妳們確認一下。<br>
+妳們是「此刻真實存在的與此的人」，還是和我們一樣以「模擬數據」的形式進入此處的呢？<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+稍等，在此之前，我先來為妳們說明一下關於此地的情報吧。<br>
+——總之，這裡就是這樣一個特殊的地方。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+嗯……然後呢，這些情報有什麼意義？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……能隨心所欲地活動四肢，能夠奔跑揮刃。那就沒有任何問題。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+很好。那麼，我鄭重地邀請妳們與我們協力，一同解決這場位於虛像塔中的未知危機。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+哎呀，不行哦。我們接下來還準備再打一場~<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+……順著剛才的氣氛來走，為什麼會得出這樣的結論呢？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……我就知道妳會這麼說。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+走吧，換個地方繼續。還是說妳打算把這些人也牽連進來？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+請再等一下，我還有一個提議，就算我們不一同行動，至少我們有共同的敵人。<br>
+因此，港區想要為二位提供幫助。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+說來聽聽？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+BLACK★ROCK SHOOTER小姐，DEAD MASTER小姐，我是領航員-TB。<br>
+我的任務是在本次行動中全程為各位探索團隊成員提供技術協助。<br>
+目前，我已經完成了二位情報的紀錄，並且根據指揮官的提議，設計出了一套能夠幫助二位更好適應虛像塔內環境的艦裝。<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……「艦裝」，就是她們剛才在戰鬥中使用的裝備嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+肯定。正在發送數據包——<br>
+<br>
+一陣藍色的資料流消散後，兩位黑衣少女身邊各自出現了一些變化。<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……沒有絲毫違和感。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+哼～這叫「艦裝」的東西是有些方便啊？<br>
+反應就像手腳一樣靈敏……到底是什麼原理呢？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+對我們來說，妳們不靠艦裝就能揮出那種威力的劍和大鐮刀，反倒才更不可思議呢……<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+報告：我已成功開啟升降機電源，各位在原地等待升降梯完成充能。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+那麼事不宜遲，我們快出發吧~<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+這種靠不住的機器我可敬謝不敏。我一個人走，妳們自己坐這個上去吧。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+單獨行動……會很危險哦。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+如果只是跟妳們一起也就罷了，要我跟這傢伙裝成什麼夥伴？也太強人所難了。<br>
+我和她，可是永遠的宿敵哦？<br>
+<br>
+彷彿回應DEAD MASTER這句充滿殺氣的話語，周圍的牆壁突然崩塌，比先前更為扭曲醜惡的塞壬人形生物體蜂擁而出。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+已經靠到這麼近了我們才察覺……這些一道道牆壁圍成的區塊……真是麻煩。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+那麼諸位，先走一步了~<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+等等，現在不要亂跑啊——！<br>
+<br>
+無視一旁滿臉困惑的探索隊成員，DEAD MASTER一人舉起武器，轉瞬間消失在怪物的海洋中。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+升降梯充能完畢，正在封閉中，請諸位繼續等待。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+糟糕……升降梯被某種光芒封閉，我們出不去了！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+……真是的，這個人到底在想什麼。<br>
+就算她能活下來，之後恐怕也很難再跟我們匯合了……<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……沒關係，我們一定會再匯合的。<br>
+我們就是「注定如此」的存在。<br>
+因此，我們無需停留，繼續前進。<br>
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？矩陣<br>
+滿地殘骸中，淨化親再次睜開了雙眼。<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+…………<br>
+我說，沒完沒了了吧？<br>
+…………唉，算了。<br>
+既然暫時跑不出去……去四處轉轉好了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=異形之物|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+？？頻道<br>
+經過了一段比預想中更長的時間，升降梯終於停了下來。<br>
+籠罩在升降梯週邊的光芒消散後，一行人正式踏入了新的一層。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+請注意，此處之後是先前探索行動中從未涉及的區域。<br>
+請一邊繪製地圖，一邊謹慎前進。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+明白，我們會注意的。<br>
+<br>
+轟——————！<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+咦？這個是爆炸的聲音吧！<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……有人在前方戰鬥。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+難道是DEAD MASTER小姐嗎……？她到得居然比我們還早？<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+走，我們快去支援。<br>
+<br>
+前方通道盡頭的牆壁在炮火中崩塌，扭曲的怪物中，一個操控著巨型裝備的扭曲的人形顯得格外顯眼。<br>
+其身體遍布著異樣的花紋，如同虛像塔的多數區域一般被某種異形之物侵蝕了。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+淨化者……？還是淨化親……？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+解析：塞壬高階人型單位——淨化者。<br>
+推測：由於塔中異常資料而產生的汙染型機體，請保持高度戒備。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+……是淨化親被汙染的可能性呢？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+暫時無法排除，需要更多其性能數據。<br>
+<br>
+一行人猶豫之際，那個扭曲的淨化者集體正緩慢卻堅定地接近——<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+——來了！<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+沒辦法了……總之，打完再說！<br>
+<br>
+<br>
+轟——————！<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+比預想之中更強大……那層花紋外殼，大大增加了其防禦力。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+完全找不到破綻……要加大火力輸出了！<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+大家後退<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+警告：偵測到高能量體反應。<br>
+<br>
+就在BLACK★ROCK SHOOTER與TB一同發出警告時，空間突然炸裂，一道凌厲的劍光一閃而過。<br>
+電光石火之間，扭曲的淨化者機體被一擊切斷，癱瘓在地上。<br>
+而在其身邊，已然多出一名黑衣少女的身影——那正是DEAD MASTER。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+DEAD MASTER小姐？見到妳平安無事真是太好了。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+來得這麼快……感謝支援。<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……等一下。<br>
+<br>
+BLACK★ROCK SHOOTER出面制止了想要前去打招呼的探索隊員們。<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……仔細看，DEAD MASTER和她身上的裝備。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+？！和那台淨化者機體一樣的花紋和扭曲裝甲附著物…<br>
+不不不不會吧……！？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……<br>
+<br>
+BLACK★ROCK SHOOTER沒有回答，只是默默地重新舉起了自己的劍。<br>
+似乎是被她的動作觸發，DEAD MASTER也望向她，同時舉起大鐮，擺出戰鬥的姿態。<br>
+而她那雙眼毫無焦點，空洞的眼眶中浮現出的唯有一片虛無——<br>
+一擊如閃電般襲來，BLACK★ROCK SHOOTER迅速迎擊。<br>
+毫無預警地——她與DEAD MASTER的死鬥就此展開——<br>
+——了嗎？<br>
+華麗的斬擊不斷交錯，炮擊在空中飛舞，雙方全力以赴，展開了激烈對決。<br>
+——但，某些地方似乎有些不對勁。<br>
+不知為何，她們戰鬥的餘波始終沒有波及奇爾沙治一行人所在的位置。<br>
+甚至連一塊瓦礫的碎片，都沒有飛濺過來——<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+惡作劇就到此為止吧。<br>
+<span style="color:#ff9b93;">DEAD MASTER：</span><br>
+……<br>
+……這麼快就被妳發現了？真沒勁啊。<br>
+不過嘛，我剛才可是真的在「認真」戰鬥喲？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+妳知道什麼叫「看時間、分場合」嗎？<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+如果現在就把這場戰鬥分出勝負……我也不是不行啦～<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+——但現在不是時候。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+所以……也就是說……<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+掃描完成：確認該個體有被侵蝕情況。但，只停留在表層。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+……就像是「穿了一件衣服」那樣？<br>
+那就是說，她並沒有失去自我……而是藉著這層「掩護」跟我們開了個玩笑？<br>
+還順便襲擊我們玩了玩……？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+可能是因為和數量奇多的敵人戰鬥太久，累積了一點壓力吧。<br>
+所以才想趁著機會，全力活動一下筋骨。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+呃……<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+總之，暫時收斂一點吧<br>
+等問題解決了，想打多久都可以。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+好啦好啦，知道了知道了～<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+……所以妳們說完了是吧？那接下來，能不能解釋一下，妳們之間的關係到底是一回事？<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+走了走了！大家別磨磨蹭蹭的！<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+喂——！<br>
+<br>
+——咯嘣！<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+等等，妳們有沒有聽到什麼聲音？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+……好像是從那堆淨化者機體的殘骸中發出的，不會要詐屍了吧？<br>
+<br>
+滿地殘骸中，淨化親再次睜開了雙眼。<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+呃……沒想到那些汙染這麼厲害……<br>
+好像玩過頭了……<br>
+<br>
+不遠處，見到此景的奇爾沙治一行人默默抬起了炮口。<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+等等——<br>
+別開炮——我要投降！！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=前往中樞|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">淨化親：</span><br>
+等等——<br>
+別開炮——我要投降！！！<br>
+<br>
+千鈞一髮之際，眾人停止了醞釀中的攻擊。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+……啊？<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+妳說……妳投降？難道妳是淨化親？！<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+沒錯，沒錯~自己人嘛！<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+所以，這到底是怎麼回事……？<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+這件事，說複雜也複雜，說簡單也簡單。<br>
+總而言之，就是——<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+……總而言之，就是妳也不知道？<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+沒錯！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+……真沒用，淨化親。<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+不過我有一條別的情報哦！妳們在尋找異常出現的源頭吧？<br>
+剛好，我現在這副機體不知道為什麼能夠和塔內的部分區域共享資料。<br>
+我可以直接帶妳們前往源頭位置哦！<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+那就快帶我們去吧。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+手下敗將，前面帶路~<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+是~<br>
+<br>
+<br>
+虛像？？之塔<br>
+？？區·？？層<br>
+異常源頭區塊<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+掃描數據已分析完畢。<br>
+從爆炸痕跡與汙染物密度分佈來看，此處區塊，就是本次異常產生的源頭區域。<br>
+而那台因為爆炸導致內部零件暴露的巨型機械，則是異常產生的「核心」。<br>
+<br>
+TB所描述為「核心」的巨型機械，原本應該是某種調節虛像塔內環境的運算節點。<br>
+然而現在，它被某種蠕動的「東西」纏著，一邊報錯一邊持續不斷地輸出著異形的數據。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+從敵人的強度來看也很明顯呢……<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+那些密密麻麻的……是被汙染的測試者機體？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+解析：除去纏附在其裝甲上的侵蝕性附著物外，其機體構造與塞壬所使用的量產型機一致。<br>
+從現在起，將其正式名稱定為「病毒型廢棄塞壬」。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+……由於系統受到病毒感染發生錯誤，進而生成了大量廢棄型塞壬……應該就是這次事件的起因了？<br>
+我們在下層遭遇的那些怪物，也大概就是混雜著各樓層資料、更劣質的廢棄塞壬產物吧。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+也就是說，我們只要把前面那台明顯有問題的機器拆了，一切就能解決啦～！<br>
+<span style="color:#4eb24e;">净化亲：</span><br>
+……說得倒是簡單，那片測試者機體構成的汪洋，妳打得過嗎？<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+不是還有妳嗎？<br>
+<span style="color:#4eb24e;">净化亲：</span><br>
+我打不過哦！<br>
+之前不都說了，這裡的機體就是……不知道因為什麼程式錯誤隨便從周圍的破爛裡拼起來的。<br>
+要是當當肉盾還行……去解決掉那麼多測試者機體，我可做不到！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+嘖……<br>
+<span style="color:#4eb24e;">净化亲：</span><br>
+先別說「真沒用，淨化親！」，我其實有個別的方案，不過先考考妳們的領航員小姐。<br>
+妳想到了嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+算力壓制，用算力將扭曲異常的區域恢復正常，這樣敵人數量和強度都會大幅下降了。<br>
+<span style="color:#4eb24e;">净化亲：</span><br>
+沒錯~這只是個獨立的小機器，而妳有整個港區的資源可用，那就交給妳了？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+稍等，我正在向指揮官提出申請。<br>
+申請已得到確認，我正在調配資源併計算解決方案。也請諸位爭取盡可能多的時間。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+總而言之，還是得先打一場對吧？那我們還在等什麼，還打得動麼？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+當然。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+全員，集中火力，先清出一片安全區來！<br>
+<br>
+<br>
+當TB開始調配資源準備進行算力壓制時，密集的敵人像察覺到了什麼，向著眾人瘋狂進攻而來。<br>
+眾人陣形被沖散，一時間只能各自為戰。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+敵人距離過近了……偉大的帝國，需要貼身護衛！<br>
+<br>
+——哐！<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+沒事吧，帝國小姐。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+得救了……多謝。<br>
+<br>
+轟——————！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+糟糕……小心，BLACK★ROCK SHOOTER小姐！不要硬接炮彈啊——！<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……唔！<br>
+<br>
+就在BLACK★ROCK SHOOTER失去平衡的瞬間，DEAD MASTER滑步擋在她身前，一舉斬殺了襲來的敵人。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+還是太草率了呢。下次交手時，要不要我讓讓妳？<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……<br>
+<br>
+<br>
+終於，領航員-TB傳來了好消息。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+各項準備完成，現在開始執行算力壓制計劃，各位，請盡可能與敵人拉開距離。<br>
+<br>
+藍色的資料流憑空湧出，所到之處，敵人和異常區域無聲無息消失了。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+很好，通往中心區域的道路通暢了，全員進行突擊準備。<br>
+<br>
+奇爾沙治召集眾人準備集合火力突擊，不過淨化親卻搖了搖頭。<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+壓制的威力確實不錯……不過比我預想中還差了很多。<br>
+只有這種程度的話，妳們是消滅不掉汙染核心的。<br>
+貿然接近，只會被後續生成的敵人吞沒。<br>
+不過還好，我本來就沒打算讓妳們去。<br>
+說來也巧，我的這台之中除了有我的資料碎片之外，還繼承了我的一部分權限。<br>
+只要我親自過去和那台機器連在一起，就可以直接讓其自毀了~<br>
+很簡單的，妳們站在這裡看本淨化親的吧~<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+等等，如果機器自爆的話，妳該怎麼辦？<br>
+<span style="color:#4eb24e;">淨化親：</span><br>
+當然是跟著一起——Boom！<br>
+哎呀，別這個表情，妳們又不是不知道，我又死不掉。<br>
+我的主機根本不在這裡，倒不如之前我為了離開這裡已經試著自爆過了。<br>
+我只希望這一次，能夠趕緊離開這個破破爛爛又莫名其妙的地方！<br>
+走了——！<br>
+<br>
+於是，淨化親衝入了巨型機器的內部。<br>
+隨後，伴隨著爆炸聲，本來就已經外殼破損的計算節點這地化為了一團火海。<br>
+<span style="color:#4eb24e;">奇爾沙治：</span><br>
+TB，已確認目標被摧毀。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+噢噢噢噢！太好了，問題搞定。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+淨化親，我會想念妳的……希望下次遇見妳的時候能變強一些。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+也就是說……眼前的問題算是處理完了？<br>
+<span style="color:#ff9b93;">BLACK★ROCK SHOOTER：</span><br>
+應該是。<br>
+<span style="color:#ff9b93;">DEAD MASTER：</span><br>
+是啊，那就——開始吧。<br>
+<br>
+兩人幾乎在同一時間躍身而退，擺出警戒姿態，哪怕剛剛才經歷過死鬥，動作卻毫無遲滯。刀鋒之上，殺意隱現。<br>
+<span style="color:#4eb24e;">奥列格：</span><br>
+等一下啊啊啊啊！為什麼突然又這樣了啊——！<br>
+<span style="color:#ff9b93;">DEAD MASTER：</span><br>
+不想被波及的話就閃開點。<br>
+不需要任何理由，不管發生什麼，到最後都是這樣。<br>
+<span style="color:#ff9b93;">BLACK★ROCK SHOOTER：</span><br>
+無論是哪個世界，哪個時代，只要我跟她相遇——就一定會變成這樣。<br>
+我們就是背負著這樣的命運。<br>
+<br>
+嘴上說著話，身體卻在悄然拉近距離，兩人一點點地逼近對方，只要再邁出一步……那裡就是生死分界之地——<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+等等！<br>
+<br>
+令人意外的是，帝國衝入兩人中間，將雙手強行中斷了這場一觸即發的對峙。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+事件還沒徹底結束，我們還沒離開虛像塔……妳們就要開始了嗎？<br>
+<span style="color:#ff9b93;">DEAD MASTER：</span><br>
+又沒人攔著妳們，妳們自己乖乖回去不就好了？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+然後放任妳們繼續打下去嗎？<br>
+你們應該也發現了……這裡是與你們原本所在之地截然不同之處。<br>
+我不知道妳們以前是怎麼相處的……<br>
+但在這裡，我所在的世界，妳們還是像以前動起手來，所造成的會是什麼後果妳們真的清楚嗎？<br>
+至少我可不會為了賭氣，就去拿性命去賭一個「未知」。<br>
+<br>
+也許是被帝國的這番話澆了冷水，兩人都默默收起了武器。<br>
+DEAD MASTER雖然一臉不爽地撇過頭，但也沒再堅持。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+總之，接下來先和我們一起返回港區。有戰鬥意願的話，之後薩丁帝國很樂意<br>
+如果妳們之後還要打的話……我很樂意為你們安排一個正式的決鬥場所哦。<br>
+<span style="color:#ff9b93;">DEAD MASTER：</span><br>
+真麻煩啊……我能拒絕嗎？<br>
+<span style="color:#ff9b93;">BLACK★ROCK SHOOTER：</span><br>
+……<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+不能，TB，準備將我們一同接出去吧。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+了解：正在執行回收程序。<br>
+<br>
+藍色的光幕從天而降，眾人被光幕所籠罩，一時間就如同被固定了一般動彈不得。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+等一下，突然搞什麼啊！？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+這是撤離前必要的淨化程序，對身體無害，請不用擔心。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+……哈？我還沒答應要走呢。<br>
+妳也說點什麼啊！！<br>
+<span style="color:#4eb24e;">BLACK★ROCK SHOOTER：</span><br>
+……現在說什麼恐怕都沒用。既然我們是「異鄉人」，現在就先乖乖聽話好了。<br>
+<br>
+光幕愈發強烈，虛像塔中的世界正逐漸變得模糊，碧海與藍天之景正緩緩浮現。<br>
+<span style="color:#4eb24e;">DEAD MASTER：</span><br>
+真是的——到底是搞什麼啊！<br>
+<br>
+同時的港區行動指揮中心中——<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+呼……事情總算告一段落了。<br>
+話說，那兩個人到底為什麼會出現在虛像塔裡啊？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+現階段缺乏足夠的資訊來驗證該現象的具體原因。<br>
+我……無法解答。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+沒事，我也就是隨口一問……反正這種事也不是第一次了。<br>
+各自有各自奇奇怪怪的理由嘛，我懂。<br>
+<span style="color:#4eb24e;">星座：</span><br>
+不過那兩位，居然真的順利從虛像塔裡出來了。<br>
+那裡不是只有數據化之後才能進去嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+這件事我也無法回答。<br>
+推測：或許與前一個問題相同，均與虛像塔內存在的某些特性有關。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——不管怎麼說……現在她們是正式的客人了。<br>
+——既然是客人，那就要好好招待她們才行。<br>
+走吧，我們該去港口接人了——<br>
+<br>
+——「虛像世界的迷途者・關卡篇」·END<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

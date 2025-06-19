@@ -77,7 +77,7 @@
 '''''<span style="color:black;">选择项1：好，我買了！</span>'''''<br>
 '''''<span style="color:black;">选择项2：感覺有哪裡不對勁……</span>'''''<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项2）</span>'''''這個產品渡假島……和港區的差別在哪裡？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''這個渡假島……和港區的差別在哪裡？<br>
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''美麗的沙灘與海景喵？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -368,7 +368,7 @@ Honey如果喜歡的話，我當然絕對贊成囉~而且海島別墅我們確�
 <span style="color:#4eb24e;">{namecode:98}：</span><br>
 喵？！和海島別墅有關的不妙情況！？！別賣關子了，快說喵！<br>
 <span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
-根據我們的監測，獨家島嶼週邊海海溫度已超過27℃，表層海水鹽度驟降，低空開始形成渦旋……<br>
+根據我們的監測，渡假島嶼週邊海海溫度已超過27℃，表層海水鹽度驟降，低空開始形成渦旋……<br>
 雷暴雲團正在聚攏，核心區域氣壓急速下降……<br>
 <span style="color:#4eb24e;">法戈：</span><br>
 指揮官，是颶風。<br>
