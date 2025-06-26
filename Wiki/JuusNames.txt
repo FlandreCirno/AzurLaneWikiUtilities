@@ -322,6 +322,7 @@ Z1 L.Maaß
 Z2 Zerstörer2
 Z9 Wolke9
 Z11 Z11_Spielefan
+Z13 AAAZielplanerin13
 Z16 F.Eckoldt
 Z23 Zerstörer.23
 Z24 GreatDevil24
@@ -355,6 +356,7 @@ Z52 Blitz-Z52
 塞德利茨 Seydlitz 
 吕佐夫 Lützow 
 亚尔薇特 Hervör alvitr
+曾克海军上将 Admiral Zenker
 俾斯麦 Bismarck
 提尔比茨 Tirpitz
 乌尔里希·冯·胡滕 U.V.Hutten
@@ -377,6 +379,7 @@ U-96 U.B.96
 U-37 UBoat37
 U-1206 U.B.1206
 U-31 Unbeschwert31
+U-552 U.B.552
 罗恩 RoonDESU
 腓特烈大帝 SymphonicStigma
 美因茨 Mainz

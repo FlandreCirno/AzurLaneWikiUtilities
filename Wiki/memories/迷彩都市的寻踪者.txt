@@ -1,0 +1,992 @@
+== 迷彩都市的寻踪者 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=序幕|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+霓虹之下，人们将谎言织成迷彩，以生存作为底色。<br>
+当爆炸的火光点亮城市的暗角，谁在演绎剧本，谁又在书写结局？<br>
+今晚，警视厅特别顾问——<br>
+将找寻那唯一的真相。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼~终于要开始了喵~<br>
+主演，剧本都记住了么喵？<br>
+<br>
+'''''<span style="color:black;">选择项1：……什么主演？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……什么剧本？</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵？主演就是主演，剧本就是剧本喵？<br>
+指挥官真是贵人多忘事喵，不过没有关系喵！<br>
+我们直接开拍吧喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……我很确定我确实没有收到过剧本，也不知道主演是怎么回事。<br>
+我是收到了{{AF|青叶}}的联络过来配合她取材……<br>
+……你们是一伙的！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼~没有剧本就是最好的剧本！<br>
+指挥官的本色出演才卖座的喵~<br>
+总之——警视厅特别顾问，希望你在接下来也能一直保持这份敏锐的观察力呢~<br>
+各部门注意，主演已经就位喵！<br>
+三、二、一 ——Action~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=爆炸疑云|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-1-爆炸疑云<br>
+Scene：警视厅会议室<br>
+Time：19:25<br>
+Date：6月25日<br>
+作为高层派遣的特别顾问，你受命调查警视厅内可能存在的犯罪组织卧底。<br>
+在警视总监的授意下，你以安全审查的名义，将可疑对象都叫到了会议室。<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+准备好了么，警视厅新来的顾问~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你是……{{AF|吾妻}}？怎么会在这里。<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+要叫{{AF|吾妻}}老师才对哦~<br>
+我听警视长说自己的学生回来了呢~怎么，不想见到老师我吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……已经开始对戏了么。）<br>
+没有的事，还能再见到{{AF|吾妻}}老师，我很高兴！<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+很好~<br>
+好啦~快进去吧，她们还在等你呢，老师就不耽误你的工作了~<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+你看着{{AF|吾妻}}老师肯定的微笑，定了定心神，走入了会议室中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……这么生硬的剧情推进方式？！）<br>
+（也行……有提示总比没有好。）<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+你一走进会议室，就立刻被六双眼睛紧紧盯住了。<br>
+她们分别是刑事部，帝国警视长。零课，{{AF|曾克海军上将}}警部。零课，{{AF|U-552}}警部补。<br>
+搜查一课，海王星警部。搜查二课，{{AF|Z13}}警部补。交通执行课，{{AF|U-37}}巡查部长。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（谢谢你，旁白侠。）<br>
+咳……本部高层收到密信，警视厅里可能存在着国际犯罪组织的卧底。<br>
+诸位——有什么想说的么？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+哈？把大家都叫出来就是为了这种事啊？<br>
+信里说是就是么，那我还说警视总监才是卧底呢！<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+有道理，连零课都不知道的密信……很可疑呢~<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+说的是啊~人事一课监察系应该对我们的资料都有详细记录吧，特别顾问不应该先去那边看看吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（监察系的资料么……倒确实如此，现在最缺少的就是资料了……）<br>
+人事一课监察系的资料都存放在什么地方？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+嗯……监察档案啊，我记得是放在旁边那栋档案馆里的吧？<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+BOOM——<br>
+海王星警部的话音刚落，大楼外不远处的档案馆就在猛烈的爆炸声中化为了废墟。<br>
+烈火熊熊燃烧，刺耳的警报也在整个警视厅里回响着。<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+啊——档案馆……爆开了？！！<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+大家都集中在这里了……果然，卧底另有其人呢。<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+火势看起来不大，现在过去也许还能剩点什么……唉，好麻烦啊……<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+居然敢在警局制造爆炸案……简直无法无天！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这爆炸可真巧啊。<br>
+先散会吧，我要去现场看看。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+欸，顾问等等，我叫上搜查一课的人一起去呀~！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=兔警官探案中|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-2-兔警官探案中<br>
+Scene：警视厅档案馆外<br>
+Time：20:08<br>
+Date：6月25日<br>
+你来到了爆炸现场，试图在一切被燃烧殆尽前找到有用的线索……<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+让开，让开，警察来了——！<br>
+顾问，怎么样，找到关键线索了吗~？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我大概只比你早到了三十秒……所以正要开始找呢。<br>
+不过看这破坏情况……恐怕难了。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+唔~这焦味……顾问顾问，似乎没能完全烧干净，里面说不定还有些线索！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+可是现在建筑还在燃烧，不知道等消防队灭火之后还能剩下多少……<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+就在此时，天际远方传来一声闷雷。随后，暴雨倾泻而下。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+太好了，顾问~真是老天都在帮忙，这样子我们就能去调查线索了呢！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（……还能再巧点么，导演。）<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+那顾问，我们分头找找？我负责左半边你负责右半边如何？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（在这种时候分头行动……？）<br>
+（如果她是卧底的话，这岂不是一个彻底销毁罪证并洗清自己嫌疑的好机会……）<br>
+（不过这种独处时机，也是一个取得调查突破的好机会……）<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+顾问——我这边找到了些东西，你那边收获如何了？<br>
+<br>
+'''''<span style="color:black;">选择项1：海王星警部，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''卧、卧底？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不行哦~顾问可不能突然开这种玩笑啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那你背后藏的是什么?<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''背后……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你先看这两份文件啦~我找到了零课的工作记录和一封投诉信哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊——你背后！烧……烧起来了！<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦？！怎么回事？我还没准备……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''拿到了——<br>
+'''''<span style="color:black;">（选择项1）</span>'''''二十串肉，三盘和牛，五扎啤酒……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''只是一份聚餐账单么……<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是啊！根本一点都不重要！所以我才说让你先看前几份嘛~<br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊，顾问居然连我这么可爱的兔兔都骗，还说别人是卧底……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我看你才是卧底大坏蛋呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''抱歉了，我们继续调查吧。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯！继续调查吧，把线索统统都找出来~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''还没有，你找到什么了？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哼哼~可谓收获颇丰哦，你看——<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''这是……零课的工作记录？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这两个人是怎么回事……一个是完全空白，另一个光是目录就有一整页？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''还有这个“因为走路太快被逮捕”的投诉信？可惜被炸得就剩个标题了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''唉……好像没什么有用的信息。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯……？你的右手为什么一直背在后面，手里拿着的是什么？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊……那个是……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎呀，糟糕，不小心烧起来了！！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''？！快拿给我看看！<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呜……不好意思顾问，不小心碰到了还没熄灭的火苗，已经烧没了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那份文件我也还没看，所以没有第一时间给你……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（真可疑……）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''唉，被烧毁了也没办法，我们继续找找看吧。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是~我会继续加倍努力的！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=战略性约会进行时|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-3-战略性约会进行时<br>
+Scene：警视厅办公室<br>
+Time：08:23<br>
+Date：6月26日<br>
+你已经认定此次爆炸案与卧底有关，但却苦于没有任何线索。<br>
+终于，细心的你发现，近期的监控似乎都有细微地被删改过的痕迹，时间轴混乱。<br>
+为此，你找到了警视厅内经常接触监控的{{AF|Z13}}警部补……<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+哎呀，这不是顾问吗？不会是来视察工作的吧？<br>
+先说明，我可没有在偷懒，我这叫战略性休息~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+休息……是指开着电脑玩游戏？<br>
+该不会你在港区平时办公的时候也……<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+咳……港区是什么？顾问怎么一来就在说奇怪的话！<br>
+顾问难道不懂“劳逸结合”的道理？<br>
+快来坐下一起玩……咳、我是说，一起休息一会儿吧~！<br>
+这可是伟大的帝国警视长允许过的哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……你们的警视长居然还能允许这种事？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+当然啦~我们伟大的帝国警视长还经常在工作时间亲自前往居酒屋战略性休息呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+真是看不出来……不对，真是显而易见的展开。<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+对吧？所以，顾问在工作时间来找我……难道说……是想和我来一场战略性约会？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（……应该直球突破还是，继续迂回一下呢。）<br>
+<br>
+'''''<span style="color:black;">选择项1：{{AF|Z13}}警部补，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哎呀，顾问，可不能随便说些没有根据的话哦~这是很严重的指控呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那你是怎么知道帝国警视长在工作时间亲自前往居酒屋……战略休息的呢？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''是从监控器里看到的吧。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''如果一个人一直用监控器盯着监察人员，那她不是卧底是什么？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''也可以是认真工作的好警员啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''认真工作……么？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那你知道警视厅的监控录像被人为修改过么？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦？！居然还有这种事？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……是你删改的么？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''太复杂了，物理意义上不会啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……那查出是谁改过你总会吧？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呃……也不会哦！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''人家只会看监控嘛……所以把每一个画面都看得很仔细！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''只是发生爆炸的时候，顾问你也知道……人家被叫去开会了嘛……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……没事了，你把那天的监控调出来，我们一起再检查一遍吧。<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸……怎么调出来……来着？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好啊，那么作为约会的一环，能把加密数据盘打开我看看么？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸~什么样的约会还要先看加密数据盘呀~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''“战略性约会”？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸~讨厌啦~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''咦？顾问你要亲自来操作电脑吗？不过这附近也没有空椅子……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这样吧！您坐我这，我呢，就坐您腿上，好不好~？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我站着就好，来，把密码说一下？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''这也是约会的一环吗~那——I~M~YOURS~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''密码错误。<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''再加上我的名字试试~？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''来，我握着你的手一起输入~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''怎么样，顾问的心有在砰砰砰地乱跳吗？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''悄悄告诉你，我这里可是办公室的视觉死角，就算偷偷做些什么，也不会被发现的哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……密码错误。<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''顾问，你——好吧，其实我也不记得密码是什么了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊……？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''要不然你随便试试吧……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那就试试最常用的……PASSWORD？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……密码正确？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……啊？！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=公路维和组，出击！|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-4-公路维和组，出击！<br>
+Scene：警视厅停车场<br>
+Time：09:31<br>
+Date：6月26日<br>
+历经波折，你终于设法恢复了遭受删改前的监控内容，一道模糊的可疑的黑影出现在了屏幕上。<br>
+你莫名觉得这个快速移动的身影有些熟悉，却又想不起来是谁。<br>
+于是，你准备先去询问一下经常与此类犯罪打交道的零课人员……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+速度非常快又有些熟悉的身影……<br>
+不用调查了，我知道了！<br>
+卧底就是——{{AF|青叶}}！<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+不对。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……阿尔弗雷多？格里德利？<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+不对。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+抚顺？飞云？伏波？布里斯托尔？勇气？<br>
+{{AF|岛风}}？果敢？恶毒？可怖？凯旋？不屈？<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+不对不对不对，全都不对。你奇怪地自言自语，很快引起了一旁巡警的注意。<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+哟，顾问怎么来停车场了？这是要去哪里啊？<br>
+看你这么着急，要不我载你一程？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+有些事需要找零课的人确认一下，你知道{{AF|曾克}}警部和{{AF|U552}}警部补在什么地方么？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+零课的人的行踪我还真不知道……顾问这是发现线索了？<br>
+要不说来给我听听，说不定我能帮上忙哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……你不是交通课的么？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+交通课怎么了！交通课也是警察，顾问这是赤裸裸的偏见哦！<br>
+我可是成功骑车拦截过那些飙车党的！就在前不久……<br>
+算了，先上车，我们边走边说~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……去哪里？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+现在是执勤时间，自然是先执勤啦~不能因为和你讨论线索耽误正经工作嘛。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+热爱工作，很好。<br>
+不过……<br>
+<br>
+'''''<span style="color:black;">选择项1：U37巡查部长，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦？卧底？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你明明看到了热爱工作的我，竟然还怀疑我是卧底吗？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''热爱工作么……可是你看你的这辆巡逻车。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你就是靠这个速度拦截的飙车党？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''就算飚的是自行车你也追不上吧……<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''但是能追上步行的暴走族啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''步行的……暴走族？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''别人都步行了……你也抓？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哼哼，那当然！正义出警，义不容辞~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''我算是知道为什么你会收到“因走路太快被抓”的奇怪投诉了……<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦……我居然被投诉了么？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''没事，已经被烧掉一大半，看不清细节了。<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呼……太好了。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''所以……你真的是在以自己的方式认真工作？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''当然啦~好啦，顾问上车再聊！该去巡逻啦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''你这辆车可以带人么？难道不算违反交通规则么？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎呀~我说的当然不是这辆，而是一旁的巡逻车啦！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''走吧走吧，我们上巡逻车！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸……我的车钥匙在……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''可是你刚刚明明想邀请我坐在你的单人电车上。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''该不会……{{AF|U37}}巡查部长，你在背地里其实并不怎么遵守交通规则吧？<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''怎、怎么会呢……！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我可是每年都能收到优秀表彰的出色巡警哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''确实……我并没有听到任何你违反交通规则的事……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''反倒更加可疑了……<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎呀~这不是说明我规则遵守得好嘛~！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''好啦，别想那么多啦！顾问你先忙，我也该去巡逻啦！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=问题的关键|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-5-问题的关键<br>
+Scene：东海岸观光车<br>
+Time：17:34<br>
+Date：6月26日<br>
+经过一番波折，你终于弄清楚了零课{{AF|U552}}警部补的所在地。<br>
+你来到了海边的环线观光列车，在车厢中发现了沉睡的……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……{{AF|U552}}警部补？你怎么在这里……睡觉？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+嘘……指挥官，我现在不是{{AF|U552}}警部补，我是观光导游哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……指挥官是谁？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+是你……啊、我睡糊涂了……抱歉特别顾问！<br>
+……刚好，你要不要也来休息一下？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我就不了，你这是……在进行便衣工作么？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+对哦……我是在扮成导游收集情报哦……<br>
+唉，又是一个不得不工作的日子呢……<br>
+对哦……扮演导游……<br>
+您好——欢迎登上我们的观光专列。<br>
+在这场……这场、呃……台词是什么来着……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+台词这么不熟练……难道我是你今天接待的第一个人？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+当然咯……毕竟这是我特意选的地方……真正的旅客可不会有闲心来这条线路……<br>
+而能来这里的……身上大多都藏着秘密……这可是最省力的工作方式呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+听上去很有道理，但是……<br>
+<br>
+'''''<span style="color:black;">选择项1：{{AF|U552}}警部补，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸……？我怎么偷了一下懒就被怀疑是卧底了嘛……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不对……我没有偷懒哦，都怪今天的天气，嗯……太适合午睡了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是么？那你有收集到什么有用的情报吗？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''顾问，情报工作需要知识，更需要耐心……对于零课而言，隐藏自身可比传递情报重要得多哦。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''意思就是——没有？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''这个问题它不是简单的有还是没有……问题的关键不在这里的……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''这个问题的关键呢，就是要找到关键的问题……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……那关键的问题是？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''要想找到关键的问题，首先需要看到问题的关键……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……所以，到底有还是没有？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''唉……好吧，我是偷懒了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''但是顾问你先听我解释……我也不想因为偷下懒就被怀疑……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我是真的有些情报的……只是这个情报，现在并不在我手里。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''也就是虽然你有情报，但是你没有情报？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''虽然我没有情报……但是我有情报！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咳咳……其实，我已经把收集到的情报发出去了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''因为是纸质情报，所以我实在没办法变出来拿给你看嘛……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''你把情报发给谁了？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''{{AF|曾克}}警部哦，她现在应该已经到我们这趟观光列车的终点站了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯，你耐心等一会，等见到{{AF|曾克}}警部，她就可以证明我的清白了！<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……但是？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''没什么。仔细想了想，今天确实是一个适合午睡的好天气。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''趁此机会休息一下倒也不错。<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''懂行~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不过……既然有乘客上车了，我也得尽一下观光导游的职责才是。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那么特别顾问，首先~拿好这本新的“旅游指南”。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''您想要的“景点信息”都在上面哦~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''旅途中我们提供多种餐食和饮料的选择，会最大程度地满足您的需求~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我可以保证，这场“旅行”一定会很有趣哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''如果能再来点特别情报的话就更好了~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''让我看看你的工作成果吧？<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''咳……怎么话题绕到这边来了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''现在还是专注于观光吧，观光——<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘟嘟嘟——请诸位乘客坐稳扶好，观光列车现在就要出发了哟——<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=说来话长|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-6-说来话长<br>
+Scene：闹市区仓库<br>
+Time：19:20<br>
+Date：6月26日<br>
+在得到了{{AF|曾克}}警部手中持有重要情报的线索后，你离开了观光列车。<br>
+你顺着地址，找到了零课位于闹市区的仓库据点。<br>
+一进入仓库，{{AF|曾克}}警部的呼救声就从负一楼深处传来……<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+救命啊——有没有人，快来帮帮我——<br>
+啊——太好了，顾问，快、快把我放下来！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……你是，{{AF|曾克}}警部？<br>
+这里不是零课的秘密据点么，你为什么会被关在这里？<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+唉，这个就说来话长了……<br>
+事情还要从十三年前的那个雨夜说起……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+真的好长……<br>
+（直接走流程还是……）<br>
+<br>
+'''''<span style="color:black;">选择项1：{{AF|曾克}}警部，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''卧、卧底？！怎么可能！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''卧底不是我，是那个女人啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（这下快多了。）<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那个女人是谁？<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是警校的{{AF|吾妻}}老师！她就是卧底！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''她袭击我是为了伪造证据，准备要将所有的罪名都推到我身上！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''但其实都是她！昨天的档案馆也是她炸的！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''好，我知道了。剩下的事我来接手吧。<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那是一个月黑风高的夜晚，即使时间已经过去了那么多年，我依然无法忘记那一夜发生的事……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''当时我还在上中学，那天的我去游乐园参加同学聚会，因为玩得太开心了没注意到时间。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''等到最后决定回家的时候，时间已经很晚了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''天阴森森的，还下着小雨，我一个人又惊又慌，心里只想着早点回家……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''结果没注意，绕到了一条小巷子里。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''借着昏暗的路灯，我发现了在巷子的尽头，站着两个鬼鬼祟祟的黑衣人。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''她们似乎正在进行一些见不得人的交易……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''好奇心战胜了恐惧，我偷偷接近她们，想要看清楚她们究竟在做什么。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然后……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……然后在你专心看交易的时候，没注意到她们还有一个同伙从背后接近袭击了你？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然后给你灌下了某种毒药，然后等你醒过来之后就发现身体变小了……？<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……咦？那倒没有……不过我确实是被发现了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我在走路的时候没注意踢倒了一个易拉罐，引起了她们的警觉。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''之后我就被吓得掉头就跑，她们就在后面紧追不舍……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我跑她们就追，她们追我就更拼命地跑……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不知道过了多久……慌不择路的我撞上了一个柔软的身躯。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''她没有责备我，也没有问发生了什么事，而是直接转身冲上去跟那两个可疑的人搏斗，并且把她们都打跑了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''之后我才知道，她是警校的教官——{{AF|吾妻}}老师。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然后我就立志要去当警察了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''考上警校，成为{{AF|吾妻}}老师的学生！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然后，三年时光一晃而过，时间来到了十年之前……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（…………真的太长了！）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（她们拍摄用的胶卷难道不用钱么……那都是港区的预算啊。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''停，{{AF|曾克}}警部，说重点。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''是谁袭击了你，袭击者为什么能进入零课的据点？<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是{{AF|吾妻}}老师！我怎么也没想到……袭击我的竟然是{{AF|吾妻}}老师！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''她竟然是卧底！昨天的档案馆也是她炸的！她袭击我是为了伪造证据，将所有的罪名都推到我身上！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''至于她为什么能知道这个零课的秘密据点，事情还要从六年前说起……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那时候……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''停——！已经可以了，知道这些已经足够了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你是什么时候被袭击的，{{AF|吾妻}}老师离开多久了？<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''唔……大约半小时前！当时我正在……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好——！剩下的事我来接手吧！<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+拜托了，特别顾问！<br>
+啊，等等——走之前先把我放下来啊！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=谈心教室|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-7-谈心教室<br>
+Scene：警察学校教室<br>
+Time：20:42<br>
+Date：6月26日<br>
+凭借你的级别，调查{{AF|吾妻}}老师的行踪并不困难。<br>
+很快，你来到了一处空教室中，那道熟悉的身影正在静静等候着你……<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+你果然很出色，这么快就找过来了。<br>
+我现在，应该叫你警视厅的特别顾问，还是……我亲爱的好学生呢？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（直接走流程还是……）<br>
+<br>
+'''''<span style="color:black;">选择项1：{{AF|吾妻}}老师，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那取决于你想要以什么身份面对我了，{{AF|吾妻}}老师。<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''将问题踢回来了吗~不愧是我的好学生。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''如果其他学生也能像你这样优秀就好了呢。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''你是指{{AF|曾克}}警部么？<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''或许是她，或许又不只是她。<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+你现在过来找我，说明心中已经有结论了吧。<br>
+听信了{{AF|曾克}}警部的说法？<br>
+如果我说我不是卧底，你愿意相信老师吗？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+凡事都要讲证据，我不会单方面听信任何一方的一面之词。<br>
+可是{{AF|曾克}}警部确实提供了你策划档案馆爆炸案的证据，这又要怎么解释呢？<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+嗯~没错，我昨天确实去过档案馆。<br>
+不过那是为了替你寻找资料哦。<br>
+老师知道了你收到的调查任务，想到那些卧底可能会用极端手段销毁证据，所以在你吸引她们注意力的时候暗中行动了。<br>
+你看，这些是老师昨天拿到的资料。<br>
+还好老师脱身及时，否则别说带出来资料，能不能从档案馆安全脱身都是个问题呢……<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+你接过{{AF|吾妻}}老师的资料，里面的一条条记录显示，整个零课早就成为了卧底组织的大本营。<br>
+不仅如此，她们似乎还存在隐藏更深的上线和下线。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+怎么会这样……所以你才会去袭击{{AF|曾克}}警部么？<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+其实，里面有一部分资料是我从她的秘密基地中回收到的。<br>
+没想到调查途中她突然回来了，还好老师武力更胜一筹呢。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+原来是这样……那你为什么不向上举报呢？<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+这个组织已经在系统内部发展多年，老师能相信的人只有你。<br>
+而你在拿到这些证据之后的行动也一定要慎重……<br>
+卧底——可能是每一个人。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=迷彩都市之夜|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-8-迷彩都市之夜<br>
+Scene：商业街居酒屋<br>
+Time：22:59<br>
+Date：6月26日<br>
+离开了教室后，你在脑海中盘算着接下来的行动，不知不觉间来到了一家居酒屋。<br>
+一日的忙碌让你的肚子在此时发出了有声的抗议。<br>
+于是，你准备进入居酒屋中吃顿便饭……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（来居酒屋吃饭么……终于等到拍吃饭的场景了。）<br>
+<br>
+'''''<span style="color:black;">选择项1：必须要点菜了！</span>'''''<br>
+'''''<span style="color:black;">选择项2：还是算了……</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''老板，我想吃炸鸡汉堡、海军咖喱、烤香肠、烤猪肘、罗宋汤、红酒焗蜗牛、仰望星空派、玛格丽特披萨，以及满汉全席！<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……………………<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你一走进店内，就一口气点了一连串居酒屋菜单上没有的菜。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''这一举动不但没有引起老板的注意，反而引来了一位熟人的目光。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+唔……？顾问啊……？<br>
+……刚加班结束么？<br>
+你来得正好……一起来喝一杯吧~！<br>
+<br>
+'''''<span style="color:black;">选择项1：帝国警视长，你是卧底吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（顺着剧本情景继续演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……卧底？对哦……伟大的帝国警视长就是卧底~！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''快逮捕我吧……工作好累啊……我实在是不想工作了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''就算被逮捕坐牢了，也是需要工作的吧。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''唔……好像也是……那还是别逮捕伟大的帝国警视长了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一起来喝酒吃烤串吧~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是啊……刚加班结束。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''最近的事情真是越来越多，越来越累了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''帝国警视长呢？也是么？<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呼呼呼……考勤状态里应该算是在加班中吧~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''虽然伟大的帝国警视长此时此刻正在进行战略休息呢……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''咕咚咕咚——啊——有点轻飘飘的感觉了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''顾问啊……你说，每天上班已经很辛苦了……为什么还要加班……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''为什么还要加班啊……<br>
+<br>
+'''''<span style="color:black;">选择项3：因为我喜欢工作！</span>'''''<br>
+'''''<span style="color:black;">选择项4：不论怎样都不应该加班！</span>'''''<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''那你是真厉害……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''伟大的帝国警视长敬你一杯——干杯~！<br>
+'''''<span style="color:black;">（选择项3）</span>'''''欸……听我一句劝，特别顾问。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''工作这种事……差不多就可以了……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''身体是自己的，生活也是自己的……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''工作结束之后的生活……才是真正的生活呢……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''在疲劳的工作结束之后，来阿卡西居酒屋吧。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''说得对……没错！干杯~！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''欸……听我一句劝，特别顾问。<br>
+'''''<span style="color:black;">（选择项4）</span>'''''工作这种事……差不多就可以了……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''身体是自己的，生活也是自己的……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''工作结束之后的生活……才是真正的生活呢……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''在疲劳的工作结束之后，来阿卡西居酒屋吧。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+跟你说哦……这家阿卡西居酒屋的啤酒，由特推阿卡西啤酒工坊采用72小时阶梯式降温发酵工艺精心酿造而成。<br>
+啤酒呈现出如琥珀般的色泽与香槟级的绵密泡沫……<br>
+搭配上同样由阿卡西集团所属阿卡西生态农场供应的精选肉串，以传统工艺——<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+帝国……绿头猫咪给了你多少钱让你念广告？<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+啤酒喝到爽，烤串吃到爽……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+没事了……那我先回家了，帝国警视长。<br>
+你也别喝太多，回家的时候注意安全。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+放心吧……放心……zZZZ<br>
+特别顾问……抓卧底……加油zZZZ<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+喵呼呼~！CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=谁是卧底？|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-9-谁是卧底？<br>
+Scene：警视厅会议室<br>
+Time：8:05<br>
+Date：6月27日<br>
+第二天，你再次将所有人召集到会议室中，包括{{AF|吾妻}}老师和{{AF|曾克}}警部在内。<br>
+你的心中已经得出了结论，所有人都在等待你宣布结果。<br>
+那么，你该宣布一个怎样的结果呢——<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+你一走进会议室，就立刻被七双眼睛紧紧盯住了。<br>
+她们分别是刑事部，帝国警视长。零课，{{AF|曾克海军上将}}警部。零课，{{AF|U-552}}警部补。<br>
+搜查一课，海王星警部。搜查二课，{{AF|Z13}}警部补。交通执行课，{{AF|U-37}}巡查部长。警校教官，{{AF|吾妻}}老师。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……怎么感觉这一段似曾相识，在水时长么？<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+这叫做首尾呼应，顺便兼顾一下前情提要。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好……<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+又是一大早把人都叫过来……顾问，你已经得出结论了吗？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+这场无妄之灾终于要结束了……快点宣布结果吧，有一个直播节目马上就要开始了……<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+不愧是特别顾问，短短两三天就把卧底找出来了~！真有效率。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+这个卧底居然还敢在警局内纵火，真是无法无天……顾问，到底是谁？！<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+证据已经很明显了，卧底就是{{AF|吾妻}}老师，真不知道你还在犹豫什么！<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+不要忘了昨天晚上老师跟你说的话，保护好自己。<br>
+不论你得出什么结论，老师都支持你。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+所以，你会得出什么结论呢……伟大的帝国警视长，很好奇。<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+于是到了做最终决定的时候了，卧底——究竟是谁呢？<br>
+<br>
+'''''<span style="color:black;">选择项1：剧中旁白，你是卧底吗？</span>'''''<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+不是。<br>
+于是到了做最终决定的时候了，卧底——究竟是谁呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……）<br>
+<br>
+'''''<span style="color:black;">选择项1：没有人是卧底！</span>'''''<br>
+'''''<span style="color:black;">选择项2：所有人都是卧底！</span>'''''<br>
+'''''<span style="color:black;">选择项3：我才是卧底！</span>'''''<br>
+'''''<span style="color:black;">选择项4：警视总监才是卧底！</span>'''''<br>
+'''''<span style="color:black;">选择项5：导演才是卧底！</span>'''''<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''没有人是卧底——你宣布了自己的调查结果。<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''没、没有人是卧底？怎么会这样？<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哦……？这就是你的结论么……有点意思。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不对啊，怎么会没有卧底呢！警局的档案馆确实被人烧了啊！<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''而且我确确实实被{{AF|吾妻}}老师袭击了啊！她如果不是卧底为什么要袭击我！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''答案是——这是一次高层精心安排的逼真钓鱼安全测试！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''档案馆的火灾虽然严重，但是在很短时间内就被扑灭了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''而我们在这几天内看到的所有可疑情报，都是警视总监为这场安全测试设下的钓鱼饵，看看能不能钓出诸位的破绽来！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''至于卧底——从一开始就不存在！<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''唔……这么说来，我看到的那些情报，都是高层故意误导我的么……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''真是抱歉了，{{AF|曾克}}警部。<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''没想到居然还有这种事……总部还真是无聊……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不但浪费时间和资源，还加剧了同伴之间的不信任……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我也误会你了……{{AF|吾妻}}老师！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''没关系，误会解除了就好。<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''就这样，卧底的阴云烟消云散，是时候返回总部述职了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那么诸位，就此别过，有缘再见~<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''一路顺风哦，特别顾问……伟大的帝国警视长十分欣赏你……我们有缘再见。<br>
+<br>
+你在热烈友好的气氛中告别了众人，踏上了返回警视厅总部的归途。<br>
+收到了你的报告后，警视总监只是点头表示知道了。<br>
+半月后，你听到了警视总监提前退休，职位由帝国警视长继任的消息。<br>
+再之后，你作为警视厅平凡的一员在自己的岗位上顺风顺水，步步高升。<br>
+「沉浸于工作之中一路向前，不也很好吗？」<br>
+「——迷彩都市的寻踪者·END」<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''所有人都是卧底——你宣布了自己的调查结果。<br>
+<span style="color:#ff9b93;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''所、所有人？你是指……坐在房间里的所有人都是卧底吗？！<br>
+<span style="color:#ff9b93;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''喂！这种事事关重大，可不能乱开玩笑哦！<br>
+<span style="color:#ff9b93;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''对啊对啊，而且我可是受害者啊……为什么说我也是卧底！<br>
+<span style="color:#ff9b93;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''简直~莫名其妙啦~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这几天来，你们相互配合，对我透露的消息真真假假，故布疑阵……试图干扰我的判断。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''还好有{{AF|吾妻}}老师主动暴露，才能让我抓到你们的破绽。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''档案馆确实是{{AF|吾妻}}老师炸的，但是她为我提供的资料也是真的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你们是因为{{AF|吾妻}}老师想要脱离组织，所以故意放她出来吸引我的注意力，好让你们脱罪吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''还需要我继续往下说么？伟大的帝国警视长。<br>
+<span style="color:#ff9b93;">帝国：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不愧是总局派出来的特别顾问……有些本事……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你是怎么怀疑到我头上的……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''作为所有人中职位最高，最不可疑的人，你想劝我收手，试图招揽我。<br>
+<span style="color:#ff9b93;">帝国：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''你明明是个聪明人的……真是可惜了。<br>
+<span style="color:#ff9b93;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸~既然被发现了，那就没办法了呢。<br>
+<span style="color:#ff9b93;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''出去的门已经被我锁上啦！<br>
+<span style="color:#ff9b93;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''监控也都被干掉了~顾问就束手就擒吧~<br>
+<span style="color:#ff9b93;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''放心，我们只是会将你关一段时间，不会有生命危险的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我就知道会变成这样……还好我早有准备。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''窗户就是我的逃跑路线！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''剩下的事就交给你们了，国际刑警队——！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''所有人都不许动，你们已经被包围了，束手就擒吧！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''干得漂亮，搭档，前往车库的路线已经清空，快过来吧。<br>
+<br>
+你迎着阳光，对着明亮的玻璃窗纵身跃出。<br>
+在众人不可置信的目光中，你顺着大楼斜面的玻璃一路下滑，安全逃离了警视厅大楼。<br>
+再之后，国际刑警组织接管了现场。<br>
+你圆满完成了自己的任务，获得了警视总监的嘉奖。<br>
+之后，为了防止组织残余成员的报复。<br>
+你在国际刑警组织的运作下前往了某处世外桃源，过上了隐姓埋名但幸福快乐的生活。<br>
+「平凡而幸福的生活，不也挺好吗？」<br>
+「——迷彩都市的寻踪者·END」<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''我才是卧底——你宣布了自己的调查结果。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''在场的所有人都被你的回答惊得说不出话来。<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''你说……你是卧底？<br>
+'''''<span style="color:black;">（选择项3）</span>'''''这种时候开玩笑可是有些不合时宜哦，特别顾问。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''因为我失忆了，所以理论上来说，我也有可能是卧底，不是么？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……好像有点道理，但是档案馆是你炸的吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''因为我失忆了，所以理论上来说，档案馆也有可能是我炸的，不是么？<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……那我被{{AF|吾妻}}老师袭击呢，这个总和你没关系了吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''因为我失忆了，所以理论上来说，我可能胁迫{{AF|吾妻}}老师去袭击了你，不是么？<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呃…………这么说，好像确实也不是不行？<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呵呵……特别顾问，没想到你这么有幽默细胞……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''一个很好笑的玩笑……伟大的帝国警视长很喜欢。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''你打算就这么回去跟警视总监述职么？还是说……你是打算总而言之先离开这里呢……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''我不是很明白你的意思。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''唔……没关系，你确实该回去述职了。<br>
+<span style="color:#4eb24e;">{{AF|U-37}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''顾问！车已经准备好了哦！<br>
+<span style="color:#4eb24e;">{{AF|吾妻}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''{playername}顾问，我跟你一起去。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''{{AF|吾妻}}老师……顾问是回去述职的，你跟去做什么？<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''就这样，你以别出心裁的方式结束了本次调查，是时候坐车返回总部了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''那么诸位，就此别过了。<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''一路顺风哦，特别顾问……<br>
+<br>
+你在有些微妙的气氛中告别了众人，踏上了返回警视厅总部的归途。<br>
+在车上，你翻看着{{AF|吾妻}}老师提供给你的资料，拨响了警视总监的电话。<br>
+然后——BOOM！<br>
+汽车在巨大的爆炸声中化为了一颗火球，跌入了悬崖之下。<br>
+之后，你承认自己是卧底的口供被送上了警视总监的桌案，这场爆炸案以畏罪自杀收尾。<br>
+半月后，警视总监提前退休，职位由帝国警视长继任。<br>
+世界，依然在缓缓转动中——<br>
+「有些玩笑，可能不仅仅只是玩笑哦？」<br>
+「——迷彩都市的寻踪者·END」<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''警视总监才是卧底——你宣布了自己的调查结果。<br>
+<span style="color:#4eb24e;">{{AF|U-552}}：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''……啊？我有点跟不上你的思路了，特别顾问……<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''这是玩笑么，是玩笑吧……警视总监怎么可能是卧底呢？<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''你成功引起了我的注意，特别顾问……说说你的理由？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''根据侦探剧的惯例，凶手总是早早就已经出场过了，没错吧？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''那么，警视总监难道不可疑吗？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''没有人比她出场得更早，而她又全程没有留下任何线索。<br>
+'''''<span style="color:black;">（选择项4）</span>'''''没有人知道她长什么样子，叫什么名字，在做什么……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''……话说，警视总监其实是谁啊？<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''警视总监，{{AF|青叶}}。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''太可疑了！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''就是她用协助取材的名义把我骗过来的！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''真是太可疑了！<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''有道理啊……顾问。那我们接下来该怎么做呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''我们需要联合起来，抓住警视总监的把柄，最终打倒她！<br>
+<span style="color:#4eb24e;">帝国：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''你这个计划，伟大的帝国很喜欢……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''那么，回去之后一切小心，等我联络……我们一起扳倒警视总监吧。<br>
+<br>
+你在异常热烈友好的气氛中告别了众人，踏上了返回警视厅总部的归途。<br>
+路上，你收到了帝国警视长的单独联络。<br>
+在她的帮助下你成功用含混不清的结论为这场调查做出了收尾。<br>
+之后，你又与帝国警视长合作，成功找到了警视总监{{AF|青叶}}巨额财产来历不明的证据。<br>
+半月后，警视总监{{AF|青叶}}被解职关押，职位由帝国警视长继任。<br>
+而你，也由于与帝国警视总监的特殊关系，在职场上平步青云。<br>
+仅仅不到三年，你就已经成为了新的警视长。<br>
+美好的生活，还在继续中——<br>
+「生活如此美好，直到世界终结。」<br>
+「——迷彩都市的寻踪者·END」<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">剧中旁白：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''导演才是卧底——你宣布了自己的调查结果。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''…………<br>
+'''''<span style="color:black;">（选择项5）</span>'''''……导演是卧底，你确定吗？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''是的，我很确定。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''通过这几日的拍摄，我已经清楚了解了那些设置在剧本中的黑暗桥段……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''也明白了按照原本的剧本设置，我应该指控哪些人是卧底……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''但是——我拒绝！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''如果一定要有一个卧底……那么——导演{{AF|明石}}，就是卧底！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''喵~！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''NG喵~NG喵~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''哼哼，你以为我这两天私下里没有做任何准备么。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''导演{{AF|明石}}，这场电影已经不只是你一个人的电影了！<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''……喵？指挥官，你这是什么意思喵？<br>
+<span style="color:#4eb24e;">{{AF|雷}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''意思就是，这部电影要打破第四面墙，迎来超展开了。<br>
+<span style="color:#4eb24e;">{{AF|电}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''剧情世界观也会出现大规模的拓展，加入更丰富的设定哦。<br>
+<span style="color:#4eb24e;">关岛：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''原班人马，同样场景，但是截然不同的剧本，这种设计很有趣吧~！<br>
+<span style="color:#4eb24e;">海天：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''我其实已经有剧本思路了哦，交给我吧~<br>
+<span style="color:#4eb24e;">抚顺：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''多补拍些镜头，加入大冒险的要素！<br>
+<span style="color:#4eb24e;">巴尔的摩：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''还有特摄、热烈的格斗技以及摩托车的飙车环节！<br>
+<span style="color:#4eb24e;">里诺：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''增加一些超级英雄的要素也不错哦。<br>
+<span style="color:#4eb24e;">{{AF|吕佐夫}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''我投票加入吸血鬼要素！<br>
+<span style="color:#4eb24e;">努比亚人：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''咕噜噜……异世界冒险要素确实不能少呢。<br>
+<span style="color:#4eb24e;">{{AF|绫波}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''{{AF|绫波}}……准备好了。<br>
+<span style="color:#4eb24e;">标枪：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''传说中的勇者小队——<br>
+<span style="color:#4eb24e;">{{AF|Z23}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''——再次集结！<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''呼……zZZZZ<br>
+<span style="color:#4eb24e;">基洛夫：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''原本的刑侦片部分也可以加强一下，多点大场面，顺便场景国际化一些。<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''这都是什么跟……什么喵……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''{{AF|明石}}的电影……{{AF|明石}}的电影要……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''要显得好像更有趣了……喵？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''那么——就让我们开始补拍镜头吧~！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''——ACTION！<br>
+<br>
+终于，电影的拍摄全部结束了——<br>
+<span style="color:#4eb24e;">{{AF|明石}}：</span><br>
+呼呼呼，杀青了喵！大家都很厉害嘛喵~<br>
+<span style="color:#4eb24e;">{{AF|Z13}}：</span><br>
+这就拍完了？明明我还想陪指挥官多玩一会儿的。<br>
+<span style="color:#4eb24e;">{{AF|曾克海军上将}}：</span><br>
+拍摄时还是太紧张了啊……果然还是得准备更多的应急预案才行。<br>
+<span style="color:#4eb24e;">孟菲斯：</span><br>
+指挥官，拍摄辛苦了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+孟菲斯啊，来得正好，我有个问题要问你。<br>
+<span style="color:#4eb24e;">孟菲斯：</span><br>
+嗯？怎么了，指挥官？<br>
+<br>
+'''''<span style="color:black;">选择项1：你是卧底吗？</span>'''''<br>
+<br>
+咦————？！！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
