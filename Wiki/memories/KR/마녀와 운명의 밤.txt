@@ -1,0 +1,575 @@
+== 마녀와 운명의 밤 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=마녀의 초대장|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+1 마녀의 초대장<br>
+모항, 집무실<br>
+쌓여있던 일이 마무리되어 한숨을 돌리려고 하는데, 문 너머에서 노크 소리가 울렸다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――들어와.<br>
+<br>
+문이 천천히 열리며 아우구스트가 들어왔다.<br>
+그녀는 검은색 바탕에 금색 장식이 수 놓인 봉투를 들고 우아한 발걸음으로 다가왔다. 그 눈빛은 평소보다 어딘가 의미심장했다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+예상대로 지금은 한가한 것 같네.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――무슨 일 있어?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+「운명의 별의 궤적은, 내일 밤에 교차한다」…… 이 질문에 대한 대답은 너 스스로 끌어내도록 해.<br>
+<br>
+그렇게 말하며 그녀가 내민 고급스러운 봉투에서는 신비로운 향기가 풍겼다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――이건…… 초대장?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 나의 사역마… 운명의 의식에 참여할 각오는 됐어?<br>
+<br>
+건네받은 초대장에 적힌 문자를 세심히 읽어보았다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――내가 이해한 게 맞으면… 같이 캠핑하러 가자는 내용… 맞지?<br>
+――그나저나 평범한 캠핑은 아닌 것 같은 느낌이……<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+평범한 캠핑이라면 이렇게까지 하지는 않았겠지.<br>
+<br>
+아우구스트는 맞은편 의자에 우아하게 걸터앉아, 긴 머리카락을 부드럽게 빗었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+네게는 휴식일지도 모르겠지만…<br>
+내게 있어서는… 널 운명의 궤적으로 이끌 절호의 기회야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――휴식이라고 해도, 마냥 편하지만은 않을 것 같은데.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+편할 거라고는 한마디도 안 했어.<br>
+아무튼 거절할 의사는 없는 모양이네. 각오는 된 걸로 생각하면 되려나?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――…알았어, 갈게.<br>
+――그래도 캠핑인데, 가기 전에 미리 이것저것 준비해야 하는 거 아니야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+걱정하지 마. 필요한 것들은 미리 목록으로 정리해 뒀으니까.<br>
+내일 아침에 같이 장을 보러 가자.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――꽤 철저하게 준비했네…<br>
+――내가 간다고 말할 줄 알았어?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+내 예측은 틀리는 법이 없지.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――뭐, 적어도 이번에 한해서는 말이지.<br>
+――정말 목록에 있는 것 말고는 아무것도 준비 안 해도 돼?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 「기대」나 하고 있어.<br>
+미지를… 그리고 곧 다가올 운명을 「기대」하고 있으면 돼.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……알았어. 언제 어디서 만날까?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+내일 아침 6시, 정문.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――6시…? 그렇게 일찍?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+태양이 높이 뜨면 별들의 속삭임이 사라져 버려. 그다지 바람직한 상황은 아니지.<br>
+<br>
+'''''<span style="color:black;">选择项1：서로 늦지 않도록 하자</span>'''''<br>
+'''''<span style="color:black;">选择项2：내일 봐, 마녀님</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''서로 늦지 않도록 하자<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''에스코트를 맡아놓고 늦을 리가 없잖아? 내가 이끄는 대로 따라오기만 하면 돼.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――에스코트… 다 아우구스트가 리드하려고? 뭔가 위험해질 것 같은데……?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그 위험함이야말로 운명의 맛을 돋우는 양념이지.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''내일 봐, 마녀님<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''흠…… 친근하게 부르긴, 「지휘관」.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''뭐, 너도 네 역할에 잘 적응한 것 같네.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――너한테 맞춰주려고 그런 것뿐이야.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''응, 그래서 네가 재밌다는 거야.<br>
+<br>
+아우구스트는 자리에서 일어나, 희미한 미소를 지으며 집무실을 떠났다.<br>
+그녀가 떠난 뒤에도 남아있는 잔향이 앞으로 시작될 신비로운 여정에 대한 기대를 품게 했다.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=마녀의 시련|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+2 마녀의 시련<br>
+다음 날 아침, 정시에 아우구스트와 약속했던 장소에 도착했다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+적극적인 사역마에게는 아낌없이 칭찬을 해줘야지.<br>
+정말 잘했어. 나의 「지휘관」, 나의 사역마.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――중요한 약속을 망치고 싶지는 않았거든.<br>
+<br>
+가볍게 농담을 주고받으며 아우구스트와 상점가로 향했다.<br>
+그곳에는 막 문을 연 가게들이 늘어서 있고, 바닷바람과 갓 구운 빵 냄새가 뒤섞여 있었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――뭐부터 사면 돼?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+우선…… 「별의 빛을 담는 자」부터.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……「별의 빛을 담는 자」?<br>
+――그냥 캠핑용품만 사는 줄 알았는데.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+글쎄? 내가 말하는 게 뭐인 것 같아?<br>
+<br>
+'''''<span style="color:black;">选择项1：소형 발전기?</span>'''''<br>
+'''''<span style="color:black;">选择项2：천체 망원경?</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''소형 발전기?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――전기가 있으면 조명을 켤 수 있고, 별빛 말고 다른 빛도 얻을 수 있으니까…<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''너무 현실적인 추측이네.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''천체 망원경?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――별의 빛을 렌즈에 담는다고 생각하면 말이 되기도 하고.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''하지만 망원경은 「담는」 게 아니라, 「들여다보는」 거잖아?<br>
+<br>
+아우구스트의 목소리에는 마치 내가 당황하는 것을 즐기기라도 하는 듯 희미한 웃음기가 섞여 있었다.<br>
+더 적절한 대답을 생각하는 동안, 그녀는 우아하게 발걸음을 돌려 조명 전문점으로 들어섰다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――대답이 거기 있는 거야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+따라와.<br>
+<br>
+아우구스트는 상품 진열대로 걸어가, 망설임 없이 밤하늘의 별처럼 반짝이는 야간 조명을 집어 들었다. 부드러운 빛이 그녀의 가느다란 손끝을 밝게 비추었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+별의 빛은 어둠을 비추기 위함이 아니라, 「어떤 사람」의 기억에 남기 위해 존재하는 거야.<br>
+그리고 그 사람이란, 별에 다가서며 이해하려고 하는 존재지.<br>
+그 정도 밝기가 제일 좋아.<br>
+<br>
+아우구스트는 잘 표현하기 어려운 감정을 말로 옮기며 야간 조명을 내게 건넸다.<br>
+그렇게 야간 조명을 바라보는데, 갑자기 머릿속에 무언가가 떠올랐다.<br>
+다소 난해하기는 하지만 그녀 나름대로 「이름 붙이는 방식」이 조금씩 이해가 가기 시작했다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+다음은… 「옛 나날의 빛」이야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――음……<br>
+――이 고풍스러운 오일 램프 말하는 거야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+나쁘지 않은 선택이기는 해.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――흠… 아우구스트의 수수께끼를 맞추는 것도 꽤 재밌는걸.<br>
+――「마녀의 시련」이라고 부르고 싶을 정도야.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+어머, 내 표현 방식에 점점 적응하는 것 같네.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――도전하는 보람이 있거든.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+도전? 아니, 난 널 인도하는 거야.<br>
+마녀는 사람의 사고방식을 억지로 바꾸려고 하지 않아. 하지만 스스로 다가오는 자는 아껴주고 인도하지.<br>
+<br>
+그 후 쇼핑에서도 이름 맞추기 게임은 계속되었다. 정답을 맞히기도, 때로는 틀리기도 했다.<br>
+반나절에 걸쳐 상점가를 돌아다닌 덕분에 목록에 기재된 물건은 그럭저럭 갖추게 되었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――「심연의 눈」은 눈 모양 자수가 놓인 검은 벨벳, 「운명의 잔향」은 방울 묶음……<br>
+――정말 캠핑 가려고 준비하는 거 맞아?<br>
+――아무래도 제사용 도구로밖에 안 보이는데…<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+별도 빛나는 순간을 돋보이게 하기 위해 때로는 재를 둘러야 해.<br>
+네가 이해하지 못하는 건, 그 별이 밤에 어떤 모습을 보이는지 알지 못하기 때문이지.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그럼, 밤까지 기다려야 알 수 있다는 거야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+아니, 그 전에 이미 시선을 뗄 수 없게 될걸.<br>
+<br>
+아우구스트는 태연한 표정으로 내 옷깃을 바로잡았다. 차가운 그녀의 손가락이 목덜미를 스쳤다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+어쩌면 이번 캠핑이 계약의 시작점이 될지도 모르지.<br>
+<br>
+그녀의 입가에 피어난 신비로운 미소를 햇살이 부드럽게 감쌌다.<br>
+그 순간, 그녀가 말한 「밤이 되야 알 수 있다는 것」이 무엇일지 묘한 기대감이 밀려왔다.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=운명의 땅|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+3 운명의 땅<br>
+쇼핑을 마치고 아우구스트와 함께 교외로 향했다.<br>
+도시의 소음은 점차 멀어졌고, 풍경은 완만한 언덕과 울창한 숲으로 바뀌었다.<br>
+그리고 특별할 것 없어 보이는 좁은 길 앞에 멈춰 섰다. 표지판이나 이정표는 보이지 않았다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――도착한 거야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+응. 이 앞부터는 걸어가야 해.<br>
+이제 와서 발을 빼려는 건 아니겠지?<br>
+<br>
+나무 그늘에 가려진 좁은 오솔길로 아우구스트가 먼저 발을 내디뎠다.<br>
+가지와 잎사귀가 머리 위에서 얽혔고, 그 틈으로 비치는 햇살이 그녀의 투명한 피부에 얼룩무늬를 그려냈다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――점점 길이 험해지네……<br>
+――캠핑 장소를 대충 아무 데나 정한 건…… 아니지?<br>
+<br>
+아우구스트는 갑자기 걸음을 멈추고 돌아서더니, 나의 턱을 손가락으로 살짝 들어 올렸다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+마녀를 의심하다니 벌을 받아야겠네.<br>
+장소는 엄선해서 미리 정해뒀어.<br>
+오늘 밤… 이 하늘에서 운명의 별들이 그리는 궤적이 교차할 거야. 그걸 볼 수 있는 건 나뿐이지.<br>
+넌 그냥 따라오기만 하면 돼.<br>
+<br>
+숲을 빠져나오자, 시야가 탁 트였다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――와… 경치가 아주 근사한데…? 캠핑 장소로 고른 곳이 여기야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+사역마, 마음에 들어?<br>
+여긴 높기도 하고, 나무들에 둘러싸여 있으면서 공간은 충분해.<br>
+게다가 저쪽으로는… 호수도 한눈에 내려다보이지.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――생각보다 트인 곳이네.<br>
+――경치를 즐기기 딱 좋겠어.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+「즐긴다」… 후후, 드디어 핵심을 건드렸네.<br>
+오늘 밤은 여기서 운명의 만남을 즐길 거야.<br>
+서로가 운명의… 유일한 관측자가 되는 거지.<br>
+<br>
+아우구스트는 천천히 공터 한가운데로 걸어가며 살며시 두 팔을 벌렸다. 마치 운명의 서막을 알리는 듯한 제스처였다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+들어봐. 바람이 속삭이기 시작했어.<br>
+밤의 장막이 내리면, 이 소리의 의미를 알게 될 거야.<br>
+<br>
+아우구스트의 말을 듣고, 여기서 밤을 함께 보낸다는 사실이 떠올랐다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――확실히 경치는 모자람이 없지만…<br>
+――정말 사람 기척이 하나도 없네…<br>
+――정말 괜찮은 거야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+안전하지 않을까 봐 그래?<br>
+――나뿐만 아니라 아우구스트의 안전도 지켜야 하니까.<br>
+운명이 곧 지나갈 테지만, 모든 사람에게 그 증인이 될 자격이 있는 건 아니야.<br>
+만약 방해자가 나타난다 해도…<br>
+걱정해야 할 건 나보다 그 방해자 쪽일걸.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――…알겠어. 아우구스트 말대로 할게.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+걱정하지 마. 이곳은 오늘 밤, 우리 둘만의 공간이니까.<br>
+<br>
+'''''<span style="color:black;">选择项1：둘만의 공간이라, 나쁘지 않은 소리네</span>'''''<br>
+'''''<span style="color:black;">选择项2：아우구스트의 분부대로 할게</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''둘만의 공간이라, 나쁘지 않은 소리네<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그래. 훌륭한 사역마에게 주는 상으로…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''이제부터 모든 과정에서, 더 가까이에서 모시게 해줄게.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아우구스트의 분부대로 할게<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그래. 순종은 때로는 지배가 아니라, 상대에 대한 믿음을 의미해.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''운명은 그걸 추구하는 자에게 응답하는 법이지. 그리고 나는… 그 누구도 헤매게 두지 않아.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+자, 시작하자. 우리의 임시 거처… 아니, 캠프를.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=별빛을 밝히는 땅|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+4 별빛을 밝히는 땅<br>
+캠핑 장소를 확인한 후, 나는 배낭을 내려놓고 준비를 시작했다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――우선 텐트부터 펼까?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 이쯤이면 돼. 여기서 널 위해 준비한 「무대」야.<br>
+<br>
+아우구스트는 텐트를 설치할 범위를 지정해 주고는, 자재를 한 묶음 건넸다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――텐트 디자인이 상당히 독특하네… 이런 건 어디서 찾아낸 거야?<br>
+<br>
+텐트 천에는 알 수 없는 복잡한 문양이 새겨져 있었다. 가장자리는 고풍스러운 금실이 수놓아져 있었고, 작은 스팽글 장식까지 달려 있었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+이곳은 단순한 임시 거처가 아니야.<br>
+오늘 밤, 오로지 너와 나만을 위한 작은 세계지.<br>
+그러니 성실히 임무를 완수해 줘, 나의 「지휘관」.<br>
+<br>
+아우구스트의 지시에 따라 천을 펼치고, 말뚝을 박아 텐트의 메인 프레임을 세웠다.<br>
+본체를 완성한 후에는 바닥 매트, 방습 시트, 간이 바람막이까지 잘 정돈했다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――왜 그래? 갑자기 조용하네.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+내 역할을 다하고 있을 뿐이야.<br>
+<br>
+텐트 밖으로 나오자, 캠핑장은 완전히 다른 모습이 되어 있었다.<br>
+사방에 꽃과 야간 조명이 놓아져, 무질서하면서도 묘하게 아름다운 장면을 연출하고 있었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――마녀의 미적 감각… 역시 믿을 만하네.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+오늘 밤 별빛이 평범한 것들을 비추지 않게 하기 위한 거야.<br>
+그러니 캠핑장도 그에 걸맞게 만들어야 해.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――백열전구가 없는 밤에 익숙해져야겠네.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 그리고 별빛이 널 비춰주는 걸 감사해야지.<br>
+<br>
+'''''<span style="color:black;">选择项1：오늘 밤, 별들이 우리를 기억해 줬으면 좋겠네</span>'''''<br>
+'''''<span style="color:black;">选择项2：그래, 아우구스트를 믿어</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''오늘 밤, 별들이 우리를 기억해 줬으면 좋겠네<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그래, 아우구스트를 믿어<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 기대를 품은 자는 운명조차 따뜻하게 맞이하는 법이야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그럼, 다음에는 뭘 하면 돼?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+돌을 주워 와. 결계를 칠 거야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――결계…?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 결계가 완성되면 외부의 어떤 것도 우리를 방해하지 못해.<br>
+<br>
+그렇게 어려운 작업은 아니었기에, 반신반의하면서도 아우구스트의 지시에 따라 움직였다.<br>
+한편, 아우구스트는 오늘 산 야간 조명과 벨벳 천을 이용해 캠프를 장식하고 있었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――준비 과정이 꽤 정성스럽네…<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+다 오늘 밤을 위한 거야. 하나도 생략하지 않은 걸 나중에 감사하게 될걸.<br>
+<br>
+풀과 꽃, 둥근 돌, 그리고 빛으로 장식된 캠프 가장자리에 서서 아우구스트 쪽을 다시 바라보았다.<br>
+석양을 등진 그녀는, 캠프뿐만 아니라 이 공간 전체를 자신의 영역으로 바꿔놓은 듯했다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+이제 거의 끝났어. 결계는 쳐졌고, 점과 선도 이어졌어.<br>
+그렇지만… 가장 중요한 게 하나 빠졌어. 그게 없으면 이 결계는 진정으로 완성됐다고 할 수 없어.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=마녀의 영역|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+5 마녀의 영역<br>
+해가 지며 캠프 전체가 황금색으로 물들었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――묘한 향기가 풍기는데……<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+아로마를 피웠어.<br>
+약초와 수지를 섞은 오래된 조합이야. 마음을 고요하면서도 차분하게 해주지.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――기묘하긴 하지만, 계속 맡다 보니 마음이 안정되는 것 같아.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+향기야말로 가장 손쉽게 사람의 상상력을 자극하는 마법이니까<br>
+어때? 이제는 단순한 캠핑장은 아닌 것 같지?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――응… 하지만 아우구스트 말대로 아직 뭔가 부족한 것 같아.<br>
+<br>
+그렇게 말하며 나는 캠프를 둘러보았다.<br>
+텐트는 이미 설치했고, 생활용품도 정돈되어 있었다. 꽃과 덩굴이 캠핑장 가장자리를 휘감아 부드러운 색채를 더하고 있었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――모든 게 완벽한 것 같은데…<br>
+――대체 뭐가 부족한 거지?<br>
+<br>
+문양, 등불, 돌과 덩굴로 엮어낸 공간은 완성되었지만, 무언가가 채워지지 않은 느낌이다.<br>
+마치 보기에는 생동감 넘치는데, 그 움직임을 감지할 소리가 들리지 않는 그림을 앞에 둔 것처럼.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+눈치챈 모양이네.<br>
+색, 향, 형태, 빛… 이 모든 것들은 갖춰졌어.<br>
+하나 부족한 게 있다면……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――소리…겠지?<br>
+<br>
+아우구스트는 벨벳 주머니를 꺼내 조심스럽게 끈을 풀고, 그 안에서 작은 은방울 몇 개를 꺼냈다.<br>
+작은 은방울들에는 모두 정교한 문양이 새겨져 있었고, 차가운 빛을 반사하고 있었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+단순한 장식이 아니야. 이건 「음률」이라는 닻을 내리기 위한 장치지.<br>
+울림 하나하나가 운명의 메아리를 일으켜줄 거야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――어디에 달려고?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+동서남북 모퉁이에 각각, 바람이 다니는 길에…<br>
+바람이 불 때마다 이 종들이 결계를 깨워줄 거야.<br>
+<br>
+아우구스트는 캠프장의 네 모퉁이에 은방울을 하나씩 걸었다.<br>
+마지막 방울을 달자 바람이 살며시 스쳤고, 맑은 방울 소리가 울려 퍼지기 시작했다.<br>
+하나, 또 하나… 소리가 서로 반응하며 리듬을 만들어냈고, 하늘에서 무언가 내려온 듯한 울림이 퍼져나갔다.<br>
+<br>
+'''''<span style="color:black;">选择项1：이제 의식이 시작된 건가…?</span>'''''<br>
+'''''<span style="color:black;">选择项2：준비 많이 했구나</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''이제 의식이 시작된 건가…?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''준비 많이 했구나<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+결계가 완성됐어.<br>
+이제 한 발 들여놓으면 더는 돌이킬 수 없어… 지휘관, 준비됐어?<br>
+<br>
+은방울 소리가 끊임없이 울려 퍼지는 가운데, 아우구스트는 캠프 한가운데 서서 신비로운 미소를 눈에 머금고 있었다.<br>
+마치 정말로 자신만의 영역을 완성한 것처럼, 황금빛에 물든 그 모습은 마법 같은 분위기를 자아냈다.<br>
+그녀의 물음에 대답하는 대신, 천천히 그녀에게로 걸어갔다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+어서 와, 나의 사역마.<br>
+나의 영역에 온 걸… 환영해.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=마녀의 연회|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+6 마녀의 연회<br>
+은은하게 남은 석양빛을 받으며 저녁 준비를 시작했다.<br>
+오늘은 아우구스트가 주도했기에, 나는 철저히 보조에만 집중했다.<br>
+그녀는 별자리 지도가 그려진 천을 펼치고, 그 위에 식재료를 하나하나 정성스럽게 늘어놓았다. 그 동작은 마치 의식을 치르는 것처럼 극도로 세심하고 정성스러웠다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――요리까지 마녀 스타일로 가는 거야?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+물론이지. 오늘 밤 분위기를 망치고 싶진 않으니까.<br>
+<br>
+그렇게 말하며 아우구스트는 바구니에서 잼을 꺼내 호밀빵에 얇게 바른 후, 이름도 모를 보랏빛 채소잎을 몇 장 얹었다.<br>
+냄비에는 고기와 과일이 섞인 수프가 끓고 있었다. 그 진한 향기 속에는 뭐라 설명할 수 없는 낯선 느낌이 배어 있었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――이 수프 향이… 독특하네.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+「운명의 맛」이야.<br>
+신맛 속에 숨겨진 달콤함, 부드럽지만 날카로운 느낌이지…… 마치 오늘 밤 우리 사이처럼 말이야.<br>
+<br>
+아우구스트는 고풍스러운 유리병을 꺼내더니, 안에 든 액체를 잔에 따라 부었다.<br>
+진홍빛의 그 액체는 모닥불의 빛을 받아 마치 피처럼 붉게 빛났다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그리고 이건 「별의 피」야. 감사히 생각해. 내가 직접 조합한 거니까.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――이름부터 뭔가 위험한 느낌인데.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+위험과 보상은 늘 맞닿아 있는 법이야.<br>
+<br>
+모든 준비가 끝나자, 아우구스트는 첫 번째 접시를 내밀었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+자, 나의 「지휘관」… 한 입도 안 먹으면 상처받을 거야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――혹시 몰라서 묻는 건데… 이 재료들, 다 먹어도 되는 거지?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+중요한 건 그게 아니야. 이걸 먹는 자는 마녀의 기억 속에 영원히 남게 돼.<br>
+물론 넌 이미 내 기억 속에 있지만… 이제부터는 벗어날 수 없게 될 거야.<br>
+<br>
+그렇게 말하며 아우구스트는 입꼬리를 살짝 올렸다. 그 목소리에는 익숙한 위험함과 온기가 공존했다.<br>
+모닥불 빛이 비친 그녀의 눈동자가 조용한 별빛처럼 흔들리고 있다.<br>
+용기를 내서 잼이 발린 검은 빵을 한입 베어 물었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……어? 꽤 맛있는데?<br>
+<br>
+이어서 고기 수프도 한 숟갈 떠서 맛보았다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――고기의 진한 감칠맛과 과일의 상큼함이 잘 어우러졌어.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+마녀의 독이라도 탄 줄 알았어?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――아까 준비한 허브랑 이상한 잼 때문에 그렇지… 먹으면 이상한 환상이라도 볼까 봐 걱정했어.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래? 지금은 어때? 이것도 환상처럼 느껴져?<br>
+<br>
+그녀의 가느다란 손가락이 내 뺨과 입술을 천천히 스치며 온기를 남겼다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……아니, 전혀.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+아주 훌륭한 반응이야.<br>
+거부감을 보일 줄 알았는데.<br>
+한번 보고 바로 뒷걸음칠 치는 애들도 있는데, 너는 다르구나.<br>
+<br>
+'''''<span style="color:black;">选择项1：이미 저주에 걸린 걸지도…</span>'''''<br>
+'''''<span style="color:black;">选择项2：아우구스트를 믿으니까</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''이미 저주에 걸린 걸지도…<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''저주라고 해도 네가 원해서 받아들인 거겠지.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''애초에 넌 「평범함」의 범주에는 속하지 않았으니까.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아우구스트를 믿으니까<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''믿는다…고?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그래, 하지만 잊지 마. 일단 시작되면… 단순히 믿는 것만으로는 끝나지 않게 될 테니까.<br>
+<br>
+아우구스트는 내 컵에도 「별의 피」를 따랐다. 진홍빛 액체가 기묘하면서도 우아하게 출렁였다.<br>
+그녀와 은컵을 부딪치자, 맑고 선명한 소리가 울렸다.<br>
+액체를 입에 머금자 먼저 느껴진 것은 과일의 달콤함이었다. 그 뒤를 이어 미세한 쓴맛과 함께 말로 표현하기 힘든 여운이 혀끝에 남았다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――…이런 맛은 처음이야.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+오늘 밤을 위한, 그리고 너만을 위한 맛이야.<br>
+<br>
+그 반응을 살피기 위함인지, 아니면 의도적으로 거리를 좁히는 것인지… 아우구스트는 조용히 내 쪽으로 몸을 붙였다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+저녁 식사는 이걸로 끝이야, 나의 사역마.<br>
+이제 함께 은하수로 떠나자.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=은하수를 향해|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+마녀와 운명의 밤<br>
+<br>
+7 은하수를 향해<br>
+석양은 지평선 너머로 완전히 사라졌고, 어느새 밤의 장막이 드리워졌다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+슬슬 조명을 바꿔야겠어.<br>
+<br>
+아우구스트가 가볍게 손뼉을 두 번 치자, 텐트 주위의 조명들이 하나둘 꺼지기 시작했다.<br>
+마치 어둠 자체가 그녀의 부름에 응답한 것처럼, 주변이 순식간에 암흑으로 뒤덮여 바람조차 멈춘 듯한 기분이 들었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――슬슬 마녀의 의식이 시작되는 건가?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+그래, 눈을 감고 어둠에 익숙해지도록 해.<br>
+<br>
+조용히 눈을 감고, 곁으로 다가온 아우구스트의 기척을 느끼며 그녀와 나란히 앉았다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+자… 천천히 눈을 떠, 나의 사역마. 은하수가 우리를 위해 빛나고 있어.<br>
+<br>
+머리 위로 펼쳐진 별빛 하늘은 손만 뻗으면 닿을 것처럼 가까이 느껴졌다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+손을 내밀어 봐.<br>
+<br>
+내 손끝에서 부드럽고 차가운, 별빛을 어루만지는 듯한 그녀의 손길이 전해졌다.<br>
+그리고 그녀는 밤하늘의 별 하나를 가리켰다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+저게 첫 번째 별이야. 기억해 둬.<br>
+다음은 저 별, 그리고 저 별…… 조금 더 왼쪽이야.<br>
+<br>
+하나, 또 하나. 그녀는 밤하늘 위의 별을 손가락으로 짚으며, 마치 실을 잇듯 별들을 연결해 갔다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+저건… 왕관자리야.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――정말… 별로 만든 왕관 같네.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+맞아.<br>
+전설에 따르면 저건 술의 신이 연인에게 선물한 왕관이라고 해.<br>
+인간 세상에서는 볼 수 없는 빛을 내뿜으며, 밤에만 그 모습을 드러내는 존재지.<br>
+<br>
+'''''<span style="color:black;">选择项1：이런 귀한 걸 보다니…</span>'''''<br>
+'''''<span style="color:black;">选择项2：저 왕관을 내가 낚아채면…?</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――이런 귀한 걸 보다니… 오늘 밤은 정말 운이 좋네.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''더 큰 행운은… 그런 별을 올려다보는 순간을 나와 함께 할 수 있다는 거야.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그 행운을 마음 깊이 새기도록 해, 나의 사역마.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''저 왕관을 내가 낚아채면…?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그렇게 해도 상관없어.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''내 사역마에게는 원하는 거라면 무엇이든 가질 자격이 있으니까.<br>
+<br>
+아우구스트는 살짝 몸을 뒤로 빼고 고개를 기울여 밤하늘을 바라보았다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+저 왕관은 이제 네 거야.<br>
+오늘 밤… 내가 너에게 직접 관을 씌워줄게.<br>
+<br>
+다음 순간, 그녀의 손끝이 조용히 이마에 닿았다.<br>
+마치 밤하늘에서 흘러내린 무언가를 조심스럽게 내 머리에 올려놓기라도 한 듯한 몸짓이었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+다른 이들이 다가와도 별들은 응답하지 않아… 오로지 선택받는 자에게만 내려오는 법이거든.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――날 선택한 건 별일까? 아니면… 아우구스트?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+둘 다…라고 해도 괜찮겠지.<br>
+<br>
+그녀의 손끝이 뺨을 따라 내려와, 턱끝에서 살짝 멈췄다.<br>
+아우구스트의 시선은 숨을 쉴 수 없을 정도로 날카롭게 내 몸을 꿰뚫었다.<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+아무래도…… 도망칠 생각은 없는 모양이네.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――어차피 도망치게 해 줄 생각도 없었잖아?<br>
+<span style="color:#4eb24e;">아우구스트 폰 파르제팔：</span><br>
+흠… 사역마가 어디서 반항하는 몹쓸 버릇을 배워 온 모양이야.<br>
+완전히 굴복시킨 다음에는 어떻게 될지… 점점 더 기대되는데?<br>
+오늘 밤 얼마나 나아갈지는…… 너 스스로 결정하도록 해.<br>
+<br>
+두 사람 사이로 쏟아지는 별빛은 어느새 열기를 머금고 있었다.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
