@@ -1,0 +1,994 @@
+== ネオンシティの探索者 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=序章|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+ネオンの下、人々は生き残るために嘘を迷彩に織り上げ、生き残りを懸けたゲームに身を投じている。<br>
+爆発の炎が街の闇を照らし出す時、誰が台本を演じ、誰が結末を綴るのか？<br>
+今宵、警察機構の特別アドバイザーは――<br>
+たった一つの真実を暴き出す。<br>
+<span style="color:#4eb24e;">明石：</span><br>
+ムフフ、ついに始まるにゃ～<br>
+そこの主役さん、台本はちゃんと覚えたかにゃ？<br>
+<br>
+'''''<span style="color:black;">选择项1：……主役って？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……台本って？</span>'''''<br>
+<span style="color:#4eb24e;">明石：</span><br>
+にゃ？主役は主役、台本は台本にゃ？<br>
+さては指揮官、忙しすぎて忘れちゃったかにゃ？でも大丈夫にゃ！<br>
+ぶっつけ本番、いっちゃうにゃ！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――待て待て……本当に台本なんてもらってないし、主役の話も全く聞いてない<br>
+――青葉からの連絡を受けて、取材に協力しに来ただけで……<br>
+――……はっ！最初からグルだったのか！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+ムフフフ、お決まりの台本がないからこその最高の脚本にゃ！<br>
+指揮官の出演なんて一番ウケるにゃ～<br>
+とにかく、警察機構の特別アドバイザーとして、その鋭い洞察力を存分に振る舞って欲しいにゃ～<br>
+各チームに連絡にゃ。主役は現場入りしたにゃ！<br>
+3、2、1――アクションにゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不穏な爆発|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-1-不穏な爆発<br>
+Scene：警察機構会議室<br>
+Time：19:25<br>
+Date：6月25日<br>
+上層部から派遣された特別アドバイザーとして、<br>
+あなたは警察機構内部にいる犯罪組織の潜伏者を探る任務を託された。<br>
+あなたは総監の指示に従い、<br>
+安全審査を名目に疑いのある人物をまとめて会議室に招集した。<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+準備はいかが？新しいアドバイザーさん<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……吾妻？なぜここに？<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+吾妻先生、ですよ<br>
+総監から教え子が戻ってきたって聞きましてね。ふふふ、もしかして先生に会いたくないのかしら？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（ふむ……もう役を演じてるらしい）<br>
+――とんでもない。吾妻先生にまた会えて嬉しいよ<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+ふふふ、そうですね～<br>
+さ、早く中に入って。みんなもう待ってますから、立ち話もこの辺で<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+吾妻先生の微笑みに背中を押されたあなたは、気を引き締めて会議室へと入りました<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……強引に話を進ませるんだな）<br>
+（まあ…ヒントが何もないよりはマシか）<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+会議室に足を踏み入れた瞬間、あなたは6つの視線を浴びました<br>
+それは刑事部のインペロ本部長、ゼロ課のツェンカー警部、ゼロ課のU-552警部補、<br>
+捜査一課のネプチューン警部、捜査二課のZ13警部補、交通執行課のU-37巡査部長という錚々たる面々でした<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（状況説明、助かる）<br>
+――……コホン。実は本部に、警察機構内に国際犯罪組織の人間が潜り込んだ可能性がある、と匿名の告発が届いた<br>
+――ぜひみんなの意見を聞きたい<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+えぇ？わざわざ人を呼び出したのではこんなことだったの？<br>
+ていうか告発を鵜吞みにするの？だったら総監がスパイだって言っても通るじゃない！<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+確かに、ゼロ課も知らない告発なんて……信憑性に欠けますね<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+ね～、あたしたちの人事データって全部人事一課の監察係が登録してるし、調べるならそっちからじゃない？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（監察係のデータか……確かに今は情報が圧倒的に足りていない……）<br>
+――そのデータはどこに保管されているんだ？<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+そうですね……確か隣のビルでしたっけ？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+――――！<br>
+ネプチューン警部がそう言い終わるや否や、アーカイブが保管されている建物が爆音と共に吹き飛び、瓦礫と化してしまいました<br>
+勢いよく燃え上がる炎と共に、けたたましい警報音が施設内に響き渡りました<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+え、えぇ——！？アーカイブ施設が……爆発しちゃったの！？<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+みんながここに集まっている時に……やっぱり、内通者はほかにいるのね<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+燃え広がらないうちに早く行けばまだ何か回収できるかもね……あーあ、なんかめんどくさーい……<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+目の前で爆破事件を起こすなんて……なめたことを…！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……爆発のタイミングが怪しすぎるな<br>
+――現場に行くから、会議は一旦ここまでにする<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+アドバイザー、待ってください！捜査一課のメンバーも呼んで一緒に行きますから！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=ウサウサ巡査調査中|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-2-ウサウサ巡査調査中<br>
+Scene：警察機構アーカイブ施設前<br>
+Time：20:08<br>
+Date：6月25日<br>
+あなたは爆発現場に到着し、すべてが燃え尽きる前に手がかりを探そうとした――<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+どいてどいて、セキュリティが通りますわよー！<br>
+アドバイザー、どう？決定的な手がかりは見つかりました？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――ネプチューンより30秒くらい前に着いたばかりだが……これから探すところだよ<br>
+――でもこの様子じゃ……望み薄だな<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+けほけほ、この焦げた匂い……アドバイザー、まだ全部焼けたとは限りませんわ。中に何か残ってないか探してみましょうよ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――建物はまだ燃えてるし……消防が火を消した時にどれだけ残ってるかは……<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+そのとき、遠くの空に雷鳴がとどろくと、次の瞬間には土砂降りの雨が降り出しました<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+やりましたわ！アドバイザー！天気も私たちに味方してくれました！これなら調査が続けられますわね<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（……突っ込んだら負けな気がしてきた）<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+それじゃアドバイザー、手分けして探しましょう。こっちは左側、そっちは右側でどう？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（こんな状況で別行動……？）<br>
+（もしネプチューンが潜入者なら、証拠を隠滅しながらも疑いを晴らす絶好のチャンスになるが……）<br>
+（でも今単独行動できれば、調査の糸口がつかめるかも……）<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+アドバイザー、何かありましたわ！そっちはどう？<br>
+<br>
+'''''<span style="color:black;">选择项1：ネプチューンが潜入者か尋ねてみる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''せ、潜入者ですって？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''だめですわアドバイザー！いきなりそんなたちの悪い冗談を！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――じゃあ、その背中に隠しているものは何？<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''背中……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''それより、この書類の方を見て？ほら、ゼロ課の業務記録と苦情の手紙を見つましたわ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――あ！背中が燃えてる！<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ええ？！ど、どういうこと！？まだ準備が…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――もらった！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――どれどれ…焼き鳥20本、重桜牛3人前に、生ビールが5杯……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――ただの飲み会のレシートか……<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''どうでもいいものでしたわね！だから先にこっちの書類をって言ったのに！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''あーあ、かわいいうさぎちゃんを騙しただけでなく、潜伏者呼ばわりするなんて……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''実はアドバイザーが潜伏者の大悪党なのではなくて？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――ごめん。調査を続けよう<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ええ！気合を入れ直して、証拠全部見つけますわよ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――まだ何も。そっちは何か見つけたか？<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ふふん、結構収穫はありましたわ。ほら！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――これは……ゼロ課の業務記録？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――これを書いた二人……一人はまったくの空白、もう一人は目次だけで1ページ分だと…？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――しかも…「歩くのが速すぎただけで逮捕された」って苦情も……ほとんど燃やされてもう表題しか残っていないが……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――はぁ……あまり役に立ちそうにないな<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ん？さっきからずっと右手を背中に隠してるけど、もしかして何か持ってるのか？<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''あっ……これは……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''わー！いけませんわー！火がついちゃいましたわー！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――！？ すぐこっちに渡して！<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''うぅ……ごめんなさい。まだ火が残ってるところにうっかり触れちゃって、跡形もなく燃えちゃいましたわ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''私もその書類をまだよく見てなかったのに渡しそびれちゃって……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（怪しい……）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……燃えちゃったものは仕方ない。引き続き探してみよう。<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''はい、張り切って頑張らせていただきますわ！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=戦略的デートソリューション|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-3-戦略的デートソリューション<br>
+Scene：警察機構オフィス<br>
+Time：08:23<br>
+Date：6月26日<br>
+爆発事件は潜入者と関係していると踏んだが、手がかりは全く掴めなかった。<br>
+しかし、あなたは最近の監視映像にわずかに改ざんされた痕跡――タイムラインの不自然な乱れがあることに気付いた。<br>
+真相を突き止めるべく、警察機構内で監視映像と密接に関わっているZ13警部補を訪ねた――<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+これはこれは、アドバイザーじゃない。まさか現場視察しに来たの？<br>
+先に言っておくけど、サボってなんかないよ。これは戦略的な休憩ってやつだから～<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――休憩……って、パソコンでゲームをやりながらか？<br>
+――まさか母港でもこんな感じで……<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+コホン……「母港」って何のことかなー？アドバイザーったら来て早々わけわかんない<br>
+というか「ワークライフバランス」ってご存じない？<br>
+さぁさぁ、ここに座って一緒にゲーム……じゃなくて、休憩しようよ～？<br>
+偉大なるインペロ本部長公認だからね～<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……本部長公認なの？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+もちろん！インペロ本部長なんて、勤務時間中に率先して居酒屋へと戦略的に休憩してるよ～<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――見かけによらず……いや、インペロならそうだろうな<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+でしょ？で、勤務時間中に会いに来たってことは……これは戦略的デートの誘いかな？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（……ここは直球で行くか、それとも遠回しに行くか）<br>
+<br>
+'''''<span style="color:black;">选择项1：Z13が潜入者か尋ねてみる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''あらら、そんな根拠のない発言は感心しないな～。結構シビアな話題よ、それ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――じゃあ聞くけど、どうして勤務時間中に本部長が居酒屋に行ってたことを知ってるの？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――それって監視カメラで見てたってことじゃない？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――要員を常に監視しているなら、潜入者以外考えられない<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''真面目に働いている優秀な警官って可能性だってあるじゃない？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――真面目に働いている……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――じゃあ、警察機構の監視映像が改ざんされてることも知ってるか？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''えぇ？そんなことが？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……Z13がやったんだろ？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''そんな難しいこと物理的に無理だって！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……聞き方を変えよう。じゃあ誰がやったか調べることはできるな？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''んー…それも無理！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''あたしは監視モニターを眺めるしかできないんで……逆に言えば全ての画面をいつもちゃんとチェックしてるよ！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''ただ爆発が起きた時は……ほら、アドバイザーも知っての通り、会議に呼ばれてたわけで……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……はあ。じゃあ当日の監視映像を出して。一緒に確認してみよう<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ええっと……どうやって出すんだっけ～？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――いいだろう。デートの一環として、まずは暗号ディスクを見せてもらおうか<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''え！どんなデートが暗号ディスクなんて見るのー？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――そりゃ「戦略的デート」に決まってるだろ？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''もぉ、からかうなんてやだ～<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ん？直接パソコンをいじりたいの？でも、ここに椅子は一脚しかないし……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''わかった！じゃあアドバイザーはあたしの椅子に座って、あたしはアドバイザーの膝の上におじゃましまーすってどう？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――いや、立ちながらでも操作できるから。パスワードを教えてくれない？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''えぇ、こういうプレイもデートのうち？じゃあ——I～M～YOURS～<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――パスワードが間違ってるようだ<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''じゃああたしの名前もつけ足してみて～？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ほぉら、アドバイザーの手に重ねて一緒に入力してこ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''どう？アドバイザー、ドキドキしたでしょ～？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''こっそり教えてあげるけど、ここはオフィスの死角だから、ナニカしてもバレないよ～？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……これも違うらしい<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''アドバイザー、あのね。はぁ…実は……パスワードは覚えてないんだ……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……え？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''いっそ適当に入力してみて？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ではお約束の……「PASSWORD」で？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……通った…？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……えぇ！？<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=いざゆけロードセキュリティ|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-4-いざゆけロードセキュリティ<br>
+Scene：警察機構駐車場<br>
+Time：09:31<br>
+Date：6月26日<br>
+紆余曲折の末、あなたは改ざん前の監視映像を復元できた。その画面には黒い人影がぼんやり映り込んでいた。<br>
+高速で画面を横切るその姿にはどこか見覚えがあるが……誰なのかは思い出せない。<br>
+考えに詰まったあなたは、この手の事件に慣れているゼロ課のメンバーに話を聞くことにした。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――猛スピードで移動する、どこか見覚えのある人影……<br>
+――調べるまでもない<br>
+――潜入者は青葉だ！<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+違いますね。ええ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……アルフレードかグリッドレイ？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+違いますね。ええ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――じゃあ撫順や飛雲、伏波あたりか？もしくはブリストル？ギャラント？<br>
+――島風？ローダシュー？ル・マラン？ル・テリブル？ル・トリオンファン？ランドンターブル？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+どれもこれも違いますね。…当てずっぽうに列挙していたため、すぐ近くの巡査の注意を引いた。<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+アドバイザー、どうして駐車場に？どこか行くの？<br>
+なんか焦ってるようだし、なんなら送ってあげよっか？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――ちょっとゼロ課の人に確認したいことがあってな……ツェンカー警部とU-552警部補がどこにいるか知らないか？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+ゼロ課の人たちの居場所は知らないなあ……何か手がかりでも掴んだの？<br>
+よかったら話してみてよ。もしかしたら力になれるかもよ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……でもU-37って交通課じゃ…<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+交通課だから何だって言うの！交通課だって立派な警察だって。アドバイザーのそれは偏見だよ！<br>
+あたしだってこいつに乗って暴走族を止めたんだ！それもつい最近！<br>
+まあ、ひとまず乗りなって。飛ばしながら話そ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……目的地は？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+まだ勤務時間中だから、そりゃパトロールに行くよ。本筋の仕事をおろそかにできないさ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――まぁ、仕事熱心なのはいいことだ<br>
+――ただ……<br>
+<br>
+'''''<span style="color:black;">选择项1：U-37が潜入者か尋ねてみる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''はぁ？潜入者！？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''こんな真剣に仕事に向き合っているあたしを疑うわけ！？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――仕事熱心か……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――このパトロールマシンは……こんなスピードで暴走族を止めたのか？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――自転車相手でも無理じゃないか？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''徒歩の暴走族なら追いつけるよ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――徒歩の……暴走族？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――いや、徒歩のやつが暴走族になりえるのか…？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ふふん、そういうのだっているよ！正義のためなら苦労は辞さない！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……なるほど、「歩くのが速すぎただけで逮捕された」って苦情の意味がようやくわかったよ<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''え……あたしに苦情が来てたの！？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――大丈夫。ほとんど燃えて灰になった<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ふぅ……よかった……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――まとめると……U-37はU-37なりに真面目に仕事してるって言いたいんだ？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''もちろん！さあアドバイザー、乗って乗って！パトロールに行くよ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――こいつは二人乗りして大丈夫なやつか？法律違反にならないか？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''もう〜これじゃなくて、あっちにあるパトロール車だよ！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''さあさあ、乗って乗って！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''えっと……鍵は……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――さっきは明らかにスクーターに乗せようとしたが……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ひょっとして……裏で交通ルールを破ってる？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ま、まさか……！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''あたしは毎年表彰を受けるほど立派なんだから！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――確かに……交通ルールを破ったという話は聞いたことないしな……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――だからこそ、逆に怪しいというか……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ちゃんとルール守ってるってことじゃん！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''もう、深く考えすぎだってばー！あたしはパトロール行ってくるから、アドバイザーも仕事に戻って！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=問題の核心|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-5-問題の核心<br>
+Scene：東海岸観光列車<br>
+Time：17:34<br>
+Date：6月26日<br>
+あれこれあって、あなたはようやくゼロ課のU-552警部補の居場所を掴んだ。<br>
+海辺にある環状線の観光列車に乗ると、車内で眠っているU-552警部補を見つけた――<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――U-522警部補？どうして……ここで寝てるんだ？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+……ふぁ……指揮官、今はU-552警部補ではなく観光ガイドよ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「指揮官」？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+あー。ごめん、寝ぼけてた……特別アドバイザー！<br>
+……ちょうどいいし、そっちも少し休んでみない？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――別に大丈夫だ。というか……今は秘匿捜査中なのか？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+そうだよ。ガイドに変装して絶賛情報収集中<br>
+はあ…またもや仕事しないといけない日ね<br>
+……うん。ガイドに変装しているから<br>
+「本日は観光バスにご搭乗いただきありがとうございます」<br>
+この……ええと…セリフはなんだったっけ？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――そのたどたどしさ……もしかして接客に慣れてない？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+そりゃそうだよ……わざわざここを選んだのだって、この路線なら本物の観光客が来るはずないからだし……<br>
+ここに来る人はだいたい秘密を抱えてるから……つまり最も省エネな働き方ってやつよ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――いかにも理にかなってる風だけど……<br>
+<br>
+'''''<span style="color:black;">选择项1：U-552警部補が潜入者か尋ねてみる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''えぇ？ちょっとサボっただけで疑惑をかけられるほどなの…？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''いや、サボってたわけじゃないよ。今日は天気がよすぎて、うん……お昼寝日和過ぎただけ……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――ほほう、それで何か情報は手に入ったの？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''あのね。情報活動には知識とそして何より根気の良さが必要なの。ゼロ課たるもの、情報を伝えるよりも身を隠す方が大事だもん<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――つまり…何もないってことか？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''「ある」とか「ない」とか、問題の核心はそこじゃないよ…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''問題の核心っていうのは、問題の核心を見つけることが核心であって<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……じゃあ、核心となる問題って？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''核心となる問題を見つけるには、まずは問題の核心を見つけないと……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……で、あるの？ないの？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''はぁ……はいはい、サボってましたよっと……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''アドバイザー、これにはちゃんと理由があるから聞いてほしい……サボっただけで疑われるのは勘弁して……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''ちゃんと情報は持ってるよ……ただその情報は今手元になくてね<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――つまり、情報はあるけど、情報がU-552のところにはないってこと？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''そう！U-552のところにはないけど、ちゃんと情報があるの！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''コホン……集めた情報はもうまとめて送ったよ<br>
+'''''<span style="color:black;">（选择项1）</span>'''''紙に載ってたものだったから、アドバイザーに見せるのは無理だけど……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――誰に送ったの？<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ツェンカー警部だよ。彼女なら今頃この路線の終点に着いてるはず……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''ツェンカー警部に会えば、私の疑いを晴らしてくれると思う！<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……だけど？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――いや、なんでもない。今日は確かにお昼寝日和だったな<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――この機会に少し休むのも悪くない<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''さすがアドバイザー、わかってるね<br>
+'''''<span style="color:black;">（选择项2）</span>'''''でも……お客さんが乗車したからには、こっちもガイドとしての役割をしっかり果たさないと<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「それでは特別アドバイザー、まずはこの新しい『旅行ガイド』をどうぞ」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「観光スポット情報は、すべてこちらのガイドに掲載されております」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「旅のお供にぴったりなお食事やお飲み物も各種ご用意しております。どうぞごゆっくりお楽しみくださいませ」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「今回の『旅』はきっと良きものとなることでしょう」<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ついでに、特別な情報もあればもっと嬉しいけどな<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――U-552の仕事の成果をぜひ拝見したいものだ<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''こほん……どうして急にそんな話をするの……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''今は観光に集中しようよ、観光〜<br>
+'''''<span style="color:black;">（选择项2）</span>'''''コホン――「ご乗車の皆さま、お足元にご注意ください。まもなく発車いたします」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=かくかくしかじか|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-6-かくかくしかじか<br>
+Scene：繁華街倉庫<br>
+Time：19:20<br>
+Date：6月26日<br>
+ツェンカー警部が重要情報を持っている、というヒントを手に入れ、あなたは列車から降りた。<br>
+そしてヒントにある住所を辿り、繁華街のとある倉庫にやってきた。<br>
+倉庫に入ると、奥からツェンカー警部の声が聞こえ……<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+た、助けてーー！誰かーー！<br>
+ふぅ……よかったぁ…アドバイザー、は、早く私を解放して…！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――もしかして……ツェンカー警部？<br>
+――ここはゼロ課の秘密拠点だよな？どうして囚われの身になってるんだ…？<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+はあ…話せば長くなりますが……<br>
+すべては13年前、ある雨の夜から……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――本当に長そうだな……<br>
+（ここは流れ通りにやるか、それとも……）<br>
+<br>
+'''''<span style="color:black;">选择项1：ツェンカーが潜伏者かどうか尋ねる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''せ、潜伏者ですって？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''私ではありません！あの人ですよ！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（展開が急だな）<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――「あの人」って？<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''警察学校の吾妻教官です！あの人が潜伏者なんです！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''私を襲ったのは偽りの証拠を作るため…すべての汚名を私に着せるつもりです！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''すべてはあの人の仕業です！昨日のアーカイブでの一件だって……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――分かった。あとは自分に任せてくれ<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''風が吹き荒ぶ暗い夜でした。あれからもう何年も経ったのに、今でもあの夜に起こったことを忘れられなくて……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''当時の私はまだ中学生で、遊園地でクラスメイトとのパーティーに参加していました。あまりにも楽しくてつい時間を忘れてしまったんです<br>
+'''''<span style="color:black;">（选择项2）</span>'''''家に帰ろうと決めた時、もう遅い時間になっていました……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''雨が降っていて、一人だったため余計に驚きと不安でいっぱいで、早く家に帰りたい一心でした……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''暗がりの中、気づけば迷い込んでしまいました<br>
+'''''<span style="color:black;">（选择项2）</span>'''''やがて、薄暗い街灯の光に照らされた、怪しげな黒い服を着た二人の人影が見えました<br>
+'''''<span style="color:black;">（选择项2）</span>'''''何やら密かに取引をしていたようでした……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''恐怖心よりも好奇心が勝ってしまい、私はこっそりと二人に近づいて、一体何をしているのか見ようとし……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''そして……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――様子を見ることに気を取られ、背後からの別の仲間に気づかなかった<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――薬を飲まされ、次目覚めた時には体が小さくなっていた……<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''え？別にそのようなことは……でも、確かにその二人にバレましたね<br>
+'''''<span style="color:black;">（选择项2）</span>'''''歩いた時にうっかり缶を倒してしまい、それで気づかれたんです<br>
+'''''<span style="color:black;">（选择项2）</span>'''''怖くなって走り出しました。すると、あの二人も執拗に追いかけてきて……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''逃げようとしてもどこまでも追いかけてきて、もう必死に走るしかできなくて……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''どのくらい時間が経ったのか分からなかったけど……必死に走っていたら、誰かの柔らかい体にぶつかってしまいました<br>
+'''''<span style="color:black;">（选择项2）</span>'''''でもその人は私を責めることもなく、何が起こったのか尋ねることもなく、怪しい二人と戦って追い払ってくれました。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''あとで分かったのですが――助けてくれた人こそが、警察学校の教官の吾妻でした<br>
+'''''<span style="color:black;">（选择项2）</span>'''''あの一件から、私は警察官を志すようになって……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''警察学校に入学した時、吾妻先生の生徒になりたい、と<br>
+'''''<span style="color:black;">（选择项2）</span>'''''そして3年の月日があっという間に過ぎ去り、そして今から10年前に……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（……長すぎないか？）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（撮影用のフィルムもタダじゃないんだが……一応母港の予算を使ってるよな…）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――待て待て、ツェンカー警部、要点だけを頼む<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――誰が襲ってきたんだ？襲撃者はどうやってゼロ課の拠点に入ったんだ？<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''吾妻先生です！私としたことが……吾妻先生が襲撃者だなんて思いも寄らなかったです…！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''あの人こそが潜伏者です！昨日の爆発もあの人の仕業で、私を襲ったのは偽りの証拠を作って、汚名を全部私に着せるためなんです！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''どうしてこのゼロ課の拠点を知ってたのかというと…あれはもう6年前の話ですが……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''あの時……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――待った！もういい。これだけで十分だ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ちなみにいつ襲われたんだ？吾妻がここから離れてどれぐらい経っている？<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ええと……だいたい30分前！あの時は……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――もうわかった！あとはこっちに任せてくれ！<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+頼りにしてます！アドバイザー！<br>
+って、待って！出る前に私を解放してーー！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=相談教室|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-7-相談教室<br>
+Scene：警察学校教室<br>
+Time：20:42<br>
+Date：6月26日<br>
+あなたの職権レベルでは、吾妻先生の行動を調査するのはさほど難しくなかった。<br>
+そしてたどり着いた空き教室には、見慣れた姿が静かにあなたを待っていた……<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+こんなに早く見つけるなんて、やっぱり優秀ですね<br>
+「警察機構のアドバイザー」と呼ぶべきかしら？それとも……「愛しい優等生くん」のほうがいいかしら？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（ここは流れ通りにやるか、それとも……）<br>
+<br>
+'''''<span style="color:black;">选择项1：吾妻が潜伏者かどうか尋ねる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――それは……先生がどんな立場でこっちに向き合いたいかによるな<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ふふ、質問を返すのですね？さすが私の自慢の優等生です<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ほかの子も、あなたくらい優秀だったらいいのに……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……それは、ツェンカー警部のことか？<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''彼女かもしれませんし、彼女だけじゃないかもしれませんね<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+でも、今こうして私のところへ来たということは……もう心の中で、何か結論が出ているのではなくて？<br>
+ツェンカー警部の言葉を信じたのですか？<br>
+……もし私が「潜伏者なんかじゃない」と言ったら、あなたは先生のことを信じてくれますか？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――どっちかの話を鵜呑みにするような真似はしない。証拠がなきゃ判断はできない<br>
+――だが……ツェンカー警部は、先生がアーカイブ施設の爆破を仕組んだ状況証拠を見せてくれた。それをどう釈明するつもりだ？<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+ええ、確かに昨日、私はアーカイブ施設に行きましたよ<br>
+でも、それは――あなたのために資料を探しに行ったからです<br>
+あなたが調査任務を受けたと知って、潜伏者たちが証拠を消すために過激な手段に出るかもしれないと思い……あなたが彼女たちの注意を引いている間に、こっそりと動いたんです<br>
+ほら、これが昨日手に入れた資料ですよ<br>
+早く立ち去ってよかったです……でないと資料どころか、無事に出られたかどうかも怪しかったんですよ？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+あなたは吾妻先生から資料を受け取りました。そこには、ゼロ課全体がすでに潜伏者たちの拠点となっていることを示す記録が綴られていました<br>
+さらに驚くべきことに、組織により深く潜んでいる存在も示唆されていました<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――そんな……だからツェンカー警部を襲ったのか？<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+実はその資料の一部は、彼女の秘密拠点から回収したものなんです<br>
+まさか調査の途中で戻ってくるとは思いませんでした……幸い腕っぷしは先生のほうが上でしたわ<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――そうだったのか……でも、なぜ報告しなかった？<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+この組織は、もう長年こちらの中に根を張っているようですからね。先生にとって信じられるのはあなただけですから<br>
+これらの証拠を手に入れた今、なおさら慎重にしなくてはいけません<br>
+潜伏者は――誰であってもおかしくないですから<br>
+<span style="color:#4eb24e;">明石：</span><br>
+カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=ネオンシティの夜|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-8-ネオンシティの夜<br>
+Scene：商店街の居酒屋<br>
+Time：22:59<br>
+Date：6月26日<br>
+教室を出た後、頭の中でこれからの行動を整理していたあなたは、いつの間にか居酒屋の前に立っていた。<br>
+1日中忙しかったからか、あなたのお腹がぐうぅと声を上げた。<br>
+そんなわけで、腹ごしらえに居酒屋へ入ることにしたが――<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――（居酒屋で食事シーンか……ようやく来たな）<br>
+<br>
+'''''<span style="color:black;">选择项1：料理を注文しよう！</span>'''''<br>
+'''''<span style="color:black;">选择项2：やっぱりやめておこう……</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――店長！唐揚げバーガー、海軍カレー、焼きソーセージ、シュバイネハクセン、ボルシチ、エスカルゴの赤ワイン煮、スターゲイザーパイ、マルゲリータピザ、それと……満漢全席を！<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……………………<br>
+'''''<span style="color:black;">（选择项1）</span>'''''入店するや否や、あなたはメニューに載っていない料理を次々と注文し出しました<br>
+'''''<span style="color:black;">（选择项1）</span>'''''その奇行は店長にスルーされましたが、代わりにとある知り合いの目を惹きました<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+ん……？アドバイザー……？<br>
+……もしかして残業明けってやつ？<br>
+ちょうどいいところに……一緒に飲みましょ～！<br>
+<br>
+'''''<span style="color:black;">选择项1：インペロが潜伏者かどうか尋ねる</span>'''''<br>
+'''''<span style="color:black;">选择项2：（台本の流れ通りにやるか……）</span>'''''<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……潜伏者？ああ、そうだよ……偉いインペロ本部長こそが潜伏者そのもの～！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''さあ、捕まえなさいよ……働きすぎてもう限界……もう仕事なんかしたくない……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――捕まっても労働からは逃げられないんじゃ……？<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''むぅ……たしかに……それはイヤ……やっぱり偉いインペロ本部長を捕まえないで…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一緒に飲んで食べましょうよ～！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――ああ……今残業が終わったところだ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――最近は仕事がどんどん増えてきて本気でキツいな……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――インペロ本部長は？そっちも同じか？<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ふふふ……ステータス的には残業中だというのに……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''偉いインペロ本部長は今、戦略的休憩を取っている……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ごくごく……ぷはぁ～……なんか、ふわふわしてきた……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''ねえ、アドバイザー……毎日出勤するだけでもう辛いのに……どうして残業なんてしなきゃいけないの……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''どうして……<br>
+<br>
+'''''<span style="color:black;">选择项3：仕事が好きだから！</span>'''''<br>
+'''''<span style="color:black;">选择项4：どんな理由があっても残業はよくない</span>'''''<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''すごいね……本当に尊敬する……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''偉いインペロ本部長が尊敬の意を込めて……かんぱーい！<br>
+'''''<span style="color:black;">（选择项3）</span>'''''ねえ……ちょっと聞いて、アドバイザー<br>
+'''''<span style="color:black;">（选择项3）</span>'''''仕事ってのはね……ほどほどでいいの<br>
+'''''<span style="color:black;">（选择项3）</span>'''''身体はひとつしかないし、人生も一回しかないから……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''仕事が終わった後の時間こそ……ほんとうの「生活」ってやつよ……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''疲れた日にはさあ…アカシ居酒屋に寄っていきなさいよ<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''それな……そうだ！かんぱーい！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''ねえ……ちょっと聞いて、アドバイザー<br>
+'''''<span style="color:black;">（选择项4）</span>'''''仕事ってのはね……ほどほどでいいの<br>
+'''''<span style="color:black;">（选择项4）</span>'''''身体はひとつしかないし、人生も一回しかないから……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''仕事が終わった後の時間こそ……ほんとうの「生活」ってやつよ……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''疲れた日にはさあ…アカシ居酒屋に寄っていきなさいよ<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+いい？このアカシ居酒屋のビールはね、アカシビール工房が72時間かけて、ステップダウン式低温発酵技術で熟成してるの…<br>
+その輝きは琥珀のように、きめ細かい泡はもはやシャンパンレベル……！<br>
+肴の串焼きに使われる肉はアカシ農場直送で、伝統の仕込みで……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……インペロ、明石からいくらもらったんだ？<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+ビール飲み放題、串焼き食べ放題～<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――もういい……先に帰るよ。インペロ本部長<br>
+――そっちも飲みすぎないで、帰るときは安全に気をつけてね<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+大丈夫よぉ……だいじょ……ぶ……Zzz……<br>
+アドバイザー……潜伏者……つかまえて……がんばって……Zzz……<br>
+<span style="color:#4eb24e;">明石：</span><br>
+にゃにゃ！カットぉー！にゃ！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=潜伏者は誰だ？|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-9-潜伏者は誰だ？<br>
+Scene：警察機構会議室<br>
+Time：8:05<br>
+Date：6月27日<br>
+翌日、あなたは吾妻先生やツェンカー警部を含め、全員を会議室に呼び出した。<br>
+心の中ではすでに結論が出ていた。そして今、皆があなたから結論が告げられるのを待っている――<br>
+さて、あなたはどんな結果を口にするのだろうか――<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+会議室に足を踏み入れた瞬間、あなたは7つの視線を浴びました<br>
+刑事部――インペロ本部長。ゼロ課――アドミラル・ツェンカー警部。ゼロ課――U-552警部補<br>
+捜査一課――ネプチューン警部。捜査二課――Z13警部補。交通執行課――U-37巡査部長。警察学校教官――吾妻先生<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……前にもあった流れだが……さては尺稼ぎかな？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+首尾の呼応という書き方です。ついでに前回までのあらすじも兼ねていますので<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――はぁ……<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+また朝っぱらからみんなを集めて……アドバイザー、結論は出たの？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+このトラブルがようやく終わるのか……早く結果をみんなに教えて。あと数分でライブ番組が始まるから……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+たった数日で潜伏者を特定するなんてさすがアドバイザー！本当に有能だね！<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+犯人は好き勝手なことを……さあアドバイザー、いったい誰が潜伏者です？<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+証拠はもう明白、潜伏者は吾妻先生です！なぜまだ迷っているのですか！<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+昨晩の先生の言葉……忘れないでくださいね。自分自身を一番に考えて<br>
+どんな答えを出しても、先生はあなたの味方ですから<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+さて……どんな結論を出すのか？偉いインペロ本部長は興味津々だよ<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+最終決断の時が来ました。潜伏者は果たして、誰なのか？<br>
+<br>
+'''''<span style="color:black;">选择项1：ナレーション担当こそが潜伏者だったりして？</span>'''''<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+違います<br>
+最終決断の時が来ました。潜伏者は果たして、誰なのか？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+………<br>
+<br>
+'''''<span style="color:black;">选择项1：潜伏者なんかいない</span>'''''<br>
+'''''<span style="color:black;">选择项2：全員が潜伏者だ！</span>'''''<br>
+'''''<span style="color:black;">选择项3：潜伏者は…自分だ！</span>'''''<br>
+'''''<span style="color:black;">选择项4：潜伏者は…総監だ！</span>'''''<br>
+'''''<span style="color:black;">选择项5：潜伏者は…監督だ！</span>'''''<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''「潜伏者なんかいない」――あなたは自身の調査結果をそう発表した。<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''潜伏者なんかいない……？そうなの……？<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''ふーん……？それがあなたの結論？面白い<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''待ってください！どうして潜伏者がいないなんて言えるのですか？アーカイブ施設は確かに爆破されましたわ！<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''それに私も吾妻先生に襲われたんですよ！？潜伏者じゃないっていうならどうしてそんなことを？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――答えは……全ては警察機構上層部が仕組んだ、極めてリアルなセキュリティ演習だった！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――アーカイブの火災は確かに深刻だったが、極めて短時間で鎮火された<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――そしてここ数日見てきたすべての「不審な情報」は、総監が仕掛けたエサだったのさ。内部のリスクを洗い出すためのフィッシングテストのためのな<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――つまり……最初から「潜伏者」なんて存在しなかったんだ<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……そうだったんですね。私が見ていた数々の情報も、上層部が仕掛けたミスリードだったなんて…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''ツェンカー警部、ごめんなさいね<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''まさかそんなオチだなんて……本部の連中はほんとに暇人ですね……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''時間とリソースを無駄遣いしただけでなく、仲間たちの信頼まで傷つけて……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……誤解してしまいました。吾妻先生、ごめんなさい！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――誤解が解けてなによりだ<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''こうして、潜伏者という憂いは晴れ、あなたは報告のために本部に戻ることにしました<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――それでは諸君、ここでお別れだ。また縁があれば<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''道中気をつけてね、アドバイザー。偉いインペロ本部長は、あなたを高く評価してる……いつかまた会いましょう<br>
+<br>
+あなたは温かい雰囲気の中で皆に別れを告げ、警察機構本部への帰路についた。<br>
+報告を受け取った総監は、ただ一言「了解」とだけ頷いた。<br>
+半月後、総監の早期退職が発表され、後任にはインペロが就任した。<br>
+その後、あなたは平凡な一職員として働きながらも、順調に昇進し、キャリアを積み重ねていくこととなる。<br>
+「仕事に没頭して前に進む……それも、悪くないだろ？」<br>
+「――ネオンシティの探索者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''カットぉー！にゃ！<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''全員が潜伏者だ。あなたは自身の調査結果をそう告げた。<br>
+<span style="color:#ff9b93;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ぜ、全員って……！？この部屋にいる全員が潜伏者って言うの！？<br>
+<span style="color:#ff9b93;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''ちょっと！冗談でもそんなこと言っちゃダメですわ！<br>
+<span style="color:#ff9b93;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''そうですよ！しかも私は被害者じゃないですか…！なんで私まで潜伏者扱いされるんですか！<br>
+<span style="color:#ff9b93;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''もう～意味不明なんだけど～！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――この数日間、君たちは互いに連携し、 情報を小出しにしては真実と嘘を織り交ぜ、混乱を誘った…… 狙いはただ一つ。こっちの判断力を鈍らせることだ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――だが幸い、吾妻先生が自ら正体を見せたおかげで、君たちの連携にほころびが生まれた<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――確かに、アーカイブを爆破したのは吾妻先生だ。だが彼女が渡してくれた情報はすべて本物だ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――吾妻先生が組織を抜けようとしたことに気づき、 彼女を囮にしてこちらの注意を引きつけ、自分たちの疑いを逸らそうとした<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……そうだろ？偉いインペロ本部長？<br>
+<span style="color:#ff9b93;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''さすがは本部から派遣されたアドバイザー……やるじゃない<br>
+'''''<span style="color:black;">（选择项2）</span>'''''でもどうやって私まで辿り着いたの？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――この中で最も地位が高く、誰よりも疑われにくい存在であるあなたは、こちらを仲間に引き入れようと試みた……<br>
+<span style="color:#ff9b93;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……頭のいい子だと思ってたのに。残念ね<br>
+<span style="color:#ff9b93;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''あら、バレたからには仕方ありませんわ<br>
+<span style="color:#ff9b93;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''出口の扉はもう鍵をかけたよ<br>
+<span style="color:#ff9b93;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''監視カメラも全部切ってあるし～。さあ、おとなしくあたしたちに捕まっちゃいなさい<br>
+<span style="color:#ff9b93;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''安心してください。しばらく拘束するだけで、命までは取りませんよ<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……やっぱりこうなるか。だがこっちもちゃんと準備しておいたのさ<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――窓は自分の『逃走経路』だッ！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――あとは任せたぞ！国際刑事チーム！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''全員動くな！このビルは包囲した！抵抗は無意味だ、投降しなさい！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''よくやったぞ相棒！ガレージまでのルートは確保済みだ！急いで！<br>
+<br>
+朝日に向かって、眩しい窓ガラスの外へと身を躍らせた。<br>
+驚く表情の数々を背に斜面状のガラスを滑り降り、警察機構ビルから見事に脱出した。<br>
+その後、国際刑事チームが現場を抑えた。<br>
+任務を完遂したあなたは、総監より褒章をもらった。<br>
+だが、組織の残党による報復の恐れもあり……<br>
+あなたは国際刑事機構の手引きで、とある秘境にて幸せな隠居生活を過ごすことになった。<br>
+「平凡ながらも幸せな暮らし――それも、悪くないだろ？」<br>
+「――ネオンシティの探索者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''カットぉー！にゃ！<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''「潜伏者は…自分だ！」――あなたは自らの調査結果として、そう宣言した。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''その瞬間、部屋にいた全員が凍りついたように沈黙した。<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''あなた自身が潜伏者だって？<br>
+'''''<span style="color:black;">（选择项3）</span>'''''アドバイザー…それ、冗談にしては場違い過ぎない？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――今までの記憶を失っている以上、理論上では……自分が潜伏者って可能性もあるだろ？<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……一理ありますわね。でもアーカイブを爆破したのはあなたじゃないでしょう？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――今までの記憶を失っている以上、理論上では……自分が事前に仕込んだ可能性もあるだろう？<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''じゃあ……私が吾妻先生に襲われた件は？それはさすがに関係ないでしょ？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――今までの記憶を失っている以上、理論上では……吾妻先生を脅して襲撃を実行させた可能性もあるだろう？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''うーん……言われてみれば、そういう解釈も……アリかも……？<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''ふふ……アドバイザーはなかなか面白いセンスをしてるじゃない<br>
+'''''<span style="color:black;">（选择项3）</span>'''''非常に楽しいジョークだ。偉いインペロ本部長は気に入った<br>
+'''''<span style="color:black;">（选择项3）</span>'''''それで、このまま総監に報告に戻るの？それとも……とりあえずこの場を切り抜けることだけ考えているの？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――……意味がよくわからないが<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''むぅ……ううん、気にしなくていい。あなたは本部に帰るべきだし、今はその時よ<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''アドバイザー！車は用意できてるよ！<br>
+<span style="color:#4eb24e;">吾妻：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……私もアドバイザーと一緒に行きます<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''吾妻先生……？アドバイザーは報告しに行くんだけど、あなたまで付いて行ってどうするの？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''こうして、あなたはある意味前代未聞の方法で捜査を終え、本部へ戻るべく、車に乗り込んだ――<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――それでは諸君、また会う日まで<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''道中気をつけてね、アドバイザー……<br>
+<br>
+少しばかり気まずい空気の中、あなたは皆と別れ、警察機構本部へと帰還の途についた。<br>
+車中、吾妻先生から受け取った資料をめくりながら、総監に電話をかけた――<br>
+その時――！<br>
+轟音とともに、車は炎に包まれ、崖下へと転落した。<br>
+後日、あなたが残した「自分は潜伏者だった」という供述書が、総監の机の上に届いた。爆発事件は「良心の呵責による自殺」として処理された。<br>
+半月後、総監の早期退職が発表され、後任には――インペロが就任した。<br>
+世界は……何事もなかったかのように、今日も静かに回り続けている。<br>
+「――冗談って、ただの冗談とは限らないかもよ？」<br>
+「――ネオンシティの探索者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''カットぉー！にゃ！<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''「潜伏者は…総監だ！」――あなたは自らの調査結果として、そう宣言した。<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''……え？アドバイザー？ちょっと、話がよく分からないんだけど……？<br>
+<span style="color:#4eb24e;">ネプチューン：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''じょ、冗談ですよね……？総監が潜伏者なんてありえませんわ<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''インペロの興味をよくぞ引いた。で、理由を聞かせてもらえる？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――探偵ドラマのセオリーでは……「犯人は最初に登場した人物」って、よく言うだろ？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――だったら、総監こそ一番怪しいと思わないか？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――出番は一番早かったのに、何の手がかりも残してない<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――顔も名前も素性も誰にも分からない<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――……言われてみれば確かに……総監は誰だ？<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''総監は青葉です<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――怪しすぎるッ！！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――「取材協力」という名目で、自分を呼び寄せたのも青葉だ……！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――あまりにも怪しい！<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''なるほどね……で、これからどうするつもり？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――団結して総監の弱みを握り、彼女を打倒するんだ！<br>
+<span style="color:#4eb24e;">インペロ：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''その計画……偉いインペロは気に入った<br>
+'''''<span style="color:black;">（选择项4）</span>'''''じゃあ、戻ってからは慎重に動きなさい。私からの連絡を待って……そして一緒に総監を倒しましょう<br>
+<br>
+あなたは異様に和やかで熱烈な雰囲気の中、警察機構本部へと帰路についた。<br>
+移動中、インペロ本部長からの極秘連絡を受け取った。<br>
+彼女のおかげで、あなたは曖昧かつ巧妙な報告で今回の捜査を無難に締めくくった。<br>
+その後、インペロ本部長との密な協力のもと、あなたは青葉総監の莫大な財産が出所不明である証拠を掴んだ。<br>
+青葉は総監を解任されて逮捕。後任には、インペロが正式に任命された。<br>
+新総監との「特別な関係」によって、あなたは破竹の勢いで出世していった。<br>
+わずか三年足らずで次なる本部長の座へと昇りつめたのである。<br>
+素晴らしい日々が続いていく――<br>
+「世界が終わるその日まで――人生は美しい」<br>
+「――ネオンシティの探索者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''カットぉー！にゃ！<br>
+<span style="color:#4eb24e;">ナレーション：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''「潜伏者は…監督だ！」――あなたは自らの調査結果として、そう宣言した。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''…………<br>
+'''''<span style="color:black;">（选择项5）</span>'''''監督が潜伏者？本気でそう言ってるのですか？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――ああ、至って本気だ<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――ここ数日の撮影を通して、既に脚本に隠されたダークな展開を完全に把握した……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――そして、シナリオ通りに動けば、誰を「潜伏者」として指摘すべきかも分かってる<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――だが……自分は、誰一人として告発したくない<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――どうしても潜伏者を挙げろと言うのなら……その潜伏者は、監督の明石だ！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''にゃ～！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''NGにゃ！NGだにゃああ！！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――ふふ……何の準備もしてないとでも思っているのか？<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――明石監督！この映画はもう、監督だけのものじゃない！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''……にゃ？指揮官、それどういう意味にゃ？<br>
+<span style="color:#4eb24e;">雷：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''なるほどね！つまりこの映画は第四の壁をぶち壊して、超展開に突入するってことね！<br>
+<span style="color:#4eb24e;">電：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''世界観も大きく広がって、もっと豊かな設定が追加されます<br>
+<span style="color:#4eb24e;">グアム：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''同じキャスト、同じ舞台、それでもまったく違う脚本――そういうのも面白いでしょ～？<br>
+<span style="color:#4eb24e;">海天：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''実はもう脚本を構想してあるんです。私に任せてください<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''カットもいっぱい追加しようよ！大冒険の要素もどんどん入れてさ！<br>
+<span style="color:#4eb24e;">ボルチモア：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''特撮、激アツ格闘技、それとバイクのカーチェイスも！<br>
+<span style="color:#4eb24e;">リノ：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''スーパーヒーロー要素を入れるのもいいかも～！<br>
+<span style="color:#4eb24e;">リュッツォウ：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''吸血鬼の要素に一票～！<br>
+<span style="color:#4eb24e;">ヌビアン：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''がるるる……異世界冒険の要素も欠かせないわ<br>
+<span style="color:#4eb24e;">綾波：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''綾波……準備完了です<br>
+<span style="color:#4eb24e;">ジャベリン：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''伝説の勇者チームが――<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''――再び集結します！<br>
+<span style="color:#4eb24e;">ラフィー：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''すぅ……zZZZZ<br>
+<span style="color:#4eb24e;">キーロフ：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''刑事ドラマの部分も強化しよう。もっと派手なシーンを追加して国際色豊かに！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''これって……いったい……なんだにゃ……？<br>
+'''''<span style="color:black;">（选择项5）</span>'''''明石の映画が……明石の映画が……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''なんか……面白くなりそうな気がするにゃ……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――それじゃあ早速追加撮影を始めようか！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――アクションッ！<br>
+<br>
+そして――映画の撮影がすべて終了した。<br>
+<span style="color:#4eb24e;">明石：</span><br>
+ふふふ、オールアップにゃ！みんなお疲れ様だにゃ！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+もう終わり？もっと指揮官と遊びたかったのに～！<br>
+<span style="color:#4eb24e;">アドミラル・ツェンカー：</span><br>
+撮影中ずっと緊張してました……やっぱりもっと予備プランを準備しないと……<br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
+指揮官、撮影お疲れ様！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――メンフィス、ちょうどいいところに来たな。実は聞きたいことが…<br>
+<span style="color:#4eb24e;">メンフィス：</span><br>
+ん？なに？<br>
+<br>
+'''''<span style="color:black;">选择项1：メンフィスが、潜伏者だったりする？</span>'''''<br>
+<br>
+ええええええええええ————っ！？！？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
