@@ -1,0 +1,1752 @@
+== 領洋者養成計劃 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=全新的養成計畫！|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+港區·指揮室<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「養成計畫」……？不是已經告一段落了嗎？<br>
+<br>
+看著放在辦公桌上的企劃書，有些不解地向領航員-TB進行確認。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+確認。此企劃實際內容與先前的養成計畫並無衝突。<br>
+分析顯示，將標題修改為「養成計畫2.0」會更準確。<br>
+我將重新列印修正後的企劃書，並聯絡明石同步相關修改。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+同步明石？這是明石做的企劃嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+同步明石？這是明石做的企劃嗎？<br>
+補充說明：她是接受了我的委託才參與合作。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？<br>
+<br>
+就在我準備追問TB時，另一道熟悉的嗓音響了起來。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+明石剛剛好像聽到有人在呼喚我的名字喵~<br>
+<br>
+方才被提到名字的綠頭貓咪適時地出現在指揮室中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳又是何時來的……<br>
+算了，不重要。<br>
+既然妳們都在，不如就直接跟我講講為什麼會有這份企劃吧？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+答：作為養成計畫的實際對象，我從先前的數據中獲得了非常多寶貴的認知。<br>
+因此，我認為指揮官身上的親和力、責任感等優秀特質，還能發揮更多價值。<br>
+但，指揮官對「我」進行重複培養，幫我尋找「個性」的行為……<br>
+我能夠從中獲得的，始終侷限於指揮官這份從無到有的培養過程內容。<br>
+雖然每次都有所不同，但資料收集過程已接近極限，即將產生邊際遞減效應。<br>
+這樣一來，在理解「個性」這件事上，我將無法獲得更多進展。<br>
+因此，我向明石請求協助處理了這份企劃。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+用更通俗的方式來解釋就是領航員小姐的學習到了瓶頸期喵~需要更多新數據喵~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+但繼續培養TB，不還是無法突破瓶頸期嗎？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+哎呀，這個就是這份全新企劃的重點所在喵~我們要換培養對象喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+港區的人工智慧不是只有TB一個嗎……還能培養誰？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+當然是領洋者了喵~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……為什麼是領洋者？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+那當然是因為她有十足的培養潛力了喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+雖然不知道這個判斷標準是怎麼來的……但她不是沒有心智嗎？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵呼呼~這個問題交給領航員小姐就能輕鬆解決喵。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+基於歷史紀錄分析、港區同伴們的問卷統計，以及明石提供的建議參數……<br>
+我已完成領洋者的基礎性格建模。<br>
+如果指揮官同意的話，只需要明石將基礎性格的資料上傳到終端內即可。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，如果已經設定了基礎性格，還有什麼培養的必要嗎？<br>
+這樣一來的話，不是已經具備「個性」了嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+確實如此。但我也想了解，已存在的個性，是否會因培養和引導而改變。<br>
+以及，如果發生改變，會呈現怎樣的結果。<br>
+這對我的學習很有價值。<br>
+當然，是否繼續推進，需要由指揮官決定。我只是提出了「請求」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（請求……TB以前都不會使用這個字。）<br>
+（或許這也可以視為培養「個性」對她頗有幫助的結果？）<br>
+既然是TB的請求……那試試看也未嘗不可。<br>
+流程上還跟之前一樣嗎？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+會再簡化一些喵~<br>
+畢竟和領航員小姐的情況不一樣嘛，已經有性格數據的情況下很多流程就可以省略掉了喵。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……那在正式開始推進之前，我還有一件事要確認。<br>
+這個「養成計畫」，之後還會再繼續拓展嗎？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+答案是不確定。目前的培養可能無法提供足夠的數據來突破瓶頸。<br>
+不過指揮官可以放心，資料庫中還儲備了充足的數據，後續可以繼續進行人格模擬。<br>
+如果2.0計畫的數據不足，我們可以繼續推進3.0、4.0……以此類推。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……總覺得自己要擁有豐富的「育兒經驗」了。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+這種語氣和語境，我可以理解為這是一種「調侃」的情緒。<br>
+根據已有的個性學習資料，我應該做出相對應的情緒反應。<br>
+哈、哈、哈。<br>
+<br>
+人工智慧少女發出了不帶感情色彩的笑聲。<br>
+但對她來說，這已經是非常大的進步了，不是嗎？<br>
+在企劃書末頁簽下名字後，明石立刻將其抽走抱到了懷裡。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵呼呼~那接下來的準備工作就交給明石吧喵！<br>
+這次只是做些調整和修改，再加上領航員小姐幫忙，很快就能搞定的喵~<br>
+就破例不收指揮官費用了~就當附贈的殺必死喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=補充說明中！|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+港區·指揮室<br>
+距離上次明石說很快就能搞定之後，又過了五天。<br>
+就在一邊確認著之後的行程，一邊調整計劃時，一個眼熟的裝置被放到了桌子上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是之前幫TB培養個性的時候用到的那個沉浸式終端機？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+沒錯喵~！裡面還是指揮官熟悉的那個夢幻小鎮喔~<br>
+啊對了，這次還有一點和之前有一點小小的差別喵。<br>
+領航員小姐想知道的是「言教」的影響嘛……<br>
+所以這次特意拜託了一些個性比較鮮明的夥伴來幫忙。<br>
+指揮官到時候可以在小鎮拜訪她們喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……拜訪？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+等到功能開放的時候指揮官自然就知道喵了！<br>
+總之快把終端戴上吧！別讓本次的培養對象等急了喵！<br>
+<br>
+點點頭將終端戴上後，明石舉著電腦走到了我面前。<br>
+螢幕上的TB對我點了點頭。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+系統確認：本次培養對象已設定完成。目標對象：領洋者-娜比婭。<br>
+執行請求：將培養任務移交指揮官。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。<br>
+<br>
+在又一陣熟悉的炫目白光閃過之後——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=初次見面……？|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+眼前的景象恢復了清晰。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+居然重新又設計了一套房間嗎……<br>
+<br>
+在環顧四周，確認一切都是全新佈置過的之後，我坐在沙發上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（娜比婭嗎……有趣的名字。）<br>
+（從無個性的領洋者，到有性格的娜比婭……）<br>
+（不知道TB為她設定的基礎性格建模是什麼樣子，等下又該對她說些什麼好。）<br>
+<br>
+就在思考著該使用怎樣的開場白時，房門前傳來了輕微的響聲。<br>
+伴隨著門被推開的聲音，一道小小的身影出現在了房間門口。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼~原來你就是來照顧我的笨蛋大人？<br>
+初次見面，以後請多關照咯~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+初次見面……<br>
+（看來具備基礎的認知和語言能力，在這方面倒是不需要額外教導了。）<br>
+（真厲害的技術啊……這麼一看，港區的人工智慧要實現從1到2的突破了嗎。）<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+你這是什麼語氣和表情嘛？整個人也呆頭呆腦的，一點也不聰明……<br>
+算了，要好好感謝我願意讓你照顧我才對哦♪<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原來是這種性格嗎……<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+怎麼，笨蛋大人不服氣？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+（算了，現在的她也只是還未經引導的小孩罷了。）<br>
+（今後會成長為什麼模樣，還說不準呢。）<br>
+<br>
+想到這裡，對著眼前的小小身影伸出了手。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭，歡迎回家。<br>
+<br>
+小小的手朝我伸來，隨即握緊。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼~以後我也要多擔心你這麼廢柴大人了呢~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=稱呼的管道·上|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+娜比婭在家中「巡視」了一圈後，滿意地來到了沙發上坐下。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+喔~笨蛋大人把房間收拾得還不錯呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就一定要這樣叫我嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+也不是。<br>
+只是不管叫「喂」還是「監護人」都很沒有針對性。<br>
+笨蛋大人就很明確~<br>
+不過笨蛋大人要是想換一個稱呼，我也可以勉為其難地同意哦。<br>
+就讓你選一個方便使喚的代號吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=稱呼的管道·下|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">娜比婭：</span><br>
+喔~原來如此，想讓我用{tb}這個稱呼來呼叫你啊。<br>
+那就這樣了，{tb}~<br>
+<br>
+就這樣，和她相處的生活正式拉開了帷幕——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=她的另一面|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+秉持著音樂能豐富內心的想法，我送給了娜比婭一套耳機和播放器<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸~居然幫我準備禮物了？{tb}這個笨蛋居然也知道要討好我嘛♪<br>
+哼~看在你這麼誠心的份上，就勉強收下好了，要好好感謝我的大恩大德哦？<br>
+<br>
+明明是收禮物的一方，但娜比婭卻是一副理所應當的口吻。<br>
+<br>
+'''''<span style="color:black;">选择项1：這種時候應該要說謝謝</span>'''''<br>
+'''''<span style="color:black;">选择项2：隨便她吧</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這種時候應該老實說謝謝才對吧。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哼。還要我說謝謝嗎？{tb}真會得寸進尺。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''真是的……這麼想聽我說那兩個字嗎？真是個麻煩的大人。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''算了算了~看在你這麼期待的份上……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……謝、謝謝啦，笨蛋！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（雖然是這個語氣，但她看起來還是挺開心的……）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（還是個口是心非的小孩子啊。算了，由她吧。）<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''喂喂~{tb}你這個笨蛋用那種眼神看我做什麼？把我當小孩嗎！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''真是的……！哼！<br>
+<br>
+大概是有些不好意思的緣故，娜比婭鼓起了臉頰。<br>
+這讓她還帶著幾分嬰兒肥的臉此刻看起來更加可愛，也讓我不自覺更放輕了口吻。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+差不多要到晚餐時間了……娜比婭想吃什麼？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼，{tb}這個笨蛋終於想起要幫我準備晚餐了？<br>
+只要是美味的東西我都可以勉強接受啦。不過要是難吃的話我可是會嫌棄的哦？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好好……那我就自由發揮了。<br>
+<br>
+之後用廚房裡現有的食材為娜比婭做了一頓晚餐後，我又回到指揮室處理剩餘的工作。<br>
+終於將工作處理完畢時，已是夜深。<br>
+稍微活動了一下有些僵硬的肩膀，想起了獨自一人的娜比婭。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……不知道她有沒有老實睡覺。先回去看看吧。<br>
+<br>
+深夜小鎮房間<br>
+在漆黑一片的房間中，從娜比婭的臥室門縫中透出的一絲光亮格外顯眼。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（門沒關又開燈……是怕黑不敢睡嗎……？）<br>
+<br>
+走近她的臥室，抬手敲了敲虛掩的門。<br>
+並沒有得到回應。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯？難道是開著燈睡著了……？還是進去看看了。）<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……♪<br>
+<br>
+在一眾玩具的包圍之中，娜比婭正戴著耳機，雙腳隨著音樂的節奏而晃動。<br>
+儼然是一副沉浸其中的模樣。<br>
+然而她卻不經意地抬頭，發現我的到來後，表情立刻變得有些慌亂。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……？！誰叫你突然進來的啊？！哼！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我敲過門，大概是因為妳戴著耳機所以沒聽到？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+耳機……不、不要誤會了啊！我才不是因為喜歡才聽的呢！<br>
+只、只不過是因為……你送的東西如果不聽一下的話你也太可憐了……<br>
+所以勉為其難聽聽而已……笨蛋！<br>
+<br>
+娜比婭嘟囔著收起了耳機，從地毯上站起身來。<br>
+看著這樣明顯有些不好意思的娜比婭，我決定——<br>
+<br>
+'''''<span style="color:black;">选择项1：摸摸她的頭</span>'''''<br>
+'''''<span style="color:black;">选择项2：提醒她睡覺時間到</span>'''''<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''抬手摸了摸娜比婭的頭。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''幹嘛啦！……真是的！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''竟然把人家的頭髮都弄亂了，笨蛋！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''好好好，下次不這樣了。不過現在時間很晚了，妳該去睡覺了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''我、我又不是真的什麼都不懂的小孩！不用你管……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……不過既然你都這麼說了，那我就勉為其難地去睡好了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''明天再聽吧？現在已經很晚了，妳該睡覺了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哼！才不用你管呢！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''算了！既然{tb}這個笨蛋都這麼求我了，那我就勉為其難地去睡好了！<br>
+<br>
+娜比婭說著，爬到了床上，然後鑽進了被子裡。<br>
+為她將被子掖好後，我關上了她臥室中的燈，房間頓時被黑暗籠罩。<br>
+只有一抹月光透過窗簾，灑在她的床榻上。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼……這種時候不說點什麼嗎？{tb}真是個笨蛋。<br>
+不說晚安的話，人家可是會生氣的哦？<br>
+<br>
+她小聲說。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+而且要是我做惡夢的話，那就都是你的責任！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+晚安，娜比婭。做個好夢。<br>
+<br>
+無奈地搖了搖頭後，我輕手輕腳地退出了她的臥室。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=新的愛好？ I|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+雖然這段時間一直都在讓娜比婭在上符合她現階段認知和思維的課程，但……<br>
+學習知識其實對她的個性影響不大？非要說的話，成長得更多的是智慧。<br>
+看了一眼坐在客廳沙發上晃著腿吃點心的娜比婭，我再度陷入思考。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（在這個階段，讓她再隨心所欲一些比較好吧？）<br>
+<br>
+想做什麼就做什麼，然後再在適當的環節加以引導。<br>
+不過……還是先問問她本人有什麼喜歡的、想做的吧。<br>
+在詢問了娜比婭的意見後，陪她到了商業街的玩具店。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+喂喂，{tb}！這個、這個……啊，那邊那個看起來更不錯！我全~部~都要！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+確定要這麼多……？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哈？雜魚{tb}該不會以為只用一個破玩具就能打發人家吧？真是太天真了呢～<br>
+還是說……<br>
+<br>
+她突然雙手叉腰，用憐憫的眼神看著我。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+難道{tb}這個廢柴連這點錢都出不起？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+好吧好吧，看在你這麼可憐的份上，我大發慈悲勉強接受少一點也行哦？<br>
+要感謝我的體貼才對！<br>
+<br>
+無視了她的囂張言行，我將她之前提到的幾個玩具放在她面前一一排列好。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+選一個。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+只能選一個？{tb}你這個小氣鬼！我不管我就要！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我說，選一個。<br>
+<br>
+見我依舊毫不動搖，她的氣勢頓時弱了下來。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗚……好啦好啦！人家就勉強選一個啦！<br>
+只是覺得其他的玩具看起來也沒那麼好玩了而已！知道了嗎，笨蛋{tb}！<br>
+<br>
+說著，她快速抓起了最開始就一直在偷瞄的那個玩具塞進了我懷裡。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+還不快付款！<br>
+<br>
+付完款後。一回到家中，娜比婭就迫不及待地拆開了新買的玩具。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+敵機出現！全彈發射！噠噠噠噠噠！<br>
+<br>
+她模仿炮彈的聲音，讓玩具在空中翻轉騰挪。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+咦？等等……好像還可以這樣！<br>
+變形合體！新形態啟動！欸嘿嘿～<br>
+<br>
+只見她雙手一用力，把玩具直接拆成了兩半。<br>
+而她舉著變成兩半的玩具，滿臉都是純粹的快樂。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼~！{tb}你看好了！這就是我想到的究極奧義——分裂攻擊模式！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<br>
+好吧，看來兩天又要買新玩具了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=新的愛好？ II|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+雖然這段時間一直都在讓娜比婭在上符合她現階段認知和思維的課程，但……<br>
+學習知識其實對她的個性影響不大？非要說的話，成長得更多的是智慧。<br>
+看了一眼坐在客廳沙發上晃著腿吃點心的娜比婭，我再度陷入思考。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（在這個階段，讓她再隨心所欲一些比較好吧？）<br>
+<br>
+想做什麼就做什麼，然後再在適當的環節加以引導。<br>
+不過……還是先問問她本人有什麼喜歡的、想做的吧。<br>
+在詢問了娜比婭的意見後，陪她到了商業街的書店。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+確定看得完這些嗎……？<br>
+<br>
+望著懷中高高摞起的書堆，有些無奈地看向娜比婭。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗯。在這件事上{tb}可以相信我哦~我會認真看完每一本的。<br>
+<br>
+她用手握著我的衣角，揚起一個笑臉。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那個……這次可以請{tb}幫忙付款嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+因為我想著……以後買書的話，可以用自己存下的零用錢。<br>
+但這次想要的書很多，零用錢還沒存夠。<br>
+{tb}平常也很辛苦，我也不想總是讓{tb}操心我。所以……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（意外地很懂事啊……）<br>
+沒關係，以後想要什麼都可以直接跟我說，不算什麼。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}真是溫柔呢……謝謝你啦。<br>
+<br>
+付完款後。一回到家中，娜比婭便去換上了家居服，安靜地坐到沙發上開始閱讀。<br>
+房間裡暖黃色的燈光灑落在她身上，為她鍍上一層柔和的光暈。<br>
+她把一本精裝的童話書抱在懷中，微微低著頭專注地閱讀著。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊……這一段寫得真好~<br>
+<br>
+她不自覺地露出了甜美的微笑，像是完全沉浸在故事中。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}要不要也一起來看呢？故事的內容真的很有趣。<br>
+不過還有些比較難認的字我看不懂……需要你幫我講解啦。<br>
+<br>
+她抬起頭，眼睛閃爍著愉悅的光芒。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=去室外運動吧！ I|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「戶外遊戲是必不可少的一項運動。有效利用戶外時間，可以鍛鍊平衡能力、協調能力……」<br>
+<br>
+合上從圖書館深處找到的教育類藏書，我揉了揉眉心。<br>
+以娜比婭現階段呈現的個性來說，她也並不抗拒「出去玩」這件事。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+戶外運動嗎……確實是個不錯的選擇。<br>
+<br>
+想到這裡，我再度戴上了終端機。<br>
+在熟悉的白光閃過後，回到了小鎮的家。<br>
+簡單做了些準備之後，我便帶著娜比婭出發去戶外運動。<br>
+接力棒被娜比婭緊握在手中，終點線前，她嘴角的弧度微微上揚，帶著有些囂張的笑意。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+看到了嗎？{tb}，人家可是以絕對優勢獲勝的哦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+幹得漂亮，娜比婭。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼～這種程度的比賽對我來說根本就是小菜一碟啦！<br>
+<br>
+她得意地晃了晃手中的接力棒。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這可是理所當然的勝利呢～反正以{tb}的廢柴體能肯定做不到吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這算是激將法嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+什麼激將法！我可都是實話實說！<br>
+像你這樣每天工作個不停的人，體能一定差得要命吧？廢柴～廢柴～廢柴～<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那要不要來試試看？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸？{tb}要跟我比賽嗎？<br>
+哼哼~溫馨提示，你現在提前認輸還來得及哦？<br>
+<br>
+最後，我們就這樣打打鬧鬧、賽著跑地踏上了回家的路。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=去室外運動吧！ II|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「戶外遊戲是必不可少的一項運動。有效利用戶外時間，可以鍛鍊平衡能力、協調能力……」<br>
+<br>
+合上從圖書館深處找到的教育類藏書，我揉了揉眉心。<br>
+以娜比婭現階段呈現的個性來說，她也不抗拒「出去玩」這件事。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+戶外運動嗎……確實是個不錯的選擇。<br>
+<br>
+想到這裡，我再度戴上了終端機。<br>
+在熟悉的白光閃過後，回到了小鎮的家。<br>
+簡單做了些準備之後，我便帶著娜比婭出發去戶外運動。<br>
+午後的陽光照耀著這片農場中的小花園。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗯……這樣一來就好啦！<br>
+<br>
+她小心翼翼地把剛剛培好的泥土拍實，怕弄壞了新種下的花。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}！你回來得正好哦。<br>
+在你去幫我買飲料的時候，我把它種好了呢。<br>
+<br>
+注意到我的到來，她立刻揚起了笑臉，臉頰上還沾著一點不知何時蹭上的泥土。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒想到，種花才是娜比婭想要的戶外運動。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸嘿嘿~因為這裡也是室外哦。<br>
+而且種花也要挖土、搬花盆，所以也算運動呢~<br>
+對了對了！我想以後好好照顧它，所以就只能拜託{tb}多帶我來農場玩啦。<br>
+要一起來看它長大~<br>
+<br>
+和娜比婭拉勾做好約定之後，悠閒地踏上了回家的路。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=課餘生活？ I|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+最近娜比婭在學習上越發勤勉，即便是放學，也總說要留在學校自習。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（不過她真的應該有這麼繁重的學業嗎……）<br>
+（之後還是跟明石還有TB聊一下，適度做點調整會比較好吧？）<br>
+<br>
+嘆了一口氣，我看向了牆面上掛著的時鐘。<br>
+再過一陣子娜比婭就該回家了。<br>
+看在她最近這麼努力的份上，今天就做些她愛吃的東西犒勞她一下吧。<br>
+購買食材時稍微繞了遠路，經過了鎮上的街機廳。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（說起來，街機廳到底是明石什麼時候加進來的來著？）<br>
+<br>
+好奇地向內張望了一眼，然後就看見了一道穿著校服的、熟悉的身影。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（娜比婭……？這時候她不是應該還在學校裡自習嗎？）<br>
+<br>
+'''''<span style="color:black;">选择项1：進去看看</span>'''''<br>
+'''''<span style="color:black;">选择项2：等她出來</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（嗯……站在這裡猶豫，不如直接進去看看。）<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''還是等她自己玩完了出來再說吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''透過玻璃門，能看到娜比婭完全沉浸在遊戲的世界。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（在這裡等著，反而顯得像在監視她……算了，還是直接進去吧。）<br>
+<br>
+推開門的瞬間，明亮的遊戲音效聲和此起彼落的電子音樂便將我包圍。<br>
+站在跳舞機前的少女專注地跟著箭頭的指示躍動著，汗水正沿著她的髮梢滑落。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭？<br>
+<br>
+完全沉浸在舞蹈中，沒有註意到身後動靜的娜比婭，猝不及防地轉過身來，<br>
+手中被她喝空捏扁的易拉罐都嚇得掉在地上了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+呀！？<br>
+{tb}？！你、你怎麼會在這裡！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+正巧路過罷了。<br>
+……妳最近的自習，莫非都是在街機廳度過的？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那、那個……其實是……<br>
+<br>
+她低著頭，用手握著自己校服外套的衣角扭著。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+其實課程內容我早就學會了……所以我就想著來這邊玩一下……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+為什麼不直接回家呢？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+因為……因為感覺{tb}最近工作很忙的樣子……<br>
+<br>
+她的聲音越來越小。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我要是回去的話，{tb}一定又會放下工作來陪我……所以……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原來是因為這樣……）<br>
+娜比婭。<br>
+妳的這些顧慮完全沒必要，陪妳對我來說從來都不是麻煩事。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+真的？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+當然。今天就先一起回家吧？回去給妳做妳愛吃的。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+可是……工作……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+工作的事不用擔心。無論多忙，我都會為妳空出時間的。<br>
+<br>
+聽我的話後，娜比婭終於抬起頭來，臉上重新綻放出了笑容。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那……那我們說好了！{tb}可不能反悔！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，說好了。<br>
+<br>
+牽起她的手，我們一起走出了街機廳。<br>
+夕陽的餘暉灑在我們的身上，拉長了歸家的影子。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=課餘生活？ II|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+最近娜比婭在學習上越發勤勉，即便是放學，也總說要留在學校自習。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（不過她真的應該有這麼繁重的學業嗎……）<br>
+（之後還是跟明石還有TB聊一下，適度做點調整會比較好吧？）<br>
+<br>
+嘆了一口氣，我看向了牆面上掛著的時鐘。<br>
+再過一陣子娜比婭就該回家了。<br>
+看在她最近這麼努力的份上，今天就做些她愛吃的東西犒勞她一下吧。<br>
+購買食材時稍微繞了遠路，經過了鎮上的街機廳。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（說起來，街機廳到底是明石什麼時候加進來的來著？）<br>
+<br>
+好奇地向內張望了一眼，然後就看見了一道穿著校服的、熟悉的身影。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（娜比婭……？這時候她不是應該還在學校裡自習嗎？）<br>
+<br>
+'''''<span style="color:black;">选择项1：進去看看</span>'''''<br>
+'''''<span style="color:black;">选择项2：等她出來</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''（嗯……站在這裡猶豫，不如直接進去看看。）<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''還是等她自己玩完了出來再說吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''透過玻璃門，能看到娜比婭完全沉浸在遊戲的世界。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（在這裡等著，反而顯得像在監視她……算了，還是直接進去吧。）<br>
+<br>
+推開門的瞬間，明亮的遊戲音效聲和此起彼落的電子音樂便將我包圍。<br>
+站在跳舞機前的少女專注地跟著箭頭的指示躍動著，汗水正沿著她的髮梢滑落。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭？<br>
+<br>
+完全沉浸在舞蹈中，沒有註意到身後動靜的娜比婭，猝不及防地轉過身來，<br>
+手中被她喝空捏扁的易拉罐都嚇得掉在地上了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+呀！？<br>
+{tb}？！你、你怎麼會在這裡！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+正巧路過罷了。<br>
+……妳最近的自習，莫非都是在街機廳度過的？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那、那個……其實是……<br>
+<br>
+她低著頭，用手握著自己校服外套的衣角扭著。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+其實課程內容我早就學會了……所以我就想著來這邊玩一下……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+為什麼不直接回家呢？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+因為……因為感覺{tb}最近工作很忙的樣子……<br>
+<br>
+她的聲音越來越小。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我要是回去的話，{tb}一定又會放下工作來陪我……所以……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原來是因為這樣……）<br>
+娜比婭。<br>
+妳的這些顧慮完全沒必要，陪妳對我來說從來都不是麻煩事。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+真的？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+當然。今天就先一起回家吧？回去給妳做妳愛吃的。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+可是……工作……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+工作的事不用擔心。無論多忙，我都會為妳空出時間的。<br>
+<br>
+聽我的話後，娜比婭終於抬起頭來，臉上重新綻放出了笑容。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那……那我們說好了！{tb}可不能反悔！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，說好了。<br>
+<br>
+牽起她的手，我們一起走出了街機廳。<br>
+夕陽的餘暉灑在我們的身上，拉長了歸家的影子。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=充實的陪伴時光！ I|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+自從那天在街機廳的偶遇後，已經又過了一段時間。<br>
+雖然約定好了要多花時間在一起，但今天難得有空，她卻只是待在房間裡發呆。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（說好要多陪陪她的，但就這樣一直在房間裡也不是辦法。）<br>
+（還是提議帶她出門比較好。）<br>
+對了，娜比婭。現在這個天氣也合適……要不要去游泳？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊？為什麼突然說這個？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+之前看妳在街機廳跳舞的時候，動作有些手忙腳亂的。<br>
+多游泳可以幫助提升身體協調性和彈性。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哈？{tb}這是在小看我嗎？<br>
+<br>
+她雙手叉腰，一臉不服氣。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+明明自己都不太靈活，還來指點別人！而且游泳哪有跳舞機好玩嘛！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那這樣吧，我們來比一場。<br>
+如果妳贏了，我就陪妳玩一個禮拜的跳舞機。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+什麼嘛，才一個禮拜？起碼也得半個月吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好啊，不過前提是——妳得先游得過我才行。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那還不簡單！你就等著輸吧！<br>
+<br>
+之後和娜比婭來到了泳池游泳<br>
+雖然娜比婭的泳姿很是標準，動作也很流暢，但最後還是輸給了我這個成年人的體格優勢。<br>
+剛爬上岸邊，娜比婭就跪趴在那裡，水珠順著她的手臂和衣物不住滑落。<br>
+雖然很是狼狽，但娜比婭還是得意洋洋地抬起頭，一副勝券在握的模樣。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我輸了……但是{tb}肯定還是會陪我去玩的，對吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……確實。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼~就知道沒用的{tb}最後肯定還是會服軟的啦！<br>
+<br>
+她挑釁般地揚起了下巴，滿臉都寫著「果然如我所料」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那算了，不去了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸？！不行不行！我、我錯了嘛……<br>
+<br>
+她的囂張氣焰立刻消失得無影無蹤，換上了可憐巴巴的表情。<br>
+那之後，換好了乾淨衣物，和娜比婭在街機廳玩了一整個下午。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=充實的陪伴時光！ II|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+自從那天在街機廳的偶遇後，已經又過了一段時間。<br>
+雖然約定好了要多花時間在一起，但今天難得有空，她卻只是待在房間裡發呆。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（說好要多陪陪她的，但就這樣一直在房間裡也不是辦法。）<br>
+（還是提議帶她出門比較好。）<br>
+對了，娜比婭。現在這個天氣也合適……要不要一起去農場玩？<br>
+我看農場的宣傳推廣，最近可以體驗手工木雕和製作花圈。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+真的嗎？聽起來很有趣。<br>
+<br>
+她的眼睛一下子亮了起來。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那我們現在就出發吧~<br>
+<br>
+農場工坊內，陽光溫柔地灑在木工台上。<br>
+而娜比婭她正小心翼翼地雕刻手中的木塊。即使不太順利，也依然認真。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}……那個……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+怎麼了？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我有點想吃冰淇淋了。<br>
+來的時候我看到農場的甜點店有口味限定的冰淇淋，可以麻煩你去買一下嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+可以是可以，不過店離這裡還有點距離，會化吧？<br>
+不如一起去？吃現場的不是更好嗎。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+但是但是……我今天就想任性一下嘛。<br>
+<br>
+她眨著眼睛，露出了撒嬌的表情。<br>
+無法抵擋娜比婭的撒嬌攻勢，我毫無怨言地去買了冰淇淋回來。<br>
+當我拿著冰淇淋回到工作坊時，映入眼簾的是一幅難忘的畫面。<br>
+娜比婭站在門口，用雙手舉著一個顯然是精心編織過的花環。<br>
+空氣中的細小塵埃被陽光照出金色，圍繞在她身邊。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}，你看……<br>
+<br>
+她露出溫柔的笑容，小心翼翼地展示手中的作品。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這是……感謝{tb}一直以來照顧我的一點心意哦。<br>
+雖然做得不是很好……不過能和{tb}一起度過這樣的下午，我很開心喔。<br>
+<br>
+之後，和娜比婭一起在桌前享用著快化了的冰淇淋，然後完成了剩餘的木雕。<br>
+而她親手製作的花環，則是在進行了一些處理後，被我小心地放進了透明盒中收藏。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=平衡大師？|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+最近，娜比婭有點愛上了運動。<br>
+不過與其說是運動，不如說她迷上了那些能展現靈巧和控制力的訓練。<br>
+力量型和有氧運動她總是興致缺缺，反而對那些鍛鍊核心和平衡的項目格外熱衷。<br>
+今天下午，我又被她拉著去了附近的健身房。<br>
+此刻，娜比婭正穩穩地坐在瑜珈球上，雙腳離地，全靠核心力量維持平衡。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}！現在過去多久了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+48秒了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼~這次一定要破上次的紀錄！<br>
+<br>
+她一邊維持著平衡，一邊忍不住想要炫耀似的晃了晃身子。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+小心，別掉下去了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+才不會呢！人家可是——哇啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭！<br>
+<br>
+她發出一聲驚叫，然後一個踉蹌從瑜珈球上滾了下來。<br>
+而我並沒有來得及接住她。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗚……痛痛痛……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒事吧？摔得要不要緊？<br>
+<br>
+我伸手要去扶娜比婭，卻被她推開了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+沒事啦。而且都怪{tb}！要不是你分散我的注意力的話……<br>
+哼！剛才的紀錄不算，我要重新開始！這次一定要創造新紀錄！<br>
+<br>
+之後又在健身房耗了將近一個小時，才收拾東西回家。<br>
+在回家的路上，娜比婭還在念著下次一定要突破今天的新紀錄。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=整理舊物|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+大掃除時，從房間的角落翻出了一個塵封的盒子。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+咦……這是之前{tb}送給我的遙控車玩具。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我記得是壞掉了吧。當時想丟掉來著找不到了，正好，這次拿去丟掉。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+唔，{tb}送給我的禮物……直接丟掉也太可惜了呢。<br>
+我想試試能不能修好它，可以嗎？正好學校裡最近有教。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+學校還教這個……？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+老師說可以透過這種方式培養思考和動手解決問題的能力。<br>
+說不定以後還可以做出厲害的發明哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+思維和動手能力都挺有道理，至於發明嗎……<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+反正家裡也有工具間，讓我試試看嘛。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好，我去拿點喝的和零食來？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗯！那就拜託{tb}啦。<br>
+<br>
+片刻後，當我端著零食和飲料回來時，娜比婭已經換上了一身行頭。<br>
+她穿著一身工裝，戴著護目鏡，認真地站在工作台前。<br>
+可能是剛剛一直專注地擺弄著零件，她的臉頰上不知何時蹭上了幾道機油印記。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊，{tb}回來啦。<br>
+老師說做這種事的時候要穿得方便一點。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+裝備倒是還挺齊全的。<br>
+不過還是要小心別傷到自己。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+放心啦，不會的。<br>
+<br>
+將飲料和零食放下後，我在一旁陪著娜比婭進行修理工作。<br>
+最後在娜比婭的努力下，玩具被修好了。<br>
+在我將它仔細擦拭乾淨後，娜比婭鄭重地把它放進了自己的珍藏箱中。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=球場交鋒|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+又是一個被娜比婭「拽」出門運動的日子。<br>
+雖然她提議時的口吻一如既往地彆扭，但其中關心的意味卻越來越明顯了。<br>
+來到網球場後，我們很快就熱身完畢，開始了正式的對打。<br>
+經過半小時的激烈運動後，她的呼吸明顯變得急促起來。<br>
+網球服的上衣被她的汗水浸透，緊緊貼在身上。<br>
+她隨手抓起網球服的衣角，擦拭著臉上細細的汗珠。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+暫停休息一下吧？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+呼……呼……才打這麼一下就不行了？<br>
+看來某人平時果然是太缺乏運動了呢～<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+說這話的人自己都快喘不上氣了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼！這、這種程度根本不算什麼！<br>
+<br>
+她甩了甩被汗水打濕的髮梢，故作輕鬆地說著。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+休息時間結束！快點繼續啦！<br>
+<br>
+在網球場中揮灑汗水的一個下午很快就過去了。<br>
+夕陽西下時，我們收拾好裝備準備回家。<br>
+看著娜比婭疲憊卻滿足的側臉，我想，這樣度過一天其實也不錯。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=少女心事？|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+當港區的繁忙工作終於告一段落時，又是深夜。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（呼……希望娜比婭今天沒有熬夜看小說。）<br>
+<br>
+在發現娜比婭的不良習慣後，我就和她談過話了，雖然她保證不會再偷偷看小說，但……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（還是回去看一眼吧。）<br>
+<br>
+戴上終端機回去後，果然看到了她房間的門縫中透出的微弱的光。<br>
+輕輕敲了兩下門，卻發現門並沒有關好。<br>
+手掌不經意地一碰，門便緩緩打開了。<br>
+娜比婭穿著睡衣坐在書桌前，正專注地在一本厚厚的本子上寫著什麼。<br>
+桌上零散地撕下了幾張紙，藉著檯燈的光，能看到上面密密麻麻的字跡。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}？我以為你今天不回來了……<br>
+啊，我不是看小說……我只是……<br>
+<br>
+她慌忙用手去遮擋本子上的內容，臉上泛起了淡淡的紅暈。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這麼晚了還不睡，在寫什麼呢？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那、那個……就是……<br>
+<br>
+雖然她用手蓋住了大部分的內容，但是我從一旁撕下的紙張上瞥見了內容。<br>
+——紀錄的是和我相處的點點滴滴，字跡工整，還畫著可愛的小塗鴉。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我是在寫日記……不過我保證以後不會半夜偷偷寫了。<br>
+<br>
+她低著頭，小聲地做出了保證。<br>
+替她收拾散落的紙張，目送她乖乖鑽回被窩後。<br>
+我關掉檯燈，輕輕帶了她的房門。<br>
+月光從窗外灑落在她臥室門前的走廊上，為這個夜晚畫上一個平靜的句點。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=未來的方向I|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+不知不覺間，娜比婭已經到了該升學的階段。<br>
+看著她一天天長大，我不禁開始思考，自己是否盡到了引導她成長的責任。<br>
+今天是學期的最後一天，放學時間早就過了，但娜比婭卻遲遲沒有回來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（會不會又去街機廳了……）<br>
+<br>
+然而等我去街機廳的時候，並沒有找到娜比婭的身影。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（還是再去學校看看吧。）<br>
+<br>
+夕陽的餘暉透過窗戶灑在教室裡。<br>
+娜比婭坐在座位上，咬著筆尖，望著窗外發呆。<br>
+她面前的筆記本上的內容被她自己塗成一團，但依稀可以辨認出「未來規劃」幾個字。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原來妳在這裡。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊！你、你怎麼來了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+已經很晚了，看妳沒回家，我就來找妳了。<br>
+是遇到了什麼難題嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+才不是。<br>
+只是在想上課的內容，就是什麼未來啊、理想啊之類的……<br>
+<br>
+她無意識地用手指輕輕敲打著桌面，聲音漸漸低了下來。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……我不知道。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+慢慢來就好，不用急的。<br>
+不管妳選擇什麼，我都會支持妳的。<br>
+<br>
+我輕輕拍了拍她的肩膀。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+找到自己想要的道路需要時間，現在感到迷惘也很正常。<br>
+我會一直陪著妳，看著妳一步一步去嘗試，去探索。<br>
+總有一天，妳會找到屬於自己的答案。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……真的嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+當然，這是我對妳的承諾。<br>
+<br>
+娜比婭點了點頭，然後露出了一絲笑容。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那，我們先回去吃飯吧，我餓了！<br>
+<br>
+著她鬆了一口氣收拾書包的樣子，我不禁也笑了起來。<br>
+無論未來如何，我都會一直守護在她身邊，直到她找到自己的答案。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=未來的方向II|选项=20|主框=1|样式=primary|展开=是}}
+<br>
+不知不覺間，娜比婭已經到了該升學的階段。<br>
+看著她一天天長大，我不禁開始思考，自己是否盡到了引導她成長的責任。<br>
+今天是學期的最後一天，放學時間早就過了，但娜比婭卻遲遲沒有回來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（會不會又去街機廳了……）<br>
+<br>
+然而等我去街機廳的時候，並沒有找到娜比婭的身影。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（還是再去學校看看吧。）<br>
+<br>
+夕陽的餘暉透過窗戶灑在教室裡。<br>
+娜比婭坐在座位上，咬著筆尖，望著窗外發呆。<br>
+她面前的筆記本上的內容被她自己塗成一團，但依稀可以辨認出「未來規劃」幾個字。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+原來妳在這裡。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊！你、你怎麼來了？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+已經很晚了，看妳沒回家，我就來找妳了。<br>
+是遇到了什麼難題嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+才不是。<br>
+只是在想上課的內容，就是什麼未來啊、理想啊之類的……<br>
+<br>
+她無意識地用手指輕輕敲打著桌面，聲音漸漸低了下來。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……我不知道。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+慢慢來就好，不用急的。<br>
+不管妳選擇什麼，我都會支持妳的。<br>
+<br>
+我輕輕拍了拍她的肩膀。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+找到自己想要的道路需要時間，現在感到迷惘也很正常。<br>
+我會一直陪著妳，看著妳一步一步去嘗試，去探索。<br>
+總有一天，妳會找到屬於自己的答案。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……真的嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+當然，這是我對妳的承諾。<br>
+<br>
+娜比婭點了點頭，然後露出了一絲笑容。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那，我們先回去吃飯吧，我餓了！<br>
+<br>
+著她鬆了一口氣收拾書包的樣子，我不禁也笑了起來。<br>
+無論未來如何，我都會一直守護在她身邊，直到她找到自己的答案。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=良好的開始|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+升學之後，娜比婭的適應力出乎意料地好。<br>
+而且很快就迎來了學校的運動會。<br>
+雖然嘴上不說，但從這段時間一放學就去操場練習跑步就能看出來，她把比賽看得很重要。<br>
+運動會那天，娜比婭的表現果然很亮眼。<br>
+從起跑開始就一直保持領先，最後以明顯的優勢率先衝過終點線。<br>
+此刻的她正踩在頒獎台上，一手叉腰，一手得意地舉著金牌。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}，你看到了嗎？這就是實力的證明哦~<br>
+<br>
+她的眼神中閃爍著勝利的喜悅光芒。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+幹得漂亮。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這才只是開始呢！<br>
+之後我也會一直贏下去的喔~！<br>
+<br>
+陽光下，少女意氣風發的身影彷彿在發光。<br>
+果然，這才是最適合她的樣子。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=飲料風波|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+今天特地提早結束了工作，來接娜比婭放學。<br>
+不過雖說是「接」，但實際上少女一直在我身前不遠的地方走著。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……♪<br>
+<br>
+看著前面那個背影，在感慨她長大的同時，不知不覺就走得慢了下來。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+喂，{tb}！<br>
+走那麼慢，該不會是想像以前一樣牽著我的手走吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+啊？<br>
+<br>
+還來不及反駁，少女緊接著又開了口。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼，我都長大了，你還想牽手回家……{tb}還真是個笨蛋呢～<br>
+<br>
+正想著該如何回應，她已經在自動販賣機前停下了腳步。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+剛好有點渴了，我買瓶飲料。<br>
+<br>
+望著她站在機器前挑選飲料的身影，我的思緒又不自覺地飄向了工作上的事。<br>
+想著想著，就聽見她開始不耐煩地敲擊著玻璃的聲音。<br>
+正疑惑著發生了什麼，就見娜比婭突然向後退了一步。<br>
+娜比婭的右腳微微抬起，膝蓋彎曲。<br>
+隨後像踢足球一樣，腳尖朝上快速蹬出。<br>
+制服裙擺因為這個動作微微揚起，露出了白色的長襪。<br>
+砰——<br>
+清脆的撞擊聲和飲料的落地聲在安靜的街道上格外大聲。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這台機器也太差勁了吧！居然把飲料都卡住了！<br>
+欸~{tb}，你該不會被嚇到了吧？真是沒用呢。<br>
+<br>
+少女歪著頭，帶著惡作劇得逞般的笑容看著我。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+<br>
+我嘆了口氣，走上前檢查了一下自動販賣機。<br>
+確認機器沒有損壞後，正準備說教，卻見她已經拿著飲料往前走了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+快點跟上~！廢柴{tb}磨磨蹭蹭的，等下天都要黑了！<br>
+<br>
+看著她的背影，我也只能把到嘴邊的話吞了回去。<br>
+不過，以後不能再讓她這麼任性了。<br>
+……大概。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=創作之日|选项=23|主框=1|样式=primary|展开=是}}
+<br>
+前些日子，經過樂器店時注意到櫥窗裡擺著一把漂亮的吉他。<br>
+想起娜比婭常提到對音樂創作的憧憬，便買下它送給了娜比婭。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸？這個……是送給我的嗎？<br>
+<br>
+她小心翼翼地接過吉他，眼睛閃爍著驚喜的光芒。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯。不過對於入門來說會不會有點太難……？一般會用木吉他吧？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗯……說的也是呢，但是只要我努力的話，相信一定會沒問題的~<br>
+<br>
+從那以後，她的房間裡總是傳出斷斷續續的吉他練習聲。<br>
+只是每當想聽聽她的練習成果時——<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+還、還沒準備好，等我再練習一下……！<br>
+<br>
+她總是會這樣不好意思地推辭。<br>
+直到今天，工作提早結束回到家時。<br>
+推開門的瞬間，一段悠揚的旋律傳入耳中。<br>
+吉他聲中夾雜著她輕柔的哼唱，透過半掩的房門飄了出來——<br>
+房間裡，娜比婭穿著舒適的家居服，坐在電腦椅上。<br>
+她懷裡抱著那把吉他，身前架著麥克風，電腦上顯示著錄音軟體的介面。<br>
+聽到門響，她停下了演奏，抬起頭時露出了一絲驚訝。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊……被發現了……<br>
+<br>
+雖然臉頰有些泛紅，但這次她沒有像往常一樣推辭躲避。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+其實……這段時間我一直在練習寫歌。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+寫歌？已經能創作了嗎？<br>
+<br>
+她不好意思地點點頭，手指輕輕撥動琴弦。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+雖然是很簡單的旋律，但卻是我寫給你的。<br>
+我想給你個驚喜，所以一直都沒有說……<br>
+<br>
+那個午後，房間裡迴盪著她創作的旋律和她的歌聲。<br>
+這大概就是最珍貴的禮物了吧——少女用心譜寫的，只屬於一人的歌。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=美食的秘密配方|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+今天娜比婭突然說要下廚，這出乎意料的提議讓我有些驚訝。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+人家今天心情不錯，就大發慈悲地讓你嚐嚐我的手藝吧！<br>
+嗯哼~笨蛋{tb}就等著被我的料理征服好了。不過這本來也就是理所當然的事嘛~<br>
+<br>
+看著她難得主動的樣子，我也就點頭同意了。<br>
+陪她買完所有要用到的食材之後，一回到家，她便把我「趕」出了廚房，不准入內。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+不准偷看哦！要是敢進來的話……哼哼~<br>
+<br>
+無聊的我只能在客廳看書，直到廚房裡飄出一股難以形容的甜膩香氣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……這個味道，怎麼感覺有點不妙？<br>
+<br>
+出於不安，我無視了娜比婭的「禁令」，推開了廚房的門。<br>
+娜比婭正悠然自得地坐在料理台上，手裡握著一瓶散發著詭異粉色光芒的液體。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哎呀，這麼快就聞到香味了嗎？<br>
+<br>
+鍋子裡正冒著粉紅色的泡泡，正是散發出甜到膩的氣味的來源。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是什麼……？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這可是人家特~製~的秘密佐料哦~<br>
+是家政課上代課老師教給我的獨家配方呢♪<br>
+<br>
+她將手中試管中的最後一滴液體倒入鍋中，露出一抹危險的笑意。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}，等下你一定要全部吃完哦？<br>
+畢竟……這可是我專門為你準備的呢~<br>
+<br>
+最後那鍋加入了「秘密佐料」的食物突然凝固，變成了一團不明物質。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊……好可惜啊，明明還想看{tb}吃下去時的表情呢~<br>
+<br>
+看著她略顯失望的樣子，我暗自鬆了一口氣。<br>
+用剩下的蘿蔔和食材，我快速燉了一鍋素咖哩，有驚無險地解決了這頓飯。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=兩人的生活|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+週末的午後，我拎著購物袋回到了家。<br>
+除了日常用品，還買了娜比婭最近想吃的草莓蛋糕。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我回來了。<br>
+<br>
+推開門，映入眼簾的是令人心安的溫馨場景。<br>
+娜比婭站在客廳裡，專注地整理著洗好的衣物。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊，{tb}你回來了！辛苦啦。<br>
+<br>
+她向我投來溫柔的笑容，手上仍在細心地將衣物從籃子裡一件件取出。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+稍等我一下哦，我先把手上這件衣服疊好~<br>
+<br>
+她微微低頭，用手指輕輕撫平衣物的褶皺，動作輕柔而熟練。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+好了，現在就讓我幫你收拾東西吧~<br>
+<br>
+她將疊好的衣服放在一旁，輕快地接過我手中的購物袋。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸？這個是……草莓蛋糕……？<br>
+<br>
+她的眼睛一下子亮了起來，一臉驚喜地看著我。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我記得妳最近有提過想吃草莓蛋糕，我就買回來了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+沒想到{tb}會記得我隨口說過的事呢，呵呵……<br>
+<br>
+娜比婭突然停下手中的動作，雙手輕輕握在胸前。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我突然在想，這樣的生活，真的很幸福。<br>
+每天早上做好早餐，等你起床。然後我整理房間，洗好衣服……<br>
+和{tb}兩個人一起生活……總覺得很幸福。<br>
+如果，能一直這樣下去就好了呢……<br>
+<br>
+說到這裡，她似乎意識到了什麼，耳尖泛起淡淡的紅暈。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊！那、那個……我是說……！<br>
+<br>
+慌亂之中，她急忙低頭繼續整理起購物袋裡的東西。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這些都是因為要報答{tb}的照顧啦！請不要誤會哦~<br>
+<br>
+她小聲補充。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+畢竟……要好好照顧重要的人的心意，也是相互的呢。<br>
+<br>
+少女說著，嘴角浮現出一抹溫柔羞澀的笑容。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=深夜的努力|选项=26|主框=1|样式=primary|展开=是}}
+<br>
+夜深了，書房裡卻還亮著燈。<br>
+我敲了敲門，隔著一扇門和娜比婭對話<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭，這麼晚了怎麼還不睡？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼？這種事情還輪不到{tb}你來管吧？真是的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+唉……<br>
+<br>
+無奈之下，我推開了書房門。<br>
+房間裡只開著檯燈，偏暖色系的光線映照著娜比婭的身影。<br>
+她正一腳踏在椅子上，面前工作台上攤開著意味不明的設計圖。<br>
+那些零件設計雖然顯得粗糙，卻看得出來她畫得十分認真。<br>
+此刻的她握著筆，衣服正鬆鬆垮垮地掛在身上。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+果然是{tb}呢~就知道你一定會多管閒事地進來~<br>
+不過既然來了，就幫我看看這個設計怎麼樣呢？<br>
+……等等！我為什麼要讓你這種笨蛋來看啊！出去出去！<br>
+<br>
+不過她雖然嘴上說著要我出去，但其實並沒有要趕人的意思。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這麼認真是在畫什麼？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼~想知道嗎？求我的話，說不定人家心情好就告訴你~<br>
+<br>
+'''''<span style="color:black;">选择项1：求娜比婭</span>'''''<br>
+'''''<span style="color:black;">选择项2：轉身就走</span>'''''<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哼哼～{tb}也知道求人啊，真是難得呢～<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不過呢～這種敷衍的態度可不行哦？再誠懇一點嘛～<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊，算了算了，人家大發慈悲告訴你好了。<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我無奈地搖搖頭，轉身準備離開。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……哼！隨便你走好了！笨蛋！廢物！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我又往前走了兩步。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗚……居然敢無視我！等一下啦……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''過、過來啦！真是的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……？自動三明治機圖紙Ver3.0？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼~沒錯~這可是能完全取代某個廢柴的超完美機器哦！<br>
+誰讓你每天頂著黑眼圈給人家做早餐……真是太礙眼了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯……發明這台機器好像沒什麼必要？<br>
+畢竟我還是很樂意幫妳做早餐的。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哈？{tb}你這是在小看我的發明嗎？真是氣人！<br>
+……不過，如果你非要做的話，人家也不是不能給你這個機會啦。<br>
+明天的三明治就勉強讓你做吧？要感謝我的恩賜哦~<br>
+雙倍乳酪，切四塊，而且要完~全對稱！<br>
+要是敢做得不好……哼哼~人家可是拍了很多{tb}打瞌睡時的醜照呢~<br>
+<br>
+她得意洋洋地收拾完書桌，步伐輕快地走向門口，還故意用力關上門。<br>
+然而沒過幾秒，門又被輕輕推開了一條縫。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……晚安哦，笨蛋{tb}。<br>
+明天早上要是做不好三明治的話，後果自負哦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=認真的她|选项=27|主框=1|样式=primary|展开=是}}
+<br>
+今天是校園開放日。<br>
+原本和娜比婭約好了一起參觀學校，然而給她打了好幾通電話都沒有接通。<br>
+最後，在學校內的一間工坊裡找到了她。<br>
+娜比婭穿著工裝，正專注地檢查著眼前的引擎。<br>
+她將碎髮別在耳後，眉頭微蹙，仔細端詳每一個零件。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗯……這裡應該是這樣連結的吧……<br>
+有點棘手呢……冷靜下來，回想課程的內容……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……嗯……這時候該怎麼處理……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭，需要幫忙嗎？<br>
+<br>
+直到我再次開口，娜比婭才從專注的思考中回神。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}？你怎麼……啊……抱歉。剛才太專注了沒聽到電話。<br>
+<br>
+少女在意識到漏掉了我打給她的電話後，露出了不好意思的笑容。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒關係，妳怎麼在這裡修這個？需要我幫忙嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+不用啦，這是老師佈置的實作課程。<br>
+要求我完成一台完整的汽車檢修。<br>
+不過，雖然選的是最基本的型號，但對我來說還是很有挑戰性……<br>
+<br>
+她用手背擦了擦額頭的汗水，露出有些困擾的微笑。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+不過沒關係的，我一定會完成好的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+真的不需要我幫忙嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+她搖了搖頭，臉上泛起淡淡的紅暈。<br>
+我想靠自己的力量完成它。<br>
+我想要成為能讓{tb}驕傲的人，要是總是依賴你的力量的話，就沒有辦法成長啦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+話雖如此……<br>
+（但是檢修汽車這種事情真的有必要加入課程嗎……）<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊，我大概知道{tb}在想什麼。<br>
+可能覺得這對我來說太難了，對吧？<br>
+但是呢，我覺得每一項技能都很重要。<br>
+而且，了解機械構造的話，說不定哪天就能幫上{tb}的忙哦。<br>
+<br>
+此刻，認真的娜比婭，與平常溫柔可愛的樣子截然不同。<br>
+彷彿在發著微弱卻堅定的光。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊，對了，可以拜託{tb}在這裡等我嗎？<br>
+應該很快就能完成了。<br>
+完成之後，我們一起去餐廳吃飯好不好？<br>
+啊……不過得先去洗掉手上沾上的機油才行呢。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=有你的未來I|选项=28|主框=1|样式=primary|展开=是}}
+<br>
+不知不覺中， 就到了娜比婭要畢業的那一天。<br>
+我出席了她的畢業舞會。而在那之後，生活一切如常，並沒有什麼特別的改變。<br>
+因為娜比婭說在選擇成為什麼樣的人之前，她想要好好思考一段時間。<br>
+而我也給予了她充分的尊重與空間。<br>
+直到今天，娜比婭約我到咖啡廳，說有重要的事想跟我談。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那個……選擇在咖啡廳說這些話，不是因為什麼其它特別的原因啦。<br>
+只是覺得，在家裡說可能不夠正式。<br>
+這段時間我一直在思考，思考著自己究竟想成為什麼樣的人。<br>
+厲害的？理性的？或是各種我暫時找不到形容詞來概括的……<br>
+<br>
+她一邊說著，一邊低頭攪動著面前的咖啡，像是理清自己的思緒。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……然後，我發現這根本不是值得花這麼久去思考的難題。<br>
+因為無論我成為什麼樣的人，{tb}都會陪在我身邊，一直支持我吧？<br>
+比起我成為什麼模樣，有你陪在我身邊、支持我，才是我真正想要的。<br>
+——想通這一點後，我突然就不再困擾了。<br>
+<br>
+少女說著，向後挪開了一點椅子的空隙。<br>
+她突然站起身來，不知道從何處拿出一個精緻的紅色禮物袋。<br>
+黑色洋裝的裙擺隨著她的動作微微晃動，襯得她的膚色愈發白皙。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那、那個……這個給你！<br>
+是我存下零用錢買的禮物……<br>
+<br>
+她將禮物遞到我面前，臉頰微微泛紅。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+雖然不是特別貴重的東西，但一定要收下。<br>
+之後的人生，我也會繼續努力的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好。<br>
+<br>
+溫暖的陽光灑在我們之間，將這一刻定格。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=有你的未來II|选项=29|主框=1|样式=primary|展开=是}}
+<br>
+不知不覺中， 就到了娜比婭要畢業的那一天。<br>
+我出席了她的畢業舞會。而在那之後，生活一切如常，並沒有什麼特別的改變。<br>
+因為娜比婭說在選擇成為什麼樣的人之前，她想要好好思考一段時間。<br>
+而我也給予了她充分的尊重與空間。<br>
+直到今天，娜比婭約我到咖啡廳，說有重要的事想跟我談。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那個……選擇在咖啡廳說這些話，不是因為什麼其它特別的原因啦。<br>
+只是覺得，在家裡說可能不夠正式。<br>
+這段時間我一直在思考，思考著自己究竟想成為什麼樣的人。<br>
+厲害的？理性的？或是各種我暫時找不到形容詞來概括的……<br>
+<br>
+她一邊說著，一邊低頭攪動著面前的咖啡，像是理清自己的思緒。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……然後，我發現這根本不是值得花這麼久去思考的難題。<br>
+因為無論我成為什麼樣的人，{tb}都會陪在我身邊，一直支持我吧？<br>
+比起我成為什麼模樣，有你陪在我身邊、支持我，才是我真正想要的。<br>
+——想通這一點後，我突然就不再困擾了。<br>
+<br>
+少女說著，向後挪開了一點椅子的空隙。<br>
+她突然站起身來，不知道從何處拿出一個精緻的紅色禮物袋。<br>
+黑色洋裝的裙擺隨著她的動作微微晃動，襯得她的膚色愈發白皙。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那、那個……這個給你！<br>
+是我存下零用錢買的禮物……<br>
+<br>
+她將禮物遞到我面前，臉頰微微泛紅。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+雖然不是特別貴重的東西，但一定要收下。<br>
+之後的人生，我也會繼續努力的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好。<br>
+<br>
+溫暖的陽光灑在我們之間，將這一刻定格。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=新的起點|选项=30|主框=1|样式=primary|展开=是}}
+<br>
+那天咖啡廳談話過後，娜比婭似乎對未來有了新的思考。<br>
+雖然前方的路還不夠清晰，但我相信她一定會找到屬於自己的答案。<br>
+不過，不知道在這條嶄新的道路上，會出現怎樣的風景呢？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=繼續升學|选项=31|主框=1|样式=primary|展开=是}}
+<br>
+在一切塵埃落定之後，娜比婭選擇了繼續升學的道路。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我覺得……我還需要學習更多。<br>
+想要多了解一些知識，做更充分的準備。<br>
+<br>
+圖書館裡，陽光透過高大的玻璃窗灑落進來。<br>
+娜比婭跪坐在書架前，專注地翻閱最下層的書籍。<br>
+她的身邊已經擺了一疊挑選好的書本，而她依然在認真地尋找著。<br>
+正當我想上前幫忙時，她察覺到了我的存在。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊，{tb}來了嗎？<br>
+<br>
+也許是因為找書的過程並不順利，她的表情還有些困惑。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+要找什麼？我幫妳一起找？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+我在找一些有趣的書……<br>
+因為想多了解不同的領域，所以就想先看看有什麼能引起我興趣的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+多看看總是好的，我也幫你一起找吧。<br>
+<br>
+就這樣，娜比婭開始了她的升學準備。<br>
+這份對知識的渴望，一定能指引她找到屬於自己的方向。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=甜品能手|选项=32|主框=1|样式=primary|展开=是}}
+<br>
+畢業後的娜比婭開了一家小小的咖啡店，打算販售她製作的蛋糕和咖啡。<br>
+今天是店鋪裝修完成後的第一天，她特地邀請我去體驗。<br>
+柔和的陽光透過娜比婭身後的窗戶灑落，讓店內簡單的佈置也顯得有幾分溫馨。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那個……這身衣服，是特地為今天準備的。<br>
+{tb}覺得……怎麼樣？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+很可愛，很適合妳。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+……唔，你果然會喜歡。<br>
+<br>
+她的臉頰微微泛紅，小心地從桌上的草莓聖代中舀起一匙。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+雖然還是有點不好意思，但……<br>
+張嘴，啊——<br>
+<br>
+清涼甜蜜的滋味在口中蔓延。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=調酒師|选项=33|主框=1|样式=primary|展开=是}}
+<br>
+畢業後，娜比婭意外地愛上了調酒這門藝術。<br>
+在累積了一段時間的經驗後，如今的她已是一位技藝精湛的調酒師。<br>
+夜晚的酒吧內，燈光柔和曖昧。<br>
+穿著合身的調酒師制服的娜比婭，此刻正坐在光滑的吧台之上。<br>
+她手中那隻盛滿酒液的高腳杯，正被她輕巧地放在身旁反扣的冰桶上。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+雖然你要的酒我已經調好了……<br>
+但是這麼輕易就給你的話，也太沒意思了呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+明明我才是客人吧？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸~在我這裡可不講這種規矩哦。<br>
+<br>
+她晃了晃懸空的雙腿，得意地看向站在吧台前的我。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+想要的話，就乖乖求我吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=自然攝影|选项=34|主框=1|样式=primary|展开=是}}
+<br>
+喜歡上了攝影的娜比婭開始苦練攝影技術，最後成為了自然風景攝影師。<br>
+她總是能捕捉到最美的瞬間，彷彿天生就懂得如何與大自然對話。<br>
+清晨的森林裡，陽光透過樹葉灑下斑駁的光影。<br>
+娜比婭輕輕握著相機，溫柔地看著半空中的鳥兒。<br>
+不知不覺間，幾隻好奇的小鳥落在她的頭上和相機上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+它們似乎很喜歡妳呢。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+噓……小聲一點啦，不要驚動它們哦。<br>
+<br>
+雖然在回應著我，但她的目光依然溫柔地追隨半空中盤旋的鳥兒。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+其實只要保持安靜，用心感受……它們就會願意親近我們的。<br>
+<br>
+她一邊說著，一邊小心翼翼地用手調整著鏡頭，生怕驚擾了這幾個小生靈。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+能紀錄下它們最自然的樣子，就是對它們的信任的最好的回應哦。<br>
+<br>
+她輕聲說。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=爆破大師|选项=35|主框=1|样式=primary|展开=是}}
+<br>
+成為爆破大師的娜比婭，總算找到了最適合自己的舞台。<br>
+每一次精確的爆破作業，都讓她愈發熱愛這份充滿刺激的工作。<br>
+廢棄建築在爆破聲中轟然倒塌。<br>
+橙紅色的火光沖天而起，照亮了整片荒野。<br>
+娜比婭踏著輕快的步伐向前走去，臉上掛著張揚的笑容。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳真是樂在其中……<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+啊哈~廢柴{tb}你說對了哦~<br>
+畢竟整個世界也就只有人家能把毀滅變成這麼棒的藝術。<br>
+怎麼樣，是不是被我的才能震驚到說不出話了？<br>
+<br>
+身後的火光映襯著她格外閃亮的雙眸。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這份工作，簡直就是為人家量身訂做的呢！超完美~♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=心理諮詢師|选项=36|主框=1|样式=primary|展开=是}}
+<br>
+娜比婭最後選擇了心理諮商這條路，成為了一名優秀的心理諮商師。<br>
+不過……<br>
+窗明几淨的諮詢室內——<br>
+娜比婭優雅地坐在人體工學椅上，翹著腿，手中正拿著一份檔案。<br>
+另一隻手正拿著筆抵在她的下巴上，居高臨下地俯視著我。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……這真的有必要嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+呵呵，當然。{tb}的心理狀態可是需要好好分析呢。<br>
+而且，這也算是學以致用哦~？<br>
+讓我看看……原來如此，這份問卷評量的答案，你的問題在這裡啊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……啊？我不是還什麼都沒寫嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+咳，那是我對你的了解，根本不需要問卷呢~<br>
+放心~我一定會好好幫你「療癒」你的內心喔~♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=安全專家|选项=37|主框=1|样式=primary|展开=是}}
+<br>
+娜比婭最後選擇了安全工作這條路。<br>
+但……她監控的似乎不只是安全威脅。<br>
+深夜的監控室內，數台顯示器的幽藍光芒是唯一的照明。<br>
+各種精密的監聽設備整齊排列，娜比婭縮在椅子上，認真地盯著螢幕。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+{tb}把牛奶和宵夜放在桌上就好了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這麼晚還在——<br>
+<br>
+話未說完，一股微妙的違和感突然襲來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳怎麼知道我會來，而且還拿著牛奶和宵夜的？<br>
+<br>
+她用手扶著耳機，露出狡猾的笑容。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+是呀……我為什麼知道呢~？{tb}想知道嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……妳該不會在監視我吧？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+「監視」？錯了~這一切都是為了保證{tb}的人身安全呢。<br>
+要好好感謝我才對哦~？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=露營指導|选项=38|主框=1|样式=primary|展开=是}}
+<br>
+畢業後的娜比婭選擇了戶外露營指導這份工作。<br>
+在山野間找到了屬於自己的一片天地。<br>
+山間湖泊旁，明媚的陽光灑在平靜的水面上。<br>
+露營地已經整理妥當，帳篷被拉扯開的布料在微風中輕輕擺動。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+好了，{tb}，接下來我來教你野外烹飪的技巧哦。<br>
+<br>
+娜比婭坐在露營椅上，帶著溫柔的笑容看著我。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不愧是娜比婭，現在已經像模像樣的了。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那當然啦，這可是我的工作呢~<br>
+欸嘿嘿，準備好開始今天的野炊課程了嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好，就等你這位老師來指導了。<br>
+<br>
+湖面泛起微波，山風輕輕掠過營地。<br>
+嗯，是適合露營的好天氣。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=摩托騎士|选项=39|主框=1|样式=primary|展开=是}}
+<br>
+畢業後的娜比婭迷上了摩托車，在學習後考了駕照。<br>
+她愛上了這種在風中馳騁的感覺——<br>
+蔚藍的大海在陽光下閃爍著粼粼波光。<br>
+幾隻海鷗在碧空中盤旋，偶爾發出清脆的鳴叫。<br>
+娜比婭倚靠在她的新摩托車上，一手抱著頭盔，黑色的修身騎行服勾勒出曲線。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+怎麼樣，{tb}？<br>
+<br>
+她嘴角帶著一絲狡黠的笑意，目光中還帶著幾分得意。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+要我帶你去兜風嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳確定不是想炫耀妳的新車？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+好吧~被你發現了。<br>
+不過兜風的邀請是認真的哦，去不去嘛？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+去。<br>
+<br>
+海風掠過海岸線，帶著鹹澀的氣息輕輕拂過。<br>
+引擎聲響起，少女載著我向遠方駛去。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=寵物醫生|选项=40|主框=1|样式=primary|展开=是}}
+<br>
+憑藉著對小動物的喜歡，娜比婭成為了一名寵物醫生。<br>
+這天她又在跟我一起吃完午餐後來到公園裡，為這裡的流浪貓們做日常檢查。<br>
+公園的長椅上，身著白大褂的娜比婭溫柔地忙碌著。<br>
+她懷裡抱著一隻胖胖的橘子貓，小心翼翼地用聽診器為它做檢查。<br>
+聽診器輕輕貼在橘貓的胸口，小傢伙乖巧地躺在她的懷裡，一動也不動。<br>
+另一隻橘貓早已貼著她的大腿睡熟了，而一隻乳牛貓則站在長椅上好奇地望著她。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+好孩子，乖乖的，馬上就好了哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳看，對面那兩隻貓也在等著妳呢。<br>
+<br>
+椅子對面，兩隻小貓正目不轉睛地盯著娜比婭。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+因為它們都知道，我是來幫它們的呀。<br>
+小動物其實很聰明的哦，能分辨出誰是真心想幫助它們。<br>
+<br>
+她說著，臉上浮現出溫柔的笑。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=搖滾歌手|选项=41|主框=1|样式=primary|展开=是}}
+<br>
+在音樂之路上繼續前進的娜比婭成為了成熟的創作歌手。<br>
+今天是她的演唱會，我站在台下，看著舞台上熟悉又陌生的她。<br>
+舞台上的娜比婭一手握著麥克風，一手抱著電吉他。<br>
+她的身後，巨大的螢幕上投影著她的特寫。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+這首歌……是為了我最重要的人而作的！<br>
+<br>
+和平時溫柔害羞的她不同，此刻的娜比婭彷彿完全沉浸在音樂為她帶來的力量中。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+是音樂給了我勇氣，讓我可以勇敢地把自己的心意表露出來。<br>
+那麼，{tb}，就好好聽著吧－－！<br>
+<br>
+伴隨著她的話語，電吉他激昂的前奏響起。<br>
+這樣的她是如此閃耀炫目，讓人無法移開視線。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=閃耀藝員|选项=42|主框=1|样式=primary|展开=是}}
+<br>
+在璀璨的舞台上，娜比婭正為我表演。<br>
+藍白色調的打歌服在聚光燈下閃閃發亮，襯托出她認真的舞姿。<br>
+隨著最後一個音符落下，她停在了舞台中央。<br>
+她朝我的方向看了看，似乎在下定什麼決心。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那、那個……<br>
+用愛與音樂的魔法，讓{tb}的心也為我跳動起來吧！<br>
+要永遠支持我哦！<br>
+<br>
+雖然表情有些害羞，但她還是努力地用手指比出了一個心形。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我會永遠支持娜比婭的！<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+欸嘿嘿…<br>
+<br>
+少女此刻的閃耀，將永遠留在我的記憶之中。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=見習護士|选项=43|主框=1|样式=primary|展开=是}}
+<br>
+娜比婭畢業後選擇了成為護士。<br>
+今天，我像往常一樣來醫院接她回家。<br>
+病房的簾子被拉起，把這區域與外界隔開。<br>
+娜比婭穿著整潔的護士服，從病床上方俯視我。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼~{tb}，讓我練習打針吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等一下，讓妳練習打針是什麼狀況……？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+怎麼，平常不是老說要支持我的工作嘛？現在想逃？<br>
+<br>
+她得意洋洋地晃了晃手中的針管，灌得滿滿的液體從針尖滴落。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這跟支援工作是兩碼事……<br>
+況且我也沒生病，為什麼要打針？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+所以這是我特別配製的營養劑哦？沒有病也能打~是特意為你準備的呢。<br>
+要是敢逃跑的話，以後就天天給你打針哦~？<br>
+<br>
+她用單手托著我的下巴，以甜膩的語氣威脅。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=動物園園長|选项=44|主框=1|样式=primary|展开=是}}
+<br>
+野生動物園裡，年輕的園長娜比婭專注地工作。<br>
+她蹲在觀察區的一角，手持平板電腦，認真地紀錄不遠處石堆上休息的獅群的資訊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+娜比婭，紀錄工作還順利嗎？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+嗯，{tb}來啦~<br>
+我在紀錄它們的休息情況哦。最近天氣變熱，它們的作息發生了一些改變呢。<br>
+<br>
+少女抬起頭，溫柔地眨眨眼。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+要不要先休息一下？附近有其它可以坐下來的觀察點，視野也很好。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+不用啦，還是這邊比較方便。而且……<br>
+有{tb}在身邊，我一點都不會覺得很累。<br>
+<br>
+獅群懶洋洋地甩著尾巴，眼前的少女臉上洋溢著溫柔的笑意。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=修理達人|选项=45|主框=1|样式=primary|展开=是}}
+<br>
+自從在實作課上被這個領域深深吸引，畢業後的娜比婭便一頭栽進了機械維修的世界。<br>
+在堆滿各式機械零件的器材庫裡，娜比婭正大大咧咧地坐在工作台前。<br>
+她的兩隻手中都捏著設計圖紙，似乎在比對哪一份是最優解。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+每次找妳，妳都在這裡啊。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+唔唔？是{tb}啊~<br>
+<br>
+因為叼著扳手的緣故，她有些口齒不清。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哎呀~{tb}是特意來找我的嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，就是想來看看妳。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+真拿你沒辦法呢~那{tb}就乖乖在一邊坐好吧，不許打擾我工作。<br>
+不過，有{tb}陪著的話，我會稍微~工作得更賣力一點的！<br>
+你可不要等太久就哭鼻子哦？人家會心疼的呢~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=全新的故事——|选项=46|主框=1|样式=primary|展开=是}}
+<br>
+港區·指揮室<br>
+我望著窗外，思索著這段時間的經歷。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（雖然照計畫完成了培養……但總覺得還能做得更好。）<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵呼呼~指揮官在這裡呀，看來已經準備好接受表彰了喵？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+明石？！妳怎麼……<br>
+等等，表揚又是怎麼一回事？<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+哎呀，其實就是來請關鍵人物來總結一下成果喵！<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+分析模組同步中：本次培養過程的數據變化非常有趣。<br>
+透過觀察互動產生的影響，讓我對「個性」有了新的認知。<br>
+不過，我認為還可以收集更多數據。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+聽起來是要繼續呢~？<br>
+正好，人家還有很多想試試的事情呢~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以這不是結束，而是新的開始？<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+真聰明！就是這樣哦~<br>
+而且，每一次的相遇，對我來說都是獨一無二的哦？<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+確認。所有培養資料都會完整保存。<br>
+這些珍貴的紀錄，都將幫助我更理解「個性」。<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+那就繼續吧！<br>
+{tb}，準備好和我一起創造更多回憶了嗎？<br>
+<br>
+'''''<span style="color:black;">选择项1：準備好了。</span>'''''<br>
+'''''<span style="color:black;">选择项2：一起創造更多回憶吧。</span>'''''<br>
+<span style="color:#4eb24e;">娜比婭：</span><br>
+哼哼，就知道你會這麼說~<br>
+<br>
+新的故事即將開始，而這一次，又會是怎樣的邂逅呢？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
