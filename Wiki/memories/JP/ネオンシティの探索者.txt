@@ -561,7 +561,7 @@ Scene：警察学校教室<br>
 Time：20:42<br>
 Date：6月26日<br>
 あなたの職権レベルでは、吾妻先生の行動を調査するのはさほど難しくなかった。<br>
-そしてたどり着いた空き教室には、見慣れた姿が静かにあなたを待っていた……<br>
+そしてたどり着いた空き教室で、見慣れた姿が静かにあなたを待っていた……<br>
 <span style="color:#4eb24e;">吾妻：</span><br>
 こんなに早く見つけるなんて、やっぱり優秀ですね<br>
 「警察機構のアドバイザー」と呼ぶべきかしら？それとも……「愛しい優等生くん」のほうがいいかしら？<br>
@@ -891,7 +891,7 @@ Date：6月27日<br>
 '''''<span style="color:black;">（选择项4）</span>'''''――だったら、総監こそ一番怪しいと思わないか？<br>
 '''''<span style="color:black;">（选择项4）</span>'''''――出番は一番早かったのに、何の手がかりも残してない<br>
 '''''<span style="color:black;">（选择项4）</span>'''''――顔も名前も素性も誰にも分からない<br>
-'''''<span style="color:black;">（选择项4）</span>'''''――……言われてみれば確かに……総監は誰だ？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――……実際のところ……総監は誰なんだ？<br>
 <span style="color:#4eb24e;">ナレーション：</span><br>
 '''''<span style="color:black;">（选择项4）</span>'''''総監は青葉です<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -925,8 +925,8 @@ Date：6月27日<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 '''''<span style="color:black;">（选择项5）</span>'''''――ああ、至って本気だ<br>
 '''''<span style="color:black;">（选择项5）</span>'''''――ここ数日の撮影を通して、既に脚本に隠されたダークな展開を完全に把握した……<br>
-'''''<span style="color:black;">（选择项5）</span>'''''――そして、シナリオ通りに動けば、誰を「潜伏者」として指摘すべきかも分かってる<br>
-'''''<span style="color:black;">（选择项5）</span>'''''――だが……自分は、誰一人として告発したくない<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――そして、シナリオのまま行けば、ここは誰かを「潜伏者」として指摘すべきだとも分かってる<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――だが……断る！<br>
 '''''<span style="color:black;">（选择项5）</span>'''''――どうしても潜伏者を挙げろと言うのなら……その潜伏者は、監督の明石だ！<br>
 <span style="color:#4eb24e;">明石：</span><br>
 '''''<span style="color:black;">（选择项5）</span>'''''にゃ～！<br>
