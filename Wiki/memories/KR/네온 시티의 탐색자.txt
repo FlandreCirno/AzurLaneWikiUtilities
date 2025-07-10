@@ -1,0 +1,992 @@
+== 네온 시티의 탐색자 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=서장|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+네온 불빛 아래, 사람들은 살아남기 위해 거짓으로 자신을 위장하고, 목숨을 건 게임에 몸을 던진다.<br>
+폭발의 불길이 어둠 속에 잠긴 거리를 비추는 그때…… 그저 대본에 따라 움직이는 이는 누구며, 직접 결말을 써 내려가는 이는 누구일까?<br>
+오늘 밤, 경찰 기구의 특별 고문이……<br>
+단 하나의 진실을 밝혀낸다.<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+으흐흐, 드디어 시작된다냥~<br>
+거기 주인공 씨, 대본은 잘 외웠냥?<br>
+<br>
+'''''<span style="color:black;">选择项1：……주인공?</span>'''''<br>
+'''''<span style="color:black;">选择项2：……대본?</span>'''''<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+냥? 주인공은 주인공이고, 대본은 대본인데냥?<br>
+설마 지휘관… 너무 바빠서 까먹은 거냥?! …그래도 괜찮다냥!<br>
+그냥 애드리브로 어떻게든 하면 된다냥!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――잠깐…! 정말 대본 같은 건 전달받은 적도 없고, 주인공이라는 말도 처음 들어.<br>
+――아오바한테 연락이 와서 취재에 협력하러 온 것뿐인데……<br>
+――……아! 설마 애초부터 그럴 목적으로…?!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+으흐흐흐, 대본 같은 건 없다냥! 그래야 더 멋진 스토리가 나오는 법이다냥!<br>
+그리고 지휘관이 주역으로 나와야 다들 좋아한다냥~<br>
+아무튼 경찰 기구의 특별 고문으로서 날카로운 통찰력을 마음껏 발휘해 줬으면 한다냥~<br>
+각 팀에 연락해라냥. 주인공이 도착했다냥!<br>
+3… 2… 1… 액션이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=심상치 않은 폭발|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -1- 심상치 않은 폭발<br>
+Scene: 경찰 기구 회의실<br>
+Time：19:25<br>
+Date: 6월 25일<br>
+상부에서 파견된 특별 고문인 당신은 경찰 기구 내부에 잠입한 범죄 조직의 첩자를 색출하라는 임무를 받았다.<br>
+그리고 당신은 경찰청장의 지시에 따라 보안 점검을 명목으로 의심되는 인물들을 회의실로 호출했다.<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+준비는 어떤가요? 신참 고문님.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……아즈마? 여긴 무슨 일이야?<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+후후… 아즈마 선생님이라고 불러야죠.<br>
+청장님께 예전 제자가 돌아왔다는 소식을 들었답니다. 설마… 선생님을 다시 보고 싶지 않았던 건 아니죠?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(흠… 벌써 완전히 배역에 몰입한 모양이야.)<br>
+――에이, 그럴 리가요. 다시 만나서 너무 기뻐요, 선생님.<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+후후후, 다행이네요~<br>
+다들 기다리고 있고, 이렇게 서서 이야기를 나누기도 뭣하니 어서 들어가요.<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+아즈마 선생님의 부드러운 미소에 등이 떠밀린 당신은 긴장감을 유지하며 회의실로 발걸음을 옮겼습니다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(……이야기를 억지로 밀어붙이네.)<br>
+(뭐… 아무런 단서도 없이 시작하는 것보단 낫겠지.)<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+회의실 문을 열고 들어서자, 여섯 명의 시선이 당신에게 내리꽂혔습니다.<br>
+형사부의 임페로 본부장. 제로과의 젠커 경감과 U-552 경위.<br>
+수사1과의 넵튠 경감, 수사2과의 Z13 경위, 교통 집행과의 U-37 경사 등 쟁쟁한 인물들이 자리해 있었습니다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(……알아서 상황을 설명해 주니까 편하네.)<br>
+――……으흠, 사실 본부에 경찰 기구 내에 국제 범죄 조직의 스파이가 숨어 있을지도 모른다고 익명의 제보를 받았어.<br>
+――그래서 의견을 좀 들었으면 해서 다들 불렀어.<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+뭐어? 그래서 일부러 이렇게 다들 부른 거야?<br>
+익명의 제보? 그걸 어떻게 믿어. 그럼 청장이 스파이일 가능성도 있다고 할 수 있겠네?<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+그건 그래요… 제로과에서도 몰랐던 내용이라…… 신빙성이 떨어지는 건 사실이죠.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+인사 자료는 다 인사1과 감찰팀에서 관리하는 걸로 아는데, 그쪽부터 조사하는 게 맞지 않아?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(감찰팀의 자료…… 확실히 지금은 정보가 턱없이 부족해……)<br>
+――그 자료는 어디에서 보관하고 있어?<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+글쎄요… 확실하지는 않지만, 옆 건물이었던 것 같기도 하고…<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+――――!<br>
+넵튠 경감이 말을 마치자마자 자료가 보관된 건물에서 굉음과 함께 폭발이 일어났고, 건물은 잿더미가 되어버렸습니다.<br>
+맹렬히 치솟는 화염 속에서 경보음이 요란하게 울려 퍼졌습니다.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+으… 으아?! 아카이브 시설이… 폭발했어!<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+하필 다들 여기 모여 있는 이 타이밍에…… 역시 누군가 내통자가 있는 게 분명해.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+불길이 번지기 전에 빨리 가면 무언가 회수할 수 있을지도 몰라…… 하아… 귀찮은데……<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+바로 눈앞에서 폭파 사건을 벌이다니…… 우릴 우습게 본 게 분명해요…!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――……폭발 타이밍이 너무 수상해.<br>
+――일단 현장으로 이동해야 하니, 회의는 이쯤에서 마치자.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+고문님, 잠시만요! 수사1과 팀원들도 불러서 같이 갈게요!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷…이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=토끼 순경 조사 중|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -2- 토끼 순경 조사 중<br>
+Scene: 경찰 기구 아카이브 시설 앞<br>
+Time：20:08<br>
+Date: 6월 25일<br>
+폭발 현장에 도착한 당신은 모든 것이 불타버리기 전에 단서를 찾으려고 했다.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+비키세요, 비켜요! 좀 지나갈게요!<br>
+고문님, 어때요? 결정적인 단서는 찾으셨나요?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――넵튠보다 30초 정도 먼저 도착한 것뿐이라… 이제부터 찾아보려던 참이야.<br>
+――하지만 상황을 보니… 건질 게 별로 없겠는걸.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+쿨럭, 쿨럭… 이 타버린 냄새… 고문님, 어쩌면 다 타버린 건 아닐지도 몰라요. 안에 뭐가 남아있을지도 모르니 찾아보죠!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――건물도 아직 불타고 있고…… 불을 다 끈 후에 얼마나 남아 있을지는……<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+그 순간, 멀리서 천둥이 울리더니 곧바로 폭우가 쏟아졌다.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+오오! 하늘이 우릴 도우시려나 봐요! 다행히 조사를 계속할 수 있을 것 같아요.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(……태클을 걸고 싶은 부분이 한두 군데가 아니지만, 넘어가자.)<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+고문님, 흩어져서 찾아보는 게 어때요? 저는 왼쪽, 고문님은 오른쪽을 찾아보는 거예요.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(이런 상황에서 따로 행동하자니……)<br>
+(설마 넵튠이 스파이라면, 증거를 인멸하고 의심을 피할 수 있는 절호의 기회겠지.)<br>
+(하지만 오히려 단독으로 움직이는 편이 실마리를 찾기 쉬울 수도 있어…)<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+고문님, 이쪽에 무언가 있어요! 그쪽은 어때요?<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''스, 스파이냐고요?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''고문님, 너무하시네요! 갑자기 그런 말도 안 되는 농담을…!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그럼, 등 뒤에 감추고 있는 건 뭔데?<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''등 뒤요…?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그보다 이 서류 좀 보세요! 자, 제로과 업무 기록과 민원 내용이 담긴 편지를 찾았답니다!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――앗! 등에 불이 붙었어!<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''네?! 어, 어떻게…?! 아직 준비가…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――잡았다!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――어디 보자… 닭꼬치 20개, 사쿠라 엠파이어 소고기 3인분, 생맥주 5잔……?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그냥 술자리 영수증이잖아……<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그래요, 별로 중요하지도 않은 거죠! 그래서 제가 먼저 이 서류부터 보시라고 말씀드린 건데…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''하아… 귀여운 토끼를 의심한 것도 모자라 스파이 취급까지 하시다니……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''고문님이야말로 진짜 스파이인데다 흑막인 거 아닌가요?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――미안… 계속해서 조사해 보자.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''네! 힘내서 증거를 전부 다 찾아내 봐요!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이쪽은 아무것도 없어. 그쪽은 어때?<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''후훗, 꽤 수확이 있었답니다. 보세요!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이건…… 제로과의 업무 기록?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이걸 쓴 사람은 두 사람…… 한 사람은 완전히 공란인데, 나머지 한 사람은 목차만으로 한 페이지가 꽉 차 있어……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그리고… 「걷는 속도가 너무 빨라서 체포되었다」라는 항의성 민원이…… 거의 다 타버려서 제목밖에 안 남았네.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――하아…… 크게 도움은 안 될 것 같네.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――음? 아까부터 오른손을 등 뒤에 숨기고 있는데, 뭘 들고 있는 거야?<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''앗…… 이건……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''으아! 큰일이에요! 불이 붙었어요!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――?! 빨리 이쪽으로 넘겨!<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''으아…… 죄송해요. 불씨가 남아 있던 곳을 실수로 스쳐서, 흔적도 없이 타버렸어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''저도 아직 제대로 못 본 서류인데… 고문님께 넘겨드리지도 못했네요……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''(수상해……)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이미 불타버렸으니 어쩔 수 없지. 계속해서 탐색해 보자.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''네, 열심히 찾아볼게요!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷…이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=전략적 데이트 솔루션|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -3- 전략적 데이트 솔루션<br>
+Scene: 경찰 기구 사무실<br>
+Time：08:23<br>
+Date: 6월 26일<br>
+폭발 사건은 스파이와 관련이 있는 것 같았지만, 결정적인 단서는 전혀 건지지 못했다.<br>
+하지만 최근 감시 영상에서 타임라인이 부자연스럽게 어긋난 수정 흔적을 찾았다.<br>
+진상을 밝히기 위해, 당신은 경찰 기구 내에서 감시 영상을 가장 밀접하게 다루는 Z13 경위를 찾아갔다.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+어머, 이게 누구야. 고문이잖아? 현장 시찰이라도 하러 온 거야?<br>
+미리 말해두지만, 지금 게으름 피우는 거 아니야. 이건 전략적 휴식이라는 거야~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――전략적 휴식……? 컴퓨터로 게임하는 그게?<br>
+――설마 모항에서도 이러는 건 아니겠지……?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+흠흠…… 「모항」이라니, 그게 뭐지? 오자마자 이상한 말만 하네~<br>
+그건 그렇고 「워라밸」이라는 말 들어본 적 있어?<br>
+자, 여기 앉아서 같이 게임…이 아니라 전략적 휴식을 취하는 게 어때?<br>
+위대하신 임페로 본부장도 승인한 거라고~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……본부장이 이러는 걸 승인했다고?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+당연하지! 임페로 본부장은 근무 시간에도 솔선해서 술집으로 전략적 휴식을 취하러 떠나는 사람이거든~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――겉보기와는 다르게…… 아니지, 임페로라면 그럴 만하지.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+그치? 그나저나 근무 시간 중에 일부러 날 찾아오다니… 전략적 데이트 신청 같은 건가?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(……대놓고 물어볼까, 아니면 돌려서 물어볼까?)<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''어머나, 그렇게 근거도 없이 사람을 의심하면 못써~ 꽤 민감한 주제잖아, 그거.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그럼 하나 묻지. 근무 중에 본부장이 술집에 갔다는 건 어떻게 알았어?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――감시 카메라로 전부 보고 있었던 거 아니야?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――스파이가 아니면 요원들을 그렇게 늘 감시할 필요도 없었겠지.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그냥 진지하게 업무에 임하는 우수한 경찰일 수도 있잖아?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――진지하게 업무에……?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그럼, 경찰 기구의 감시 영상이 조작된 것도 알고 있겠네.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭐? 정말? 그런 일이 있었어?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……네가 한 짓이지?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그런 어려운 걸 내가 어떻게 해!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그럼… 누가 저지른 짓인지는 알아낼 수 있지?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''음… 그것도 안 돼!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''내가 할 수 있는 건 감시 모니터를 지켜보는 것뿐이야… 그 대신 화면은 항상 빈틈없이 잘 보고 있어.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그렇지만 폭발이 일어났을 때는… 뭐, 고문도 알다시피 회의에 불려 갔으니까……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――하아…… 그날 감시 영상이라도 좀 띄워줘. 같이 확인해 보자.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''아, 음…… 어떻게 띄우더라…?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그래. 데이트할 거니까, 우선 암호 디스크부터 좀 보여줘.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''뭐? 암호 디스크? 그런 데이트가 어딨어~!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그야 「전략적 데이트」니까 당연하지.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''으… 그렇게 나오시겠다?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''응? 컴퓨터를 직접 만지려고? 하지만 의자는 하나뿐인데……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아하! 그럼 고문이 내 의자에 앉고, 나는 고문 무릎에 앉아서 같이 보면 되겠다~ 그치?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――아니, 난 서서 하면 되니까 비밀번호만 좀 알려줄래?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''으… 이런 플레이도 데이트의 일부인 거야? 좋아, I~ M~ YOURS~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――비밀번호가 틀렸다고 나오는데.<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그럼, 내 이름도 붙여서 넣어 봐~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''자, 이렇게 손을 포개고 같이 입력해 보자~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''어때? 방금 설렜지~?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''하나 몰래 알려주자면, 여긴 사무실에서도 사각지대라서 뭘 해도 안 들켜~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……이것도 아니라고 나오는데?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''음… 사실…… 비밀번호가 기억이 안 나……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――뭐……?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''이렇게 된 거 차라리 아무거나 입력해 볼까?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그럼… 일단 대충 「PASSWORD」라고……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――…엥? 이게 통하네?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……헉?!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷…이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=도로안전팀 출동!|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -4- 도로안전팀 출동!<br>
+Scene: 경찰 기구 주차장<br>
+Time：09:31<br>
+Date: 6월 26일<br>
+우여곡절 끝에 겨우 조작되기 전의 감시 영상을 복구하는 데 성공했다. 그 영상 속에는 검은 실루엣이 흐릿하게 비쳐 있었다.<br>
+빠르게 화면을 스친 그 모습은 어딘가 익숙한 모습이지만…… 누군지 기억이 나질 않는다.<br>
+아무것도 떠올리지 못한 당신은 이런 사건에 익숙한 제로과 멤버와 이야기룰 나눠보기로 한다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――빠른 속도로 움직이는… 어디선가 본 듯한 실루엣……<br>
+――굳이 조사할 필요도 없지.<br>
+――스파이의 정체는 아오바야!<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+땡, 틀렸습니다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……그럼 알프레도? 아니면 그리들리?<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+땡, 틀렸습니다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그럼, 푸슌이나 페이윈? 푸보? 흠… 브리스톨이나 갤런트일 수도……<br>
+――시마카제? 로데슈? 르 말랭? 르 테리블? 르 트리옹팡? 랭동타블?<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+다 틀렸습니다. ……당신이 끊임없이 열거한 추측이 근처에 있던 경사의 주의를 끌고 말았습니다.<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+고문, 주차장에는 무슨 일이야? 어디 가려고?<br>
+뭔가 급해 보이는데, 내가 데려다줄까?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――잠깐 제로과 쪽에 확인하고 싶은 게 있어서… 젠커 경감이랑 U-552 경위, 어디 있는지 알아?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+제로과 사람들이 어디 있는지는 잘 모르겠네…… 무슨 단서라도 찾았어?<br>
+어쩌면 내가 도움이 될 수도 있으니까 말해봐!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……U-37은 교통과 아니었어?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+교통과면 어때서! 우리 부서도 엄연한 경찰이거든? 그런 걸 편견이라고 하는 거야!<br>
+이 녀석을 타고 폭주족을 잡기도 했어! 그것도 아주 최근에!<br>
+뭐, 일단 타봐. 이동하면서 이야기하자.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……어디로 가려고?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+근무 시간 중이니까 당연히 순찰하러지. 업무를 소홀히 할 수는 없으니까.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――뭐, 성실한 근무 태도는 칭찬할 만해.<br>
+――그렇지만……<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭐? 스파이?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''이렇게 열심히 일하는 데 의심하는 거야?!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――열심히 일한다……라.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――이런 속도로… 폭주족을 잡았다고?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――자전거도 못 잡을 것 같은데?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''걸어 다니는 폭주족이면 충분히 잡지!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――걸어 다니는…… 폭주족?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――아니, 그냥 걸어 다니는 사람을 누가 폭주족이라고 불러?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''후훗, 그런 녀석도 있어! 정의를 위해서라면 이런 수고로움은 아무것도 아니지!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……아, 그러고 보니 「걷는 속도가 너무 빨라서 체포됐다」라는 민원이 들어왔었지.<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭐…? 언제 그런 민원이?!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――괜찮아. 거의 다 타버려서 재밖에 안 남았어.<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''후우…… 다행이다……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――뭐, 아무튼… U-37은 나름 진지하게 일하고 있다는 거지?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''응! 당연하지! 자, 어서 타! 순찰하러 가자!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이거… 둘이 타도 괜찮은 거야? 법적으로 문제없는 거 맞지?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''어휴~ 이거 말고, 저쪽에 있는 순찰차 말하는 거야!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''자, 어서 타!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''어라… 열쇠를 어디에다 뒀더라.……?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――조금 전까지만 해도 스쿠터에 태우려던 것 같던데…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――설마… 몰래 교통 법규를 어기고 있는 건 아니지?<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''에, 에이! 설마!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''이래 봬도 매년 표창까지 받는 사람이거든?!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――뭐, 확실히 U-37이 법규를 어겼단 말은 한 번도 못 들어봤어.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그래서 더 수상하다고 해야 하나……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그건 그냥 내가 규칙을 잘 지켜서 그런 거야!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''너무 깊이 생각하지 마! 난 순찰 다녀올 테니까, 고문도 일 열심히 해~!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷…이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=문제의 핵심|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -5- 문제의 핵심<br>
+Scene: 동쪽 해안 관광열차<br>
+Time：17:34<br>
+Date: 6월 26일<br>
+우여곡절 끝에 당신은 마침내 제로과의 U-552 경위의 행방을 알아냈다.<br>
+해변을 도는 순환 노선의 관광 열차에 올라타자, 차량 안에서 잠들어 있는 U-552의 모습이 보였다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――U-522 경위? 왜… 여기서 자고 있는 거야?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+하암…… 지휘관, 지금은 경위가 아니라 관광 가이드야.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――「지휘관」?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+아…! 미안, 잠이 덜 깨서…… 특별 고문이었지!<br>
+……마침 잘 됐다. 고문도 잠깐 쉬지 그래?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――난 괜찮아. 그것보다… 지금은 비밀 수사 중인 거야?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+응. 가이드로 위장해서 정보를 수집하던 중이야.<br>
+하아… 슬슬 또 일할 시간이네.<br>
+어쩔 수 없지. 가이드로 위장했으니…<br>
+「오늘도 저희 관광 열차를 이용해 주셔서 감사합니다.」<br>
+이…… 음…… 그다음에 뭐더라?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――영 어색하네… 접객은 익숙하지 않은가 봐?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+그야 그렇지… 일부러 이 노선을 고른 것도 진짜 관광객은 안 올 것 같아서니까……<br>
+여기 오는 사람들은 대부분 무언가 비밀을 숨기고 있거든… 에너지를 아끼면서 일할 수 있는 최적의 장소지.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――뭐 그럴싸하게는 들리지만…<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''뭐? 잠깐 게으름 좀 피웠다고 스파이 취급을 하는 거야?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''아니, 게으름이 아니지… 오늘 날씨가 너무 좋아서 그래. 낮잠 자기에 너무 완벽한 날씨라서……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――흠… 그래서 얻어낸 정보는 있어?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''저기, 있지. 정보 활동에는 지식뿐만 아니라 인내심도 필요해. 제로과 활동은 정보를 전하는 것보다 자신을 숨기는 게 중요하고.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그러니까… 건진 게 하나도 없다는 거지?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''있다 없다… 문제의 핵심은 그게 아니야.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''문제의 핵심을 찾는 게 바로 핵심이 되는 문제인데…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――……그럼, 그 핵심이 되는 문제는 뭔데?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''핵심이 되는 문제를 찾으려면, 우선 문제의 핵심을 찾아야 하는데……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――아니… 그래서 있어? 없어?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''하아… 알았어, 알았다고. 게으름 좀 피웠어…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그래도 나름대로 이유가 있어서 그런 거야… 그냥 게으름만 피운 게 아니라고……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''정보는 확실히 있어. 다만 그게 지금 내 손에 없을 뿐…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그러니까 정보는 있는데, 그 정보가 U-552 손에 없다고?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그래! 난 안 가지고 있지만, 정보는 있어!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''크흠… 모은 정보는 이미 다 정리해서 보냈어.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''종이에 기록된 자료여서 지금 보여주긴 어렵지만……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――누구한테 보냈어?<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''젠커 경감 쪽에. 아마 지금쯤이면 이 노선의 종점에 도착했을 거야.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''경감을 만나면 내 의심도 풀리겠지.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''…그런데?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――아니, 아무것도 아니야. 그냥 낮잠 자기 좋은 날이구나 싶어서.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이참에 잠깐 쉬는 것도 나쁘지 않겠어.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''역시 고문은 뭘 좀 안다니까.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그래도… 손님으로서 탔으니 나도 가이드로서 할 일은 해야지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「특별 고문님, 우선 이 새로 발간된 여행 가이드북을 받아주시기 바랍니다.」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「관광 명소 정보는 전부 이 가이드북에 실려 있답니다.」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「여행 중에 즐기실 수 있는 식사와 음료도 다양하게 준비되어 있으니, 편히 즐기시기 바랍니다.」<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「이번 여행이 좋은 추억으로 남기를 기원합니다.」<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――겸사겸사 특별한 정보도 얻어갈 수 있으면 좋겠는걸.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――U-552의 업무 성과도 확인하고 싶고 말이야.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''으흠…… 왜 갑자기 그런 말은 왜……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''지금은 관광에 집중하자구, 관광에~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''크흠… 「승차하신 고객님들, 곧 열차가 출발하오니 넘어지지 않도록 주의하시기 바랍니다.」<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷~이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=이러쿵저러쿵|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -6- 이러쿵저러쿵<br>
+Scene: 번화가 창고<br>
+Time：19:20<br>
+Date: 6월 26일<br>
+젠커 경감이 중요한 정보를 가지고 있다는 단서를 얻은 당신은 열차에서 내렸다.<br>
+그리고 단서에 적힌 주소를 따라 도착한 곳은 번화가 한가운데 위치한 어느 창고였다.<br>
+창고 안으로 들어서자, 안쪽에서 젠커 경감의 목소리가 들려왔다.<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+사… 살려주세요! 누구 없어요?!<br>
+후우…… 다행이다… 고문님, 어서 저 좀 풀어주세요…!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――설마…… 젠커 경감?<br>
+――제로과의 비밀 거점 아니야? 왜 이런 데 갇혀 있는 거야?<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+하아… 말하자면 긴데……<br>
+모든 건 13년 전 비가 오던 어느 밤부터 시작되었죠……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……정말 길어질 것 같네.<br>
+(흐름대로 진행할까? 아니면……)<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''스, 스파이요?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''저는 아니에요! 그 사람이에요!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''(전개가 너무 갑작스러운데…)<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그 사람?<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''경찰학교의 아즈마 교관님이요! 진짜 스파이는 바로 그 사람이에요!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''저를 공격한 것도 가짜 증거를 만들려고…… 누명을 모두 제게 씌울 셈이에요!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''모든 건 다 그 사람 짓이에요! 어제 아카이브에서 일어난 일도요…!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――알았어. 뒤는 나한테 맡겨.<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''바람이 세차게 불던 밤이었어요. 벌써 몇 년이 지났지만, 아직도 그날 밤에 일어난 일은 잊히지 않아요……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그때 전 아직 중학생이었고, 유원지에서 반 친구들과 파티를 하고 있었죠. 너무 즐거워서 시간이 가는 줄도 몰랐고요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''집에 가야겠다고 마음먹었을 때는 이미 늦은 시간이었고……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''비도 내리고 혼자라서 무섭고 불안했어요. 집에 가고 싶은 마음뿐이었죠……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그러다 어둠 속에서 길을 잃고 말았죠.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그렇게 헤매고 있는데 희미한 가로등 불빛 아래에서 검은 옷을 입은 수상한 두 사람이 보였어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''무언가를 몰래 거래하는 듯했죠……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''무서움보다 호기심이 앞선 저는 몰래 그들에게 다가갔어요. 대체 무슨 일이 벌어지는지 보려고 했죠.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그런데……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그 광경에 정신이 팔려서 뒤에서 다가온 또 다른 인물을 눈치채지 못했겠지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――강제로 약을 먹고, 정신을 차리니 어느새 몸이 작아져 있었고……<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''네? 아뇨, 딱히 그런 일은…… 아무튼 두 사람에게 들키기는 했어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''다가가다가 실수로 캔을 걷어차서 들키고 말았어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''너무 무서워서 도망쳤어요. 그런 제 뒤를 두 사람이 집요하게 쫓아오기 시작했죠.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''아무리 도망쳐도 계속 따라와서, 계속 필사적으로 달리기만 했죠……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''얼마나 시간이 지났는지도 모를 그때, 어떤 사람의 부드러운 몸에 부딪히고 말았어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그 사람은 절 나무라거나 무슨 일이냐고 묻지도 않고, 수상한 두 사람과 싸워서 쫓아내 줬어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''나중에 알게 되었는데… 그 사람은 바로 경찰학교의 아즈마 교관님이었죠.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그걸 계기로 저는 경찰관이 되기로 결심했고……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''경찰학교에 입학하고 난 후에는 꼭 아즈마 선생님의 제자가 되고 싶었어요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그렇게 3년이 훌쩍 지났고…… 벌써 10년 전 이야기네요.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''(……너무 긴 거 아닌가?)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(촬영 필름도 공짜가 아닐 텐데… 뭐, 모항 예산으로 찍고 있는 거긴 하지만…)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――잠깐, 미안한데… 핵심만 말해 줄래?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――누가 습격한 거야? 제로과의 거점에는 대체 어떻게 들어온 거고?<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''아즈마 선생님이에요! 설마… 아즈마 선생님이 스파이일 줄은 꿈에도 생각 못 했어요…!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''어제 폭발 사건을 일으킨 것도 그 사람이에요! 저를 습격한 건 거짓 증거를 만들어 모든 누명을 제게 씌우기 위해서예요!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''어떻게 제로과의 거점을 알아낸 거냐면… 지금으로부터 6년 전에 일어난 일인데……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그때……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――자, 잠깐! 괜찮아. 그 정도면 충분해.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――습격당한 건 정확히 언제야? 아즈마는 언제 여길 떠난 거야?<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''음…… 대략 30분 전쯤…? 그때는 정말……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――알았어! 고마워! 뒤는 나한테 맡겨!<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+감사합니다! 고문님!<br>
+아, 잠깐만요! 나가시기 전에 저 좀 풀어주고 가세요…!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷~이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=상담 교실|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -7- 상담 교실<br>
+Scene: 경찰학교 교실<br>
+Time：20:42<br>
+Date: 6월 26일<br>
+특별 고문의 지위 덕분에 아즈마 선생의 행방을 조사하는 건 어렵지 않았다.<br>
+그리고 찾아낸 빈 교실에서는 익숙한 누군가가 조용히 당신을 기다리고 있었다……<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+이렇게 빨리 찾아내다니, 역시 대단해요.<br>
+경찰 기구의 고문… 아니, 사랑스러운 우등생이라고 부르는 편이 더 좋을까요?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(흐름대로 진행할까? 아니면……)<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――그건…… 선생님이 어떤 입장으로 저와 마주하고 싶은지에 달렸죠.<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''후후, 질문으로 대답을 회피하다니… 역시 자랑스러운 우등생이군요.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''다른 아이들도 당신만큼 우수했더라면 좋았을 텐데……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――설마…… 젠커 경감을 두고 하시는 말씀인가요?<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''젠커일 수도 있고, 그녀뿐만이 아닐 수도 있죠.<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+아무튼 지금 이렇게 직접 찾아왔다는 건… 어느 정도 마음속으로 이미 결론을 짓고 온 걸 테죠?<br>
+젠커 경감의 말을 믿나요?<br>
+……만약 제가 「스파이가 아니다」라고 하면, 선생님의 말을 믿어주겠어요?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――누구의 말이든 무턱대고 믿을 생각은 없어요. 증거 없이는 판단할 수 없죠.<br>
+――하지만… 젠커 경감 쪽에서는 선생님이 아카이브 시설을 폭파했다는 정황 증거를 제시했어요. 그건 어떻게 해명하실 건가요?<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+네, 확실히 어제 아카이브 시설에 다녀오기는 했어요.<br>
+하지만 그건… 당신을 위해 자료를 찾으러 간 거였어요.<br>
+조사 임무를 맡았다는 걸 알고, 스파이들이 증거를 없애기 위해 과격한 수단을 쓸지도 모른다는 생각이 들어서… 당신이 그들의 시선을 끄는 동안 몰래 움직인 거죠.<br>
+자, 이게 어제 손에 넣은 자료예요.<br>
+빨리 빠져나오길 잘했어요… 안 그랬으면 자료는커녕 무사히 나올 수 없었을지도 몰라요.<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+당신은 아즈마 선생에게서 자료를 건네받았습니다. 그 자료에는 제로과 전체가 이미 스파이들의 거점이 되었다는 내용이 적혀 있었습니다.<br>
+게다가 놀랍게도 조직 내부에 훨씬 깊게 침투한 존재가 있다는 내용 또한 암시되어 있었습니다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――세상에… 그래서 젠커 경감을 습격한 건가요?<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+사실 그 자료 중 일부는 젠커의 비밀 거점에서 회수한 거였어요.<br>
+설마 조사를 하던 중에 그녀가 들이닥칠 줄은 몰랐어요. …다행히 완력은 선생님 쪽이 우세했답니다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――그랬구나… 왜 보고하지 않으신 거죠?<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+이 조직은 이미 오랫동안 우리 내부에 뿌리를 내린 상태인 듯해요. 그래서 믿을 수 있는 건 오로지… 당신뿐이었어요.<br>
+이런 증거를 손에 넣은 이상, 더욱더 신중하게 움직여야 해요.<br>
+이제는… 스파이가 누구라도 이상하지 않은 상황이에요.<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+컷~이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=네온 시티의 밤|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -8- 네온 시티의 밤<br>
+Scene: 상점가의 술집<br>
+Time：22:59<br>
+Date: 6월 26일<br>
+교실을 나온 당신은 앞으로의 행동을 머릿속으로 정리했다. 그러다 문득 정신을 차리니, 어느 술집 앞에 서 있었다.<br>
+종일 바빴던 탓일까, 배에서는 꾸르륵 소리가 났다.<br>
+그렇게 당신은 간단히 요기를 하러 술집 안으로 들어섰다.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+(드디어 식사 장면이…… 이 순간만을 기다렸어.)<br>
+<br>
+'''''<span style="color:black;">选择项1：마음껏 주문한다</span>'''''<br>
+'''''<span style="color:black;">选择项2：그냥 그만두자</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――사장님! 여기 치킨버거랑 해군 카레, 그릴 소시지, 슈바인스학세, 보르시, 에스카르고 레드와인 조림, 스타게이저 파이, 마르게리타 피자, 그리고…… 만한전석도 하나 부탁드려요!<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……………………<br>
+'''''<span style="color:black;">（选择项1）</span>'''''당신은 가게에 들어서자마자, 메뉴에 없는 요리들까지 잇따라 주문하기 시작했습니다.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그 기행은 사장에게는 무시당했지만, 그 대신 익숙한 누군가의 시선을 끌었습니다.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+응……? 고문이네.<br>
+지금 야근 끝난 거야?<br>
+잘 됐다~ 같이 한잔하자!<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이인지 물어본다</span>'''''<br>
+'''''<span style="color:black;">选择项2：대본의 흐름에 따른다</span>'''''<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……스파이? 아, 그래…… 위대한 임페로 본부장님이 바로 그 스파이시지~!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''자, 어서 날 잡아가… 일을 너무 많이 해서 솔직히 더는 못 버티겠어… 일하기 싫어……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''――잡혀도 일은 해야 할 텐데…?<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''윽…… 그건 그래…… 그건 싫어…… 그러면 잡아가지 마!…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''같이 먹고 마시면서 잊자~!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''――응. 지금 야근을 마친 참이야.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――요즘 일이 너무 많아서, 정말 힘들어……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――임페로 본부장은 어때? 그쪽도 그래?<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''후후후…… 명목상으로는 야근 중이기는 한데……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''위대한 임페로 본부장님은 지금… 전략적 휴식 중이시거든……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''꿀꺽꿀꺽~ 크하아~! 뭔가… 어질어질하네……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''있잖아, 고문…… 매일 출근하는 것도 힘든데… 왜 야근까지 해야 하는 걸까…?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''왜냐고……<br>
+<br>
+'''''<span style="color:black;">选择项3：일하는 게 좋으니까!</span>'''''<br>
+'''''<span style="color:black;">选择项4：어떤 이유에서든 야근은 나빠!</span>'''''<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''대단해…… 정말 존경스러워……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''존경하는 마음을 담아서…… 건배~!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''야, 있잖아…… 내 말 좀 들어봐, 고문.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''업무라는 건 말이야…… 그냥 적당히 하고 치우면 돼…<br>
+'''''<span style="color:black;">（选择项3）</span>'''''몸은 하나뿐…… 인생도 단 한 번뿐……!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''일이 끝난 후의 시간이야말로…… 진정한 「삶」이라고……!<br>
+'''''<span style="color:black;">（选择项3）</span>'''''이렇게 피곤한 날에는 말이지… 아카시 술집에 들르면 돼.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''그래! 맞아…! 건배~!<br>
+'''''<span style="color:black;">（选择项4）</span>'''''야, 있잖아…… 내 말 좀 들어봐, 고문.<br>
+'''''<span style="color:black;">（选择项4）</span>'''''업무라는 건 말이야…… 그냥 적당히 하고 치우면 돼…<br>
+'''''<span style="color:black;">（选择项4）</span>'''''몸은 하나뿐…… 인생도 단 한 번뿐……!<br>
+'''''<span style="color:black;">（选择项4）</span>'''''일이 끝난 후의 시간이야말로…… 진정한 「삶」이라고……!<br>
+'''''<span style="color:black;">（选择项4）</span>'''''이렇게 피곤한 날에는 말이지… 아카시 술집에 들르면 돼.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+이 아카시 술집의 맥주는 말이지~ 아카시 맥주 공방에서 72시간 동안 저온 발효 기술로 숙성시킨 거야.<br>
+호박과도 같은 황금빛…! 샴페인을 방불케 하는 부드러운 거품…!<br>
+그게 끝이 아니야. 안주로 나오는 꼬치의 고기도 아카시 농장에서 직송해서 전통 방식으로 손질한 건데……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――……임페로, 대체 아카시한테 얼마나 받은 거야?<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+맥주 무한! 꼬치도 무한!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+――어휴, 됐어… 나 먼저 간다, 본부장.<br>
+――본부장도 너무 많이 마시지 말고, 조심해서 들아가.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+괜찮아…… 진짜아…… 쿨……<br>
+고문…… 스파이…… 꼭 잡아줘…… 파이팅…… 쿨쿨……<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+냥냥! 컷~이다냥!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=스파이의 정체|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Chapter -9- 스파이의 정체<br>
+Scene: 경찰 기구 회의실<br>
+Time：8:05<br>
+Date: 6월 27일<br>
+다음 날, 당신은 아즈마 선생과 젠커 경위를 포함한 모든 관계자를 회의실로 호출했다.<br>
+이미 결론은 나왔다. 그리고 지금, 이 자리에 모인 모두가 당신의 입에서 최종 결론이 나오기만을 기다리고 있다.<br>
+자, 과연 당신이 입에 올리는 결론은 진실일까?<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+회의실에 발을 들이자, 7명의 시선이 당신에게 쏟아졌습니다.<br>
+형사부의 임페로 본부장. 제로과의 젠커 경감과 U-552 경위.<br>
+수사1과의 넵튠 경감, 수사2과의 Z13 경위, 교통 집행과의 U-37 경사. 그리고 경찰 학교의 교관 아즈마 선생님까지.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――이미 전에도 한 번 본 흐름인데…… 시간 채우기용인가?<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+「수미상관」이라고 부르는 기법입니다. 지난 이야기의 요약도 겸하고 있죠.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――그래……<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+또 이런 아침부터…… 고문, 결론은 나왔어?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+드디어 이번 사건이 마무리되는 건가…? 빨리 알려줘. 조금 있으면 라이브 방송 시작한단 말이야……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+단 며칠 만에 스파이를 찾아내다니, 정말 대단하세요! 역시 유능하시군요!<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+그동안 제멋대로 날뛴 범인… 대체 누구죠?<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+증거는 명백해요! 스파이는 아즈마 선생님이라고요! 왜 아직 망설이시는 거죠?!<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+어젯밤 제 말… 기억하고 계시죠? 늘 자신을 우선에 두고 생각하세요.<br>
+어떤 결정을 내리셔도 이 선생님은… 당신 편이랍니다.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+흐음…… 과연 어떤 결론을 내릴지, 위대한 임페로 본부장도 궁금한걸.<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+최종 결단을 내릴 순간입니다. 자, 스파이는 누구죠?<br>
+<br>
+'''''<span style="color:black;">选择项1：알고보면 내레이션이 스파이라던가…?</span>'''''<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+아닙니다.<br>
+최종 결단을 내릴 순간입니다. 자, 스파이는 누구죠?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+………<br>
+<br>
+'''''<span style="color:black;">选择项1：스파이는 없어</span>'''''<br>
+'''''<span style="color:black;">选择项2：다 스파이야</span>'''''<br>
+'''''<span style="color:black;">选择项3：스파이는… 나다!</span>'''''<br>
+'''''<span style="color:black;">选择项4：스파이는… 청장이다!</span>'''''<br>
+'''''<span style="color:black;">选择项5：스파이는… 감독이다!</span>'''''<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''스파이는 없다… 그것이 당신이 발표한 수사 결과였습니다.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''스파이가 없다니……? 정말……?<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''흐음…… 그게 고문이 내린 결론인가? 흥미롭네.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''잠깐만요! 스파이가 없다니 무슨 말씀이세요? 아카이브 시설은 실제로 폭발했잖아요!<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''게다가 전 아즈마 선생님께 습격당했다고요! 스파이가 아니라면 대체 뭐죠?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――이 모든 건…… 경찰 기구 상부에서 주도한, 현실감 넘치는 보안 훈련이었어!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――아카이브에서 일어난 화재 상황은 확실히 심각했지만, 매우 짧은 시간 내에 진압되었지.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――며칠간 우리가 목격한 모든 「수상한 정보」는 청장이 의도적으로 뿌린 미끼야. 내부의 문제점을 파악하기 위한 「피싱 테스트」였던 거지.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――즉…… 애초에 「침입자」는 존재하지 않았어.<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……그랬군요. 제가 본 수많은 정보도 결국은 상부에서 뿌린 함정이었다니…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''젠커 경감… 정말 죄송해요.<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''설마 이런 결말을 맞이할 줄이야…… 본부 사람들도 참 한가한가 봐요.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''시간이랑 자원을 낭비한 것뿐만 아니라, 동료 간의 신뢰까지 금이 가고 말았네요……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''……오해해서 죄송해요. 아즈마 선생님, 정말 죄송합니다!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――오해가 풀려서 다행이야.<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''그렇게 스파이에 대한 우려는 불식되었고, 당신은 보고를 위해 본부로 향하게 되었습니다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''――그럼, 다들… 여기서 작별 인사를 해야겠네. 인연이 있으면 또 만나자고.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''조심히 가, 고문. 이 위대한 임페로 본부장은 널 높이 평가하고 있으니… 언젠가 또 만날 수 있겠지.<br>
+<br>
+따뜻한 분위기 속에서 모두에게 작별을 고한 당신은 경찰 기구 본부로 향했다.<br>
+보고를 받은 청장은 「알았다」는 단 한마디만을 남겼다.<br>
+한 달이 채 지나지도 않은 시점에 청장의 조기 퇴직이 발표되었고, 그 후임으로 임페로가 취임했다.<br>
+그 후, 당신은 평범한 요원으로 일하면서 순조롭게 승진을 거듭하며 착실히 경력을 쌓아나갔다.<br>
+「일에 집중하며 앞으로 나아가는 삶도… 나쁘지 않은걸?」<br>
+「네온 시티의 탐색자 - END」<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''컷~이다냥!<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''다들 스파이다… 당신이 내린 결론은 너무도 충격적이었습니다.<br>
+<span style="color:#ff9b93;">U-552：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''다, 다들…?! 여기 모인 사람들 전부가 스파이라고?!<br>
+<span style="color:#ff9b93;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''잠깐만요! 농담이 너무 지나치신 거 아닌가요?!<br>
+<span style="color:#ff9b93;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''맞아요! 게다가 전 피해자였다고요…! 왜 저까지 싸잡아서 스파이라고 하시는 건가요!<br>
+<span style="color:#ff9b93;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''진짜… 하나도 이해가 안 되네~!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――지난 며칠 동안, 너희는 서로 연계해 정보를 조금씩 흘리면서 진실과 거짓을 섞어 혼란을 조장했어. 그 목적은 단 하나… 내 판단력을 흐리게 만들기 위해서였지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――하지만 다행히 아즈마 선생님이 스스로 정체를 드러내면서 너희 연계에 빈틈이 생겼지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――아카이브를 폭파한 건 아즈마 선생님이 맞아. 하지만 선생님이 넘긴 정보는 진짜였어.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――선생님이 조직을 이탈하려 하자, 너희는 선생님을 미끼로 삼아 내 시선을 그쪽으로 돌려 의심을 피하려 했던 거야.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……그렇지? 임페로 본부장님?<br>
+<span style="color:#ff9b93;">임페로：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……역시 본부에서 파견된 특별 고문답군. 인정할 수밖에 없겠네.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''하지만 어떻게 나까지 눈치챈 거지?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――이 중에서 가장 지위가 높고, 가장 의심받기 어려운 당신이 날 동료로 회유하려고 한 시점에서 확신했어.<br>
+<span style="color:#ff9b93;">임페로：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……머리가 잘 돌아가는 사람일 줄 알았는데, 아쉽게 됐군.<br>
+<span style="color:#ff9b93;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''뭐, 들켰으니 어쩔 수 없네요.<br>
+<span style="color:#ff9b93;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''출입문은 잠가뒀어.<br>
+<span style="color:#ff9b93;">Z13：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''감시 카메라도 다 꺼뒀고~ 자, 순순히 잡히는 게 어때?<br>
+<span style="color:#ff9b93;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''걱정하지 마세요. 잠시 구금해 두는 것뿐이에요. 다치게 할 생각은 없어요.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――……역시 이렇게 나오는군. 하지만 이쪽에서도 준비해 둔 게 있지.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――창문으로 도주한다!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''――뒤를 부탁해! 국제형사팀!<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''다들 움직이지 마라! 이 빌딩은 포위됐다! 무의미한 저항은 버리고 즉시 투항하라!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''잘했어, 파트너! 차고까지 가는 경로는 확보해 뒀으니 서둘러!<br>
+<br>
+당신은 아침 햇살에 반짝이는 유리창을 향해 몸을 던졌다.<br>
+놀란 스파이들을 뒤로한 채 경사진 유리면을 미끄러져 내려와, 경찰 기구 빌딩에서 화려하게 탈출하는 데 성공했다.<br>
+이후, 나타난 국제 형사팀에 의해 현장은 완전히 제압되었다.<br>
+임무를 무사히 완수한 당신은 청장으로부터 포상을 수여받았다.<br>
+하지만 조직 잔당들의 보복이 우려되었기에…<br>
+당신은 국제 형사 기구의 주선으로 한 외딴 지역에서 조용하고 평화로운 은둔 생활을 시작하게 된다.<br>
+「평범하지만 행복한 삶… 이것도 나쁘지 않지.」<br>
+「네온 시티의 탐색자 - END」<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''컷~이다냥!<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''「스파이는 나다」… 그것이 당신이 조사 끝에 도달한 진실이라며 선언한 내용이었습니다.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''그 순간, 회의실 안의 모든 이가 얼어붙은 듯 침묵에 휩싸였습니다.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''고, 고문이 스파이라고?<br>
+'''''<span style="color:black;">（选择项3）</span>'''''……농담이라고 해도 도가 지나친 거 아니야?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――지금까지의 기억이 없으니… 이론상으로는 내가 스파이일 가능성도 충분히 있어.<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……틀린 말은 아니네요. 하지만 아카이브를 폭파한 건 당신이 아니잖아요.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――기억이 없으니… 이론상으로는 내가 사전에 계획해 두었을 가능성이 충분하지.<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''그럼…… 제가 아즈마 선생님께 습격당한 건요? 아무리 그래도 그건 고문님이랑 관련 없잖아요?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――그것도 기억이 없으니, 이론상으로는…… 내가 아즈마 선생님을 협박해 실행하게 한 가능성도 있겠지?<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''음…… 그런 식으로 해석할 수도… 있으려나?<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''후후… 고문, 꽤 흥미로운 센스를 지녔어.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''정말 기가 막힌 조크였어. 이 임페로 본부장은 무척 마음에 드는군.<br>
+'''''<span style="color:black;">（选择项3）</span>'''''그래서 그대로 청장에게 보고하러 가려고? 아니면… 일단 이 자리를 어떻게든 벗어나려고 고민 중인가?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――……? 무슨 말인지 잘 모르겠군.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''흠… 아무것도 아니야. 어차피 본부에는 돌아가야 할 테니, 그만 가도록 해.<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''고문! 차량은 이미 준비됐어!<br>
+<span style="color:#4eb24e;">아즈마 ：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……저도 고문과 함께 가겠어요.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''아즈마 선생…? 당신까지 따라가서 뭘 어쩌려고?<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''그렇게 당신은 전례를 찾아볼 수 없는 방식으로 수사를 마무리한 후, 본부로 향하는 차량에 몸을 실었다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''――그럼 다들… 건강해.<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''조심해서가, 고문.<br>
+<br>
+약간 어색한 분위기를 남긴 채, 당신은 모두에게 작별을 고하고 경찰 기구 본부로 향했다.<br>
+차 안에서 아즈마 선생에게 받은 자료를 넘기며 청장에게 전화를……<br>
+걸려고 하던 바로 그 순간!<br>
+굉음과 함께 차량이 불길에 휩싸였고, 절벽 아래로 추락했다.<br>
+며칠 뒤,「자신이 스파이였다」는 당신의 자필 진술서가 청장의 책상 위에 도착했다. 폭발 사고는 「양심의 가책에 의한 자살」로 처리되었다.<br>
+한 달이 채 지나지도 않은 시점에 청장의 조기 퇴직이 발표되었고, 그 후임으로는… 임페로가 취임했다.<br>
+세상은 마치 아무 일도 없었던 것처럼 오늘도 조용히 돌아가고 있다.<br>
+「농담이란 게 그냥 농담으로 끝나진 않을지도 모르지.」<br>
+「네온 시티의 탐색자 - END」<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''컷~이다냥!<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''스파이는… 청장이다! 그렇게 당신은 조사 끝에 도달한 결론을 모두 앞에서 선언했다.<br>
+<span style="color:#4eb24e;">U-552：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''……뭐? 잠깐… 이야기가 왜 그렇게 되는 거야?<br>
+<span style="color:#4eb24e;">넵튠：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''노, 농담도…… 청장이 스파이라니, 그건 말도 안 돼요!<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''오호… 이 임페로 본부장의 흥미를 끌다니, 대단한걸. 그래서, 이유는 뭔데?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――추리 드라마의 철칙 중에는… 「범인은 가장 먼저 등장한 인물」이라는 말이 있어.<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――그렇다면 청장이야말로 가장 의심이 가는 인물이겠지?<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――가장 처음 등장했으면서, 아무 단서도 남기지 않았고…<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――얼굴도, 이름도, 정체도 아무도 몰라.<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――……말이 나와서 말인데, 청장을 맡은 사람은 누구야?<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''아오바입니다.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――봐! 수상하잖아!<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――애초에 취재 협조라는 명목으로 날 여기 부른 것도 아오바였어!<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――수상해도 너무 수상해!<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''그렇기는 하네… 그래서 어떻게 하려고?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''――다 함께 힘을 모아서 청장의 약점을 잡아서 그 자리에서 끌어내리는 거야!<br>
+<span style="color:#4eb24e;">임페로：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''그 계획… 위대한 임페로 마음에 쏙 드는걸?<br>
+'''''<span style="color:black;">（选择项4）</span>'''''좋아, 일단 돌아간 다음에 신중하게 움직이면서 내 연락을 기다려. 같이 청장을 무너뜨리자.<br>
+<br>
+그렇게 묘하게 화목하고 열정적인 분위기 속에서 당신은 경찰 기구 본부로 돌아가는 길에 올랐다.<br>
+이동 중에 임페로 본부장으로부터 극비 연락이 들어왔다.<br>
+그녀의 도움 덕분에 당신은 애매하면서도 상세한 거짓 보고를 올려 이번 수사를 무사히 마무리했다.<br>
+그 후, 본부장과의 긴밀한 협력 끝에 당신은 아오바 청장의 막대한 재산이 불분명한 경로에서 나왔다는 증거를 포착했다.<br>
+아오바는 청장직에서 해임되어 체포되었고, 그 자리는 임페로가 정식으로 승계받았다.<br>
+그리고 당신은 신임 청장과의 특별한 관계 덕분에 초고속으로 승진 가도를 달리기 시작했다.<br>
+3년도 채 지나지 않아 당신은 차기 본부장 자리까지 올라섰다.<br>
+그렇게 찬란한 날들이 이어졌다.<br>
+「세상이 끝날 때까지… 내 인생은 찬란하리라.」<br>
+「네온 시티의 탐색자 - END」<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''컷~이다냥!<br>
+<span style="color:#4eb24e;">내레이션：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''스파이는… 감독이라며 당신은 수사의 최종 결론을 선언했습니다.<br>
+'''''<span style="color:black;">（选择项5）</span>'''''…………?<br>
+'''''<span style="color:black;">（选择项5）</span>'''''감독이 스파이…? 진심이신가요?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――그래, 당연하지.<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――며칠간 촬영을 거치면서 대본에 숨겨진 어두운 진실을 완전히 파악했어.<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――그리고 시나리오대로 움직이면 누굴 「스파이」로 지목해야 하는지도 알지.<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――허나 거절한다!<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――꼭 한 명을 스파이로 지목해야 한다면…… 그건 이 작품의 감독인 아카시야!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''냐냥?!<br>
+'''''<span style="color:black;">（选择项5）</span>'''''NG! NG다냥!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――후후… 내가 아무런 대비도 안 해놨을 줄 알았어?<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――아카시 감독! 이 영화는 이미 당신 혼자만의 것이 아니야!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''……냥? 지휘관, 그게 무슨 말이냥?<br>
+<span style="color:#4eb24e;">이카즈치：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''오오! 제4의 벽을 뚫고 전지적 독자 시점으로 들어가는 건가?!<br>
+<span style="color:#4eb24e;">이나즈마：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''세계관이 더 확장되면서, 훨씬 깊이 있는 설정들이 추가될 거예요.<br>
+<span style="color:#4eb24e;">괌：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''같은 배우, 같은 무대지만 전혀 다른 각본…… 그것도 재밌겠는걸?<br>
+<span style="color:#4eb24e;">하이티엔：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''사실 이미 새 대본도 구상해 뒀어요. 제게 맡기세요!<br>
+<span style="color:#4eb24e;">푸슌 ：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''컷 장면도 막 추가하자! 모험적인 요소도 팍팍 넣고!<br>
+<span style="color:#4eb24e;">볼티모어 ：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''액션 신에 뜨거운 격투 신… 아! 오토바이 추격전도!<br>
+<span style="color:#4eb24e;">리노 ：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''슈퍼 히어로 요소도 추가하면 좋겠다~!<br>
+<span style="color:#4eb24e;">뤼초：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''난 흡혈귀에 한 표~~♥<br>
+<span style="color:#4eb24e;">누비안：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''음…… 요새 대세는 이세계 모험물이라구.<br>
+<span style="color:#4eb24e;">아야나미：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''아야나미…… 준비 완료예요.<br>
+<span style="color:#4eb24e;">재블린：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''전설의 용사 파티……<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''재결성!<br>
+<span style="color:#4eb24e;">라피：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''쿨……<br>
+<span style="color:#4eb24e;">키로프：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''추리 드라마 부분도 강화하자. 더 규모를 키워서 세계 시장을 노리는 거지!<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''이, 이게…… 대체 무슨 상황이냥……?<br>
+'''''<span style="color:black;">（选择项5）</span>'''''아카시의 영화가……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''뭔가…… 더 재밌어질 것 같은 느낌도 들고냥……?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――그럼 바로 촬영에 들어가자!<br>
+'''''<span style="color:black;">（选择项5）</span>'''''――액션!<br>
+<br>
+그렇게 모든 촬영이 종료되었다.<br>
+<span style="color:#4eb24e;">아카시：</span><br>
+후후후, 이제 다 끝났다냥. 다들 수고 많았다냥!<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+벌써 끝이야? 지휘관이랑 더 놀래~!<br>
+<span style="color:#4eb24e;">아드미랄 젠커：</span><br>
+촬영하는 내내 긴장했어요…… 다음에는 계획을 더 철저하게 세워서 임해야겠어요.<br>
+<span style="color:#4eb24e;">멤피스：</span><br>
+지휘관, 촬영하느라 고생 많았어!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+――아, 멤피스! 마침 잘 왔어. 묻고 싶은 게 있었거든.<br>
+<span style="color:#4eb24e;">멤피스：</span><br>
+응? 뭔데?<br>
+<br>
+'''''<span style="color:black;">选择项1：사실 멤피스가 스파이지?</span>'''''<br>
+<br>
+뭐어어어어어어?!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
