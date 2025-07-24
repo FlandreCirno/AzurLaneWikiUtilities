@@ -1878,7 +1878,7 @@ LD港薔薇塔<br>
 一朵朵花蕾綻放，一個個片段劃過。<br>
 我從片段中看到了弗里茨·魯梅。<br>
 在淨化裝置完成修復，星之獸也被擊退後，她正帶領抵抗軍艦隊收復著一處又一處故土。<br>
-<span style="color:#4eb24e;">弗里茨·魯梅：</span><br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
 很好，敵人快撐不住了……保持這個氣勢，繼續進攻下去！<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （……這處花蕾，連結的是弗里茲·魯梅的世界。）<br>

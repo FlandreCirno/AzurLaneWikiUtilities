@@ -1,0 +1,438 @@
+== 港區時尚特刊·夏日旖旎 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Boss兔的小憩時間|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{playername}：</span><br>
+……<br>
+<br>
+依照約定來到魯梅設置的臨時辦公室後，被眼前的景像小小的震驚了一下。<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+復古的裝飾、長劍、獵槍、散落在地的道具紙鈔……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（說起來，之前她倒是一直在看黑幫電影，難道是電影看太多導致的……？）<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+坐吧，指揮官。<br>
+她的話語將我的思緒拉回，依言在她身旁坐下後，<br>
+她便從一旁的小桌上拿起了一份文件遞給了我。<br>
+指揮官，今天特地約你來，主要是想做個體驗研究。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+體驗調查？<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+嗯，畢竟店鋪經營期間，由我擔任這裡的店長，也就是「Boss兔」。<br>
+關注唯一且重要的顧客的體驗，也是我身為店長的本職工作。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+所以這份文件，是研究問卷嗎？<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+不。這份文件是我草擬的新店規，我打算結合口頭調查，徵詢你的意見和感受。<br>
+你可以看看是否到位……如果有不夠嚴格的部分，我會立刻修改。<br>
+面向你的一切必須精益求精。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好……<br>
+{namecode:542}：<br>
+打開這份草擬的新店規開始翻看後——<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+上下班必須打卡，禁止以「迷路」和「太睏了」當理由遲到早退……？<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+我認為考勤問題是一店之本，如果員工不能準時到崗，就無法對指揮官提供服務。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+那這一條，工作時間嚴格禁止展開與工作無關的活動的後面……<br>
+為什麼還有個括號標註「無論是自願或非自願」？<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+很簡單，無論是主動摸魚，還是因為其它特殊情況——比如和貓咪對峙而導致的招待不周……<br>
+都不應該在店內出現。前者完全不應該出現，後者完全可以透過向其他人求助而擺脫困境。<br>
+少女振振有辭，伴隨著話語最後的尾音落下，她懷中的裝飾劍的劍柄重重砸在了地毯上。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯……作為「規矩」來說，沒什麼問題。<br>
+不過，我覺得更自由、考慮到其他同伴的感受會更好。<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+不行，寬鬆自由怎麼能提供你最好的服務！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+比起這個，我更希望妳不要那麼緊繃。<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+嗯……？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我希望妳能夠更重視自己的感受，就像妳重視我的感受一樣。<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+魯梅的目光中罕見的染上了一絲茫然。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我希望在我身邊的妳，不被任何「規矩」、「規則」束縛。<br>
+開心的、自由的，與我一同享受這段時光。<br>
+{namecode:542}：<br>
+少女的表情出現了細微的鬆動，一向處變不驚的眼中透著幾分動搖。<br>
+你的意思是，希望我不要那麼嚴守紀律，而是去嘗試享受這段時光？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+是的。而且……店規的事情我也希望妳先放到一邊，維持現狀就好。<br>
+{namecode:542}：<br>
+她思索片刻，長呼出一口氣。<br>
+好，我會認真考慮你的意見的……<br>
+不過……<br>
+我該怎麼做會比較好？我不大擅長享受閒暇時光這種事……<br>
+<br>
+'''''<span style="color:black;">选择项1：總之，先笑一個？</span>'''''<br>
+'''''<span style="color:black;">选择项2：放飛自我吧！</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''總之，先笑一個？從剛才開始，妳的表情就一直很嚴肅。<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……我試試。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''魯梅有些僵硬地拉扯著唇角，笨拙得有些可愛。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不用考慮那麼多，直接放飛自我就好！<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……放飛自我？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我開玩笑的。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+其實不用過度考慮我的建議。這種時候，做妳自己想做的就好。<br>
+<span style="color:#4eb24e;">{namecode:542}：</span><br>
+做我自己想做的事？<br>
+魯梅微微垂眸，罕見的、淡色的紅暈飛上她素來清冷的臉頰。<br>
+她緊繃端正的身體鬆懈下來，手自然而然地落於身側，尾指與我輕輕相觸。<br>
+指尖接觸的瞬間，她輕輕顫動了一下，在短暫的停頓片刻過後，又勾住了我的手指。<br>
+那現在，我就暫時放下秩序與工作，只是陪伴在你身邊，也是可以的吧？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=飛馳的約會|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+接到了Z52確認位置的來電後，剛走到電梯井就看見她風風火火跑出來的身影。<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+她一手拿著正與我通話的手機，一手拉扯著滑落的襪子。<br>
+指揮官，我出電梯……<br>
+……啊！指揮官你來接我啦！<br>
+發現我的到來後，她掛斷了電話，歡快地招手。<br>
+而隨著她抬手的動作，少女身前的衣物驟然失去了夾緊的作用力，開始了滑落。<br>
+哇——！！<br>
+指揮官，等等哦！我、我找一下防滑貼……<br>
+咦……我放哪裡了？明明就是因為跑去買這個才快遲到的……怎麼找不到了？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我來幫妳找？<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+哎呀不用不用，本來就讓你等了我這麼久！<br>
+沒想到這身衣服這麼不防滑……早知道就先試穿一下了！<br>
+今天穿著的時候就一直感覺它往下掉，再加上趕過來的時候~風呼呼的——<br>
+Z52分享著先前的經歷，手上翻找的動作也跟著停了下來。<br>
+<br>
+'''''<span style="color:black;">选择项1：不如先把防滑貼找出來？</span>'''''<br>
+'''''<span style="color:black;">选择项2：先把手上的東西給我吧？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不如先把防滑貼找出來，把衣服黏好，我們再繼續聊？<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''噢！對噢！我已經翻到了！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我來黏一下……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''把手上的東西也給我吧？我幫妳拿著。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''先把手上的東西給我吧？我幫妳拿著，這樣妳找防滑貼也方便。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''總之把衣服處理好再說吧。<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''防滑貼我已經找到~了！不過既然指揮官要幫我拿東西嘛，那就……<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+欸嘿嘿~謝謝指揮官！<br>
+Z52將手提袋地遞給了我，開始在襪子與衣服的內側貼上防滑貼。<br>
+原本有些鬆垮的黑色布料被防滑貼黏牢，在少女的肌膚上勒出淺淺的痕跡。<br>
+好了！<br>
+Z52原地跳了跳，確認衣物不再滑落後，露出了明媚的笑容。<br>
+沒問題了，指揮官，我們快去店裡玩吧！<br>
+把被我遲到浪費掉的時間全都補回來！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好，剛才我已經用手機提前下好單，幫妳點了蛋糕和飲料了。<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+好耶~！指揮官，我們快跑前進——！<br>
+Z52抓過我的手，帶著大大咧咧的笑容拉著我向前跑去。<br>
+大家開的店是這個方向吧，指揮官？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+咳，其實是那邊。<br>
+<span style="color:#4eb24e;">{namecode:540}：</span><br>
+欸——！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=秘密的特訓時光|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+叩叩叩——<br>
+敲響了杜伊斯堡所在的休息室的門。<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+指揮官？明明還沒到約定的時間……啊~就這麼心急想要見到我嗎？哼哼~<br>
+……<br>
+等等、等等……這、這是……？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯……？<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+杜伊斯堡驟然變得有些慌亂的語氣讓我有些擔心，在直接推門而入後——<br>
+指、指揮官，您怎麼就進來了？<br>
+杜伊斯堡有些拘謹地跪坐在柔軟的沙發上，匆忙地垂眼掩飾其中的慌張。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+妳沒事吧？發生了什麼事？<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+沒什麼，只是、嗯……只是我差點打翻了水杯而已。<br>
+儘管少女這樣說了，但她的周圍並沒有任何水漬，也沒有所謂的「水杯」。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（既然她不想直說……算了，暫且不問吧。）<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+無關緊要的事情就讓它過去吧。眼下還是正事要緊呢。<br>
+既然指揮官提前來了，那我們就快點開始今天的特訓吧~？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+雖說答應陪妳特訓，但我其實還是不知道具體要陪你特訓什麼內容。<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+嗯……主要想要特訓一下「如何更好地服務主人」呢~<br>
+因為我還是第一次擔任「服務生」這樣的工作，還是有些沒把握。<br>
+所以想著約指揮官來陪我特訓的話，在店裡我就能夠更加得心應手一些吧~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+原來是這樣，那就開始吧。<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+……<br>
+少女輕輕呼出一口氣，但身體似乎仍是僵硬、沒有鬆懈下來。<br>
+主、主人，歡迎回來，今天就由杜伊斯堡來服事您~<br>
+少女不似平常那般游刃有餘，有些不安地摩挲著自己的雙臂。<br>
+淡色的紅暈浮現在臉頰上，連耳朵都帶著粉紅色了。<br>
+……不、不行，穿著這身衣服果然還是……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（衣服？不過仔細一看的話，杜伊斯堡的這套衣服確實不像店裡的制服……）<br>
+（難道說……）<br>
+<br>
+'''''<span style="color:black;">选择项1：杜伊斯堡穿錯衣服了？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+杜伊斯堡，妳穿的不是店裡的制服吧……？是穿錯了？<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+果然這種程度瞞不過指揮官…<br>
+這一套是準備以後再用到的衣服啦……！<br>
+結果包裝和店裡的制服盒子太像，我就拿錯了……<br>
+不、不過，就算只有我和指揮官兩個人……在外面穿成這樣還是會害羞呀！<br>
+少女的視線移向一邊，故意避開了我的目光。<br>
+還有就是，這裡也沒有鏡子，也不知道上身效果怎麼樣，如果不好看的話……<br>
+我還是不希望您看見我不好看的一面呢……<br>
+<br>
+'''''<span style="color:black;">选择项1：明明很適合妳</span>'''''<br>
+'''''<span style="color:black;">选择项2：穿在妳身上非常好看</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''這套衣服明明很適合妳，不用那麼緊張。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''穿成這樣的杜伊斯堡很好看。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''這件衣服穿在妳身上非常好看。<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''真的……？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''真的。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+如果還是很在意的話……我們可以先暫停特訓，我陪妳去把衣服換回來。<br>
+<span style="color:#4eb24e;">{namecode:541}：</span><br>
+聽指揮官您這麼說，我突然覺得鬆了一口氣呢。<br>
+好像也不那麼緊張了~？<br>
+至於特訓……<br>
+短暫的思考過後，杜伊斯堡輕輕搖了搖頭。<br>
+她一直緊緊環抱在身前的雙手，也隨著緊張情緒的消散，終於放鬆了。<br>
+既然主人您並不討厭這套裝扮……<br>
+杜伊斯堡說著朝我的方向靠近了些，房間中暖色的燈光為她鍍上了旖旎的光。<br>
+那不如就讓我以這樣的姿態，繼續服侍您吧~♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=凌亂的心跳加演|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">可畏：</span><br>
+……剪刀，拿到了！呼……好像有些難夠到……唔……嗯……？<br>
+指、指揮官？！你怎麼已經到了？！已經到和可畏約好的時間了嗎？！<br>
+走入可畏的「秘密基地」，率先映入眼中的，便是這樣的畫面——<br>
+少女的腿被彩帶束縛著高高掛起，身體有些失衡地坐在床上搖擺著。<br>
+她的手上還拿著把鋒利的剪刀，因為情緒的起伏而在她手中亂晃。<br>
+別、別看了，先出去！把、把門也關好！<br>
+<br>
+'''''<span style="color:black;">选择项1：擔心留下</span>'''''<br>
+'''''<span style="color:black;">选择项2：聽話離開</span>'''''<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''搖了搖頭，走進房間後將門關上，然後朝著可畏走去。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你在做什麼啊！都說了你先出去了！不要再靠近了——！我、我要生氣了哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''剪刀給我，我來幫妳。妳這樣萬一傷到了自己怎麼辦？<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……什麼嘛，原來是在擔心可畏。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''好、好吧……剪刀給你，快幫我解開吧……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（想來可畏也不想讓我看見這麼失態的一面，那就聽她的，先離開吧。）<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''依照可畏的話，退出房間，就在準備把門關上時——<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……指、指揮官？！你怎麼真的走了！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''快來幫可畏解開彩帶！不然的話……可畏就一輩子不理你了！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''搖了搖頭，走進房間後將門關上，然後朝著可畏走去。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''哼……哼！這還差不多！快幫我解開！那樣的話，我就考慮原諒你！<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+接過可畏手中的剪刀，上前扶住她被高高掛起的腿。<br>
+少女緊繃的身體微微發燙。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+稍微放鬆一點？盡量讓纏著你的彩帶跟妳有點空隙，我怕剪刀劃傷妳。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+這種情況還要我放鬆是不是有點太強人所難了……！<br>
+可畏嘴上抱怨著，但仍是照我所說，嘗試著放鬆了身體。<br>
+對了！指揮官，你再靠過來一點！<br>
+讓可畏把腿靠在你身上借下力啦，一直這麼掛著，腿好酸！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+依言向可畏靠近後，她慢慢地放鬆，纖細修長的腿輕輕地搭在我的肩膀上。<br>
+彼此間的距離拉得更近，她稀碎而紊亂的呼吸聲越發清晰。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+妳別亂動，我現在剪。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+小心翼翼地剪斷了束縛著可畏的彩帶，托著她的腳踝，將她的腿放下。<br>
+……謝、謝謝。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯？<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+沒聽到就算了！可畏不會說第二次的囉！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好吧……話說回來，妳怎麼把自己弄成剛剛那樣的？<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+……<br>
+……算了！都已經讓你看到這麼狼狽的一面了，把事情告訴你也沒關係了。<br>
+本來只是想為秘密演出增加一些氛圍裝飾，不小心就被纏住了…<br>
+嗯……實在太丟臉了……你不准說出去哦！最好是給我統統忘掉！<br>
+<br>
+'''''<span style="color:black;">选择项1：我不會說出去的。</span>'''''<br>
+'''''<span style="color:black;">选择项2：忘不了這麼可愛的可畏。</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''放心吧，我不會說出去的。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那就約好了！哼~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不過……也很難忘記就是了。<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''什麼嘛！不准記住這些奇怪的事情！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''明明還有更重要的事情要記住吧！<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''聽到我的打趣後，少女的臉頰上立刻有紅暈蔓延。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''肉、肉麻死了！以後不准亂學這種！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……但、但是，我破例同意你把可愛的可畏好好記住！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''而且，接下來的更要牢牢記住不准忘！<br>
+<span style="color:#4eb24e;">可畏：</span><br>
+少女拿起了一旁的電吉他，鄭重其事地抱在懷中。<br>
+剛剛那只是一個意外的小插曲，接下來才是專門為你準備的秘密加演。<br>
+要好好看著可畏哦，指揮官！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=聖誕夜的驚喜|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……俾斯麥？<br>
+<br>
+踏入用於暫時存放禮物的、原本應該無人的房間後，看到了熟悉的身影。<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+指揮官，你怎麼過來了？！<br>
+<br>
+俾斯麥露出了錯愕的神情，咬著的頭繩也因為她開口說話而滑落。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我原本是來拆禮物的，不過現在是不是不大方便……？我先出去？<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+不，不用……<br>
+這裡本來就是指揮官用來存放禮物的房間，沒跟你事先打招呼，是我的失誤。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……<br>
+（「忘記提前打招呼」這種失誤，在俾斯麥身上不可能發生…）<br>
+（是她想偷偷進來放禮物，結果被我撞破了……）<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+看指揮官的表情，是覺得撞破了我為你準備的驚喜呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……還真是瞞不過妳。<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+呵呵，我也想說同樣的話。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不過雖然這樣一來會影響你的準備，但……<br>
+既然我已經在這裡了，妳可以把禮物親手交給我？<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+親、親手交給你……？<br>
+<br>
+她欲言又止，臉頰染上了紅暈，向我投來的目光難得帶著些許羞怯和無措。<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+其實我是想將自己當作……<br>
+<br>
+俾斯麥將頭側到了一遍，順著她偏移的視線，我這才注意到被她壓在身下的禮物包裝紙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+難道說……禮物就是俾斯麥自己嗎？<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+咳……這其實是歐根的建議。<br>
+她說在這種節日，如果不擅表現感情，那就更應該多用行動來展示……我採納了。<br>
+<br>
+少女垂下眼簾，少見的有些局促。<br>
+她伸手將身旁的酒杯稍稍推遠了些。在發現我的視線後，她便開始了解釋。<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+畢竟是第一次做這樣的事，我就喝了點，想藉著醉意表現得更自然些。<br>
+不過好像用處也不大……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+並不是這樣。<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+指揮官？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「驚喜行動」在過程上因為我的突然出現而失敗了，但就結果而言，還是成功的。<br>
+俾斯麥的心意，我已經收到了，謝謝妳。<br>
+在這樣難得的節日里，與妳在一起，便是一種驚喜。<br>
+<br>
+俾斯麥的眼眸漸漸被點亮，然後露出了欣喜而溫柔的笑容。<br>
+窗外火樹銀花，映在她身後的落地窗。<br>
+——卻不如少女靠近我時，眸中閃爍的光彩。<br>
+輕柔的呼吸落在耳畔。<br>
+<span style="color:#4eb24e;">俾斯麥：</span><br>
+指揮官，聖誕快樂。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=深淵之神休息中♪|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+指揮官，選張唱片放上吧，要好聽點的。<br>
+剛回到休息室就立刻躺倒在單人沙發上的埃吉爾，開始了新一輪的「使喚」。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+行。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+放上了唱片，待悠揚的旋律響起後，我走到了咖啡機旁。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（等下還有工作要處理，就來杯黑咖啡提神吧。）<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+就在接好了咖啡，準備開口問埃吉爾要不要也來一杯時——<br>
+多加糖，不然我可喝不下去。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+無奈地將手中的黑咖調成埃吉爾需要的口味，放到她身旁的小幾上後。<br>
+指揮官。<br>
+埃吉爾的聲音再度落入耳中，伴隨而來的，還有落在我膝蓋上的、如同白玉雕琢的腳。<br>
+她不知何時踢掉了一隻腳上的高跟鞋，此刻正用腳尖不輕不重地點著我的膝蓋。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+怎麼了？<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+沒怎麼，我只是在想，指揮官居然全程這麼「聽話」……<br>
+呵呵呵呵，莫非這次是折服在深淵之神的威光之下了嗎。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+見我無動於衷，埃吉爾更加肆無忌憚，足尖沿著我的腿游移向上，頗有些挑釁的意味。<br>
+<br>
+'''''<span style="color:black;">选择项1：抓住她的腳踝</span>'''''<br>
+'''''<span style="color:black;">选择项2：制止埃吉爾</span>'''''<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+抓住了埃吉爾的腳踝，讓她不再亂動。<br>
+！！<br>
+放、放開！<br>
+埃吉爾窘迫而慌亂地出聲，試圖把腳縮回去。<br>
+我、我不戲弄你了！放手……呀！<br>
+看到埃吉爾這副模樣，我鬆開了抓住她腳踝的手。<br>
+埃吉爾迅速將腳收了回去，紅著臉別開了眼。<br>
+像是為了緩解剛剛的尷尬，小啜一口咖啡後，她再度開了口。<br>
+……你一直站在那裡不累嗎？過來坐著！<br>
+你看，我位置都挪出一些給你了。<br>
+她逞強似的拍了拍身邊那一塊小小的空位。<br>
+<br>
+'''''<span style="color:black;">选择项1：到沙發上坐下</span>'''''<br>
+'''''<span style="color:black;">选择项2：沙發是不是太小了？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''這是單人沙發，是不是有點太小了？兩個人擠在一起，可能妳會不舒服。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我還是……<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我都不在意這些，你在乎什麼！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''別不動了！快過來！<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+起身靠近埃吉爾，她紅著臉，目光遊離地往沙發內側靠了靠。<br>
+由於單人沙發的空間狹窄，彼此的身體只能緊密相貼。<br>
+算、算了……你被我使喚了這麼久，還是你坐著，我起來吧！<br>
+少女說著，有些慌張地起身，卻因過於慌亂而失去平衡。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+小心！<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+柔軟而溫暖的身體狼狽地落入了我的懷抱。<br>
+她的長髮垂落，輕輕地掃過我的鼻端，帶來一陣若有似無的幽香。<br>
+……嗚！？<br>
+她埋在我的懷抱中，用羞怯、不甘心的聲音自暴自棄。<br>
+僅此一次……就這樣吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
