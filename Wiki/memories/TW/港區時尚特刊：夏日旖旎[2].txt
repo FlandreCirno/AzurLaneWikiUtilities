@@ -1,0 +1,331 @@
+== 港區時尚特刊：夏日旖旎[2] ==
+{{折叠面板|开始}}
+{{折叠面板|标题=耽於綺夢之中|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+咚咚咚咚咚――！<br>
+伴隨著強力的鼓點，眼前陌生的舞台之上，箱子的幕布「唰」地一下捲起――<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+華光乍現，幻夢搖曳……這轉瞬即現於汝眼前的魔術，汝可喜歡？<br>
+禮花炸開，聚光燈如夢似幻地籠罩在箱中少女的身上，與我對視時，她綻放出甜美的笑靨。<br>
+<br>
+'''''<span style="color:black;">选择项1：我很喜歡。</span>'''''<br>
+'''''<span style="color:black;">选择项2：這是怎麼辦到的？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''這種形式很新穎，我很喜歡。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''汝喜歡好，歡迎步入妾身特地為汝準備的夢境。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''這是怎麼辦到的？莫非是信濃又進入了我的夢境嗎？<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不錯。正是妾身進入了汝的夢境，為汝編織了此般奇術舞台。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+啊……還有，妾身險些將此事忘了……<br>
+她說著，慢悠悠抬手，對我比出了俏皮的「V」字手勢。<br>
+驅逐艦們告知妾身，此般舉止能夠傳達歡欣之意……<br>
+信濃頓了頓，又在箱子中動了動，無奈尾巴幾乎填滿了箱子，她無法自如行動。<br>
+抱歉，此箱子的尺寸與妾身原先所想略有偏差，倒是稍顯局促了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+既然是在夢中，箱子的尺寸信濃不能調整嗎？<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+魔術之奧妙，便藏在這箱中……若是妾身輕易調節了，便會失去驚喜。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯？莫非這箱子有什麼機關嗎？<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+既然好奇，不如上前一探究竟？<br>
+走上舞台，圍繞著箱子檢查了一圈，並未發現機關。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（箱子周圍並無異常，那機關會是玻璃本身嗎？）<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+信濃帶著睡意的慵懶目光一直跟著我移動，直到我來到了她的面前――<br>
+帶著幾分探查之意，我將手放在了玻璃上。<br>
+而她也將手覆了上來，隔著玻璃與我的手交疊。<br>
+她靠得很近，溫熱的氣息在玻璃上暈開一片朦朧。<br>
+深邃神秘如海洋一般藍色眼眸中盛滿柔情。<br>
+汝找到機關了嗎？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+沒有找到。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+呵呵，汝不妨再靠近些，檢查一番箱子內部呢？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+內部？難道不是要找到機關才能打……<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+話還沒說完，眼前的玻璃便化為柔和的光粒逐漸飄散消失。<br>
+失去了前方玻璃支撐的信濃，纖長而柔軟的手指借勢與我十指緊扣。<br>
+單薄的布料難以掩蓋的溫熱柔軟與我緊緊相依。<br>
+這才是這機關的精髓，指揮官。<br>
+舞台上的燈光漸漸黯下，毛茸茸的尾巴纏了上來，將我與她包圍。<br>
+妾身予汝的美夢，還沒結束……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=微醺的心意|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">拿坡里：</span><br>
+指揮官，我在這裡躺一下就好，謝謝你。<br>
+在我的攙扶下，拿坡里暫時躺在了桌上休息。<br>
+她的眼眸中氤氳著霧氣，白皙的臉頰染著淡淡的緋紅，目光迷離地看著我。<br>
+抱歉，明明是我拜託指揮官來教我撲克牌遊戲的，現在卻這般失態……<br>
+我也不知道為什麼突然頭會這麼暈……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+拿坡里是酒量不好嗎？<br>
+<span style="color:#4eb24e;">拿坡里：</span><br>
+欸？酒量？<br>
+拿坡里微微偏過頭，看向了一旁的杯子。<br>
+……原來這個是酒精飲料嗎？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯？妳一直沒發現嗎……？<br>
+<span style="color:#4eb24e;">拿坡里：</span><br>
+因為之前喝過類似口味的風味飲料，我以為這個也是呢……<br>
+不過這麼看來，包裝確實也不大一樣……<br>
+指揮官，對不起，我是不是又給你添麻煩了？<br>
+總是要你分心照顧我……<br>
+<br>
+'''''<span style="color:black;">选择项1：沒關係</span>'''''<br>
+'''''<span style="color:black;">选择项2：這也是拿坡里依賴我的表現</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒關係的，照顧你也不是什麼麻煩。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不要這麼說，這也是拿坡里依賴我的表現。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''更何況，照顧拿坡里也不麻煩。<br>
+<span style="color:#4eb24e;">拿坡里：</span><br>
+話雖如此，但我也不能一直任性地給指揮官添麻煩……<br>
+拿坡里用手撐著桌面，嘗試著支撐身體。<br>
+當她伸手想要扶住她時，她卻重新躺倒在桌面上，然後抬起手攥住了我的衣袖。<br>
+抱歉，指揮官，我還是有點暈……<br>
+你應該還有工作吧？要不你先回去忙吧，不必陪我在這裡浪費時間。<br>
+拿坡里的語氣中帶著淡淡的失落。<br>
+我一個人也沒關係的，只是可能要在這裡多躺一下了……<br>
+攥著我衣袖的手鬆開了片刻，又握住了我的手，交迭的掌心傳遞著彼此的溫度。<br>
+<br>
+'''''<span style="color:black;">选择项1：我留下來陪妳吧。</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳才是最重要的。</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''我留下來陪妳吧，讓妳一個人留在這裡，我不放心。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''工作可以之後加班補上進度，現在妳的情況才是最重要的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不用擔心，我留下來陪妳。<br>
+<span style="color:#4eb24e;">拿坡里：</span><br>
+少女眸中的霧氣悄悄消散，眼底又漾起更深的柔情。<br>
+她輕輕眨了眨眼，長長的睫毛微微顫動，遮住了眼中一閃而過的清明。<br>
+隨即柔軟的臉頰貼上了我的掌心，拿坡里像只撒嬌的兔子一般親暱地蹭了蹭。<br>
+那就再多陪我一陣子吧，指揮官。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=心動定格，喵~|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+指揮官，這樣的表情和姿勢如何？有什麼問題請直接告訴我。<br>
+<br>
+'''''<span style="color:black;">选择项1：給予動作方面的建議</span>'''''<br>
+'''''<span style="color:black;">选择项2：給予表情方面的建議</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''左腿再往下壓一壓，在畫面裡的呈現會更好。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''笑得再開心一些？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+整個人也嘗試再放鬆一點吧。<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+在拍攝完了影片的第一部分後，她徹底放鬆下來，坐在原地舒展著身體。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+累嗎？<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+還好，比起累，更多的還是緊張。<br>
+幸好你來探班了，指揮官。<br>
+在你來之前，我一直無法進入狀態。<br>
+嗯……也不知道大家為什麼會推選我來擔任宣傳影片的主角。<br>
+明明她們更加可愛，也更加適合這支影片。<br>
+<br>
+'''''<span style="color:black;">选择项1：我認為妳也很適合。</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳也很可愛。</span>'''''<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+啊……嗯。<br>
+少女的表情仍是淡淡的，但偏頭避開了我的目光，頭上的貓耳也隨著她的動作輕輕搖晃。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+說起來，為什麼大家都是兔耳，而納希莫夫是貓耳？<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+這不是貓耳，是輔助觀測的設備。<br>
+不過這不是重點。<br>
+我認為這樣的款式比較適合我，而且你也比較喜歡我戴這種款式的觀測設備吧？<br>
+她用一貫的冷靜姿態回應著，可是臉上的暈開的緋紅卻難以掩飾。<br>
+<br>
+'''''<span style="color:black;">选择项1：貓耳確實不錯</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳戴什麼都可以</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''貓耳的款式確實不錯，下次也可以試試兔耳？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不過無論納希莫夫戴什麼款式，我應該都會覺得可愛。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''納希莫夫戴什麼都可以，畢竟無論妳戴什麼……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我應該都會覺得可愛。<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+嗯，我明白了。<br>
+那下次……<br>
+少女看起來依舊波瀾不驚，然而在談話間，有什麼東西觸碰到了我的手臂。<br>
+――是她的「尾巴」搖擺著纏繞住了我。<br>
+欸――？！等等、等等……！線纜……！<br>
+不要因為太開心就擅自纏住指揮官啊！<br>
+等到解開「尾巴」的束縛後，納希莫夫肉眼可見的又有些緊張了起來。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（如果繼續讓她這樣緊張下去，接下來的拍攝應該不會太順利……）<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+就在思考著如何安撫納希莫夫的情緒時，瞥到了她正在調整那對「貓耳」。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……對了！<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+怎麼了，指揮官？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（看來，是時候展現在貓咖和其他人學會的、真正的擼貓技術了！）<br>
+<br>
+'''''<span style="color:black;">选择项1：摸摸她的頭</span>'''''<br>
+'''''<span style="color:black;">选择项2：摸她的下巴</span>'''''<br>
+<span style="color:#4eb24e;">納希莫夫海軍上將：</span><br>
+嗯……<br>
+納希莫夫海軍上將有些情難自禁地、舒服地半閔著雙眼，睫毛輕顫。<br>
+隨後――<br>
+指揮官，這……喵<nowiki>~~~</nowiki>♡！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=萌兔的打工時間|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+親愛的客人，到我這裡坐下吧，無論吃飯或聊天，都由我來陪你喔~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯？<br>
+（人稱用的是「我」和「你」……？）<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+仔細打量了一番哈爾福德，雖然她的臉上帶著甜美明媚的笑容，但眸中卻毫無光彩。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（以哈爾福德喜歡的工作程度來說，不應該會這樣……）<br>
+（難道是那個綠頭貓威脅了她什麼？）<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+……幹嘛一直盯著吾？<br>
+哈爾福德收起了剛剛的笑容，微鼓著雙頰看著我。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我在想妳是不是被明石脅迫了，不然不至於這麼明顯的狀態不對。<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+沒有啦，明石並沒有脅迫吾，吾只是……<br>
+她抱著「小德拉」玩偶，輕輕呼出一口氣，猶豫了一陣子才繼續往下說。<br>
+吾只是有些不滿這份工作過於輕鬆……<br>
+因為這份工作只要求吾用「甜美可愛的口吻」坐在這裡陪汝聊天而已。<br>
+吾真的能心安理得地獲得工作的報酬麼？<br>
+而且陪伴對像是汝的話，怎麼想都是獎勵吧……<br>
+<br>
+'''''<span style="color:black;">选择项1：那就不當做工作，如何？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''既然如此，那就不把它視作工作，如何？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''單純視為陪我聊天，會不會令妳安心一些？<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+嗯……聽起來好像也可以……？<br>
+不對、不可以！工作就是工作，不可以跟其他事情混為一談的！<br>
+吾可是很認真地對待這份工作的！<br>
+在得知要陪汝的時候，吾可是連玩偶都精挑細選、仔細訓練過的！<br>
+哈爾福德慌亂地將玩偶舉到眼前，似乎在掩飾自己的害羞。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+給玩偶的培訓？難道它們還會說話嗎？<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+這是吾的比喻！玩偶當然不會說話，但是吾可是認真將它們打扮了一番。<br>
+吾總結的陪伴要義第一條，就是要用可愛的外表來治癒吾的眷屬。<br>
+……怎麼樣，看著可愛的玩偶小德拉，汝有沒有被治癒到？<br>
+沒有的話……唔，汝也可以另選自己喜歡的！<br>
+直到被治癒了為止！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+這個沙發上的全都可以任由我選嗎？<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+自然！<br>
+<br>
+'''''<span style="color:black;">选择项1：那，選哈爾福德也可以？</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+那，選哈爾福德也可以嗎？畢竟哈爾福德也在沙發上。<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+哈？！<br>
+少女驚訝出聲，回味過來我話中的意思後，白皙的臉頰上染上了粉霞，眼眸滿是羞覷。<br>
+吾可不是玩偶，吾可是高貴的第一百二十六任血族親王！<br>
+汝只是我的眷屬而已！怎能提出這樣的請求？！<br>
+<br>
+'''''<span style="color:black;">选择项1：我開玩笑的。</span>'''''<br>
+'''''<span style="color:black;">选择项2：是哈爾福德事先同意的。</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''跟妳開個玩笑，緩和一下妳因為工作太簡單而不安的情緒而已。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''現在有沒有感覺好一點？<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''原來只是個玩笑嗎……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不管了！總之吾當真了哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是哈爾福德事先同意的，不是嗎？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''當我問這個沙發上是不是可以任意挑選的時候，妳說「自然」。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''而且妳也只說了……「另選我喜歡的」，可沒限制說只能挑選玩偶。<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''汝……汝……<br>
+<span style="color:#4eb24e;">哈爾福德：</span><br>
+爾後，嬌小可愛的少女起身，鼓著臉頰坐到了我的懷中。<br>
+柔軟的兔耳輕輕擦過我的臉頰，而她將紅透的臉慢慢埋入我的肩窩。<br>
+親愛的客人，這樣子……汝有被治癒到嗎？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=祈願之姿|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{playername}：</span><br>
+（店裡最新報告建造的部分就在這裡了……）<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+咯吱――<br>
+輕微的異響傳來，打斷了我的思緒，循聲看去――<br>
+欸？是指揮官大人？您怎麼來了？<br>
+大山躺在方台之上，腿部被懸掛裝飾用的紅繩纏繞著。<br>
+因為她腿部的動作，紅繩被輕輕牽引，上面的裝飾也被連帶著搖晃出聲響。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+大山……？這是什麼情況？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+啊……讓指揮官大人您見笑了……<br>
+因為此處新修建好不久，大山便想在這裡掛些裝飾，結果一不小心被纏住了。<br>
+是大山招待不周，還望指揮官大人見諒。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+沒關係。妳現在這個樣子應該也沒辦法自己解決吧？我幫你。<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+那就麻煩指揮官大人幫我解開了。<br>
+少女露出了「得救了」一般的神情。<br>
+還好您來了……不然大山還不知道要何時才能從這些繩結中脫困。<br>
+點點頭後靠近了方台，這時我才發現纏繞的情況比我預想中要麻煩一些。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+有什麼需要注意的麼？例如不能弄壞這些裝飾？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+沒關係，這些裝飾本來就因為大山的失誤而亂了……<br>
+待會再重新佈置即可。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好。<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+小心翼翼地拆解著在少女腿上纏繞交錯的暗紅絲繩。<br>
+大概是纏繞太久的緣故，紅繩在她的腿上留下了淺淺的痕跡。<br>
+暗色的紅繩與淺紅色的勒痕遍布在瑩白的肌膚之上，異常顯眼。<br>
+指揮官大人////……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+弄痛妳了嗎？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+沒有，只是……指揮官大人不必那麼溫柔謹慎。<br>
+稍微粗暴一些，大山也是能夠接受的……<br>
+<br>
+'''''<span style="color:black;">选择项1：還是謹慎一些比較好。</span>'''''<br>
+'''''<span style="color:black;">选择项2：我不想弄疼大山。</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''還是謹慎一些為好，免得弄壞了裝飾。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這是大山精心佈置的吧，不能讓妳的心血白費。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''當然，最重要的是我不想弄疼妳。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我不想弄疼大山。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''而且這些裝飾也是妳耗費了很多心思掛好的，我也不想讓妳的心血徹底白費。<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+大山知道了……///<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+嗯……還差一點了，把腿再稍微抬高一些？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+嗯……好///……<br>
+大山將腿又抬高了一些，在一番努力過後，纏繞的絲繩總算全部得以解開。<br>
+謝謝您，指揮官大人……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+不用跟我客氣。對了，我記得報告的申請書上說這裡是祈願區域？<br>
+為什麼會想到在店裡增設祈願區域？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+唔……明石說這樣比較「潮流」，說是以後可以開放這片區域給其他的同伴用來「打卡」……<br>
+還說要做一個「首次祈願資格抽獎」之類的活動。<br>
+嗯……不過這個活動應該做不了了吧。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+為什麼？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+因為大山已經在準備裝飾的時候就祈願過了呢。<br>
+願指揮官平安順遂，願大山能永遠守護在您的身邊。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
