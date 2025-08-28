@@ -1,0 +1,1896 @@
+== 奇淵下的秘密 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=又一場冒險的序幕|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+在林間渡假村中，花香混合著新鮮的空氣吹入房間，帶來了與海濱截然不同的體驗。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不愧是由黎胥留和克里蒙梭全權負責的渡假地點……確實為本假日帶來了新鮮的感覺。<br>
+時間還早，不如到林間泡個溫泉，然後開始本日的工作好了。<br>
+<br>
+就在如此盤算之時，房門外傳來了敲門聲——<br>
+<span style="color:#4eb24e;">島風：</span><br>
+指揮官！有你的文件到了，請查收！<br>
+那麼，我還有別的包裹要送，就先告辭了——！<br>
+<br>
+而後，島風如同風一般消失了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……送到渡假村的文件？<br>
+這是……攻略書《奇淵下的秘密》？<br>
+看來是這次渡假期間她們準備的新節目了。<br>
+這次倒是不錯，有好好發來了預告，沒有跟之前一樣來個突襲。<br>
+「您的智慧如群星閃耀，這亦是您最銳利的武器。」<br>
+「現在，請回應命運的召喚，踏出烏洛波羅斯魔法學院的象牙塔。」<br>
+「以奇淵探索隊指揮官的身份，直面那名為「奇淵」的終末之地。」<br>
+「真相，就在奇淵之下靜候著您。」<br>
+好像又是異世界冒險的劇本？<br>
+魔法學院和探索隊嗎……有點意思。<br>
+總之先把今天預定的工作處理完畢之後，再細看一下攻略書本好了。<br>
+<br>
+就在如此盤算之時，房間內開始出現了光——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……為什麼周圍在發光？<br>
+等等……難道說——<br>
+<br>
+直到此時，我才終於意識到一件事——<br>
+攻略書上，根本沒有寫本次劇本的開始時間。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=初見即畢業|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+光芒消散後，我出現在了厚重的大門前。<br>
+大門屬於一座宏偉的禮堂，在禮堂之後，則矗立著一座刺破雲霧的潔白尖塔。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……雖然搞不清楚現在的狀況。<br>
+不過還好——我帶了攻略書。<br>
+<br>
+翻開隨我一同而來的攻略書，在最初的幾頁基本情報介紹之後，原本空白的紙張中居然出現了一行行全新的文字。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【地點】烏洛波羅斯魔法學院，一座培養了無數優秀魔法師，在魔法界享有盛名的頂尖學院。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這個設計倒是挺有趣的！<br>
+「烏洛波羅斯魔法學院」嗎……<br>
+<br>
+【當前任務】進入禮堂，參加烏洛波羅斯魔法學院第91屆畢業生的畢業典禮。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……一上來就到畢業典禮？<br>
+<br>
+推開厚重的木門，座無虛席的禮堂中，周圍的歡呼聲此起彼落。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+前輩們，都好耀眼……<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+嗯，希望我們將來也能成為像她們一樣出色的畢業生！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗯……忒修斯，妳還有零食嗎？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+有的，記得留一些給別的同伴哦~<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+{playername}？總算找到你了，怎麼站在門口發呆？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】杜肯：你的同學，烏洛波羅斯魔法學院第91屆優秀畢業生之一。<br>
+<br>
+'''''<span style="color:black;">选择项1：和杜肯打招呼</span>'''''<br>
+'''''<span style="color:black;">选择项2：復讀攻略書上的內容</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''早安?<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''現在早就已經過了悠閒打招呼的時間了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''【人物】杜肯：你的同學，烏洛波羅斯魔法學院第91屆優秀畢業生之一。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''咳、你這是睡過頭了嗎，突然在說什麼呢？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''快跟我來，畢業典禮要開始了。<br>
+<br>
+杜肯拉拉著我穿過人群，來到了專屬第91屆畢業生的座位。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+指揮官！這裡這裡！人家專門幫你留了個好位置！<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】大膽，你的同學，烏洛波羅斯魔法學院第91屆優秀畢業生之一。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+呵呵，您終於來了……看來，我的禱告還是有效果的~<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】迪蓋·特魯安，你的同學，烏洛波羅斯魔法學院第91屆優秀畢業生之一。<br>
+<br>
+'''''<span style="color:black;">选择项1：寒暄一下看看狀況</span>'''''<br>
+'''''<span style="color:black;">选择项2：復讀攻略書上的內容</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''今天來的人都是畢業生嗎？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不全是哦！低年級的學生代表也會在觀眾席那邊觀禮的——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''【人物】大膽，你的同學，烏洛波羅斯魔法學院……<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊——停停停！指揮官別讀啦——<br>
+<br>
+——砰！<br>
+一串煙火在禮堂上空絢爛綻放。<br>
+漫步登上演講台的黑色身影，用這個簡單的魔法瞬間集中了禮堂中所有人的注意力。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】克里蒙梭，烏洛波羅斯魔法學院歷代最年輕的校長，同時也是魔法界最年輕的大魔法師。<br>
+【特別備注】請不要讓她得知本聖典的存在。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……怎麼還有這麼應景的特別備注。）<br>
+（……我開始覺得這是一本偽裝成攻略書的即時聊天軟體了。）<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+魔法學院的第91屆優秀畢業生們，野心勃勃想要幹出一番大事業的無名之輩們——<br>
+歡迎來到魔法師的世界！<br>
+人生的道路並非只有一條，你們將面臨諸多選擇，並從中找到屬於自己的道路。<br>
+你可以加入皇家魔法部，成為優秀的公務員，福利包括終身編制和議會認證頭銜。<br>
+當然，還有那間充作交通工具，祖傳且漏雨的紅色電話亭。<br>
+你也可以踏入阿卡西商會，成為精幹的奇淵商人。<br>
+憑藉你這幾年在學院學到的專業知識，在奇淵物資交易界大展拳腳。<br>
+或者進入聖獨角獸魔法傷病醫院，成為一位傑出的治療師。<br>
+經過五年嚴格的修習，你將能嫻熟救治那些從奇淵深層負傷歸來的同伴。<br>
+不過，恩澤城內的所有大小事務，本質上都是圍繞著奇淵展開的。<br>
+所以，最引人注目、最誘人，同時也最能獲得成功的職業方向，便是探索奇淵。<br>
+但請記住——<br>
+無論選擇哪條道路，你們頭頂那名為烏洛波羅斯的晨星，都將為你們昭示前路。<br>
+<br>
+畢業典禮在熱烈的掌聲中落下了帷幕。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+{playername}，走吧，校長要我們畢業典禮之後去找她。<br>
+還有潘勒韋和大膽，妳們也要一起來。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+這一刻終於還是來了…備註<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+我已經迫不及待了，不知道今年會被分到什麼任務呢~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（似乎有什麼事要發生了？）<br>
+<br>
+烏洛波羅斯魔法學院校長辦公室<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+杜肯、大膽、迪蓋·特魯安，還有{playername}……嗯，來得很準時。<br>
+我想你們應該已經猜到被我召集的原因了？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】克里蒙梭，除了是烏洛波羅斯魔法學院校長之外，也是恩澤市議會主席團成員與古精靈王國歷史研究專家。<br>
+也是唯一一位全面探索奇淵第三平台後，成功返回的大魔法師。<br>
+【地點】恩澤城：被奇淵環繞的魔法之城，百年前在古王國首都的廢墟上重建復興，後續為探索奇淵培養了不少優秀探索隊。<br>
+【地點】奇淵：兩百年前的因不明天災而形成的三層深淵，危險魔物與豐厚資源並存之地。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這次的設定似乎比上次的異世界冒險做得更詳細……不過我的角色卡呢？）<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+每一屆畢業生中，都會有一支被冠以年級之名的特殊奇淵探索隊。<br>
+與一般隊伍不同，這支隊伍的成員由那一屆最優秀的畢業生組成，承接魔法學院直接下達的調查委託。<br>
+而身為本屆最優秀畢業生的你們——就是第91屆奇淵探索隊了<br>
+小隊指揮官由{playername}擔任，副指揮官由杜肯擔任。<br>
+你們的任務是進入奇淵，而後盡可能探索奇淵第二平台，填補探索地圖的缺失。<br>
+你們在奇淵第二平台調查的時間應當不短於60天，但是也不可以超過90天。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+明白，克里蒙梭校長，我們絕對不會讓您和學院失望的。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+不愧是在校期間就取得了一級魔法師資格的史上最年輕一級魔法師，這次我們小隊的收穫如何，就全仰仗妳了哦~<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+一同加油吧~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=初入奇淵|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+在克里蒙梭的帶領下，我與杜肯等人來到了一處宏偉大門前。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【地點】奇淵傳送門，恩澤城內設置的與奇淵永久相連的傳送門，世界上前往奇淵第一層最安全的方式，沒有之一。<br>
+【人物】惡毒，烏洛波羅斯魔法學院奇淵境傳送門的守門者。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+惡毒人在……？人物還沒出現就先跳出詞條了？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+…………噗。<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+呼……zZZZZ<br>
+啊……已經開始了嗎？<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+……這位是惡毒，傳送門的守門者。她的任務是認真看守在此處，防止有人擅自進入……<br>
+……算了，不重要了。<br>
+惡毒，啟動傳送門，送91號探索隊進入奇淵。<br>
+諸位，踏上屬於你們的旅程吧。<br>
+我在學院之中等待你們的好消息。<br>
+<br>
+光與聲彷彿在此刻被抽離了，我獨自落入了一片伸手不見五指的黑暗中。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【目前任務】抵達奇淵第一平台中的安全區後，前往學院奇淵守望台報到。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……任務倒是正常顯示出來了，但是……<br>
+……這是，觸發系統BUG了？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【奇淵生存指南】奇淵第一平台被終年不化的魔力積雪覆蓋，在注意保暖的同時也要注意魔力輻射防護。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……妳看這裡像是在雪原中嗎？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【推薦任務】1.和大膽一起紮營。2.和杜肯一起烹飪。3.和迪蓋·特魯安一起淨化營區。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……？<br>
+那我選……<br>
+<br>
+'''''<span style="color:black;">选择项1：和大膽一起紮營</span>'''''<br>
+'''''<span style="color:black;">选择项2：和杜肯一起烹飪</span>'''''<br>
+'''''<span style="color:black;">选择项3：和迪蓋·特魯安一起淨化營區</span>'''''<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+…………<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+………………<br>
+所以說，就是BUG了吧……<br>
+估計後台應該要緊急修復了……我這裡也找找有沒有出去的路好了。<br>
+……嗯？前面好像有光？<br>
+等等……這扇大門怎麼看起來有點眼熟。<br>
+難道是——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=再見還是畢業|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+推開厚重的木門，座無虛席的禮堂中，周圍的歡呼聲此起彼落。<br>
+<span style="color:#4eb24e;">拉德福特：</span><br>
+前輩們，都好耀眼……<br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
+嗯，希望我們將來也能成為像她們一樣出色的畢業生！<br>
+<span style="color:#4eb24e;">黑暗界：</span><br>
+嗯……五十鈴，妳還有點心嗎？<br>
+<span style="color:#4eb24e;">{namecode:48}：</span><br>
+有的，記得留一些給別的同伴哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（為什麼有種似曾相識的感覺……）<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+{playername}——找到你了。果然，這次依舊是我最早有所發現。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】馬塞納。你的同學，烏洛波羅斯魔法學院第92屆優秀畢業生之一。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（怎麼感覺這段也……）<br>
+（……等等，第92屆？）<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我們走吧，再不加快腳步的話……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……畢業典禮就要開始了？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+唔？你怎麼知道我想說什麼？<br>
+無所謂啦。快走吧，大家都在等你。<br>
+<br>
+我跟在馬塞納身後，穿過熱鬧的新生坐席。<br>
+周圍的安排與不久前的第91屆畢業典禮幾乎完全相同。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+我們在這裡哦~咦……{playername}，你看起來好像沒什麼精神呢？<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+難道是昨晚失眠沒睡好……需要我用一下安神術嗎？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】忒修斯，你的同學，烏洛波羅斯魔法學院第92屆優秀畢業生之一。<br>
+【人物】潘勒韋，你的同學，烏洛波羅斯魔法學院第92屆優秀畢業生之一。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這個劇本設計，好像有意思起來了……）<br>
+<br>
+——砰！<br>
+煙火如期而至，黑色的身影漫步登上了演講台。<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+魔法學院的第92屆優秀畢業生們，野心勃勃想要幹出一番大事業的無名之輩們——<br>
+歡迎來到魔法師的世界！<br>
+<br>
+而後，畢業典禮在熱烈的掌聲中落下了帷幕。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（那麼接下來，就該去校長室了吧……）<br>
+<span style="color:#4eb24e;">埃姆登：</span><br>
+「打擾了。」<br>
+「第92屆的優秀畢業生們——還有你，{playername}。」<br>
+「有重要的事情要告訴你們，跟我來。」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……妳是？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】埃姆登，烏洛波羅斯魔法學院校長的養女，兼任降靈學院院長。<br>
+【特別備注】請不要讓她得知本聖典的存在。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……又一條特別備注？）<br>
+<span style="color:#4eb24e;">埃姆登：</span><br>
+「各位，你們在學院的優秀表現，校長和我都一清二楚。」<br>
+「因此從今日起，你們就是第92屆奇淵探索隊，小隊指揮官則由{playername}擔任。」<br>
+「你們的任務是通往奇淵第三平台，並儘可能繪製地形圖。」<br>
+「今年的任務十分艱難，但是你們應該能夠理解這次任務的意義。」<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+……明白。我們一定會救出那些被困在奇淵中的前輩們的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（「被困在奇淵中的前輩」……？）<br>
+<span style="color:#4eb24e;">埃姆登：</span><br>
+「量力而行，平安回來。」<br>
+「對了，有件東西要交給你們。」<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+這是……護身符嗎？<br>
+<span style="color:#4eb24e;">埃姆登：</span><br>
+「奇淵的第三平台中環境惡劣，因此，人人有份。」<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+謝謝妳，埃姆登小姐！<br>
+<span style="color:#4eb24e;">埃姆登：</span><br>
+「嗯……我能為你們做的只有這些了。」<br>
+「現在……回去做好相應的準備，明日就出發吧。」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=再度啟程|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+典禮結束後，我與馬塞納、忒修斯、潘勒韋一同在宿舍區中進行著出行前的準備。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+說起來，奇淵真的有書裡說得那麼嚇人嗎？我看下去的人好像總是滿載而歸喔……<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+雖然統稱為奇淵，但其實也有第一平台、第二平台和第三平台的差別了。<br>
+只在第一平台和第二平台活動的話，不僅風險可控，回報也相當豐厚。<br>
+但第三平台就不一樣了……除了克里蒙梭校長之外，目前還沒有任何探索隊從第三平台成功回來。<br>
+根據校長所說，奇淵之中的每一層，其實都有不少被困在陷阱中的受困者。<br>
+這些陷阱會模糊人的時間感知，讓人在不知不覺中被困入其中漫長的歲月……<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+所以探索奇淵第三層也不是必死無疑，只是絕大多數人都被困在裡面了？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+嗯……應該是這樣的吧。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+妳之前說的要救出被困在奇淵中的前輩們，原來就是指的這種事啊……<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+嗯……我們這次要前往第三平台，那一定會經過第二個平台。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+我和第91屆畢業生杜肯是好朋友，她在去年成為了冠名隊的一員……<br>
+那一屆的任務原本只是前往第二平台繪製地圖而已……<br>
+可是到目前為止，小隊中還沒有一個人回來……<br>
+她一定是被困在第二平台中的某個地方了，我一定要去救她！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+放心，到時候讓我來找人，我們一定能找到她的哦~<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+嗯……那就拜託了。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+對了，我們馬上就要組成小隊一同作戰了，我覺得在此之前大家彼此了解一下各自的作戰風格很有必要哦！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+好有道理……那就先從我開始吧。<br>
+我的槍術很厲害！速度能比風還要快哦！<br>
+而且幸運值也很高！總能抓住最好的時機出手~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+幸運值高的槍兵嗎……那確實很厲害了。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+我是治療師，可以在後方用治癒的法術為團隊進行恢復和驅逐異常狀態，讓大家能夠放心戰鬥。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+治療師，很關鍵的位置。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+我的話比較擅長各種破壞的魔咒！<br>
+威力和續航性不用擔心，就是釋放前需要一點準備時間……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+懂了，要讀條的黑魔法師。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+你呢，你擅長的作戰方向是什麼？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……好問題。<br>
+攻略書，我擅長的作戰方向是什麼？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】{playername}，第92屆奇淵探索隊小隊指揮官，作戰方式為驅動古代軍用魔法，尤其擅長【艦炮齊射】與【飽和式轟炸】。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……「古代軍用魔法」。<br>
+……很好。<br>
+<br>
+次日，奇淵傳送門前。<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+呼……zZZZZ<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+……我們要叫醒她嗎？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+照理來說應該是需要的……<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+但是她睡得好香，稍微有點不忍心把她叫醒呢……<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我也有點想睡了，快點啟動傳送門然後下去睡覺吧。<br>
+<br>
+'''''<span style="color:black;">选择项1：叫醒惡毒</span>'''''<br>
+'''''<span style="color:black;">选择项2：看馬塞納的操作</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我覺得專業的工作還是應該讓專業的人來處理。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''惡毒，克里蒙梭來查崗了。<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗚啊啊……我沒睡，我沒睡！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你們要去奇淵對吧……原地站好！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''雖然傳送門上的字都看不懂……但先敲這裡，再推推那裡……<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''在馬塞納的隨意操作中，傳送門正在亮起愈發耀眼的光芒。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯——應該成了~大家準備出發吧！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+指揮官，要不要來坐我的魔法掃帚體驗一下飛行的感覺~？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+握住我的手，指揮官，我會好好扶住你的。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+魔力……充沛。禱告……完畢。髮型……沒亂……<br>
+希望這次探索能夠一切順利……<br>
+將前輩們安全帶回來……我們自己也能平安回來……<br>
+<br>
+在傳送門的光芒中，恩澤城漸漸遠去，一股似曾相識的黑暗氣息再度接近。<br>
+<br>
+'''''<span style="color:black;">选择项1：奇淵探索——啟動！</span>'''''<br>
+'''''<span style="color:black;">选择项2：希望這次不要再有BUG了！</span>'''''<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=冰喉峽谷|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第一平台·冰喉峽谷<br>
+離開傳送門後，凌冽的寒風立刻從四面八方匯聚而來。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗚哇，有點冷呢……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這裡應該就是「上一次的我」原本應該抵達的地方。）<br>
+注意保暖和小心魔力侵蝕嗎……<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+不愧是指揮官……調查得很充分。<br>
+禦寒術加上魔法淨化術……嗯，應該可以了！<br>
+根據前輩們留下來的資料……通往下一平台的魔法傳送塔，位於西南方向的寒冬要塞內部。<br>
+那裡有著「冬將軍」之稱的大魔物，貝勒森林駐守的要塞。<br>
+不過據說她只有每週一到週五，早上九點到下午五點會在要塞中值班，我們只需要在這個時段之外通過就好啦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好規律的大魔物……<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+不愧是最安全的第一平台，那我們先去要塞周圍等~<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+欸，好像不用那麼麻煩啊……<br>
+根據前輩們留下來的地圖和標注，我們旁邊的懸崖底部可以直通第二平台。<br>
+我們直接從這裡跳下去不就好了？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+奇淵之中存在著大量無法飛行的區域，包括這裡的懸崖邊界。<br>
+如果我們直接跳下去的話，大概就可以開始下一段人生了。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+但我運氣向來不錯，說不定跳下去能掛樹上，還能撿到超級寶物哦？<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+這裡還是聽指揮官的吧……指揮官，接下來我們該怎麼走？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（攻略書，我們該怎麼走？）<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【特別備注】：從無盡之崖跳下，必死無疑，絕無特例。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……從懸崖上跳下不在考慮範圍之內，我們還是走正常的路線吧。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+呼……沒錯！我們還是走正常的路線吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=極光之地|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">忒修斯：</span><br>
+嗯……從地圖上來看，我們應該已經抵達極光之地了。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+天上的極光軟軟的……看起來好好吃。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+……很好吃？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+啊哈哈……感覺應該會跟英仙座很合得來。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+嗯……指揮官，一路上不停釋放兩種保護咒語，我的魔力消耗有些嚴重了……<br>
+我們可以找個地方先休整一下嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+喔對，確實是該休息了。<br>
+不好意思，我還不太習慣魔法世界的設定……<br>
+忒修斯，我們的地圖上有標注可供休息的區域嗎？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+倒是有標記出幾處，不過……距離我們最近的地點被標上了被魔物佔據的標記。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+跟我走吧，我有種在附近能找到安全避難所的預感。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（攻略書，附近有安全的避難所嗎？）<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【特別備注】：附近沒有已知安全的避難所，請繼續前進。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……附近沒有已知的安全避難所啊。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+相信我，指揮官，我的直覺不會騙我的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……也好，給妳一個小時，能找到嗎？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+夠了，看我的吧~<br>
+<br>
+半小時後，我們真的找到了一個能夠躲避暴風雪的洞穴。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（…………？）<br>
+（……這是探索到劇本設定之外的未知避難所了？）<br>
+（……馬塞納的幸運度已經到了超出劇本控制範圍的程度了嗎！？）<br>
+<span style="color:#4eb24e;">班森：</span><br>
+救——命——啊——！！<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+有沒有人——能幫幫我們啊——！<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+……指揮官，不遠處好像有人在呼救？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+等等，極光之地有許多擁有智慧的魔物……外面的求救聲或許是魔物設置的陷阱。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我覺得不是喔~或許是我們的機會也說不定呢！<br>
+指揮官，我們去幫忙吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好，畢竟是能夠超越劇本的直覺——我相信妳！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=陷阱|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+循聲找去，很快，我們便在洞穴外的雪地上發現了兩個慌張的少女。<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+班森！看她們的衣服，是魔法師！<br>
+那個，你們是從地面上來的探險隊嗎？可以幫幫我們嗎？！<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+不要急，慢慢說……發生什麼事了嗎？<br>
+<span style="color:#4eb24e;">班森：</span><br>
+是……是這樣的！我和貝利跟你們一樣，也是魔法師喔！<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+但前面出現了一頭好厲害的魔物！擄走了好多同伴！<br>
+<span style="color:#4eb24e;">班森：</span><br>
+雖然可能有些強人所難……但能請各位幫我們救人嗎？<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+貝利……貝利可以為你們做好吃的胡蘿蔔派！請你們幫幫貝利吧！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+指揮官，我還是覺得好可疑……<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗯，可疑，但我們還是幫忙吧！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+明明感覺可疑還要幫忙嗎……？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗯！幫她們就能吃到好吃的胡蘿蔔餅哦~<br>
+<br>
+'''''<span style="color:black;">选择项1：相信馬塞納的直覺</span>'''''<br>
+'''''<span style="color:black;">选择项2：看一眼攻略書</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''聽馬塞納的吧，我們幫忙！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''胡蘿蔔餡餅~我來了♪~<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【人物】貝利，偽裝成魔法師的魔物，戰鬥力很弱，不過是觸發關鍵支線的必要角色。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''【人物】班森，偽裝成魔法師的魔物，戰鬥力很弱，不過是觸發關鍵支線的必要角色。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（……很好，很直白。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我也很好奇她們想帶我們去做什麼，我們去幫忙！<br>
+<span style="color:#4eb24e;">班森：</span><br>
+太好了……請跟我來，那頭魔物應該還沒走遠！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=重逢|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第一平台·噬光苔原<br>
+<span style="color:#ff9b93;">大膽：</span><br>
+好冰好冷的雪原……都沒有人陪我玩，嗚嗚……<br>
+好不容易收集到的玩伴，看起來比大膽還柔弱，一點也不耐玩……<br>
+嗚嗚嗚……該怎麼辦才好呢……<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+就是這裡，就是這個魔物！<br>
+<span style="color:#ff9b93;">大膽：</span><br>
+……咦？<br>
+好像有玩具找上門來啦——<br>
+別偷偷摸摸躲在雪堆後面啦！<br>
+出來陪大膽玩吧~！<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">班森：</span><br>
+嗚嗚嗚……你們看，她突然就攻擊了，快還擊吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……大膽？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+咦……？是指揮官嗎？！<br>
+<br>
+'''''<span style="color:black;">选择项1：前去打招呼</span>'''''<br>
+'''''<span style="color:black;">选择项2：看一眼攻略書</span>'''''<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【人物補充】曾經的91屆奇淵探索隊成員，在隊伍被打散後，一直在奇淵第一平台中獨自戰鬥至今。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''大膽，曾經的91屆奇淵探索隊成員，在隊伍被打散後，一直在奇淵第一平台中獨自戰鬥至今。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+嗚哇？！真的是指揮官！<br>
+嗚嗚嗚……人家還以為再也見不到指揮官了呢……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看來之前91屆探索隊的事確實沒有那麼簡單……不過在此之前，她們兩個是怎麼回事？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+人家是魔法師，她們自然是魔物哦！<br>
+人家只是無意中撞到了她們的巡邏隊，不小心把她們全都撞飛……<br>
+又誤打誤撞拿走了她們的補給，糊里糊塗地跑了出來而已~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………哦。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗚哇，聽起來好混沌……但好有意思！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+指揮官，你認識這個孩子嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+她是大膽，第91屆探險隊的成員，和我曾經是隊友。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+欸……？曾經……和指揮官是隊友？<br>
+啊！我……我想起來了！上一屆畢業典禮，指揮官就坐在優秀畢業生的位置上！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+……好像是的，當時大膽前輩就坐在指揮官的旁邊？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+但為什麼直到剛才為止，我們都想不起來這件事呢……？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+難道是因為某些神秘的魔法？還是說……<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+啊！指揮官！那兩個傢伙要逃走了！<br>
+<span style="color:#ff9b93;">貝利：</span><br>
+嗚哇哇哇，被發現了囉！<br>
+<span style="color:#ff9b93;">班森：</span><br>
+嗚嗚嗚……那個，我們有重要情報，能否交換我們平安離開呢！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+重要情報？先說來聽聽？<br>
+<span style="color:#4eb24e;">班森：</span><br>
+我們是冬將軍貝勒森林大人的麾下，我們知道貝勒森林大人的行程表，可以幫你們安全通過寒冬要塞！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+這算什麼重要情報啊……冬將軍的行程表不是人盡皆知嗎。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+每週一到週五……早上九點到下午五點……<br>
+<span style="color:#4eb24e;">班森：</span><br>
+哼哼哼~你們會這麼想，那就更說明我們這份情報的寶貴了！<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+其實冬將軍最近在調休！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+……「調休」？<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+嗯！好像是這個詞來著~<br>
+她現在是每週六和週日全天在要塞中值班，週一到週五全天休息！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（為什麼跟我理解中的調休不太一樣呢……）<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+也就是說……如果我們按照以前的行程表潛入要塞，百分之百會碰到她正好在值班？！<br>
+……好陰險的魔物啊！<br>
+<span style="color:#4eb24e;">班森：</span><br>
+沒錯沒錯，好陰險的魔物啊！<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+那……你們重新商量對策，我們就先走了？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+等等，你們忘了一件事。<br>
+<span style="color:#4eb24e;">班森：</span><br>
+……什麼事？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我的胡蘿蔔餡餅呢？啊———<br>
+<span style="color:#4eb24e;">貝利：</span><br>
+……明白！我們立刻就做！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+呼呼~我就知道跟著你們一定有好事，快點做~<br>
+<span style="color:#4eb24e;">班森：</span><br>
+是！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=過去的事|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第一平台·永寂冰湖<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+說起來……為什麼指揮官回到了學院，大膽前輩卻選擇留在奇淵？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+因為我們以為指揮官已經死了啊！<br>
+<span style="color:#4eb24e;">忒修斯&潘勒韋：</span><br>
+啊……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……啊？！<br>
+誰設計的劇本把我寫死了？！<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+喔不對不對……這個是上一版劇本的內容……<br>
+最新的劇情我想想……<br>
+喔對……因為我們以為指揮官中了陷阱，被困在了奇淵裡啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……好，繼續。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+當初我們正在探索一處古代遺跡，然後就看到金光一閃——指揮官就消失了！<br>
+大家都不相信指揮官會就這麼……所以，就決定前往奇淵各層尋找指揮官。<br>
+我留在了第一層，迪蓋·特魯安和杜肯結伴前往了第二層……<br>
+對了，你們要不要去看看那處古代遺跡，說不定能找到重要線索呢！<br>
+<br>
+'''''<span style="color:black;">选择项1：問問馬塞納的想法</span>'''''<br>
+'''''<span style="color:black;">选择项2：看一眼攻略書</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''馬塞納，妳想去嗎？<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''唔……想去！<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【推薦任務】前往上古未知遺跡，獲取未知獎勵。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好，我們去吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=古老的饋贈|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第一平台·未知古代遺跡<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+當初我們來這裡的目的，其實是為了補全地圖上的空白區域……沒想到被遺跡中的機關困住了。<br>
+還好指揮官順利找到了破解機關的辦法，可是沒等我們高興，意外就發生了……<br>
+你們看那支箭，當時指揮官在金光中消失後，原地就留下了那支箭。<br>
+<br>
+循著大膽所指的方向看去，一支樣式極其精緻的金色箭矢靜靜插在地面上。<br>
+箭矢散發出幽幽冷光，也雕刻有精緻的鳥獸花紋。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+這箭身上銘刻的符文相當古老……<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+當時我們幾個人輪流試了一遍，可惜……誰也拔不出來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這支箭既然與我身上的秘密有關，或許是需要我來做些什麼？）<br>
+<br>
+'''''<span style="color:black;">选择项1：讓馬塞納去拔</span>'''''<br>
+'''''<span style="color:black;">选择项2：看一眼攻略書</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''馬塞納，交給妳了。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯——我努力試試！<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸，不行啦，這個箭就算我用全功率驅動佩勒厄也拔不出來哦！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊，拔出來了。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''【獲得物品】古精靈之箭x1<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……哈啊？！<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【物品】古精靈之箭，古代精靈工匠所製造的箭矢，擁有擊破一切黑暗之物的力量。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''目前其正處於休眠之中，喚醒咒語為：「長久的休眠將治癒傷痕，只為這次能戰勝災厄」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''「長久的休眠將治癒傷痕，只為這次能夠戰勝災厄」<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【獲得物品】古精靈之箭x1<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（不錯，有攻略書就是方便。）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=寒冬要塞|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第一平台·寒冬要塞<br>
+離開古代遺跡後，我們沿著學院提供的地圖上標注的密道順利潛入了寒冬要塞中。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+今天是工作日，根據貝勒森林的新行程表，她現在應該在休假中才對。<br>
+我們可以順利穿過要塞，進入傳送塔前往奇淵的下層平台…<br>
+<span style="color:#ff9b93;">貝勒森林：</span><br>
+…………<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+冬將軍為什麼還在要塞裡……？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+好像有點糟糕的樣子……？<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+怎麼會這樣……冬將軍，今天不是你的休息日嗎！<br>
+<span style="color:#ff9b93;">貝勒森林：</span><br>
+想起來有些工作沒處理完，所以回來了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……好有說服力的原因。<br>
+<span style="color:#ff9b93;">貝勒森林：</span><br>
+雖然不是正常的工作時間，不過既然看到你們了也不能就這樣放你們過去。<br>
+接下來，就由本將軍來親自「招待」一下你們這些不請自來的客人吧。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】貝勒森林，奇淵第一平台中魔物軍團的領袖，「冬將軍」、寒冬要塞的主人。<br>
+同時，她也是烏洛波羅斯魔法學院第1屆優秀畢業生之一。<br>
+冰霜般的少女，看似對一切漠不關心，但其實非常細心，很擅長照顧人和後勤工作。<br>
+工作和休息分得很清楚，但是一旦投入工作就會強迫症式地全部完成。<br>
+擁有能在任何時間、任何地點快速睡著，又快速醒來的能力。<br>
+曾經有過在水面行走時睡著，然後被你撈起來的經歷。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（第一屆畢業生……卻在這裡成為魔物首領？）<br>
+（而且……她也和我的身分有關？）<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗯……指揮官，她們佔據了有利地形，恐怕會有點麻煩……<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+我可以嘗試建立有利陣地，但需要各位幫我爭取一段時間！<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+無論局面如何，大膽這次一定會保護指揮官的！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+放馬過來吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等，先讓我來跟她談談。<br>
+<br>
+'''''<span style="color:black;">选择项1：試著進行和平談判</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+貝勒森林，奇淵第一平台中魔物軍團的領袖，「冬將軍」、寒冬要塞的主人。<br>
+同時，她也是烏洛波羅斯魔法學院第1屆優秀畢業生之一……<br>
+<span style="color:#4eb24e;">貝勒森林：</span><br>
+等等……你是怎麼知道這些的？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們曾經一同冒險過。<br>
+<span style="color:#4eb24e;">貝勒森林：</span><br>
+還有這種事……我不記得了。<br>
+而且……人類是不可能活這麼久的。<br>
+奇怪……我的記憶在湧動，為什麼會這樣……<br>
+<br>
+貝勒森林突然一震，身上湧現狂亂氣息。<br>
+而後，氣息瞬間平息，貝勒森林也冷靜了下來。<br>
+<span style="color:#4eb24e;">貝勒森林：</span><br>
+……德意志？妳重置了我的狀態？我剛才失控了嗎……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳沒事吧？<br>
+<span style="color:#4eb24e;">貝勒森林：</span><br>
+應該算沒事吧……<br>
+我和我的一位同伴身上……背負著奇怪的詛咒。<br>
+為了避免詛咒徹底磨滅我們的理性，我們使用某種古老的魔法相互約束了彼此。<br>
+欸……果然不該在非工作日工作的。<br>
+下班囉，下班……你們自便吧。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+我們這是……可以平安前往傳送塔了？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+簡直不可思議匪夷所思……<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+指揮官，我感覺你比馬塞納要幸運多了哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（有攻略書真好。）<br>
+走吧，我們繼續前進！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=穢沼瘴潭之戰|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第二平台·穢沼瘴潭<br>
+<span style="color:#ff9b93;">腐爛軟泥啾萊姆：</span><br>
+腐啾——腐啾——<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+右側！防禦魔法！<br>
+<span style="color:#ff9b93;">腐爛軟泥啾萊姆：</span><br>
+腐啾——腐啾——腐啾——<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+早就猜到你們會從另一邊偷襲了~消失在這片風暴之中吧！<br>
+<br>
+同時，戰場的一角——<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+為什麼我們剛離開傳送門就被捲入了戰場？<br>
+我需要花時間先構築陣地……<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我來幫你爭取時間~！<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+這裡怎麼會有這麼多魔物……嘿！把你們全部打飛！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+正好，可以試試她們這次幫我設定的古代軍用魔法是用什麼方式運作的了……<br>
+所有人不要慌亂，列陣迎敵！<br>
+<br>
+<br>
+轟——！<br>
+<span style="color:#4eb24e;">幻想號：</span><br>
+很好，全部消滅。<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+非常感謝各位的援助，不知名的探險隊~<br>
+如果沒有你們出手，我恐怕要和這些魔物週旋好一陣子。<br>
+我是瑪麗·賽勒斯特號，旁邊的是幻想號，我們都是異化法師哦。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+我們是學院的第92屆探險隊，我叫忒修斯！<br>
+旁邊的幾位分別是我們的小隊指揮官{playername}、潘勒韋、馬塞納，還有第91屆探索隊的前輩大膽。<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+第92屆和91屆…………沒想到已經過去這麼長的時間了……<br>
+重新自我介紹一下，我是瑪麗·賽勒斯特號，死靈法師，曾經是學院第22屆探險隊的隊員之一。<br>
+旁邊的這位幻想號，她也曾經是學院第22屆探險隊的隊員之一。<br>
+而你——指揮官{playername}嗎，真是久仰大名了。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+……妳也認識指揮官？<br>
+怎麼感覺這奇淵裡都是指揮官的熟人啊？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+別告訴我，我也同時參加了第22屆奇淵探索隊……<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+「也」…？那倒沒有，我會知道你單純是因為聽人提起過。<br>
+你好像是她一直在尋找的人。<br>
+嗯，我先帶各位前往我們異化法師的營地，等見了面事情應該就清楚了~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=異化法師營地|选项=14|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+那個，瑪麗·賽勒斯特號前輩，其實從剛才我就非常在意一件事……<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+嗯？啊……妳是說環繞在我周圍的這些幽靈？<br>
+呵呵，我還在想你們什麼時候才會問出口呢~<br>
+這是我們這些異化法師用以抗衡，或者說是規避詛咒的特殊魔法哦。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+詛咒……？<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+你們待在奇淵內的時間，應該還不久吧？<br>
+像我們這種被困在奇淵內數十年的人，很容易受到某種……環境詛咒的影響。<br>
+<span style="color:#4eb24e;">幻想號：</span><br>
+……奇淵的思潮同化特性。<br>
+在奇淵之中停留時間過長的智慧生物……思維會被同化至某個上古王國時期。<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+不但記憶會出現問題，身體也會開始不可逆的異化哦~<br>
+不過也正是為了對抗詛咒，我們異化法師才能夠像這樣團結在一起的。<br>
+我們研究出了防護咒語，設定了保護結界，維持住了思考的理性，又將身體的異化限制在了可控範圍內——<br>
+好啦，說了這麼多，不知不覺我們已經到營地了~<br>
+<span style="color:#4eb24e;">冒險加利號：</span><br>
+暗號。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】冒險加利號，異化法師，烏洛波羅斯魔法學院第22屆優秀畢業生之一。<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+「法師比魔物強大」<br>
+<span style="color:#4eb24e;">和睦號：</span><br>
+暗號正確~<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】和睦號，異化法師，烏洛波羅斯魔法學院第22屆優秀畢業生之一。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（都是第22屆……？）<br>
+<span style="color:#4eb24e;">和睦號：</span><br>
+諸位，歡迎回到異化法師營地~！<br>
+<br>
+瑪麗·賽勒斯特號推開營地酒館的大門，奇妙而甜膩的酒香撲鼻而來——<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+諸位歡迎光臨，我已經等候多時了哦~<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+迪蓋·特魯安~看到妳平安無事真是太好了！<br>
+不對……不光是平安無事，妳似乎混得還不錯啊？<br>
+剛才我進門的時候聽到她們叫妳首領，是人家的錯覺嗎？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+說是領袖，其實比較像是大管家吧~畢竟大家都是魔法師，有誰跟我一樣這麼愛操心瑣事。<br>
+還有{playername}，好久不見，我就知道你一定會平安無事的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+姑且算是平安無事吧，所以妳知道我的身上到底發生了什麼事嗎？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+杜肯前段時間說找到了線索，正在追查，或許見到她之後就有結論了。<br>
+現在先不談這些，為了慶祝重逢，大家今夜不醉不歸哦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=結盟儀式|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+翌日——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這裡食物的口感好逼真……居然真的吃飽喝足睡過去了……）<br>
+<span style="color:#4eb24e;">瑪麗·賽勒斯特號：</span><br>
+……再次集結……<br>
+<span style="color:#4eb24e;">和睦號：</span><br>
+……三支主力都有調動跡象……<br>
+<span style="color:#4eb24e;">冒險加利號：</span><br>
+……還有魔姬的目擊報告……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這是，在進行作戰部署嗎？）<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+喲，睡得還好嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+還好，妳們是在煩惱魔物的問題嗎？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+嗯——看來你聽到了一些啊。<br>
+也不算什麼大事，你們昨天來的時候應該看到那些狂躁的魔物了吧？<br>
+整個第二平台的魔物大概分成兩種，一種是只遵循本能進行狂暴破壞的魔物。<br>
+另一種則是有組織有智慧的魔物軍團，統領著它們的魔物之主，真名為德意志，稱號「魔姬」。<br>
+而第一平台的大魔物「冬將軍」似乎處於結盟狀態。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我們在通過第一層的時候和這位冬將軍打過交道。<br>
+妳們是在這層和魔姬開戰嗎？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+準確來說已經打了很多年了，早在我來之前，魔物軍團和異化法師們就是誰也不服誰，基本上見面就要打一架。<br>
+不過最近，我們打算一勞永逸地解決這個問題了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們打算集中力量，與魔物軍團全面開戰？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+我們打算和她們結盟。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+唉，都是因為那些狂暴魔物。<br>
+近來，這些無理性的狂暴魔物數量急劇增加，不但影響到了我們，更是直接與魔姬統帥的魔物軍團發生了大量衝突。<br>
+我們兩邊都對這種惡化的局勢無法忍受，所以就決定聯手了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那剛才說的部署是？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+結盟會場保全工作的部署啦。<br>
+時間就在明天，來都來了，要不要一起去湊個熱鬧？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【推薦任務】前往結盟會場，見證結盟儀式。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+既然是如此重要的事件，我自然是要去看一下。而且我對於「魔姬」也有些興趣。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+既然定下來了，今天就好好在據點養精蓄銳，我們不醉不歸~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……可是現在才剛到白天，而且昨晚已經喝過了吧？<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+奇淵之內的娛樂選擇有限，離開據點之後又要消耗大量魔力維持淨化屏障，還不如在據點內享受享受，你說呢~<br>
+好啦好啦，別愣著了。我先喝~乾杯！<br>
+<br>
+深夜——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………居然又這麼無所事事度過了一天。<br>
+迪蓋·特魯安還真是個誘惑人墮落的好手。<br>
+不過今天在和瑪麗·賽勒斯特號等人的對話中，又得到了一個重要線索。<br>
+現在的魔法學院校長克里蒙梭，曾經在探索奇淵第二層的時候昏迷在荒野中。<br>
+被異化法師群體發現時，她的生命垂危瀕臨死亡，可是就在眾人想對她施救時，她卻在眾目睽睽下恢復了健康。<br>
+克里蒙梭身上，一定隱藏著謎團……<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】克里蒙梭，你的同學，烏洛波羅斯魔法學院第17屆優秀畢業生之一。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……？<br>
+為什麼第17屆的克里蒙梭也是我的同學…？<br>
+17屆、91屆、92屆……還有那個神秘的第1屆……<br>
+這個劇本裡面……我到底畢業了多少屆？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=和談生變|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+次日，黎明之前。<br>
+經歷了兩日的充分休息後，我們與異化法師們一同前往了位於低語林地的結盟會場。<br>
+會場之中，魔物軍團們早已列陣等候。<br>
+<span style="color:#ff9b93;">德意志：</span><br>
+異化法師們，妳們的盟約，吾全部同意。<br>
+吾等之間的紛爭結束了，這場結盟會議也沒必要繼續進行了。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+早就聽說「魔姬」德意志崇尚高效，今日一見果然名不虛傳。<br>
+那我們現在就走個簽字流程，然後就各自回家了？<br>
+<span style="color:#ff9b93;">德意志：</span><br>
+「預言之子」要留下來。<br>
+吾等了你許多年……今天，就讓吾來見識一下你的實力能否擔得起預言之子的身份吧！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+預言之子……是在說我的事？<br>
+等等……怎麼突然打過來了？！<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+我就知道沒這麼簡單……所有人，啟動備用計劃，把這些魔物打回去！<br>
+<br>
+<span style="color:#ff9b93;">德意志：</span><br>
+你果真就是預言之子……這份勝利你當之無愧！<br>
+預言中的內容果然沒錯！<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+所以這個「預言之子」到底是怎麼回事？<br>
+該不會是妳為了這次攻擊而找的拙劣藉口吧？<br>
+<span style="color:#ff9b93;">德意志：</span><br>
+並非如此，吾為剛才魯莽地攻擊向各位道歉，但是吾也有必須立刻確認的理由。<br>
+總而言之……這裡不是說這些的地方，後面的事，來吾的宮殿談吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=預言之子|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第二平台·暗夜魔宮，一段時間後——<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+多年前的一個夜晚，奇淵的魔物們——包括我——不約而同做了同一個夢。<br>
+「彌合裂隙、消弭紛爭的預言之子即將顯現，引領吾等回歸失落的古老王國。」<br>
+夢中也展現了你的髮色、穿著和擅長的魔法風格……所以無需辯駁，預言之子非你莫屬。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（聽起來好可疑……還是看看攻略書吧。）<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】德意志，奇淵第二平台中魔物軍團的首領，「魔姬」、暗夜魔宮的主人。<br>
+同時，她也是烏洛波羅斯魔法學院第1屆優秀畢業生之一。<br>
+出身高貴的少女，古精靈的直系後裔。<br>
+她肩負重要的責任而來，也曾與你一起體驗過快樂的冒險生活。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……德意志和貝勒森林一樣是第1屆畢業生？也跟我一同冒險過……？）<br>
+（怎麼聽上去，第1屆奇淵探索隊裡也有我的戲份啊？）<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+預言之子，我知道你有很多事情想問，儘管問吧，我會一一回答的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+德意志，妳曾經是烏洛波羅斯魔法學院第1屆優秀畢業生之一，和貝勒森林是同屆隊友，還和我一同冒險過。<br>
+這些過往，妳都還記得嗎？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+……吾確實和貝勒森林有著多年友誼，但這段友誼是如何開始的……吾已經不記得了。<br>
+至於跟你一起冒險……你不是第92屆奇淵探索隊的成員嗎？<br>
+就算吾真的是第1屆探索隊的成員，你也不可能與吾一同冒險吧？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+處於某種未知的原因，指揮官似乎同時參加了第92屆、第91屆，還有第17屆探索隊。<br>
+就算再加一個第1屆我覺得也不是絕對不可能喔……<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+不愧是預言之子……真厲害。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這裡是該發出感慨的時候嗎……）<br>
+那古精靈直系後裔的身份呢？妳還有印象嗎？<br>
+為什麼身為古精靈直系後代的妳會成為魔物的領袖呢？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+不知道，吾不記得了。<br>
+不過你一直提古王國……吾倒確想起來了什麼。<br>
+預言之子，你的身上存在著一種非常古老的加護魔法。<br>
+或許就是這個加護，才是讓你產生了那麼多奇怪經驗的原因。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+非常古老的加護魔法……古精靈的嗎？<br>
+可是我之前被古精靈的武器攻擊過。<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+絕對不可能，不可能出現這種事！<br>
+第一平台內的布防都是吾親自……咦，剛剛閃過的記憶碎片是什麼。<br>
+吾想不起來了……<br>
+<span style="color:#4eb24e;">幻想號：</span><br>
+幽靈們正躁動不安了……奇淵思潮同化特性的影響力正在加重。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（奇淵內的魔物難道和古精靈的後裔有關聯……還有她剛剛提到的「布防」。）<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+如果現在搞不懂的話，不如繼續前進看看。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+馬塞納說得對，德意志，能帶領我們前往奇淵第三層嗎？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+當然可以，不過，奇淵第三平台的環境可不像我們第二平台那麼祥和。<br>
+強大的黑暗精靈統治著那裡——「奇淵之主」，真名為阿爾比恩，便是那片遺忘之地的主人。<br>
+擊敗她，或許就能光復偉大的古王國。<br>
+事不宜遲，我們出發吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳也要跟我們一起去嗎？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+那是自然，吾很期待你的表現哦，預言之子……呵呵~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=遺忘之地|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第三平台·遺忘之地<br>
+借助暗夜魔宮的大型傳送法陣，我們順利抵達奇淵的最深處。<br>
+向西南方遠眺，古代精靈王國的城市遺跡半埋沙中，<br>
+風中隱約傳來鐵靴踏過碎石的聲響，可循聲望望去，卻只有殘破的旗幟在月光下緩緩飄動。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+好荒涼的情景，但是……指揮官，看那邊！<br>
+<br>
+大膽指向城市遺跡的深處，魔法塔隱匿其間，一道淡藍光柱直指天際。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+那個難道是……傳說中矗立於第三層的寂滅魔法塔？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+不錯，那裡正是「奇淵之主」阿爾比恩所控制的寂滅魔法塔。<br>
+只要戰勝她、奪回第三平台之後，就能光復偉大的古王國了！<br>
+<br>
+越過破碎的環狀城垣，進入城市區域的我們一路暢通無阻。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+一路上也沒見到什麼危險的傢伙嘛……不如說是壓根沒碰到活物的說？<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+仔細看……這座城市裡的基礎設施，都還在正常運作。<br>
+就像仍有人在細心保養。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……不對勁。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+確實有些奇怪。你們一路走下來，應該很清楚自然荒廢的區域會變成什麼模樣。<br>
+這裡明明位於人跡罕至的第三層，已經風吹日曬了幾百年。<br>
+卻仍保留著眾多「被使用」的痕跡……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+問題就是，誰在頻繁地使用它們？<br>
+<span style="color:#ff9b93;">幻影：</span><br>
+…………<br>
+……………………<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+前面……不，身後也有嗎？<br>
+<span style="color:#ff9b93;">幻影：</span><br>
+…………<br>
+…………<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+左邊和右邊也……簡直就像天羅地網一樣把我們困住了嘛！<br>
+<br>
+沉睡的城市甦醒了。<br>
+黑裙的少女們如傀儡列陣，步伐空洞而同步——相同的頻率，相同的面孔，如同夜遊的鬼魅。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+啊哈~我明白了，是幻影魔法。<br>
+被我們說中了呢，指揮官。這座城市並沒有被「荒廢」，還有「人」在積極地維護著它——<br>
+維護者正是我們的敵人——奇淵之主阿爾比恩的幻影。<br>
+<span style="color:#ff9b93;">幻影：</span><br>
+…………擊退。<br>
+…………擊退、敵人。擊退、災厄——<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+嗚哇，她們的速度突然快起來了！！<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+糟糕……我要先——<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+構築陣地是吧，我懂，我先幫妳爭取時間~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+維持陣型，防守反擊！<br>
+<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+不落要塞的騎士們——列隊，消滅入侵者！<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+咦？在這裡居然會有援軍嗎？<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+難道是過去曾經被困於此處的第三平台探索隊……<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+誤入此地的冒險者，請退後，接下來就交給我們吧。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+嗯，接下來就交給我們……<br>
+<span style="color:#4eb24e;">大膽&杜肯：</span><br>
+杜肯？！ 是你們？<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+你們怎麼會在這裡？還有指揮官……太好了，我一直相信你不會有事的。<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+哦？原來是妳的朋友嗎，杜肯？<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+戰友，都是可靠的魔法師。<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+原來諸位都是可靠的魔法師嗎……明明看起來如此年輕，真是人不可貌相。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+向諸位介紹一下，這兩位是與我一同駐守在不落要塞的王國騎士皇家橡樹閣下與復仇閣下。<br>
+其他的事，等處理完眼前的入侵者再說吧。<br>
+<br>
+杜肯眨了眨眼睛，似乎在暗示此事另有隱情。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（現在確實不是探究這些事的時候……但是沒關係，我有攻略書。）<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【地點】不落要塞，一個神秘的要塞。<br>
+【組織】王國騎士團，一個神祕的組織。<br>
+【人物】皇家橡樹，隸屬於王國騎士團的騎士，身份神秘。<br>
+【人物】復仇，隸屬於王國騎士團的騎士，身份神秘。<br>
+【人物補充】杜肯，原第91屆奇淵探索隊成員，現在由於神秘原因，成為了王國騎士團中的一員。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……很好，很神秘。）<br>
+<span style="color:#ff9b93;">一群地獄惡魔啾萊姆快速飄過：</span><br>
+Demon啾~Demon啾~<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+更多敵人上來了，指揮官，小心！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不落要塞|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+戰鬥結束後，我們跟著執意邀請我們前去做客的皇家橡樹一行人前往了不落要塞。<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+……於是，在這些善用新式魔法的術法協會援軍協助下，我們順利擊敗了數倍於己方的敵人，順利返回要塞。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+術法協會終於捨得派自己的寶貝法師團來前線了嗎……太好了。<br>
+辛苦你們了，各位從首都遠道而來的援軍，今夜就請在要塞中好好休息吧。<br>
+<br>
+總之，在杜肯的介紹下，我們搖身一變成為了首都術法協會派來的援軍。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】半人馬，駐守不落要塞的王國騎士團團長，身份神秘。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……還在神祕！）<br>
+（看來這段劇情裡攻略書是靠不住了，自己調查吧。）<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+你們的援助相當及時。這一功績，我們將銘記於心。<br>
+我們已經在這條前線地帶，為王國抵禦「災厄之子」的入侵長達數年。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+災厄之子？<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+是的。恕我冒昧，各位是從首都出發行軍的嗎？<br>
+恩澤城現在情況如何？物資供應是否緊張？民眾的生活還安定嗎？<br>
+啊抱歉，我有點太心急了……你們一路趕來，應該已經很累了吧？<br>
+夜幕就要落下了，杜肯閣下，麻煩你帶各位法師們回房間休息吧。<br>
+入夜之後，黎明前，請各位千萬不要離開房間。<br>
+外面或許會發生一些……古怪的事情。我目前無法解釋。<br>
+但請明白，只要好好地待在房間裡，各位就不會有事的。<br>
+<br>
+不落要塞·客房<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+這些傢俱的風格和設計……都是百年前流行的樣式。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+妳怎麼知道？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+這不是一眼就能看出來？至於為什麼……唔，想不起來……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+杜肯，妳的身分是魔法師吧？又是怎麼混進王國騎士團的？<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+指揮官忘了嗎？我可是個精通閃光術的劍術格鬥大師哦。<br>
+<br>
+'''''<span style="color:black;">选择项1：……精通閃光術？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……劍術格鬥大師？</span>'''''<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''我的閃光術可是大師級別，絕對比照明物可靠。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''而且劍術和格鬥術也很厲害哦。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是哦，我的劍術和格鬥術都是大師級水準的呢。<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''相反，這傢伙的魔法書……只翻開了閃光術這一頁哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那半人馬說的「災厄之子」又是怎麼回事？<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+指揮官還記得魔法史中是如何描述奇淵的形成歷史嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（攻略書，指揮官還記得魔法史中是如何描述奇淵的形成歷史嗎？）<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【地點】奇淵：兩百年前的因不明天災而形成的三層深淵，危險魔物與豐厚資源並存之地。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+兩百年前，一顆散播惡意的流星墜落在古王國境內，造就了奇淵。<br>
+祂就是災厄之子，這裡是對抗其侵蝕的最前線。<br>
+和大膽、迪蓋·特魯安她們分開後，我一直在第三層遊歷。<br>
+在遇到騎士團的成員之前，我從未在這裡碰到過任何有組織有規模的軍事團體。<br>
+我的意思是……這處要塞的存在也不正常，尤其是晚上——<br>
+<br>
+轟————————！！<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+地震？不、不對，外面那是——<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+……正好就讓你們看看，問題出在哪裡吧。<br>
+<br>
+瞭望塔內警鐘長鳴，烽火騰空而起，照亮了城牆上戒備森嚴的守軍。<br>
+而在牆下，那近在咫尺的黑暗中，惡夢般的怪物如期而至——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……敵襲？！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=幻影之境|选项=20|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">半人馬：</span><br>
+——弓箭手預備！<br>
+——放箭！！<br>
+<br>
+箭雨從城垛傾瀉而下，卻未能阻礙敵人的進軍。<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+半人馬閣下，第一重防線被擊破了！<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+第二重防線告急！<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+……堅持住！只需等待黎明降臨！<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+半人馬，小心城牆裂口！<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+糟糕……！<br>
+<br>
+'''''<span style="color:black;">选择项1：釋放魔法——「艦炮齊射」</span>'''''<br>
+<br>
+整齊劃一的炮彈劃亮夜空，瞬間將準備湧入城中的敵人盡數消滅。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+法師閣下，您怎麼來了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們可是援軍，不可能袖手旁觀的啊。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+但是……<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+不妙，城牆被砸塌了！<br>
+<span style="color:#ff9b93;">一群地獄惡魔啾萊姆快速飄過：</span><br>
+Demon啾~Demon啾~<br>
+<br>
+<br>
+激戰在黎明降臨後步入尾聲。怪物如潮水般退去，留下一地狼藉。<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+皇家橡樹，傷勢如何？<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+一些擦傷而已，很快就會恢復的……<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+不過，城牆已經壞得不成樣子，恐怕無法組織好下次防禦吧？<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+……這倒是不用擔心，請您稍等片刻。<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+……咦？城牆和其它損毀的建築，突然開始自我修復了？<br>
+皇家橡樹小姐的腿傷也——痊癒了？<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+第一次經歷這種「奇蹟」的時候，我們的反應也和諸位一樣。<br>
+我們最初以為，是賢者們為要塞施加了神秘的魔法，但幾次魔力偵測的結果說明事實並非如此。<br>
+隨後，同樣的事情，在每一個夜晚，每一個黎明……循環發生。<br>
+我們嘗試破局並向首都求援，然而總會因為種種原因無法遠離要塞。<br>
+這早已超出了常理能解釋的範疇。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【提示】選擇將真相告訴騎士團，或繼續隱瞞下去，此舉將開啟不同的任務分支。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……原來如此。<br>
+實不相瞞，我們並非首都術法協會援軍。<br>
+我們來自妳們已知世界的兩百年後——這是一個古精靈王國已經沒落，災厄之子也從未現身的世界。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+……是嗎，如果事實真如你所說，或許正印證了我的猜想。<br>
+恐怕我們整個騎士團，不，應該說是整個不落要塞……早就已經不存在了。<br>
+如果你們聽過我的姊妹的名諱，就不會對我的猜想感到意外。<br>
+精靈阿爾比恩是個優秀的魔法師——尤其擅長構造幻術。<br>
+而我們，則是這場幻術的一部分。<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+但無論真相如何，我們已經在孤立無援的情況下持續戰鬥了數百年。<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+這一切，總該有個終結了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+假設這一切真是幻術，那我或許知道該如何破局。<br>
+但想要達成目標，還需要妳們的配合。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+我願意將騎士團的指揮權讓渡給您。請指引我們回歸真正的黎明吧，指揮官閣下。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=黎明的終戰|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+翌日，白晝飛逝，夜幕低垂，魔物軍團再次集結於要塞之外。<br>
+半人馬指揮著騎士團與魔物大軍戰作一團，正如她百年來的每一夜那般。<br>
+而我則帶領著馬塞納、德意志等人悄悄離開了要塞，在荒野中尋找著。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這麼大規模的幻術魔法，一定存在源頭法陣。<br>
+<br>
+'''''<span style="color:black;">选择项1：讓馬塞納帶路</span>'''''<br>
+'''''<span style="color:black;">选择项2：查看攻略書</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''馬塞納，找到它。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''唔……直覺告訴我，應該往這邊走。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''左邊！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''然後……右邊！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這裡再向左邊……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯——找到了！<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【藏寶地】虛妄之鄉法陣核心節點，已在地圖上標示出來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''問題解決~<br>
+<br>
+與此同時的不落要塞——<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+半人馬，周圍的魔力流向改變了。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+嗯——我能感受到，空氣中的魔力正變得稀疏又陌生……<br>
+忠誠的王國騎士們，集結於精靈神的戰旗之下吧！<br>
+這是不落要塞最後的反擊戰，也是我們的最後一戰——務必打得漂亮！<br>
+全體列陣，發動衝鋒！<br>
+<br>
+許久後，半人馬射出了箭囊裡最後一支金色長箭，敵人即將再次退去。<br>
+不過這一次，法陣的崩壞帶動了平衡的崩壞，再無法維持這龐大的美夢。<br>
+<span style="color:#4eb24e;">復仇：</span><br>
+終於結束了……<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+看啊，那縷刺穿雲翳的晨光，都與往日見到的那麼不同……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+戰鬥勝利，大家都辛苦了。<br>
+<span style="color:#4eb24e;">半人馬：</span><br>
+是啊，你們已經回來了嗎？<br>
+挺好，能在消失前再見你們一面。<br>
+雖然我想留下「騎士團與指揮官的旅程還在繼續」之類的故事……<br>
+但很遺憾，告別時刻已經到來。<br>
+<span style="color:#4eb24e;">皇家橡樹：</span><br>
+往後要時不時想起我們呀，指揮官。<br>
+<br>
+不落要塞的幻影消失，化為王國獻上性命的古精靈們的英雄塚。<br>
+一條秘徑也隨之出現了。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+這條路是……<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我有種隱藏著好東西的預感哦。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+那我們還在等什麼？去仔細調查一番吧~！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=神廟漫步|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+抵達秘徑盡頭後，洶湧的睡意如潮水般襲來。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+哈啊~好累喔……直覺告訴馬塞納，現在應該睡一覺了才對……<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+大膽也是，怎麼突然就開始想睡了呢……<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+哼，那就和妳們一起……稍微瞇一下好了……<br>
+<br>
+'''''<span style="color:black;">选择项1：既然如此那我也躺下了</span>'''''<br>
+'''''<span style="color:black;">选择项2：感覺不對勁，看一眼攻略書</span>'''''<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''感覺……指揮官還是不要睡著比較好呢……zzz……<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【特別備注】保持清醒，靜待事態發展。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+既然都這麼說了……那就看看之後會發生什麼事。<br>
+<br>
+就這樣過了十分鐘。<br>
+二十分鐘。<br>
+<span style="color:#4eb24e;">電：</span><br>
+雷，指揮官快要睡著了呢……<br>
+<span style="color:#4eb24e;">雷：</span><br>
+可以了哦，指揮官想見我們的心情已經夠虔誠，可以解鎖隱藏條件了……<br>
+<br>
+恍惚間，似乎聽到從高空傳來的竊竊私語，緊接著一座神殿憑空出現在了荒涼的大地上。<br>
+<span style="color:#4eb24e;">電：</span><br>
+恭喜指揮官觸發了奇遇事件……現在，進來找我們玩吧~<br>
+<br>
+奇淵第三平台·？？神殿<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+指揮官，你終於來了。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+看起來，你身上那道來自古王國的「加護」還在好好運作著呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們是……<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】雷，身份？？？的天降系美少女，聰明又強。<br>
+【人物】電，身份？？？的天降系美少女，強壯又聰明。<br>
+【特別備注】她們知道本聖典的存在。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……這些詞條，該不會是妳們自己寫的吧？<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+怎麼辦，電，要不要假裝聽不懂指揮官那些打破世界觀的話。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+只能這麼做了吧，雷，就像假裝我們是第一次在這個劇本裡見到指揮官一樣。<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+嗯，就這麼辦吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們之前見過我？<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+（無視。）<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+作為你揭開不落要塞之謎的獎勵，我們要告訴你一個故事。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+指揮官已經知道災厄之子的存在了吧？<br>
+很久很久的大約兩百年之前——<br>
+為了對抗突然出現的災厄之子，古精靈王國中的絕大部分精靈死守恩澤城和各方要塞，直至隕落。<br>
+還有一部分則落入奇淵，在嘗試對抗災厄蔓延的同時，自身也被侵蝕。<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+當然，還有第三部分，例如德意志，她是在王國覆滅後，跟隨第一屆探索隊前來調查的古代精靈。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那「奇淵之主」阿爾比恩呢？她和災厄之子是什麼關係？<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+嗯……按照上一版劇本的設計，指揮官確實只要打倒阿爾比恩就可以了。<br>
+不過呢，為了讓指揮官的異世界冒險之旅更加緊張刺激，我們另外為你增加了一個隱藏小目標。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+隱藏小目標是——該目標暫時被隱藏。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【目前任務】目前任務目標已被隱藏，請在調查中收集更多線索。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+指揮官，還記得你在奇淵第一層「回收」的古精靈之箭嗎？<br>
+精靈之箭是聖潔之物，也是滌蕩黑暗、破除侵蝕的利器。<br>
+這會是一件至關重要的寶物，請好好斟酌它的用途。<br>
+那麼，希望指揮官此行，能為大家帶來圓滿幸福的結局——<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+隱藏關到此結束——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=回憶覺醒|选项=23|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第三平台·古戰場遺跡<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+……唔……好像做了一個很長很好吃的夢。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+沒想到大家都睡著了，還好最後有驚無險……<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+吾的身份是跟著第一屆探索隊來到奇淵的古精靈後裔嗎……<br>
+唔……還是想不起來。<br>
+不過你妳所見到的那兩個身影我在古籍中看到過，她們似乎是古代精靈的雷之神和電之神。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+誰是雷之神，誰是電之神？<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+強大又聰明的電是雷之神，聰明又強大的雷是電之神。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+等等，我有點繞暈了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+再說回古精靈之箭，古精靈之箭確實是為滌蕩黑暗、破除侵蝕而設計的寶物。<br>
+用它來淨化阿爾比恩應該沒什麼問題……<br>
+也就是說……吾等距離徹底奪回奇淵，復興古王國只有一步之遙了？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+雷和電巧妙迴避了我關於阿爾比恩是否是災厄之子的提問，我總覺得這件事沒這麼簡單……<br>
+不過順利淨化阿爾比恩之後，或許能獲得新的線索。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+我的直覺也是這樣告訴我的呢，大家繼續前進吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=寂滅魔法塔|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第三平台·寂滅魔法塔<br>
+終於，我們來到了寂滅魔法塔的頂樓。<br>
+進入塔頂後，蜷縮在華座之上的少女靜靜沉睡著。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物】阿爾比恩，古精靈王國近衛團團長，「奇淵之主」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們此行的目標，「奇淵之主」阿爾比恩……終於見到妳了。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+但是她看起來在睡覺哦，見到我們來了也沒反應。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+她睡得好香，看得我也想睡了……<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+現在正是好機會，只要用箭刺入她的身體，淨化就能生效了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看起來是很簡單……但為什麼感覺那麼像陷阱……<br>
+<br>
+'''''<span style="color:black;">选择项1：問問馬塞納的想法</span>'''''<br>
+'''''<span style="color:black;">选择项2：查看攻略書</span>'''''<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不……應該不是陷阱吧？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不過再等下去……等她醒過來之後就不一定了？<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【特別提醒】若對她使用古精靈之箭，則會進入真結局分支。若等其正常甦醒，則會解鎖一場具有挑戰性的戰鬥。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''具有挑戰性的戰鬥……還是算了，通關流程要緊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+看來要立即行動了！<br>
+<br>
+觸碰到阿爾比恩的身體後，古精靈之箭散發出耀眼的光芒。<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+好像迷霧散去一般……我已經好久沒有體驗過如此舒爽的清晨了。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】被淨化的阿爾比恩，可以使用純淨的精靈之力。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（輕鬆完成……感覺有了馬塞納和攻略書，整個活動的難度設計已經被磨平了……）<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+諸位是……法師團？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們是來自恩澤城的奇淵探險隊，阿爾比恩，妳知道災厄之子的事嗎？<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+恩澤城……再次聽到這個名字的感受很奇妙，那裡曾是我們的國都。<br>
+在過去的時代中，它承載了太多勇氣和信心，忠誠與輓歌。<br>
+至於災厄之子……我們曾經堅信自己能在三賢者的引領下，從災厄之子手中奪回故土。<br>
+而如今……也罷，或許將我喚醒的你們真的具有拯救一切的力量。<br>
+那就讓我來為你們引路吧，去往那三位賢者所在的祕境——<br>
+——沉睡之地。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=逝去的時代|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+奇淵第三平台·古戰場遺跡<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+我們到了。<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+這裡是古戰場遺跡……？我們之前就是從這裡過來的。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+也是指揮官邂逅奇遇的地方……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不知道雷和電這次還會不會出現。<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+請稍等，在我遭到災厄侵蝕之前，拼盡全力用幻術魔法將整個沉睡之地隱藏了起來……<br>
+……咦，指揮官見到了雷和電兩位神祇嗎？<br>
+據我所知，這座神廟裡供奉的是兩百年前最受尊崇的精靈雙子神。<br>
+只有受到祂們邀請之人，才有資格漫步神廟。<br>
+沒想到祂們還有力量留存在這世間。對我們來說，這也是一件幸事吧……<br>
+在我解開幻術魔法之前，我希望各位能知曉那場末日之戰是如何終結的。<br>
+在那母樹枝繁葉茂的年代，當精靈三聖賢行走大地時，就連流浪兒都懂得拾起武器為希望而戰。<br>
+但隨著要塞逐個失陷於災厄之手，三賢者的力量也遭到了削弱。<br>
+最終，她們決定以自身沉睡為代價，將災厄之子封印在永恆的長眠中。<br>
+因此，這裡是沉睡之地，亦是封印之地。<br>
+指揮官，我能感應到，你背負著三賢者賦予的加護魔法。<br>
+然而她們理應仍在沉睡……但願封印安然無恙。<br>
+——幻術魔法，解除！<br>
+<br>
+隨著幻術魔法被解除，古老的參天巨樹在暮光中現出真身。<br>
+無數枯黃枝葉極力向天空延伸，如同諸神褪色的王冠，在衰亡中勉力庇護最後的精靈血脈。<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+我能感應到……精靈母樹，在哭泣……<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+有什麼正在吸取它的生命力！<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+這片區域似乎被施加了一道邪惡的結界，構造方式相當精妙……<br>
+要破壞它，恐怕需要強大的攻擊魔法。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+強大的魔法轟炸是嗎……終於到了我發揮的時候了！<br>
+大家稍等，我先構築一下陣地哦！<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+結界鬆動了……但是還不夠。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+大家一起來幫忙吧！<br>
+釋放魔法——「艦炮齊射」，再接上一個「飽和式轟炸」！<br>
+<br>
+轟————！<br>
+密集的火力轟炸下，邪惡的結界瞬間崩壞了。<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+沒想到當世的魔法師已經如此厲害了……還有，如果我沒有認錯的話，{playername}閣下，你所使用的是軍用魔法吧？<br>
+即使是在我們的時代，這也是為數不多的大魔法師才能夠駕馭的高級術法。<br>
+我越發篤定，你能夠將災厄之子帶來的陰霾一掃而空。<br>
+既然通道已經打開，那就讓我們……面見三賢者吧！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=沉睡之地|选项=26|主框=1|样式=primary|展开=是}}
+<br>
+沉睡之地·靜默樹庭<br>
+在生命之樹的蔭蔽下，三位精靈大賢者正在沉睡。<br>
+她們面容安詳，卻透露出奇異而夢幻的威嚴。<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+太好了，守護結界還在……看來封印魔法仍在正常運載，災厄之子並未甦醒。<br>
+接下來，我會嘗試喚醒三賢者，災厄之子也會甦醒。<br>
+但是剛從百年沈睡中甦醒的災厄之子必然非常虛弱，請抓住這個機會將其擊倒。<br>
+所以說……{playername}閣下，接下就是最終戰了。<br>
+……呼，抱歉，請不要被我的緊張情緒影響。我相信你已經準備好了。<br>
+若是成功戰勝災厄之子，我們就有辦法重新淨化被災厄污染的奇淵。<br>
+暴風雪會平息，腐化的樹林變回曾經的樂土，被風沙埋沒的建築也會煥然一新……<br>
+這個世界曾經很美好。我不會忘記孩童時期見到的春天，不會忘記萌芽與新枝。我希望你們也能看到那個情景。<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【特別提醒】警告！危險正在逼近！危險正在逼近！<br>
+<br>
+咔嚓——埃姆登送給我的護身符突然破碎，濃稠的黑霧如活物般翻湧而出。<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+……成功了！三賢者很快就會甦醒，大家請做好戰鬥準備——<br>
+{playername}閣下？附著在你身上的魔法是……？！<br>
+<br>
+陽光愈發刺目，灼烈的光芒與黑霧交織成詭異的輝光。<br>
+<span style="color:#4eb24e;">金獅：</span><br>
+…………<br>
+<span style="color:#4eb24e;">七省：</span><br>
+呼啊，這次好像睡了很久呢……<br>
+<span style="color:#4eb24e;">埃佛森：</span><br>
+你是……之前那位人類？<br>
+<span style="color:#4eb24e;">七省：</span><br>
+看來加護魔法維持得很好呢……<br>
+<span style="color:#4eb24e;">金獅：</span><br>
+…………不對。<br>
+附著在你身上的黑影是……「災厄之子」！<br>
+<span style="color:#ff9b93;">埃姆登：</span><br>
+「接受來自災厄之子的崇高謝意吧，可愛的人類。」<br>
+「沒錯，我就是那顆散播災厄的流星，是不息的惡意，是絕望的主人。」<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】埃姆登，真實身分是兩百年前降臨這個世界的流星的化身——災厄之子<br>
+<span style="color:#ff9b93;">埃姆登：</span><br>
+「你從我手中逃走了三次。」<br>
+「第一次，這些可鄙的古精靈們甦醒並庇護了你。」<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】{playername}，第1屆奇淵探索隊小隊指揮官，小隊成員包括貝勒森林、德意志、不明。<br>
+在探索到沉睡之地的時候，意外喚醒了災厄之子和精靈三賢者，因此獲得了精靈的加護。<br>
+<span style="color:#ff9b93;">埃姆登：</span><br>
+「第二次，你的小隊為我送來了克里蒙梭。利用她，我終於擁有了自由的身份。」<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】{playername}，第17屆奇淵探索隊小隊指揮官，小隊成員包括克里蒙梭、拉·加利索尼埃、霞飛。<br>
+<span style="color:#ff9b93;">埃姆登：</span><br>
+「第三次，有人利用上古遺跡裡的機關轉移了你的行蹤。」<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+【人物補充】{playername}，第91屆奇淵探索隊小隊指揮官，小隊成員包括大膽、迪蓋·特魯安、杜肯。<br>
+<span style="color:#ff9b93;">埃姆登：</span><br>
+「因此，這一次……我絕不容忍失敗。」<br>
+「事實上，成功已經是手到擒來的了。」<br>
+「你身上的精靈加護，能夠反過來用以破壞她們的保護結界，讓我侵蝕她們的精神。」<br>
+「精靈的歷史已經終結，即刻起，邁入災厄的時代吧——」<br>
+<br>
+黑暗襲來，像是要與之對抗，我手中的魔法聖典突然散發了微弱的光芒——<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+……埃姆登很高興。指揮官終於想起了一切。<br>
+<br>
+伸手不見五指的黑暗中，突然出現在我面前的，如天鵝般純白的少女露出了微笑。<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+【人物補充】「魔法聖典」，埃姆登的命匣，第1屆奇淵探索隊小隊隊員。<br>
+埃姆登，其實一直陪伴在指揮官身邊哦。<br>
+<br>
+她輕柔地握住我的手，在我掌心放下某樣柔軟的東西。<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+請收下我的「一切」。<br>
+請拯救我、喚醒我…——<br>
+……帶我回家。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=反攻的第一槍|选项=27|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+……就這樣約好了哦，指揮官。<br>
+那麼……晚點再見。<br>
+<br>
+……<br>
+…………<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+……奇淵內各層的魔法塔……被破壞……<br>
+<span style="color:#4eb24e;">迪蓋·特魯安：</span><br>
+災厄之子現出真身，和校長克里蒙梭聯手…<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+……恩澤城，再度淪陷……<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+大家先別分析局勢了，指揮官還在休息呢，晚點再…——<br>
+……咦？指、指揮官醒了——！！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我睡了多久？<br>
+<span style="color:#4eb24e;">大膽：</span><br>
+指揮官已經睡過去一整天了哦！<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+【特別備注】您剛才的昏迷時長為30分鐘。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……那就告訴我，這三十分鐘內都發生了什麼事吧。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+埃姆登院長……不，災厄之子在使您陷入昏迷之後，侵蝕了三位古精靈賢者的精神。<br>
+擺脫我們的追擊後，她離開奇淵，並摧毀了所有傳送魔法塔。<br>
+也就是說，我們現在被困在奇淵內了。<br>
+<span style="color:#4eb24e;">潘勒韋：</span><br>
+雖然就算不被困在這裡，我們也回不到恩澤城。<br>
+根據她先前的發言，不難得出結論——克里蒙梭校長已經暗中勾結了災厄之子。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嗯。馬塞納能感覺到哦，恩澤城現在正籠罩在危險的迷霧之中…<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+另外，貝勒森林和異化法師們應該已經注意到異常了，但要集結所有力量，還需要一些時間。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+在爭取時間嗎……我懂了<br>
+災厄之子這般應對策略，剛好暴露了她的弱勢——她很清楚我們勢必會發動反攻。<br>
+摧毀傳送魔法塔，不過是在為她爭取構築好防禦陣線的時間——而她還沒準備好。<br>
+因此，我們必須立刻行動。<br>
+<span style="color:#4eb24e;">杜肯：</span><br>
+反擊嗎……在傳送魔法塔已經被摧毀的情況下，我們該怎麼做？<br>
+<br>
+'''''<span style="color:black;">选择项1：馬塞納，妳覺得呢？</span>'''''<br>
+'''''<span style="color:black;">选择项2：查看攻略書</span>'''''<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''傳送魔法怎麼樣~<br>
+<span style="color:#4eb24e;">魔法聖典：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''【人物補充】雷&電，精靈雙子神，擁有打開跨越位面的魔法傳送通道的能力。<br>
+<span style="color:#4eb24e;">金獅：</span><br>
+……既然如此，我有一個辦法。<br>
+<span style="color:#4eb24e;">七省：</span><br>
+是那個召喚法術吧……<br>
+<span style="color:#4eb24e;">埃佛森：</span><br>
+我們應該想的是同一個……<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+難道是……！<br>
+<span style="color:#4eb24e;">金獅：</span><br>
+指揮官，我和我的族人非常感謝你們的不懈努力和付出。<br>
+請容許我們合力開啟召喚兩位精靈雙子神的法陣，為你的反攻戰役打響第一槍！<br>
+<span style="color:#4eb24e;">阿爾比恩：</span><br>
+「看那雷與電，諸神中最閃亮的雙子。」<br>
+<span style="color:#4eb24e;">埃佛森：</span><br>
+「請展現那威嚴的真身，為我們降下奇蹟的精靈之光。」<br>
+<span style="color:#4eb24e;">七省：</span><br>
+「與之相比，災厄終究只是會逝去的渺小之物。」<br>
+<span style="color:#4eb24e;">金獅：</span><br>
+「在那黑暗無法觸及之處，光明與純淨之美永存——」<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+原來如此……就是汝等在呼喚我們啊。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+電已經聽到你們的訴求了哦——在奇淵和恩澤城之間搭出一座「電梯」對吧？很有想法嘛~<br>
+雖然聽起來像那什麼……違章建築？但這次就特別批准了。<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+這是身為精靈雙子神的我們，最後能為你們做的事情了哦。<br>
+凡人啊，盡情投入這場屬於你們的戰爭吧！<br>
+<br>
+驟雨之後，雷電隱去，一座直通恩澤城的彩虹橋破雲而出——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=恩澤城之戰|选项=28|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">惡毒：</span><br>
+呼……zZZZZ<br>
+<br>
+轟——————！！<br>
+<span style="color:#4eb24e;">惡毒：</span><br>
+…………？…………<br>
+……呼……zZZZZ<br>
+<br>
+彩虹橋抵達恩澤城的那一刻，戰鬥已然開始。<br>
+雖然時間倉促，但災厄之子還是熟練地部署了應對措施——<br>
+在恩澤城觀測點前靜候的，是克里蒙梭和她的石像鬼軍團。<br>
+<span style="color:#ff9b93;">克里蒙梭：</span><br>
+看來你都想起來了呢，「指揮官」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+克里蒙梭，現在收手還來得及。<br>
+<span style="color:#ff9b93;">克里蒙梭：</span><br>
+來不及了。<br>
+無論何時，一無所知的人們才會更幸福。<br>
+我們染指了諸神禁絕的奧秘，因此引來災厄的覬覦。<br>
+作為代價，你下落不明，我背叛了自己的心，換來活命的機會。<br>
+但是，你總是可以像這樣，一次次地……破壞我的計劃。<br>
+……好了，過去的事情就留到生離死別的時候再聊吧。<br>
+我們之間接下來還有很多事情要做，對吧？<br>
+<br>
+<br>
+轟————！<br>
+被擊退的克里蒙梭還欲上前時，傳送門的輝光再次亮起，暴雪驟至。<br>
+<span style="color:#4eb24e;">貝勒森林：</span><br>
+指揮官，1號奇淵探索隊隊員貝勒森林，趕來支援！<br>
+<span style="color:#4eb24e;">和睦號：</span><br>
+趕上了趕上了~指揮官，22號奇淵探索隊，很高興能為您效力~<br>
+<span style="color:#4eb24e;">德意志：</span><br>
+克里蒙梭和她率領石像鬼軍團就由吾等來牽制，放心應付最棘手的敵人吧！<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+走吧，指揮官。<br>
+我們一起。<br>
+<br>
+夜色中，災厄之子飛入雲霄，似是在期待接下來的對決。<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「呵呵……你終於來了，可愛的人類。」<br>
+「直視我的所有人中，有的瘋了，有的死了；有人放棄，有人屈服。」<br>
+「但為什麼，可愛的人類，唯有你始終敢於直視我？」<br>
+「災厄之子想探究答案。」<br>
+<br>
+'''''<span style="color:black;">选择项1：等我贏了就告訴妳。</span>'''''<br>
+'''''<span style="color:black;">选择项2：答案的缺失也是一種答案。</span>'''''<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「人類自信的表情……也很有趣呢。」<br>
+「謝謝你，讓災厄之子享受到了這麼多的樂趣。」<br>
+「不過。人類是不是忘了什麼重要的事情？」<br>
+「想要讓敵人臣服，最好的方法就是……」<br>
+<br>
+「想要讓敵人臣服，最好的方法就是……」<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「砰————是炮彈哦。」<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+【武器】古代魔偶，古王國時期的大型軍事魔導裝置。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+哦？接下來就是要跟我來比拼火力嗎……有趣。<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「是啊，很有趣呢，那就讓我們——互相轟炸吧~」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=終結與新生|选项=29|主框=1|样式=primary|展开=是}}
+<br>
+轟————！<br>
+爆炸與閃光交替不息，災厄之子原本完美的防禦終於露出了破綻。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就是現在，馬塞納！<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+呼呼，我已經等待多時了，交給我吧~！<br>
+<br>
+剎那間，蒼藍色身影伴隨著凌厲冰華向著災厄之子刺去。<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「徒勞無用，彈幕火力網——」<br>
+<br>
+幾乎同時，古代魔偶釋放的炮火頻率驟然狂暴起來，連射的熾焰形成密集火網，幾乎要點燃濃稠迷霧。<br>
+然而，馬塞納每一次閃避都精準地遊走在彈道的毫釐之外，翻飛的裙角竟未沾上半點星火。<br>
+終於，在進入致命射程的剎那——馬塞納猛地旋身，以一個巧妙的旋轉調整了自身的站位。<br>
+下一瞬——<br>
+數道冰藍的槍影，在她身側嗡鳴著凝聚成型，如離弦之箭般射向災厄之子。<br>
+<span style="color:#4eb24e;">馬塞納：</span><br>
+嘿——！擊中了~！<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「……什麼？」<br>
+「……傷口，無法癒合……」<br>
+「……很好。」<br>
+「妳激怒我了。」<br>
+<br>
+災厄之子緩緩抬起手臂，燃燒的流星伴隨著無盡惡意自光隙中現身，天穹隨之撕裂。<br>
+<span style="color:#ff9b93;">克里蒙梭：</span><br>
+燃燒的惡之流星……災厄之子，妳的本體終於現身了呢。<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「克里蒙梭，妳還要跟那群螻蟻玩到什麼時候？」<br>
+「再偷懶， 詛咒種在妳身上的死亡之影就會將妳吞噬。」<br>
+<span style="color:#ff9b93;">克里蒙梭：</span><br>
+當然……當然。<br>
+「聖餐之杯，啜飲吾血。」<br>
+「將那戴罪的靈魂流放至遺忘者的國度，索取約束之本質！」<br>
+<br>
+漆黑的魔法陣自克里蒙梭的腳下展開，轉瞬間附著在流星投影的正下方。<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「克里蒙梭，妳在做什麼？」<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+在看到指揮官出現在魔法學院的時候，我和你一樣震驚。<br>
+我知道，妳想利用指揮官破開沉睡之地的封印。<br>
+因此，在妳展開行動之時，我也開始了計劃。<br>
+在91屆奇淵探險隊行動的時候，我暗中設局，啟動了上古遺跡裡的古精靈之箭，用一場「意外」破壞了妳的計畫。<br>
+可惜天不遂人願，我以為指揮官的下次出現會在多年以後，屆時我早已準備好了一切……<br>
+指揮官只隔了一年便再次出現了，這次妳親自出手，我失去了插手的空間。<br>
+不過……指揮官就是指揮官，雖然達成了妳的計劃，亦將妳逼入絕境。<br>
+剩下的，便是加上我這把微不足道的火了。<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「妳會死的。」<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+我早就該死在第17屆探索隊的旅程中了。<br>
+在被妳攻擊後與妳交易，苟延殘喘至今……不過是在尋找一個為昔日同伴報仇的機會罷了。<br>
+<br>
+克里蒙梭的表情微微扭曲，彷彿有什麼正在不斷蠶食她的生命力。<br>
+無數黑色鎖鏈同時從法陣中升起，將一道道銘文打入被鎖死的流星之中。<br>
+<span style="color:#4eb24e;">忒修斯：</span><br>
+這是……血祭黑牢？！<br>
+一個以犧牲自身為代價創造一處魔法監牢，將敵人永久囚禁在異空間中的禁忌魔法？！<br>
+<span style="color:#ff9b93;">「災厄之子」埃姆登：</span><br>
+「多年後，我將再次歸來，而妳早已是塚中枯骨。」<br>
+<span style="color:#4eb24e;">克里蒙梭：</span><br>
+誰知道呢……<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+指揮官，我有辦法救下克里蒙梭，但是我需要你的幫忙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳需要我做什麼？<br>
+<span style="color:#4eb24e;">「魔法聖典」：</span><br>
+我需要你用全部的精神力喚醒我，但代價是你將會在很長一段時間內都無法再使用魔法。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這可是通關前的最後一戰，簡直稱不上代價。<br>
+<br>
+'''''<span style="color:black;">选择项1：用精神力喚醒「魔法聖典」</span>'''''<br>
+<span style="color:#4eb24e;">埃姆登：</span><br>
+「魔法聖典」第一次於世間露出了它的全貌，柔和的光束照射在流星上，喚起一朵朵純白的花朵。<br>
+「白色的花……？」那是我的信物，指揮官。<br>
+「不可能，怎麼會？你明明已經——」1號奇淵探險隊隊員，埃姆登——前來支援。<br>
+我會暫時壓制住災厄之子，同伴們，快……「閉嘴。回去。閉嘴。」<br>
+「現在是災厄之子在支配這具身體——」<br>
+不，現在是埃姆登在支配自己的身體。<br>
+我已經壓制住災厄之子，所有人，請立刻動手。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所有人，火力齊射……消滅災厄之子！<br>
+<br>
+在被疲憊吞沒前，我下達了最後的總攻命令，而後將那支淨化邪惡的古精靈之箭用力向前投出。<br>
+錒刻著祝福的古精靈之箭沒入災厄之子的胸膛。<br>
+沒有死亡的冰冷，只有月華般的清輝從傷口綻放——這是湮滅，也是救贖。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
