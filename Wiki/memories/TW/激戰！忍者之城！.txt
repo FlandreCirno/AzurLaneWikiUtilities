@@ -301,7 +301,7 @@
 疾馳的島風帶來了遠方的傳信，據說回應邀請的是一位武藝高強的浪人。<br>
 根據回信中留下的地址，我來到一處偏僻的竹林。<br>
 走得越深，四周的斷竹就越多，不難看出，這還是位勤於訓練的盟友。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 呼，很好，今天的修練順利進行到一半了……什麼人！<br>
 ……啊！失禮了，你就是我應當效忠之人嗎？<br>
 我已經在這裡等你好久了。<br>
@@ -312,11 +312,11 @@
 嗯？你那眼神是怎麼回事，怎麼有點……困惑……？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 這片竹林裡的斷竹……都是妳的手筆嗎？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 當然了，武藝不可一日荒廢嘛。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 用的竹刀？<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 這種事對我來說輕而易舉~<br>
 身為想要尋求名主的浪人武士，不把武藝精進到這種程度可不行啊。<br>
 正好趁現在，讓你見識下……我懲罰宵小之徒的手段吧！<br>
@@ -324,27 +324,27 @@
 嚐一口吧，很甜的哦。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 很甜，好瓜。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 那我的實力呢，如何？有沒有讓你滿意？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 身手不凡，我很滿意，妳被雇用了。<br>
 城內獨立住所，免費一日三餐，提供盔甲武器，除此之外妳還可以隨意使用各處訓練場地。<br>
 作為交換，我需要你協助我維護城內的治安秩序。<br>
-<span style="color:#4eb24e;">厌战：</span><br>
+<span style="color:#4eb24e;">厭戰：</span><br>
 成交。城主指揮官大人，我一定不會讓你失望的！<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|标题=方寸桃紅|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 天守閣內，桐油清香尚未散盡，更有桃花為其增色。<br>
-<span style="color:#4eb24e;">{namecode:294}：</span><br>
+<span style="color:#4eb24e;">雲仙：</span><br>
 我推開虛掩的紙門，目光投向文書室內存放著密函的漆櫃——以及那位意料之中的訪客。<br>
 這可真是……最糟糕的偶遇呢~<br>
 本來只是想趁著幽月空懸，向您借閱幾份解悶的「閒書」……<br>
 卻不想擾了城主大人的清夢，真是罪過~<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 文書重地，不請自來，該當何罪？<br>
-<span style="color:#4eb24e;">{namecode:294}：</span><br>
+<span style="color:#4eb24e;">雲仙：</span><br>
 請體諒雲仙自遠方初至，下次，自當注意。<br>
 雲仙摩挲著繫在腰後的苦無，姿態閒散如賞花，又隱隱透露出一絲警覺。<br>
 但看來，如今就算成功借書了……<br>
@@ -365,11 +365,11 @@
 欸，勝負已分……城主大人，您抓人的手可真是精妙呢。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ……我，做了什麼嗎？<br>
-<span style="color:#4eb24e;">{namecode:294}：</span><br>
+<span style="color:#4eb24e;">雲仙：</span><br>
 我是「忍者五人眾」之一，雲仙，如今便是您的俘虜了。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 又是「忍者五人眾」……其他人在什麼地方？<br>
-<span style="color:#4eb24e;">{namecode:294}：</span><br>
+<span style="color:#4eb24e;">雲仙：</span><br>
 誰知道呢……關注其他人的行動也太無聊了。<br>
 如此良辰，你我之間，不該做一些更應景的事？<br>
 榻榻米上，雲仙的身形明顯放鬆下來，鋪散的銀髮與零落桃瓣繾綣交纏。<br>
@@ -480,7 +480,7 @@
 <br>
 夜幕降臨，一場演奏會即將步入尾聲。<br>
 據島風所說，新的支援者已經抵達城內……正是台上的樂者。<br>
-<span style="color:#4eb24e;">关岛：</span><br>
+<span style="color:#4eb24e;">布倫努斯：</span><br>
 …………<br>
 於月夜下相會，遵循命運的指引……<br>
 孤月清輝下，布倫努斯身著一襲淡紫色的和服，長髮垂落在腰間，髮間別著一枚精緻的金簪。<br>
@@ -490,7 +490,7 @@
 <span style="color:#4eb24e;">{playername}：</span><br>
 絕妙的演出。<br>
 但感覺……妳還沒有使出全部技藝。<br>
-<span style="color:#4eb24e;">关岛：</span><br>
+<span style="color:#4eb24e;">布倫努斯：</span><br>
 既然城主大人還有雅興，請容許我再為你單獨演奏一曲。<br>
 ……這首曲子，才是我特地為你準備的呢。<br>
 布倫努斯纖長的手指輕輕撩動琴弦，浪漫纏綿的曲調悠然響起。<br>
@@ -510,7 +510,7 @@
 舞台上懸掛的燈籠隨風搖晃，我與她之間的空氣卻黏得彷彿能捕捉到彼此的心跳。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 剛才的幻境到底是……？<br>
-<span style="color:#4eb24e;">关岛：</span><br>
+<span style="color:#4eb24e;">布倫努斯：</span><br>
 這是屬於你我的秘密，城主大人。<br>
 但請放心，這份力量，以後只屬於你。<br>
 不過，樂曲總有終章，感情卻不相同。<br>
@@ -526,13 +526,13 @@
 <br>
 兵營修復完成的消息傳來，我帶著幾壺好酒，踏著月色前去祝賀。<br>
 卻在轉眼間，踏入了一片異常濃稠的迷霧。<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 幽影之地的守護者、不可思議的聖跡、人類難以企及之幻夢、裁決者、鬼刃亞爾薩斯——<br>
 在此等候你很久了。<br>
 迷霧深處，鬼角覆面的少女懸臥於繩索之上。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 這麼多人？可是我就看到了妳一個……其他人呢？<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 當然只有我一個人！怎麼樣，很帥吧，很厲害吧~<br>
 哼，在你們踏足此地之前的數百年前，這裡乃是由我守護的幽影之地。<br>
 直到城池被你們的結界籠罩，聖潔的光芒遮蔽了我的耳目……才讓我陷入長眠。<br>
@@ -541,26 +541,26 @@
 如何，待裁決的城主啊，你做好準備了嗎？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 想要裁決我之人，妳又做好準備了嗎？<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 ……我要做什麼準備？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 裁決的形式是什麼？標準制定好了嗎？得出結論之後又要如何執行？<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 ……欸？啊，這、這種細節……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 幽影之地的守護者、不可思議的聖跡、人類難以企及之幻夢、裁決者、鬼刃亞爾薩斯閣下，妳肯定已經把這些細節全部都想好了，對吧？<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 ……亞爾薩斯，過載中……<br>
 有、有了！<br>
 當然是考慮你的器量，你的決斷力，還有你為了守護這片土地能做到什麼程度——嗯？<br>
 你帶的這壇酒，難道是……？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ……這壇隨便拿的酒，難道是？<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 ……好香的酒……咕……難道是我在幾百年前收藏的佳釀？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ……那可真不得了。<br>
-<span style="color:#4eb24e;">阿尔萨斯：</span><br>
+<span style="color:#4eb24e;">亞爾薩斯：</span><br>
 是啊……真是不得了的美酒啊……<br>
 咕咚……咕咚……<br>
 亞爾薩斯不等我同意，便自顧自將美酒開封，喝了起來。<br>
@@ -621,7 +621,7 @@
 臨近的兔兔城主回應了我們的召集請求，並邀請我前往城外的林間商談具體事宜，形勢一片大好。<br>
 我早早抵達了約定的地點，溫暖的陽光透過林地層層疊翠，灑下斑駁光影，空氣中浮動淡淡的松香。<br>
 片刻之後，我就以一種未曾設想的方式見到了這位盟友……<br>
-<span style="color:#4eb24e;">拉菲Ⅱ：</span><br>
+<span style="color:#4eb24e;">拉菲II：</span><br>
 Zzzz……Zzzz……<br>
 一群兔子浩浩蕩蕩地在林間小徑中蹦蹺著，最後在我的面前停下來。<br>
 為首的兔兔背上，少女睡得正酣。<br>
@@ -635,7 +635,7 @@ Zzzz……Zzzz……<br>
 要不然……你先跟拉菲一起回兔兔城吧？<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 那城裡肆虐的妖魔鬼怪該怎麼辦？<br>
-<span style="color:#4eb24e;">拉菲Ⅱ：</span><br>
+<span style="color:#4eb24e;">拉菲II：</span><br>
 不……好麻煩，那我們還是趕快趕去你的城堡吧。<br>
 不過睡眠也不能落下……<br>
 這樣好了，城主指揮官……你快到大兔兔的身上來。<br>
@@ -647,7 +647,7 @@ Zzzz……Zzzz……<br>
 Zzzz……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 Zzzz……<br>
-<span style="color:#4eb24e;">拉菲Ⅱ：</span><br>
+<span style="color:#4eb24e;">拉菲II：</span><br>
 如在雲端的柔軟觸感中，我與拉菲雙雙墜入了夢鄉——<br>
 {{折叠面板|内容结束}}
 
@@ -655,14 +655,14 @@ Zzzz……<br>
 <br>
 托島風送出援軍召集信，很快就得到了回應。<br>
 以精準高效而聞名的公家大小姐加斯科涅，親自率領運輸隊攜大批物資馳援城池。<br>
-<span style="color:#4eb24e;">云仙：</span><br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
 此刻，她邀請我前往庭院一隅的靜謐池畔散步，說是要交接物資清單，卻似乎另有用意。<br>
 新入庫物資……包含緊急維修材料、生存補給以及各類建築耗材。<br>
 運輸通道……已最佳化，確保後續供給效率最大化。<br>
 城主指揮官大人，物資清點工作已基本完成，請您確認。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 我看到預計送達的精鐵箭鏃有三千枚，實際入庫卻有七千枚？<br>
-<span style="color:#4eb24e;">云仙：</span><br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
 多出的，是加斯科涅的心意。<br>
 更多支援還在路上。<br>
 有加斯科涅在，您無需擔憂。<br>
@@ -675,14 +675,14 @@ Zzzz……<br>
 ……也是「支持」和「陪伴」。<br>
 <br>
 '''''<span style="color:black;">选择项1：這是怎麼分析出來的？</span>'''''<br>
-'''''<span style="color:black;">选择项2：你的意思是？</span>'''''<br>
-<span style="color:#4eb24e;">云仙：</span><br>
+'''''<span style="color:black;">选择项2：妳的意思是？</span>'''''<br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''情報無所不在。<br>
 '''''<span style="color:black;">（选择项1）</span>'''''我只是，格外注意您的情感和渴望。<br>
-<span style="color:#4eb24e;">云仙：</span><br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''加斯科涅，一直在關注城主大人的行動。<br>
 '''''<span style="color:black;">（选择项2）</span>'''''您有任何需求，都可以告知加斯科涅。加斯科涅會替您實現。<br>
-<span style="color:#4eb24e;">云仙：</span><br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
 物資，只是一種可視化的、便於傳遞的載體。<br>
 它們會被消耗，會被更新。<br>
 但其中承載的回應——不會改變。<br>
@@ -696,7 +696,7 @@ Zzzz……<br>
 無論指揮官要先前往哪裡，都請帶著加斯科涅。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 謝謝，妳給我的支援相當珍貴。<br>
-<span style="color:#4eb24e;">云仙：</span><br>
+<span style="color:#4eb24e;">加斯科涅：</span><br>
 收到您的反饋，城主大人。<br>
 加斯科涅感到了……「喜悅」……？<br>
 這樣的體驗，很特殊。但是……<br>
@@ -781,7 +781,7 @@ Zzzz……<br>
 修復的過程終於進展到了御殿——我本應位於本丸的居所。<br>
 經過連續多日操勞，身體早已疲憊不堪，終於可以好好睡一覺了。<br>
 就在我沐浴結束，正準備吹熄蠟燭時，窗戶位置突然傳來一聲脆響——<br>
-<span style="color:#4eb24e;">拉菲Ⅱ：</span><br>
+<span style="color:#4eb24e;">關島：</span><br>
 哇啊……痛痛痛……！<br>
 踩中陷阱了……雖然好像也是情理之中……<br>
 但竟然設定在這種視角最好的位置……難道沒有人懂得享受窗邊的風景嗎~！<br>
@@ -794,7 +794,7 @@ Zzzz……<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 窗戶、門、屋頂……所有位置都替妳們考慮到了。<br>
 不過，妳們這些忍者的偏好路線還真好猜。<br>
-<span style="color:#4eb24e;">拉菲Ⅱ：</span><br>
+<span style="color:#4eb24e;">關島：</span><br>
 哼~現在得意忘形也太早了！<br>
 對於「忍者五人眾」之一的關島來說，這種小場面……才……才難不倒我~！<br>
 她鼓了鼓臉頰，奮力用小臂撐起上身，試圖擺脫這窘迫的境地。<br>
@@ -808,7 +808,7 @@ Zzzz……<br>
 那就只能拜託城主大人啦~快來幫陷入危機的關島吧~<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 這算是……投降了？<br>
-<span style="color:#4eb24e;">拉菲Ⅱ：</span><br>
+<span style="color:#4eb24e;">關島：</span><br>
 沒錯~維持這個姿勢這麼久，我的腿已經麻了啦…<br>
 關島投降~城主大人，快來救救我吧~<br>
 於是我走到窗台前，正想俯身解除機關，她卻突然扣住了我手腕，轉眼間就如靈蛇般纏上我的腰身。<br>
