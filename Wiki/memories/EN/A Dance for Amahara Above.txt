@@ -1294,70 +1294,1393 @@ Commander? Where are you?<br>
 Commandeeer!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=18|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Stepping Into Amahara - Part 2|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+"The Sky Realm of Amahara harbors infinite potential."<br>
+"What we want to create isn't just a mental protective barrier..."<br>
+"And certainly not merely a spiritual utopia."<br>
+"We need to go a step beyond that."<br>
+"Preservation of one's personality. Awakening of the consciousness. Immortality of the soul."<br>
+"Humanity will set forth on a journey."<br>
+"And this is our hope for the future."<br>
+"Welcome to the Sky Realm of Amahara."<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+...Commander, I finally found you!<br>
+It's me, Commander. Can you hear me?<br>
+Commander!<br>
+<br>
+The branches of my consciousness return all at once. My mind gradually becomes clear again.<br>
+<br>
+'''''<span style="color:black;">选择项1：Helena?</span>'''''<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Yes, it's me! It's Helena!<br>
+I called to you several times, and you didn't respond. I thought you'd...<br>
+<br>
+The tone in her voice suggests that she's almost on the verge of tears.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Don't worry about me, I'm fine. Why are you here as well, though?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+I don't know... Where even are we? What is happening?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+We're...<br>
+<br>
+The simulacrum of the end has frozen in time at an unknown moment.<br>
+Now, Helena and I are trapped in a battlefield, a veritable sea of flames.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+It happened again! The whole world changed in an instant!<br>
+<br>
+As explosions and tongues of flame tear through the dark night, I can see my surroundings more clearly.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I remember this battlefield...<br>
+Isn't it... the Long Island Defense Line?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=19|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Long Island Defense Line, Again|选项=19|主框=1|样式=primary|展开=是}}
+<br>
+Location unknown<br>
+Long Island Defense Line(?)<br>
+Blaring sirens that whip at my eardrums. The acrid stench of rising smoke. Incandescent plumes of fire.<br>
+The Long Island Defense Line has fallen, just as I remember it.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+We were crushed terribly in our last-ditch counterattack, so this place will fall soon.<br>
+Our defenses are still holding for now, but that cannot last much longer.<br>
+They will come again with even greater numbers and raze this place to the ground, just as was planned.<br>
+Hey! What are you doing, staring off into space by yourself over there? The battle isn't over yet, so you can't be wandering around outside!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The others will come back and save you.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Hm? Surely not. If they're following the plan, there's no way they'd be able to leave.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+They'll come back... I'm sure of it...<br>
+So...<br>
+Let's run away, together.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+What?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Helena, do you think what we're seeing now is reality or an illusion?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+An illusion... probably.<br>
+Look at the factions fighting in this place. It's like there's a mist covering them up.<br>
+I can't see them clearly, no matter how hard I strain my eyes.<br>
+<br>
+Just as she says, everything here looks hazy and vague, like they're shrouded in mist.<br>
+The sea, the land, our allies, our foes – everything. I can only perceive them as "something."<br>
+I know what's happening, but the instant I try to identify anything – who our allies are, what equipment they have, what the enemy is, how many there are – the fog cuts it all off.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Either this place is constructed from insufficient information, or it's beyond my understanding. Whatever the case, this is an illusion.<br>
+But – even facsimiles contain a kernel of truth.<br>
+The Defense Line hasn't fallen yet, and Anzeel is still here.<br>
+Come with me, Helena. We're gonna look for Anzeel!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=20|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Operation: Rescue Anzeel|选项=20|主框=1|样式=primary|展开=是}}
+<br>
+Location unknown<br>
+Long Island Defense Line(?)<br>
+Helena and I push on through the Long Island Defense Line as shots fly all around us.<br>
+Although the mist obfuscates all detail, it does indicate when something is there, so I can intuitively see which places are safe and which aren't.<br>
+This allows us to advance without a hitch.<br>
+Helena and I proceed into an underground passage.<br>
+Like before, whenever we run into a fork in the road, I can tell which path leads to the command center and which doesn't, and I can also tell which doors we can open and which we can't.<br>
+Our progress is as smooth as can be, owing to this blessing in disguise.<br>
+We finally enter the bunker and stop at the entrance to the command center.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Open the door.)</span>'''''<br>
+<br>
+With a deep breath, I slowly push open the door.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Huh?<br>
+<br>
+There's strangely no mist in the spacious hall. Everything is as clear as day.<br>
+Dr. Anzeel stands in front of a giant command console. She turns to us with a look of surprise.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Helena... Why are you back?<br>
+And my assistant, too... I don't...<br>
+This isn't right. If anyone was going to come, it'd be Enterprise... not you, Helena. And you, assistant, shouldn't be the one leading her here.<br>
+This wasn't in my plans, and it makes no sense... That can only mean this isn't real.<br>
+Fascinating...<br>
+The main ship – Amahara – hasn't even disembarked yet, but somehow, the changes in the astronomical environment that's caused by the guiding bunker's activation have already breached its protective barrier...<br>
+Hahah... This is that thing, you know? When you notice one strange thing, there's bound to be 100 more.<br>
+And then there's the way I look – I look like a girl in her 20s, for god's sake.<br>
+Pretty safe to assume this is some kind of dream, then, right?<br>
+Wonder what kind of dream. My last dream in the moments before I die? Or is it your dream, assistant? Or maybe... Did you create it, Helena?<br>
+<br>
+Anzeel is extremely sharp this time around.<br>
+She grasped the situation in just a few seconds, and even got to the question at the heart of this whole thing.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+You must be Dr. Anzeel. Nice to meet you. Um, I didn't create this place. The Commander and I just ended up here for some reason.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Ohh. You're not THE Helena, but you ARE Helena, that's for sure.<br>
+Then the Magister Plan was a success... and a glimmer of hope remains at Dusk.<br>
+<br>
+Anzeel's expression suddenly brightens.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+This can't be a dream in my dying moments... which leaves but one explanation. Assistant, this is your dream.<br>
+You don't look like you know what's going on, though, do you?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's a long story...<br>
+<br>
+I briefly explain to her what's happened in the Sky Realm of Amahara since we entered it.<br>
+I omit many things, but she clearly understands the picture I'm painting for her.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Hmm. So you theorize that this is a world born from fear. Yeah, that's certainly feasible in Amahara.<br>
+If it's the same Amahara I know, maybe the tunneling phenomenon has occurred?<br>
+One thing's for sure – this is fascinating. If only Ryouko were here to research it.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+We're in the middle of a crisis, so I don't think we have time to do any research.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+The pursuit of knowledge never ends as long as you live, you know. Besides–<br>
+<span style="color:#4eb24e;">System Announcer：</span><br>
+Warning! Warning! Outer defense line is under attack. Communication lost with outposts 37, 38, and 39.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+...Well, seems we'll have to end our conversation here.<br>
+Assistant, Helena, go somewhere else that's safe.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Aren't you coming with?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+This is YOUR dream, assistant. I'm sure you'll find an exit on your own.<br>
+I, on the other hand... I'm staying here.<br>
+This place is like an inverse Pandora's box. It traps everything inside, letting only hope out.<br>
+And to ensure that hope makes it out, I'm going to stay here and carry out my final mission.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+No.<br>
+You said it a minute ago – this is a dream, not reality. There's no need for you to stay and fulfill your mission.<br>
+Hope left the box, but some of it also remained.<br>
+I will not leave you behind.<br>
+To the best of my knowledge, Aoste's evacuation plan only includes Sirens and shipgirls, doesn't it?<br>
+Then there must still be people fighting for their lives somewhere.<br>
+Even if the apocalypse is inevitable, I don't think people will just sit and wait for it to come.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+You're right. We still have EVA, ARK, and SUIHUO. But...<br>
+<br>
+Anzeel suddenly falls quiet, blinks, and seems to ponder something.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Do you really want to save me?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Of course I do.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Then we'll go to EVA. That doomsday bunker is in the Rocky Mountains – should be the closest one from here.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+In the Rockies? Okay. Are we going there by car? By plane?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+What do you think? We'll go by the underground canals.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Come again? There are canals all the way from the Defense Line to the Rockies?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Well, yeah. It's the project you insisted on, remember?<br>
+At the time, regional teleporters had just been introduced – to the benefit of the war situation everywhere. And yet, you asserted that we needed an underground canal network.<br>
+Hell, we both worked our asses off to make Project Undercurrent come through. I don't think anyone could've imagined we'd use it one day.<br>
+Did you... predict this would happen?<br>
+You really are a giant mystery, assistant. I was right about you all along.<br>
+<span style="color:#4eb24e;">System Announcer：</span><br>
+Warning! Warning! Enemy has breached the Central Defense Line. Communication lost with outposts 147, 148, and 149.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+We can't stay here much longer. Come with me – I'll take you to the canals.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=21|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Glimmer in the Strings|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+Helena and I follow Anzeel and leave the command center behind.<br>
+There is not a single trace of mist on the way. Everything I lay eyes on is crystal clear.<br>
+As a result, I've lost the ability to automatically open every door I come across.<br>
+Luckily, though, Anzeel helps us move forward without any problems.<br>
+After passing through several doors, we ride a capsule-shaped elevator down deeper underground.<br>
+As soon as the elevator doors open, a vast underground canal network unfolds before me. There are Antiochus transport ships on standby.<br>
+We board the vessel, after which the armored door begins to slowly close.<br>
+Amid the roar of the engines and the sound of the waves, we can finally breathe easy.<br>
+Anzeel engages the autopilot on the transport ship, puts on some coffee, and stares intently at a map of the canal network.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(This is an excellent chance to gain information. I should talk to her.)<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask about the three doomsday bunkers.)</span>'''''<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+More precisely, there are six of them all in all.<br>
+Each one belongs to a different project as well.<br>
+That said, once we decided to commit ourselves to the Magister Plan, all other projects were put on the backburner.<br>
+It became our top priority project, and we poured more than 90% of all our resources into it.<br>
+However, due to the gradual paralysis of global logistics, every continent was left with resources they couldn't dedicate to the Magister Plan. Some more, some less.<br>
+So, due to a multitude of circumstances, the other doomsday bunkers weren't completely thrown to the wayside.<br>
+Among the six bunkers, two were converted into guiding strongholds for the Final Magistration, and another one was a fortress for the mind that was launched into synchronous orbit. It was called "Amahara."<br>
+That leaves us with three. EVA, the one we're heading to, is in the Rockies, and it's where the remaining forces of the north and south of the New World are concentrated. It's also where Colette is.<br>
+Then there's ARK, located in the Alps, which serves as the base of Project Seed. It's run by Eutopia, and Maria might be there, too.<br>
+Finally, SUIHUO, situated in the Himalayas. It also serves as Project Flint, the first project to be activated, and it's the biggest in scope.<br>
+It's not really a single bunker – it'd be more accurate to call it a bunker complex. Dr. Qian has always been in command over there.<br>
+That reminds me... Stephen Jr.'s fleet was blocked en route to ARK, and apparently they changed course and went to that one instead. Don't know the deets, sadly.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask about Dr. Aoste's Magister Plan.)</span>'''''<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+He's the one who came up with it, but I wouldn't strictly call it just HIS project anymore.<br>
+It would become the judgment that we would collectively administrate.<br>
+It would judge our future. It would judge the future of Antiochus and the shipgirls. And, it would judge the future of all worlds that would become test sites.<br>
+But... it is also the last judgment we could make.<br>
+Otherwise, the light of human civilization would be snuffed out, and there would be no "futures" to speak of.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask about the Auroral City.)</span>'''''<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Ah, the Auroral City... I haven't heard that name in a long time.<br>
+Well, now, it's been divided into two guiding bunkers – the Gate of Dawn, and the Gate of Judgment.<br>
+One is in the South Pole, and the other's in the North Pole. Together, they make up a device that can manipulate the planet's magnetic field.<br>
+Solar activity is currently at its peak, so by fine-tuning the two guiding bunkers, we've created the optimal astronomical conditions for the execution of the "Final Magistration".<br>
+The Gate of Dawn – in the South Pole – is led and defended by Admiral Mikhail and half of the Council's Task Force and the Northern Parliament's fleet.<br>
+As for the Gate of Judgment in the North Pole, that's where the Antiochus System's mainframe, the Natural Calculation System, and Laplace's Demon have all been moved.<br>
+Also, since the Final Magistration is beginning soon, Aoste is leading the other half of the Council's Task Force and Antiochus' main fleet to defend that place.<br>
+Shipgirls from across the world and Antiochus patrols have been continuously gathering there as well.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Ask about the final evacuation plan.)</span>'''''<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Final evacuation plan? In regard to the Final Magistration, I assume?<br>
+Well... Ostensibly, it's a massive offensive.<br>
+The shipgirls will group up with Antiochus' main force, use Laplace's Demon to advance into a higher dimension, and completely annihilate X.<br>
+We've been on a losing streak, and this is a Hail Mary of an operation we've been forced into. The risk is immense, but imagine the reward...<br>
+At least, that's what people believe it is.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's to make sure panic doesn't break out.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+A white lie emphasizing just one part of the truth.<br>
+If the Magister Plan does succeed, it'll be one hell of an offensive.<br>
+But, even if we do win, the fruits of victory will not be for us to claim.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Does Enterprise know the truth? Do any of the shipgirls?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Part of it, yeah. Like the fact that, once they leave, they're never coming back.<br>
+Though, they don't know that the Final Magistration is about to start, or that Aoste and I are evacuating.<br>
+Humanity cannot outwit Laplace's Demon... We should've all taken that to heart a long time ago.<br>
+But those girls – they're convinced that we members of the Council are special. Everyone thinks we are.<br>
+You know – "They're with the Council! They'll find some way to evacuate us, I just know it!"<br>
+So we managed to fool them by spreading the Council's members across the globe.<br>
+The truth is, there aren't any special people. Not a single...<br>
+...No, maybe there is.<br>
+You. You might be truly special.<br>
+Because you managed to truly escape!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wasn't my escape a part of the plan you all devised?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+I... don't remember that.<br>
+Weird... It's not like me to forget something like this.<br>
+Right, didn't you say something about "forgetting a lot of things?"<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+"A lot" is putting it lightly. I lost almost all my memories.<br>
+I forgot more than I even know. Like the shipgirls that managed to evacuate, and most things about Antiochus.<br>
+It feels like I was split into a million pieces, and I'm now merely the biggest piece among them all.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+You don't remember...<br>
+Not remembering – that might be the key to this project.<br>
+It's just a hunch, but...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Did you figure something out?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Sorry, assistant, but I think I should tell you as little as possible about the things you don't know about.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Now even YOU'RE giving me this treatment... Here I thought I'd get this rare opportunity to ask you so many things.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Even I? Who else has been "giving you this treatment?"<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Helena. The very same one who escaped from here.<br>
+She seems like she knows so much, but never tells me more than I need to know, and won't say more than that.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Helena...<br>
+Sounds like she's been pushing herself harder than she should ever since the Lexington Fleet incident...<br>
+You saved her once in the past, but now, she's the one guiding you...<br>
+I can't help you any more than I already have, assistant. Please, just don't do anything crazy.<br>
+<span style="color:#4eb24e;">System Announcer：</span><br>
+We will shortly arrive at your destination. Please check to make sure you have all your belongings with you before you disembark the ship.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+We're here already? That was way too fast...<br>
+Let's go out and have a look.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=22|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Operation: Rescue Anzeel 2.0|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+When we disembark, we are greeted not by the underground canal, but by the sea.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+...This is NY Harbor.<br>
+Even in a dream, I just can't seem to get away from this place.<br>
+<br>
+She's clearly disheartened for a moment, but she promptly cheers up.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+I'm destined to be here, so of course I can't leave. You're different, though.<br>
+I'll stay here – you take a ship to EVA.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+......<br>
+Maybe this is nothing more than a dream after all.<br>
+I may be trapped in here, but there are people on the outside working to rescue me as we speak.<br>
+I happen to have faith in them, which means there's no need for ME to try and find a way out. I just need to buy time.<br>
+And if that's all I need to do, then what does it matter where I do it?<br>
+I won't be going to EVA.<br>
+Let's defend NY Harbor for as long as we can together.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+...Well, alright. NY Harbor it is!<br>
+<br>
+After our arrival, Anzeel commandeers an unmanned military vehicle and drives us to Urban Defense Headquarters.<br>
+Throughout the car's slow advance, the hazy city gradually takes shape.<br>
+Some of the buildings still have their lights on, but it feels strikingly empty here. Desolate.<br>
+The most common sight here is robots on group patrols. Sometimes, cars pass by.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+They're all soldiers who fell back from the Long Island Defense Line. Some are staying here in NY City, and the rest will leave for EVA.<br>
+<br>
+This city's streets are otherwise deserted. Only when we pass by skyscrapers do we see signs of civilian life inside.<br>
+They seem to be working on something alongside the city police force.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+To be honest with you, NY Harbor and the Long Island Defense Line were both bait. There were never going to be any civilians here.<br>
+But some civilians just refuse to evacuate to EVA.<br>
+Some of them don't want to move. Some of them just don't want to give up their home to the enemy that easily.<br>
+I respect their decisions.<br>
+<br>
+As the car passes through a park, I spy a familiar building.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is that... the university?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+We can go wherever and do whatever. We're the masters of our own destinies! For today, anyway.<br>
+<span style="color:#4eb24e;">Hornet II：</span><br>
+Aw hell yeah! Way to go, Doc!<br>
+Although I think some sort of plan would be good to have. Where are we going, exactly?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Let me think... Oh, hey, it's almost lunchtime! I know a good café Aoste told me about years ago.<br>
+I dunno if they're still around, but if they are, we'll grab something to eat!<br>
+After that, we could do some window shopping, then go to the movie theater.<br>
+<span style="color:#4eb24e;">Langley II：</span><br>
+So the plan is to wing it as usual? Fantastic... Oh well, it's at least worth it to check out the café.<br>
+Could you tell me the name of it? I'll look them up and see if they're still open.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Sure. It's called "Granate."<br>
+<span style="color:#4eb24e;">Langley II：</span><br>
+Spelled like pomegranate, right? I think I see it.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I wonder how Granate is doing right now.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Whoa! You still remember that place?<br>
+I guess I'm not surprised. Their food was amazing.<br>
+Sadly, they closed up a few years back. We couldn't go if we wanted.<br>
+<br>
+Beyond that is a commercial district.<br>
+<span style="color:#4eb24e;">Hornet II：</span><br>
+Wait, first, let's take a group selfie! Northampton, you do the honor with your drone.<br>
+Make sure you get all of us, Bonnie included, in the frame.<br>
+Y'know, she'd probably be livid if she learned we went on a date with the Professor without her...<br>
+But if her face is in the picture, you can at least say she was there in spirit, right?<br>
+How does that sound, Professor? Over here, you can stand in the middle. Hammann, Langley, scoot over a bit. Yorktown, you can stand right beside the Professor.<br>
+<span style="color:#4eb24e;">Northampton II：</span><br>
+And I'll be riiight here. Everyone ready? Say "cheese" on three. One, two...<br>
+<br>
+I walked here with Yorktown once upon a time.<br>
+It's just a neon-lit shadow of its former self now.<br>
+Finally, after passing through several military checkpoints, we reach Urban Defense HQ.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+This is where we'll be setting up shop.<br>
+Let's go take command, you two.<br>
+Can't wait to see what scraps are left for us.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=23|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Preliminary Prep|选项=23|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+There's basically nothing here!<br>
+<br>
+Anzeel grimaces at the information we find in the command center.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+One Type-I Antiochus fleet, four standard Urban Defense drone fleets...<br>
+Half of the Council's combined fleet post Long Island withdrawal, under 2,000 city guards...<br>
+That's a drop in a bucket in a place as big as this.<br>
+If we focused all of our forces on the Long Island Defense Line, we could protect the city for one more day, tops.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...We'll just have to use space to buy time.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Yup. That's our only option with defenses as slim as they are. We'll have to gradually give up more than 90% of the city.<br>
+The defense system is still functioning, though, and we have enough ammo to last us.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Are there any nearby fleets that can support us?<br>
+Even if this city is considered bait, bait works better the longer it distracts the enemy.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Unfortunately, they're all gone. Union forces all moved to EVA.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What about Council forces?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Nada. The last three fleets in the area have all been moved to Long Island.<br>
+In short, we need to make do with what we have on hand.<br>
+Fortunately, Helena is here. You can't underestimate shipgirls, even if there's only one.<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+I may be able to procure support from the outside.<br>
+<br>
+Suddenly, a familiar figure appears out of thin air.<br>
+<br>
+'''''<span style="color:black;">选择项1：Akagi?!</span>'''''<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+Greetings, familiar stranger.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+She's from "here," assistant.<br>
+Why are you here, Akagi?<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+The Sky Realm administrative terminal found an abnormality here, so I came to look.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(This Akagi isn't a physical being, but a projection?)<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Wow, so even the Sky Realm of Amahara is trapped in this dream? Fascinating.<br>
+What do you all think?<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+It is fascinating. Unusual, moreover.<br>
+We understand the situation, and what's more, we've come up with a solution.<br>
+Familiar stranger, this dream is yours. Who do you think is most likely to be here at this time?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hmm... I came here from Amahara, so the others who were there at the time might have tagged along.<br>
+Akagi, Unzen, Hakuhou, Asama, and I-404's group.<br>
+The META Helena, too. She's noticed that something is wrong and is trying to locate me right now.<br>
+I wouldn't be surprised to see her, along with the META Memphis and Vestal.<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+Understood. I will return to Amahara and devise a plan with the administrative terminal.<br>
+Before I go, there is one thing I must ask...<br>
+If everyone in a dream awakens, yet the dream continues independent of them... can you still call it a dream?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It continues independent of them...<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+Heehee. Take all the time you need to think about it.<br>
+If we meet again, you may tell me your answer then.<br>
+<br>
+Akagi vanishes. Anzeel, Helena, and I all look at each other in astonishment.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+They must have realized something was wrong in this dream and immediately fingered you as the cause.<br>
+That's the fortress of the mind for you – formidable even in the dream world.<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Well, it sounds like they broke through the Long Island Defense Line. Gear up for battle!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=24|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Imprisoned|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+As more enemies flood in from the Long Island Defense Line, flames of war intensify near NY Harbor.<br>
+Artillery, missiles, lasers, electromagnetic weapons... There are even weapons of war that I can't comprehend.<br>
+The city's defense system operates at full power, throwing everything at the inscrutable enemy I know to be X. But right now, they appear only as misty, writhing shadows.<br>
+I refuse to send Helena into battle. Anzeel pretends not to see, her silence speaking volumes.<br>
+I'm sure she thinks I just want her back at HQ to cover my ass.<br>
+However, the Helena from my world line is not as powerful as the one Anzeel is familiar with. This battlefield is not one she is ready for.<br>
+I simply did not want Anzeel to misjudge our combat capabilities and deploy our forces incorrectly as a result.<br>
+Several hours pass. Despite the defense system's firepower, the X continue to encroach on the coast.<br>
+All throughout the city, strong winds start to whip up and grow in intensity.<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+Pardon my repeated intrusion.<br>
+<br>
+As the situation continues to worsen, she appears again.<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+Tell me, familiar stranger, have you felt anything... special, as of late?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Special? Uh... Not really.<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+The girls pursuing you aren't far now.<br>
+There's just some repulsive force at work, keeping them from finding just the right frequency.<br>
+The Sky Realm Administrative Terminal tried to correct this problem, but it failed.<br>
+This problem must be beyond what forces it can work within a dream.<br>
+<br>
+For some reason, she keeps looking in Anzeel's direction.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+......<br>
+What does Ryouko think of all this?<br>
+<span style="color:#c3abff;">Akagi META：</span><br>
+She thinks it's a mental prison.<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+......<br>
+I see.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's going on here?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+...Sorry.<br>
+Just like before, we couldn't make it to EVA... because of me.<br>
+*sigh*...<br>
+<br>
+She heaves a sigh of apparent... relief?<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Thank you, assistant. For giving me this fleeting dream.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Anzeel... You're not making any sense.<br>
+<br>
+Only then do I realize that the pistol usually slung around her waist... is firmly within her grasp.<br>
+<br>
+'''''<span style="color:black;">选择项1：...What are you about to do?!</span>'''''<br>
+'''''<span style="color:black;">选择项2：STOP!!</span>'''''<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Take care, my friends. I wish you the best.<br>
+<br>
+BANG!<br>
+She collapses into a pool of blood.<br>
+What just happened?<br>
+What just happened?!<br>
+WHAT JUST HAPPENED?!<br>
+How can this be?<br>
+How can this be?!<br>
+HOW CAN THIS BE?!<br>
+Prison<br>
+Prison<br>
+P R I S O N<br>
+<span style="color:#bdbdbd;">Akagi META：</span><br>
+{playername}！<br>
+Stay calm, please.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+*pant*... *pant*...<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander?! What's gotten into you?<br>
+<br>
+In the command room, Helena rushes over to me anxiously.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Helena? It's just... Helena?)<br>
+<br>
+Something is wrong.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What happened to Akagi and Anzeel?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Akagi... and Anzeel?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+They were just here. I mean, Anzeel has been with us the whole time. You don't... remember?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Hmm? It's just been the two of us in here.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Helena... Did I position the defenses of NY Harbor?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Yeah. After our retreat from the Long Island Defense Line, you brought me here to NY City.<br>
+You said we needed to deploy defenses here to buy time, and that reinforcements would come soon.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...I get it.<br>
+I get it...<br>
+<span style="color:#4eb24e;">Communicator：</span><br>
+BEEP BEEP!<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+(Found you.)<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(Helena?!)<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+(Sorry. This took longer than I thought it would.)<br>
+(Don't move a muscle. Reinforcements are coming.)<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=25|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Preliminary Prep 2.0|选项=25|主框=1|样式=primary|展开=是}}
+<br>
+Less than a minute after Anzeel's disappearance, Memphis META led a fleet into the battlefield.<br>
+NY Harbor would be safe, for now.<br>
+Shortly after...<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Commander, are you okay?!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I'm just fine. You couldn't have come at a better time.<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+Thank goodness... We were so worried.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+I'm so sorry. We never could have dreamed...<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Hmph. I knew there was something fishy about this sudden technological breakthrough.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I know your invitation was well-intentioned.<br>
+I seem to be the reason that everything went wrong. If anything, I owe you an apology for getting Amahara tangled up in this mess.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+You mustn't blame yourself!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Then, that goes for all of you as well. None of you have anything to apologize for.<br>
+Honestly, I've heard the word "sorry" more than enough times for one day.<br>
+......<br>
+And besides, we should be focusing on what to do next.<br>
+Memphis, has Helena said anything?<br>
+When can we go home?<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Helena is working with the Yamato-class girls and Houshou to construct a stable evac route as soon as possible.<br>
+What we need to do is hold out.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...Did you say Houshou?<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Yeah! Trust me, I was just as surprised!<br>
+EVERYONE was shocked when she appeared. I mean, she just popped up out of nowhere!<br>
+Either way, we got the Dream Stone from her.<br>
+Helena was pissed. If she knew Houshou was involved, she wouldn't have let you come until she got to the bottom of everything.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well, nobody knew, so there's no point in regret.<br>
+Nobody is omniscient. Even the best-laid plans can be overturned by the unexpected.<br>
+Only by accepting the unexpected can we use it to our advantage.<br>
+For example...<br>
+I had plans just a while ago, but our shortage of firepower made them impossible to carry out.<br>
+But now? That's not so much of a problem.<br>
+<span style="color:#4eb24e;">Asama：</span><br>
+Commander {playername}, the Sakuran fleet awaits your orders.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Great. I'd like to deploy defenses in the following areas...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=26|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Defensive Area A|选项=26|主框=1|样式=primary|展开=是}}
+<br>
+Location unknown<br>
+NY City(?) - Coastal Waters(?)<br>
+Defensive Area A(?)<br>
+Following a strategy briefing, the Sakuran fleet split into two – one led by Asama, and one led by Unzen – and each headed to a different defensive area.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+Asama, have you noticed the same thing as I?<br>
+The bustling cityscape and the defensive installations that just supported us, I mean.<br>
+They all seemed exceptionally advanced and outlandish. Why is the Commander dreaming of these things, I wonder?<br>
+<span style="color:#4eb24e;">Asama：</span><br>
+As I'm sure you've noticed, much of this dream is rather hazy and vague.<br>
+It's as though they're shrouded by mist. It's plausible that {playername}, too, knows not why this dream appears the way it does.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+I see. It's fortunate that this space is in some ways similar to Amahara.<br>
+It doesn't impair my combat abilities – in fact, I feel somewhat empowered compared to normal.<br>
+This is all to say, I should be able to compensate for others' difficulties later when it comes to a battle with the nightmares.<br>
+<span style="color:#4eb24e;">I-404：</span><br>
+Heh! You're not the only one! Kotama's aching to take down a horde of monsters!<br>
+<span style="color:#4eb24e;">Oumi：</span><br>
+How wonderful that you're all so motivated. Why don't we bolster our spirits with a dash of Cloudsea Wine, hm?<br>
+<span style="color:#4eb24e;">Asama：</span><br>
+Having wine before a battle sounds ill-advised.<br>
+<span style="color:#4eb24e;">Oumi：</span><br>
+Why be so strict with yourself? Have we not been blitzing through the enemy's vanguard since our very arrival here?<br>
+Besides, who knows when the next group will show up?<br>
+Exchanging cups sounds to me like a much better use of our time than idly standing around.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+If you were to drink Cloudsea Wine, would you also gain its benefits even in this place?<br>
+<span style="color:#4eb24e;">Oumi：</span><br>
+Who knows? Whether it grants its benefits or not, it still tastes superb.<br>
+Fine wine is just the thing that would enrich this fantastical dream journey.<br>
+Although, it's a shame the moon will not show itself... For want of its presence, the atmosphere is lacking.<br>
+Well, I'll have the honor of the first drink, then. Cheers!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=27|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Defensive Area B|选项=27|主框=1|样式=primary|展开=是}}
+<br>
+Location unknown<br>
+NY City(?) - Coastal Waters(?)<br>
+Defensive Area B(?)<br>
+Memphis' unit passed through a desolate district of the city before arriving at their defensive area.<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+Has anyone else noticed how the Commander seems to be feeling awful?<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+So I'm not the only one who felt that. I've never seen the Commander like this before.<br>
+Something bad must've happened before we got here.<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+A case of witnessing an event that opened up old scars, perhaps?<br>
+<span style="color:#c3abff;">Jintsuu META：</span><br>
+Such a thing may get under our skin, but the Commander hardly remembers anything, no?<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+There was that time when Helena used the Sea of Stars to run a simulation of NY City. The Commander participated in that.<br>
+<span style="color:#c3abff;">Jintsuu META：</span><br>
+I was deployed on a mission when that occurred.<br>
+I can hardly believe you succeeded in something so dangerous.<br>
+In fact, I must ask – how DID you achieve it?<br>
+Constructing a simulacrum of test site alpha is no easy task, even for Antiochus.<br>
+The enormous quantity of missing data, the highly advanced technology, the absurdly powerful adversaries... It's dangerous and hard to control in the extreme.<br>
+Even if you are successful in simulating it, it holds almost no meaning.<br>
+One may be able to replicate the places, but not the people. It would be a hollow shell of a city, much like this place.<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Yeah, but... we had the Tower. That's how we did it.<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+We created a special world slice based on records, then created the people, then employed a unique method to grant intelligence to the people who were important.<br>
+<span style="color:#c3abff;">Jintsuu META：</span><br>
+...Absurd. That's what it was.<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+You're right. Looking back on it, it was a bit absurd.<br>
+But if the chance really presented itself to you, would you not take it?<br>
+Would you not want to see it one more time? Those bustling streets, the people we've lost...<br>
+Ow... My head...<br>
+<span style="color:#c3abff;">Kasumi META：</span><br>
+Take it easy, Memphis.<br>
+No more thinking. It's bad for your mental stability.<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Ugh... Thanks.<br>
+Okay, I won't dwell on it.<br>
+Let's stay focused. We've found the Commander, so things are gonna get better from here on!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=28|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Defensive Area C|选项=28|主框=1|样式=primary|展开=是}}
+<br>
+Location unknown<br>
+NY City(?) - Coastal Waters(?)<br>
+Defensive Area C(?)<br>
+Unzen absentmindedly followed the road, and arrived at the defensive area before she knew it.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+......<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Unzen, we've arrived.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+......<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Unzen!<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+Hm? Yes? What is it?<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+I said we've arrived.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+Oh, right. That we have.<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+Well? What now?<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+Now, we...<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+......<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+......<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+Um... Hey, nothing really bad's happened yet.<br>
+There's no need for that doom and gloom, okay?<br>
+If you need to vent, you can take it out on the enemy.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+Yes...<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+......<br>
+Daisen, Watarase, hold her for me.<br>
+The Dragon God shall give her her finest remedy!<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+What are you going to do?<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+A little click and a snap! Take a photo, in other words!<br>
+I'm going to get a good picture of her looking all distracted!<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+I'd prefer it if you didn't...<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+And I'd prefer it if you stopped beating yourself up. The Commander isn't completely out of the woods yet.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+*sigh*... Understood.<br>
+Let's fight back first, and save the thinking for later.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=29|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Dash of Crimson|选项=29|主框=1|样式=primary|展开=是}}
+<br>
+Everyone except for Helena has left the headquarters to head to their designated defensive area.<br>
+Meanwhile, I walk around the building's transparent observation deck, surveying the city.<br>
+The entire metropolis has become increasingly blurry ever since Anzeel went away.<br>
+The citizens, the police, even the autonomous combat units – everything capable of independent movement has vanished without anyone noticing.<br>
+All that remains is this well-lit decoy. This shell of a city, empty yet ostensibly bustling.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+This really is just a dream...<br>
+The only good thing is that the city's automated defense system is still running...<br>
+No, wait – it's also good that it's just a dream. We're not truly fighting X, just the ghastly outlines of it.<br>
+Anzeel said that Amahara is floating high above in orbit.<br>
+It's an honest-to-god spaceship. I wonder what it looks like...<br>
+How would I find it? The night is dark, and even the moon isn't out...<br>
+*sigh*...<br>
+If only I knew how long we have to hold out for...<br>
+Unless... If we go back to the underground canals now, will we be able to reach EVA?<br>
+<br>
+For some reason, my thoughts are all jumbled, and I can't calm myself down no matter how I try.<br>
+Before I catch a glimpse of a dash of crimson, I suddenly hear a voice from behind me.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Your mind is in many places, I see.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Akagi?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+You've lost your composure, and your perception and judgment are both dull.<br>
+I can't imagine a better opportunity than this to take you down.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You don't have any reason to.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Heehee...<br>
+What if I told you...<br>
+I do, because I'm not who you think I am?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Huh?!<br>
+Who are you?! Where's Helena?! What'd you do to her?!<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Ahahahahaha!<br>
+I never imagined I'd see our celebrated Commander jump back in fear!<br>
+Just kidding. It's only me.<br>
+As for that guard of yours, I distracted her with a false alarm. It'll be a few more minutes before she comes back.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wait, so why are you...?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+I was feeling a bit playful, that's all.<br>
+Say, you don't look so good. Did something bad happen before I got here?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+A LOT of things happened... A nightmare. But thankfully, only a nightmare.<br>
+May I ask why you're here?<br>
+I'm fairly sure the other Sakurans have left for their respective defensive areas.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Indeed they have.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+And... you didn't go with them?<br>
+Asama gave me the impression that the Sakuran fleet – you included – would follow my orders.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Have you forgotten already, Commander? I was let go from all my official positions.<br>
+I'm a free woman, and if I wish to stay here, then stay I can.<br>
+I don't have to follow your orders. Not that I ever had to.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...Fine. Do as you please, then.<br>
+Wait, there's one thing I've been meaning to ask.<br>
+You temporarily underwent METAmorphosis. Did you feel anything out of the ordinary after that happened?<br>
+Or did you encounter anything unusual?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Actually, I never underwent METAmorphosis due to Wisdom Cube corrosion. It was just a false reflection of myself.<br>
+Speaking of unusual occurrences, though... Yes, something does come to mind.<br>
+Have you ever experienced something akin to speaking with your inner demons?<br>
+That vixen was only a reflection of me, and yet, we got into a heated argument.<br>
+She not only knew a lot about me, but also seemed to have a mind of her own.<br>
+In the end, I couldn't really tell what she truly was.<br>
+I'm not sure if that fits your idea of "something unusual," but regardless.<br>
+Why did you ask, anyway? That question came rather out of nowhere.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well, I was just wondering if maybe she's watching us from a higher dimension.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+A higher dimension?<br>
+<br>
+She turns her gaze skyward, and all she sees are the dark clouds growing ever thicker.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Or maybe she's gone. It's a chaotic, confusing dream, so who knows?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+*pant*... *pant*... Akagi, I went and checked!<br>
+That system alert was just a false alarm. There was no intruder all this time.<br>
+Thanks for watching the Commander while I was gone!<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Heehee. You're welcome.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Helena...<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Hm?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Actually, never mind.<br>
+The battle's about to begin. We should get back to the underground shelter.<br>
+What about you, Akagi?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+I'm not going there with you.<br>
+Naturally, I'm not going to the front lines either.<br>
+I think I'll stay right here. The view from the observation deck... is enough to make one's heart flutter.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Very well. Stay safe.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Of course. You too, Commander.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=30|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The Black Wall|选项=30|主框=1|样式=primary|展开=是}}
+<br>
+The writhing nightmares finally resumed their offensive.<br>
+Along with the rumbling of towering waves, a black wall rose in front of everyone's eyes.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+That black wall... Is it what I think it is?<br>
+<span style="color:#4eb24e;">Asama：</span><br>
+Yes. The nightmares have coalesced.<br>
+We vanquished them once only for them to return en masse like this...<br>
+<span style="color:#4eb24e;">Oumi：</span><br>
+This is going to be a little... tricky.<br>
+<span style="color:#4eb24e;">Taekaze：</span><br>
+I have an idea! We ought to compromise its structural integrity, like trying to collapse a dam!<br>
+<span style="color:#4eb24e;">Minase：</span><br>
+Focus fire on a single point, in other words, then.<br>
+<span style="color:#4eb24e;">I-404：</span><br>
+Psh! That's easy!<br>
+Kotama, cut open a path for us! Let's dance!<br>
+<span style="color:#c3abff;">Kasumi META：</span><br>
+A wall of black...<br>
+<span style="color:#c3abff;">Jintsuu META：</span><br>
+Thank the heavens this is but a dream. In reality, these nightmares would manifest as something far worse than a wall.<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+Is this... what NY City stared down in its final moments?<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+This time, we will help the city see another day.<br>
+For the Commander! And for the duty we failed to fulfill!<br>
+<span style="color:#4eb24e;">Watarase：</span><br>
+Everyone, the enemy force has revealed itself.<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+I wonder if the seadrake can handle this many of them...<br>
+<span style="color:#4eb24e;">Daisen：</span><br>
+It seems I must release some of my anchors.<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+They are but phantoms at the end of the day. We need only cut them all down.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Now this is a sight to behold.<br>
+Is this what your past is like?<br>
+Is this the root of your fear?<br>
+It's... out of this world.<br>
+Alas, I'm sure that once we return, our memories will all be "blurred".<br>
+Hey, other me – I know you can hear me.<br>
+Listen. I don't want to forget any of what's happened today.<br>
+So lend me a hand.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, the enemy's main force is approaching the coast, and all allied fleets have begun engaging.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Send this reminder to all fleets: Don't charge in, but don't stand your ground in vain either.<br>
+Retreat to the next area immediately when your current one is lost. All three fleets must take turns covering each other's retreats.<br>
+Above all, don't forget that our mission is to stall for time.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Roger!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whew...<br>
+Alright, black wall. Let's see what you're made of.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=31|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Not a Moment Too Soon|选项=31|主框=1|样式=primary|展开=是}}
+<br>
+Great waves rocked the sea's surface even before the black wall approached.<br>
+After the waves came tempestuous gales, then torrential rain.<br>
+Enemies kept pouring out of the wall, despite the countless blows dealt to it.<br>
+The front-line fleet's range of engagement was shrinking at a rate far beyond expectations.<br>
+There was no changing the tide of the battle, even with the whole city providing fire support.<br>
+In the meanwhile, Hakuhou and I-404 attempted close-range reconnaissance.<br>
+However, black and highly viscous seawater and rain stopped them before they could get close. The enemy even nearly surrounded them.<br>
+When I heard of this, I again strongly reminded all fleets not to take any risks, and hastened the defensive line's retreat.<br>
+And so, within a short three hours, I had withdrawn all our fleets past the coastal defense line before anyone made any contact with the black wall.<br>
+As the wall slowly approaches the coastline, the rainstorm over the city becomes even more intense.<br>
+Thick, dark clouds swirl into a helix shape, like a gathering drillhead – it's a sign that a black tornado is forming.<br>
+To make matters worse, the rain is gradually getting darker, accumulating into pools all over the city from which new enemies begin to creep out.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+No wonder Anzeel considered abandoning ninety percent of the city from the very beginning...<br>
+<br>
+But then, right at that moment, the ruthless winds stop.<br>
+Three dazzling rays of light rip open the sky, and butterflies in three different colors emerge from the cracks.<br>
+They flutter off in all directions, and wherever they go, the wind stops, the rain clears, and all traces of the nightmares vanish.<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+Are those... butterflies?<br>
+<span style="color:#4eb24e;">Minase：</span><br>
+These tricolored butterflies represent the powers of the Venerable Three.<br>
+<span style="color:#4eb24e;">I-404：</span><br>
+They've sent us backup!<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+Heheh. Looks like they managed to find a stable route.<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Whew... Helena came through for us!<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+We should start preparing to retreat, everyone.<br>
+Still, I implore you to remain on your guard.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Yes... It's finally over.<br>
+<br>
+The butterflies flutter unimpeded through space, even filling up the shelter with their presence.<br>
+They fly round and round in circles as they start to form loose vortices.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander! The butterflies are enveloping us!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I guess that's how they're going to bring us back.<br>
+It's finally over...<br>
+<br>
+I relax my shoulders and let their glistening wings envelop me.<br>
+As lights flood my vision, it's as if I'm able to see through the roof of the shelter and into the ruptured clouds above.<br>
+There, up in the sky, shimmers a dazzling aurora.<br>
+The light around me grows brighter, and I bathe in it.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=32|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=As Blue as the Sea|选项=32|主框=1|样式=primary|展开=是}}
+<br>
+When the light subsides, I see a city as quiet as death itself.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What?<br>
+...I'm still in NY City?<br>
+What's going on here?<br>
+Helena?<br>
+Memphis?<br>
+Akagi?<br>
+Unzen?<br>
+<br>
+There is no response. Our comms channel is just as dead silent as the deserted city around me.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...I'm all alone.<br>
+<br>
+THE PRISON IS SEALED<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...Prison.<br>
+Perceiving the prison drives a phantom into madness.<br>
+It's this prison that traps Anzeel. That keeps her from escaping.<br>
+<br>
+A PRISON OF THE MIND<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Does that mean that my perceiving it has trapped me, too?<br>
+<br>
+THERE IS NO ESCAPE<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is it because I know too much about the past now?<br>
+Have I become intrinsically linked with this world?<br>
+<br>
+There is no answer to my question.<br>
+Because nobody is here to answer it.<br>
+After all, I exist alone in this city now.<br>
+A black wall suddenly comes into view.<br>
+I gaze at it.<br>
+It seems to gaze back at me.<br>
+The air is silent, but I seemingly can hear the cacophony within.<br>
+Within that encroaching wall is a storm of madness trying to break free.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is this what the real Anzeel saw in her last moments, too?<br>
+<br>
+ARE YOU READY<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I...<br>
+<br>
+Nobody's here to back me up now. This isn't a carefully curated experiment.<br>
+No reinforcements. They all left.<br>
+YOUR END HAS COME<br>
+YOU WILL DIE HERE<br>
+JUST LIKE THE REST<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I...<br>
+<span style="color:#4eb24e;">Dr. Anzeel：</span><br>
+Then the Magister Plan was a success... and a glimmer of hope remains at Dusk.<br>
+You. You might be truly special.<br>
+Because you managed to truly escape!<br>
+Assistant, go somewhere else that's safe.<br>
+Sorry, assistant.<br>
+Thank you, assistant. For giving me this fleeting dream.<br>
+<br>
+BANG!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+No... I can't let it end this way.<br>
+They'll realize I didn't make it out with them.<br>
+I just need to buy time until they come back.<br>
+Of course! I can still go to EVA.<br>
+I'll go to the underground canal...<br>
+Find a transport ship...<br>
+No matter what, I have to survive!<br>
+<br>
+I run desperately through the deserted streets.<br>
+When I fall, I get up again, and I repeat the process when I fall once more.<br>
+The black wall gradually engulfs the levees. It isn't far behind me.<br>
+And then...<br>
+"Don't be afraid. I'm here."<br>
+Helena META's voice whispers in my ears.<br>
+It's as gentle as a breeze.<br>
+I look to the source of that breeze...<br>
+And there she stands.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...Helena? Is that you?<br>
+<br>
+As much as I pride myself on my rich knowledge and experience, even I'm stunned by what I see.<br>
+She's enormous. As if the world itself could fit in the palm of her hand.<br>
+At the same time a distant projection and a firm figure atop the heavens.<br>
+"I'll shatter this cell."<br>
+Three rings descend one after another and spin above the city.<br>
+A blue light condenses between them.<br>
+The black wall exudes a sense of... panic.<br>
+Twisted nightmares begin appearing out of thin air and swarming in from all directions.<br>
+They've realized that something is amiss.<br>
+And so they rush to overwhelm me.<br>
+"Nice try."<br>
+The rings vibrate, bathing the city in a torrent of blue.<br>
+I hear the enraged, resentful shrieks of the once-silent nightmares.<br>
+The black wall begins to crumble. It becomes a black wind, then a cloud, and then mist.<br>
+But no matter where I go, whether I approach or retreat...<br>
+It never enters the city, remaining just beyond the edges of the rings.<br>
+"The End."<br>
+There's a soft sound akin to a bubble popping.<br>
+All the blackness in the world vanishes at once.<br>
+The blue giant smiles at me...<br>
+...And the world collapses.<br>
+I bathe in light as blue as the sea.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=33|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Farewell|选项=33|主框=1|样式=primary|展开=是}}
+<br>
+This time, the light doesn't fade immediately.<br>
+I feel as if it's cradling me, carrying me down a winding path.<br>
+I can't see her, but I can feel her presence by my side.<br>
+<br>
+'''''<span style="color:black;">选择项1：Helena?</span>'''''<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+Yeah, it's me... You're safe now.<br>
+<br>
+She sounds exhausted.<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+After this... you must leave the Sakura Empire as quickly as you can.<br>
+Talk with Yamato before you go. She's on the right path, so she mustn't give up.<br>
+Don't stay in the Iris Orthodoxy, either. Find an excuse to pay a visit to the Royal Navy.<br>
+The META Elizabeth is there. There's no safer place for you than with her.<br>
+......<br>
+I... have to leave you for a while.<br>
+I've made a decision. A very important once.<br>
+For us... and for those we've lost.<br>
+Don't worry. We'll meet again before long.<br>
+Until then, take care of yourself.<br>
+......<br>
+...I have to go now.<br>
+Goodbye.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=34|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Epilogue|选项=34|主框=1|样式=primary|展开=是}}
+<br>
+Once the light has faded, I see a complex of luxurious buildings rising above a sea of clouds.<br>
+Hakuhou, Akagi, Unzen, Helena, and Memphis META... Everyone from the dream is here.<br>
+They all seem like they just got back, too. Everyone looks at me with a smile on their face.<br>
+Everything in that dream had happened in mere moments in reality. Nobody even notices that I've fallen a little bit behind.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is it really over this time?<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Yeah... I think so!<br>
+<span style="color:#c3abff;">Vestal META：</span><br>
+Hold on, everyone.<br>
+We just woke up from a profound nightmare. If anything feels amiss, you need to speak up right away.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+Hmm... Nothing wrong here.<br>
+But for some reason, I can't remember what I was doing just now.<br>
+<span style="color:#4eb24e;">Oumi：</span><br>
+Same here... It's like I just woke up from a drunken dream.<br>
+<span style="color:#4eb24e;">Shimanto：</span><br>
+Does anyone else feel like we were in the middle of a big fight?<br>
+<span style="color:#4eb24e;">I-404：</span><br>
+Yeah! In some coastal city, right?<br>
+<span style="color:#4eb24e;">Taekaze：</span><br>
+Huh? It wasn't by a lake?<br>
+<span style="color:#4eb24e;">Minase：</span><br>
+I do believe it was a river...<br>
+<span style="color:#4eb24e;">I-404：</span><br>
+Hmm... Was it?<br>
+<span style="color:#4eb24e;">Unzen：</span><br>
+...Maybe. It eludes me, too.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+Wow. Even Unzen can't remember it.<br>
+Akagi, do you remember anything?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+...I'm afraid I'm just as clueless as the rest of you.<br>
+<span style="color:#c3abff;">Jintsuu META：</span><br>
+It was a very different dimension, so it's normal for our memories to come out fuzzy.<br>
+Still, it was a nightmare. Better for everyone to forget it.<br>
+<span style="color:#4eb24e;">I-404：</span><br>
+Hmm... Maybe you're right.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Heh...<br>
+<span style="color:#c3abff;">Memphis META：</span><br>
+Looks like everyone is safe, so we're gonna head out soon.<br>
+What about you, Commander?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...I think I'd like to leave for now.<br>
+Until you've ironed out the kinks here, I don't want to stay for too long.<br>
+<span style="color:#4eb24e;">Hakuhou：</span><br>
+That's totally understandable.<br>
+I'll show you the way to Ama no Tobira right away.<br>
+<br>
+A Dance for Amahara Above - The End<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=35|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Amahara Forevermore|选项=35|主框=1|样式=primary|展开=是}}
+<br>
+Ama no Tobira<br>
+Central Palace<br>
+Sometime later...<br>
+After returning to Ama no Tobira from Amahara, Unzen escorts me to where Yamato is.<br>
+To my surprise, however, I find only Ikazuchi and Inazuma waiting for me. Yamato herself is nowhere to be seen.<br>
+<span style="color:#4eb24e;">Ikazuchi：</span><br>
+"We meet again, {playername}."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is that... you, Yamato?<br>
+You invited me to come, and you still won't show yourself?<br>
+<span style="color:#4eb24e;">Inazuma：</span><br>
+"Oh, but I am here."<br>
+<span style="color:#4eb24e;">Ikazuchi：</span><br>
+"I am all things that you saw on your way here."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What?<br>
+Are you saying you've merged with Ama no Tobira?<br>
+<span style="color:#4eb24e;">Inazuma：</span><br>
+"It had to be done for Amahara's sake."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Why?<br>
+<span style="color:#4eb24e;">Ikazuchi：</span><br>
+"A truth regarding the Wisdom Cubes surely hasn't escaped you – that they aren't required for us to materialize."<br>
+<span style="color:#4eb24e;">Inazuma：</span><br>
+"You beheld it with the Rite of Resurrection. We have no need even for physical bodies."<br>
+<span style="color:#4eb24e;">Ikazuchi：</span><br>
+"So I ask you: What DO we need? Where does our essence lie?"<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+In a network that... links Wisdom Cubes together?<br>
+<span style="color:#4eb24e;">Inazuma：</span><br>
+"Precisely. I forsook a physical body so that I may explore this limitless domain."<br>
+<span style="color:#4eb24e;">Ikazuchi：</span><br>
+"Alas, on this one occasion, I was foolhardy."<br>
+<span style="color:#4eb24e;">Inazuma：</span><br>
+"I was much too hasty."<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It wasn't all your fault. Part of the blame lies with me.<br>
+We both underestimated this place.<br>
+However, it is true that this place has limitless potential.<br>
+As long as you stick to your original plans and aren't tempted by seemingly miraculous technology, I'll keep supporting your endeavor.<br>
+Together, we can grow the Sky Realm into a bunker for the mind.<br>
+<span style="color:#4eb24e;">Ikazuchi：</span><br>
+"By our own hands shall we protect our home."<br>
+<span style="color:#4eb24e;">Inazuma：</span><br>
+"That is my wish."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=36|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Crimson Farewell|选项=36|主框=1|样式=primary|展开=是}}
+<br>
+Ama no Tobira<br>
+Elsewhere<br>
+Sometime later...<br>
+After saying goodbye to Yamato, Akagi told me that she wanted to see me one more time before I leave the Sakura Empire.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+How did you like your journey into the Sky Realm of Amahara?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It turned into something completely different from what I originally expected.<br>
+I understand why you were grumpy at the table earlier. It was because of the Dream Stones.<br>
+Did you already know what they really were back then?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Heh. They don't have the experience of being deceived that I do.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sounds like you've come to terms with it.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+What does it matter if I've come to terms with it or not?<br>
+Now that I'm here, in the Sky Realm, it's no exaggeration to say my fate is intertwined with its own.<br>
+I refuse to die in my sleep one day without knowing what happened.<br>
+Oh, on another note – this didn't count as fulfilling our promise.<br>
+<br>
+'''''<span style="color:black;">选择项1：Come again?</span>'''''<br>
+'''''<span style="color:black;">选择项2：You mean our promise to travel together?</span>'''''<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Heh. It's nothing.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Just know that I don't plan on being stuck in Amahara for the rest of my days.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''The next time we meet, I'll be sure to remind you.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''We've said all that needs to be said. I'm sure you don't want to linger here, so let's go.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yes, that one.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Just know that I don't plan on being stuck in Amahara for the rest of my days.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''The next time we meet, in reality, I will host a most wonderful banquet at my estate just for you.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''After that, I'll take you to see everything there is to see.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Sounds nice. I can't wait.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Good. Now, it's time for you to head back.<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+I hope that the next time we meet, those nightmares won't show up again to spoil the fun.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wait, "those nightmares"?<br>
+You... remember what happened?<br>
+<span style="color:#4eb24e;">Akagi：</span><br>
+Heheh. Perhaps.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=37|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Helena's Resolve|选项=37|主框=1|样式=primary|展开=是}}
+<br>
+Location unknown<br>
+Location unknown - Compiling Field<br>
+In a garden surrounded by stars, an important dialogue was being held.<br>
+<span style="color:#c3abff;">Yorktown META：</span><br>
+Have you already made up your mind?<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+I have.<br>
+<span style="color:#c3abff;">Yorktown META：</span><br>
+Who is it for this time? The Commander, or yourself?<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+......<br>
+It's for everyone. Every last one of us.<br>
+<span style="color:#c3abff;">Yorktown META：</span><br>
+Don't you think there are too many uncontrollable variables in this plan?<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+With enough determination, anything is possible.<br>
+Sure, there's some risk, but we've been accumulating power for this very moment.<br>
+The Commander's life shouldn't be like this. Our world shouldn't be like this, either.<br>
+You, me, those people... Not a single person should have to endure this.<br>
+As the silver lining of this incident, the last piece has fallen into place.<br>
+We don't have to worry about the prison anymore.<br>
+Add to that the environment created by the cross-border experiments, and the forces on our side.<br>
+We have the right time, place, and people. Now is our best opportunity.<br>
+<span style="color:#c3abff;">Yorktown META：</span><br>
+I'll give you that the META Elizabeth will support us, but what about the Ashes?<br>
+They still have yet to respond.<br>
+<span style="color:#ffc960;">Helena META：</span><br>
+They're just watching from the side for the moment. They haven't found bait that's sweet enough yet.<br>
+But they will find it eventually, and then they'll jump into action. I guarantee it.<br>
+Nobody can stop what's going to happen. Not even Friedrich der Große.<br>
+Just you wait...<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=38|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Everything Will Be Fine|选项=38|主框=1|样式=primary|展开=是}}
+<br>
+Commander's Private Plane<br>
+On the way home<br>
+It was time for me to leave the Sakura Empire.<br>
+Helena META wouldn't tell me to do something without a good reason.<br>
+I gave Elizabeth a call. She promptly came up with an excuse to request my assistance.<br>
+Assuming all goes according to plan, I will officially receive orders to visit the Royal Islands as soon as my plane lands.<br>
+Amidst their journey, a sense of drowsiness crept into the air.<br>
+Subsequently, one passenger fell into a dream.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Is this... a battlefield?<br>
+<br>
+The entire world seems to be ablaze.<br>
+The seas. The clouds. Even the bolts of lightning falling from the sky.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Something's not right. It's just like before...<br>
+Did the Commander end up here, too?<br>
+I've got to look...<br>
+<br>
+Helena tried to whip up the water to block off the heat, but she couldn't move a single step from where she stood.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+It's so hot... It burns...<br>
+I need to... get out of here, now...<br>
+<br>
+A nearby wreckage provided temporary shelter from the heat, allowing her to catch her breath if only for a moment.<br>
+Then, she saw more of the battlefield.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Louis... Saratoga... Lexington!<br>
+Don't go there! It's dangerous! What are you all doing?<br>
+No! Come back!<br>
+<br>
+A firestorm swept them up in an instant. Their little fleet vanished in the bright light.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+NOOO!<br>
+*gasp*!<br>
+Just a dream... Calm down, Helena... It was just a dream...<br>
+Everything's okay...<br>
+<br>
+She raised her handheld mirror and saw the sweat-streaked face reflected in it.<br>
+<span style="color:#bdbdbd;">???：</span><br>
+......<br>
+<br>
+For a moment, the reflection bore the countenance of someone else. Familiar, but not hers.<br>
+But, the very next moment, her reflection returned to normal.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+...Was it just my imagination?<br>
+<br>
+She looked at it over and over, but whatever she saw did not show itself again.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+It must've been my eyes playing tricks on me after that dream...<br>
+It was nothing... Everything is fine...<br>
+You told me everything will be fine as long as I stay by the Commander's side...<br>
+And I trust that you're right, other me.<br>
+I don't know what you're planning to do...<br>
+But stay safe, wherever you are.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=？|选项=39|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Sweet Bait|选项=39|主框=1|样式=primary|展开=是}}
+<br>
+Eagle Union - Sea of Stars<br>
+Command Center<br>
+Argo Navis - Section B1C<br>
+Saratoga stared at the files placed in front of her with a look of incredulity, rereading them several times.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+You're telling me the experiments finally yielded results?!<br>
+That after all this time, we finally have something to show for our efforts?!<br>
+<span style="color:#4eb24e;">Langley II：</span><br>
+Yes. I reviewed this report twice before submitting it. It is absolutely feasible, in theory.<br>
+After a series of advancements built on top of the Type II rigging's technological framework, we've finally found a solution that will work for Lexington!<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+I gotta report this to the Commander right now!<br>
+Wait, no... This is just a plan. A feasible plan, but still. I need something more concrete first!<br>
+I'll have to distribute this plan across all our departments, give it top priority, and then...<br>
+<span style="color:#4eb24e;">Langley II：</span><br>
+Well, on that topic–<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+I'm gonna go talk to Alaska and Missouri.<br>
+<span style="color:#4eb24e;">Langley II：</span><br>
+Alright.<br>
+<span style="color:#4eb24e;">Saratoga：</span><br>
+Before I go...<br>
+Get TB to prepare to activate the Galactic Core. I want to see it for myself!<br>
+<br>
+Location unknown<br>
+Somewhere...<br>
+KABOOOM!<br>
+Enterprise and Essex META appear on the ocean's surface with a boom.<br>
+<span style="color:#ffc960;">Essex META：</span><br>
+...They're getting close.<br>
+<span style="color:#ffc960;">Enterprise META：</span><br>
+This chase has gone on long enough. Time to settle this.<br>
+<span style="color:#ffc960;">Essex META：</span><br>
+Look... They've come.<br>
+<br>
+A swarm of countless drones blotted out the cloudy sky, and shortly thereafter, a fleet of floating battleships entered their view.<br>
+Alerted by the explosion from just moments ago, the fleet had shifted into a combat-ready formation.<br>
+<span style="color:#ffc960;">Enterprise META：</span><br>
+That formation... It's them. A Council Task Force.<br>
+They've finally caught up.<br>
+<br>
+Neither of the two was fazed even with countless guns aimed at them. They simply stood silently on the sea's surface.<br>
+They were waiting for the moment someone from the fleet would show up, and ask them about their objective.<br>
+Finally, a figure broke forth from the fleet and approached them head-on.<br>
+<span style="color:#ffc960;">Hornet META：</span><br>
+This is the Council's Task Force 7, currently on a patrol mission.<br>
+Who are you? Why are you blocking our path?<br>
+<span style="color:#ffc960;">Enterprise META：</span><br>
+...Hornet?<br>
+I don't understand...<br>
+<span style="color:#ffc960;">Hornet META：</span><br>
+You know me?<br>
+Wait a second...<br>
+Is that you...<br>
+...Enty?<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
