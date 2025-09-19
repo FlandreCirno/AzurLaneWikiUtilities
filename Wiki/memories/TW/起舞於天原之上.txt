@@ -1,0 +1,1467 @@
+== 起舞於天原之上 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=龍宮祕境|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+結束了與海倫娜·META的商談後，我向重櫻轉達了決定接受邀請前往天岩戶的決定。<br>
+於是經過一日準備，在抵達重櫻的第五日清晨，我與海倫娜一同踏上了前往這處重櫻祕境的旅程。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，我們要前往的地點是……港口？<br>
+<br>
+這趟路程從一開始就令人意外。<br>
+我們並沒有如預想中那般前往重櫻境內某處能夠隱藏巨型設施的深山，而是徑直來到了港口。<br>
+之後在重櫻艦隊的帶領下，我們駛離了島嶼。<br>
+就在我與海倫娜好奇的猜測著航線時，窗外的景色卻在某個不經意間的時刻改變了。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，我們是進入鏡面海域了嗎？<br>
+好漂亮……簡直像畫卷一樣。<br>
+海面上，靜靜矗立著一座古老建築構成的都市。<br>
+<br>
+都市由東西向和南北向兩條主幹道貫穿，並由內向外分成了三道鮮明的圓環區域。<br>
+每個大型區域也並非一個整體，而是被內部縱橫的水網分割成了更多大小不一的區域。<br>
+金碧輝煌的亭台樓閣位列其中，遵循外側低、內側高的分佈規則。<br>
+最中心處，自然豎立著一座直入雲端的高塔。<br>
+——「龍宮城」，重櫻提供的資料中是如此稱呼的。<br>
+<span style="color:#4eb24e;">{namecode:81}：</span><br>
+{playername}閣下，海倫娜小姐，前方的海上城市是前往天岩戶的必經之路。<br>
+不過我只能送兩位至此了。<br>
+進入城內的水門已經開啟，兩位在進入後，將由三位大人親自安排的人護送兩位繼續前往天岩戶。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+咦？土佐小姐，妳不跟我們一起進去嗎？<br>
+<span style="color:#4eb24e;">{namecode:81}：</span><br>
+嗯，我還沒有獲得進入城內的許可。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這座海上都市就是龍宮城吧？<br>
+沒想到只是前往天岩戶的中間站，管理就如此嚴格？<br>
+<span style="color:#4eb24e;">{namecode:81}：</span><br>
+沒錯，此處就是龍宮城。<br>
+原本進入城中倒不是什麼麻煩的事……不過此城在「奈落」事件期間受到了嚴重的損傷。<br>
+在大和大人對其進行緊急修復的時候，由因為執行儀式需要，對其進行了某些「特殊」的環境改造。<br>
+現在龍宮城已經在事實上相當於天岩戶的外延部分了，管理上自然就麻煩了許多。<br>
+更多的事我也不是很清楚，兩位可以等進入之後詢問那邊的人。<br>
+兩位，請。<br>
+<br>
+就這樣，我乘坐指揮艦與海倫娜一同駛入了龍宮城開放的水門。<br>
+在水門關閉的那一刻，周圍的環境再次在無聲中發生了翻天覆地的變化。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，我們這是……來到水下了嗎？！<br>
+<br>
+抬頭望去，蔚藍的天空已經被幽暗的海水做取代。<br>
+無數海魚被城市散發的光芒所吸引，集群在護盾屏障外遊蕩。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我從資料中看到過，龍宮城從水面到下潛到最大深度，需要大約一個半小時的時間……<br>
+哪裡需要那麼久……明明是頃刻之間啊。<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+呵呵，希望這突如其來的改變沒有嚇到兩位。<br>
+我是大山，旁邊的這位是四萬十，接下來的旅程就由我們二位負責引導。<br>
+<span style="color:#4eb24e;">四萬十：</span><br>
+又見面了，{playername}閣下~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+大山小姐，四萬十小姐。<br>
+我預想過在進入天岩戶之後，應該會見到不少新奇的地方。<br>
+卻沒想到早在進入之前，這一路上的所見就已經讓我目不暇接了。<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+呵呵~這座龍宮城在改造之前，只靠機械結構完成上浮下潛時，確實需要那麼長的時間。<br>
+您所看到的資料冊上寫的沒錯，只是——有些過時了。<br>
+如今的龍宮城，經過大和大人的改造後，也不能完全算是凡世之物了。<br>
+因此在處理諸如上浮和下潛這種小事上，自然是須臾之間。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我對於這項技術的原理很好奇，可以稍微詳細說一下嗎？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+您有興趣的話，自然可以。不過我打算在您提出接下來的問題後一併回答你。<br>
+畢竟，這兩件事的原理其實是共通。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我的下一個問題……是啊，我確實還有一個問題。<br>
+我們已經來到了深海，「天岩戶」難道就隱藏在深海的某處？<br>
+接下來我們是要換乘潛航艦過去，還是龍宮城可以直接行駛過去？<br>
+<span style="color:#4eb24e;">四萬十：</span><br>
+不需要這麼麻煩~現在龍宮城內有一道門，只要穿過那道門，就可以抵達天岩戶了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……門？）<br>
+（難道是指通往奇異點的傳送門……可是之前從城外並沒有看到那種巨型設施，這麼說，重櫻實現了入口的小型化……？）<br>
+（等等……不對！）<br>
+（不管是米德加爾特之塔、阿瓦隆之門還是王冠、甚至是奈落……奇異點的入口都是固定的。）<br>
+（重櫻的這個人工奇異點……入口居然是移動的？！）<br>
+四萬十小姐，妳提到的「門」，難道是指進人工奇異點的入口嗎？<br>
+妳們是怎麼實現了入口設施的小型化和自由部署的？<br>
+<span style="color:#4eb24e;">四萬十：</span><br>
+呃……入口大門就是一道大門喔！<br>
+畢竟天岩戶在現實世界中並不存在，存在的唯一憑依只有大門而已！<br>
+至於為什麼將這道大門設置在龍宮城能內……那就完全是大和大人的意思了，我也不知道原因。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（壞了，她們聽不懂……）<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+天岩戶的入口大門，既存在於此處，也存在於彼方。<br>
+正如此刻的龍宮城，既存在於水上，也存在於水下。<br>
+所以，閣下可以通過大門，在轉瞬間由此進入天岩戶。也可以透過水門，在轉瞬間來到水下。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳的意思是……妳們修建了兩座龍宮城，一座位於水上，一座位於水下……之間透過具有傳送功能的水門連接起來了？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+並非如此，我們只有一座龍宮城，只是如今的龍宮城並非凡世之物，故而如此。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（壞了，我又聽不懂了……）<br>
+（……不能在這個問題上繼續糾纏下去了，先記下來，回頭問海倫娜好了。）<br>
+我……大概明白了。<br>
+那龍宮城在改造之前呢？據我所知，天岩戶的出現要早於龍宮城的出現。<br>
+在過去，妳們是如何前往天岩戶的呢？<br>
+<span style="color:#4eb24e;">{namecode:299}：</span><br>
+在過去……要比如今麻煩許多。<br>
+與如今只要拿到邀請函就可以從大門進入天岩戶不同，過去進入天岩戶唯有神木網路一途。<br>
+彼時，就連我也無法進入其中。<br>
+能夠進入的，只有能夠自由穿梭於神木網路之人，例如四萬十。<br>
+此處的入口，本是大和大人為了順利進行返魂儀式專程設置的。<br>
+不過在儀式順利結束後，大和大人決定保留。<br>
+也才讓我等有了一覽天岩戶的機會……<br>
+哎呀，抱歉~稍微說的有些冗長了。<br>
+{playername}閣下，海倫娜小姐，請隨我們來吧~<br>
+<br>
+重櫻，多年以來與所有陣營都交往不深，本就是一處充滿迷霧之地。<br>
+而其中，任何事情只要一涉及大和，更是空白到令人費解。<br>
+到目前為止，碧藍航線指揮部除了知道她是戰列艦，名字叫大和之外，還拿不出任何有價值的資料。<br>
+甚至在她廣為活躍的「奈落」事件期間，都沒有人實際見過她。<br>
+「返魂儀式」，輕描淡寫四個字，可做出了堪稱奇蹟的結果——死而復生。<br>
+這與船艦在戰鬥中身體受損沉沒，經過打撈修復後重新加入戰鬥序列不同。<br>
+奈落事件中的重櫻艦船多數損毀嚴重，甚至軀體無存。<br>
+在正常情況下，這些艦船絕無任何透過軀體修復再次甦醒的可能性……可是大和就是做到了。<br>
+僅僅依靠保存下來的「靈魂」——艦船本來應該儲存在自己心智魔方中的全部資訊的總和，便實現了船艦的重生。<br>
+先不論她是怎麼將這些艦船喚醒的，單純光是她如何分毫不漏的將這些本應立即消散的數據保存下來這一件事，都令人深思。<br>
+尤其是在我見證了薔薇塔於最後時刻閃爍出的璀璨輝光之後……<br>
+大和可能正在做一件意義非凡的事，而我——對此很期待。<br>
+「自吾始為吾時」<br>
+「吾常思」<br>
+「甲胄兵戈雖利」<br>
+「然不可阻心計」<br>
+「域外諸邪，皆善於此」<br>
+「固吾視不可視，感不可感」<br>
+「因岩而引域」<br>
+「憑域而鑄原」<br>
+「天域，乃外域之屏」<br>
+「天原，因天域而定」<br>
+「縱使地崩山摧，浩劫將至」<br>
+「天域天原」<br>
+「亦需永存」<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=天岩戶|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+邁過大門，景色頃刻變幻。<br>
+我與海倫娜行走在一片金色的雲海中。<br>
+<span style="color:#4eb24e;">{namecode:307}：</span><br>
+{playername}閣下——<br>
+<span style="color:#4eb24e;">{namecode:306}：</span><br>
+海倫娜小姐~<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+歡迎來到天岩戶~！<br>
+<br>
+砰——！<br>
+隱藏在雲層中的禮花齊射，紙帶如同磷火般飄散、閃耀，而後消失於無形。<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+{playername}閣下，我是伊404，旁邊的兩位是妙風和水無瀨，接下來就由我們三位來帶路啦~<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+三位好……<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+海倫娜小姐，妳好妳好~<br>
+<span style="color:#4eb24e;">{namecode:307}：</span><br>
+妳好妳好~！<br>
+<br>
+伊404一行人帶來的活力與熱情，觸動了我一路緊繃的心弦，讓我在不自覺間放鬆了下來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+今天，算上妳們已經是第三批了，妳們這是在進行接力式接待麼？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+嘻嘻，接力式接待嗎~你的比喻還蠻準確的呢！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+大山和四萬十不是可以進入天岩戶嗎，為什麼還要這麼安排？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+這個嘛——一個是因為，她們還需要留在龍宮城進行各項改造工作。<br>
+另一個則是因為天岩戶中正在準備一個的特殊儀式，格外需要環境保持穩定。<br>
+所以在這段期間進出的人自然是越少越好。<br>
+這個儀式還是專門為你準備的呢，敬請期待哦~<br>
+對了對了，{playername}閣下，海倫娜小姐——<br>
+怎麼樣~兩位在親自看到這神秘的天岩戶之後，有什麼感想？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+倒確實有一些。<br>
+我在來之前專門倒是查了些資料。<br>
+從「天岩戶」背後的神話意義來看，我以為這裡會是一處封閉、黑暗，或許還有些壓抑的空間。<br>
+也許還有一些原生態的石質建築群？<br>
+沒想到卻是如此空曠與明亮。<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+啊哈哈哈~我在來之前也跟你有一樣的想法呢！<br>
+不過仔細想想，大和大人居住的地方，怎麼會黑暗且壓抑呢？<br>
+當然啦，封閉是真的，至於空曠嘛——容我先賣個關子。<br>
+海倫娜小姐呢？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+就像指揮官所說，這裡空曠又明亮，而且……彷彿有一種令人安心的氣息，讓人在不自覺間放鬆下來……<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+哇哦~沒錯沒錯，這個「令人安心」的感覺可不是錯覺哦~<br>
+大和大人在天岩戶中設置了眾多法陣，其中的一些具有用正向情感撫慰精神的效果。<br>
+能夠讓人在不自覺間舒緩精神、釋放壓力，心情也會變好許多~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原來我剛才感受到的安心感，根源竟是大和在天岩戶內設立的法陣？）<br>
+（用正向情感撫慰精神嗎……有點意思。）<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+欸~待在天岩戶真是一種享受啊，我都不想回去了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳不是一直都待在這裡嗎？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+不是哦，我、妙風和水無瀨都是在龍宮城那邊的大門修好後才來的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也就是說，天岩戶是在「奈落」事件結束後不久，開始逐漸對外開放的？<br>
+那妳們來到天岩戶，是為了？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+嘿嘿~我們當然是為了完成三位大人分配的工作才來的啦~<br>
+至於工作內容嘛，和剛才的特殊儀式一樣，也先容我留個懸念~<br>
+那麼，{playername}閣下，海倫娜小姐，接下來就隨我出發吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=踏雲而行|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+那麼，{playername}閣下，海倫娜小姐，接下來就隨我出發吧~<br>
+<br>
+在茫茫雲海之上，伊404略微頷首，用手比出了一個「請」的姿勢。<br>
+隨即，一陣微風吹過，我們腳下的雲朵如同魔毯一般徐徐向前飛去。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，我們正……踩在雲朵在天上飛？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是啊……真是壯觀。<br>
+踏雲而飛，讓我想到了那次在輝光之城中的景象。<br>
+當時我們也是以雲為海，在雲海之上航行，並於敵人戰鬥著。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+在雲海之上航行戰鬥……指揮官，你在不知不覺間，一個人經歷了那麼多……<br>
+而我都沒怎麼幫上忙……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們每個人都有自己的任務，我有，妳有，曼非斯也有。<br>
+至少這次，我們一同行走在雲端之上了。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+嗯……我會努力的！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+努力渡假？<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官——！<br>
+<br>
+我們所乘坐的雲朵逐漸加速，周圍的景像在快速變動。<br>
+我看到了漂浮在空中的山岩、小島、還有繁茂的大樹與不知功能的樓閣。<br>
+行駛了一段時間後，伊404似乎率先耐不住旅途的無聊，她一個加速，衝向了相鄰的雲朵，而後那片雲朵也與我們一同加速起來。<br>
+之後，水無瀨和妙風也紛紛加入了其中，她們輕盈的遊蕩在天空中，駛過一片又一片雲朵。<br>
+我讓海倫娜也加入了其中。<br>
+雖然一開始說著不願意，很顯然，她玩得很開心。<br>
+就這樣，在我們裹挾著半邊天空，以排山倒海之勢一路橫掃了大約半小時後，我們似乎終於抵達了這段旅程的目的地。<br>
+雲朵在不知不覺間減速，我們也在不知不覺間深入一片建築。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+以剛才排山倒海的速度來說，這些樓閣本來應該被我們撞碎才對……我們是怎麼進來的？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+哇哦，不愧是碧藍航線的指揮官閣下，觀察力就是不一般。<br>
+很多人就算來了一段時間也不一定能注意到，你一下子就察覺到異常之處了~<br>
+天岩戶中的空間，雖然看起來一覽無餘——但實際上，是由許許多多被結界分割包圍的小空間構成的。<br>
+就像……唔，立體拼圖？搭積木那樣？<br>
+而空間與空間之間的邊界，其實是清晰又模糊的。<br>
+清晰的點在於空間之間涇渭分明，就像一個主題類似但是彼此獨立的小夢境。<br>
+至於模糊的點嘛~就像進入和離開夢境一樣，在跨越小空間的那一刻是模糊的。<br>
+所以你自然察覺不到我們是怎麼進來的，周圍的樓閣也不會被我們的雲撞碎。<br>
+因為我們腳下的雲與剛才承載我們在空中馳騁的雲，雖然看著很相似，但其實已經不是同一片雲了哦~<br>
+嗯——從時間上來看，我們來的正正好，不愧是我，駕駛技術一流~<br>
+{playername}閣下，海倫娜小姐，宴會即將開始，請二位隨我前往設宴之處吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……宴會？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+……糟糕，這件事……難道我沒說嗎？！<br>
+咳……因為大和大人、武藏大人和信濃大人現在因那個特殊儀式無法離開，因此三位大人讓雲仙大人在天岩戶中為您設宴。<br>
+我猜是因為三位大人知道您與雲仙大人相熟，所以才這麼安排的哦~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……雲仙？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+——大賢者！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+重櫻的餐點您還滿意嗎，來訪者。<br>
+這宅邸之內，路線複雜，您能穿過所有的可能性到達這裡。<br>
+這便是緣吧？<br>
+您在思考，我是否也和她們一樣？<br>
+我倒是能感受到，您身上與眾不同的氣息。<br>
+您也能感受到嗎？<br>
+人生無常，有時候，須臾便是永恆。<br>
+月色真美。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是她……<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+嘿嘿，隨我來吧~{playername}閣下！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=雲海之宴|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+我跟著伊404在亭台與樓閣中穿梭。<br>
+期間，海倫娜前往了另一處宴會廳，我則獨自來到了這棟建築物最頂層的閣樓。<br>
+室內無聲，但是隔著窗紙，隱約可以看到幾個朦朧的身影。<br>
+<br>
+'''''<span style="color:black;">选择项1：推開門——</span>'''''<br>
+<br>
+不大的木質閣樓中，擺放著一張深色餐桌。<br>
+精緻的餐盤中盛裝著引人食慾的冷盤。<br>
+窗外陽光晴好，雲海翻湧。<br>
+清風拂過櫻花枝，捲起些許飄散的花瓣。<br>
+而後清風吹過閣樓，窗外的櫻花與室內的插花遙相呼應，彷彿在小閣樓中也捲起了一陣櫻色的花海。<br>
+就在這樣的花海中，我看到了四位端莊而坐的少女。<br>
+其中兩位我早已相識。<br>
+多年前曾有過一面之緣，而後在「奈落」事件與「消散星空」事件期間都活躍在幕後的重櫻大賢者——雲仙。<br>
+這位我不久前才得悉其姓名的故人正端坐在對面，對我微微頷首。<br>
+還有我的老對手，與我從PH港一直打到了奇異點奈落外，而後化敵為友並肩作戰，並相約來日同遊的重櫻過去的操盤手——赤城。<br>
+如今卸去了一切職務在天岩戶思過的她，令人意料之外又在情理之中的出現在了宴會中。<br>
+在聽到推門聲後，她的耳朵微微動了動，雖然沒有轉過身來相迎，卻在瞬間散發出讓我盡快在她身邊落座的強硬氣場。<br>
+除此之外，還有一位露出優雅笑容的黑衣少女與一位漏出好奇目光的白衣少女。<br>
+不知道她們是誰呢……<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+時隔多年，沒想到我們會在此情此景下重逢。<br>
+{playername}，好久不見。<br>
+<br>
+'''''<span style="color:black;">选择项1：好久不見，大賢者</span>'''''<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+大賢者嗎……真是令人懷念的稱呼。<br>
+當日，我是無名無姓的大賢者，你是默默無聞的軍校生。<br>
+如今，我是雲仙，你是叱吒風雲的指揮官。<br>
+當日，你可曾想過，未來會有如此這般的可能性呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這麼多年所經歷的種種，無疑是全面超越了當初的所有設想……<br>
+當時我對於未來的規劃可不是現在這樣的，或許你也是。<br>
+不過，如今這樣——不也挺好嗎？<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+嗯……如此，很好。<br>
+<span style="color:#4eb24e;">赤城：</span><br>
+咳，雲仙大人，讓指揮官大人一直站著，似乎有失禮數吧？<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+呵呵，不必拘束，請落座吧。<br>
+也允許我向你介紹一下，淺間與白鳳。<br>
+<span style="color:#4eb24e;">淺間：</span><br>
+你好，碧藍航線的指揮官閣下。我是淺間，今後煩請多多關照了。<br>
+<br>
+黑衣少女優雅的頷了頷首。<br>
+<span style="color:#4eb24e;">白鳳：</span><br>
+指揮官閣下，白鳳在此向您問好。<br>
+<br>
+白衣少女也自報了家門。<br>
+不過她的眼神一直暗戳戳的在我、雲仙與赤城之間劃過，不知道腦子裡在想些什麼。<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+寒暄完畢，開宴吧。<br>
+<br>
+隨著宴會開始進行，我愈發感受到了天岩戶之中的神奇。<br>
+例如察覺不到演奏者，但縈繞在耳邊的悠揚樂音。<br>
+例如在不知不覺間出現的美食，消失的空盤，還有永遠倒不空的酒壺。<br>
+一切，宛如一場美夢。<br>
+席間——<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+{playername}閣下，你本次應大和大人的邀請而來，本應是武藏與信濃為你設宴。<br>
+只是如今她們均忙於儀式無暇分身，便由我來代勞了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+剛才我在路上也聽伊404說起了那個神秘的儀式，似乎還跟我有關？<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+嗯，確實有關。<br>
+你與信濃相熟，應該對於夢中之事有了不少了解吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+倒也算是見過了不少。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+那你覺得此處的「天岩戶」，是夢境嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這也是我一路上都在思考的問題。<br>
+進入天岩戶後，我見到的許多場景都具有典型的夢境特徵。<br>
+但是我毫無疑問是清醒的。<br>
+就算這裡是夢境，也應該是我主動走入了夢境，而非在熟睡中來到了夢境。<br>
+所以，我還沒有想出如何給這裡下一個準確的定性。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+此處似夢，而非夢。<br>
+擁有這樣的特性，是因為你我所在之處並非由物質主導的凡世，而是由精神主導的天域。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……天域？<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+不錯，所謂天岩戶，不過是大和大人所打造的另一重大門罷了。<br>
+由天岩戶而出，便是「天域天原」。<br>
+此刻，大和大人、武藏與信濃均在天原之中，她們正在準備的儀式，就是拓展天域天原的儀式。<br>
+天域天原是大和大人多年來的心血之物，她希望你參與這一輪的空間拓展，深入體驗她多年來所做之事。<br>
+而後，她會親自與你談論後續之事。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……天域……天原？！<br>
+<span style="color:#fef15e;">？？？?：</span><br>
+你是被天原吸引過來的嗎？<br>
+快走……不要過來……<br>
+不要停留……不要進入天原……<br>
+這裡不是樂園……只是墳墓……一片被謊言編織起來的墳墓而已！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……閣下，你還好嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒事……我只是……突然走神了。<br>
+<br>
+我搖了搖頭，驅散了那股沒由來的寒意。<br>
+而後，我又與雲仙聊了許多事，關於這些年的重櫻，關於她的故事。<br>
+席間，我發現赤城與雲仙之間雖然言語間彬彬有禮，但總是散發著一股若有若無的寒氣。<br>
+白鳳和淺間則很少插入話題，只是在觀察，或者說撓有興致的觀察著。<br>
+不過，每當我想問赤城些什麼，她總是用氣場向我表示無聲的拒絕，似乎在暗示我現在不是合適的時間。<br>
+終於，宴會到了散場之時。<br>
+我與海倫娜匯合，而後一同與雲仙等人踏上雲朵，朝著天岩戶的邊緣飛去。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=天原之景|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+雲朵再次流動。<br>
+只是這一次，伊404等人沒有敢脫離隊伍駛入周邊的雲朵，因此我們的聲勢大不如前。<br>
+我們一行人就這樣，伴隨著一小片雲朵平穩的飛行。<br>
+直到某一刻，我突然有了一種豁然開朗感。<br>
+雖然周圍的景色尚沒有發生明顯變化，但是我能感覺出，我已經位於一片全新的空間中了。<br>
+就在我意識到這一點時，眼前的景色頃刻而變。<br>
+出現在眼前的宮殿群，不論是規模還是氣勢上，都比此前恢弘了許多。<br>
+森林、山川、甚至於河流都環繞其中，與各處宮殿群一起漂浮在雲海之上。<br>
+如果說天岩戶是雲端上的都市群，那此處便是雲端上的仙境也不為過。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+{playername}閣下，海倫娜小姐，我們抵達天域天原了。<br>
+噢？看來無需我來提醒，您已經察覺到了呢。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+這裡就是天域天原……？<br>
+我就算在夢裡也沒見過這麼奇妙的景色……<br>
+……咦？指揮官，白鳳小姐的意思是……你比我更早看到這些宮殿了麼？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+意識到之後，才能看到，這是一種高層空間的典型特性。<br>
+白鳳剛才的提醒就是為了能讓妳意識到這件事。<br>
+我不過是比妳更早察覺到了空間的改變罷了。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+原來是這樣……跟剛才在天岩戶的時候不一樣了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+同感，這裡的空間要比之前的天岩戶更加的寬廣……層次或許也高了許多。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+指揮官閣下，敏銳的洞察力。<br>
+天岩戶，從一開始的定位就是天域的大門。雖然在設計時已經盡可能將其修的寬廣通透，但是終究不可能完全離開其名稱賦予的印象。<br>
+但是天域天原便不同了。廣闊的天域，漂浮於塵世之上的天原~<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+我初來之時，這裡雖然美麗，卻是遠沒有今日這般。<br>
+一步步發展至如今，才有瞭如今這名符其實的天原之景。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+是呢，而且天域天原的潛力遠不止於此，每過一日，天原都變得的更加寬廣與華麗。<br>
+可以算是字面上的日新月異哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「最近」……是指「奈落」事件之後嗎？<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+您是怎麼猜到的？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+龍宮城的改造在「奈落」事件之後，之後天岩戶便解除了一直以來的封閉。<br>
+伊404她們被叫來之後所做的事，就是為了拓展這片空間嗎？<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+拓展天域天原這種事我們還做不到啦……我們主要負責的是巡邏和排查隱患之類的工作。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那主要負責在這裡拓展空間的是？<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+您不妨繼續猜猜看？<br>
+範圍太廣也不好……嗯~就限定我們一行人之中吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一行人之中……<br>
+我與海倫娜，還有伊404三人可以排除，剩下的還有雲仙、赤城、淺間與你。<br>
+（從這四人都在宴會上與我同桌來看，答案顯而易見。）<br>
+（不過我實在好奇赤城今天到底在生什麼悶氣……）<br>
+我猜雲仙、淺間還有妳，三人。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+……<br>
+還少人。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+雲仙、淺間……白鳳，三個人……不少了啊？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+你是故意的吧……為什麼沒有我？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+因為我看妳在這裡的心情似乎不是很好？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+我心情不好不是因為你，不要多想。<br>
+<br>
+赤城抬頭看了看雲層深處，而後乾淨俐落結束了話題。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+原來您一開始就猜對了正確答案啊，我已經開始有點崇拜您了呢。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+呵……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=幻夢石|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+不知不覺間，雲朵停在了一出散發著酒香的庭院中。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+指揮官閣下，請在此稍後。<br>
+為了完成本日的天原拓展工作，我們還有些準備要做。<br>
+近江——近江，指揮官閣已經到了，本次的幻夢石準備好了嗎？<br>
+<span style="color:#4eb24e;">近江：</span><br>
+嗯……已經這個時間了嗎，請諸位稍候哦。<br>
+<br>
+片刻之後，一位衣著華麗但神態慵懶的少女乘坐著造型別緻的艦裝悄然而至。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……酒葫蘆？<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+在下近江，很榮幸能夠見到您，{playername}閣下。<br>
+呵呵，您看起來對我身邊的大酒葫蘆很有興趣？<br>
+要來一杯雲海佳釀嗎？<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+雲海佳釀不急，幻夢石調整完了？<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+自然，已全部調整妥當了。諸位請看——<br>
+<br>
+名為近江的少女輕揮衣袖，一顆撞球大小的灰色圓球出現在了半空中。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+指揮官閣下，此物名為幻夢石，如字面意義一般，是構建這片如夢似幻的天域天原的基石哦。<br>
+既然您能察覺出天域天原與天岩戶的不同，那不妨仔細看看這幻夢石，或許能有不一樣的發現哦？<br>
+<br>
+'''''<span style="color:black;">选择项1：凝視幻夢石——</span>'''''<br>
+<br>
+我仔細觀察著幻夢石，不知不覺間，原本灰色實心的球體彷彿變成了透明的氣泡。<br>
+氣泡之中包裹著雲朵，雲朵之中又彷彿分佈著更加微小的山石與樓閣，就像內含了一小塊天原一樣。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+指揮官閣下，您所察覺到的就是幻夢石的本質。<br>
+這是一種將更高層次的空間經過壓縮、提純與調頻後得到的珍貴之物。<br>
+使用者可以憑自己的想像力將其激發，而後如同築夢那般盡情雕琢出一片全新的空間。<br>
+我們就是用這種快速拓展天域天原的哦~<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+是啊，這種新的建設方法還真是神奇。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（新的建設方法？）<br>
+<br>
+滴滴——<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（為了不被察覺，同步頻率花了些時間，現在應該通訊通暢了。）<br>
+（你現在在哪裡，宴會結束了嗎？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯，宴會已經結束了，我已經離開了天岩戶抵達了天域天原。）<br>
+（大和邀請我體驗她修建天域天原的過程，說是體驗結束之後再跟我商量正事。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（天域天原啊，嗯，我知道這片空間的存在，這邊的大和已經暗戳戳弄了很久了。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這個天域天原，與之前我從惡夢中聽到的「天原」之間，有關係嗎？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（你還是沒有忘掉那個夢。別擔心，實驗場β的天域天原，本質上是大和所構建的一套精神防護系統。）<br>
+（與你夢到的那個天原之間雖然有些淵源，但技術路線是不同的，你當成只是撞名了就好。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（那妳知道幻夢石嗎，它和重櫻的神石之間有什麼關係？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（……幻夢石，那是什麼？）<br>
+<br>
+我將剛從白鳳那裡聽到的原理轉述給了海倫娜·META，並加上了些許自己的理解。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（我感覺這個幻夢石，是不是和之前伊莉莎白META利用亞爾薩斯和死亡的概念錨定空間，進而創造出輝光之城的原理類似？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（沒錯，而且要更高級。）<br>
+（它不光利用了概念，也創造了一個隸屬與「天域天原」的概念集合。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……還要高級？大和居然這麼厲害？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（……她不應該有這麼厲害。）<br>
+（之前在我調查的時候，大和並不是用這種方法修建的天域天原。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（說起來，剛才赤城也提到了這是一種新的建設方法。）<br>
+（考慮到天域天原大規模拓展是在「奈落」事件之後，我認為幻夢石或許也是在「奈落」事件之後才投入使用的。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（……所謂的幻夢石，或許真的與隕石樣本有關。）<br>
+（我要去問一下神通，稍後聯絡。）<br>
+<br>
+於是，海倫娜·META在短暫連線之後再次離開，我也與白鳳等人一同前往了下一處區域，正式開始了拓展天域天原的體驗之旅。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=雲海佳釀|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+雲海翻騰，我們來到了一個新的區域。<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+{playername}閣下，你在這裡看到了什麼？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一片空曠的雲海。<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+呵呵~那接下來，請您再看~<br>
+<br>
+近江將幻夢石貼近額頭，輕輕一碰。<br>
+幻夢石如同破碎的氣泡般消失，周圍的環境也在頃刻間改變了。<br>
+我坐在天守閣的茶桌邊，眺望著窗外一望無際的水面。<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+{playername}閣下，現在又看到了什麼？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳利用幻夢石……創造了一座城堡和一片大海？<br>
+我以為在天域天原中只能創造出雲海呢。<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+呵呵，如您所見，並非如此的。<br>
+我們之所以一路之上所見皆雲海，是因為我們在「移動」。<br>
+既然是在天域天原中移動，那麼所見自然就該是雲海仙境。<br>
+而如今，我們是在探索天原的各處細微之所。<br>
+既然是探索，理應看到些新景色。<br>
+而且，此處並非是大海，只是一片湖泊哦~<br>
+出於多方面考慮，一塊幻夢石能夠創造出的空間上限，大致就是如您所見的這片湖泊大小。<br>
+畢竟這裡與夢境相似，越廣闊，不確定性就越多，生成後所需的檢查與穩固成本也會倍增。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+與夢境相似的不確定性……那負面情緒對於夢境的扭曲呢？<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+無須擔心，這些可能出現的負面之物會被天原之中存在的諸多法陣盡數壓制。<br>
+您不用擔心如同做惡夢那般見到夢魘肆虐的景象。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（太好了……大和考慮的真是周到。）<br>
+（之前那種恐懼正在成形的扭曲與怪異之感，真是不想再經歷一次了……）<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+接下來，飲用雲海佳釀吧。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+嗯，近江，麻煩妳了。<br>
+<span style="color:#4eb24e;">{namecode:304}：</span><br>
+請稍後一聽~美味的雲海佳釀立刻呈上~<br>
+<br>
+近江輕拍酒壺，幾縷涓流帶著輕微的螺旋填滿了桌上的小酒盞。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+為了幫助所有進入天原的訪客更好地適應這裡的環境，大和大人創造出了雲海佳釀。<br>
+飲下此酒，飲酒之人就會被正式認定為天域天原的客人，受到來自天原大陣的加護。<br>
+同時因為佳釀本身的特性，在喝下去的一段時間內，還可以收到一份額外的好處。<br>
+期間不論是在天原中趕路、工作、亦或是使用幻夢石創造空間，都能輕鬆許多。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這麼神奇？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（註冊，加上調頻而已。）<br>
+<br>
+海倫娜META的聲音突然從隱密通訊頻道響起。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（又是一種重櫻為科技做包裝的典型例子。）<br>
+（飲酒這一行為，是天域天原的管理者所設定的一種註冊認證的方式。）<br>
+（要獲得對於天域天原的編輯與修改——也就是你之後要進行的空間拓展的權限，自然要事先註冊帳號。）<br>
+（而所謂增加天原的親和度，就是一種調頻了。）<br>
+（這也不是透過喝下特定的飲品來實現的，「酒」和之前的「飲」一樣，只是另一種單純的象徵而已。）<br>
+（如果是我來管的話——嗯，我就設定成可樂好了。）<br>
+（這部分的原理比較複雜，不展開說。不過解釋到這一步，你應該好理解許多了吧？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……翻譯之後我完全理解了，多謝。妳那邊調查結束了嗎？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（沒完全結束，只是不放心，過來看看。）<br>
+（初步調查來看，這確實很像一種針對神石的高級用法。）<br>
+（技術本身存在一定風險，不過大小視加工者的工藝水準而定。）<br>
+（等一下你拿到幻夢石之後先別急著用，我要分析一下。）<br>
+（我現在非常想知道，大和到底是如何獲得這項技術的……）<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+指揮官閣下，您還有所顧慮嗎？您可以儘管提出來，白鳳會一一為您解答的。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（哦對，現在我們的時間是同步的。）<br>
+（在她們這些不知情者看來，你發呆太久了——）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+咳……我沒有什麼顧慮，只是在欣賞這片風景的時候走神了。<br>
+那麼諸位，乾杯。<br>
+<br>
+我毫不猶豫的飲下了眼前酒盞的美酒。<br>
+味道清甜，還帶著一股獨特的花果香。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+味道清甜，還帶著一股獨特的花果香。<br>
+（……嗯？）<br>
+<br>
+一瞬間，我產生了一種既視感——我似乎不是第一次飲下此酒。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（奇怪……海倫娜不是說這個酒只是一種單純的象徵嗎。）<br>
+（但是為什麼我總覺得……看這片空間似乎……看得更透徹了一些？)<br>
+（還有剛才那種突如其來的熟悉感……是什麼？)<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=築夢|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+飲下雲海佳釀後，近江和伊404三人與我們分別，分別前往了各自的工作區域。<br>
+我則和海倫娜與雲仙四人來到了另一處空曠的雲海。<br>
+似乎在讓我親自體驗空間拓展之前，還有一些要先向我展示的部分。<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+接下來，就由我來做示範吧。<br>
+<br>
+近江將幻夢石貼近額頭，輕輕一碰。<br>
+幻夢石如同破碎的氣泡般消失，周圍的環境也在頃刻間改變了。<br>
+我站立在一片頹敗的空間中，暗淡無光，腐朽凋零。<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+利用幻夢石築夢，心中所思，即是夢中所現。<br>
+如果身為築夢者卻無法明確自己想要的場景，所思含混不清，幻夢石便會幻化為如同此處一般的空間。<br>
+或者，如果築夢者所思過於消極，甚至陷入了驚慌恐懼中……<br>
+由於天原大陣的壓制與過濾，幻夢石依然只會幻化出如此混沌又不成型的空間。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（原來如此，這就是大陣的兜底效果，以免紛亂的思緒生成過於恐怖之物。）<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+面對這樣無序的空間，我等一般有兩種處理之法。<br>
+其一，可以利用佈設在天域天原各處法陣的力量，將這片空間徹底消除。<br>
+此法雖然便捷，卻多少有些浪費。<br>
+所以我等比較傾向選擇第二種方法，將其重構，而後轉換為另一處幻夢的養分。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+只聽我們說，想來指揮官大人已經有些提不起勁了。<br>
+接下來就由我來親自直觀的示範一下吧~<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+請便。<br>
+<br>
+混沌的空間中，赤城選擇了一個方向。<br>
+她隨意踏出一步，世界因其而改變。<br>
+我走在彼岸花海中。夕陽斜掛，將天空也染成了紅色。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是……妳心中的風景嗎？<br>
+<span style="color:#4eb24e;">赤城：</span><br>
+此刻所想罷了。<br>
+如何，還喜歡嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一望無際的彼岸花海，絢麗如畫。<br>
+<span style="color:#4eb24e;">赤城：</span><br>
+喜歡就好。我還種了一片真的呢，現在是加賀在打理。<br>
+日後有機會的話……<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+{playername}閣下，接下來請您看著我。<br>
+<br>
+雲仙也選擇了一個方向。<br>
+她定了定神，而後用力揮出一劍。<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+清明澄澈之境——「現」！<br>
+<br>
+蔚藍的河水，清澈的藍天，翠綠的嫩草，櫻色的水晶。<br>
+這是一片獨立於現實，又與雲海天原截然不同的夢幻。<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+大神木在平靜之時，其中就是這樣的風光。<br>
+我曾在那裡待了許久，許久……<br>
+你不能進入大神木，多虧了幻夢石，才能讓我們一同在此間同遊。<br>
+<span style="color:#4eb24e;">白鳳：</span><br>
+接下來該我了哦，指揮官閣下~<br>
+<br>
+白鳳來到了僅剩的混沌前。<br>
+她俯下身去，用指尖輕觸大地。<br>
+<span style="color:#4eb24e;">白鳳：</span><br>
+白鳳凰喲……代替我，自由在世間翱翔吧。<br>
+<br>
+雲海昇騰，白色的鳳凰拖著長尾輕盈的在其中飛舞。<br>
+我甚至在耳邊聽到了清脆的鳳鳴之音。<br>
+至此，混沌完全消散，世界被分成了三個截然不同又融為一體的部分。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+在我的眼前，竟然發生著如此壯觀的事……<br>
+好美……我感覺我的形容詞都要用盡了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是啊，沒想到在這裡居然能做到如此神奇的事。<br>
+宛如開天闢地的神，創造萬物的造物主一樣…<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（哼~小女孩沒見過世面也就算了，你怎麼也這樣？）<br>
+（重櫻這邊不過是視覺表現做的好了些，就把你看暈了？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這可不只是好了「一些」啊……）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（就是「一些」。）<br>
+（這種事塔也能做到，而且要厲害得多——下次請你來玩，如何？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（用「塔」來「玩」……？那真是求之不得的體驗。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（那就這麼說定了哦~）<br>
+（好了，快調整一下表情，平淡視之，聽到了嗎？）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（平淡視之——）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（很好，我繼續忙去了~）<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=和平？|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+離開了那三分的世界後，我們前往了下一處空曠的雲海。<br>
+這一次，終於輪到我上手體驗了。<br>
+我接過幻夢石，用其輕觸額頭。<br>
+世界在頃刻間改變。<br>
+我乘船飄蕩在空曠的水面上，陽光和煦，海風舒暢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……剛剛那一瞬間看到的……是什麼？）<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，你創造出了一片大海呢！<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+幻夢石一次性能創造的空間是有上限的，與其說是大海，更像是海中一景吧~<br>
+不愧是與大海息息相關的指揮官閣下。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我也沒想到會是平靜的大海……還好不是文件堆之類的……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+文件堆……？<br>
+呵呵，看來鳶尾會場對你來說，已經跟戰場一樣讓你印象深刻了。<br>
+在觸碰幻夢石之前想的是什麼？肯定不是單純的大海吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我想像的是「和平」。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+和平……<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+和平嗎……<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+…………<br>
+等到和平之後，你還想每天飄在大海上？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我其實也不太清楚，所以想看看幻夢石最後能生成什麼樣的世界。<br>
+沒想到是這樣一片蔚藍的大海。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+幻夢石便是如此神奇，就算只是抽象的概念，它依然能夠生成一幅美麗的畫卷。<br>
+如果您心中所下能夠更發散，甚至不拘泥於物理的法則和現實的約束的話。<br>
+幻夢石將會帶來更多驚喜喔。<br>
+還要再來試試嗎，{playername}閣下~？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=寬廣？|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+我再次接過一顆幻夢石。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（思考的更加發散一些嗎……）<br>
+（更加發散……）<br>
+<br>
+額頭輕觸幻夢石——<br>
+<span style="color:#4eb24e;">？？？?：</span><br>
+世界在頃刻間改變——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……？！）<br>
+（怎麼回事……剛剛絕對不是錯覺！）<br>
+（又是那個黑影！）<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+這裡是…………太平洋諸島？<br>
+指揮官閣下……您，這次在觸碰幻夢石時，想像的是一片怎樣的空間？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一片具有重櫻特色的廣闊空間。<br>
+因為這次是重櫻之行，而且我根據妳的建議發散思維，想的更加寬廣了些。<br>
+出什麼問題了嗎？<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……這片空間，似乎有些寬廣過頭了。<br>
+雲仙……你感受到了嗎？<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……寬無可計，深無可計。<br>
+這裡並非是大海的一角，而是真正的太平洋。<br>
+千百島嶼，皆在其中。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+那不是比天域天原自誕生至今的總面積還要大上好多倍了？！<br>
+這不可能啊……明明只用了一顆幻夢石……<br>
+一顆幻夢石蘊含的訊息就那麼多……怎麼能生成如此廣闊的空間呢？<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+我也不明白……但是這片空間極不穩定。<br>
+我能感知到，在我們目不可見之處，空間的樣貌還在不停變化中。<br>
+距離越遠，變化越快。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（於視線之外發生的……自主的……不受控制的變化？）<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+那還等什麼……我們立刻離開這裡啊。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+各位請站在原地，我們這就離開！<br>
+<br>
+雲霧飛揚，周圍的景色隨之一變，但我們依然位於廣闊的大洋中。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+欸……奇怪，怎麼會沒出去？<br>
+近江，我們這邊出現了緊急狀況，需要……<br>
+…………<br>
+……雲仙閣下，我們和外部失去聯繫了！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+白鳳，莫慌。<br>
+諸位請稍後，我來感知一下。<br>
+<br>
+雲仙閉上雙目，她的身上迸發出一道道流光，向著四面八方飛去。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看來，事態的發展似乎有點糟了……）<br>
+（海倫娜，聽得到？）<br>
+（……海倫娜？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（別擔心，我在的。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（太好了，我還以為跟妳的通訊也中斷了）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（其實——通訊確實中斷了一瞬間。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……連妳那邊都受到了干擾？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（因為空間的規則在剛才發生了巨大變化。）<br>
+（如果不是你的座標域沒有變動，我甚至無法肯定你還位於天域天原之中。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（規則發生了巨大改變……？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（你看，時間開始流動，夕陽初現了。）<br>
+<br>
+正如海倫娜所說，本應是蔚藍色的天空，已經在不知不覺間變成金色。<br>
+白鳳等人也同時注意到了這個明顯的變化。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+不正常，現在這樣絕對不正常……<br>
+幻夢石生成的空間應該是恆定的，時間是最不應該出現變化的部分……<br>
+指揮官閣下，您……改變了幻夢石的性質嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我只是和之前一樣輕輕觸碰了幻夢石，並沒有做什麼特別的事才是。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+也是呢……這是不可能的事。<br>
+如果性質改變了，幻夢石也就不是幻夢石了，那它就會被天原大陣所辨識為異物進而被壓制……<br>
+那究竟是怎麼回事……<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+——諸位，我已經梳理清問題所在了。<br>
+常規手段的失效、外部聯絡的中斷，皆是由空間本身的不穩定性所導致的。<br>
+我已經和天原主陣恢復了聯繫，諸位請站在原地不要動。<br>
+通道已經穩定，我這就帶諸位離開！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=不安？|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+一陣輕微的抖動後，我們回到了金色的雲海。<br>
+這裡寧靜又祥和，上一刻經歷的驚險彷彿從來不曾存在過一般。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+呼……<br>
+指揮官閣下，我已經調動天原大陣將那片異常的空間全部清除了！<br>
+發生這樣的事的根源在於我們的準備不足……<br>
+真是非常抱歉，讓您有如此不愉快的體驗……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+剛才的事確實很奇怪，但發生的原因可能不一定是妳們的準備不足……<br>
+（那個黑色身影……肯定只有我在使用幻夢石的時候見到了。）<br>
+……總之，沒什麼，反正也只是虛驚一場，諸位不必介懷。<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+感謝您的寬容。<br>
+白鳳，接下來牽涉到幻夢石的體驗環節就作罷吧。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+不僅如此，在查清問題之前，所有人都不該再使用幻夢石了。<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+——嗯，赤城閣下，你說得對。<br>
+白鳳，讓所有涉及使用幻夢石的拓展工作都暫停吧。<br>
+此事我會在之後直奏大和大人。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……遵命，淺間大人。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+看來後面的行程是無法如行程表那般了，不如來聽聽我的建議？<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+赤城閣下，請講。<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+天原之中的五畿七道，如今山水風景已完成了近四成。<br>
+既然是接待指揮官大人前來遊覽，為什麼不選幾處風景優美之地呢？<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+倒是個不錯的提議，赤城閣下對於目的地有推薦嗎？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+上野如何？<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+呵呵~赤城閣下跟我想到一起去了，那就上野吧~<br>
+<br>
+冷了一路的赤城，似乎總算提起了些興致，和淺間等人興致勃勃的商量起後續的觀覽計劃。<br>
+但是我的心中，總是無法徹底平靜下來。<br>
+觸碰幻夢石時瞥見的那一抹黑影，連同之前的詭異噩夢一直似有似無的縈繞在我的心頭。<br>
+我始終無法徹底相信……先前突如其來的異狀，真的就乾淨俐落的消失了嗎？<br>
+轉瞬間，陰雲密布。<br>
+前一秒宛如仙境的天域天原，如今陷入了無盡的黑暗中。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=全域入侵|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+同一時間，天域天原主殿中——<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+諸位，情況緊急，海量的無形之息已經入侵了天域天原。<br>
+雖尚不知其自何處來，又如何繞過了外圍屏障。<br>
+但，絕對不容許其肆虐下去。<br>
+吾等已經啟動了天域各處的防禦法陣，出雲。<br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
+在。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+吾等接下來要消滅這股無形之息的根源，天原之城的防務就交由汝來負責。<br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
+明白。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+吾妻，北風，五畿七道區域由汝等帶隊肅清。<br>
+<span style="color:#4eb24e;">吾妻&北風：</span><br>
+明白。 遵命！<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+雷、電，汝二人分別去把四萬十和大山的人接回來，天原之中將有大戰。<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+明白。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+交給我們吧~<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+伊吹，汝負責清理天原雲海中的敵人，並配合雷與電維持天岩戶的穩定。<br>
+<span style="color:#4eb24e;">{namecode:152}：</span><br>
+一定完成任務。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+最後，伊404。<br>
+雲仙等人正在護送指揮官返回天原之城，汝帶人前去接應，確保萬全。<br>
+<span style="color:#4eb24e;">{namecode:303}：</span><br>
+遵命！放心吧武藏大人，我一定會把指揮官平安接回來的~<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+各位，恪盡職守，此役必勝。<br>
+<span style="color:#4eb24e;">重櫻眾人：</span><br>
+遵命——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=舊日之網|选项=13|主框=1|样式=primary|展开=是}}
+<span style="color:#c3abff;">神通·META：</span><br>
+……滿月幽影事件之後，當時的所有人才開始注意到精神防護的重要性。<br>
+「天域天原」計劃，原本也應該是為了這個方向服務的。<br>
+沒想到最後會以那種情況收尾……<br>
+<br>
+群星環繞的庭院中，原本正在進行一場閒聊。<br>
+但是，直接出現在半空中的紅色「WARNING」立刻吸引了所有人的目光。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+……怎麼警報都彈到這裡了，出什麼事了？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+……嗯。<br>
+……海倫娜正在戰鬥，天域天原出事了。<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+海倫娜，我看到有個大警報掛在天空上，指揮官那邊遇到麻煩了嗎？！<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+妳來得正好，妳去找女灶神和亞利桑那，做好出外勤的準備。<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+欸，是！<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+現在不出發嗎？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+還不用，情況並不危險。<br>
+不過我確實已經在做準備了……今天的新東西實在有點多，我不喜歡這樣。<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+是啊，今天的新東西確實有點多……<br>
+海倫娜，那個幻夢石我雖然沒見過，但是這今天的這一系列事件讓我產生了一種既視感。<br>
+雖然目前尚無任何直接證據……不過我總感覺，從幻夢石的出現開始，天域天原的走向就變得與之前不同了。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+……走向不同了？<br>
+<span style="color:#c3abff;">神通·META：</span><br>
+路線方向不同了。<br>
+一定有其他人參與了拓展天域天原的決策中。<br>
+而且這個人……一定知道過去的事。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+……明白了。<br>
+妳繼續觀察蛛絲馬跡，有發現隨時聯絡我。<br>
+我現在去調整一下羅德尼的狀態……<br>
+我倒要看看，在背後搗亂的……到底是誰。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=穿越黑潮|选项=14|主框=1|样式=primary|展开=是}}
+<span style="color:#fef15e;">？？？?：</span><br>
+不要進入天原……<br>
+這裡是一座墳墓……由謊言堆砌而成的墳墓……<br>
+牢籠已經封死了……<br>
+所有人都無法逃離……<br>
+<br>
+「——所有人都無法逃離」<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……淺間大人，雲仙閣下！<br>
+……大陣傳來警報，天域天原內出現了入侵者！<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+內部出現入侵者……？<br>
+敵人是如何繞過大陣進來的？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+現在不是探究這些的時候，此處危險，我們應該立刻返回天原主殿。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……是「息」。<br>
+已經快要到了……<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……欸？這麼快？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+該死……主動迎擊，不要讓敵人靠過來！<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+指揮官，我這就展開一艘量產型，你快上船。<br>
+……指揮官？<br>
+<br>
+「——所有人都無法逃離」<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……指揮官！你還好嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我…<br>
+沒事，我們上船吧。<br>
+<br>
+<br>
+轟————！<br>
+惡夢剪影、無形之息、惡兆實體……各異的形態，相同的本質。<br>
+漆黑的雲海，我們在黑色的浪潮中艱難開闢著道路。<br>
+顯然，除了數量之外，它們毫無威脅。<br>
+但也是數量，讓我們無比頭痛。<br>
+一波接著一波……不論打散多少次，它們總能在看不見的角落中重新凝聚，繼而捲土重來。<br>
+「——如同那在暗中滋生的恐懼」<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+雲仙閣下……這些就是「息」嗎，無窮無盡，我們根本消滅不完啊！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+我等打倒的不過是表象，根源未除，故而無窮無盡。<br>
+不要想著如何將敵人清理乾淨，專注於開路，我們需要盡快返回天原之城。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+是！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+所有人小心，有個不一樣的大傢伙過來了。<br>
+<span style="color:#bdbdbd;">？？？：</span><br>
+▂▃▆▂▃▆▇▂▃▇█▆▆▇▇▆▇<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+漆黑的……龍？<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+這麼快就孕育出了此等邪物嗎……<br>
+妳們退後，此物與之前所遇到的敵人不同，交給我來斬。<br>
+<span style="color:#4eb24e;">伊404：</span><br>
+雲仙大人，伊404帶領水無瀨、妙風前來支援！<br>
+您請帶領{playername}閣下繼續前往天原之城，這裡就交給我們吧！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+用汝之龍，將其絞殺。<br>
+<span style="color:#4eb24e;">伊404：</span><br>
+嗯，明白！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+那麼諸位，隨我繼續前進。<br>
+<br>
+<span style="color:#bdbdbd;">？？？：</span><br>
+▂▃▆▂▃▆▇▂▃▇█▆▆▇▇▆▇<br>
+<span style="color:#4eb24e;">水無瀨：</span><br>
+這個龍……和之前的那些無形之息感覺不太一樣。<br>
+好像更凝實，也更靈動……<br>
+就像有自主意識一樣……<br>
+<span style="color:#4eb24e;">妙風：</span><br>
+是啊，看著就不好對付……光靠我們真的能行嗎？<br>
+<span style="color:#4eb24e;">伊404：</span><br>
+哼哼~放心！我和小玉可是很厲害的。<br>
+這段時間一直在做些修補工作，都沒讓妳們見識過我們的厲害~<br>
+水無瀨，妙風，妳們一左一右拖住它，剩下的就看我的表演。<br>
+起舞吧小玉~將其身軀，貫穿萬劫不復之淵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=相位變換|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+有了伊404等人的殿後協助，我們的前進速度立刻快了許多。<br>
+加上雲仙一直在混亂中尋找著可用的捷徑，我們終於突破了漆黑的浪潮，來到了天域天原的核心區域－天原之城。<br>
+只是，預想中的安全並未到來。<br>
+天原之城中雖然依然閃爍著各色法陣，但是其邊緣地帶已被突破，無數宮殿變為了漆黑的腐朽之物。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……天原之城的外層被突破了？！<br>
+怎麼可能……一路之上那種程度的敵人再多也不可能突破這裡的防禦啊？！<br>
+<span style="color:#4eb24e;">{namecode:305}：</span><br>
+天原正在凋零，怎會如此……<br>
+<br>
+轟————！<br>
+<span style="color:#4eb24e;">出雲：</span><br>
+雲仙，妳們終於來了，這邊。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……出雲，這是怎麼回事？<br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
+敵人不知為何繞過了結界，直接出現在了城中……我們被打了個措手不及。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……連天原之城的結界也能繞過去？<br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
+沒錯……所以我只好收縮了防線，將兵力和大陣能量集中在三位大人所在第三處主殿週邊。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+三位大人……這麼久了還沒解決問題嗎？<br>
+<span style="color:#4eb24e;">{namecode:151}：</span><br>
+這件事有些複雜……<br>
+三位大人其實已經清理了兩次源頭……但是，總會有新的源頭出現。<br>
+因此，她們懷疑問題出在更深層。<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……更深層，天域天原怎麼會有更深層？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+幻夢石——難道不是從更深層收集而來的嗎？<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+幻夢石……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（重櫻有些束手無策了……？）<br>
+（看來無形之息的出現只是個開始，我就知道事情不會這麼簡單……）<br>
+（海倫娜，妳查到問題的根源了嗎？）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（還沒有，這次的攻擊確實……有些令我費解。）<br>
+（不過她們的判斷方向沒錯，根源在更深層。）<br>
+（無需擔心，我已經做好了接應準備，如果戰局惡化到不可控的程度。我會把你和海倫娜接出來的。）<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（盡量把所有人都接出來。）<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+（好。）<br>
+<br>
+一段時間後，我與雲仙等人跟隨出雲進入了尚且完好的城區。<br>
+黑色的浪潮衝擊著結界，卻終於無法更進一步。<br>
+我稍微放鬆下來，開始休息精神，為之後的持久戰做準備。<br>
+我注視著宮殿最高處那日輪般雲朵。<br>
+恍惚間，我似乎看到了一片更廣闊的空間——<br>
+虛無之中，衣著華麗的少女注視著眼前的畫卷。<br>
+畫卷的一端漂浮在她的手邊，另一端則消失在無盡的遠方。<br>
+<span style="color:#bdbdbd;">鳳翔·META：</span><br>
+找到了……<br>
+禍之根源，即在此……<br>
+<br>
+她鎖定了一張畫卷，虛無中千千萬萬的視線隨之一同鎖定了那張畫卷。<br>
+<span style="color:#bdbdbd;">鳳翔·META：</span><br>
+相位變換……<br>
+<br>
+她的手並未碰到畫卷，畫卷的位置卻隨著她的視線改變了。<br>
+<span style="color:#bdbdbd;">鳳翔·META：</span><br>
+如此，可保無虞……<br>
+<br>
+只是改變了一下視線，危難便已解除。<br>
+三色蝴蝶在畫卷間翩然起舞，虛無逐漸被光芒所覆蓋——<br>
+我站在雲端，眺望著宮殿最高處那如同日輪般的雲朵。<br>
+金色的光輝下，天原之城完好無損。<br>
+此前的激戰彷彿不曾發生過一樣。<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+……咦？突然就……恢復正常了？<br>
+指揮官，這是怎麼回事？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我也，不——<br>
+知——<br>
+到——<br>
+……？<br>
+<br>
+聲音因拉長而失真，畫面因失真而破碎。<br>
+世界在頃刻間溶解，我沐浴在無盡的虛無之中。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=更深層|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+金色的光輝下，天原之城完好無損。<br>
+但是，有兩位本來應該存在於此處之人消失了。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……淺間大人，雲仙閣下……我只是一眨眼……<br>
+指揮官閣下和……海倫娜小姐……就全部消失了？<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+怎麼回事，人去哪了？！<br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
+……我感知不到，不過不要急，或許只是——<br>
+<br>
+砰——！<br>
+金色的天幕被藍色的洪流所撕裂，緊接著是一道又一道的防禦法陣。<br>
+轉瞬間，各式浮空戰艦覆蓋了天原之城的天空。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+你們有誰能告訴我，指揮官出什麼事了？<br>
+<br>
+又一陣藍色洪流出現，在擊碎了數座浮空島後，被數道紫色的劍光堪堪擋了下來。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+縱使汝為客人，也請注意分寸。<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+諸位，請冷靜。<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+冷靜？指揮官呢？妳們把指揮官藏到哪裡去了？<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+我們也是剛發現指揮官閣下和海倫娜小姐不見了，並沒有把人藏起來啊……<br>
+還有你們是什麼人，如此入侵天域天原是想開戰嗎？！<br>
+<span style="color:#c3abff;">孟菲斯·META：</span><br>
+我看是妳們想開戰吧？！<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+……妳！<br>
+<span style="color:#4eb24e;">{namecode:91}：</span><br>
+白鳳，別說話，聽著。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+赤城前輩……<br>
+<span style="color:#4eb24e;">信濃：</span><br>
+呼……海倫娜小姐——<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+信濃，妳不用說了。<br>
+我已經查清楚了，這件事與妳們無關。<br>
+與這件事有關的人——是她。<br>
+<br>
+海倫娜·META伸手指向懸掛在天空的日輪狀卷雲。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+——ÄăĘÇ×ÔźşłöŔ´ŁŹťšĘÇČĂÎŇ°ŃÄă´ňłöŔ´Łż/*妳是自己出來，還是讓我把妳打出來？*/<br>
+<span style="color:#bdbdbd;">{namecode:89}·META：</span><br>
+——ĂťĎëľ˝˝ńĚěÄÜźűľ˝ŐâĂ´´óľÄŐóŐĚĄĄ/*沒想到今天能見到這麼大的陣仗……*/<br>
+<br>
+半空中，憑空展開一副絢麗的畫卷。<br>
+<span style="color:#4eb24e;">雲仙：</span><br>
+……汝是何人？！<br>
+<span style="color:#4eb24e;">赤城：</span><br>
+呵……我就知道幻夢石背後不太對勁。<br>
+妳是誰，妳把指揮官大人藏到哪裡去了？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+——ż´ĆđŔ´ÄăťšĂť¸ăÇĺłţˇ˘ÉúÁËĘ˛Ă´ĘÂŁż/*看起來妳還沒搞清楚發生了什麼事？*/<br>
+<span style="color:#bdbdbd;">{namecode:89}·META：</span><br>
+——ÎŇÖťĘÇľ÷ŐűÁËŇťĎÂżŐźäĎŕÎť/*我只是調整了一下空間相位*/<br>
+——ČËÔőĂ´ťáśŞÄŘ/*人怎麼會丟呢*/<br>
+——Äă´řÁËŇťÖ§˝¨ÖĆÍęŐűľÄŔíĘÂťáÎŢČËŐ˝śˇČş/*妳帶了一支建制完整的理事會無人戰鬥群*/<br>
+——Äăľ˝ľ×ĘÇËŁż/*妳到底是誰？*/<br>
+——Ö¸ťÓšŮÓÖĘÇËŁż/*指揮官又是誰？*/<br>
+——ŐâĘÇľąÄęľÄÄÄ¸öźĆťŽŁż/*這是當年的哪個計劃？*/<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+——ŐâĐŠĘÂÄăĂť×Ę¸ńÖŞľŔ/*這些事妳沒資格知道*/<br>
+——ÄăÖťĐčŇŞÖŞľŔÄă´ł´óťöÁË/*妳只需要知道妳闖大禍了*/<br>
+<span style="color:#4eb24e;">赤城：</span><br>
+……她們這嘰裡咕嚕說什麼呢？<br>
+<span style="color:#4eb24e;">白鳳：</span><br>
+我也不知道啊……赤城前輩。<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+呼……<br>
+我已經徹底掃描過了，指揮官還在天原之中。<br>
+<span style="color:#bdbdbd;">{namecode:89}·META：</span><br>
+在哪裡，為什麼我察覺不到？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+更深層。<br>
+——°´ŐŐËýĂÇÔąžľÄÂˇĎßąž˛ťÓŚ¸Ă´ćÔÚľÄ¸üÉÉî˛ăŁĄ/*按照她們原本的路線本不應該存在的更深層！*/<br>
+妳真的以為，妳已經把事態平息了嗎？<br>
+<br>
+天原之中下起了藍色的雨。<br>
+黑暗，再次浮現。<br>
+<span style="color:#bdbdbd;">{namecode:89}·META：</span><br>
+……這是怎麼回事，為什麼源頭又出現了？<br>
+……難道和消失的「指揮官」有關？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+……本來以為遇到的是壞的，沒想到是蠢的。<br>
+亞利桑那，帶艦隊回去，用不上了。<br>
+曼非斯、霞、女灶神，妳們留在這裡幫忙。<br>
+鳳翔，盡妳最大的努力維持天域天原的穩定。<br>
+現在正事要緊，後面再跟妳算帳。<br>
+<span style="color:#bdbdbd;">{namecode:89}·META：</span><br>
+那妳呢？<br>
+<span style="color:#ffc960;">海倫娜·META：</span><br>
+做妳們做不到的事——把人找出來。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=步入天原·上|选项=17|主框=1|样式=primary|展开=是}}
+<span style="color:#fef15e;">？？？?：</span><br>
+怎麼樣，是不是跟你想像中不一樣？<br>
+天原之中不光有美好，還有黑暗與恐懼。<br>
+想想看，你內心深處的恐懼是什麼？<br>
+那些想要避免的，想要躲開的，想要遺忘的……<br>
+——終究都會追上你。<br>
+天域天原是牢籠<br>
+創造出天原的我們，亦在牢籠之中。<br>
+<br>
+此處寂靜無聲，此處黯淡無光。<br>
+此處廣袤無際，此處浩瀚無疆。<br>
+方位和時間似乎在此失去了意義。<br>
+我的意識，彷彿在被拉扯，被溶解……被塑造為無數細小的枝杈，分散在這片無垠的廣袤與虛無中。<br>
+在每一處細小枝杈的末端，我都看到了「毀滅」。<br>
+力竭的士兵，燃燒的戰車，墜落的戰艦，粉碎的高塔。<br>
+海嘯、地震、幻光、火山、流星、毒霧。<br>
+還有那在大陸肆虐的黑色風暴，將海面與雲層緊密相連的銀色高牆……<br>
+枝杈彼此相連，編織出了整個世界。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+一個世界的毀滅…<br>
+……是啊，縱使已然忘卻。<br>
+但我還是我，我的恐懼……也還是我的恐懼。<br>
+它一直存在於那裡，在我不知道的角落中蔓延，生長……<br>
+而後在不經意間悄然而至……<br>
+<br>
+眼前的景色愈發清晰，我的意識正與這場浩劫融為一體——<br>
+「——歡迎來到天域天原」<br>
+<span style="color:#4eb24e;">海倫娜：</span><br>
+這裡是……<br>
+指揮官……你在哪裡？<br>
+指揮官——！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=18|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=19|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=20|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=21|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=22|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=23|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=24|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=25|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=26|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=27|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=28|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=29|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=30|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=31|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=32|主框=1|样式=primary|展开=是}}
+<br>
+光芒消散后，映入眼帘的是一片死寂的街道。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……？<br>
+……这里还是NY港？<br>
+……怎么回事？<br>
+……海伦娜？<br>
+……孟菲斯？<br>
+……{namecode:91:赤城}？<br>
+……{namecode:294:云仙}？<br>
+<br>
+无人应答，通讯频道中一片死寂，亦如这座空无一人的城市。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……除了我之外，空无一人。<br>
+<br>
+「牢笼已经封死了」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……牢笼。<br>
+……由于发现了牢笼，幻影濒临疯狂。<br>
+……由于牢笼的存在，安洁注定无法逃离。<br>
+<br>
+「精神的牢笼」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……由于察觉到了牢笼，所以我也深陷牢笼中了么。<br>
+<br>
+「所有人都无法逃离」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+因为我知道了太多过去的事……？<br>
+因为我与这个世界有着千丝万缕的联系……？<br>
+<br>
+这个问题没有答案。<br>
+因为没有人在此刻给予我答案。<br>
+因为此处是只有我存在的城市。<br>
+不知不觉间，黑色高墙出现在我的视野中。<br>
+我凝视着高墙。<br>
+高墙似乎也在凝视着我。<br>
+空气中寂静无声，我却仿佛听到了其中的喧嚣。<br>
+近在咫尺的高墙中，似乎正孕育着某种即将破茧而出的疯狂。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……真正的安洁，最后见到的就是这样的景象么……<br>
+<br>
+「你准备好了吗」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我……<br>
+<br>
+此次无人兜底，因为这并非某人精心设计的实验。<br>
+此次亦无援军到来，因为援军刚刚离开。<br>
+「一切都结束了」<br>
+「你应该死在这里」<br>
+「就和所有人一样」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我……<br>
+<span style="color:#4eb24e;">安潔：</span><br>
+「审判者计划」成功了……而且「微光」尚存。<br>
+或许只有你是特殊的……<br>
+因为你成功离开了！<br>
+助手，快走，去安全的地方。<br>
+……抱歉，助手。<br>
+保重，我所有的朋友们，祝我们成功。<br>
+<br>
+砰————<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不……一切决不能就这样结束。<br>
+其他人迟早会发现问题……<br>
+我必须争取更多的时间……<br>
+……对，现在去伊娃还来得及！<br>
+……去地下河。<br>
+去找运输船……<br>
+不论如何……我必须活下去！<br>
+<br>
+我在无人的街道上奔跑着。<br>
+跌倒，爬起，而后再跌倒……<br>
+黑色高墙不慌不忙地吞噬着沿海大堤，距离我咫尺之遥。<br>
+而后——<br>
+「不要怕，我来了」<br>
+海伦娜·META的声音仿佛在耳边响起。<br>
+轻柔，如同一阵微风。<br>
+我顺着微风拂过的方向看去——<br>
+她就站在那里。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……这是，海伦娜？<br>
+<br>
+就算自诩为见多识广，眼前的景象依然超出了我的认知范围。<br>
+她是如此巨大，世界宛如在她的掌中。<br>
+她像一个遥不可及的投影，却又实实在在站立于天穹之上。<br>
+「牢笼，由我粉碎」<br>
+三道圆环依次落下，在城市上空旋转着。<br>
+蓝色的光芒随之凝聚。<br>
+我感受到了黑色高墙的焦躁与不安。<br>
+无数扭曲的梦魇凭空诞生，从四面八方积聚而来。<br>
+它们察觉到了什么。<br>
+它们想要抢先一步将我吞噬。<br>
+「休想」<br>
+圆环轻轻一震，都市沐浴在蓝色的洪流之中。<br>
+梦魇本无声，我却仿佛听到了愤怒与不甘的尖啸。<br>
+黑色高墙开始瓦解，变为黑色的风、黑色的云、黑色的浪潮……<br>
+但是，不论它们如何靠近，不论它们如何远离……<br>
+它们始终在城市之外，它们始终在圆环之下。<br>
+　　　　　　　「该结束了」<br>
+啪——如同一个气泡被轻轻戳破。<br>
+世界中的一切黑色都消失了。<br>
+蓝色的巨人仿佛对我微笑了一下。<br>
+而后，世界开始逐层破碎。<br>
+我沐浴在海蓝色的光中——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=33|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=34|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=35|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=36|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=37|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=38|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=？|选项=39|主框=1|样式=primary|展开=是}}
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
