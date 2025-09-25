@@ -337,14 +337,14 @@
 {{折叠面板|标题=方寸桃紅|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 天守閣內，桐油清香尚未散盡，更有桃花為其增色。<br>
-<span style="color:#4eb24e;">雲仙：</span><br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
 我推開虛掩的紙門，目光投向文書室內存放著密函的漆櫃——以及那位意料之中的訪客。<br>
 這可真是……最糟糕的偶遇呢~<br>
 本來只是想趁著幽月空懸，向您借閱幾份解悶的「閒書」……<br>
 卻不想擾了城主大人的清夢，真是罪過~<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 文書重地，不請自來，該當何罪？<br>
-<span style="color:#4eb24e;">雲仙：</span><br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
 請體諒雲仙自遠方初至，下次，自當注意。<br>
 雲仙摩挲著繫在腰後的苦無，姿態閒散如賞花，又隱隱透露出一絲警覺。<br>
 但看來，如今就算成功借書了……<br>
@@ -365,11 +365,11 @@
 欸，勝負已分……城主大人，您抓人的手可真是精妙呢。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 ……我，做了什麼嗎？<br>
-<span style="color:#4eb24e;">雲仙：</span><br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
 我是「忍者五人眾」之一，雲仙，如今便是您的俘虜了。<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 又是「忍者五人眾」……其他人在什麼地方？<br>
-<span style="color:#4eb24e;">雲仙：</span><br>
+<span style="color:#4eb24e;">{namecode:294}：</span><br>
 誰知道呢……關注其他人的行動也太無聊了。<br>
 如此良辰，你我之間，不該做一些更應景的事？<br>
 榻榻米上，雲仙的身形明顯放鬆下來，鋪散的銀髮與零落桃瓣繾綣交纏。<br>
