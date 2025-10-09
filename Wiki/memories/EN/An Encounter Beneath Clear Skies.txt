@@ -1,0 +1,568 @@
+== An Encounter Beneath Clear Skies ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The Long and Short of It|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hestia：</span><br>
+And that's the long and short of it!<br>
+<br>
+The twintailed stranger donning a rigging stands in the Virtual Tower's observation site and declares her explanation finished.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That's, uh... a very simplified summary.<br>
+<br>
+Just a while prior, I received news from the Virtual Tower that another visitor from another world had arrived, so I led a fleet here in haste.<br>
+Upon my arrival, I found two figures: A girl named Hestia who's already gotten chummy with the fleet stationed here, as well as a girl named Ryu who's still alert and cautious.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+I guess we conquered your weird tower. It was a total breeze thanks to Miss Elf here.<br>
+We also got our hands on loads of goodies, like this gear, for instance. One of you said it's called a "rigging," right? It's perfect for me.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Lady Hestia, I believe we have more important things to discuss right now.<br>
+The ladies at the observation site told us that you are {playername}, and you have charge of this area. Correct?<br>
+I am Ryu Lion, and this is Lady Hestia. We hail from Labyrinth City Orario and ended up here through some mistake. Would you happen to know how we can get back?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(That Ryu gives off an aura of professionalism and constant vigilance. She's probably a soldier who's survived many battles.)<br>
+(She also calls this other girl "Lady Hestia." Is she a noble, and Ryu is her bodyguard or something?)<br>
+It's good to meet you, Ryu and Hestia. You can just call me "Commander."<br>
+We understand your situation, and have started preparing a way for you to go home.<br>
+Before that, though, we need to know how you got into the Virtual Tower and what you encountered there.<br>
+Your cooperation would be appreciated.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+As you wish. I can recount the things that transpired in the Tower for you right now.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That'd be great. Here's a full map of the Tower and some footage collected along the way. They should help you paint us a picture.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I see. It's a bit like reflecting upon one's battles.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You don't need to view it that seriously. It's just us talking and exchanging questions. Kind of like an interview.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Ooh! Is this gonna be a "cross-world exchange," like I've heard about?<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Okey-dokey, then I'll be recording everything for my next show!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I just started talking to them, and you've already got equipment set up?<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Heheh, yeah! 'Cause I'm a professional like that!<br>
+Am I right or am I right, Alfredo, Aoba, Gridley, Fu Shun, Fu Po, Fei Yuen, Gallant, and Bristol?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Am I imagining it, or does that list of yours get longer every time?<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Just your imagination, I'm sure. Anyway, Commander and you two beautiful ladies, turn to the camera and smile!<br>
+<br>
+And so begins our otherworldly interview with the two otherworldly visitors.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Hestia's Visit|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hestia：</span><br>
+Until just a while ago, I was standing in a familiar alleyway in Orario and thinking to myself. Y'know, "Maybe I should buy some Potato Poppers."<br>
+The next thing I knew, I'd gotten lost in a place the likes of which I'd never seen before.<br>
+<br>
+Somewhere, in an unknown location...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Wh-where the hell am I?<br>
+The path behind me is closed... Did I trip some kind of mechanism and enter a secret passage or something?<br>
+Well, I can't just stand here all day, so I guess I'll go forward.<br>
+Holy moly! This place is getting bigger and bigger! Look at all these tall buildings!<br>
+Is this a second city hidden underneath Orario, or is it something else?<br>
+Can't help but wonder...<br>
+Hmm. Well, I've gotta look for an exit anyway, so might as well keep moving!<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+You've said "Orario" a few times now. Is that where you two live?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Yep! Labyrinth City Orario is where we're both from.<br>
+The whole city is managed by the Guild, and it's surrounded by big, bulky castle walls!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Big castle walls? That sounds cool!<br>
+Did your world build big walls because you have to defend against enemies, like ours?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Yeah. It's for defending ourselves, just like in your world!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The God and the Dungeon|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+And so, Hestia wandered alone through that unfamiliar place.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Been walking for a while now, and still haven't found a way back...<br>
+<span style="color:#ff9b93;">???：</span><br>
+HISSS...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+...What?<br>
+What the heck is that? There are nest-building monsters here?<br>
+Huh?<br>
+Oh, crap! Heeelp!<br>
+*pant*... *pant*...<br>
+Doesn't look like it's chasing after me...<br>
+<span style="color:#ff9b93;">???：</span><br>
+HISSS...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Eek! Another one!<br>
+So yeah, I went around looking for an exit, sometimes running for dear life and sometimes taking it slow and steady.<br>
+I'm telling you, it was AWFUL.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+I can relate. You did well out there, Hestia.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+It wouldn't have been nearly as hard if I could use my godly powers!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Come again? Godly powers?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Yeah. I'm a god. The goddess of the hearth and fire.<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Goddess of the hearth... Do gods actually exist in your world?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+You bet. We gods descended from the heavens, and most of us gathered in Orario. We agreed among ourselves to seal away our godly powers while in the mortal world.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+I've got a question! Why'd you leave the heavens if you can't use your godly powers in the mortal world?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Because it's so boring up there. It's fun to live among mortals, surrounded by inconveniences and hardships!<br>
+Do you get me?<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+I... don't.<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Gods, the heavens... I've got an idea. Gimme a sec!<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Vestal：</span><br>
+Guam, you said you had something important to discuss. What is it?<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Ahem. Hestia, meet Vestal! She's a repair ship from the Eagle Union, where I'm also from!<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Vestal... Vesta... The names are slightly different, but I can feel a link between us!<br>
+Pleasure to meet you, Vestal!<br>
+<span style="color:#4eb24e;">Vestal：</span><br>
+Umm... The same to you, Hestia. Commander, what's going on?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Guam, I'll give you three minutes to clear up this misunderstanding.<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Err! Ahem! Well, how about we save that for AFTER the show, okay?<br>
+Let's take a look at the next clip...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Confluence|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Same as before, Hestia continued exploring the mazelike complex of buildings.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Hmm... Done searching this place. No exit.<br>
+There's the central area, but that's where the monsters have made their nest, so that's a no-go.<br>
+Hmm. Standing here and agonizing over it won't help, so I guess I'll try to dig my way out.<br>
+I can't dig through this...<br>
+The walls and the ground are rock-hard! I can't even dent 'em!<br>
+Urgh...<br>
+Welp, there's no other way. I've just gotta get lucky.<br>
+Hm? Someone's already defeated all the monsters here?<br>
+Then that means... there might be other adventurers in here!<br>
+<span style="color:#ff9b93;">???：</span><br>
+HISSS...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Huh?! Monsters?!<br>
+<span style="color:#4eb24e;">???：</span><br>
+Get down!<br>
+<br>
+A green figure flashed by, and the wounded monster collapsed before it could do anything.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+What the hell?! Wait... It's you, Miss Elf!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Lady Hestia? What are you doing in this place?<br>
+<br>
+Before Hestia could even answer, an unsettling noise came from behind Ryu. She turned around to see a horde of monsters closing in on them.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I will explain later! For now, we must get out of here at once!<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Hold up, pause!<br>
+Ryu, before you continue, we need to know what happened to you before you met up with Hestia!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Very well. Lady Hestia, allow me to explain this part.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Sure. Go ahead.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ryu's Story|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Yes, much like Lady Hestia, I wound up here.<br>
+Having finished my work at the Hostess of Fertility, I went to the market to buy bread. Then, all of a sudden, I had wound up in an unfamiliar back street.<br>
+It was foggy there, and I had little choice but to move forward cautiously.<br>
+Such strange fog... Is this some sort of trap?<br>
+I need to leave this place immediately...<br>
+In the end, I couldn't find a way out of the back street. In fact, once the fog cleared, I instead found myself in a completely foreign place.<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+You mentioned a "Hostess of Fertility." Is that where you work?<br>
+You look like someone who's seen a hundred battles, so is that place some kind of... elite warrior's guild?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+No. It is a pub for adventurers in Orario, and I work there as a waitress.<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+A WAITRESS?!<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+What is so peculiar about a service worker possessing impressive combat skills?<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Ahahaha... Nothing! Nothing at all!<br>
+<span style="color:#4eb24e;">Belfast：</span><br>
+That place must hold significant importance for someone of your calibre to work there.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Indeed. It means quite a lot to me.<br>
+Belfast, you and... Sheffield, yes? Are you waitresses as well? I'm asking based on your attire.<br>
+<span style="color:#4eb24e;">Sheffield：</span><br>
+In a way, yes. We are both members of the Royal Maids, and Belfast is the Head Maid.<br>
+<span style="color:#4eb24e;">Liverpool：</span><br>
+Hey, where's my mention? I'm a Royal Maid, too!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+......<br>
+Putting that aside, let me explain what happened next.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The God and the Adventurer|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Ryu went off exploring on her own.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I don't recognize anything in this place...<br>
+Is it some secret place beneath Orario? Or could it be an undiscovered entrance to the Dungeon?<br>
+<span style="color:#ff9b93;">???：</span><br>
+HISSS...<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+*gasp*!<br>
+Unfamiliar monsters... Maybe this place is connected to the lower levels of the underground.<br>
+I don't sense a strong aura coming from those monsters, though.<br>
+Let's give this a shot.<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Not that tough, just as I figured. That means I've not wandered into the lower floors.<br>
+Still, there are quite a few of these monsters, and I'd hate to have them chase me around.<br>
+Better try to avoid them as much as possible while looking around.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+So you both thought the Virtual Tower was the Dungeon.<br>
+You know, all this talk about the Dungeon this and floors that has got me wondering...<br>
+Is it really the kind of place you have to clear one floor at a time?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Yes. The Dungeon is akin to an underground maze that has many floors.<br>
+It's located below Orario, and it grows larger in size the deeper you descend, and the types of monsters that appear and their strength change drastically.<br>
+For that reason, I initially thought it was an undiscovered floor.<br>
+<span style="color:#4eb24e;">Ayanami：</span><br>
+And "adventurers" – are they the kind of adventurers I'm thinking of? I'm dying to know.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I can't say I know what kind of adventurers you're thinking of...<br>
+However, I can say that it's a type of occupation, and I am also an adventurer.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Let's get to the point where we met up. Go on, Miss Elf!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Supply Issue|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+From that point on, the course of events was just as Lady Hestia said.<br>
+As I was making a map and defeating monsters along the way, she and I ran into each other.<br>
+Whew... We should be safe here.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+*pant*... Finally! A moment to rest...<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+We can't afford to let our guards down. There are still many issues to be dealt with.<br>
+<br>
+GROWL...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Ugh...<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Yes, that's one of them.<br>
+Fortunately, I just bought bread in Orario. Please help yourself, Lady Hestia.<br>
+This won't nearly fill our stomachs, however. We need to find a place to stock up soon.<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Adventuring without supplies – now that sounds dangerous! Does that happen to you often?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+No. I usually have packed rations, and often have supporters with me when I'm exploring the Dungeon.<br>
+<span style="color:#4eb24e;">Javelin：</span><br>
+Supporters? What are those?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+People tasked with assisting adventurers on their excursion into the Dungeon.<br>
+They help not with fighting monsters, but with managing items, gathering intel, and evacuating the Dungeon.<br>
+<span style="color:#4eb24e;">Laffey：</span><br>
+Managing everyone's items... Sounds like hard work.<br>
+Having storage space in your rigging is so handy. You can keep all your food there.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+The ability to take out items from an other dimension would be extremely convenient in the Dungeon as well.<br>
+However, back then in the Virtual Tower, Lady Hestia and I didn't come equipped with such riggings or a stockpile of supplies.<br>
+As such, we faced a pressing need to get more supplies...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Cooking|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hestia：</span><br>
+Speaking of supplies – as in, food – I've got an idea, Miss Elf!<br>
+One of those monsters you took down looked kinda like an octopus. Reckon you could roast and eat that?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I examined it, and it was entirely made of metal.<br>
+Furthermore, everything in here appears to be manmade.<br>
+That being the case, there should be a place where people live somewhere in here.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Then that building just ahead of us might be a warehouse!<br>
+And maybe the monsters are guarding it or something.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+They could be. Let's have a look.<br>
+Please stay behind me.<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+This is nuts... The supplies are stacked as high as a hill!<br>
+We hit the jackpot! There's loads of food!<br>
+Let's get right to it. Could you make me something to eat?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Right now? Well, if you're that hungry...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Yeah, 'cause I'm starving. Counting on you, Miss Elf!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Huh? Um, L-Lady Hestia!<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+What then? Did you have a good meal?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+What I got was a pot of burned stuff!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+My apologies, Lady Hestia, for causing you that inconvenience...<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Wow, Ryu's cooking sure is a thing to behold!<br>
+<span style="color:#4eb24e;">Alfredo Oriani：</span><br>
+It's shockingly–<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Don't finish that sentence.<br>
+<span style="color:#4eb24e;">Alfredo Oriani：</span><br>
+...Okay, I'll just call it "shocking" when I write my article, then.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Please continue, Ryu.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Adventurer's Magic|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+After filling their stomachs, Hestia and Ryu stocked up as best as they could before setting off again.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+The pattern on the floor has changed! You reckon we've entered a new area?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+It's certainly possible. We should move forward with caution.<br>
+<span style="color:#ff9b93;">???：</span><br>
+HISSS...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Miss Elf!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+It doesn't look especially powerful, but we mustn't let our guard down.<br>
+Please get behind me, Lady Hestia. I will test this new monster's strength.<br>
+Hiyaaah!<br>
+<br>
+Globes of light gathered around Ryu, which then struck the monster at lightning speed, accompanied by a strong wind.<br>
+An intense explosion blew across the street, and once the dust from it had settled, all that remained of the monster was a mangled wreck.<br>
+<span style="color:#4eb24e;">Guam：</span><br>
+Holy smokes! What were those beautiful globes of light? Magic?!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Yes. It's an offensive spell known as Luminous Wind.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+A spell, eh? Wonder if there are spells that can make copies of you or do your homework for you.<br>
+I'm not picky – I'd even take a spell that takes classes for me.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Memphis, give An Shan a call. I've got a feeling like Fu Shun is supposed to be doing her homework right now.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+No, please! Don't! I was just kidding!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Drops|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Hestia and Ryu continued their exploration of the Virtual Tower.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Miss Elf, looks like there are monsters guarding the building up ahead.<br>
+You think there could be food and supplies inside it, maybe?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+It's in the realm of possibility.<br>
+This group is about as numerous as the last, so please stay here and wait.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Will do. Watch yourself in there!<br>
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+That should be all of them.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Whoa! Impressive as always! Way to go.<br>
+Yep, this looks like a warehouse alright. Gold, treasure, and all kinds of weapons.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Weapons the likes of which I've never seen, at that. I'll see if there's anything we can use.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+You do that. I'll take the gold and– Huh? What's this?<br>
+<span style="color:#4eb24e;">Prinz Heinrich：</span><br>
+If I'm not mistaken, the last thing you see in the video is a pair of riggings!<br>
+Why the heck were there riggings for you both just lying in a pile of treasure?!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+On the topic of riggings, is that dragon next to you a rigging as well?<br>
+<span style="color:#4eb24e;">Prinz Heinrich：</span><br>
+Yeah! This is Eisen, my semi-biological rigging!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Riggings come in all shapes and sizes... Truly fascinating.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Riggings|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+Without a moment's hesitation, Hestia donned one of the riggings.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Lady Hestia, where did you get that equipment?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Found it on that pile of coins over there.<br>
+There's another one that looks like it'd fit you.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+From looks alone, it... suits me perfectly. Like it was made with me in mind.<br>
+Yes, it is... It's a perfect fit.<br>
+I say we find an open space and test this equipment's might.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Good idea!<br>
+Putting these on will let us move at high speeds, too.<br>
+AND it looks like they'll negate incoming damage without having to use my godly powers!<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Putting on that rigging seemed to give you a lot of confidence.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Heh, yeah! With a rigging, even I can contribute a little to a battle!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+They possess incredible firepower and are quite durable as well, but one thing seems unclear: They spend ammunition when attacking – is this ammunition infinite?<br>
+<span style="color:#4eb24e;">Kashino：</span><br>
+Well, our ammunition is stored in the ammo depot. You can store quite a lot at once, but you will run out quickly if you spray and pray.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I see. How do you replenish it, in that case?<br>
+<span style="color:#4eb24e;">Kashino：</span><br>
+Ordinarily, you'd return to the port or get replenished in the field by a munition ship like myself.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+There really is a lot of variety in riggings. It's little wonder then that Lady Hestia's and mine look completely different.<br>
+<span style="color:#4eb24e;">Yuubari：</span><br>
+Indeed! Different hull types and equipment distributions also change a rigging.<br>
+Hestia's is more functional since hers is that of a repair ship, while yours has much more potent firepower on account of it being a light cruiser rigging.<br>
+If you don't mind, I'd like you to partake in some experime– Oh, they're gone...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Freely Speeding Across the Sea|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+As soon as she put on the rigging, Hestia had a drastic change and bravely went to the front line.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Look at this, Miss Elf! I'm floating!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Is that a side-effect of the rigging? Let me try.<br>
+Engage propulsion... Whoa, that's fast!<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Check us out! We can freely speed across the sea!<br>
+<br>
+Hestia leaped and spun in the air as she moved forward, having a whale of a time. Ryu, meanwhile, never took her eyes off the monsters at sea off in the distance.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+It seems our foes can also float...<br>
+Feels like I should familiarize myself with fighting using this equipment.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+That was your first time seeing Sirens on the sea, wasn't it?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Yes. They had much more varied attack methods than on land, although there was no difference in their appearance.<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+They use riggings of their own, so they fight better at sea. Sometimes, they've put up a strong fight even against us.<br>
+Although, the Sirens you ran into were weaker than usual for some reason. It wouldn't have been such an easy fight if that wasn't the case.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=First Real Battle|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+KABOOOM!<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Aaahhh!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+There's a swarm of monsters ahead. Quite a lot of them, too. May I ask for your assistance, Lady Hestia?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Oh, hell yeah! I finally get my time in the limelight! Yeah, I've got you, Miss Elf!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I'm about to charge in!<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+I'll block the incoming damage!<br>
+<br>
+Space seemed to freeze for a moment, and all the attacks aimed at Ryu failed to inflict damage.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Now's your chance!<br>
+<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+I can't deal any damage, but I sure can provide some good support!<br>
+Now, let's see what treasure they've got!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Did this item... come from the defeated monsters? Perhaps it has some special applica– Hm? It got absorbed into my equipment.<br>
+What's more, it seems to have leveled up! Could they be some unique material?<br>
+<br>
+Sometime later...<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+It's as I thought – my firepower is stronger than before. This is an excellent item.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Miss Elf! I found a map of this place!<br>
+Doesn't this symbol here look a lot like an exit?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I think... it looks like the passage to the next floor.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Well, we might find an exit if we head there, so let's go check it out!<br>
+<span style="color:#4eb24e;">New Jersey：</span><br>
+Thank gosh you found a passage that goes down, not up.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Why's that? What's wrong with going up?<br>
+<span style="color:#4eb24e;">Impero：</span><br>
+The higher you go in the Virtual Tower, the more dangerous it gets, and the surface of the floor grows as well.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+The opposite of how the Dungeon of Orario functions. Then it seems we picked the right path.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Yep!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Seasoned Adventurer|选项=14|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Hestia：</span><br>
+Look at this, Miss Elf! Seems there's a supply point near here.<br>
+We better stock up on all we can!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Carrying too much will slow you down, Lady Hestia.<br>
+<br>
+Hestia confidently wagged her finger at Ryu and told her about their riggings' storage function.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+And that's why we came back with a boatload of booty!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Talk about an exciting adventure!<br>
+Oh, what about that warehouse you found earlier? Did you go back and recover the treasure?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+We didn't, and that's for a number of reasons.<br>
+Firstly, it was quite far away, which meant there were a lot of uncertainties about the journey.<br>
+Secondly, we already had plenty of supplies at the time, and we didn't want to take unnecessary risks.<br>
+Thirdly, should an accident occur as we moved forward, or if our equipment were to malfunction, the last supply point would've served as our path of retreat.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Spoken like a seasoned adventurer – you consider loads of possibilities! I've got to take notes!<br>
+But the fact that you discovered three supply points all in a relatively close distance of each other sounds kinda foreboding...<br>
+You need supplies before a big battle, so wouldn't that mean you ran into the boss pretty soon after?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Yes, we did encounter what appeared to be the Floor Boss.<br>
+However, it was... not what I expected, I suppose.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Welcome to the Port|选项=15|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+The exit is just ahead. By the look of things, there's a good chance that there is a Floor Boss.<br>
+Since we're going into battle against an enemy we know nothing about, it would be wise to proceed carefully.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Alright, then I'll start digging another hole under–<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+That won't be necessary.<br>
+<span style="color:#ff9b93;">???：</span><br>
+HISSS...<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Sheesh, it's huge! What the hell is that?<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+Judging by its size, it's in all likelihood the Floor Boss.<br>
+It's of a whole other scale and appearance to those we've fought previously. Please be careful, Lady Hestia.<br>
+<br>
+KABOOOM!<br>
+Amidst violent explosions, the monster that appeared to be the Floor Boss was reduced to pieces.<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Wow, you took it down just like that, Miss Elf!<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+No, I simply wanted to see what an attack would do. It seems to have exploded of its own accord.<br>
+Why would it do such a thing?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Who cares? Let's go!<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Onto the next floor. What happened next? I need to know!<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+After that, we ran into your patrol fleet, and then just went here, I guess?<br>
+<span style="color:#4eb24e;">Bristol：</span><br>
+Huh? You made it out of the Virtual Tower just like that?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Yep. We made it out just like that.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+That's everything that happened within the Tower.<br>
+Looking back on it, it was quite a nice adventure.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+We'll launch an investigation based on what you told us. It's going to take some time.<br>
+Until then, do either of you have any plans?<br>
+<span style="color:#4eb24e;">Hestia：</span><br>
+Hmm... I think I wanna explore this world some more! And I wanna see that port of yours.<br>
+<span style="color:#4eb24e;">Ryu Lion：</span><br>
+I would like to accompany Lady Hestia. I'd also like to assist with your investigation.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well, in that case... Hestia, Ryu, welcome to the port!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
