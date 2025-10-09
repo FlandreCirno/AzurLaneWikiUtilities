@@ -1,0 +1,992 @@
+== 迷彩都市的尋蹤者 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=序幕|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+在霓虹之下，人們將謊言織成迷彩，以生存作為底色。<br>
+當爆炸的火光點亮城市的暗角，誰在演繹劇本，誰又在寫結局？<br>
+今晚，警視廳特別顧問——<br>
+將找出那唯一的真相。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵呼呼~終於要開始喵~<br>
+主演，劇本都記住了嗎喵？<br>
+<br>
+'''''<span style="color:black;">选择项1：……什麼主演？</span>'''''<br>
+'''''<span style="color:black;">选择项2：……什麼劇本？</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵？主演就是主演，劇本就是劇本喵？<br>
+指揮官真是貴人多忘事喵，但沒有關係喵！<br>
+我們直接開拍吧喵！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+等等……我很確定我確實沒有收到劇本，也不知道主演是怎麼回事。<br>
+我是收到了青葉的聯絡過來配合她取材……<br>
+……妳們是一伙的！<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+喵呼呼~沒有劇本就是最好的劇本！<br>
+指揮官的本色出演才賣座的喵~<br>
+總之——警視廳特別顧問，希望你在接下來也能一直保持這份敏銳的觀察力呢~<br>
+各部門注意，主演已經就位喵！<br>
+三、二、一——Action~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=爆炸疑雲|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-1-爆炸疑雲<br>
+Scene：警視廳會議室<br>
+Time：19:25<br>
+Date：6月25日<br>
+身為高層派遣的特別顧問，你受命調查警視廳內可能存在的犯罪組織臥底。<br>
+在警視總監的授意下，你以安全審查的名義，將可疑對象都叫到了會議室。<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+準備好了嗎，警視廳新來的顧問~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳是……吾妻？怎麼會在這裡。<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+要叫吾妻老師才對哦~<br>
+我聽警視長說我的學生回來了呢～怎麼，不想見到老師我嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（嗯……已經開始對戲了嗎。）<br>
+沒有的事，還能再見到吾妻老師，我很高興！<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+很好~<br>
+好啦~快進去吧，她們還在等你呢，老師就不耽誤你的工作了~<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+你看著吾妻老師肯定的微笑，定了定心神，走入了會議室。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……這麼生硬的劇情推進方式？！）<br>
+（也行……有提示總比沒有好。）<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+你一走進會議室，就立刻被六雙眼睛緊緊盯住了。<br>
+她們分別是刑事部，帝國警視長。零課，曾克爾將軍警部。零課，U-552警部補。<br>
+搜查一課，海王星警部。搜查二課，Z13警部補。交通執行課，U-37巡查部長。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（謝謝你，旁白俠。）<br>
+咳……本部高層收到密信，警視廳裡可能存在國際犯罪組織的臥底。<br>
+諸位——有什麼想說的嗎？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+哈？把大家都叫出來就是為了這種事啊？<br>
+信裡說是就是嗎，那我還說警視總監才是臥底呢！<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+有道理，連零科都不知道的密信……很可疑呢~<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+說的是啊~人事一課監察系應該對我們的資料都有詳細紀錄吧，特別顧問不應該先去那邊看看嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（監察系的資料嗎……倒確實如此，現在最缺少的就是資料了……）<br>
+人事一課監察系的資料都存放在什麼地方？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+嗯……監察檔案啊，我記得是放在旁邊那棟檔案館裡的吧？<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+BOOM——<br>
+海王星警部的話音剛落，大樓外不遠處的檔案館就在猛烈的爆炸聲中化為了廢墟。<br>
+烈火熊熊燃燒，刺耳的警報也在整個警視廳迴響。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+啊——檔案館……爆開了？！！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+大家都集中在這裡了……果然，臥底另有其人。<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+火勢看起來不大，現在過去也許還能剩點什麼……唉，好麻煩啊……<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+居然敢在警局製造爆炸案……簡直無法無天！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……這爆炸可真是巧啊。<br>
+先散會吧，我要去現場看看。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+欸，顧問等等，我叫上搜索一課的人一起去呀~！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=兔兔警官探案中|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-2-兔警官探案中<br>
+Scene：警視廳檔案館外<br>
+Time：20:08<br>
+Date：6月25日<br>
+你來到了爆炸現場，試圖在一切被燃燒殆盡前找到有用的線索……<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+讓開，讓開，警察來了——！<br>
+顧問，怎麼樣，找到關鍵線索了嗎~？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我大概只比你早到了三十秒……所以正要開始找呢。<br>
+不過看這破壞情況……恐怕難了。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+唔~這焦味……顧問顧問，似乎沒能完全燒乾淨，裡面說不定還有些線索！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+可是現在建築還在燃燒，不知道等消防隊滅火之後還能剩下多少……<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+就在此時，天際遠方傳來一聲悶雷。隨後，暴雨傾瀉而下。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+太好了，顧問~真是老天都在幫忙，這樣子我們就能去調查線索了呢！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（……還能再巧點嗎，導演。）<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+那顧問，我們分頭找？我負責左半邊你負責右半邊如何？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（在這種時候分頭行動……？）<br>
+（如果她是臥底的話，這豈不是一個徹底銷毀罪證並洗清自己嫌疑的好機會……）<br>
+（不過這種獨處時機，也是取得調查突破的好機會……）<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+顧問——我這邊找到了些東西，你那邊收穫如何了？<br>
+<br>
+'''''<span style="color:black;">选择项1：海王星警部，你是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''臥、臥底？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不行哦~顧問可不能突然開這種玩笑！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那妳背後藏的是什麼?<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''背後……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你先看這兩份文件啦~我找到了零課的工作紀錄和一封投訴信哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊——妳背後！燒……燒起來了！<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦？！怎麼回事？我還沒準備……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''拿到了——<br>
+'''''<span style="color:black;">（选择项1）</span>'''''二十串肉，三盤和牛，五手啤酒……？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''只是一份聚餐帳單嗎……<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是啊！根本一點都不重要！所以我才說讓你先看前幾份嘛~<br>
+'''''<span style="color:black;">（选择项1）</span>'''''啊，顧問居然連我這麼可愛的兔兔都騙，還說別人是臥底……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我看你才是臥底大壞蛋呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''抱歉了，我們繼續調查吧。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯！繼續調查吧，把線索統統都找出來~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''還沒有，妳找到什麼了？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哼哼~可謂收穫頗豐哦，你看——<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''這是……零課的工作紀錄？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''這兩個人是怎麼回事……一個是完全空白，另一個光是目錄就有一整頁？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''還有這個「因為走路太快被逮捕」的投訴信？可惜被炸得就剩個標題了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''唉……好像沒什麼有用的資訊。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯……？妳的右手為什麼一直背在後面，手上拿的是什麼？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊……那個是……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎呀，糟糕，不小心燒起來了！！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''？！快拿給我看看！<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗚……不好意思顧問，不小心碰到了還沒熄滅的火苗，已經燒沒了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那份文件我也還沒看，所以沒有第一時間給你……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（真可疑……）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''唉，被燒毀了也沒辦法，我們繼續找找看吧。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是~我會繼續加倍努力的！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=策略性約會進行時|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-3-策略性約會進行時<br>
+Scene：警視廳辦公室<br>
+Time：08:23<br>
+Date：6月26日<br>
+你已經認定這起爆炸案與臥底有關，但卻苦於沒有任何線索。<br>
+終於，細心的你發現，近期的監控似乎都有細微被刪改過的痕跡，時間軸混亂。<br>
+為此，你找到了警視廳內經常接觸監控的Z13警部補……<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+哎呀，這不是顧問嗎？不會是來視察工作的吧？<br>
+先說明，我可沒有在偷懶，我這叫戰略性休息~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+休息……是指開著電腦玩遊戲？<br>
+該不會妳在港區平時辦公的時候也……<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+咳……港區是什麼？顧問怎麼一來就在說奇怪的話！<br>
+顧問難道不懂「勞逸結合」的道理？<br>
+快來坐下一起玩……咳、我是說，一起休息一下吧~！<br>
+這可是偉大的帝國警視長允許過的~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……妳們的警視長居然還能允許這種事？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+當然啦~我們偉大的帝國警視長還經常在工作時間親自前往居酒屋戰略性休息呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+真是看不出來……不對，真是顯而易見的展開。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+對吧？所以，顧問在工作時間來找我……難道說……是想跟我來一場策略性約會？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（……應該直球突破還是，繼續迂迴一下呢。）<br>
+<br>
+'''''<span style="color:black;">选择项1：Z13警部補，妳是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哎呀，顧問，可不能隨便說些沒有根據的話哦~這是很嚴重的指控呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''那妳是怎麼知道帝國警視長在工作時間親自前往居酒屋……戰略休息的呢？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''是從監視器裡看到的吧。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''如果一個人一直用監視器盯著監察人員，那她不是臥底是什麼？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''也可以是認真工作的好警員啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''認真工作……嗎？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那妳知道警視廳的監視器畫面被人為修改過嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦？！居然還有這種事？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……是妳刪改的嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''太複雜了，物理意義上不會啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……那要查出是誰改過妳總會吧？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呃……也不會哦！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''人家只會看監視嘛……所以把每個畫面都看得很仔細！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''只是發生爆炸的時候，顧問你也知道……人家被叫去開會了嘛…<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……沒事了，妳把那天的監控調出來，我們一起再檢查一次。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸……怎麼調出來……來著？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好啊，那麼作為約會的一環，能把加密硬碟打開我看看嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸~什麼樣的約會還要先看加密硬碟呀~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''「策略性約會」？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸~討厭啦~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''咦？顧問你要親自來操作電腦嗎？不過這附近也沒有空椅子……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''這樣吧！您坐我這，我呢，就坐您腿上，好不好~？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我站著就好，來，把密碼說一下？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''這也是約會的一環嗎~那——I~M~YOURS~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''密碼錯誤。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''再加上我的名字試試看~？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''來，我握著你的手一起輸入~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''怎麼樣，顧問的心有在砰砰砰亂跳嗎？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''悄悄告訴你，我這裡可是辦公室的視覺死角，就算偷偷做些什麼，也不會被發現的哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……密碼錯誤。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''顧問，你——好吧，其實我也不記得密碼是什麼了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''啊……？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''要不然你隨便試試吧……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那就試試最常用的……PASSWORD？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''……密碼正確？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……啊？！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=公路維安組，出擊！|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-4-公路維和組，出擊！<br>
+Scene：警視廳停車場<br>
+Time：09:31<br>
+Date：6月26日<br>
+歷經波折，你終於設法恢復了遭受刪改前的監控內容，一道模糊的可疑的黑影出現在了螢幕上。<br>
+你莫名覺得這個快速移動的身影有些熟悉，卻又想不起來是誰。<br>
+於是，你準備先去詢問一下經常與此類犯罪打交道的零課人員……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+速度非常快又有些熟悉的身影……<br>
+不用調查了，我知道了！<br>
+臥底就是——青葉！<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+不對。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……阿爾弗雷多？格里德利？<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+不對。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+撫順？飛雲？伏波？布里斯托爾？勇氣？<br>
+島風？大膽？惡毒？可怖？凱旋？不屈？<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+不對不對不對，全都不對。你奇怪地自言自語，很快就引起了一旁巡警的注意。<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+喲，顧問怎麼來停車場了？這是要去哪裡啊？<br>
+看你這麼急，要不我載你一程？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+有些事要找零課的人確認一下，妳知道曾克爾警部和U552警部補在什麼地方嗎？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+零課的人的行蹤我還真不知道……顧問這是發現線索了？<br>
+要不說來給我聽聽，說不定我能幫上忙！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……妳不是交通課的嗎？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+交通課怎麼了！交通課也是警察，顧問這是赤裸裸的偏見哦！<br>
+我可是成功騎車攔截過那些飆車黨的！就在前不久……<br>
+算了，先上車，我們邊走邊說~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……去哪裡？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+現在是執勤時間，自然是先執勤啦~不能因為跟你討論線索耽誤正經工作嘛。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+熱愛工作，很好。<br>
+不過……<br>
+<br>
+'''''<span style="color:black;">选择项1：U37巡查部長，妳是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦？臥底？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你明明看到了熱愛工作的我，竟然還懷疑我是臥底嗎？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''熱愛工作嗎……可是妳看妳的這輛巡邏車。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你就是靠這個速度攔截的飆車黨？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''就算飆的是自行車妳也追不上吧……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''但是能追上步行的暴走族啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''步行的……暴走族？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''別人都走路了……妳也抓？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哼哼，那當然！正義出警，義不容辭~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''我算是知道為什麼妳會收到「因走路太快被抓」的奇怪投訴了……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咦……我居然被投訴了？！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒事，已經被燒掉一大半，看不清楚細節了。<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呼……太好了。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''所以……妳真的是用自己的方式認真工作？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''當然啦~好啦，顧問上車再聊！該去巡邏啦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''妳這輛車可以帶人嗎？難道不算違反交通規則嗎？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎呀~我說的當然不是這輛，而是一旁的巡邏車！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''走吧走吧，我們上巡邏車！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸……我的車鑰匙在……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''可是妳剛剛明明想邀請我坐在妳的單人電車上。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''該不會……U-37巡查部長，妳在背地裡其實不怎麼遵守交通規則吧？<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''怎、怎麼會呢……！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我可是每年都能收到優秀表彰的出色巡警哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''確實……我並沒有聽到任何妳違反交通規則的事……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''反倒更加可疑了……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哎呀~這不是說明我規則遵守得很好啊~！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''好啦，別想那麼多啦！顧問你先忙，我也該去巡邏了！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=問題的關鍵|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-5-問題的關鍵<br>
+Scene：東岸觀光車<br>
+Time：17:34<br>
+Date：6月26日<br>
+經過一番波折，你終於弄清楚零課U552警部補的所在地了。<br>
+你來到了海邊的環線觀光列車，在車廂中發現了沉睡的……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……U552警部補？妳怎麼在這裡……睡覺？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+噓……指揮官，我現在不是U552警部補，我是觀光導遊哦！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……指揮官是誰？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+是你……啊、我睡糊塗了……抱歉特別顧問！<br>
+……剛好，你要不要也來休息一下？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我就不了，妳這是……在進行便衣工作嗎？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+對哦……我是在扮成導遊收集情報哦……<br>
+唉，又是一個不得不工作的日子呢……<br>
+對哦……扮演導遊……<br>
+您好－歡迎登上我們的觀光專車。<br>
+在這場……這場、呃……台詞是什麼來著……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+台詞這麼不熟練……難道我是妳今天接待的第一個人？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+當然了……畢竟這是我特意選的地方……真正的旅客可不會有閒心來這條路線……<br>
+而能來這裡的……身上大多都藏著秘密……這可是最省力的工作方式呢~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+聽起來很有道理，但……<br>
+<br>
+'''''<span style="color:black;">选择项1：U552警部補，妳是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸……？我怎麼偷了一下懶就被懷疑是臥底了嘛…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不對……我沒有偷懶哦，都怪今天的天氣，嗯……太適合午睡了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是嗎？那妳有收集到什麼有用的情報嗎？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''顧問，情報工作需要知識，更需要耐心……對於零課而言，隱藏自身可比傳遞情報重要得多哦。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''意思就是——沒有？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''這個問題它不是簡單的有還是沒有……問題的關鍵不在這裡的……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這個問題的關鍵呢，就是要找到關鍵的問題……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……那關鍵的問題是？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''要找到關鍵的問題，首先需要看到問題的關鍵……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……所以，到底有還是沒有？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''唉……好吧，我偷懶了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''但顧問你先聽我解釋……我也不想因為偷下懶就被懷疑…<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我是真的有些情報的……只是這個情報，現在不在我手上。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''也就是雖然妳有情報，但是妳沒有情報？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''雖然我沒有情報……但是我有情報！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''咳咳……其實，我已經把收集到的情報都發出去了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''因為是紙本情報，所以我實在沒辦法變出來拿給你看嘛……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''妳把情報發給誰了？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''曾克爾警部哦，她現在應該已經到我們這趟觀光列車的終點站了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯，你耐心等一下，等見到曾克爾警部，她就可以證明我的清白了！<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……但是？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''沒什麼。仔細想了想，今天確實是個適合午睡的好天氣。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''趁此機會休息一下倒也不錯。<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''懂行~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不過……既然有乘客上車了，我也得盡一下觀光導遊的職責才是。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那麼特別顧問，首先~拿好這本新的「旅遊指南」。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''您想要的「景點資訊」都在上面~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''旅途中我們提供多種餐點和飲料的選擇，會最大程度地滿足您的需求~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我可以保證，這場「旅行」一定會很有趣~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''如果能再來點特別情報的話就更好了~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''讓我看看妳的工作成果吧？<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''咳……怎麼話題繞到這邊來了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''現在還是專注於觀光吧，觀光——<br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘟嘟嘟——請各位乘客坐穩扶好，觀光列車現在就要出發了喲——<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=說來話長|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-6-說來話長<br>
+Scene：鬧區倉庫<br>
+Time：19:20<br>
+Date：6月26日<br>
+在得到了曾克爾警部手中持有重要情報的線索後，你離開了觀光列車。<br>
+你順著地址，找到了零課位於鬧市區的倉庫據點。<br>
+一進入倉庫，曾克爾警部的呼救聲就從地下一樓深處傳來……<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+救命啊——有沒有人，快來幫幫我——<br>
+啊——太好了，顧問，快、快把我放下來！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……妳是，曾克爾警部？<br>
+這裡不是零課的秘密據點嗎，妳為什麼會被關在這裡？<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+唉，這個就說來話長了……<br>
+事情還要從十三年前的雨夜說起……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+真的好長……<br>
+（直接走流程還是……）<br>
+<br>
+'''''<span style="color:black;">选择项1：曾克爾警部，妳是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''臥、臥底？！怎麼可能！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''臥底不是我，是那個女人啊！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''（這下快多了。）<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那個女人是誰？<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''是警校的吾妻老師！她就是臥底！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''她攻擊我是為了偽造證據，準備要把所有的罪名推到我身上！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''但其實都是她！昨天的檔案館也是她炸的！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''好，我知道了。剩下的事我來接手吧。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那是一個月黑風高的夜晚，即使時間已經過了那麼多年，我依然無法忘記那一夜發生的事……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''當時我還在上中學，那天的我去遊樂園參加同學聚會，因為玩得太開心了沒注意到時間。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''等到最後決定回家的時候，時間已經很晚了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''天陰森森的，還下著小雨，我一個人又驚又慌，心裡只想著早點回家……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''結果沒注意，繞到了一條小巷子裡。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''藉著昏暗的路燈，我發現了在巷子的盡頭，站著兩個鬼鬼祟祟的黑衣人。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''她們似乎正在進行一些見不得人的交易……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''好奇心戰勝了恐懼，我偷偷接近她們，想看清楚她們究竟在做什麼。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然後……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……然後在妳專心看交易的時候，沒注意到她們還有一個同夥從背後接近襲擊了妳？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然後給妳灌了某種毒藥，然後等妳醒過來之後就發現身體變小了……？<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''……咦？那倒沒有……不過我確實是被發現了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我在走路的時候沒注意踢倒了一個易拉罐，引起了她們的警覺。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''之後我就被嚇得掉頭就跑，她們就在後面緊追不捨…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我跑她們就追，她們追我就更拼命地跑……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不知道過了多久……慌不擇路的我撞上了一個柔軟的身軀。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''她沒有責備我，也沒有問發生了什麼事，而是直接轉身衝上去跟那兩個可疑的人搏鬥，並且把她們都打跑了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''之後我才知道，她是警校的教官——吾妻老師。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然後我就立志要去當警察了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''考上警校，成為吾妻老師的學生！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''然後，三年時光一晃而過，時間來到了十年之前……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''（…………真的太長了！）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''（她們拍攝用的底片難道不用錢嗎……那都是港區的預算啊。）<br>
+'''''<span style="color:black;">（选择项2）</span>'''''停，曾克爾警部，說重點。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''是誰襲擊了妳，襲擊者為什麼能進入零課的據點？<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是吾妻老師！我怎麼也沒想到……攻擊我的竟然是吾妻老師！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''她竟然是臥底！昨天的檔案館也是她炸的！她攻擊我是為了偽造證據，將所有的罪名推到我身上！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''至於她為什麼能知道這個零課的秘密據點，事情還要從六年前說起……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''那時候……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''停——！已經可以了，知道這些已經夠了。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你是什麼時候被攻擊的，吾妻老師離開多久了？<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嗯……大約半小時前！當時我正在……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好——！剩下的事我來接手吧！<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+拜託了，特別顧問！<br>
+啊，等等——走之前先把我放下來啊！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=談心教室|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-7-談心教室<br>
+Scene：警察學校教室<br>
+Time：20:42<br>
+Date：6月26日<br>
+憑藉你的級別，調查吾妻老師的行蹤並不困難。<br>
+很快，你來到了一處空教室中，那道熟悉的身影正在靜靜地等著你……<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+你果然很出色，這麼快就找過來了。<br>
+我現在，該叫你警視廳的特別顧問，還是……我親愛的好學生呢？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（直接走流程還是……）<br>
+<br>
+'''''<span style="color:black;">选择项1：吾妻老師，妳是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那取決於妳想以什麼身分面對我了，吾妻老師。<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''將問題踢回來了嗎~不愧是我的好學生。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''如果其他學生也能像你這樣優秀就好了。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''妳是指曾克爾警部嗎？<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''或許是她，或許不只是她。<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+你現在來找我，表示心中已經有結論了吧。<br>
+聽信了曾克爾警部的說法？<br>
+如果我說我不是臥底，你願意相信老師嗎？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+凡事都要講證據，我不會單方面聽信任何一方的一面之詞。<br>
+可是曾克爾警部確實提供了妳策劃檔案館爆炸案的證據，這又要怎麼解釋呢？<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+嗯~沒錯，我昨天確實去過檔案館。<br>
+不過那是為了替你找資料哦。<br>
+老師知道了你收到的調查任務，想到那些臥底可能會用極端手段銷毀證據，所以在你吸引她們注意力的時候暗中行動了。<br>
+你看，這些都是老師昨天拿到的資料。<br>
+還好老師脫身及時，否則別說帶出來資料，能不能從檔案館安全脫身都是個問題呢……<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+你接過吾妻老師的資料，裡面的一筆紀錄顯示，整個零課早就成為了臥底組織的大本營。<br>
+不僅如此，她們似乎還存在著隱藏更深的上線和下線。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+怎麼會這樣……所以妳才會去攻擊曾克爾警部嗎？<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+其實，裡面有一部分資料是我從她的秘密基地中回收的。<br>
+沒想到調查途中她突然回來了，還好老師武力更勝一籌。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+原來是這樣……那妳為什麼不向上檢舉呢？<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+這個組織已經在系統內發展多年，老師能相信的只有你。<br>
+而你在拿到這些證據之後的行動也一定要慎重……<br>
+臥底——可能是每一個人。<br>
+<span style="color:#4eb24e;">明石：</span><br>
+CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=迷彩都市之夜|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-8-迷彩都市之夜<br>
+Scene：商業街居酒屋<br>
+Time：22:59<br>
+Date：6月26日<br>
+離開了教室後，你在腦海中盤算著接下來的行動，不知不覺地來到了一家居酒屋。<br>
+一日的忙碌讓你的肚子在此時發出了有聲的抗議。<br>
+於是，你準備進入居酒屋吃頓便飯……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（來居酒屋吃飯嗎……終於等到拍吃飯的場景了。）<br>
+<br>
+'''''<span style="color:black;">选择项1：必須要點菜了！</span>'''''<br>
+'''''<span style="color:black;">选择项2：還是算了……</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''老闆，我想吃炸雞漢堡、海軍咖哩、烤香腸、烤豬肘、羅宋湯、紅酒焗蝸牛、仰望星空派、瑪格麗特披薩，以及滿漢全席！<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……………………<br>
+'''''<span style="color:black;">（选择项1）</span>'''''你一走進店內，一口氣點了一連串居酒屋菜單上沒有的菜。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''這一舉動不但沒有引起老闆的注意，反而引來了一位熟人的目光。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+唔……？顧問啊……？<br>
+……剛加班結束嗎？<br>
+你來得正好……一起來喝一杯吧~！<br>
+<br>
+'''''<span style="color:black;">选择项1：帝國警視長，妳是臥底嗎？</span>'''''<br>
+'''''<span style="color:black;">选择项2：（順著劇本情景繼續演下去……）</span>'''''<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……臥底？對哦……偉大的帝國警視長就是臥底~！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''快逮捕我吧……工作好累……我實在是不想工作了……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''就算被逮捕坐牢了，也是需要工作的吧。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯……好像也是……那還是別逮捕偉大的帝國警視長了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''一起來喝酒吃烤串吧~！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''是啊……剛加班結束。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''最近的事情真是越來越多，越來越累了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''帝國警視長呢？也是嗎？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呼呼呼……考勤狀態裡應該算是在加班中吧~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''雖然偉大的帝國警視長此時此刻正在進行戰略休息呢…<br>
+'''''<span style="color:black;">（选择项2）</span>'''''咕咚咕咚——啊——有點輕飄飄的感覺了……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''顧問啊……你說，每天上班已經很辛苦了……為什麼還要加班……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''為什麼還要加班啊……<br>
+<br>
+'''''<span style="color:black;">选择项3：因為我喜歡工作！</span>'''''<br>
+'''''<span style="color:black;">选择项4：不論怎樣都不該加班！</span>'''''<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''那你是真厲害……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''偉大的帝國警視長敬你一杯——乾杯~！<br>
+'''''<span style="color:black;">（选择项3）</span>'''''欸……聽我一句勸，特別顧問。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''工作這種事……差不多就可以了……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''身體是自己的，生活也是自己的……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''工作結束後的生活……才是真正的生活呢……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''在疲勞的工作結束後，來阿卡西居酒屋。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''說得對……沒錯！乾杯~！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''欸……聽我一句勸，特別顧問。<br>
+'''''<span style="color:black;">（选择项4）</span>'''''工作這種事……差不多就可以了……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''身體是自己的，生活也是自己的……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''工作結束後的生活……才是真正的生活呢……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''在疲勞的工作結束後，來阿卡西居酒屋。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+跟你說喔……這家阿卡西居酒屋的啤酒，由特推阿卡西啤酒工坊採用72小時階梯式降溫發酵工藝精心釀造而成。<br>
+啤酒呈現出如琥珀般的色澤與香檳級的綿密泡沫……<br>
+搭配上同樣由阿卡西集團所屬阿卡西生態農場供應的精選肉串，以傳統工藝——<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+帝國……綠頭貓咪給了妳多少錢讓妳念廣告？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+啤酒喝到爽，烤串吃到爽……！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+沒事了……那我先回家了，帝國警視長。<br>
+妳也別喝太多，回家的時候要注意安全。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+放心吧……放心……zZZZ<br>
+特別顧問……抓臥底……加油zZZZ<br>
+<span style="color:#4eb24e;">明石：</span><br>
+喵呼呼~！CUT~喵！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=誰是臥底？|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Chapter-9-誰是臥底？<br>
+Scene：警視廳會議室<br>
+Time：8:05<br>
+Date：6月27日<br>
+第二天，你再次召集所有人到會議室中，包括吾妻老師和曾克爾警部。<br>
+你的心中已經得出了結論，所有人都在等待你宣布結果。<br>
+那麼，你該宣布一個怎樣的結果呢——<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+你一走進會議室，就立刻被七雙眼睛緊緊盯住了。<br>
+她們分別是刑事部，帝國警視長。零課，曾克爾將軍警部。零課，U-552警部補。<br>
+搜查一課，海王星警部。搜查二課，Z13警部補。交通執行課，U-37巡查部長。警校教官，吾妻老師。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……怎麼感覺這段似曾相識，在水時長嗎？<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+這叫做首尾呼應，順便兼顧前情提要。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好…<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+又是一大早就把人都叫過來……顧問，你已經得出結論了嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+這場無妄之災終於要結束了……快點宣布結果吧，有一個直播節目馬上就要開始了……<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+不愧是特別顧問，短短兩三天就把臥底找出來了~！真有效率。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+這個臥底居然還敢在警局內縱火，真是無法無天……顧問，到底是誰？！<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+證據已經很明顯了，臥底就是吾妻老師，真不知道你還在猶豫什麼！<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+不要忘了昨天晚上老師跟你說的話，保護好自己。<br>
+不論你得出什麼結論，老師都支持你。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+所以，你會得出什麼結論呢……偉大的帝國警視長，很好奇。<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+於是到了做最終決定的時候了，臥底——究竟是誰呢？<br>
+<br>
+'''''<span style="color:black;">选择项1：劇中旁白，妳是臥底嗎？</span>'''''<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+不是。<br>
+於是到了做最終決定的時候了，臥底——究竟是誰呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……）<br>
+<br>
+'''''<span style="color:black;">选择项1：沒有人是臥底！</span>'''''<br>
+'''''<span style="color:black;">选择项2：所有人都是臥底！</span>'''''<br>
+'''''<span style="color:black;">选择项3：我才是臥底！</span>'''''<br>
+'''''<span style="color:black;">选择项4：警視總監才是臥底！</span>'''''<br>
+'''''<span style="color:black;">选择项5：導演才是臥底！</span>'''''<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒有人是臥底——你宣布了自己的調查結果。<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒、沒有人是臥底？怎麼會這樣？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哦……？這就是你的結論嗎……有點意思。<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''不對啊，怎麼會沒有臥底呢！警局的檔案館確實被人燒了啊！<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''而且我確確實實被吾妻老師攻擊了啊！她如果不是臥底為什麼要攻擊我！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''答案是——這是一場高層精心安排的逼真釣魚安全測試！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''檔案館的火災雖然嚴重，但是在很短時間內就被撲滅了。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''而我們在這幾天內看到的所有可疑情報，都是警視總監為這場安全測試設下的釣魚餌，看看能不能釣出諸位的破綻來！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''至於臥底——從一開始就不存在！<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯……這麼說來，我看到的那些情報，都是高層故意誤導我的嗎……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''真是抱歉了，曾克爾警部。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒想到居然還有這種事……總部還真無聊……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不但浪費時間和資源，還加劇了同儕之間的不信任……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''我也誤會妳了……吾妻老師！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''沒關係，誤會解除了就好。<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''就這樣，臥底的陰雲煙消雲散，是時候回到總部述職了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那麼諸位，就此別過，有緣再見~<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''一路順風哦，特別顧問……偉大的帝國警視長十分欣賞你……我們有緣再見。<br>
+<br>
+你在熱烈友善的氣氛中告別了眾人，踏上了返回警視廳總部的歸途。<br>
+收到了你的報告後，警視總監只是點頭表示知道了。<br>
+半月後，你聽到了警視總監提前退休，職位由帝國警視長繼任的消息。<br>
+再之後，你作為警視廳平凡的一員在自己的崗位上順風順水，步步高升。<br>
+「沉浸於工作之中一路向前，不也很好嗎？」<br>
+「——迷彩都市的尋蹤者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''所有人都是臥底——你宣布了自己的調查結果。<br>
+<span style="color:#ff9b93;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''所、所有人？你是指……坐在房間裡的人都是臥底嗎？！<br>
+<span style="color:#ff9b93;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''喂！這種事事關重大，可不能亂開玩笑哦！<br>
+<span style="color:#ff9b93;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''對啊對啊，而且我可是受害者啊……為什麼說我也是臥底！<br>
+<span style="color:#ff9b93;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''簡直~莫名其妙~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''這幾天來，妳們互相配合，對我透露的消息真真假假，故佈疑陣……試圖干擾我的判斷。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''還好有吾妻老師主動暴露，才能讓我抓到妳們的破綻。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''檔案館確實是吾妻老師炸的，但是她提供我的資料也是真的。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''妳們是因為吾妻老師想要脫離組織，所以故意放她出來吸引我的注意力，好讓妳們脫罪吧。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''還需要我繼續往下說嗎？偉大的帝國警視長。<br>
+<span style="color:#ff9b93;">帝國：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''不愧是總局派出來的特別顧問……有些本事……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''你是怎麼懷疑到我頭上的……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''身為所有人中職位最高，最不可疑的人，妳想勸我收手，試圖招攬我。<br>
+<span style="color:#ff9b93;">帝國：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''你明明是個聰明人的……真是可惜了。<br>
+<span style="color:#ff9b93;">海王星：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''欸~既然被發現了，那就沒辦法了呢。<br>
+<span style="color:#ff9b93;">U-37：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''出去的門已經被我鎖上囉！<br>
+<span style="color:#ff9b93;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''監視器也都被幹掉了~顧問就束手就擒吧~<br>
+<span style="color:#ff9b93;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''放心，我們只是會將你關一段時間，不會有生命危險的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我就知道會變成這樣……還好我早有準備。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''窗戶就是我的逃跑路線！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''剩下的事就交給妳們了，國際刑警隊——！<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''所有人都不許動，妳們已經被包圍了，束手就擒吧！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''幹得漂亮，搭檔，前往車庫的路線已經清空，快過來吧。<br>
+<br>
+你迎著陽光，對著明亮的玻璃窗縱身躍出。<br>
+在眾人不可置信的目光中，你順著大樓斜面的玻璃一路下滑，安全地逃離了警視廳大樓。<br>
+再之後，國際刑警組織接手了現場。<br>
+你圓滿完成了自己的任務，並獲得了警視總監的嘉獎。<br>
+之後，為了防止組織殘餘成員的報復。<br>
+你在國際刑警組織的運作下前往了某處世外桃源，過著了隱姓埋名但幸福快樂的生活。<br>
+「平凡而幸福的生活，不也挺好嗎？」<br>
+「——迷彩都市的尋蹤者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''我才是臥底——你宣布了自己的調查結果。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''在場的所有人都被你的回答驚訝得說不出話來。<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''你說……你是臥底？<br>
+'''''<span style="color:black;">（选择项3）</span>'''''這種時候開玩笑可是有些不合時宜哦，特別顧問。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''因為我失憶了，所以理論上，我也有可能是臥底，不是嗎？<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……好像有點道理，但是檔案館是你炸的嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''因為我失憶了，所以理論上來說，檔案館也有可能是我炸的，不是嗎？<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''……那我被吾妻老師攻擊呢，這個總和你沒關係了吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''因為我失憶了，所以理論上來說，我可能脅迫吾妻老師去攻擊了妳，不是嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呃…………這麼說，好像確實也不是不行？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''呵呵……特別顧問，沒想到你這麼有幽默細胞……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''一個很好笑的玩笑……偉大的帝國警視長很喜歡。<br>
+'''''<span style="color:black;">（选择项3）</span>'''''你打算就這樣回去跟警視總監述職嗎？還是說……你打算總而言之先離開這裡呢……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''我不是很清楚你的意思。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''嗯……沒關係，你確實該回去述職了。<br>
+<span style="color:#4eb24e;">U-37：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''顧問！車子已經準備好了哦！<br>
+<span style="color:#4eb24e;">{namecode:165}：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''{playername}顧問，我跟你一起去。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''吾妻老師……顧問是回去述職的，你跟去做什麼？<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''就這樣，你以別出心裁的方式結束了這項調查，是時候坐車回總部了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项3）</span>'''''那麼諸位，就此別過了。<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''一路順風哦，特別顧問……<br>
+<br>
+你在有些微妙的氣氛中告別了眾人，踏上了返回警視廳總部的歸途。<br>
+在車上，你翻看著吾妻老師提供給你的資料，撥響了警視主任的電話。<br>
+然後——BOOM！<br>
+汽車在巨大的爆炸聲中化為了一顆火球，跌入了懸崖之下。<br>
+之後，你承認自己是臥底的口供被送上了警視總監的桌案，這場爆炸案以畏罪自殺收尾。<br>
+半月後，警視局長提前退休，職位由帝國警視長繼任。<br>
+世界，依然在緩緩轉動中——<br>
+「有些玩笑，可能不只開玩笑哦？」<br>
+「——迷彩都市的尋蹤者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''警視總監才是臥底——你宣布了自己的調查結果。<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''……啊？我有點跟不上你的思路了，特別顧問……<br>
+<span style="color:#4eb24e;">海王星：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''這是個玩笑嗎，是個玩笑吧……警視總監怎麼可能是臥底呢？<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''你成功引起了我的注意，特別顧問……說說你的理由？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''根據偵探劇的慣例，兇手總是早早就已經出場過了，沒錯吧？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''那麼，警視總監難道不可疑嗎？<br>
+'''''<span style="color:black;">（选择项4）</span>'''''沒有人比她出場得更早，而她又全程沒有留下任何線索。<br>
+'''''<span style="color:black;">（选择项4）</span>'''''沒有人知道她長什麼樣子，叫什麼名字，在做什麼……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''……話說，警視總監其實是誰啊？<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''警視總監，青葉。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''太可疑了！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''就是她用協助取材的名義把我騙過來的！<br>
+'''''<span style="color:black;">（选择项4）</span>'''''真是太可疑了！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''有道理啊……顧問。那我們接下來該怎麼做呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项4）</span>'''''我們需要聯合起來，抓住警視總監的把柄，最後打倒她！<br>
+<span style="color:#4eb24e;">帝國：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''你這個計劃，偉大的帝國很喜歡……<br>
+'''''<span style="color:black;">（选择项4）</span>'''''那麼，回去之後一切小心，等我聯絡……我們一起扳倒警視總監吧。<br>
+<br>
+你在異常熱烈友善的氣氛中告別了眾人，踏上了返回警視廳總部的歸途。<br>
+路上，你收到了帝國警視長的單獨聯絡。<br>
+在她的幫助下你成功用含混不清的結論為這場調查做出了收尾。<br>
+之後，你又與帝國警視長合作，成功找到了警視總監青葉巨額財產來歷不明的證據。<br>
+半月後，警視局長青葉被解職關押，職位由帝國警視長繼任。<br>
+而你，也由於與帝國警視總監的特殊關係，在職場上平步青雲。<br>
+僅僅不到三年，你就已經成為了新的警視長。<br>
+美好的生活，還在繼續中——<br>
+「生活如此美好，直到世界終結。」<br>
+「——迷彩都市的尋蹤者·END」<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项4）</span>'''''CUT~喵！<br>
+<span style="color:#4eb24e;">劇中旁白：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''導演才是臥底——你宣布了自己的調查結果。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''…………<br>
+'''''<span style="color:black;">（选择项5）</span>'''''……導演是臥底，你確定嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''是的，我很確定。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''透過這幾日的拍攝，我已經清楚地了解了那些設定在劇本中的黑暗橋段……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''也明白了按照原本的劇本設置，我該指控哪些人是臥底…<br>
+'''''<span style="color:black;">（选择项5）</span>'''''但是——我拒絕！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''如果一定要有個臥底……那麼——導演明石，就是臥底！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''喵~！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''NG喵~NG喵~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''哼哼，妳以為我這兩天私下沒有做任何準備。<br>
+'''''<span style="color:black;">（选择项5）</span>'''''導演明石，這部電影已經不只是妳一個人的電影了！<br>
+<span style="color:#4eb24e;">明石：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''……喵？指揮官，你這是什麼意思喵？<br>
+<span style="color:#4eb24e;">{namecode:13}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''意思就是，這部電影要打破第四面牆，迎來超展開了。<br>
+<span style="color:#4eb24e;">{namecode:14}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''劇情世界觀也會出現大規模的拓展，加入更豐富的設定。<br>
+<span style="color:#4eb24e;">關島：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''原班人馬，同樣場景，但是截然不同的劇本，這種設計很有趣吧~！<br>
+<span style="color:#4eb24e;">海天：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''我其實已經有劇本思路了哦，交給我吧~<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''多補拍些鏡頭，加入大冒險的要素！<br>
+<span style="color:#4eb24e;">巴爾的摩：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''還有特攝、熱烈的格鬥技以及摩托車的飆車環節！<br>
+<span style="color:#4eb24e;">雷諾：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''增加一些超級英雄的要素也不錯哦。<br>
+<span style="color:#4eb24e;">呂措：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''我投票加入吸血鬼要素！<br>
+<span style="color:#4eb24e;">努比亞：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''咕嚕嚕……異世界冒險要素確實不能少呢。<br>
+<span style="color:#4eb24e;">{namecode:6}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''綾波……準備好了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''傳說中的勇者小隊——<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''——再次集結！<br>
+<span style="color:#4eb24e;">拉菲：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''呼……zZZZZ<br>
+<span style="color:#4eb24e;">基洛夫：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''原本的刑偵部分也可以加強一下，多點大場面，順便場景國際化一些。<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+'''''<span style="color:black;">（选择项5）</span>'''''這都是什麼跟……什麼喵……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''明石的電影……明石的電影要……<br>
+'''''<span style="color:black;">（选择项5）</span>'''''要變得好像更有趣了……喵？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项5）</span>'''''那麼——就讓我們開始補拍鏡頭吧~！<br>
+'''''<span style="color:black;">（选择项5）</span>'''''——ACTION！<br>
+<br>
+終於，電影的拍攝全部結束了——<br>
+<span style="color:#4eb24e;">{namecode:98}：</span><br>
+呼呼呼，殺青了喵！大家都很厲害嘛喵~<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+這樣就拍完了？明明我還想陪指揮官多玩一下子的。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+拍攝時還是太緊張了啊……果然還是得準備更多的緊急應變計劃才行。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+指揮官，拍攝辛苦了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+曼非斯啊，來得正好，我有個問題想問妳。<br>
+<span style="color:#4eb24e;">曼非斯：</span><br>
+嗯？怎麼了，指揮官？<br>
+<br>
+'''''<span style="color:black;">选择项1：妳是臥底嗎？</span>'''''<br>
+<br>
+咦————？！！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
