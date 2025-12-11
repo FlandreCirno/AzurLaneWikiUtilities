@@ -266,7 +266,7 @@
 既然不是惡夢，那我就可以放心了。<br>
 <br>
 '''''<span style="color:black;">选择项1：（躺在沙地上）</span>'''''<br>
-'''''<span style="color:black;">选择项2：（走到信濃身旁坐下）</span>'''''<br>
+'''''<span style="color:black;">选择项2：（走到{namecode:182:信濃}身旁坐下）</span>'''''<br>
 <span style="color:#4eb24e;">信濃：</span><br>
 還真是隨性呢，指揮官。<br>
 汝不問妾身，為何稱這裡為永恆嗎？<br>
@@ -278,8 +278,8 @@
 若是妾身未能尋到指揮官，恐怕汝就要被這裡吞噬，困在一成不變的晦暗之中了……<br>
 指揮官，汝會害怕嗎？<br>
 <br>
-'''''<span style="color:black;">选择项1：信濃會怕嗎？</span>'''''<br>
-'''''<span style="color:black;">选择项2：不會，因為有信濃在</span>'''''<br>
+'''''<span style="color:black;">选择项1：{namecode:182:信濃}会怕吗？</span>'''''<br>
+'''''<span style="color:black;">选择项2：不会，因为有{namecode:182:信濃}在</span>'''''<br>
 <span style="color:#4eb24e;">信濃：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''呵呵……並不會哦，只是——<br>
 <span style="color:#4eb24e;">信濃：</span><br>
@@ -497,6 +497,300 @@
 欸……！親愛的快看快看，那邊的魚也好漂亮啊！<br>
 <br>
 小小的惡作劇得逞後，柴郡帶我立刻奔向了下一個目標——<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=凝望雨幕的雙眸|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+荣耀殿堂<br>
+<br>
+凝望雨幕的雙眸<br>
+下班後心血來潮，去了露天餐廳享用晚餐。<br>
+不過原本觀賞夜景的絕佳露台，此時此刻也只剩下「負面作用」。<br>
+畢竟——被燈火照亮的夜空上烏雲正在聚集，一場暴雨即將來臨。<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+指揮官？你怎麼會在這種天氣出門。<br>
+<br>
+直到熟悉的聲音響起，我才注意到剛剛一直位於視線死角的埃吉爾。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+應該算是……心血來潮？<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+真是隨便的答案。算了，要來一杯嗎？這裡的酒倒是一流哦。<br>
+<br>
+'''''<span style="color:black;">选择项1：未成年禁止飲酒！</span>'''''<br>
+'''''<span style="color:black;">选择项2：喝酒會影響思考，還是不喝了</span>'''''<br>
+'''''<span style="color:black;">选择项3：那就喝一杯吧</span>'''''<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……哈？指揮官你還真會開玩笑。<br>
+'''''<span style="color:black;">（选择项1）</span>'''''不過其實剛剛我也開玩笑了。雖然我說它是「酒」，但其實只是特調的麥芽風味飲料而已。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''私生活都要這麼嚴格嗎？你還真是自律。<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不用擔心。雖然我說它是「酒」，但其實只是特調的麥芽風味飲料而已。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''這才對嘛！<br>
+'''''<span style="color:black;">（选择项3）</span>'''''——不過雖然我說它是「酒」，其實只是特製的麥芽風味飲料而已。<br>
+<br>
+她將裝有琥珀色液體的玻璃杯端到我面前，款款入座。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+說起來……埃吉爾怎麼會一個人在這裡？<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+只是想找個合適的位置去欣賞大海狂暴的一面，嗯……和指揮官一樣，算是心血來潮吧。<br>
+<br>
+說話間，雨點落下。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+不進去躲雨嗎？著涼了的話，可是會影響工作的。<br>
+……你看著我做什麼？<br>
+<br>
+'''''<span style="color:black;">选择项1：埃吉爾著涼的話，該怎麼辦？</span>'''''<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+哼，荒海之神可不會被這種弱小的水花擊敗。<br>
+再說，讓雨水沖刷掉身體與心靈的級怠，也是我現在所期待的事。<br>
+<br>
+'''''<span style="color:black;">选择项1：如果妳喜歡的話，我就陪妳一起淋雨。</span>'''''<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+跟我一起……你、你是笨蛋嗎？！<br>
+……就算是為了引起我的興趣，也不可以這樣！<br>
+…………我知道啦，我陪你一起進去避雨就是了！<br>
+<br>
+僅隔著一片玻璃，店內與店外已然是兩個世界。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+……偶爾像這樣賞雨，也不錯。<br>
+<br>
+埃吉爾伸手指向窗外——狂風裹挾著雨水，世界一片迷濛。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+你看……這時的海洋雖然危險，但也夠迷人。<br>
+<br>
+她金色的雙眸此刻正一眨不眨地凝視著遠方的海平面，雙唇間吐露出的話語，像是曖昧的呢喃。<br>
+先前被雨水淋濕的髮梢有水滴滴落，順著她的臉頰，沿著纖細的脖頸流入更深處。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+指揮官？<br>
+<br>
+金色的雙眸裡，現在映照著我的影子。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+呵呵呵呵，看你這模樣，難道是被我迷住了？<br>
+<br>
+'''''<span style="color:black;">选择项1：沒錯。</span>'''''<br>
+'''''<span style="color:black;">选择项2：確實被你迷住了！</span>'''''<br>
+'''''<span style="color:black;">选择项3：月色真美。</span>'''''<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''呀？！你、你是認真這麼說的？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''…………哼。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''呀？！你、你是認真這麼說的？！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''…………哼。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''月色……？這麼厚的烏雲哪來的月色……<br>
+'''''<span style="color:black;">（选择项3）</span>'''''啊、難、難道是那個重櫻的典故？！<br>
+'''''<span style="color:black;">（选择项3）</span>'''''你、你……哼！<br>
+<br>
+她在座位上變換了好幾個姿勢，看起來是因為瞋羞導致的坐立難安。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+埃吉爾在這種時候的反應，很有趣。<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+喂，再說下去的話我就咬爛你的嘴！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我——<br>
+<br>
+正打算說些什麼，視野中埃吉爾的佔比忽然急劇放大。<br>
+雙唇上傳來溫熱的觸感，還有淡淡的麥芽味香氣，但，隨即便是一陣刺痛。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+痛痛痛……<br>
+<span style="color:#4eb24e;">埃吉爾：</span><br>
+哼，我已經警告過你了，是你自己不聽！<br>
+這是深海之神留給你的……懲罰的烙印。<br>
+<br>
+她舉杯，金色的雙眸被琥珀色的液體蒙上柔和的暈影。<br>
+簾幕外，雨仍未停。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=完美行程|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+荣耀殿堂<br>
+<br>
+完美行程<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+早安啊，Honey~~<br>
+<br>
+肩膀被輕拍的觸感，加上如此充滿精神的問候，不用回頭也知道是誰。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+明明還沒到約好的時間，你來得太早啦！<br>
+啊……！<br>
+我知道了，Honey一定很期待今天的約會，所以才會來得這麼早，對吧！<br>
+嗯嗯！畢竟是跟最可愛最聰明最強大最BlackDragon最令指揮官著迷的紐澤西約會嘛，完全可以理解！<br>
+<br>
+'''''<span style="color:black;">选择项1：……最BlackDragon？</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+唔……！我明明說了一長串，Honey最在意的點反而在這裡嘛！<br>
+算啦算啦~反正我只是在開玩笑而已，接下來——<br>
+<br>
+'''''<span style="color:black;">选择项1：其實，我很期待！</span>'''''<br>
+'''''<span style="color:black;">选择项2：其實，我非常非常期待！</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+欸？啊、啊……<br>
+沒、沒想到Honey居然會這麼直白……真是的！突然這麼說，會讓人害羞啦！<br>
+咳咳~總之今天的行程我都做好了完美的安排！<br>
+Honey只要跟著我的節奏來，一定能度過充實而快樂的一天喔~！<br>
+首先第一站是——電影院！<br>
+<br>
+'''''<span style="color:black;">选择项1：一大早就去電影院……？</span>'''''<br>
+'''''<span style="color:black;">选择项2：好耶！</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''因為今天早場有好看的電影！Honey也一定會喜歡的~~<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''噢~Honey的熱情已經被點燃了！就是這個感覺！<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+……對了對了，差點忘了。<br>
+来~手給我，嘿嘿，十指扣才像約會嘛。<br>
+那麼，朝著電影院——出發！<br>
+<br>
+如紐澤西所言，電影院只是第一站。在那之後，我們還去了商業街、水族館……<br>
+完全沒有想到，她真的能把一整天的行程安排得井井有條，而且沒有出現任何紕漏。<br>
+一直到太陽下山——<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+Honey~這裡就是日場的最後一站了~<br>
+一家得到了提康德羅加好評推薦的——家庭漢堡店！<br>
+這家店的漢堡，不僅份量夠味道好，還會贈送隨機小禮物！<br>
+今天玩了一整天，你一定很餓了吧？我們快轉……<br>
+<br>
+紐澤西的話語和腳步停在了緊閉的大門前。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+「今日因故暫停營業一天，明日恢復正常喵~」……？<br>
+……怎、怎麼會這樣？！<br>
+這下……搞砸了……<br>
+<br>
+今天一直自信滿滿的紐澤西，此時失落地垂下了頭。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+Honey對不起，如果我能早點確認，把計畫做的更周全一點……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+人算不如天算，偶爾也是會有這種事發生的。<br>
+沒關係，我們換一家店碰碰運氣吧。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+嘿嘿，Honey真溫柔啊……那我也不能消沉下去了！<br>
+唔……有了！我還有一家作為備用計劃的店！<br>
+Honey~快來快來，那家皇家餐廳好像在正常營業哦，我們快去搶個好位置吧~！~！<br>
+<br>
+晚餐後，紐澤西突然從懷中拿出一本筆記本，開始寫寫畫畫起來。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+選店失誤的教訓一定要記下來才行……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（難道是，紐澤西為了約會而準備的約會筆記…？）<br>
+<br>
+好奇心不由得被勾了起來。<br>
+在紐澤西指尖的縫隙中，依稀看到了貼在筆記本上的地圖。<br>
+地图之上有着很多勾勾画画，还依稀看到了，诸如“重点进攻”，“全面进攻”的字样……<br>
+不知為何在腦海中浮現出了「戰役地圖」四個大字。<br>
+除此之外，筆記本上還貼了許多便條……這些大概是提康德羅加貼的？<br>
+不對……看紐澤西認真在筆記本上做總結的架勢，或許真的是自己寫的？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+Honey——！你突然盯著我的本子做什麼！<br>
+這可是少女的秘密，就算是Honey的要求也不能給你看！<br>
+……說真的，你沒看到裡面的內容吧？<br>
+<br>
+'''''<span style="color:black;">选择项1：看到了「戰役地圖」</span>'''''<br>
+'''''<span style="color:black;">选择项2：看到了便條。</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哼哼哼~應該叫「約會戰役地圖」才對~~<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''哼哼哼哼~這些是我跟參謀部共同努力的成果哦~~<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+呼……只看到這些還好。沒看到行程就不影響計畫~~<br>
+……其實，我原本在晚餐期間有一個小驚喜想要給你的。<br>
+雖然沒能去到家庭漢堡店，不過在這裡進行的感覺應該也不差。<br>
+Honey，閉上眼睛……然後——張開嘴巴！<br>
+這就對了~不許睜眼哦！<br>
+<br>
+聽見衣料摩挲的聲音，隨即鼻尖感受到了一陣淡淡的香氣。<br>
+有什麼柔軟的東西接觸到了我的雙唇，伴隨而來的是水果的清甜在齒間綻放。<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+咳咳，可以睜開眼了哦，Honey！<br>
+驚喜贈送成功~剛剛的糖果是我從白鷹專門運來的，我最喜歡的糖果。在明石商店都買不到哦~<br>
+怎麼樣，好吃吧？<br>
+嘿嘿，好吃就對了~而且這種糖果還有消除疲勞提振精神的效果哦。<br>
+這樣一來，Honey在接下來的夜場也能打起精神了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+接下來的……夜場？<br>
+<span style="color:#4eb24e;">{namecode:199}：</span><br>
+是啊~約會的話，度過一整天才算圓滿吧，所以我做了日場和夜場兩場安排哦~！~！<br>
+剛好時間差不多了，Honey，我們去坐摩天輪吧！<br>
+從裡面看夜景一定很美！<br>
+<br>
+不給我回答的機會，又或者她早就知道答案，紐澤西站起身，牽起我的手向店外跑去。<br>
+————還好，之前我已經先結帳了！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=武者亦有心亂時|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+荣耀殿堂<br>
+<br>
+武者亦有心亂時<br>
+兩把長刀咫尺交鋒，空間都為之激盪。<br>
+剛收招，又是幾下斬擊如驟雨襲來，我橫過劍極力接下。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+不愧是指揮官，學習能力非比尋常。<br>
+想必，縱使我的攻勢再猛烈些，你也能盡數化解吧？<br>
+<br>
+未等作出答復，新一輪攻擊已至——僅憑觀察我的眼神，武藏便能得出結論。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+所謂修行，正當如此。不斷將自身逼至極限，方可磨礪成器。<br>
+不過……指揮官的極限究竟在哪？我著實好奇。<br>
+我每次藏招不發，你都能準確洞察。<br>
+我每次悄悄露出的破綻，你也總能心領神會。<br>
+究竟是與我並肩作戰已久，早已對我的步調熟諳於心……<br>
+還是你暗藏的潛力，恰如深不可測的水下冰山？<br>
+指揮官，你可願嘗試更大的挑戰，讓此次修行再精進一步？<br>
+<br>
+武藏的話勾起了我的興致。這次，她也讀懂了我的眼神。<br>
+她屏息凝神，收劍入鞘，前一秒還頗為紊亂的氣流也變得安靜——是在蓄力。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+那麼——試試這招！<br>
+<br>
+劍刃再次出鋒，撥亂整座道場的氣流，千縷疾風已率先發動攻擊。<br>
+忽然，異響傳來。只見道場各處懸掛的刀架，都被撩亂的氣流拍打得搖搖欲墜，直至滑落——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——小心！<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+……！！<br>
+<br>
+沒有多餘時間思考，我猛然撲向武藏，將她護在身下。<br>
+預期中的痛感並未降臨，取而代之的是武藏溫柔的輕撫。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+指揮官……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳沒事吧，武藏？<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+嗯……沒事。<br>
+已經沒事了，指揮官。<br>
+<br>
+明明說著安撫的話，她的手卻微微顫抖著。<br>
+確認彼此並無大礙後，我們重新起身。這時，我才看見剛剛墜落的刀具皆被斬為兩截，橫陳一地。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+明知我有餘力處理這場危機，卻還是選擇捨身保護我……指揮官這是關心則亂呢。<br>
+<br>
+'''''<span style="color:black;">选择项1：只是想做點力所能及之事</span>'''''<br>
+'''''<span style="color:black;">选择项2：我不能對危險視而不見。</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''只是想做點力所能及之事<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''因為能做，所以去做……倒也符合你的風格。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我不能對危險視而不見。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我也不會坐視你被自己的溫柔傷害。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+其實……剛才的「意外」，是我有意製造的。<br>
+我並未想過置你於險境，試煉的目的，是為了觀察你在突發事件中的決斷。<br>
+一旦洞察你的想法，我便會斬斷落劍、化解危機……<br>
+但你的行動，卻在我意料之外……你不假思索地選擇挺身保護我。<br>
+修劍亦是修心，我認可你的這份溫柔。<br>
+可是……<br>
+<br>
+武藏輕巧地收起所持之劍，將我緊緊擁入懷中。<br>
+<span style="color:#4eb24e;">{namecode:84}：</span><br>
+我希望你能將自己的性命放在首要……希望你能更在乎自己一些。<br>
+若你因自己的溫柔而受傷，就會有人為你而心傷。<br>
+因此，指揮官……不要再這麼冒險。<br>
+<br>
+我沒有說話，而是回應了她的擁抱。<br>
+如同兩把於激鬥中交纏在一起的刀具，久久也未分離。<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
