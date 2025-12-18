@@ -1222,7 +1222,7 @@ ProjectH以外にも、チーム内でEとMの二つのプロジェクトが進�
 仲裁機構……我ながらいい名前だ<br>
 この子が完全体のProjectHだ。さあ、目の前にいるこの「謎の人」にあいさつを<br>
 <span style="color:#4eb24e;">ProjectH：</span><br>
-お久しぶり、$1、現実世界で会うのは初めてね〜<br>
+お久しぶり、{playername}、現実世界で会うのは初めてね〜<br>
 この姿はどう？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （あのハイエロファントが喋った…！しかも…こんな表情豊かだったのか……！？）<br>
