@@ -3,6 +3,7 @@
 格里德利 GL_SaraNo1
 莫里 Maury
 弗莱彻 Fletcher
+威廉·D·波特 William D. Porter 
 查尔斯·奥斯本 L.B.Charles
 撒切尔 L.B.Thatcher
 奥利克 L.B.Aulick
@@ -19,6 +20,7 @@
 布什 Bush
 贝奇 USSBACHE
 霍比 Hobby
+艾尔温 Aylwin
 斯坦利 L.B.Stanly
 库珀 BlackCat
 艾伦·萨姆纳 A.M.Sumner
@@ -27,6 +29,7 @@
 布里斯托尔 Bristol
 贝尔 Bell
 米勒 Miller
+克拉伦斯·K·布朗森 Clarence K. Bronson
 奥马哈 Omaha
 布鲁克林 Brooklyn
 菲尼克斯 PhoenixBurn
@@ -54,6 +57,7 @@
 博伊西 USSBOISE
 法戈 Fargo
 圣塔菲 Santa Fe
+帕萨迪纳  Pasadena
 北安普敦 Northampton
 休斯敦 Houston
 波特兰 INDI_LOVE
@@ -96,8 +100,10 @@
 无畏 The_Fighting_I
 富兰克林 Franklin
 提康德罗加 Ticonderoga
+列克星敦II Lexington
 独立 Independence
 普林斯顿 Princeton
+科本斯 Cowpens
 圣哈辛托 San Jacinto
 香格里拉 Shangri-La
 大青花鱼 G_Albacore
@@ -536,6 +542,7 @@ U-552 U.B.552
 弗兰德尔 Flandre
 埃佛森 Evertsen
 七省 De Zeven Provinciën
+金狮 Gouden leeuw
 皇家财富号 Royal Fortune
 圣马丁号 São Martinho
 金鹿号 Golden Hind
