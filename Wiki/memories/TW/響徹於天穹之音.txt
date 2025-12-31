@@ -1222,7 +1222,7 @@ NY港如此平靜……至少近海防線守住了？<br>
 仲裁機關……真帥的名字啊，不愧是我<br>
 完全體的ProjectH，跟神秘人先生打個招呼吧<br>
 <span style="color:#4eb24e;">ProjectH：</span><br>
-好久不見，$1，我們還是第一次在現實世界見面吧~<br>
+好久不見，{playername}，我們還是第一次在現實世界見面吧~<br>
 你看我現在的樣子如何？<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 （會說話……還有豐富表情的海洛芬特……？！）<br>
@@ -1937,7 +1937,7 @@ META化還存在，但是META化帶來的所有負面特性都消失了<br>
 <br>
 '''''<span style="color:black;">选择项1：接受海倫娜的提案</span>'''''<br>
 <br>
-'''''<span style="color:black;">（选择项1）</span>'''''警告：此選項為影響結局走向的關鍵選項，確定要這樣做嗎？确定要这样做么？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''警告：此選項為影響結局走向的關鍵選項，確定要這樣做嗎？<br>
 <br>
 '''''<span style="color:black;">选择项100：確認，我接受海倫娜的提案</span>'''''<br>
 <br>
@@ -2063,7 +2063,7 @@ META化還存在，但是META化帶來的所有負面特性都消失了<br>
 <br>
 '''''<span style="color:black;">选择项2：接受海倫娜的提案</span>'''''<br>
 <br>
-'''''<span style="color:black;">（选择项2）</span>'''''警告：此選項為影響結局走向的關鍵選項，確定要這樣做嗎？确定要这样做么？<br>
+'''''<span style="color:black;">（选择项2）</span>'''''警告：此選項為影響結局走向的關鍵選項，確定要這樣做嗎？<br>
 <br>
 '''''<span style="color:black;">选择项200：嗯，我要拒絕這份提案</span>'''''<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
