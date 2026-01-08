@@ -110,10 +110,10 @@ This milk is specially made for your needs. I kept it nice and warm, too.<br>
 Would you like to drink it yourself? Or... should I help you?<br>
 She leans in and offers me the bottle. Its sweet scent grows stronger.<br>
 <br>
-'''''<span style="color:black;">选择项1：You didn't have to go THAT far, Commander.</span>'''''<br>
-'''''<span style="color:black;">选择项2：Help me?</span>'''''<br>
+'''''<span style="color:black;">选择项1：Help me?</span>'''''<br>
+'''''<span style="color:black;">选择项2：Umm... Wait a second.</span>'''''<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''You didn't have to go THAT far, Commander.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Help me?<br>
 <span style="color:#4eb24e;">Cowpens：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Heehee, of course... I'd be happy to take care of you until your tummy is nice and full~<br>
 '''''<span style="color:black;">（选择项1）</span>'''''You'll get to snuggle up in my arms for as long as you want.<br>
@@ -121,7 +121,7 @@ She leans in and offers me the bottle. Its sweet scent grows stronger.<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 '''''<span style="color:black;">（选择项1）</span>'''''Uh... Do I have a choice?<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Help me?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Umm... Wait a second.<br>
 <span style="color:#4eb24e;">Cowpens：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''She blinks at me. There's evident disappointment in her eyes.<br>
 '''''<span style="color:black;">（选择项2）</span>'''''I was naive. Normal nutritional milk won't satisfy your needs anymore, will it?<br>
