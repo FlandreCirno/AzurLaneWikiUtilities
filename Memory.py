@@ -403,5 +403,5 @@ if __name__ == "__main__":
     wikiGenerate()
     MemoryJP()
     MemoryEN()
-    MemoryKR()
+    #MemoryKR()
     MemoryTW()
