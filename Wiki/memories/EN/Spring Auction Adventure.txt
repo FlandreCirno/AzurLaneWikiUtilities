@@ -1,0 +1,572 @@
+== Spring Auction Adventure ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The New Year Auction|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+1 The New Year Auction<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+Come one, come all! Try our tanghulu made with a secret recipe!<br>
+<br>
+Although the New Year's auction hosted by the Dragon Empery was still several days away, the venue was already lit by lanterns and bustling with people.<br>
+Near the entrance, a teahouse stood with a conspicuous sign that read, "Dragon Empery Tanghulu with a Secret Recipe."<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+*slurp*... Sweet, sour, and so yummy! *slurp*... It gets Lady Yuen's highest recommendation!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Psst, hey! You've eaten most of the tanghulu! Chang Feng will be livid if she finds out!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Well, uh... I'm just doing quality control to make sure the customers get the best taste they can!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Fu Po, one hawthorn tanghulu, please!<br>
+<span style="color:#4eb24e;">Hu Pen：</span><br>
+I want some, too! One hawthorn and strawberry each, thanks!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Here you go!<br>
+<span style="color:#4eb24e;">Épée：</span><br>
+Tanghulu... I've never heard of that before.<br>
+<span style="color:#4eb24e;">Janus：</span><br>
+There are so many girls from the Empery gathered in front of the store... It's so hard to be heard over them all.<br>
+<span style="color:#4eb24e;">Z11：</span><br>
+Man... They look like they can't get enough of it. I need to muster my courage and do something to help these girls...<br>
+Hey, excuse me!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Yeah? What kind of tanghulu do you want? There's hawthorn, strawberry, blueberry, grape, orange, pineapple, star fruit, mango... A whole bunch! Pick whichever you want!<br>
+<span style="color:#4eb24e;">Z11：</span><br>
+Gosh, that's TOO many! I think... Uhh... They'd...<br>
+N-never mind! I can't do this!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+What?! Hey, Fu Po, you scared off a customer!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+All I did was list all the options! Did I speak too fast or something?<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Hmm... Seems not everyone's been sold on tanghulu's sweetness just yet.<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+And how! It's such a wonderful treat! We've got to make it known in every corner of the port!<br>
+If it were more popular, we could open more branches, and then we could build a tanghulu business network, and ultimately become the world's leading tanghulu chain store...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Then we'll be the queens of tanghulu! We'll earn lots of money and buy presents for the Commander and Chang Feng, and then she'll tell us we've made her proud! Heheh...<br>
+Oh! Lady Yuen just got the best idea ever! Let's set out on an adventure to teach the world the wonders of tanghulu!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Yeah, but to do that, we'd need an elaborate strategy. Our adventure also needs a perfect plan to go with it...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+I've already got a plan. First, we cause a huge ruckus that riles everyone up, then we swoop in and solve the problem, and that'll naturally make us the center of attention!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+I'm with you so far, but how do we cause a ruckus?<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Maybe by transforming into a nian beast that invades the port?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+How about sending out tons of red envelopes as a prank?<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Ooor... we could make a colossal firework!<br>
+<br>
+As they passionately shared their ideas, two figures began to approach from a nearby avenue...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Someone's coming! Hide!<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Yes... It certainly is an exquisite piece. One that must be handled with care.<br>
+Hai Chou, have a look at this.<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+Hmm... The jade is warm and impeccable, yet also smooth and delicate. This quality is very hard to come by.<br>
+Furthermore, it was evidently carved by an expert hand.<br>
+Its lines flow like clouds and rivers, breathing life into the entire jade. This truly is a masterwork that combines form and spirit.<br>
+This is one of your very finest yet, Chang Wu.<br>
+I have no doubt that such a treasure will generate a lot of noise when it appears at the auction.<br>
+On the subject, actually... Are you certain you wish to part with it?<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Well, I have a shameful truth to admit. I lately found a number of high-quality rough stones that I intend to carve into jade for the Commander...<br>
+Sadly, I'm somewhat short on coin at the moment.<br>
+That's why I leave this jade pendant in your care, and ask you to find a collector who truly appreciates it and will keep it safe.<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+Very well. In truth, however...<br>
+<br>
+The two figures continued their hushed conversation as they walked toward the auction venue.<br>
+<span style="color:#4eb24e;">Bushes：</span><br>
+RUSTLE RUSTLE...<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Girls, did you hear that?<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Yeah! Loud and clear!<br>
+<span style="color:#4eb24e;">Fu Shun & Fei Yuen & Fu Po：</span><br>
+Treasuuure!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Imagine it! "The crown jewel of the auction has vanished, and that's when the Tanghulu Adventure Team enters the picture!"<br>
+"They solve the theft in record time, then their reputation shoots through the roof!"<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Sure, it SOUNDS easy... How do we actually DO it, though?<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+All we need to do is fiddle a bit with some devices at the venue. I think.<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+I've got it! If we make the treasure disappear when it should be there, then suddenly reappear again later, then we'll have achieved our goal!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Okay then, should we come up with a catchphrase for when we swoop in?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Uhh... Later. First, we've gotta figure out a way past all the security. Knowing Ting An, it's bound to be pretty tightly guarded.<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Lady Yuen will help you come up with a plan! We might've failed last year, but this time, we're gonna make it work!<br>
+All in the name of teaching people to love tanghulu!<br>
+Now, let the Awesome Auction Adventure begin!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Once-in-a-Lifetime Find|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+2 Once-in-a-Lifetime Find<br>
+24 hours before the New Year's auction begins...<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Better make the most of this fine weather and get to work!<br>
+First, I should check the final list of newly submitted auction items. Maybe there's a treasure somewhere in there.<br>
+Hmm... A newly made, limited-edition perfume by Hai Chou? Not bad. Approved.<br>
+Next... A fish? Caught by none other than Huan Ch'ang?<br>
+I mean, it still has a price tag from the fish market on it. I think everyone agrees that's a no.<br>
+What else... Huh? A full-size statue of the Commander, carved by Raffaello?!<br>
+Hmm...<br>
+Maybe I should pull some strings and call in some favors for this one.<br>
+<br>
+Ting An went through the auction items list carefully, separating the photos of the items into two different piles.<br>
+Only a small handful of items had been approved, while the pile of rejections was growing bigger and bigger.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Something's missing here... We need some sort of item that really grabs your attention.<br>
+<br>
+She continued, checking the items one by one until she'd finally reached the last page.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+This is the last thing on the list.<br>
+Consigner: Chang Wu. Name of item...<br>
+Wait... Oh my goodness!<br>
+<br>
+Ting An felt an exceptional sense of awe and surprise just from looking at the photo of the item.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+The quality of this item... It's genuinely a once-in-a-lifetime find!<br>
+That's it! This will be the centerpiece of the auction!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Commence the Plan!|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+3 Commence the Plan!<br>
+16 hours before the New Year's auction begins...<br>
+<span style="color:#4eb24e;">Gangut：</span><br>
+Comrades, we've reached the warehouse!<br>
+Our task here is to escort the items to be shown at this year's New Year's auction. Take extra care not to damage anything.<br>
+<span style="color:#4eb24e;">Minsk：</span><br>
+I know, I know! I've already optimized our route and security arrangements three times ahead of time. Everything will be smooth sailing!<br>
+<br>
+Under Gangut's precise command, the transfer of the auction items proceeded swiftly and smoothly.<br>
+<span style="color:#4eb24e;">Gangut：</span><br>
+Alright, this is the last one! Outstanding work, comrades!<br>
+Hmm... This item is decorated differently from the rest. Why is that?<br>
+<br>
+An item covered by understated yet high-class red velvet caught Gangut's eyes. Spurred by curiosity, she took a look at her transport list.<br>
+<span style="color:#4eb24e;">Gangut：</span><br>
+Item D-07... Consigned by Chang Wu. Let's see the attached image...<br>
+<span style="color:#4eb24e;">Minsk：</span><br>
+Whoa! That's a stunning jade pendant!<br>
+How much do you think it's worth?<br>
+<span style="color:#4eb24e;">Gangut：</span><br>
+There's a value estimate listed on the slip.<br>
+<span style="color:#4eb24e;">Minsk：</span><br>
+Let me have a look! Expected auction value of... Holy smokes!<br>
+Sheesh... My hands are trembling all of a sudden...<br>
+Okay, we've moved all the auction items! Our work here is done.<br>
+<span style="color:#4eb24e;">Gangut：</span><br>
+Great work, everyone! I say we go and have ourselves some drinks! It's on me!<br>
+<span style="color:#4eb24e;">Minsk：</span><br>
+Sweet!<br>
+<br>
+The disorderly footsteps gradually grew more distant, and a door closed behind them with a heavy thud. The warehouse fell into silence.<br>
+......<br>
+<span style="color:#4eb24e;">Kursk：</span><br>
+......<br>
+<br>
+A while later, Kursk emerged from the shadows in a corner.<br>
+<span style="color:#4eb24e;">Kursk：</span><br>
+We really ought to install some security cameras in here.<br>
+Warehouse interior is all clear.<br>
+Auction items are intact. They've finished moving everything.<br>
+<br>
+Kursk left just as quietly as she had come – without making a sound.<br>
+......<br>
+<span style="color:#4eb24e;">Fu Shun & Fei Yuen & Fu Po：</span><br>
+Huff... Whuahhh!<br>
+<br>
+Three little figures came crawling out of a container in a panic.<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+*pant*... *pant*... Lady Yuen was THIS close to choking to death!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+*pant*... *pant*... Why was someone else besides us hiding in the warehouse?!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+*pant*... *pant*... If I hadn't shut both your mouths, they would've caught us!<br>
+On the bright side, there's got to be something really valuable hidden here since the security's so tight! Now let's get to work!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Heheh! Treasure hunting adventure time!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+I set the timer on the transport device for the centerpiece item! Ahaha – I didn't expect things to go THIS smoothly!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+So the centerpiece really is Chang Wu's jade pendant. It's sooo pretty! It even smells nice.<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Our task is complete, so let's get out of here now!<br>
+<br>
+The three ran up to the warehouse's door and pulled on the handle with all their might...<br>
+The door, however, didn't even budge.<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+W-wait... Don't tell me...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+The door's locked... from outside?<br>
+<span style="color:#4eb24e;">Fu Shun & Fei Yuen & Fu Po：</span><br>
+WE'RE TRAPPED IN HERE?!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Trouble Swoops Down|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+4 Trouble Swoops Down<br>
+8 hours before the New Year's auction begins...<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Carabiniere reporting! All is clear in patrol area B-2!<br>
+<span style="color:#4eb24e;">Gallant：</span><br>
+Fwee-fwee! Noice! To the next area we go!<br>
+Nobody will disrupt the auction venue's peace under our watch!<br>
+Whew... Everything's looking good so far. Let's take a quick break, Carabiniere.<br>
+Oh yeah, I've been thinking a bit about your hat. It really looks banging on you!<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+You think so? It's really basic equipment for escorts. Speaking of hats, though, you have quite a unique one yourself.<br>
+<span style="color:#4eb24e;">Gallant：</span><br>
+Heheh! What do you say to a trade, then? A hat I like for a hat you like!<br>
+I've always wanted to wear a wide-brimmed hat like the one you've got!<br>
+You know, only the captain of the Port Guards gets to wear this! Looks marvellous, doesn't it?<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Let's not get ahead of ourselves... We're still on duty, remember?<br>
+<br>
+BANG...<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+...What was that? Did you hear that?<br>
+<span style="color:#4eb24e;">Gallant：</span><br>
+Yeah... Sounded like it came from the ceiling.<br>
+<br>
+RUSTLE RUSTLE... RUSTLE RUSTLE!<br>
+<span style="color:#4eb24e;">Gallant：</span><br>
+Security pup, you're up! Find where that sound's coming from!<br>
+<br>
+The two followed the security pup, running to the end of the corridor, which was right below a ventilation duct...<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+There! The sound's coming from inside the vents!<br>
+<span style="color:#4eb24e;">Gallant：</span><br>
+Whoever you are, you'd better surrender now while you–<br>
+<br>
+BANG! CLANG!<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Whuah! Look out! Something fell down!<br>
+<span style="color:#4eb24e;">Gallant：</span><br>
+Blimey!<br>
+...And that concludes our report!<br>
+At the end, all I saw were three white things falling out of the vents, and that's the last thing I remember!<br>
+When I woke up later, that's when I saw you.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Ting An, reckon the auction needs additional security?<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+That won't be necessary. I made preparations before the items to be auctioned were even transferred to the warehouse.<br>
+Also... I noticed that you've been grinning with exasperation for a little while now.<br>
+You don't happen to know who's behind this, do you?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You bet I do.<br>
+<br>
+As prior incidents link together in my head, the answer presents itself easily.<br>
+<br>
+'''''<span style="color:black;">选择项1：It's Fei Yuen.</span>'''''<br>
+'''''<span style="color:black;">选择项2：It's Fu Shun.</span>'''''<br>
+'''''<span style="color:black;">选择项3：It's Fu Po.</span>'''''<br>
+'''''<span style="color:black;">选择项4：It's the troublemaker trio.</span>'''''<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Heheh. That's exactly what I thought, too.<br>
+<br>
+At that moment, Chang Wu gently pushes the door open and enters the room, carrying a box of pastries.<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+I heard someone had been injured, so I brought some get-well snacks.<br>
+Oh? Commander and Ting An. Just who I was looking for.<br>
+Commander, may I have a moment of your time?<br>
+There's something I want to ask you about.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sure thing. Ting An, I'll be leaving.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Of course. I shall look after Carabiniere and Gallant.<br>
+By the way, Commander – we may have an unexpected surprise at the auction. You'll certainly want to keep your eyes peeled for it.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Auction Time!|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+5 Auction Time!<br>
+As the crowd looks on eagerly, the New Year's auction finally begins.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Miss Le Malin, going once, going twice...<br>
+Going thrice! Sold! Congratulations, Miss Le Malin! The Supreme Emperor Mattress is yours!<br>
+<span style="color:#4eb24e;">Le Malin：</span><br>
+The bidding was... exhausting... I'm going to sleep now...<br>
+<span style="color:#4eb24e;">Lützow：</span><br>
+Dang... I really wanted it for myself. Why do these things always exceed my budget?<br>
+<br>
+The hall is filled with bid after bid as one luxurious item after the next is revealed. The excitement reaches its highest point.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+And now, allow me to introduce the most eye-catching item of tonight.<br>
+This item is not only a top-of-the-line collector's piece, but also a work of art that took meticulous effort to make.<br>
+This is the Gentleman's Fine Pendant, a jade ornament personally carved by Chang Wu, a jade carver from the Dragon Empery!<br>
+<br>
+A giant screen behind Ting An lit up and displayed the jade pendant from various close-up angles on a rotating turntable, revealing every little bit of its texture.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The carving really is sublime, and that jade must be of top quality.<br>
+<br>
+Amazed by the jade pendant's exquisiteness, I can't help but admire it aloud. All of a sudden, several keen gazes turn to me.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Oh?<br>
+<span style="color:#4eb24e;">St. Louis：</span><br>
+Heehee...<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Now, the starting price of this pendant is–<br>
+<br>
+People start placing bid after bid before the price has even been unveiled. It's like everyone in here hopes to get their hands on this pendant.<br>
+The bidding escalates rapidly, and after just a few rounds, only two bidders remain, both vying for it fiercely.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+This pendant will be mine!<br>
+<span style="color:#4eb24e;">St. Louis：</span><br>
+Only if you manage to outbid me!<br>
+<br>
+Then, as everyone seems certain that the pendant will go to one of these two, someone plainly raises their bidding paddle from a corner of the venue.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+A new bid! This puts the new price at– Wait, what?!<br>
+<br>
+The screen updates to a new number – one so high that it's nigh impossible to count.<br>
+Every gaze in the room instantly converges on the person who placed this bid.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+The bidder is... You, Chang Wu?<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Yes.<br>
+......<br>
+Is that discourteous of me?<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Well... It should be no issue. Let's just think of it as a grand way to celebrate the New Year. Please, tell us what made you place this bid!<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Ah. Ahem... I'm the one who carved this jade pendant.<br>
+I poured a considerable amount of passion into it – into everything from my choice of material to the carving and polishing process.<br>
+After thinking it through, I've realized that I'm unwilling to part with it.<br>
+In addition, I must give my thanks to the Commander. For always trusting me.<br>
+<br>
+She lowers her head and softens her voice. Then, hoping to convince everyone that she's made up her mind, she turns to me and whispers into my ear.<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+I never break a promise. I swear I'll pay you back as soon as I can for the advance you gave me to purchase those raw jades.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Next month?<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Ah, um... Perhaps in the third quarter?<br>
+At the very least, I promise I won't delay it until next year.<br>
+Please, trust me. In the event I go bankrupt, I'll sell off some of my jades to pay you back.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Well, seeing as you're sure about this, I'll choose to accept your bid.<br>
+Going once... Twice... Thrice... Sold to Chang Wu!<br>
+Congratulations on getting your desired item back.<br>
+Now, if I may have your attention, please admire this beautiful jade!<br>
+<br>
+As Ting An finishes, there's a mechanical creak as a display case should come into view... but nothing happens up on the stage.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Huh? My apologies. There seems to be something wrong with the machine. Let me have a look.<br>
+<br>
+And at that moment, three small figures step forward!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Haha! Having a bit of trouble there?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Scenes like this are happening all over the port, right now!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+You could be next!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+That is, unless you make the most important decision of your life...<br>
+<span style="color:#4eb24e;">Fu Shun & Fei Yuen & Fu Po：</span><br>
+By trusting the Tanghulu Adventure Team!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+There's supposed to be inspirational music playing... Crap, did the music player break?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Anyway! We are the Tanghulu Adventure Team, lovers of candied hawthorn! And we have a message for you!<br>
+<span style="color:#4eb24e;">Fu Shun & Fei Yuen & Fu Po：</span><br>
+We will prove to you that we have the courage to pursue justice and truth!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+We will become the legends...<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+And the inheritors...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+And the heroes of tanghulu, dedicated to making miracles happen!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wow... Talk about a rousing ad for tanghulu.<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Now, turn your attention to the display area! As you'll see, the Tanghulu Adventure Team has already retrieved the missing treasure!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Behooold! ...Huh? Where's the treasure?<br>
+<br>
+Just as before, nothing happens up on the stage.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Tracking by Aroma|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+6 Tracking by Aroma<br>
+Just as before, nothing happens up on the stage.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Um, why isn't it working?!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Uh-oh...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+"Uh-oh" what?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+I think we might've broken the machine!<br>
+<span style="color:#4eb24e;">Fei Yuen & Fu Shun：</span><br>
+OH NO!<br>
+<br>
+Then, a display case covered in red velvet is finally mechanically pushed out to the front of the stage. As everyone looks on with anticipation, the velvet cover falls off...<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+...What?<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+My Gentleman's Fine Pendant...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It's... gone?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+*sniff*... We're sorry...<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+*sniff*... We're so sorry...<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+*sniff*... We're so, so sorry...<br>
+<br>
+Having heard the three troublemakers' explanation, Ting An assumes a brooding expression.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+It sounds like the pendant mistakenly fell somewhere else when the machine jammed mid-transport.<br>
+Thank goodness I took precautions against this. Let's just hope the pendant didn't break...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Do we expand our search range, then?<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+That won't be necessary.<br>
+You can find the pendant if you just follow... its aroma.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sorry? Its aroma?<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+While Ting An and I were discussing security, we considered a myriad of possibilities.<br>
+One of them being the special mechanism under your seat.<br>
+It's designed to immediately evacuate you in the event of any "dangerous" incidents.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Evacuate me where?<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+Why, that's obvious...<br>
+<br>
+She leans in, bringing her face close to me, then lowers her voice so that nobody else can hear.<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+To my room. Heehee.<br>
+As this is a matter of security, I can't elaborate further.<br>
+Anyway, let us get back on track. While I was tallying the auction items, Ting An asked me to install a special tracker on each of them.<br>
+These trackers all have a unique identifier – each one has a distinct aroma.<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Ohh. And, since the other auction items are still in the storage...<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+Yes. The sweet, refined aroma in the air serves as our best guidepost.<br>
+<br>
+Soon after, Ting An escorts me to the adjacent tea room, where Hai Chou is. She has already found the missing jade pendant.<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+I followed the aroma's trail, which led me to a crack in the stage where it had fallen.<br>
+Chang Wu had a look, and it hadn't suffered as much as a scratch.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I was pretty worried there for a while. Glad we could recover it fully intact.<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Ahh... Now I can finally breathe easy.<br>
+<br>
+Chang Wu carefully picks up the translucent Gentleman's Fine Pendant and holds it up in front of me.<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+This pendant means a lot to me, and we managed to retrieve it thanks to everyone's help.<br>
+Fortunately, your praise for this pendant remained untarnished as a result.<br>
+Commander, I've thought about it, and...<br>
+I'd like you to have this pendant.<br>
+I hope you'll cherish this rare blessing of fate.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Now that we've retrieved the jade pendant, shall we discuss how to "reward" tanghulu's greatest champions for what they did?<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Reward? Heheh! Lady Yuen needs no reward. Everything I do comes from the sincere bottom of my heart, where...<br>
+W-wait... By "reward," you mean the opposite, don't you?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I've got it. As thanks for their "hard work," the heroes of tanghulu will get–<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+W-we don't need it! We'll make up for our mistakes! I promise!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Payback is a Sweet and Sour Dessert|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Spring Auction Adventure<br>
+<br>
+7 Payback is a Sweet and Sour Dessert<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Three days later, in the kitchen...<br>
+Ugh... I'm at my limit...<br>
+Fei Yuen stands at the kitchen counter, her small arms trembling as she tries to hold up a strawberry skewer freshly coated in sugar syrup.<br>
+My arms feel sooo heavy... I can't lift the tanghulu skewer... Can I take a break, Commander?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Go ahead.<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Yay! You're the best!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+10 minutes, then it's back to work.<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+B-but I don't wanna!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You said you'd make tanghulu for everyone at the port to make up for your little auction adventure, didn't you?<br>
+Heck, you proudly declared that you would. I'm gonna hold you to your word.<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Bweh... Don't be a slave-driver, Commander...<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Make way, make way! The extra ingredients have arrived!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Careful, Fu Shun! You're gonna spill the skewers!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+The kitchen door swings open, and Fu Shun and Fu Po come rushing in, each panting heavily and pushing a cart full of ingredients.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Did your shopping go well?<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+About that, Commander! When we went to the store and said we're making tanghulu for everyone at the port, they thought we were joking and wouldn't sell us the ingredients at first...<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Yeah, but thanks to my amazing negotiating skills and the shopping list you put together, we managed to accomplish our shopping mission in the end!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Yep! So, we can go now since we've got all the ingredients and did our part, right?<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Alright, if you'll excuse us...<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+See you later!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Fu Shun and Fu Po make a mad dash for the door before they've even finished speaking.<br>
+You jerks! You said we'd all share the burden!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+You can do it, Fei Yuen! I'll never forget your hard work in the service of tanghulu! Farewell!<br>
+<span style="color:#4eb24e;">An Shan：</span><br>
+You're in an awful rush. Where do you think you're going?<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Appearing out of nowhere, An Shan stands in front of the kitchen door with her arms folded, blocking their escape.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Oh crap! A-An Shan! When'd you get here?! Err... Nice weather we're having today, right?<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+We only just got here, and we've already run into two naughty children trying to flee. What a coincidence!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Chang Feng! Um, we definitely weren't trying to run away! No way, nuh-uh!<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+Chang Feng, An Shan! You've come to help... Lady Yuen is saved!<br>
+Right then, another set of light footsteps ring out from past the door.<br>
+<span style="color:#4eb24e;">Ting An：</span><br>
+Good job, little ones. We'd also like to give you a hand!<br>
+<span style="color:#4eb24e;">Hai Chou：</span><br>
+*sniff sniff*... Yes, this syrup is quite fragrant. Just as I'd hoped.<br>
+<span style="color:#4eb24e;">Chang Wu：</span><br>
+Such a clear color... These tanghulu, soon to be delivered all throughout the port, certainly live up to their reputation.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Alright, the gang's all here.<br>
+Before we get back to work, let's have a little taste of Fei Yuan's tanghulu.<br>
+<span style="color:#4eb24e;">Fei Yuen：</span><br>
+W-wait! Just a second!<br>
+That "little taste" IS included in the total amount of tanghulu I have to make, right? Right?!<br>
+<br>
+The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
