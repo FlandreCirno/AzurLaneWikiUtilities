@@ -144,10 +144,8 @@ class ChapterAwardsGenerator(BaseGenerator):
         output += f'|地图名={chapter_data["name"]}\n'
         output += f'|地图介绍={chapter_data.get("profiles", "")}\n'
 
-        # Completion rewards
-        output += '|通关奖励='
-        output += self._format_rewards(chapter_data.get('awards', []), item_statistics, item_virtual_statistics)
-        output += ' \n'
+        # Completion rewards (left empty)
+        output += '|通关奖励=\n'
 
         # Three-star conditions (no actual text data available, only localization keys)
         output += '|三星条件=\n'
@@ -202,8 +200,10 @@ class ChapterAwardsGenerator(BaseGenerator):
         # Submarine start position (complex to calculate)
         output += '|潜艇起点=\n'
 
-        # Map drops (no actual descriptive data available, only box IDs)
-        output += '|地图掉落=\n'
+        # Map drops
+        output += '|地图掉落='
+        output += self._format_rewards(chapter_data.get('awards', []), item_statistics, item_virtual_statistics)
+        output += '\n'
 
         # Video and notes
         output += '|推图视频=\n'
@@ -231,11 +231,24 @@ class ChapterAwardsGenerator(BaseGenerator):
         return output
 
     def _format_rewards(self, awards, item_statistics, item_virtual_statistics):
-        """Format rewards as wiki text."""
+        """Format rewards as map drops (地图掉落).
+
+        Converts unknown items to generic categories and uses Chinese commas.
+        Combines T levels: T1T2T3 instead of separate entries.
+        """
         if not awards:
             return ''
 
-        output = ''
+        items = []
+        generic_categories = {
+            '舰船': False,
+            '物资': False,
+            '设计图': False,
+            '装备部件': set(),  # Will collect T1, T2, T3, etc.
+            '科技箱': set(),    # Will collect T1, T2, T3, T4, etc.
+            '改造图纸': False
+        }
+
         for award in awards:
             if len(award) < 2:
                 continue
@@ -255,16 +268,80 @@ class ChapterAwardsGenerator(BaseGenerator):
                     item_name = item_virtual_statistics[award_id].get('name', '')
 
                 # Get count if provided
-                if len(award) >= 3:
-                    item_count = award[2]
+                if len(award) >= 3 and award[2]:
+                    item_count = str(award[2])
 
                 if item_name:
-                    if item_count:
-                        output += f'{{{{道具|{item_name}|{item_count}}}}} '
+                    # Convert unknown items to generic categories
+                    if '未知' in item_name:
+                        if '角色' in item_name:
+                            generic_categories['舰船'] = True
+                        elif '设计图' in item_name:
+                            generic_categories['设计图'] = True
+                        elif '装备部件' in item_name:
+                            # Extract T level
+                            if 'T1' in item_name:
+                                generic_categories['装备部件'].add('T1')
+                            elif 'T2' in item_name:
+                                generic_categories['装备部件'].add('T2')
+                            elif 'T3' in item_name:
+                                generic_categories['装备部件'].add('T3')
+                        elif '科技箱' in item_name:
+                            if 'T1' in item_name:
+                                generic_categories['科技箱'].add('T1')
+                            elif 'T2' in item_name:
+                                generic_categories['科技箱'].add('T2')
+                            elif 'T3' in item_name:
+                                generic_categories['科技箱'].add('T3')
+                            elif 'T4' in item_name:
+                                generic_categories['科技箱'].add('T4')
+                        elif '改造图纸' in item_name:
+                            generic_categories['改造图纸'] = True
+                    elif '物资' in item_name:
+                        generic_categories['物资'] = True
                     else:
-                        output += f'{{{{道具|{item_name}}}}} '
+                        # Known item with specific name (not 未知 or 物资)
+                        if item_count:
+                            items.append(f'{{{{道具|{item_name}|{item_count}}}}}')
+                        else:
+                            items.append(f'{{{{道具|{item_name}}}}}')
 
-        return output.strip()
+        # Build result in order: 物资、舰船、设计图、装备部件T1T2、科技箱T1T2、specific items
+        result = []
+        if generic_categories['物资']:
+            result.append('物资')
+        if generic_categories['舰船']:
+            result.append('舰船')
+        if generic_categories['设计图']:
+            result.append('设计图')
+        if generic_categories['装备部件']:
+            # Include all lower tiers: T3 implies T1+T2+T3
+            t_set = generic_categories['装备部件']
+            if 'T3' in t_set:
+                t_levels = 'T1T2T3'
+            elif 'T2' in t_set:
+                t_levels = 'T1T2'
+            else:
+                t_levels = 'T1'
+            result.append(f'装备部件{t_levels}')
+        if generic_categories['科技箱']:
+            # Include all lower tiers: T4 implies T1+T2+T3+T4
+            t_set = generic_categories['科技箱']
+            if 'T4' in t_set:
+                t_levels = 'T1T2T3T4'
+            elif 'T3' in t_set:
+                t_levels = 'T1T2T3'
+            elif 'T2' in t_set:
+                t_levels = 'T1T2'
+            else:
+                t_levels = 'T1'
+            result.append(f'科技箱{t_levels}')
+        if generic_categories['改造图纸']:
+            result.append('改造图纸')
+
+        result.extend(items)
+
+        return '、'.join(result)
 
 
     def _get_enemy_levels(self, chapter_data, expedition_template):
