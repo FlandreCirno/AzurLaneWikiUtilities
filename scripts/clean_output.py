@@ -45,7 +45,7 @@ def clean_output():
             full_path.unlink()
             print(f"  Removed: {file_path}")
 
-    print("✓ Wiki directories cleaned")
+    print("[OK] Wiki directories cleaned")
 
 
 if __name__ == "__main__":

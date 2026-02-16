@@ -63,42 +63,42 @@ def main():
                         print(f"  - {region}")
                         generator.generate(region=region)
                     except Exception as e:
-                        print(f"    ✗ Error in {region}: {e}")
+                        print(f"    [ERROR] Error in {region}: {e}")
                         continue
             else:
                 generator.generate()
-            print("  ✓ Memories generated")
+            print("  [OK] Memories generated")
 
         if args.generator in ['all', 'stats']:
             print("Generating ship statistics...")
             generator = ShipStatsGenerator(config)
             generator.generate()
-            print("  ✓ Ship statistics generated")
+            print("  [OK] Ship statistics generated")
 
         if args.generator in ['all', 'chapters']:
             print("Generating chapter awards...")
             generator = ChapterAwardsGenerator(config)
             generator.generate()
-            print("  ✓ Chapter awards generated")
+            print("  [OK] Chapter awards generated")
 
         if args.generator in ['all', 'index']:
             print("Generating ship index...")
             generator = ShipIndexGenerator(config)
             generator.generate()
-            print("  ✓ Ship index generated")
+            print("  [OK] Ship index generated")
 
         if args.generator in ['all', 'juus']:
             print("Generating Juus names...")
             generator = JuusNamesGenerator(config)
             generator.generate()
-            print("  ✓ Juus names generated")
+            print("  [OK] Juus names generated")
 
         print()
-        print("✓ Generation complete!")
+        print("[SUCCESS] Generation complete!")
         return 0
 
     except Exception as e:
-        print(f"\n✗ Error: {e}", file=sys.stderr)
+        print(f"\n[ERROR] Error: {e}", file=sys.stderr)
         import traceback
         traceback.print_exc()
         return 1

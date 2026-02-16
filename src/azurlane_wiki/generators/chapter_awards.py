@@ -301,7 +301,10 @@ class ChapterAwardsGenerator(BaseGenerator):
         return ''
 
     def _get_fleet_experience(self, chapter_data, expedition_template):
-        """Get experience for different fleet types from expedition configs."""
+        """Get experience for different fleet types from expedition configs.
+
+        Applies 20% bonus to the base experience values.
+        """
         exp_data = {
             'small': '',
             'medium': '',
@@ -310,22 +313,38 @@ class ChapterAwardsGenerator(BaseGenerator):
             'boss': ''
         }
 
-        # No clear mapping for small/medium/large in the data structure
-        # Only elite and boss have explicit mappings
+        # Get experience values from normal expeditions
+        expedition_list = chapter_data.get('expedition_id_weight_list', [])
+        exp_values = set()
+        for exp_info in expedition_list:
+            if exp_info and len(exp_info) > 0:
+                exp_id = exp_info[0]
+                if exp_id in expedition_template:
+                    exp_val = expedition_template[exp_id].get('exp', 0)
+                    if exp_val:
+                        exp_values.add(exp_val)
 
-        # Get elite fleet experience
+        # Sort exp values to determine small/medium/large fleet types
+        if exp_values:
+            sorted_exps = sorted(exp_values)
+            fleet_types = ['small', 'medium', 'large']
+            for i, base_exp in enumerate(sorted_exps):
+                if i < len(fleet_types):
+                    exp_data[fleet_types[i]] = str(int(base_exp * 1.2))
+
+        # Get elite fleet experience (base exp * 1.2 for 20% bonus)
         elite_list = chapter_data.get('elite_expedition_list', [])
         if elite_list and len(elite_list) > 0 and elite_list[0] in expedition_template:
             exp_val = expedition_template[elite_list[0]].get('exp', 0)
             if exp_val:
-                exp_data['elite'] = str(exp_val)
+                exp_data['elite'] = str(int(exp_val * 1.2))
 
-        # Get boss fleet experience
+        # Get boss fleet experience (base exp * 1.2 for 20% bonus)
         boss_list = chapter_data.get('boss_expedition_id', [])
         if boss_list and len(boss_list) > 0 and boss_list[0] in expedition_template:
             exp_val = expedition_template[boss_list[0]].get('exp', 0)
             if exp_val:
-                exp_data['boss'] = str(exp_val)
+                exp_data['boss'] = str(int(exp_val * 1.2))
 
         return exp_data
 
