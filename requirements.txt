@@ -1,0 +1,4 @@
+# Azur Lane Wiki Utilities Dependencies
+
+# Used by Summary.py for git operations
+GitPython>=3.1.0

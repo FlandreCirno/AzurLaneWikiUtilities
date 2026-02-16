@@ -2,51 +2,57 @@ name: Wiki Utilities
 
 on:
   schedule:
-  - cron:  '45 * * * *'
-  
+  - cron: '45 * * * *'
+
   push:
+    branches:
+      - master
+
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-      
+      uses: actions/checkout@v4
+      with:
+        submodules: recursive
+
     - name: Update submodules
       run: |
         git submodule update --remote --init --recursive
-        
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v3
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.8
-        
+        python-version: '3.11'
+        cache: 'pip'
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install gitpython
-        
-    - name: Run Scripts
+        pip install -r requirements.txt
+        pip install -e .
+
+    - name: Clean output directory
       run: |
-        python Initialize.py
-        python ShipIndex.py
-        python Memory.py
-        python PNData.py
-        python JuusNames.py
-        python ChapterAwards.py
-        
-    - name: Summary
+        python scripts/clean_output.py
+
+    - name: Generate all wiki content
       run: |
-        output=$(python Summary.py)
-        echo "::set-output name=summary::$output"
+        python scripts/generate_all.py
+
+    - name: Get commit summary
+      run: |
+        output=$(python scripts/get_summary.py)
+        echo "summary=$output" >> $GITHUB_OUTPUT
       id: summary
-    
+
     - name: Commit and Push
-      uses: EndBug/add-and-commit@v7
+      uses: EndBug/add-and-commit@v9
       with:
-        message: ${{ steps.summary.outputs.summary}}
-        add: '-A'
-      
+        message: ${{ steps.summary.outputs.summary }}
+        add: 'Wiki/*'
+        default_author: github_actions
