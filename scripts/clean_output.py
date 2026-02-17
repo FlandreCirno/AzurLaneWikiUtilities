@@ -22,6 +22,9 @@ def clean_output():
         output_dir / 'chapterAwards' / '限时活动',
         output_dir / 'chapterAwards' / '复刻活动',
         output_dir / 'chapterAwards' / '作战档案',
+        output_dir / 'character' / '建造',
+        output_dir / 'character' / '科研',
+        output_dir / 'character' / 'Meta',
     ]
 
     files_to_remove = []

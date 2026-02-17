@@ -19,6 +19,7 @@ from .generators import (
     ChapterAwardsGenerator,
     ShipIndexGenerator,
     JuusNamesGenerator,
+    CharacterPageGenerator,
 )
 
 
@@ -37,7 +38,7 @@ def main():
 
     parser.add_argument(
         '--generator',
-        choices=['all', 'memory', 'stats', 'chapters', 'index', 'juus'],
+        choices=['all', 'memory', 'stats', 'chapters', 'index', 'juus', 'character'],
         default='all',
         help='Which generator to run (default: all)'
     )
@@ -92,6 +93,12 @@ def main():
             generator = JuusNamesGenerator(config)
             generator.generate()
             print("  [OK] Juus names generated")
+
+        if args.generator in ['all', 'character']:
+            print("Generating character pages...")
+            generator = CharacterPageGenerator(config)
+            generator.generate()
+            print("  [OK] Character pages generated")
 
         print()
         print("[SUCCESS] Generation complete!")

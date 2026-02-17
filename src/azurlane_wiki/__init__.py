@@ -10,6 +10,7 @@ from .generators import (
     ChapterAwardsGenerator,
     ShipIndexGenerator,
     JuusNamesGenerator,
+    CharacterPageGenerator,
 )
 
 __all__ = [
@@ -20,4 +21,5 @@ __all__ = [
     'ChapterAwardsGenerator',
     'ShipIndexGenerator',
     'JuusNamesGenerator',
+    'CharacterPageGenerator',
 ]

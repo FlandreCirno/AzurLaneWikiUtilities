@@ -193,6 +193,29 @@ Creates an index of all ship names with their IDs.
 #### JuusNamesGenerator
 Generates Juus social media names for ships.
 
+#### CharacterPageGenerator
+Generates wiki page stubs for all ships with populated data:
+- Creates templates for Normal/Collab, PR/DR, and META ships
+- Populates initial and max level stats (level 120 with bonuses)
+- Includes property hexagon ratings, ship type, rarity, faction
+- Handles duplicate ship names with nation suffixes
+- Outputs to `Wiki/character/` with subfolders: `建造/`, `科研/`, `Meta/`
+
+```python
+from azurlane_wiki import CharacterPageGenerator, Config
+
+config = Config(region='CN')
+generator = CharacterPageGenerator(config)
+generator.generate()  # Generates 843 character page stubs
+```
+
+See [docs/character_page_generator.md](docs/character_page_generator.md) for detailed documentation.
+
+**Note**: Generated pages are stubs requiring manual completion of:
+- Skills, breakout effects, equipment details
+- Voice lines, artist/CV information
+- Ship history and character lore
+
 ## Common Workflows
 
 ### Generating All Wiki Content
