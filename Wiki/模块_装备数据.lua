@@ -442,7 +442,7 @@ p.equip_data = {
 };
 {
 	id = 2700,
-	name = "533mm磁性鱼雷（水面舰艇用）",
+	name = "533mm磁性鱼雷",
 	type = 10,
 	nationality = 4,
 	sub_equips = {
@@ -547,7 +547,7 @@ p.equip_data = {
 };
 {
 	id = 3500,
-	name = "兵装补给（航空）",
+	name = "兵装补给(航空)",
 	type = 18,
 	nationality = 0,
 	sub_equips = {
@@ -556,7 +556,7 @@ p.equip_data = {
 };
 {
 	id = 3520,
-	name = "兵装补给（中小口径武器）",
+	name = "兵装补给(中小口径武器)",
 	type = 18,
 	nationality = 0,
 	sub_equips = {
@@ -565,7 +565,7 @@ p.equip_data = {
 };
 {
 	id = 3540,
-	name = "兵装补给（鱼雷）",
+	name = "兵装补给(鱼雷)",
 	type = 18,
 	nationality = 0,
 	sub_equips = {
@@ -693,7 +693,7 @@ p.equip_data = {
 };
 {
 	id = 3860,
-	name = "女王的日程表（绝密）",
+	name = "女王的日程表(绝密)",
 	type = 10,
 	nationality = 2,
 	sub_equips = {
@@ -1001,6 +1001,456 @@ p.equip_data = {
 	}
 };
 {
+	id = 9000,
+	name = "超级彩虹锤1号",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 9000	};
+	}
+};
+{
+	id = 10000,
+	name = "勇敢的美梦之枕",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10000	};
+	}
+};
+{
+	id = 10020,
+	name = "波涛与优雅的午后",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10020	};
+	}
+};
+{
+	id = 10040,
+	name = "幸运舰的“惩罚”",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10040	};
+	}
+};
+{
+	id = 10060,
+	name = "不再哭泣",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10060	};
+	}
+};
+{
+	id = 10080,
+	name = "探测平衡装置",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10080	};
+	}
+};
+{
+	id = 10100,
+	name = "护教骑士战旗",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10100	};
+	}
+};
+{
+	id = 10120,
+	name = "准时的怀表",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10120	};
+	}
+};
+{
+	id = 10140,
+	name = "强探照投射攻性舰装NT",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10140	};
+	}
+};
+{
+	id = 10160,
+	name = "近卫兵的骄傲与安心",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10160	};
+	}
+};
+{
+	id = 10180,
+	name = "三五式“绫波”对舰强击械装",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10180	};
+	}
+};
+{
+	id = 10200,
+	name = "爱与和平之海",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10200	};
+	}
+};
+{
+	id = 10220,
+	name = "夜姬的任性组合",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10220	};
+	}
+};
+{
+	id = 10240,
+	name = "破风神拳？",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10240	};
+	}
+};
+{
+	id = 10260,
+	name = "大姐头的披风",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10260	};
+	}
+};
+{
+	id = 10280,
+	name = "一分钱硬币（大量）",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10280	};
+	}
+};
+{
+	id = 10300,
+	name = "皮罗什基",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10300	};
+	}
+};
+{
+	id = 10320,
+	name = "小鲁莽与小倔强",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10320	};
+	}
+};
+{
+	id = 10340,
+	name = "鸾凤流丽",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10340	};
+	}
+};
+{
+	id = 10360,
+	name = "闪耀梦想",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10360	};
+	}
+};
+{
+	id = 10380,
+	name = "暗夜星矢",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10380	};
+	}
+};
+{
+	id = 10400,
+	name = "爱瑟尔剑",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10400	};
+	}
+};
+{
+	id = 10420,
+	name = "幽兰爪",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10420	};
+	}
+};
+{
+	id = 10440,
+	name = "百花盛开",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10440	};
+	}
+};
+{
+	id = 10460,
+	name = "百合长老",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10460	};
+	}
+};
+{
+	id = 10480,
+	name = "特制舰装铁血兽Raubtier",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10480	};
+	}
+};
+{
+	id = 10500,
+	name = "美味的便当",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10500	};
+	}
+};
+{
+	id = 10520,
+	name = "优雅与沉稳的勋章",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10520	};
+	}
+};
+{
+	id = 10540,
+	name = "将军的战袍",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10540	};
+	}
+};
+{
+	id = 10560,
+	name = "本日的惊喜！",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10560	};
+	}
+};
+{
+	id = 10580,
+	name = "奇妙的午茶时间",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10580	};
+	}
+};
+{
+	id = 10600,
+	name = "凯旋的护腕",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10600	};
+	}
+};
+{
+	id = 10620,
+	name = "西姆斯的快乐时间",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10620	};
+	}
+};
+{
+	id = 10640,
+	name = "三十三天月白长巾",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10640	};
+	}
+};
+{
+	id = 10660,
+	name = "老女士扮演套装",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10660	};
+	}
+};
+{
+	id = 10680,
+	name = "狩猎者的徽记",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10680	};
+	}
+};
+{
+	id = 10700,
+	name = "摇曳悠然",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10700	};
+	}
+};
+{
+	id = 10720,
+	name = "全开标枪",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10720	};
+	}
+};
+{
+	id = 10740,
+	name = "孤独女王之旗",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10740	};
+	}
+};
+{
+	id = 10780,
+	name = "幻想之环",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10780	};
+	}
+};
+{
+	id = 10800,
+	name = "另一个重要的东西",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10800	};
+	}
+};
+{
+	id = 10820,
+	name = "公主蛋糕",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10820	};
+	}
+};
+{
+	id = 10840,
+	name = "鲜奶油泡芙",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10840	};
+	}
+};
+{
+	id = 10860,
+	name = "草莓千层酥",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10860	};
+	}
+};
+{
+	id = 10880,
+	name = "芒果香草可丽饼",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10880	};
+	}
+};
+{
+	id = 10900,
+	name = "舒芙蕾松饼",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10900	};
+	}
+};
+{
+	id = 10920,
+	name = "甜馅馒头",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10920	};
+	}
+};
+{
+	id = 10940,
+	name = "帕帕纳西",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10940	};
+	}
+};
+{
+	id = 10960,
+	name = "马卡龙",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10960	};
+	}
+};
+{
+	id = 10980,
+	name = "烤白薯",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 10980	};
+	}
+};
+{
 	id = 11000,
 	name = "76mm火炮",
 	type = 1,
@@ -1012,12 +1462,57 @@ p.equip_data = {
 	}
 };
 {
+	id = 11000,
+	name = "计算完成的作战计划",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 11000	};
+	}
+};
+{
+	id = 11020,
+	name = "御狐的赠礼",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 11020	};
+	}
+};
+{
+	id = 11040,
+	name = "往昔的书中世界",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 11040	};
+	}
+};
+{
 	id = 11060,
 	name = "127mm单装炮早期型",
 	type = 1,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 3, id = 11060	};
+	}
+};
+{
+	id = 11060,
+	name = "睦月的糖果！",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 11060	};
+	}
+};
+{
+	id = 11080,
+	name = "萨拉酱的魔法手杖",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 11080	};
 	}
 };
 {
@@ -1072,6 +1567,33 @@ p.equip_data = {
 	}
 };
 {
+	id = 12000,
+	name = "好朋友的魔法",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12000	};
+	}
+};
+{
+	id = 12020,
+	name = "魅力四射",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12020	};
+	}
+};
+{
+	id = 12040,
+	name = "皇家骑士的勇毅",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12040	};
+	}
+};
+{
 	id = 12060,
 	name = "双联152mm主炮Mk15",
 	type = 2,
@@ -1081,17 +1603,59 @@ p.equip_data = {
 	}
 };
 {
+	id = 12060,
+	name = "休斯敦的腾飞",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12060	};
+	}
+};
+{
+	id = 12080,
+	name = "爆裂钻孔机强化组件",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12080	};
+	}
+};
+{
 	id = 12100,
-	name = "三联装152mm主炮",
+	name = "三联装152mm主炮(白鹰)",
 	type = 2,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 1, rarity = 2, id = 12100	};
-		{	tech = 1, rarity = 2, id = 22200	};
 		{	tech = 2, rarity = 3, id = 12120	};
-		{	tech = 2, rarity = 3, id = 22220	};
 		{	tech = 3, rarity = 4, id = 12140	};
-		{	tech = 3, rarity = 4, id = 22240	};
+	}
+};
+{
+	id = 12100,
+	name = "征战巨坦强化组件",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12100	};
+	}
+};
+{
+	id = 12120,
+	name = "戴拿飞翼",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12120	};
+	}
+};
+{
+	id = 12140,
+	name = "巨大煌翼炎龙的禅绕画",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12140	};
 	}
 };
 {
@@ -1104,12 +1668,390 @@ p.equip_data = {
 	}
 };
 {
+	id = 12160,
+	name = "怪兽种子",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12160	};
+	}
+};
+{
+	id = 12180,
+	name = "演出棒",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12180	};
+	}
+};
+{
 	id = 12200,
 	name = "试作型三联装152mm高平两用炮Mk17",
 	type = 2,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 12200	};
+	}
+};
+{
+	id = 12200,
+	name = "龙的饰品",
+	type = 5,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12200	};
+	}
+};
+{
+	id = 12220,
+	name = "原始接收器",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12220	};
+	}
+};
+{
+	id = 12240,
+	name = "监禁程序",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12240	};
+	}
+};
+{
+	id = 12260,
+	name = "信义的重锤",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12260	};
+	}
+};
+{
+	id = 12280,
+	name = "絮库夫的星期天",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12280	};
+	}
+};
+{
+	id = 12300,
+	name = "最硬最强之盾",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12300	};
+	}
+};
+{
+	id = 12320,
+	name = "莱伯君",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12320	};
+	}
+};
+{
+	id = 12340,
+	name = "遮掩表情的外装",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12340	};
+	}
+};
+{
+	id = 12360,
+	name = "云朵观察成果",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12360	};
+	}
+};
+{
+	id = 12380,
+	name = "来自妹妹的关爱",
+	type = 9,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12380	};
+	}
+};
+{
+	id = 12400,
+	name = "于碧海晴空下闪耀",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12400	};
+	}
+};
+{
+	id = 12420,
+	name = "除厄七五三",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12420	};
+	}
+};
+{
+	id = 12440,
+	name = "黄金时代之枪",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12440	};
+	}
+};
+{
+	id = 12460,
+	name = "一张字条",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12460	};
+	}
+};
+{
+	id = 12480,
+	name = "驶向远方之舵",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12480	};
+	}
+};
+{
+	id = 12500,
+	name = "阿尔戈之刃",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12500	};
+	}
+};
+{
+	id = 12520,
+	name = "便携式“小的们”",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12520	};
+	}
+};
+{
+	id = 12540,
+	name = "光风霁月",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12540	};
+	}
+};
+{
+	id = 12560,
+	name = "恰到好处的一根",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12560	};
+	}
+};
+{
+	id = 12580,
+	name = "双刀・两舷缭闪",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12580	};
+	}
+};
+{
+	id = 12600,
+	name = "拔刀・凤闪飞燕",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12600	};
+	}
+};
+{
+	id = 12620,
+	name = "六刀・魁之焰",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12620	};
+	}
+};
+{
+	id = 12640,
+	name = "扇・霜袖雪舞",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12640	};
+	}
+};
+{
+	id = 12660,
+	name = "扇・紫冰连华",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12660	};
+	}
+};
+{
+	id = 12680,
+	name = "手里剑・圆月潜影",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12680	};
+	}
+};
+{
+	id = 12700,
+	name = "太刀・钢",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12700	};
+	}
+};
+{
+	id = 12720,
+	name = "艳丽的Fioretto",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12720	};
+	}
+};
+{
+	id = 12740,
+	name = "探险家眼镜",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12740	};
+	}
+};
+{
+	id = 12760,
+	name = "承载命运之环",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12760	};
+	}
+};
+{
+	id = 12780,
+	name = "本大人的风格",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12780	};
+	}
+};
+{
+	id = 12800,
+	name = "七桥智慧的训诫",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12800	};
+	}
+};
+{
+	id = 12820,
+	name = "骑士团长之徽",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12820	};
+	}
+};
+{
+	id = 12840,
+	name = "SMILE酱",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12840	};
+	}
+};
+{
+	id = 12860,
+	name = "大宝",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12860	};
+	}
+};
+{
+	id = 12880,
+	name = "二宝",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12880	};
+	}
+};
+{
+	id = 12900,
+	name = "值得夸赞的武器",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12900	};
+	}
+};
+{
+	id = 12920,
+	name = "朝夕苦练",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12920	};
+	}
+};
+{
+	id = 12940,
+	name = "严禁丢弃",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12940	};
+	}
+};
+{
+	id = 12960,
+	name = "勇气的初蕾",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12960	};
+	}
+};
+{
+	id = 12980,
+	name = "变成雕像的道具",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 12980	};
 	}
 };
 {
@@ -1124,6 +2066,33 @@ p.equip_data = {
 	}
 };
 {
+	id = 13000,
+	name = "白骑兵的缰绳",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13000	};
+	}
+};
+{
+	id = 13020,
+	name = "闪耀彗星",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13020	};
+	}
+};
+{
+	id = 13040,
+	name = "“个性”装备",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13040	};
+	}
+};
+{
 	id = 13060,
 	name = "三联装203mm主炮Mk13",
 	type = 3,
@@ -1133,10 +2102,28 @@ p.equip_data = {
 	}
 };
 {
+	id = 13060,
+	name = "鲁莽与谨慎",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13060	};
+	}
+};
+{
 	id = 13080,
 	name = "三联装203mm主炮Mk14",
 	type = 3,
 	nationality = 1,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13080	};
+	}
+};
+{
+	id = 13080,
+	name = "恶毒之刃",
+	type = 1,
+	nationality = 0,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13080	};
 	}
@@ -1153,12 +2140,48 @@ p.equip_data = {
 	}
 };
 {
+	id = 13100,
+	name = "不听就不怕",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13100	};
+	}
+};
+{
+	id = 13120,
+	name = "村正・正宗",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13120	};
+	}
+};
+{
+	id = 13140,
+	name = "星辉闪耀爆射枪",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13140	};
+	}
+};
+{
 	id = 13160,
 	name = "三联装203mm主炮Mk15",
 	type = 3,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 13160	};
+	}
+};
+{
+	id = 13160,
+	name = "雷速引擎",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13160	};
 	}
 };
 {
@@ -1174,6 +2197,366 @@ p.equip_data = {
 	}
 };
 {
+	id = 13180,
+	name = "林间晨风",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13180	};
+	}
+};
+{
+	id = 13200,
+	name = "莱比锡保护者",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13200	};
+	}
+};
+{
+	id = 13220,
+	name = "直播攻略装备",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13220	};
+	}
+};
+{
+	id = 13240,
+	name = "风味特调（勿饮）",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13240	};
+	}
+};
+{
+	id = 13260,
+	name = "甜点工具套组",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13260	};
+	}
+};
+{
+	id = 13280,
+	name = "冰妖精的温柔",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13280	};
+	}
+};
+{
+	id = 13300,
+	name = "T3科技箱（促销）",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13300	};
+	}
+};
+{
+	id = 13320,
+	name = "传承的证明",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13320	};
+	}
+};
+{
+	id = 13340,
+	name = "灵峰之刃",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13340	};
+	}
+};
+{
+	id = 13360,
+	name = "胜利者之钟",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13360	};
+	}
+};
+{
+	id = 13380,
+	name = "伙伴们的纪念",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13380	};
+	}
+};
+{
+	id = 13400,
+	name = "海神三叉戟",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13400	};
+	}
+};
+{
+	id = 13420,
+	name = "刹车请注意！",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13420	};
+	}
+};
+{
+	id = 13440,
+	name = "制作工具PROMAX",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13440	};
+	}
+};
+{
+	id = 13460,
+	name = "少女的日用品",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13460	};
+	}
+};
+{
+	id = 13480,
+	name = "仲裁之枪",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13480	};
+	}
+};
+{
+	id = 13500,
+	name = "再来一球！",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13500	};
+	}
+};
+{
+	id = 13520,
+	name = "绚烂花簪",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13520	};
+	}
+};
+{
+	id = 13560,
+	name = "魔物之心",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13560	};
+	}
+};
+{
+	id = 13580,
+	name = "流火冠冕",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13580	};
+	}
+};
+{
+	id = 13600,
+	name = "神秘灵灯",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13600	};
+	}
+};
+{
+	id = 13620,
+	name = "璀璨宝环",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13620	};
+	}
+};
+{
+	id = 13640,
+	name = "强力秘药",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13640	};
+	}
+};
+{
+	id = 13660,
+	name = "万能工具",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13660	};
+	}
+};
+{
+	id = 13680,
+	name = "突进雪友",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13680	};
+	}
+};
+{
+	id = 13700,
+	name = "爆裂之花",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13700	};
+	}
+};
+{
+	id = 13720,
+	name = "金色重击",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13720	};
+	}
+};
+{
+	id = 13740,
+	name = "紧急维护罐",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13740	};
+	}
+};
+{
+	id = 13760,
+	name = "纪律旗帜",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13760	};
+	}
+};
+{
+	id = 13780,
+	name = "紫霞絮语",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13780	};
+	}
+};
+{
+	id = 13800,
+	name = "红梅轻舞",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13800	};
+	}
+};
+{
+	id = 13820,
+	name = "超粘着MAX",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13820	};
+	}
+};
+{
+	id = 13840,
+	name = "龙奇月轮",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13840	};
+	}
+};
+{
+	id = 13860,
+	name = "超重的一箱",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13860	};
+	}
+};
+{
+	id = 13880,
+	name = "白玫瑰徽章",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 13880	};
+	}
+};
+{
+	id = 14000,
+	name = "长女的迷人之处",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14000	};
+	}
+};
+{
+	id = 14020,
+	name = "公私日程表",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14020	};
+	}
+};
+{
+	id = 14040,
+	name = "冬日权杖剑",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14040	};
+	}
+};
+{
+	id = 14060,
+	name = "扫除用道具",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14060	};
+	}
+};
+{
+	id = 14080,
+	name = "“大鱼”",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14080	};
+	}
+};
+{
 	id = 14100,
 	name = "三联装356mm主炮",
 	type = 4,
@@ -1185,10 +2568,46 @@ p.equip_data = {
 	}
 };
 {
+	id = 14100,
+	name = "一张王牌",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14100	};
+	}
+};
+{
+	id = 14120,
+	name = "属于夜晚的余兴",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14120	};
+	}
+};
+{
+	id = 14140,
+	name = "“Lucky Lou”",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14140	};
+	}
+};
+{
 	id = 14160,
 	name = "试作型四联装356mm主炮MkB",
 	type = 4,
 	nationality = 1,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14160	};
+	}
+};
+{
+	id = 14160,
+	name = "老女士的王家之剑",
+	type = 6,
+	nationality = 0,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14160	};
 	}
@@ -1203,6 +2622,15 @@ p.equip_data = {
 	}
 };
 {
+	id = 14180,
+	name = "坚毅而温柔",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14180	};
+	}
+};
+{
 	id = 14200,
 	name = "双联装406mm主炮Mk5",
 	type = 4,
@@ -1214,12 +2642,57 @@ p.equip_data = {
 	}
 };
 {
+	id = 14200,
+	name = "岩清水仙龙真言锋",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14200	};
+	}
+};
+{
+	id = 14220,
+	name = "轻冕针近战仪式舰装LS",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14220	};
+	}
+};
+{
+	id = 14240,
+	name = "Rock Cannon",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14240	};
+	}
+};
+{
 	id = 14260,
 	name = "双联装406mm主炮Mk8",
 	type = 4,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14260	};
+	}
+};
+{
+	id = 14260,
+	name = "Dead Scythe",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14260	};
+	}
+};
+{
+	id = 14280,
+	name = "千鹤唳",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14280	};
 	}
 };
 {
@@ -1234,6 +2707,33 @@ p.equip_data = {
 	}
 };
 {
+	id = 14300,
+	name = "“兔兔”套装",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14300	};
+	}
+};
+{
+	id = 14320,
+	name = "刹那追忆",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14320	};
+	}
+};
+{
+	id = 14340,
+	name = "秘枪三叉戟",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14340	};
+	}
+};
+{
 	id = 14360,
 	name = "试作型三联装406mm主炮MkD",
 	type = 4,
@@ -1243,10 +2743,28 @@ p.equip_data = {
 	}
 };
 {
+	id = 14360,
+	name = "女猎人",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14360	};
+	}
+};
+{
 	id = 14380,
 	name = "三联装406mm主炮Mk2",
 	type = 4,
 	nationality = 1,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14380	};
+	}
+};
+{
+	id = 14380,
+	name = "黄泉之螳螂",
+	type = 1,
+	nationality = 0,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14380	};
 	}
@@ -1264,6 +2782,42 @@ p.equip_data = {
 	}
 };
 {
+	id = 14400,
+	name = "锚定幸运",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14400	};
+	}
+};
+{
+	id = 14420,
+	name = "探索者的证明",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14420	};
+	}
+};
+{
+	id = 14440,
+	name = "Tunken der Liebe",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14440	};
+	}
+};
+{
+	id = 14460,
+	name = "高贵！幸运！无敌！",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14460	};
+	}
+};
+{
 	id = 14480,
 	name = "试作型三联装406mm/45主炮Mk7",
 	type = 4,
@@ -1273,12 +2827,30 @@ p.equip_data = {
 	}
 };
 {
+	id = 14480,
+	name = "象征着自由的奇迹",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14480	};
+	}
+};
+{
 	id = 14500,
-	name = "试作型双联装457mm主炮Mk A",
+	name = "试作型双联装457mm主炮MkA",
 	type = 4,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 6, id = 14500	};
+	}
+};
+{
+	id = 14500,
+	name = "偶像的必杀技",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14500	};
 	}
 };
 {
@@ -1291,12 +2863,228 @@ p.equip_data = {
 	}
 };
 {
+	id = 14520,
+	name = "见习骑士的佩剑",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14520	};
+	}
+};
+{
 	id = 14540,
 	name = "试作型三联装406mm主炮Mk6改",
 	type = 4,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 14540	};
+	}
+};
+{
+	id = 14540,
+	name = "君主之誓",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14540	};
+	}
+};
+{
+	id = 14560,
+	name = "禁止扰乱风纪！",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14560	};
+	}
+};
+{
+	id = 14580,
+	name = "赫斯缇雅的缎带",
+	type = 3,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14580	};
+	}
+};
+{
+	id = 14600,
+	name = "精灵正义女神",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14600	};
+	}
+};
+{
+	id = 14620,
+	name = "暗夜蔷薇",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14620	};
+	}
+};
+{
+	id = 14640,
+	name = "秩序与审判之枪",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14640	};
+	}
+};
+{
+	id = 14660,
+	name = "珍珠之心",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14660	};
+	}
+};
+{
+	id = 14680,
+	name = "好奇者之刀",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14680	};
+	}
+};
+{
+	id = 14700,
+	name = "冒险者之杖",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14700	};
+	}
+};
+{
+	id = 14720,
+	name = "极速潜行",
+	type = 8,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14720	};
+	}
+};
+{
+	id = 14740,
+	name = "正中靶心",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14740	};
+	}
+};
+{
+	id = 14760,
+	name = "鏖杀公",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14760	};
+	}
+};
+{
+	id = 14780,
+	name = "灼烂歼鬼",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14780	};
+	}
+};
+{
+	id = 14800,
+	name = "绝灭天使",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14800	};
+	}
+};
+{
+	id = 14820,
+	name = "刻刻帝",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14820	};
+	}
+};
+{
+	id = 14840,
+	name = "冰结傀儡",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14840	};
+	}
+};
+{
+	id = 14860,
+	name = "飓风骑士",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14860	};
+	}
+};
+{
+	id = 14880,
+	name = "淑女的象征（大概）",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14880	};
+	}
+};
+{
+	id = 14900,
+	name = "吉祥秋津",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14900	};
+	}
+};
+{
+	id = 14920,
+	name = "小铁（Eisen）",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14920	};
+	}
+};
+{
+	id = 14940,
+	name = "注意危险哦？",
+	type = 4,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14940	};
+	}
+};
+{
+	id = 14960,
+	name = "月桂时轮",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14960	};
+	}
+};
+{
+	id = 14980,
+	name = "锐爪与飘带",
+	type = 2,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 14980	};
 	}
 };
 {
@@ -1308,6 +3096,33 @@ p.equip_data = {
 		{	tech = 1, rarity = 2, id = 15000	};
 		{	tech = 2, rarity = 3, id = 15020	};
 		{	tech = 3, rarity = 4, id = 15040	};
+	}
+};
+{
+	id = 15000,
+	name = "骑士的誓约长剑",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15000	};
+	}
+};
+{
+	id = 15020,
+	name = "佐治亚光线！",
+	type = 6,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15020	};
+	}
+};
+{
+	id = 15040,
+	name = "纯白的雪见兔",
+	type = 1,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15040	};
 	}
 };
 {
@@ -1368,7 +3183,7 @@ p.equip_data = {
 };
 {
 	id = 15300,
-	name = "533mm鱼雷Mark35（4连发射）",
+	name = "533mm鱼雷Mk35(4连发射)",
 	type = 5,
 	nationality = 1,
 	sub_equips = {
@@ -1537,7 +3352,7 @@ p.equip_data = {
 };
 {
 	id = 17260,
-	name = "F4U（VF-17“海盗”中队）",
+	name = "F4U(VF-17“海盗”中队)",
 	type = 7,
 	nationality = 1,
 	sub_equips = {
@@ -1602,7 +3417,7 @@ p.equip_data = {
 };
 {
 	id = 17440,
-	name = "F6F地狱猫（HVAR搭载型）",
+	name = "F6F地狱猫(HVAR搭载型)",
 	type = 7,
 	nationality = 1,
 	sub_equips = {
@@ -1771,29 +3586,24 @@ p.equip_data = {
 };
 {
 	id = 21300,
-	name = "120mm单装炮",
+	name = "120mm单装炮(皇家)",
 	type = 1,
 	nationality = 2,
 	sub_equips = {
 		{	tech = 1, rarity = 1, id = 21300	};
-		{	tech = 1, rarity = 1, id = 31100	};
 		{	tech = 2, rarity = 2, id = 21320	};
-		{	tech = 2, rarity = 2, id = 31120	};
 		{	tech = 3, rarity = 3, id = 21340	};
-		{	tech = 3, rarity = 3, id = 31140	};
 	}
 };
 {
 	id = 21400,
-	name = "双联装120mm主炮",
+	name = "双联装120mm主炮(皇家)",
 	type = 1,
 	nationality = 2,
 	sub_equips = {
 		{	tech = 1, rarity = 2, id = 21400	};
-		{	tech = 1, rarity = 2, id = 95560	};
 		{	tech = 2, rarity = 3, id = 21420	};
 		{	tech = 3, rarity = 4, id = 21440	};
-		{	tech = 3, rarity = 4, id = 95580	};
 	}
 };
 {
@@ -1864,6 +3674,17 @@ p.equip_data = {
 		{	tech = 1, rarity = 2, id = 22100	};
 		{	tech = 2, rarity = 3, id = 22120	};
 		{	tech = 3, rarity = 4, id = 22140	};
+	}
+};
+{
+	id = 22200,
+	name = "三联装152mm主炮(皇家)",
+	type = 2,
+	nationality = 2,
+	sub_equips = {
+		{	tech = 1, rarity = 2, id = 22200	};
+		{	tech = 2, rarity = 3, id = 22220	};
+		{	tech = 3, rarity = 4, id = 22240	};
 	}
 };
 {
@@ -2111,21 +3932,18 @@ p.equip_data = {
 };
 {
 	id = 26300,
-	name = "76mm高射炮",
+	name = "76mm高射炮(白鹰)",
 	type = 6,
 	nationality = 1,
 	sub_equips = {
 		{	tech = 1, rarity = 2, id = 26300	};
-		{	tech = 1, rarity = 2, id = 36500	};
 		{	tech = 2, rarity = 3, id = 26320	};
-		{	tech = 2, rarity = 3, id = 36520	};
 		{	tech = 3, rarity = 4, id = 26340	};
-		{	tech = 3, rarity = 4, id = 36540	};
 	}
 };
 {
 	id = 26360,
-	name = "20mm厄利孔高射炮MkII",
+	name = "20mm厄利孔高射炮Mark II",
 	type = 6,
 	nationality = 2,
 	sub_equips = {
@@ -2134,7 +3952,7 @@ p.equip_data = {
 };
 {
 	id = 26380,
-	name = "双管20mm厄利孔高射炮Mk.V ",
+	name = "双管20mm厄利孔高射炮Mark V",
 	type = 6,
 	nationality = 2,
 	sub_equips = {
@@ -2339,7 +4157,8 @@ p.equip_data = {
 };
 {
 	id = 28400,
-	name = "飞龙",
+	name = "飞龙(鱼雷机)",
+	displayname= "飞龙",
 	type = 8,
 	nationality = 2,
 	sub_equips = {
@@ -2379,7 +4198,8 @@ p.equip_data = {
 };
 {
 	id = 29200,
-	name = "萤火虫",
+	name = "萤火虫(轰炸机)",
+	displayname= "萤火虫",
 	type = 9,
 	nationality = 2,
 	sub_equips = {
@@ -2440,6 +4260,17 @@ p.equip_data = {
 	nationality = 3,
 	sub_equips = {
 		{	tech = 0, rarity = 6, id = 31080	};
+	}
+};
+{
+	id = 31100,
+	name = "120mm单装炮(重樱)",
+	type = 1,
+	nationality = 3,
+	sub_equips = {
+		{	tech = 1, rarity = 1, id = 31100	};
+		{	tech = 2, rarity = 2, id = 31120	};
+		{	tech = 3, rarity = 3, id = 31140	};
 	}
 };
 {
@@ -2859,6 +4690,17 @@ p.equip_data = {
 	}
 };
 {
+	id = 36500,
+	name = "76mm高射炮(重樱)",
+	type = 6,
+	nationality = 3,
+	sub_equips = {
+		{	tech = 1, rarity = 2, id = 36500	};
+		{	tech = 2, rarity = 3, id = 36520	};
+		{	tech = 3, rarity = 4, id = 36540	};
+	}
+};
+{
 	id = 36560,
 	name = "100mm连装高炮",
 	type = 6,
@@ -3074,7 +4916,7 @@ p.equip_data = {
 };
 {
 	id = 38300,
-	name = "试作型彩云（舰攻型）",
+	name = "试作型彩云(舰攻型)",
 	type = 8,
 	nationality = 3,
 	sub_equips = {
@@ -3103,7 +4945,8 @@ p.equip_data = {
 };
 {
 	id = 39100,
-	name = "彗星",
+	name = "彗星(轰炸机)",
+	displayname= "彗星",
 	type = 9,
 	nationality = 3,
 	sub_equips = {
@@ -3378,7 +5221,7 @@ p.equip_data = {
 };
 {
 	id = 44400,
-	name = "试作型三联装305mmSKC39主炮（超巡用）",
+	name = "试作型三联装305mmSKC39主炮(超巡用)",
 	type = 11,
 	nationality = 4,
 	sub_equips = {
@@ -3605,7 +5448,7 @@ p.equip_data = {
 };
 {
 	id = 47080,
-	name = "试作型舰载FW-190 A-5",
+	name = "试作舰载型FW-190 A-5",
 	type = 7,
 	nationality = 4,
 	sub_equips = {
@@ -3698,7274 +5541,6 @@ p.equip_data = {
 	}
 };
 {
-	id = 54010,
-	name = "轻航专用空中支援技能-轰炸Lv1",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 54010	};
-	}
-};
-{
-	id = 54011,
-	name = "轻航专用空中支援技能-轰炸Lv2",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 54011	};
-	}
-};
-{
-	id = 54012,
-	name = "轻航专用空中支援技能-轰炸Lv3",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 54012	};
-	}
-};
-{
-	id = 54013,
-	name = "正航专用空中支援技能-轰炸Lv1",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 54013	};
-	}
-};
-{
-	id = 54014,
-	name = "正航专用空中支援技能-轰炸Lv2",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 54014	};
-	}
-};
-{
-	id = 54015,
-	name = "正航专用空中支援技能-轰炸Lv3",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 54015	};
-	}
-};
-{
-	id = 60001,
-	name = "航空攻击展示-长岛I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60001	};
-	}
-};
-{
-	id = 60002,
-	name = "航空攻击展示-长岛II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60002	};
-	}
-};
-{
-	id = 60003,
-	name = "航空攻击展示-长岛III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60003	};
-	}
-};
-{
-	id = 60011,
-	name = "航空攻击展示-博格I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60011	};
-	}
-};
-{
-	id = 60012,
-	name = "航空攻击展示-博格II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60012	};
-	}
-};
-{
-	id = 60013,
-	name = "航空攻击展示-博格III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60013	};
-	}
-};
-{
-	id = 60021,
-	name = "航空攻击展示-兰利I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60021	};
-	}
-};
-{
-	id = 60022,
-	name = "航空攻击展示-兰利II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60022	};
-	}
-};
-{
-	id = 60023,
-	name = "航空攻击展示-兰利III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60023	};
-	}
-};
-{
-	id = 60031,
-	name = "航空攻击展示-列克星敦I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60031	};
-	}
-};
-{
-	id = 60032,
-	name = "航空攻击展示-列克星敦II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60032	};
-	}
-};
-{
-	id = 60033,
-	name = "航空攻击展示-列克星敦III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60033	};
-	}
-};
-{
-	id = 60041,
-	name = "航空攻击展示-萨拉托加I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60041	};
-	}
-};
-{
-	id = 60042,
-	name = "航空攻击展示-萨拉托加II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60042	};
-	}
-};
-{
-	id = 60043,
-	name = "航空攻击展示-萨拉托加III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60043	};
-	}
-};
-{
-	id = 60051,
-	name = "航空攻击展示-突击者I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60051	};
-	}
-};
-{
-	id = 60052,
-	name = "航空攻击展示-突击者II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60052	};
-	}
-};
-{
-	id = 60053,
-	name = "航空攻击展示-突击者III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60053	};
-	}
-};
-{
-	id = 60061,
-	name = "航空攻击展示-约克城I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60061	};
-	}
-};
-{
-	id = 60062,
-	name = "航空攻击展示-约克城II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60062	};
-	}
-};
-{
-	id = 60063,
-	name = "航空攻击展示-约克城III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60063	};
-	}
-};
-{
-	id = 60071,
-	name = "航空攻击展示-企业I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60071	};
-	}
-};
-{
-	id = 60072,
-	name = "航空攻击展示-企业II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60072	};
-	}
-};
-{
-	id = 60073,
-	name = "航空攻击展示-企业III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60073	};
-	}
-};
-{
-	id = 60081,
-	name = "航空攻击展示-大黄蜂I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60081	};
-	}
-};
-{
-	id = 60082,
-	name = "航空攻击展示-大黄蜂II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60082	};
-	}
-};
-{
-	id = 60083,
-	name = "航空攻击展示-大黄蜂III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60083	};
-	}
-};
-{
-	id = 60091,
-	name = "航空攻击展示-竞技神I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60091	};
-	}
-};
-{
-	id = 60092,
-	name = "航空攻击展示-竞技神II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60092	};
-	}
-};
-{
-	id = 60101,
-	name = "航空攻击展示-皇家方舟I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60101	};
-	}
-};
-{
-	id = 60102,
-	name = "航空攻击展示-皇家方舟II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60102	};
-	}
-};
-{
-	id = 60103,
-	name = "航空攻击展示-皇家方舟III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60103	};
-	}
-};
-{
-	id = 60111,
-	name = "航空攻击展示-光辉I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60111	};
-	}
-};
-{
-	id = 60112,
-	name = "航空攻击展示-光辉II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60112	};
-	}
-};
-{
-	id = 60113,
-	name = "航空攻击展示-光辉III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60113	};
-	}
-};
-{
-	id = 60121,
-	name = "航空攻击展示-祥凤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60121	};
-	}
-};
-{
-	id = 60122,
-	name = "航空攻击展示-祥凤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60122	};
-	}
-};
-{
-	id = 60123,
-	name = "航空攻击展示-祥凤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60123	};
-	}
-};
-{
-	id = 60131,
-	name = "航空攻击展示-赤城I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60131	};
-	}
-};
-{
-	id = 60132,
-	name = "航空攻击展示-赤城II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60132	};
-		{	tech = 0, rarity = 0, id = 60133	};
-	}
-};
-{
-	id = 60141,
-	name = "航空攻击展示-加贺I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60141	};
-	}
-};
-{
-	id = 60142,
-	name = "航空攻击展示-加贺II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60142	};
-		{	tech = 0, rarity = 0, id = 60143	};
-	}
-};
-{
-	id = 60151,
-	name = "航空攻击展示-苍龙I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60151	};
-	}
-};
-{
-	id = 60152,
-	name = "航空攻击展示-苍龙II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60152	};
-		{	tech = 0, rarity = 0, id = 60153	};
-	}
-};
-{
-	id = 60161,
-	name = "航空攻击展示-飞龙I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60161	};
-	}
-};
-{
-	id = 60162,
-	name = "航空攻击展示-飞龙II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60162	};
-		{	tech = 0, rarity = 0, id = 60163	};
-	}
-};
-{
-	id = 60171,
-	name = "航空攻击展示-独角兽I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60171	};
-	}
-};
-{
-	id = 60172,
-	name = "航空攻击展示-独角兽II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60172	};
-	}
-};
-{
-	id = 60173,
-	name = "航空攻击展示-独角兽III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60173	};
-	}
-};
-{
-	id = 60181,
-	name = "航空攻击展示-凤翔I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60181	};
-	}
-};
-{
-	id = 60182,
-	name = "航空攻击展示-凤翔II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60182	};
-	}
-};
-{
-	id = 60183,
-	name = "航空攻击展示-凤翔III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60183	};
-	}
-};
-{
-	id = 60191,
-	name = "航空攻击展示-齐柏林伯爵I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60191	};
-	}
-};
-{
-	id = 60192,
-	name = "航空攻击展示-齐柏林伯爵II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60192	};
-		{	tech = 0, rarity = 0, id = 60193	};
-	}
-};
-{
-	id = 60201,
-	name = "航空攻击展示-翔鹤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60201	};
-	}
-};
-{
-	id = 60202,
-	name = "航空攻击展示-翔鹤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60202	};
-	}
-};
-{
-	id = 60203,
-	name = "航空攻击展示-翔鹤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60203	};
-	}
-};
-{
-	id = 60211,
-	name = "航空攻击展示-瑞鹤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60211	};
-	}
-};
-{
-	id = 60212,
-	name = "航空攻击展示-瑞鹤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60212	};
-	}
-};
-{
-	id = 60213,
-	name = "航空攻击展示-瑞鹤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60213	};
-	}
-};
-{
-	id = 60221,
-	name = "航空攻击展示-光荣I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60221	};
-	}
-};
-{
-	id = 60222,
-	name = "航空攻击展示-光荣II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60222	};
-	}
-};
-{
-	id = 60223,
-	name = "航空攻击展示-光荣III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60223	};
-	}
-};
-{
-	id = 60231,
-	name = "烈焰崩袭",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60231	};
-	}
-};
-{
-	id = 60232,
-	name = "蕾丝狂舞",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60232	};
-	}
-};
-{
-	id = 60233,
-	name = "众神之怒·雪崩雷震",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60233	};
-	}
-};
-{
-	id = 60234,
-	name = "雪风弹幕展示I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60234	};
-	}
-};
-{
-	id = 60235,
-	name = "雪风弹幕展示II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60235	};
-	}
-};
-{
-	id = 60236,
-	name = "夕立弹幕展示I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60236	};
-	}
-};
-{
-	id = 60237,
-	name = "夕立弹幕展示II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60237	};
-	}
-};
-{
-	id = 60238,
-	name = "江风弹幕展示I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60238	};
-	}
-};
-{
-	id = 60239,
-	name = "江风弹幕展示II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60239	};
-	}
-};
-{
-	id = 60241,
-	name = "航空攻击展示-贝露I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60241	};
-	}
-};
-{
-	id = 60242,
-	name = "航空攻击展示-贝露II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60242	};
-	}
-};
-{
-	id = 60243,
-	name = "航空攻击展示-贝露III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60243	};
-	}
-};
-{
-	id = 60251,
-	name = "航空攻击展示-翡绿之心I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60251	};
-	}
-};
-{
-	id = 60252,
-	name = "航空攻击展示-翡绿之心II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60252	};
-	}
-};
-{
-	id = 60253,
-	name = "航空攻击展示-翡绿之心III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60253	};
-	}
-};
-{
-	id = 60261,
-	name = "航空攻击展示-胡蜂I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60261	};
-	}
-};
-{
-	id = 60262,
-	name = "航空攻击展示-胡蜂II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60262	};
-	}
-};
-{
-	id = 60263,
-	name = "航空攻击展示-胡蜂III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60263	};
-	}
-};
-{
-	id = 60271,
-	name = "航空攻击展示-胜利I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60271	};
-	}
-};
-{
-	id = 60272,
-	name = "航空攻击展示-胜利II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60272	};
-	}
-};
-{
-	id = 60273,
-	name = "航空攻击展示-胜利III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60273	};
-	}
-};
-{
-	id = 60281,
-	name = "航空攻击展示-飞鹰I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60281	};
-	}
-};
-{
-	id = 60282,
-	name = "航空攻击展示-飞鹰II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60282	};
-	}
-};
-{
-	id = 60283,
-	name = "航空攻击展示-飞鹰III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60283	};
-	}
-};
-{
-	id = 60291,
-	name = "航空攻击展示-隼鹰I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60291	};
-	}
-};
-{
-	id = 60292,
-	name = "航空攻击展示-隼鹰II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60292	};
-	}
-};
-{
-	id = 60293,
-	name = "航空攻击展示-隼鹰III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60293	};
-	}
-};
-{
-	id = 60301,
-	name = "Z46弹幕展示I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60301	};
-	}
-};
-{
-	id = 60302,
-	name = "Z46弹幕展示II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60302	};
-	}
-};
-{
-	id = 60311,
-	name = "航空攻击展示-半人马I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60311	};
-	}
-};
-{
-	id = 60312,
-	name = "航空攻击展示-半人马II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60312	};
-	}
-};
-{
-	id = 60313,
-	name = "航空攻击展示-半人马III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60313	};
-	}
-};
-{
-	id = 60321,
-	name = "航空攻击展示-埃塞克斯I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60321	};
-	}
-};
-{
-	id = 60322,
-	name = "航空攻击展示-埃塞克斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60322	};
-		{	tech = 0, rarity = 0, id = 60323	};
-	}
-};
-{
-	id = 60331,
-	name = "航空攻击展示-大凤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60331	};
-	}
-};
-{
-	id = 60332,
-	name = "航空攻击展示-大凤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60332	};
-	}
-};
-{
-	id = 60333,
-	name = "航空攻击展示-大凤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60333	};
-	}
-};
-{
-	id = 60341,
-	name = "航空攻击展示-芙米露露I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60341	};
-	}
-};
-{
-	id = 60342,
-	name = "航空攻击展示-芙米露露II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60342	};
-	}
-};
-{
-	id = 60343,
-	name = "航空攻击展示-芙米露露III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60343	};
-	}
-};
-{
-	id = 60351,
-	name = "航空攻击展示-乌璐露I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60351	};
-	}
-};
-{
-	id = 60352,
-	name = "航空攻击展示-乌璐露II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60352	};
-	}
-};
-{
-	id = 60353,
-	name = "航空攻击展示-乌璐露III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60353	};
-	}
-};
-{
-	id = 60361,
-	name = "航空攻击展示-萨拉娜I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60361	};
-	}
-};
-{
-	id = 60362,
-	name = "航空攻击展示-萨拉娜II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60362	};
-	}
-};
-{
-	id = 60363,
-	name = "航空攻击展示-萨拉娜III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60363	};
-	}
-};
-{
-	id = 60371,
-	name = "航空攻击展示-龙骧I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60371	};
-	}
-};
-{
-	id = 60372,
-	name = "航空攻击展示-龙骧II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60372	};
-	}
-};
-{
-	id = 60373,
-	name = "航空攻击展示-龙骧III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60373	};
-	}
-};
-{
-	id = 60381,
-	name = "航空攻击展示-追赶者I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60381	};
-	}
-};
-{
-	id = 60382,
-	name = "航空攻击展示-追赶者II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60382	};
-	}
-};
-{
-	id = 60383,
-	name = "航空攻击展示-追赶者III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60383	};
-	}
-};
-{
-	id = 60391,
-	name = "航空攻击展示-独立I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60391	};
-	}
-};
-{
-	id = 60392,
-	name = "航空攻击展示-独立II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60392	};
-	}
-};
-{
-	id = 60393,
-	name = "航空攻击展示-独立III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60393	};
-	}
-};
-{
-	id = 60401,
-	name = "航空攻击展示-爱酱I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60401	};
-	}
-};
-{
-	id = 60402,
-	name = "航空攻击展示-爱酱II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60402	};
-	}
-};
-{
-	id = 60403,
-	name = "航空攻击展示-爱酱III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60403	};
-	}
-};
-{
-	id = 60411,
-	name = "航空攻击展示-小齐柏林I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60411	};
-	}
-};
-{
-	id = 60412,
-	name = "航空攻击展示-小齐柏林II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60412	};
-	}
-};
-{
-	id = 60413,
-	name = "航空攻击展示-小齐柏林III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60413	};
-	}
-};
-{
-	id = 60421,
-	name = "航空攻击展示-可畏I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60421	};
-	}
-};
-{
-	id = 60422,
-	name = "航空攻击展示-可畏II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60422	};
-	}
-};
-{
-	id = 60423,
-	name = "航空攻击展示-可畏III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60423	};
-	}
-};
-{
-	id = 60431,
-	name = "航空攻击展示-时乃空I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60431	};
-	}
-};
-{
-	id = 60432,
-	name = "航空攻击展示-时乃空II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60432	};
-	}
-};
-{
-	id = 60433,
-	name = "航空攻击展示-时乃空III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60433	};
-	}
-};
-{
-	id = 60441,
-	name = "航空攻击展示-紫咲诗音I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60441	};
-	}
-};
-{
-	id = 60442,
-	name = "航空攻击展示-紫咲诗音II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60442	};
-	}
-};
-{
-	id = 60443,
-	name = "航空攻击展示-紫咲诗音III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60443	};
-	}
-};
-{
-	id = 60451,
-	name = "航空攻击展示-大神澪I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60451	};
-	}
-};
-{
-	id = 60452,
-	name = "航空攻击展示-大神澪II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60452	};
-	}
-};
-{
-	id = 60453,
-	name = "航空攻击展示-大神澪III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60453	};
-	}
-};
-{
-	id = 60461,
-	name = "航空攻击展示-白上吹雪III",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60461	};
-	}
-};
-{
-	id = 60471,
-	name = "航空攻击展示-龙凤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60471	};
-	}
-};
-{
-	id = 60472,
-	name = "航空攻击展示-龙凤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60472	};
-	}
-};
-{
-	id = 60473,
-	name = "航空攻击展示-龙凤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60473	};
-	}
-};
-{
-	id = 60491,
-	name = "航空攻击展示-卡萨布兰卡I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60491	};
-	}
-};
-{
-	id = 60492,
-	name = "航空攻击展示-卡萨布兰卡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60492	};
-	}
-};
-{
-	id = 60493,
-	name = "航空攻击展示-卡萨布兰卡III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60493	};
-	}
-};
-{
-	id = 60511,
-	name = "航空攻击展示-贝亚恩I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60511	};
-	}
-};
-{
-	id = 60512,
-	name = "航空攻击展示-贝亚恩II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60512	};
-	}
-};
-{
-	id = 60513,
-	name = "航空攻击展示-贝亚恩III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60513	};
-	}
-};
-{
-	id = 60521,
-	name = "航空攻击展示-英仙座I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60521	};
-	}
-};
-{
-	id = 60522,
-	name = "航空攻击展示-英仙座II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60522	};
-	}
-};
-{
-	id = 60523,
-	name = "航空攻击展示-英仙座III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60523	};
-	}
-};
-{
-	id = 60531,
-	name = "航空攻击展示-鹰I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60531	};
-	}
-};
-{
-	id = 60532,
-	name = "航空攻击展示-鹰II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60532	};
-	}
-};
-{
-	id = 60533,
-	name = "航空攻击展示-鹰III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60533	};
-	}
-};
-{
-	id = 60541,
-	name = "航空攻击展示-千岁I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60541	};
-	}
-};
-{
-	id = 60542,
-	name = "航空攻击展示-千岁II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60542	};
-	}
-};
-{
-	id = 60543,
-	name = "航空攻击展示-千岁III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60543	};
-	}
-};
-{
-	id = 60551,
-	name = "航空攻击展示-千代田I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60551	};
-	}
-};
-{
-	id = 60552,
-	name = "航空攻击展示-千代田II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60552	};
-	}
-};
-{
-	id = 60553,
-	name = "航空攻击展示-千代田III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60553	};
-	}
-};
-{
-	id = 60561,
-	name = "航空攻击展示-信浓I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60561	};
-	}
-};
-{
-	id = 60562,
-	name = "航空攻击展示-信浓II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60562	};
-	}
-};
-{
-	id = 60563,
-	name = "航空攻击展示-信浓III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60563	};
-	}
-};
-{
-	id = 60591,
-	name = "航空攻击展示-威悉II",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60591	};
-	}
-};
-{
-	id = 60592,
-	name = "航空攻击展示-威悉III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60592	};
-		{	tech = 0, rarity = 0, id = 60593	};
-	}
-};
-{
-	id = 60601,
-	name = "航空攻击展示-彼得史特拉塞I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60601	};
-	}
-};
-{
-	id = 60602,
-	name = "航空攻击展示-彼得史特拉塞II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60602	};
-	}
-};
-{
-	id = 60603,
-	name = "航空攻击展示-彼得史特拉塞III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60603	};
-	}
-};
-{
-	id = 60641,
-	name = "航空攻击展示-天鹰I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60641	};
-	}
-};
-{
-	id = 60642,
-	name = "航空攻击展示-天鹰II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60642	};
-	}
-};
-{
-	id = 60643,
-	name = "航空攻击展示-天鹰III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60643	};
-	}
-};
-{
-	id = 60671,
-	name = "航空攻击展示-白龙I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60671	};
-	}
-};
-{
-	id = 60672,
-	name = "航空攻击展示-白龙II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60672	};
-	}
-};
-{
-	id = 60673,
-	name = "航空攻击展示-白龙III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60673	};
-	}
-};
-{
-	id = 60681,
-	name = "航空攻击展示-奥古斯特I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60681	};
-	}
-};
-{
-	id = 60682,
-	name = "航空攻击展示-奥古斯特II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60682	};
-	}
-};
-{
-	id = 60683,
-	name = "航空攻击展示-奥古斯特III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60683	};
-	}
-};
-{
-	id = 60711,
-	name = "航空攻击展示-葛城I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60711	};
-	}
-};
-{
-	id = 60712,
-	name = "航空攻击展示-葛城II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60712	};
-		{	tech = 0, rarity = 0, id = 60713	};
-	}
-};
-{
-	id = 60751,
-	name = "航空攻击展示-镇海I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60751	};
-	}
-};
-{
-	id = 60752,
-	name = "航空攻击展示-镇海II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60752	};
-		{	tech = 0, rarity = 0, id = 60753	};
-	}
-};
-{
-	id = 60781,
-	name = "航空攻击展示-帝国I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60781	};
-	}
-};
-{
-	id = 60782,
-	name = "航空攻击展示-帝国II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60782	};
-	}
-};
-{
-	id = 60783,
-	name = "航空攻击展示-帝国III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60783	};
-	}
-};
-{
-	id = 60831,
-	name = "航空攻击展示-霞飞I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60831	};
-	}
-};
-{
-	id = 60832,
-	name = "航空攻击展示-霞飞II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60832	};
-	}
-};
-{
-	id = 60833,
-	name = "航空攻击展示-霞飞III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60833	};
-	}
-};
-{
-	id = 60851,
-	name = "航空攻击展示-契卡洛夫I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60851	};
-	}
-};
-{
-	id = 60852,
-	name = "航空攻击展示-契卡洛夫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60852	};
-	}
-};
-{
-	id = 60853,
-	name = "航空攻击展示-契卡洛夫III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60853	};
-	}
-};
-{
-	id = 60911,
-	name = "航空攻击展示-阿尔比恩I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60911	};
-	}
-};
-{
-	id = 60912,
-	name = "航空攻击展示-阿尔比恩II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60912	};
-	}
-};
-{
-	id = 60913,
-	name = "航空攻击展示-阿尔比恩III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60913	};
-	}
-};
-{
-	id = 60921,
-	name = "航空攻击展示-华甲I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60921	};
-	}
-};
-{
-	id = 60922,
-	name = "航空攻击展示-华甲II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60922	};
-	}
-};
-{
-	id = 60923,
-	name = "航空攻击展示-华甲III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60923	};
-	}
-};
-{
-	id = 60931,
-	name = "航空攻击展示-忒修斯I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60931	};
-	}
-};
-{
-	id = 60932,
-	name = "航空攻击展示-忒修斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60932	};
-	}
-};
-{
-	id = 60933,
-	name = "航空攻击展示-忒修斯III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60933	};
-	}
-};
-{
-	id = 60941,
-	name = "航空攻击展示-定安I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60941	};
-	}
-};
-{
-	id = 60942,
-	name = "航空攻击展示-定安II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60942	};
-	}
-};
-{
-	id = 60943,
-	name = "航空攻击展示-定安III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60943	};
-	}
-};
-{
-	id = 60951,
-	name = "航空攻击展示-怨仇I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60951	};
-	}
-};
-{
-	id = 60952,
-	name = "航空攻击展示-怨仇II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60952	};
-	}
-};
-{
-	id = 60953,
-	name = "航空攻击展示-怨仇III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60953	};
-	}
-};
-{
-	id = 60981,
-	name = "航空攻击展示-露娜I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 60981	};
-	}
-};
-{
-	id = 60982,
-	name = "航空攻击展示-露娜II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60982	};
-	}
-};
-{
-	id = 60983,
-	name = "航空攻击展示-露娜III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 60983	};
-	}
-};
-{
-	id = 61007,
-	name = "约克城技能随机扫射海面LV1",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61007	};
-	}
-};
-{
-	id = 61008,
-	name = "约克城技能随机扫射海面LV2",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61008	};
-	}
-};
-{
-	id = 61009,
-	name = "约克城技能随机扫射海面LV3",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61009	};
-	}
-};
-{
-	id = 61010,
-	name = "皇家方舟技能LV1",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61010	};
-	}
-};
-{
-	id = 61011,
-	name = "皇家方舟技能LV2",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61011	};
-	}
-};
-{
-	id = 61012,
-	name = "皇家方舟技能LV3",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61012	};
-	}
-};
-{
-	id = 61031,
-	name = "十姊妹展示",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61031	};
-	}
-};
-{
-	id = 61041,
-	name = "夕星展示",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61041	};
-	}
-};
-{
-	id = 61051,
-	name = "百合根1段展示",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61051	};
-	}
-};
-{
-	id = 61052,
-	name = "百合根2段展示",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61052	};
-	}
-};
-{
-	id = 61053,
-	name = "百合根3段展示",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61053	};
-	}
-};
-{
-	id = 61054,
-	name = "百合根4段展示",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61054	};
-	}
-};
-{
-	id = 61061,
-	name = "航空攻击展示-埃塞克斯-约克城I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61061	};
-	}
-};
-{
-	id = 61062,
-	name = "航空攻击展示-埃塞克斯-约克城II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61062	};
-		{	tech = 0, rarity = 0, id = 61063	};
-	}
-};
-{
-	id = 61071,
-	name = "航空攻击展示-奇尔沙治I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61071	};
-	}
-};
-{
-	id = 61072,
-	name = "航空攻击展示-奇尔沙治II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61072	};
-	}
-};
-{
-	id = 61073,
-	name = "航空攻击展示-奇尔沙治III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61073	};
-	}
-};
-{
-	id = 61081,
-	name = "航空攻击展示-雪泉I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61081	};
-	}
-};
-{
-	id = 61082,
-	name = "航空攻击展示-雪泉II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61082	};
-		{	tech = 0, rarity = 0, id = 61083	};
-	}
-};
-{
-	id = 61091,
-	name = "航空攻击展示-纳希莫夫海军上将I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61091	};
-	}
-};
-{
-	id = 61092,
-	name = "航空攻击展示-纳希莫夫海军上将II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61092	};
-		{	tech = 0, rarity = 0, id = 61093	};
-	}
-};
-{
-	id = 61101,
-	name = "航空攻击展示-哈尔福德I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61101	};
-	}
-};
-{
-	id = 61102,
-	name = "航空攻击展示-哈尔福德II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61102	};
-	}
-};
-{
-	id = 61103,
-	name = "航空攻击展示-瑞凤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61103	};
-	}
-};
-{
-	id = 61104,
-	name = "航空攻击展示-瑞凤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61104	};
-	}
-};
-{
-	id = 61105,
-	name = "航空攻击展示-瑞凤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61105	};
-	}
-};
-{
-	id = 61111,
-	name = "航空攻击展示-天城I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61111	};
-	}
-};
-{
-	id = 61112,
-	name = "航空攻击展示-天城II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61112	};
-		{	tech = 0, rarity = 0, id = 61113	};
-	}
-};
-{
-	id = 61121,
-	name = "航空攻击展示-弗里茨·鲁梅I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61121	};
-	}
-};
-{
-	id = 61122,
-	name = "航空攻击展示-弗里茨·鲁梅II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61122	};
-		{	tech = 0, rarity = 0, id = 61123	};
-	}
-};
-{
-	id = 61131,
-	name = "航空攻击展示-白凤I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61131	};
-	}
-};
-{
-	id = 61132,
-	name = "航空攻击展示-白凤II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61132	};
-	}
-};
-{
-	id = 61133,
-	name = "航空攻击展示-白凤III",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61133	};
-	}
-};
-{
-	id = 61141,
-	name = "航空攻击展示-i404I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61141	};
-	}
-};
-{
-	id = 61142,
-	name = "航空攻击展示-i404II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61142	};
-	}
-};
-{
-	id = 61151,
-	name = "航空攻击展示-鸢一折纸I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61151	};
-	}
-};
-{
-	id = 61152,
-	name = "航空攻击展示-鸢一折纸II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61152	};
-		{	tech = 0, rarity = 0, id = 61153	};
-	}
-};
-{
-	id = 61161,
-	name = "航空攻击展示-四糸乃I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61161	};
-	}
-};
-{
-	id = 61162,
-	name = "航空攻击展示-四糸乃II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61162	};
-		{	tech = 0, rarity = 0, id = 61163	};
-	}
-};
-{
-	id = 61171,
-	name = "航空攻击展示-埃塞克斯-列克星敦I",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61171	};
-	}
-};
-{
-	id = 61172,
-	name = "航空攻击展示-埃塞克斯-列克星敦II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 61172	};
-		{	tech = 0, rarity = 0, id = 61173	};
-	}
-};
-{
-	id = 61501,
-	name = "轰炸机外观预览飞机",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61501	};
-	}
-};
-{
-	id = 61503,
-	name = "鱼雷机外观预览飞机",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61503	};
-	}
-};
-{
-	id = 61504,
-	name = "鱼雷机外观预览鱼雷",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61504	};
-	}
-};
-{
-	id = 61505,
-	name = "战斗机外观预览飞机",
-	type = 99,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 61505	};
-	}
-};
-{
-	id = 66200,
-	name = "提尔比茨磁性鱼雷",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 66200	};
-	}
-};
-{
-	id = 66220,
-	name = "沙恩霍斯特级鱼雷",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 66220	};
-	}
-};
-{
-	id = 70011,
-	name = "全弹发射-法拉格特级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70011	};
-	}
-};
-{
-	id = 70012,
-	name = "全弹发射-法拉格特级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70012	};
-	}
-};
-{
-	id = 70021,
-	name = "全弹发射-马汉级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70021	};
-	}
-};
-{
-	id = 70022,
-	name = "全弹发射-马汉级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70022	};
-	}
-};
-{
-	id = 70031,
-	name = "全弹发射-格里德利级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70031	};
-	}
-};
-{
-	id = 70032,
-	name = "全弹发射-格里德利级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70032	};
-	}
-};
-{
-	id = 70041,
-	name = "全弹发射-弗莱彻级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70041	};
-	}
-};
-{
-	id = 70042,
-	name = "全弹发射-弗莱彻级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70042	};
-	}
-};
-{
-	id = 70051,
-	name = "全弹发射-西姆斯级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70051	};
-	}
-};
-{
-	id = 70052,
-	name = "全弹发射-西姆斯级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70052	};
-	}
-};
-{
-	id = 70061,
-	name = "全弹发射-本森级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70061	};
-	}
-};
-{
-	id = 70062,
-	name = "全弹发射-本森级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70062	};
-	}
-};
-{
-	id = 70071,
-	name = "全弹发射-基林级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70071	};
-	}
-};
-{
-	id = 70072,
-	name = "全弹发射-基林级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70072	};
-	}
-};
-{
-	id = 70081,
-	name = "全弹发射-艾伦·萨姆那级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70081	};
-	}
-};
-{
-	id = 70082,
-	name = "全弹发射-艾伦·萨姆那级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70082	};
-	}
-};
-{
-	id = 70091,
-	name = "全弹发射-埃德索尔级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70091	};
-	}
-};
-{
-	id = 70092,
-	name = "全弹发射-埃德索尔级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70092	};
-	}
-};
-{
-	id = 70111,
-	name = "全弹发射-奥马哈级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70111	};
-	}
-};
-{
-	id = 70112,
-	name = "全弹发射-奥马哈级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70112	};
-	}
-};
-{
-	id = 70121,
-	name = "全弹发射-布鲁克林级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70121	};
-	}
-};
-{
-	id = 70122,
-	name = "全弹发射-布鲁克林级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70122	};
-	}
-};
-{
-	id = 70131,
-	name = "全弹发射-亚特兰大级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70131	};
-	}
-};
-{
-	id = 70132,
-	name = "全弹发射-亚特兰大级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70132	};
-	}
-};
-{
-	id = 70141,
-	name = "全弹发射-克利夫兰级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70141	};
-	}
-};
-{
-	id = 70142,
-	name = "全弹发射-克利夫兰级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70142	};
-	}
-};
-{
-	id = 70211,
-	name = "全弹发射-彭萨科拉级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70211	};
-	}
-};
-{
-	id = 70212,
-	name = "全弹发射-彭萨科拉级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70212	};
-	}
-};
-{
-	id = 70221,
-	name = "全弹发射-北安普顿级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70221	};
-	}
-};
-{
-	id = 70222,
-	name = "全弹发射-北安普顿级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70222	};
-	}
-};
-{
-	id = 70231,
-	name = "全弹发射-波特兰级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70231	};
-	}
-};
-{
-	id = 70232,
-	name = "全弹发射-波特兰级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70232	};
-	}
-};
-{
-	id = 70241,
-	name = "全弹发射-新奥尔良级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70241	};
-	}
-};
-{
-	id = 70242,
-	name = "全弹发射-新奥尔良级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70242	};
-	}
-};
-{
-	id = 70251,
-	name = "全弹发射-威奇塔I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70251	};
-	}
-};
-{
-	id = 70252,
-	name = "全弹发射-威奇塔II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70252	};
-	}
-};
-{
-	id = 70261,
-	name = "全弹发射-巴尔的摩级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70261	};
-	}
-};
-{
-	id = 70262,
-	name = "全弹发射-巴尔的摩级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70262	};
-	}
-};
-{
-	id = 70271,
-	name = "全弹发射-得梅因级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70271	};
-	}
-};
-{
-	id = 70272,
-	name = "全弹发射-得梅因级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70272	};
-	}
-};
-{
-	id = 70281,
-	name = "全弹发射-俄勒冈城级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70281	};
-	}
-};
-{
-	id = 70282,
-	name = "全弹发射-俄勒冈城级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70282	};
-	}
-};
-{
-	id = 70311,
-	name = "全弹发射-猫鲨级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70311	};
-	}
-};
-{
-	id = 70312,
-	name = "全弹发射-猫鲨级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70312	};
-	}
-};
-{
-	id = 70321,
-	name = "全弹发射-独角鲸级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 70321	};
-	}
-};
-{
-	id = 70322,
-	name = "全弹发射-独角鲸级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 70322	};
-	}
-};
-{
-	id = 71011,
-	name = "全弹发射-A级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71011	};
-	}
-};
-{
-	id = 71012,
-	name = "全弹发射-A级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71012	};
-	}
-};
-{
-	id = 71016,
-	name = "全弹发射-部族级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71016	};
-	}
-};
-{
-	id = 71017,
-	name = "全弹发射-部族级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71017	};
-	}
-};
-{
-	id = 71021,
-	name = "全弹发射-B级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71021	};
-	}
-};
-{
-	id = 71022,
-	name = "全弹发射-B级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71022	};
-	}
-};
-{
-	id = 71026,
-	name = "全弹发射-I级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71026	};
-	}
-};
-{
-	id = 71027,
-	name = "全弹发射-I级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71027	};
-	}
-};
-{
-	id = 71031,
-	name = "全弹发射-C级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71031	};
-	}
-};
-{
-	id = 71032,
-	name = "全弹发射-C级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71032	};
-	}
-};
-{
-	id = 71041,
-	name = "全弹发射-F级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71041	};
-	}
-};
-{
-	id = 71042,
-	name = "全弹发射-F级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71042	};
-	}
-};
-{
-	id = 71051,
-	name = "全弹发射-G级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71051	};
-	}
-};
-{
-	id = 71052,
-	name = "全弹发射-G级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71052	};
-	}
-};
-{
-	id = 71061,
-	name = "全弹发射-H级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71061	};
-	}
-};
-{
-	id = 71062,
-	name = "全弹发射-H级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71062	};
-	}
-};
-{
-	id = 71071,
-	name = "全弹发射-J级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71071	};
-	}
-};
-{
-	id = 71072,
-	name = "全弹发射-J级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71072	};
-	}
-};
-{
-	id = 71081,
-	name = "全弹发射-M级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71081	};
-	}
-};
-{
-	id = 71082,
-	name = "全弹发射-M级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71082	};
-	}
-};
-{
-	id = 71091,
-	name = "全弹发射-E级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71091	};
-	}
-};
-{
-	id = 71092,
-	name = "全弹发射-E级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71092	};
-	}
-};
-{
-	id = 71111,
-	name = "全弹发射-利安得级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71111	};
-	}
-};
-{
-	id = 71112,
-	name = "全弹发射-利安得级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71112	};
-	}
-};
-{
-	id = 71121,
-	name = "全弹发射-黛朵级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71121	};
-	}
-};
-{
-	id = 71122,
-	name = "全弹发射-黛朵级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71122	};
-	}
-};
-{
-	id = 71131,
-	name = "全弹发射-阿瑞托莎级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71131	};
-	}
-};
-{
-	id = 71132,
-	name = "全弹发射-阿瑞托莎级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71132	};
-	}
-};
-{
-	id = 71141,
-	name = "全弹发射-爱丁堡级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71141	};
-	}
-};
-{
-	id = 71142,
-	name = "全弹发射-爱丁堡级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71142	};
-	}
-};
-{
-	id = 71151,
-	name = "全弹发射-南安普顿级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71151	};
-	}
-};
-{
-	id = 71152,
-	name = "全弹发射-南安普顿级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71152	};
-	}
-};
-{
-	id = 71161,
-	name = "全弹发射-斐济级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71161	};
-	}
-};
-{
-	id = 71162,
-	name = "全弹发射-斐济级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71162	};
-	}
-};
-{
-	id = 71171,
-	name = "全弹发射-谷物女神级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71171	};
-	}
-};
-{
-	id = 71172,
-	name = "全弹发射-谷物女神级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71172	};
-	}
-};
-{
-	id = 71181,
-	name = "全弹发射-格罗斯特级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71181	};
-	}
-};
-{
-	id = 71182,
-	name = "全弹发射-格罗斯特级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71182	};
-	}
-};
-{
-	id = 71191,
-	name = "全弹发射-翡翠级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71191	};
-	}
-};
-{
-	id = 71192,
-	name = "全弹发射-翡翠级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71192	};
-	}
-};
-{
-	id = 71211,
-	name = "全弹发射-伦敦级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71211	};
-	}
-};
-{
-	id = 71212,
-	name = "全弹发射-伦敦级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71212	};
-	}
-};
-{
-	id = 71221,
-	name = "全弹发射-肯特级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71221	};
-	}
-};
-{
-	id = 71222,
-	name = "全弹发射-肯特级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71222	};
-	}
-};
-{
-	id = 71231,
-	name = "全弹发射-诺福克级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71231	};
-	}
-};
-{
-	id = 71232,
-	name = "全弹发射-诺福克级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71232	};
-	}
-};
-{
-	id = 71241,
-	name = "全弹发射-约克级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 71241	};
-	}
-};
-{
-	id = 71242,
-	name = "全弹发射-约克级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 71242	};
-	}
-};
-{
-	id = 72011,
-	name = "全弹发射-睦月级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72011	};
-	}
-};
-{
-	id = 72012,
-	name = "全弹发射-睦月级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72012	};
-	}
-};
-{
-	id = 72021,
-	name = "全弹发射-吹雪级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72021	};
-	}
-};
-{
-	id = 72022,
-	name = "全弹发射-吹雪级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72022	};
-	}
-};
-{
-	id = 72031,
-	name = "全弹发射-白露级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72031	};
-	}
-};
-{
-	id = 72032,
-	name = "全弹发射-白露级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72032	};
-	}
-};
-{
-	id = 72041,
-	name = "全弹发射-初春级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72041	};
-	}
-};
-{
-	id = 72042,
-	name = "全弹发射-初春级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72042	};
-	}
-};
-{
-	id = 72051,
-	name = "全弹发射-阳炎级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72051	};
-	}
-};
-{
-	id = 72052,
-	name = "全弹发射-阳炎级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72052	};
-	}
-};
-{
-	id = 72056,
-	name = "全弹发射-夕云级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72056	};
-	}
-};
-{
-	id = 72057,
-	name = "全弹发射-夕云级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72057	};
-	}
-};
-{
-	id = 72061,
-	name = "全弹发射-秋月级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72061	};
-	}
-};
-{
-	id = 72062,
-	name = "全弹发射-秋月级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72062	};
-	}
-};
-{
-	id = 72071,
-	name = "全弹发射-晓级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72071	};
-	}
-};
-{
-	id = 72072,
-	name = "全弹发射-晓级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72072	};
-	}
-};
-{
-	id = 72081,
-	name = "全弹发射-神风级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72081	};
-	}
-};
-{
-	id = 72082,
-	name = "全弹发射-神风级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72082	};
-	}
-};
-{
-	id = 72091,
-	name = "全弹发射-朝潮级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72091	};
-	}
-};
-{
-	id = 72092,
-	name = "全弹发射-朝潮级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72092	};
-	}
-};
-{
-	id = 72111,
-	name = "全弹发射-天龙级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72111	};
-	}
-};
-{
-	id = 72112,
-	name = "全弹发射-天龙级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72112	};
-	}
-};
-{
-	id = 72121,
-	name = "全弹发射-球磨级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72121	};
-	}
-};
-{
-	id = 72122,
-	name = "全弹发射-球磨级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72122	};
-	}
-};
-{
-	id = 72131,
-	name = "全弹发射-川内级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72131	};
-	}
-};
-{
-	id = 72132,
-	name = "全弹发射-川内级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72132	};
-	}
-};
-{
-	id = 72141,
-	name = "全弹发射-长良级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72141	};
-	}
-};
-{
-	id = 72142,
-	name = "全弹发射-长良级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72142	};
-	}
-};
-{
-	id = 72151,
-	name = "全弹发射-阿贺野级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72151	};
-	}
-};
-{
-	id = 72152,
-	name = "全弹发射-阿贺野级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72152	};
-	}
-};
-{
-	id = 72161,
-	name = "全弹发射-夕张I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72161	};
-	}
-};
-{
-	id = 72162,
-	name = "全弹发射-夕张II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72162	};
-	}
-};
-{
-	id = 72211,
-	name = "全弹发射-古鹰级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72211	};
-	}
-};
-{
-	id = 72212,
-	name = "全弹发射-古鹰级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72212	};
-	}
-};
-{
-	id = 72221,
-	name = "全弹发射-青叶级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72221	};
-	}
-};
-{
-	id = 72222,
-	name = "全弹发射-青叶级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72222	};
-	}
-};
-{
-	id = 72231,
-	name = "全弹发射-妙高级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72231	};
-	}
-};
-{
-	id = 72232,
-	name = "全弹发射-妙高级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72232	};
-	}
-};
-{
-	id = 72241,
-	name = "全弹发射-利根级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72241	};
-		{	tech = 1, rarity = 1, id = 72271	};
-	}
-};
-{
-	id = 72242,
-	name = "全弹发射-利根级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72242	};
-		{	tech = 0, rarity = 0, id = 72272	};
-	}
-};
-{
-	id = 72251,
-	name = "全弹发射-最上级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72251	};
-	}
-};
-{
-	id = 72252,
-	name = "全弹发射-最上级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72252	};
-	}
-};
-{
-	id = 72254,
-	name = "全弹发射-最上级铃谷型I",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72254	};
-	}
-};
-{
-	id = 72255,
-	name = "全弹发射-最上级铃谷型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72255	};
-	}
-};
-{
-	id = 72256,
-	name = "全弹发射-最上级铃谷型I增强",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72256	};
-	}
-};
-{
-	id = 72257,
-	name = "全弹发射-最上级铃谷型II增强",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72257	};
-	}
-};
-{
-	id = 72261,
-	name = "全弹发射-高雄级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72261	};
-	}
-};
-{
-	id = 72262,
-	name = "全弹发射-高雄级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72262	};
-	}
-};
-{
-	id = 72281,
-	name = "全弹发射-伊吹级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72281	};
-	}
-};
-{
-	id = 72282,
-	name = "全弹发射-伊吹级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72282	};
-	}
-};
-{
-	id = 72311,
-	name = "全弹发射-伊乙级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72311	};
-	}
-};
-{
-	id = 72312,
-	name = "全弹发射-伊乙级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72312	};
-	}
-};
-{
-	id = 72411,
-	name = "全弹发射-樫野I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 72411	};
-	}
-};
-{
-	id = 72412,
-	name = "全弹发射-樫野II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 72412	};
-	}
-};
-{
-	id = 73011,
-	name = "全弹发射-1934型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73011	};
-	}
-};
-{
-	id = 73012,
-	name = "全弹发射-1934型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73012	};
-	}
-};
-{
-	id = 73021,
-	name = "全弹发射-1934A型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73021	};
-	}
-};
-{
-	id = 73022,
-	name = "全弹发射-1934A型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73022	};
-	}
-};
-{
-	id = 73031,
-	name = "全弹发射-1936型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73031	};
-	}
-};
-{
-	id = 73032,
-	name = "全弹发射-1936型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73032	};
-	}
-};
-{
-	id = 73041,
-	name = "全弹发射-1936A型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73041	};
-	}
-};
-{
-	id = 73042,
-	name = "全弹发射-1936A型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73042	};
-	}
-};
-{
-	id = 73051,
-	name = "全弹发射-1936B型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73051	};
-	}
-};
-{
-	id = 73052,
-	name = "全弹发射-1936B型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73052	};
-	}
-};
-{
-	id = 73111,
-	name = "全弹发射-柯尼斯堡级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73111	};
-	}
-};
-{
-	id = 73112,
-	name = "全弹发射-柯尼斯堡级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73112	};
-	}
-};
-{
-	id = 73121,
-	name = "全弹发射-莱比锡级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73121	};
-	}
-};
-{
-	id = 73122,
-	name = "全弹发射-莱比锡级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73122	};
-	}
-};
-{
-	id = 73131,
-	name = "全弹发射-皮劳级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73131	};
-	}
-};
-{
-	id = 73132,
-	name = "全弹发射-皮劳级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73132	};
-	}
-};
-{
-	id = 73211,
-	name = "全弹发射-希佩尔海军上将级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73211	};
-	}
-};
-{
-	id = 73212,
-	name = "全弹发射-希佩尔海军上将级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73212	};
-	}
-};
-{
-	id = 73221,
-	name = "全弹发射-德意志级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73221	};
-	}
-};
-{
-	id = 73222,
-	name = "全弹发射-德意志级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73222	};
-	}
-};
-{
-	id = 73231,
-	name = "全弹发射-P级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73231	};
-	}
-};
-{
-	id = 73232,
-	name = "全弹发射-P级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73232	};
-	}
-};
-{
-	id = 73241,
-	name = "全弹发射-罗恩级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73241	};
-	}
-};
-{
-	id = 73242,
-	name = "全弹发射-罗恩级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73242	};
-	}
-};
-{
-	id = 73311,
-	name = "全弹发射-Type VIIC型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73311	};
-	}
-};
-{
-	id = 73312,
-	name = "全弹发射-Type VIIC型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73312	};
-	}
-};
-{
-	id = 73321,
-	name = "全弹发射-Type IXB型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73321	};
-	}
-};
-{
-	id = 73322,
-	name = "全弹发射-Type IXB型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73322	};
-	}
-};
-{
-	id = 73411,
-	name = "全弹发射-Type VIIB型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73411	};
-	}
-};
-{
-	id = 73412,
-	name = "全弹发射-Type VIIB型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73412	};
-	}
-};
-{
-	id = 73511,
-	name = "全弹发射-Type IXC型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73511	};
-	}
-};
-{
-	id = 73512,
-	name = "全弹发射-Type IXC型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73512	};
-	}
-};
-{
-	id = 73611,
-	name = "全弹发射-Type VIIA型I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 73611	};
-	}
-};
-{
-	id = 73612,
-	name = "全弹发射-Type VIIA型II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 73612	};
-	}
-};
-{
-	id = 74011,
-	name = "全弹发射-鞍山级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74011	};
-	}
-};
-{
-	id = 74012,
-	name = "全弹发射-鞍山级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74012	};
-	}
-};
-{
-	id = 74023,
-	name = "全弹发射-青龙III",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74023	};
-	}
-};
-{
-	id = 74031,
-	name = "全弹发射-龙武I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74031	};
-	}
-};
-{
-	id = 74032,
-	name = "全弹发射-龙武II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74032	};
-	}
-};
-{
-	id = 74033,
-	name = "全弹发射-朱雀III",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74033	};
-	}
-};
-{
-	id = 74041,
-	name = "全弹发射-虎贲I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74041	};
-	}
-};
-{
-	id = 74042,
-	name = "全弹发射-虎贲II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74042	};
-	}
-};
-{
-	id = 74043,
-	name = "全弹发射-白虎III",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74043	};
-	}
-};
-{
-	id = 74053,
-	name = "全弹发射-玄武III",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74053	};
-	}
-};
-{
-	id = 74061,
-	name = "全弹发射-飞云I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74061	};
-	}
-};
-{
-	id = 74062,
-	name = "全弹发射-飞云II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74062	};
-	}
-};
-{
-	id = 74111,
-	name = "全弹发射-宁海级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74111	};
-	}
-};
-{
-	id = 74112,
-	name = "全弹发射-宁海级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74112	};
-	}
-};
-{
-	id = 74121,
-	name = "全弹发射-逸仙I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74121	};
-	}
-};
-{
-	id = 74122,
-	name = "全弹发射-逸仙II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74122	};
-	}
-};
-{
-	id = 74131,
-	name = "全弹发射-肇和级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74131	};
-	}
-};
-{
-	id = 74132,
-	name = "全弹发射-肇和级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74132	};
-	}
-};
-{
-	id = 74141,
-	name = "全弹发射-海天级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74141	};
-	}
-};
-{
-	id = 74142,
-	name = "全弹发射-海天级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74142	};
-	}
-};
-{
-	id = 74151,
-	name = "全弹发射-济安I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74151	};
-	}
-};
-{
-	id = 74152,
-	name = "全弹发射-济安II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74152	};
-	}
-};
-{
-	id = 74161,
-	name = "全弹发射-海容级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 74161	};
-	}
-};
-{
-	id = 74162,
-	name = "全弹发射-海容级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 74162	};
-	}
-};
-{
-	id = 75011,
-	name = "全弹发射-索尔达蒂级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75011	};
-	}
-};
-{
-	id = 75012,
-	name = "全弹发射-索尔达蒂级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75012	};
-	}
-};
-{
-	id = 75021,
-	name = "全弹发射-诗人级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75021	};
-	}
-};
-{
-	id = 75022,
-	name = "全弹发射-诗人级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75022	};
-	}
-};
-{
-	id = 75031,
-	name = "全弹发射-西北风级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75031	};
-	}
-};
-{
-	id = 75032,
-	name = "全弹发射-西北风级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75032	};
-	}
-};
-{
-	id = 75041,
-	name = "全弹发射-航海家级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75041	};
-	}
-};
-{
-	id = 75042,
-	name = "全弹发射-航海家级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75042	};
-	}
-};
-{
-	id = 75111,
-	name = "全弹发射-朱塞诺级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75111	};
-	}
-};
-{
-	id = 75112,
-	name = "全弹发射-朱塞诺级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75112	};
-	}
-};
-{
-	id = 75211,
-	name = "全弹发射-特伦托级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75211	};
-	}
-};
-{
-	id = 75212,
-	name = "全弹发射-特伦托级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75212	};
-	}
-};
-{
-	id = 75221,
-	name = "全弹发射-扎拉级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75221	};
-	}
-};
-{
-	id = 75222,
-	name = "全弹发射-扎拉级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75222	};
-	}
-};
-{
-	id = 75231,
-	name = "全弹发射-博尔扎诺级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75231	};
-	}
-};
-{
-	id = 75232,
-	name = "全弹发射-博尔扎诺级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75232	};
-	}
-};
-{
-	id = 75511,
-	name = "全弹发射-布林级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 75511	};
-	}
-};
-{
-	id = 75512,
-	name = "全弹发射-布林级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 75512	};
-	}
-};
-{
-	id = 76011,
-	name = "全弹发射-愤怒级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 76011	};
-	}
-};
-{
-	id = 76012,
-	name = "全弹发射-愤怒级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 76012	};
-	}
-};
-{
-	id = 76021,
-	name = "全弹发射-明斯克级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 76021	};
-	}
-};
-{
-	id = 76022,
-	name = "全弹发射-明斯克级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 76022	};
-	}
-};
-{
-	id = 76031,
-	name = "全弹发射-前哨级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 76031	};
-	}
-};
-{
-	id = 76032,
-	name = "全弹发射-前哨级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 76032	};
-	}
-};
-{
-	id = 76111,
-	name = "全弹发射-博加特里级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 76111	};
-	}
-};
-{
-	id = 76112,
-	name = "全弹发射-博加特里级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 76112	};
-	}
-};
-{
-	id = 78011,
-	name = "全弹发射-机敏级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78011	};
-	}
-};
-{
-	id = 78012,
-	name = "全弹发射-机敏级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78012	};
-	}
-};
-{
-	id = 78021,
-	name = "全弹发射-大胆级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78021	};
-	}
-};
-{
-	id = 78022,
-	name = "全弹发射-大胆级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78022	};
-	}
-};
-{
-	id = 78031,
-	name = "全弹发射-沃克兰级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78031	};
-	}
-};
-{
-	id = 78032,
-	name = "全弹发射-沃克兰级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78032	};
-	}
-};
-{
-	id = 78101,
-	name = "全弹发射-迪盖·特鲁因级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78101	};
-	}
-};
-{
-	id = 78102,
-	name = "全弹发射-迪盖·特鲁因级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78102	};
-	}
-};
-{
-	id = 78111,
-	name = "全弹发射-埃米尔·贝尔汀I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78111	};
-	}
-};
-{
-	id = 78112,
-	name = "全弹发射-埃米尔·贝尔汀II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78112	};
-	}
-};
-{
-	id = 78121,
-	name = "全弹发射-拉·加利索尼埃I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78121	};
-	}
-};
-{
-	id = 78122,
-	name = "全弹发射-拉·加利索尼埃II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78122	};
-	}
-};
-{
-	id = 78211,
-	name = "全弹发射-阿尔及利亚I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78211	};
-	}
-};
-{
-	id = 78212,
-	name = "全弹发射-阿尔及利亚II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78212	};
-	}
-};
-{
-	id = 78221,
-	name = "全弹发射-絮弗伦级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 78221	};
-	}
-};
-{
-	id = 78222,
-	name = "全弹发射-絮弗伦级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 78222	};
-	}
-};
-{
-	id = 79011,
-	name = "专属弹幕-英格兰I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79011	};
-	}
-};
-{
-	id = 79012,
-	name = "专属弹幕-英格兰II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79012	};
-	}
-};
-{
-	id = 79021,
-	name = "专属弹幕-埃尔德里奇I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79021	};
-	}
-};
-{
-	id = 79022,
-	name = "专属弹幕-埃尔德里奇II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79022	};
-	}
-};
-{
-	id = 79031,
-	name = "专属弹幕-威廉·D·波特I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79031	};
-	}
-};
-{
-	id = 79032,
-	name = "专属弹幕-威廉·D·波特II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79032	};
-	}
-};
-{
-	id = 79041,
-	name = "专属弹幕-约翰斯顿I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79041	};
-	}
-};
-{
-	id = 79042,
-	name = "专属弹幕-约翰斯顿II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79042	};
-	}
-};
-{
-	id = 79051,
-	name = "专属弹幕-拉菲I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79051	};
-		{	tech = 1, rarity = 1, id = 80081	};
-	}
-};
-{
-	id = 79052,
-	name = "专属弹幕-拉菲II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79052	};
-		{	tech = 0, rarity = 0, id = 80082	};
-	}
-};
-{
-	id = 79061,
-	name = "专属弹幕-萤火虫I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79061	};
-	}
-};
-{
-	id = 79062,
-	name = "专属弹幕-萤火虫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79062	};
-	}
-};
-{
-	id = 79071,
-	name = "专属弹幕-勇敢I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79071	};
-	}
-};
-{
-	id = 79072,
-	name = "专属弹幕-勇敢II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79072	};
-	}
-};
-{
-	id = 79081,
-	name = "专属弹幕-标枪I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79081	};
-	}
-};
-{
-	id = 79082,
-	name = "专属弹幕-标枪II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79082	};
-	}
-};
-{
-	id = 79091,
-	name = "专属弹幕-吸血鬼I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79091	};
-	}
-};
-{
-	id = 79092,
-	name = "专属弹幕-吸血鬼II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79092	};
-	}
-};
-{
-	id = 79101,
-	name = "专属弹幕-贝尔法斯特I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79101	};
-	}
-};
-{
-	id = 79102,
-	name = "专属弹幕-贝尔法斯特II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79102	};
-	}
-};
-{
-	id = 79111,
-	name = "专属弹幕-绫波I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79111	};
-	}
-};
-{
-	id = 79112,
-	name = "专属弹幕-绫波II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79112	};
-	}
-};
-{
-	id = 79121,
-	name = "专属弹幕-夕立I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79121	};
-	}
-};
-{
-	id = 79122,
-	name = "专属弹幕-夕立II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79122	};
-	}
-};
-{
-	id = 79131,
-	name = "专属弹幕-雪风I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79131	};
-	}
-};
-{
-	id = 79132,
-	name = "专属弹幕-雪风II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79132	};
-	}
-};
-{
-	id = 79141,
-	name = "专属弹幕-岛风I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79141	};
-		{	tech = 1, rarity = 1, id = 79771	};
-	}
-};
-{
-	id = 79142,
-	name = "专属弹幕-岛风II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79142	};
-		{	tech = 0, rarity = 0, id = 79772	};
-	}
-};
-{
-	id = 79151,
-	name = "专属弹幕-北上I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79151	};
-	}
-};
-{
-	id = 79152,
-	name = "专属弹幕-北上II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79152	};
-	}
-};
-{
-	id = 79161,
-	name = "专属弹幕-大井I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79161	};
-	}
-};
-{
-	id = 79162,
-	name = "专属弹幕-大井II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79162	};
-	}
-};
-{
-	id = 79171,
-	name = "专属弹幕-Z1I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79171	};
-	}
-};
-{
-	id = 79172,
-	name = "专属弹幕-Z1II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79172	};
-	}
-};
-{
-	id = 79181,
-	name = "专属弹幕-鞍山I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79181	};
-	}
-};
-{
-	id = 79182,
-	name = "专属弹幕-鞍山II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79182	};
-	}
-};
-{
-	id = 79191,
-	name = "专属弹幕-阿芙乐尔I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79191	};
-	}
-};
-{
-	id = 79192,
-	name = "专属弹幕-阿芙乐尔II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79192	};
-	}
-};
-{
-	id = 79201,
-	name = "专属弹幕-Z23I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79201	};
-	}
-};
-{
-	id = 79202,
-	name = "专属弹幕-Z23II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79202	};
-	}
-};
-{
-	id = 79211,
-	name = "专属弹幕-Z46I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79211	};
-	}
-};
-{
-	id = 79212,
-	name = "专属弹幕-Z46II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79212	};
-	}
-};
-{
-	id = 79221,
-	name = "专属弹幕-伊吹I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79221	};
-	}
-};
-{
-	id = 79222,
-	name = "专属弹幕-伊吹II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79222	};
-	}
-};
-{
-	id = 79231,
-	name = "专属弹幕-海王星I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79231	};
-	}
-};
-{
-	id = 79232,
-	name = "专属弹幕-海王星II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79232	};
-	}
-};
-{
-	id = 79241,
-	name = "专属弹幕-罗恩I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79241	};
-	}
-};
-{
-	id = 79242,
-	name = "专属弹幕-罗恩II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79242	};
-	}
-};
-{
-	id = 79251,
-	name = "专属弹幕-路易九世I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79251	};
-	}
-};
-{
-	id = 79252,
-	name = "专属弹幕-路易九世II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79252	};
-	}
-};
-{
-	id = 79261,
-	name = "专属弹幕-I19I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79261	};
-	}
-};
-{
-	id = 79262,
-	name = "专属弹幕-I19II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79262	};
-	}
-};
-{
-	id = 79271,
-	name = "专属弹幕-U81I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79271	};
-	}
-};
-{
-	id = 79272,
-	name = "专属弹幕-U81II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79272	};
-	}
-};
-{
-	id = 79291,
-	name = "专属弹幕-22I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79291	};
-	}
-};
-{
-	id = 79292,
-	name = "专属弹幕-22II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79292	};
-	}
-};
-{
-	id = 79301,
-	name = "专属弹幕-33I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79301	};
-	}
-};
-{
-	id = 79302,
-	name = "专属弹幕-33II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79302	};
-	}
-};
-{
-	id = 79311,
-	name = "专属弹幕-U47I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79311	};
-	}
-};
-{
-	id = 79312,
-	name = "专属弹幕-U47II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79312	};
-	}
-};
-{
-	id = 79321,
-	name = "专属弹幕-絮库夫I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79321	};
-	}
-};
-{
-	id = 79322,
-	name = "专属弹幕-絮库夫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79322	};
-	}
-};
-{
-	id = 79331,
-	name = "专属弹幕-凯旋I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79331	};
-	}
-};
-{
-	id = 79332,
-	name = "专属弹幕-凯旋II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79332	};
-	}
-};
-{
-	id = 79341,
-	name = "专属弹幕-大青花鱼I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79341	};
-	}
-};
-{
-	id = 79342,
-	name = "专属弹幕-大青花鱼II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79342	};
-	}
-};
-{
-	id = 79361,
-	name = "专属弹幕-天狼星I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79361	};
-	}
-};
-{
-	id = 79362,
-	name = "专属弹幕-天狼星II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79362	};
-	}
-};
-{
-	id = 79371,
-	name = "专属弹幕-I13I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79371	};
-	}
-};
-{
-	id = 79372,
-	name = "专属弹幕-I13II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79372	};
-	}
-};
-{
-	id = 79381,
-	name = "专属弹幕-北风I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79381	};
-	}
-};
-{
-	id = 79382,
-	name = "专属弹幕-北风II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79382	};
-	}
-};
-{
-	id = 79383,
-	name = "专属弹幕鱼雷-北风I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79383	};
-	}
-};
-{
-	id = 79384,
-	name = "专属弹幕鱼雷-北风II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79384	};
-	}
-};
-{
-	id = 79391,
-	name = "专属弹幕-西雅图I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79391	};
-	}
-};
-{
-	id = 79392,
-	name = "专属弹幕-西雅图II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79392	};
-	}
-};
-{
-	id = 79401,
-	name = "专属弹幕-确捷I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79401	};
-	}
-};
-{
-	id = 79402,
-	name = "专属弹幕-确捷II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79402	};
-	}
-};
-{
-	id = 79411,
-	name = "专属弹幕-恶毒I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79411	};
-	}
-};
-{
-	id = 79412,
-	name = "专属弹幕-恶毒II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79412	};
-	}
-};
-{
-	id = 79421,
-	name = "专属弹幕-I168I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79421	};
-	}
-};
-{
-	id = 79422,
-	name = "专属弹幕-I168II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79422	};
-	}
-};
-{
-	id = 79431,
-	name = "专属弹幕-U101I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79431	};
-	}
-};
-{
-	id = 79432,
-	name = "专属弹幕-U101II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79432	};
-	}
-};
-{
-	id = 79441,
-	name = "专属弹幕-棘鳍I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79441	};
-	}
-};
-{
-	id = 79442,
-	name = "专属弹幕-棘鳍II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79442	};
-	}
-};
-{
-	id = 79451,
-	name = "全弹发射-克利夫兰μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79451	};
-	}
-};
-{
-	id = 79452,
-	name = "全弹发射-克利夫兰μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79452	};
-	}
-};
-{
-	id = 79461,
-	name = "全弹发射-南安普顿μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79461	};
-	}
-};
-{
-	id = 79462,
-	name = "全弹发射-南安普顿μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79462	};
-	}
-};
-{
-	id = 79471,
-	name = "全弹发射-希佩尔海军上将μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79471	};
-	}
-};
-{
-	id = 79472,
-	name = "全弹发射-希佩尔海军上将μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79472	};
-	}
-};
-{
-	id = 79481,
-	name = "专属弹幕-能代I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79481	};
-	}
-};
-{
-	id = 79482,
-	name = "专属弹幕-能代II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79482	};
-	}
-};
-{
-	id = 79491,
-	name = "专属弹幕-黛朵I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79491	};
-	}
-};
-{
-	id = 79492,
-	name = "专属弹幕-黛朵II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79492	};
-	}
-};
-{
-	id = 79501,
-	name = "专属弹幕-塔什干I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79501	};
-	}
-};
-{
-	id = 79502,
-	name = "专属弹幕-塔什干II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79502	};
-	}
-};
-{
-	id = 79511,
-	name = "专属弹幕-恰巴耶夫I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79511	};
-	}
-};
-{
-	id = 79512,
-	name = "专属弹幕-恰巴耶夫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79512	};
-	}
-};
-{
-	id = 79521,
-	name = "专属弹幕-里诺I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79521	};
-	}
-};
-{
-	id = 79522,
-	name = "专属弹幕-里诺II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79522	};
-	}
-};
-{
-	id = 79541,
-	name = "专属弹幕-圣女贞德I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79541	};
-	}
-};
-{
-	id = 79542,
-	name = "专属弹幕-圣女贞德II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79542	};
-	}
-};
-{
-	id = 79551,
-	name = "专属弹幕-柴郡I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79551	};
-	}
-};
-{
-	id = 79552,
-	name = "专属弹幕-柴郡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79552	};
-	}
-};
-{
-	id = 79561,
-	name = "专属弹幕-德雷克I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79561	};
-	}
-};
-{
-	id = 79562,
-	name = "专属弹幕-德雷克II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79562	};
-	}
-};
-{
-	id = 79571,
-	name = "专属弹幕-美因茨I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79571	};
-	}
-};
-{
-	id = 79572,
-	name = "专属弹幕-美因茨II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79572	};
-	}
-};
-{
-	id = 79581,
-	name = "专属弹幕-赫敏I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79581	};
-	}
-};
-{
-	id = 79582,
-	name = "专属弹幕-赫敏II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79582	};
-	}
-};
-{
-	id = 79591,
-	name = "专属弹幕-U96I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79591	};
-	}
-};
-{
-	id = 79592,
-	name = "专属弹幕-U96II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79592	};
-	}
-};
-{
-	id = 79601,
-	name = "专属弹幕-凉月I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79601	};
-	}
-};
-{
-	id = 79602,
-	name = "专属弹幕-凉月II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79602	};
-	}
-};
-{
-	id = 79611,
-	name = "专属弹幕-罗恩μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79611	};
-	}
-};
-{
-	id = 79612,
-	name = "专属弹幕-罗恩μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79612	};
-	}
-};
-{
-	id = 79621,
-	name = "专属弹幕-恶毒μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79621	};
-	}
-};
-{
-	id = 79622,
-	name = "专属弹幕-恶毒μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79622	};
-	}
-};
-{
-	id = 79631,
-	name = "专属弹幕-黛朵μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79631	};
-	}
-};
-{
-	id = 79632,
-	name = "专属弹幕-黛朵μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79632	};
-	}
-};
-{
-	id = 79641,
-	name = "专属弹幕-塔什干μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79641	};
-	}
-};
-{
-	id = 79642,
-	name = "专属弹幕-塔什干μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79642	};
-	}
-};
-{
-	id = 79651,
-	name = "专属弹幕-大青花鱼μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79651	};
-	}
-};
-{
-	id = 79652,
-	name = "专属弹幕-大青花鱼μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79652	};
-	}
-};
-{
-	id = 79661,
-	name = "专属弹幕-巴尔的摩μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79661	};
-	}
-};
-{
-	id = 79662,
-	name = "专属弹幕-巴尔的摩μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79662	};
-	}
-};
-{
-	id = 79671,
-	name = "专属弹幕-U37I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79671	};
-	}
-};
-{
-	id = 79672,
-	name = "专属弹幕-U37II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79672	};
-	}
-};
-{
-	id = 79681,
-	name = "专属弹幕-基洛夫I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79681	};
-	}
-};
-{
-	id = 79682,
-	name = "专属弹幕-基洛夫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79682	};
-	}
-};
-{
-	id = 79691,
-	name = "专属弹幕-艾伦萨姆纳I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79691	};
-	}
-};
-{
-	id = 79692,
-	name = "专属弹幕-艾伦萨姆纳II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79692	};
-	}
-};
-{
-	id = 79701,
-	name = "专属弹幕-阿布鲁齐公爵I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79701	};
-	}
-};
-{
-	id = 79702,
-	name = "专属弹幕-阿布鲁齐公爵II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79702	};
-	}
-};
-{
-	id = 79711,
-	name = "专属弹幕-旧金山I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79711	};
-	}
-};
-{
-	id = 79712,
-	name = "专属弹幕-旧金山II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79712	};
-	}
-};
-{
-	id = 79721,
-	name = "专属弹幕-射水鱼I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79721	};
-	}
-};
-{
-	id = 79722,
-	name = "专属弹幕-射水鱼II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79722	};
-	}
-};
-{
-	id = 79731,
-	name = "专属弹幕-海伦娜.META I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79731	};
-	}
-};
-{
-	id = 79732,
-	name = "专属弹幕-海伦娜.META II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79732	};
-	}
-};
-{
-	id = 79741,
-	name = "专属弹幕-风云I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79741	};
-	}
-};
-{
-	id = 79742,
-	name = "专属弹幕-风云II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79742	};
-	}
-};
-{
-	id = 79751,
-	name = "专属弹幕-安克雷奇I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79751	};
-	}
-};
-{
-	id = 79752,
-	name = "专属弹幕-安克雷奇II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79752	};
-	}
-};
-{
-	id = 79761,
-	name = "专属弹幕-英格拉罕I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79761	};
-	}
-};
-{
-	id = 79762,
-	name = "专属弹幕-英格拉罕II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79762	};
-	}
-};
-{
-	id = 79781,
-	name = "专属弹幕-可怖I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79781	};
-	}
-};
-{
-	id = 79782,
-	name = "专属弹幕-可怖II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79782	};
-	}
-};
-{
-	id = 79791,
-	name = "专属弹幕-马格德堡I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79791	};
-	}
-};
-{
-	id = 79792,
-	name = "专属弹幕-马格德堡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79792	};
-	}
-};
-{
-	id = 79801,
-	name = "专属弹幕-卡律布狄斯I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79801	};
-	}
-};
-{
-	id = 79802,
-	name = "专属弹幕-卡律布狄斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79802	};
-	}
-};
-{
-	id = 79811,
-	name = "专属弹幕-布里斯托尔I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79811	};
-	}
-};
-{
-	id = 79812,
-	name = "专属弹幕-布里斯托尔II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79812	};
-	}
-};
-{
-	id = 79821,
-	name = "专属弹幕-基辅I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79821	};
-	}
-};
-{
-	id = 79822,
-	name = "专属弹幕-基辅II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79822	};
-	}
-};
-{
-	id = 79831,
-	name = "专属弹幕-庞培·马格诺I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79831	};
-	}
-};
-{
-	id = 79832,
-	name = "专属弹幕-庞培·马格诺II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79832	};
-	}
-};
-{
-	id = 79841,
-	name = "专属弹幕-埃姆登I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79841	};
-	}
-};
-{
-	id = 79842,
-	name = "专属弹幕-埃姆登II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79842	};
-	}
-};
-{
-	id = 79851,
-	name = "专属弹幕-贾维斯I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79851	};
-	}
-};
-{
-	id = 79852,
-	name = "专属弹幕-贾维斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79852	};
-	}
-};
-{
-	id = 79861,
-	name = "专属弹幕-小柴郡I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79861	};
-	}
-};
-{
-	id = 79862,
-	name = "专属弹幕-小柴郡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79862	};
-	}
-};
-{
-	id = 79871,
-	name = "专属弹幕-孟菲斯.META I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79871	};
-	}
-};
-{
-	id = 79872,
-	name = "专属弹幕-孟菲斯.META II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79872	};
-	}
-};
-{
-	id = 79881,
-	name = "专属弹幕-不屈I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79881	};
-	}
-};
-{
-	id = 79882,
-	name = "专属弹幕-不屈II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79882	};
-	}
-};
-{
-	id = 79891,
-	name = "专属弹幕-普利茅斯I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79891	};
-	}
-};
-{
-	id = 79892,
-	name = "专属弹幕-普利茅斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79892	};
-	}
-};
-{
-	id = 79893,
-	name = "专属弹幕-普利茅斯II鱼雷",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79893	};
-	}
-};
-{
-	id = 79901,
-	name = "专属弹幕-哈尔滨I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79901	};
-	}
-};
-{
-	id = 79902,
-	name = "专属弹幕-哈尔滨II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79902	};
-	}
-};
-{
-	id = 79903,
-	name = "专属弹幕-哈尔滨鱼雷",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79903	};
-	}
-};
-{
-	id = 79911,
-	name = "专属弹幕-朱塞佩.加里波第I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79911	};
-	}
-};
-{
-	id = 79912,
-	name = "专属弹幕-朱塞佩.加里波第II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79912	};
-	}
-};
-{
-	id = 79921,
-	name = "专属弹幕-莱昂纳多·达·芬奇I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79921	};
-	}
-};
-{
-	id = 79922,
-	name = "专属弹幕-莱昂纳多·达·芬奇II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79922	};
-	}
-};
-{
-	id = 79931,
-	name = "专属弹幕-特伦托.METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79931	};
-	}
-};
-{
-	id = 79932,
-	name = "专属弹幕-特伦托.METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79932	};
-	}
-};
-{
-	id = 79941,
-	name = "专属弹幕-酒匂I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79941	};
-	}
-};
-{
-	id = 79942,
-	name = "专属弹幕-酒匂II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79942	};
-	}
-};
-{
-	id = 79951,
-	name = "专属弹幕-若月I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79951	};
-	}
-};
-{
-	id = 79952,
-	name = "专属弹幕-若月II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79952	};
-	}
-};
-{
-	id = 79961,
-	name = "专属弹幕-猎人METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79961	};
-	}
-};
-{
-	id = 79962,
-	name = "专属弹幕-猎人METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79962	};
-	}
-};
-{
-	id = 79971,
-	name = "专属弹幕-雅努斯I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79971	};
-	}
-};
-{
-	id = 79972,
-	name = "专属弹幕-雅努斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79972	};
-	}
-};
-{
-	id = 79981,
-	name = "专属弹幕-皇家财富I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79981	};
-	}
-};
-{
-	id = 79982,
-	name = "专属弹幕-皇家财富II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79982	};
-	}
-};
-{
-	id = 79991,
-	name = "专属弹幕-命运女神METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 79991	};
-	}
-};
-{
-	id = 79992,
-	name = "专属弹幕-命运女神METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 79992	};
-	}
-};
-{
-	id = 80001,
-	name = "专属弹幕-雷根斯堡I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80001	};
-	}
-};
-{
-	id = 80002,
-	name = "专属弹幕-雷根斯堡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80002	};
-	}
-};
-{
-	id = 80011,
-	name = "专属弹幕-阿尔及利亚.METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80011	};
-	}
-};
-{
-	id = 80012,
-	name = "专属弹幕-阿尔及利亚.METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80012	};
-	}
-};
-{
-	id = 80021,
-	name = "专属弹幕-阿蒂利奥·雷戈洛I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80021	};
-	}
-};
-{
-	id = 80022,
-	name = "专属弹幕-阿蒂利奥·雷戈洛II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80022	};
-	}
-};
-{
-	id = 80031,
-	name = "专属弹幕-菲利克斯·舒尔茨I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80031	};
-	}
-};
-{
-	id = 80032,
-	name = "专属弹幕-菲利克斯·舒尔茨II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80032	};
-	}
-};
-{
-	id = 80033,
-	name = "专属弹幕鱼雷-菲利克斯·舒尔茨II",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80033	};
-	}
-};
-{
-	id = 80041,
-	name = "专属弹幕-吉尚I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80041	};
-	}
-};
-{
-	id = 80042,
-	name = "专属弹幕-吉尚II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80042	};
-	}
-};
-{
-	id = 80051,
-	name = "专属弹幕-云仙I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80051	};
-	}
-};
-{
-	id = 80052,
-	name = "专属弹幕-云仙II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80052	};
-	}
-};
-{
-	id = 80061,
-	name = "专属弹幕-初月I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80061	};
-	}
-};
-{
-	id = 80062,
-	name = "专属弹幕-初月II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80062	};
-	}
-};
-{
-	id = 80071,
-	name = "专属弹幕-金鹿号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80071	};
-	}
-};
-{
-	id = 80072,
-	name = "专属弹幕-金鹿号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80072	};
-	}
-};
-{
-	id = 80073,
-	name = "专属弹幕-加里冒险号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80073	};
-	}
-};
-{
-	id = 80074,
-	name = "专属弹幕-加里冒险号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80074	};
-	}
-};
-{
-	id = 80091,
-	name = "专属弹幕-松鲷I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80091	};
-	}
-};
-{
-	id = 80092,
-	name = "专属弹幕-松鲷II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80092	};
-	}
-};
-{
-	id = 80101,
-	name = "专属弹幕-金伯利METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80101	};
-	}
-};
-{
-	id = 80102,
-	name = "专属弹幕-金伯利METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80102	};
-	}
-};
-{
-	id = 80201,
-	name = "专属弹幕-火力I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80201	};
-	}
-};
-{
-	id = 80202,
-	name = "专属弹幕-火力II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80202	};
-	}
-};
-{
-	id = 80211,
-	name = "专属弹幕-努比亚人I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80211	};
-	}
-};
-{
-	id = 80212,
-	name = "专属弹幕-努比亚人II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80212	};
-	}
-};
-{
-	id = 80221,
-	name = "专属弹幕-吸血鬼METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80221	};
-	}
-};
-{
-	id = 80222,
-	name = "专属弹幕-吸血鬼METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80222	};
-	}
-};
-{
-	id = 80231,
-	name = "专属弹幕-{namecode:532}I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80231	};
-	}
-};
-{
-	id = 80232,
-	name = "专属弹幕-{namecode:532}II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80232	};
-	}
-};
-{
-	id = 80241,
-	name = "专属弹幕-鲁莽(μ兵装)I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80241	};
-	}
-};
-{
-	id = 80242,
-	name = "专属弹幕-鲁莽(μ兵装)II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80242	};
-	}
-};
-{
-	id = 80251,
-	name = "专属弹幕-能代μI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80251	};
-	}
-};
-{
-	id = 80252,
-	name = "专属弹幕-能代μII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80252	};
-	}
-};
-{
-	id = 80253,
-	name = "专属弹幕-能代μ鱼雷",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80253	};
-	}
-};
-{
-	id = 80261,
-	name = "专属弹幕-莫加多尔I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80261	};
-	}
-};
-{
-	id = 80262,
-	name = "专属弹幕-莫加多尔II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80262	};
-	}
-};
-{
-	id = 80271,
-	name = "专属弹幕-布伦努斯I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80271	};
-	}
-};
-{
-	id = 80272,
-	name = "专属弹幕-布伦努斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80272	};
-	}
-};
-{
-	id = 80281,
-	name = "专属弹幕-福煦METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80281	};
-	}
-};
-{
-	id = 80282,
-	name = "专属弹幕-福煦METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80282	};
-	}
-};
-{
-	id = 80291,
-	name = "专属弹幕-威奇塔METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80291	};
-	}
-};
-{
-	id = 80292,
-	name = "专属弹幕-威奇塔METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80292	};
-	}
-};
-{
-	id = 80301,
-	name = "专属弹幕-Z47I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80301	};
-	}
-};
-{
-	id = 80302,
-	name = "专属弹幕-Z47II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80302	};
-	}
-};
-{
-	id = 80311,
-	name = "专属弹幕-贝亚德I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80311	};
-	}
-};
-{
-	id = 80312,
-	name = "专属弹幕-贝亚德II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80312	};
-	}
-};
-{
-	id = 80321,
-	name = "专属弹幕-哈尔福德I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80321	};
-	}
-};
-{
-	id = 80322,
-	name = "专属弹幕-哈尔福德II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80322	};
-	}
-};
-{
-	id = 80331,
-	name = "专属弹幕-果敢I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80331	};
-	}
-};
-{
-	id = 80332,
-	name = "专属弹幕-果敢II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80332	};
-	}
-};
-{
-	id = 80341,
-	name = "专属弹幕-法戈I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80341	};
-	}
-};
-{
-	id = 80342,
-	name = "专属弹幕-法戈II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80342	};
-	}
-};
-{
-	id = 80351,
-	name = "专属弹幕-渡良濑I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80351	};
-	}
-};
-{
-	id = 80352,
-	name = "专属弹幕-渡良濑II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80352	};
-	}
-};
-{
-	id = 80361,
-	name = "专属弹幕-和睦I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80361	};
-	}
-};
-{
-	id = 80362,
-	name = "专属弹幕-和睦II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80362	};
-	}
-};
-{
-	id = 80371,
-	name = "专属弹幕-幻想号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80371	};
-	}
-};
-{
-	id = 80372,
-	name = "专属弹幕-幻想号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80372	};
-	}
-};
-{
-	id = 80381,
-	name = "专属弹幕-海豚I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80381	};
-	}
-};
-{
-	id = 80382,
-	name = "专属弹幕-海豚II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80382	};
-	}
-};
-{
-	id = 80391,
-	name = "专属弹幕-朴茨茅斯冒险号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80391	};
-	}
-};
-{
-	id = 80392,
-	name = "专属弹幕-朴茨茅斯冒险号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80392	};
-	}
-};
-{
-	id = 80401,
-	name = "专属弹幕-希佩尔METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80401	};
-	}
-};
-{
-	id = 80402,
-	name = "专属弹幕-希佩尔METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80402	};
-	}
-};
-{
-	id = 80411,
-	name = "专属弹幕-杜伊斯堡I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80411	};
-	}
-};
-{
-	id = 80412,
-	name = "专属弹幕-杜伊斯堡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80412	};
-	}
-};
-{
-	id = 80421,
-	name = "专属弹幕-建武I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80421	};
-	}
-};
-{
-	id = 80422,
-	name = "专属弹幕-建武II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80422	};
-	}
-};
-{
-	id = 80431,
-	name = "专属弹幕-博尔扎诺METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80431	};
-	}
-};
-{
-	id = 80432,
-	name = "专属弹幕-博尔扎诺METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80432	};
-	}
-};
-{
-	id = 80441,
-	name = "专属弹幕-巴拉卡少校I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80441	};
-	}
-};
-{
-	id = 80442,
-	name = "专属弹幕-巴拉卡少校II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80442	};
-	}
-};
-{
-	id = 80451,
-	name = "全弹发射-海军上将级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80451	};
-	}
-};
-{
-	id = 80452,
-	name = "全弹发射-海军上将级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80452	};
-	}
-};
-{
-	id = 80461,
-	name = "专属弹幕-七省I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80461	};
-	}
-};
-{
-	id = 80462,
-	name = "专属弹幕-七省II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80462	};
-	}
-};
-{
-	id = 80471,
-	name = "专属弹幕-小安克雷奇I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80471	};
-	}
-};
-{
-	id = 80472,
-	name = "专属弹幕-小安克雷奇II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80472	};
-	}
-};
-{
-	id = 80481,
-	name = "专属弹幕-U552I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80481	};
-	}
-};
-{
-	id = 80482,
-	name = "专属弹幕-U552II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80482	};
-	}
-};
-{
-	id = 80491,
-	name = "专属弹幕-库尼贝尔蒂I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80491	};
-	}
-};
-{
-	id = 80492,
-	name = "专属弹幕-库尼贝尔蒂II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80492	};
-	}
-};
-{
-	id = 80501,
-	name = "专属弹幕-迪米特里·顿斯科伊I",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80501	};
-	}
-};
-{
-	id = 80502,
-	name = "专属弹幕-迪米特里·顿斯科伊II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80502	};
-	}
-};
-{
-	id = 80511,
-	name = "专属弹幕-大胆I",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80511	};
-	}
-};
-{
-	id = 80512,
-	name = "专属弹幕-大胆II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80512	};
-	}
-};
-{
-	id = 80521,
-	name = "专属弹幕-伊404I",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80521	};
-	}
-};
-{
-	id = 80522,
-	name = "专属弹幕-伊404II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80522	};
-	}
-};
-{
-	id = 80531,
-	name = "专属弹幕-夕立METAI",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80531	};
-	}
-};
-{
-	id = 80532,
-	name = "专属弹幕-夕立METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80532	};
-	}
-};
-{
-	id = 80541,
-	name = "专属弹幕-莱姆号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80541	};
-	}
-};
-{
-	id = 80542,
-	name = "专属弹幕-莱姆号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80542	};
-	}
-};
-{
-	id = 80551,
-	name = "专属弹幕-克利夫兰METAⅠ",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80551	};
-	}
-};
-{
-	id = 80552,
-	name = "专属弹幕-克利夫兰METAⅠⅠ",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80552	};
-	}
-};
-{
-	id = 80561,
-	name = "专属弹幕-威廉D波特I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80561	};
-	}
-};
-{
-	id = 80562,
-	name = "专属弹幕-威廉D波特II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80562	};
-	}
-};
-{
-	id = 80571,
-	name = "专属弹幕-藤波I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80571	};
-	}
-};
-{
-	id = 80572,
-	name = "专属弹幕-藤波II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80572	};
-	}
-};
-{
-	id = 80581,
-	name = "专属弹幕-龙骑兵META I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80581	};
-	}
-};
-{
-	id = 80582,
-	name = "专属弹幕-龙骑兵META II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80582	};
-	}
-};
-{
-	id = 80591,
-	name = "专属弹幕-彰武I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 80591	};
-	}
-};
-{
-	id = 80592,
-	name = "专属弹幕-彰武II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 80592	};
-	}
-};
-{
 	id = 85000,
 	name = "B-13 双联装130mm主炮B-2LM",
 	type = 1,
@@ -10986,7 +5561,7 @@ p.equip_data = {
 };
 {
 	id = 85120,
-	name = "B-38 三联装152mm主炮Mk5",
+	name = "B-38 三联装152mm主炮MK-5",
 	type = 2,
 	nationality = 7,
 	sub_equips = {
@@ -11018,7 +5593,7 @@ p.equip_data = {
 };
 {
 	id = 85300,
-	name = "B-37 三联装406mm主炮Mk-1",
+	name = "B-37 三联装406mm主炮MK-1",
 	type = 4,
 	nationality = 7,
 	sub_equips = {
@@ -11069,7 +5644,7 @@ p.equip_data = {
 };
 {
 	id = 85520,
-	name = "B-50 三联装305mm主炮Mk-15",
+	name = "B-50 三联装305mm主炮MK-15",
 	type = 11,
 	nationality = 7,
 	sub_equips = {
@@ -11087,7 +5662,7 @@ p.equip_data = {
 };
 {
 	id = 85560,
-	name = "试作型VIT-2 (VK-107)",
+	name = "试作型VIT-2(VK-107)",
 	type = 8,
 	nationality = 7,
 	sub_equips = {
@@ -11617,7 +6192,7 @@ p.equip_data = {
 };
 {
 	id = 90360,
-	name = "试作型四联装330mm主炮Mle1931（超巡用）",
+	name = "试作型四联装330mm主炮Mle1931(超巡用)",
 	type = 11,
 	nationality = 8,
 	sub_equips = {
@@ -11692,7 +6267,7 @@ p.equip_data = {
 };
 {
 	id = 90620,
-	name = "双联装57mm/L60博福斯对空机炮Mle1951",
+	name = "双联装57mmL/60博福斯对空机炮Mle1951",
 	type = 6,
 	nationality = 8,
 	sub_equips = {
@@ -11970,20 +6545,22 @@ p.equip_data = {
 	}
 };
 {
+	id = 95560,
+	name = "双联装120mm主炮(撒丁)",
+	type = 1,
+	nationality = 6,
+	sub_equips = {
+		{	tech = 1, rarity = 2, id = 95560	};
+		{	tech = 3, rarity = 4, id = 95580	};
+	}
+};
+{
 	id = 95600,
 	name = "三联装152mm主炮Model1934",
 	type = 2,
 	nationality = 6,
 	sub_equips = {
 		{	tech = 1, rarity = 3, id = 95600	};
-	}
-};
-{
-	id = 95640,
-	name = "三联装152mm主炮Model1934 ",
-	type = 2,
-	nationality = 6,
-	sub_equips = {
 		{	tech = 3, rarity = 5, id = 95640	};
 	}
 };
@@ -12153,15 +6730,6 @@ p.equip_data = {
 	nationality = 6,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 96280	};
-	}
-};
-{
-	id = 100000,
-	name = "装备模板",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 100000	};
 	}
 };
 {
@@ -12510,7 +7078,7 @@ p.equip_data = {
 };
 {
 	id = 150860,
-	name = "<封解主（Michael）>",
+	name = "封解主（Michael）",
 	type = 10,
 	nationality = 115,
 	sub_equips = {
@@ -12555,7 +7123,7 @@ p.equip_data = {
 };
 {
 	id = 150960,
-	name = "拍卖会请柬 ",
+	name = "拍卖会请柬",
 	type = 10,
 	nationality = 5,
 	sub_equips = {
@@ -12581,1711 +7149,111 @@ p.equip_data = {
 	}
 };
 {
-	id = 170001,
-	name = "专属弹幕-古比雪夫I",
+	id = 1010120,
+	name = "双剑",
 	type = 1,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170001	};
+		{	tech = 0, rarity = 3, id = 1010120	};
 	}
 };
 {
-	id = 170002,
-	name = "专属弹幕-古比雪夫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170002	};
-	}
-};
-{
-	id = 170011,
-	name = "专属弹幕-谢菲尔德METAI",
+	id = 1010220,
+	name = "单手锤",
 	type = 1,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170011	};
+		{	tech = 0, rarity = 3, id = 1010220	};
 	}
 };
 {
-	id = 170012,
-	name = "专属弹幕-谢菲尔德METAII",
-	type = 0,
+	id = 1020120,
+	name = "铁剑",
+	type = 2,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170012	};
+		{	tech = 0, rarity = 3, id = 1020120	};
 	}
 };
 {
-	id = 170021,
-	name = "专属弹幕-斯库拉I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170021	};
-	}
-};
-{
-	id = 170022,
-	name = "专属弹幕-斯库拉II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170022	};
-	}
-};
-{
-	id = 170031,
-	name = "专属弹幕-库尔斯克I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170031	};
-	}
-};
-{
-	id = 170032,
-	name = "专属弹幕-库尔斯克II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170032	};
-	}
-};
-{
-	id = 170041,
-	name = "专属弹幕-拉·加利索尼埃METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170041	};
-	}
-};
-{
-	id = 170042,
-	name = "专属弹幕-拉·加利索尼埃METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170042	};
-	}
-};
-{
-	id = 170051,
-	name = "专属弹幕-伏罗希洛夫I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170051	};
-	}
-};
-{
-	id = 170052,
-	name = "专属弹幕-伏罗希洛夫II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170052	};
-	}
-};
-{
-	id = 170061,
-	name = "专属弹幕-奥托·冯·阿尔文斯莱本I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170061	};
-	}
-};
-{
-	id = 170062,
-	name = "专属弹幕-奥托·冯·阿尔文斯莱本II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170062	};
-	}
-};
-{
-	id = 170071,
-	name = "专属弹幕-U-556METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170071	};
-	}
-};
-{
-	id = 170072,
-	name = "专属弹幕-U-556METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170072	};
-	}
-};
-{
-	id = 170121,
-	name = "专属弹幕-兴登堡I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170121	};
-	}
-};
-{
-	id = 170122,
-	name = "专属弹幕-兴登堡II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170122	};
-	}
-};
-{
-	id = 170131,
-	name = "专属弹幕-四万十I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170131	};
-	}
-};
-{
-	id = 170132,
-	name = "专属弹幕-四万十II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170132	};
-	}
-};
-{
-	id = 170133,
-	name = "专属弹幕-四万十鱼雷",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170133	};
-	}
-};
-{
-	id = 170141,
-	name = "专属弹幕-旗风METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170141	};
-	}
-};
-{
-	id = 170142,
-	name = "专属弹幕-旗风METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170142	};
-	}
-};
-{
-	id = 170151,
-	name = "专属弹幕-马赛曲I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170151	};
-	}
-};
-{
-	id = 170152,
-	name = "专属弹幕-马赛曲II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170152	};
-	}
-};
-{
-	id = 170171,
-	name = "专属弹幕-神通METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170171	};
-	}
-};
-{
-	id = 170172,
-	name = "专属弹幕-神通METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170172	};
-	}
-};
-{
-	id = 170201,
-	name = "专属弹幕-休斯敦II-I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170201	};
-	}
-};
-{
-	id = 170202,
-	name = "专属弹幕-休斯敦II-II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170202	};
-	}
-};
-{
-	id = 170231,
-	name = "专属弹幕-维达号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170231	};
-	}
-};
-{
-	id = 170232,
-	name = "专属弹幕-维达号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170232	};
-	}
-};
-{
-	id = 170241,
-	name = "专属弹幕-基洛夫META I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170241	};
-	}
-};
-{
-	id = 170242,
-	name = "专属弹幕-基洛夫META II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170242	};
-	}
-};
-{
-	id = 170411,
-	name = "专属弹幕-水星纪念METAI",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170411	};
-	}
-};
-{
-	id = 170412,
-	name = "专属弹幕-水星纪念METAII",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170412	};
-	}
-};
-{
-	id = 170551,
-	name = "专属弹幕-那不勒斯I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170551	};
-	}
-};
-{
-	id = 170552,
-	name = "专属弹幕-那不勒斯II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170552	};
-	}
-};
-{
-	id = 170553,
-	name = "专属弹幕-那不勒斯鱼雷-特殊副炮联动",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170553	};
-	}
-};
-{
-	id = 170554,
-	name = "专属弹幕-那不勒斯鱼雷-特殊副炮联动II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170554	};
-	}
-};
-{
-	id = 170571,
-	name = "构造之理-霞 I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170571	};
-	}
-};
-{
-	id = 170572,
-	name = "构造之理-霞 II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170572	};
-	}
-};
-{
-	id = 170651,
-	name = "专属弹幕-z52I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170651	};
-	}
-};
-{
-	id = 170652,
-	name = "专属弹幕-z52II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170652	};
-	}
-};
-{
-	id = 170681,
-	name = "全弹发射-伏波I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170681	};
-	}
-};
-{
-	id = 170682,
-	name = "全弹发射-伏波II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170682	};
-	}
-};
-{
-	id = 170691,
-	name = "全弹发射-长风I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170691	};
-	}
-};
-{
-	id = 170692,
-	name = "全弹发射-长风II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170692	};
-	}
-};
-{
-	id = 170721,
-	name = "专属弹幕-圣塔菲I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170721	};
-	}
-};
-{
-	id = 170722,
-	name = "专属弹幕-圣塔菲II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170722	};
-	}
-};
-{
-	id = 170761,
-	name = "逐光之焰-格伦维尔I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170761	};
-	}
-};
-{
-	id = 170762,
-	name = "逐光之焰-格伦维尔II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170762	};
-	}
-};
-{
-	id = 170771,
-	name = "专属弹幕-克利奥佩特拉I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170771	};
-	}
-};
-{
-	id = 170772,
-	name = "专属弹幕-克利奥佩特拉II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170772	};
-	}
-};
-{
-	id = 170781,
-	name = "专属弹幕-特拉法尔加",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170782	};
-		{	tech = 1, rarity = 1, id = 170781	};
-	}
-};
-{
-	id = 170791,
-	name = "专属弹幕-江风META",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170792	};
-		{	tech = 1, rarity = 1, id = 170791	};
-	}
-};
-{
-	id = 170801,
-	name = "全弹发射-迪凯纳级I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170801	};
-	}
-};
-{
-	id = 170802,
-	name = "全弹发射-迪凯纳级II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170802	};
-	}
-};
-{
-	id = 170861,
-	name = "专属弹幕-杜威META",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170862	};
-		{	tech = 1, rarity = 1, id = 170861	};
-	}
-};
-{
-	id = 170871,
-	name = "专属弹幕-冒险号I",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 170871	};
-	}
-};
-{
-	id = 170872,
-	name = "专属弹幕-冒险号II",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170872	};
-	}
-};
-{
-	id = 170881,
-	name = "专属弹幕-皇家詹姆斯",
-	type = 1,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 170882	};
-		{	tech = 1, rarity = 1, id = 170881	};
-	}
-};
-{
-	id = 180000,
-	name = "弗里茨副炮",
+	id = 1030120,
+	name = "手弩",
 	type = 3,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 180000	};
-	}
-};
-{
-	id = 180001,
-	name = "小埃吉尔自带强化型副炮",
-	type = 2,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 180001	};
-	}
-};
-{
-	id = 594017,
-	name = "美系剧情海伦娜主炮",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 594017	};
-	}
-};
-{
-	id = 594018,
-	name = "美系剧情北卡主炮",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 594018	};
-	}
-};
-{
-	id = 594019,
-	name = "美系剧情华盛顿主炮",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 594019	};
-	}
-};
-{
-	id = 630011,
-	name = "【愚人节活动】紫布里武器",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630011	};
-		{	tech = 3, rarity = 4, id = 630012	};
-	}
-};
-{
-	id = 630021,
-	name = "【愚人节活动2021】金布里自卫火炮",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630021	};
-	}
-};
-{
-	id = 630022,
-	name = "【愚人节活动2021】金布里特殊弹幕",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630022	};
-		{	tech = 3, rarity = 4, id = 630023	};
-	}
-};
-{
-	id = 630024,
-	name = "【愚人节活动2021】金布里特殊钻头",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630024	};
-	}
-};
-{
-	id = 630050,
-	name = "【愚人节活动2022】金布里特殊钻头",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630050	};
-	}
-};
-{
-	id = 630053,
-	name = "【愚人节活动2022】紫布里武器",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630053	};
-		{	tech = 3, rarity = 4, id = 630054	};
-	}
-};
-{
-	id = 630055,
-	name = "【愚人节活动2022】紫布里四联鱼雷",
-	type = 5,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 630055	};
-	}
-};
-{
-	id = 630056,
-	name = "【愚人节活动2022】彩布里主炮武器",
-	type = 11,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630056	};
-	}
-};
-{
-	id = 630057,
-	name = "【愚人节活动2022】彩布里特殊弹幕",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630057	};
-	}
-};
-{
-	id = 630058,
-	name = "【愚人节活动2022】彩布里五联鱼雷",
-	type = 5,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 630058	};
-	}
-};
-{
-	id = 630059,
-	name = "【愚人节活动2022】金布里鱼雷机",
-	type = 9,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630059	};
-	}
-};
-{
-	id = 630060,
-	name = "【愚人节活动2022】金布里轰炸机",
-	type = 8,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630060	};
-	}
-};
-{
-	id = 630061,
-	name = "【愚人节活动2023】彩布里 锤子主炮",
-	type = 11,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630061	};
-	}
-};
-{
-	id = 630062,
-	name = "【愚人节活动2023】彩布里 兵装效果",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630062	};
-	}
-};
-{
-	id = 630071,
-	name = "【愚人节活动2024】金布里机甲 钻头导弹",
-	type = 2,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630071	};
+		{	tech = 0, rarity = 3, id = 1030120	};
 	}
 };
 {
-	id = 630073,
-	name = "【愚人节活动2024】金布里机甲 鱼雷触发器",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630073	};
-	}
-};
-{
-	id = 630081,
-	name = "【愚人节活动2025】彩布里 锤子主炮（正常威力）",
-	type = 11,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630081	};
-	}
-};
-{
-	id = 630082,
-	name = "【愚人节活动2025】彩布里 兵装效果（正常威力）",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630082	};
-	}
-};
-{
-	id = 630221,
-	name = "【2022异世界勇者】拉菲-兔兔火球主炮",
+	id = 1040120,
+	name = "大剑",
 	type = 4,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 1, rarity = 1, id = 630221	};
+		{	tech = 0, rarity = 3, id = 1040120	};
 	}
 };
 {
-	id = 630222,
-	name = "【2022异世界勇者】标枪 普通斩击子弹",
-	type = 3,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630222	};
-	}
-};
-{
-	id = 630223,
-	name = "【2022异世界勇者】标枪 消弹蓄力斩击鱼雷",
+	id = 1050120,
+	name = "骑枪",
 	type = 5,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630223	};
-	}
-};
-{
-	id = 630224,
-	name = "【2022异世界勇者】绫波 普通气功波子弹",
-	type = 3,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630224	};
-	}
-};
-{
-	id = 630225,
-	name = "【2022异世界勇者】绫波 蓄力气功波鱼雷",
-	type = 5,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630225	};
-	}
-};
-{
-	id = 630226,
-	name = "【2022异世界勇者】Z23 普通近身战斧挥砍",
-	type = 3,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630226	};
-	}
-};
-{
-	id = 630227,
-	name = "【2022异世界勇者】Z23 远程战斧鱼雷",
-	type = 5,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 630227	};
-	}
-};
-{
-	id = 630228,
-	name = "【2022异世界勇者】空武器",
-	type = 2,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 630228	};
-	}
-};
-{
-	id = 650601,
-	name = "【2020法系活动剧情用】双联装155mm主炮Mle1920",
-	type = 2,
-	nationality = 8,
-	sub_equips = {
-		{	tech = 0, rarity = 3, id = 650601	};
-	}
-};
-{
-	id = 650602,
-	name = "【2020法系活动剧情用】双联装130mm主炮Mle1935",
-	type = 1,
-	nationality = 8,
-	sub_equips = {
-		{	tech = 1, rarity = 2, id = 650602	};
-	}
-};
-{
-	id = 650603,
-	name = "【2020法系活动剧情用】双联550mm鱼雷",
-	type = 5,
-	nationality = 8,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 650603	};
-	}
-};
-{
-	id = 650604,
-	name = "【2020法系活动剧情用】四联装380mm主炮Mle1935",
-	type = 4,
-	nationality = 8,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 650604	};
-	}
-};
-{
-	id = 800000,
-	name = "【三笠剧情】驱逐武器",
-	type = 1,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800000	};
+		{	tech = 0, rarity = 3, id = 1050120	};
 	}
 };
 {
-	id = 800001,
-	name = "【三笠剧情】重巡武器",
-	type = 3,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800001	};
-	}
-};
-{
-	id = 800002,
-	name = "【三笠剧情】防空炮",
+	id = 1060120,
+	name = "指挥刀",
 	type = 6,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800002	};
+		{	tech = 0, rarity = 3, id = 1060120	};
 	}
 };
 {
-	id = 800003,
-	name = "【三笠剧情】三联鱼雷",
-	type = 5,
+	id = 1060220,
+	name = "轻弩",
+	type = 6,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800003	};
+		{	tech = 0, rarity = 3, id = 1060220	};
 	}
 };
 {
-	id = 800004,
-	name = "【三笠剧情】四联鱼雷",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800004	};
-	}
-};
-{
-	id = 800005,
-	name = "【三笠剧情】重樱战斗机",
+	id = 1070120,
+	name = "猎弓",
 	type = 7,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800005	};
+		{	tech = 0, rarity = 3, id = 1070120	};
 	}
 };
 {
-	id = 800006,
-	name = "【三笠剧情】重樱鱼雷机",
+	id = 1070220,
+	name = "权杖",
+	type = 7,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 3, id = 1070220	};
+	}
+};
+{
+	id = 1080120,
+	name = "短剑",
 	type = 8,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800006	};
+		{	tech = 0, rarity = 3, id = 1080120	};
 	}
 };
 {
-	id = 800007,
-	name = "【三笠剧情】重樱轰炸机",
-	type = 9,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800007	};
-	}
-};
-{
-	id = 800008,
-	name = "【三笠剧情】三笠主炮",
-	type = 4,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800008	};
-	}
-};
-{
-	id = 800009,
-	name = "【三笠剧情】比叡主炮",
-	type = 4,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 800009	};
-	}
-};
-{
-	id = 800100,
-	name = "【大世界五章剧情用】五联装533mm鱼雷",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 800100	};
-	}
-};
-{
-	id = 800101,
-	name = "【大世界五章剧情用】五联装533mm鱼雷Mark IX",
-	type = 5,
-	nationality = 2,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 800101	};
-	}
-};
-{
-	id = 800102,
-	name = "【大世界五章剧情用】潜艇用G7e声导鱼雷",
-	type = 13,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 800102	};
-	}
-};
-{
-	id = 820850,
-	name = "【2021岛风活动剧情用】双联100mm98式高射炮",
-	type = 1,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820850	};
-	}
-};
-{
-	id = 820851,
-	name = "【2021岛风活动剧情用】203mm连装炮",
-	type = 3,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 820851	};
-	}
-};
-{
-	id = 820852,
-	name = "【2021岛风活动剧情用】双联装203mmSKC主炮",
-	type = 3,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820852	};
-	}
-};
-{
-	id = 820853,
-	name = "【2021岛风活动剧情用】410mm连装炮",
-	type = 4,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 820853	};
-	}
-};
-{
-	id = 820854,
-	name = "【2021岛风活动剧情用】四联装610mm鱼雷",
-	type = 5,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820854	};
-	}
-};
-{
-	id = 820855,
-	name = "【2021岛风活动剧情用】四联装533mm磁性鱼雷",
-	type = 5,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820855	};
-	}
-};
-{
-	id = 820856,
-	name = "【2021岛风活动剧情用】410mm连装炮（奥丁用高装填）",
-	type = 4,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 4, id = 820856	};
-	}
-};
-{
-	id = 820857,
-	name = "【2021岛风活动剧情用】四联装533mm磁性鱼雷（奥丁用高装填）",
-	type = 5,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820857	};
-	}
-};
-{
-	id = 820858,
-	name = "【2021岛风活动剧情用】零战五二型",
-	type = 7,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820858	};
-	}
-};
-{
-	id = 820859,
-	name = "【2021岛风活动剧情用】彗星",
-	type = 9,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820859	};
-	}
-};
-{
-	id = 820860,
-	name = "【2021岛风活动剧情用】流星",
+	id = 1080220,
+	name = "苦无",
 	type = 8,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 820860	};
-	}
-};
-{
-	id = 841050,
-	name = "空武器",
-	type = 10,
 	nationality = 0,
 	sub_equips = {
-		{	tech = 3, rarity = 5, id = 841050	};
-	}
-};
-{
-	id = 841051,
-	name = "空武器（鱼雷触发器）",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 841051	};
-	}
-};
-{
-	id = 892914,
-	name = "【2022公海舰队剧情用】穿甲战列主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 892914	};
-	}
-};
-{
-	id = 960001,
-	name = "【翻格子活动】驱逐主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960001	};
-	}
-};
-{
-	id = 960002,
-	name = "【翻格子活动】驱逐三联鱼雷",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960002	};
-	}
-};
-{
-	id = 960003,
-	name = "【翻格子活动】驱逐四联磁雷",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960003	};
-	}
-};
-{
-	id = 960004,
-	name = "【翻格子活动】驱逐五联鱼雷",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960004	};
-	}
-};
-{
-	id = 960005,
-	name = "【翻格子活动】战列双联主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960005	};
-	}
-};
-{
-	id = 960006,
-	name = "【翻格子活动】战列三联主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960006	};
-	}
-};
-{
-	id = 960007,
-	name = "【翻格子活动】战列四联主炮（法）",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960007	};
-	}
-};
-{
-	id = 960008,
-	name = "【翻格子活动】战列四联主炮（英）",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 960008	};
-	}
-};
-{
-	id = 960009,
-	name = "【翻格子活动】铁血战斗机",
-	type = 7,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960009	};
-	}
-};
-{
-	id = 960010,
-	name = "【翻格子活动】铁血轰炸机",
-	type = 9,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960010	};
-	}
-};
-{
-	id = 960011,
-	name = "【翻格子活动】重樱战斗机",
-	type = 7,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960011	};
-	}
-};
-{
-	id = 960012,
-	name = "【翻格子活动】重樱鱼雷机",
-	type = 8,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960012	};
-	}
-};
-{
-	id = 960013,
-	name = "【翻格子活动】重樱轰炸机",
-	type = 9,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960013	};
-	}
-};
-{
-	id = 960014,
-	name = "【翻格子活动】白鹰战斗机",
-	type = 7,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960014	};
-	}
-};
-{
-	id = 960015,
-	name = "【翻格子活动】白鹰鱼雷机",
-	type = 8,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960015	};
-	}
-};
-{
-	id = 960016,
-	name = "【翻格子活动】白鹰轰炸机",
-	type = 9,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960016	};
-	}
-};
-{
-	id = 960017,
-	name = "【翻格子活动】皇家战斗机",
-	type = 7,
-	nationality = 2,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960017	};
-	}
-};
-{
-	id = 960018,
-	name = "【翻格子活动】皇家鱼雷机",
-	type = 8,
-	nationality = 2,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960018	};
-	}
-};
-{
-	id = 960019,
-	name = "【翻格子活动】皇家轰炸机",
-	type = 9,
-	nationality = 2,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960019	};
-	}
-};
-{
-	id = 960020,
-	name = "【翻格子活动】鸢尾战斗机",
-	type = 7,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960020	};
-	}
-};
-{
-	id = 960021,
-	name = "【翻格子活动】鸢尾鱼雷机",
-	type = 8,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960021	};
-	}
-};
-{
-	id = 960022,
-	name = "【翻格子活动】鸢尾轰炸机",
-	type = 9,
-	nationality = 3,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 960022	};
-	}
-};
-{
-	id = 3139701,
-	name = "【2024异世界冒险 剧情】抚顺 主炮弹幕",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139701	};
-	}
-};
-{
-	id = 3139702,
-	name = "【2024异世界冒险 剧情】抚顺 鱼雷剑气",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139702	};
-	}
-};
-{
-	id = 3139703,
-	name = "【2024异世界冒险 剧情】利物浦 小天使飞机",
-	type = 7,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139703	};
-	}
-};
-{
-	id = 3139706,
-	name = "【2024异世界冒险 剧情】独角兽 独角兽飞机",
-	type = 7,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139706	};
-	}
-};
-{
-	id = 3139709,
-	name = "【2024异世界冒险 剧情】努比亚人 药剂投掷",
-	type = 4,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139709	};
-	}
-};
-{
-	id = 3139710,
-	name = "【2024异世界冒险 剧情】鲁莽 主炮火球",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139710	};
-	}
-};
-{
-	id = 3139711,
-	name = "【2024异世界冒险 剧情】鲁莽 鱼雷陨石",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139711	};
-	}
-};
-{
-	id = 3139712,
-	name = "【2024异世界冒险 剧情】倔强 主炮冰晶",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139712	};
-	}
-};
-{
-	id = 3139713,
-	name = "【2024异世界冒险 剧情】倔强 鱼雷冰爆",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139713	};
-	}
-};
-{
-	id = 3139716,
-	name = "【2024异世界冒险 剧情】阿尔及利亚 主炮弹幕",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139716	};
-	}
-};
-{
-	id = 3139717,
-	name = "【2024异世界冒险 剧情】阿尔及利亚 鱼雷剑气",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139717	};
-	}
-};
-{
-	id = 3139718,
-	name = "【2024异世界冒险 剧情】不屈 主炮弹幕",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139718	};
-	}
-};
-{
-	id = 3139719,
-	name = "【2024异世界冒险 剧情】不屈 鱼雷骑枪",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139719	};
-	}
-};
-{
-	id = 3139720,
-	name = "【2024异世界冒险 剧情】前卫 金色炮弹",
-	type = 4,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139720	};
-	}
-};
-{
-	id = 3139722,
-	name = "【2024异世界冒险 剧情】圣女贞德 主炮弹幕",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139722	};
-	}
-};
-{
-	id = 3139723,
-	name = "【2024异世界冒险 剧情】圣女贞德 鱼雷光弹",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139723	};
-	}
-};
-{
-	id = 3139724,
-	name = "【2024异世界冒险 剧情】霞飞 飞机",
-	type = 7,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139724	};
-	}
-};
-{
-	id = 3139728,
-	name = "【2024异世界冒险 剧情】腓特烈·卡尔 激光",
-	type = 7,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3139728	};
-	}
-};
-{
-	id = 3165001,
-	name = "【2024幼儿园活动 剧情战】小斯佩主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3165001	};
-	}
-};
-{
-	id = 3217501,
-	name = "【2024风帆二期剧情战】我方后排加农炮",
-	type = 4,
-	nationality = 96,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3217501	};
-	}
-};
-{
-	id = 3227202,
-	name = "【2024tolove联动 剧情战】菈菈 重巡主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227202	};
-	}
-};
-{
-	id = 3227203,
-	name = "【2024tolove联动 剧情战】菈菈 重巡副炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227203	};
-	}
-};
-{
-	id = 3227204,
-	name = "【2024tolove联动 剧情战】娜娜 驱逐主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227204	};
-	}
-};
-{
-	id = 3227205,
-	name = "【2024tolove联动 剧情战】娜娜 驱逐鱼雷",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227205	};
-	}
-};
-{
-	id = 3227206,
-	name = "【2024tolove联动 剧情战】梦梦 轻巡主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227206	};
-	}
-};
-{
-	id = 3227207,
-	name = "【2024tolove联动 剧情战】梦梦 轻巡鱼雷",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227207	};
-	}
-};
-{
-	id = 3227208,
-	name = "【2024tolove联动 剧情战】金色暗影 战列主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227208	};
-	}
-};
-{
-	id = 3227209,
-	name = "【2024tolove联动 剧情战】金色暗影 战列副炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227209	};
-	}
-};
-{
-	id = 3227210,
-	name = "【2024tolove联动 剧情战】春菜 战巡主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227210	};
-	}
-};
-{
-	id = 3227211,
-	name = "【2024tolove联动 剧情战】春菜 战巡副炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227211	};
-	}
-};
-{
-	id = 3227212,
-	name = "【2024tolove联动 剧情战】唯 战斗机",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227212	};
-	}
-};
-{
-	id = 3227213,
-	name = "【2024tolove联动 剧情战】唯 轰炸机",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227213	};
-	}
-};
-{
-	id = 3227214,
-	name = "【2024tolove联动 剧情战】唯 鱼雷机",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3227214	};
-	}
-};
-{
-	id = 3247001,
-	name = "【2025拉斐尔活动 剧情战】我方meta战列主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3247001	};
-	}
-};
-{
-	id = 3247002,
-	name = "【2025拉斐尔活动 剧情战】我方meta重巡主炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3247002	};
-	}
-};
-{
-	id = 3247003,
-	name = "【2025拉斐尔活动 剧情战】我方meta副炮",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3247003	};
-	}
-};
-{
-	id = 3247004,
-	name = "【2025拉斐尔活动 剧情战】我方meta鱼雷",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3247004	};
-	}
-};
-{
-	id = 3276001,
-	name = "【2025狮UR活动 剧情】构建者 主炮弹幕",
-	type = 2,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3276001	};
-	}
-};
-{
-	id = 3276002,
-	name = "【2025狮UR活动 剧情】构建者 鱼雷触手",
-	type = 5,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3276002	};
-	}
-};
-{
-	id = 3276003,
-	name = "【2025狮UR活动 剧情】构建者 舰载机",
-	type = 7,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3276003	};
-	}
-};
-{
-	id = 3279401,
-	name = "【2025黑岩联动 剧情战】死亡主宰空袭飞机",
-	type = 7,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 3, rarity = 5, id = 3279401	};
-	}
-};
-{
-	id = 3297001,
-	name = "【2025优米雅联动 剧情战】我方优米雅战斗机",
-	type = 7,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 3297001	};
-	}
-};
-{
-	id = 3297002,
-	name = "【2025优米雅联动 剧情战】我方优米雅鱼雷机",
-	type = 8,
-	nationality = 4,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 3297002	};
-	}
-};
-{
-	id = 3317601,
-	name = "【2025白凤UR活动 剧情战】457主炮（非战列舰种使用的特殊版本）",
-	type = 0,
-	nationality = 0,
-	sub_equips = {
-		{	tech = 0, rarity = 0, id = 3317601	};
+		{	tech = 0, rarity = 3, id = 1080220	};
 	}
 };
 }
