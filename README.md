@@ -8,6 +8,8 @@ Tools for maintaining Azur Lane CN Wiki based on data from [AzurLaneTools/AzurLa
 - **Ship Statistics Calculator**: Calculate ship stats at various levels (120, 125) and breakout stages
 - **Chapter Awards Generator**: Generate chapter drop information
 - **Ship Index Generator**: Create index of all ship names
+- **Character Page Generator**: Generate wiki page stubs for all ships (843 ships)
+- **Wiki Modules Generator**: Generate Lua data modules (模块:舰娘数据, 模块:装备数据) with 770 equipment and 843 ships
 - **Multi-region Support**: CN, JP, EN, KR, TW
 
 ## Quick Start
@@ -48,7 +50,7 @@ python scripts/update_data.py
 ### Using as Library
 
 ```python
-from azurlane_wiki import Config, MemoryGenerator, ShipStatsGenerator
+from azurlane_wiki import Config, MemoryGenerator, ShipStatsGenerator, WikiModulesGenerator
 
 # Create config
 config = Config(region='CN')
@@ -60,6 +62,10 @@ memory_gen.generate()
 # Generate ship stats
 stats_gen = ShipStatsGenerator(config)
 stats_gen.generate()
+
+# Generate wiki modules
+wiki_modules_gen = WikiModulesGenerator(config)
+wiki_modules_gen.generate()  # Generates both ship and equipment modules
 ```
 
 ## Project Structure

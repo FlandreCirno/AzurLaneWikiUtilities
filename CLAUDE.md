@@ -216,6 +216,44 @@ See [docs/character_page_generator.md](docs/character_page_generator.md) for det
 - Voice lines, artist/CV information
 - Ship history and character lore
 
+#### WikiModulesGenerator
+Generates Lua data modules for wiki (模块:舰娘数据 and 模块:装备数据):
+- **Ship Data Module (模块:舰娘数据)**: 843 ships with base stats and properties
+  - Handles duplicate ship names with specific suffixes (e.g., 加贺/加贺BB, 天城/天城CV)
+  - Includes transform flags for ships with retrofits
+  - Filters out breakout stages and special variants
+- **Equipment Data Module (模块:装备数据)**: 770 equipment items
+  - 541 regular equipment with tech levels and regional variants
+  - 226 augment modules (特殊兵装) from special weapons data
+  - Filters 1,182 story/test equipment using template-based detection
+  - Applies 27 name mappings for wiki naming conventions
+  - Adds displayname field for aircraft with ship name conflicts
+
+```python
+from azurlane_wiki import WikiModulesGenerator, Config
+
+config = Config(region='CN')
+generator = WikiModulesGenerator(config)
+
+# Generate both modules
+generator.generate()
+
+# Or generate individually
+generator.generate_ship_data_module()
+generator.generate_equipment_data_module()
+```
+
+**Output files**:
+- `Wiki/模块_舰娘数据.lua` - Ship data for wiki import
+- `Wiki/模块_装备数据.lua` - Equipment data for wiki import
+
+**Key features**:
+- Specific duplicate handling (not generic): 加贺 (main) + 加贺BB (alternate)
+- Equipment name standardization with curly quote fixes
+- Regional variant detection and naming (e.g., 120mm单装炮(皇家))
+- Aircraft displayname handling for ship name conflicts
+- Perfect match with wiki data structure (770/770 equipment, 843 ships)
+
 ## Common Workflows
 
 ### Generating All Wiki Content
