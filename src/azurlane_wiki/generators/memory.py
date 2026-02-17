@@ -119,7 +119,12 @@ class MemoryGenerator(BaseGenerator):
         if story_type == 1:
             return self.stories[filename]
         elif story_type == 2:
-            dungeon = self.dungeons[int(filename)]
+            dungeon_id = int(filename)
+            # Check if dungeon exists in this region's data
+            if dungeon_id not in self.dungeons:
+                print(f"Warning: Dungeon {dungeon_id} not found in this region's data. Skipping.")
+                return []
+            dungeon = self.dungeons[dungeon_id]
             storylist = []
             if 'beginStoy' in dungeon.keys():
                 storylist.append((0, dungeon['beginStoy'], -1))
