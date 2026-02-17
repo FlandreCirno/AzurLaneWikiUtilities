@@ -402,6 +402,10 @@ class CharacterPageGenerator(BaseGenerator):
         Returns list of dicts with:
         - name: Skill name (extracted from skill_data_template, namecodes parsed to {{AF|name}})
         - desc: Skill description (extracted from skill_data_template, namecodes parsed to {{AF|name}})
+
+        For barrage skills (全弹发射/专属弹幕), merges level I and II into wiki format:
+        - Name: "全弹发射" (without level suffix)
+        - Desc: "主炮每进行15（10）次攻击，触发全弹发射-XXI（II）"
         """
         # Get skill IDs from buff_list_display
         buff_list_display = template.get('buff_list_display', [])
@@ -411,9 +415,22 @@ class CharacterPageGenerator(BaseGenerator):
             # Look up skill in skill_data_template (use integer key)
             if skill_id in skill_template:
                 skill_info = skill_template[skill_id]
+                skill_name = skill_info.get('name', '')
+                skill_desc = skill_info.get('desc', '')
+
+                # Check if this is a barrage skill ending with Roman numeral (I, II, III, etc.)
+                if skill_name.endswith('II') or skill_name.endswith('I'):
+                    # Try to merge with level I version for wiki format
+                    merged_name, merged_desc = self._merge_barrage_skill_levels(
+                        skill_id, skill_name, skill_desc, skill_template
+                    )
+                    skill_name = merged_name
+                    skill_desc = merged_desc
+
                 # Parse namecodes in skill name and description to {{AF|name}} format
-                skill_name = parse_name_code(skill_info.get('name', ''), name_code, af=True)
-                skill_desc = parse_name_code(skill_info.get('desc', ''), name_code, af=True)
+                skill_name = parse_name_code(skill_name, name_code, af=True)
+                skill_desc = parse_name_code(skill_desc, name_code, af=True)
+
                 skills.append({
                     'name': skill_name,
                     'desc': skill_desc,
@@ -427,11 +444,76 @@ class CharacterPageGenerator(BaseGenerator):
 
         return skills
 
+    def _merge_barrage_skill_levels(self, skill_id, name_max, desc_max, skill_template):
+        """Merge barrage skill level I and II into wiki format.
+
+        Args:
+            skill_id: Skill ID (assumed to be max level)
+            name_max: Skill name at max level (e.g., "全弹发射II" or "专属弹幕-Z1II")
+            desc_max: Skill description at max level
+            skill_template: Full skill template data
+
+        Returns:
+            tuple: (merged_name, merged_desc) in wiki format
+        """
+        import re
+
+        # Extract level suffix (I, II, III, etc.) at the end
+        level_match = re.search(r'([IVX]+)$', name_max)
+        if not level_match:
+            return name_max, desc_max
+
+        level_suffix = level_match.group(1)
+        base_name = name_max[:-len(level_suffix)]  # Remove level suffix
+
+        # Only process barrage skills (全弹发射 or 专属弹幕)
+        if not (base_name == '全弹发射' or base_name.startswith('专属弹幕')):
+            return name_max, desc_max
+
+        # Try to find level I version (usually skill_id - 1)
+        skill_id_min = skill_id - 1
+        if skill_id_min not in skill_template:
+            # No level I found, return as-is
+            return name_max, desc_max
+
+        skill_info_min = skill_template[skill_id_min]
+        name_min = skill_info_min.get('name', '')
+        desc_min = skill_info_min.get('desc', '')
+
+        # Verify it's the level I version
+        if not name_min.endswith('I') or not name_min.startswith(base_name):
+            return name_max, desc_max
+
+        # Merge the descriptions
+        # Pattern: "主炮每进行15次攻击" (level I) + "主炮每进行10次攻击" (level II)
+        # Result: "主炮每进行15（10）次攻击"
+
+        # Extract trigger count from descriptions
+        count_match_min = re.search(r'(\d+)次攻击', desc_min)
+        count_match_max = re.search(r'(\d+)次攻击', desc_max)
+
+        if count_match_min and count_match_max:
+            count_min = count_match_min.group(1)
+            count_max = count_match_max.group(1)
+            # Replace max level count with combined format
+            merged_desc = desc_max.replace(
+                f'{count_max}次攻击',
+                f'{count_min}（{count_max}）次攻击'
+            )
+        else:
+            merged_desc = desc_max
+
+        # Merge barrage names in description (e.g., "XXI" + "XXII" -> "XXI（II）")
+        # Pattern: "全弹发射-法拉格特级II" -> "全弹发射-法拉格特级I（II）"
+        merged_desc = re.sub(r'([IVX]+)$', r'I（\1）', merged_desc)
+
+        return base_name, merged_desc
+
     def _get_easter_egg_dialogues(self, stat, ship_skin_words, name_code):
         """Get easter egg dialogues (彩蛋台词) for the ship.
 
-        Returns list of dicts with trigger_group_id, count, type, and dialogue text.
-        Format: {{#invoke:彩蛋台词|对话|<trigger_group>|<count>|<type>}}<dialogue_text>
+        Returns list of dicts with trigger_groups (list), count, type, and dialogue text.
+        Format: {{#invoke:彩蛋台词|解析|<group1>|<group2>|...|<count>|<type>}}<dialogue_text>
         """
         skin_id = stat.get('skin_id', 0)
 
@@ -455,14 +537,13 @@ class CharacterPageGenerator(BaseGenerator):
                 # Parse namecode in dialogue text
                 dialogue_text = parse_name_code(dialogue_text, name_code, af=True)
 
-                # For each trigger group, create an entry
-                for trigger_group in trigger_groups:
-                    easter_eggs.append({
-                        'trigger_group': trigger_group,
-                        'count': count,
-                        'type': egg_type,
-                        'text': dialogue_text
-                    })
+                # Keep all trigger groups together (don't split)
+                easter_eggs.append({
+                    'trigger_groups': trigger_groups,  # Keep as list
+                    'count': count,
+                    'type': egg_type,
+                    'text': dialogue_text
+                })
 
         return easter_eggs
 
@@ -938,7 +1019,9 @@ class CharacterPageGenerator(BaseGenerator):
         easter_eggs = info.get('easter_eggs', [])
         if easter_eggs:
             for i, egg in enumerate(easter_eggs[:2], 1):  # Only first 2 easter eggs
-                invoke = f"{{{{#invoke:彩蛋台词|对话|{egg['trigger_group']}|{egg['count']}|{egg['type']}}}}}"
+                # Format: {{#invoke:彩蛋台词|解析|group1|group2|...|count|type}}text
+                trigger_params = '|'.join(str(g) for g in egg['trigger_groups'])
+                invoke = f"{{{{#invoke:彩蛋台词|解析|{trigger_params}|{egg['count']}|{egg['type']}}}}}"
                 content += f"|彩蛋{i}台词={invoke}{egg['text']}\n"
         else:
             content += "|彩蛋1台词=\n|彩蛋2台词=\n"
@@ -1184,7 +1267,9 @@ class CharacterPageGenerator(BaseGenerator):
         if easter_eggs:
             content += "|血量告急台词=\n"
             for i, egg in enumerate(easter_eggs[:2], 1):  # Only first 2 easter eggs
-                invoke = f"{{{{#invoke:彩蛋台词|对话|{egg['trigger_group']}|{egg['count']}|{egg['type']}}}}}"
+                # Format: {{#invoke:彩蛋台词|解析|group1|group2|...|count|type}}text
+                trigger_params = '|'.join(str(g) for g in egg['trigger_groups'])
+                invoke = f"{{{{#invoke:彩蛋台词|解析|{trigger_params}|{egg['count']}|{egg['type']}}}}}"
                 content += f"|彩蛋{i}台词={invoke}{egg['text']}\n"
         else:
             content += "|血量告急台词=\n|彩蛋1台词=\n|彩蛋2台词=\n"
@@ -1405,7 +1490,9 @@ class CharacterPageGenerator(BaseGenerator):
         easter_eggs = info.get('easter_eggs', [])
         if easter_eggs:
             for i, egg in enumerate(easter_eggs[:2], 1):  # Only first 2 easter eggs
-                invoke = f"{{{{#invoke:彩蛋台词|对话|{egg['trigger_group']}|{egg['count']}|{egg['type']}}}}}"
+                # Format: {{#invoke:彩蛋台词|解析|group1|group2|...|count|type}}text
+                trigger_params = '|'.join(str(g) for g in egg['trigger_groups'])
+                invoke = f"{{{{#invoke:彩蛋台词|解析|{trigger_params}|{egg['count']}|{egg['type']}}}}}"
                 content += f"|彩蛋{i}台词={invoke}{egg['text']}\n"
         else:
             content += "|彩蛋1台词=\n|彩蛋2台词=\n"
