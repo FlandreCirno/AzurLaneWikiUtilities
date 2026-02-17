@@ -952,7 +952,7 @@ class CharacterPageGenerator(BaseGenerator):
 |发色=
 |瞳色=
 |萌点=
-}}}}
+}}
 """
 
         # Add skin dialogues AFTER template closes (using Lua module invoke format)
@@ -1198,7 +1198,7 @@ class CharacterPageGenerator(BaseGenerator):
 |发色=
 |瞳色=
 |萌点=
-}}}}
+}}
 """
 
         # Add skin dialogues AFTER template closes (using Lua module invoke format)
@@ -1263,7 +1263,7 @@ class CharacterPageGenerator(BaseGenerator):
 ===相关解释===
 ===相关图片===
 ==其它舰船==
-{{{{舰娘图鉴导航}}}}"""
+{{舰娘图鉴导航}}"""
 
         return content
 
@@ -1419,7 +1419,7 @@ class CharacterPageGenerator(BaseGenerator):
 |发色=
 |瞳色=
 |萌点=
-}}}}
+}}
 """
 
         # Add skin dialogues AFTER template closes (using Lua module invoke format)
@@ -1484,7 +1484,7 @@ class CharacterPageGenerator(BaseGenerator):
 ===相关解释===
 ===相关图片===
 ==其它舰船==
-{{{{舰娘图鉴导航}}}}"""
+{{舰娘图鉴导航}}"""
 
         return content
 
