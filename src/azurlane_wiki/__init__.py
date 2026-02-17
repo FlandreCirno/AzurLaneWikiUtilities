@@ -11,6 +11,7 @@ from .generators import (
     ShipIndexGenerator,
     JuusNamesGenerator,
     CharacterPageGenerator,
+    WikiModulesGenerator,
 )
 
 __all__ = [
@@ -22,4 +23,5 @@ __all__ = [
     'ShipIndexGenerator',
     'JuusNamesGenerator',
     'CharacterPageGenerator',
+    'WikiModulesGenerator',
 ]
