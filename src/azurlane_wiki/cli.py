@@ -20,6 +20,7 @@ from .generators import (
     ShipIndexGenerator,
     JuusNamesGenerator,
     CharacterPageGenerator,
+    WikiModulesGenerator,
 )
 
 
@@ -38,7 +39,7 @@ def main():
 
     parser.add_argument(
         '--generator',
-        choices=['all', 'memory', 'stats', 'chapters', 'index', 'juus', 'character'],
+        choices=['all', 'memory', 'stats', 'chapters', 'index', 'juus', 'character', 'wiki-modules'],
         default='all',
         help='Which generator to run (default: all)'
     )
@@ -99,6 +100,12 @@ def main():
             generator = CharacterPageGenerator(config)
             generator.generate()
             print("  [OK] Character pages generated")
+
+        if args.generator in ['all', 'wiki-modules']:
+            print("Generating wiki modules...")
+            generator = WikiModulesGenerator(config)
+            generator.generate()
+            print("  [OK] Wiki modules generated")
 
         print()
         print("[SUCCESS] Generation complete!")
