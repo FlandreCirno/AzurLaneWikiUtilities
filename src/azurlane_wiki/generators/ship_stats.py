@@ -2,22 +2,15 @@
 """Ship statistics generator (from PNData.py)."""
 import os
 from .base import BaseGenerator
-from ..core import parse_data_file
+from ..core import parse_data_file, ShipStatsCalculator
 
 
 class ShipStatsGenerator(BaseGenerator):
     """Generator for ship statistics data."""
 
-    STATUS_ENUM = {
-        'durability': 0, 'cannon': 1, 'torpedo': 2, 'antiaircraft': 3,
-        'air': 4, 'reload': 5, 'range': 6, 'hit': 7, 'dodge': 8,
-        'speed': 9, 'luck': 10, 'antisub': 11, 'gearscore': 12
-    }
-
-    STATUS_INVERSE = [
-        'durability', 'cannon', 'torpedo', 'antiaircraft', 'air', 'reload',
-        'range', 'hit', 'dodge', 'speed', 'luck', 'antisub', 'gearscore'
-    ]
+    # Re-export calculator constants for backward compatibility
+    STATUS_ENUM = ShipStatsCalculator.STATUS_ENUM
+    STATUS_INVERSE = ShipStatsCalculator.STATUS_INVERSE
 
     def generate(self):
         """Generate ship statistics files."""
@@ -116,58 +109,58 @@ class ShipStatsGenerator(BaseGenerator):
 
     def _status_trans_total(self, trans_list):
         """Calculate total transformation bonuses."""
-        total = [0] * 13
-        for t in trans_list:
-            if t['type'] in self.STATUS_ENUM.keys():
-                total[self.STATUS_ENUM[t['type']]] += t['amount']
-        return total
+        return ShipStatsCalculator.status_list_to_total(trans_list)
+
+    def apply_pr_development_bonus(self, pn, group_id, blueprint_data, blueprint_strengthen, breakout=3):
+        """Apply PR/DR ship development bonuses to PN array.
+
+        Args:
+            pn: PN array (56 values)
+            group_id: Ship group ID (group_type, not code)
+            blueprint_data: Blueprint data dict
+            blueprint_strengthen: Blueprint strengthen data dict
+            breakout: Breakout level (3 for max)
+
+        Returns:
+            Modified PN array with development bonuses applied
+        """
+        return ShipStatsCalculator.apply_pr_development_bonus(
+            pn, group_id, blueprint_data, blueprint_strengthen, breakout
+        )
 
     def _modify_tech_data(self, data, blueprint_data, blueprint_strengthen):
         """Modify data for PR/DR ships with blueprint strengthening."""
         for ship in data:
             if 20000 < ship['realID'] < 30000:
                 group_id = ship['groupID']
-                blueprint_strengthen_id = blueprint_data[group_id]['strengthen_effect']
-                strengthen_list = []
+                ship['values'] = self.apply_pr_development_bonus(
+                    ship['values'], group_id, blueprint_data, blueprint_strengthen, ship['breakout']
+                )
 
-                for i in range(0, min(30, ship['breakout'] * 10)):
-                    if ('effect_attr' in blueprint_strengthen[blueprint_strengthen_id[i]].keys() and
-                            blueprint_strengthen[blueprint_strengthen_id[i]]['effect_attr']):
-                        for effect in blueprint_strengthen[blueprint_strengthen_id[i]]['effect_attr']:
-                            strengthen_list.append({'type': effect[0], 'amount': effect[1] * 100})
-                    for j in range(5):
-                        strengthen_list.append({
-                            'type': self.STATUS_INVERSE[j + 1],
-                            'amount': blueprint_strengthen[blueprint_strengthen_id[i]]['effect'][j]
-                        })
+    def apply_meta_repair_bonus(self, pn, strengthen_id, meta_strengthen, meta_repair, meta_repair_effect):
+        """Apply META ship repair/sync bonuses to PN array.
 
-                strengthen_total = self._status_trans_total(strengthen_list)
-                for i in range(12):
-                    ship['values'][3 * i] += strengthen_total[i] // 100
-                for i in range(36, 41):
-                    ship['values'][i] = 0
+        Args:
+            pn: PN array (56 values)
+            strengthen_id: Strengthen ID from template
+            meta_strengthen: META strengthen data dict
+            meta_repair: META repair data dict
+            meta_repair_effect: META repair effect data dict
+
+        Returns:
+            Modified PN array with repair bonuses applied
+        """
+        return ShipStatsCalculator.apply_meta_repair_bonus(
+            pn, strengthen_id, meta_strengthen, meta_repair, meta_repair_effect
+        )
 
     def _modify_meta_data(self, data, meta_strengthen, meta_repair, meta_repair_effect):
         """Modify data for META ships with repair bonuses."""
         for ship in data:
             if 30000 < ship['realID'] < 40000:
-                strengthen_data = meta_strengthen[ship['strengthen']]
-                strengthen_list = []
-
-                for s, i in self.STATUS_ENUM.items():
-                    if "repair_" + s in strengthen_data.keys():
-                        for repair in strengthen_data["repair_" + s]:
-                            attr = meta_repair[repair]["effect_attr"]
-                            strengthen_list.append({'type': attr[0], 'amount': attr[1]})
-
-                for repair in strengthen_data['repair_effect']:
-                    effect = meta_repair_effect[repair[1]]
-                    for attr in effect["effect_attr"]:
-                        strengthen_list.append({'type': attr[0], 'amount': attr[1]})
-
-                strengthen_total = self._status_trans_total(strengthen_list)
-                for i in range(12):
-                    ship['values'][41 + i] += strengthen_total[i]
+                ship['values'] = self.apply_meta_repair_bonus(
+                    ship['values'], ship['strengthen'], meta_strengthen, meta_repair, meta_repair_effect
+                )
 
     def _get_data(self, group, statistics, template, strengthen, ship_trans, transform_template, ships=None):
         """Extract ship data for all breakout stages."""
@@ -344,68 +337,7 @@ class ShipStatsGenerator(BaseGenerator):
 
     def _calculate_stats(self, pn, strengthen=True, level=125, intimacy=1.06, remould=True, is_meta=False):
         """Calculate final ship stats at given level."""
-        # Initialize remould bonuses
-        if remould and not is_meta:
-            remould_values = pn[41:54]
-        else:
-            remould_values = [0] * 13
-
-        # Initialize strengthen bonuses
-        if strengthen:
-            if is_meta:
-                strengthen_values = pn[36:41]
-                remould_values = [v * intimacy if i < 9 and i not in [6, 7] else v
-                                  for i, v in enumerate(pn[41:54])]
-            else:
-                strengthen_values = [
-                    int(pn[36 + i] * (min(level, 100) / 100 * 0.7 + 0.3))
-                    for i in range(5)
-                ]
-        else:
-            strengthen_values = [0] * 5
-            if is_meta:
-                remould_values = [0] * 13
-
-        # Calculate stats
-        stats = []
-
-        # Durability
-        stats.append((pn[0] + pn[1] * (level - 1) / 1000 + pn[2] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[0])
-
-        # Cannon
-        stats.append((pn[3] + pn[4] * (level - 1) / 1000 + strengthen_values[0] + pn[5] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[1])
-
-        # Torpedo
-        stats.append((pn[6] + pn[7] * (level - 1) / 1000 + strengthen_values[1] + pn[8] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[2])
-
-        # Antiaircraft
-        stats.append((pn[9] + pn[10] * (level - 1) / 1000 + strengthen_values[2] + pn[11] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[3])
-
-        # Air
-        stats.append((pn[12] + pn[13] * (level - 1) / 1000 + strengthen_values[3] + pn[14] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[4])
-
-        # Reload
-        stats.append((pn[15] + pn[16] * (level - 1) / 1000 + strengthen_values[4] + pn[17] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[5])
-
-        # Range
-        stats.append(pn[18] + pn[19] * (level - 1) / 1000 + pn[20] * (max(level, 100) - 100) / 1000 + remould_values[6])
-
-        # Hit
-        stats.append((pn[21] + pn[22] * (level - 1) / 1000 + pn[23] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[7])
-
-        # Dodge
-        stats.append((pn[24] + pn[25] * (level - 1) / 1000 + pn[26] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[8])
-
-        # Speed
-        stats.append(pn[27] + pn[28] * (level - 1) / 1000 + pn[29] * (max(level, 100) - 100) / 1000 + remould_values[9])
-
-        # Luck
-        stats.append(pn[30] + pn[31] * (level - 1) / 1000 + pn[32] * (max(level, 100) - 100) / 1000 + remould_values[10])
-
-        # Antisub
-        stats.append((pn[33] + pn[34] * (level - 1) / 1000 + pn[35] * (max(level, 100) - 100) / 1000) * intimacy + remould_values[11])
-
-        # Oil
-        stats.append(pn[54] + pn[55] * (0.5 + min(level, 99) * 0.005))
-
-        return stats
+        return ShipStatsCalculator.calculate_stats(
+            pn, strengthen=strengthen, level=level, intimacy=intimacy,
+            remould=remould, is_meta=is_meta
+        )

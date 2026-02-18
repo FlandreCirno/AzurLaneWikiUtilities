@@ -14,6 +14,7 @@ from .name_resolver import (
     get_name_code,
 )
 from .file_utils import sanitize_filename
+from .ship_stats_calculator import ShipStatsCalculator
 
 __all__ = [
     'load_json_file',
@@ -25,4 +26,5 @@ __all__ = [
     'parse_name_code',
     'get_name_code',
     'sanitize_filename',
+    'ShipStatsCalculator',
 ]

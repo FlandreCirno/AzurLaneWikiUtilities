@@ -3,8 +3,7 @@
 import os
 from collections import defaultdict
 from .base import BaseGenerator
-from .ship_stats import ShipStatsGenerator
-from ..core import parse_data_file, get_ship_name, parse_name_code, get_name_code
+from ..core import parse_data_file, get_ship_name, parse_name_code, get_name_code, ShipStatsCalculator
 
 
 class CharacterPageGenerator(BaseGenerator):
@@ -25,7 +24,7 @@ class CharacterPageGenerator(BaseGenerator):
         12: '维修',
         13: '重炮',
         17: '运输',
-        18: '潜母',
+        18: '超巡',
         19: '近卫',
         20: '导驱',
         21: '导战',
@@ -100,11 +99,11 @@ class CharacterPageGenerator(BaseGenerator):
         5: '水面鱼雷',
         6: '防空炮',
         7: '战斗机',
-        8: '轰炸机',
-        9: '攻击机',
+        8: '鱼雷机',
+        9: '轰炸机',
         10: '设备',
         11: '副炮',
-        12: '潜艇鱼雷',
+        12: '水上机',
         13: '潜艇鱼雷',
         14: '反潜',
         15: '设备',
@@ -117,7 +116,24 @@ class CharacterPageGenerator(BaseGenerator):
 
     def __init__(self, config=None):
         super().__init__(config)
-        self.stats_generator = ShipStatsGenerator(config)
+        # Load ship type mapping from game data
+        self._load_ship_type_map()
+
+    def _load_ship_type_map(self):
+        """Load ship type names from ship_data_by_type.json and apply wiki terminology."""
+        ship_by_type = parse_data_file('ship_data_by_type', config=self.config)
+
+        # Mapping from game terminology to wiki terminology
+        game_to_wiki = {
+            '正航': '航母',  # Fleet Carrier -> Aircraft Carrier (wiki prefers this term)
+        }
+
+        for type_id, data in ship_by_type.items():
+            if isinstance(data, dict) and 'type_name' in data:
+                game_name = data['type_name']
+                # Use wiki terminology if available, otherwise use game name
+                wiki_name = game_to_wiki.get(game_name, game_name)
+                self.SHIP_TYPE_MAP[type_id] = wiki_name
 
     def generate(self):
         """Generate character page stubs."""
@@ -134,6 +150,10 @@ class CharacterPageGenerator(BaseGenerator):
         ship_trans = self._get_ship_trans()
         transform_template = self._get_transform_template()
         blueprint_data = self._get_ship_data_blueprint()
+        blueprint_strengthen = self._get_ship_strengthen_blueprint()
+        meta_strengthen = self._get_ship_strengthen_meta()
+        meta_repair = self._get_ship_meta_repair()
+        meta_repair_effect = self._get_ship_meta_repair_effect()
         skill_display = self._get_skill_display()
         skill_template = self._get_skill_template()
         ship_skin_words = self._get_ship_skin_words()
@@ -159,7 +179,8 @@ class CharacterPageGenerator(BaseGenerator):
                 ship_info = self._get_ship_info(
                     code, group_id, group_data, statistics, template,
                     skin_template, strengthen, ship_trans, transform_template,
-                    blueprint_data, skill_display, skill_template, ship_skin_words
+                    blueprint_data, blueprint_strengthen, meta_strengthen, meta_repair, meta_repair_effect,
+                    skill_display, skill_template, ship_skin_words
                 )
 
                 if ship_info:
@@ -194,6 +215,18 @@ class CharacterPageGenerator(BaseGenerator):
         os.makedirs(os.path.join(base_dir, '建造'), exist_ok=True)
         os.makedirs(os.path.join(base_dir, '科研'), exist_ok=True)
         os.makedirs(os.path.join(base_dir, 'Meta'), exist_ok=True)
+
+    def _get_wiki_id(self, ship_id):
+        """Get wiki ID from ship ID."""
+        wiki_id = '%03d' % (ship_id % 10000)
+        if ship_id < 10000:
+            return wiki_id
+        elif ship_id < 20000:
+            return 'Collab' + wiki_id
+        elif ship_id < 30000:
+            return 'Plan' + wiki_id
+        elif ship_id < 40000:
+            return 'META' + wiki_id
 
     def _get_ship_category(self, code):
         """Determine ship category based on code."""
@@ -238,24 +271,28 @@ class CharacterPageGenerator(BaseGenerator):
 
     def _get_ship_info(self, code, group_id, group_data, statistics, template,
                        skin_template, strengthen, ship_trans, transform_template,
-                       blueprint_data, skill_display, skill_template, ship_skin_words):
+                       blueprint_data, blueprint_strengthen, meta_strengthen, meta_repair, meta_repair_effect,
+                       skill_display, skill_template, ship_skin_words):
         """Extract comprehensive ship information."""
         # Load name code dictionary for parsing {namecode:123} placeholders
         name_code = get_name_code(self.config)
 
         # Get all breakout ship IDs
+        # Filter like ship_stats.py does: temp_id // 10 == group_type
+        # This ensures we only get the 4 breakout stages (0-3) for each ship
         ship_ids = []
+        group_type = group_data['group_type']
         for temp_id, temp in template.items():
-            if isinstance(temp, dict) and temp.get('group_type') == group_data['group_type']:
+            if isinstance(temp, dict) and temp.get('group_type') == group_type and temp_id // 10 == group_type:
                 ship_ids.append((temp_id, temp.get('star', 0), temp.get('star_max', 0)))
 
         if not ship_ids:
             return None
 
-        # Sort by star level to get initial and max breakout
-        ship_ids.sort(key=lambda x: x[1])
+        # Sort by star level, then by template ID to get max development template last
+        ship_ids.sort(key=lambda x: (x[1], x[0]))
         initial_id = ship_ids[0][0]  # Lowest star (initial)
-        max_id = ship_ids[-1][0]     # Highest star (max breakout)
+        max_id = ship_ids[-1][0]     # Highest star (max breakout + max development)
 
         # Get statistics for both initial and max
         initial_stat_key = str(initial_id) if str(initial_id) in statistics else initial_id
@@ -279,23 +316,32 @@ class CharacterPageGenerator(BaseGenerator):
         name = parse_name_code(name, name_code, af=False)
 
         # Calculate stats
-        wiki_id = self.stats_generator._get_wiki_id(code)
+        wiki_id = self._get_wiki_id(code)
         category = self._get_ship_category(code)
 
         # Get initial stats (level 1, initial breakout)
         initial_attrs = initial_stat.get('attrs', [0] * 12)
         initial_stats = initial_attrs[:12]
 
-        # Get max stats using full calculation (level 120, max breakout, with bonuses)
+        # Get max stats using full calculation (level 125, max breakout, with bonuses)
+        # Note: blueprint_data is indexed by group_type, not group_id
+        group_type = group_data.get('group_type', group_id)
         max_stats = self._calculate_max_level_stats(
-            max_stat, max_temp, strengthen, category, code
+            max_stat, max_temp, strengthen, category, code, group_type,
+            blueprint_data, blueprint_strengthen, meta_strengthen, meta_repair, meta_repair_effect
         )
 
         # Get skills (with namecode parsing)
         skills = self._get_ship_skills(max_temp, skill_template, name_code)
 
+        # Get ship type (hull type) for special equipment handling
+        ship_hull_type = max_stat.get('type', 0)
+
         # Get equipment info
-        equipment = self._get_equipment_info(initial_temp, initial_stat, max_temp, max_stat)
+        # Note: For PR ships, equipment proficiency bonuses are already baked into the template data
+        # at different development levels (e.g., template 900910 for max dev level 30),
+        # so we don't need to calculate them separately
+        equipment = self._get_equipment_info(initial_temp, initial_stat, max_temp, max_stat, None, ship_hull_type)
 
         # Get enhancement/strengthen info
         enhancement = self._get_enhancement_info(max_temp, strengthen)
@@ -317,6 +363,14 @@ class CharacterPageGenerator(BaseGenerator):
         # Determine if has retrofit
         has_retrofit = group_id in ship_trans and ship_trans[group_id].get('transform_list')
 
+        # Get META repair bonuses for META ships
+        meta_bonuses = None
+        if category == 'Meta':
+            strengthen_id = max_temp.get('strengthen_id', 0)
+            meta_bonuses = self._get_meta_repair_bonuses(
+                strengthen_id, meta_strengthen, meta_repair, meta_repair_effect
+            )
+
         # Convert property_hexagon from game order to wiki order
         # Game order: [炮击, 雷击, 航空, 机动, 防空, 耐久]
         # Wiki order: [耐久, 防空, 机动, 航空, 雷击, 炮击]
@@ -336,7 +390,7 @@ class CharacterPageGenerator(BaseGenerator):
             'name': name,
             'english_name': max_stat.get('english_name', ''),
             'category': category,
-            'ship_type': self.SHIP_TYPE_MAP.get(group_data['type'], '未知'),
+            'ship_type': self._get_ship_type(group_data),
             'rarity': self._get_rarity(category, max_stat, blueprint_data, group_id),
             'nationality': group_data.get('nationality', 0),
             'armor_type': self.ARMOR_TYPE_MAP.get(max_stat.get('armor_type', 1), '未知'),
@@ -346,6 +400,7 @@ class CharacterPageGenerator(BaseGenerator):
             'skills': skills,
             'equipment': equipment,
             'enhancement': enhancement,
+            'meta_bonuses': meta_bonuses,  # META repair bonuses (None for non-META ships)
             'oil_consumption': oil_consumption,
             'dialogues': dialogues,
             'skin_dialogues': skin_dialogues,
@@ -353,6 +408,15 @@ class CharacterPageGenerator(BaseGenerator):
             'has_retrofit': has_retrofit,
             'star_max': max_temp.get('star_max', 0),
         }
+
+    def _get_ship_type(self, group_data):
+        """Get ship type from ship_data_by_type mapping.
+
+        The correct ship type names are loaded from ship_data_by_type.json
+        which provides the canonical type names for all ship types.
+        """
+        ship_type = group_data.get('type', 0)
+        return self.SHIP_TYPE_MAP.get(ship_type, '未知')
 
     def _get_rarity(self, category, stat, blueprint_data, group_id):
         """Get ship rarity."""
@@ -365,35 +429,65 @@ class CharacterPageGenerator(BaseGenerator):
             rarity = stat.get('rarity', 2)
             return self.RARITY_MAP.get(rarity, '普通')
 
-    def _calculate_max_level_stats(self, stat, template, strengthen, category, code):
-        """Calculate max level stats (level 120, with bonuses)."""
+    def _calculate_max_level_stats(self, stat, template, strengthen, category, code, group_id,
+                                   blueprint_data, blueprint_strengthen, meta_strengthen, meta_repair, meta_repair_effect):
+        """Calculate max level stats (level 125, with bonuses).
+
+        Uses the same logic as ship_stats.py to apply development/repair bonuses.
+
+        Note: For PR ships using 900xxx template IDs, the development bonuses are already
+        baked into the template stats, so we should NOT apply them again.
+        """
+        # Build base PN array from statistics
         attrs = stat.get('attrs', [0] * 12)
         attrs_growth = stat.get('attrs_growth', [0] * 12)
         attrs_growth_extra = stat.get('attrs_growth_extra', [0] * 12)
 
-        # Build PN array similar to ShipStatsGenerator
-        pn = [0] * 56
-        for i in range(12):
-            pn[3 * i] = attrs[i]
-            pn[3 * i + 1] = attrs_growth[i]
-            pn[3 * i + 2] = attrs_growth_extra[i]
-
         # Get strengthen values
         strengthen_id = template.get('strengthen_id', 0)
+        strengthen_values = None
         if strengthen_id in strengthen:
             strengthen_values = strengthen[strengthen_id].get('durability', [0] * 5)
-            for i in range(5):
-                pn[36 + i] = strengthen_values[i] if i < len(strengthen_values) else 0
 
-        # Determine if META ship
-        is_meta = 30000 <= code < 40000
-
-        # Calculate level 120 stats using the same formula as ShipStatsGenerator
-        stats = self.stats_generator._calculate_stats(
-            pn, strengthen=True, level=120, intimacy=1.06, remould=False, is_meta=is_meta
+        # Build PN array using calculator
+        pn = ShipStatsCalculator.build_pn_array(
+            attrs, attrs_growth, attrs_growth_extra,
+            strengthen_values=strengthen_values,
+            oil_at_start=template.get('oil_at_start', 0),
+            oil_at_end=template.get('oil_at_end', 0)
         )
 
+        # Determine ship category
+        is_pr = 20000 <= code < 30000
+        is_meta = 30000 <= code < 40000
+
+        # Apply category-specific bonuses
+        if is_pr:
+            # PR/DR ships: Apply development bonuses
+            pn = ShipStatsCalculator.apply_pr_development_bonus(
+                pn, group_id, blueprint_data, blueprint_strengthen, breakout=3
+            )
+            # Calculate with strengthen=False since development bonuses replace it
+            stats = ShipStatsCalculator.calculate_stats(
+                pn, strengthen=False, level=125, intimacy=1.06, remould=False, is_meta=False
+            )
+        elif is_meta:
+            # META ships: Apply repair bonuses
+            pn = ShipStatsCalculator.apply_meta_repair_bonus(
+                pn, strengthen_id, meta_strengthen, meta_repair, meta_repair_effect
+            )
+            # Calculate with strengthen=True and is_meta=True
+            stats = ShipStatsCalculator.calculate_stats(
+                pn, strengthen=True, level=125, intimacy=1.06, remould=False, is_meta=True
+            )
+        else:
+            # Normal ships: Use regular strengthening
+            stats = ShipStatsCalculator.calculate_stats(
+                pn, strengthen=True, level=125, intimacy=1.06, remould=False, is_meta=False
+            )
+
         # Return first 12 stats (durability through antisub)
+        # Use int() for truncation to match wiki calculations
         return [int(s) for s in stats[:12]]
 
     def _get_ship_skills(self, template, skill_template, name_code):
@@ -417,6 +511,9 @@ class CharacterPageGenerator(BaseGenerator):
                 skill_info = skill_template[skill_id]
                 skill_name = skill_info.get('name', '')
                 skill_desc = skill_info.get('desc', '')
+
+                # Replace skill parameter placeholders ($1, $2, etc.) with actual values
+                skill_desc = self._replace_skill_parameters(skill_desc, skill_info)
 
                 # Check if this is a barrage skill ending with Roman numeral (I, II, III, etc.)
                 if skill_name.endswith('II') or skill_name.endswith('I'):
@@ -443,6 +540,54 @@ class CharacterPageGenerator(BaseGenerator):
                 })
 
         return skills
+
+    def _replace_skill_parameters(self, skill_desc, skill_info):
+        """Replace skill parameter placeholders ($1, $2, etc.) with actual values.
+
+        Args:
+            skill_desc: Skill description with placeholders (e.g., "炮击有5%概率发动,8秒内自身机动提升$1")
+            skill_info: Full skill data from skill_data_template
+
+        Returns:
+            Skill description with parameters replaced in wiki format (e.g., "...提升15.0%(30.0%)")
+        """
+        # Get parameter values from desc_get_add (preferred) or desc_add
+        desc_get_add = skill_info.get('desc_get_add', [])
+
+        if not desc_get_add:
+            # No parameters to replace
+            return skill_desc
+
+        # Replace each $N placeholder with the corresponding parameter value
+        for param_index, param_values in enumerate(desc_get_add):
+            placeholder = f'${param_index + 1}'
+
+            if placeholder in skill_desc and param_values:
+                # Ensure param_values is a list
+                if not isinstance(param_values, list):
+                    param_values = [param_values]
+
+                # Format: min_value(max_value) for wiki display
+                # param_values is like ['15.0%', '30.0%'] for [level 1, level 10]
+                if len(param_values) >= 2:
+                    min_val = str(param_values[0])
+                    max_val = str(param_values[1])
+                    # Wiki format: "15.0%(30.0%)" or just "30.0%" if same
+                    if min_val == max_val:
+                        replacement = max_val
+                    else:
+                        replacement = f'{min_val}({max_val})'
+                elif len(param_values) == 1:
+                    # Only one value available
+                    replacement = str(param_values[0])
+                else:
+                    # Empty parameter, skip replacement
+                    continue
+
+                # Replace the placeholder
+                skill_desc = skill_desc.replace(placeholder, replacement)
+
+        return skill_desc
 
     def _merge_barrage_skill_levels(self, skill_id, name_max, desc_max, skill_template):
         """Merge barrage skill level I and II into wiki format.
@@ -704,8 +849,12 @@ class CharacterPageGenerator(BaseGenerator):
 
         return dialogues
 
-    def _get_equipment_info(self, initial_template, initial_stat, max_template, max_stat):
+    def _get_equipment_info(self, initial_template, initial_stat, max_template, max_stat, pr_prof_bonuses=None, ship_type=None):
         """Get equipment slot information.
+
+        Args:
+            pr_prof_bonuses: Optional [slot1, slot2, slot3] proficiency bonuses for PR ships (in decimal)
+            ship_type: Ship hull type number (18 = super cruiser)
 
         Returns dict with equipment data for all 3 slots:
         - slot_types: [type1, type2, type3] - Equipment type names
@@ -721,8 +870,13 @@ class CharacterPageGenerator(BaseGenerator):
                 # Get first allowed equipment type
                 type_id = equip_types[0]
                 type_name = self.EQUIPMENT_TYPE_MAP.get(type_id, f'未知({type_id})')
+
+                # Special handling for super cruisers (CB-class, type 18)
+                # They can equip both regular heavy cruiser guns (type 3) and large-caliber ones
+                if ship_type == 18 and type_id == 3 and i == 1:  # Slot 1 only
+                    type_name = '重巡炮、大口径重巡炮'
                 # If multiple types allowed, concatenate with "、"
-                if len(equip_types) > 1:
+                elif len(equip_types) > 1:
                     type_names = [self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types]
                     type_name = '、'.join(type_names)
                 slot_types.append(type_name)
@@ -735,6 +889,14 @@ class CharacterPageGenerator(BaseGenerator):
 
         # Get max breakout data from max stats
         max_proficiency = max_stat.get('equipment_proficiency', [0, 0, 0])
+
+        # Apply PR development bonuses if provided
+        if pr_prof_bonuses:
+            max_proficiency = [
+                max_proficiency[i] + pr_prof_bonuses[i] if i < len(max_proficiency) else pr_prof_bonuses[i]
+                for i in range(3)
+            ]
+
         max_efficiency = [int(p * 100) if p else 0 for p in max_proficiency]
 
         return {
@@ -838,6 +1000,16 @@ class CharacterPageGenerator(BaseGenerator):
             'initial': initial_oil,
             'max': max_oil
         }
+
+    def _get_meta_repair_bonuses(self, strengthen_id, meta_strengthen, meta_repair, meta_repair_effect):
+        """Calculate total META repair/sync bonuses.
+
+        Returns dict with total bonuses for each stat after maxing all repairs.
+        Uses the same logic as ship_stats.py apply_meta_repair_bonus().
+        """
+        return ShipStatsCalculator.get_meta_repair_totals(
+            strengthen_id, meta_strengthen, meta_repair, meta_repair_effect
+        )
 
     def _generate_page(self, ship_info, output_name):
         """Generate wiki page stub for a ship."""
@@ -1097,8 +1269,13 @@ class CharacterPageGenerator(BaseGenerator):
 ==游戏相关==
 ===更新日志===
 ===角色设定===
+{{#invoke:角色剧情卡|main}}
 ===相关解释===
 ===相关图片===
+<gallery mode="packed" heights="250px">
+沙盒官方海报.jpg|官方海报
+沙盒换装官方海报.jpg|换装「」
+</gallery>
 ==其它舰船==
 {{舰娘图鉴导航}}"""
 
@@ -1146,16 +1323,16 @@ class CharacterPageGenerator(BaseGenerator):
 |图鉴雷击={info['property_hexagon'][4]}
 |图鉴炮击={info['property_hexagon'][5]}
 |装甲类型={info['armor_type']}
-|初始耐久=
-|初始装填=
-|初始命中=
-|初始炮击=
-|初始雷击=
-|初始机动=
-|初始防空=
-|初始航空=
+|初始耐久={stats[0]}
+|初始装填={stats[5]}
+|初始命中={stats[7]}
+|初始炮击={stats[1]}
+|初始雷击={stats[2]}
+|初始机动={stats[8]}
+|初始防空={stats[3]}
+|初始航空={stats[4]}
 |初始消耗={info['oil_consumption']['initial']}
-|初始反潜=
+|初始反潜={stats[11]}
 |满级耐久={max_stats[0]}
 |满级装填={max_stats[5]}
 |满级命中={max_stats[7]}
@@ -1345,8 +1522,13 @@ class CharacterPageGenerator(BaseGenerator):
 ==游戏相关==
 ===更新日志===
 ===角色设定===
+{{#invoke:角色剧情卡|main}}
 ===相关解释===
 ===相关图片===
+<gallery mode="packed" heights="250px">
+沙盒官方海报.jpg|官方海报
+沙盒换装官方海报.jpg|换装「」
+</gallery>
 ==其它舰船==
 {{舰娘图鉴导航}}"""
 
@@ -1376,14 +1558,14 @@ class CharacterPageGenerator(BaseGenerator):
 |耗时=无法建造
 |营养价值=不可用作强化材料
 |退役收益=无法退役
-|强化加成炮击={info['enhancement']['values'][0]}
-|强化加成雷击={info['enhancement']['values'][1]}
-|强化加成航空={info['enhancement']['values'][2]}
-|强化加成装填={info['enhancement']['values'][3]}
-|强化加成耐久=
-|强化加成防空=
-|强化加成命中=
-|强化加成机动=
+|强化加成炮击={info['meta_bonuses']['cannon'] if info['meta_bonuses'] else 0}
+|强化加成雷击={info['meta_bonuses']['torpedo'] if info['meta_bonuses'] else 0}
+|强化加成航空={info['meta_bonuses']['air'] if info['meta_bonuses'] else 0}
+|强化加成装填={info['meta_bonuses']['reload'] if info['meta_bonuses'] else 0}
+|强化加成耐久={info['meta_bonuses']['durability'] if info['meta_bonuses'] else 0}
+|强化加成防空={info['meta_bonuses']['antiaircraft'] if info['meta_bonuses'] else 0}
+|强化加成命中={info['meta_bonuses']['hit'] if info['meta_bonuses'] else 0}
+|强化加成机动={info['meta_bonuses']['dodge'] if info['meta_bonuses'] else 0}
 |解锁图鉴科技点=19
 |突破至满星科技点=39
 |达到120级科技点=29
@@ -1568,8 +1750,13 @@ class CharacterPageGenerator(BaseGenerator):
 ==游戏相关==
 ===更新日志===
 ===角色设定===
+{{#invoke:角色剧情卡|main}}
 ===相关解释===
 ===相关图片===
+<gallery mode="packed" heights="250px">
+沙盒官方海报.jpg|官方海报
+沙盒换装官方海报.jpg|换装「」
+</gallery>
 ==其它舰船==
 {{舰娘图鉴导航}}"""
 
@@ -1599,6 +1786,18 @@ class CharacterPageGenerator(BaseGenerator):
 
     def _get_ship_data_blueprint(self):
         return parse_data_file('ship_data_blueprint', config=self.config)
+
+    def _get_ship_strengthen_blueprint(self):
+        return parse_data_file('ship_strengthen_blueprint', config=self.config)
+
+    def _get_ship_strengthen_meta(self):
+        return parse_data_file('ship_strengthen_meta', config=self.config)
+
+    def _get_ship_meta_repair(self):
+        return parse_data_file('ship_meta_repair', config=self.config)
+
+    def _get_ship_meta_repair_effect(self):
+        return parse_data_file('ship_meta_repair_effect', config=self.config)
 
     def _get_skill_display(self):
         return parse_data_file('skill_data_display', config=self.config)
