@@ -204,6 +204,111 @@ class ShipStatsCalculator:
         return pn_modified
 
     @staticmethod
+    def get_pr_equipment_proficiency_bonus(
+        group_id: int,
+        blueprint_data: Dict[int, Any],
+        blueprint_strengthen: Dict[int, Any],
+        equip_types: List[List[int]],
+        max_dev_level: int = 30
+    ) -> List[float]:
+        """Calculate PR ship equipment proficiency bonuses from development.
+
+        Args:
+            group_id: Ship group ID (group_type, not code)
+            blueprint_data: Blueprint data dict
+            blueprint_strengthen: Blueprint strengthen data dict
+            equip_types: List of equipment type lists for each slot (not actually used, kept for API compatibility)
+            max_dev_level: Maximum development level (default 30)
+
+        Returns:
+            List of 3 proficiency bonuses (decimal) for each slot
+
+        Important:
+            The "type" value in effect_equipment_proficiency[0] refers to SLOT POSITION, not equipment type ID!
+            This is a different numbering system from the equipment types in ship_data_template.
+
+            Blueprint "type" mapping:
+            - Type 1 = Slot 1 (equip_1) - Usually the main gun slot
+            - Type 2 = Slot 2 (equip_2) - Usually secondary weapon or torpedoes
+            - Type 3 = Slot 3 (equip_3) - Usually AA gun or auxiliary
+
+            Example (Azuma):
+            - Blueprint Type 1 → Slot 1 (which uses equipment types [3, 11] = CA guns)
+            - Blueprint Type 3 → Slot 3 (which uses equipment type [6] = AA guns)
+
+            Do NOT confuse this with equipment type IDs (1=DD gun, 3=CA gun, 6=AA gun, etc.)!
+            Do NOT use 900xxx simulation templates - they have bonuses pre-applied!
+        """
+        if group_id not in blueprint_data:
+            return [0.0, 0.0, 0.0]
+
+        strengthen_ids = blueprint_data[group_id].get('strengthen_effect', [])
+
+        # Collect bonuses by slot position (blueprint "type" = slot index + 1)
+        slot_bonuses = [0.0, 0.0, 0.0]
+
+        for i in range(min(max_dev_level, len(strengthen_ids))):
+            strengthen_id = strengthen_ids[i]
+            if strengthen_id in blueprint_strengthen:
+                effect_equipment = blueprint_strengthen[strengthen_id].get('effect_equipment_proficiency', [])
+                if effect_equipment and len(effect_equipment) >= 2:
+                    slot_type = effect_equipment[0]  # Slot position indicator (1, 2, or 3)
+                    bonus = effect_equipment[1]  # Bonus value (e.g., 0.05 for 5%)
+                    # Convert 1-indexed slot type to 0-indexed slot position
+                    slot_idx = slot_type - 1
+                    if 0 <= slot_idx < 3:
+                        slot_bonuses[slot_idx] += bonus
+
+        return slot_bonuses
+
+    @staticmethod
+    def get_pr_max_luck(
+        group_id: int,
+        blueprint_data: Dict[int, Any],
+        blueprint_strengthen: Dict[int, Any]
+    ) -> int:
+        """Calculate PR ship maximum luck from blueprint development.
+
+        Args:
+            group_id: Ship group ID (group_type, not code)
+            blueprint_data: Blueprint data dict
+            blueprint_strengthen: Blueprint strengthen data dict
+
+        Returns:
+            Total luck bonus from all development levels
+        """
+        if group_id not in blueprint_data:
+            return 0
+
+        strengthen_ids = blueprint_data[group_id].get('strengthen_effect', [])
+        total_luck = 0
+
+        # Check luck bonuses in the strengthen_effect list
+        for strengthen_id in strengthen_ids:
+            if strengthen_id in blueprint_strengthen:
+                effect_attr = blueprint_strengthen[strengthen_id].get('effect_attr', [])
+                # effect_attr format: [["stat_name", value]]
+                if effect_attr and len(effect_attr) > 0:
+                    for attr in effect_attr:
+                        if isinstance(attr, list) and len(attr) >= 2 and attr[0] == 'luck':
+                            total_luck += attr[1]
+
+        # Luck bonuses are typically in IDs beyond the strengthen_effect list (levels 31-35)
+        # Check 5 consecutive IDs after the last strengthen_effect ID
+        if strengthen_ids:
+            last_id = strengthen_ids[-1]
+            for i in range(1, 6):  # Check IDs last_id+1 through last_id+5
+                strengthen_id = last_id + i
+                if strengthen_id in blueprint_strengthen:
+                    effect_attr = blueprint_strengthen[strengthen_id].get('effect_attr', [])
+                    if effect_attr and len(effect_attr) > 0:
+                        for attr in effect_attr:
+                            if isinstance(attr, list) and len(attr) >= 2 and attr[0] == 'luck':
+                                total_luck += attr[1]
+
+        return total_luck
+
+    @staticmethod
     def get_meta_repair_totals(
         strengthen_id: int,
         meta_strengthen: Dict[int, Any],

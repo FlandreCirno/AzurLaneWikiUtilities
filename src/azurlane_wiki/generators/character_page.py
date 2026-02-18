@@ -280,11 +280,18 @@ class CharacterPageGenerator(BaseGenerator):
         # Get all breakout ship IDs
         # Filter like ship_stats.py does: temp_id // 10 == group_type
         # This ensures we only get the 4 breakout stages (0-3) for each ship
+        # IMPORTANT: Do NOT use 900xxx templates! These are "simulation" templates for the
+        # test drive feature and contain incorrect data (e.g., wrong equipment proficiency,
+        # extra slots, etc.). Always use regular templates (e.g., 399044) and calculate
+        # bonuses separately.
         ship_ids = []
         group_type = group_data['group_type']
         for temp_id, temp in template.items():
-            if isinstance(temp, dict) and temp.get('group_type') == group_type and temp_id // 10 == group_type:
-                ship_ids.append((temp_id, temp.get('star', 0), temp.get('star_max', 0)))
+            if isinstance(temp, dict) and temp.get('group_type') == group_type:
+                # Include only regular breakout templates (e.g., 399044)
+                # Exclude 900xxx simulation templates
+                if temp_id // 10 == group_type:
+                    ship_ids.append((temp_id, temp.get('star', 0), temp.get('star_max', 0)))
 
         if not ship_ids:
             return None
@@ -337,11 +344,23 @@ class CharacterPageGenerator(BaseGenerator):
         # Get ship type (hull type) for special equipment handling
         ship_hull_type = max_stat.get('type', 0)
 
+        # Calculate PR equipment proficiency bonuses for PR/DR ships
+        pr_prof_bonuses = None
+        if category == '科研':  # PR/DR ships
+            # Get equipment types for each slot (not actually used by the bonus calculation,
+            # but kept for API compatibility)
+            equip_types = []
+            for i in range(1, 4):
+                equip_field = f'equip_{i}'
+                equip_types.append(max_temp.get(equip_field, []))
+
+            # Calculate development bonuses
+            pr_prof_bonuses = ShipStatsCalculator.get_pr_equipment_proficiency_bonus(
+                group_type, blueprint_data, blueprint_strengthen, equip_types, max_dev_level=30
+            )
+
         # Get equipment info
-        # Note: For PR ships, equipment proficiency bonuses are already baked into the template data
-        # at different development levels (e.g., template 900910 for max dev level 30),
-        # so we don't need to calculate them separately
-        equipment = self._get_equipment_info(initial_temp, initial_stat, max_temp, max_stat, None, ship_hull_type)
+        equipment = self._get_equipment_info(initial_temp, initial_stat, max_temp, max_stat, pr_prof_bonuses, ship_hull_type)
 
         # Get enhancement/strengthen info
         enhancement = self._get_enhancement_info(max_temp, strengthen)
@@ -369,6 +388,13 @@ class CharacterPageGenerator(BaseGenerator):
             strengthen_id = max_temp.get('strengthen_id', 0)
             meta_bonuses = self._get_meta_repair_bonuses(
                 strengthen_id, meta_strengthen, meta_repair, meta_repair_effect
+            )
+
+        # Get PR max luck for PR/DR ships
+        pr_max_luck = None
+        if category == '科研':  # PR/DR ships
+            pr_max_luck = ShipStatsCalculator.get_pr_max_luck(
+                group_type, blueprint_data, blueprint_strengthen
             )
 
         # Convert property_hexagon from game order to wiki order
@@ -401,6 +427,7 @@ class CharacterPageGenerator(BaseGenerator):
             'equipment': equipment,
             'enhancement': enhancement,
             'meta_bonuses': meta_bonuses,  # META repair bonuses (None for non-META ships)
+            'pr_max_luck': pr_max_luck,  # PR max luck bonus (None for non-PR ships)
             'oil_consumption': oil_consumption,
             'dialogues': dialogues,
             'skin_dialogues': skin_dialogues,
@@ -555,6 +582,10 @@ class CharacterPageGenerator(BaseGenerator):
         desc_get_add = skill_info.get('desc_get_add', [])
 
         if not desc_get_add:
+            # Fall back to desc_add if desc_get_add is empty
+            desc_get_add = skill_info.get('desc_add', [])
+
+        if not desc_get_add:
             # No parameters to replace
             return skill_desc
 
@@ -567,22 +598,29 @@ class CharacterPageGenerator(BaseGenerator):
                 if not isinstance(param_values, list):
                     param_values = [param_values]
 
-                # Format: min_value(max_value) for wiki display
-                # param_values is like ['15.0%', '30.0%'] for [level 1, level 10]
-                if len(param_values) >= 2:
-                    min_val = str(param_values[0])
-                    max_val = str(param_values[1])
-                    # Wiki format: "15.0%(30.0%)" or just "30.0%" if same
-                    if min_val == max_val:
-                        replacement = max_val
-                    else:
-                        replacement = f'{min_val}({max_val})'
-                elif len(param_values) == 1:
-                    # Only one value available
-                    replacement = str(param_values[0])
+                # Handle nested arrays (desc_add format): extract first element from each sub-array
+                if len(param_values) > 0 and isinstance(param_values[0], list):
+                    # desc_add format: [[base1, increment], [base2, increment], ...]
+                    # Extract the first element (base value) from the first and last arrays
+                    min_val = str(param_values[0][0]) if len(param_values[0]) > 0 else ''
+                    max_val = str(param_values[-1][0]) if len(param_values[-1]) > 0 else min_val
                 else:
-                    # Empty parameter, skip replacement
-                    continue
+                    # desc_get_add format: ['15.0%', '30.0%'] for [level 1, level 10]
+                    if len(param_values) >= 2:
+                        min_val = str(param_values[0])
+                        max_val = str(param_values[1])
+                    elif len(param_values) == 1:
+                        min_val = max_val = str(param_values[0])
+                    else:
+                        # Empty parameter, skip replacement
+                        continue
+
+                # Format: min_value(max_value) for wiki display
+                # Wiki format: "15.0%(30.0%)" or just "30.0%" if same
+                if min_val == max_val:
+                    replacement = max_val
+                else:
+                    replacement = f'{min_val}({max_val})'
 
                 # Replace the placeholder
                 skill_desc = skill_desc.replace(placeholder, replacement)
@@ -885,7 +923,7 @@ class CharacterPageGenerator(BaseGenerator):
 
         # Get initial efficiency from initial stats (level 1, 0-break)
         initial_proficiency = initial_stat.get('equipment_proficiency', [0, 0, 0])
-        initial_efficiency = [int(p * 100) if p else 0 for p in initial_proficiency]
+        initial_efficiency = [round(p * 100) if p else 0 for p in initial_proficiency]
 
         # Get max breakout data from max stats
         max_proficiency = max_stat.get('equipment_proficiency', [0, 0, 0])
@@ -897,7 +935,7 @@ class CharacterPageGenerator(BaseGenerator):
                 for i in range(3)
             ]
 
-        max_efficiency = [int(p * 100) if p else 0 for p in max_proficiency]
+        max_efficiency = [round(p * 100) if p else 0 for p in max_proficiency]
 
         return {
             'slot_types': slot_types,
@@ -1286,6 +1324,9 @@ class CharacterPageGenerator(BaseGenerator):
         stats = info['initial_stats']
         max_stats = info['max_stats']
 
+        # Format luck with max value for PR ships
+        luck_display = f"0({info['pr_max_luck']})" if info.get('pr_max_luck') else str(stats[10])
+
         content = f"""{{{{舰娘图鉴
 |分组=方案
 |特殊底色=
@@ -1344,7 +1385,7 @@ class CharacterPageGenerator(BaseGenerator):
 |满级消耗={info['oil_consumption']['max']}
 |满级反潜={max_stats[11]}
 |航速={stats[9]}
-|幸运={stats[10]}
+|幸运={luck_display}
 |技能1名={info['skills'][0]['name'] if len(info['skills']) > 0 else ''}
 |技能1={info['skills'][0]['desc'] if len(info['skills']) > 0 else ''}
 |技能2名={info['skills'][1]['name'] if len(info['skills']) > 1 else ''}
