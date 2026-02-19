@@ -379,7 +379,7 @@ class ShipStatsCalculator:
         Returns:
             List of 13 calculated stats [durability, cannon, torpedo, ..., oil]
         """
-        # Initialize remould bonuses
+        # Initialize remould bonuses (no intimacy applied yet)
         if remould and not is_meta:
             remould_values = pn[41:54]
         else:
@@ -388,12 +388,9 @@ class ShipStatsCalculator:
         # Initialize strengthen bonuses
         if strengthen:
             if is_meta:
-                # META ships: use strengthen values directly, apply intimacy to remould
+                # META ships: use strengthen values directly, remould values are repair bonuses
                 strengthen_values = pn[36:41]
-                remould_values = [
-                    v * intimacy if i < 9 and i not in [6, 7] else v
-                    for i, v in enumerate(pn[41:54])
-                ]
+                remould_values = pn[41:54]
             else:
                 # Regular ships: strengthen scales with level (30% at level 1, 100% at level 100)
                 strengthen_values = [
@@ -405,46 +402,46 @@ class ShipStatsCalculator:
             if is_meta:
                 remould_values = [0] * 13
 
-        # Calculate stats
+        # Calculate base stats WITHOUT intimacy first
         stats = []
 
         # Durability (no strengthen)
         stats.append(
-            (pn[0] + pn[1] * (level - 1) / 1000 + pn[2] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[0] + pn[1] * (level - 1) / 1000 + pn[2] * (max(level, 100) - 100) / 1000
             + remould_values[0]
         )
 
         # Cannon
         stats.append(
-            (pn[3] + pn[4] * (level - 1) / 1000 + strengthen_values[0] + pn[5] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[3] + pn[4] * (level - 1) / 1000 + strengthen_values[0] + pn[5] * (max(level, 100) - 100) / 1000
             + remould_values[1]
         )
 
         # Torpedo
         stats.append(
-            (pn[6] + pn[7] * (level - 1) / 1000 + strengthen_values[1] + pn[8] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[6] + pn[7] * (level - 1) / 1000 + strengthen_values[1] + pn[8] * (max(level, 100) - 100) / 1000
             + remould_values[2]
         )
 
         # Antiaircraft
         stats.append(
-            (pn[9] + pn[10] * (level - 1) / 1000 + strengthen_values[2] + pn[11] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[9] + pn[10] * (level - 1) / 1000 + strengthen_values[2] + pn[11] * (max(level, 100) - 100) / 1000
             + remould_values[3]
         )
 
         # Air
         stats.append(
-            (pn[12] + pn[13] * (level - 1) / 1000 + strengthen_values[3] + pn[14] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[12] + pn[13] * (level - 1) / 1000 + strengthen_values[3] + pn[14] * (max(level, 100) - 100) / 1000
             + remould_values[4]
         )
 
         # Reload
         stats.append(
-            (pn[15] + pn[16] * (level - 1) / 1000 + strengthen_values[4] + pn[17] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[15] + pn[16] * (level - 1) / 1000 + strengthen_values[4] + pn[17] * (max(level, 100) - 100) / 1000
             + remould_values[5]
         )
 
-        # Range (no intimacy, no strengthen)
+        # Range (no strengthen)
         stats.append(
             pn[18] + pn[19] * (level - 1) / 1000 + pn[20] * (max(level, 100) - 100) / 1000
             + remould_values[6]
@@ -452,23 +449,23 @@ class ShipStatsCalculator:
 
         # Hit
         stats.append(
-            (pn[21] + pn[22] * (level - 1) / 1000 + pn[23] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[21] + pn[22] * (level - 1) / 1000 + pn[23] * (max(level, 100) - 100) / 1000
             + remould_values[7]
         )
 
         # Dodge
         stats.append(
-            (pn[24] + pn[25] * (level - 1) / 1000 + pn[26] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[24] + pn[25] * (level - 1) / 1000 + pn[26] * (max(level, 100) - 100) / 1000
             + remould_values[8]
         )
 
-        # Speed (no intimacy)
+        # Speed
         stats.append(
             pn[27] + pn[28] * (level - 1) / 1000 + pn[29] * (max(level, 100) - 100) / 1000
             + remould_values[9]
         )
 
-        # Luck (no intimacy)
+        # Luck
         stats.append(
             pn[30] + pn[31] * (level - 1) / 1000 + pn[32] * (max(level, 100) - 100) / 1000
             + remould_values[10]
@@ -476,11 +473,18 @@ class ShipStatsCalculator:
 
         # Antisub
         stats.append(
-            (pn[33] + pn[34] * (level - 1) / 1000 + pn[35] * (max(level, 100) - 100) / 1000) * intimacy
+            pn[33] + pn[34] * (level - 1) / 1000 + pn[35] * (max(level, 100) - 100) / 1000
             + remould_values[11]
         )
 
-        # Oil consumption
+        # Oil consumption (no intimacy)
         stats.append(pn[54] + pn[55] * (0.5 + min(level, 99) * 0.005))
+
+        # Apply intimacy at the END to avoid rounding errors
+        # Intimacy affects: durability, cannon, torpedo, AA, air, reload, hit, dodge, antisub
+        # Does NOT affect: range, speed, luck, oil
+        intimacy_indices = [0, 1, 2, 3, 4, 5, 7, 8, 11]
+        for i in intimacy_indices:
+            stats[i] *= intimacy
 
         return stats

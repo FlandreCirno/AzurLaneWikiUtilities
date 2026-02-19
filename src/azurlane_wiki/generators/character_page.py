@@ -9,26 +9,29 @@ from ..core import parse_data_file, get_ship_name, parse_name_code, get_name_cod
 class CharacterPageGenerator(BaseGenerator):
     """Generator for character page stubs."""
 
-    # Ship type mapping
+    # Ship type mapping — game type ID → wiki type name
+    # Note: game uses "正航" for type 6, wiki uses "航母"
     SHIP_TYPE_MAP = {
         1: '驱逐',
         2: '轻巡',
         3: '重巡',
         4: '战列',
         5: '轻航',
-        6: '航母',
+        6: '航母',   # game: 正航
         7: '潜艇',
         8: '重炮',
+        9: '重巡',
         10: '航战',
-        11: '重巡',  # 超巡
         12: '维修',
-        13: '重炮',
+        13: '潜母',
         17: '运输',
         18: '超巡',
         19: '近卫',
         20: '导驱',
         21: '导战',
-        22: '航巡',
+        22: '风帆',
+        23: '风帆',
+        24: '风帆',
     }
 
     # Rarity mapping
@@ -54,22 +57,28 @@ class CharacterPageGenerator(BaseGenerator):
         7: '北方联合',
         8: '自由鸢尾',
         9: '维希教廷',
-        10: '鸢尾',
-        11: '玛丽亚纳',
-        96: '胡德',
-        97: '海上传奇',
+        10: '其他',
+        11: '郁金王国',
+        91: 'μ兵装',
+        96: '飓风',
+        97: 'META',
         98: '研发',
         99: '试作型',
-        101: 'META',
-        102: 'META',
-        103: 'META',
-        104: 'META',
+        101: '超次元游戏海王星',
+        102: '哔哩哔哩',
+        103: '传颂之物',
+        104: '绊爱',
         105: 'META',
-        106: 'META',
-        107: 'META',
-        109: 'META',
-        110: 'META',
-        111: '郁金王国',
+        106: '死或生沙滩排球',
+        107: '偶像大师',
+        108: 'SSSS',
+        109: '莱莎的炼金工房',
+        110: '闪乱神乐',
+        111: '出包王女',
+        112: '黑岩射手',
+        113: '优米雅的炼金工房',
+        114: '地城邂逅',
+        115: '约会大作战V',
     }
 
     # Armor type mapping
@@ -91,6 +100,7 @@ class CharacterPageGenerator(BaseGenerator):
 
     # Equipment slot type mapping
     # Maps equipment type IDs to Chinese equipment type names
+    # These are fallback values; _load_equipment_type_map() overrides them from game data.
     EQUIPMENT_TYPE_MAP = {
         1: '驱逐炮',
         2: '轻巡炮',
@@ -105,12 +115,11 @@ class CharacterPageGenerator(BaseGenerator):
         11: '副炮',
         12: '水上机',
         13: '潜艇鱼雷',
-        14: '反潜',
-        15: '设备',
-        17: '导弹',
-        18: '潜水器',
-        19: '货物',
-        20: '直升机',
+        14: '设备',
+        15: '反潜机',
+        17: '直升机',
+        18: '货物',
+        20: '导弹',
         21: '防空炮',
     }
 
@@ -118,6 +127,8 @@ class CharacterPageGenerator(BaseGenerator):
         super().__init__(config)
         # Load ship type mapping from game data
         self._load_ship_type_map()
+        # Load equipment type mapping from game data
+        self._load_equipment_type_map()
 
     def _load_ship_type_map(self):
         """Load ship type names from ship_data_by_type.json and apply wiki terminology."""
@@ -134,6 +145,78 @@ class CharacterPageGenerator(BaseGenerator):
                 # Use wiki terminology if available, otherwise use game name
                 wiki_name = game_to_wiki.get(game_name, game_name)
                 self.SHIP_TYPE_MAP[type_id] = wiki_name
+
+        # Apply wiki-specific overrides for sail ship subtypes.
+        # The game uses a single name "风帆" for all three sail types, but the wiki
+        # distinguishes them by hull role: S (sloop/vanguard small), V (vanguard),
+        # M (main fleet).
+        self.SHIP_TYPE_MAP[22] = '风帆S'
+        self.SHIP_TYPE_MAP[23] = '风帆V'
+        self.SHIP_TYPE_MAP[24] = '风帆M'
+
+    def _load_equipment_type_map(self):
+        """Load equipment type names from equip_data_by_type.json.
+
+        The game data provides type_name2 with format like "舰炮(驱逐)", "舰炮(轻巡)", etc.
+        We convert these to wiki terminology: "驱逐炮", "轻巡炮", etc.
+
+        Note: Some equipment type IDs have context-dependent names (e.g., type 11
+        is '副炮' for battleships but '大口径重巡炮' for super cruisers). The base
+        mapping is loaded here, and context-specific overrides are applied in
+        _get_equipment_info().
+        """
+        try:
+            equip_by_type = parse_data_file('equip_data_by_type', config=self.config)
+
+            # Mapping from game equipment category to wiki terminology
+            # These are NAME MAPPINGS (terminology conversions), which are fine to hardcode
+            game_to_wiki_equip = {
+                '舰炮(驱逐)': '驱逐炮',
+                '舰炮(轻巡)': '轻巡炮',
+                '舰炮(重巡)': '重巡炮',
+                '舰炮(战列)': '战列炮',
+                '舰炮(大口径重巡)': '副炮',  # Type 11; super cruiser slot 1 overrides this in _get_equipment_info()
+                '鱼雷': '水面鱼雷',
+                '鱼雷(潜艇)': '潜艇鱼雷',
+                '防空炮': '防空炮',
+                '战斗机': '战斗机',
+                '鱼雷机': '鱼雷机',
+                '轰炸机': '轰炸机',
+                '设备': '设备',
+                '水上机': '水上机',
+                '导弹': '导弹',
+                '货物': '货物',
+                '直升机': '直升机',
+                '反潜机': '反潜机',
+            }
+
+            for type_id, data in equip_by_type.items():
+                if isinstance(data, dict):
+                    # Use type_name2 (detailed name with category)
+                    type_name2 = data.get('type_name2', '')
+                    type_name = data.get('type_name', '')
+
+                    # Convert to wiki terminology
+                    wiki_name = game_to_wiki_equip.get(type_name2, type_name2)
+                    # If no match in type_name2, try type_name
+                    if wiki_name == type_name2 and type_name:
+                        wiki_name = game_to_wiki_equip.get(type_name, type_name)
+
+                    if wiki_name:
+                        # Convert string key to int
+                        type_id_int = int(type_id) if isinstance(type_id, str) else type_id
+                        self.EQUIPMENT_TYPE_MAP[type_id_int] = wiki_name
+
+            # Type 6 (short-range AA) and type 21 (long-range AA) are two distinct equipment
+            # categories, but wiki character pages display both as just '防空炮' to avoid
+            # confusion. The game data gives both type_name='防空炮', so this is already
+            # handled by the loop above, but we set it explicitly to document the intent.
+            self.EQUIPMENT_TYPE_MAP[6] = '防空炮'
+            self.EQUIPMENT_TYPE_MAP[21] = '防空炮'
+        except Exception as e:
+            # If loading fails, keep the hardcoded defaults
+            print(f"Warning: Failed to load equipment types from game data: {e}")
+            print("Using hardcoded EQUIPMENT_TYPE_MAP as fallback")
 
     def generate(self):
         """Generate character page stubs."""
@@ -157,6 +240,7 @@ class CharacterPageGenerator(BaseGenerator):
         skill_display = self._get_skill_display()
         skill_template = self._get_skill_template()
         ship_skin_words = self._get_ship_skin_words()
+        fleet_tech = self._get_fleet_tech_ship_template()
 
         # Track ship names for duplicates
         name_counts = defaultdict(int)
@@ -180,7 +264,7 @@ class CharacterPageGenerator(BaseGenerator):
                     code, group_id, group_data, statistics, template,
                     skin_template, strengthen, ship_trans, transform_template,
                     blueprint_data, blueprint_strengthen, meta_strengthen, meta_repair, meta_repair_effect,
-                    skill_display, skill_template, ship_skin_words
+                    skill_display, skill_template, ship_skin_words, fleet_tech
                 )
 
                 if ship_info:
@@ -253,8 +337,8 @@ class CharacterPageGenerator(BaseGenerator):
             '北方联合': 'SN',
             '自由鸢尾': 'FFNF',
             '维希教廷': 'MNF',
-            '鸢尾': 'FFNF',
             '郁金王国': 'NL',
+            '飓风': 'TP',
         }
         return suffix_map.get(nation, nation)
 
@@ -272,7 +356,7 @@ class CharacterPageGenerator(BaseGenerator):
     def _get_ship_info(self, code, group_id, group_data, statistics, template,
                        skin_template, strengthen, ship_trans, transform_template,
                        blueprint_data, blueprint_strengthen, meta_strengthen, meta_repair, meta_repair_effect,
-                       skill_display, skill_template, ship_skin_words):
+                       skill_display, skill_template, ship_skin_words, fleet_tech):
         """Extract comprehensive ship information."""
         # Load name code dictionary for parsing {namecode:123} placeholders
         name_code = get_name_code(self.config)
@@ -410,6 +494,18 @@ class CharacterPageGenerator(BaseGenerator):
             game_hexagon[0] if len(game_hexagon) > 0 else 'E',  # 炮击
         ]
 
+        # Get tech points from fleet_tech_ship_template
+        # Tech points are indexed by group_type
+        tech_points = {'get': 0, 'upgrade': 0, 'level': 0}
+        if group_type in fleet_tech or str(group_type) in fleet_tech:
+            tech_key = group_type if group_type in fleet_tech else str(group_type)
+            tech_data = fleet_tech[tech_key]
+            tech_points = {
+                'get': tech_data.get('pt_get', 0),
+                'upgrade': tech_data.get('pt_upgrage', 0),  # Note: game data has typo "upgrage"
+                'level': tech_data.get('pt_level', 0)
+            }
+
         return {
             'code': code,
             'wiki_id': wiki_id,
@@ -434,6 +530,7 @@ class CharacterPageGenerator(BaseGenerator):
             'easter_eggs': easter_eggs,
             'has_retrofit': has_retrofit,
             'star_max': max_temp.get('star_max', 0),
+            'tech_points': tech_points,  # Tech points from fleet_tech_ship_template
         }
 
     def _get_ship_type(self, group_data):
@@ -905,18 +1002,42 @@ class CharacterPageGenerator(BaseGenerator):
             equip_field = f'equip_{i}'
             equip_types = initial_template.get(equip_field, [])
             if equip_types and len(equip_types) > 0:
-                # Get first allowed equipment type
-                type_id = equip_types[0]
-                type_name = self.EQUIPMENT_TYPE_MAP.get(type_id, f'未知({type_id})')
+                # Special handling for super cruisers (CB-class, type 18) slot 1
+                # Equipment type 11 has context-dependent meaning:
+                # - For battleships: '副炮' (auxiliary gun)
+                # - For super cruisers: '大口径重巡炮' (large-caliber CA gun)
+                if ship_type == 18 and i == 1:  # Super cruiser main gun slot
+                    has_ca_gun = 3 in equip_types       # Regular CA gun (type 3)
+                    has_large_ca = 11 in equip_types    # Large-caliber CA gun (type 11)
 
-                # Special handling for super cruisers (CB-class, type 18)
-                # They can equip both regular heavy cruiser guns (type 3) and large-caliber ones
-                if ship_type == 18 and type_id == 3 and i == 1:  # Slot 1 only
-                    type_name = '重巡炮、大口径重巡炮'
-                # If multiple types allowed, concatenate with "、"
-                elif len(equip_types) > 1:
-                    type_names = [self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types]
-                    type_name = '、'.join(type_names)
+                    if has_ca_gun and has_large_ca:
+                        # Can use both types (e.g., Aegir)
+                        type_name = '重巡炮、大口径重巡炮'
+                    elif has_large_ca and not has_ca_gun:
+                        # Only large-caliber CA guns (e.g., Guam)
+                        type_name = '大口径重巡炮'
+                    elif has_ca_gun and not has_large_ca:
+                        # Only regular CA guns (rare case)
+                        type_name = '重巡炮'
+                    else:
+                        # Other equipment types (fallback to default logic)
+                        if len(equip_types) > 1:
+                            type_names = [self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types]
+                            type_name = '、'.join(type_names)
+                        else:
+                            type_id = equip_types[0]
+                            type_name = self.EQUIPMENT_TYPE_MAP.get(type_id, f'未知({type_id})')
+                else:
+                    # Normal equipment slot handling
+                    if len(equip_types) > 1:
+                        # Multiple types allowed, concatenate with "、"
+                        type_names = [self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types]
+                        type_name = '、'.join(type_names)
+                    else:
+                        # Single type
+                        type_id = equip_types[0]
+                        type_name = self.EQUIPMENT_TYPE_MAP.get(type_id, f'未知({type_id})')
+
                 slot_types.append(type_name)
             else:
                 slot_types.append('')
@@ -937,10 +1058,16 @@ class CharacterPageGenerator(BaseGenerator):
 
         max_efficiency = [round(p * 100) if p else 0 for p in max_proficiency]
 
+        # Get weapon counts and preload counts from max statistics
+        weapon_counts = max_stat.get('base_list', [0, 0, 0])
+        preload_counts = max_stat.get('preload_count', [0, 0, 0])
+
         return {
             'slot_types': slot_types,
             'initial_efficiency': initial_efficiency,
             'max_efficiency': max_efficiency,
+            'weapon_counts': weapon_counts[:3],  # Only first 3 slots
+            'preload_counts': preload_counts[:3],  # Only first 3 slots
         }
 
     def _get_enhancement_info(self, template, strengthen):
@@ -1104,9 +1231,9 @@ class CharacterPageGenerator(BaseGenerator):
 |强化每点航空所需经验={info['enhancement']['exp_per_point']['aviation']}
 |需强化装填={info['enhancement']['required']['reload']}
 |强化每点装填所需经验={info['enhancement']['exp_per_point']['reload']}
-|解锁图鉴科技点=
-|突破至满星科技点=
-|达到120级科技点=
+|解锁图鉴科技点={info['tech_points']['get'] if info['tech_points']['get'] else ''}
+|突破至满星科技点={info['tech_points']['upgrade'] if info['tech_points']['upgrade'] else ''}
+|达到120级科技点={info['tech_points']['level'] if info['tech_points']['level'] else ''}
 |解锁图鉴属性加成=
 |达到120级属性加成=
 |图鉴耐久={info['property_hexagon'][0]}
@@ -1158,12 +1285,12 @@ class CharacterPageGenerator(BaseGenerator):
 |1号槽装备效率满破={info['equipment']['max_efficiency'][0]}%
 |2号槽装备效率满破={info['equipment']['max_efficiency'][1]}%
 |3号槽装备效率满破={info['equipment']['max_efficiency'][2]}%
-|1号槽满破武器数=
-|2号槽满破武器数=
-|3号槽满破武器数=
-|1号槽满破预装填数=
-|2号槽满破预装填数=
-|3号槽满破预装填数=
+|1号槽满破武器数={info['equipment']['weapon_counts'][0] if info['equipment']['weapon_counts'][0] else ''}
+|2号槽满破武器数={info['equipment']['weapon_counts'][1] if info['equipment']['weapon_counts'][1] else ''}
+|3号槽满破武器数={info['equipment']['weapon_counts'][2] if info['equipment']['weapon_counts'][2] else ''}
+|1号槽满破预装填数={info['equipment']['preload_counts'][0]}
+|2号槽满破预装填数={info['equipment']['preload_counts'][1]}
+|3号槽满破预装填数={info['equipment']['preload_counts'][2]}
 |装备1=
 |装备2=
 |装备3=
@@ -1352,9 +1479,9 @@ class CharacterPageGenerator(BaseGenerator):
 |强化每点航空所需经验=
 |需强化装填=
 |强化每点装填所需经验=
-|解锁图鉴科技点=52
-|突破至满星科技点=104
-|达到120级科技点=78
+|解锁图鉴科技点={info['tech_points']['get']}
+|突破至满星科技点={info['tech_points']['upgrade']}
+|达到120级科技点={info['tech_points']['level']}
 |解锁图鉴属性加成=
 |达到120级属性加成=
 |图鉴耐久={info['property_hexagon'][0]}
@@ -1412,12 +1539,12 @@ class CharacterPageGenerator(BaseGenerator):
 |1号槽装备效率满破={info['equipment']['max_efficiency'][0]}%
 |2号槽装备效率满破={info['equipment']['max_efficiency'][1]}%
 |3号槽装备效率满破={info['equipment']['max_efficiency'][2]}%
-|1号槽满破武器数=
-|2号槽满破武器数=
-|3号槽满破武器数=
-|1号槽满破预装填数=
-|2号槽满破预装填数=
-|3号槽满破预装填数=
+|1号槽满破武器数={info['equipment']['weapon_counts'][0] if info['equipment']['weapon_counts'][0] else ''}
+|2号槽满破武器数={info['equipment']['weapon_counts'][1] if info['equipment']['weapon_counts'][1] else ''}
+|3号槽满破武器数={info['equipment']['weapon_counts'][2] if info['equipment']['weapon_counts'][2] else ''}
+|1号槽满破预装填数={info['equipment']['preload_counts'][0]}
+|2号槽满破预装填数={info['equipment']['preload_counts'][1]}
+|3号槽满破预装填数={info['equipment']['preload_counts'][2]}
 |装备1=
 |装备2=
 |装备3=
@@ -1599,17 +1726,17 @@ class CharacterPageGenerator(BaseGenerator):
 |耗时=无法建造
 |营养价值=不可用作强化材料
 |退役收益=无法退役
-|强化加成炮击={info['meta_bonuses']['cannon'] if info['meta_bonuses'] else 0}
-|强化加成雷击={info['meta_bonuses']['torpedo'] if info['meta_bonuses'] else 0}
-|强化加成航空={info['meta_bonuses']['air'] if info['meta_bonuses'] else 0}
-|强化加成装填={info['meta_bonuses']['reload'] if info['meta_bonuses'] else 0}
-|强化加成耐久={info['meta_bonuses']['durability'] if info['meta_bonuses'] else 0}
-|强化加成防空={info['meta_bonuses']['antiaircraft'] if info['meta_bonuses'] else 0}
-|强化加成命中={info['meta_bonuses']['hit'] if info['meta_bonuses'] else 0}
-|强化加成机动={info['meta_bonuses']['dodge'] if info['meta_bonuses'] else 0}
-|解锁图鉴科技点=19
-|突破至满星科技点=39
-|达到120级科技点=29
+|强化加成炮击={info['meta_bonuses']['cannon'] if info['meta_bonuses'] and info['meta_bonuses']['cannon'] else ''}
+|强化加成雷击={info['meta_bonuses']['torpedo'] if info['meta_bonuses'] and info['meta_bonuses']['torpedo'] else ''}
+|强化加成航空={info['meta_bonuses']['air'] if info['meta_bonuses'] and info['meta_bonuses']['air'] else ''}
+|强化加成装填={info['meta_bonuses']['reload'] if info['meta_bonuses'] and info['meta_bonuses']['reload'] else ''}
+|强化加成耐久={info['meta_bonuses']['durability'] if info['meta_bonuses'] and info['meta_bonuses']['durability'] else ''}
+|强化加成防空={info['meta_bonuses']['antiaircraft'] if info['meta_bonuses'] and info['meta_bonuses']['antiaircraft'] else ''}
+|强化加成命中={info['meta_bonuses']['hit'] if info['meta_bonuses'] and info['meta_bonuses']['hit'] else ''}
+|强化加成机动={info['meta_bonuses']['dodge'] if info['meta_bonuses'] and info['meta_bonuses']['dodge'] else ''}
+|解锁图鉴科技点={info['tech_points']['get']}
+|突破至满星科技点={info['tech_points']['upgrade']}
+|达到120级科技点={info['tech_points']['level']}
 |解锁图鉴属性加成=
 |达到120级属性加成=
 |图鉴耐久={info['property_hexagon'][0]}
@@ -1662,12 +1789,12 @@ class CharacterPageGenerator(BaseGenerator):
 |1号槽装备效率满破={info['equipment']['max_efficiency'][0]}%
 |2号槽装备效率满破={info['equipment']['max_efficiency'][1]}%
 |3号槽装备效率满破={info['equipment']['max_efficiency'][2]}%
-|1号槽满破武器数=
-|2号槽满破武器数=
-|3号槽满破武器数=
-|1号槽满破预装填数=
-|2号槽满破预装填数=
-|3号槽满破预装填数=
+|1号槽满破武器数={info['equipment']['weapon_counts'][0] if info['equipment']['weapon_counts'][0] else ''}
+|2号槽满破武器数={info['equipment']['weapon_counts'][1] if info['equipment']['weapon_counts'][1] else ''}
+|3号槽满破武器数={info['equipment']['weapon_counts'][2] if info['equipment']['weapon_counts'][2] else ''}
+|1号槽满破预装填数={info['equipment']['preload_counts'][0]}
+|2号槽满破预装填数={info['equipment']['preload_counts'][1]}
+|3号槽满破预装填数={info['equipment']['preload_counts'][2]}
 |装备1=
 |装备2=
 |装备3=
@@ -1850,3 +1977,7 @@ class CharacterPageGenerator(BaseGenerator):
     def _get_ship_skin_words(self):
         """Load ship_skin_words which contains all dialogue text."""
         return parse_data_file('ship_skin_words', config=self.config)
+
+    def _get_fleet_tech_ship_template(self):
+        """Load fleet_tech_ship_template which contains tech points."""
+        return parse_data_file('fleet_tech_ship_template', config=self.config)
