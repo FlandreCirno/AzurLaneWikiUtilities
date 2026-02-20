@@ -14,6 +14,15 @@ class WikiModulesGenerator(BaseGenerator):
         self.generate_ship_data_module()
         self.generate_equipment_data_module()
 
+    # Ship name corrections: game data name → wiki name (human decision, reason not tracked).
+    _SHIP_NAME_CORRECTIONS = {
+        '三浦 梓':             '三浦梓',
+        '八舞耶俱矢·八舞夕弦': '八舞耶倶矢·八舞夕弦',
+        '莲':                 '莲SSSS',
+        '貉':                 '貉SSSS',
+        '马可波罗':            '马可·波罗',
+    }
+
     def generate_ship_data_module(self):
         """Generate 模块:舰娘数据 (Ship Data Module).
 
@@ -63,7 +72,8 @@ class WikiModulesGenerator(BaseGenerator):
 
             # Get ship stats from statistics (keys are integers)
             ship_info = ship_statistics.get(ship_id, {})
-            name = ship_info.get('name', '').strip()  # Trim trailing/leading spaces
+            name = ship_info.get('name', '').strip()
+            name = self._SHIP_NAME_CORRECTIONS.get(name, name)
             if not name:
                 continue
 

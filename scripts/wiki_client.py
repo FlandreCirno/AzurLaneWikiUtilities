@@ -74,6 +74,14 @@ class WikiClient:
         self.delay = delay
         self._session = requests.Session()
         self._session.cookies.update(self.cookies)
+        self._session.headers.update({
+            'User-Agent': (
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+                'AppleWebKit/537.36 (KHTML, like Gecko) '
+                'Chrome/120.0.0.0 Safari/537.36'
+            ),
+            'Referer': WIKI_BASE,
+        })
 
     def fetch_raw(self, title: str) -> str:
         """Fetch raw wikitext for a given page title.

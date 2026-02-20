@@ -86,9 +86,9 @@ def extract_fields(text: str, fields: list) -> dict:
     """
     result = {}
     for field in fields:
-        # Match |field = value up to next | or }} (end of template)
-        pattern = r'\|' + re.escape(field) + r'\s*=\s*(.*?)(?=\n\s*\||\n*\}\})'
-        m = re.search(pattern, text, re.DOTALL)
+        # Match |field = value — capture only same-line content (no newlines)
+        pattern = r'\|' + re.escape(field) + r'[ \t]*=[ \t]*([^\n]*)'
+        m = re.search(pattern, text)
         if m:
             result[field] = m.group(1).strip()
     return result
@@ -97,8 +97,9 @@ def extract_fields(text: str, fields: list) -> dict:
 def extract_all_fields(text: str) -> dict:
     """Extract ALL template fields (for --raw display)."""
     result = {}
-    pattern = r'\|([^=|\n]+?)\s*=\s*(.*?)(?=\n\s*\||\n*\}\})'
-    for m in re.finditer(pattern, text, re.DOTALL):
+    # Each field is |name = value on one line
+    pattern = r'\|([^=|\n]+?)[ \t]*=[ \t]*([^\n]*)'
+    for m in re.finditer(pattern, text):
         field = m.group(1).strip()
         value = m.group(2).strip()
         result[field] = value

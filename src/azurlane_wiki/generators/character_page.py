@@ -83,6 +83,28 @@ class CharacterPageGenerator(BaseGenerator):
         115: '约会大作战V',
     }
 
+    # Output name corrections for duplicate-named ships.
+    # Keys: (game_name, code) — code is always unique per ship, unlike nationality.
+    # Values: wiki output name used as filename.
+    # Corrections take priority over the generic nationality-suffix logic.
+    _SHIP_OUTPUT_NAME_CORRECTIONS = {
+        # 加贺: both nat=3, distinguished by code
+        ('加贺', 225): '加贺',    # CV (main)
+        ('加贺', 368): '加贺BB',  # BB (alternate)
+        # 天城: both nat=3, distinguished by code
+        ('天城', 367): '天城',    # BC (main)
+        ('天城', 660): '天城CV',  # CV (alternate)
+        # 新月: nat=2 vs nat=3
+        ('新月', 89):  '新月',    # Royal Navy (main)
+        ('新月', 295): '新月JP',  # Sakura Empire (alternate)
+        # 约克: nat=2 vs nat=4
+        ('约克', 125): '约克',    # Royal Navy York (main)
+        ('约克', 546): '约克DE',  # Iron Blood Yorck (alternate)
+        # 霞: nat=3 vs nat=106
+        ('霞', 424):   '霞',      # IJN DD (main)
+        ('霞', 10063): '霞DOA',   # DOA collab (alternate)
+    }
+
     # Armor type mapping
     ARMOR_TYPE_MAP = {
         1: '轻型',
@@ -256,9 +278,13 @@ class CharacterPageGenerator(BaseGenerator):
             clean_name = self._clean_filename(name)
 
             if name_counts[name] > 1:
-                # Handle duplicates - add nation suffix
+                # Handle duplicates - hardcoded corrections take priority over generic suffix
                 for ship_info in ships:
-                    output_name = f"{clean_name}_{self._get_nation_suffix(ship_info['nationality'])}"
+                    correction_key = (name, ship_info['code'])
+                    if correction_key in self._SHIP_OUTPUT_NAME_CORRECTIONS:
+                        output_name = self._SHIP_OUTPUT_NAME_CORRECTIONS[correction_key]
+                    else:
+                        output_name = f"{clean_name}_{self._get_nation_suffix(ship_info['nationality'])}"
                     self._generate_page(ship_info, output_name)
                     generated_count += 1
             else:
