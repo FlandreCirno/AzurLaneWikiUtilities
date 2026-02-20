@@ -10,28 +10,30 @@ class CharacterPageGenerator(BaseGenerator):
     """Generator for character page stubs."""
 
     # Ship type mapping — game type ID → wiki type name
-    # Note: game uses "正航" for type 6, wiki uses "航母"
+    # Values verified against ship_data_by_type.json; type 7 uses wiki term "航母"
+    # instead of the game's "正航". Sail subtypes 22/23/24 use wiki suffixes S/V/M.
     SHIP_TYPE_MAP = {
         1: '驱逐',
         2: '轻巡',
         3: '重巡',
-        4: '战列',
-        5: '轻航',
-        6: '航母',   # game: 正航
-        7: '潜艇',
-        8: '重炮',
-        9: '重巡',
+        4: '战巡',
+        5: '战列',
+        6: '轻航',
+        7: '航母',   # game: 正航
+        8: '潜艇',
+        9: '航巡',
         10: '航战',
+        11: '雷巡',
         12: '维修',
-        13: '潜母',
-        17: '运输',
+        13: '重炮',
+        17: '潜母',
         18: '超巡',
-        19: '近卫',
+        19: '运输',
         20: '导驱',
-        21: '导战',
-        22: '风帆',
-        23: '风帆',
-        24: '风帆',
+        21: '导驱',
+        22: '风帆S',
+        23: '风帆V',
+        24: '风帆M',
     }
 
     # Rarity mapping
@@ -125,34 +127,8 @@ class CharacterPageGenerator(BaseGenerator):
 
     def __init__(self, config=None):
         super().__init__(config)
-        # Load ship type mapping from game data
-        self._load_ship_type_map()
         # Load equipment type mapping from game data
         self._load_equipment_type_map()
-
-    def _load_ship_type_map(self):
-        """Load ship type names from ship_data_by_type.json and apply wiki terminology."""
-        ship_by_type = parse_data_file('ship_data_by_type', config=self.config)
-
-        # Mapping from game terminology to wiki terminology
-        game_to_wiki = {
-            '正航': '航母',  # Fleet Carrier -> Aircraft Carrier (wiki prefers this term)
-        }
-
-        for type_id, data in ship_by_type.items():
-            if isinstance(data, dict) and 'type_name' in data:
-                game_name = data['type_name']
-                # Use wiki terminology if available, otherwise use game name
-                wiki_name = game_to_wiki.get(game_name, game_name)
-                self.SHIP_TYPE_MAP[type_id] = wiki_name
-
-        # Apply wiki-specific overrides for sail ship subtypes.
-        # The game uses a single name "风帆" for all three sail types, but the wiki
-        # distinguishes them by hull role: S (sloop/vanguard small), V (vanguard),
-        # M (main fleet).
-        self.SHIP_TYPE_MAP[22] = '风帆S'
-        self.SHIP_TYPE_MAP[23] = '风帆V'
-        self.SHIP_TYPE_MAP[24] = '风帆M'
 
     def _load_equipment_type_map(self):
         """Load equipment type names from equip_data_by_type.json.
@@ -544,13 +520,14 @@ class CharacterPageGenerator(BaseGenerator):
 
     def _get_rarity(self, category, stat, blueprint_data, group_id):
         """Get ship rarity."""
+        rarity = stat.get('rarity', 2)
         if category == '科研':
-            return '决战方案'
+            # PR ships: rarity=5 → 最高方案, DR ships: rarity=6 → 决战方案
+            return {5: '最高方案', 6: '决战方案'}.get(rarity, '决战方案')
         elif category == 'Meta':
-            return '超稀有'
+            # META ships: rarity=4 → 精锐, rarity=5 → 超稀有
+            return {4: '精锐', 5: '超稀有'}.get(rarity, '超稀有')
         else:
-            # Get rarity from statistics data
-            rarity = stat.get('rarity', 2)
             return self.RARITY_MAP.get(rarity, '普通')
 
     def _calculate_max_level_stats(self, stat, template, strengthen, category, code, group_id,
@@ -1470,7 +1447,7 @@ class CharacterPageGenerator(BaseGenerator):
 |日文名=
 |编号={info['code'] % 10000:03d}
 |类型={info['ship_type']}
-|稀有度=决战方案
+|稀有度={info['rarity']}
 |阵营={self.NATIONALITY_MAP.get(info['nationality'], '未知')}
 |其他获取途径=[[开发船坞]]
 |相关活动=
@@ -1715,7 +1692,7 @@ class CharacterPageGenerator(BaseGenerator):
 
         content = f"""{{{{舰娘图鉴
 |分组=META
-|特殊底色=META超稀有
+|特殊底色=META{info['rarity']}
 |型号=
 |名称={info['name']}
 |和谐名=
@@ -1724,7 +1701,7 @@ class CharacterPageGenerator(BaseGenerator):
 |编号={info['code'] % 10000:03d}
 |类型={info['ship_type']}
 |初始星级=★★★☆☆☆
-|稀有度=超稀有
+|稀有度={info['rarity']}
 |阵营=META-???
 |掉落点=
 |活动掉落点=
