@@ -1022,7 +1022,9 @@ class CharacterPageGenerator(BaseGenerator):
                     else:
                         # Other equipment types (fallback to default logic)
                         if len(equip_types) > 1:
-                            type_names = [self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types]
+                            type_names = list(dict.fromkeys(
+                                self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types
+                            ))
                             type_name = '、'.join(type_names)
                         else:
                             type_id = equip_types[0]
@@ -1031,7 +1033,11 @@ class CharacterPageGenerator(BaseGenerator):
                     # Normal equipment slot handling
                     if len(equip_types) > 1:
                         # Multiple types allowed, concatenate with "、"
-                        type_names = [self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types]
+                        # Deduplicate names that map to the same wiki label (e.g. type 6 and 21
+                        # both map to "防空炮"), while preserving order.
+                        type_names = list(dict.fromkeys(
+                            self.EQUIPMENT_TYPE_MAP.get(t, f'未知({t})') for t in equip_types
+                        ))
                         type_name = '、'.join(type_names)
                     else:
                         # Single type
