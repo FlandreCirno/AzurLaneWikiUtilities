@@ -134,3 +134,5 @@ dmypy.json
 
 # Project specific
 json/
+cookies.json
+wiki_cache/
