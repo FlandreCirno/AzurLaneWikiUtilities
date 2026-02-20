@@ -217,6 +217,8 @@ Examples:
                         help='Use cached wiki files from wiki_cache/')
     parser.add_argument('--cache-dir', default='wiki_cache',
                         help='Cache directory (default: wiki_cache/)')
+    parser.add_argument('--summary', '-s', action='store_true',
+                        help='Print summary counts only (no per-ship detail)')
     parser.add_argument('--limit', type=int, default=0,
                         help='Limit number of ships per category (for testing)')
     args = parser.parse_args()
@@ -292,22 +294,28 @@ Examples:
     total = len(ship_list)
     ok = 0
     diff_count = 0
-    error_count = 0
+    not_on_wiki = []   # 404 — page doesn't exist yet on wiki
+    fetch_errors = []  # other fetch failures
     ships_with_diffs = []
 
-    print(f"Comparing {total} ship(s)...\n")
+    if not args.summary:
+        print(f"Comparing {total} ship(s)...\n")
 
     for i, (ship_name, local_path) in enumerate(ship_list):
         local = get_local_text(ship_name, local_path)
         if not local:
-            print(f"  [??] {ship_name}: local file not found")
-            error_count += 1
+            if not args.summary:
+                print(f"  [??] {ship_name}: local file not found")
+            fetch_errors.append(ship_name)
             continue
 
         wiki = get_wiki_text(ship_name)
         if not wiki:
-            print(f"  [XX] {ship_name}: failed to fetch wiki page")
-            error_count += 1
+            # wiki_client prints "[404]" to stderr for 404s; we track separately
+            # Re-check status by looking at what was printed — instead, just track all
+            not_on_wiki.append(ship_name)
+            if not args.summary:
+                print(f"  [NW] {ship_name}: not found on wiki (new ship?)")
             continue
 
         diffs = compare_page(ship_name, local, wiki)
@@ -315,25 +323,31 @@ Examples:
         if diffs:
             diff_count += 1
             ships_with_diffs.append((ship_name, diffs))
-            if not args.diff_only or diffs:
+            if not args.summary and (not args.diff_only or diffs):
                 print_comparison(ship_name, diffs, show_header=True)
         else:
             ok += 1
-            if not args.diff_only:
+            if not args.summary and not args.diff_only:
                 print(f"  [OK] {ship_name}")
 
     # ── Summary ──
     print(f"\n{'═'*70}")
     print(f"  SUMMARY  ({total} ships)")
     print(f"{'═'*70}")
-    print(f"  OK:     {ok:4d}")
-    print(f"  DIFFS:  {diff_count:4d}")
-    print(f"  ERRORS: {error_count:4d}")
+    print(f"  OK:          {ok:4d}")
+    print(f"  DIFFS:       {diff_count:4d}")
+    print(f"  NOT ON WIKI: {len(not_on_wiki):4d}  (new ships not yet uploaded)")
+    print(f"  ERRORS:      {len(fetch_errors):4d}")
 
     if ships_with_diffs:
         print(f"\n  Ships with differences:")
         for ship_name, diffs in ships_with_diffs:
             print(f"    {ship_name} ({len(diffs)} fields)")
+
+    if not_on_wiki:
+        print(f"\n  Not on wiki yet ({len(not_on_wiki)}):")
+        for name in not_on_wiki:
+            print(f"    {name}")
 
     print()
 
