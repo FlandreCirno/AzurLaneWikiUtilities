@@ -1003,8 +1003,9 @@ p.equip_data = {
 {
 	id = 9000,
 	name = "超级彩虹锤1号",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 9000	};
 	}
@@ -1012,8 +1013,9 @@ p.equip_data = {
 {
 	id = 10000,
 	name = "勇敢的美梦之枕",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10000	};
 	}
@@ -1021,8 +1023,9 @@ p.equip_data = {
 {
 	id = 10020,
 	name = "波涛与优雅的午后",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10020	};
 	}
@@ -1030,8 +1033,9 @@ p.equip_data = {
 {
 	id = 10040,
 	name = "幸运舰的“惩罚”",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10040	};
 	}
@@ -1039,8 +1043,9 @@ p.equip_data = {
 {
 	id = 10060,
 	name = "不再哭泣",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10060	};
 	}
@@ -1048,8 +1053,9 @@ p.equip_data = {
 {
 	id = 10080,
 	name = "探测平衡装置",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10080	};
 	}
@@ -1057,8 +1063,9 @@ p.equip_data = {
 {
 	id = 10100,
 	name = "护教骑士战旗",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10100	};
 	}
@@ -1066,8 +1073,9 @@ p.equip_data = {
 {
 	id = 10120,
 	name = "准时的怀表",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10120	};
 	}
@@ -1075,8 +1083,9 @@ p.equip_data = {
 {
 	id = 10140,
 	name = "强探照投射攻性舰装NT",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10140	};
 	}
@@ -1084,17 +1093,19 @@ p.equip_data = {
 {
 	id = 10160,
 	name = "近卫兵的骄傲与安心",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10160	};
 	}
 };
 {
 	id = 10180,
-	name = "三五式“绫波”对舰强击械装",
-	type = 1,
-	nationality = 0,
+	name = "三五式"绫波"对舰强击械装",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10180	};
 	}
@@ -1102,8 +1113,9 @@ p.equip_data = {
 {
 	id = 10200,
 	name = "爱与和平之海",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10200	};
 	}
@@ -1111,8 +1123,9 @@ p.equip_data = {
 {
 	id = 10220,
 	name = "夜姬的任性组合",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10220	};
 	}
@@ -1120,8 +1133,9 @@ p.equip_data = {
 {
 	id = 10240,
 	name = "破风神拳？",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10240	};
 	}
@@ -1129,8 +1143,9 @@ p.equip_data = {
 {
 	id = 10260,
 	name = "大姐头的披风",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10260	};
 	}
@@ -1138,8 +1153,9 @@ p.equip_data = {
 {
 	id = 10280,
 	name = "一分钱硬币（大量）",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10280	};
 	}
@@ -1147,8 +1163,9 @@ p.equip_data = {
 {
 	id = 10300,
 	name = "皮罗什基",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10300	};
 	}
@@ -1156,8 +1173,9 @@ p.equip_data = {
 {
 	id = 10320,
 	name = "小鲁莽与小倔强",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10320	};
 	}
@@ -1165,8 +1183,9 @@ p.equip_data = {
 {
 	id = 10340,
 	name = "鸾凤流丽",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10340	};
 	}
@@ -1174,8 +1193,9 @@ p.equip_data = {
 {
 	id = 10360,
 	name = "闪耀梦想",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10360	};
 	}
@@ -1183,8 +1203,9 @@ p.equip_data = {
 {
 	id = 10380,
 	name = "暗夜星矢",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10380	};
 	}
@@ -1192,8 +1213,9 @@ p.equip_data = {
 {
 	id = 10400,
 	name = "爱瑟尔剑",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10400	};
 	}
@@ -1201,8 +1223,9 @@ p.equip_data = {
 {
 	id = 10420,
 	name = "幽兰爪",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10420	};
 	}
@@ -1210,8 +1233,9 @@ p.equip_data = {
 {
 	id = 10440,
 	name = "百花盛开",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10440	};
 	}
@@ -1219,8 +1243,9 @@ p.equip_data = {
 {
 	id = 10460,
 	name = "百合长老",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10460	};
 	}
@@ -1228,8 +1253,9 @@ p.equip_data = {
 {
 	id = 10480,
 	name = "特制舰装铁血兽Raubtier",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10480	};
 	}
@@ -1237,8 +1263,9 @@ p.equip_data = {
 {
 	id = 10500,
 	name = "美味的便当",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10500	};
 	}
@@ -1246,8 +1273,9 @@ p.equip_data = {
 {
 	id = 10520,
 	name = "优雅与沉稳的勋章",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10520	};
 	}
@@ -1255,8 +1283,9 @@ p.equip_data = {
 {
 	id = 10540,
 	name = "将军的战袍",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10540	};
 	}
@@ -1264,8 +1293,9 @@ p.equip_data = {
 {
 	id = 10560,
 	name = "本日的惊喜！",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10560	};
 	}
@@ -1273,8 +1303,9 @@ p.equip_data = {
 {
 	id = 10580,
 	name = "奇妙的午茶时间",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10580	};
 	}
@@ -1282,8 +1313,9 @@ p.equip_data = {
 {
 	id = 10600,
 	name = "凯旋的护腕",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10600	};
 	}
@@ -1291,8 +1323,9 @@ p.equip_data = {
 {
 	id = 10620,
 	name = "西姆斯的快乐时间",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10620	};
 	}
@@ -1300,8 +1333,9 @@ p.equip_data = {
 {
 	id = 10640,
 	name = "三十三天月白长巾",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10640	};
 	}
@@ -1309,8 +1343,9 @@ p.equip_data = {
 {
 	id = 10660,
 	name = "老女士扮演套装",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10660	};
 	}
@@ -1318,8 +1353,9 @@ p.equip_data = {
 {
 	id = 10680,
 	name = "狩猎者的徽记",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10680	};
 	}
@@ -1327,8 +1363,9 @@ p.equip_data = {
 {
 	id = 10700,
 	name = "摇曳悠然",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10700	};
 	}
@@ -1336,8 +1373,9 @@ p.equip_data = {
 {
 	id = 10720,
 	name = "全开标枪",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10720	};
 	}
@@ -1345,8 +1383,9 @@ p.equip_data = {
 {
 	id = 10740,
 	name = "孤独女王之旗",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10740	};
 	}
@@ -1354,8 +1393,9 @@ p.equip_data = {
 {
 	id = 10780,
 	name = "幻想之环",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10780	};
 	}
@@ -1363,8 +1403,9 @@ p.equip_data = {
 {
 	id = 10800,
 	name = "另一个重要的东西",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10800	};
 	}
@@ -1372,8 +1413,9 @@ p.equip_data = {
 {
 	id = 10820,
 	name = "公主蛋糕",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10820	};
 	}
@@ -1381,8 +1423,9 @@ p.equip_data = {
 {
 	id = 10840,
 	name = "鲜奶油泡芙",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10840	};
 	}
@@ -1390,8 +1433,9 @@ p.equip_data = {
 {
 	id = 10860,
 	name = "草莓千层酥",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10860	};
 	}
@@ -1399,8 +1443,9 @@ p.equip_data = {
 {
 	id = 10880,
 	name = "芒果香草可丽饼",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10880	};
 	}
@@ -1408,8 +1453,9 @@ p.equip_data = {
 {
 	id = 10900,
 	name = "舒芙蕾松饼",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10900	};
 	}
@@ -1417,8 +1463,9 @@ p.equip_data = {
 {
 	id = 10920,
 	name = "甜馅馒头",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10920	};
 	}
@@ -1426,8 +1473,9 @@ p.equip_data = {
 {
 	id = 10940,
 	name = "帕帕纳西",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10940	};
 	}
@@ -1435,8 +1483,9 @@ p.equip_data = {
 {
 	id = 10960,
 	name = "马卡龙",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10960	};
 	}
@@ -1444,28 +1493,19 @@ p.equip_data = {
 {
 	id = 10980,
 	name = "烤白薯",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 10980	};
 	}
 };
 {
 	id = 11000,
-	name = "76mm火炮",
-	type = 1,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 11000	};
-		{	tech = 2, rarity = 2, id = 11020	};
-		{	tech = 3, rarity = 3, id = 11040	};
-	}
-};
-{
-	id = 11000,
 	name = "计算完成的作战计划",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 11000	};
 	}
@@ -1473,8 +1513,9 @@ p.equip_data = {
 {
 	id = 11020,
 	name = "御狐的赠礼",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 11020	};
 	}
@@ -1482,26 +1523,19 @@ p.equip_data = {
 {
 	id = 11040,
 	name = "往昔的书中世界",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 11040	};
 	}
 };
 {
 	id = 11060,
-	name = "127mm单装炮早期型",
-	type = 1,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 3, id = 11060	};
-	}
-};
-{
-	id = 11060,
 	name = "睦月的糖果！",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 11060	};
 	}
@@ -1509,8 +1543,9 @@ p.equip_data = {
 {
 	id = 11080,
 	name = "萨拉酱的魔法手杖",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 11080	};
 	}
@@ -1557,20 +1592,10 @@ p.equip_data = {
 };
 {
 	id = 12000,
-	name = "双联152mm主炮",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 12000	};
-		{	tech = 2, rarity = 2, id = 12020	};
-		{	tech = 3, rarity = 3, id = 12040	};
-	}
-};
-{
-	id = 12000,
 	name = "好朋友的魔法",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12000	};
 	}
@@ -1578,8 +1603,9 @@ p.equip_data = {
 {
 	id = 12020,
 	name = "魅力四射",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12020	};
 	}
@@ -1587,26 +1613,19 @@ p.equip_data = {
 {
 	id = 12040,
 	name = "皇家骑士的勇毅",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12040	};
 	}
 };
 {
 	id = 12060,
-	name = "双联152mm主炮Mk15",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 3, id = 12060	};
-	}
-};
-{
-	id = 12060,
 	name = "休斯敦的腾飞",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12060	};
 	}
@@ -1614,28 +1633,19 @@ p.equip_data = {
 {
 	id = 12080,
 	name = "爆裂钻孔机强化组件",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12080	};
 	}
 };
 {
 	id = 12100,
-	name = "三联装152mm主炮(白鹰)",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 2, id = 12100	};
-		{	tech = 2, rarity = 3, id = 12120	};
-		{	tech = 3, rarity = 4, id = 12140	};
-	}
-};
-{
-	id = 12100,
 	name = "征战巨坦强化组件",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12100	};
 	}
@@ -1643,8 +1653,9 @@ p.equip_data = {
 {
 	id = 12120,
 	name = "戴拿飞翼",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12120	};
 	}
@@ -1652,26 +1663,19 @@ p.equip_data = {
 {
 	id = 12140,
 	name = "巨大煌翼炎龙的禅绕画",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12140	};
 	}
 };
 {
 	id = 12160,
-	name = "三联装152mm主炮Mk16",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 12160	};
-	}
-};
-{
-	id = 12160,
 	name = "怪兽种子",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12160	};
 	}
@@ -1679,26 +1683,19 @@ p.equip_data = {
 {
 	id = 12180,
 	name = "演出棒",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12180	};
 	}
 };
 {
 	id = 12200,
-	name = "试作型三联装152mm高平两用炮Mk17",
-	type = 2,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 12200	};
-	}
-};
-{
-	id = 12200,
 	name = "龙的饰品",
-	type = 5,
-	nationality = 0,
+	type = 102,
+	ship_type = 5,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12200	};
 	}
@@ -1706,8 +1703,9 @@ p.equip_data = {
 {
 	id = 12220,
 	name = "原始接收器",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12220	};
 	}
@@ -1715,8 +1713,9 @@ p.equip_data = {
 {
 	id = 12240,
 	name = "监禁程序",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12240	};
 	}
@@ -1724,8 +1723,9 @@ p.equip_data = {
 {
 	id = 12260,
 	name = "信义的重锤",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12260	};
 	}
@@ -1733,8 +1733,9 @@ p.equip_data = {
 {
 	id = 12280,
 	name = "絮库夫的星期天",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12280	};
 	}
@@ -1742,8 +1743,9 @@ p.equip_data = {
 {
 	id = 12300,
 	name = "最硬最强之盾",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12300	};
 	}
@@ -1751,8 +1753,9 @@ p.equip_data = {
 {
 	id = 12320,
 	name = "莱伯君",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12320	};
 	}
@@ -1760,8 +1763,9 @@ p.equip_data = {
 {
 	id = 12340,
 	name = "遮掩表情的外装",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12340	};
 	}
@@ -1769,8 +1773,9 @@ p.equip_data = {
 {
 	id = 12360,
 	name = "云朵观察成果",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12360	};
 	}
@@ -1778,8 +1783,9 @@ p.equip_data = {
 {
 	id = 12380,
 	name = "来自妹妹的关爱",
-	type = 9,
-	nationality = 0,
+	type = 102,
+	ship_type = 9,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12380	};
 	}
@@ -1787,8 +1793,9 @@ p.equip_data = {
 {
 	id = 12400,
 	name = "于碧海晴空下闪耀",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12400	};
 	}
@@ -1796,8 +1803,9 @@ p.equip_data = {
 {
 	id = 12420,
 	name = "除厄七五三",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12420	};
 	}
@@ -1805,8 +1813,9 @@ p.equip_data = {
 {
 	id = 12440,
 	name = "黄金时代之枪",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12440	};
 	}
@@ -1814,8 +1823,9 @@ p.equip_data = {
 {
 	id = 12460,
 	name = "一张字条",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12460	};
 	}
@@ -1823,8 +1833,9 @@ p.equip_data = {
 {
 	id = 12480,
 	name = "驶向远方之舵",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12480	};
 	}
@@ -1832,8 +1843,9 @@ p.equip_data = {
 {
 	id = 12500,
 	name = "阿尔戈之刃",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12500	};
 	}
@@ -1841,8 +1853,9 @@ p.equip_data = {
 {
 	id = 12520,
 	name = "便携式“小的们”",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12520	};
 	}
@@ -1850,8 +1863,9 @@ p.equip_data = {
 {
 	id = 12540,
 	name = "光风霁月",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12540	};
 	}
@@ -1859,8 +1873,9 @@ p.equip_data = {
 {
 	id = 12560,
 	name = "恰到好处的一根",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12560	};
 	}
@@ -1868,8 +1883,9 @@ p.equip_data = {
 {
 	id = 12580,
 	name = "双刀・两舷缭闪",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12580	};
 	}
@@ -1877,8 +1893,9 @@ p.equip_data = {
 {
 	id = 12600,
 	name = "拔刀・凤闪飞燕",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12600	};
 	}
@@ -1886,8 +1903,9 @@ p.equip_data = {
 {
 	id = 12620,
 	name = "六刀・魁之焰",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12620	};
 	}
@@ -1895,8 +1913,9 @@ p.equip_data = {
 {
 	id = 12640,
 	name = "扇・霜袖雪舞",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12640	};
 	}
@@ -1904,8 +1923,9 @@ p.equip_data = {
 {
 	id = 12660,
 	name = "扇・紫冰连华",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12660	};
 	}
@@ -1913,8 +1933,9 @@ p.equip_data = {
 {
 	id = 12680,
 	name = "手里剑・圆月潜影",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12680	};
 	}
@@ -1922,8 +1943,9 @@ p.equip_data = {
 {
 	id = 12700,
 	name = "太刀・钢",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12700	};
 	}
@@ -1931,8 +1953,9 @@ p.equip_data = {
 {
 	id = 12720,
 	name = "艳丽的Fioretto",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12720	};
 	}
@@ -1940,8 +1963,9 @@ p.equip_data = {
 {
 	id = 12740,
 	name = "探险家眼镜",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12740	};
 	}
@@ -1949,8 +1973,9 @@ p.equip_data = {
 {
 	id = 12760,
 	name = "承载命运之环",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12760	};
 	}
@@ -1958,8 +1983,9 @@ p.equip_data = {
 {
 	id = 12780,
 	name = "本大人的风格",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12780	};
 	}
@@ -1967,8 +1993,9 @@ p.equip_data = {
 {
 	id = 12800,
 	name = "七桥智慧的训诫",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12800	};
 	}
@@ -1976,8 +2003,9 @@ p.equip_data = {
 {
 	id = 12820,
 	name = "骑士团长之徽",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12820	};
 	}
@@ -1985,8 +2013,9 @@ p.equip_data = {
 {
 	id = 12840,
 	name = "SMILE酱",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12840	};
 	}
@@ -1994,8 +2023,9 @@ p.equip_data = {
 {
 	id = 12860,
 	name = "大宝",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12860	};
 	}
@@ -2003,8 +2033,9 @@ p.equip_data = {
 {
 	id = 12880,
 	name = "二宝",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12880	};
 	}
@@ -2012,8 +2043,9 @@ p.equip_data = {
 {
 	id = 12900,
 	name = "值得夸赞的武器",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12900	};
 	}
@@ -2021,8 +2053,9 @@ p.equip_data = {
 {
 	id = 12920,
 	name = "朝夕苦练",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12920	};
 	}
@@ -2030,8 +2063,9 @@ p.equip_data = {
 {
 	id = 12940,
 	name = "严禁丢弃",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12940	};
 	}
@@ -2039,8 +2073,9 @@ p.equip_data = {
 {
 	id = 12960,
 	name = "勇气的初蕾",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12960	};
 	}
@@ -2048,28 +2083,19 @@ p.equip_data = {
 {
 	id = 12980,
 	name = "变成雕像的道具",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 12980	};
 	}
 };
 {
 	id = 13000,
-	name = "三联装203mm主炮",
-	type = 3,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 13000	};
-		{	tech = 2, rarity = 2, id = 13020	};
-		{	tech = 3, rarity = 3, id = 13040	};
-	}
-};
-{
-	id = 13000,
 	name = "白骑兵的缰绳",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13000	};
 	}
@@ -2077,73 +2103,49 @@ p.equip_data = {
 {
 	id = 13020,
 	name = "闪耀彗星",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13020	};
 	}
 };
 {
 	id = 13040,
-	name = "“个性”装备",
-	type = 6,
-	nationality = 0,
+	name = "“个性“装备",
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13040	};
 	}
 };
 {
 	id = 13060,
-	name = "三联装203mm主炮Mk13",
-	type = 3,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 3, id = 13060	};
-	}
-};
-{
-	id = 13060,
 	name = "鲁莽与谨慎",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13060	};
 	}
 };
 {
 	id = 13080,
-	name = "三联装203mm主炮Mk14",
-	type = 3,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 4, id = 13080	};
-	}
-};
-{
-	id = 13080,
 	name = "恶毒之刃",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13080	};
-	}
-};
-{
-	id = 13100,
-	name = "三联装203mm主炮改进型",
-	type = 3,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 2, id = 13100	};
-		{	tech = 2, rarity = 3, id = 13120	};
-		{	tech = 3, rarity = 4, id = 13140	};
 	}
 };
 {
 	id = 13100,
 	name = "不听就不怕",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13100	};
 	}
@@ -2151,8 +2153,9 @@ p.equip_data = {
 {
 	id = 13120,
 	name = "村正・正宗",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13120	};
 	}
@@ -2160,47 +2163,29 @@ p.equip_data = {
 {
 	id = 13140,
 	name = "星辉闪耀爆射枪",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13140	};
 	}
 };
 {
 	id = 13160,
-	name = "三联装203mm主炮Mk15",
-	type = 3,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 13160	};
-	}
-};
-{
-	id = 13160,
 	name = "雷速引擎",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13160	};
 	}
 };
 {
 	id = 13180,
-	name = "三联装305mm主炮Mk8",
-	type = 11,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 6, id = 13180	};
-		{	tech = 1, rarity = 3, id = 14000	};
-		{	tech = 2, rarity = 4, id = 14020	};
-		{	tech = 3, rarity = 5, id = 14040	};
-	}
-};
-{
-	id = 13180,
 	name = "林间晨风",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13180	};
 	}
@@ -2208,8 +2193,9 @@ p.equip_data = {
 {
 	id = 13200,
 	name = "莱比锡保护者",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13200	};
 	}
@@ -2217,8 +2203,9 @@ p.equip_data = {
 {
 	id = 13220,
 	name = "直播攻略装备",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13220	};
 	}
@@ -2226,8 +2213,9 @@ p.equip_data = {
 {
 	id = 13240,
 	name = "风味特调（勿饮）",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13240	};
 	}
@@ -2235,8 +2223,9 @@ p.equip_data = {
 {
 	id = 13260,
 	name = "甜点工具套组",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13260	};
 	}
@@ -2244,8 +2233,9 @@ p.equip_data = {
 {
 	id = 13280,
 	name = "冰妖精的温柔",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13280	};
 	}
@@ -2253,8 +2243,9 @@ p.equip_data = {
 {
 	id = 13300,
 	name = "T3科技箱（促销）",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13300	};
 	}
@@ -2262,8 +2253,9 @@ p.equip_data = {
 {
 	id = 13320,
 	name = "传承的证明",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13320	};
 	}
@@ -2271,8 +2263,9 @@ p.equip_data = {
 {
 	id = 13340,
 	name = "灵峰之刃",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13340	};
 	}
@@ -2280,8 +2273,9 @@ p.equip_data = {
 {
 	id = 13360,
 	name = "胜利者之钟",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13360	};
 	}
@@ -2289,8 +2283,9 @@ p.equip_data = {
 {
 	id = 13380,
 	name = "伙伴们的纪念",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13380	};
 	}
@@ -2298,8 +2293,9 @@ p.equip_data = {
 {
 	id = 13400,
 	name = "海神三叉戟",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13400	};
 	}
@@ -2307,8 +2303,9 @@ p.equip_data = {
 {
 	id = 13420,
 	name = "刹车请注意！",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13420	};
 	}
@@ -2316,8 +2313,9 @@ p.equip_data = {
 {
 	id = 13440,
 	name = "制作工具PROMAX",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13440	};
 	}
@@ -2325,8 +2323,9 @@ p.equip_data = {
 {
 	id = 13460,
 	name = "少女的日用品",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13460	};
 	}
@@ -2334,8 +2333,9 @@ p.equip_data = {
 {
 	id = 13480,
 	name = "仲裁之枪",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13480	};
 	}
@@ -2343,8 +2343,9 @@ p.equip_data = {
 {
 	id = 13500,
 	name = "再来一球！",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13500	};
 	}
@@ -2352,8 +2353,9 @@ p.equip_data = {
 {
 	id = 13520,
 	name = "绚烂花簪",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13520	};
 	}
@@ -2361,8 +2363,9 @@ p.equip_data = {
 {
 	id = 13560,
 	name = "魔物之心",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13560	};
 	}
@@ -2370,8 +2373,9 @@ p.equip_data = {
 {
 	id = 13580,
 	name = "流火冠冕",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13580	};
 	}
@@ -2379,8 +2383,9 @@ p.equip_data = {
 {
 	id = 13600,
 	name = "神秘灵灯",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13600	};
 	}
@@ -2388,8 +2393,9 @@ p.equip_data = {
 {
 	id = 13620,
 	name = "璀璨宝环",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13620	};
 	}
@@ -2397,8 +2403,9 @@ p.equip_data = {
 {
 	id = 13640,
 	name = "强力秘药",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13640	};
 	}
@@ -2406,8 +2413,9 @@ p.equip_data = {
 {
 	id = 13660,
 	name = "万能工具",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13660	};
 	}
@@ -2415,8 +2423,9 @@ p.equip_data = {
 {
 	id = 13680,
 	name = "突进雪友",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13680	};
 	}
@@ -2424,8 +2433,9 @@ p.equip_data = {
 {
 	id = 13700,
 	name = "爆裂之花",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13700	};
 	}
@@ -2433,8 +2443,9 @@ p.equip_data = {
 {
 	id = 13720,
 	name = "金色重击",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13720	};
 	}
@@ -2442,8 +2453,9 @@ p.equip_data = {
 {
 	id = 13740,
 	name = "紧急维护罐",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13740	};
 	}
@@ -2451,8 +2463,9 @@ p.equip_data = {
 {
 	id = 13760,
 	name = "纪律旗帜",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13760	};
 	}
@@ -2460,8 +2473,9 @@ p.equip_data = {
 {
 	id = 13780,
 	name = "紫霞絮语",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13780	};
 	}
@@ -2469,8 +2483,9 @@ p.equip_data = {
 {
 	id = 13800,
 	name = "红梅轻舞",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13800	};
 	}
@@ -2478,8 +2493,9 @@ p.equip_data = {
 {
 	id = 13820,
 	name = "超粘着MAX",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13820	};
 	}
@@ -2487,8 +2503,9 @@ p.equip_data = {
 {
 	id = 13840,
 	name = "龙奇月轮",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13840	};
 	}
@@ -2496,8 +2513,9 @@ p.equip_data = {
 {
 	id = 13860,
 	name = "超重的一箱",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13860	};
 	}
@@ -2505,8 +2523,9 @@ p.equip_data = {
 {
 	id = 13880,
 	name = "白玫瑰徽章",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 13880	};
 	}
@@ -2514,8 +2533,9 @@ p.equip_data = {
 {
 	id = 14000,
 	name = "长女的迷人之处",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14000	};
 	}
@@ -2523,8 +2543,9 @@ p.equip_data = {
 {
 	id = 14020,
 	name = "公私日程表",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14020	};
 	}
@@ -2532,8 +2553,9 @@ p.equip_data = {
 {
 	id = 14040,
 	name = "冬日权杖剑",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14040	};
 	}
@@ -2541,8 +2563,9 @@ p.equip_data = {
 {
 	id = 14060,
 	name = "扫除用道具",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14060	};
 	}
@@ -2550,28 +2573,19 @@ p.equip_data = {
 {
 	id = 14080,
 	name = "“大鱼”",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14080	};
 	}
 };
 {
 	id = 14100,
-	name = "三联装356mm主炮",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 1, id = 14100	};
-		{	tech = 2, rarity = 2, id = 14120	};
-		{	tech = 3, rarity = 3, id = 14140	};
-	}
-};
-{
-	id = 14100,
 	name = "一张王牌",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14100	};
 	}
@@ -2579,8 +2593,9 @@ p.equip_data = {
 {
 	id = 14120,
 	name = "属于夜晚的余兴",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14120	};
 	}
@@ -2588,64 +2603,39 @@ p.equip_data = {
 {
 	id = 14140,
 	name = "“Lucky Lou”",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14140	};
 	}
 };
 {
 	id = 14160,
-	name = "试作型四联装356mm主炮MkB",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 4, id = 14160	};
-	}
-};
-{
-	id = 14160,
 	name = "老女士的王家之剑",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14160	};
-	}
-};
-{
-	id = 14180,
-	name = "双联装406mm主炮Mk1",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 3, id = 14180	};
 	}
 };
 {
 	id = 14180,
 	name = "坚毅而温柔",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14180	};
 	}
 };
 {
 	id = 14200,
-	name = "双联装406mm主炮Mk5",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 2, id = 14200	};
-		{	tech = 2, rarity = 3, id = 14220	};
-		{	tech = 3, rarity = 4, id = 14240	};
-	}
-};
-{
-	id = 14200,
 	name = "岩清水仙龙真言锋",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14200	};
 	}
@@ -2653,8 +2643,9 @@ p.equip_data = {
 {
 	id = 14220,
 	name = "轻冕针近战仪式舰装LS",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14220	};
 	}
@@ -2662,26 +2653,19 @@ p.equip_data = {
 {
 	id = 14240,
 	name = "Rock Cannon",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14240	};
 	}
 };
 {
 	id = 14260,
-	name = "双联装406mm主炮Mk8",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 4, id = 14260	};
-	}
-};
-{
-	id = 14260,
 	name = "Dead Scythe",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14260	};
 	}
@@ -2689,28 +2673,19 @@ p.equip_data = {
 {
 	id = 14280,
 	name = "千鹤唳",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14280	};
 	}
 };
 {
 	id = 14300,
-	name = "三联装406mm主炮Mk6",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 2, id = 14300	};
-		{	tech = 2, rarity = 3, id = 14320	};
-		{	tech = 3, rarity = 4, id = 14340	};
-	}
-};
-{
-	id = 14300,
 	name = "“兔兔”套装",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14300	};
 	}
@@ -2718,8 +2693,9 @@ p.equip_data = {
 {
 	id = 14320,
 	name = "刹那追忆",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14320	};
 	}
@@ -2727,65 +2703,39 @@ p.equip_data = {
 {
 	id = 14340,
 	name = "秘枪三叉戟",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14340	};
 	}
 };
 {
 	id = 14360,
-	name = "试作型三联装406mm主炮MkD",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 14360	};
-	}
-};
-{
-	id = 14360,
 	name = "女猎人",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14360	};
 	}
 };
 {
 	id = 14380,
-	name = "三联装406mm主炮Mk2",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 4, id = 14380	};
-	}
-};
-{
-	id = 14380,
 	name = "黄泉之螳螂",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14380	};
-	}
-};
-{
-	id = 14400,
-	name = "三联装406mm主炮Mk7",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 6, id = 14460	};
-		{	tech = 1, rarity = 3, id = 14400	};
-		{	tech = 2, rarity = 4, id = 14420	};
-		{	tech = 3, rarity = 5, id = 14440	};
 	}
 };
 {
 	id = 14400,
 	name = "锚定幸运",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14400	};
 	}
@@ -2793,8 +2743,9 @@ p.equip_data = {
 {
 	id = 14420,
 	name = "探索者的证明",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14420	};
 	}
@@ -2802,8 +2753,9 @@ p.equip_data = {
 {
 	id = 14440,
 	name = "Tunken der Liebe",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14440	};
 	}
@@ -2811,80 +2763,49 @@ p.equip_data = {
 {
 	id = 14460,
 	name = "高贵！幸运！无敌！",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14460	};
 	}
 };
 {
 	id = 14480,
-	name = "试作型三联装406mm/45主炮Mk7",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 14480	};
-	}
-};
-{
-	id = 14480,
 	name = "象征着自由的奇迹",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14480	};
 	}
 };
 {
 	id = 14500,
-	name = "试作型双联装457mm主炮MkA",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 6, id = 14500	};
-	}
-};
-{
-	id = 14500,
 	name = "偶像的必杀技",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14500	};
 	}
 };
 {
 	id = 14520,
-	name = "试作型双联装406mm主炮Mk4",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 14520	};
-	}
-};
-{
-	id = 14520,
 	name = "见习骑士的佩剑",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14520	};
 	}
 };
 {
 	id = 14540,
-	name = "试作型三联装406mm主炮Mk6改",
-	type = 4,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 0, rarity = 5, id = 14540	};
-	}
-};
-{
-	id = 14540,
 	name = "君主之誓",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14540	};
 	}
@@ -2892,8 +2813,9 @@ p.equip_data = {
 {
 	id = 14560,
 	name = "禁止扰乱风纪！",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14560	};
 	}
@@ -2901,8 +2823,9 @@ p.equip_data = {
 {
 	id = 14580,
 	name = "赫斯缇雅的缎带",
-	type = 3,
-	nationality = 0,
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14580	};
 	}
@@ -2910,8 +2833,9 @@ p.equip_data = {
 {
 	id = 14600,
 	name = "精灵正义女神",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14600	};
 	}
@@ -2919,8 +2843,9 @@ p.equip_data = {
 {
 	id = 14620,
 	name = "暗夜蔷薇",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14620	};
 	}
@@ -2928,8 +2853,9 @@ p.equip_data = {
 {
 	id = 14640,
 	name = "秩序与审判之枪",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14640	};
 	}
@@ -2937,8 +2863,9 @@ p.equip_data = {
 {
 	id = 14660,
 	name = "珍珠之心",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14660	};
 	}
@@ -2946,8 +2873,9 @@ p.equip_data = {
 {
 	id = 14680,
 	name = "好奇者之刀",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14680	};
 	}
@@ -2955,8 +2883,9 @@ p.equip_data = {
 {
 	id = 14700,
 	name = "冒险者之杖",
-	type = 10,
-	nationality = 0,
+	type = 102,
+	ship_type = 10,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14700	};
 	}
@@ -2964,8 +2893,9 @@ p.equip_data = {
 {
 	id = 14720,
 	name = "极速潜行",
-	type = 8,
-	nationality = 0,
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14720	};
 	}
@@ -2973,8 +2903,9 @@ p.equip_data = {
 {
 	id = 14740,
 	name = "正中靶心",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14740	};
 	}
@@ -2982,8 +2913,9 @@ p.equip_data = {
 {
 	id = 14760,
 	name = "鏖杀公",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14760	};
 	}
@@ -2991,8 +2923,9 @@ p.equip_data = {
 {
 	id = 14780,
 	name = "灼烂歼鬼",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14780	};
 	}
@@ -3000,8 +2933,9 @@ p.equip_data = {
 {
 	id = 14800,
 	name = "绝灭天使",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14800	};
 	}
@@ -3009,8 +2943,9 @@ p.equip_data = {
 {
 	id = 14820,
 	name = "刻刻帝",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14820	};
 	}
@@ -3018,8 +2953,9 @@ p.equip_data = {
 {
 	id = 14840,
 	name = "冰结傀儡",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14840	};
 	}
@@ -3027,8 +2963,9 @@ p.equip_data = {
 {
 	id = 14860,
 	name = "飓风骑士",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14860	};
 	}
@@ -3036,8 +2973,9 @@ p.equip_data = {
 {
 	id = 14880,
 	name = "淑女的象征（大概）",
-	type = 7,
-	nationality = 0,
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14880	};
 	}
@@ -3045,8 +2983,9 @@ p.equip_data = {
 {
 	id = 14900,
 	name = "吉祥秋津",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14900	};
 	}
@@ -3054,8 +2993,9 @@ p.equip_data = {
 {
 	id = 14920,
 	name = "小铁（Eisen）",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14920	};
 	}
@@ -3063,8 +3003,9 @@ p.equip_data = {
 {
 	id = 14940,
 	name = "注意危险哦？",
-	type = 4,
-	nationality = 0,
+	type = 102,
+	ship_type = 4,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14940	};
 	}
@@ -3072,8 +3013,9 @@ p.equip_data = {
 {
 	id = 14960,
 	name = "月桂时轮",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14960	};
 	}
@@ -3081,28 +3023,19 @@ p.equip_data = {
 {
 	id = 14980,
 	name = "锐爪与飘带",
-	type = 2,
-	nationality = 0,
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 14980	};
 	}
 };
 {
 	id = 15000,
-	name = "潜艇用Mark 14鱼雷",
-	type = 13,
-	nationality = 1,
-	sub_equips = {
-		{	tech = 1, rarity = 2, id = 15000	};
-		{	tech = 2, rarity = 3, id = 15020	};
-		{	tech = 3, rarity = 4, id = 15040	};
-	}
-};
-{
-	id = 15000,
 	name = "骑士的誓约长剑",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 15000	};
 	}
@@ -3110,8 +3043,9 @@ p.equip_data = {
 {
 	id = 15020,
 	name = "佐治亚光线！",
-	type = 6,
-	nationality = 0,
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 15020	};
 	}
@@ -3119,8 +3053,9 @@ p.equip_data = {
 {
 	id = 15040,
 	name = "纯白的雪见兔",
-	type = 1,
-	nationality = 0,
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 15040	};
 	}
@@ -3352,7 +3287,7 @@ p.equip_data = {
 };
 {
 	id = 17260,
-	name = "F4U(VF-17“海盗”中队)",
+	name = "F4U(VF-17"海盗"中队)",
 	type = 7,
 	nationality = 1,
 	sub_equips = {
@@ -3621,7 +3556,6 @@ p.equip_data = {
 	type = 1,
 	nationality = 2,
 	sub_equips = {
-		{	tech = 0, rarity = 5, id = 26640	};
 		{	tech = 1, rarity = 2, id = 21500	};
 		{	tech = 2, rarity = 3, id = 21520	};
 		{	tech = 3, rarity = 4, id = 21540	};
@@ -4009,6 +3943,15 @@ p.equip_data = {
 	}
 };
 {
+	id = 26640,
+	name = "双联装134mm高炮",
+	type = 6,
+	nationality = 2,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 26640	};
+	}
+};
+{
 	id = 26660,
 	name = "六联装40mm博福斯对空机炮",
 	type = 6,
@@ -4158,7 +4101,7 @@ p.equip_data = {
 {
 	id = 28400,
 	name = "飞龙(鱼雷机)",
-	displayname= "飞龙",
+	displayname = "飞龙",
 	type = 8,
 	nationality = 2,
 	sub_equips = {
@@ -4199,7 +4142,7 @@ p.equip_data = {
 {
 	id = 29200,
 	name = "萤火虫(轰炸机)",
-	displayname= "萤火虫",
+	displayname = "萤火虫",
 	type = 9,
 	nationality = 2,
 	sub_equips = {
@@ -4946,7 +4889,7 @@ p.equip_data = {
 {
 	id = 39100,
 	name = "彗星(轰炸机)",
-	displayname= "彗星",
+	displayname = "彗星",
 	type = 9,
 	nationality = 3,
 	sub_equips = {
@@ -6392,7 +6335,7 @@ p.equip_data = {
 	id = 91260,
 	name = "天使之羽",
 	type = 10,
-	nationality = 10,
+	nationality = 8,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 91260	};
 	}
@@ -6401,7 +6344,7 @@ p.equip_data = {
 	id = 91280,
 	name = "十字胸针",
 	type = 10,
-	nationality = 10,
+	nationality = 8,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 91280	};
 	}
@@ -7149,111 +7092,123 @@ p.equip_data = {
 	}
 };
 {
-	id = 1010120,
+	id = 1010100,
 	name = "双剑",
-	type = 1,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1010120	};
+		{	tech = 1, rarity = 2, id = 1010100	};
+		{	tech = 2, rarity = 3, id = 1010120	};
 	}
 };
 {
-	id = 1010220,
+	id = 1010200,
 	name = "单手锤",
-	type = 1,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1010220	};
+		{	tech = 1, rarity = 2, id = 1010200	};
+		{	tech = 2, rarity = 3, id = 1010220	};
 	}
 };
 {
-	id = 1020120,
+	id = 1020100,
 	name = "铁剑",
-	type = 2,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1020120	};
+		{	tech = 1, rarity = 2, id = 1020100	};
+		{	tech = 2, rarity = 3, id = 1020120	};
 	}
 };
 {
-	id = 1030120,
+	id = 1030100,
 	name = "手弩",
-	type = 3,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1030120	};
+		{	tech = 1, rarity = 2, id = 1030100	};
+		{	tech = 2, rarity = 3, id = 1030120	};
 	}
 };
 {
-	id = 1040120,
+	id = 1040100,
 	name = "大剑",
-	type = 4,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1040120	};
+		{	tech = 1, rarity = 2, id = 1040100	};
+		{	tech = 2, rarity = 3, id = 1040120	};
 	}
 };
 {
-	id = 1050120,
+	id = 1050100,
 	name = "骑枪",
-	type = 5,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1050120	};
+		{	tech = 1, rarity = 2, id = 1050100	};
+		{	tech = 2, rarity = 3, id = 1050120	};
 	}
 };
 {
-	id = 1060120,
+	id = 1060100,
 	name = "指挥刀",
-	type = 6,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1060120	};
+		{	tech = 1, rarity = 2, id = 1060100	};
+		{	tech = 2, rarity = 3, id = 1060120	};
 	}
 };
 {
-	id = 1060220,
+	id = 1060200,
 	name = "轻弩",
-	type = 6,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1060220	};
+		{	tech = 1, rarity = 2, id = 1060200	};
+		{	tech = 2, rarity = 3, id = 1060220	};
 	}
 };
 {
-	id = 1070120,
+	id = 1070100,
 	name = "猎弓",
-	type = 7,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1070120	};
+		{	tech = 1, rarity = 2, id = 1070100	};
+		{	tech = 2, rarity = 3, id = 1070120	};
 	}
 };
 {
-	id = 1070220,
+	id = 1070200,
 	name = "权杖",
-	type = 7,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1070220	};
+		{	tech = 1, rarity = 2, id = 1070200	};
+		{	tech = 2, rarity = 3, id = 1070220	};
 	}
 };
 {
-	id = 1080120,
+	id = 1080100,
 	name = "短剑",
-	type = 8,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1080120	};
+		{	tech = 1, rarity = 2, id = 1080100	};
+		{	tech = 2, rarity = 3, id = 1080120	};
 	}
 };
 {
-	id = 1080220,
+	id = 1080200,
 	name = "苦无",
-	type = 8,
-	nationality = 0,
+	type = 101,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 1080220	};
+		{	tech = 1, rarity = 2, id = 1080200	};
+		{	tech = 2, rarity = 3, id = 1080220	};
 	}
 };
 }
