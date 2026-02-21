@@ -225,6 +225,7 @@ class CharacterPageGenerator(BaseGenerator):
         print("Loading data...")
         group = self._get_ship_group()
         statistics = self._get_ship_statistics()
+        self._weapon_property = self._get_weapon_property()
         template = self._get_ship_template()
         skin_template = self._get_ship_skin_template()
         strengthen = self._get_ship_strengthen()
@@ -998,12 +999,15 @@ class CharacterPageGenerator(BaseGenerator):
         - slot_types: [type1, type2, type3] - Equipment type names
         - initial_efficiency: [eff1, eff2, eff3] - Initial efficiency percentages
         - max_efficiency: [eff1, eff2, eff3] - Max breakout efficiency percentages
+        - weapon_counts: [wc1, wc2, wc3] - Weapon counts at full breakout
+        - preload_counts: [pc1, pc2, pc3] - Preload counts at full breakout
         """
-        # Get equipment slot types from template (equip_1, equip_2, equip_3)
+        # Get equipment slot types from MAX template (full breakout may unlock new types,
+        # e.g. carriers getting bomber/torpedo bomber slots at full breakout)
         slot_types = []
         for i in range(1, 4):
             equip_field = f'equip_{i}'
-            equip_types = initial_template.get(equip_field, [])
+            equip_types = max_template.get(equip_field, [])
             if equip_types and len(equip_types) > 0:
                 # Special handling for super cruisers (CB-class, type 18) slot 1
                 # Equipment type 11 has context-dependent meaning:
@@ -1067,16 +1071,63 @@ class CharacterPageGenerator(BaseGenerator):
 
         max_efficiency = [round(p * 100) if p else 0 for p in max_proficiency]
 
-        # Get weapon counts and preload counts from max statistics
-        weapon_counts = max_stat.get('base_list', [0, 0, 0])
-        preload_counts = max_stat.get('preload_count', [0, 0, 0])
+        # Calculate weapon counts and preload counts per slot at full breakout.
+        # Rules by slot equipment type:
+        #   BB gun (type 4): charge weapon — weapon = maxLock+1, preload = preload_count*(maxLock+1)
+        #   Surface torpedo (type 5, not 13): 1 launcher — weapon = 1, preload = preload_count
+        #   Sub torpedo (type 13): weapon = base_list, preload = base_list (always pre-loaded)
+        #   Aircraft (type 7/8/9): weapon = base_list, preload = 0
+        #   Other (guns, AA): weapon = base_list, preload = base_list
+        max_base_list = max_stat.get('base_list', [0, 0, 0])
+        max_preload_list = max_stat.get('preload_count', [0, 0, 0])
+
+        weapon_counts = []
+        preload_counts = []
+        for i in range(1, 4):
+            idx = i - 1
+            base = max_base_list[idx] if idx < len(max_base_list) else 0
+            preload = max_preload_list[idx] if idx < len(max_preload_list) else 0
+            equip_types = max_template.get(f'equip_{i}', [])
+
+            # Check for charge weapon (BB main gun, equip type 4)
+            max_lock = None
+            if 4 in equip_types and hasattr(self, '_weapon_property'):
+                equip_id = initial_template.get(f'equip_id_{i}', 0)
+                if equip_id and equip_id in self._weapon_property:
+                    cp = self._weapon_property[equip_id].get('charge_param')
+                    if isinstance(cp, dict) and 'maxLock' in cp:
+                        max_lock = cp['maxLock']
+                if max_lock is None:
+                    # BB gun slot with no weapon lookup — use default
+                    max_lock = 2
+
+            if max_lock is not None:
+                # Charge weapon (BB main gun)
+                weapon_counts.append(max_lock + 1)
+                preload_counts.append(preload * (max_lock + 1))
+            elif 5 in equip_types and 13 not in equip_types:
+                # Surface torpedo: 1 launcher, preload from game data
+                weapon_counts.append(1)
+                preload_counts.append(preload)
+            elif 13 in equip_types:
+                # Submarine torpedo: weapon = base_list, preload = base_list
+                weapon_counts.append(base)
+                preload_counts.append(base)
+            elif any(t in equip_types for t in [7, 8, 9]):
+                # Aircraft: weapon = base_list, preload = 0
+                weapon_counts.append(base)
+                preload_counts.append(0)
+            else:
+                # Guns (DD/CL/CA), AA guns, other: weapon = base_list, preload = base_list
+                weapon_counts.append(base)
+                preload_counts.append(base)
 
         return {
             'slot_types': slot_types,
             'initial_efficiency': initial_efficiency,
             'max_efficiency': max_efficiency,
-            'weapon_counts': weapon_counts[:3],  # Only first 3 slots
-            'preload_counts': preload_counts[:3],  # Only first 3 slots
+            'weapon_counts': weapon_counts,
+            'preload_counts': preload_counts,
         }
 
     def _get_enhancement_info(self, template, strengthen):
@@ -1223,7 +1274,7 @@ class CharacterPageGenerator(BaseGenerator):
 |和谐名=
 |英文名={info['english_name']}
 |日文名=
-|编号={info['code']}
+|编号={info['code'] % 10000:03d}
 |类型={info['ship_type']}
 |稀有度={info['rarity']}
 |阵营={self.NATIONALITY_MAP.get(info['nationality'], '未知')}
@@ -1272,7 +1323,7 @@ class CharacterPageGenerator(BaseGenerator):
 |满级航空={max_stats[4]}
 |满级消耗={info['oil_consumption']['max']}
 |满级反潜={max_stats[11]}
-|航速={stats[9]}
+|航速={int(stats[9])}
 |幸运={stats[10]}
 |技能1名={info['skills'][0]['name'] if len(info['skills']) > 0 else ''}
 |技能1={info['skills'][0]['desc'] if len(info['skills']) > 0 else ''}
@@ -1520,7 +1571,7 @@ class CharacterPageGenerator(BaseGenerator):
 |满级航空={max_stats[4]}
 |满级消耗={info['oil_consumption']['max']}
 |满级反潜={max_stats[11]}
-|航速={stats[9]}
+|航速={int(stats[9])}
 |幸运={luck_display}
 |技能1名={info['skills'][0]['name'] if len(info['skills']) > 0 else ''}
 |技能1={info['skills'][0]['desc'] if len(info['skills']) > 0 else ''}
@@ -1775,7 +1826,7 @@ class CharacterPageGenerator(BaseGenerator):
 |满级航空={max_stats[4]}
 |满级消耗={info['oil_consumption']['max']}
 |满级反潜={max_stats[11]}
-|航速={stats[9]}
+|航速={int(stats[9])}
 |幸运={stats[10]}
 |技能1名={info['skills'][0]['name'] if len(info['skills']) > 0 else ''}
 |技能1={info['skills'][0]['desc'] if len(info['skills']) > 0 else ''}
@@ -1990,3 +2041,7 @@ class CharacterPageGenerator(BaseGenerator):
     def _get_fleet_tech_ship_template(self):
         """Load fleet_tech_ship_template which contains tech points."""
         return parse_data_file('fleet_tech_ship_template', config=self.config)
+
+    def _get_weapon_property(self):
+        """Load weapon_property which contains charge_param for BB guns."""
+        return parse_data_file('weapon_property', config=self.config)

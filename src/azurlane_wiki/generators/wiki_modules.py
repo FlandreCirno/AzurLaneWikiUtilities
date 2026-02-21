@@ -525,7 +525,8 @@ class WikiModulesGenerator(BaseGenerator):
             # Parse name codes (e.g., {namecode:33} -> ship name)
             name = parse_name_code(name, name_code)
 
-            weapon_type = weapon_info.get('type', 0)
+            usability = weapon_info.get('usability', [])
+            ship_type = usability[0] if usability else 0
             rarity = weapon_info.get('rarity', 5)
             tech = weapon_info.get('tech', 0)
             wid = int(weapon_id)
@@ -542,12 +543,12 @@ class WikiModulesGenerator(BaseGenerator):
                     if wid < existing_id:
                         rpg_weapons[name][tech] = (wid, rarity)
             else:
-                # Augment module (特殊兵装): fixed type=102, ship_type=game_type, nationality=999
+                # Augment module (特殊兵装): fixed type=102, ship_type from usability[0], nationality=999
                 equip_data_map[wid] = {
                     'id': wid,
                     'name': name,
                     'type': 102,
-                    'ship_type': weapon_type,
+                    'ship_type': ship_type,
                     'nationality': 999,
                     'sub_equips': [{'tech': 0, 'rarity': rarity, 'id': wid}]
                 }
@@ -578,12 +579,12 @@ class WikiModulesGenerator(BaseGenerator):
             'B-37 三联装406mm主炮Mk-1': 'B-37 三联装406mm主炮MK-1',
             'B-38 三联装152mm主炮Mk5': 'B-38 三联装152mm主炮MK-5',
             'B-50 三联装305mm主炮Mk-15': 'B-50 三联装305mm主炮MK-15',
-            # Curly quote (U+201C/U+201D) → straight quote or other fix
-            'F4U（VF-17\u201c海盗\u201d中队）': 'F4U(VF-17"海盗"中队)',
+            # Curly quote (U+201C/U+201D) — keep curly quotes, fix full-width parens → half-width
+            'F4U（VF-17\u201c海盗\u201d中队）': 'F4U(VF-17\u201c海盗\u201d中队)',
             'F6F地狱猫（HVAR搭载型）': 'F6F地狱猫(HVAR搭载型)',
             'tunken der Liebe': 'Tunken der Liebe',
-            # Augment name correction: game calls it 柚, wiki calls it 绫波
-            '三五式\u201c柚\u201d对舰强击械装': '三五式"绫波"对舰强击械装',
+            # Augment name correction: game calls it 柚, wiki calls it 绫波; keep curly quotes
+            '三五式\u201c柚\u201d对舰强击械装': '三五式\u201c绫波\u201d对舰强击械装',
             '兵装补给（中小口径武器）': '兵装补给(中小口径武器)',
             '兵装补给（航空）': '兵装补给(航空)',
             '兵装补给（鱼雷）': '兵装补给(鱼雷)',
@@ -596,8 +597,8 @@ class WikiModulesGenerator(BaseGenerator):
             '试作型四联装330mm主炮Mle1931（超巡用）': '试作型四联装330mm主炮Mle1931(超巡用)',
             '试作型彩云（舰攻型）': '试作型彩云(舰攻型)',
             '试作型舰载FW-190 A-5': '试作舰载型FW-190 A-5',
-            # Augment: data has curly quotes, wiki uses Japanese corner brackets
-            '\u201c个性\u201d装备': '「个性」装备',
+            # Augment: game data has both left-curly-quotes (U+201C+U+201C bug), wiki wants left+right
+            '\u201c个性\u201c装备': '\u201c个性\u201d装备',
         }
 
         # Aircraft that need a type suffix in name (to avoid conflicts with ship names)
