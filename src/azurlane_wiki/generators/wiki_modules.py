@@ -23,6 +23,34 @@ class WikiModulesGenerator(BaseGenerator):
         '马可波罗':            '马可·波罗',
     }
 
+    # μ兵装 trailing-space entries: hardcoded mapping of (ship_id, mu_period)
+    # These entries reference the base μ兵装 ship ID and use nationality=91 with
+    # type = period (201=第一期, 202=第二期, 203=第三期)
+    _MU_WEAPON_ENTRIES = [
+        # 第一期 (type=201)
+        (905031, 201),  # 加斯科涅(μ兵装)
+        (307101, 201),  # 赤城(μ兵装)
+        (403071, 201),  # 希佩尔海军上将(μ兵装)
+        (102241, 201),  # 克利夫兰(μ兵装)
+        (202251, 201),  # 谢菲尔德(μ兵装)
+        # 第二期 (type=202)
+        (701051, 202),  # 塔什干(μ兵装)
+        (901121, 202),  # 恶毒(μ兵装)
+        (202281, 202),  # 黛朵(μ兵装)
+        (103251, 202),  # 巴尔的摩(μ兵装)
+        (403081, 202),  # 罗恩(μ兵装)
+        (207111, 202),  # 光辉(μ兵装)
+        (307111, 202),  # 大凤(μ兵装)
+        (108051, 202),  # 大青花鱼(μ兵装)
+        # 第三期 (type=203)
+        (207141, 203),  # 可畏(μ兵装)
+        (403151, 203),  # 欧根亲王(μ兵装)
+        (302241, 203),  # 能代(μ兵装)
+        (304081, 203),  # 金刚(μ兵装)
+        (801091, 203),  # 鲁莽(μ兵装)
+        (102321, 203),  # 博伊西(μ兵装)
+    ]
+
     def generate_ship_data_module(self):
         """Generate 模块:舰娘数据 (Ship Data Module).
 
@@ -32,6 +60,17 @@ class WikiModulesGenerator(BaseGenerator):
         # Load required data
         ship_statistics = parse_data_file('ship_data_statistics', config=self.config)
         ship_data_template = parse_data_file('ship_data_template', config=self.config)
+        ship_data_group = parse_data_file('ship_data_group', config=self.config)
+
+        # Build group_type → handbook_type map from ship_data_group
+        # handbook_type: 0=normal, 1=collab, 2=PR/research, 3=META
+        group_type_handbook = {}
+        for entry in ship_data_group.values():
+            if isinstance(entry, dict):
+                gt = entry.get('group_type')
+                ht = entry.get('handbook_type', 0)
+                if gt is not None:
+                    group_type_handbook[gt] = ht
 
         # Load retrofit data to check which ships can transform
         # The keys in ship_data_trans are the group_type IDs that can retrofit
@@ -77,11 +116,30 @@ class WikiModulesGenerator(BaseGenerator):
             if not name:
                 continue
 
+            nationality = ship_info.get('nationality', 0)
+            ship_type = ship_info.get('type', 0)
+            rarity = ship_info.get('rarity', 0)
+
+            # Get handbook_type for this group to apply corrections
+            handbook_type = group_type_handbook.get(group_type, 0)
+
+            # Override nationality for 布里 ships (game uses 98, wiki uses 10=其他)
+            if nationality == 98:
+                nationality = 10
+
+            # Override ship type for META ships to use the wiki's META type (301)
+            if handbook_type == 3:  # META
+                ship_type = 301
+
+            # Add rarity offset for PR/research ships
+            if handbook_type == 2:  # PR
+                rarity += 10
+
             entry = {
                 'id': ship_id,
-                'nationality': ship_info.get('nationality', 0),
-                'type': ship_info.get('type', 0),
-                'rarity': ship_info.get('rarity', 0),
+                'nationality': nationality,
+                'type': ship_type,
+                'rarity': rarity,
                 'name': name,
                 'group_type': group_type
             }
@@ -179,11 +237,30 @@ class WikiModulesGenerator(BaseGenerator):
                 if entry.get('transform'):
                     ship_data[name]['transform'] = True
 
+        # Third pass: build μ兵装 trailing-space entries (hardcoded, nationality=91)
+        # Stored separately so they appear at the end of ship_data with a comment block,
+        # following the wiki's convention of placing them after all regular ships.
+        mu_ship_data = []
+        for ship_id, mu_period in self._MU_WEAPON_ENTRIES:
+            ship_info = ship_statistics.get(ship_id, {})
+            ship_name = ship_info.get('name', '')  # e.g. '加斯科涅(μ兵装)'
+            if not ship_name:
+                continue
+            wiki_name = ship_name + ' '  # trailing space is intentional per wiki convention
+            rarity = ship_info.get('rarity', 5)
+            mu_ship_data.append((wiki_name, {
+                'id': ship_id,
+                'nationality': 91,   # μ兵装 faction
+                'type': mu_period,   # 201/202/203 = 第一期/第二期/第三期
+                'rarity': rarity,
+            }))
+
         # Generate Lua output - only the ship_data table
         output_path = os.path.join(self.config.output_directory, '模块_舰娘数据.lua')
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write('local p = {}\n\n')
             f.write('p.ship_data = {\n')
+            # Regular ships sorted by ID
             for name, entry in sorted(ship_data.items(), key=lambda x: x[1]['id']):
                 f.write(f'\t["{name}"] = {{ ')
                 f.write(f'id = {entry["id"]}, ')
@@ -192,6 +269,16 @@ class WikiModulesGenerator(BaseGenerator):
                 f.write(f'rarity = {entry["rarity"]}')
                 if entry.get('transform'):
                     f.write(', transform = true')
+                f.write(' },\n')
+            # μ兵装 entries at the end with comment block (wiki convention)
+            f.write('--\t以下为μ兵装角色新增栏目（μ兵装括号后面注意增加一个空格）\n')
+            f.write('--\t["角色名(μ兵装) "] = { id = ?, nationality = 91, type = ?, rarity = ? },\n')
+            for wiki_name, entry in mu_ship_data:
+                f.write(f'\t["{wiki_name}"] = {{ ')
+                f.write(f'id = {entry["id"]}, ')
+                f.write(f'nationality = {entry["nationality"]}, ')
+                f.write(f'type = {entry["type"]}, ')
+                f.write(f'rarity = {entry["rarity"]}')
                 f.write(' },\n')
             f.write('}\n\n')
             f.write('return p\n')
@@ -325,9 +412,11 @@ class WikiModulesGenerator(BaseGenerator):
         except:
             spweapon_statistics = {}
 
-        # First pass: collect all equipment and group by base name + nationality
-        equip_temp = {}  # Key: (base_name, nationality)
-        base_name_nations = {}  # Track nations for each base name
+        # First pass: collect all equipment and group by (base_name, nationality, equip_type).
+        # Including equip_type in the key ensures same-name equipment of different types
+        # (e.g. 双联装134mm高炮 as type=1 main gun vs type=6 AA gun) remain separate entries.
+        equip_temp = {}  # Key: (base_name, nationality, equip_type)
+        base_name_nations = {}  # Track nations for each (base_name, equip_type)
         filtered_count = 0
 
         for equip_id, equip_info in equip_statistics.items():
@@ -351,6 +440,12 @@ class WikiModulesGenerator(BaseGenerator):
             equip_type = equip_info.get('type', 0)
             rarity = equip_info.get('rarity', 0)
 
+            # Correct nationality for FFNF (Free French) equipment mislabeled as 其他 (10).
+            # All FFNF-labeled equipment belongs to 自由鸢尾 (8); game data errors for two items.
+            labels = equip_info.get('label', [])
+            if 'FFNF' in labels and nationality == 10:
+                nationality = 8
+
             # Strip tech suffix from name
             base_name = name
             for suffix in ['T3', 'T2', 'T1', 'T0']:
@@ -358,13 +453,14 @@ class WikiModulesGenerator(BaseGenerator):
                     base_name = name[:-2]
                     break
 
-            # Track nations for this base name
-            if base_name not in base_name_nations:
-                base_name_nations[base_name] = set()
-            base_name_nations[base_name].add(nationality)
+            # Track nations per (base_name, equip_type) for nation suffix detection
+            bn_type_key = (base_name, equip_type)
+            if bn_type_key not in base_name_nations:
+                base_name_nations[bn_type_key] = set()
+            base_name_nations[bn_type_key].add(nationality)
 
-            # Group by base name + nationality
-            key = (base_name, nationality)
+            # Group by (base_name, nationality, equip_type)
+            key = (base_name, nationality, equip_type)
             if key not in equip_temp:
                 equip_temp[key] = {
                     'id': base_id,
@@ -380,21 +476,27 @@ class WikiModulesGenerator(BaseGenerator):
                 'id': int(equip_id)
             })
 
-        # Second pass: add nation suffix for equipment with multiple regional variants
-        equip_data_map = {}
+        # Second pass: add nation suffix for equipment with multiple regional variants.
+        # Nation suffix is added when the same (base_name, equip_type) exists across
+        # multiple nationalities (e.g. 120mm单装炮 for 皇家 and 重樱).
+        # equip_data_map is keyed by id to avoid collisions when same name has different types.
+        equip_data_map = {}  # Key: id
+        # Nation suffix abbreviations used in equipment names when regional variants exist.
+        # Verified against wiki's p.nation_data and actual equipment suffixes in 模块:装备数据.
+        # France has 3 factions: 自由鸢尾(8), 维希教廷(9), 郁金王国(11).
         nation_suffix_map = {
             1: '白鹰', 2: '皇家', 3: '重樱', 4: '铁血', 5: '东煌',
-            6: '撒丁', 7: '北联', 8: '自由鸢尾', 9: '维希', 10: '其他',
-            11: '郁金香', 91: 'μ兵装', 96: '飓风', 97: 'META',
+            6: '撒丁', 7: '北联', 8: '自由鸢尾', 9: '维希教廷', 10: '其他',
+            11: '郁金王国', 91: 'μ兵装', 96: '飓风', 97: 'META',
             101: '海王星', 102: '哔哩', 103: '传颂', 104: '绊爱',
             106: 'DOA', 107: '偶像', 108: 'SSSS', 109: '莱莎',
             110: '闪乱', 111: '出包', 112: '黑岩', 113: '优米雅',
-            114: '地错', 115: '狂三',
+            114: '地城', 115: '狂三',
         }
 
-        for (base_name, nationality), equip_data in equip_temp.items():
-            # Check if this equipment has multiple national variants
-            if len(base_name_nations[base_name]) > 1:
+        for (base_name, nationality, equip_type), equip_data in equip_temp.items():
+            # Check if this (name, type) combination has multiple national variants
+            if len(base_name_nations[(base_name, equip_type)]) > 1:
                 # Add nation suffix for regional variants
                 nation_suffix = nation_suffix_map.get(nationality, f"N{nationality}")
                 final_name = f"{base_name}({nation_suffix})"
@@ -402,17 +504,18 @@ class WikiModulesGenerator(BaseGenerator):
                 # No regional variants - use base name
                 final_name = base_name
 
-            # Update the name in equip_data
+            # Sort sub_equips by tech level
+            equip_data['sub_equips'].sort(key=lambda x: x['tech'])
             equip_data['name'] = final_name
-            equip_data_map[final_name] = equip_data
+            equip_data_map[equip_data['id']] = equip_data
 
-        # Sort sub_equips by tech level
-        for equip in equip_data_map.values():
-            equip['sub_equips'].sort(key=lambda x: x['tech'])
-
-        # Third pass: add augment modules (special weapons / 设备)
+        # Third pass: add augment modules and RPG weapons (special weapons / 设备)
         augment_count = 0
+        rpg_count = 0
         name_code = get_name_code(config=self.config)  # Load name code dictionary once
+
+        # RPG weapon grouping: name → {tech: (id, rarity)}
+        rpg_weapons = {}
 
         for weapon_id, weapon_info in spweapon_statistics.items():
             name = weapon_info.get('name', '').strip()
@@ -423,23 +526,49 @@ class WikiModulesGenerator(BaseGenerator):
             name = parse_name_code(name, name_code)
 
             weapon_type = weapon_info.get('type', 0)
-            rarity = weapon_info.get('rarity', 5)  # Default to gold rarity
+            rarity = weapon_info.get('rarity', 5)
+            tech = weapon_info.get('tech', 0)
+            wid = int(weapon_id)
 
-            # Add as equipment with single tech level (augments don't have T1/T2/T3)
-            equip_data_map[name] = {
-                'id': int(weapon_id),
+            if wid >= 1_000_000:
+                # RPG weapon: group by name, collect T1 and T2 base forms
+                if name not in rpg_weapons:
+                    rpg_weapons[name] = {}
+                if tech not in rpg_weapons[name]:
+                    rpg_weapons[name][tech] = (wid, rarity)
+                else:
+                    # Keep lowest ID per tech level (base form)
+                    existing_id, _ = rpg_weapons[name][tech]
+                    if wid < existing_id:
+                        rpg_weapons[name][tech] = (wid, rarity)
+            else:
+                # Augment module (特殊兵装): fixed type=102, ship_type=game_type, nationality=999
+                equip_data_map[wid] = {
+                    'id': wid,
+                    'name': name,
+                    'type': 102,
+                    'ship_type': weapon_type,
+                    'nationality': 999,
+                    'sub_equips': [{'tech': 0, 'rarity': rarity, 'id': wid}]
+                }
+                augment_count += 1
+
+        # Add RPG weapons as grouped entries
+        for name, tech_entries in rpg_weapons.items():
+            tech_list = sorted(tech_entries.items())  # Sort by tech level (1 first, 2 second)
+            base_id = tech_list[0][1][0]  # T1 base form ID (lowest tech, lowest ID)
+            sub_equips = [{'tech': t, 'rarity': r, 'id': wid} for t, (wid, r) in tech_list]
+            equip_data_map[base_id] = {
+                'id': base_id,
                 'name': name,
-                'type': weapon_type,
-                'nationality': 0,  # Augments don't have nationality
-                'sub_equips': [{
-                    'tech': 0,  # Augments don't have tech levels
-                    'rarity': rarity,
-                    'id': int(weapon_id)
-                }]
+                'type': 101,
+                'nationality': 999,
+                'sub_equips': sub_equips
             }
-            augment_count += 1
+            rpg_count += 1
 
-        # Fourth pass: Apply name mapping to match wiki conventions
+        # Fourth pass: Apply name mapping and aircraft displayname corrections in-place.
+        # Keys use exact game data strings (including curly quotes U+201C/U+201D where present).
         equipment_name_mapping = {
             # Formatting fixes (parentheses, capitalization, spacing)
             '20mm厄利孔高射炮MkII': '20mm厄利孔高射炮Mark II',
@@ -449,10 +578,12 @@ class WikiModulesGenerator(BaseGenerator):
             'B-37 三联装406mm主炮Mk-1': 'B-37 三联装406mm主炮MK-1',
             'B-38 三联装152mm主炮Mk5': 'B-38 三联装152mm主炮MK-5',
             'B-50 三联装305mm主炮Mk-15': 'B-50 三联装305mm主炮MK-15',
-            'F4U（VF-17“海盗”中队）': 'F4U(VF-17“海盗”中队)',
+            # Curly quote (U+201C/U+201D) → straight quote or other fix
+            'F4U（VF-17\u201c海盗\u201d中队）': 'F4U(VF-17"海盗"中队)',
             'F6F地狱猫（HVAR搭载型）': 'F6F地狱猫(HVAR搭载型)',
             'tunken der Liebe': 'Tunken der Liebe',
-            '三五式“柚”对舰强击械装': '三五式“绫波”对舰强击械装',
+            # Augment name correction: game calls it 柚, wiki calls it 绫波
+            '三五式\u201c柚\u201d对舰强击械装': '三五式"绫波"对舰强击械装',
             '兵装补给（中小口径武器）': '兵装补给(中小口径武器)',
             '兵装补给（航空）': '兵装补给(航空)',
             '兵装补给（鱼雷）': '兵装补给(鱼雷)',
@@ -465,35 +596,27 @@ class WikiModulesGenerator(BaseGenerator):
             '试作型四联装330mm主炮Mle1931（超巡用）': '试作型四联装330mm主炮Mle1931(超巡用)',
             '试作型彩云（舰攻型）': '试作型彩云(舰攻型)',
             '试作型舰载FW-190 A-5': '试作舰载型FW-190 A-5',
-            # Fix mismatched quotes (data has two left quotes, wiki has left+right)
-            '“个性“装备': '“个性”装备',
+            # Augment: data has curly quotes, wiki uses Japanese corner brackets
+            '\u201c个性\u201d装备': '「个性」装备',
         }
 
-        # Apply name mapping
-        equip_data_map_renamed = {}
-
-        # Aircraft that need displayname field (base name) in addition to suffixed name
+        # Aircraft that need a type suffix in name (to avoid conflicts with ship names)
+        # plus a displayname field showing the plain name
         aircraft_suffix_map = {
             '飞龙': '飞龙(鱼雷机)',
             '萤火虫': '萤火虫(轰炸机)',
             '彗星': '彗星(轰炸机)',
         }
 
-        for old_name, equip_data in equip_data_map.items():
-            # Check if this is an aircraft that needs displayname
+        for equip in equip_data_map.values():
+            old_name = equip['name']
             if old_name in aircraft_suffix_map:
                 suffix_name = aircraft_suffix_map[old_name]
-                equip_data['name'] = suffix_name
-                equip_data['displayname'] = old_name  # Base name for display
-                equip_data_map_renamed[suffix_name] = equip_data
+                equip['displayname'] = old_name  # Base name for display
+                equip['name'] = suffix_name
                 continue
-
-            # Apply regular name mapping
             new_name = equipment_name_mapping.get(old_name, old_name)
-            equip_data['name'] = new_name
-            equip_data_map_renamed[new_name] = equip_data
-
-        equip_data_map = equip_data_map_renamed
+            equip['name'] = new_name
 
         # Generate Lua output - only the equip_data table
         output_path = os.path.join(self.config.output_directory, '模块_装备数据.lua')
@@ -506,8 +629,11 @@ class WikiModulesGenerator(BaseGenerator):
                 f.write(f'\tname = "{equip["name"]}",\n')
                 # Add displayname if present (for aircraft with ship name conflicts)
                 if 'displayname' in equip:
-                    f.write(f'\tdisplayname= "{equip["displayname"]}",\n')
+                    f.write(f'\tdisplayname = "{equip["displayname"]}",\n')
                 f.write(f'\ttype = {equip["type"]},\n')
+                # Add ship_type for augment modules (original game type)
+                if 'ship_type' in equip:
+                    f.write(f'\tship_type = {equip["ship_type"]},\n')
                 f.write(f'\tnationality = {equip["nationality"]},\n')
                 f.write('\tsub_equips = {\n')
                 for sub in equip['sub_equips']:
@@ -518,7 +644,8 @@ class WikiModulesGenerator(BaseGenerator):
             f.write('return p\n')
 
         print(f"  Generated: {output_path}")
-        print(f"  Regular equipment: {len(equip_data_map) - augment_count}")
+        print(f"  Regular equipment: {len(equip_data_map) - augment_count - rpg_count}")
         print(f"  Augment modules: {augment_count}")
+        print(f"  RPG weapons: {rpg_count}")
         print(f"  Total equipment: {len(equip_data_map)}")
         print(f"  Story/test filtered: {filtered_count}")
