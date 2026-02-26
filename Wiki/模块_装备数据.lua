@@ -5712,6 +5712,15 @@ p.equip_data = {
 	}
 };
 {
+	id = 85800,
+	name = "SM-40 试作型三联装220mm主炮",
+	type = 3,
+	nationality = 7,
+	sub_equips = {
+		{	tech = 0, rarity = 6, id = 85800	};
+	}
+};
+{
 	id = 89000,
 	name = "随机单词生成器",
 	type = 10,

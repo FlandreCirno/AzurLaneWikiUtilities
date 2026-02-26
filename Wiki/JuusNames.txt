@@ -93,6 +93,7 @@
 兰利 Langley
 列克星敦 Lexington
 萨拉托加 SisterSara
+突击者 Ranger
 约克城 YorkTown
 企业 Enterprise
 大黄蜂 CarVesGAL6
@@ -481,6 +482,7 @@ U-552 U.B.552
 基辅 Киев
 火力 Ognevoy
 凶猛 Svirepy
+顽皮 Ozornoy
 阿芙乐尔 Aurora1900
 水星纪念 Pamiat' Merkuria
 恰巴耶夫 Chapaev
@@ -489,8 +491,11 @@ U-552 U.B.552
 摩尔曼斯克 Мурманск
 伏罗希洛夫 Voroshilov
 奥列格 Oleg
+红色山脉 Krasny Kavkaz
+博加特里 Bogatyr
 塔林 Tallinn
 库尔斯克 Kursk
+莫斯科 Moskva
 甘古特 Gangut
 苏维埃同盟 Sovetsky Soyuz
 苏维埃贝拉罗斯 Proj23.Bel
