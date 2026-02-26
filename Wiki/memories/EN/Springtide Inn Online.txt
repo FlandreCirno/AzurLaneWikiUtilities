@@ -1,0 +1,1272 @@
+== Springtide Inn Online ==
+{{折叠面板|开始}}
+{{折叠面板|标题=The Peak of Spring|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Loading modules...<br>
+Reading map data...<br>
+Entering final phase...<br>
+<br>
+Generating world...<br>
+■■■■■■■■■97.8%……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's this? Are you girls simulating some experiment?<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Ah, Commander. You came at the perfect time.<br>
+This is the inn simulation game I told you about before. It's designed specifically so you don't have to endure the burden of farm life and grow potatoes the hard way.<br>
+Naturally, this project couldn't have been brought from proposal to completion without the Dragon Empery's help.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+Well, the passion and drive you all had were quite impressive as well.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Player connected...<br>
+<br>
+…………loading…………<br>
+■■■■■■■■■98.5%……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Whoa, your outfits all changed. This is incredible tech.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Heheh. Do you think you'll join us on this first test, Commander?<br>
+Our inn is already prepped and ready to accept a new manager.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sure thing. Sounds fun.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+Um, if I may butt in...<br>
+Bogatyr, could you please include my prized recipes in the game? They've all been tried and tested.<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+If I were to follow those recipes, could I cook delicious food for the Commander?<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+Uh... You don't need to push the edge of the envelope.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Scanning... Recipe data registered.<br>
+<br>
+…………loading…………<br>
+■■■■■■■■■91.3%……<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Seems we need to wait a little longer.<br>
+Which is just fine. Let me take this opportunity to reintroduce the goal behind this project.<br>
+We wanted to build an automated information system for economic management, using Comrade Bogatyr's computational and logical abilities at its core.<br>
+The result, this inn management simulator, will help with our data gathering.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+Also, the test will focus on the two most important aspects of managing an inn: Dining and lodging.<br>
+<br>
+Moskva's and Chen Hai's explanation is suddenly interrupted by a resounding warning from Bogatyr.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Warning: Unidentified data package detected... It's forcing itself to load.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Heehee! If you're making a game, you definitely need some of my original ideas!<br>
+This addition makes it so that staff have a chance to be flung into a fantasy world while serving, and they've gotta defeat the King of Evil before the food goes cold!<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Warning: Data is incompatible... Expansion pack failed to load.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Failed?! Why?! I just tested it and it worked fine!<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Initial parameters verified...<br>
+<br>
+…………loading…………<br>
+■■■■■■■■■99.9%……<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+......<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+What's the matter, Bogatyr?<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Nothing. I set some time aside for any issues that may crop up.<br>
+Resuming generation... Non-interruptive error detected: A large number of characters have entered...<br>
+Generating environmental data... Progress: 100%.<br>
+Deploying characters... Progress: 100%.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Initiate... Springtide Inn Online!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Operation Inn-Filtration|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+The lobby of the inn is lit with bright lights, and people frolic and smile.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Matches for sale! Matches for sale here!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Looking for baozi! Is anyone selling baozi?<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+No, Ping Hai! You got it wrong again.<br>
+<br>
+Two suspicious sisters waded through the crowd outside the inn, matches in their pockets and steamed buns on their minds, and then slipped out to the back of the inn.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+We finally made it! Ping Hai, do you remember this place? It's the unlucky inn we opened that went out of business!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Yeah, and now it's totally thriving. I doubt they'll fail anytime soon.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+They apparently hired a new, really skilled manager just a while ago. I wonder if it's true.<br>
+Whatever the case, we need to infiltrate the inn and uncover the secret to their business success!<br>
+To that end, I've planned three routes. One: Disguise as customers and go through the main entrance. Two: Sneak in through the kitchen's back door. The last one is–<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Sis, see that window there? I think it's open.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+...That's our third route, then! Let's go!<br>
+<br>
+With a rustling sound, the two sneak into the kitchen, landing on the floor with a thud shortly followed by another.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+We're inside... Whoa, holy cow! Look at all those steaming baskets!<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Stay focused. First, we have to find their ledger.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Oh, I know where the ledger is! Want me to show you to it?<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+That'd be a huge– Whuah?! Who are you?!<br>
+<br>
+A girl with a staff in hand leaned imposingly against the kitchen door. Her sharp gaze was fixed on the two sisters.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+I'm Ozornoy – guard of the inn.<br>
+Haven't seen you before. You don't work here, do you?<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+We, uhh... We've come to see how this business is run!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Yeah! We're here to learn!<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Right. Learn. By sneaking in through the kitchen and looking for our ledger.<br>
+Now's your chance to tell the truth! Who do you work for, and who taught you?<br>
+Either you give it up here and now willingly... or I'll bring you to the Manager! You crooks will get what's–<br>
+<br>
+Just as Ozornoy was about to finish lecturing them, Ning Hai and Ping Hai both reacted like a pair of students scared of having their parents called to school.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Ping Hai, run for it!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+I'll cover you, Sis!<br>
+<br>
+The two immediately made a break for the lobby.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+I wasn't finished yet! Get back here!<br>
+<br>
+The inn has been open for quite some time now, and thanks to Moskva's and Chen Hai's oversight, everything has come together bit by bit.<br>
+Moskva and I just finished poring over the latest business data. I left the room to help out at the storefront.<br>
+That was when, suddenly...<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+We'd better split up here, Ping Hai! Meet me outside!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Got it!<br>
+<br>
+Thud... Something slams into me from the front.<br>
+Another thud... This time, from behind.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Oww, my head...<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+I-I said we were gonna split up! How'd we run into each other again?!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's with all the commotion this late at night?<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Manager, I caught these two sneaking around, and they took off as soon as I saw them!<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+No, we didn't! We're just...<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Here to learn... what your secret is.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Yeah, exa– No, not that! We're just two sisters who sell matches! Don't think you can pick on us just 'cause your business is bigger!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You "just" sell matches. Yeah, right.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+From what I know, the Springtide Inn was previously jointly managed by two girls.<br>
+Apparently, they ultimately ran off after the inn went bankrupt due to a lack of business.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Nooo! Enough! I've heard enough!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Okay, truth aside, we are serious about wanting to learn what the secret behind your success is.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Alright, then starting right from tomorrow, you can look at anything you want – the lobby, the kitchen, even the ledger.<br>
+But not for free. See, we're going to expand the business's scope, but we need more staff. I want you two to help.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+S-seriously?! Sounds too good to be true!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Is food included?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You bet. Just don't go in through the window again.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Woohoo! Then we have a deal!<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Hey, I haven't said "yes" yet. But, if we DO have a deal, you better not go back on your word!<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+I know my sis won't admit it, but she's actually over the moon right now.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+N-no! Am NOT!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=It's Called Testing for a Reason|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+With the help of Ning Hai and Ping Hai, the inn is running smoother than ever.<br>
+However, the peaceful atmosphere is disrupted by the arrival of Clarence K. Bronson.<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+If you're not testing things properly, then you're wasting your valuable test phase.<br>
+Hmm... The paper and printing quality are solid, and there's no fading. I'm impressed by the binding, too. This passes.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+E-excuse me... Are you ready to order? I can't help but notice you seem to be fascinated by the menu.<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+One fried rice, please.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Okay, one fried rice, coming right up! May I interest you in any sides or soups? The bao buns are to die for.<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+No, thank you. Just the fried rice will do. My test... ahem, my meal, is best left simple.<br>
+<br>
+Before long, Ping Hai brings a piping-hot bowl of fried rice.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+One fried rice. Enjoy!<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+Hmm... It looks good. No issues with scent, not burned.<br>
+Not bad. May I order something else, please?<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Hmm? Oh, you want another dish?<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+Not quite. I'd like "negative one" fried rice, please.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Negative...?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Something wrong, girls?<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+Oh, Manager, you're just in time! Can you help me figure out what this customer here wants?<br>
+<br>
+Ning Hai recounts their previous conversation.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+I think she wants to return the order of rice...?<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+No, no. My request is very literally negative one fried rice.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Got it.<br>
+<br>
+After looking at her face to confirm that she's serious, I take away the bowl of rice.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Negative one fried rice. Enjoy.<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+Correct. Okay... I'd like negative one cup of amazake.<br>
+Then, I'd like two to the thirty-second power bowls of fried rice.<br>
+Three cups of chicken rice.<br>
+Also, Q@HWN cups of fried rice.<br>
+And then...<br>
+<br>
+After a gauntlet of test orders, she finally smiles in satisfaction.<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+You pass. Excellent, I must say.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Will our professional tester finally have a bowl of fried rice? It's on the house.<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+Why, thank you.<br>
+<br>
+The bell chimes, and another customer walks in.<br>
+After that odd moment, the inn enjoyed another peaceful day.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Base-Function Repair Log|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+It's around noon, and the lobby is bustling with guests. The air is filled with casual conversation intermingled with the gentle clashing of cutlery.<br>
+Ning Hai and Ping Hai stand at the register, checking the revenue, while they take in the sight before them.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+To think we used to call this place the unlucky inn... They've really turned things around.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+Yeah. I remember how, not long ago, you'd stare at the ledger in the run-down lobby and sigh, saying we couldn't even afford oil for the lanterns.<br>
+<br>
+After welcoming Kearsarge to the inn, I overhear the two sisters' conversation.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You know, the location for this inn is great. The surrounding scenery's really nice.<br>
+How come you never got any customers, anyway?<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+It's a long story.<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+It goes back all the way to when we were born...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Well, I'm listening.<br>
+Kearsarge, have a look at the backend log text for me.<br>
+<br>
+Kearsarge nods and uses her fingers to interface with something invisible. It's like she's checking thin air.<br>
+<span style="color:#4eb24e;">Kearsarge：</span><br>
+Analyzing the game's backend event logs...<br>
+Analysis complete. No errors detected in any modules since the inn system was initiated.<br>
+However, comparing them to deeper-level log data reveals an abnormality: There's a recorded state described as, "Select all and ignore."<br>
+<span style="color:#4eb24e;">Ning Hai：</span><br>
+...At least now we've moved on from our past as bankrupt innkeepers and officially become a part of this promising new inn!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Oh, yeah. I'm still listening.<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+That's it. We've told our whole story.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Ning Hai, Ping Hai, do me a favor and pass on a message to Lung Wu in the kitchen for me.<br>
+Tell her you can have all the meat buns you want. It's my treat.<br>
+<span style="color:#4eb24e;">Ping Hai&Ning Hai：</span><br>
+Wow! You're the best manager ever!<br>
+<br>
+After seeing the two sisters off, I turn my attention to Kearsarge.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Call Moskva over. We're gonna go speak to this game's "designer."<br>
+<br>
+Despite its name, this warehouse is outfitted with tables and chairs, almost like a guest room at a hotel.<br>
+Over in the innermost corner, a figure sits in solitude among cables and machinery that don't feel like they fit the surroundings at all.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+...So basically, it was a hidden bug?<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Correct. When the inn's funds remain at their lowest point for a long period, this triggers the "doomed business" state, which in turn blocks all interactive functions.<br>
+This was likely the reason behind Ning Hai's and Ping Hai's bankruptcy.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Hmm. Excellent judgment and efficiency, Comrade Manager and Comrade Bogatyr.<br>
+What shall we do with this information?<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+I'll work on fixing the issue now. Give me a second... Okay, it's done.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+THAT was fast.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Not quite. The work was completed 0.1 seconds slower than projected.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Epilogue|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+To celebrate the inn's roaring success, Moskva and Chen Hai hold a banquet for all of the staff.<br>
+On the way there, my path is unexpectedly blocked.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Hindenburg and I have prepared a... special present to celebrate the occasion.<br>
+<span style="color:#4eb24e;">Hindenburg：</span><br>
+You'll have to come and accept it yourself~<br>
+<br>
+Out of thin air, I hear a comforting string melody.<br>
+Implacable and Hindenburg circle the stage's central pillar, showing off their supple figures.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Will you admire from afar, or will you approach and experience this blessing for yourself? The choice is yours.<br>
+On this moonlit night, replete with the color of spring... Allow us to take the stage and entertain you.<br>
+<span style="color:#4eb24e;">Hindenburg：</span><br>
+Watch carefully, Contract Binder.<br>
+<br>
+As the girls onstage focus their attention on me, my eyes are drawn to them in turn, as if being pulled by powerful magic.<br>
+Finally, amidst the rapid strumming of the pipa, they stop – and, as if possessed, I begin walking toward the stage.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+How was it? Was this gift... to your liking?<br>
+<span style="color:#4eb24e;">Hindenburg：</span><br>
+Heehee... Your eyes are transfixed on us.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+It was incredible. I'll never forget this.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Then I hope it isn't unreasonable to ask that you have a drink with us?<br>
+<span style="color:#4eb24e;">Hindenburg：</span><br>
+The party has only just begun, Contract Binder... Who knows what other fun is in store?<br>
+<br>
+As I linger in the aftermath of the show, the girls sidle over and stand on either side of me.<br>
+Amidst laughter and mirth, the party rages on. And what a beautiful sight it is.<br>
+Elsewhere...<br>
+<span style="color:#4eb24e;">Ping Hai：</span><br>
+A three-flavor spring roll, huh? ...Bleh, spicy.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+I brushed a layer of chili oil on them. If we're celebrating our growing success, then our dishes should be just as vibrant!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Lung Wu, you should really be considerate of those of us who can't handle spice...<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+Don't worry. There's plenty of lobster and roast duck to go around, and they're not spicy at all. Just wait 'til you see how they look, too!<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Such a generous budget... Great job, {playername}!<br>
+Being able to witness this place grow step by step from its start as a tiny inn... It's been incredible!<br>
+<span style="color:#4eb24e;">Clarence K. Bronson：</span><br>
+Agreed. The system has passed countless stability tests, too, and its performance is exemplary. Fantastic work.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Due to ingestion of alcohol... dexterity is rapidly deteriorating...<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+This party's really heating up. The victory you won today is worthy of commendation, Comrade Manager.<br>
+I'd say this round of tests can be called a success.<br>
+Still, if you're in the mood, we can extend this game for as long as you'd like.<br>
+What do you think, Comrade Manager?<br>
+<br>
+'''''<span style="color:black;">选择项1：The test may be over, but our story isn't.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Let's have fun for a little longer before we go back to work.</span>'''''<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Heheh, I thought so. We were just here for the test at first, but... it's a good excuse to relax and have some fun.<br>
+In that case, my dear friend, may you have a wonderful time in this inn.<br>
+Let's have another round of drinks!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Our Game Has Just Begun|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+Late at night, the lights were still on in Moskva's room.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+When I opened the door, I saw her sitting in front of a familiar wooden Go board, chin resting on one hand. Her free hand suspended a piece in midair.<br>
+I've been waiting for you, dear friend. Spare a moment of your time?<br>
+She keeps her gaze fixed on the board. Lamplight gently illuminates her focused profile.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Have you been studying our game all night?<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+That's right. I've been thinking of that move you pulled off earlier. There would seem to be countless counter moves, but all are within your calculations.<br>
+Can we play another game? This time, I won't be distracted.<br>
+Her ice-blue eyes burn with calm determination.<br>
+Go pieces clatter onto the board. Moskva places them quickly at first, but her pace noticeably slows.<br>
+I had Bogatyr review the inn's revenue of late.<br>
+Thanks to her administrative work, our business strategy iteration efficiency has increased by 12.7%.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Sounds like the tests are going well.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Data only shows the surface level. The system's optimal solutions unfortunately overlook the variable known as humans. Just like this game...<br>
+After picking up a white piece, she taps it on the edge of the board a few times.<br>
+I can calculate every common-sense move that you might make on your next turn, but calculation alone won't predict what you'll really do.<br>
+I suppose even the closest of friends have to keep some surprises in store for each other.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Surprises, eh? Well, I'm sorry to disappoint you, but I can already see the trap you're laying for me this time.<br>
+<span style="color:#4eb24e;">Moskva：</span><br>
+Heehee, already?<br>
+Maybe you know me a lot better than I realize.<br>
+As our game continues, the board seems to crackle with an invisible pressure.<br>
+I pick up a black piece. Before I can place it in a position that would both solidify my advantage and force her into a difficult defense... I hesitate.<br>
+Moskva places her hand on mine. Her warmth caresses me like a gentle spring breeze.<br>
+You look like you need to cool your head, Commander.<br>
+Let me guess... You hesitated just now because you didn't want to corner me. Is that it?<br>
+She guides my hand to a different position – one that gives me an even greater probability of winning.<br>
+Then, instead of withdrawing her hand, she wriggles her fingers in between mine, intertwining them.<br>
+You mustn't let your kindness become a weakness in games of strategy.<br>
+I want you to face me with a focused mind, unclouded by doubt.<br>
+And outside of the game, too...<br>
+Tightening her grip on me slightly, she presses her palm to mine.<br>
+Leave it all to me, my friend.<br>
+After I nod, she turns her attention back to the board. The faintest smile plays on her lips.<br>
+Flickering lamplight casts our shadows as one on the game board.<br>
+Let's continue. Our game has just begun.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Dancer of the Deep Chamber|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+Following the instructions in the mysterious note Hindenburg left behind, I went to a loft located deep inside the inn. Pushing the door open with a sharp creak, I stepped inside.<br>
+<span style="color:#4eb24e;">Hindenburg：</span><br>
+It appears that she's doing calisthenics, and faces me as soon as she hears the door open, a strangely dangerous smile on her face.<br>
+Good timing, Manager. I've just finished my warm-up exercises.<br>
+But, don't you prefer to be called "Contract Binder"? Heehee.<br>
+She waves to beckon me closer without getting down from the stage, staying there to speak to me from the high ground.<br>
+Contract Binder, have you heard of a thing called "the Dance of Control"?<br>
+It's a dance that makes you submit to your desires – and also give up everything.<br>
+Fortunately for you, you now have the chance to view this dance from up close.<br>
+Bending down and stopping just inches from me, she exhales – her breath, warm from physical activity, brushes against my cheeks.<br>
+Today's invitation is also a test for you, my dear Contract Binder. A test to determine how strong your will is.<br>
+The rules are simple: Keep your eyes on me and me alone.<br>
+If you avert your gaze before I'm finished dancing, or if you cave in to temptation and approach me...<br>
+She uses her fingers to draw a big X symbol on my chest, then lets out a giggle and returns to the stage.<br>
+Then you lose, and you surrender everything and submit to my full control.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+And if I win?<br>
+<span style="color:#4eb24e;">Hindenburg：</span><br>
+Win? Heehee. Supposing you do win... Well, you can do whatever you want with me. Sounds fair, no? Good.<br>
+Although there's no music, she simply snaps her fingers, and the mood in the loft instantly changes.<br>
+She slowly tilts her head back, her neck forming a graceful arc that her fingertips run down. The plumpness and softness of her body are on full display.<br>
+The dance goes on. Her veil flutters as she turns, brushing against my arm and leaving behind a faint aroma and sense of touch.<br>
+Sometimes she comes closer, and sometimes she backs off. I see her in full clarity – from the trembling of her eyelashes and the tiny beads of sweat dripping from her collarbone, to how stunningly flexible her body looks under the mingling light and shadows.<br>
+Her eyes have been fixated on me from the very start. They're like those of a wolf excitedly eyeing its prey.<br>
+You've managed to keep your focus... I hear your heart beating like a drum.<br>
+Gradually, her moves become increasingly bold. She kneels down, almost throwing herself at me, but stopping right at the last moment.<br>
+Prepare yourself. Stay put... and don't move.<br>
+She places her fingers on my shoulders, and she leans in very closely to examine me up and down with a mocking gaze.<br>
+Is watching me making you thirsty? Heehee. I'm only getting started.<br>
+The vibe of her dance is changing, going from seductive twirls to intense moves meant to control and bind me.<br>
+Her fingertips trace my collar, tugging on the edge of it, while her toes graze my calves and brazenly step on my feet.<br>
+The semi-transparent flap sways with every motion, outlining her voluptuous form.<br>
+I wonder... Is the rest of your body as obedient as your eyes are, hmm?<br>
+She suddenly moves closer, lifting my hand up to her waist level and holding it there with the tiniest gap between the two.<br>
+Hold. If you touch me, you lose.<br>
+She continues her dangerous dance. The soft skin of her abdomen flashes from under her thin, black cloth. Accompanying it are a scent and a warmth I can feel even through the empty space between us.<br>
+It feels like her moves are synchronized with the beats of my heart. One, two, one, two... Then, without even realizing it, I extend my hand...<br>
+In that moment, her toes gently touch the top of my feet. I return to my senses and freeze, but it's already too late.<br>
+You took a step forward and touched me. What a disgraceful defeat for you.<br>
+She smiles with the look of triumph of a winner, wipes the sweat on her forehead with her finger, then rubs it on my lips.<br>
+According to the rules, you've lost everything, including your right to defy me tonight. Which means...<br>
+Leaning into whispering range, she makes a sensual declaration...<br>
+I'm going to command you to do something more enjoyable♥<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Her Beauty Runneth Over|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+Once the inn's lobby had finally quieted down, I returned to my room, hoping to get some well-earned rest.<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+However, what I found was not rest, but Implacable in a Dragon Empery dress, stretched languidly across a table.<br>
+*sigh*... I waited all day for you.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Implacable? What's the matter? Is your room somehow lacking?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Lacking? That would be an apt word... You see, I just happened to get my hands on some fine wine.<br>
+And the moon is just so pretty tonight...<br>
+According to an Empery friend of mine, the best luxury of all is spending a lovely night drinking with someone you care about.<br>
+It made me wonder... If you came back to your room alone, wouldn't you feel the loneliness of not having anyone to talk to?<br>
+She lifts the wine with her slender fingers. A stream of red liquid shines as it's poured into a cup.<br>
+The sound of it hitting glass is clear in the silence.<br>
+So I took the liberty of preparing a night of... companionship, for your sake. And for mine, too.<br>
+It's just such a wonderful night. Wouldn't it be such a waste to go to bed early, all alone?<br>
+Come... Take this first glass, this blessing. May all of your worries drift away into the night.<br>
+She hands me a full cup before pouring wine for herself.<br>
+But at the same time, simply drinking and talking would be a little bit bland.<br>
+Have you heard of a certain traditional drinking ritual from the Empery?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You mean the wedding toast?<br>
+<span style="color:#4eb24e;">Implacable：</span><br>
+Exactly. I see we think alike.<br>
+She wraps her arm around mine. As the distance between us shrinks, her wine-tinged breath tickles my ear.<br>
+Chilly wine spills down my throat, transforming into a warm current that spreads from my stomach to my limbs. Implacable's flask suddenly lurches...<br>
+A few drops of shiny wine spill onto her feet, making wet spots on her black stockings.<br>
+Oh, my... I've stained them.<br>
+She traces her fingers on the spreading wet spots, but her gaze never parts from me.<br>
+Would you like to help me clean them? Or...<br>
+Shall we finish the rest of the wine first?<br>
+I quietly take the wine from her. Putting my lips in the same place that hers were, I drink the remainder directly.<br>
+Heehee... You're greedy tonight.<br>
+She takes my hand and guides my fingers to that warm, damp spot on her stockings.<br>
+Do you feel my warmth... and the stain that you caused, Commander?<br>
+I want you to feel all of me...<br>
+Tossing aside the empty wine container, she wraps both arms around my neck.<br>
+Let me handle all of your worries and stresses...<br>
+Instead of letting it all build up... allow me to help you release every last bit of it.<br>
+Implacable removes her hairpin, allowing her beautiful hair to cascade like a golden waterfall. It seems to trap us in our own little world.<br>
+In the flickering candlelight, she reveals all before me without reservation.<br>
+Rather than a short night's tipsiness... there's something else I'd much rather give to you.<br>
+Leave it all to me...<br>
+In this moment, I'm the only one who can bless you. And all you have to do... is relish in me. Heehee...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Playing Blind ♥|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+Upon receiving an invitation from Krasny Kavkaz, I came to visit a private room. The plaque on it read Sparrow's Song.<br>
+When I open it, she hears my entrance and turns to face me. Her cheeks look flushed in the light.<br>
+You're here... Umm, before we begin, I need to cover my eyes.<br>
+Could you put this on for me, please?<br>
+She tilts her head back and holds her breath, eyelashes fluttering slightly with excitement.<br>
+I place the blindfold over her eyes and stretch the strap behind her ears. Along the way, my fingers brush against the hot skin beneath her hair.<br>
+She shudders just slightly, tensing up. Her lips part subconsciously, letting a gasp slip out. With that, the blindfold is attached.<br>
+F-for my first exercise... I'd like you to pick a mahjong tile and put it somewhere on my body.<br>
+I must try to guess which piece it is within a minute, using only my sense of touch.<br>
+As instructed, I choose a tile at random and press it on the side of her exposed neck.<br>
+When the chilly tile touches her skin, she suddenly flinches and gasps again.<br>
+Brr! Chilly... B-but this pattern is...<br>
+Amidst Krasny's moans, an entire minute passes in no time. It's almost time for round two.<br>
+My gaze falls to her toned stomach. I place the second tile there.<br>
+As I rub the tile against the thin fabric, I feel the warmth and softness beneath.<br>
+Hnngh?!<br>
+She arches her back and tightens her stomach, pressing it straight into my palm.<br>
+Aaah... The contours of the tiles rubbing against my stomach are all... cool and tingly...<br>
+I can practically hear the writhing in her voice as she wriggles about, causing the fabric on her skin to rub against the tile even more intensely.<br>
+Aaaah...♡<br>
+*pant*... My first training exercise may have failed, but... It's okay. I have another in mind...<br>
+Put it between my toes next, please...<br>
+And then... I want you to write the name of the tile, using your finger, on the sole of my foot...<br>
+She claims this is a higher-level training. As soon as I touch her sole, though, she pulls her foot away as if she's just been jolted by lightning.<br>
+Eep?!<br>
+I couldn't hold it in place... I'm a lot more sensitive than I thought. Try again, please...<br>
+Okay... Th-that's a horizontal stroke... Huh? Wait... That tickles... Hehehe...<br>
+Her second attempt ends with the mahjong tile falling once again.<br>
+The third time, I hold her toes together to keep it from falling and use my other hand to quickly write the name of the tile on her foot.<br>
+Nnh, wait... Too fast... Pfft... Hehehe... I can't! I can't take any more of... S-stooop!<br>
+Many rounds of training pass in similar failure. It isn't until I very slowly, very lightly write the name of the tile that she manages to guess it right.<br>
+Krasny's breathing is ragged, as if she's exhausted all of her strength. It takes some time before she removes the blindfold.<br>
+Her teary eyes turn to me, lips curled up in satisfaction.<br>
+Today's mental training was wonderful... I remember every last sensation vividly.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Spring's Lackadaisical Leisure|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+The sun had set, and the lanterns decorating the garden pavilion were lit.<br>
+<span style="color:#4eb24e;">Perseus ：</span><br>
+That lazy, urging voice still rang in my ears as I followed the path, until I found Perseus lying on her side. She seemed exhausted after a day of play, too tired to lift a finger.<br>
+Didn't expect you so soon, Manager.<br>
+As you can probably tell, this bed is a mess, and I can't sleep.<br>
+The sheet is crumpled, and the pillows are on the floor. You're capable – you can tidy it up, can't you?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+I was gonna ask how this happened to begin with, but alright.<br>
+<span style="color:#4eb24e;">Perseus ：</span><br>
+Deciding not to probe further, I pick up the pillows and smooth out the soft bedsheet while she watches me.<br>
+Once in a while, she moves her body just a little to facilitate my work. Beyond that, though, she just tracks my every move with her eyes like a cat observing their owner.<br>
+Left... Yeah, like that. It was lumped up and making me super uncomfortable.<br>
+Can you fluff up the pillows a little more? As fluffy as a cloud would be great.<br>
+Hm... Yeah, I guess I can lie decently comfortably now.<br>
+By the way... the wind ruffled up my hair. There's a comb in the box by the bed. You know how to untangle hair, don't you?<br>
+Slowly, she turns to lie on her stomach, letting her long hair sprawl across the bed. Her fair arms and the lines of her shoulders lie completely exposed.<br>
+Taking the comb out of the box, I sit down on the bed. I hold her hair and start gently running the comb through it.<br>
+As the rhythmic rustling of the comb running through her hair continues, she all of a sudden leans into my arms.<br>
+Your heart is beating awfully loudly, considering you're just combing my hair...<br>
+Ba-dump, ba-dump... Like a bird hard at work.<br>
+Her whisper is so low that it almost fades into the evening breeze.<br>
+I run the comb through her hair again. The tips of my fingers brush against her earlobe, which has suddenly become delicate.<br>
+She shrinks in my arms, a small shudder shaking her.<br>
+Put... Put the comb down for a second.<br>
+Do it again... Touch that part again...<br>
+Yeah... Right there...<br>
+Mgghh... Tickles...<br>
+My ear? No... My heart?<br>
+Could it be that... some hardworking bird has flown right into my heart?<br>
+She turns to face me and clings to my body. Her warm breath blows on my face.<br>
+Well, uh... You made my bed and combed my hair...<br>
+Think you're gonna... stay the night here?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+If you want me to stay, then I'll stay.<br>
+<span style="color:#4eb24e;">Perseus ：</span><br>
+The flickering lanternlight reflects in her eyes. She looks up and takes my hand, guiding it to the gap where her hair and neck meet.<br>
+Her breathing turns into panting, and her cool skin gradually takes on warmth.<br>
+You won't get blinded by the bright moonlight in here... And the bed is really comfy...<br>
+So tonight... You're staying here. Don't go anywhere...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ozornoy's Self-Defense Training|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">???：</span><br>
+Manager, fetch me a cup of warm wine and a bunch of meat!<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+A deliberately raised voice rings out from above. I look around for its source, and it turns out to be Ozornoy on the roof.<br>
+You sure took your sweet time, Manager!<br>
+A pleasant evening breeze blows through, rocking the lanterns suspended from the roof. Ozornoy, standing on the ridge beam with her arms crossed, grimaces at me.<br>
+If I were a bad-mannered customer, I'd wreck the place over how slow you are!<br>
+If by any chance I wasn't on duty, how would you deal with that, huh?<br>
+As the inn's guard, she's training me on how to respond to unexpected situations. Right now, she's playing the role of a miscreant who's dining and dashing.<br>
+Something-something, "The teaching is more effective if you act it out," according to her.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Even the worst-mannered of customers wouldn't think to climb up on a rooftop, much less bark out orders from up there.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Well, THIS terrible customer is also trained in martial arts! That makes them even more dangerous!<br>
+I'll give you an example! Watch closely and take notes!<br>
+Without even waiting for my response, she takes a step forward, grabs my arm, and trips me.<br>
+Thrown off balance, I cry out in surprise and immediately hit the ground. I feel her entire body weight on top of me.<br>
+Hey! Why... Why are you making that look?!<br>
+Although she blushes for a moment, she quickly regains her composure.<br>
+Let me make this clear! I'm just playing the role of an unreasonable customer here! This is part of the act! Let's continue!<br>
+Now that I get a better look at you, you're pretty good-looking, Manager!<br>
+I know what to do! I'm taking you with me!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Now, hold on – you sure you're really a troublesome customer and not a plain old kidnapper?<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Bad people act on impulses! You just have terrible safety awareness!<br>
+But seriously, now's when you fight back! You're not just gonna let me haul you away, are you?<br>
+Now let me thoroughly teach you how you're supposed to resist!<br>
+Saying that, she takes my hand and uses it to launch me forward. We roll around twice on the roof, after which our positions are suddenly reversed.<br>
+Yeah! Good! That's it!<br>
+She lies sprawled out on the roof, slightly out of breath, and her cheeks faintly flushed.<br>
+Now you need to completely subdue the troublemaker. Like this...<br>
+With those words, she folds her arms around my waist and applies some force.<br>
+Now brought closer, I can see myself clearly reflected in her eyes.<br>
+O-okay... This is maybe a little TOO close...<br>
+She mutters something under her breath and averts her gaze.<br>
+Alright, that's the end of my demonstration... Now you do it!<br>
+If you don't manage to convince me, I'm gonna whoop you with everything I have!<br>
+...What the–? Your moves are so smooth... How'd you learn them this quickly?!<br>
+I suppose you really were listening... Wait, what?<br>
+She instinctively tries to struggle, but ends up in a position even harder to break free from than in the demonstration she just gave me.<br>
+W-wait... You can't... You can't do this!<br>
+This isn't what I taught you!<br>
+It seems Ozornoy and I still have a lot of one-on-one self-defense training to go...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Server Under Maintenance|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+This warehouse, ostensibly used to store goods, actually has a second purpose.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Truthfully, this place is Bogatyr's server room, the beating heart of this test.<br>
+......<br>
+She sits down in a very relaxed pose, her still body leaning against the central server plugged in with a large number of cables.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Guess you dozed off while doing maintenance on the server.<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+......<br>
+My question dissolves into silence. Only the sound of the server fans spinning echoes in the vast warehouse.<br>
+I wrap my arms around her, intent on carrying her somewhere more comfortable.<br>
+The moment I touch her body, however, she goes completely limp and falls toward me.<br>
+Her head lands on the base of my neck, her breath brushing against my skin. She leans her entire body weight on me without any reserve.<br>
+Mmh... Commander?<br>
+A quiet murmur comes from between my arms.<br>
+Looking down, I see Bogatyr slowly opening her light-blue eyes.<br>
+Her long eyelashes flutter, and the lenses in the back of her pupils dilate and contract a bit before finally focusing on my face.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+What happened to you?<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+Nothing... I'm fine...<br>
+I'm currently performing regular maintenance on the server for Springtide Inn Online...<br>
+Server data update progress: 75%...<br>
+Since it costs a lot of computational resources, I need to reduce the power consumption of most other modules...<br>
+Warning: Forcibly moving my body at this stage incurs a risk of data loss.<br>
+Commander, just keep me where I am... Don't move.<br>
+She gives me no chance to ask questions before clinging even closer, seemingly trying to find the most stable posture.<br>
+The warehouse falls silent again. All I can sense clearly is the weight and warmth of her body.<br>
+Time passes. Maybe it's just 10 seconds, maybe it's several minutes...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+...Bogatyr?<br>
+<span style="color:#4eb24e;">Bogatyr：</span><br>
+No response. All I hear is her breathing and the beating of her heart.<br>
+Then, suddenly, she trembles slightly.<br>
+Server data update progress: 100%. Update complete.<br>
+Commander...<br>
+Thank you for helping me stabilize the parameters. You allowed me to successfully complete the update.<br>
+Although, my own system isn't yet fully operational again...<br>
+Her eyes are open again, but the rest of her body is unresponsive.<br>
+Ugh... An ever-growing amount of unreadable and abnormal data is appearing in my system...<br>
+Overload... Warning: Overload... C-Commander...<br>
+Her cheeks turn faintly red, and her eyes waver. After hesitating for a while, she finally meets my gaze.<br>
+I'd like to analyze this data now...<br>
+So please, stay with me a little longer... Let's both find out what's causing this abnormal data...<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Chef's Day Off|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+As our group sat on the terrace together one evening, we heard unusually lively sounds coming from the kitchen.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+Sitting outside the kitchen for once, Lung Wu was restless. Her big tail swished back and forth constantly.<br>
+Wh-what do I do...<br>
+I'm so worried that I can't even think straight...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Sit down and take a break. Everything will be okay.<br>
+You worked hard today. Everyone just wants to make it up to you with a nice meal.<br>
+<span style="color:#4eb24e;">Hu Pen：</span><br>
+Yeah! Relax and watch the fireworks with us!<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+But the kitchen is a dangerous place, you know. Mishandling ingredients and ruining a meal would be the least of our worries...<br>
+What if a pot caught fire, or someone cut their hand? It could be disastrous.<br>
+Just the thought of it drives me crazy...<br>
+I'd better go check on them!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Not gonna happen. We all agreed that it's high time you get some rest.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+But... Oh, Fei Yuen went into the kitchen!<br>
+And I see Fu Shun! She's going that way too, isn't she?!<br>
+Imagine if they play a prank in the kitchen!<br>
+Oh, what do we do...<br>
+Huh? More people are coming, too? Wait... Chi An?! Sh-she's going in there?!<br>
+NO! I can't let this happen!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+We've come this far. Why not just have faith in our friends for now?<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+We stare fixedly at the curtain leading into the kitchen as Chi An gracefully enters.<br>
+And then, she's promptly escorted out. The sight of that makes us breathe a collective sigh of relief.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+See? Everything's fine. Don't be so nervous.<br>
+Now take a look at this.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+I take two glistening candied fruits out of a box on the table and offer her one.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Sweets will make you feel better. But first... how about we play a game together?<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+Huh? A game?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Rock-paper-scissors. If you win, you can have this candied fruit that I made myself.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+You mean it? Okay... I'll play. Bring it on, Manager!<br>
+<br>
+'''''<span style="color:black;">选择项1：(Throw rock.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Play scissors.)</span>'''''<br>
+'''''<span style="color:black;">选择项3：(Go for paper.)</span>'''''<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh, we both threw rock! I guess it's a tie.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''There... Oh! I win!<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+'''''<span style="color:black;">（选择项3）</span>'''''Aww, I lost!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Don't worry too much about the result. I made it as a reward for you anyway. Try it.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+Thank you... Mm... The candy coating is crispy, but not too thick... The fruit inside is so sweet and sour, too. It's delicious!<br>
+If everyone were as skilled as you, I could rest easy...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Practice makes perfect. What's the harm in letting them get some more experience in the kitchen?<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+I suppose you're right... Oh, the food is coming!<br>
+Fei Yuen and Fu Shun laugh and joke together as they deliver piping-hot dishes. The food looks surprisingly appetizing.<br>
+Lung Wu tentatively places a piece in her mouth and chews slowly.<br>
+It's... actually not bad. I can tell that everyone worked really hard on it.<br>
+You should try some, too.<br>
+Sharing this meal with you and everyone else... might make it the best food I've ever had.<br>
+Fireworks fly up and burst, painting the night sky.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=New Year's White Plumage|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+Although there's still some liveliness lingering in the lobby, the chairs and tables have been neatly put away. It's time to close up shop.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Whew. What a fulfilling day.<br>
+<span style="color:#4eb24e;">Theseus：</span><br>
+Mhm. And now it's coming to an end.<br>
+Jolly good job, my hardworking squirrel. I've got steaming hot soup buns to share with you!<br>
+Om, nom... Delicious!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Om, nom... Tasty!<br>
+Thanks, Thes– Wait, Theseus?<br>
+<span style="color:#4eb24e;">Theseus：</span><br>
+That's my name, don't wear it out! I worked a lot today and even got loads of compliments for my work.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Well, I appreciate it, but if memory serves me right, aren't you supposed to be a guest?<br>
+<span style="color:#4eb24e;">Theseus：</span><br>
+Heehee. Now that you mention it, yeah.<br>
+Still, I had a bite, then helped out around the inn, and fulfilled my duty as a good guest.<br>
+All's fine, the way I see it!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Is it, though? Really?<br>
+<span style="color:#4eb24e;">Theseus：</span><br>
+I mean, that's not what's important here.<br>
+What's important is that you've not yet rewarded me for all the hard work I put in today, Manager!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You mean like a wage? I'd have to do some math...<br>
+<span style="color:#4eb24e;">Theseus：</span><br>
+No, no. Wages are for stable employees. I'm just a guest who helped a bit.<br>
+Ergo, I don't expect to get money, but something else.<br>
+Heheh... Let's see, what could I ask for...<br>
+I've got it! These soup dumplings!<br>
+I feed you, and you feed me!<br>
+Come on, Manager. Open wide!<br>
+Nicely done. You were like a cute fledgling waiting for food from its mum!<br>
+Alright, now it's your turn to feed me.<br>
+I pick up a soup dumpling and bring it to Theseus' mouth. Like a small bird, she takes little nibbles out of it. One bite, another bite...<br>
+As soon as she's done eating, she suddenly takes my finger and sticks it in her mouth.<br>
+The soft, warm sensation lingers for a while. It's almost like she's savoring something better than a dessert.<br>
+Mmh... Delicious. Thanks for that!<br>
+Aww, there's only one dumpling left.<br>
+In that case... We'll just split it!<br>
+She holds the dumpling in her mouth and leans in closer to me with a smile.<br>
+Before I can even react, a soft touch grazes my lips, accompanied by a faintly warm feeling.<br>
+This is yummier than I thought...<br>
+Wanna... have some more?<br>
+Heheh, alright. We're gonna really dig in tonight...♪<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Lanternlight Parade|选项=15|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Chi An：</span><br>
+Chi An and I walked together, our surroundings unusually quiet. Not that I minded the silence, except...<br>
+Manager... Manager, you listening?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Oh, I'm sorry. Just thinking to myself.<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+You look worried. If you're ready to talk, I'm ready to listen.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I was just thinking that, while the environment around the pond is lovely, it isn't much to look at...<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+Really? I'd be happy to handle that for you. Hehe... Just you wait and see.<br>
+A few nights later, I finish my work for the day and step out of the inn. I'm immediately greeted by a sea of dazzling lights atop the pond.<br>
+Lanterns shaped like animals shimmer beautifully, moving as if they have a life of their own.<br>
+Welcome! Do you like tonight's special lantern show?<br>
+The look on your face tells me yes. I prepared a tour boat for us to ride together. Just come with me!<br>
+As we stand together at the bow, she takes my hand. The small boat slowly drifts into the lantern-lit world.<br>
+The night is a little chilly, but Chi An's body heat warms me up like the lights before us.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+It must've taken a lot of work to set all of this up.<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+A small price to pay, as long as you enjoy it.<br>
+Look ahead. Do you see the lanterns everyone set on the water? They're flowing like a beautiful river of lights.<br>
+If you make a wish and let it ride on the current, it might just come true next year...<br>
+I have lanterns on this boat, too. Why don't we write down our wishes and let them set sail?<br>
+She brings me a pen and paper. Smiling, she settles into my arms and spreads her sheet of paper on her lap.<br>
+I want to write with you... Is that okay, Commander?<br>
+When I agree, she carefully considers what to write on hers.<br>
+She seems so much more mature and gentle in full dress, relaxing so comfortably in my arms.<br>
+Hmm, what should I write? Honestly, I can already feel my dream coming true, heehee.<br>
+Do you have any wishes, Commander?<br>
+Oh, let's do this. I'll close my eyes, and you hold my hand and write one down for me.<br>
+Once you're done, I'll try to guess what you wrote. Hehe, doesn't that sound fun?<br>
+I gently take her hand and move my pen slowly across the sheet of paper on her lap.<br>
+As our heartbeats intertwine, she giggles to herself, perhaps tickled by the feeling of my writing.<br>
+Hmm, I think I know your wish, Commander.<br>
+I'll help you... Together, we'll make it come true.<br>
+We light the lantern and set it atop the water. Its candlelight flickers above the waves as it joins the river of light.<br>
+It's like a dream to behold...<br>
+I have one more special present for you, Commander.<br>
+This ship has a cabin. Let's go... check it out together.<br>
+Amidst the flickering lights, our shadows nestle together on the window of the cabin.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Cooking Battle|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+It's midday, and the restaurant is packed full. Every now and then, you can hear guests praising the menu's breadth of options and the food's taste.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Is the Manager here? Oh, awesome!<br>
+<br>
+Hearing a familiar voice, everyone turns toward the entrance.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+I'll foot the bill for everyone in here today as a gesture of friendship! And please, witness the cooking battle between me and Springtide Inn!<br>
+<br>
+Everyone's eyes open wide at this unbelievable declaration, and then the hall erupts with commotion.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's going on here, Harbin?<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+To put it simply, I'm issuing you a challenge!<br>
+I've got nothin' better to do, so I figured I'd open a new inn next to yours.<br>
+And if I win this cooking battle, I'm gonna hang a sign outside the inn that says, "Our food is better than theirs!"<br>
+You down? Or are you chicken?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Why would I be? We've got Lung Wu on our side.<br>
+Since you're so eager for a battle, I'll give you a good one. Let's start prepping under the audience's impartial eyes.<br>
+<br>
+Kitchen counters and stoves have been set up in the center of the hall, silently waiting for the two chefs to take their places.<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+I often say the kitchen is a battlefield... I think it might literally be one this time.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Sure looks like you mean business. Then it's your turn to step in, my head chef!<br>
+<br>
+Following Harbin's declaration, a stupendously curvaceous woman appears before us all.<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+Hello! It's me!<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+...Seriously?<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Hahaha! Don't be so shocked! Think about it for a sec. You think I'd pick any run-of-the-mill chef to face you?<br>
+Lemme ask you again. You chicken? Now's your last chance if you wanna throw in the towel!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+We're not giving up just like that, especially when you're handing us the victory on a silver platter.<br>
+<br>
+After finishing, I give Lung Wu a signal with my gaze. She sneakily acknowledges with a nod.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Ozornoy, in the interest of safety... Ahem. Set up a keep-out line around the chefs so nobody can disrupt them.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Got it!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Harbin, besides you and me, we should have one more referee to ensure fair judgment. Let's go with someone from the audience.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Good idea. Who to pick, who to pick... I'm thinkin' you!<br>
+<span style="color:#4eb24e;">Cygnet：</span><br>
+M-me, as a referee? I-I'd love to!<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Perfect. Cygnet, come to the referee table! Alright, everything's set. Time for the battle tooooo... start!<br>
+<br>
+While Chi An is still staring curiously at the ingredients before her, Lung Wu has already gotten started.<br>
+Suddenly, a flash of blue lightning zooms past... and all the ingredients on the table have been prepared!<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+What... the hell just happened? Did Chi An just prep all that stuff in the blink of an eye?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Don't ask me – I didn't catch a thing...<br>
+<br>
+As the cooking battle intensifies, a look of confusion takes shape on Chi An's face.<br>
+She picks up a scoopful of salt, which turns to oil when she pours it in. She had a basket full of vegetables, which instead turns into minced garlic when she adds it to the pan.<br>
+What's more, the stove she'd set to max heat had been turned down without anyone noticing.<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+Oh my goodness... Have my cooking skills finally ascended to the realm of the non-self?!<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+*pant*... This is hard work... W-wait, weren't you making stir-fried vegetables? Where'd you get those purple sweet potatoes from?! Why did you add them?!<br>
+<br>
+Lung Wu signals at me with her eyes, and I immediately know what's up.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Ahem! Chefs, you have one minute left! Please try to finish your dishes within the allotted time!<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Huh? It's almost over already?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+A chef needs to be able to cook not just well, but also quickly.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Ahh. Fair point.<br>
+<br>
+Hearing that time is running out, Chi An reluctantly puts her masterful idea to rest. The finishing bell rings, and both dishes are presented to the referees.<br>
+<span style="color:#4eb24e;">Cygnet：</span><br>
+Lung Wu's dish tastes really lovely, but it'd be even better if it were fish and chips. Chi An's also has great flavour, but it'd taste even better if it were fish and chips!<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Chef Lung Wu's food is amazingly tasty as always, but Chi Ain's ain't bad either! It's a bit soggy, though. Maybe the heat was slightly off?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I think the same as you, Harbin. Which means...<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+The winner of this battle is Lung Wu!<br>
+<span style="color:#4eb24e;">Chi An：</span><br>
+It's unfortunate that I lost, but it was wonderful to get to stand in the kitchen for once!<br>
+Hm? Lung Wu, why do you look so exhausted?<br>
+<span style="color:#4eb24e;">Lung Wu：</span><br>
+...This was a one-off favor.<br>
+<span style="color:#4eb24e;">Harbin：</span><br>
+Ahahaha! I definitely learned a bunch from this battle. I'll be back again after digesting it for a bit!<br>
+As promised, I'll foot today's entire bill! Lemme know the total! {playername}, and everybody else, see you later!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Game of Wits|选项=17|主框=1|样式=primary|展开=是}}
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+My turn? Alright...<br>
+I discard the one-character tile.<br>
+<br>
+I immediately play the tile I drew. The player to my right, Ozornoy, squints and quickly scans the discard pile.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Not good... The Manager hasn't played many dot tiles at all...<br>
+Krasny, if you're gonna play any of those, you better be careful.<br>
+<br>
+Krasny, sitting opposite me, responds with a nod. She turns her head aside, rubbing a tile with her fingers.<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+Say, Manager... Could it be that you're waiting for this seven dots tile?<br>
+<br>
+'''''<span style="color:black;">选择项1：Yeah. That's the one I need.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Maybe. Maybe not.</span>'''''<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I've heard the Dragon Empery's military strategy is to appear weak when strong, and appear strong when weak...<br>
+'''''<span style="color:black;">（选择项1）</span>'''''If deception is the game you're playing, I've already seen through you.<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Playing cautiously, I see... Ironically, that confirms my hunch.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''In that case, I'll let this seven-dot tile determine the truth!<br>
+<br>
+The moment she plays that tile, I reveal my hand.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I win. Pure suit hand.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Nooo! I knew it! I TOLD you to be careful!<br>
+<br>
+Like a deflated balloon, Ozornoy sinks into a slump over the table's edge, her puffed-up cheek pressing against its surface.<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+No two ways around it – you beat me.<br>
+Well, a deal's a deal... You get to punish me.<br>
+<br>
+With a swift maneuver, she hops onto the mahjong table and hunches forward, holding the seven-dot tile in her hand.<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+Okay...<br>
+<br>
+She takes the cold tile and pushes it against her nape before then slowly slipping it into a gap in her clothes.<br>
+The chilly sensation makes her shudder hard. A small moan escapes her throat.<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+Agh! Mmgh... So cold... But...<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Wh-what are you doing?! Get off of there! People are staring!<br>
+<br>
+Ozornoy leaps up like a frightened cat, her face instantly dyed a deep red.<br>
+She looks around her in a panic, pulls off the tablecloth from a nearby table, and uses it to cover up Krasny.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+At least conceal yourself a little!<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+Mmh... Yes, I suppose it's fine to cover myself...<br>
+Thanks, Ozornoy!<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+...What?<br>
+<br>
+While Ozornoy is dazed, the covered-up Krasny all of a sudden leaps at me and seizes my wrist.<br>
+Her momentum knocks me to the ground. The heavy tablecloth envelops both of us.<br>
+What suddenly becomes a dark, narrow space is filled with her warmth and scent, her heated breath bearing down on me.<br>
+<span style="color:#4eb24e;">Krasny Kavkaz：</span><br>
+Give it to me... Right now, while everyone's watching...<br>
+Give me my punishment in secret under this tablecloth... Ahh... I want it so badly...<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+A-A-ARE YOU INSANE, SAYING THAT OUT LOUD?!<br>
+<br>
+Ozornoy yells out in shock and reaches in under the tablecloth. Through some miracle, she manages to grab hold of my arm.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Come out of there, you moronic Manager! You too, you freak! Get your hands off the Manager!<br>
+What's the deal with you two?! Seriously!<br>
+<br>
+Meanwhile, at an adjacent table behind a folding screen, Vampire placed the final tile on the mahjong table.<br>
+<span style="color:#4eb24e;">Vampire：</span><br>
+Heheh! A clean hand with a self-drawn tile, and four tiles of one suit! It seemeth that victory is–<br>
+<br>
+The next moment, Vampire's triumphant expression froze in place.<br>
+The other three players at the table weren't gazing eyes wide at their own table, but rather at the one behind them.<br>
+<span style="color:#4eb24e;">Hu Pen：</span><br>
+Wh-where'd the Manager go? I could've sworn...<br>
+<span style="color:#4eb24e;">I-25：</span><br>
+There's something weird going on over there... Is that some new kind of machine?<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+I dunno... It looks like two people wrestling under a tablecloth.<br>
+<br>
+The four of them all turned their attention to the brilliantly colored cloth wriggling on the floor. Then, Ozornoy reached in from the side and tried to pull something out.<br>
+A moment later, a nine-dot tile flew out from the tablecloth and landed on the floor.<br>
+<span style="color:#4eb24e;">Hu Pen：</span><br>
+Oh my gosh... Did that thing just...<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+Devour the Manager?!<br>
+<br>
+In that moment, Ozornoy realized that she had become the object of everyone's attention.<br>
+<span style="color:#4eb24e;">Ozornoy：</span><br>
+Why are you all just sitting there?! Get over here and help me get the Manager out!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Room Renovations|选项=18|主框=1|样式=primary|展开=是}}
+<br>
+As the renovation may incur additional expenses, Chen Hai left the room to calculate what they might be.<br>
+She went into the courtyard, where she saw several unassuming, low-flying drones buzzing overhead.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+Hm? Aren't those Fargo's drones? Judging by their flight path, they must be delivering newly checked-in customers' baggage.<br>
+No, wait... Drones shouldn't exist in the setting of this game. What are they doing here?<br>
+Someone should go and stop them... Hmm. I'll follow them and have a look.<br>
+I just hope they won't influence this test.<br>
+<br>
+One drone stopped outside a certain room. Chen Hai lightly knocked on the door, to which a lazy voice inside responded, "Come in."<br>
+She went inside and discovered that this room had seemingly been refashioned to suit the tastes of a Europan aristocrat. The scents of wine and high-quality wood hung in the air.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+......<br>
+You've made quite a few renovations to this place, I see.<br>
+<span style="color:#4eb24e;">Ägir：</span><br>
+Hmph. It was too ordinary to be worthy of hosting me and {playername} for the night.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+I see. You must care a great deal about ambiance.<br>
+<span style="color:#4eb24e;">Ägir：</span><br>
+Heheh. To make memories that last, you naturally need a suitably memorable environment, no?<br>
+<br>
+Ägir took a sip from her wine glass, her expression somewhere between frowning and smiling. Taking the hint, Chen Hai bowed lightly and left.<br>
+Chen Hai followed another drone to a second room, and she knocked on the door again. The guest – Victorious – swiftly opened and let her inside.<br>
+Her room had instead been remodeled to resemble the Commander's office, including replica transmission equipment on the desk.<br>
+<span style="color:#4eb24e;">Victorious：</span><br>
+How does it look? Isn't it fair to argue that I've perfectly replicated the Commander's office?<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+Yes... It looks like the real thing at a glance.<br>
+<span style="color:#4eb24e;">Victorious：</span><br>
+Heheh! Yes, when the Commander returns to the office in reality, it will no doubt bring back fond memories of our night spent together here!<br>
+I dare say this plan of mine is truly ingenious. Wouldn't you?<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+...It's quite creative, that's for certain. Have a pleasant stay.<br>
+<br>
+Seeing Victorious' proud smile, brimming with anticipation, Chen Hai bows with a meek expression and courteously leaves the room, closing the door behind her.<br>
+Just as Chen Hai was about to knock on the third door, she suddenly heard laughter coming from inside the room.<br>
+After gaining the occupant's permission, she went inside and was greeted by a tidy, warm, and exceedingly normal guest room.<br>
+Chang Feng, donning an apron, was giving cleaning orders to Fei Yuen and Fu Po. In a corner of the room sat a conspicuous cardboard box that had been left open.<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+What brings you here, Chen Hai?<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+Oh, nothing, I'm just checking with our guests to see if they're comfortable. I see you're quite particular about the room's cleanliness.<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+Yes! I felt that this place should be nice and relaxing if {playername} ever finds the time to come here someday.<br>
+There's also some delicious food ready and waiting...<br>
+<br>
+Chang Feng bit her lip out of shyness, and her gaze unconsciously drifted toward the open cardboard box.<br>
+Chen Hai, likewise, looked at it, and caught a glimpse of some of the labels on the items inside.<br>
+There was eel, sea cucumber, potatoes, soft-shelled turtle...<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+......<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+Is something the matter? You look a little pale.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+No, not at all. I just remembered I have something to do. Don't worry about me. Good luck with the cleaning.<br>
+<br>
+Back in the corridor, Chen Hai let out a relieved sigh. She realized she was now fanning herself with her folding fan.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+It appears our guests are all... remodeling their rooms in uniquely personal ways.<br>
+Are they trying to catch the Manager's attention? Heheh. Well, it certainly saves us some budget on interior decorations.<br>
+<br>
+She suddenly closed her folding fan and gently smacked it against her other palm.<br>
+<span style="color:#4eb24e;">Chen Hai：</span><br>
+Seeing as everyone's working so hard, I'd better put in a little work as well!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Lucky One and the Lucky Koi|选项=19|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">U-110：</span><br>
+*sniff sniff*... Yup, thiiis way is it. Probably.<br>
+<span style="color:#4eb24e;">U-47：</span><br>
+You think the legendary lucky koi is in this pond?<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+Yep. It's riiight here.<br>
+<span style="color:#4eb24e;">U-47：</span><br>
+Then let's get to work. We've got to be the first to catch the koi, then we...<br>
+<br>
+Before U-47 could finish speaking, her attention was pulled to a nearby pond, where Chao Ho and Ying Swei were splashing around.<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+Ying Swei! Found anything? Did you catch the lucky koi?<br>
+<span style="color:#4eb24e;">Ying Swei：</span><br>
+I've sadly not even seen the shadow of it, much less caught it.<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+Dang... Oh, hang on, I've caught something! This could be it!<br>
+<br>
+Chao Ho firmly grabbed the object in the water and pulled with all her might! The next second, U-47 burst out of the water.<br>
+<span style="color:#4eb24e;">U-47：</span><br>
+...Oh. Sorry. It's my instinct to sneak up on people.<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+Raaawr!<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+Whuah?! Figures... Hey, are you girls looking for the lucky koi, too?<br>
+<span style="color:#4eb24e;">Ying Swei：</span><br>
+Did you perhaps hear the same tale as Chao Ho did about being blessed with a year of luck, were you to touch it?<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+Yep. I reeeally wanna touch the lucky koi.<br>
+<span style="color:#4eb24e;">U-47：</span><br>
+The thing is, can't only ONE person be the first to touch it?<br>
+<span style="color:#4eb24e;">Chao Ho & U-110：</span><br>
+Only one?!<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+......<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+......<br>
+<br>
+Chao Ho and U-110 exchanged a glance and saw the fiery determination burning in each other's eyes.<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+Ying Swei, we've grown as people! We're NOT about to lose to them!<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+Sharkie tiiime! I'm on the huuunt!<br>
+<span style="color:#4eb24e;">U-47：</span><br>
+You sure are motivated.<br>
+<span style="color:#4eb24e;">Ying Swei：</span><br>
+They certainly are. Oh, Chao Ho! Be careful!<br>
+<br>
+After a fruitless hunt that lasted a while, the group gathered again in the same place.<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+It's because of me... The koi must be scared of sharks...<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+*pant*... *pant*... O-okay, time-out! We really should come up with a strategy together on how to catch it!<br>
+<span style="color:#4eb24e;">Ying Swei：</span><br>
+Then allow me to pose a question. Is the lucky koi even in this pond to begin with?<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+Of course it is! It has to be. Probably. I think...<br>
+<span style="color:#4eb24e;">Masséna：</span><br>
+It's here.<br>
+<br>
+Masséna, humming a tune as she passed by, chimed in.<br>
+<span style="color:#4eb24e;">Masséna：</span><br>
+I passed a bridge just earlier, and lots of gold and red fish swam around me. They were so cute.<br>
+<span style="color:#4eb24e;">Chao Ho & U-110：</span><br>
+Huh? WHAT?!<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+Raaawr! Amazing!<br>
+<span style="color:#4eb24e;">Chao Ho：</span><br>
+Um, Masséna, can I ask you a favor?<br>
+<br>
+Per U-110's and Chao Ho's request, Masséna went and brought the koi back with her.<br>
+This allowed the former two the opportunity to touch one. Their luck for the coming year would improve to some extent... or so one would hope.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Sketchy Encounter|选项=20|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Over heeere!<br>
+I've got it figured out! This must be where Chang Feng and An Shan last appeared!<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+In other words... the two of them just disappeared into thin air?<br>
+<span style="color:#4eb24e;">Tai Yuan：</span><br>
+Huh? In an empty place like this? Surely that's not possible.<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+What if a gh-gh-ghost is behind this?! When they came here, it snuck up behind them without a sound, and then... Aaaah!<br>
+<span style="color:#4eb24e;">Tai Yuan：</span><br>
+Aaah! I-I-I can't handle ghosts! Somebody heeelp!<br>
+<br>
+It all began a few hours prior...<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+Everyone, remember this rock arrangement. We'll be doing our sketches around here, so prepare to gather at six o'clock sharp.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Oooh, it's so big! Let's see who can climb it the fastest!"<br>
+<span style="color:#4eb24e;">An Shan：</span><br>
+Fu Shuuun!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Ack! I-I was just kidding! Hahaha...<br>
+<span style="color:#4eb24e;">An Shan：</span><br>
+Quit playing around, please... We're here for the drawing assignment, remember? I'll be checking your work tonight!<br>
+If anyone's sketchbook is empty, or they clearly didn't put effort into it... Hmph. Let's just say, you won't be happy with what happens next!<br>
+<br>
+5:50 PM<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Oh man, oh crap... I lost track of time! I've only got ten minutes now. Fu Po, save me!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Huh?! I'm not much better off than you! If I turn in this chicken scratch, Chang Feng is gonna lecture me again...<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Th-then... Chang Chun? Tai Yuan? If either of you are done, can you show us your work?<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+Hehe, I knew you wouldn't finish in time, so I drew a picture you'd never be able to copy! Behold!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Huh?! Is that a drawing of me and Fu Po playing red light, green light?!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Wait... If An Shan and Chang Feng see that...<br>
+<span style="color:#4eb24e;">伏波&抚顺：</span><br>
+We're gonna get in trouble!<br>
+<span style="color:#4eb24e;">???：</span><br>
+Fu Shun... Fu Po...<br>
+<span style="color:#4eb24e;">伏波&抚顺：</span><br>
+Aaaah! We're sorry!<br>
+<span style="color:#4eb24e;">Tai Yuan：</span><br>
+I-it's just me... Hey, am I the only one who noticed that Chang Feng and An Shan are missing?<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Huh? They are?<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+Now that you mention it, I think they were going AWAY from the rock arrangement...<br>
+<span style="color:#4eb24e;">Tai Yuan：</span><br>
+It struck me as strange, too... Let's go look for them!<br>
+D-did you find anything?<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+See this undisturbed patch of ground? It must be where they were sitting...<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Look over here! There's a glowing mark on this tree trunk that looks like a claw print. What if a monster attacked them?!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Our sisters got kidnapped by a monster?! W-we'd better go back and ask the Manager for help!<br>
+<span style="color:#4eb24e;">Tai Yuan：</span><br>
+Yeah... S-surely it's not a monster though, right? Of all things...<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+I think you're right. There are no signs of a struggle, and their footprints are orderly. It doesn't look like a monster snatched them up.<br>
+<br>
+Amidst their heated discussion, Chang Chun noticed something unusual.<br>
+<span style="color:#4eb24e;">Chang Chun：</span><br>
+Hey, look at those leaves falling down... Is it just me, or are they freezing in midair at times?<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Huh? Let me see... Whoa, they are! Those leaves are falling in a weird way!<br>
+<span style="color:#4eb24e;">Fu Po：</span><br>
+Wait a sec. Are they all flying in the same direction?<br>
+<br>
+The moment the words left her mouth, all of the leaves suddenly froze in place. Then, bright light burst from their midst.<br>
+<span style="color:#4eb24e;">Everyone：</span><br>
+AAAAH! GHOOOST!<br>
+<span style="color:#4eb24e;">An Shan：</span><br>
+Fu Shuuun!<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Whoa?! The ghost turned into An Shan!<br>
+<span style="color:#4eb24e;">Chang Feng：</span><br>
+We're no ghosts. Hahaha, I think an explanation is in order.<br>
+<br>
+Once Chang Feng had explained everything, they all remembered that they were in a game world. She and An Shan had encountered some server connection issues and went offline for a period of time.<br>
+Thanks to this experience, however, Fu Po and Fu Shun had a stroke of inspiration and quickly completed their assignment.<br>
+And all lived happily ever after.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
