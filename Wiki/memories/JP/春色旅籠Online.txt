@@ -49,25 +49,25 @@
 テストの内容は宿の経営における最も大事な2つの要素、「食事」と「宿泊」を中心にしています<br>
 <br>
 モスクワと鎮海の解説は、突如鳴り出したボガトィーリの警告音によって遮られた。<br>
-<span style="color:#4eb24e;">博加特里：</span><br>
+<span style="color:#4eb24e;">ボガトィーリ：</span><br>
 警告、識別不能なデータパッケージを検知……強制ロードを試みているようデス……<br>
-<span style="color:#4eb24e;">抚顺：</span><br>
+<span style="color:#4eb24e;">撫順：</span><br>
 えへへ！ゲームと言えば、この撫順さまのオリジナルアイデアは欠かせないよ！<br>
 これをつけると、店員は料理を運ぶときに確率でポイっと異世界へ飛ばされて、料理が冷める前に魔王を倒さなければならない！<br>
-<span style="color:#4eb24e;">博加特里：</span><br>
+<span style="color:#4eb24e;">ボガトィーリ：</span><br>
 警告、データに互換性がアリマセン……拡張パックのロードに失敗シマシタ<br>
-<span style="color:#4eb24e;">抚顺：</span><br>
+<span style="color:#4eb24e;">撫順：</span><br>
 ええ——！？なんで？！先にテストしたはずなのに！<br>
-<span style="color:#4eb24e;">博加特里：</span><br>
+<span style="color:#4eb24e;">ボガトィーリ：</span><br>
 初期パラメータ、確認完了――<br>
 <br>
 …………loading…………<br>
 ■■■■■■■■■99.9%……<br>
-<span style="color:#4eb24e;">博加特里：</span><br>
+<span style="color:#4eb24e;">ボガトィーリ：</span><br>
 …………<br>
 <span style="color:#4eb24e;">モスクワ：</span><br>
 ボガトィーリ、どうしたんだ？<br>
-<span style="color:#4eb24e;">博加特里：</span><br>
+<span style="color:#4eb24e;">ボガトィーリ：</span><br>
 ううん。起きるかもしれないトラブルのために、ちょっと時間を開けといた<br>
 生成を再開シマス……非中断性エラーを確認。大量のキャラクターが入り込みマシタ<br>
 環境データ生成中――進捗：100%<br>
@@ -314,7 +314,7 @@
 自分が会場に向かう道中、行く手を阻まれてしまった。<br>
 <span style="color:#4eb24e;">インプラカブル：</span><br>
 宿の大繁盛を祝して、私とヒンデンブルクが……特別なプレゼントを用意したわ<br>
-<span style="color:#4eb24e;">兴登堡：</span><br>
+<span style="color:#4eb24e;">ヒンデンブルク：</span><br>
 あなたが直接「確認」する必要のあるプレゼントよ<br>
 <br>
 どこからか透き通った弦楽器の音が響き、心地よい音楽が流れ始めると――<br>
@@ -322,20 +322,20 @@
 <span style="color:#4eb24e;">インプラカブル：</span><br>
 そのまま鑑賞するのか、近寄ってこの祝福をより身近に感じるのか……選択はあなたに任せるわ<br>
 一面春色に染まった月の夜……この小さなステージで捧げる余興…<br>
-<span style="color:#4eb24e;">兴登堡：</span><br>
+<span style="color:#4eb24e;">ヒンデンブルク：</span><br>
 契約者よ、しかとその目に収めなさい<br>
 <br>
 二人の視線が一斉にこちらに集まり、まるで彼女たちのステージには強大な魔力があるようで、思わず目が奪われてしまった。<br>
 琵琶の音色の中で、不意に二人の動きが止まった。<br>
 <span style="color:#4eb24e;">インプラカブル：</span><br>
 いかがかしら？このプレゼントは……お気に召してくれた？<br>
-<span style="color:#4eb24e;">兴登堡：</span><br>
+<span style="color:#4eb24e;">ヒンデンブルク：</span><br>
 ふふふ……契約者の目が釘付けになっているようね<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 ――最高だったよ。いい思い出になった<br>
 <span style="color:#4eb24e;">インプラカブル：</span><br>
 それじゃあ、ご褒美としてお酒を一杯賜っても？<br>
-<span style="color:#4eb24e;">兴登堡：</span><br>
+<span style="color:#4eb24e;">ヒンデンブルク：</span><br>
 お祭りはまだ終わってないわ。契約者……この後の余興はもっと楽しいかもしれないわ<br>
 <br>
 空気中に微かな香りと、余興の余韻が漂っている中、二人は左右にやってきた。<br>
@@ -695,7 +695,7 @@
 <span style="color:#4eb24e;">{playername}：</span><br>
 ――とりあえず座って。きっと大丈夫だ<br>
 ――龍武がすごく頑張ってたから、お返しにみんなで料理を作ってあげようとしてるだけだと思うよ<br>
-<span style="color:#4eb24e;">虎贲：</span><br>
+<span style="color:#4eb24e;">虎賁：</span><br>
 そうだよ龍武姉ちゃん！だから安心して、虎ちゃんたちと一緒に花火を見に行こう？<br>
 <span style="color:#4eb24e;">龍武：</span><br>
 でも……台所ってすごく危険な場所ですよ？食材の扱いを間違うとかだけならまだしも……<br>
@@ -988,17 +988,17 @@
 ひんやりした感触が体を大きく震わせ、喉から小さいうめき声をあげた。<br>
 <span style="color:#4eb24e;">クラースヌィイ・クルィーム：</span><br>
 うっ、んん……！冷たい……でも……<br>
-<span style="color:#4eb24e;">顽皮：</span><br>
+<span style="color:#4eb24e;">オゾルノイ：</span><br>
 な、何をしてるの！早く降りてきて！みんな見てるよ！？<br>
 <br>
 一瞬で顔を真っ赤に染めたオゾルノイは、びっくりした猫のように飛び上がった。<br>
 慌てて周りを見渡し、隣の机のテーブルクロスを引っ張ってきてクラースヌィイの体にかけた。<br>
-<span style="color:#4eb24e;">顽皮：</span><br>
+<span style="color:#4eb24e;">オゾルノイ：</span><br>
 せ、せめてこれで少し隠して！<br>
 <span style="color:#4eb24e;">クラースヌィイ・クルィーム：</span><br>
 うぅ……たしかに、隠しても大丈夫よね…<br>
 オゾルノイ、ありがとう～<br>
-<span style="color:#4eb24e;">顽皮：</span><br>
+<span style="color:#4eb24e;">オゾルノイ：</span><br>
 ……へ？<br>
 <br>
 テーブルクロスを被ったままのクラースヌィイはこちらに向かって飛んできて手首を掴んできた。<br>
@@ -1007,11 +1007,11 @@
 <span style="color:#4eb24e;">クラースヌィイ・クルィーム：</span><br>
 衆目環視の中……みんなの前で……<br>
 テーブルクロスに包まれた状態で、こっそり私にお仕置きするなんて……あはっ……最高だよぉ……<br>
-<span style="color:#4eb24e;">顽皮：</span><br>
+<span style="color:#4eb24e;">オゾルノイ：</span><br>
 なななな何変なことを言ってるのよ！？<br>
 <br>
 叫び声と共に、オゾルノイはクロスの隙間に腕が伸ばしてきて、こちらの腕を掴んできた。<br>
-<span style="color:#4eb24e;">顽皮：</span><br>
+<span style="color:#4eb24e;">オゾルノイ：</span><br>
 早く出て！このバカ支配人！それとあんたも！支配人を放して！<br>
 まったく、二人して何やってるの！？<br>
 <br>
