@@ -3062,22 +3062,52 @@ p.equip_data = {
 };
 {
 	id = 15060,
-	name = "潜艇用Mark 18鱼雷",
-	type = 13,
-	nationality = 1,
+	name = "淑女进阶的步履",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 15060	};
 	}
 };
 {
-	id = 15100,
-	name = "潜艇用Mark 16鱼雷",
-	type = 13,
-	nationality = 1,
+	id = 15080,
+	name = "机械与理性之杖",
+	type = 102,
+	ship_type = 5,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 1, rarity = 3, id = 15100	};
-		{	tech = 2, rarity = 4, id = 15120	};
-		{	tech = 3, rarity = 5, id = 15140	};
+		{	tech = 0, rarity = 4, id = 15080	};
+	}
+};
+{
+	id = 15100,
+	name = "不死的鬼怪",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15100	};
+	}
+};
+{
+	id = 15120,
+	name = "生物型双生舰装",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15120	};
+	}
+};
+{
+	id = 15140,
+	name = "雪球三重奏",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15140	};
 	}
 };
 {

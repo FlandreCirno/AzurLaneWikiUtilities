@@ -727,6 +727,7 @@ p.ship_data = {
 	["水星纪念·META"] = { id = 9702071, nationality = 97, type = 301, rarity = 5 },
 	["博伊西·META"] = { id = 9702081, nationality = 97, type = 301, rarity = 4 },
 	["克利夫兰·META"] = { id = 9702091, nationality = 97, type = 301, rarity = 5 },
+	["雷根斯堡·META"] = { id = 9702111, nationality = 97, type = 301, rarity = 5 },
 	["特伦托·META"] = { id = 9703011, nationality = 97, type = 301, rarity = 4 },
 	["阿尔及利亚·META"] = { id = 9703021, nationality = 97, type = 301, rarity = 5 },
 	["福煦·META"] = { id = 9703031, nationality = 97, type = 301, rarity = 4 },
