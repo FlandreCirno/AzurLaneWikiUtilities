@@ -1,167 +1,166 @@
 == 心之絮语 ==
 {{折叠面板|开始}}
-{{折叠面板|标题=神秘饮料|选项=1|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-{tb}~看在你最近还算努力的份上，我准备了这个特调果汁哦~<br>
-虽然颜色有点奇怪……但是味道肯定很不错！<br>
-是人家自己调制的独家配方哦♪<br>
-要不要来一口？保证你终身难忘哦~<br>
+{{折叠面板|标题=雨天散步|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+外面似乎下雨了……<br>
+雨滴打在植物的叶子上……发出了沙沙的声音……<br>
+很美好呢……<br>
+而且人很少……很适合散步……<br>
+{tb}……可以陪艾普洛一起吗？<br>
 <br>
-'''''<span style="color:black;">选择项1：我觉得普通果汁就挺好的</span>'''''<br>
-'''''<span style="color:black;">选择项2：正好渴了，我全部喝掉！</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''欸……{tb}真无趣。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''哎呀~看来今天会很有意思呢♪<br>
+'''''<span style="color:black;">选择项1：当然可以</span>'''''<br>
+'''''<span style="color:black;">选择项2：等雨停了再去好么</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''{tb}也会喜欢这样的环境嘛……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''艾普洛觉得自己……被理解了呢……！<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''那样的话……感觉街道上会热闹起来呢<br>
+'''''<span style="color:black;">（选择项2）</span>'''''不过，似乎也不错……？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=探险|选项=2|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-我看天气预报说明天是个大晴天，那今晚的星星应该很好看呢~<br>
-{tb}，要不然晚上带我去天台上看星星吧~？<br>
+{{折叠面板|标题=下午茶时间|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+那个，艾普洛试着做了甜点……<br>
+是、是向日葵造型的哦……<br>
+按照食谱上说的，用了蜂蜜和柠檬……<br>
+烤的时候一直担心会烤焦……<br>
+还好最后看起来还不错……！<br>
 <br>
-'''''<span style="color:black;">选择项1：找个安全的地方看星星吧</span>'''''<br>
-'''''<span style="color:black;">选择项2：我知道个好地方</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''胆小鬼！一点冒险精神都没有……<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项1）</span>'''''阳台就能看到很多星星。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''哼！真是个无聊的笨蛋！<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''哦~？没想到笨蛋{tb}也有点冒险精神呢~<br>
-'''''<span style="color:black;">（选择项2）</span>'''''那就交给你咯~<br>
+'''''<span style="color:black;">选择项1：造型很可爱，我们一起尝尝</span>'''''<br>
+'''''<span style="color:black;">选择项2：拿去和大家一起分享吧！</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯嗯，只要{tb}喜欢就好了……<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''和大家……！艾普洛、这就去准备盘子！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=零花钱|选项=3|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-那、那个……{tb}……<br>
-我稍微超支了一点点……<br>
-可以提前预支下个月的零花钱吗？我会乖乖的哦~<br>
+{{折叠面板|标题=文件整理|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+……这份文件，应该放在你的书桌上吗……？<br>
+艾普洛怕放错了地方……<br>
+还有这份，是不是应该按照日期重新排列一下比较好……<br>
 <br>
-'''''<span style="color:black;">选择项1：让我们一起算算账</span>'''''<br>
-'''''<span style="color:black;">选择项2：说说看想要多少？</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''欸？是要一起写明细的意思吗……？<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项1）</span>'''''当然。这样更容易养成管理零花钱的意识。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''真是麻烦……不过为了零花钱只好听话了……<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''欸？这么痛快？{tb}居然是这么好说话的人啊~<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项2）</span>'''''当然。不过要答应我好好规划使用哦。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''规划什么的……哎呀~<br>
-'''''<span style="color:black;">（选择项2）</span>'''''总之先把零花钱给人家吧~<br>
+'''''<span style="color:black;">选择项1：往常也是用日期排列，这次就麻烦你了</span>'''''<br>
+'''''<span style="color:black;">选择项2：你可以试试用颜色分类，会更高效</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯，明白了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''艾普洛……会继续认真做的。<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''颜色分类……！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''艾普洛明白了！我会尝试一下的！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=整理房间|选项=4|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-啊……好麻烦哦。<br>
-我今天能不能不整理房间啊？<br>
+{{折叠面板|标题=挑选礼物|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+……那个玩偶……和{tb}好像……<br>
+都带着温暖的笑容……<br>
+看着它就觉得很安心……<br>
 <br>
-'''''<span style="color:black;">选择项1：我在旁边陪你收拾</span>'''''<br>
-'''''<span style="color:black;">选择项2：那今天就休息吧</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''什么嘛，区区{tb}还想来旁边指手画脚……<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项1）</span>'''''这样能快点完成。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''……哼！收拾就收拾，不过我才不是因为你陪我我才收拾的！<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''哼哼~杂鱼{tb}也有很开明的时候嘛~<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项2）</span>'''''不过明天必须收拾哦。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''嗯哼~明天的事明天再说啦~反正你也管不住我~<br>
+'''''<span style="color:black;">选择项1：买一个送给你</span>'''''<br>
+'''''<span style="color:black;">选择项2：要买一整套搭配么？</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……可以吗？谢谢你……艾普洛会放在最喜欢的角落~<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''真、真的吗？那还要配一顶可爱的小帽子！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''唔，好像有一些搭配灵感涌出来了……！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=蛋糕诱惑|选项=5|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-喂，{tb}~<br>
-我看到冰箱里还有草莓蛋糕……<br>
-反正都是给我准备的，现在吃掉也无所谓吧？嘻嘻~<br>
+{{折叠面板|标题=发现新奇事物|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+这些自动售货机……会自己出来饮料吗……<br>
+上面有好多按钮，还有闪亮的灯……<br>
+是、是要这样操作吗？<br>
 <br>
-'''''<span style="color:black;">选择项1：还没到点心时间</span>'''''<br>
-'''''<span style="color:black;">选择项2：一起吃吧！</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''切，小气鬼！<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项1）</span>'''''吃太多甜食对牙齿不好，要克制一点。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''真是的，{tb}一点都不懂少女心。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''真是意外的回答呢~<br>
-<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
-'''''<span style="color:black;">（选择项2）</span>'''''偶尔放纵一下也没关系。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''哼哼~看来{tb}也是个贪吃鬼呢。<br>
+'''''<span style="color:black;">选择项1：想试试么？我教你。</span>'''''<br>
+'''''<span style="color:black;">选择项2：每个按钮都按一次吧！</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''哇……好、好厉害，饮料真的出来了……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''艾普洛会努力学习的！<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''随便按吗……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''这样的话……艾普洛就能尝到所有味道了……！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=衣物整理|选项=6|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-衣柜好乱哦……<br>
-但是自己整理起来又没有头绪……<br>
-{tb}觉得怎么整理会比较好呢？<br>
+{{折叠面板|标题=纪念册制作|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+{tb}~我把我们一起生活期间拍摄的照片都收集起来了！<br>
+还贴了贴纸和丝带呢！<br>
+请看，这张是一起去海边的时候，另外一张是我们共进下午茶的纪念……<br>
+每张照片的旁边，我都记录了那时的心情哦！<br>
+你觉得怎么样？<br>
 <br>
-'''''<span style="color:black;">选择项1：按照类型分类放好吧</span>'''''<br>
-'''''<span style="color:black;">选择项2：随便塞一塞就好啦</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''说的也是呢。这样整理的话以后会更方便找……<br>
-'''''<span style="color:black;">（选择项1）</span>'''''以后我也要保持这样的习惯，让{tb}放心才好~<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''{tb}这么说……我感觉简单了很多呢。<br>
-'''''<span style="color:black;">（选择项2）</span>'''''下次找衣服的时候应该会很有趣吧……就像寻宝一样。<br>
+'''''<span style="color:black;">选择项2：很可爱</span>'''''<br>
+'''''<span style="color:black;">选择项1：很有条理</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘿嘿，我还要再多贴一些可爱的剪贴画！<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''静下心来，慢慢整理的过程，也让我觉得很开心呢！<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=饭团的口味|选项=7|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-最近看到了饭团的制作方法哦。<br>
-我也想做饭团试试看。<br>
-不过我有点纠结放什么馅料进去呢……<br>
+{{折叠面板|标题=游乐园邀约|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+{tb}！听说新开的游乐园有超——大的向日葵花田和超——梦幻的旋转木马！<br>
+晚上还有灯光秀和烟花表演。<br>
+我们周末一起去看看好不好？<br>
+我已经查好路线和开放时间了哦！<br>
 <br>
-'''''<span style="color:black;">选择项1：从最简单的开始尝试吧？</span>'''''<br>
-'''''<span style="color:black;">选择项2：把喜欢的馅料都放进去</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''唔，也是哦。<br>
-'''''<span style="color:black;">（选择项1）</span>'''''一步一步来确实比较好呢。<br>
-'''''<span style="color:black;">（选择项1）</span>'''''我会努力尝试一下的~争取让{tb}也觉得我捏的饭团好吃。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''欸？要是真的把喜欢的馅料都放进去的话……<br>
-'''''<span style="color:black;">（选择项2）</span>'''''嗯……说不定能做出独一无二的饭团呢。<br>
-'''''<span style="color:black;">（选择项2）</span>'''''那等我做好了，{tb}一定要尝尝看哦。<br>
+'''''<span style="color:black;">选择项2：好啊，我很期待和你一起去</span>'''''<br>
+'''''<span style="color:black;">选择项1：人会不会太多了？我们换个地方？</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''太棒了！<br>
+'''''<span style="color:black;">（选择项2）</span>'''''我这就去查攻略，一定要玩遍所有项目……<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''也、也是呢……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那我们去安静点的花园好不好？<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=功课难题|选项=8|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-今天的作业有道好难的题哦……我完全不会做……<br>
-{tb}，能帮我看看要怎么做吗？<br>
+{{折叠面板|标题=仓库寻宝|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+咦？仓库最里面的架子上……有好多没见过的东西呢。<br>
+亮晶晶的航海罗盘，还有彩色的玻璃珠……看起来都很可爱。<br>
+欸？角落里的那个是……<br>
+{tb}，我们一起来好好整理一下这里好不好？<br>
+说不定还能发现被你藏起来的秘密哦！<br>
 <br>
-'''''<span style="color:black;">选择项1：我们一起分析解题思路吧</span>'''''<br>
-'''''<span style="color:black;">选择项2：要不先玩一会儿再做题吧！</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''太好了~<br>
-'''''<span style="color:black;">（选择项1）</span>'''''要是能搞懂解题思路的话，下次遇到难题也不怕啦。<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''{tb}的意思是要放松一下大脑吗？<br>
-'''''<span style="color:black;">（选择项2）</span>'''''不过确实玩一会儿的话就不会那么烦躁了……<br>
-'''''<span style="color:black;">（选择项2）</span>'''''我等下再来做题吧~<br>
+'''''<span style="color:black;">选择项2：好啊，一起整理吧</span>'''''<br>
+'''''<span style="color:black;">选择项1：我的秘密绝对不能被发现</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''好耶！仓库寻宝任务——启动！<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''嗯……？{tb}真的有不能被发现的秘密吗？！<br>
+'''''<span style="color:black;">（选择项1）</span>'''''好、好吧，那就只好放过你啦……<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=做手工|选项=9|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">娜比娅：</span><br>
-我今天看了一个纸雕的制作教程，好想试试看哦。<br>
-不过层次稍微有点复杂呢……<br>
+{{折叠面板|标题=健康监督|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+{tb}，你今天已经连续工作三小时了……<br>
+我泡了茉莉花茶，还准备了维生素软糖。<br>
+现在请闭上眼睛休息五分钟，这是命令哦！<br>
 <br>
-'''''<span style="color:black;">选择项1：我们按照教程慢慢来吧？</span>'''''<br>
-'''''<span style="color:black;">选择项2：不如自己设计新样式？</span>'''''<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''好呀，跟着教程耐心地做应该不会有问题。<br>
-'''''<span style="color:black;">（选择项1）</span>'''''而且还有{tb}陪着我一起做，那我就更放心啦~<br>
-<span style="color:#4eb24e;">娜比娅：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''自己设计的话……也不是不行呢。<br>
-'''''<span style="color:black;">（选择项2）</span>'''''也许能做出最特别的纸雕送给{tb}……想想就很期待呢。<br>
+'''''<span style="color:black;">选择项2：遵命</span>'''''<br>
+'''''<span style="color:black;">选择项1：再工作一会儿就来</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''嘿嘿，照顾{tb}也是我的重要职责哦！<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''可是，你的健康更重要啊……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那、那至少让我帮你一起整理文件吧……！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=装饰计划|选项=10|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">艾普洛：</span><br>
+{tb}！我发现了超棒的装饰材料！<br>
+金色和橙色的丝带，可以把会议室变得像向日葵花田一样明亮~<br>
+我们还可以折一些彩色千纸鹤挂在窗边~<br>
+你觉得这个主意可行嘛？<br>
+<br>
+'''''<span style="color:black;">选择项2：听起来很棒，需要我帮忙么？</span>'''''<br>
+'''''<span style="color:black;">选择项1：会不会太显眼了？</span>'''''<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''当然当然！欢迎加入家装改造小队~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''和我一起做设计，让能见到的每个角落都充满阳光吧！<br>
+<span style="color:#4eb24e;">艾普洛：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''欸，你觉得太显眼了吗？<br>
+'''''<span style="color:black;">（选择项1）</span>'''''那……只在窗台放一束向日葵如何呢？<br>
 {{折叠面板|内容结束}}
 
 {{折叠面板|结束}}
