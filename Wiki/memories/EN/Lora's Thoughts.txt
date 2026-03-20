@@ -97,24 +97,7 @@ What do you think?<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Mhm! It's nice to slow down and carefully organize things. It puts me in a good mood!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Invitation to the Amusement Park|选项=7|主框=1|样式=primary|展开=是}}
-<span style="color:#4eb24e;">Lora：</span><br>
-{tb}! They just built a new amusement park. I heard it has a huge sunflower field and a magical merry-go-round!<br>
-Apparently, it also has light shows and firework displays at night!<br>
-Can we go there next weekend?<br>
-I already looked up the way there and what times they're open!<br>
-<br>
-'''''<span style="color:black;">选择项2：Sounds great. I can't wait to go there with you.</span>'''''<br>
-'''''<span style="color:black;">选择项1：It'll probably be packed. How about another place?</span>'''''<br>
-<span style="color:#4eb24e;">Lora：</span><br>
-'''''<span style="color:black;">（选择项2）</span>'''''Woohoo!<br>
-'''''<span style="color:black;">（选择项2）</span>'''''Now I need to come up with a route so I can ride every single attraction...<br>
-<span style="color:#4eb24e;">Lora：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''Y-yeah, good point...<br>
-'''''<span style="color:black;">（选择项1）</span>'''''In that case, how about going to a quiet garden instead?<br>
-{{折叠面板|内容结束}}
-
-{{折叠面板|标题=Treasure Hunting in the Storehouse|选项=8|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Treasure Hunting in the Storehouse|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lora：</span><br>
 Hm? Over there, on the shelf furthest back in the storehouse... There's so much stuff I've never seen before.<br>
 There's a shiny compass, a jar of marbles in every color... They look so cute.<br>
@@ -131,7 +114,7 @@ Who knows – we might find some lost treasure in here!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''Well, okay... I'll leave it be.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Managing Your Health|选项=9|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Managing Your Health|选项=8|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lora：</span><br>
 {tb}, you've been working nonstop for three hours now...<br>
 I've made jasmine tea and gotten you some vitamin gummies.<br>
@@ -146,7 +129,7 @@ Close your eyes and get a five-minute break now. That's an order!<br>
 '''''<span style="color:black;">（选择项1）</span>'''''I-if you won't stop, then at least let me help you sort your paperwork!<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Decoration Plan|选项=10|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Decoration Plan|选项=9|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lora：</span><br>
 {tb}! I found some amazing decorative material!<br>
 Using these gold and orange ribbons, we can make your meeting room look like a bright sunflower patch!<br>
