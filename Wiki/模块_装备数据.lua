@@ -7131,6 +7131,33 @@ p.equip_data = {
 	}
 };
 {
+	id = 151020,
+	name = "漫游者",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151020	};
+	}
+};
+{
+	id = 151040,
+	name = "系统通缉者",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 151040	};
+	}
+};
+{
+	id = 151060,
+	name = "零号协议密钥",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151060	};
+	}
+};
+{
 	id = 1010100,
 	name = "双剑",
 	type = 101,
