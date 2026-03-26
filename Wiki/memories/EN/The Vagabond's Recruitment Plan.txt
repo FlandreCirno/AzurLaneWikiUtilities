@@ -1,0 +1,1033 @@
+== The Vagabond's Recruitment Plan ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Prologue: The Fall|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Akashi：</span><br>
+Commander, Commander! You busy, nya? Actually, stop even if you're busy, nya!<br>
+I need ya to see my latest masterpiece, nya!<br>
+<br>
+Just as I happen to get a moment to breathe amidst my afternoon work, Akashi comes in bearing a suspicious device.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Set a boundary.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Hear her out.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''No means no. I still have work to do.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You gotta take a little break sooner or later, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''What did you bring in here this time?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+This is my newest full-immersion VR game: Vagabond City!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Is this one of those massive role-playing games?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+It's no mere game, nya! I've positioned you as the Commander of the Thorn City Counterintelligence Team, nya!<br>
+You can investigate anyone in the city, arrest whoever you feel like... How's that sound, nya?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That sounds like a big promise, but I confess, I am intrigued.<br>
+<br>
+Urged on by curiosity, I accept the device and flip the switch.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Okay... Link start, nya!<br>
+<br>
+My brain seems to switch gears all at once as a vivid current of data rushes before me.<br>
+Consciousness synchronization complete.<br>
+Counterintelligence Team - Commander<br>
+Location: Commercial center<br>
+Sensory synchronization... 100%<br>
+Welcome to Thorn City.<br>
+Prepare to carve your own destiny.<br>
+As the darkness recedes, all of my senses are bombarded. When I open my eyes again, I'm on the roof of a skyscraper.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+I see you've finally logged in.<br>
+Goodness, you kept me waiting. When this job is over, I expect you to make things up to me.<br>
+<br>
+I hear a familiar voice, as clear and gentle as rippling water.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Unryuu? You're the guide for this beta test? No, wait... An NPC?<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+NPC? Hahaha! You're such a card. I'm the one and only ace of the Thorn City Counterintelligence Team, in the flesh – your adjutant...<br>
+And your experienced senior, who you ought to address with respect.<br>
+<br>
+'''''<span style="color:black;">选择项1：Yes, Miss Unryuu.</span>'''''<br>
+'''''<span style="color:black;">选择项2：Yes, Big Sister.</span>'''''<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Heheh, I don't mind the sound of that... Er, ahem. That aside, your mission is a simple one. Someone stole the municipal management system's operational data, and we need to retrieve it.<br>
+<br>
+Municipal Management System: Mission Updated. Objective: Recover the stolen data. A suggested route has been set.<br>
+Municipal Management System: Mission Updated. Objective: Recover the stolen data. A suggested route has been set.<br>
+Municipal Management System: Mission Updated. Objective: Recover the stolen data. A suggested route has been set.<br>
+Municipal Management System: Mission Updated. Objective: Recover the stolen data. A suggested route has been set.<br>
+A translucent mission interface unfolds in my periphery, displaying a map with markers and a detailed route.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+The role you were assigned is awfully convenient. I wish I could get such detailed info.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Role?<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Your abilities, basically. As long as you have your title of Commander, you'll be given detailed intel support.<br>
+That's how this city works. We follow the rules based on our assigned roles, and we do the missions we're given by the system.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Huh. Then per the original plan, you'll be infiltrating while I monitor you and provide backup.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Yes, yes. You're the Commander, after all.<br>
+<br>
+She turns around to face the neon abyss sprawling all around us. Gradually, her body turns to water.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Let's get this mission started, then.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Mirage in the Night|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Unryuu throws herself backward. City lights shine through her waters, making her glow like a kaleidoscope.<br>
+A great flower blooms in the night sky, before dissolving into the deep darkness.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Unryuu, situation report.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+As water, she easily slips through door cracks and ventilation ducts. Nothing can halt her advance, and indeed, she reaches her target in no time.<br>
+So far, so good. I've successfully followed the route to my destination.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Stay vigilant. Once you have the data, get out of there.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander... Something feels wrong. There's nobody here.<br>
+It isn't just that floor, either – the entire building is empty.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Is this a trap?<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+I don't know, but my intuition is rarely off...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Get out of there! Hurry!<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+I make an instant decision, but it's already too late.<br>
+KABOOOOM!<br>
+A deafening explosion roars below. The building's glass walls shatter into a rain of shards.<br>
+Commander... Hurry... You have to run...<br>
+<br>
+As flames billow up from the level below, I hear a grating noise through my communicator.<br>
+Automatically issuing municipality-wide wanted notice.<br>
+Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
+Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
+Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
+Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
+The crimson system alert fills my vision. Just as I'm trying to grasp the situation, I hear a voice.<br>
+<span style="color:#4eb24e;">???：</span><br>
+What an exciting opening, huh, Commander... Hey, wait a second... This gameplay is so last decade...<br>
+But... Hehehe. Now that I've hacked myself some admin permissions... I'll show off my skills as a gamer!<br>
+<br>
+The world before me flickers harshly. Red lights shine eerily from the neon abyss.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What did you do?<br>
+<span style="color:#4eb24e;">???：</span><br>
+Hehe, from now on, you're the city's hottest easter egg!<br>
+Have fun with the new event this ghostie prepared for you, Commander~<br>
+<br>
+Interference detected from unknown permissions... Player role information overwritten... ERROR. ERROR.<br>
+A player has been found to have endangered Thorn City security and stolen municipal property.<br>
+Automatically issuing municipality-wide wanted notice.<br>
+Revoking player role.<br>
+Loading new role: Vagabond.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Against the Tide|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+The whir of propellers fills the air, and the blinding beams of searchlights converge on the rooftop like a cage of light.<br>
+I wrench open the grate below me and follow the water's flow, eventually finding an access hatch that I jump from to land in a dark alleyway.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+But suddenly, a black car drifts in front of me and squeals to a stop.<br>
+That's enough hide-and-seek, Commander.<br>
+The door opens, and Nayoro emerges, pointing a stun gun at me.<br>
+Wow, you're in rough shape. I have to say, though, I'm impressed that you lived long enough to meet me.<br>
+Her role and other information appear on a panel in my periphery.<br>
+<br>
+Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
+Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
+Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
+Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
+Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You're the counterintelligence chief? But how...<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Shush. More precisely, I'm the FORMER chief. And you're the Counterintelligence Team's former Commander...<br>
+Three minutes ago, the system determined that I was under suspicion of illegally aiding the target of a mission. It revoked my role and turned me into a Vagabond.<br>
+But I'm quick on my feet, if I may say so myself. Before it could take away my privileges, I redirected all of this area's security in the opposite direction.<br>
+Now... Will you stay here, or will you come with me?<br>
+<br>
+'''''<span style="color:black;">选择项1：I'll go with you.</span>'''''<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+As I close the door, Nayoro slams on the gas pedal. Her car rushes out of the alley and down onto the main street.<br>
+Just then, our terminals both emit harsh beeps.<br>
+<br>
+Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Fasten your seatbelt, Commander.<br>
+Things are about to get a little bumpy.<br>
+The car takes a sharp turn down a narrow alley, narrowly evading a temporary barricade set up on the main street.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+What's this about "ownership" in the message we got?<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Exactly what it says. This is all just in the game, but...<br>
+According to the plotline, I was to take you in after you lost your role, making you my property.<br>
+Unfortunately, someone dug that privilege out from the system's core and made it into a reward that can be obtained by anyone.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Umm, what would have happened in the original plotline?<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+After I framed you, you'd lose the role and wander the streets until I found you.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+That doesn't sound very different from what's happening now.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+But it is! The privilege that should've been mine has been taken and used as a mission reward.<br>
+What would you call this, Commander? Theft? Or a challenge?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+So, basically... An unexpected mishap happened during this test, and someone managed to hijack control of the system?<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+You catch on quickly. There's just one question, though.<br>
+Where will you go, Commander?<br>
+Shall we go to my safe house, or... are you ready to go to the municipal management building to turn yourself in?<br>
+Think carefully about your answer. It could influence the course of this game.<br>
+There's a moment of silence between us, dotted only by the crackling of electricity on Nayoro's tail.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Turn yourself in.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Go to the safe house.)</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''If they want me that badly, then they can have me.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You're walking straight into a trap if you do that, Commander.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''I know. But sometimes, the decisive move isn't made directly on the game board.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''You never cease to amaze me... Still, I have to confess that I'm a little disappointed.<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Let's go to your safe house to prepare first. If the management system is malfunctioning, then we need to tell everyone not to obey it.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''How decisive! I happen to know a way we can tell everyone, too.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''There's a broadcasting tower on top of the management building. It's independent, so it doesn't receive orders from the system. We can use that to communicate with all players in the city.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''However... That tower has tip-top security. You won't be able to get into that building alone, you know...<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''In that case, we'll need more information on the Vagabonds.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''If I can't do it alone, then we'll just have to find more people like us.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''The Vagabonds, eh? I know a trustworthy information broker. She might be able to help us out.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=A Role Lost|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+In the innermost booth of an unassuming corner café, our coffee gets cold as we wait.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Unryuu, are you sure you're okay after that explosion?<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+A silly little explosion isn't enough to hurt me. Rather than dwell on that, would you like me to go check our surroundings?<br>
+Our rendezvous time passed ages ago. I'm worried that something went wrong.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+True... Can I ask you to keep an eye out? If anything seems amiss, we'll run.<br>
+<br>
+Thanks to Nayoro, we had plans to meet with the information broker L'Indomptable here, but she still hasn't shown herself.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, it seems she's here... I'll keep watch outside. Please, be careful.<br>
+<span style="color:#4eb24e;">L'Indomptable：</span><br>
+The bell on the café door rings, and a girl enters. She heads straight toward my booth and sits down across from me.<br>
+You shouldn't have come here.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+I know that, but I need information.<br>
+<span style="color:#4eb24e;">L'Indomptable：</span><br>
+I might not have the information you need... I've lost my role as information broker.<br>
+L'Indomptable picks up her coffee and takes a sip. After shooting a cautious glance to the side, she speaks to me quietly.<br>
+After all that happened last night, it got revoked.<br>
+Without it, I can't even open my basic information interface. I've lost my means of gathering intel.<br>
+The only system message I've gotten since was the one saying to capture you.<br>
+There are a whole lot of people after you.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Even your role was revoked? They must be trying to get rid of anyone who could pose a threat to them.<br>
+<span style="color:#4eb24e;">L'Indomptable：</span><br>
+Are you implying that it wasn't the system that revoked my role?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+It was the system, sure, but it sounds like someone's controlling it behind the scenes.<br>
+In the middle of last night's explosion, I heard someone's voice... That must be the person pulling the strings.<br>
+<span style="color:#4eb24e;">L'Indomptable：</span><br>
+A voice, you say? No wonder this whole thing has felt so fishy.<br>
+That arbitrary accusation, the special mission given to the whole city... If you're right about this and someone is behind it all, then all the pieces fit.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+I need to find the other Vagabonds in this city. They're not enemies, but potential allies.<br>
+If we want to fight the mastermind, we need to work together.<br>
+<span style="color:#4eb24e;">L'Indomptable：</span><br>
+She falls silent for a moment. Then, she types something on her terminal and sends me an encrypted data package.<br>
+This is the list I put together before I lost my privileges.<br>
+It has all the other people who suddenly lost their roles, along with where they were last seen.<br>
+I'm going to keep investigating in my own way. If you need something, contact me... You know how, right?<br>
+As the Message Received notification pops onto my terminal, L'Indomptable stands up, holding her hat close to her brow.<br>
+The rest is up to you, Commander of Counterintelligence... No – Commander of the Vagabonds.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=An Unfortunate Accident|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+Following the list given to me by L'Indomptable, I arrive at a factory in the coastal industrial area.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(According to her intel, Gorizia carried out her final mission here before her role was revoked.)<br>
+<br>
+Just as I go to look inside, I hear a faint rustling nearby.<br>
+<span style="color:#4eb24e;">???：</span><br>
+Mm... Mngh...<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+When I look that way, I spot a figure in the corner of the factory floor, bound by ropes.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Gorizia, is that you?<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+When she hears my voice, she struggles to lift her head.<br>
+C-Commander!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+What happened to you?<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+As you can see... I'm a failure of an agent who stumbled right into a trap! A clueless victim!<br>
+She tries to project an air of helplessness, but it's so obviously theatric that it falls flat.<br>
+If you save me, I swear I'll repay you... I'll do anything you want me to!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Hmm? But those ropes sure look like you tied them yourself.<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+Ah...! You're sharp, Commander. I'm impressed.<br>
+Now that you've figured me out, there's only one thing I can do!<br>
+She tries to push herself upright, but the momentum is too much. The rope digs into her clothes and skin, eliciting a sharp cry.<br>
+Huh? Wh-why can't I untie it? It worked when I practiced...<br>
+Despite her struggles, the knots only become more tangled.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Umm... So, why is this happening?<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+The plan was that I would pretend to be trapped. When you came to help me, worried, I would suddenly... Ahem... Ugh, it's so tight.<br>
+Gorizia gives up and confesses to her scheme.<br>
+As soon as I finished investigating this place, the system revoked my agent status...<br>
+Then, I got a new mission. It made me wonder, what if I could be the one to capture you?<br>
+But I tied the knot wrong... and now I can't untie it... Hngh...<br>
+M-my dear Commander, umm... Can you help me? At this rate, I'll be trapped forever...<br>
+She desperately writhes amidst the ropes.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+You really are stuck now? Then will you give me something in exchange for untying you?<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+I've been investigating this place for a long time, so I have a lot of data. I'll hand it over to you! It's right here...<br>
+Struggling to twist her body, she thrusts her chest my way. A small data chip sticks out from its hiding place.<br>
+I-it's stuck... Hnngh...<br>
+I step forward, my fingertips gently taking hold of the chip.<br>
+She tenses up for a moment, and her breathing becomes ragged.<br>
+Nnh... B-be gentle...<br>
+As I slowly remove it, she breathes a sigh of relief. However, there seems to be a hint of disappointment in her eyes.<br>
+<br>
+I insert the chip into my device to find various bits of information about this industrial area. However, none of it seems useful.<br>
+Just as I'm about to close it, however, the screen suddenly flickers. An encrypted file called "Protocol Zero Key" appears in my file directory.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+C-Commander... someone's activated... the system's admin privileges, nya...<br>
+Protocol Zero... at the coast's laboratory... Use the key... reinitialize...<br>
+<br>
+Akashi's message is cut off by a sudden jamming signal.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Protocol Zero? Does it reinitialize the system from within? That's one way to go about it...<br>
+<br>
+Freed from the ropes, Gorizia stands up and rubs her wrists. However, she doesn't leave – she just gazes at me with expectant eyes.<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+Commander... What will you do now? As for me...<br>
+I didn't just fail my mission... I'm left without a role now, too.<br>
+<br>
+Should I take her along, potentially gaining a useful ally? Or should I continue to act alone for the sake of secrecy?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Recruit Gorizia.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave her.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I could use help. Care to join me?<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''R-really?! You mean you need me–<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''She's cut off by a jarring noise outside the factory. I hear footsteps rushing our way.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Players must have come here for the mission!<br>
+<span style="color:#4eb24e;">Gorizia：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Commander... There's a hidden passage on the east side! Follow me!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''She takes my hand and sprints deep into the factory with surprising agility.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Rather than linger, I use my planned route to escape and vanish into the night.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Gorizia remained alone in the silent factory. Only after the sound of footsteps had faded did she turn and slip into a hidden passage.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Resolve that Cleaves the Sky|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Commander, we're about to enter the airspace above the central skyscraper area.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Stay on your toes. Taking a helicopter draws a lot of attention.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Relax. I "borrowed" this helicopter. Nobody will know we're taking it for a short spin.<br>
+<br>
+Below the window stretches the neon sea of Thorn City.<br>
+I cast my gaze at a distant high-rise building. According to our intel, the phantom thief Choukai will appear there tonight.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Oh! Look – there's someone on top of that building.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Let's get a closer look.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+We fly closer to the skyscraper and see a figure calmly standing at the top, arms folded and her silver hair fluttering in the night breeze.<br>
+Who would've thought... Right as I, Maya, am in the midst of finding my prey, it delivers itself right to me.<br>
+Maya... That name wasn't on L'Indomptable's list.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Were you drawn here by the mission?<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Yeah. What about you? Here to witness me becoming the city's best assassin?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+That would be a real sight, but it's not happening tonight.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Very well...<br>
+Then, as the ironclad rule dictates, when an assassin is discovered by their target...<br>
+We'll finish it here and now!<br>
+Light glimmers off of her blade. The helicopter suffers a calculated strike and rocks hard in the air.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander!<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Accept your– Huh?!<br>
+The moment she tries to catch me, I dodge to the side and grab her wrist, exploiting her momentum to pull her backward.<br>
+<br>
+Thrown off balance, she faceplants into my chest. Using my free hand, I lock her in a hold.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Son of a– Let go! Wh-what the hell are you doing?!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You got yourself into this by boarding our helicopter.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Urgh... Let GO, dammit! My blade – my pride and honor – won't stand for this!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Hold still. You could fall.<br>
+<br>
+A tremble shakes her body. Although she stops struggling, she won't stop squirming out of shame and resentment.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Listen. That mission you accepted wasn't authentic. Someone's been tampering with the system.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Oh... And you're trying to find out who, right?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yeah. I'm gonna uncover the truth for us all.<br>
+<br>
+She firmly grasps the grip of her sword.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+Alright. Then tell me, Commander, what should I do?<br>
+<br>
+Every choice has consequences in this virtual city where danger lurks around every corner. What to choose...<br>
+<br>
+'''''<span style="color:black;">选择项1：(Recruit Maya.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave her.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''I've got a plan, and I'm recruiting Vagabonds across the city. Wanna join me, Maya?<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Of course! Then from now on, I entrust you with my strength and my blade.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''We're standing in the eye of the storm. Things are about to get dangerous. You shouldn't come along.<br>
+<span style="color:#4eb24e;">Maya：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Okay. Even if I'm not with you, I'll watch your back from the shadows.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Failed Thief and the Red-Stringed Cage|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+The night is as dark as ink. I've snuck into the luxurious penthouse at the top of the high-rise with one goal – finding someone.<br>
+According to L'Indomptable, the phantom thief Choukai is planning to steal something from this place tonight.<br>
+I push open the ventilation duct's grille and land in the penthouse without a sound. It's dead quiet, save for the rhythm of my own breathing.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+There's not even a single guard here.<br>
+Did Choukai already do the deed and make it out?<br>
+<br>
+Just then, I hear a noise from the art gallery – grumbling intermixed with chagrin.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+Ugh... My back hurts... How long must I hold this pose?<br>
+<br>
+I follow the sound of the noise and open the heavy, wooden door.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+Eek! How could this even happen? I was sure I broke most of the infrared sensors...<br>
+This is looking like another failed mission...<br>
+Choukai is locked in a pretty physically straining pose, surrounded by crisscrossing lasers.<br>
+Hearing the sound of the door opening, she instinctively turns and locks eyes with me.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+...Looks like you're in the middle of something.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+Huh?! C-Commander?! What are you doing he– Actually, how'd you even get in here?!<br>
+Oh no... Don't tell me you're on guard duty tonight and you've come to arrest me!<br>
+A tremble causes her arm to connect with a laser beam, but the alarm does not sound.<br>
+What? Strange... The alarm didn't trip.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+I turned off the security system before I went in.<br>
+<br>
+Like a puppet on strings suddenly cut loose, she collapses from fatigue and falls into my arms.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+Th-thank you... If you hadn't come, this might have truly been it for me...<br>
+<br>
+I feel the warmth of her body through the thin cloth of her phantom thief outfit.<br>
+The back of her neck is as red as a cherry, and her animal ears twitch with shyness.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Didn't think you'd get caught by something this basic, considering your track record of smooth escapes. What went wrong?<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+Well... There were simply too many lasers. Just as I dodged one from the front, two came up from behind, and before I knew it, I was completely cornered.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+If it's already hard, why'd you make things even harder for yourself by sending out a calling card?<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+I have no choice. It's a mandatory requirement of my mission.<br>
+Hang on... Aren't you on the wanted list, Commander?!<br>
+My mission objective was to capture you! Granted, you're the one who's captured me now, but still...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Wait, so the system didn't strip you of your role and turn you into a Vagabond?<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+Come again? "Vagabond"?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Oh, right... You probably lost your role because you couldn't complete even a single one of your missions as a phantom thief.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+*sob*... Y-you've hit the nail on the head... I really am pathetic.<br>
+<br>
+Saying that, she looks up at me with eyes brimming with anticipation.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Recruit Choukai).</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave her.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hey, how about changing gears from being a failed thief to becoming a Vagabond with me?<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''B-but... Do you really need me, despite the fact that I can't even infiltrate properly?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Of course I do. I need all the allies I can get right now.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''W-well... In that case, I'll come with you! Whatever it takes, I'll carry out my mission for you!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''There is the buzz of helicopter blades outside the window. It seems other players have caught on to what's happening at the penthouse.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Seems our audience got here sooner than expected.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Oh no! Wh-what do we do?!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''We're taking another route. Stay close to me.<br>
+<span style="color:#4eb24e;">Choukai：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''O-okay! Lead the way!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''(I really can't drag any more uninvolved people into this.)<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Guess we're lucky your role didn't get tampered with. You'd better get out of here before any guards show up.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''With those words, I leap off the balcony and vanish into the city's darkness.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Where Trust Takes Us|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+1:11 AM. I've come to a coast on the outskirts of Thorn City to meet up with Seydlitz.<br>
+She is the last Vagabond on the list, as well as an agent of the Counterintelligence Team.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+(She's no doubt gotten that mission to capture me as well, but if the intel is correct, her role should've already been taken from her.)<br>
+(Let's see if I can manage to recruit her.)<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+I emerge from the shadows and show myself to Seydlitz, who's standing next to her parked motorcycle at our meeting spot.<br>
+She leans against her machine, a gun casually held in her right hand.<br>
+Freeze! Tell me the code phrase. "I give my all..."<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+"To be my Commandant's sharpest blade."<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+...Correct.<br>
+Her expression relaxes for but a moment before she assumes a sharp alertness. While her gun isn't pointed at me, her aura is still intimidating.<br>
+Not one step closer. Stop five meters away, take off your coat, and turn around in place.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Feeling strict, are we?<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+I'm sure you know why. Yesterday, I received two messages on my device.<br>
+The first said that my role had been permanently revoked. The second tasked me with a high-priority, citywide mission to capture you, Commandant.<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+So you're here to capture me, then?<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+Dropping her hostile attitude, she returns her gun to its thigh holster and leans back against her motorcycle again.<br>
+Don't be silly. This is just a bug, isn't it?<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+Not a bug, per se, more like someone took over the system and made it untrustworthy.<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+Sounds like something a hacker would do in a movie... I believe you, Commandant.<br>
+She puts her unwavering trust in me. The call has come for me to decide how to respond to that.<br>
+<br>
+'''''<span style="color:black;">选择项1：(Recruit her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave her.)</span>'''''<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hear me out – I need you on my side. Not as a subordinate the system gave me, but as a comrade I can trust.<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''After staying silent for a while, she adjusts her position.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''As I just said, I believe you.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''That being said, can I inquire about your plan? For instance, how–<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Her words are cut off by the blaring of distant sirens. Blinking blue and red lights approach at breakneck speed from the road ahead.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Hop on, Commandant! Let's get out of here!<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''You don't need to make a choice at once. Staying silent and looking out for yourself is the best you can do right now.<br>
+<span style="color:#4eb24e;">Seydlitz：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''After watching her ride off into the distance, I turn around and slip back into the dark.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=The Blundering Agent|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+Having returned to my safehouse, I breathe an overdue sigh of relief. Unryuu and Nayoro aren't back yet, and the only sound in the base is the low humming of machinery.<br>
+As I'm focusing on the monitors, I suddenly hear noises coming from the air vents above me.<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+I pull up security camera footage from inside the ventilation duct, which shows an infiltrator wearing a black suit making her way forward.<br>
+I've found it at last... This must be the safehouse where the Commander is hiding.<br>
+But this corner – it's completely unlike what the blueprints showed... Ugh... I-I've gotten myself stuck...<br>
+As she tries to adjust her posture, her leg carelessly touches the inside of the duct.<br>
+BWEEE!<br>
+A laser beam suddenly shoots out from the side, grazing her shoulder. Her suit instantaneously dissolves, exposing her bare skin.<br>
+Eek! Wh-what was that?!<br>
+Why would anyone have such an offense-oriented security system in their air ducts?!<br>
+Kizu frantically dodges beam after beam as they switch on, only to ultimately hit the metal plate at the end of the duct with her back.<br>
+Left with nowhere to go, she's struck by more lasers.<br>
+Her black suit burns off of her legs, revealing the supple thighs underneath. The toolbag at her waist and the holster on her thigh dissolve one after the next.<br>
+Wait... My equipment! Even my clothes! Nooo!<br>
+Before she can even catch her breath, a thick cluster of lasers comes darting toward her.<br>
+Curses... I can't possibly avoid that!<br>
+In her moment of desperation, she throws herself against the vent grille behind her, breaking through it and falling backward into the monitoring room.<br>
+<br>
+Her suit, torn to shreds, is now little more than a few scraps and straps barely clinging to her body. Most of her skin is exposed.<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+*pant*... *pant*...<br>
+Wh-what kind of lasers are these?! My suit and equipment have been dissolved... I can't finish my mission like this!<br>
+Ah! D-don't look! Not when I'm like this!<br>
+<br>
+Sitting on the floor, she desperately tries to cover herself up with her arms. Her face is deep red with shame.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Kizu? Talk about a... bold way to greet me.<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+Ugh... D-don't think for a second that I'll yield to you!<br>
+<br>
+It seems she's also on a mission to capture me. Should I recruit her while I have the chance?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Recruit her).</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave her.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Agent Kizu, your gear – along with most of your weapons – has been neutralized by my security system.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''You've failed your mission, so I'll offer you a suggestion. How about joining my side?<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''What? Th-the whole reason I'm here is to capture you! You think I would join forces with you?!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''It'd be a good chance to work together. What's the problem as long as you finish your mission eventually?<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''She bites her lip, inner turmoil ravaging her.<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''A-alright! I shall aid you! First, though, I demand new clothing!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Right at that moment, I hear the sound of approaching helicopters coming from outside the base.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Guess we can't stick around.<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''Huh?! B-but my clothes!<br>
+<br>
+'''''<span style="color:black;">（选择项1）</span>'''''With no hesitation, I place my coat on her shoulders.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''We've gotta move! Change on the go! The exit's over there!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''It's not your fault you failed your mission. My security system was just too good.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''I take out a spare coat from the equipment closet and gently put it on the shivering girl.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Without waiting for her response, I swiftly slip through a secret door across the room and disappear into the night.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Fate Diverges|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+Inside the backup safehouse at the dock, Nayoro emerges from the shadows without a sound.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+I've deployed a layer of electronic camouflage. For now, we can consider ourselves safe.<br>
+But you never know when things might change, with Thorn City in this state...<br>
+We don't have much time, Commander. Have you made progress recruiting the other Vagabonds?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I personally met with everyone on L'Indomptable's list.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Oh? Only the ones on the list?<br>
+What about the ones not on the list, then? You don't intend to contact them?<br>
+For example, the person who's been with you all along... Little old me?<br>
+<br>
+She gazes at me expectantly. Is she the key to victory, or is she an unpredictable risk?<br>
+<br>
+'''''<span style="color:black;">选择项1：(Recruit her.)</span>'''''<br>
+'''''<span style="color:black;">选择项2：(Leave her.)</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''You were never an outsider to me, Nayoro.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Welcome to the team.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''There's my Commander. I always knew you'd make the right choice.<br>
+'''''<span style="color:black;">（选择项1）</span>'''''No wonder you're so popular, even in this game.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项1）</span>'''''Unryuu, synchronize our intel. It's time to make our final decision.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''You can join the team another time. Right now, I need something from you.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Now, you say?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''Yeah. Get me the shift schedules of the municipal management building's security staff.<br>
+'''''<span style="color:black;">（选择项2）</span>'''''With that, our future activities will be guaranteed safe.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Is this a test for me? Alright, Commander... I'll see you again soon.<br>
+<br>
+'''''<span style="color:black;">（选择项2）</span>'''''She exits the safehouse, leaving me alone... with Unryuu, who has been watching our exchange from the shadows.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''Commander... You sent her away deliberately, didn't you?<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+'''''<span style="color:black;">（选择项2）</span>'''''It was a precaution. Synchronize our intel for me, please.<br>
+<br>
+Unryuu activates the command desk's holographic system, projecting a 3D model of Thorn City.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Based on the intel we've collected, there are a few things we can be certain of.<br>
+The broadcast tower is on the top level of the management building. Players have gathered there, but with enough help, I believe we can lure them elsewhere.<br>
+Also, regarding the Protocol Zero key obtained from Gorizia's data chip...<br>
+The coastal laboratory isn't far from here. It should only take a few people to divert players on the route, but we have no grasp of the situation inside... nor of what we may encounter.<br>
+Of course... Waiting patiently for a better opportunity is always an option.<br>
+The decision is yours. No matter what, I'll be right by your side.<br>
+<br>
+Intel, comrades, trump cards... and our options. All of the preparations we've made await my final decision.<br>
+Municipal Management System: Your choice will determine the outcome of this story.<br>
+<br>
+'''''<span style="color:black;">选择项：(Activate Protocol Zero.)</span>'''''<br>
+'''''<span style="color:black;">选择项：(Break into the management building.)</span>'''''<br>
+'''''<span style="color:black;">选择项：(Stand by and wait for an opportunity.)</span>'''''<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 1: It Ends As It Began|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+With Nayoro's help, I manage to breach the management building.<br>
+Even as I confidently walk into the lobby, there is no blaring alarm. Far from it, the lights in the corridor light up in tune with my steps, as if welcoming me.<br>
+<span style="color:#4eb24e;">???：</span><br>
+Heheheh. You're just as bold as I thought, Commander!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That voice... Long Island? Did you hijack the entire system?!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+I didn't just hijack it – this is a total takeover!<br>
+Tell me, Commander. Did you have fun in this unscripted game?<br>
+If you play it again, try making some different choices!<br>
+<br>
+Ending Log: 01 – It Begins As It Ends<br>
+Calculating score...<br>
+Play time: 7.12 hours<br>
+Overall rating: C<br>
+The curtain has fallen before the audience could be seated.<br>
+Vagabond City closed beta test terminated.<br>
+A feeling of detachment washes over me and recedes again in no time. Before I can open my eyes, I hear Akashi scream.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Up, up, down, down, left, right, left, right, B, A... Aw crap, nya! Long Island cracked my server admin override codes, nya!<br>
+And she even sent me a rude message about it, nya!<br>
+Commander! Help me, nya... She locked me out of my own server, nya...<br>
+Vagabond City is all hers now, nya...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Desperate times call for desperate measures.<br>
+Akashi, unplug the server.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Got it, nya! ...Wait, nya?!<br>
+Commander! We can't unplug it, nya! I'll lose all my valuable test data, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Do you have any better ideas?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+N-no, nya... I don't know where she might be hiding either, nya...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Then that's our one option.<br>
+She may be invisible in the gaming world, but not out here.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Nya! Then I'll go unplug it right away, nya!<br>
+<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 2: Protocol Zero|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+As the night wears on, the Vagabonds scattered across the city take their positions. On my command, they spring into action.<br>
+Alarms blare across the city all at once. Unryuu and I use the opportunity to infiltrate the laboratory.<br>
+The device for inputting the Protocol Zero key is within sight.<br>
+We successfully reset the system. With no fanfare or explosions, the whole city goes dark at once. Instantly after, it lights up again, as if given new life.<br>
+Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+The wanted notice disappears, and frozen privileges are gradually restored, bringing order back to Thorn City.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+It worked... We've done it, Commander! You're getting rewarded handsomely later!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Yeah... It's all over.<br>
+<br>
+Ending Log: 03 – Order Rebuilt<br>
+Calculating score...<br>
+Play time: 57.32 hours<br>
+Overall rating: A<br>
+In the name of order, we rebuild.<br>
+Vagabond City closed beta test terminated.<br>
+As expected, I'm hit by an intense feeling of detachment. When I open my eyes, I'm back in my office at the port.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Commander! Are you okay, nya?!<br>
+There was a sudden fluctuation in the data stream, and it forced my test server to reboot, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I freed it from Long Island's control. It was all thanks to the Protocol Zero key you left for me.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Thank goodness, nya... That could've been really bad, nya!<br>
+But... All of my test data got totally scrubbed, nya! There goes a month of my hard work... This sucks, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Isn't a reformatting preferable to letting Long Island keep control over your system?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Yeah... I GUESS, nya...<br>
+Long Island's got some nerve, nya...<br>
+Taking my game away from me, nya? I'm gonna find her and make her pay me back by being my new QA tester, nya!<br>
+<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 3: Obsession Unbound|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+As the night wears on, the vagabonds scattered across the city take their positions. On my command, they spring into action.<br>
+Alarms blare across the city all at once. Unryuu, Nayoro, and I use the opportunity to infiltrate the laboratory.<br>
+The device for inputting the Protocol Zero key is within sight.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+And now, Commander... It's time for the little surprise I prepared for you.<br>
+<br>
+Suddenly, Nayoro steps in front of me and shoves Unryuu away.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, stop her!<br>
+<br>
+It's already too late. A heavy shutter slams down, cutting off her cries.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Heehee, you look so cute when you're surprised.<br>
+"What could she be planning?" Is that what you're thinking right now?<br>
+The answer couldn't be simpler.<br>
+Ever since I first realized that this would be the perfect way to seize you for myself...<br>
+Your fate was already sealed.<br>
+If the script continues as written, the story will end right here.<br>
+<br>
+Her electrified tail smashes the control panel, forever destroying any chance of success.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+And you know I can't have that. I still want to toy with you until I'm satisfied...<br>
+So... I say it's time you and I start a new game.<br>
+Then we can be together... forever and ever.<br>
+Forever...<br>
+And ever...<br>
+<br>
+Ending Log: 05 – Obsession Unbound<br>
+Calculating score...<br>
+Play time: 58.10 hours<br>
+Overall rating: B<br>
+In the name of love, I seize you.<br>
+Vagabond City closed beta test reset.<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 4: A Call for Freedom|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+The Thorn City municipal management building – the heart of its rules and orders – silently stands tall in the darkness.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+We must cause a diversion big enough to lure away the security staff, then seize the opening to attack the broadcasting center on the top floor.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Our goal is to free everyone from the system's control. Call everybody and tell them to follow the plan.<br>
+<br>
+The hour hand strikes midnight, and chaos erupts across the city all at once.<br>
+The traffic signal system gets jammed, turning all the lights red on the main street. Streetlights suddenly go out in several blocks, casting surveillance feeds into darkness.<br>
+Unryuu transforms into a surging torrent of water, covering me while I rush toward the management building.<br>
+She decimates all of the automated defenses before guiding me through the last security gate. Finally, we reach the citywide broadcasting center.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, the analogue radio isn't under the system's control. We have one minute to ourselves!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+That's plenty.<br>
+<br>
+Unryuu overwrites the broadcasting privileges, then simultaneously sends me the go-ahead signal and turns up the volume slider.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+To everyone who hears this broadcast: Somebody has seized control of the city's management system.<br>
+<br>
+My voice travels on the radio waves across Thorn City's night sky.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The missions that have been forced on you, the unlawful arrest warrants – they're merely the work of a hacker doing it for a laugh.<br>
+So please, ignore any missions the system may assign to you.<br>
+Even if the system declares you a rulebreaker, just shrug and let it do it.<br>
+Every one of us has the freedom to choose, just as you have the freedom to play this game!<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, the security officers have stopped in their tracks!<br>
+It worked... You actually did it! You can expect a generous reward from me later.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Nice. Well... I guess it's over now.<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Wait... Calling on all players to resist the system?! Talk about a simple yet effective strategy.<br>
+Hmph. Only you can work this kind of magic on people, Commander. I'll concede that you won – this time!<br>
+<br>
+Ending Log: 04 – A Call for Freedom<br>
+Calculating score...<br>
+Play time: 59.34 hours<br>
+Overall rating: A<br>
+Rules can be rejected.<br>
+Vagabond City closed beta test concluded.<br>
+Feeling the gravity of the real world weighing on me, I breathe a sigh of relief.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Wow! Using the broadcasting system to tell all the players to reject their missions – what a move, nya!<br>
+That was peak entertainment, nya! I'm gonna use this as the foundation for the official release trailer, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Sounds like you've got a new idea.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+You bet, nya! This "bug" in the game has given me loads of new ideas, nya!<br>
+Now just to deal with Long Island, nya! Once I get my hands on her, I'm gonna make her work overtime as my QA tester, nya!<br>
+<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 5: Silent Betrayal|选项=15|主框=1|样式=primary|展开=是}}
+<br>
+The Thorn City municipal management building – the heart of its rules and orders – silently stands tall in the darkness.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+External jamming initiated and security staff redeployed. Commander, I've secured a path to the broadcasting center.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Our goal is to free everyone from the system's control. Call everybody and tell them to follow the plan.<br>
+<br>
+The hour hand strikes midnight, and chaos erupts across the city all at once. The traffic signal system locks up, and surveillance cameras stop functioning. Everything seems to be going as we hoped.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Security level outside the building has fallen to the minimum level. We're clear to go inside, Commander.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+That was easy. TOO easy...<br>
+<br>
+We break into the heart of the management building and push open the door to the broadcasting center. There's a massive, round screen displaying the night-shrouded city streets.<br>
+The control panel stands silent and ready, as though it had expected our coming.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, the analogue radio isn't under the system's control. We have one minute to ourselves!<br>
+<br>
+There's no time to think. I bring the microphone up to my mouth and push up the volume slider.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+To everyone who hears this broadcast: Somebody has–<br>
+<br>
+Then, all the lights in the broadcasting center go out at once. The only lighting left is the faint, red emergency lights.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Sorry, Commander, but I can't let you continue.<br>
+<br>
+Suddenly, Nayoro weaves between the two of us and shoves Unryuu away.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, stop her!<br>
+<br>
+It's already too late. A heavy shutter slams down, cutting off her cries.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+Heehee, you look so cute when you're surprised.<br>
+"What could she be planning?" Is that what you're thinking right now?<br>
+The answer couldn't be simpler.<br>
+Ever since I first realized that this would be the perfect way to seize you for myself...<br>
+Your fate was already sealed.<br>
+<br>
+Her electrified tail smashes the control panel, forever destroying any chance of success.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+What's the point in waking everyone up anyway? THIS is the best ending you could ask for!<br>
+Become a Vagabond with me... and let me be by your side forever.<br>
+Forever...<br>
+And ever...<br>
+<br>
+Ending Log: 06 – Silent Betrayal<br>
+Calculating score...<br>
+Play time: 54.32 hours<br>
+Overall rating: B<br>
+Together forever.<br>
+Vagabond City closed beta test terminated.<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 6: A Loving Siege|选项=16|主框=1|样式=primary|展开=是}}
+<br>
+Day after day passed, but a good opportunity never came to us.<br>
+Quite the opposite, even – our tactics panel, which was empty just a few days ago, is now lit up like a Christmas tree with the signals of players who've tracked us down.<br>
+<span style="color:#4eb24e;">Kizu：</span><br>
+Why is there suddenly such a large number of players?<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander, I'm detecting large groups of moving players in the east and west sectors. To make matters worse, the highway has been sealed off.<br>
+<span style="color:#4eb24e;">Nayoro：</span><br>
+This doesn't seem like a search... More like a siege.<br>
+<br>
+As if to emphasize those words, dozens of footsteps sound from outside the safehouse before the door slides open.<br>
+<span style="color:#4eb24e;">Mogador：</span><br>
+Ahh... Fooound you, Commander♥<br>
+<br>
+Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+As the system announcement gets released, the commotion outside the window grows even louder.<br>
+<span style="color:#4eb24e;">Fu Shun：</span><br>
+Wow! This game's really lively! It wouldn't be the same if I weren't here!<br>
+<span style="color:#4eb24e;">Carabiniere：</span><br>
+Target spotted. Commencing hunt!<br>
+<span style="color:#4eb24e;">Sirius：</span><br>
+I'm only here to ensure that others don't get rough with you, my honourable Master...<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+It seems they prepared a grand celebration just for you, Commander.<br>
+<br>
+Ending Log: 00 – A Loving Siege<br>
+Calculating score...<br>
+Play time: 83.52 hours<br>
+Overall rating: S<br>
+With love from the whole playerbase.<br>
+Vagabond City closed beta test – perfect ending.<br>
+My mind is pulled back into reality, and I'm greeted not by the lingering sound of the game, but rather by a crisp notification.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+50,000... 100,000... 150,000, nya! Another Tracker's Pack sold, nya!<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Yeah, I saw! People snatched up every last new digital collectible in three seconds flat!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Care to explain what's going on, Akashi?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Nya?! Wh-when'd you wake up, nya? Err, I mean, thanks for beta-testing, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Let me guess – this city-wide manhunt was a paid test event that you and Long Island had planned from the very start, am I right?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Well, not from the VERY start, nya...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+I'm expecting royalties for using my likeness on those body pillows.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Of course, nya! You know me – I'm a trustworthy merchant, nya!<br>
+<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=Ending 7: Insufficient Numbers|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+There are only a couple of dots representing allies on the holographic map inside the safehouse. They're utterly tiny compared to the vast map.<br>
+<span style="color:#4eb24e;">Unryuu：</span><br>
+Commander... We have extremely few on our side. It'll be nigh-impossible to cause widespread confusion as we've planned.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+We're out of time. With every passing minute, Long Island's grip on the system grows stronger.<br>
+Change of plan. We'll focus on a single point to cause an extensive circuit overload.<br>
+<br>
+Our plan began at the darkest time of the night. We overloaded a transformer substation, sending out dazzling blue arcs of lightning that tore through the sky.<br>
+Seizing the opportunity, Unryuu and I left the safehouse behind.<br>
+Unfortunately, just three minutes later...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Well, well! What're you two doing this late? Taking a walk?<br>
+<br>
+A live feed of Long Island appears on a giant screen by the coast. Her one hand supports her chin, while the other holds a controller.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Long Island...<br>
+<span style="color:#4eb24e;">Long Island：</span><br>
+Playtime is over, Commander!<br>
+Next test, you really should invite more people to join you on your quest. It'll be more fun that way!<br>
+<br>
+She snaps her fingers. Unryuu's body as well as mine begins to gradually disintegrate into little fragments of data that vanish in the game.<br>
+Ending Log: 02 – Insufficient Numbers<br>
+Calculating score...<br>
+Play time: 47.83 hours<br>
+Overall rating: B<br>
+No one can truly be a lone wolf in this city.<br>
+Vagabond City closed beta test terminated.<br>
+A feeling of detachment washes over me and recedes again in no time. Before I can open my eyes, I hear Akashi scream.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Up, up, down, down, left, right, left, right, B, A... Aw crap, nya! Long Island cracked my server admin override codes, nya!<br>
+And she even sent me a rude message about it, nya!<br>
+Commander! Help me, nya... She locked me out of my own server, nya...<br>
+Vagabond City is all hers now, nya...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Desperate times call for desperate measures.<br>
+Akashi, unplug the server.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Got it, nya! ...Wait, nya?!<br>
+Commander! We can't unplug it, nya! I'll lose all my valuable test data, nya!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Do you have any better ideas?<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+N-no, nya... I don't know where she might be hiding either, nya...<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Then that's our one option.<br>
+She may be invisible in the gaming world, but not out here.<br>
+<span style="color:#4eb24e;">Akashi：</span><br>
+Nya! Then I'll go unplug it right away, nya!<br>
+<br>
+The Vagabond's Recruitment Plan - The End<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

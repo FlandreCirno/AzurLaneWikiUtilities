@@ -1,6 +1,6 @@
 == Project Identity: Explorer ==
 {{折叠面板|开始}}
-{{折叠面板|标题=Commence Project Identity: Explorer!|选项=1|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Commence Project Identity: Explorer! (Part 1)|选项=1|主框=1|样式=primary|展开=是}}
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
 "Project Identity 3.0"? This came quicker than I expected.<br>
 <br>
@@ -87,7 +87,7 @@ Oh! S-sorry, I should've asked before I called you that...<br>
 Um, maybe... you want me to call you something else?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Timid First Day of School|选项=2|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Commence Project Identity: Explorer! (Part 2)|选项=2|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lora：</span><br>
 {tb}... {tb}... {tb}!<br>
 Okey-dokey! From now on, you're {tb} to me!<br>
@@ -259,7 +259,7 @@ Because... Because even if the bunnies don't trust you...<br>
 I will always... always trust you, {tb}.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Beneath the Blooms|选项=7|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Beneath the Blossoms|选项=7|主框=1|样式=primary|展开=是}}
 <span style="color:#4eb24e;">Lora：</span><br>
 Wooow, so pretty...<br>
 <br>
@@ -361,7 +361,7 @@ Lora stands up and gently takes my hand.<br>
 Twilight gently embraces us, bringing tranquil warmth to the small swing, her fingers, and the long path ahead of us.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lighthearted Expectation|选项=9|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Lighthearted Expectation I|选项=9|主框=1|样式=primary|展开=是}}
 <br>
 Lora and I made plans to go to an amusement park today.<br>
 Once she was tired out, she said that she wanted to eat some fluffy ice cream.<br>
@@ -404,7 +404,7 @@ The gondola slowly rises to its apex. Everything below us, from the park attract
 But it's the sight of her smile, clutching those colorful balloons, that delights me more than the view outside.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Lighthearted Expectation|选项=10|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Lighthearted Expectation II|选项=10|主框=1|样式=primary|展开=是}}
 <br>
 Lora and I made plans to go to an amusement park today.<br>
 Once she was tired out, she said that she wanted to eat some fluffy ice cream.<br>
@@ -741,7 +741,7 @@ Hehe... First Mate Lora is always ready for adventure!<br>
 Thus, her new reed badge bears witness to all of our afternoon discoveries and adventures.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Toward the Future with My Dearest|选项=18|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Toward the Future with My Dearest I|选项=18|主框=1|样式=primary|展开=是}}
 <br>
 When I pass by Lora's room, I notice her lying on her desk. The pen in her hand is immobile.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -786,7 +786,7 @@ In the Career Plans section, there's just one small line of words written in pen
 Lora's story is about to begin a new chapter.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=Toward the Future with My Dearest|选项=19|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=Toward the Future with My Dearest II|选项=19|主框=1|样式=primary|展开=是}}
 <br>
 When I pass by Lora's room, I notice her lying on her desk. The pen in her hand is immobile.<br>
 <span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
@@ -831,7 +831,7 @@ In the Career Plans section, there's just one small line of words written in pen
 Lora's story is about to begin a new chapter.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Step to Looking Fashionable|选项=20|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The First Step to Looking Fashionable I|选项=20|主框=1|样式=primary|展开=是}}
 <br>
 Morning sunlight shines through the curtains and falls on Lora, who's eating breakfast.<br>
 I suddenly notice something – that her shirt sleeves are too short, and her skirt's rim is too tight just above her knees.<br>
@@ -878,7 +878,7 @@ Ultimately, we both concede and manage to strike a compromise.<br>
 Yes... These look trendy while still being "safe."<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=The First Step to Looking Fashionable|选项=21|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=The First Step to Looking Fashionable II|选项=21|主框=1|样式=primary|展开=是}}
 <br>
 Morning sunlight shines through the curtains and falls on Lora, who's eating breakfast.<br>
 I suddenly notice something – that her shirt sleeves are too short, and her skirt's rim is too tight just above her knees.<br>
@@ -1210,7 +1210,7 @@ After we eat... would you like me to do a divination for how your love life will
 As a reward, I'll tell you a little bit about what The Star card means.<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Future Together|选项=28|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Future Together I|选项=28|主框=1|样式=primary|展开=是}}
 <br>
 Today is the day of Lora's graduation ceremony.<br>
 I wake up at the break of dawn and realize that the suit I'm going to wear today is on my bedside table.<br>
@@ -1237,7 +1237,7 @@ I nod along with her words, and she smiles back. Her eyes gleam like stars in th
 Well... Shall we?<br>
 {{折叠面板|内容结束}}
 
-{{折叠面板|标题=A Future Together|选项=29|主框=1|样式=primary|展开=是}}
+{{折叠面板|标题=A Future Together II|选项=29|主框=1|样式=primary|展开=是}}
 <br>
 Today is the day of Lora's graduation ceremony.<br>
 I wake up at the break of dawn and realize that the suit I'm going to wear today is on my bedside table.<br>
