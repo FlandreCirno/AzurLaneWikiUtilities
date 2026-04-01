@@ -102,11 +102,11 @@ A deafening explosion roars below. The building's glass walls shatter into a rai
 Commander... Hurry... You have to run...<br>
 <br>
 As flames billow up from the level below, I hear a grating noise through my communicator.<br>
-Automatically issuing municipality-wide wanted notice.<br>
-Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
-Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
-Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
-Municipal Management System: Warning! Dangerous attack detected! High probability of severe threat to public security. Freezing all roles in accordance with municipal law. Cease all actions and await investigation.<br>
+Municipal Management System:<br>
+Warning! Dangerous attack detected!<br>
+High probability of severe threat to public security.<br>
+Freezing all roles in accordance with municipal law.<br>
+Cease all actions and await investigation.<br>
 The crimson system alert fills my vision. Just as I'm trying to grasp the situation, I hear a voice.<br>
 <span style="color:#4eb24e;">???：</span><br>
 What an exciting opening, huh, Commander... Hey, wait a second... This gameplay is so last decade...<br>
@@ -137,11 +137,11 @@ The door opens, and Nayoro emerges, pointing a stun gun at me.<br>
 Wow, you're in rough shape. I have to say, though, I'm impressed that you lived long enough to meet me.<br>
 Her role and other information appear on a panel in my periphery.<br>
 <br>
-Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
-Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
-Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
-Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
-Identifier: Nayoro Affiliation: Thorn City Intelligence Bureau Role: Counterintelligence Chief Status: Role Revoked New Role: Vagabond<br>
+Identifier: Nayoro<br>
+Affiliation: Thorn City Intelligence Bureau<br>
+Role: Counterintelligence Chief<br>
+Status: Role Revoked<br>
+New Role: Vagabond<br>
 <span style="color:#4eb24e;">{playername}：</span><br>
 You're the counterintelligence chief? But how...<br>
 <span style="color:#4eb24e;">Nayoro：</span><br>
@@ -155,12 +155,12 @@ Now... Will you stay here, or will you come with me?<br>
 As I close the door, Nayoro slams on the gas pedal. Her car rushes out of the alley and down onto the main street.<br>
 Just then, our terminals both emit harsh beeps.<br>
 <br>
-Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
-Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
-Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
-Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
-Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
-Municipal management system: URGENT municipal security mission Mission type: Capture Objective: Former Commander of the Counterintelligence Team Reward: Ownership of the Commander Recipient: All players<br>
+Municipal management system:<br>
+URGENT municipal security mission<br>
+Mission type: Capture<br>
+Objective: Former Commander of the Counterintelligence Team<br>
+Reward: Ownership of the Commander<br>
+Recipient: All players<br>
 <span style="color:#4eb24e;">Nayoro：</span><br>
 Fasten your seatbelt, Commander.<br>
 Things are about to get a little bumpy.<br>
@@ -733,12 +733,12 @@ As the night wears on, the Vagabonds scattered across the city take their positi
 Alarms blare across the city all at once. Unryuu and I use the opportunity to infiltrate the laboratory.<br>
 The device for inputting the Protocol Zero key is within sight.<br>
 We successfully reset the system. With no fanfare or explosions, the whole city goes dark at once. Instantly after, it lights up again, as if given new life.<br>
-Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
-Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
-Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
-Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
-Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
-Municipal Management System: Low-level format complete Purging all improper control protocols and derivative data. Restarting municipal management system core... Initializing citizen profiles and roles... Order restoration protocol complete.<br>
+Municipal Management System:<br>
+Low-level format complete<br>
+Purging all improper control protocols and derivative data.<br>
+Restarting municipal management system core...<br>
+Initializing citizen profiles and roles...<br>
+Order restoration protocol complete.<br>
 The wanted notice disappears, and frozen privileges are gradually restored, bringing order back to Thorn City.<br>
 <span style="color:#4eb24e;">Unryuu：</span><br>
 It worked... We've done it, Commander! You're getting rewarded handsomely later!<br>
@@ -933,12 +933,12 @@ As if to emphasize those words, dozens of footsteps sound from outside the safeh
 <span style="color:#4eb24e;">Mogador：</span><br>
 Ahh... Fooound you, Commander♥<br>
 <br>
-Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
-Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
-Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
-Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
-Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
-Special Event Announcement: Limited-Time Festival: Caught You, Commander♡ Location: Old Town Safehouse Reward: Autographed Commander-Sized Body Pillow Event Reminder: Please bear safety in mind and capture the target in an orderly manner. Event Planners: Akashi & Long Island<br>
+Special Event Announcement:<br>
+Limited-Time Festival: Caught You, Commander♡<br>
+Location: Old Town Safehouse<br>
+Reward: Autographed Commander-Sized Body Pillow<br>
+Event Reminder: Please bear safety in mind and capture the target in an orderly manner.<br>
+Event Planners: Akashi & Long Island<br>
 As the system announcement gets released, the commotion outside the window grows even louder.<br>
 <span style="color:#4eb24e;">Fu Shun：</span><br>
 Wow! This game's really lively! It wouldn't be the same if I weren't here!<br>
