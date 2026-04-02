@@ -1,0 +1,149 @@
+== 로라의 마음 속 목소리 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=비 오는 날의 산책|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+비가 내리기 시작한 모양이에요……<br>
+잎사귀를 두드리는 물방울…… 토독토독 기분 좋은 소리가 울려 퍼져서……<br>
+분위기가…… 근사하네요……<br>
+사람 기척도 없이 고요해서…… 산책하기에 딱이에요……<br>
+괜찮으시면 로라와 함께 산책하지 않으실래요?<br>
+<br>
+'''''<span style="color:black;">选择项1：물론 좋지</span>'''''<br>
+'''''<span style="color:black;">选择项2：비가 그치면 가자</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''$1 님도 이런 분위기를 좋아하시는군요……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''왠지… 마음이 통한 것 같아서…… 에헤헤……<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''그러면…… 거리가 지금과는 다르게 북적거리는 분위기가 되겠네요……<br>
+'''''<span style="color:black;">（选择项2）</span>'''''하지만 그것도…… 나쁘지 않을지도……?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=애프터눈 티타임|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+저기, 로라… 디저트 만들기에 도전했는데……<br>
+해, 해바라기 모양 디저트를 만들어 봤어요……<br>
+레시피를 참고해서 꿀이랑 레몬을 넣고……<br>
+굽는 동안 타버리지 않을까 계속 조마조마했지만……<br>
+어떻게든… 그럴싸하게 완성됐어요……!<br>
+<br>
+'''''<span style="color:black;">选择项1：예쁘게 구워져서 다행이야, 같이 먹자</span>'''''<br>
+'''''<span style="color:black;">选择项2：다른 아이들에게도 나눠주자!</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''조, 좋아요! {tb} 님이 마음에 드신다면 그것만으로도 로라는…… 에헤헤……<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''나, 나눠주려면…… 얼른 접시를 준비해야겠어요…!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=서류 정리|选项=3|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+……이 서류는 책상 위에 두면 될까요?<br>
+잘못된 곳에 둘까봐 걱정돼서……<br>
+그리고 이것도 날짜순으로 다시 정리하는 편이……<br>
+<br>
+'''''<span style="color:black;">选择项1：늘 하던 대로 날짜순으로 부탁해</span>'''''<br>
+'''''<span style="color:black;">选择项2：색깔별로 분류하면 효율적일 거야</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''네, 알겠습니다……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''로라…… 계속해서 힘낼게요!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''색깔별로……!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''알겠습니다! 바로 해 볼게요!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=선물 고르기|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+……저 인형…… 왠지 {tb} 님을 닮은 것 같아요……<br>
+둘 다 웃는 얼굴이 따뜻해서……<br>
+보고 있는 것만으로도 마음이 놓여요……<br>
+<br>
+'''''<span style="color:black;">选择项1：그럼 살까?</span>'''''<br>
+'''''<span style="color:black;">选择项2：세트로 액세서리 같은 것도 맞춰볼까?</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''……그래도 될까요? 감사합니다…… 제일 좋아하는 곳에 장식해 둘게요…!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''저, 정말요? 그럼 귀여운 모자도 맞춰주고 싶어요!<br>
+'''''<span style="color:black;">（选择项2）</span>'''''에헤헤, 코디 아이디어가 계속 솟아오르네요……!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=호기심|选项=5|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+이 자판기들에서…… 음료수가 저절로 나오는 건가요……?<br>
+버튼이 잔뜩 있고, 게다가 빛나는 램프도……<br>
+어, 어떻게 작동시키면 돼죠……?<br>
+<br>
+'''''<span style="color:black;">选择项1：해볼래? 시범을 보여줄게</span>'''''<br>
+'''''<span style="color:black;">选择项2：버튼을 한 번씩 다 눌러보자!</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''와아…… 대, 대단해… 정말로 음료수가 나왔어요……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''작동법을 열심히 배울게요!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''마, 마음대로 눌러도 괜찮나요……?<br>
+'''''<span style="color:black;">（选择项2）</span>'''''그러면…… 전부 맛볼 수 있겠네요……!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=앨범 만들기|选项=6|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+{tb} 님~! 지금까지 같이 찍은 사진을 전부 모아봤어요!<br>
+스티커랑 리본으로 꾸며봤답니다!<br>
+네, 이건 바다에 갔을 때고, 이쪽은 애프터눈 티를 같이 즐겼던 기념으로 찍은 거고……<br>
+사진 옆에 그때 느낀 생각도 적어두었어요!<br>
+어때요……?<br>
+<br>
+'''''<span style="color:black;">选择项2：예쁘게 잘 만들었네</span>'''''<br>
+'''''<span style="color:black;">选择项1：깔끔하게 정리했네</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''에헤헤, 앞으로도 더 귀엽게 꾸며볼게요!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''마음을 차분히 가라앉히고 천천히 정리하다 보면…… 기분이 좋아져요…!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=창고 보물찾기|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+어라? 창고 맨 안쪽 선반에…… 본 적 없는 것들이 잔뜩 쌓여 있네요.<br>
+반짝거리는 나침반에 알록달록한 구슬들…… 전부 다 귀엽다……<br>
+응? 구석에 있는 저건……<br>
+{tb} 님, 여기… 같이 정리해 보지 않으실래요?<br>
+어쩌면 숨겨진 비밀을 찾을 수 있을지도 몰라요!<br>
+<br>
+'''''<span style="color:black;">选择项2：좋아. 같이 정리하자</span>'''''<br>
+'''''<span style="color:black;">选择项1：비밀을 들키면 곤란한데</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''좋아요! 창고 보물찾기, 시작!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''네…? 정말로 비밀이…… {tb} 님?!<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그, 그럼 모른 척해 드릴게요……<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=건강 관리|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+{tb} 님, 벌써 세 시간이나 계속 일하고 계시네요……<br>
+따뜻한 자스민 차랑 비타민이 든 젤리도 준비했어요.<br>
+지금 당장 눈을 감고 5분 동안 휴식을 취하세요. 이건 명령이에요!<br>
+<br>
+'''''<span style="color:black;">选择项2：알겠습니다!</span>'''''<br>
+'''''<span style="color:black;">选择项1：조금만 더……</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''에헤헤, {tb} 님을 보살펴 드리는 것도 로라의 중요한 임무랍니다!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''하지만 건강이 더 우선이에요……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그, 그럼 적어도 서류 정리라도 돕게 해주세요……!<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=장식 계획|选项=9|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">로라：</span><br>
+{tb} 님! 멋진 장식물을 발견했어요.<br>
+금색이랑 오렌지색 리본을 쓰면 회의실을 해바라기밭처럼 밝게 꾸밀 수 있어요!<br>
+그리고 알록달록한 종이학을 접어서 창가에 장식하는 것도 멋질 것 같아요!<br>
+어떻게 생각하세요……?<br>
+<br>
+'''''<span style="color:black;">选择项2：좋네, 도와줄까?</span>'''''<br>
+'''''<span style="color:black;">选择项1：너무 화려하지 않을까?</span>'''''<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''감사합니다! 에헤헤, 방 꾸미기 팀에 합류하신 것을 환영합니다~<br>
+'''''<span style="color:black;">（选择项2）</span>'''''로라와 함께 방 안을 구석구석 해님처럼 밝게 만들어 가요!<br>
+<span style="color:#4eb24e;">로라：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''앗, 너무 화려할까 봐 걱정되시나요……?<br>
+'''''<span style="color:black;">（选择项1）</span>'''''그렇다면…… 창가에 해바라기를 딱 한 다발만 장식하는 건 어때요?<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
