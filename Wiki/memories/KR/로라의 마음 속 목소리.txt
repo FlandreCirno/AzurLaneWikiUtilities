@@ -11,7 +11,7 @@
 '''''<span style="color:black;">选择项1：물론 좋지</span>'''''<br>
 '''''<span style="color:black;">选择项2：비가 그치면 가자</span>'''''<br>
 <span style="color:#4eb24e;">로라：</span><br>
-'''''<span style="color:black;">（选择项1）</span>'''''$1 님도 이런 분위기를 좋아하시는군요……<br>
+'''''<span style="color:black;">（选择项1）</span>'''''{tb} 님도 이런 분위기를 좋아하시는군요……<br>
 '''''<span style="color:black;">（选择项1）</span>'''''왠지… 마음이 통한 것 같아서…… 에헤헤……<br>
 <span style="color:#4eb24e;">로라：</span><br>
 '''''<span style="color:black;">（选择项2）</span>'''''그러면…… 거리가 지금과는 다르게 북적거리는 분위기가 되겠네요……<br>
