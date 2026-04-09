@@ -3112,11 +3112,22 @@ p.equip_data = {
 };
 {
 	id = 15160,
-	name = "潜艇用Mark 28鱼雷",
-	type = 13,
-	nationality = 1,
+	name = "纳米技术掌心炮",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 5, id = 15160	};
+		{	tech = 0, rarity = 4, id = 15160	};
+	}
+};
+{
+	id = 15180,
+	name = "小兔叽挎包",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15180	};
 	}
 };
 {
