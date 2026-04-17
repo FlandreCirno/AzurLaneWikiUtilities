@@ -3132,38 +3132,62 @@ p.equip_data = {
 };
 {
 	id = 15200,
-	name = "三联装533mm鱼雷Mk17",
-	type = 5,
-	nationality = 1,
+	name = "史多伦面包",
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 3, id = 15200	};
+		{	tech = 0, rarity = 4, id = 15200	};
 	}
 };
 {
 	id = 15220,
-	name = "四联装533mm鱼雷Mk17",
-	type = 5,
-	nationality = 1,
+	name = "柳叶鱼天妇罗",
+	type = 102,
+	ship_type = 5,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 15220	};
 	}
 };
 {
 	id = 15240,
-	name = "五联装533mm鱼雷Mk17",
-	type = 5,
-	nationality = 1,
+	name = "辣椒蟹",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 5, id = 15240	};
+		{	tech = 0, rarity = 4, id = 15240	};
+	}
+};
+{
+	id = 15260,
+	name = "杯面",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15260	};
+	}
+};
+{
+	id = 15280,
+	name = "汉堡",
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15280	};
 	}
 };
 {
 	id = 15300,
-	name = "533mm鱼雷Mk35(4连发射)",
-	type = 5,
-	nationality = 1,
+	name = "抹茶冰淇淋",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
 	sub_equips = {
-		{	tech = 0, rarity = 5, id = 15300	};
+		{	tech = 0, rarity = 4, id = 15300	};
 	}
 };
 {
@@ -7166,6 +7190,33 @@ p.equip_data = {
 	nationality = 0,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 151060	};
+	}
+};
+{
+	id = 151080,
+	name = "千雷装饰笔",
+	type = 10,
+	nationality = 106,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151080	};
+	}
+};
+{
+	id = 151100,
+	name = "写真看板",
+	type = 10,
+	nationality = 106,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151100	};
+	}
+};
+{
+	id = 151120,
+	name = "幸运四叶草",
+	type = 10,
+	nationality = 106,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151120	};
 	}
 };
 {
