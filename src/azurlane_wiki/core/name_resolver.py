@@ -63,6 +63,15 @@ def parse_name_code(text, name_code, af=False):
     Returns:
         Text with placeholders replaced
     """
+    # The Lua sources keep some values as numbers that the JSON dumps store as
+    # strings - actorName in the story scripts is the common case, appearing
+    # both as "艾普洛" and as 20220. Normalising here keeps both sources
+    # behaving identically instead of blowing up inside re.sub().
+    if text is None:
+        return text
+    if not isinstance(text, str):
+        text = str(text)
+
     def parse_func(matchobj):
         id_num = int(matchobj.group(1))
         if id_num in name_code.keys():

@@ -136,3 +136,8 @@ dmypy.json
 json/
 cookies.json
 wiki_cache/
+
+# Game data sources. AzurLaneData is a submodule, but AzurLaneLuaScripts is a
+# plain directory fetched by scripts/fetch_lua_data.py (a blobless sparse clone
+# of a 2.7 GB upstream). Never commit its contents.
+AzurLaneLuaScripts/

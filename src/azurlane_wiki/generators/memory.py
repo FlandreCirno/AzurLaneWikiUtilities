@@ -4,7 +4,7 @@ import os
 import re
 from .base import BaseGenerator
 from ..core import (
-    parse_data_file, load_json_file, get_ship_name,
+    parse_data_file, get_ship_name,
     parse_name_code, sanitize_filename
 )
 
@@ -51,8 +51,9 @@ class MemoryGenerator(BaseGenerator):
 
         # Load stories
         story_file = 'storyjp' if config.region == 'JP' else 'story'
-        self.stories = load_json_file(story_file, config)
-        self.dungeons = load_json_file('dungeon', config)
+        # Routed through parse_data_file so the Lua sources are used when present
+        self.stories = parse_data_file(story_file, config=config)
+        self.dungeons = parse_data_file('dungeon', config=config)
 
         # Build groups
         groups = self._get_group(memory_group, world_group)
