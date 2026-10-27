@@ -1,603 +1,303 @@
-杜威 Dewey
-卡辛 Cassin
-格里德利 GL_SaraNo1
-麦考尔 McCall
-莫里 Maury
-弗莱彻 Fletcher
-威廉·D·波特 William D. Porter 
-查尔斯·奥斯本 L.B.Charles
-撒切尔 L.B.Thatcher
-奥利克 L.B.Aulick
-斯彭斯 L.B.Spence
-本森 Benson
-拉菲 Lafite.82
-西姆斯 Sims
-哈曼 DD_Hammann
-埃尔德里奇 EldridgeCoil
-贝利 Rabbit.Bailey
-拉德福特 DD.Radford
-杰金斯 DD.Jenkins
-尼古拉斯 DD.Nick
-布什 Bush
-贝奇 USSBACHE
-霍比 Hobby
-马拉尼 Mullany
-艾尔温 Aylwin
-斯坦利 L.B.Stanly
-库珀 BlackCat
-艾伦·萨姆纳 A.M.Sumner
-莫里森 Bear-MKII
-英格拉罕 Ingraham
-布里斯托尔 Bristol
-贝尔 Bell
-米勒 Miller
-克拉伦斯·K·布朗森 Clarence K. Bronson
-奥马哈 Omaha
-布鲁克林 Brooklyn
-菲尼克斯 PhoenixBurn
-海伦娜 HelenaSG
-亚特兰大 Atlanta
-朱诺 Juneau
-圣地亚哥 NO1Sandiego!
-克利夫兰 Cleveland☆Knight
-哥伦比亚 Cleve-FC.3
-里士满 Richmond
-火奴鲁鲁 Honolulu
-圣路易斯 Lucky Lou
-蒙彼利埃 Cleve-FC.1
-丹佛 Cleve-FC.2
-孟菲斯 Memphis
-康克德 Sweet.Concord
-小海伦娜 HelenaSG@little
-小克利夫兰 Cleveland☆Knight@little
-小圣地亚哥 NO1Sandiego!@little
-圣胡安 San Juan
-伯明翰 Cleve-FC.4
-比洛克西 Biloxi
-里诺 HerosAides
-马布尔黑德 Marblehead
-博伊西 USSBOISE
-法戈 Fargo
-圣塔菲 Santa Fe
-帕萨迪纳  Pasadena
-北安普敦 Northampton
-休斯敦 Houston
-波特兰 INDI_LOVE
-印第安纳波利斯 Indianapolis
-阿斯托利亚 Nasty.Asty
-昆西 Quincy
-文森斯 Vincennes
-威奇塔 G.Wichita
-明尼阿波利斯 Minnie.Hunter
-旧金山 HappyEveryDay!
-巴尔的摩 Justice_B
-布莱默顿 Bremerton
-路易斯维尔 Louisville
-匹兹堡 Pittsburgh
-星座 Constellation
-内华达 Nevada
-俄克拉荷马 Oklahoma
-宾夕法尼亚 Pennsylvania
-亚利桑那 Arizona
-科罗拉多 Colorado
-马里兰 Maryland
-西弗吉尼亚 West Virginia
-北卡罗来纳 North Carolina
-华盛顿 Washington
-南达科他 SoDakX
-印第安纳 Indiana
-新泽西 BlackDragon
-马萨诸塞 2700P.Justice
-阿拉巴马 Alabama
-长岛 L.I.
-博格 Bogue
-卡萨布兰卡 Casablanca
-兰利 Langley
-列克星敦 Lexington
-萨拉托加 SisterSara
-突击者 Ranger
-约克城 YorkTown
-企业 Enterprise
-大黄蜂 CarVesGAL6
-胡蜂 Wasp
-埃塞克斯 EssexG1
-无畏 The_Fighting_I
-富兰克林 Franklin
-提康德罗加 Ticonderoga
-列克星敦II Lexington
-独立 Independence
-普林斯顿 Princeton
-科本斯 Cowpens
-圣哈辛托 San Jacinto
-香格里拉 Shangri-La
-大青花鱼 G_Albacore
-棘鳍 Cavalla
-射水鱼 CharmArcher
-松鲷 Flasher
-鲱鱼 Herring
-女灶神 Vestal
-关岛 Guam
-西雅图 Seattle
-佐治亚 GA@ColaLove
-安克雷奇 Anchorage
-奇尔沙治 Kearsarge
-哈尔福德 Halford
-堪萨斯 Kansas
-女将 ThornyA
-热心 Ardent
-小天鹅 Cygnet
-命运女神 Fortune
-格伦维尔 Grenville
-萤火虫 Glowworm@Attack
-勇敢 Hardy
-猎人 Hunter
-标枪 Javelin☆
-天后 Juno
-吸血鬼 Vampire 
-丘比特 Jupiter
-爱斯基摩人 Eskimo
-伊卡洛斯 Icarus_Wing
-贾维斯 Jervis
-雅努斯 Janus
-英雄 Hero
-努比亚人 Nubian
-特拉法尔加 Trafalgar
-勇气 Gallant
-阿基里斯 Achilles
-阿贾克斯 Ajax
-黛朵 Dido_Doll
-南安普顿 MINAMIpton
-谢菲尔德 ShiningS
-曼彻斯特 Manchester
-格罗斯特 Gloucester
-爱丁堡 ☆ Royal Maid ☆
-贝尔法斯特 Belfast_inService
-欧若拉 AuroraRose
-斐济 Fiji
-牙买加 TheFightingJ
-小贝法 Royal Maid Little
-纽卡斯尔 Newcastle
-天狼星 forMaster_Sirius
-确捷 Swiftsure
-黑太子 White Princess
-格拉斯哥 Glasgow
-赫敏 Hermione
-佩内洛珀 Penelope
-卡律布狄斯 Charybdis
-司战女神 Bellona
-进取 RoyalMaid.E
-斯库拉 Scylla
-利物浦 Liverpool
-克利奥佩特拉 Cleopatra
-特立尼达 Trinidad
-肯特 Kent
-萨福克 Suffolk
-德文郡 Devonshire
-声望 Renown
-反击 Repulse
-胡德 Mighty_Hood
-伊丽莎白女王 QueenEliz
-厌战 Warspite
-罗德尼 Rodney
-英王乔治五世 King.George.V
-威尔士亲王 TywysogWales
-约克公爵 D_O_Y
-豪 Howe_Cookies
-英勇 Cmdr_Valiant
-复仇 Revenge
-前卫 Vanguard
-皇家橡树 RoyalOak
-狮 Lion
-竞技神 Hermes@Dual
-百眼巨人 Argus
-独角兽 UnicornI72
-半人马 CenAlpha
-英仙座 Per
-阿尔比恩 Albion
-忒修斯 Theseus
-鹰 Eagle
-皇家方舟 ArkRoyal_Defense
-光辉 Illustrious
-胜利 Victorious
-可畏 Formidable
-光荣 Glorius
-怨仇 Implacable
-不挠 Indomitable
-黑暗界 Erebus
-恐怖 Terror
-阿贝克隆比 Abercrombie
-海王星 Neptune
-君主 Monarch
-柴郡 CaitSith
-德雷克 Drake
-普利茅斯 Plymouth
-吹雪 bukkitoku1
-白雪 Shirayuki 
-深雪 Miyuki 
-绫波 AYANAMIN
-晓 NINJA-AKATSUKI
-响 HibikiChannel
-雷 RAI
-电 DEN
-白露 Shiratsuyu
-夕立 NikuSuki
-时雨 LuckyShigure
-雪风 SnowStorm
-阳炎 Kagerō
-不知火 KoubaiStaff_unofficial
-初春 Hatsuharu
-若叶 NutLove
-有明 Ariake
-黑潮 Nin_Kuroshio
-亲潮 Oyashio
-岛风 Hayaizo
-神风 Kamikaze
-睦月 Mutsuki
-如月 Kisaragi
-卯月 Uduki
-水无月 Minazuki
-文月 Fumizuki
-三日月 Mikazuki
-海风 Umikaze
-山风 Yamakaze
-江风 Kawakaze
-新月 Niizuki
-春月 HARUTSUKI
-宵月 Yoizuki
-矶风 Isokaze
-滨风 Hamakaze
-朝潮 Asashio
-大潮 Ooshio
-满潮 Michishio 
-荒潮 Arashio
-浦波 Uranami
-卷波 Makinami
-霞.改 fuwarin1118
-花月 FlowerMoon
-长波 Naganami
-凉月 Puuta
-风云 Kazagumo
-初月 Hatsuzuki
-朝凪 Asanagi
-凉波 Suzunami
-妙风 Taekaze
-藤波 Fujinami
-夕张 Kagakubu.org
-长良 Nagara_CA
-五十铃 Isuzuzu
-名取 Natori 
-由良 Yura
-鬼怒 RageofONI
-阿武隈 AbuAbu
-最上 Mogami
-三隈 Mikuma
-川内 Zendai
-神通 Jintuu
-那珂 Naka
-阿贺野 FinalOTU
-能代 Nshiro
-酒匂 Sakawa 
-渡良濑 Watarase
-绫濑 Ayase
-水无濑 Minase
-木津 Kizu
-名寄 Nayoro
-青叶 REPORTER_AOBA
-筑摩 ChiKUMA
-妙高 Myoko_CA
-足柄 Ashigara
-羽黑 Haguro 
-高雄 Takao
-爱宕 Atago
-摩耶 Maya
-鸟海 ToriUmi
-铃谷 Suzu✩
-熊野 Kuma✩
-云仙 Unzen
-浅间 Asama 
-金刚 BarrowYoko
-比叡 Hiei
-榛名 Haruna
-雾岛 KirinnKS
-天城 Amagi
-扶桑 Fusō
-山城 Yamashiro
-伊势 Isei
-日向 Hyūga
-长门 SakuraCombinedFleet
-陆奥 Mutsu
-土佐 Tosa
-武藏 Musashi
-三笠 Mikasa
-纪伊 Kii
-尾张 owari
-骏河 S8u6r6ug8A
-近江 Omi
-凤翔 Hōshō
-瑞凤 Zuihō
-祥凤 SHOHO
-龙骧 Ryūjō
-龙凤 PhoenixWhale
-千岁 Chitose
-千代田 Chiyoda
 赤城 Ootori_Shikikan
 加贺 Ran_mew
-苍龙 Ino·Shika·Cho
-飞龙 Gokou
+希佩尔海军上将 R-Guitarist
+加斯科涅 GascogneT8
+谢菲尔德 ShiningS
+克利夫兰 Cleveland☆Knight
 翔鹤 KADEKURU
 瑞鹤 Zuikaku
-大凤 OutrangeTH
-信浓 Shinano
-葛城 Misato
-白凤 Hakuhō 
-云龙 Unryū
-伊19 I19_sensuisenntai
-伊26 I26_sensuisenntai
-伊58 I58_sensuisenntai
-伊25 I25_sensuisenntai
-伊168 I168
-明石 akashi_TUUHAN
-伊404 I404 
-樫野 Kashino
-伊吹 Ibuki
-出云 Izumo
-北风 Kitakaze
-吾妻 AzumaB65
-白龙 Hakuryū
-四万十 Shimanto
-大山 Daisen
-Z1 L.Maaß
-Z2 Zerstörer2
-Z9 Wolke9
-Z11 Z11_Spielefan
-Z13 AAAZielplanerin13
-Z16 F.Eckoldt
-Z23 Zerstörer.23
-Z24 GreatDevil24
-Z25 Zerstörer.25
-Z26 Zuverlässig_26
-Z28 Zerstörer28
-Z35 funf♡3536
-Z36 Zech✛3536
-Z43 Z·DEVIL·43
-Z46 viersech
-Z47 ☆WildeKatze47☆
-Z52 Blitz-Z52
-奥托·冯·阿尔文斯莱本 Alvensleben
-莱比锡 Leipzig 
-纽伦堡 Nürnberg
-马格德堡 Magdeburg
-埃姆登 Emden 
-埃尔宾 Elbing 
-雷根斯堡 Regensburg
-杜伊斯堡 Duisburg
-希佩尔海军上将 R-Guitarist
-布吕歇尔 Blücher
+蒙彼利埃 Cleve-FC.1
+丹佛 Cleve-FC.2
+哥伦比亚 Cleve-FC.3
+贝尔法斯特 Belfast_inService
 欧根亲王 P.Eugen
-德意志 SPEE_FIGHT
 斯佩伯爵海军上将 GRAFSPEE
-海因里希亲王 Eisen_Fight
-阿达尔伯特亲王 PrinzAdalbert
-约克 Yorck 
-腓特烈·卡尔 Friedrich Carl
-沙恩霍斯特 Scharnhorst
-格奈森瑙 Gneisenau
-塞德利茨 Seydlitz 
-吕佐夫 Lützow 
-亚尔薇特 Hervör alvitr
-曾克海军上将 Admiral Zenker
-俾斯麦 Bismarck
-提尔比茨 Tirpitz
-乌尔里希·冯·胡滕 U.V.Hutten
-图林根 Thüringen 
-威悉 Weser
-易北 Elbe
-亚德 Jade
-齐柏林伯爵 TrägerZeppelin
-小齐柏林 TrägerZeppelin@little
-彼得·史特拉塞 FlugzeugträgerB 
-弗里茨·鲁梅 Fritz Rumey
-U-81 U-81
-U-47 UBoat47
-U-557 U-557
-U-556 U.B.556
-U-73 U-73
-U-522 U-522
-U-110 HAI_110 
-U-96 U.B.96
-U-37 UBoat37
-U-1206 U.B.1206
-U-31 Unbeschwert31
-U-552 U.B.552
+德意志 SPEE_FIGHT
+霞.改 fuwarin1118
+不知火 KoubaiStaff_unofficial
+妙高 Myoko_CA
+骏河 S8u6r6ug8A
+金刚 BarrowYoko
+大凤 OutrangeTH
 罗恩 RoonDESU
 腓特烈大帝 SymphonicStigma
-美因茨 Mainz
-奥丁 Odin
-埃吉尔 Aegir
-奥古斯特·冯·帕塞瓦尔 August.V.Parseval
-鲁普雷希特亲王 Prinz-Rupprecht
-菲利克斯·舒尔茨 Felix Schultz
-兴登堡 Hindenburg
-梅克伦堡 Mecklenburg
+天狼星 forMaster_Sirius
+爱丁堡 ☆ Royal Maid ☆
+伯明翰 Cleve-FC.4
+鬼怒 RageofONI
+五十铃 Isuzuzu
+阿武隈 AbuAbu
+长良 Nagara_CA
+响 HibikiChannel
+晓 NINJA-AKATSUKI
+雷 RAI
+电 DEN
+皇家方舟 ArkRoyal_Defense
+光荣 Glorius
+能代 Nshiro
+阿贺野 FinalOTU
+独角兽 UnicornI72
+南安普顿 MINAMIpton
+夕张 Kagakubu.org
+雾岛 KirinnKS
+Z35 funf♡3536
+Z36 Zech✛3536
+萨拉托加 SisterSara
+伊58 I58_sensuisenntai
+伊25 I25_sensuisenntai
+伊26 I26_sensuisenntai
+祥凤 SHOHO
+吾妻 AzumaB65
+贝奇 USSBACHE
+特伦托 Da Trento
+绫波 AYANAMIN
+吹雪 bukkitoku1
+长门 SakuraCombinedFleet
+龙凤 PhoenixWhale
+敦刻尔克 gateaumistress
+大黄蜂 CarVesGAL6
+三笠 Mikasa
+睦月 Mutsuki
+卯月 Uduki
+如月 Kisaragi
+明石 akashi_TUUHAN
+小贝法 Royal Maid Little
+逸仙 Yi Xian
 鞍山 Anshan1
 抚顺 Fushun2
-长春 ChangChun
-太原 TaiYuan
-龙武 Lung Wu
-虎贲 Hu Pen
-飞云 Fei Yuen
-长风 Chang Feng
-伏波 Fu Po
-逸仙 Yi Xian
 宁海 NINGHAI
 平海 PINGHAI
-应瑞 Yingrui
-肇和 Zhaohe
-海天 HaiTien
-海圻 HaiChi
-济安 Chi An
-海容 Hai Yung
-海筹 Hai Chou
-建武 Chien Wu
-彰武 Chang Wu
-寰昌 Huan Ch'ang
-镇海 ChenHai
-华甲 Hua Jia
-定安 Ting An
-哈尔滨 Bin Jiang
-龙骑兵 S_Carabiniere
-文琴佐·焦贝蒂 G.B
-西北风 Maestrale
-西南风 Libeccio
-尼科洛索·达雷科  Captain.Da.Recco
-庞培·马格诺 PompeyTheGreat
-阿尔弗雷多·奥里亚尼 Alfredo 
-埃曼努埃尔·佩萨格诺 Emanuele 
-阿蒂利奥·雷戈洛 Attilio
-焦苏埃·卡尔杜齐  Giosuè Carducci
-乌戈里诺·维瓦尔迪 Ugolino Vivaldi
-阿布鲁齐公爵 C_Abruzzi
-朱塞佩·加里波第 Giuseppe 
-巴托洛梅奥·科莱奥尼 Bartolomeo Colleoni
-阿尔贝托·迪·朱塞诺 Alberto di Giussano
-特伦托 Da Trento
-扎拉 Zara
-波拉 Pola
-的里雅斯特 Trieste
-博尔扎诺 Bolzano 
-戈里齐亚 Gorizia
-维托里奥·维内托 VV_Veneto
-利托里奥 VV_Littorio
-罗马 Roma 
-安德烈亚·多利亚 Andrea
-拉斐尔 Raffaello
-弗朗西斯科·卡拉乔洛 Francesco Caracciolo
-天鹰 Aquila
-帝国 orepmI
-托里拆利  Torricelli
-莱昂纳多·达·芬奇 DaVinci 
-巴拉卡少校 Maggiore Baracca
-马可波罗 Marco Polo
-那不勒斯 Napoli
-维托里奥·库尼贝尔蒂 Cuniberti
-威严 Grozny
-明斯克 Minsk
-塔什干 Ташкент
-神速 cнежок
-雷鸣 ремящий
-洪亮 Громкий
-灵敏 Сообразительный
-基辅 Киев
-火力 Ognevoy
-凶猛 Svirepy
-顽皮 Ozornoy
 阿芙乐尔 Aurora1900
-水星纪念 Pamiat' Merkuria
-恰巴耶夫 Chapaev
-基洛夫 Киров
-古比雪夫 Kuybyshev
-摩尔曼斯克 Мурманск
-伏罗希洛夫 Voroshilov
-奥列格 Oleg
-红色山脉 Krasny Kavkaz
-博加特里 Bogatyr
-塔林 Tallinn
-库尔斯克 Kursk
-莫斯科 Moskva
-甘古特 Gangut
-苏维埃同盟 Sovetsky Soyuz
-苏维埃贝拉罗斯 Proj23.Bel
-苏维埃罗西亚 Proj23.Ros
-阿尔汉格尔斯克 Архангельск
-塞瓦斯托波尔 Sevastopol
-波尔塔瓦 Poltava
-喀山 Kazan 
-伏尔加 Волга
-喀琅施塔得 Кронштадт
-契卡洛夫 Chkalov
-纳希莫夫海军上将 Admiral Nakhimov
-迪米特里·顿斯科伊 Dmitri Donskoi
-凯旋 Le.Triomphant
-福尔班 Forbin 
-鲁莽 L.Téméraire
-倔强 L.Opiniâtre
-大胆 Le hardi
-可怖 Le Terrible
-马耶·布雷泽 Brézé
-埃米尔·贝尔汀 DancerEmile
-圣女贞德 Jeanne d'Arc
-吉尚 Guichen
-迪盖·特鲁因  Duguay-Trouin 
-絮弗伦 Suffren
-布伦努斯 Brennus
-迪凯纳 Duquesne 
-马塞纳 Masséna
-黎塞留 Richelieu
-里昂 Lyon
-阿尔萨斯 Alsace
-贝劳森林 Bois Belleau
-贝亚恩 Béarn
-伴尔维 Painlevé
-絮库夫 P.P.O
-路易九世 S.Louis
-香槟 Champagne
-布雷斯特 Brest
-贝亚德 Bayard
-勒马尔 LeMars 
-塔尔图 Tartu
-沃克兰 Vauquelin
-凯尔圣 Kersaint
-花剑 Fleuret
-重剑 Épée
-莫加多尔 Mogador
+埃尔德里奇 EldridgeCoil
+圣地亚哥 NO1Sandiego!
+埃塞克斯 EssexG1
+长岛 L.I.
+企业 Enterprise
+Z46 viersech
+齐柏林伯爵 TrägerZeppelin
+Z23 Zerstörer.23
+标枪 Javelin☆
+威尔士亲王 TywysogWales
+光辉 Illustrious
+哈曼 DD_Hammann
+拉菲 Lafite.82
+女将 ThornyA
+约克城 YorkTown
 恶毒 VivaLaze
-不屈-王国军守护骑士 L'Indomptable
-果敢 L'Audacieux
-拉·加利索尼埃 Inquisition_G
-马赛曲 Marseillaise
-福煦 Foch
-阿尔及利亚-王国军方旗骑士 Algérie
-迪普莱克斯 Dupleix
-敦刻尔克 gateaumistress
-斯特拉斯堡 Strasbourg
+欧若拉 AuroraRose
 让·巴尔 PirateKnight
-克莱蒙梭 Clemenceau
-霞飞-战斗天使 Joffre
-加斯科涅 GascogneT8
-弗兰德尔 Flandre
-埃佛森 Evertsen
-七省 De Zeven Provinciën
-金狮 Gouden leeuw
-皇家财富号 Royal Fortune
-圣马丁号 São Martinho
-金鹿号 Golden Hind
-玛丽·西莱斯特号 Mary Celeste
-维达号 Whydah
-加里冒险号 Adventure Galley
-冈依沙瓦号 Ganj-i-sawai
-幻想号 Fancy
-和睦号 Amity
-朴茨茅斯冒险号 Portsmouth Adventure
-海豚号 Dolphin
-安妮女王复仇号 Queen Anne's Revenge
-莱姆号 Lyme
-珍珠号 Pearl 
-皇家詹姆斯号 Royal James
-冒险号 Adventure
+俾斯麦 Bismarck
+火奴鲁鲁 Honolulu
+天城 Amagi
+君主 Monarch
+半人马 CenAlpha
+爱宕 Atago
+高雄 Takao
+摩耶 Maya
+鸟海 ToriUmi
+雪风 SnowStorm
+海伦娜 HelenaSG
+格里德利 GL_SaraNo1
+凯旋 Le.Triomphant
+絮库夫 P.P.O
+沃克兰 Vauquelin
+塔尔图 Tartu
+马萨诸塞 2700P.Justice
+黎塞留 Richelieu
+阿尔及利亚 Algérie
+长春 ChangChun
+太原 TaiYuan
+时雨 LuckyShigure
+夕立 NikuSuki
+U-556 U.B.556
+提尔比茨 Tirpitz
+圣路易斯 Lucky Lou
+伊吹 Ibuki
+英王乔治五世 King.George.V
+伊丽莎白女王 QueenEliz
+可畏 Formidable
+胜利 Victorious
+川内 Zendai
+神通 Jintuu
+Z1 L.Maaß
+豪 Howe_Cookies
+英仙座 Per
+赫敏 Hermione
+英勇 Cmdr_Valiant
+伊卡洛斯 Icarus_Wing
+鹰 Eagle
+约克公爵 D_O_Y
+纽卡斯尔 Newcastle
+黛朵 Dido_Doll
+厌战 Warspite
+U-81 U-81
+U-73 U-73
+U-522 U-522
+黑太子 White Princess
+巴尔的摩 Justice_B
+布莱默顿 Bremerton
+香格里拉 Shangri-La
+水星纪念 Pamiat' Merkuria
+大青花鱼 G_Albacore
+扶桑 Fusō
+山城 Yamashiro
+北风 Kitakaze
+拉·加利索尼埃 Inquisition_G
+飞龙 Gokou
+苍龙 Ino·Shika·Cho
+海王星 Neptune
+比叡 Hiei
+纪伊 Kii
+伊势 Isei
+铃谷 Suzu✩
+熊野 Kuma✩
+最上 Mogami
+三隈 Mikuma
+若叶 NutLove
+利托里奥 VV_Littorio
+龙骑兵 S_Carabiniere
+香槟 Champagne
+鲁莽 L.Téméraire
+凉月 Puuta
+威奇塔 G.Wichita
+里诺 HerosAides
+路易九世 S.Louis
+出云 Izumo
+倔强 L.Opiniâtre
+贝亚恩 Béarn
+大潮 Ooshio
+苏维埃罗西亚 Proj23.Ros
+朝潮 Asashio
+塔什干 Ташкент
+吸血鬼 Vampire 
+U-110 HAI_110 
+无畏 The_Fighting_I
+青叶 REPORTER_AOBA
+小天鹅 Cygnet
+春月 HARUTSUKI
+波特兰 INDI_LOVE
+印第安纳波利斯 Indianapolis
+内华达 Nevada
+海咲 Misaki
 玛莉萝丝 Marie
+莫妮卡 Monica
+女天狗 Nyotengu
 穗香 Honoka
 霞 Kasumi
-海咲 Misaki
 凪咲 Nagisa
-女天狗 Nyotengu
-莫妮卡 Monica
+黑潮 Nin_Kuroshio
+西姆斯 Sims
+杰金斯 DD.Jenkins
+拉德福特 DD.Radford
+尼古拉斯 DD.Nick
+库珀 BlackCat
+马布尔黑德 Marblehead
+贝利 Rabbit.Bailey
+里士满 Richmond
+孟菲斯 Memphis
+康克德 Sweet.Concord
+阳炎 Kagerō
+明尼阿波利斯 Minnie.Hunter
+昆西 Quincy
+文森斯 Vincennes
+牙买加 TheFightingJ
+阿斯托利亚 Nasty.Asty
+查尔斯·奥斯本 L.B.Charles
+信浓 Shinano
+奥丁 Odin
+海因里希亲王 Eisen_Fight
+沙恩霍斯特 Scharnhorst
+格奈森瑙 Gneisenau
+美因茨 Mainz
+威悉 Weser
+土佐 Tosa
+花月 FlowerMoon
+新月 Niizuki
+龙骧 Ryūjō
+Z28 Zerstörer28
+U-37 UBoat37
+榛名 Haruna
+Z2 Zerstörer2
+Z24 GreatDevil24
+威严 Grozny
+千代田 Chiyoda
+千岁 Chitose
+比洛克西 Biloxi
+独立 Independence
+应瑞 Yingrui
+肇和 Zhaohe
+格拉斯哥 Glasgow
+恰巴耶夫 Chapaev
+甘古特 Gangut
+明斯克 Minsk
+普林斯顿 Princeton
+圣女贞德 Jeanne d'Arc
+爱斯基摩人 Eskimo
+肯特 Kent
+浦波 Uranami
+德雷克 Drake
+柴郡 CaitSith
+樫野 Kashino
+波拉 Pola
+文琴佐·焦贝蒂 G.B
+扎拉 Zara
+洪亮 Громкий
+摩尔曼斯克 Мурманск
+雷鸣 ремящий
+塔林 Tallinn
+基洛夫 Киров
+神速 cнежок
+苏维埃贝拉罗斯 Proj23.Bel
+尼科洛索·达雷科  Captain.Da.Recco
+西南风 Libeccio
+西北风 Maestrale
+维托里奥·维内托 VV_Veneto
+天鹰 Aquila
+阿布鲁齐公爵 C_Abruzzi
+托里拆利  Torricelli
+U-47 UBoat47
+莫里森 Bear-MKII
+博伊西 USSBOISE
+菲尼克斯 PhoenixBurn
+布鲁克林 Brooklyn
+射水鱼 CharmArcher
+棘鳍 Cavalla
+伊19 I19_sensuisenntai
+旧金山 HappyEveryDay!
+提康德罗加 Ticonderoga
+新泽西 BlackDragon
+撒切尔 L.B.Thatcher
+弗莱彻 Fletcher
+奥利克 L.B.Aulick
+斯彭斯 L.B.Spence
+斯坦利 L.B.Stanly
+艾伦·萨姆纳 A.M.Sumner
+彼得·史特拉塞 FlugzeugträgerB 
 天海春香 Haruka_Amami
 如月千早 Chihaya_Kisaragi
+女灶神 Vestal
 水濑伊织 Iori_Minase
 三浦 梓 Azusa_Miura
 秋月律子 Ritsuko_Akizuki
 双海亚美 Ami_Futami
 双海真美 Mami_Futami
+岛风 Hayaizo
+筑摩 ChiKUMA
+莫里 Maury
+葛城 Misato
+海风 Umikaze
+山风 Yamakaze
+由良 Yura
+杜威 Dewey
+阿贝克隆比 Abercrombie
+白露 Shiratsuyu
+埃米尔·贝尔汀 DancerEmile
+满潮 Michishio 
+荒潮 Arashio
+命运女神 Fortune
+南达科他 SoDakX
+纽伦堡 Nürnberg
+莱比锡 Leipzig 
 狂战帝王古立特 Rikka
 新条茜  Akane
 莲 Hass
@@ -605,33 +305,387 @@ U-552 U.B.552
 南梦芽 Yume
 飞鸟川千濑 Chise
 貉 Mujina
+佐治亚 GA@ColaLove
+乌尔里希·冯·胡滕 U.V.Hutten
+阿达尔伯特亲王 PrinzAdalbert
+U-1206 U.B.1206
+马格德堡 Magdeburg
+易北 Elbe
+U-96 U.B.96
+白龙 Hakuryū
+佩内洛珀 Penelope
+萨福克 Suffolk
+卡萨布兰卡 Casablanca
+镇海 ChenHai
+海天 HaiTien
+海圻 HaiChi
+宾夕法尼亚 Pennsylvania
+布里斯托尔 Bristol
+卡律布狄斯 Charybdis
+宵月 Yoizuki
+亚利桑那 Arizona
+长波 Naganami
+喀琅施塔得 Кронштадт
+基辅 Киев
+伏尔加 Волга
+阿尔汉格尔斯克 Архангельск
+灵敏 Сообразительный
+英格拉罕 Ingraham
+帝国 orepmI
+庞培·马格诺 PompeyTheGreat
+的里雅斯特 Trieste
+胡德 Mighty_Hood
+埃姆登 Emden 
+吕佐夫 Lützow 
+图林根 Thüringen 
+约克 Yorck 
+埃尔宾 Elbing 
+塞德利茨 Seydlitz 
+霍比 Hobby
+前卫 Vanguard
+不挠 Indomitable
+贾维斯 Jervis
+天后 Juno
+司战女神 Bellona
+竞技神 Hermes@Dual
+复仇 Revenge
+丘比特 Jupiter
+萤火虫 Glowworm@Attack
+格伦维尔 Grenville
+埃吉尔 Aegir
+奥古斯特·冯·帕塞瓦尔 August.V.Parseval
+勒马尔 LeMars 
+福尔班 Forbin 
+霞飞 Joffre
+不屈 L'Indomptable
+进取 RoyalMaid.E
+可怖 Le Terrible
+那珂 Naka
+罗马 Roma 
+莱昂纳多·达·芬奇 DaVinci 
+朱塞佩·加里波第 Giuseppe 
+埃曼努埃尔·佩萨格诺 Emanuele 
+阿尔弗雷多·奥里亚尼 Alfredo 
+博尔扎诺 Bolzano 
+武藏 Musashi
+酒匂 Sakawa 
+羽黑 Haguro 
+深雪 Miyuki 
+白雪 Shirayuki 
+足柄 Ashigara
+马耶·布雷泽 Brézé
+俄克拉荷马 Oklahoma
+日向 Hyūga
+朱诺 Juneau
+亚特兰大 Atlanta
+雅努斯 Janus
+阿尔比恩 Albion
+曼彻斯特 Manchester
+黑暗界 Erebus
+恐怖 Terror
+格罗斯特 Gloucester
+华盛顿 Washington
 莱莎琳·斯托特 Reisalin Stout
 科洛蒂娅·巴兰茨 Klaudia Valentz
 帕特莉夏·阿贝尔海姆 Patricia Abelheim
-莉拉·德西亚斯 Lila Decyrus
 赛莉·古劳斯 Serri Glaus
+莉拉·德西亚斯 Lila Decyrus
+北安普敦 Northampton
+兰利 Langley
+定安 Ting An
+忒修斯 Theseus
+古比雪夫 Kuybyshev
+华甲 Hua Jia
+布雷斯特 Brest
+普利茅斯 Plymouth
+哈尔滨 Bin Jiang
+契卡洛夫 Chkalov
+鲁普雷希特亲王 Prinz-Rupprecht
+怨仇 Implacable
+斯库拉 Scylla
+英雄 Hero
+百眼巨人 Argus
+皇家橡树 RoyalOak
+Z16 F.Eckoldt
+博格 Bogue
+勇敢 Hardy
+伏罗希洛夫 Voroshilov
+塞瓦斯托波尔 Sevastopol
+库尔斯克 Kursk
+雷根斯堡 Regensburg
+亚德 Jade
+奥托·冯·阿尔文斯莱本 Alvensleben
+戈里齐亚 Gorizia
+阿蒂利奥·雷戈洛 Attilio
+安克雷奇 Anchorage
+亲潮 Oyashio
+安德烈亚·多利亚 Andrea
+克莱蒙梭 Clemenceau
+伴尔维 Painlevé
+吉尚 Guichen
+絮弗伦 Suffren
+布吕歇尔 Blücher
+福煦 Foch
+里昂 Lyon
+凯尔圣 Kersaint
+凤翔 Hōshō
+云仙 Unzen
+尾张 owari
+初月 Hatsuzuki
+名取 Natori 
+朝凪 Asanagi
+神风 Kamikaze
+圣马丁号 São Martinho
+皇家财富号 Royal Fortune
+玛丽·西莱斯特号 Mary Celeste
+水无月 Minazuki
+反击 Repulse
+胡蜂 Wasp
+维达号 Whydah
+卡辛 Cassin
+金鹿号 Golden Hind
+加里冒险号 Adventure Galley
+矶风 Isokaze
 飞鸟 Asuka
 斑鸠 Ikaruga
-焰 Homura
-雪泉 Yumi
-雪不归 Fubuki
-紫 Murasaki
 夕烧 Yūyaki
+紫 Murasaki
+焰 Homura
+雪不归 Fubuki
+雪泉 Yumi
+关岛 Guam
+星座 Constellation
+列克星敦 Lexington
+松鲷 Flasher
+圣哈辛托 San Jacinto
+阿贾克斯 Ajax
+路易斯维尔 Louisville
+休斯敦 Houston
+奇尔沙治 Kearsarge
+兴登堡 Hindenburg
+四万十 Shimanto
+菲利克斯·舒尔茨 Felix Schultz
+弗兰德尔 Flandre
+风云 Kazagumo
+寰昌 Huan Ch'ang
+飞云 Fei Yuen
+济安 Chi An
+龙武 Lung Wu
+虎贲 Hu Pen
+声望 Renown
+苏维埃同盟 Sovetsky Soyuz
+本森 Benson
+火力 Ognevoy
+波尔塔瓦 Poltava
+凶猛 Svirepy
+努比亚人 Nubian
+利物浦 Liverpool
+德文郡 Devonshire
+阿尔萨斯 Alsace
+布伦努斯 Brennus
+花剑 Fleuret
+重剑 Épée
+莫加多尔 Mogador
+猎人 Hunter
+西雅图 Seattle
+亚尔薇特 Hervör alvitr
+Z47 ☆WildeKatze47☆
+U-31 Unbeschwert31
+Z43 Z·DEVIL·43
+小海伦娜 HelenaSG@little
+小圣地亚哥 NO1Sandiego!@little
+小齐柏林 TrägerZeppelin@little
+小克利夫兰 Cleveland☆Knight@little
+斯特拉斯堡 Strasbourg
+腓特烈·卡尔 Friedrich Carl
+马赛曲 Marseillaise
+迪普莱克斯 Dupleix
+果敢 L'Audacieux
+法戈 Fargo
+匹兹堡 Pittsburgh
+印第安纳 Indiana
+鲱鱼 Herring
+贝尔 Bell
+瑞凤 Zuihō
+那不勒斯 Napoli
+布什 Bush
+文月 Fumizuki
+渡良濑 Watarase
+绫濑 Ayase
+凉波 Suzunami
+卷波 Makinami
+哈尔福德 Halford
+冈依沙瓦号 Ganj-i-sawai
+幻想号 Fancy
+和睦号 Amity
+朴茨茅斯冒险号 Portsmouth Adventure
+海豚号 Dolphin
+马可波罗（王座 前排） Marco Polo
+陆奥 Mutsu
+确捷 Swiftsure
+纳希莫夫海军上将 Admiral Nakhimov
 菈菈·撒塔琳·戴比路克 Lala Satalin Deviluke
 娜娜·阿丝达·戴比路克 Nana Asta Deviluke
 梦梦·贝莉雅·戴比路克 Momo Belia Deviluke
 金色暗影 Konjiki no Yami
 西连寺春菜 Sairenji Haruna
 古手川唯 Kotegawa Yui
+三日月 Mikazuki
+弗里茨·鲁梅 Fritz Rumey
+杜伊斯堡 Duisburg
+Z9 Wolke9
+Z11 Z11_Spielefan
+Z52 Blitz-Z52
+斐济 Fiji
+阿基里斯 Achilles
+大山 Daisen
+贝亚德 Bayard
+Z26 Zuverlässig_26
+建武 Chien Wu
+海容 Hai Yung
+长风 Chang Feng
+伏波 Fu Po
+圣胡安 San Juan
+U-557 U-557
+拉斐尔 Raffaello
+巴拉卡少校 Maggiore Baracca
+焦苏埃·卡尔杜齐  Giosuè Carducci
+巴托洛梅奥·科莱奥尼 Bartolomeo Colleoni
+富兰克林 Franklin
+圣塔菲 Santa Fe
+米勒 Miller
+北卡罗来纳 North Carolina
+七省 De Zeven Provinciën
+埃佛森 Evertsen
+金狮 Gouden leeuw
+喀山 Kazan 
+奥列格 Oleg
+狮 Lion
+特拉法尔加 Trafalgar
+克利奥佩特拉 Cleopatra
+勇气 Gallant
+特立尼达 Trinidad
+科罗拉多 Colorado
+马里兰 Maryland
+西弗吉尼亚 West Virginia
+江风 Kawakaze
+曾克海军上将 Admiral Zenker
+U-552 U.B.552
+Z13 AAAZielplanerin13
 优米雅·利斯菲尔德 Yumia Liessfeldt
 艾菈·冯·杜勒 Isla von Duerer
 妮娜·弗里德 Nina Friede
 蕾妮雅 Lenja
+马塞纳 Masséna
+贝劳森林 Bois Belleau
+大胆 Le hardi
+迪凯纳 Duquesne 
+迪盖·特鲁因  Duguay-Trouin 
+白凤 Hakuhō 
+伊404 I404 
+近江 Omi
+浅间 Asama 
+水无濑 Minase
+妙风 Taekaze
+热心 Ardent
+奥马哈 Omaha
+维托里奥·库尼贝尔蒂 Cuniberti
 赫斯缇雅 Hestia
 琉·璃昂 Ryu Lion
+安妮女王复仇号 Queen Anne's Revenge
+莱姆号 Lyme
+珍珠号 Pearl 
+皇家詹姆斯号 Royal James
+冒险号 Adventure
+初春 Hatsuharu
 夜刀神十香 Tohka Yatogami
 鸢一折纸 Origami Tobiichi
 五河琴里 Kotori Itsuka
 四糸乃 Yoshino
 时崎狂三 Kurumi Tokisaki
 八舞耶俱矢·八舞夕弦 Kaguya Yamai・Yuzuru Yamai
+威廉·D·波特 William D. Porter 
+克拉伦斯·K·布朗森 Clarence K. Bronson
+帕萨迪纳  Pasadena
+科本斯 Cowpens
+列克星敦II Lexington
+艾尔温 Aylwin
+梅克伦堡 Mecklenburg
+迪米特里·顿斯科伊 Dmitri Donskoi
+滨风 Hamakaze
+堪萨斯 Kansas
+弗朗西斯科·卡拉乔洛 Francesco Caracciolo
+阿尔贝托·迪·朱塞诺 Alberto di Giussano
+乌戈里诺·维瓦尔迪 Ugolino Vivaldi
+阿拉巴马 Alabama
+藤波 Fujinami
+彰武 Chang Wu
+海筹 Hai Chou
+Z25 Zerstörer.25
+莫斯科 Moskva
+顽皮 Ozornoy
+红色山脉 Krasny Kavkaz
+博加特里 Bogatyr
+突击者 Ranger
+罗德尼 Rodney
+云龙 Unryū
+木津 Kizu
+名寄 Nayoro
+伊168 I168
+有明 Ariake
+追赶者 Chaser
+Z20 Karl Galster
+朱利奥·凯撒 Giulio Cesare
+麦考尔 McCall
+马拉尼 Mullany
+金伯利 Kimberly
+U-2501 U-2501>w<
+Z14 Zerstörer14
+Z15 Fahrzeugkiller15
+莫里茨亲王 Prinz Moritz
+葛兹·冯·伯利欣根 Götz von Berlichingen
+苏塞克斯 Sussex
+克雷文 Craven
+瑟堡 Cherbourg 
+阿罗芒什 Arromanches 
+无惧 L'Intrépide 
+加富尔伯爵 Conte di Cavour
+富特 Foote
+哈尔西·鲍威尔 Halsey Powell
+华丽 Superb
+萨里 Surrey
+格里芬  Griffin
+伦敦 London
+布伦希尔德 Brünhilde
+史蒂芬·波特 Stephen Potter
+斯莫利 Smalley
+天津风 Amatsukaze
+约克 York
+本宁顿 Bennington
+柯莱特 Collett
+哈里森 Harrison
+维克斯堡 Vicksburg
+约翰·罗杰斯 John Rodgers
+浦风 Urakaze
+彭萨科拉 Pensacola
+什罗普郡 Shropshire
+马克斯·殷麦曼 Max Immelmann
+虎 Tiger
+安土 Azuchi
+伊14 I14
+匆忙 Hasty
+敌对 Hostile
+伊13 I13
+加古 Kako
+野分 Nowaki
+高梁 Takahashi
+长月 Nagatsuki
+隼鹰 Jun'yō
+水星号 Mercury
+铁角号 Jernbarden
+塞利米耶号 Selimiye
+长蛇号 Ormen Lange
+雷伊尔·贝号 Real bey
+新月 Crescent
+新奥尔良 New Orleans
+狐提 Foxhound

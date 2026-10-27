@@ -1,0 +1,1051 @@
+== 怪談紀實：逃離白夜山莊！ ==
+{{折叠面板|开始}}
+{{折叠面板|标题=住院|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+1 入院<br>
+休息日的午後，我來到遊樂園，打算久違地放鬆身心。<br>
+就在這時，一棟從未見過的建築吸引了我的注意。<br>
+建築入口處，一塊破爛的木牌上歪歪扭扭地寫著這樣幾個字：<br>
+「白夜山莊——劃時代的恐怖怪談之地！超刺激！超可怕！」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是……新開的鬼屋？<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+嘻嘻嘻~不是鬼屋哦~<br>
+一直以來，人們都沒能真正理解怪談的可怕之處……但現在，一切都不一樣了！<br>
+我運用超大場地，超多預算，再加上我無與倫比的怪談天賦——<br>
+終於打造了這座超大型怪談逃生遊戲！在這裡，那些幾乎被遺忘的稀世怪談，都將再度降臨！<br>
+現在正在絕讚測試中哦~！<br>
+怎麼樣，指揮官要不要試試看？<br>
+如此獨一無二的怪談體驗，一定能讓你永生難忘~嘻嘻嘻~<br>
+<br>
+莫里茨親王天花亂墜的誇張描述，確實讓我對這個「逃生遊戲」有了興趣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……那就試試吧？）<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+指揮官的眼神我看懂了呢~現在請跟我來吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（明明什麼都沒說……看來是已經打定主意了啊。）<br>
+<br>
+莫里茨親王牽起我的手，拉著我走進建築內部。從內部裝潢來看，這裡似乎是一間小診所的接待處。<br>
+昏暗的燈光中，她將一張病床推到了我的身邊。<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+指揮官準備好了的話，就請戴上眼罩，躺上來吧~<br>
+接下來，我將帶你前往傳說中的——白夜山莊病院……<br>
+請拼盡全力，逃出生天吧~<br>
+<br>
+在一片漆黑中，我失去了對所在位置的判斷力，就這樣不知道過了多久……<br>
+伴隨著一陣嘎吱作響的開門聲，兩道高跟鞋踩在地面上的清脆腳步聲，一前一後地朝我逼近。<br>
+<span style="color:#4eb24e;">？？？？：</span><br>
+壯麗院長，今天新入院的病人已經到了呢~<br>
+<br>
+眼罩被摘了下來，在用幾秒鐘適應了眼前的景象之後，我終於看清了……<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+新的病人？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+準確來說，應該是新的實驗品。<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+啊……請您稍等一下。<br>
+您來得比我預想中還要早一些，我還來不及換上見您時該有的著裝。<br>
+<br>
+壯麗動作俐落地拉上了我們之間的床簾，簾後傳來一陣窸窸窣窣的輕響，沒多久，床簾便再次被拉開。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+看起來……沒什麼變化？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好像有些不同……？<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+呵呵，指揮官怎麼一副驚訝的樣子？是還不了解自己的處境嗎？<br>
+您可是難得一見的珍貴樣本……從踏入這裡的那一刻起，您就已經是我的所有物了。<br>
+無論如何，我們都會把您留在這裡。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+請安心做好在這裡度過餘生的準備吧~<br>
+我們會一起，非常用心地「照顧」您的。<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+——歡迎來到白夜山莊，指揮官。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=病房逃生！|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+2 病房逃生！<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+我去辦理入院手續，妳要好好看住指揮官哦，普利茅斯護士長。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+壯麗的腳步聲逐漸遠去，房間裡只剩下我和普利茅斯。<br>
+那就由普利茅斯來陪您吧，指揮官大人~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（必須趁現在想辦法脫身……等壯麗回來，就更沒機會了。）<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+束帶牢牢固定四肢，我只能勉強轉動脖頸，觀察病房內的佈置，試圖尋找任何能利用的東西。<br>
+指揮官大人在找東西嗎？如果有什麼需要，請直接告訴普利茅斯哦。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……我只是有點口渴，能給我水嗎？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+好的指揮官大人，我會滿足您所有合理的要求喔。<br>
+普利茅斯把水杯拿了過來，但她看著我眉頭微微皺起，似乎有點犯了難。<br>
+雙手被綁住的話，要怎麼喝水呢……<br>
+嗯……有了！<br>
+普利茅斯雙眼一亮，忽然有了主意。<br>
+下一刻，她含起一口水緩緩靠近，在我尚未來得及理解她的意圖時，唇上便傳來一陣柔軟的觸感。<br>
+甘甜清冽的水流，順著唇瓣縫隙進入我的口腔……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+唔……咳、咳咳……<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+指揮官大人，嗆到您了……？<br>
+對不起，明明我應滿足您的所有需求，保證您處在絕對舒適的環境，卻犯了這種錯誤……<br>
+為指揮官大人的安全著想，現在必須做一套全面的身體檢查才行！<br>
+不等我說什麼，普利茅斯已經跨坐到我的身上了。<br>
+她小心地解開我胸前的衣扣，將耳朵輕輕貼在我的胸口。<br>
+體溫……偏高，心跳……偏快……需要進行緊急處理。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+應急處理是指？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+指揮官大人，請您保持安靜，我馬上就能……讓您舒適起來……<br>
+她保持著坐在我腿上的姿勢，雙手開始在我的身上遊走。<br>
+舒適的觸感不斷傳來，持續不斷的熱意驅散著身體的不適，連帶著思緒都被攪得有些混沌。<br>
+過了好一段時間，她的按摩才告一段落。<br>
+指揮官大人，還有哪裡不舒服嗎？<br>
+如果還需要什麼的話，請儘管告訴我吧，普利茅斯都會滿足您哦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+其實是這些束帶的問題……被綁著實在很難受。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+嗯……這樣的空間，確實不夠您舒展。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+那就拜託妳幫我放開一些？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+我有個更好的辦法！現在就幫您全部解開吧~<br>
+比我預想的展開更好，普利茅斯幾乎沒有猶豫，便俯身替我解開了全身的束縛。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+感覺好多了。謝謝妳，普利茅斯。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+能幫上您就太好了~當然，作為束帶的替代……無論您要去哪裡，普利茅斯都會陪在您身邊，好好看著您的。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+既然這樣，那我們就一起行動吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=無限迴廊|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+3 無限迴廊<br>
+在普利茅斯的幫助下，我順利離開了病房。<br>
+天色已晚，走廊裡一片漆黑，只有幾間病房裡透出微弱光亮。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這裡除了我還有其他病人？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+是的，她們也在壯麗院長的「手術」名單上哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+多一個同伴多一份力量，把她們也救出來吧。<br>
+<br>
+普利茅斯用萬能鑰匙打開了所有病房的門鎖，緊接著，急促的腳步聲從我們面前的病房傳來——<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+哇！不要抓我去改造呀！我還有好多八卦沒聽完呢……救命——！<br>
+<br>
+砰——！<br>
+門一開，身著病人服的聖塔菲就徑直衝了出來，一頭撞進我懷裡。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+嗚……好痛……是、是指揮官？！你來救我了嗎~太好啦~！<br>
+等等……你怎麼跟那個可怕的護士長在一起？！難道說，指揮官已經被她們改造成僕人了？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+別擔心，普利茅斯護士長現在是我們的同伴。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+只要是指揮官大人的命令，普利茅斯都會認真完成~<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+欸？！真的假的？！<br>
+<span style="color:#4eb24e;">Z11：</span><br>
+那個，發生什麼事了？<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+需要幫忙嗎？<br>
+<br>
+另外兩間病房的病人聽見動靜後，也小心翼翼地探出頭來。<br>
+我們幾人聚在病房裡，簡單交換了一下情報。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+莫里茨親王跟我說，她知道一個藏著超勁爆消息的地方~所以我就同意參加測試了喵哈哈~<br>
+但是她沒告訴我，這裡這麼恐怖啊……！<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+我只是偶然碰到莫里茨親王到處找人幫忙……<br>
+她拜託我的時候，我、我實在不好意思拒絕……然後被套上眼罩，送到這裡來了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以說，妳們三個都跟我一樣，是莫里茨親王找來測試的玩家？<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+不是哦，薩里不是玩家……<br>
+三年前，我因病入住了這座白夜山莊病院。一切還要從那個風雨交加的夜晚說起……<br>
+<br>
+數小時後——<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+……從此之後，再也沒有人活著離開白夜山莊……事情就是這樣。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+（哈欠——）咦……？現在幾點了……？<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+Zzz……<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+我還是第一次知道白夜山莊藏著這樣黑暗的秘密……<br>
+<br>
+'''''<span style="color:black;">选择项1：好直接的背景設定介紹方式</span>'''''<br>
+'''''<span style="color:black;">选择项2：完全沒記住……</span>'''''<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+需要我再講一次嗎？<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+欸、欸欸？！還是不了吧……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（看來薩里是逃生遊戲的新手教學NPC……既然她沒有惡意，可以帶著她一起行動……說不定有用。）<br>
+事不宜遲，我們一起去尋找逃離白夜山莊的方法吧。<br>
+<span style="color:#4eb24e;">眾人：</span><br>
+出發！<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+指揮官……你有沒有感覺，氣氛突然變得陰森起來了……<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+這條走廊，怎麼這麼長啊……走了這麼久都看不到頭……<br>
+<br>
+害怕的聖塔菲和Z11一左一右抱住了我的手臂，普利茅斯也毫不相讓地從後面抱住了我的脖子……<br>
+就這麼緊緊湊在一起，緩緩前進著。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+前面的房間是……盥洗室？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+奇怪，這個房間，我們剛才已經經過了吧？<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+難道說……我們被困在這裡了……！<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+說起來，我之前聽過這樣一個怪談……是我朋友的朋友告訴我的——<br>
+曾經，有個病人因為睡過頭錯過了洗漱時間，只能在宵禁後偷偷離開病房，想去盥洗室洗臉。<br>
+但那天夜裡，走廊像是沒有盡頭一樣，無論怎麼走都到不了頭。等她終於抵達盥洗室時，已經是午夜了。<br>
+她鬆了口氣，走進去，像往常一樣擰開了水龍頭——下一秒，一聲淒厲的慘叫響徹了整個白夜山莊……<br>
+從那之後，再也沒人見過那個病人。<br>
+<br>
+薩里話音剛落，午夜的鐘聲緩緩響起，沉悶地迴盪在空蕩蕩的病院深處。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+走不到頭的長廊……午夜鐘聲……和薩里故事裡說的一樣啊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不過聽起來，似乎只要我們不打開水龍頭，就不會有事？<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+指、指揮官說得對……！只要不開水龍頭就行~這麼一想好像也沒有那麼可怕呢~<br>
+<br>
+（嘩啦——嘩啦！）<br>
+震耳欲聾的水流聲充滿了整個盥洗室，水龍頭不知道什麼時候打開了……而薩里正站在水龍頭前認真地洗臉。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+哇！！！妳在幹什麼啊——！不是說好了不能開水龍頭的嗎？！<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+可是院長說過，必須隨時保持個人衛生，所以我每次經過盥洗室都會清潔身體……<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+吼——<br>
+<br>
+話音未落，窗外的半空中，一道瘦高的巨大黑影憑空出現，掠過的巨爪將薩里整個人拽出了窗戶。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+哇啊啊——！薩里——！<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+窗外有怪物啊——！快跑！<br>
+<br>
+還未反應過來，我就被同伴們拖著往未知的前方衝去。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+指、指揮官……我真的跑不動了……<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+可是，那個大個子怪物還在追我們。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+嗚嗚嗚……薩里已經被抓走了，再這樣下去，我們也要一起完蛋了啦……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+奇怪……<br>
+妳們看，那個怪物和我們的距離，是不是越來越遠了？<br>
+<br>
+聽到我的話，眾人慢慢停下了腳步，開始仔細觀察身後的「怪物」。<br>
+只見那瘦高的身影此時正搖搖晃晃地邁著吃力的小碎步，慢吞吞向我們這邊挪動。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+……前進的速度，好像變慢了？<br>
+<br>
+怪物的身體晃動的幅度越來越大，幾乎要完全失去平衡——<br>
+轟——！<br>
+<span style="color:#4eb24e;">撫順&飛雲&伏波：</span><br>
+哎呀……！<br>
+<br>
+「瘦長鬼影」轟然倒地，三個熟悉的小小身影手忙腳亂地鑽了出來。<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+好重好重，我不行了——<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+怪物解體了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……撫順，飛雲……伏波？<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+穿幫了穿幫了……！快撤！<br>
+<br>
+三個人拖著「怪物」的外皮，一溜煙消失在了走廊盡頭的黑暗中。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=遊戲的幕後|选项=4|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+4 遊戲的幕後<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+糟了糟了，這下當著指揮官的面穿幫了！！<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+已、已經力竭了！我在最底下背著妳們兩個，還有那麼重的道具服跑了那麼遠……！早就到極限了好嗎！<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+上面的人也是很辛苦的……！在窗外待機的時候，可是飛雲大人一直抓著鋼絲懸吊裝置呢！手都酸了……<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+所以說嘛，讓場務臨時頂班來疊羅漢扮演瘦長鬼影什麼的……根本就做不到啦！<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+大家消消氣，消消氣！用這種方法疊羅漢也是沒辦法的辦法囉。<br>
+原本這個怪物應該是由一個演員配合無人機投影來完成的，效果很好的……<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+但現在，所有無人機都被莫里茨親王徵用去做「超超超終極恐怖怪談」了。<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+第一次聽到有這麼個環節……劇本上真的有寫嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+沒辦法~我們也是今天早上才知道的啦，估計是她突發奇想新加的吧。<br>
+<span style="color:#4eb24e;">莫里茨親王：</span><br>
+嘻嘻嘻，真叫人期待呢~「超超超終極恐怖怪談」的機關，全部準備就緒~<br>
+接下來就等指揮官把遊戲流程推進到ICU病房這關了~<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+不過……如果一直找不到莫里茨親王的話，以我們現在這一團亂的狀態，真的還能繼續演完逃生遊戲嗎……<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+別灰心嘛~重新想起來吧！我們白夜山莊逃生遊戲工作人員的終極目標，到底是什麼？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+嗯……拼盡全力嚇到所有玩家？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+錯！大錯特錯！要是玩家嚇到不敢出房間，遊戲就沒辦法結束了！<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+既然這樣，那我們直接解除所有機關，把玩家全部送走怎麼樣！省時省力！<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+感覺好像太簡單了欸~<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+那我知道了！我們可以為玩家設定剛好能夠通過的考驗，讓她們艱難通關！<br>
+這樣，玩家才會感到投入、滿足……以及意猶未盡？和與強者戰鬥的感覺一樣嘛！<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+沒錯！所以啊，只要能夠達成這個目標——<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+不管中途發生什麼樣的意外，都無所謂……！<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+就算是怪物當面散架這樣的穿幫狀況……？<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+那些細枝末節根本不重要~<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+Z13說得對！大家一起來拼盡全力，大幹一場吧！加油！<br>
+<span style="color:#4eb24e;">眾人：</span><br>
+加油！！！<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+不錯~趁著這股氣勢，一起籌備下一關！<br>
+根據劇本，接下來玩家們需要在病院內部找到大門的鑰匙……<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+等等，Z13。<br>
+監視器發現了異常情況……玩家們已經離開病院，跑到戶外區域了。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+什麼？！這怎麼可能？！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=渡河|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+5 渡河<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+指揮官~我們終於逃出來啦~<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+想不到那些護士居然拿鏡子擋住了真正的出口……太狡猾了喵！<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+在昏暗環境裡佈置鏡面，確實是很有效的障眼法……<br>
+幸好指揮官及時發現，不然我們現在大概還在那條走廊上原地打轉呢。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+不過……山莊的正門被好複雜的東西鎖住了……有指紋鎖和密碼鎖，甚至有虹膜辨識裝置……？<br>
+總覺得我們收集好多道具才能打開的……我們這樣直接從旁邊出來，真的不要緊嗎……？<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+怎麼可能有問題啦~你看，正門旁邊那扇窗戶根本沒關，一翻就翻出來了~<br>
+這麼明顯的線路指引，怎麼看都在說「請走這裡」吧？那個大門肯定只是裝飾啦~<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+到底是誰——沒把窗戶關好——！<br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
+窗戶，是壯麗讓獨角獸開的……她說，病院必須時常開窗通風……<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+嗚哇哇……但現在病人都跑掉啦！<br>
+我們精心準備的重重封鎖，居然直接被秒了……<br>
+<span style="color:#4eb24e;">獨角獸：</span><br>
+也、也就是說，指揮官哥哥現在已經通關啦？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+呵呵，別慌~只是離開了病院大樓而已，離通關還遠著呢！外圍的關卡更是困難哦！<br>
+<br>
+沿著山莊外圍唯一一條道路前進後，我們很快就來到了一條河流前。<br>
+原本橫跨河面的木橋早已斷裂，只剩下幾截殘破的橋板在水面上搖搖欲墜。<br>
+想要前往對岸，顯然只能另想辦法。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+這也太像恐怖故事裡會出現的展開了吧……<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+河上的霧氣這麼重，會不會藏著什麼奇怪的東西！<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+大家先別緊張，那邊的河岸旁，好像停著什麼？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+難道是船？要是能渡船到對岸的話，我們就可以逃走了。<br>
+<br>
+沿著普利茅斯所指的方向走去，河邊果然停著一艘小船，而船上的人影，居然莫名有些眼熟……<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+呼——呼——乘船渡河，價格實惠……<br>
+<br>
+'''''<span style="color:black;">选择项1：妳是薩里？</span>'''''<br>
+'''''<span style="color:black;">选择项2：好熟悉的病人服</span>'''''<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+薩里？！妳、妳不是被怪物抓走了嗎……？<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+你們認錯人了……<br>
+我是遠道而來的擺渡人，負責把需要幫助的人送到對岸…<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+不管怎麼看，妳都是薩里吧？連病人服都沒換！<br>
+<span style="color:#4eb24e;">薩里：</span><br>
+……<br>
+Z13……現在怎麼辦……<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+別慌，妳照我說的念就行~<br>
+我的名字是里薩~<br>
+<span style="color:#4eb24e;">里薩：</span><br>
+我的名字是里薩~<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+你們大概是把我跟我失散多年的妹妹搞混了~<br>
+<span style="color:#4eb24e;">里薩：</span><br>
+你們大概是把我跟我失散多年的妹妹搞混了~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這個解釋是不是太勉強了。<br>
+<span style="color:#4eb24e;">里薩：</span><br>
+這個解釋是不是太勉強了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳學錯人了。<br>
+<span style="color:#4eb24e;">里薩：</span><br>
+……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……時間緊迫……既然有船，還是先過河再說吧。<br>
+<br>
+就這樣，我們登上了薩里的小船，沿著水流緩緩地向對岸駛去。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+太好啦~照這個節奏下去，我們很快就能順利通關了吧！<br>
+<br>
+'''''<span style="color:black;">选择项1：沒錯，意外地相當順利。</span>'''''<br>
+'''''<span style="color:black;">选择项2：這種時候還是先別立flag比較好……</span>'''''<br>
+<br>
+話音未落，河面上的霧氣忽然變得濃重起來。<br>
+<span style="color:#4eb24e;">里薩：</span><br>
+說起來，我以前聽過一個和這條河有關的怪談……是我朋友的朋友告訴我的——<br>
+很久以前，有個病人試圖遊過這條河，逃離白夜山莊。但她才游到一半，就沉進了水里，再也沒有浮上來……<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+怎麼有種似曾相識的感覺……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我有不好的預感。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+雖然很想知道後續但是……現在停下來還來得及哦？<br>
+<span style="color:#4eb24e;">里薩：</span><br>
+從那以後，每當有人想渡河離開這裡時，就會在水霧深處，看見那個徘徊不去的——<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+噶哦——！<br>
+<br>
+突然間，一道黑影從河水中躍起，還沒等我們反應過來，擺渡人薩里就已經被黑影一把拖進河裡了。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+哇——！一定是溺水病人的亡靈來復仇了……！<br>
+<span style="color:#ff9b93;">U-110：</span><br>
+才不是哦，U-110是鯊魚，才不是什麼亡靈呢！<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+鯊、鯊魚……？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+為什麼河裡會有鯊魚？<br>
+<span style="color:#ff9b93;">U-110：</span><br>
+有就是有啦！而且，U-110不會讓你們就這樣逃走的哦！<br>
+<br>
+U-110高高揚起腦袋，對著船身就是一記頭槌。<br>
+砰——！<br>
+木船應聲斷成了兩截，河水瞬間淹沒了頭頂……<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+為什麼河裡會有鯊魚？！太強了！我都熱血沸騰了！<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+我沒記錯的話，劇本這一段登場的怪物應該就是亡靈吧？<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+而且薩里還沒換掉上一幕的衣服……<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+哎呀，這個嘛……妳們聽我解釋~<br>
+原本的計畫裡，指揮官應該先在醫院裡收集一大堆鑰匙，才能打開病院正門……現在這些流程全被跳過了！<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+對哦？扮演亡靈的演員還在病房扮幽靈，根本來不及趕到河邊……<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+所以只能臨時找演員組的其他人頂上了啦！U-110剛好有空嘛~<br>
+反正鯊魚也挺有怪談感的？莫里茨親王在的話一定也不會有意見的~<br>
+<span style="color:#4eb24e;">莫里茨親王：</span><br>
+嘿嘿嘿~之前的劇情怎麼樣都無所謂了，只要指揮官能體驗到我最完美的傑作——「超超超終極恐怖怪談」……<br>
+不過……指揮官怎麼還沒來？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=古怪的門扉|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+6 古怪的門扉<br>
+好不容易擺脫了U-110的攻擊後，我游回了岸邊。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……莫里茨親王設計的逃生遊戲，果然沒有這麼容易通關。<br>
+這麼一想，獨自通關的難度肯定更大……還是先找到其他走失的同伴吧。<br>
+<br>
+正當我沿著河岸四處搜尋時，被樹叢掩護下一處格格不入的景象吸引了注意——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是……地堡？<br>
+<br>
+在成片的樹木與山石之間，竟突兀地嵌著一段混凝土隧道。<br>
+隧道盡頭是一扇厚重的金屬門，此刻，那扇門正敞開了一道可供人通過的縫隙。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……難道是聖塔菲她們開的門？<br>
+唔，進去看看吧。<br>
+<br>
+穿過金屬門後，我來到了一條狹長的走廊。<br>
+走廊兩側堆滿了雜物，廢棄的佈景板、纏成一團的電線，還有幾台不知用途的設備。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+為什麼病院附近會有這種地方……<br>
+<br>
+帶著疑問，我一邊尋找同伴的蹤跡，一邊繼續往通道深處走去。<br>
+沒多久，一扇半掩著的門出現在走廊盡頭了——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+普利茅斯——聖塔菲——Z11——！妳們在嗎？<br>
+<br>
+呼喊聲在偌大的房間裡迴盪著，卻沒有得到任何回應。<br>
+房間中擺滿了大大小小的監視螢幕，在這裡可以隨時監視山莊裡的各個地點。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這麼多監視畫面……這裡是醫院的監視器？<br>
+不過，聖塔菲她們看起來不在這裡……<br>
+<br>
+四處打量時，視線落在了桌上。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+桌上這些對講機，是護理師們互相聯絡的工具嗎？<br>
+拿上吧，說不定能派上用場……嗯，看來這裡沒有其他線索了，去別處看看吧。<br>
+<br>
+隨著房門重新關上，監控室內恢復了寂靜。<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+…………<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+指揮官怎麼跑到後台來了……？！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+我怎麼知道！這裡明明已經夠隱蔽了啊！正常來說不可能被發現才對……<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+我、我們先出去吧……這裡面，實在太擠了……<br>
+<br>
+「轟」的一聲巨響，房間角落的置物櫃櫃門應聲彈開，擠成一團的幾人從裡面狼狽地滾了出來。<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+咳、咳……！總之，先想辦法避免指揮官走得更深吧！<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+說得對！格里芬，妳先換上衣服拖住指揮官，我呼叫支援——<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+欸？！我也要演嗎！<br>
+先套上……手臂伸出來……扣上釦子……<br>
+很好，截至目前為止都很順利！得再快一點……嗚哇？！<br>
+釦子都崩開了？！還有上衣下擺也——<br>
+<br>
+沿著走廊繼續前進後，我看到了一間掛著「員工專用」門牌的房間，少女的聲音從裡面傳來。<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+Z13——這不是我的尺寸——<br>
+我推門進去，果然看到了手忙腳亂的格里芬。<br>
+嗚哇？！指揮官什麼時候進來的！我……我衣服還沒換完呢！！<br>
+<br>
+'''''<span style="color:black;">选择项1：抱歉，那我先出去？</span>'''''<br>
+'''''<span style="color:black;">选择项2：妳看起來需要幫忙。</span>'''''<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''指揮官好貼心……不、不對，不行！別走！！<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''需要幫助？呃……啊！沒、沒錯！<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+這裡、這裡有一位少女需要妳的幫助喔！<br>
+指揮官，能借我幾分鐘時間，幫我把衣服穿好嗎？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……當然可以。<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+格里芬見狀便安心地背過身，要我幫她整理腰身附近有些起皺的白色絲襪。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+不過，這身裝扮……<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+我順勢靠近，透過整理絲襪的動作，達成了限制對方行為的目的。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+妳是和壯麗一夥的護士？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+呃？……我、我當然……<br>
+格里芬愣了一下，在察覺到我這番行動的意圖後，她瞬間漲紅了臉猛地搖頭否認。<br>
+不是不是，我當然不是院長的眼線！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+真的不是嗎？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+指尖在軟軟的肚肉上彈出一節音符， 少女緊張的喘息也再難抑制。<br>
+嗚~指、指揮官別彈了……///<br>
+我我我……我只是個在更衣室裡換衣服的普通護士，絕對沒有挑釁您這位強者的意思——！！<br>
+雖然還有些刻意，但看她慌張的樣子，似乎並沒有敵意，於是我稍微放鬆了箝制。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……說起來，這裡是病院的更衣室？但這些衣服……怎麼看起來都怪怪的？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+一邊說著，我一邊隨手從旁邊的衣架上拿起了幾件明顯可疑的服裝。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這件白色的，看起來像是幽靈？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+才、才不是幽靈啦！這是……床單！是病房的換洗床單哦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那這件纏成一圈一圈的呢？怎麼看都像是木乃伊。<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+這、這個是紗布！剛使用完的紗布！<br>
+正當我還想繼續詢問時，一雙手從身後抓住了我——幾乎是一瞬間，攻守易勢。<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+指揮官，看來這段「放風時間」，您過得相當愉快呢。<br>
+不過，您不該有太重的好奇心——<br>
+這裡可是我用來進行人體實驗的秘密設施哦~<br>
+像您這樣擅自離床、四處亂跑、還闖入禁區的病人……<br>
+必須要帶回去，好好「矯正」一番才行。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=邪惡院長的手術時間|选项=7|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+7 邪惡院長的手術時間<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+陌生的天花板……<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+意識恢復時，頭頂的無影燈正發出冰冷的白光。<br>
+我試著活動身子，卻發現自己被柔軟的皮質束帶固定在了治療椅上。<br>
+嗯哼~終於醒了呢，我的「實驗體先生」~<br>
+在你乖乖睡著的時候，我順便幫您檢查了一下口腔衛生呢。<br>
+注重禮儀的大人，可不能跟愛吃糖的小朋友一樣~<br>
+耳旁傳來熟悉的聲音，我扭頭看去，發現身著白大褂的壯麗正拿著手術刀站在椅旁。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+……檢查完牙齒之後，就要直接動手術嗎？<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+呵呵~放心，不是什麼痛苦的事。<br>
+我只是想讓你成為永遠依賴我的，溫順聽話的……<br>
+她的聲音突然卡住，目光從眉心滑落到我的衣領。<br>
+等等，您的衣領有些歪了……<br>
+這可不行，我的手術必須要讓您容光煥發才行~<br>
+她放下手術刀，俯身湊近。臉幾乎貼上了我的下顎，溫熱的呼吸拂過我的頸側。<br>
+領口上錯位的紐帶被解開，她的指尖擦過鎖骨時故意停留了一瞬。<br>
+嗯……紐扣要整齊，領口要對稱，肩線要齊平……<br>
+白大褂袖口飄來淡淡的消毒水味，混著她身上若有若無的玫瑰花香。<br>
+隨後，她將領口撫平，掌心貼著我的肩線，再緩緩滑向手臂。<br>
+這裡……袖口也捲邊了呢。<br>
+這次她沒有隔著衣袖，而是直接將手指探入袖口，用她微涼而細膩的指腹貼上我的手腕內側。<br>
+然後慢慢將袖口翻折整齊，每翻一層，指甲就輕輕刮過我的皮膚，帶起細小的戰慄。<br>
+你的心跳在加速呢，是對我的觸碰而感到緊張，還是…<br>
+在·享·受·呢？呵呵~<br>
+呵呵~無論哪種，對手術都不利呢，在手術開始前，你需要保持放鬆才行……<br>
+她忽然俯身，唇瓣如蜻蜓點水般點在了我的唇間。<br>
+反覆幾次後，她才將嘴唇完全覆了上來，讓我感受她唇上淡淡的甜味。<br>
+隨後是舌尖的試探，沿著唇縫緩慢描畫，隨後又不滿足似的伸了進來，糾纏許久才又鬆開。<br>
+呵呵~這是我特製的「術前鎮靜劑」，感覺如何？<br>
+她起身舔了舔嘴角，呼吸微亂。但目光很快又落在我的衣擺處。<br>
+又歪了……要重新整理了呢。<br>
+……好，這樣就算處理完了~<br>
+但……你的心跳又變快了呢，是鎮靜效果提早結束了嗎？<br>
+她抬起頭舔了舔嘴唇，眼神中的慾望快要溢出來了。<br>
+那看來……又要再進行一次「術前鎮靜」了呢，呵呵呵~<br>
+我來不及提醒她這樣會重蹈覆轍，就再次被吻住，意識逐漸朦朧，直至徹底陷入這甜蜜的循環之中。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=重逢與希望|选项=8|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+8 重逢與希望<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+衣領，整齊；紐扣，也沒問題……<br>
+既然儀容已經整理完畢，接下來，就該正式開始對您的「改造」了。<br>
+<br>
+哐當——<br>
+就在壯麗手中的手術刀一點點向我逼近時，手術室的大門突然被人推開了。<br>
+一個看起來有些眼熟的護士推著病床，跌跌撞撞地衝進了手術室。<br>
+<span style="color:#4eb24e;">Z11：</span><br>
+壯、壯麗院長……您、您好……！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（是Z11？）<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+那、那個……我……我把另一個病人也抓回來了……！<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+完啦完啦~這下我也要被改造了~徹底逃不掉啦~！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（相當浮誇的演技…）<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+做得很好。<br>
+不過，妳為什麼要在這個時候來找我？<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+因、因為外面出事了……！<br>
+普利茅斯護士長說要炸開大門，把指揮官救出去……我、我完全攔不住她……！<br>
+現在只能讓壯麗院長您親自出面了……！<br>
+<span style="color:#4eb24e;">壯麗：</span><br>
+……什麼？真是不像話。我去看看她究竟在胡鬧些什麼。<br>
+妳待在這裡看住指揮官。<br>
+<br>
+說完，壯麗轉身推開了手術室的大門，高跟鞋的聲音逐漸遠去，很快就消失在了走廊盡頭。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+呼……她走了，嚇死我了……<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+指揮官~好久不見~我們來救你了喵哈哈~！<br>
+<br>
+原本還奄奄一息躺在病床上的聖塔菲，立刻一個翻身坐了起來，三兩下跳到我身邊，開始替我解開身上的束帶。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+趁著普利茅斯在吸引壯麗院長的注意力，我們趕緊開溜吧！<br>
+<br>
+一路小跑步離開手術室後，我們就近躲進了一間空蕩蕩的診療室。<br>
+沒多久，普利茅斯也推門進來，與我們順利會合。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+營救指揮官作戰計劃，大成功~<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+這下總算可以稍微喘口氣了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們那邊後來發生了什麼事？還有，Z11妳這身護士服又是從哪裡弄來的？<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+事情是這樣的。<br>
+我們和指揮官大人走散之後，在河邊發現了一個超可疑的地堡。聖塔菲一看就覺得裡面一定有秘密。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+果然，那個地堡的門是妳們打開的。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+可是我們一進去，就又撞上了壯麗院長……<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+情急之下，我們只好躲進了一間隱密的小房間裡……裡面放了很多奇怪的東西。<br>
+我看到有一套護士服，就趕緊換上了……結果居然真的騙過了院長……！<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+然後呀，我們就看到指揮官被壯麗院長带走了！於是我們就跟著她一路追過來救你~<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+除了護士服之外，我們還在那個房間裡找到了不少好東西哦。<br>
+<br>
+一邊說著，普利茅斯將身旁的一大包東西攤在了桌上——<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+電鋸、霰彈槍、機關槍……甚至還有炸彈~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……妳們去的房間是軍火庫？<br>
+<br>
+而在那堆武器中央，一張折起來的紙頁吸引了我的注意。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這是……白夜山莊的設計圖？<br>
+<br>
+我展開那張圖紙，仔細查看起上面的結構標注。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+根據設計圖所示，這座白夜山莊內還存在一條通往外界的廢棄運輸管道。<br>
+如果這張設計圖沒錯的話……我們可以從這條管道離開。<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+咦……她們剛剛去的，是我們的道具工坊吧？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+沒關係啦~重要的是，雖然過程和劇本完全不一樣，但我們確實把指揮官引向了廢棄管道——<br>
+而那裡就是遊戲的最終場景！<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+也就是說，我們馬上就能讓指揮官順利通關了？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+好耶！我去把大家都喊過來，一起來開慶功宴吧！<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+走，我們去拿香檳~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=真實之欲|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+9 真實之欲<br>
+根據設計圖，廢棄管道的入口位於放射科正下方，但圖上卻並未標示通往地下的入口。<br>
+無奈之下，我們只好先前往放射科，再分頭展開搜索。<br>
+<span style="color:#4eb24e;">岡依沙瓦號：</span><br>
+與同伴分開後，我推開唯一亮著的病房房門，消毒水的氣味混著目光若有若無的香料氣息撲面而來。<br>
+嗯……這個角度果然還是有點看不清楚呢……<br>
+明亮的燈光下，抱著一台儀器的岡依沙瓦號抬頭看向了我這位不速之客。<br>
+呀~這是終於來了一位能治病的醫生嗎？<br>
+不對……你的身上散發著與我相同的、熟悉的氣息呢……<br>
+與我同病相憐的人啊……你來這裡是為了做什麼？<br>
+眼下的情境雖然有些古怪，但少女的姿態很放鬆，看起來並沒有攻擊意圖……<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我正在尋找一個通往地下室的入口，據說就在這附近。<br>
+<span style="color:#4eb24e;">岡依沙瓦號：</span><br>
+嗯~如果沒猜錯的話，我大概知道你要找的入口在哪~<br>
+不過，凡事皆有代價！能讓我知道，你願意為此付出什麼嗎~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+妳想要什麼？<br>
+<span style="color:#4eb24e;">岡依沙瓦號：</span><br>
+哎呀，不用心急……你看到我懷中的這台儀器了嗎？<br>
+話語間，她輕輕敲了敲這台儀器的螢幕。螢幕上方的領口隨之微微鬆開，露出白皙的鎖骨。<br>
+這台儀器似乎能映照出真實的我……但我研究了好久，卻也沒發現它的特別之處？<br>
+如果你願意協助我探究一下這台儀器，幫我搞清楚我身體的異狀的話……<br>
+我就會告訴你入口的正確位置！<br>
+怎麼樣，是不是很划算~？<br>
+她的聲音中帶著一絲撒嬌的意味，見我答應後，她笑著拍了拍自己身邊的空位。<br>
+然而我剛坐下，她便立刻抱著儀器貼了上來。柔軟的髮絲輕輕蹭過我的下巴，讓人有些心癢。<br>
+怎麼樣？這樣應該可以更方便地查看儀器……以及我的狀況了對吧？<br>
+……咦？螢幕上圖案似乎真的變了呢？<br>
+這可是見到你之後才發生的變化……原因好像不難猜呢~<br>
+她的吐息拂過我的耳垂，不知為何並沒有酒精的味道，反而帶著淡淡的香料氣息。<br>
+我不由自主地屏住了呼吸，感受著她的體溫從肌膚接觸的位置傳來——不知何時，她已經握住了我的手。<br>
+既然已經找到了問題的根源，那麼接下來……就請指揮官為我繼續深度檢查一下~<br>
+想距離更近，看得更清楚嗎？好呀，那就把這個礙事的儀器拿開吧？<br>
+她輕笑著將懷中的儀器推至一旁，隨後伸手輕點在了我的衣扣上。<br>
+既然是深度檢查，那距離還是越近越好對吧？<br>
+更何況……你已經透過那台儀器看透了我內心深處的秘密，那麼接下來，就該輪到我了吧？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+我之前沒同意過要做這件事吧？<br>
+<span style="color:#4eb24e;">岡依沙瓦號：</span><br>
+欸，是嗎~那你現在答應我也不算遲哦~<br>
+若是你真的想知道地下室入口的位置……那就試著滿足我吧？<br>
+從外表開始……再到內心深處……我可是很期待能夠了解你更多呢~<br>
+與其在地下室那種陰暗潮濕的地方浪費時間，不如跟我一起在這裡好好享受這段時光~<br>
+我保證，會比你預期的有趣多了~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=此路不通|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+10-1 此路不通<br>
+雖然花了不少時間……但最後，我終於從心滿意足的岡依沙瓦口中套出了地下室入口的位置，於是再度召集眾人。<br>
+沿著老舊的隱藏樓梯一路向下，我們很快便抵達了白夜山莊最深處的地下區域。<br>
+在斑駁的燈光下，一扇厚重的門扉，正靜靜立在我們的面前。<br>
+根據設計圖上的標注，只要打開它，我們就能逃出這座病院。自由的曙光就在眼前……<br>
+<span style="color:#ff9b93;">壯麗：</span><br>
+……想離開這裡，可沒那麼容易。<br>
+<br>
+熟悉的聲音從陰影中緩緩響起，下一刻，壯麗手握寒光閃閃的手術刀與剪刀，從黑暗中現出身形，攔在了我們與出口之間。<br>
+<span style="color:#ff9b93;">壯麗：</span><br>
+岡依沙瓦小姐果然沒能拖住您太久。<br>
+不過沒關係……既然你們主動走到了這裡，倒也省得我到處找人了。<br>
+我這就把你們一併抓回手術室~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+果然，不擊敗最終boss，遊戲就不算真正通關呢。<br>
+<br>
+<span style="color:#ff9b93;">壯麗：</span><br>
+你們已經逃不掉了……乖乖接招。<br>
+<br>
+壯麗指間寒芒一閃，數把手術刀如同銀色流星般擲出，精準地封住了我們後退的路線，隨後以極快的速度向我們衝來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+很快的速度，不過……<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+大人，時代變了。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+嚐嚐我機關槍的威力！<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+還有火焰噴射器——！<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+小心手榴彈……！<br>
+<span style="color:#ff9b93;">壯麗：</span><br>
+你們怎麼會有這麼多熱武器？！<br>
+<br>
+在完全不講道理的火力壓制下，壯麗很快就敗下陣來。<br>
+<span style="color:#ff9b93;">壯麗：</span><br>
+這和劇本裡寫的不一樣……<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+嘿嘿，這下總算是通關了吧！<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+最後的障礙已經排除了，指揮官，請快打開出口。<br>
+<br>
+我走上前，握住了那扇門的把手，鏽蝕的門扉在眾人的注視中緩緩開啟……<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+？<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+？？<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+？？？<br>
+<span style="color:#ff9b93;">壯麗：</span><br>
+？？？？<br>
+<br>
+閥門背後並沒有什麼地下管道，也沒有任何通往自由的道路……只有一堵實心的牆壁。<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+什麼情況？這裡不是應該是出口嗎？場景組的人在嗎！<br>
+<span style="color:#4eb24e;">拉斐爾：</span><br>
+這邊是場景組的拉斐爾~<br>
+妳說地下室的管道門？那個只是裝飾呀，當然不會真的在後面挖一條管道啦~<br>
+<span style="color:#4eb24e;">薩里 ：</span><br>
+難道說……這裡也是故意設置的陷阱？真正的逃生路線，其實藏在別的地方……？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+不可能！根據劇本，這裡就是最後的逃生通道，遊戲流程到這裡，理論上就已經結束了啊！<br>
+<span style="color:#4eb24e;">拉斐爾：</span><br>
+欸？可是我記得，劇本裡最後指揮官不是要坐救護車逃走嗎？<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+不對吧？我看到的明明是，最後要坐潛水艇離開！<br>
+<span style="color:#4eb24e;">U-110：</span><br>
+應該是滑雪逃走才對吧！<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+等等……大家快把妳們的劇本給我！<br>
+《白夜山莊v155.1》、《白夜山莊v185.5b》、《白夜山莊v287.2》……每個人的劇本版本都不一樣啊！<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+後台的公告上有些最新的劇本版本號，大家要注意更新。<br>
+<span style="color:#4eb24e;">薩里 ：</span><br>
+可是我昨天晚上才剛更新過……<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+今天早上又改了。<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+莫里茨親王改劇本也改得太勤快了吧！<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+我們是怎麼成功合作到現在的來著……<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+可惡，明明只差最後一步了……！<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+嘀嘀嘀——<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+對講機？是誰在這種時候還佔頻道——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+咳，聽得到我說話嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+指、指揮官？！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=飛越白夜|选项=11|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+11-1 飛越白夜<br>
+十分鐘前——<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+為什麼……出口後面會是牆？<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+嗚哇……這不是等於又白忙一場嘛！到底怎麼才能逃出去啊……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不，還有逃出去的方法。<br>
+而且不只一條，準確地說——是無數條。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+指揮官大人，您的意思是……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+既然遊戲中所有的逃脫路線都走不通…<br>
+那我們就開動想像力，創造全新的、未曾設想的逃脫路線。<br>
+凡是能離開這裡的方式，都可以成為新的出口。<br>
+而我想到的，被困時最直接的逃跑方案就是——聯絡外界，等待救援。<br>
+所以，我用這台對講機……撥了一個「外界」的頻道。<br>
+<span style="color:#4eb24e;">通訊器：</span><br>
+……<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+歡迎致電怪談調查局，怪談調查局局長Z13~請問各位遇到了什麼超自然困擾呢~？<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+太好了！對方一聽就很專業！<br>
+救命！我們被困在白夜山莊了！這裡到處都是可怕的護士和怪物！請快來救我們！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+好的~你們的求助，本局已經正式受理~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+如果是調查局的話，應該可以派直升機來接我們吧？<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+直升機……？那、那當然！像這種緊急事件，出動直升機也是最基本的配置~<br>
+請各位立刻前往隔壁住院大樓的樓頂天台，我們在那裡接你們！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+了解，我們會立刻開始轉移。<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+喂——全體工作人員立刻前往服裝間換裝，準備上場！大結局必須來點驚心動魄的追逐戰才夠刺激…<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+噓！通訊還沒掛斷！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+啊？啊啊！對、對哦——嘟……嘟……嘟……<br>
+<br>
+<span style="color:#4eb24e;">呂措：</span><br>
+別急著走嘛~夜晚才剛開始呢~<br>
+<span style="color:#4eb24e;">{namecode:126}：</span><br>
+找到你們了……不可以離開這裡喔……<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+你們這是要去哪裡呀~<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+各種奇奇怪怪的怪物真的都冒出來了呀呀呀！！<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+快跑！我們往這邊走！<br>
+<span style="color:#4eb24e;">埃爾德里奇：</span><br>
+前方禁止通行哦。<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+打劫，留下你的牛奶。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+殭屍和吸血鬼也就算了，為什麼還有宇宙人和牛仔？<br>
+<span style="color:#4eb24e;">呂措：</span><br>
+白夜山莊危機四伏，連鯊魚都有，那有殭屍、吸血鬼、宇宙人和牛仔出沒，當然也很正常吧？<br>
+<span style="color:#4eb24e;">埃爾德里奇：</span><br>
+難道不是服裝間裡有什麼就先穿什麼……<br>
+<br>
+<br>
+撞開大門的瞬間，一股強風迎面撲來。<br>
+頭頂上方，Z13等人駕駛的直升機正懸停在夜空中，探照燈將整片天台照得雪亮。<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+辛苦各位了~我這就放下繩梯接你們~<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+總覺得會有不好的事發生……在有殭屍的片場開直升機好像很危險——<br>
+<br>
+她的話還沒說完，直升機機身突然猛地一歪。<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+哇啊？！怎麼回事，為什麼突然晃得這麼厲害？<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+不好了！駕駛面板突然出現了一大堆警告彈跳窗！<br>
+伏波妳快來看看，這個紅色圖示是什麼意思？<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+別催我！我正在看說明書……第一頁是安全須知——<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+現在哪還有時間從第一頁開始看——？！要迫降了！<br>
+<br>
+下一秒，直升機便拖著一串歪歪扭扭的軌跡快速下落，很快就停在了地面上，冒起濃濃黑煙。<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+糟了……墜機了！<br>
+最後我們還是逃不掉嗎……<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+抱歉，各位倖存者……怪談調查局已經盡力…<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不，這裡還有一條逃跑路線。<br>
+<br>
+一邊說著，我轉過身，指向了天台邊緣之外的夜空。<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+指揮官，你不會是想讓大家一起飛過去吧？我可不會飛啊！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不，妳們再仔細看看。<br>
+<span style="color:#4eb24e;">普利茅斯：</span><br>
+嗯……咦？空中好像，有什麼在發光？<br>
+<br>
+在天台的邊緣，夜色中隱約有一道極細的銀光，從天台邊緣一直延伸向遠處河岸。<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+那是我們之前用過的鋼絲懸吊裝置？！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+不愧是指揮官！一眼就發現了調查局準備的最終應急方案————空中懸停式單向特種高速撤離裝置！我剛想跟你介紹呢~<br>
+<br>
+這時，身後堵住的天台門終於被轟然撞開，怪物如潮水般向我們湧來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就是現在！抓住滑索，跟我一起跳！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+就這樣，在怪物的包圍中，白夜山莊的倖存者們躍入夜空，沿著高懸的鋼索一路滑向河對岸。<br>
+<span style="color:#4eb24e;">格里芬：</span><br>
+詭異的山莊、可怕的人體實驗，還有窮追不捨的怪物們，都在身後迅速遠去。<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+黑暗被甩在身後，而希望，正迎面而來。<br>
+<br>
+……<br>
+<span style="color:#4eb24e;">飛雲：</span><br>
+——呼，終於結束了~！<br>
+<span style="color:#4eb24e;">撫順：</span><br>
+總算把指揮官和其他玩家安全送走了！！<br>
+<span style="color:#4eb24e;">Z13：</span><br>
+走吧走吧，大家回去繼續喝香檳吧~這次總算是圓滿結束了！！<br>
+<span style="color:#4eb24e;">莫里茨親王：</span><br>
+……外面怎麼回事？怎麼突然這麼大動靜？<br>
+指揮官這麼久還沒到我這裡來，不會是卡關了吧？<br>
+好想出去看看……可是我如果要終止流程，提前離開房間的話，所有的機關都會重啟……<br>
+到底要不要出去呢……好糾結啊……！！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=後日談|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+怪談紀實：逃離白夜山莊！<br>
+<br>
+12 後日談<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+可惡啊！！！<br>
+我精心準備的「超超超終極恐怖怪談」，不僅有超酷的聲光電機關，還運用了虛擬現實技術，甚至加入了室內大型跳樓機……<br>
+結果你們居然完全沒有體驗到！太可惜了吧！<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+哎呀~不管怎麼說，大家最後成功通關了，這不就是最好的結果嘛~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+的確，整場體驗下來，我覺得還蠻有趣的。<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+哼哼~由我這樣匠心獨蘊、美感超凡的怪談專家親手打磨的逃生遊戲，當然是完美之作~<br>
+<span style="color:#4eb24e;">聖塔菲：</span><br>
+嗯嗯，我印象最深刻的是鯊魚突然衝出來的時候！真的把我嚇了一大跳！<br>
+<span style="color:#4eb24e;">{namecode:539}：</span><br>
+沒錯，後面殭屍和宇宙人的追逐戰也完全超出了預料…<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+……哈？鯊魚？殭屍？宇宙人……？<br>
+我什麼時候往劇本裡加過這些東西？你們玩的真的是我的《白夜山莊》嗎？<br>
+<span style="color:#4eb24e;">{namecode:498}：</span><br>
+……<br>
+<span style="color:#4eb24e;">伏波：</span><br>
+……<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+……<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+不過……這些聽起來也蠻有趣的嘛~<br>
+我有靈感了……！這些要素，我要全部加到續作《白夜郵輪》裡！<br>
+光是這些似乎還不夠……再把山妖、水怪、巨型恐龍什麼的全部加上吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+還有續作？<br>
+<span style="color:#4eb24e;">法戈：</span><br>
+沒錯，因為指揮官你主演的付費紀錄片《怪談紀實：逃離白夜山莊！》在港區預售的時候就已經爆火，我們賺得盆滿缽滿。<br>
+所以續作的預算資金已經籌備好了。<br>
+<span style="color:#4eb24e;">{namecode:559}：</span><br>
+劇本也已經寫好了~<br>
+有了更充足的預算，續作一定會比《白夜山莊》規模更大、場面更豪華、演出更瘋狂，也更恐怖！<br>
+指揮官，到時候請務必再來光臨~<br>
+<br>
+——「怪談紀實：逃離白夜山莊！」·END<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

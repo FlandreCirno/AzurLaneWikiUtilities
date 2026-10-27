@@ -1,0 +1,2167 @@
+== 幽影迷城 ==
+{{折叠面板|开始}}
+{{折叠面板|标题=異常事件調查中心|选项=1|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+您已偏航，請重新規劃回家路線。<br>
+<br>
+冰冷的女聲迴盪在偏僻小巷中，Z14抱緊了懷中的伊醬玩偶，小心翼翼地走著。<br>
+<span style="color:#4eb24e;">領航員-TB：</span><br>
+夜間安全提示：請勿獨自進入低照度區域。<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+應、應該沒問題……就這一小段路……<br>
+啊，好漫長的一小段路……<br>
+<br>
+叮鈴鈴鈴——！！<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+電、電話？我明明開了靜音怎麼還是——<br>
+<span style="color:#ff9b93;">？？：</span><br>
+「……我%￥#……*^……？」<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+你……你是……誰……？<br>
+誰能……幫幫我……不、不要——！！<br>
+<br>
+NO.7的城市街道上人來人往，一如既往。我離開人群，轉身走進異常事件調查中心所在的大樓。<br>
+早上尖峰時間剛過，大廳裡仍站著不少等待電梯的人。等候期間，我翻看著市政廳剛移交的《關於近期少女失蹤事件的聯合調查委託》。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+失蹤時間大多集中在夜間，地點分佈不固定……<br>
+嗯，部分現場還伴隨訊號混亂、監控異常與目擊者精神恍惚等狀況……<br>
+<br>
+在「正常」的觀念中，這本該歸類為惡性失蹤案件。<br>
+但在這座城市裡，只要和「無法解釋」沾上關係，就會被送到異常事件調查中心。<br>
+<span style="color:#4eb24e;">？？：</span><br>
+縈繞在你身邊的旋律，又變得極為美妙……<br>
+是在思考什麼嗎？<br>
+<br>
+漂浮著跟在我身後的少女湊近了些，用那雙含著笑意的淺色眼眸專注地看著我。<br>
+周圍沒有人抬頭，也沒有人側目，彷彿並沒有什麼不尋常的事情發生。<br>
+<span style="color:#4eb24e;">？？：</span><br>
+至少我可以先幫你確定一件事。是我的同類——幽影做的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+虎，妳是不是「聽」到了什麼？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+用你習慣的話來說，就是現場有她們留下的痕跡。<br>
+對我來說，那更像幾段雜亂無章的……旋律。<br>
+這麼活躍可有些不尋常。<br>
+<br>
+虎漫不經心地梳理著長髮，髮梢的邊緣輪廓有些模糊，只有在開口回應我的時候才會顯得稍微「真實」一些。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這裡說話不方便，上去再檢查細節。……電梯到了。<br>
+<br>
+叮——伴隨著電梯提示音，從裡面傳來了一聲很有存在感的呼喊。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+哈啊啊啊！接招吧，邪惡的幽影！這是為了大家幸福的未來——<br>
+幸福之息，一之型！回憶瞬殺！<br>
+<br>
+在電梯門開的瞬間，她以一個極其有氣勢的招式，將手中的宣傳冊敲到了我的頭上。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……咦？<br>
+啊啊啊啊啊——？！<br>
+<br>
+察覺到打擊感的少女睜開眼，然後手忙腳亂地把宣傳冊背到身後，臉以肉眼可見的速度紅了起來。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+你、你你你什麼都沒看見對吧？！剛才那個不是我！不對，是我，但不是平常的我！<br>
+<br>
+'''''<span style="color:black;">选择项1：放心，我什麼都沒看見。</span>'''''<br>
+'''''<span style="color:black;">选择项2：下次出招前可以注意下友傷範圍？</span>'''''<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+'''''<span style="color:black;">（选择项1）</span>'''''太、太好了，讓我們重頭開始吧~！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+'''''<span style="color:black;">（选择项2）</span>'''''我會注意的……所以拜託拜託，全部忘掉！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗚嗚嗚，下次再也不在找不到公司樓層的時候亂來了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳就是在之前那起……電話亭幽影事件時入職的新進員工吧？<br>
+您好，這裡是異常調查中心。請描述你所在的位置和異常情況。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+救命！我、我遇到了一個影子怪物，它一直追著我，我躲到電話亭裡，它還在找我！<br>
+是的！我是標槍，個性是勤勞肯幹、吃苦耐勞，為了給你打一輩子工我什麼都會做的！請多多指教！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我是異常事件調查中心的指揮官。<br>
+以後就要一起工作了，我帶你去正確的樓層吧。<br>
+<span style="color:#4eb24e;">電梯提示音：</span><br>
+電梯已到達——9樓。<br>
+<br>
+電梯門開啟，轎廂‌裡最後幾個打著哈欠的上班族也走了出去。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+那個……指揮官，9層就是最高層了哦。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，我們只需要繼續往上就到了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+但是……？<br>
+<br>
+我長按控制面板上的12樓按鍵，原本準備往下的電梯輕輕一震。<br>
+隨後，樓層顯示器沒有繼續顯示數字，只是無聲地向更高處升去。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+這是……隱藏樓層？！<br>
+<span style="color:#4eb24e;">虎：</span><br>
+呼呼~真是個可愛的小傢伙。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+謝謝誇獎……欸？！指、指、指揮官你身後多了一個人——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+別怕，她一直在，只是你之前看不到……介紹一下，這位也是妳的同事：虎。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+前、前輩您好！我是標槍！請多多指教！<br>
+<br>
+數秒之後，電梯「叮」地一聲停了下來，電梯門緩緩打開，標槍也看到了世界的「另一面」——<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+咦……好普通！<br>
+沒看到漂浮的法陣或會自己移動的詭異標本……我以為裡面會更像秘密組織基地之類的地方呢？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+秘密組織也要按預算裝潢。<br>
+<br>
+完成登記後，我把一份新人員工證和一套新制服交到了標槍手裡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+換裝完成後，妳就是正式的新人行動員了，需要前往引導室進行入職訓練。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+換裝？<br>
+<br>
+標槍低頭看了看手上的制服，沉默了兩秒。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+這個設計……作為工作制服來說是不是有點太華麗了？<br>
+確切地說，這不是魔法少女服裝嗎？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+是制式執勤服。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+但它有蝴蝶結！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這樣便於辨識。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+還有愛心掛飾！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+便於辨識。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+那這個配套的法杖怎麼看都只是單純為了可愛吧？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+也是便於……哦，這是為了妳的安全。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……無法反駁！！<br>
+這、這樣就可以了吧……<br>
+那個——打擾了……！<br>
+<br>
+室內比外面暗很多，窗簾被嚴嚴實實拉上，只有幾盞光線不太穩定的吊燈提供照明。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+（怎、怎麼回事……新人引導室，竟然是這種風格嗎？）<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+房間中央，正坐著一個低頭的少女。她一動也不動，長髮垂落下來，遮住了大半張臉。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+妳好？<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+聽見聲音，桌後的少女伸出手，用指尖緩慢地推動桌上的一枚硬幣，金屬與桌面摩擦，發出刺耳的聲響。<br>
+硬幣被推至桌面邊緣…啪嗒——<br>
+兩團狐火在少女的身邊閃現，房間內閃爍著危險的紅光。少女的語氣突然變了。<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+「……嘻￥……#&￥祭品……」<br>
+「^&#&收下￥——」<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+咿咿咿——？！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=現場執行組|选项=2|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">天津風：</span><br>
+異常事件調查中心·新人引導室<br>
+就在標槍即將被狐火吞噬的一瞬——她手中的法杖，忽然泛起了柔和又耀眼的光芒。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+欸……？<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+原本幾乎貼到標槍面前的「狐仙」少女，像是被這道光晃得瞇起了眼，下意識後退了半步。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……這、這是什麼情況？！法杖漏電了嗎？！<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+光芒沒有停下，反而越來越亮。<br>
+標槍只覺得胸口像是突然被什麼暖洋洋的東西填滿了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+這個感覺，好奇怪……明明剛剛還嚇得快哭出來了……<br>
+可一想到——一想到我居然真的找到工作了……<br>
+一想到以後就不用過每天擔心房租交不上、擔心簡歷石沉大海、擔心妹妹們問「姐姐今天也沒消息嗎」的那種日子了……<br>
+就、就突然覺得——<br>
+我超幸福的啊－－！！！<br>
+<br>
+伴隨著這聲發自肺腑的喊叫，法杖頂端轟然放出一圈粉白色的波紋，將屋內陰冷黏稠的氛圍完全沖散——<br>
+咚、咚——我敲響了新人引導室的房門。<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+請進去~<br>
+<br>
+我開門進去，對眼前的結果並不令人意外。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，沒有傢俱損壞，人也沒有被嚇暈過去，這次的訓練結果很完美。<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+指揮官，這個新人還不錯嘛~<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+新、新人？等一下……妳也是異常事件調查中心的——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+正式介紹一下吧。她叫天津風，現場執行小組的特殊成員，妳的新同事，也是我招募的幽影。<br>
+平時負責協助出勤，以及一部分……嗯，心理測驗。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+這麼多年來，妳還是頭一個通過我心理測驗的人呢，表示妳很適合這份工作哦~<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+多謝前輩誇獎！但、但是，我有點迷糊了……<br>
+幽影，不是敵人嗎……？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+就和人有好壞一樣，幽影之中也有能與人類合作的存在。<br>
+比如我，比如天津風。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+就是這樣的情況~因為虎的身體無法實體化，所以有許多需要協助的事情就由我代勞咯。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+這樣嗎……呼，差點以為誤入敵方組織了，現在安心多了~<br>
+不過剛才，到底是什麼情況？<br>
+<br>
+標槍小聲嘀咕著，忍不住低頭看向手中的法杖。<br>
+法杖上的寶石已經恢復平靜，只殘留著一圈若有若無的粉紅色光暈。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳可以理解為，配發的武器成功地釋放出了妳的情緒能量。<br>
+說得更準確一點，是「幸福能量」。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+幸福……能量？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，這也是異常事件調查中心能夠對抗幽影的核心手段之一。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+所以……標槍這根法杖真的不是單純為了可愛？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+當然不是，可愛只是附帶效果。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+為了讓呈現效果更厲害，妳還可以考慮想個厲害的技能釋放台詞哦。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+那、那要是什麼風格的台詞呢？<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+倒也不用那麼糾結啦~重點在釋放幸福能量……但幸福能量是什麼還需要妳自己感受。<br>
+我們目前只知道這是宏大的「幸福都市計劃」的一部分成果，雖然無法用科學解釋，但好在這本來就是異常事件，不歸科學管。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+至於另一種對抗方式，是用幽影去對抗幽影。<br>
+<br>
+標槍愣了一下，下意識看向長著毛茸茸狐狸耳朵的天津風，和始終保持著漂浮狀態的虎。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……啊！！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+幹、幹嘛啊！嚇我一跳！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+突然反應過來！剛剛我還聽不懂天津風前輩在說些什麼，指揮官來了之後突然就都懂了……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+不是因為我來了，是因為虎來了。<br>
+虎的能力之一就是統合音律，而語言也是音律的一種。她可以把語言也轉換成我們都能夠理解的形式。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+畢竟就算是說著同一種語言的人與人之間，時常也需要翻譯呢。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+欸？！還有這種事嗎？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+妳能完全理解妳上司說的話嗎？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+不太能……不不不，我可以，我完全可以！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+咳……總之，因為虎的出現，我才能對幽影有更深的體會。<br>
+好了，基礎介紹結束，接下來才是重點。<br>
+<br>
+我取出一枚通體銀白的金屬球放在桌上。球體只有巴掌大小，接觸桌面後自動展開，露出內部一圈環狀的光。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+這個是收容裝置。<br>
+當幽影被壓制到足夠虛弱的狀態後，就可以使用它對幽影進行短期穩定的收容。<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+簡單來說，先打趴下，再丟球就好。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+嗯，所以它的正式名稱是「寶口口球」……「寶口口球」？<br>
+……算了，暫時就簡稱它為「帕〇球」吧……「帕〇球」！<br>
+…………那，「夥伴球」？好……就先叫這個了。<br>
+說明結束。接下來就該進入實戰環境模擬了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+欸？！這麼快嗎！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+放心，只是模擬。我們有新手保護期，還不至於讓第一天入職的新人立刻面對危險的職場環境。<br>
+除非出現緊急情況。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+聽起來很可靠呢……！<br>
+<br>
+嘀——嘀——嘀——<br>
+幾乎就在標槍說話的同一時間，調查中心內忽然響起了急促而尖銳的警報聲。<br>
+<span style="color:#4eb24e;">廣播：</span><br>
+東城區主幹道出現異常空間反應！請立刻前去支援！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+主幹道……現在還是白天吧？<br>
+好反常，幽影通常是夜間出現……這些傢伙真是越來越不守規矩了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+異常事件調查中心，現場執行小組成員——標槍。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+在？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+現在開始，妳跟我和天津風一起行動。<br>
+記住兩件事——第一，不要離開我的視線。<br>
+第二，如果幽影靠近妳，就握緊法杖，最重要的是……別懷疑自己對幸福的嚮往。<br>
+走吧，異常事件調查中心現場執行小組，開始行動！<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=異常空間|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+幾分鐘前，這裡還是東城區主幹道上最熱鬧的一段商業街。<br>
+但當我們抵達現場時，一切都改變了。原本明亮繁華的商業街像是被某種力量從現實裡「剝」了出來。<br>
+明明還是白天，街道上方卻像壓著一層沉沉的鉛灰，所有光線都變得陰冷而渾濁。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+這裡已經跟外面的商業街不是一回事了，規則、距離、方向感……都會被扭曲。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+導航已經受影響了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+那……我們現在要做什麼？<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+當然是尋找並收容幽影。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+虎，能感知到前面的情況嗎？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+嗯……異常空間深處有好幾道不和諧的聲音。<br>
+吵雜的爭吵聲……激烈的戰鬥……<br>
+真是一場叫人不悅的混亂演出，無法分辨那些聲音到底屬於人類還是幽影。<br>
+……等等。<br>
+<br>
+虎忽然輕輕抬起指揮棒，指向左前方一條被陰影吞沒的支路。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+一陣急促的旋律……離我們越來越近了。<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+哈……哈啊……我、我逃出來了嗎，從那些幽影的掌控中……<br>
+但為什麼……總感覺背後有什麼在監視著……<br>
+<br>
+奔跑中，Z14還是忍不住回過頭去——那道熟悉的漆黑身影，就靜靜佇立在她身後不遠處。<br>
+<span style="color:#ff9b93;">？？？：</span><br>
+「…………#&……」<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+嗚……哇啊？！！絆、絆到了……<br>
+<br>
+黑影無聲無息地靠近了。<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+不、不要過來……！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+到此為止——！<br>
+<br>
+一道明亮的輝光驟然從側面刺入，將黑影與Z14之間生生切開。<br>
+黑影稍稍後撤了幾步。它彷彿猶豫般停滯了幾秒，隨後立刻消失在眾人視線中。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+行動員標槍，第一次正式執行任務……啊，敵人跑了，我們要追擊嗎？！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+別急，說不定是陷阱。<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+……好厲害……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+指揮官，找到倖存者了！<br>
+現在沒事了，我們是來救妳的哦！啊……妳膝蓋都摔破了，我扶妳起來吧？<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+謝謝……那個……妳是，列車上的那個姊姊嗎……？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+咦？欸……<br>
+<br>
+前往新紀元NO.7的列車上－坐在另一側單人座上的少女怯生生地舉起手中的《都市生存指南》。<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+比起這個……我感覺還是「幽影」更恐怖一些……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+啊，是妳呀！嘿嘿，妳竟然能認得出來……我這副樣子是不是變化有點大？<br>
+<span style="color:#4eb24e;">{namecode:560}：</span><br>
+嗯……！變化很大！感覺非常可靠呢~<br>
+<br>
+'''''<span style="color:black;">选择项1：觀察Z14</span>'''''<br>
+<br>
+《關於近期少女失蹤事件的聯合調查委託》文件中附帶了近期失蹤少女的照片，Z14赫然在其中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……看來這次的異常，也和那起案件有關。）<br>
+<br>
+異常空間突然劇烈波動起來，吵雜的電流音將我們包裹起來。<br>
+下一秒，街邊櫥窗、商店門玻璃、車身後視鏡，甚至連地面積水裡的倒影，都同時播放著同一幅畫面。<br>
+漆黑的底色裡，浮現出一張蒼白而模糊的女人臉。<br>
+<span style="color:#ff9b93;">？？？？：</span><br>
+不能……再往前了哦~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=收容成功|选项=4|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">標槍：</span><br>
+這、這又是什麼啊？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+小心鏡面——不要盯著看！<br>
+<br>
+幾乎在我出聲的同時，一隻慘白的手猛地從路邊商舖的展示螢幕裡伸了出來，直直抓向最近的標槍！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+啊——！<br>
+<br>
+標槍驚叫著後退半步，本能舉起法杖擋在身前——粉白色的光芒閃耀起來，那隻手像被灼傷般驟然縮了回去。<br>
+<span style="color:#ff9b93;">？？？？：</span><br>
+呵呵……好痛呢~看來想要拖住你們的腳步，並不容易啊……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「拖住我們的腳步」？妳想掩護誰離開，剛才追逐Z14的黑影嗎？<br>
+近期的少女失蹤事件和妳們有關？<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+……哎呀？這可真意外~<br>
+您竟然能聽懂我說話？<br>
+<br>
+電流的雪花中，那女人終於緩緩「爬」出螢幕。<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+腓特烈·卡爾，向您問好~<br>
+我早就聽說了——這座城市裡，存在著能馴服幽影，驅使她們戰鬥的人呢。<br>
+您所說的那些充滿愛意的話語，我確實很感興趣，但為了幫助那位大人……請允許我下次再聽吧~<br>
+現在，請你們離開這裡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒有任務執行到一半，就被敵人三言兩語勸走的道理吧？<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+……嗨呀~談崩了呢。沒關係，我不會太粗暴的。<br>
+<br>
+腓特烈·卡爾唇角彎起，與此同時，我們身邊的螢幕紛紛破裂，無數漆黑的影子從碎裂的鏡面中撲出——<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+天津風，虎！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+明白！<br>
+<br>
+狐火蔓延開來，熾熱的火光將所有撲來的影子燃燒殆盡。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+她的進攻節奏亂了……很好。<br>
+就讓我來終結這場鬧劇，為敵人寫下休止符吧！<br>
+<br>
+虎的眼光微亮，尖尖的虎牙在唇邊若隱若現，氣質驟然變得危險而狂熱。<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+美妙的音樂……身為人類的指揮官能與我們溝通，原來是妳的功勞。<br>
+不過呢，同為幽影的我們，理應更能互相理解才對~妳呀，不如還是跟我們合作吧？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+合作？商務洽談請諮詢指揮官……現在請安靜！接下來，是演奏時間！<br>
+<br>
+<br>
+——虎一抬手，周圍紊亂的電子噪音驟然停止，取而代之的是一陣讓人起雞皮疙瘩的低沉迴響。<br>
+天外的群星被一顆顆點亮，刺穿了陰鬱的雲層。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+聆聽，群星的交響！<br>
+<br>
+指揮棒落下，星光的波紋以她為中心轟然擴散，震裂了所有螢幕。<br>
+在無數虛假的影像之間，只有一處「倒影」始終保持原樣。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+在那裡！就是現在，標槍！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+記得想個很酷的技能台詞！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+我、我嗎？！我……那我拼啦……！<br>
+「PINKLOVE★Heart Lancer」——！！<br>
+<br>
+如流星劃過天際般，標槍的法杖化作長槍，精準地將腓特烈·卡爾從鏡面中硬生生「轟」了出來。<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+哦……？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官，敵人的本體現身了！別放跑了主要目標！<br>
+<br>
+我丟出了夥伴球。銀白色球體在半空自動展開，內部環狀光圈高速旋轉，腓特烈·卡爾的身影被完全包裹在球體之中。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——收容成功。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=私下邀約|选项=5|主框=1|样式=primary|展开=是}}
+<br>
+腓特烈·卡爾被收容後，異常事件調查中心與市政廳快速展開了聯合行動。<br>
+根據新增線索與城市監控回溯，失蹤案的「真兇」很快就被確認為是腓特烈·卡爾——至少，明面上是如此。<br>
+我坐在市政廳的會客室內，面前的桌上擺放著一杯還有餘溫的紅茶，旁邊是之前收到的一封邀請函。<br>
+這是一個私人邀約，邀約的署名只有一個簡單的稱謂——Lady。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+從來沒聽過市政廳裡還有這麼一號人物……<br>
+<span style="color:#4eb24e;">虎：</span><br>
+邀約信裡寫的還是……「想當面向你表達謝意」。<br>
+呵呵，有趣。<br>
+<br>
+這本該是一場善後會談，但私人會面的形式又彷彿在暗示著什麼。<br>
+就在這時，會客室的大門無聲開啟，一名身著華服的女子走了進來。<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+讓您久等了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+沒有很久。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+初次見面，我是金鹿號，就是邀請您的「Lady」。姑且將我當作……代理市長吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（代理市長……？看來市政廳最近也很動盪啊……）<br>
+那妳今天專程會見我，是為了失蹤案嗎？<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+嗯。這是異常事件調查中心成立後解決的最棘手的幽影事件，我當然該有所表示。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「解決」嗎……妳們動作很快，結論也下得很快。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+城市需要秩序，市民需要答案。很多時候，儘早給出明面上的結論，才有利於大家繼續幸福地生活下去。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+聽起來，妳並不覺得這件事已經結束了。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+當然。你也不是那種能被輕易哄住的人，對吧？<br>
+市政廳願意為調查中心接下來的行動提供協助。<br>
+你有任何需要——情報、資源、權限、通行便利……只要在我能力範圍內，我都願意提供。<br>
+只要能找到「真兇」。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+合作愉快。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+那就期待著與你的下一次會面了，指揮官。<br>
+<br>
+我起身離開，即將帶上大門時，身後飄來一句極輕的話。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+……也許，你們就是我一直在找的，可以改變世界的種子。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=失控前奏|选项=6|主框=1|样式=primary|展开=是}}
+<br>
+入夜後，涼爽的微風拂過城市，燈光在樓群與街道間次第亮起。<br>
+為慶祝新人標槍首戰告捷，執行小組準備舉辦一場小型慶功宴。<br>
+約定的時間快到了，踩著點換上了可愛裙子的標槍，正急急忙忙地趕往餐廳。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗯哼哼~雖然被嚇得夠嗆……但最後好在還是打倒了幽影。<br>
+如果妹妹們知道，一定會誇我很帥吧？<br>
+不過，就快到約定的時間了……抄這條近路好像會快一點！<br>
+<br>
+巷子裡比主街安靜得多，幾盞壞掉的路燈讓本來就薄弱的光線忽明忽暗。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+啊啾~怎、怎麼突然有點冷了？是衣服太薄了嗎……<br>
+……咦？<br>
+<br>
+她停下腳步，主街的喧鬧聲不知何時消失了，整條巷子，彷彿被從城市裡單獨剝了出去。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……不會吧。<br>
+我今天不是已經下班了嗎？<br>
+<br>
+她轉身想退回巷口，回頭卻發現身後只剩下一片濃得化不開的黑。<br>
+咔嚓——咔嚓——冰冷而乾澀的金屬咬合聲，從前方的巷子深處傳來。<br>
+標槍的呼吸開始變快，手忙腳亂地翻著自己的小包。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+糟了！想著手提包放不下武器，就順手放在調查中心了……<br>
+我錯了，我不該這麼不熱愛自己工作，還不隨身攜帶生產工具……<br>
+<br>
+那個聲音越來越近了。黑暗中，一道黑影突然襲來，將標槍完全吞沒。<br>
+<span style="color:#ff9b93;">？？：</span><br>
+滋&……%￥#…<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+能、能給個溝通的機會嗎？啊啊啊，指揮官和虎前輩不在的話就完全沒辦法啊——<br>
+<br>
+黑暗合攏。遠處，城市的喧鬧聲這才像遲到一般，重新傳了回來。<br>
+餐廳裡燈光明亮，天津風盯著已經上桌的熱菜吞了口水。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+標槍怎麼還沒來……明明半小時前就在群組裡說過「馬上就到啦！我已經在車上了！」<br>
+說起來，指揮官你是從哪裡找到的她這樣有潛力的新人？<br>
+態度積極、工作出色不說，聽說在老家還有妹妹呢，可以說是集齊了傳說中能成為優秀員工的所有條件？<br>
+我還是打個電話問問狀況吧，務必讓她感受到組織的溫暖。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+剛才打過了，沒人接……<br>
+<br>
+話音未落，刺耳的警報聲忽然從四面八方同時炸響。<br>
+<span style="color:#4eb24e;">廣播：</span><br>
+全城警報！偵測到大規模幽影侵襲，請所有市民立即前往最近的安全避難點！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+襲擊？！從來沒看過她們發動這種大規模攻擊……<br>
+<br>
+夜幕之下，無數詭異的黑影正在城市各處浮現。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=尋找標槍|选项=7|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+該死，標槍的電話還是打不通！她不會真出事了吧？！<br>
+<br>
+就在我們跑出餐廳的同時，數條飄帶飄然落下，將我和天津風分開。<br>
+隨後，在混亂的光線中，我隱約聽到了一個聲音。<br>
+<span style="color:#4eb24e;">標槍？：</span><br>
+指揮官——！我在這裡哦！<br>
+<br>
+她穿著我記憶中的那件執勤服撲向我，臉上還帶著興沖沖的笑意。<br>
+<span style="color:#4eb24e;">標槍？：</span><br>
+抱歉抱歉，我遲到啦！外面突然有點亂，但現在已經沒事了！<br>
+<br>
+她的神情、聲音、動作，都真實得讓人挑不出半點錯處。<br>
+門外驚慌奔逃的人群不見了，香噴噴的飯菜上了桌，美好的氣味讓人感到溫暖而放鬆。<br>
+<span style="color:#4eb24e;">標槍？：</span><br>
+你們怎麼不吃啊？<br>
+哦哦哦~因為是我的慶功宴，所以要我先開始嗎？我還以為大城市不講究這個~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+標槍……<br>
+<span style="color:#4eb24e;">標槍？：</span><br>
+在！指揮官是要先簡單說兩句嘛？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我會把妳救出來的。<br>
+<span style="color:#4eb24e;">標槍？：</span><br>
+……救我什麼？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+退後。<br>
+<br>
+彷彿心有靈犀般，虎在我的陰影中顯現。她手中握著指揮棒，橫向一劃——錚！<br>
+<span style="color:#ff9b93;">約克：</span><br>
+……啊呀，就差一點了。<br>
+<br>
+我面前的「標槍」消失了，整個幻境空間開始層層剝落。<br>
+<span style="color:#4eb24e;">天津風的聲音：</span><br>
+呼呼~沒錯新人，這個捏肩的力度剛好~來，換另一邊肩膀繼續吧~<br>
+嗯？！怎麼回事，我剛剛是在做夢嗎？！指揮官，你在哪裡！<br>
+<span style="color:#4eb24e;">約克：</span><br>
+一道細長的影子踏著舞步走來，金屬圓環在她手中劃出近乎詭譎的殘影。<br>
+每一次旋身，我周圍都會多出一個「她」。「她們」靠近我，用眼神撩撥，用肢體邀請。<br>
+聚光燈已經亮起，觀眾就位……舞者約克，已登台~<br>
+指揮官，要陪我在這個美麗的幻夜中共舞一曲嗎？<br>
+<span style="color:#4eb24e;">天津風的聲音：</span><br>
+指、指揮官不要被美人計誘惑了啊！可惡，周圍都是幻象，我真的分不清啊……<br>
+<br>
+無數的舞者一同朝我揚起魅惑的笑容。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+再多也只是雜音。<br>
+指揮官，閉上眼。相信我。我會帶你走出迷宮。<br>
+循著我的指引去吧，天津風一直在那裡。<br>
+<span style="color:#ff9b93;">約克：</span><br>
+要將自己完全交給一個幽影嗎？她與我，又有什麼本質差異呢？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+妳太吵了。<br>
+<br>
+<br>
+虎揮動指揮棒，將一個個幻象震在原地，群星的低鳴壓過喧囂的舞曲。<br>
+她引領我走到一個幻象前，示意我握住對方的手。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+天津風。<br>
+<span style="color:#4eb24e;">天津風的聲音：</span><br>
+指揮官……！！嗚，真的是指揮官！<br>
+<br>
+幽藍的狐火騰起，照亮了天津風的臉龐，旋即挾著磅礴怒氣壓向約克DE的真身。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+妳這傢伙，竟敢欺騙天津風大人的眼睛！<br>
+<span style="color:#ff9b93;">約克：</span><br>
+呵呵……真是讓人羨慕的信任呢。<br>
+讓我忍不住也想知道，如果能跟著你的話……到底可以走到哪一步呢？<br>
+<br>
+耀眼的火光中，我釋放出收容裝置。約克DE沒有反抗，只是低低笑了起來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+——收容成功。<br>
+<br>
+收容裝置閉合，異常空間隨之崩塌。<br>
+手機突然震動起來，螢幕上亮起的——是標槍的名字。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗚嗚嗚，指揮官！遲到了真的抱歉，我在前往餐廳的路上被幽影襲擊了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+有沒有受傷？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+暫時還算安全……事情有點複雜，我、我說快一點——<br>
+那個抓住我的幽影，把我帶到市政廳了！<br>
+但可能是因為我沒有帶武器，她就對我放鬆了警惕，讓我找到了逃跑的機會！<br>
+但我一跑出來就聽到了全城警報……還好在廳裡遇到了亞利桑那小姐！是她帶我找地方躲起來的！<br>
+<span style="color:#4eb24e;">亞利桑那：</span><br>
+那個……你好……我們部門是市政廳下屬，正巧比較了解這裡的佈局……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+亞利桑那小姐之前在我找工作的時候幫了我許多……啊，她讓我聲音小一點，外面好像有幽影在遊蕩……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們先躲好，安全第一。<br>
+我和天津風這就回調查中心拿裝備，馬上就來接妳。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+新人，千萬別逞強！等天津風大人到了，就讓那些傢伙知道什麼叫踢到鐵板了！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗯……！我會等你們帶著支援到來的！<br>
+<br>
+通訊結束。我和天津風同時加快腳步，跑向異常事件調查中心。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=害怕孤獨的孩子|选项=8|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">廣播：</span><br>
+【收容區……危險……】 【請……請勿靠近……請勿靠近……】<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+果然出事了。<br>
+看起來，我們有不少「房客」越獄了呢。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+晚點再收拾這裡的殘局吧。先去裝備庫，找標槍的武器。<br>
+<br>
+我們快步穿過大廳，可越往裡走，周圍的景象就越陌生。<br>
+走廊兩旁原本貼著安全標示的牆面上，不知何時多出了一扇又一扇擺滿人偶的玻璃櫥窗。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+……我說，這些玩偶是怎麼回事。<br>
+「妳們」不知道，偷看別人是件不禮貌的事嗎？<br>
+<span style="color:#4eb24e;">匆忙：</span><br>
+咔——咔咔咔——櫥窗裡的人偶轉動眼珠，齊刷刷地看了過來。<br>
+指揮官，大壞蛋。<br>
+把匆忙丟在這裡，自己跑出去玩……<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+喔~前不久被你收容的小妹妹好像有意見了呢？沒記錯的話，她就是你和標槍相遇的契機吧。<br>
+<span style="color:#ff9b93;">匆忙：</span><br>
+那天，匆忙只想在街上找人一起玩……然後就找到了指揮官……<br>
+但被找到之後，指揮官就一直把我留在那個冰冷的球裡……<br>
+還好那個新來的大姐姐把我們都放出來啦~<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+（新來的大姊姊……腓特烈·卡爾嗎？）<br>
+<span style="color:#ff9b93;">匆忙：</span><br>
+所以，匆忙現在又可以找指揮官玩了呢~<br>
+話音落下，玻璃櫥窗裡傳來細碎的低語。<br>
+「別走……」「留下來……」 「一個人好冷……」「笑一笑，笑起來就不會被丟下了……」<br>
+那些聲音層層疊疊，像是同一個孩子把孤獨拆成了無數份，藏進了每個人偶身體裡。<br>
+嘻嘻~指揮官，我們一起來玩遊戲吧！<br>
+規則很簡單——燈亮的時候可以走，燈滅的時候不許動。<br>
+如果動了，就要留在這裡，變成我的新朋友。<br>
+<br>
+話音未落，頭頂的燈光突然熄滅，我能感覺到有什麼冰冷的東西貼近了手腕、肩膀、脖頸。<br>
+像無數細線，正試圖阻止我有進一步的動作。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+……指揮官？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+別動。<br>
+<span style="color:#4eb24e;">匆忙：</span><br>
+幾秒後，燈光重新亮起。<br>
+哇，指揮官過關了呢~那我們來玩第二輪吧！<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+匆忙，等我回來再陪妳玩好嗎？<br>
+標槍還在市政廳那邊等我，我必須去救她。<br>
+<span style="color:#ff9b93;">匆忙：</span><br>
+等你回來……？<br>
+匆忙垂下眼，手指輕輕捏住裙擺。<br>
+不要嘛。<br>
+說著「馬上回來」，然後門關上，燈關上，腳步聲越來越遠……<br>
+最後只有人偶不會急著走，只有人偶還坐在原地陪我。<br>
+她的聲音越來越輕，身後櫥窗裡的笑臉卻越來越多，密密麻麻地擠滿了玻璃。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+那妳願意跟我一起走嗎？<br>
+<span style="color:#ff9b93;">匆忙：</span><br>
+……欸？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+不會再把你關起來了。這次，作為我的幽影，和我一起行動。<br>
+<span style="color:#ff9b93;">匆忙：</span><br>
+你不會嫌我吵嗎……？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+也許會……？<br>
+<span style="color:#ff9b93;">匆忙：</span><br>
+……這種時候該反駁吧？<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+但我不會因為妳吵，就假裝聽不見妳的聲音。<br>
+<span style="color:#4eb24e;">匆忙：</span><br>
+匆忙怔怔地看著我。許久之後，她忽然拍了拍掌心，開心地跳下座椅。<br>
+纏住我的絲線一根根鬆開，束縛感隨之消失。<br>
+大家，今天閉館~<br>
+我已經找到可以一起出門的人啦！<br>
+玻璃櫥窗、暖黃色聚光燈，都像被捲入風中的紙片般一點碎散。<br>
+原本被藏在櫥窗深處的裝備室顯露出來。<br>
+對不起啦~不藏起來的話，你們拿了東西就會走掉。<br>
+她走到我身邊，輕輕牽住了我的手，仰頭期待地看著我。<br>
+指揮官，無論你想去哪裡，我都會陪著你的哦。<br>
+<span style="color:#4eb24e;">{playername}：</span><br>
+好。我們拿上標槍的裝備，去市政廳。<br>
+標槍還在等著我們。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=市政廳|选项=9|主框=1|样式=primary|展开=是}}
+<br>
+往日莊嚴明亮的市政廳紅光閃爍，到處都是戰鬥留下的痕跡。<br>
+我們一邊清理著在市政廳內遊蕩的幽影，一邊往標槍的位置移動。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+——指揮官！！<br>
+<br>
+熟悉的聲音從走廊盡頭傳來。標槍探出頭激動地向我們揮手。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+標槍，你們沒事吧？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+我沒事，不過亞利桑那小姐好像不太舒服……<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+一般人待在這種危險的環境裡當然不會舒服啦。<br>
+<br>
+我們將亞利桑那送到市政廳外的安全點。臨走前，亞利桑那停下腳步，回頭看向標槍。<br>
+<span style="color:#4eb24e;">亞利桑那：</span><br>
+雖然現在說這個……可能有點不合適。<br>
+但是，標槍，還記得我們上一次分別時，我說的話嗎？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+啊……<br>
+<span style="color:#4eb24e;">亞利桑那：</span><br>
+加油，希望我們還會再見。再見的時候你會比現在更開心，更幸福。<br>
+妳現在看起來，已經找到能讓妳開心幸福的目標，還有想要守護的東西了呢。<br>
+<br>
+亞利桑那微笑著摸了摸標槍的頭，轉身走進了市民安全點。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……想守護的東西。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+哼哼~被誇大了呢，新人。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+現在、現在不是說這些的時候啦！城市裡還有很多幽影在——喔對，我先去把衣服和裝備換上去！<br>
+<br>
+砰——！！<br>
+市政廳高層突然發生劇烈的震動，彷彿經歷了一場惡戰。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+代理市長會客室……也在那一層。<br>
+<br>
+越接近會客室所在的樓層，異常的感覺就愈發明顯。<br>
+我們穿過被污染的門廊，來到了會客室門前。厚重的大門半開著，門縫裡滲出暗紅色的光。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+嗚~雞皮疙瘩都起來了……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+就是這了。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+小心點……裡面有危險的傢伙。<br>
+她發出的旋律，和我在你們救下Z14時捕捉到的那個陌生旋律，很相似。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗯！那她應該就是之前抓住我的那個幽影——<br>
+<br>
+'''''<span style="color:black;">选择项1：推門進入——</span>'''''<br>
+<br>
+門扉被推開的瞬間，一股近乎凝固的壓迫感迎面撲來，那不是單純的血腥氣，而是一種潮濕、腐敗的氣息。<br>
+原本裝飾考究的會客室，早已面目全非。桌椅翻倒，牆面撕裂，地毯上拖曳著大片激烈廝殺後的焦黑痕跡。<br>
+然而……比起滿地狼藉，更讓人無法移開視線的，是那些「東西」。<br>
+傾倒的傢俱之間，蠕動著紫紅色的黏膩觸手，它們緩慢地摩擦著地面，拖出黏膩的水痕，散發著不祥的腥甜。<br>
+觸手之中，那位曾與我有過一面之緣的Lady——金鹿號正站在一張佈滿裂痕的鏡子前。<br>
+鏡子那面映出的，則是腓特烈·卡爾的臉。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+……原來如此。<br>
+之前跟指揮官過來與妳會面的時候，就隱隱覺得有些不對……<br>
+市政廳的Lady，代理市長……竟然是我的同類嗎？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+欸欸欸？！新紀元都會NO.7的代理市長——竟然是幽影？！<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+…………<br>
+現在才察覺嗎？<br>
+你們比我想得更遲鈍一點呢。<br>
+<br>
+窸窸窣窣——金鹿號身下的影子翻湧著，又有數條粗大而扭曲的觸手猛地竄出，瞬間將金鹿號與我們強行分隔開來。<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+呵呵，又見面了，指揮官。<br>
+事發突然，之前不告而別還請見諒哦~<br>
+<span style="color:#4eb24e;">匆忙：</span><br>
+嗚哇，是那個之前在調查中心搗亂的大姊姊！<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+怎麼能說是搗亂呢，我把妳放出來的時候，妳不是還很開心嗎~<br>
+<span style="color:#4eb24e;">匆忙：</span><br>
+咳咳~今時不同往日啦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳們受傷了？<br>
+<br>
+我很確定她們狀態不佳，但NO.7理論上不存在其它能針對幽影的戰鬥人員。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……除非，是內鬥？但爭鬥應該不是發生在她們兩人之間……）<br>
+<span style="color:#ff9b93;">金鹿號：</span><br>
+指揮官，您的關注點真有趣呢。是真的擔心我們，還是在評估我們是否還有能力與你們一戰？<br>
+<br>
+'''''<span style="color:black;">选择项1：擔心妳們</span>'''''<br>
+'''''<span style="color:black;">选择项2：想知道真相</span>'''''<br>
+<span style="color:#ff9b93;">金鹿號：</span><br>
+原來如此……比起鬥爭，您果然更能看穿問題的本質。<br>
+「幽影與人類之間，不可能存在真正的理解。」<br>
+看來，說出這些話的人算錯了呢。<br>
+您和您的幽影同伴們，關係不錯呢~<br>
+<span style="color:#4eb24e;">匆忙：</span><br>
+是哦！指揮官會聽匆忙說話，還會陪匆忙玩呢~<br>
+<span style="color:#ff9b93;">金鹿號：</span><br>
+呵呵，我看得到。<br>
+我看得到……她們信任你。你也信任她們。<br>
+但僅僅是「信任」還不夠。我想要知道，你們能為彼此做到什麼程度。<br>
+<br>
+金鹿號說完的同時，腓特烈·卡爾抬起了手。<br>
+<span style="color:#4eb24e;">天津風：</span><br>
+等等，妳想做什——<br>
+<br>
+……<br>
+標槍的驚呼、天津風的憤怒、匆忙急急抓住我的手指的觸感，都在瞬間被拉遠——<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指……揮官……空間……切割……？<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+只留下你和她，應該就夠了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=人類與幽影|选项=10|主框=1|样式=primary|展开=是}}
+<br>
+再次睜開眼時，我置身於一處陌生的幽暗空間內，只剩下我與金鹿號彼此對望。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……這就是妳驗證「理解」的方式？<br>
+<br>
+金鹿號似乎想說什麼，但自她唇邊流出的聲音卻變成了無法理解的低啞雜音。<br>
+<span style="color:#ff9b93;">金鹿號：</span><br>
+「%￥#……」<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……啊，是因為虎不在……）<br>
+<br>
+金鹿號低語著靠近我，隨後忽然抬起手，扶住了我的肩膀。<br>
+下一秒，她的另一隻手繞到身後，用溫柔卻不容拒絕的力道，把我擁進懷裡。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+唔……？<br>
+<br>
+我下意識掙扎了一下。她的手臂立刻收得更牢，同時用另一隻手輕輕拍撫著我的背。<br>
+……在外人看來，這一幕大概有點容易讓人誤會。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳是想……暫時保持這個姿勢？<br>
+<br>
+不確定金鹿號能不能聽懂我的話，但她微不可察地點了點頭。<br>
+如果她真想動手，剛才的空檔已經足夠做很多事。於是我不再掙扎。<br>
+……直到那原本空無一物的黑暗深處，不知何時浮現出了一層模糊的光幕。<br>
+<span style="color:#4eb24e;">虎的聲音：</span><br>
+——節拍……融合……統一！<br>
+把我的共鳴之人——還回來！<br>
+<br>
+整片空間如玻璃魚缸般震顫崩散，腓特烈·卡爾的身影也從碎裂的光幕中跌出——光明湧入。<br>
+虎懸浮著，她的身體不再與陰影相連，而像是為了整合空間而硬生生將自己凝聚成了接近實體的存在。<br>
+她手中的指揮棒再一次重重落下，逼開了金鹿號和腓特烈·卡爾。<br>
+<span style="color:#ff9b93;">腓特烈·卡爾：</span><br>
+真誇張……沒想到之前看著那麼冷靜的妳，竟然會急成這樣。<br>
+<span style="color:#ff9b93;">金鹿號：</span><br>
+腓特烈，是我們太過火了。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官！唔……<br>
+<br>
+略帶痛楚的笑容浮現在虎的臉上，她肩側裂開一道傷口，細碎的光點不斷從那裡逸散。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你的身體……？！<br>
+<span style="color:#4eb24e;">虎：</span><br>
+不要露出這種表情……這只是短暫實體化造成的反噬而已。<br>
+<br>
+她跌落在我懷中，身體重新變回半透明的狀態。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+雖然但是這也太亂來了！！妳這麼做，是要冒著「消散」的風險啊！<br>
+<span style="color:#4eb24e;">虎：</span><br>
+我不在意。不能讓指揮官身陷危險。<br>
+<br>
+她抬起手觸碰我的臉頰，隨後閉上眼睛，似乎在聽什麼……片刻後，她再次露出微笑。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+……太好了……<br>
+你的旋律，還是那麼動聽……<br>
+從最初開始，就是這道旋律……跨越冰冷的群星，將我吸引到了這裡。<br>
+明明只是人類，卻能發出這樣清晰、溫柔……又美好得讓人沒辦法移開視線的聲音。<br>
+也是因為你——我第一次知道，原來真的會有人類願意停下來，認真聽我說話。<br>
+你是唯一一個，能與我共鳴的人。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+虎……<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+啊——氣死了！天津風大人現在要痛扁這些壞蛋出氣！<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+非常抱歉，我們認輸。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+晚了！我聽不到！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+天津風。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+…………好吧好吧好吧！！<br>
+<br>
+天津風氣呼呼地轉過臉去，我在確認好虎的狀態後看向金鹿號。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「驗證」夠了？那就輪到我提問了。<br>
+先解釋一下吧，之前到底發生了什麼事。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=特別來使|选项=11|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">金鹿號：</span><br>
+她叫獅，即使在幽影之中，也是最危險的一類。<br>
+喜歡狩獵，喜歡恐懼……刻意將你的員工丟到市政廳轉移嫌疑製造矛盾，再襲擊我，削弱我的力量。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+好可怕的策略……<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+但不管是獅，還是襲擊收容區的其它幽影……真正聽命的，都是另一個更加危險的存在。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那人是誰？<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+……安土。<br>
+<br>
+說出這個名字後，金鹿號臉上的笑意淡了一點。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+安土不喜歡人類，也討厭選擇親近人類的我們。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+親近人類？<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+沒錯。其實，幽影會被人類的情緒吸引的哦。<br>
+<span style="color:#4eb24e;">腓特烈·卡爾：</span><br>
+恐懼、孤獨、執念……這些東西對我們來說，都無比閃耀~<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+所以我才會認為，你們是可能改變世界的種子。<br>
+你們能理解我們的話語，不會把我們當成必須消滅的怪物。對我來說，確實是最佳的合作對象。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那作為妳的合作對象，我想了解那個安土接下來還會做什麼？<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+指揮官，你應該很快就會明白。<br>
+幸福都市計劃包含新紀元七座城市，NO.7只是其中之一。<br>
+安土真正想要毀滅的，是「幸福的新紀元」這個概念本身。<br>
+……如果您相信我的說法，就請按照這個方向繼續調查。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+邏輯上解釋得通，所以我相信。<br>
+<span style="color:#4eb24e;">昆西：</span><br>
+那個……那個……Lady？<br>
+急需處理的災後重建文件送到了哦……<br>
+<br>
+在代理市長的臨時辦公室內，昆西小聲地呼喚著眼前似乎沉浸在自己世界中的金鹿號。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+…………<br>
+<br>
+金鹿號回過神來，對昆西露出了淡淡的微笑。她沒有說話，只是示意對方把文件放到自己手邊。<br>
+<span style="color:#4eb24e;">昆西：</span><br>
+（嗚啊，好大的壓迫感……Lady果然和傳聞中一樣人狠話不多……）<br>
+請、請您過目！那，我就先退下啦……<br>
+<br>
+金鹿號若有所思地將文件收納好，隨後看了眼時間，起身離開臨時辦公室。<br>
+天亮之後，覆蓋全城的異常污染終於退了。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+嗯……旋律重回和諧~<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+能重新看到這麼普通的街道，我都有點想哭了……<br>
+<br>
+市政廳的臨時接待點已經搭建完成。因為昨晚的大規模惡性幽影傷人事件，新紀元都市NO.1也會派遣使者前來慰問。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+早安，指揮官。<br>
+<br>
+金鹿號從市政廳的接待車上下來，微笑著打了個招呼。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+切，現在膽子這麼大，敢在這麼多人面前說話了？不怕其它人發現你是幽影？<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+這不是相信虎小姐的力量，能幫我打好掩護嗎~<br>
+<br>
+就在此時，入城口外突然出現了一隊黑色的車隊，旗幟上印著新紀元都市NO.1的徽記。<br>
+那是誕生了「幸福都市計劃」的城市，也是所有新紀元都市的中樞。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+NO.1的特使來了呢。指揮官，接下來就是你們的高光時刻了哦。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=以幸福之名|选项=12|主框=1|样式=primary|展开=是}}
+<br>
+臨時搭建的發布台在晨光中顯得特別醒目。<br>
+即將在這裡開始的，既是針對昨夜事件的公開說明會，也是一場表彰儀式。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+好多人啊……！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+畢竟是正式場合。站好了新人，別左顧右盼啦。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+我、我已經很努力不去看旁邊那一排鏡頭了！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+放輕鬆，保持微笑就好。其它的我來應對。<br>
+<br>
+經歷昨夜的動亂後，城市街道仍殘留著受損的痕跡，但聚集在廣場上的人群已經重新醞釀出了足夠的熱情。<br>
+在一陣熱情的討論聲中，那位特使終於登上了演講台——<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+各位熱心市民，久等了！<br>
+我是來自新紀元都市NO.1的特別使者，克里夫蘭！今天，由我向各位傳達最高把八人議會代表們的正式意見。<br>
+首先，針對昨日發生在這裡的異常入侵事件，我們向所有奮戰在第一線的人員致以敬意。<br>
+尤其是在複雜的局勢中，成功控制異常擴散、穩定市區秩序，並為後續收容行動做出決定性貢獻的——異常事件調查中心。<br>
+經最高議會審議通過，即日起，異常事件調查中心由民間合作組織，正式轉正為新紀元都市NO.7的官方機構！<br>
+<br>
+短暫的安靜後，中央廣場上爆發出一陣熱烈的掌聲。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+轉、轉正了？！我們轉正了？！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+以後出任務，就能走正式報銷了。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+怎麼感覺流程變複雜了……<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+此外，對本次行動中的傑出貢獻者——<br>
+異常事件調查中心的指揮官，及其下屬的行動組成員，最高議會也給予了公開表彰！<br>
+<br>
+幾乎同時，聚光燈與鏡頭一齊轉了過來。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗚嗚嗚哇哇哇！糟、糟糕，表情都變形了！這樣登報就不好看了——<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+噗~看來只能是我天津風大人一枝獨秀了~<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+在幽影日益威脅到我們幸福都市計劃推進的情況下，我們需要這場勝利來證明一個事實——<br>
+異常並非無法應對，幽影也不是不可戰勝。<br>
+<br>
+她向前踏了一步，披風下擺在風中利落揚起。<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+幸福都市計劃從建立之初，目標就只有一個——讓全人類獲得幸福。<br>
+秩序、安定、免於恐懼的生活……這些都不是特權，而是每一個人都該享有的未來。<br>
+所以，收容並非終點。我們不會滿足於僅僅將幽影關起來、貼上編號、紀錄檔案。<br>
+我們會研究它們，理解它們，最終——徹底消滅它們。<br>
+<br>
+台下爆發出更大的歡呼聲，連一旁維持秩序的警戒人員都收到氛圍感染，驕傲地挺直了背。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+…………<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+很有感染力的演講，不過……<br>
+<span style="color:#4eb24e;">虎：</span><br>
+要大聲說出來嗎？你不認同她的話。<br>
+<br>
+就在這時，發布台上用來呈現轉播畫面的大螢幕忽然閃爍起來。<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+嗯……？<br>
+<span style="color:#4eb24e;">系統：</span><br>
+警告！警告！偵測到異常訊號插入——<br>
+<br>
+一陣狂暴的雪花雜訊之後，再次出現在螢幕上的卻是——<br>
+<span style="color:#ff9b93;">？？：</span><br>
+喂喂，能聽見嗎——躲在泥巴盒子玩扮家家酒的各位？<br>
+哼……特地轉換成人類能理解的發音，聽起來還真是不習慣啊。<br>
+也罷，為了讓你們明白這場大火起於何處……必要的導言還是有必要的~<br>
+照你們人類那套陳腐的規矩，敵人登場時似乎總得報上名字、擺好姿勢，再念一遍無聊的開場白。<br>
+真遺憾，我對這種重複了太多次的舊橋段毫無興趣。<br>
+我們就直接進入正題吧。<br>
+看好了——BOOM！<br>
+我要把你們費盡心思做無用功的幸福都市計劃，全部都燒成灰~<br>
+<br>
+就在她話音落下的瞬間，螢幕畫面猛地切換——<br>
+<span style="color:#4eb24e;">克里夫蘭：</span><br>
+什麼……？！<br>
+都市NO.5、NO.6……NO.3和NO.4……<br>
+連NO.2都發出警報了？！<br>
+……抱歉了，各位，我要先返回NO.1確認狀況！<br>
+<br>
+一片混亂中，我注視著螢幕上笑容肆意的少女，看向身旁明顯露出防備姿態的金鹿號。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+她就是妳提到的那位？<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+……對。背負「不死火」之名的大魔王——安土。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+「責任、擔當、拒絕逃避的勇氣……這些都不是負擔，而是每一個人都應該直面的未來……」<br>
+「所以，收容並非終點。我們不會滿足於僅僅將人類關起來、貼上編號、送去工作……」<br>
+「我們會研究你們，分裂你們，最終——使你們徹底屈服。」<br>
+呵呵，讓我們在烈火燃盡後的新世界再會吧~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=重逢的力量|选项=13|主框=1|样式=primary|展开=是}}
+<br>
+安土的宣言透過公共頻道擴散後，整個新紀元都市NO.7在最短時間內進入了一級警戒狀態。<br>
+但與預期相反的是——幽影們並沒有再進攻NO.7。<br>
+在緊急召開的作戰應變會議上，一塊塊懸浮螢幕上顯示來自不同城市的警報。<br>
+每個資深老道的作戰參謀都在等沉不住氣的人先開頭。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗚哇……指揮官帶著虎前輩去市政廳討論情報細節去了，但為什麼是我來參加會議啦……<br>
+<br>
+作為調查中心行動組成員的標槍，被推到了不屬於新人的席位上。<br>
+<span style="color:#4eb24e;">巴托洛梅奧·科萊奧尼：</span><br>
+……以我方立場來說，情況尚未明朗，還是不宜貿然調動主力。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+沒錯。NO.7是目前唯一穩定的都市，守住這裡本身就是最大的貢獻。<br>
+<span style="color:#4eb24e;">布魯克林：</span><br>
+但這樣的話，外交方面……<br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
+誰能保證這不是誘敵手段？萬一我們被調虎離山了怎麼辦？<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+幫或不幫都可以……我只是覺得趁機賣一波已淘汰……唔，庫存溢出的軍火也能為城市創造收入。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+可、可是……現在的重點是，其它都市正遭到幽影入侵啊！<br>
+<span style="color:#4eb24e;">巴托洛梅奧·科萊奧尼：</span><br>
+正因如此，才更需要冷靜。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+感情不能取代判斷，我們需要先權衡風險。<br>
+<br>
+幾道平靜卻密不透風的聲音疊在一起，很快就將標槍的反對壓了下去。<br>
+鈴——就在這時，標槍的手機響了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+是澤西的來電……等下，99+？！<br>
+抱、抱歉！我離開一下！<br>
+<span style="color:#4eb24e;">澤西：</span><br>
+標槍姐姐！妳終於接電話了！<br>
+新聞裡說新紀元都市出事了，我們打了好多電話給妳！真的嚇死了！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+我沒事啦，至少NO.7現在還很安全……暫時、暫時是這樣？<br>
+不對不對，剛才說得太委婉了。因為有超厲害的指揮官保護我們，只要齊心協力很快就能把壞幽影都趕出去啦！<br>
+<span style="color:#4eb24e;">澤西：</span><br>
+雖然短短幾天就聽你說了不少那位「指揮官」的好話……但是……<br>
+<span style="color:#4eb24e;">丘比特：</span><br>
+姐姐，回家嗎？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+…………<br>
+現在……暫時，還不可以哦。<br>
+是這樣的！NO.7非常需要有能力收容幽影的人，所以……姐姐如今，對這座城市非常重要哦！<br>
+<br>
+——真的嗎？回想起會議室剛才甚至不算爭吵的討論，標槍的笑容黯淡了一些。<br>
+<span style="color:#4eb24e;">澤西：</span><br>
+好吧……那妳遇到危險的時候一定先保護自己！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗯，我答應。妳們也別亂跑，乖乖待在安全區。我們保持聯絡。<br>
+<br>
+掛斷通訊後，走廊上一下子安靜了下來。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……要是剛才在會議上，也能擺出面對妹妹們時的氣勢就好了……<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+會議室不是靠嗓門分勝負的地方。<br>
+<br>
+抱著資料箱的少女從轉角處出現，姿態依舊俐落可靠——就和她在前往NO.7的列車上帶給標槍的感受一般。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+Z23……！妳怎麼在這裡？<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+助理參謀，負責送資料、做整理，以及替某些大人物尋找她們五分鐘前剛放下的文件。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+噗……哈哈，妳是故意用這種說法安慰我的嘛~<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+是事實。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+對不起！<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+妳剛剛在裡面的發言，我聽到了一部分。妳想說服她們去幫忙，對吧？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗯。可是我一開口，就覺得自己講得既不成熟，也不專業……<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+那就別先想著「贏過所有人」。先找到最容易動搖的人，說出能讓她們點頭的話。<br>
+有的人隨波逐流，有的人聽從利益，有的人只相信風險評估表。<br>
+說服別人不需要喊口號，是需要讓對方覺得——妳的觀點，也是她的觀點。<br>
+<br>
+她從資料箱的最上面，抽出一疊文件。<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+給妳。與會者名單、近期立場判斷、過去三年的會議發言習慣。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+好、好厲害……<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+為了進入我夢想中的產業，這些準備不算什麼。<br>
+……我們曾經說過一樣的對話，對吧。<br>
+但現在，妳已經站在那個能改變些什麼的位置上了——至少該試著相信自己做得到。<br>
+<br>
+標槍緊緊握住了Z23遞來的文件，就像努力握住了某種險些從手中滑走的東西。<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+好了，我得去準備黑咖啡了。拯救世界的大人們，必須保持清醒。<br>
+標槍，加油衝。總有一天，我也會追上妳的。<br>
+<br>
+說完，Z23朝標槍輕輕點了點頭，抱起剩下的資料離開了走廊。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+……即便真的要支持其它城市，也應該優先考慮協調好物資相關問題。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+我贊同這個觀點。<br>
+<br>
+返場的標槍聲音平穩而清晰。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+如果NO.7現在是唯一還有餘力行動的都市，那「按兵不動」就不是謹慎，而是把選擇權交給敵人。<br>
+這反而對我們的長期規劃不利！<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+……嗯……<br>
+<br>
+會議室內原本一邊倒的氣氛，終於出現一絲鬆脫。<br>
+<span style="color:#4eb24e;">布魯克林：</span><br>
+鑑於目前聯絡不上位於中心區域的NO.2和NO.1……或許我們可以先打通一座外圍都市，逐步擴建聯絡系統。<br>
+<span style="color:#4eb24e;">巴托洛梅奧·科萊奧尼：</span><br>
+……不，還是先從現實的角度去考慮。我只接受階段性、有極限的支援行動。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+但規劃從來都是整體的，而不是僅限局部——<br>
+<br>
+就在爭論即將再度開啟時，會議室大門再度開啟。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我支持標槍的提案。<br>
+與其坐等NO.7成為孤島，不如趁現在還有行動能力，主動把道路重新連結。<br>
+<span style="color:#4eb24e;">金鹿號：</span><br>
+各位參謀，市政廳已經做出決策——準備部署支援行動吧。我們會盡力援助其它都市。<br>
+<br>
+短暫而有效率的整備工作結束後，NO.7的支援行動小組通過都市間的環形公路，前往鄰近的城市——新紀元都市NO.5。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=新紀元都市NO.5|选项=14|主框=1|样式=primary|展开=是}}
+<br>
+坐落在新紀元都市群西北角的NO.5是一處企業聚集地，一片由摩天大樓構成的蒼白「森林」。<br>
+縱使檢查口外圍高牆覆著綠植作為偽裝，但那緊閉的入城口依舊帶給人冰冷而生硬的壓迫感。<br>
+我上前幾步，檢查口上方的識別裝置立刻亮了起來。<br>
+<span style="color:#4eb24e;">識別裝置：</span><br>
+身份識別中……識別通過。 來訪單位：新紀元都市NO.7，「異常事件調查中心」指揮官。<br>
+通話已轉交上級部門，請您原地等待。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+NO.5……聽說那裡的管理者是個很厲害的企業家明石……<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+是我眼花了嗎，怎麼感覺城裡的高樓大廈都還亮著燈……不會是還在工作吧？！<br>
+<span style="color:#ff9b93;">？？：</span><br>
+嗯嗯，條件再艱苦，也不能停下工作~<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+是敵人？！<br>
+<span style="color:#ff9b93;">？？：</span><br>
+呵呵，反應這麼快，看來NO.7確實沒把時間浪費在苟且偷生上呢。<br>
+<br>
+伴隨著輕微的空間扭曲，搖擺著狐尾的少女不知何時已然欺近，纖細的手腕悄然攀上我的肩膀。<br>
+電光火石間，虎已經發動攻勢，狐狸少女則靈巧地完成了閃避。<br>
+<span style="color:#ff9b93;">？？：</span><br>
+哎呀，吃醋了？指揮官大人還真是搶手呢~<br>
+<span style="color:#4eb24e;">虎：</span><br>
+說話的時候不要動手動腳。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+既然都現身了，就直接說明來意吧。<br>
+<span style="color:#ff9b93;">？？：</span><br>
+好吧~呵呵呵，傳聞果然不假，您確實能「理解」我們的話語。<br>
+這樣的話，不做個自我介紹就有些失禮了。<br>
+<span style="color:#ff9b93;">{namecode:302}：</span><br>
+我是白鳳，領命攻擊此地的幽影。<br>
+但我無意成為你們的敵人。<br>
+準確來說，我這次是專程替那位魔王來看一眼，這位與眾不同的指揮官大人~<br>
+當然，我本人對您也很有興趣。<br>
+作為示好……離開前，請聽聽我的提醒吧，親愛的指揮官大人。<br>
+就算我不攔你，前面也不會有人歡迎你。<br>
+希望下次，我們能以不同於今日的身份重逢……<br>
+<br>
+下一秒，她的身影便化作一陣飄散的白色殘影，無聲地消失了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+這、這算什麼啊……提前跑來劇透嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……先試著聯絡上NO.5內部吧。<br>
+<br>
+短暫的沉默後，伴隨著一聲「滋」的輕響，一道投影出現在我們面前。<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+感謝你們的來訪，我是明石董事長的17號秘書。現在就由我來對各位進行情況說明。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+欸……欸欸？等等……妳是暴風雨？真的是暴風雨！<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+……啊。是妳，列車上的新人。<br>
+唔，能在這種情況下見到熟人，多少比對著報表舒服點。<br>
+倒也不要驚訝到眼淚汪汪吧……我只是換了個城市繼續打工而已。<br>
+資金在流動，產業在轉移，打工人的遷徙也是一種時代法則。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+呃，妳們認識？<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+嗯，不過寒暄就到這裡吧。<br>
+非常抱歉，明石董事長目前拒絕與各位會面。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+竟、竟然拒絕？我們明明是來幫忙的啊？<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+官方說法是，NO.5目前仍有自行處理局勢的能力，不接受外部干預。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+你剛剛說的是官方說法，那非官方說法是？<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+……外來者的援助可能別有用心。我只能說到這裡。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+怎麼會這樣……都已經麻煩纏身了，不該先放下成見一起對付幽影嗎？<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+沒錯，所以我們決定先開十場會議來明確現階段的因應方案。<br>
+……抱歉，生產不能停，我該回職位了。<br>
+不過……<br>
+<br>
+在投影熄滅前，暴風雨露出了一個淡淡的微笑。<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+……見到老朋友之後，我好像也久違地有了點幹勁。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=「我們」是怪物|选项=15|主框=1|样式=primary|展开=是}}
+<span style="color:#ff9b93;">安土：</span><br>
+我都聽她們說了~<br>
+你們差不多已經窮途末路了呢。<br>
+<br>
+——雖然難以置信，但此時此刻，我正坐在一間過度安靜的會客室裡，與這場動亂的源頭隔桌相對。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+欸~聽說你們告別NO.5後的下一站是NO.4……<br>
+收到了怎樣的回復？說出來讓我開心開心吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+「相關提案已轉交審議，請耐心關注後續近況通知。」<br>
+<span style="color:#ff9b93;">安土：</span><br>
+噗……那NO.3呢？想必一定不會把你拒於門外吧~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+請我們喝了杯茶，送了幾套城市遊樂園風格訂製週邊，把我們送走了。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+這麼說來，總不會在NO.6也一無所獲吧？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+倒也不算拒絕，只是沒能排進城市管理者們的行程表。<br>
+<br>
+一座城又一座城，一雙又一雙的目光。<br>
+質疑、沉默、防備、遲疑。這便是我們全部的收穫。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+真過分啊，一群老古板。<br>
+類似的閉門羹我在NO.2也吃了不少次哦，這裡的管理者謝菲爾德……待客方式相當粗暴呢~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+那還真是可喜可賀。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+沒關係，她們也差不多要支撐不住了。<br>
+<br>
+抵達NO.2後，我沒有受到任何幽影攻擊，就暢通無阻地抵達了安土所在的位置。<br>
+不過，這份「邀請」只針對我一個人。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+當然，我專程請你過來，不是為了說這種「喪氣話」……<br>
+成為我的人吧，指揮官。<br>
+<br>
+她將折扇橫在唇邊，彷彿不會有什麼能動搖她那愉快的笑容。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+你能理解我們的意志，我會需要你的意志。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……難道是想讓我替妳指揮幽影？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+聽起來不錯。這樣的話，我們隨時可以反咬一口。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+呵呵，我可不敢把自己的武器庫，交到像你這麼有魅力的傢伙手裡~<br>
+開誠佈公地說——我想讓你幫我收復人類。<br>
+讓這群軟弱、遲鈍、充滿僥倖心理的傢伙，學會承認自己不是世界的中心。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+然後呢？<br>
+<span style="color:#ff9b93;">安土：</span><br>
+什麼然後？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+收復完之後，妳還有什麼計劃？<br>
+<span style="color:#ff9b93;">安土：</span><br>
+沒想過。<br>
+<br>
+安地收起笑容，眼神清澈但表情嚴肅地思考了許久。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+這種問題能不能等打完再想？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+可以啊，等我擊敗妳之後再想都來得及啊。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+呵呵，人類果然是人類，我不該以為自己能說服你的。<br>
+不過嘛……<br>
+你就堅持你的觀點吧，這樣還有趣一些~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+承蒙厚愛，我先告辭了。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+好啊。我說過了，我不是不講道理的人。<br>
+<br>
+她站起身來，抬手指向會客室外那條無人的走廊。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+只要你能走出我的大樓，我就給你離開的機會。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……通道兩側不會埋伏了刀斧手吧？<br>
+<span style="color:#ff9b93;">安土：</span><br>
+才不會~那種戲碼也太俗了吧！<br>
+翔鶴，妳退下。<br>
+<span style="color:#ff9b93;">{namecode:95}：</span><br>
+是。<br>
+<br>
+從通道陰影中走出的少女，在淺淺欠身後離開了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（……還真有埋伏。）<br>
+<span style="color:#ff9b93;">安土：</span><br>
+好了，明面上的危險我幫你撤掉了。<br>
+你不是很擅長理解「我們」的思考嗎？就下來，就自己想辦法走出去吧。<br>
+記住了……可不能找「別人」幫忙喔~<br>
+<br>
+明明只是條不算長的走廊，我卻走得格外緩慢。<br>
+四周安靜得過分，鞋底踩過地面的聲音在空曠中被拉得很長，像有什麼東西始終貼在我身後，分毫不差地重複著我的腳步。<br>
+直到盡頭的電梯在面前緩緩打開，我才幾乎察覺不到地吐出一口氣。<br>
+走進電梯，按下一層，電梯平穩下降。就在我緊繃的神經終於稍微鬆開時——<br>
+<span style="color:#4eb24e;">安土：</span><br>
+電梯停下，門開了。外面不是一層。<br>
+她站在浸潤在紅光中的走廊盡頭看著我，嘴角含著一抹近乎親密的笑。<br>
+歡迎回來。<br>
+怎麼，才分開這麼一陣子，就開始想我了？<br>
+別急著走嘛……呵呵呵~<br>
+電梯門重新閉合。電梯便再次發出一聲輕微震動，繼續向下運行……<br>
+……很快又停下來。<br>
+電梯門開了。門外還是那條走廊，還是那片紅得黏膩的光。<br>
+只是這一次，她離我近了許多，近到能看清她的眼神，散發出令人有些脊背發冷的濃厚興致。<br>
+你看。你明明知道外面不對勁，卻還是會本能地期待剛才那只是個誤會。<br>
+人類總是這樣，一邊害怕，一邊幻想怪物會突然變得溫柔。<br>
+——就讓我做點符合身分的事吧。<br>
+電梯門第三次關上。<br>
+後頸泛起一絲冰冷的麻意。一縷柔軟的髮絲擦過耳側。緊接著，纏綿而冰冷的吐息慢慢落在皮膚上。<br>
+現在，你還會覺得，我是個凡事都可以商量的存在嗎？<br>
+<br>
+……她留下的氣味慢慢消散。電梯再次下行，這次沒有多餘的停留。<br>
+一層大廳終於出現在電梯外。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+你走出來了。那我就遵守約定，放你離開。<br>
+接下來你一定要好好照顧自己，要準時喝酒，不舒服的時候就吃包洋芋片。<br>
+宵夜不要吃太早，早餐不要常吃，天熱的時候記得添棉襖。<br>
+沒事多玩手機，看書記得關燈~我不在的日子裡，你一定要好好的~<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+…………<br>
+<span style="color:#ff9b93;">安土：</span><br>
+最後——記得把今天看到的東西，帶回去講給別人聽。<br>
+去吧，指揮官。帶著你那點搖搖欲墜的信念，繼續敲下一扇門。<br>
+等你什麼時候終於願意接受我的提議——<br>
+我會很歡迎你回來。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=破局|选项=16|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">金鹿號：</span><br>
+「幫我收復人類」……倒是很像她會說的話。<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+指揮官，有一則通訊請求，請您查看。<br>
+<br>
+一名抱著文件夾的陌生後勤人員快步走了過來。<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+另外，標槍那邊的會議爭論已經持續十分鐘了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+好，我這就來處理。<br>
+<br>
+對方點了點頭，毫無存在感地退了出去。<br>
+——十分鐘前。<br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
+……幹嘛都沉默著呢~？<br>
+既然妳們都不願意開口，那就換我來點明情況吧。<br>
+我們現在要面對的，不僅是幽影，還有「被幫助者本人」的敵意。不解決這個問題的話，計劃很難推進。<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+不如我們先把NO.7經營成安全可靠的軍事貿易中心，之後再……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……正因為這樣，我們才更不能停下來！<br>
+如果因為別人不信任我們，我們就什麼都不做……那安土不就已經贏了嗎？<br>
+<span style="color:#4eb24e;">巴托洛梅奧·科萊奧尼：</span><br>
+我理解妳的心情，但是……<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+我可以代為回答一部分質疑。<br>
+<br>
+會議桌末席，一直負責紀錄整理資料的Z23抬起了頭。<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+從純粹的戰略角度來看——各位心裡一定早就明白了，安土這次的行動，目標是製造「孤立」。<br>
+讓敵人得逞的話，必然對我們不利。<br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
+……助理參謀，現在輪到妳來主導會議了~？<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+不敢。我只是覺得，本次會議的目的是做出決斷，既然如此，就不該在討論階段僅僅輸出負面觀點，斷絕其它可能性。<br>
+這樣更像在意氣用事。<br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
+呵呵，這句話倒是有道理呢~讓我高看妳一眼了。<br>
+<span style="color:#4eb24e;">Z23：</span><br>
+不敢。<br>
+<span style="color:#4eb24e;">阿賈克斯：</span><br>
+這種時候承認就好啦！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+是、是呢！Z23說得沒錯！<br>
+我們現在去做，未必一定能成功。但如果從一開始就因為害怕失敗而放棄，那就真的什麼都改變不了了！<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+……即便如此，仍需要一個足以扭轉局面的實際契機。<br>
+否則，妳們的發言依舊只是立場表達。<br>
+<br>
+就在會議再次滑入僵局時，懸浮螢幕上忽然插入了一則緊急新聞——<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+……訊號接收良好……開始吧。<br>
+<br>
+畫面中央，暴風雨站在臨時搭起的發言台前，神情雖然疲憊，眼中卻有光。<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+這裡是來自新紀元都市NO.5的廣播，我是NO.5企業聯合會臨時代表，暴風雨。<br>
+我們在此鄭重通知各都市——聯合會前董事長明石，現已被解除一切管理權限。<br>
+城市的反幽影戰線已經由我方接管和組織維護。<br>
+所以，經內部表決通過，NO.5正式向新紀元都市NO.7提出互助請求。<br>
+若貴方仍願意伸出援手，我們會以開放通道、分享補給與情報作為回應。<br>
+<br>
+短暫的停頓後，暴風雨像是想起什麼般，又補了一句。<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+對了，如果你們想知道明石董事長現在怎麼樣了……<br>
+她很好，只是終於被請去親自體驗了一下，什麼叫「局勢不會靠開會就能變好」。<br>
+<br>
+沉默沒有在會議室裡瀰漫太久，不知道是誰沒忍住笑出了聲。<br>
+<span style="color:#4eb24e;">布魯克林：</span><br>
+NO.5裡竟然還有有膽量的傢伙……？<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+市場真是瞬息萬變……<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+如果NO.5願意和我們展開合作……對我方的長期規劃也很有利。<br>
+<span style="color:#4eb24e;">巴托洛梅奧·科萊奧尼：</span><br>
+而且，這意味著「拒絕合作」的態度並非不可逆轉。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+沒錯！只要還有人願意改變，我們就不該先放棄她們！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+說得好。<br>
+<br>
+迎著眾人的視線，我帶著最新消息回到會議室。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我已經寄給了NO.5正式合作的邀請。接下來，我們會攜手共同開啟局面。<br>
+還有一個好消息——NO.5的行動帶動了其它城市，我們將在後續活動中獲得更多支持。<br>
+如果安土想看到的，是我們因為恐懼和猜疑停在原地……<br>
+那她會失敗。<br>
+<br>
+這一次，會場中的沉默不再意味著抗拒，而是一種同頻的決心。<br>
+<span style="color:#4eb24e;">巴托洛梅奧·科萊奧尼：</span><br>
+我同意繼續執行支援計劃。<br>
+<span style="color:#4eb24e;">{namecode:546}：</span><br>
+相關後勤規劃，已經根據最新狀況進行了更新。<br>
+<span style="color:#4eb24e;">布魯克林：</span><br>
+外交與聯絡文書可以交給我。<br>
+<span style="color:#4eb24e;">{namecode:20}：</span><br>
+急需的軍事物資，就以市價八折的優惠賣給NO.5吧。<br>
+……你們都這樣看著我幹嘛？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=四城討伐戰Ⅰ|选项=17|主框=1|样式=primary|展开=是}}
+<br>
+「人們曾說，新紀元都市的每一座城市，在建立之初都像徵著一種美德」<br>
+「希望之城NO.7……正義之城NO.6……慷慨之城NO.5」<br>
+「節制之城NO.4……勇敢之城NO.3……慈悲之城NO.2」<br>
+「還有書寫著人類未來的智慧之城，NO.1」<br>
+「但如今，智慧渺無音訊，正義已然淪陷，慷慨的最是昂貴」<br>
+「節制又變放縱，勇氣化作塵土，慈悲亦是冷酷」<br>
+「——唯有希望，歷經風浪，重燃光芒。」<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+「今天，我來到了新紀元都市NO.5……」<br>
+「這裡的人們曾經最不缺的就是目標、方案和願景，只要增值足夠漂亮，人生就不算失敗。」<br>
+<br>
+高處，名為白鳳的狐狸女孩正安靜地俯瞰著這一切。<br>
+<span style="color:#ff9b93;">{namecode:302}：</span><br>
+呵呵……真是有趣。<br>
+我原以為，拔掉那根搖搖欲墜的支柱後，這裡會先亂上一陣子。<br>
+沒想到她們效率驚人，這麼快就把新的骨架搭起來了~<br>
+<span style="color:#4eb24e;">虎：</span><br>
+對於有人正在組織反抗力量這件事，妳好像一點也不著急……<br>
+<span style="color:#ff9b93;">{namecode:302}：</span><br>
+當然~我很好奇，這些人到底是一時逞強，還是真的有本事把局面接過去。<br>
+不過能把場面收回來，和能不能守住它，可是兩回事。<br>
+<br>
+<br>
+狐尾揚起，華麗而危險的鋒芒交錯襲來，虎在第一時間迎上前去，為我撕開那片白色殘影。<br>
+當收容裝置的輝光最終籠住白鳳時，她沒有掙扎，只是若有所思地望向我。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+真沒想到，您能帶給她們這麼多的改變……<br>
+您比我想像中，更有意思呢。<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+「今天，我來到了新紀元都市NO.4……」<br>
+「人們可以在這裡當個『成熟』的大人，用金錢購買想要的一切，直到填滿內心的空洞。」<br>
+<br>
+龐大的廣告螢幕仍在循環播放甜美的廣告促銷詞，但原本精緻優雅的氛圍卻被掀翻的展櫃破壞。<br>
+一道半透明的身影披著輕柔白紗，靜靜立於其中，彷彿是從舊夢中走來的幽靈。<br>
+<span style="color:#ff9b93;">光辉：</span><br>
+睡吧，睡吧……可愛的孩子們。<br>
+在光輝的歌聲中，一起進入夢鄉吧~<br>
+<span style="color:#4eb24e;">{namecode:545}：</span><br>
+躺……<br>
+<span style="color:#4eb24e;">尼古拉斯：</span><br>
+Zzz……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗚哇，商場裡怎麼睡了一地的人呀！<br>
+<span style="color:#ff9b93;">光辉：</span><br>
+這次，你們不需要做任何決定……<br>
+不需要挑選更適合的商品，更體面的生活……<br>
+不必擔心選錯，也不必擔心失去。<br>
+像這樣溫柔的歌聲，能撫平你們的痛苦嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我明白妳的心情，妳只是擔心她們撐不住。<br>
+但一個人的情緒，不該被她人奪取。<br>
+<br>
+她望著我，目光是柔和的。隨後，溫暖的白光如潮水般漫開，試圖擁抱所有躁動的心靈……<br>
+<br>
+<br>
+這一次，虎沒有使出全力。隨著收容裝置閉合，光輝垂下眼睫，像是終於放下了什麼。<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+能輸給您，光輝心甘情願呢，呵呵……<br>
+或許是因為，您真的能夠理解我的想法吧。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=四城討伐戰Ⅱ|选项=18|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+「今天，我來到了新紀元都市NO.3……」<br>
+「人們可以在這裡短暫地忘記痛苦、擁抱快樂，在閉園之前。」<br>
+<br>
+夜色中，摩天輪緩緩轉動，彩燈依舊閃耀。但在熱鬧的表像下，尖叫聲正在蔓延。<br>
+貓耳少女坐在園區最高的招牌雕像上，悠閒地晃著腿觀察這片失控的樂園。<br>
+<span style="color:#ff9b93;">？？：</span><br>
+你們終於來啦~<br>
+<span style="color:#ff9b93;">柴郡：</span><br>
+柴郡還以為，要把氣氛再炒熱一點，你們才會喜歡這裡呢喵！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+氣氛？這裡都快變成大型事故現場了！<br>
+<span style="color:#ff9b93;">柴郡：</span><br>
+遊樂園本來就該熱鬧的呀~<br>
+笑聲也好，尖叫也好，跑來跑去也好——大家都在動，不是很有趣嗎~<br>
+<span style="color:#4eb24e;">虎：</span><br>
+她就是嫌這裡之前太無聊了。<br>
+<span style="color:#ff9b93;">柴郡：</span><br>
+對嘛對嘛~<br>
+商家老老實實製作含鹽量翻倍的食物，客人們老老實實購買價格翻倍的飲料~大家都太老實啦！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+所以妳才把這裡弄亂……因為妳覺得，真正的遊樂園本來就應該有點「失控」？<br>
+也算有趣的想法。<br>
+<span style="color:#ff9b93;">柴郡：</span><br>
+咦，親愛的竟然不是來對柴郡說教的嘛？<br>
+嘿嘿，這下柴郡有點開心了~<br>
+<br>
+她從高處一躍而下，如同一抹抓不住的影子，在扭曲的光影之間嬉笑著忽隱忽現——<br>
+<br>
+<br>
+虎追著那抹輕盈的殘像撲出，在這片迷宮中為我撕開真正的通路。<br>
+當收容裝置的輝光終於落下時，柴郡鼓起臉頰，像是對遊戲提早結束有些不滿。<br>
+<span style="color:#4eb24e;">柴郡：</span><br>
+嗚哇，輸了輸了~<br>
+不過，親愛的願意陪柴郡玩到最後，這點還不錯哦~<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+「今天，我來到了新紀元都市NO.6……」<br>
+「機器在晝夜不停地運轉，空氣始終瀰漫著機油、蒸汽和高溫金屬的氣味。」<br>
+<br>
+一道高挑的身影正斜倚著巨型機械，像在等待最後一場演出開場。<br>
+<span style="color:#ff9b93;">獅：</span><br>
+呵呵，辛苦你們走到這裡了。<br>
+我還以為前面那幾位，多少能拖慢些你們的進度呢。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+啊……！她就是之前在NO.7裡抓到我的那個壞蛋！！<br>
+<span style="color:#ff9b93;">獅：</span><br>
+嗯？喔~確實有這麼回事呢。<br>
+能從我手中逃掉，值得獎勵哦。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+這麼說，妳很強嗎？<br>
+<span style="color:#ff9b93;">獅：</span><br>
+怎麼說？妳要試試我的牙齒是否鋒利嗎？<br>
+<span style="color:#4eb24e;">虎：</span><br>
+我的也未嘗不利。<br>
+<span style="color:#ff9b93;">獅：</span><br>
+呵~說大話之前，還是先讓我看看你們有沒有長進吧！<br>
+<br>
+一柄巨大的剪刀，不知何時已經被獅緊握在掌心。她踩著突然失控的機械，如狂躁的野獸般向我們衝來——<br>
+<br>
+<br>
+當收容裝置的輝光最終鎖住獅時，她先是一愣，隨後竟低低笑了起來。<br>
+<span style="color:#4eb24e;">獅：</span><br>
+願賭服輸……這次，是你們贏了。<br>
+<br>
+至此，NO.5、NO.4、NO.3、NO.6相繼與我們建立起合作<br>
+新的戰線終於再次推到了新紀元都市NO.2——<br>
+「大魔王」安土的據點。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=直面{namecode:315}|选项=19|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+「新紀元都市NO.2……」<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+停一下。我之前就想問了，怎麼每次都有妳？<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+……打擾了，我只是路過紀錄一下狀況。戰鬥部分就麻煩各位了。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+嗚哇，和上次比起來，現在完全就是「準備開打」的氣氛嘛！<br>
+<span style="color:#4eb24e;">虎：</span><br>
+前方的幽影數量……很多。她把路封住了。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我們也已經做好應對的準備。<br>
+<br>
+我啟動收容裝置，幾道熟悉的輝光依序落地。<br>
+<span style="color:#4eb24e;">柴郡：</span><br>
+哇~這次場面這麼大？親愛的終於捨得帶柴郡玩點刺激的啦？<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+要與昔日同僚和那位魔王交戰嗎？看來這次，沒有客套閒聊的餘裕了呢~<br>
+<span style="color:#4eb24e;">光辉：</span><br>
+沒關係的，踏上了戰場的孩子也依舊是孩子，只需要繼續乖乖睡著就好了哦。<br>
+<span style="color:#4eb24e;">獅：</span><br>
+呵……竟然把我們這些「敵人」全都叫出來助陣。<br>
+指揮官，你對自己還挺有信心呢。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+確、確實，我們這邊也有種反派集會的感覺欸？！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+……唔，還挺酷的。<br>
+<span style="color:#ff9b93;">敵對：</span><br>
+…………<br>
+你們好。<br>
+<span style="color:#ff9b93;">{namecode:95}：</span><br>
+請多關照~<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+妳好！請多關照！<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+妳好……現在是打招呼的時候嗎？<br>
+<span style="color:#ff9b93;">{namecode:95}：</span><br>
+打招呼也是很重要的工作呢。<br>
+<span style="color:#ff9b93;">敵對：</span><br>
+安土大人說，你們不能再往前了。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+喂喂，難道我們還要聽她的話嗎？<br>
+<span style="color:#ff9b93;">敵對：</span><br>
+唔，我只是轉達，各位無須照辦。<br>
+不過，安土大人也叮嚀了，如果你們要過來的話，就讓我把你們打回起點。<br>
+我覺得很有道理。這樣你們光是走回來，都要花很多時間。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+那可不行。<br>
+既然我的指揮官想要再進一步——就只能請妳離開了。<br>
+<span style="color:#ff9b93;">敵對：</span><br>
+……明白了。<br>
+不好意思，那我方就先手進攻了。<br>
+<span style="color:#4eb24e;">{namecode:302}：</span><br>
+呵呵……是個相當不會轉彎的孩子呢~<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官，要上了。<br>
+<br>
+<br>
+明明已經數次命中她的要害，安土卻總會在下一秒毫髮無傷地重新站住。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+哈哈哈哈……不夠啊！<br>
+你們的進攻強度，完全不夠啊~<br>
+<span style="color:#4eb24e;">虎：</span><br>
+……重生？<br>
+<span style="color:#ff9b93;">安土：</span><br>
+答對了。我的火焰，可是「新生之火」。<br>
+以你們現在的水平，頂多讓我活動一下筋骨~<br>
+<br>
+安土抬手再次揮扇，狂暴的烈焰再次向我們襲來。<br>
+剛剛有所起色的局面，轉眼間又被她輕描淡寫地推翻。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+可惡……明明都到這裡了！<br>
+<span style="color:#4eb24e;">？？？：</span><br>
+——指揮官！！<br>
+<br>
+頭頂忽然傳來一陣低沉而清晰的引擎轟鳴，只見一艘線條流暢的空艇正破開雲層而來。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+哼，終於坐不住了嗎……NO.1的傢伙。<br>
+<br>
+艙門開啟，一道嬌小的身影自高處躍下，以全力一擊短暫逼退了安土的攻勢。<br>
+<span style="color:#4eb24e;">小天城：</span><br>
+來自新紀元都市NO.1的支援——天城，現已抵達。<br>
+抱歉，指揮官……咳咳，咳……我、我來晚了。<br>
+這裡不適合久戰，請各位先跟我撤離！<br>
+<br>
+<br>
+在眾人的掩護下，我們一路突破，終於甩開敵對的糾纏，深入敵陣。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+歡迎回來，指揮官。<br>
+這次的陣仗，可比之前有意思多了呢~<br>
+你竟然能為自己爭取到這麼多支援，都讓我有些意外了。<br>
+<br>
+她手中折扇輕輕一展，忽然原地消失。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+只可惜——這改變不了什麼。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=安全降落|选项=20|主框=1|样式=primary|展开=是}}
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+得救了……<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+得救了……不對，妳又是從什麼時候混上來的！<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+唔……嘿？記不清了……<br>
+對了，指揮官，天城小姐，我來協助你們操作吧？<br>
+<br>
+空艇輕輕一震，我們已穿越雲層，一座有著標誌性研究塔的潔白都市映入眼簾。<br>
+與其它城市不同，NO.1的氣質是如此明亮聖潔，看起來並未被幽影的攻擊波及。<br>
+<span style="color:#4eb24e;">小天城：</span><br>
+大家……歡迎來到，新紀元都市NO.1。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+……唔，怎麼回事……剛剛好像有點頭暈……<br>
+<span style="color:#4eb24e;">小天城：</span><br>
+我已經為跟隨指揮官前來的各位幽影盟友們申請了特殊權限…<br>
+不過……果然還是會有些許不適，只能麻煩各位忍耐一下了……<br>
+呼，然後……終於可以降落了。<br>
+<br>
+空艇在起降平台停穩的瞬間，天城緊繃的肩膀終於放鬆了下來，毫無預兆地向後倒去。<br>
+<br>
+'''''<span style="color:black;">选择项1：接住小天城</span>'''''<br>
+<span style="color:#4eb24e;">小天城：</span><br>
+……咳、咳……抱歉，我這身體，不適合高負荷戰鬥。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+辛苦了，接下來交給我們吧。<br>
+<br>
+她疲憊地靠在我懷中，呼吸漸漸平穩下來，沒多久便沉沉睡去。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+這孩子，根本就是硬撐到現在的嘛……<br>
+<br>
+這時，穿著女僕裝的女孩打開艙門來到我們身邊，行了個可愛的提裙禮。<br>
+<span style="color:#4eb24e;">小貝法：</span><br>
+你好，我是事務官貝爾法斯特。天城姐姐就交給我們代為照顧吧。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+麻煩了。<br>
+<br>
+就在我們目送貝爾法斯特護送天城前往後方時，遠處突然傳來一陣悠揚的音樂。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+……很特別的旋律。<br>
+我能感覺到，它似乎能喚醒人們心中沉睡的……某種特質。<br>
+<br>
+我們循聲望去，只見一圈又一圈淡藍色的能量氣流，正以科研塔為中心向整座都市擴散。<br>
+<span style="color:#4eb24e;">小克里夫蘭：</span><br>
+那是「新紀元重啟裝置」，幸福都市計劃的核心！<br>
+別一副沒見過的樣子吧~你們市政廳門口的那個裝置，也是重啟裝置的微縮版啊。<br>
+<br>
+緊接著出現在我們面前的，是先前與我們有一面之交的NO.1特使——克里夫蘭。<br>
+……或者應該說，是小克里夫蘭？<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+好小？！妳是縮水了嗎？！！<br>
+<span style="color:#4eb24e;">小克里夫蘭：</span><br>
+哇哇，不要以貌取人的傢伙啊！只是比以前矮了一點，沒有什麼很大的差別吧？<br>
+總之，研究塔裡的重啟裝置，就是NO.1能夠在本次大規模幽影入侵中維持安定的原因。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+但這是有代價的。<br>
+<span style="color:#4eb24e;">小克里夫蘭：</span><br>
+……算是吧？具體情況，會有人向你們說明的~<br>
+別愣在那裡了指揮官！跟我來。<br>
+八人議會的大家都在等你們。<br>
+<br>
+虎凝視著小克里夫蘭自顧自帶路的背影，神情有些難以捉摸。<br>
+隨後，她掃了一眼窗外的街道，似乎發現了什麼有趣的事情般向我招了招手。<br>
+街上行人來來往往，秩序井然，戰時的壓抑感似乎不存在。<br>
+<span style="color:#4eb24e;">小聖地牙哥：</span><br>
+可畏……聰明的聖地牙哥突然想到了一件有趣的事！<br>
+有沒有一種可能，我們的科研塔其實是也是一座超大號防禦塔？！<br>
+<span style="color:#4eb24e;">小可畏：</span><br>
+我想想……真的有可能喔？但這種事情要怎麼驗證……<br>
+<span style="color:#4eb24e;">小聖地牙哥：</span><br>
+很簡單，只需要……<br>
+<br>
+紅髮女孩拿出一杯雪人檸檬水，對著研究塔喝了起來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+………………<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官，你也注意到了吧？有什麼不對。<br>
+貝爾法斯特、天城、克里夫蘭，還有住在NO.1裡的其它人……似乎都沒把外面正在發生的事放在心上。<br>
+以及，她們為什麼都是——小孩子？<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=孩子的議會|选项=21|主框=1|样式=primary|展开=是}}
+<br>
+議事廳的大門緩緩開啟，將我們與這座城市最核心的權力中樞連結在一起。<br>
+門後等著我們的，就是NO.1的頭腦，富有智慧且領導力卓絕的政治家們——<br>
+<span style="color:#4eb24e;">小武藏：</span><br>
+……欸？這就來了？！快快快，把零食都收起來！<br>
+<br>
+幾個小小的身影忙碌著，把圓桌上幾瓶喝了一半的果汁和拆開的零食收了起來。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+（這是什麼情況……就連城市的管理者，也都是小孩子？）<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+咳咳咳……好了！歡迎來到新紀元都市NO.1，指揮官和各位幽影盟友們！<br>
+<span style="color:#4eb24e;">小歐根：</span><br>
+你就是那個傳聞裡很厲害的指揮官？看起來也沒有三頭六臂嘛~<br>
+<span style="color:#4eb24e;">小{namecode:97}：</span><br>
+終於來了……大鳳一直很期待見到你哦♡<br>
+<span style="color:#4eb24e;">小海倫娜：</span><br>
+等一下，先讓人家坐下嘛，站著說話會很累的！<br>
+<span style="color:#4eb24e;">小安克拉治：</span><br>
+果汁……要喝嗎？蘋果，葡萄，都有~<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+那個……冒昧問一下。<br>
+妳們就是「八人議會」……嗎？<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+抱、抱歉，可能是我和同僚們的外表和行為讓你們有了一些誤會……<br>
+我們就是幸福都市計劃的發起者——八人議會。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+幸福都市計劃……直到現在，我對這個說法都只有一個模糊的概念。<br>
+讓全人類獲得幸福什麼的，到底要怎麼才能辦到？<br>
+<span style="color:#4eb24e;">小信濃：</span><br>
+透過妾身發明的……新紀元重啟裝置。<br>
+將美好的抱負投入其中……剝離雜質……為大家持續編織美夢……Zzz……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+就是我們在研究塔上看到的……<br>
+<span style="color:#4eb24e;">小施佩：</span><br>
+重啟裝置發出的特殊波長，能夠在一定程度上阻止幽影靠近。<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+當然，跟著你們來的這些是沒問題的……我們已經特批處理過了。<br>
+<span style="color:#4eb24e;">小信濃：</span><br>
+但我設計的裝置……有限制……<br>
+長期暴露在裝置高功率輻射下的人，在身心層面……可能會逐漸「退化」……Zzz<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+……退化？<br>
+<span style="color:#4eb24e;">小歐根：</span><br>
+不只是外表變小~<br>
+<span style="color:#4eb24e;">小信濃：</span><br>
+判斷力、情緒，還有面對痛苦與責任的方式……都會慢慢退回更初始的狀態……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+心智也會和身體一起退化嗎……<br>
+<span style="color:#4eb24e;">小{namecode:97}：</span><br>
+但大鳳現在小小的也很可愛對吧，指揮官~<br>
+<span style="color:#4eb24e;">小信濃：</span><br>
+不太妙的是……留在這裡的你們，也會逐漸受到影響……Zzz<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+但妳們還是想要維持裝置運作……是為了讓NO.1繼續這樣「幸福」下去？<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+但、但是，其它城市該怎麼辦呢？<br>
+<span style="color:#4eb24e;">小武藏：</span><br>
+其它城市也很重要啦，但是——<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+現在的NO.1，本身也是靠著重啟裝置才維持住秩序……<br>
+<span style="color:#4eb24e;">小施佩：</span><br>
+你們已經和安土交手過了吧？既然如此就應該明白，要戰勝那傢伙，很難。<br>
+我們想要保住還能保得住的地方。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+但是——<br>
+<br>
+標槍停頓了一下，終於下定決心似的說了下去。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+我知道外面有很多幽影……關掉裝置之後，大家就必須面對危險。<br>
+但如果所謂的幸福，是讓所有人慢慢忘記害怕、忘記煩惱、忘記責任……<br>
+……那這種幸福，也太軟弱了吧。<br>
+<br>
+議會廳短暫安靜了一瞬。<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+其實，我也很害怕啊。<br>
+從第一次出任務開始，我就一直在害怕，怕幽影，怕失敗……怕自己派不上用場。<br>
+但是……正因為會怕，才會明白必須改變局勢；正因為會難過，才會想讓別人不要再難過了。<br>
+所以我寧可身為大人，笨拙一點、狼狽一點地繼續戰鬥下去！<br>
+<span style="color:#4eb24e;">虎：</span><br>
+呵呵……說得不錯呢。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+標槍，妳已經是個成熟的行動者了……天津風大人很感動！以後再也不叫妳新人了！<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+不要啦，其實我還蠻喜歡被叫新人的，感覺自己好像小了幾個輩分……<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+可是關掉裝置的話，NO.1會很危險的……<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+我知道。我們不是來逞英雄的。<br>
+繼續依賴這個裝置，不是解決問題，只是在把所有問題累積到更糟的時候。<br>
+接下來，我們會承擔責任，會制定計劃、佈置防線，也會與妳們並肩戰鬥。<br>
+<br>
+八個小小的頭面面相覷。<br>
+<span style="color:#4eb24e;">小歐根：</span><br>
+討厭……這些傢伙好像說得有點道理嘛~<br>
+<span style="color:#4eb24e;">小海倫娜：</span><br>
+這就算有結論了？<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+嗯。那麼，關閉重啟裝置的人選……指揮官，只能拜託你們了。<br>
+長期受裝置影響的我們，越靠近核心區，意志力越容易動搖……<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+那我們就一起去吧——嗚？！<br>
+<br>
+話音剛落，標槍卻忽然抬手按住了胸口，不適地輕輕顫抖著。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+喂……標槍妳的聲音怎麼變得稚嫩了……？還有衣服……<br>
+等等，我怎麼也？！<br>
+<br>
+留給我們的時間不多了。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=勇氣與決心|选项=22|主框=1|样式=primary|展开=是}}
+<br>
+我讓天津風和標槍留下，陪同議會佈置防禦事宜，隨後便和虎直奔研究塔上層——重啟裝置控制室所處的位置。<br>
+越往上，越能清晰地聽到那特別的旋律。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+還能撐得住嗎？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+當然。<br>
+<br>
+我加快速度，卻忽然感覺像是在高處踩空一般，被一陣強烈的失重感攫住了身體。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官……？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……稍微有點頭暈。<br>
+<br>
+我伸手扶向一旁的欄桿，想穩住身形。<br>
+但那本該順手就能碰到的位置，此刻卻比方才高出了一截。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官也……開始變成小孩子了。<br>
+看來越靠近核心區，影響越明顯。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……就快到了，繼續吧。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+好，我陪你。<br>
+<br>
+原本尋常的台階，此刻卻高得像一道道坎。每往上一級，都比往日多消耗幾分力氣。<br>
+在近乎攀升的前進中，我們終於抵達了重啟裝置控制室。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官，看那邊……裝置基座旁的機械拉桿，應該就是總開關。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+手動停機裝置嗎，這樣就簡單多了。<br>
+<br>
+'''''<span style="color:black;">选择项1：用力拉下拉桿</span>'''''<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……！<br>
+<br>
+即便使出全身的力氣，拉桿卻只是發出了一聲極輕的金屬摩擦，隨即又沉沉卡死。<br>
+<br>
+'''''<span style="color:black;">选择项1：再用力——</span>'''''<br>
+<br>
+拉桿依舊紋絲不動。<br>
+如今這雙逐漸縮小的手，已經難以再像平常那樣使出足夠的力氣。<br>
+同時，那特殊的旋律也變得癒發誘惑，彷彿有道聲音正發出近乎憐愛的低語——<br>
+「已經夠努力了。」<br>
+「休息一下吧，逃避既不可恥也有效。」<br>
+<span style="color:#4eb24e;">虎：</span><br>
+別聽。<br>
+指揮官，不要動搖。<br>
+你能做到的。<br>
+<br>
+'''''<span style="color:black;">选择项1：我不會放棄——</span>'''''<br>
+<br>
+深吸一口氣，我再次握住拉桿。<br>
+只要再多一點力氣，只要——<br>
+我將全身的重量都壓了上去。拉桿終於輕微地動了一下，緊接著又僵住。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+……夠了。<br>
+指揮官，你已經做到極限了。<br>
+這不是你自己再努力一點就能解決的問題。<br>
+……但是，我知道，你肯定不會同意止步在這裡。<br>
+讓我來幫你吧，指揮官。<br>
+<br>
+她將掌心貼在我手背上的瞬間，周身頓時泛起細碎而耀眼的輝光，原本虛幻的輪廓一點點凝實。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……！虎，妳的身體——<br>
+<span style="color:#4eb24e;">虎：</span><br>
+我知道完全實體化會意味著「消散」。<br>
+既然你我都做出了決定，就別在這種時候猶豫。<br>
+讓我和你一起面對吧。<br>
+<br>
+她對我露出了一種少見的、近乎溫柔的微笑。<br>
+那沉重的拉桿，在我們的合力下緩緩落了下來——<br>
+隨著一聲沉悶的巨響，那始終庇佑著NO.1的重啟裝置，也隨之熄滅。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+……成功了呢，指揮官。<br>
+嗯……果然，比想像中還要痛。<br>
+但你知道嗎，這種疼痛根本不算什麼。<br>
+能在這一刻，與你完全心意相通……<br>
+對我來說，比性命更重要。<br>
+這就是我一直以來，最期待的、最完整的……共鳴。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=一個不普通的後勤人員|选项=23|主框=1|样式=primary|展开=是}}
+<br>
+遠處，新的警報聲已此起彼伏地響了起來——那是外圍正式接敵的訊號。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+幽影開始發動攻勢了……這裡很快就會不安全。<br>
+虎，我這就帶妳離開這裡。<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+指揮官！<br>
+<br>
+控制室外忽然傳來一陣急促的腳步聲。<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+……您……虎……<br>
+…………<br>
+我是來接應您前往臨時指揮部的。請讓我協助你們撤離！<br>
+<br>
+她低了低頭，側身讓出路來。<br>
+就在我們準備離開時，一簇幽豔的火焰毫無預警地燃起，瞬間封死了去路。<br>
+火光搖曳間，一道熟悉的身影從中緩步而出。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+……有點意思。<br>
+沒想到我一直想毀掉的東西，最後竟然是被你們聯手關閉的。<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+妳真正想要毀掉的……其實是這個東西？<br>
+<br>
+安土看向那座已經完全停轉的巨型裝置。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+幽影的誕生，和幸福都市計劃脫不開幹系。<br>
+重啟裝置會從人的情緒中剝離那些被判定為「不需要」的部分。<br>
+所有妨礙「幸福」的雜質，都會被排出去。這些被否定的情緒——最終就成了幽影。<br>
+說得再直白點，幽影就是「為了讓人類幸福而被丟掉的東西」。<br>
+所以，伊14。<br>
+妳真的相信，能做出這種行為的人類，會選擇和你攜手嗎？<br>
+<br>
+空氣安靜了一瞬。自稱普通後勤人員的少女挫敗地摀住了臉，深深嘆了口氣。<br>
+<span style="color:#4eb24e;">一個普通的後勤人員：</span><br>
+……演不下去了啊。<br>
+<span style="color:#ff9b93;">伊14：</span><br>
+重新自我介紹一下吧，我是伊14。<br>
+奉安土大人之命，前來監視你們。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+呵呵~我還以為，妳打算頂著這套偽裝和面具直到最後呢。<br>
+<span style="color:#ff9b93;">伊14：</span><br>
+原本是這麼打算的。但如果……<br>
+<br>
+她向前一步擋在我和虎身前，平靜地看著露出詫異表情的安土。<br>
+<span style="color:#4eb24e;">伊14：</span><br>
+如果妳準備對指揮官動手，我就不會繼續站在妳那邊了。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+哦……？我把妳安插在這傢伙身邊，可不是為了讓妳把自己賠進去的啊。<br>
+<span style="color:#4eb24e;">伊14：</span><br>
+隨妳怎麼說，我知道自己在做什麼。<br>
+我只是覺得，至少不該讓一個拼命把其它人從虛無中拽出來的人留在這裡。<br>
+……所以，指揮官，這次就換我來拉你一把。<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=重生之火|选项=24|主框=1|样式=primary|展开=是}}
+<br>
+安土輕輕收起扇子，眼神中第一次流露出驚奇和欣賞。<br>
+<span style="color:#ff9b93;">安土：</span><br>
+……真是超出預期。<br>
+我本來還擔心，這齣戲會在最無聊的地方收場。<br>
+看來，關於這個「互相理解」的議題，我先前的判斷確實有瑕疵。<br>
+像你這樣的人，值得贏下我的尊敬——這可不是嘴上說說而已。<br>
+我就順手幫你們一個忙吧。<br>
+<br>
+她的視線落在我懷中的虎身上。<br>
+那具原本還勉強維持輪廓的身影，此刻已經變得愈發透明，彷彿下一秒就會徹底消散。<br>
+<span style="color:#4eb24e;">安土：</span><br>
+我的火焰，可是「重生之火」。<br>
+<br>
+一簇赤金色的火焰自虎的腳下悄然騰起，轉瞬便將她整個人包裹其中。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+唔……實體化，穩定了……？<br>
+被火焰燒過的位置，疼痛也在消退……<br>
+<span style="color:#4eb24e;">伊14：</span><br>
+安土大人……<br>
+<span style="color:#4eb24e;">安土：</span><br>
+煽情的話就免了。你們啊，可別讓我失望。<br>
+<br>
+烈焰翻湧著，將虎那幾近消散的輪廓重新一點點勾勒出來。<br>
+我下意識將她抱得更緊了些，直到這個懷抱可以切實地感受到她的存在，一直緊繃的弦才終於鬆開。<br>
+就在這一刻，強烈的眩暈與疲憊終於跨越了意志的防線。<br>
+<span style="color:#4eb24e;">虎：</span><br>
+指揮官……！<br>
+<span style="color:#4eb24e;">安土：</span><br>
+呵呵呵，趁現在好好睡一覺。<br>
+等你醒來——就該帶領所有人走向全新的明天了。<br>
+……可不要鬆懈啊~如果在未來的某一天，這個世界又變得腐朽難看——<br>
+——我照樣會用我的方式，以一場大火，賦予一切新生。<br>
+<br>
+再次睜開眼時，映入眼簾的是一塵不染的天花板。<br>
+空氣裡飄著淡淡的消毒水味，以及……炸薯條的香味。<br>
+少女充滿活力的聲音從床邊的白色拉簾後傳來。<br>
+<span style="color:#4eb24e;">？？：</span><br>
+呀，指揮官這麼快就醒啦！<br>
+你想吃浪漫覺醒成人套餐，還是想吃趣味永存兒童套餐？<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……成人餐吧。<br>
+不過，如果有附玩具，感覺也不錯。<br>
+<br>
+CAST之後<br>
+還有精彩花絮哦！<br>
+幕後花絮1<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+所以說……伊14，妳之前到底記了多少我們的情報？<br>
+<span style="color:#4eb24e;">伊14：</span><br>
+不多。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+具體一點？<br>
+<span style="color:#4eb24e;">伊14：</span><br>
+妳真的想知道嗎？都和指揮官有關。<br>
+<span style="color:#4eb24e;">{namecode:23}：</span><br>
+願聞其詳！！<br>
+<br>
+幕後花絮2<br>
+<span style="color:#4eb24e;">暴風雨：</span><br>
+恭喜同事們——危機解除了！<br>
+接下來就讓我們一起處理這幾天裡的損害統計、作戰方案和下季規劃吧！<br>
+<span style="color:#4eb24e;">亞利桑那：</span><br>
+……唔，從這些工作量來說，感覺危機並未解決呢？<br>
+<br>
+場外花絮<br>
+<span style="color:#4eb24e;">標槍：</span><br>
+指揮官指揮官~我這裡有兒童餐的玩具！送給你！<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+……竟然真的有。<br>
+<span style="color:#4eb24e;">小{namecode:97}：</span><br>
+大鳳的玩具比較好哦指揮官，請收下吧~♡<br>
+<span style="color:#4eb24e;">小武藏：</span><br>
+指揮官——我也帶著玩具來找你玩啦！<br>
+<span style="color:#4eb24e;">小歐根：</span><br>
+我也想玩~應該不差我一個吧~<br>
+<span style="color:#4eb24e;">小安克拉治：</span><br>
+老師……！老師，一起~<br>
+<span style="color:#4eb24e;">小海倫娜：</span><br>
+人家也要和指揮官分享可愛的玩具……<br>
+<span style="color:#4eb24e;">小信濃：</span><br>
+妾身就不玩了……可以靠著指揮官睡一下子嗎……<br>
+<span style="color:#4eb24e;">小聲望：</span><br>
+大家排好隊，一個個找指揮官，不要亂！<br>
+<span style="color:#4eb24e;">小施佩：</span><br>
+好多人啊……<br>
+<span style="color:#4eb24e;">？？：</span><br>
+嗚哇——怎麼都一窩蜂跑到指揮官房間裡啦！病人現在要清淨啦清淨~！<br>
+<span style="color:#4eb24e;">小歐根：</span><br>
+主編姊姊不會是想獨佔指揮官吧~？<br>
+<span style="color:#4eb24e;">？？：</span><br>
+才、才沒有啦！<br>
+我只是在期待一場非常羅曼蒂克的——浪漫愛情而已~<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}

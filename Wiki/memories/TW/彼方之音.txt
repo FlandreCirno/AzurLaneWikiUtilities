@@ -233,29 +233,29 @@
 {{折叠面板|标题=有限援助|选项=5|主框=1|样式=primary|展开=是}}
 <br>
 鋼鐵鑄就的高樓中，少女眺望著窗外的無垠純白，將面前的飲品一飲而盡。<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 呼……居然是橘子汽水，沒想到妳竟然會準備正常人能喝的東西。<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 感動了？<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 稍微有點。<br>
 不過更令我在意的是這棟大樓，妳怎麼修起來的？<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 這是仲裁機關的機密哦。<br>
 再說了，這裡總是一片白，待久了妳不覺得煩嗎？<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 所以我很少來。<br>
 好了，談正事。妳叫我來此見面有什麼事？<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 其實主要也不是我想找妳，受人所託罷了。<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 ……妳？……受人所託？<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 是啊。因為……我遇到了一個可憐人……<br>
 一個……噗哈哈哈哈……！<br>
 一個不但自己的計畫沒搞成，還被打到連基地都要從頭開始建造的人……！<br>
 我路過看到了覺得實在太好笑，忍不住就幫了個忙。<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 ……妳究竟在說什麼？<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 算了算了，我打過去，妳還是自己來聽吧。<br>
@@ -263,13 +263,13 @@
 滴——<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 喲~水星紀念，我幫妳找到人了，有什麼事妳說吧。<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 ……水星紀念？<br>
 呃……聽迪貝路的描述，妳的計畫進展似乎不太順利？<br>
 <span style="color:#ffc960;">水星紀念·META：</span><br>
 何止是「不太順利」？！<br>
 妳給的都是什麼鬼情報？！跟實際情況完全不一樣！！！<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 嗯……？<br>
 奇怪……我經過「窺視」後，所得到的情報就是如此。<br>
 雖然預想過會有些偏差，但完全不同……？<br>
@@ -277,20 +277,20 @@
 具體有哪些不同？<br>
 <span style="color:#ffc960;">水星紀念·META：</span><br>
 那可太多了——我懶得說，妳自己過來看！<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 很不巧，我這邊有一件重要的事要優先處理，「祂」也非常在意，所以抽不開身呢。<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 妳說的難道是不久前的那陣空間波動？<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 妳也感受到了啊。<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 我還被呼叫去支援了呢~<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 那妳會去嗎？<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 正在考慮中~要是妳也去的話，能不能讓我搭順風車？<br>
 畢竟那麼遠的地方，我自己過去得費一番功夫呢。<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 也好，那就這麼定了。<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 嗯嗯，就這麼定了~<br>
@@ -303,16 +303,16 @@
 別擔心，別擔心~堅定守住，就有辦法！<br>
 <span style="color:#ffc960;">水星紀念·META：</span><br>
 ……哈啊？這話妳自己信嗎？！<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 咳……水星紀念。我認為憑藉妳出色的能力，就算身處逆境之中，妳也一定能妥善應對的。<br>
 等處理完那邊的事，我就去幫妳。<br>
 <span style="color:#ffc960;">水星紀念·META：</span><br>
 「等處理完」……是要等多久啊——！<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 嗯……待定。<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 看來妳們已經聊得差不多了？那我就把通訊切斷囉？<br>
-<span style="color:#bdbdbd;">{namecode:522}：</span><br>
+<span style="color:#bdbdbd;">旗風·META：</span><br>
 嗯，斷了吧。該聊我們的正事了。<br>
 <span style="color:#4eb24e;">仲裁者·迪貝路·XV：</span><br>
 那麼，通訊結束~<br>

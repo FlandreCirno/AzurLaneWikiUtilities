@@ -143,6 +143,7 @@ p.equip_data = {
 	nationality = 4,
 	sub_equips = {
 		{	tech = 2, rarity = 4, id = 800	};
+		{	tech = 3, rarity = 5, id = 151160	};
 	}
 };
 {
@@ -919,6 +920,15 @@ p.equip_data = {
 	}
 };
 {
+	id = 5680,
+	name = "试作型三联装550mm鱼雷改（弹药调整）",
+	type = 5,
+	nationality = 8,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 5680	};
+	}
+};
+{
 	id = 6000,
 	name = "12.7mm防空机枪",
 	type = 6,
@@ -1588,6 +1598,15 @@ p.equip_data = {
 	nationality = 1,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 11260	};
+	}
+};
+{
+	id = 11280,
+	name = "试作型双联装127mm高平两用炮Mk16",
+	type = 1,
+	nationality = 1,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 11280	};
 	}
 };
 {
@@ -3191,12 +3210,253 @@ p.equip_data = {
 	}
 };
 {
+	id = 15320,
+	name = "荣誉与崇高之剑",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15320	};
+	}
+};
+{
+	id = 15340,
+	name = "王牌的决胜左轮",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15340	};
+	}
+};
+{
+	id = 15360,
+	name = "海盗英雄的剑枪组合",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15360	};
+	}
+};
+{
+	id = 15380,
+	name = "黑尾鲹的潜水镜",
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15380	};
+	}
+};
+{
+	id = 15400,
+	name = "幸运鹤的打刀",
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15400	};
+	}
+};
+{
+	id = 15420,
+	name = "蝴蝶结铃铛警报器",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15420	};
+	}
+};
+{
+	id = 15440,
+	name = "贵公主的命令",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15440	};
+	}
+};
+{
+	id = 15460,
+	name = "四o式战术刀",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15460	};
+	}
+};
+{
+	id = 15480,
+	name = "白之契约",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15480	};
+	}
+};
+{
 	id = 15500,
-	name = "PBY-5A卡特琳娜水上机",
-	type = 10,
-	nationality = 1,
+	name = "波拉的护手刺剑",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
 	sub_equips = {
 		{	tech = 0, rarity = 4, id = 15500	};
+	}
+};
+{
+	id = 15520,
+	name = "十分OK！",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15520	};
+	}
+};
+{
+	id = 15540,
+	name = "皇家骑士剑",
+	type = 102,
+	ship_type = 5,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15540	};
+	}
+};
+{
+	id = 15560,
+	name = "完美之帽",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15560	};
+	}
+};
+{
+	id = 15580,
+	name = "粒子存储器",
+	type = 102,
+	ship_type = 7,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15580	};
+	}
+};
+{
+	id = 15600,
+	name = "冰结流星锤",
+	type = 102,
+	ship_type = 3,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15600	};
+	}
+};
+{
+	id = 15620,
+	name = "绯红蝶语",
+	type = 102,
+	ship_type = 8,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15620	};
+	}
+};
+{
+	id = 15640,
+	name = "女仆的爱之铁拳",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15640	};
+	}
+};
+{
+	id = 15660,
+	name = "咕咕~咕咕~",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15660	};
+	}
+};
+{
+	id = 15680,
+	name = "航海家的秘典",
+	type = 102,
+	ship_type = 22,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15680	};
+	}
+};
+{
+	id = 15700,
+	name = "GB的淑女帽",
+	type = 102,
+	ship_type = 1,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15700	};
+	}
+};
+{
+	id = 15860,
+	name = "引航者之杖",
+	type = 102,
+	ship_type = 23,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15860	};
+	}
+};
+{
+	id = 15880,
+	name = "沉默巨镰",
+	type = 102,
+	ship_type = 22,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15880	};
+	}
+};
+{
+	id = 15900,
+	name = "命运的选择",
+	type = 102,
+	ship_type = 24,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15900	};
+	}
+};
+{
+	id = 15920,
+	name = "来自深海",
+	type = 102,
+	ship_type = 23,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15920	};
+	}
+};
+{
+	id = 15940,
+	name = "试炼之枪",
+	type = 102,
+	ship_type = 24,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15940	};
 	}
 };
 {
@@ -3705,6 +3965,16 @@ p.equip_data = {
 	}
 };
 {
+	id = 22300,
+	name = "双联装152mm主炮Mk.XXVI",
+	type = 2,
+	nationality = 2,
+	sub_equips = {
+		{	tech = 0, rarity = 6, id = 22320	};
+		{	tech = 3, rarity = 5, id = 22300	};
+	}
+};
+{
 	id = 23000,
 	name = "双联装203mm主炮",
 	type = 3,
@@ -3820,6 +4090,15 @@ p.equip_data = {
 	nationality = 2,
 	sub_equips = {
 		{	tech = 0, rarity = 6, id = 24400	};
+	}
+};
+{
+	id = 24420,
+	name = "试作型三联装419mm主炮MK.I",
+	type = 4,
+	nationality = 2,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 24420	};
 	}
 };
 {
@@ -4338,6 +4617,15 @@ p.equip_data = {
 	}
 };
 {
+	id = 31320,
+	name = "试作型五式127mm连装炮",
+	type = 1,
+	nationality = 3,
+	sub_equips = {
+		{	tech = 0, rarity = 6, id = 31320	};
+	}
+};
+{
 	id = 32000,
 	name = "140mm单装炮",
 	type = 2,
@@ -4582,6 +4870,15 @@ p.equip_data = {
 	nationality = 3,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 35260	};
+	}
+};
+{
+	id = 35280,
+	name = "试作型四联装610mm鱼雷（巡洋用）",
+	type = 5,
+	nationality = 3,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 35280	};
 	}
 };
 {
@@ -5529,6 +5826,15 @@ p.equip_data = {
 	}
 };
 {
+	id = 48060,
+	name = "FW-190 F-8/U2",
+	type = 8,
+	nationality = 4,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 48060	};
+	}
+};
+{
 	id = 49000,
 	name = "Ju-87C俯冲轰炸机",
 	type = 9,
@@ -5546,6 +5852,15 @@ p.equip_data = {
 	nationality = 4,
 	sub_equips = {
 		{	tech = 0, rarity = 3, id = 49060	};
+	}
+};
+{
+	id = 49080,
+	name = "试作舰载型Ta 152C-1/R14",
+	type = 9,
+	nationality = 4,
+	sub_equips = {
+		{	tech = 0, rarity = 6, id = 49080	};
 	}
 };
 {
@@ -5783,6 +6098,42 @@ p.equip_data = {
 	nationality = 7,
 	sub_equips = {
 		{	tech = 0, rarity = 6, id = 85800	};
+	}
+};
+{
+	id = 85820,
+	name = "I-15",
+	type = 7,
+	nationality = 7,
+	sub_equips = {
+		{	tech = 0, rarity = 3, id = 85820	};
+	}
+};
+{
+	id = 85840,
+	name = "试作舰载型Yak-1",
+	type = 7,
+	nationality = 7,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 85840	};
+	}
+};
+{
+	id = 85860,
+	name = "试作舰载型Yak-3",
+	type = 7,
+	nationality = 7,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 85860	};
+	}
+};
+{
+	id = 85880,
+	name = "试作舰载型Yak-7",
+	type = 7,
+	nationality = 7,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 85880	};
 	}
 };
 {
@@ -6292,6 +6643,24 @@ p.equip_data = {
 	}
 };
 {
+	id = 90640,
+	name = "双联装100mm高炮Mle1937",
+	type = 6,
+	nationality = 8,
+	sub_equips = {
+		{	tech = 3, rarity = 4, id = 90640	};
+	}
+};
+{
+	id = 90660,
+	name = "双联装100mm高炮Mle1945",
+	type = 6,
+	nationality = 8,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 90660	};
+	}
+};
+{
 	id = 90700,
 	name = "138.6mm单装炮Mle1927",
 	type = 1,
@@ -6466,6 +6835,15 @@ p.equip_data = {
 	nationality = 8,
 	sub_equips = {
 		{	tech = 0, rarity = 3, id = 91380	};
+	}
+};
+{
+	id = 91400,
+	name = "试作型双联装127mm主炮Mle1948",
+	type = 1,
+	nationality = 8,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 91400	};
 	}
 };
 {
@@ -7217,6 +7595,78 @@ p.equip_data = {
 	nationality = 106,
 	sub_equips = {
 		{	tech = 0, rarity = 5, id = 151120	};
+	}
+};
+{
+	id = 151140,
+	name = "「审判号」启动钥匙",
+	type = 10,
+	nationality = 9,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 151140	};
+	}
+};
+{
+	id = 151180,
+	name = "搞笑担当",
+	type = 10,
+	nationality = 8,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 151180	};
+	}
+};
+{
+	id = 151200,
+	name = "名侦探之帽",
+	type = 10,
+	nationality = 1,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 151200	};
+	}
+};
+{
+	id = 151220,
+	name = "Error十三世",
+	type = 10,
+	nationality = 1,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151220	};
+	}
+};
+{
+	id = 151240,
+	name = "天风袋",
+	type = 10,
+	nationality = 3,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151240	};
+	}
+};
+{
+	id = 151260,
+	name = "员工通行卡",
+	type = 10,
+	nationality = 0,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 151260	};
+	}
+};
+{
+	id = 151280,
+	name = "双发实心弹",
+	type = 10,
+	nationality = 96,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 151280	};
+	}
+};
+{
+	id = 151300,
+	name = "海渊下的力量",
+	type = 10,
+	nationality = 96,
+	sub_equips = {
+		{	tech = 0, rarity = 5, id = 151300	};
 	}
 };
 {

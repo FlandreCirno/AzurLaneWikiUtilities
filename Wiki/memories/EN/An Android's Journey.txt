@@ -1,0 +1,147 @@
+== An Android's Journey ==
+{{折叠面板|开始}}
+{{折叠面板|标题=Prologue|选项=1|主框=1|样式=primary|展开=是}}
+<br>
+One day, the sirens blared again in the waters surrounding the Virtual Tower –<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Commander, we've received an alert from the Virtual Tower monitoring site. Reactivation activity has been detected!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+What's the affected range this time?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+It seems to be a 15 nautical mile radius. The area itself isn't particularly large, but the encryption strength within its boundaries has clearly increased.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+The encryption strength as well, you say?<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+This is the data sent from the tower's monitoring equipment just moments before losing contact.<br>
+According to the intel team's analysis, there appears to be a zone with unusually dynamic signals inside the Virtual Tower.<br>
+Its presence means that rapid changes are taking place inside the tower over short periods of time.<br>
+In this case, external data from another world is being used to create or replicate simulated environments.<br>
+Thanks to this, our intel team was able to identify that area as the epicenter of the anomaly.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Knowing who the culprit is will make our response more efficient. Is a direct intervention on the table?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Direct intervention will be possible until the cracking of the encrypted barrier at the maritime boundary is complete, and that process will likely take around fifteen hours.<br>
+I recommend that we work with the intel team to provide remote support through the remaining facilities inside the Virtual Tower.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+You're planning to crack the encryption barrier and infiltrate the tower on your own?<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Technically, no. Only limited intel be transmitted, allowing information-sharing regarding enemy weaknesses, data analysis, and wide-area hacking.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Right. If we can get the information to them quickly, they'll be able to take action too.<br>
+Memphis, please assemble the fleet. TB, I'd like you to get in touch with the intel team and provide support from here.<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Orders received. Allocating resources to the Virtual Tower monitoring site and preparing support –<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=NODE-A|选项=2|主框=1|样式=primary|展开=是}}
+<br>
+A2 suddenly finds herself walking alone down a metallic corridor. The corridor seems to stretch on endlessly, towering buildings lining the skies of the world through the windows.<br>
+//:AREA IDENTIFICATION: NODE-A-1<br>
+//:STAGE IDENTIFICATION: 1-7<br>
+//:ACCESS CODE: D.O.S.<br>
+A2: A trap? When did this happen...?<br>
+Somehow, A2 manages to reach a door at the end of the corridor. She examines the tightly-shut door and begins to search in her database for the "key" needed to proceed.<br>
+//:AREA IDENTIFICATION: NODE-A-2<br>
+//:STAGE IDENTIFICATION: 2-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: HELLO<br>
+A2: Might be easier to just bust this door down... Hmm? The access code just changed...?<br>
+The moment the door opens, the entire structure of the corridor begins to shift. In a room that had not been there a moment ago, A2 finds a map.<br>
+//:AREA IDENTIFICATION: NODE-A-3<br>
+//:STAGE IDENTIFICATION: 3-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: REVISEDMAP<br>
+A2: At a glance, this map seems pretty accurate... Does that mean an external force is trying to assist me? But who?<br>
+Using the map as a guide, A2 effortlessly navigates her way through the intricate network of corridors sprawling like blood vessels. In a room marked as a storage area for important supplies, she finds equipment she's never seen before.<br>
+//:AREA IDENTIFICATION: NODE-A-4<br>
+//:STAGE IDENTIFICATION: 4-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: UPGRADE<br>
+A2: This gear... Is it custom-made?<br>
+A2 notices that the map would update each time she reaches a special area. She can tell that by something specific: whether the access code has a meaning.<br>
+//:AREA IDENTIFICATION: NODE-A-5<br>
+//:STAGE IDENTIFICATION: 5-7<br>
+//:ACCESS CODE: DREAMWEAVER<br>
+A2: ...Androids don't dream.<br>
+Corridors lead to rooms, and rooms lead to more corridors. In this seemingly endless loop, only the changing access codes show that she's reached another area.<br>
+//:AREA IDENTIFICATION: NODE-A-6<br>
+//:STAGE IDENTIFICATION: 6-7<br>
+//:ACCESS CODE: UNKNOWN_UNDEFINED<br>
+A2: ...Looks like even the access code is giving up on me.<br>
+Just as A2 is beginning to lose patience with the map and considering abandoning the thing altogether, the room indicating an exit finally appears before her.<br>
+//:AREA IDENTIFICATION: NODE-A-7<br>
+//:STAGE IDENTIFICATION: 7-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: EXIT<br>
+A2: Am I finally out of this place? Appreciate the help. Now then, let's see what's happened to the outside world.<br>
+//:HAPPY ENDING<br>
+After the shimmering blue faded away, A2 finds herself face-to-face with a brand-new, unseen world.<br>
+"Your journey through the Virtual Tower has come to an end."<br>
+"However, the end of one journey is simply the start of the next. After all, the vast azure sea stretches out before you, and the endless blue sky awaits."<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Commander, the support operation has concluded. The individual within the tower is about to materialize in 3...<br>
+2...<br>
+1...<br>
+<span style="color:#4eb24e;">Memphis：</span><br>
+Commander, the visitor has escaped from the Virtual Tower!<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Another new guest from beyond the Virtual Tower, huh?<br>
+Let's be sure to show them our hospitality.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|标题=NODE-B|选项=3|主框=1|样式=primary|展开=是}}
+<br>
+2B finds herself standing at the water's edge. The sea and sky, close enough to touch, give off a sickly gray-blue hue, as if hinting at the dangers they conceal.<br>
+//:AREA IDENTIFICATION: NODE-B-1<br>
+//:STAGE IDENTIFICATION: 1-7<br>
+//:ACCESS CODE: MIRRORSEA<br>
+2B: My pod's not here... Is this... the ocean?<br>
+As expected, enemies begin to swarm forth one after the next. 2B takes note of these unfamiliar new enemy types while carefully maneuvering and fending off their attacks.<br>
+//:AREA IDENTIFICATION: NODE-B-2<br>
+//:STAGE IDENTIFICATION: 2-7<br>
+//:ACCESS CODE: EXECUTOR<br>
+2B: I don't think those enemies I just fought were machine lifeforms at all...<br>
+At the edge of a sandy beach looms a large door, materializing out of nowhere. Beyond the door is a sealed-off space. What appears to be combat gear of an unknown model number sits in the middle of the room, as if quietly waiting.<br>
+//:AREA IDENTIFICATION: NODE-B-3<br>
+//:STAGE IDENTIFICATION: 3-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: UPGRADE<br>
+2B: "Rigging"? This equipment... seems specialized for naval use. It does not appear to pose any danger to me.<br>
+As she dons her newly-acquired equipment, a bookshelf appears in the room as if in response, together with an imposing half-ajar doorway.<br>
+//:AREA IDENTIFICATION: NODE-B-4<br>
+//:STAGE IDENTIFICATION: 4-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: SKILLBOOK<br>
+2B: Offense, defense, and support... Skill books, huh? That makes sense. These must provide instructions for how to master this equipment.<br>
+The room she just left stretches out into another corridor, which then leads to another room. Beyond that, there are more corridors, then more rooms, as if never ending.<br>
+//:AREA IDENTIFICATION: NODE-B-5<br>
+//:STAGE IDENTIFICATION: 5-7<br>
+//:ACCESS CODE: VIRTUALTOWER<br>
+2B: ...I assume this is the interior of some megastructure.<br>
+After pushing through set after set of visually-indistinguishable doors, the gray-blue sea and skies finally come into view again.<br>
+//:AREA IDENTIFICATION: NODE-B-6<br>
+//:STAGE IDENTIFICATION: 6-7<br>
+//:ACCESS CODE: EXPERIMENTERSYSTEM<br>
+2B: The ocean again, huh... Extrapolating from previous trends, more enemies are likely to appear.<br>
+After the battle ends, 2B steps through another doorway into a room full of supplies. Inside is another open door, leading straight to a place with raging, roiling waves.<br>
+//:AREA IDENTIFICATION: NODE-B-2<br>
+//:STAGE IDENTIFICATION: 7-7<br>
+//:ACCESS CODE: ▇▇▇▇<br>
+//ACCESS CODE CHANGED: EXIT<br>
+2B: The exit, huh... It might be a trap, but escaping from this place takes top priority.<br>
+//:HAPPY ENDING<br>
+After the shimmering blue fades away, 2B finds herself face-to-face with a brand-new, unseen world.<br>
+"Your journey through the Virtual Tower has come to an end."<br>
+"However, the end of one journey is simply the start of the next. After all, the vast azure sea stretches out before you, and the endless blue sky awaits."<br>
+<span style="color:#4eb24e;">TB ：</span><br>
+Commander, the support operation has concluded. The individual within the tower is about to materialize in 3...<br>
+2...<br>
+1...<br>
+<span style="color:#4eb24e;">Helena：</span><br>
+Commander, the person-of-interest has appeared on the ocean.<br>
+<span style="color:#3498DB;" class="shikikanname">指挥官</span>：<br>
+Good. I wonder what stories they'll share with us this time.<br>
+Come, let's go and greet our guest.<br>
+{{折叠面板|内容结束}}
+
+{{折叠面板|结束}}
