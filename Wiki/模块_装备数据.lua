@@ -3410,6 +3410,26 @@ p.equip_data = {
 	}
 };
 {
+	id = 15720,
+	name = "骑士新星",
+	type = 102,
+	ship_type = 2,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15720	};
+	}
+};
+{
+	id = 15740,
+	name = "VF-50恶魔猫",
+	type = 102,
+	ship_type = 6,
+	nationality = 999,
+	sub_equips = {
+		{	tech = 0, rarity = 4, id = 15740	};
+	}
+};
+{
 	id = 15860,
 	name = "引航者之杖",
 	type = 102,
